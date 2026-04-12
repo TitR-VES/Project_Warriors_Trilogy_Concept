@@ -1,0 +1,54 @@
+Good, I have the full picture. Let me decode your idea and give you a proper response.
+
+---
+
+**Thread note first:** This is message 2 of this thread — we're fine for now, but I'll flag you at 20.
+
+---
+
+**Decoding what you said:**
+
+You want a new DLC centered on **La Avispa / Yelena Volkova** — exploring her backstory, her world in Los Sietes, the cartel underworld, and how all of that connects to the broader shadow infrastructure of the trilogy. Campaign-adjacent, standalone storyline, serving as connective tissue between the main campaigns and the DLC ecosystem.
+
+And the title question: **"Money or Lead"** — which is *Plata o Plomo* in Spanish — the Escobar-era ultimatum: bribe or bullet. You're asking whether to use the English version, and whether it's too on-the-nose given the Escobar cultural saturation.
+
+---
+
+**My read on the concept:**
+
+This is strong. Here's why it works structurally:
+
+La Avispa is one of the most dramatically loaded characters in the whole project — former FSB, burned, defected through four countries, rose inside a Mexican cartel through sheer competence, and her dynamic with Spook is one of the few genuinely unresolved emotional threads ("Ask me again."). A DLC built around her origin and her world fills a gap nothing else does: it's the *underworld layer* of the conspiracy — the money, the trafficking infrastructure, the dark money clearing houses — told from inside rather than from Spook's external vantage point.
+
+It also provides connective tissue for:
+- The Montoya Farm / Shadow Underground architecture
+- Los Sietes' role in the Goldberg extraction
+- The Bisutri / El Tiburón organizational structure
+- The favor La Avispa owes El Tiburón (terms undisclosed — perfect DLC thread to pull)
+
+**One flag:** Yelena is Russian playing a Mexican cartel identity. Her story is fundamentally about *who she became* after the FSB burned her — not about cartel life per se. The DLC needs to hold that tension. It shouldn't feel like a narco story wearing a Project Warriors skin. It should feel like a spy story that happens to live inside a cartel.
+
+---
+
+**On the title — "Money or Lead" vs *Plata o Plomo*:**
+
+Your instinct is right. *Plata o Plomo* is so thoroughly Escobar-coded (especially post-*Narcos*) that using it in Spanish as a DLC title would almost certainly read as a direct Escobar reference, which you don't want. It would set expectations the story can't and shouldn't meet.
+
+**"Money or Lead"** in English works better because:
+- It carries the meaning without the cultural baggage
+- It's slightly defamiliarized — you have to think for a second, which is good
+- It fits a character who is herself translated: Russian woman, Spanish cover, English title
+
+**My honest take:** "Money or Lead" is clean and evocative, but it might read slightly generic on a game shelf. It doesn't signal *spy thriller inside a cartel* — it signals *crime game*. You might want to push one step further.
+
+A possible alternative worth considering: **"Project Warriors: The Wasp"** — her callsign, her identity, her blade. Simple. Unambiguous protagonist framing. And "The Wasp" has its own menace without any Escobar association. Though I understand if you want the *Plata o Plomo* echo in the title — it does signal the moral world she operates in.
+
+Could also be a subtitle: **"Project Warriors: Money or Lead — A La Avispa Story"** if you want both.
+
+---
+
+**What's your call on:**
+1. La Avispa as confirmed protagonist (sole playable, like Grim in Sea Spear)?
+2. Title direction — "Money or Lead," "The Wasp," or something else?
+3. Timeline placement — before Spook meets her in Game 2, or overlapping with it?
+----------------------------------------------------------------------------------------------------

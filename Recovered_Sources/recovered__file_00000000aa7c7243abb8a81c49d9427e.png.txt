@@ -1,0 +1,8 @@
+Source image represented as text description rather than embedded binary.
+
+Description:
+- A black background logo with a strong red neon glow.
+- The central emblem is a symmetrical, angular mark in dark gray and bright red, resembling a stylized monogram or insignia.
+- Beneath the emblem, the visible text reads: "VIRTUAL ENTERTAINMENT SOFTWARE".
+- Overall impression: publisher / studio logo, high-contrast, glossy, synthetic, and dramatic.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,987 @@
+Fictional FPS campaign, pt. I
+Prompt:
+I am looking to write a fictional Call of Duty-style three-campaign fps storyline.
+The setting is a fictional present-day global conflict. The story is told through the intertwining storylines of the three playable main characters, each
+from a different background, and takes the player to a number of locations worldwide; from Frankfurt, Germany to Tokyo, Japan, southern Poland,
+the eastern Mediterranean, and US locations including Utah, the Pacific Northwest, downtown LA, and naval bases in southwestern California.
+The story centers on a conspiracy of a paramilitary group of unknown malicious actors that culminates in a catastrophic cyber attack on the US, and
+several Western-aligned countries across the world in which automated military air and ground drones systems are taken over and turned against the
+American citizens.
+The three campaigns show three different perspectives of the conflict:
+Campaign 1:
+Critter Squad
+LT Ramón "Romeo" Álvarez
+Fire Team Delta - US Army 75th Ranger Regiment
+Romeo, the Fire Team leader and his squad mates, callsigns Dingo, Howler, and Beaver, are deployed to eastern Poland to shore up defences at the
+eastern NATO border against an anticipated Russian invasion attempt.
+The ensuing cyber attack and turn of events sees Fire Team Delta escaping Russian encirclement near the southern border of Poland, evading drones,
+and moving through eastern Czech republic and Austria to Germany to regroup with US and NATO forces at Ramstein Air Base.
+Afterwards, Romeo and his squad are sent to team up with AEGIS Squad to protect classified geospatial intelligence infrastructure installations
+located at sites in the Faroe islands, deep in the French Alps, on the remote Greek island of Lemnos in the Aegean Sea, and near the West-Frisian
+town of Hinderloopen in the North of the Netherlands. In the final act of the campaign, command contacts Romeo over satellite phone and orders his
+squad to return stateside immediately to help defend the US West Coast from an amphibious invasion by what appears to be a coalition of Russian,
+North Korean, and Iranian forces. With all flights grounded due to the cyber attack, Fire Team Delta, with help from AEGIS Squad, make their way
+across the Breton countryside to the French Naval Base at the Île Longue peninsula in Brittany where they help intercept an enemy sabotage
+operation against the French garrison base and two nuclear french submarines stationed on location, Le Terrible, and Le Vigilant. Upon foiling the
+enemy sabotage attempt and securing the garrison, AEGIS Squad are diverted to fight Russian invasion forces alongside a detachment of Dutch
+Marine Corps troops at the Maasvlakte Oil and Gas terminal in the port of Rotterdam to protect it from destruction by enemy special forces. Romeo
+and his team secure a rendezvous with the nuclear submersible USS District of Columbia who offer Romeo's team passage to the US West Coast. Due
+to ongoing naval blockade attempts by invading forces, the District of Columbia surfaces off the coast of Ventura, California, and the squad are able
+to make contact with a US army infantry detachment stationed inside the city.
+The troops are en route to join a detachment of Marines at the Port of Los Angeles in Long Beach, and headed to clear the towns along the Ventura
+Freeway between Oxnard and Burbank. Romeo's squad agree to join them.
+The troops reach the city of Los Angeles from the northwest and enter the city through North Hollywood.
+On their way to Long Beach they help push North Korean invading forces out of North Hollywood (Down Rodeo) and the South of Beverly Hills
+towards the coast.
+The troops eventually reach the Port of Los Angeles, and find it securely occupied by a platoon of US Marines. According to the platoon CO, forward
+observers report that the invading DPRK forces are preparing to seize the Long Beach Airport.
+The squad and the rest of the Soldiers and Marines determine to stop them and set out for Signal Hill to intercept the enemy force.
+In the ensuing Battle of Signal Hill, the player manages to help the defending forces hold the airport and push the attackers back towards the ocean.
+Shortly thereafter the defenders receive information about reinforcements being en route to their position.
+The group leave a small contingent behind on Signal Hill, and the rest of them decide to continue to push south and out of the city towards San Diego
+and the US-Mexico border.
+Romeo's team take point in the front of the convoy with Romeo manning the mounted M2 helping engage scattered invading troops along the
+highway.
+The convoy makes it safely to the LA city limits only to receive a distress signal from the Navy bad at Coronado, about an incoming large amphibious
+attack force, requesting the assistance of all nearby US forces. After their final leg of the journey, the troops reach the coast in time to join the battle
+of Coronado Island in San Diego, California.
+
+
+[PDF PAGE BREAK]
+(Describe final battle mission)
+//.Character note: Romero
+His full name is: Ramon Fulgencio Medrano Álvarez
+Campaign 2:
+Do Right, Fear None
+SFC Ferris "Ducky" Ryan
+AEGIS Squad - NATO Allied Rapid Reaction Command Europe
+In the mission Wirecutter, AEGIS join a team of elite Danish frogmen (team codename Nereid Black) on a nighttime mission to intercept the
+Panamanian-registered container ship Sea Lion 7 that they suspect to be a Russian Shadow Fleet vessel running a covert undersea sabotage
+operation with the goal of disrupting deep sea internet and communications cable infrastructure in the North Sea.
+AEGIS and Nereid execute an amphibious covert infiltration with Nereid infiltrating the Sea Lion from the surface of the sea from a combat craft, and
+AEGIS being deployed by helicopter flown by PEGASUS squad onto the ship’s deck via fast roping.
+Nereid move to secure the ship's hold while AEGIS head for the ship’s superstructure and the bridge.
+The teams encounter unusual resistance from the ship’s crew who are mostly Russian.
+After securing the superstructure and several unarmed crewmen that they encounter along the way (those who did not resist the team), and are
+contacted by Grim (Nereid Squad Leader) to go into the hold
+During a key moment in the mission Nereid discover a concealed compartment at the bottom of the ship’s hold where they happen to interrupt a team
+of Vympel FSB Naval Specnaz combat divers (essentially a Russian counterpart to Nereid Black) in preparation for a dive to execute a sabotage
+mission.
+A firefight breaks out between the Vympel operators and Nereid Black, as AEGIS rush to descend into the hold to provide backup and to prevent a
+second team of Specnaz operators also hiding aboard the ship from scuttling it and destroying the evidence.
+In an intense close quarters battle in the hold of the ship, the team eventually eliminate all Specnaz aboard and secure the hold.
+Grim calls in the status to JCOM (Joint Mission Command), but Lantern points out something’s not right, and suggests to Grim that he and Grim dive
+to the undersea cable terminal to check for damage or persistent threats.
+Grim agrees, and team Nereid take over the Russians’ diving station and prep for the dive.
+JCOM tasks Ducky and his team to protect the upper deck of the ship, while Nereid investigate the underwater terminal, until PEGASUS and TRIDENT
+can reach the ship to secure it and airlift AEGIS and Nereid off to base.
+In this last part the team then must repel 2 more teams of Specnaz combat divers attempting to approach the vessel in surface attack craft in an
+attempt to scuttle it before TRIDENT arrives.
+Eventually TRIDENT SIX (DAOG Command ’s codename for the Danish patrol vessel HDMS Freja) rendezvous with the Sea Lion 7, after which AEGIS are
+flown off the Freja by PEGASUS TWO (AEGIS Boeing CH-53 Sea Stallion), ending the mission.
+Idea for Last Mission: Put in a reference to the Snake Island Heroes ("Russian warship, go fuck yourself!" Spoken by Ducky as he launches the missile
+at the Severomorsk) during the oil terminal defense mission where you, playing as Ducky, must fight your way to a Russian-encircled NATO mobile
+missile command post, and manually fire an NSM (AGM184A) anti-ship missile from a truck-mounted NMESIS-type launcher, severely damaging the
+Russian Baltic Fleet destroyer Severomorsk that is laying down artillery fire on your position from off the coast, holding back reinforcements, and
+forcing it to retreat. It is the final part of the final mission in the Game's second campaign in which you play as Ducky from AEGIS Squad fighting to
+repel the invasion alongside a detachment of Dutch Royal Marines.
+> Attention NATO forces! This is the destroyer Severomorsk of the (Northern) Baltic Fleet of the Navy of the Russian Federation.
+You are illegally occupying the Maasvlakte terminal.
+Cease fire immediately, and withdraw your forces to allow safe passage for our troops. Acknowledge!
+> ...
+> Attention NATO forces! If you do not acknowledge and comply, we are going to open fire on your position. You have exactly 1 minute to respond and
+comply.
+// Ducky arms the NMESIS battery, then reaches for the radio in the command post switches it to the Severomorsk's broadcast frequency, keys the
+handset, and says:
+> Hey, Russian warship! Go fuck yourself!
+// ... and turns the key to initiate the NSM launch
+// Missile away!
+// On one of the external camera feeds screens Ducky suddenly notices a Specnaz RPG operator pop out of a fucking drain hole net to a pier head
+100 yards out and take aim at the command center.
+> Aw, fuck! No, no, no, no, no, no, no, no, …
+// Ducky scrambles for the command center’s escape hatch as the command center is struck by the RPG, and knocked off its outriggers, tipping over
+to the rear, sending Ducky flying against the escape hatch. Ducky manages to pop the escape hatch and emerge from the tipped-over command
+center, only to see a plume of black smoke rise from the Severomorsk on the horizon.
+The NSM is out of the tube in under 2 seconds, shoots up at a steep angle to about 200 ft, then abruptly levels off and bolts towards the distant ship.
+But because the player watches the missile launch he sees a Specnaz operator pop around a barrier about 100 meters ahead of the command post
+and fire an RPG at Ducky's position. Ducky attempts to flee but the command post is hit by the RPG and tips over, and he is thrown against the back
+of the structure and is forced to pop the escape hatch, emerging largely unscathed, to the ground below. As he recovers, the camera pans out to the
+
+
+[PDF PAGE BREAK]
+sea and over the horizon as the Severomorsk is shown retreating after having sustained major damage to its hull from being struck by the NSM.
+Dutch Marine radio chatter that Ducky hears on the air then confirms the ship’s retreat.
+Ducky's teammates in AEGIS Squad:
+SSGT Aki "Frost" Peltola - former Finnish Special Forces Arctic Warfare Division, now part of AEGIS Squad alongside Ducky. Frost is an elite sniper and
+a proficient long-range patrolman and an arctic survival and warfare specialist.
+Frost's character is a fictional nod to Siimo "White Death" Häyhä, the famous sniper of the Winter War of 1941. He talks like the mil YouTuber
+FalconClaw, who is also Finnish. Wears a mask ísť of the time to hide facial scarring due to old combat injury.
+Ştefan “Lupin” Dragavei - former Romanian Army special forces operator. Proficient in assault tactics at range and in close quarters.
+LCPL Cassandra Stewart (Callsign: Switchblade)
+Originally from Melbourne, Victoria, Australia, she grew up in relative poverty in one of m the suburbs of the city. She lost her mother to an
+unexpected cardiac arrest, and her father Richie Stewart became increasingly dysfunctional and increasingly abusive until, one late night, after a long
+day of drinking, he fell asleep while smoking on the couch in the living room of their home, causing a house fire. Cassie, 17 at the time was lucky
+enough to escape. She confesses at one point in the story that on the night of the fire, she saw her father black-out drunk on the living room couch
+among the growing blaze, but feeling bitter and vengeful over the years of abuse she had suffered at his hands, she decided to walk away. After that,
+she spent a rough couple months doing mostly petty crime on the streets of Melbourne before deciding to enlist just one week after her eighteenth
+birthday.
+Campaign 3:
+Riptide Red
+CPT Trevor "Spook" Gartner
+Victor Two Bravo "The Tourists" - CIA Directorate of Operations, Ground Branch
+In the Prologue, the Tourists (mission team callsign: Noble; Spook, Tripper, and Smoke; Gartner, Bartlett, and Oakenfold) dispatched by Senior Case
+Officer Matthew Mullen (mission callsign: Regent), arrive undercover (as a team of Canadian overland travelers and amateur filmmakers, probably
+using film equipment transport cases to take some of the mission gear with them) at Schipol International Airport in Amsterdam. The team pick up a
+rental car, Tripper sweeps it for bugs, and they drive to a warehouse near the city's Eastern Docklands area where they are introduced to CIA case
+officer Cameron Steele (mission callsign: Emperor) from the Agency's Regional HQ in Frankfurt, Germany. Steele reveals to be working on something
+codenamed PANDORA, and is currently working on tracking and investigating a suspicious shipment of restricted networking and communications
+technology from Turkmenistan, which is reportedly headed for Atlanta, Georgia, United States. This cargo is currently in transit by train to Vienna,
+Austria. Steele then gives the team access to their weapons and the rest of their mission equipment, as well as a mobile operations command vehicle
+disguised as an overland RV truck and fitted with the Agency's latest Command and Control technology "courtesy of the friendly guys and gals at the
+Frankfurt Logistics Office".
+https://www.truckscout24.com/trucks/used/all/tatra
+The team are then sent to Vienna to report to CIA case officer Kathy Hughes (mission call sign: Archduke) at the Vienna office located inside the US
+embassy building, and receive a briefing on their next objective.
+
+In the mission (mission-name), the team are dispatched to investigate a suspected safehouse used by a Lebanese terrorist cell located at an
+apartment building in Vienna's 17th district (Hernals).
+Spook and his team manage to enter the apartment undetected, finding it empty, only to be interrupted shortly thereafter by a young woman
+returning to the apartment. They hide, but the woman, upon noticing that some of her possessions inside the apartment have been disturbed, she
+panics and summons several men from downstairs who show up armed, and begin searching the apartment.
+The team try to flee the apartment undetected through a balcony, but are eventually spotted at street level by a group of about seven men in a white
+van parked at the apartment building's entrance, who give chase upon contact.
+The team run into the courtyard of a nearby large townhouse, hoping to avoid the use of firearms, but are pursued by the men, leading Spook to split
+from his two teammates, in the hope of diverting their pursuers.
+After a short and intense parkour-style chase, leading the player across the rooftops of Hernals, onto a nearby passenger train platform, and into a
+pedestrian underpass, where Tripper and Smoke are able to rendezvous with Spook, after having secured two motorcycles as the team's means of
+exfiltration. Spook makes an escape on the backseat of Tripper's motorbike, only for the group to be chased but the van they saw earlier when they
+reach the city beltway. A high-speed chase ensure along the beltway, as the men inside the van are revealed to be armed and open fire at the team.
+The player, playing as Spook uses a GP SP10A3 STRIBOG PDW (interestingly, the only time you get to use the weapon in any of the game’s story
+campaigns, but you can not keep it after the mission) to return fire at the van before the pursuers can hit any of his team, eventually killing the van
+driver, and causing the van to careen out of its lane, collide with a concrete roadwork barrier, and explode.
+The team finally leave the beltway and reach the Port of Vienna where they ditch the bikes inside a parking garage and are met by two Agency
+
+
+[PDF PAGE BREAK]
+personnel (Junior Case Officers Jerry Hobbes and Daryl O'Brien) posing as city utility company employees, and taken to report back to Hughes at the
+Embassy.
+At the debrief, Smoke hands in a tablet that the team had recovered from the apartment, and Hughes instructs the team to bring the tablet over to
+the Agency tech team at the Frankfurt office, for them to try and extract any useful Intel out of it.
+A news broadcast in the background reveals that the fourth-floor safehouse at the Hernals address that the team had previously visited had been
+destroyed in a fire allegedly caused by an electrical fault in the apartment's breaker box.
+Intel from the laptop contains the mention of Betta Logistics Group GmbH., a sensitive and hazardous cargo logistics company headquartered near
+the Frankfurt International Airport, and points to a man named Simenon Christophe Navarre, a French-Canadian-German national and owner of the
+company, as the contact for one of the men using the Vienna safehouse where the tablet was recovered. The Intel also seems to mention Karyna
+Budanova, Navarre's life partner, and an executive assistant at GenCorp, an international data management company, but provides no further
+information on her involvement with the group from Vienna
+In the next mission titled Above My Pay Grade set in the outskirts of Frankfurt at nighttime, the team covertly enter Navarre's house and search for
+Intel about the shipment. They manage to discover several pieces of paperwork, but nothing enough to go on in their investigation.
+Pressed for time, the team decide to locate Navarre inside the house, and move to search the upper floor of the house.
+The team eventually confront Navarre in his office. He loses his composure at first, but calms down a moment later, and agrees to give the Player
+access to his laptop containing shipping manifests and transaction records.
+The Player discovers that the shipment is being prepared for shipping at warehouse 46 in the cargo sector of the Frankfurt airport.
+(Information later obtainable by searching Navarre's laptop reveals that the shipment contract is made out in the name of an Israeli defense-orientred
+software company called Bastion Infotech, which is ultimately revealed to be a front for a Mossad and CIA black op run as part of the PANDORA plan.
+The shipment that the team are tracking down of one of several shipments made through contractors and shell companies from various eastern
+counties (but always labeled as coming from a legitimate looking legal entity in an allied European country) into major cities in the United States)
+The player can choose to get Navarre and Budanova new identities and a fresh start somewhere far away by calling in a favor with his trusted
+contacts back at Langley, at the end of the Navarre House infiltration mission. If the player chooses to help Navarre, Navarre will later in the game call
+the player to thank him for what they have done, and to bid them goodbye, as they will no longer be allowed to make contact thereafter.
+The team take Navarre's keys, ID, and company van and head to the airport warehouse.
+The team arrive at the airport to find the warehouse swarming with Atlas personnel. They pull up to the warehouse side entrance in the Betta Logistics
+van and covertly dispatch the three Atlas sentries guarding the door.
+They then proceed to clear and secure the warehouse from remaining Atlas personnel, only to find that the shipment had been moved before even
+they got there. Tripper manages to extract a hard drive from a destroyed laptop hoping to mine it for Intel later. The team use explosives that smoke is
+able to recover from an Atlas armored van on site to destroy the warehouses. It is shown at a later point in the story that in the media, the explosion is
+attributed to negligent handling of hazardous substances by the logistics company employees. The news reports never mention any of the entities
+involved with the shipment, the presence and involvement of Atlas personnel, or the nature of the shipment previously held at the site.
+Upon analyzing the data from the hard drive, Tripper finds mentions of tetherbreak and is able to partially decrypt fragments of messages sent and
+received on the laptop proper to its destruction that contain mentions of PANDORA and TETHERBREAK. One message fragment appears to indicate
+that the shipping time of the shipment had unexpectedly been expedited following a warning about a possible raid. The decrypted data does not
+reveal who the sender of the messages is.
+This makes Spook and his men suspect that someone must have warned the Bastion personnel on site about the team's impending arrival in order to
+buy them time to covertly divert the shipment to another flight.
+Though most of the files associated with PANDORA are corrupted, Tripper manages to recover a partial list of sets of cryptic alphanumeric identifiers
+paired with dates and times and what appears to be flight codes that turn out to be untraceable based on accessible Agency records.
+Smoke has a hunch that the list might be a shipping schedule of some sort, so Spook decides to call In a favor with a contact at AEGIS, a former
+German MAD (military counter-intelligence) officer Karl Alexander “Jaeger” Stanzler, who now works in the PYTHIA counterintelligence detachment
+under the DAOG Command , who helps the team match the numbers and dates to a cluster of privately chartered flights that fit the same pattern and
+direction as the now missing shipment.
+The flight charter contracts are all made out in the names of different US defense supply and security infrastructure contractor companies.
+Upon investigating available information about the companies in Agency records, the shipments were declared as containing restricted computer
+hardware parts for domestic drone countermeasure applications. The paperwork on file appears to be in order, all the way to the strictest regulatory
+requirements.
+//At this point, the team should first trace the package back to GenCorp, which leads them to a GENCorp regional head office in Abu Dhabi, UAE.
+// The team then travel to Abu Dhabi to raise the GENCorp data center to get the full shipping record of the shipment. This is when the mission
+Infrastructure Day takes place. The GENCorp head of Data Security Leandro Blommaert is an optional target during this mission.
+// The data they obtain indicates that the shipment was commissioned by a representative of Agarwal Berkhan, an Indonesian-Emirati billionaire
+philanthropist and majority GENCorp shareholder.
+// The Agency handlers dispatch Victor Two Bravo to Medan City, Indonesia as part of operation DRAGONSLAYER with orders to find and apprehend
+Berkhan. This is when the mission Man From Medan takes place.
+After the team finish the job at the Medan compound, having failed to capture Berkhan, Spook gets a secure call from Director of Operations at
+Langley Robert Macmillan, informing the team that their handler Regent (Mullen) has been “urgently reassigned” to work on a different case, and that
+Victor Two Bravo are to report directly to Macmillan (mission callsign: Bishop), effective immediately.
+Bishop subsequently assigns the team to a new CIA-NSA joint operation codenamed WHITEOUT, securely uploads new intel for the team that traces
+the missing shipment to Miami, FL, and orders the team to travel to Florida and meet with two NSA contacts who are supposed to give them further
+information about the case.
+
+
+[PDF PAGE BREAK]
+The team report mission updates back to Emperor at the Frankfurt Field Office, and arrange for a flight back to the US.
+They take flight out of Frankfurt to Orlando, FL, and drive to a safehouse in Doral. The Intel they received from Bishop provides additional data on the
+shipment's whereabouts. The team head to rendezvous with their contacts, NSA analysts Keith Simmons and Jessica Lynch who can provide them
+with the latest operstional updates on the investigation during a meeting at a diner in the nearby town of Medley, FL,
+Simmons and Lynch reveal to Spook and his men that they had tracked a suspicious shipment of restricted components from Miami-Dade airport to a
+far-right accelerationist domestic terrorist group known as the Kali Yuga Surf Club (based on and visually resembling the real-life white supremacist
+Republic of Florida Militia) from Tallahassee, FL, who, only a few hours ago, seem to have moved several large containers of the types used to
+transport electronic and communications equipment into the abandoned Desautels Resort Hotel in Miami Beach.
+The team drive to Miami Beach to reconnoiter the hotel building, and find that it had been occupied by members of the Los Sites cartel (CLSO).
+There appears to be no sign of KYSC at first, but the team surmise that they might be hiding out inside the building. Smoke deploys a thermal drone to
+check for heat signatures and identities the possible targets on one of the upper floors of the hotel. The hotel is also overrun with Los Sietes. Tripper
+remarks that it is unusual to see a band of wingnut doomsday cultists get a small army of cartel enforcers to run security for them.
+//Introduce far-right radical nihilist accelerationist US domestic terrorist group, the Kali Yuga Surf Club, used as a front for the Miami PANDORA attack.
+This was a deliberate red herring orchestrated by Goldberg and Macmillan to lead Victor Two Bravo into a trap. The perpetrators of the attack are
+themselves the brainwashed victims of an NSA psyop that had been held and conditioned, and ultimately given CogniConnect brain implants at the
+Montoya Farm. They are the other group of enemies besides the Los Sietes Cartel (El Cartel de Los Sietes se Oaxaca, CLSO, from Oaxaca, Mexico)
+that the player gets to fight at the Desautels Resort Hotel in Pandora’s Box.
+// At the end of Pandora's box, upon finally locating and defeating all 5 of the KYSC members and destroying the Pandora device, apparently stopping
+the attack, the Player notices that the five dead KYSC members all bear identical tattoos of the same symbol that Agency records reveal to be an old
+symbol dating back to the times of MKULTRA, and in the past associated with Montoya Farm, owned by billionaire tycoon Brodie van Horne, a close
+business associate of Goldberg's, prompting the team to investigate Montoya Farm in the next mission titled Burning Daylight.
+// Once the team stop the KYSC and inactivate the PANDORA device they are met with further Cartel resistance while trying to leave the hotel.
+The team are attacked by a KYSC sniper and machine Gunner aboard a light helicopter that hovers outside around the upper floors of the hotel
+building. The sniper and machine gunner fire at the team when they are out of cover and in line of sight of the enemy. At the same time the player
+must deal with several squads of cartel enforcers ascending to their position from the fire escapes and through the elevator lobby.
+The player must take out the helicopter, causing it to crash into the hotel building.
+When the helicopter is destroyed, the team are free to proceed using the hole created by the chopper crash to bypass a locked fire escape door
+leading to the floor below.
+Upon reaching the mezzanine lobby, the team are ambushed by a group of 5 elite cartel sicarios. After fatally wounding the last of them, the team
+move in on his position only to discover that the last sicario managed to light the fuse to a 2-ton fertilizer bomb that the sicarios have planted it the
+exit doorway of the mezzanine’s elevator lobby leading to the main hotel entrance and reception lobby, leaving the team only seconds to escape
+before the detonation inevitably levels the hotel.
+The team rush to pry open a nearby elevator door and use the elevator cable to slide down to the bottom of the shaft and into the hotel’s
+underground parking garage to escape the blast.
+The bomb detonates just as the team are reaching the bottom floor of the parking garage, sending the elevator car plummeting after the Player. The
+car hits some debris on the way down, becomes wedged inside the shaft, and grinds to a stop before it reaches the bottom of the shaft, saving the
+Player from being crushed on impact, and giving them a chance to briefly recover after their somewhat rough landing and pull themselves out of the
+shaft and into the floor of the bottom tier of the hotel parking garage.
+The team must then fight approximately 15 to 21 cartel enforcers on the way up through three levels of the parking garage before finally reaching an
+exit to street level, and exiting about 300ft from the now mostly leveled hotel building, just as first responder vehicles begin to arrive into the scene of
+the explosion. The team then quickly slip off to a nearby alleyway and out of sight of any onlookers, ending the mission.
+// This is not supposed to be revealed until the finale.the player is led to believe that they had stopped PANDORA in Miami, but Miami turns out to be
+just one of many similar operations across several US cities. The truth is revealed to the player by Goldberg, delivering the “It's way bigger than you
+think” plot twist moment of this campaign's story.
+Additional data recovered by Tripper indicates that the shipment that the team were after was one of many similar shipments delivered or scheduled
+to be delivered to different destinations across the continental United States over the past several weeks.
+//Burning Daylight - Set during the team’s covert night-time infiltration of the Montoya Farm compound located near San Rafael, New Mexico.
+Unable to secure more robust cover for the mission due to suspicions of their mission handlers being compromised, Spook’s team decide to stake out
+the operation of the New Mexico white supremacist biker gang leader and industrial-scale meth producer “Uncle” Jack Pruitt, and set an ambush on
+three of his men as they are on the way to do “contactor work” at the Montoya Farm, and are able to acquire their U-HAUL truck that they use to
+infiltrate the compound. While the truck and disguises do get them safely past the gate and inside the compound, senior security personnel or the
+team's high-profile targets are not likely to be fooled by them. As part of the mission, Spook uses a directional microphone given to him by Tripper to
+covertly follow Strockbridge around the mansion, eavesdropping on her phone conversations. The conversation reveals many disturbing clues that
+the team are yet unable to put in context, but will learn about in detail later in the mission. The team use the gathered intel to identify the location of
+the security room within the mansion, as the plans that they were able to pull from Agency sources do not seem to contain accurate enough layout
+plans of the mansion to provide enough for the team to go on.
+At some point during the conversation, they learn about the concealed security room entrance on the second-floor of the mansion. Spook is then
+sent to acquire a keycard from behind the cloak room desk in the Ballroom Annex of the mansion, which is hosting a large gala event at the time with
+many in attendance. This provides unique stealth opportunities for the player, as regular guests are unlikely to alert anyone of your presence when
+they see you (unless they see you act suspiciously). The security and facility staff, as well as the high-profile targets like Stockbridge will absolutely
+raise an alarm if they see you acting suspicious or encounter the player up close or in areas of the property that are clearly labeled as off-limits to the
+player. You can use this to your advantage as you make the way to the desk and pick up the keycard.
+Given the stakes of the mission being caught by security or being spotted by Stockbridge fails the mission (Given that the player cannot literally kill
+the entire population of the compound to get away, because it would destroy the entire operation, making it impossible to continue the rest of the
+storyline The team would have been taken out immediately by Law Enforcement forces upon trying to leave the compound. Killing Stockbridge at this
+point in the story likewise fails the mission, because the story requires Stockbridge to survive till the end of Spook’s final story mission).
+The team subsequently infiltrate the mansion’s security room and access the CCTV system used to monitor the compound.
+The team discover camera feeds showing vast underground spaces whose existence is completely unknown to them, and according to available
+Agency records, it is completely unknown to the authorities and to the public as well. Not even the FBI has documented proof of their existence. The
+Agency has, but the knowledge and documentation about it have been unknown to a select few, but not to Spook or any of his trusted contacts. The
+facility has existed for decades, since the times of Goldberg's predecessor.
+(The secrecy around KINGMAKER is warranted, considering that it is the world's most powerful kompromat and blackmail resource to ever exist, and
+is practically impossible to completely control, much less by any single country's government or intelligence agency. It was seen as in the utmost
+
+
+[PDF PAGE BREAK]
+interest of multiple intelligence agencies from countries all over the geopolitical spectrum, as well as virtually all of the world's rich and powerful elites
+that this global human trafficking operation be allowed to continue without interference. The person who got to be KINGMAKER changed from time
+to time, but the role stayed).
+Other than that, only the NSA personnel and others involved in the human trafficking ring have some knowledge of their existence.
+They proceed to gain access to the tunnels by locating a concealed hatch in the off-limits part of the building’s basement near the pool machinery
+room.
+The team must move quietly avoiding detection inside the tunnels. The Player must eliminate enemies stealthily and conceal the bodies to hide them
+from being discovered by the remaining enemies.
+The player can reach a control room where they can sabotage the CCTV camera feed, effectively disabling the security cameras inside the
+underground tunnels. The team continue to explore the tunnels, discovering a makeshift prison, an inpatient medical facility with its own operating
+theater, numerous dormitories and rooms apparently furnished for long-term living, an underground plaza with a simulated sky ceiling and lighting
+that mimics natural light, and several large rooms containing rather creepy-looking “movie sets” contaminated with various bodily fluids and
+containing various weapons, tools, equipment and household items, suggesting their use for production of snuff films or other kinds of illegal abuse
+material. The team also notice the same symbols that the KYSC had tattooed adorning the walls in parts of the underground complex.
+The team push deeper into the tunnels, eventually reaching a server room, where Tripper is able to place a hardware implant into the compound’s
+networking system for persistent access to the compound's IT infrastructure, and extract a copy of a large portion of encrypted archived data from
+the compound's data storage infrastructure.
+The team continue to push further into the underground complex, eventually reaching an apparent dead end in a laundry room, but discover a narrow
+vertical shaft with a ladder, accessible through a hidden door inside a small cubby behind a large filing cabinet, and leading to the surface, that they
+are able to use to exfiltrate from the compound.
+Upon the team's return to the safehouse, Tripper manages to decrypt the extracted data revealing a massive tranche of classified information,
+including hundreds of suppressed Agency reports documenting the architecture of the human trafficking-kompromat-black-market-dark-money
+scheme, happening with the full knowledge and active participation of not only multiple domestic federal intelligence and security agencies, but also
+the Russia FSB, the Mossad, the IRGC, the Chinese Ministry of State Security, North Korean State Intelligence, pretty much the entire NATO security
+apparatus, and several intelligence actors from either nojn-state entities or from geopolitically non-aligned states.
+//Tripper's quote: “Holy mother of God! Spook, you gotta take a look at this. Looks like just about everybody and their mother-in-law is on this
+motherfucker’s payroll.”
+// They find records of billions of dollars in FinBud and cryptocurrency transactions linking the shady businessman owner of the Desautels Resort
+Hotel, the KYSC and the Los Sietes to entities that connect all the way back to KINGMAKER and Goldberg. KINGMAKER is also the only codename
+used to refer to this operation, as the decrypted classified documents seem to indicate.
+// The decrypted files also contain mentions of a buried CIA intelligence analyst report on something codenamed Riptide Red, The document
+containing the report itself appears to have been purged.
+// The decrypted data also contains a partial file on PANDORA, though the majority of the data seems to have been purged from it.
+// The decrypted information also appears to link the shipment flight data and recipient entities, along with numerous state and local law enforcement
+across the country to an NSA operation codenamed DARMA whose task it was to conceal evidence of activities by various groups within the global
+intelligence community affiliated with Goldberg and Barry Crodyn and suppress inquiry and reporting about them)
+//In light of the new discovery, the team make a plan to go after Goldberg to get answers, and still under the impression that they had stopped the
+only PANDORA attack, they determine to take him into a clandestine prison (a CIA black site) to stop him from attempting another attack or
+coordinating with his co-conspirators.
+// This is when the short mission Come Fly With Me, (In which the team steal a float plane on the island of St Croix to get to East McFarlane Island)
+followed by the campaign finale mission Sins of Our Fathers.
+//In come fly with me, you and the team find themselves near the town of Anguilla on the island of St. Croix in the US Virgin Islands, about 40 miles
+south of East McFarlane Island, waiting for nighttime and the right weather conditions. You start at daytime inside a safehouse apartment near the
+shore. You can read the missing dossier and change your equipment to prepare for the mission.
+Leaving the apartment triggers the next part of the mission wherein you move to set up near the small coastal fishing company compound inside of
+which the float plane is located. Upon reaching the place the team settle in to wait till nightfall.
+At night the weather gets worse, which the team expect to use to their advantage when approaching the island.
+The compound is occupied by a small 7-man security detail and some unarmed fishermen. You must eliminate the security personnel before they can
+radio for reinforcements, and reach the foreman's office where they breach the office door, eliminate the remaining 3 security guards and hold an
+unarmed foreman at gunpoint to get him to refuel the Found BFA-2 floatplane out on the compound’s pier before Smoke can fly the team to East
+McFarlane Island.
+The team approach the island flying in dark and coasting with the plane’s engine off. Smoke manages to land the plane near a small cove with a small
+semi-secluded beach, where the Player begins the mission. As their first objective the team head toward the Grand Villa, in the residential sector on
+the other side of the island.
+// War Wolves - a team of three former Tier 1 special forces operators that Stockbridge dispatches to go after and take out Victor Two Bravo after she
+learns of their presence on the island.
+They wear solid dark grey-colored tactical gear and don signature kevlar wolf face masks. The Player speculates that they might be US private military
+contractors, or even compromised fellow CIA Ground Branch operators, but because they appear to have rigged CogniConnect neural implants that
+detonate upon their death, destroying any identifiable facial features, the Player never gets a chance to unmask and identify them. They use callsigns
+Crimson One, Crimson Two, and Crimson Three.
+The Player must defeat them before they can reach the helipad to confront Stockbridge and Goldberg.
+//Move this to first campaign:
+(Features the famous 4th mission Down Rodeo, where you have to fight your way through parts of Hollywood and DTLA in the aftermath of a
+mass-scale cyber attack that hijacked autonomous air and ground drones across large urban centers in the US, and used them to target strategic
+military assets across the US.)
+// Change setting: Pandora's Box is set at the Desautels Resort Hotel in Miami Beach, FL.
+Also, Pandora's Box, the ?th mission of this campaign features the famous opening sequence in which Bartlett reverses a large SUV (like a Toyota
+
+
+[PDF PAGE BREAK]
+Tacoma) into a DTLA alleyway during nighttime raid on a hotel building to foil a planned cyber attack by an unknown enemy actor, while Spook and
+Smoke open the rear hatch and fire at the sentries down the alley, killing both of them before disembarking and entering the hotel building, which had
+been seized by a street gang, through the back entrance, undetected.
+According to the campaign's story, the tourists fail to stop the plot, setting in motion the events of the rest of the Riptide Red storyline.
+The campaign's final mission, _Battle of Coronado_ sees Romeo's Fire Team Delta fighting alongside detachments US Army and US Marines in
+repelling a massive North Korean, Russian, and Iranian joint amphibious assault against the North Island Naval Air Station in Coronado Island in San
+Diego, California, to protect the stationed Pacific Navy Carrier Strike Group vessels.
+PANDORA is a suppressed (that is, most records of it in internal registries and knowledge cases game been purged, and most of the hard copies
+destroyed and the remainder archived, put In a cryptically labeled box, sealed with tape, and deposited in a restricted section of deep storage) CIA
+operational plan to weaponize TETHERBREAK on US soil.
+Other story-adjacent lore:
+One of Spook's campaign missions is called Burning Daylight.
+Should be the one where they infiltrate Montoya farm.
+Directorate of Operations missions connected to and mentioned in the story:
+KINGMAKER - Plan devised by Spook, Tripper and Smoke to go after Goldberg at his private island after finding out that Goldberg was the one who
+sold out Spook’s team to Atlas (through a compromised Director Macmillan) prompting them to move the shipment from Warehouse 46 early and
+destroy most of the evidence. Ends with Spook and his team being declared rogue by director Macmillan.
+KINGMAKER is the CIA internal codename for Goldberg. The codename used for Stockbridge is CHAPERONE.
+(Sins of Our Fathers (KINGMAKER) ends just as the attack on the US West Coast happens. Though at the end of Pandora's Box the team manage to
+prevent the activation of one of the PANDORA devices in the abandoned Desautels Resort Hotel in Miami Beach, FL (based on the real-life Deauville
+Beach Resort at 6701 Collins Ave, Miami Beach, FL 33141 demolished in 2022)) earlier in the story, which the media present as the government
+authorities having successfully foiled a one-off lone-wolf terror attack attempt, Goldberg reveals to the player during the campaign finale that they
+only managed to uncover and stop one of many operational cells involved in PANDORA.
+Goldberg and Macmillan took this opportunity to deceive the Tourists into going after Berkhan (who had played a major role in making PANDORA
+possible), thinking they would kill him as he tried to resist capture, ensuring that the true origin, purpose, and full extent stays hidden from the public.
+Compromised DHS and NSA personnel launched NSA operation SPRINGBLOAT to suppress any domestic communications about and inquiries into
+the attack.
+It is also revealed that the Miami mission was a set-up by Macmillan to get Spook and his men killed by Cartel members who had taken over the hotel.
+The team's ability to survive and escape the hotel after it is rushed by the Cartel members after the team deactivate the PANDORA device
+complicated Macmillan's plan, allowing them to get ahead and pursue the lead they found in the hotel that ultimately led them to learn about Brodie
+Van Horne, the Montoya Farm conspiracy, the Shadow Underground (one of the ways some people refer to the organization which has no official
+name, other names include The Forever Pact, the Eternal Society, the Eclipse Society, The Founders, The Delta Project, or The Illuminati) trafficking
+ring, and finally about Riptide Red and the conspiracy at the very highest echelons of the US federal Government involving TETHERBREAK and
+PANDORA.
+TETHERBREAK - A top secret CIA operations program that aimed to develop a foreign asset to gain unauthorized access to US strategic military
+command & control infrastructure and take control of domestic and allied-territory autonomous multi-domain weapons systems and turn them
+against the United States. Because if we find a way to do it ourselves first then the enemy cannot surprise us by beating us to the punch.
+DRAGONSLAYER - In the mission titled Man from Medan, the Tourists (mission callsign Black Knight) are covertly dispatched to Medan City, Indonesia
+to capture Agarwal Berkhan (codenamed Baloo), an Indonesian billionaire and a CIA and suspected foreign intelligence asset connected to CIA
+financing multiple South Asian warlords whom they planned to develop as part of the TETHERBREAK program.
+The team eventually catch up to Berkhan in his Medan residence in his compound in Cemara Asri, prompting the warlord to send his personal guard
+garrisoned at his compound, to stop them. The team fight their way through Berkhan's men through the compound and up to his villa, eventually
+clearing it of remaining guards and defeating Berkhan's personal bodyguards guarding the door to his office. Upon forcing an entry into the office
+and finding him surrendering,the Player prepares to apprehend Berkhan, only for him to make one last desperate getaway attempt by having his men
+airlift him via helicopter from the second-floor terrace of his mansion (As the team prepare to bag Berkhan, they are attacked by machine gun fire
+from a door gun of a Mi-8 "Hip-E" helicopter as Berkhan's evac arrives. In a moment of surprise, Berkhan manages to break the player's grip, and
+scramble to his feet. Though ultimately unable to stop Berkhan, the Player manages to rip his Security ID card off the lanyard in his belt during the
+Player's attempt to hold him back from fleeing. The team tip over and dive behind heavy office equipment and furniture pieces to take cover from the
+strafing fire, while Berkhan flees the office to the terrace through a side door, triggering the panic code from the other side and locking down all exits
+from the office by electronically locking out all doors, and dropping down emergency metal shutters in front of all windows around the office. With
+Berkhan's escape route now closed behind him, and effectively locked in with no apparent way out, the team hear the chopper circle around the
+corner of the mansion's roof, presumably to approach the terrace and get Berkhan on board. The Player (Spook) realizes that he still has Berkhan’s
+Security ID badge, and uses it to unlock a security paneI on the wall next to Berkhan's desk, lifting the lockdown. The team rush to the terrace, only to
+see the chopper lift off with Berkhan on board. At first, Berkhan appears to be able to make an escape, leading the team to huddle and come up with
+a damage control strategy, The player reports that the helicopter is headed north, upon which Black King (that's the mission callsign for Command)
+advises that Berkhan owns a luxury super yacht, the Gerhana (the name means ‘Eclipse” in Indonesian), and that she is currently docked at the Port of
+
+
+[PDF PAGE BREAK]
+Belawan, about 20 klicks to the north of the team's position. About 30 seconds in, Berkhan's helicopter is unexpectedly hit by a "malfunctioning" (not
+really malfunctioning, more like deliberately sabotaged using TETHERBREAK technology, but the characters don't know about that, yet) Indonesian
+Skynex Remote Air Defense System and blown out of the sky, killing everyone on board including Berkhan. The attack and Berkhan's death is officially
+blamed on an Indonesian Islamic terrorist group, but the team suspect that someone sabotaged the SAM system to kill, and therefore, silence
+Berkhan.
+In the mission titled Infrastructure Day set before the attack on the compound in Medan, the Tourists are sent to infiltrate a Gencorp corporate office
+located inside a skyscraper in Abu Dhabi, UAE, to find Intel leading them to Baloo's current location in Medan, eventually tracking their target to the
+Lestari House, a vast compound surrounding a luxury villa located on the outskirts of Medan City. (This is the mission where you rappel down the side
+of a skyscraper to reach the data center).
+(Controversial idea: collectible Intel containing fictionalized references to Edward Gregory Goldberg, an American billionaire venture capitalist, hedge
+fund manager, sensitive information broker, multiple intelligence asset, and the co-operator, with English semi-aristocrat, modelling talent scout, and
+media manager named Gillian Stockbridge being the other co-operator, of a global human trafficking ring. Berkha is known to be involved with
+Goldberg to the player, but as the player investigates Berkhan's contacts further, the leads start pointing back to Spook's own higher-ups, and some
+other big well-known foreign state intelligence actors with the name of former Israeli defense minister Eliezer Baruch Yadat, now working for Atlas
+Solutions, a global PMC based in Singapore, (recently contracted to run operations security for several GenCorp sites worldwide) being mentioned as
+a key connection to TETHERBREAK. This is where the player's efforts are abruptly stopped upon intervention from Directorate of Operations high
+command, as portrayed in a flashback seen in the third-campaign story mission Above My Pay Grade)
+Why did TETHERBREAK even exist? A glorified penetration test. A compromised rouge clandestine cell?
+Well, as one of the collectible pieces of Intel seems to indicate, it was to create a credible threat to covertly motivate and control US mechanisms of
+power for purposes of ongoing public civil liberties suppression, and maintaining power. In the words of one of the case officers involved, the
+Pentagon thought they were safe with their swarms of ever-vigilant autonomous murder bots. Too safe... TETHERBREAK was meant to keep their egos
+in check, so they avoid becoming reckless and breaking the established order, thus threatening the actual (shadow) power structure.
+The powerful elite realized that autonomous weapons technology does not put an end to the global power struggle, and having learned from
+seemingly superior US technology being bested by comparatively low-tech hacks in the past, they now decided to beat their competition to the
+punch by engineering the means of compromising the systems themselves. The idea was to control the black market of exploits aimed against the
+technology, to discover and patch any existing vulnerabilities in systems that are already in operation, and last but not least, ensuring that the US
+Government won't be able to use the same autonomous weapons systems against the very global elites that the shadow underground represents.
+They put themselves in control of the systems, their means of subversion, who gets to access either, and then made themselves immune to the
+application of the very same systems against themselves. It was never meant to be used In a terrorist attack, it was an insurance policy, but then
+Crodyn’s criminal underworld ties were exposed, then his links to foreign intelligence, then his personal relationship and history of dealings with
+Goldberg. Which threatened to expose the whole shadow structure.
+That's when the powerful finally caved and went for the nuclear option: stage a false flag attack, topple your own government to stay out of prison,
+then start a bunch of wars all over the world, plunge the country into chaos, and then cover your tracks, and keep all the power.
+The TETHERBREAK conspiracy seems to be tied all the way up to the sitting US President Barry James Crodyn (pronounced Crow-den, per famous
+campaign slogans like "Nobody cares more than Crodyn!"). He also is the owner of the media holding Crodyn Entertainment, and the BJCWorld
+modelling talent agency. Also has suspected ties to high-ranking Russian mafia boss Artem Stolyanov (Based on real-life Russian-American mob
+patriarch Simeon Mogilevich). Despite being sitting President, most of the time Crodyn resides at the Maravilla estate in Palm Springs, California.
+GENCorp (also spelled GenCorp) is the official short form of the name Global Executive Network Corporation - An American multi-national
+surveillance data information service and defense Information and communication technology solutions provider with a global market and operations
+range.
+Indonesian-Emirati billionaire businessman Agarwal Berkhan owns approximately 25 per cent of GenCorp stock making him the largest stockholder at
+the time. Barry James Crodyn and Paul Ruetger also own sizable amounts of the company's stock.
+Palisade Systems is a US defense contractor with ties to Israel and a listed recipient of "drone countermeasure" technology from Bastion Infotech.
+Owned by Paul Ruetger and headed by CEO David Bass. (Obviously Palantír, and CEO Alex Karp)
+Alexia Crodyn - fictionalized Melania Trump, wife of Barry James Crodyn, born Alexia Khovranova in an unspecified Eastern European country
+Paul Ruetger (‘rut-ger) - fictionalized Peter Thiel - German-born American venture capitalist and owner of Palisade Systems
+Lloyd Aymes - fictionalized Elon Musk The proprietor of Galvani Automotive, StarLift Logistics, SkyConnect Wireless Data Service, LQAI (an artificial
+intelligence company), CogniConnect Human-Machine Interface Technologies, and, as of relatively recently, the LQ social media platform (previously
+operated under the name Feedz, but acquired by Aymes and renamed to LQ, reportedly as a result of Aymes’s obsession with the letter Q),
+
+
+[PDF PAGE BREAK]
+Ruetger and Aymes had previously worked together at a startup called FinBud, which later came to dominate the online payment and electronic fraud
+prevention industry. They did not part on good terms ,and remain vocally critical of each other’s practices, at least in the public eye.
+David Bass - CEO of Palisade Systems, fictionalized Alex Karp
+Nestor Brandtner - deceased owner of Blaine Media, whose portfolio was passed onto Clegg. Based on the real-life Andrew Breitbart
+Roger E. Clegg - former US Navy officer turned US far right alternative media holding group proprietor, political strategist, and the quintessential
+American anti-democracy thought leader. Represents a fictionalized version of Steve K. Bannon.
+Former chief of staff in the first Crodyn Presidential Administration.
+Owns Brandtner Media Group.
+One of the active architects of the Riptide Red, DARMA and SPRINGBOAT plots. Has extensive ties to Goldberg and has extensive knowledge of the
+existence of KINGMAKER, including the mind control programme being carried out on Montoya Farm. Clegg has probably directly participated in
+brainwashing the Montoya Farm Subjects.
+Reginald Stockbridge - fictionalized Robert Maxwell, presumed dead, lost at sea, publishing tycoon, owner of Tilly Publishing Group
+Montoya Estate - fictionalized Zorro Ranch, New Mexico, US - a n expansive heavily fortified compound surrounding a massive mansion with its own
+private airstrip and helipad, fully off-grid infrastructure, and a vast underground complex used to conceal the national nerve centre of a global human
+trafficking operation. Spook and team go there to covertly infiltrate a gala event to gather intel on Brodie van Horne’s connections to Reginald
+Stockbridge and Eliezer Baruch Yadat, only to accidentally discover a massive underground prison and snuff production sites hidden in the
+underground complex beneath the property.
+Brodie van Horne- fictionalized Les Wexner - sponsored Goldberg's purchases of Montoya Estate.
+Michael “Mickey” Baltano - fictionalized Alex Meruello - billionaire record label owner and music publisher, also owns the Desautels Resort Hotel in
+Miami Beach, which is largely destroyed by the end of Pandora's Box.
+Baltano is connected to Montoya Farm as a prospective buyer of the farm from van Horne, before the farm is officially purchased by another of
+Goldberg's associates, clothing magnate (and sadistic piece of shit human being) Gary Albano.
+Gary Albano - fictionalized Leon Black
+Yitzhak Ben-Tov - fictional Israeli PM based on Benjamin Netanyahu
+Walter Pedilla - fictionalized Samuel Alito, also serves as a SCOTUS Justice
+Creighton Howard - fictionalized Clarence Thomas, also serves as a SCOTUS Justice.
+East McFarlane Island - fictionalized Little St. James Island
+Sergei Andreevich Baranov - the authoritarian president of the Russian Federation fictionalized Vladimír Putin.
+Mikhail Konstantinovich Kostropov - Baranov’s chief of FSB, also the man who, a long time ago, as a middling operations office in the FSB signed off on
+operational plan Parhelion-53, which was the codename for an unsuccessful FSB false-flag attack operation that went belly up, because frost
+dispatched one of the enemy operators.
+It is later revealed (in the second game) that Parhelion-53 was meant to create an international border incident between Finland and Russia, framed as
+an illegal Finnish border patrol incursion into Russian territory that devolved into the Finnish using lethal force against Russian border security troops
+on Russian territory.
+The exercise that Frost’s unit was taking part in was to be used by Russians as a pretext in public discourse related to the incident, being cited by them
+as a means of providing plausibly deniable cover for an illegal incursion of NATO-adjacent forces into Russian territory with intent to carry out
+sabotage of Russian military infrastructure. In other words Russia tried to false flag Finnish troops on exercise in Finland, hoping to spin a média
+narrative wherein the Finns attacked Russia first, and using the to attack the integrity of NATO, and torpedo public support for European military and
+defense policies aimed at protecting western Europe from Russian aggression, framing them as warlike and escalatory.
+Kostropov has since that time made it all the way to being Baranov's right-hand man, chief of the Kremlin's intelligence staff and head of the FSB.
+Gennadiy Trofimovich Yefremov - fictionalized Yevgenii Prigozhin, a Russian criminal warlord and owner of the PMC group URSA Services, a
+fictionalized version of the Wagner Group.
+
+
+[PDF PAGE BREAK]
+Dzhokhar Tadaev - Chechen warlord and a “deputy administrator" of Baranov's for Chechnya, fictionalized Ramzan Kadyrov
+Li Chengzhe (李承哲) - fictionalized leader of the People’s Republic of China, loosely inspired by real-world Chairman of the CCP Xi Jinping.
+Hojjatollah Sayyid Mehrdad Esfandiari -Supreme Leader of the Islamic Republic of Iran - a fictionalized version of the recently deceased Iranian
+Ayatollah Ali Hosseini Khamenei
+Kim Yon-Chol - fictional supreme leader of North Korea, born of the DPRK’s ruling Kim dynasty. Loosely based on Kim Jong-Un, but more serious
+vibe and less of bumbling fatso manchild compared to his real-life inspiration.
+Julien Dufresne - fictionalized Marc Dutroux
+Geoffrey-Guy Moffat - fictionalized Jean-Luc Brunel, owner of the GeMo Look International, a high profile Parisian modeling agency.
+Spook may be able to confront Goldberg in the very last (?) mission of his story campaign (Sins of Our Fathers), but the player never gets to
+apprehend him. The team eventually reach East McFarlane, Goldberg's private West Indian island, discovering massive evidence of Goldberg's human
+trafficking and illegal pornography ring, also evidence of cannibalism and ritual human sacrifice within the vast underground complex under the Island.
+Spook’s team are determined not to let Goldberg leave the island, and confront him at the helipad of his island property, and find Gillian Stockbridge
+preparing to airlift Goldberg off the island. The team appear to have cornered and finally come close to capturing Goldberg, only to be contacted last
+minute by Major General Robert Macmillan, the CIA Director of Operations, who says that he had been informed “on good authority” that Victor Two
+Bravo (the Tourists) have attempted to go rogue, and orders Spook and his men to stand down and give Goldberg safe passage off the island. This
+might be the cliffhanger ending of the first game.
+Direct Action Operations Group (DAOG) Command structure unit codenames:
+Operations Command
+ZEUS
+Lieutenant General Callum Tremblay - French Canadian general and DAOG commander.
+ARES
+Colonel Mark Walker - Special Operations Commander in charge of AEGIS, CORYS, and SHIELD squads.
+OLYMPUS
+GANYMEDE
+HADES
+Special Operations
+AEGIS
+CORYS
+SHIELD
+Internal Affairs
+HESTIA
+Field Engineering
+AMPHION
+ZETHUS
+Counter-intelligence & OPSEC
+PYTHIA
+Electronic Warfare
+KYNEE
+Psychological Operations
+GORGON
+Naval & Littoral
+TRIDENT
+
+
+[PDF PAGE BREAK]
+CHARON
+Logistics
+AMALTHEA
+HOPLON
+Signals & Comms
+HERMES
+Airlift
+ICARUS (Airbus A400M)
+
+PEGASUS (Sikorsky CH-53 Sea Stallion)
+Close Air Support (CAS)
+PHAETON (JAS 39 Gripen)
+KERAUNOS (Dassault Rafale B)
+Air Defense
+APOLLO
+Artillery
+ARTEMIS (Archer automatic howitzer)
+TYPHON (Rocket artillery)
+Armor
+MINOTAUR (Leopard A3)
+TITAN (AMX Leclerc)
+COLOSSUS
+CYCLOPS
+Mechanized Infantry
+HOPLITE
+Other DAOG-affiliated allied characters outside of Ducky's Squad:
+SSGT Katharine “Valkyrie” Becker - former KSK, joined CORYS squad (peers to their fellow AEGIS operators under the DAOG Command stricture)
+after the dissolution of the KSK. Made it to the rank of Staff Sergeant through consistent excellence despite frequent shows of sexism and misogyny
+from a loud minority of peers and superiors.
+As team leader of CORYS Squad, Katrina's main assignment is protecting the human and physical assets of the AEGIS Command structure (that is,
+protection of personnel, and immovable administrative and technical assets)
+Though not directly part of Ducky's team, AEGIS and CORYS often operate together, sometimes as parallel teams in a larger squad.
+Ilvars "Brick" Kozlovskis - former veteran Latvian SOF, close protection specialist. Part of CORYS squad with Valkyrie.
+Riptide Red is the codename of the deep-state conspiracy that planned and executed the PANDORA attacks framed to look outwardly like an act of
+war by the People's Republic of China (who, despite possessing intelligence knowledge of KINGMAKER’s existence, are not directly involved in or
+seem to know about, Riptide Red). The US’s blaming China for the attack is a plausible pretext for domestic audiences to justify harsher domestic
+security policies, suspension of the habeas corpus, and suspension of further us citizens constitutional rights, and at the same time, to destabilize
+both the US domestic and the global geopolitical situation and enable the group to carry out an effective coup of the United States, installing Barry
+James Crodyn as the 48th president of the US for his unconstitutional 3rd term in office, putting him above accountability for his recently surfaced
+criminal history with grievous crimes effectively amounting to treason.
+This however sets in motion a chain of events enabling several hostile powers to take advantage of the temporary blackout of US cyber defense and
+EW countermeasures to launch a simultaneous amphibious invasion of the US West Coast, for Russia to open a Baltic front in Western Europe, and for
+China, who are quick to exploit US weakness, and take this opportunity, to invade and annex the Republic of China in Taiwan.
+It is implied that Goldberg may have sold the information about Riptide Red to multiple governments, enabling them to plan out a coordinated
+invasion. For those behind Riptide Red, plunging the world into World War Three only served to enhance their odds of escaping accountability, and
+realizing their plan to use their wealth to insulate themselves from the consequences of the events that they had set in motion.
+
+
+[PDF PAGE BREAK]
+The Nereid Black Operator characters’ faces are modeled after the slightly age-regressed likenesses of Scandinavian actors Viggo Mortensen (Grim),
+Mads Mikkelsen (Rime), Bill Skårsgard (Lantern), and Joel Kinnaman (Undertow). Unfortunately, Nereid Black are not yet available as a playable faction
+in-game.
+El Cártel de Los Sietes, from Oaxaca, Mexico, and operating in multiple cities across the gulf United States. Their leader is Carlos Miguel Mencia de
+Vargas, known by his nickname El Tiburón (The Shark, by his strikingly distinct tattoo depicting a set of skeletal shark jaws that he bears on the
+underside of his chin and along the front of his neck) In the game, the player, as Spook, fights numerous Los Sietes members during the mission
+Pandora's Box. El Tiburón is not featured as a character in-game as is only mentioned in the mission dossier file, which also includes a photo of him.
+The player can also encounter a team of Los Sietes sicarios as Romeo during the mission Down Rodeo. 11 Los Sietes are seen taking cover inside a
+street-level bar named the K Lounge (based on the real-life R Bar located at 3331 W 8th St, Los Angeles, CA 90005, USA), exchanging fire with a
+25-man detachment of North Korean motorized shock troops positioned in a parking lot partially hidden behind a strip mall section building across
+the intersection. These eleven Cartel men are not normally hostile to the Player or his allies, though they will fire back if fired upon by the Player or his
+team, or if they spot them trying to enter the bar or approach them past a certain distance.
+At this point the player can either choose to:
+●​
+
+ignore the engagement and move along, taking advantage of the Los Sietes drawing the DPRK troops’ fire away from the intersection, or
+to defeat the North Koreans, after which the Los Sietes retreat, remaining neutral towards the player
+
+●​
+
+circle and flank the North Koreans by taking a back alley route and going down the next street to the south, moving halfway the block,
+then take a back alley to the north to emerge in an extremely well covered position in the southeastern corner of the enemy-occupied
+parking lot, giving you the upper hand and an opportunity to lay a destructive ambush. After you defeat the North Koreans, the Los Sietes
+retreat without becoming hostile.
+
+●​
+
+take out the Los Sites first, and then defeat the remaining North Koreans (quite a difficult fight, since the LS are no joke in combat and
+there are 11 of them, and you are also likely to be shot at by the DPRK troops the whole time.)
+
+●​
+
+Wait for one side to win, and then defeat the other, and move along. Again, if the Los Sietes happen to win on their own, they retreat,
+ignoring the player, unless previously attacked by them.
+
+Should the Player choose one of the latter two options, they are rewarded by an opportunity to collect another of the game's rare weapons, a CMMG
+Mk47 7.62x39mm assault rifle, dropped by one of the cartel sicarios. This weapon is especially useful during the tail end of the first campaign, given
+that Russian 7.62 ammo is reasonably often found in enemy vehicles and supply stashes, and dropped by enemies that the player encounters.
+The Los Sietes sicarios, on their own, are quite formidable enemies, using elite-level tactics to outmaneuver the player. Though outnumbered in this
+encounter, they often are able to hold their own against the enemy shock troops detachment (the battle is not scripted, so it ends up playing out
+differently on each playthrough).
+The Los Sietes happen to possess 2 vehicles parked outside the bar (a full-size domestic sedan and a 7-seat SUV). If the vehicles are destroyed but
+the Los Sietes defeat the shock troops, they retreat on foot through the rear door of the building into the alleyway. If the cars are still in drivable
+condition, the Cartel men use either one or both of them to get away. If six out of the eleven sicarios are left, and only the sedan is drivable (with 5
+seats), one of the sicarios rides sitting with his legs inside the rear passenger-side side door window of the sedan.
+There is another similar SUV that appears to have been destroyed and is stuck burning in the middle of the intersection, indicating that the Los Sietes
+may have sought cover inside the bar after the first vehicle of their motorcade got hit and destroyed by North Korean fire.
+(Real life MACV-SOG tactic for sabotaging enemy ammunition and ordnance caches: replacing some bullets in an AK magazine with hollowed-out
+bullets filled with PETN demolition explosive. This causes catastrophic failure of the ammunition inside the weapon when fired, often severely
+wounding or killing the operator. 82mm mortar rounds can be similarly sabotaged to explode inside the mortar tube while being fired)
+//The final mission Sins of Our our Fathers gets his name from a quote spoken by Goldberg during the finale:
+“Spend enough time doing what I do, and you begin to see it for what it is. An empire built on the sins of our fathers that keeps them alive to haunt
+their children. To remind them of their place. Of who they are and of what they must do.”
+//Goldberg is cynical about his role as KINGMAKER. To him, this role is but a means to an end, his true desire being to control the will of other people,
+and to spread his genetic information. He is obsessed with MKULTRA and eugenics, and uses his position to obtain victims for his covert mind control
+and breeding programs, the former of which he runs mainly out of the underground facility beneath Montoya Farm. He sees human society as defiled
+by weakness manifesting as moralist liberal ideology, and considers its moral and legal standards obsolete and a major hindrance to the powerful
+people's true potential for achieving greatness and the betterment of (rich white) men. At his core, Goldberg is just another billionaire with zero
+empathy and with a way of thinking largely disconnected from reality, but the role he plays as KINGMAKER makes him much more dangerous than as
+if he were just that.
+//Underground at the Montoya Farm the player may explore spaces not immediately tied to objectives to discover several creepy collectibles, and can
+peer through a hidden vent in one of the rooms to see a man in coveralls hosing blood off tiles and a stainless steel operating table.
+
+
+[PDF PAGE BREAK]
+The player cannot access this room directly.
+// The Player can also stumble upon a locked ”Ludovico Room” with a one-way mirror wall that seems to be used to subject victims to some kind of
+brainwashing method involving forced consumption of selected stimuli. A segment of the footage used in these procedures can be seen on a screen
+by the Player, and the desk seems to contain patient “treatment” logs for several subjects. Is this what the KYSC from the hotel had been subjected
+to?
+//Cold Plunge - The flashback mission that tells the story of a young on military exercise Cold Frontier 07 Frost narrowly surviving the encounter with
+Russian Vympel in Lapland the let to one of his comrades Jussi being killed by the attackers, and to Frost taking a 9mm bullet to the face point blank
+before tumbling 96 feet off a cliff and into an icy lake, where he fought and killed the Vympel operators with his bare hands before pulling himself
+partly ashore and losing consciousness. The discovery of the body of the unmarked Vympel operator posed a serious threat of causing an
+international incident, which was then averted by a covert diplomatic deal between Finland, NATO, and Russia that ended in reports of the incident
+being buried and inquiries into the matter suppressed. It was pretty much Frost's refusing to die that day that threatened to blow the Russians’ false
+flag attempt codenamed Parhelion-53 (Pargelyi-53) wide open in front of the world, so the Russians decided to take a safer way out of this
+predicament, too, and agreed to bury the whole thing.
+// Scene for Romeo's campaign in the sequel:
+//Jesse Welles - Good Morning, America - the song that plays as the camera pans over an early-morning view of the main street of a small American
+town at about roof height to gradually reveal the Russian flag, Russian troops in the streets and roadblocks. With signs and damage from recent
+combat hinting at the town having been recently occupied. One or 2 houses are houses I the street can be seen to have been reduced to burnt-out
+husks, their surviving inhabitants and a small group of helpful volunteer civilians with shovers and hoses are combing through the smoldering
+wreckage, trying to salvage what little is still usable from the rubble. This could be the opening to the part where you covertly support American
+resistance groups in Russian occupied US territories. The juxtaposition of an acoustic guitar protest song on top of red-dawn-esque imagery of
+familiar landscape of small town America marred by the jarring symbols of foreign occupation : foreign flags and military insignia, roadblocks and
+checkpoints to restrict civilian freedom of movement, uniformed patrols of occupying forces in the streets, ordinary people's lives ground to a
+near-halt by the brutality of the experience. It should make the player feel surreal seeing the sight on their own through the Player’s eyes.
+//Later in the sequel story line of Romeo's campaign, Cody Beaumont's death is not discussed in detail, but during a missing loading screen, the
+images show, among other things a picture of a young male, late 20s, shown deceased and suspended by the neck from an overhead highway gantry,
+a cardboard plaque crudely taped to his chest bearing the following inscription in both Russian Cyrillic and in English: An American traitor to the
+Russian Federation who conspired with the enemy to lead American soldiers on to Russian positions and helped them cruelly murder brave Russian
+men. May his death be a warning to those who seek to follow his ways.
+The man’s body seems to indicate him having suffered a devastating and torturous death at the hands of his chapters who sought his death to be an
+example to other insurgents in the towns of Calloway, KY and the nearby Redbud community. It is never specified that this is what really happened to
+Cody that none of the game characters want to fully acknowledge out loud, the image does not confirm this explicitly. The connection is merely
+implied, strategically ambiguous, and ultimately left for the player to make.
+// Sequel character.
+Vyacheslav “Slava” Timofeevich Glushkin - FSB field officer attached to the occupying force that controls the areas of Calloway and Redbud. He is
+seen by the player interviewing Gene Marlow during the second mission Low Ground in Romeo's sequel story campaign Good Morning, America.
+Glushkin is likely a major antagonist of Romeo's sequel campaign, and the Player as Romeo gets a chance to kill him during one of his late-campaign
+missions in the sequel story. He is a seasoned FSB “illegal”, an agent who had spent extensive time on covert intelligence assignment inside a foreign
+country, awaiting to be activated by his handlers at the Kremlin. Glushkin has lived and operated in the US under the falsified FSB cover identity of
+aerospace electrical engineer Brent Tibbets from Haverhill, Massachusetts.
+Glushkin’s cover persona is extremely convincing. He speaks perfect American English and is well versed in American culture and the realities of
+everyday life of Americans. He is not likely to be fooled by most disguises and subterfuge manoeuvres done by the Americans, which is why he is in
+the position that he is in at the moment.
+His demeanor and style of behavior are heavily based on Christoph Waltz’s character portrayal of the Nazi officer Obersturmbahnführer Landa in the
+film Inglorious Basterds by Quentin Tarantino. His looks are completely distinct from Landa’s character, and Glushkin is not a direct callback to Landa,
+but is meant to come across as a similar archetype of antagonist. Sophisticated, complex, educated, brilliantly intelligent, charming and
+conversationally apt, and well-composed, but hiding a brutally decisive and surgically precise mind with an undeniable killer instinct underneath the
+facade.
+//Glushkin's full patronymic name is Vyacheslav Timofeevich Glushkin
+According to information obtained by the CIA from exfiltrated FSB intelligence records data, Tibbets was born as Vyacheslav Timofeevich Glushkin in
+1982 in the city of Volgodonsk, Rostov Oblast, RSFSR, Soviet Union.
+Owing to his family’s social status and his father’s Communist Party connections, Glushkin was able to earn a Translation, Linguistics, and
+Cross-Cultural Communication degree in English and Mandarin from MGIMO (Moscow State institute of international relations), followed by 18
+months of clandestine Linguistics training in English at a covert FSB training facility in Korolyov near Moscow, and then another 18 months of FSB
+officer training at the Academy of the Russian Federal Security Service in Moscow.
+
+
+[PDF PAGE BREAK]
+Following the training, he was given the assigned manufactured identity of Brent Henry Tibbets (the stolen or “ghost” identity of a 24 year-old
+homeless substance-addicted man without any known living relatives, originally from Haverhill, MA, whose whereabouts have been unaccounted for
+since approximately 9 months before the start of Glushkin's deep cover assignment. No one ever reported Tibbets missing, or inquired about his
+welfare or whereabouts since his disappearance. There is no official record of Tibbets’s actual remains ever being recovered or identified. There is no
+death certificate to his name, and the body is likely still out there, and has either been misidentified as someone else or buried as a John Doe after no
+one had come forward to identify or claim his remains. His disappearance from the face of the earth went under the radar of the authorities, which
+made Tibbets the perfect cover identity that the FSB needed to plant Glushkin in deep cover inside the United States), and dispatched to the
+northeast of the US as an illegal posing as a newly enrolled student at MIT. With the aid of FSB influence and financing, Glushkin earned an admission
+to the electrical engineering and aeronautics engineering programs at MIT at age 25, and managed to complete both degrees by age 29. At age 30,
+he used the connections he had built at MIT to land an engineering job with Specter Aerospace at the company headquarters located in Peabody,
+MA.
+Glushkin speaks 9 foreign languages fluently (that’s 10 languages total, if we include his native Russian): English, Mandarin, Arabic, Spanish.
+Portuguese, French, Greek, German, and Farsi. He is also well-versed in the history of English, and to a large extent also a history of Chinese
+languages, and also has solid knowledge of ancient Greek and Latin. He can also speak conversational level Chechen.
+Glushkin is known to semi-competitively play chess, and is proficient at using standard Russian military infantry weapons, owing to his FSB combat
+training.
+// Sequel note
+Suggested campaign titles for the sequel
+Campaign 1: (Romeo) American Freedom
+Campaign 2: (Ducky) AEGIS Falls (working title)
+Campaign 3: (Spook) Godkiller
+// Sequel lore note: suggestion for a late game lore name:
+The movement that Romeo helps start in Calloway, KY, later (potentially after the campaigns events), expands to incorporate smaller resistance cells
+in other occupied cities and becomes known as the American Freedom Corps (AFC)
+// Sequel note:
+China must likely become a major World War Three player in the second game given that with the US cyber capabilities temporarily knocked out it has
+effectively become the world's premier digital and military superpower. Not to mention that by annexing Taiwan, China monopolized access to one of
+a kind strategic chip foundry facilities
+The sequel’s story should show China, having already annexed Taiwan during the tail end of the story of the first game, making moves on territories in
+South Asia and the middle east. China is also likely to open a South Pacific Front with NATO by attacking the northeastern coast of Australia. Possible
+playable mission in the sequel where you fight a Chinese invasion force off an on the Australian Coast
+//Sequel plot note for Ducky's story
+At some point the narrative must lead the Player through Ducky's point of view to question who exactly built AEGIS? Who were the architects? Where
+did the technology and the funding necessary to build and operate it actually come from?
+We know it is supposed to be an “accountable” way of using a fictional EU equivalent of real life palantír software.
+And that ties back to the earlier questions. Who made it? European defense companies? Or did the EU buy it? If so, then who from?
+These should be the threads that the Player must pull on as the progress on their story.
+//Sequel note: Plot suggestion for Ducky's campaign story:
+Bring back the Grim and the Nereid Black Team in the mission Hill Breach, where they come to the rescue of the Player and their team who are
+trapped aboard a ship (or a submarine after, say getting caught by the FSB, and are being taken to a Russian extrajudicial prison. Nereid can pull a
+daring assault on the submarine while it is still in port, scuttling it, dealing significant damage to Russian naval capabilities in the Baltics and the North
+Sea, and exfiltrating the AEGIS operators to safety in the process).
+//Sequel note: suggestion for a mission in Ducky's campaign
+Defend Europe’s only ASML lithography machine from Chinese (?) sabotage.
+// First game Ducky's campaign note
+Change Faroe islands to Svalbard, because it is colder and better for the location of the main AEGIS datacenter.
+
+//SEQUEL PLOT OUTLINE DEVELOPMENT PROMPT:
+
+
+[PDF PAGE BREAK]
+I like the overall architecture of the story that you propose, because it also makes for what I believe to be an exciting change in the play style of the
+other two playable characters (Ducky and Spook). The way the threads are interwoven and built has the potential to make the story quite riveting and
+to seed some strong threads to lead into the likely 3rd-game storyline (we should not get too deep into the 3rd sequel, IMHO, but soon, we might get
+an opportunity after we flesh out what we have already partially built).
+Now regarding the significant course-altering campaign event that reaches into all 3 campaign stories, resulting in each campaign's main story
+character experiencing this event from a unique perspective, that ties together at the end of the story with the other main character's narrative
+perspectives. I have to admit, this is a brilliant plot device that I have also been mulling over introducing, but I have not yet firmly decided on what the
+actual event is. I have a few ideas on what this central event could be, I'll tell you mine, and then I'll be keen to hear the suggestion that you mentioned
+you have for how this event could be treated in the different characters' campaign storylines.
+Here are my rough ideas and suggestions for what the event could be:
+●​
+
+Goldberg secretly has a falling out with President Crodyn over matters of deciding what the best damage control is to deal with some
+unintended and unexpected developments in the global war that their conspiracy plan just started. Crodyn, having achieved the desired
+state of national instability that paved his way to suspending the US election, and being awarded an unconstitutional 3rd term in the Oval
+Office as a "wartime president" (As argued by compromised US Supreme Court justices Creighton Howard and Walter Pedilla in their
+notes on the SCOTUS's ruling that the two-term presidential limit in office can be temporarily suspended under specific extraordinary
+circumstances, such as in the event of a nationwide emergency or an ongoing war on the territory of the contiguous United States), and
+after having used vicious jingoistic rhetoric to (falsely) assign blame for the West Coast Pandora attacks on China in the global news
+media, framing it in public as an unprovoked act of foreign military aggression aimed against the United States, Crodyn is terrified of the
+Russian's strategic pivot towards successful capture and occupation of large swathes of territory of the US east coast. Crodyn, panicking
+after the secret deal falls apart, leading Russian President Baranov, North Korean Supreme Leader Kim Yon-Chol, and the Iranian Supreme
+Leader Hojjatollah Sayyid Mehrdad Esfandiari to renege on the secretive backroom deals they had previously made with Crodyn's people
+in the Riptide Red Circle under the pretext of "going along" with Crodyn's US staged US coup plot (masquerading as a legitimate US
+national security response to a Chinese cyberattack) (The topmost intelligence people in Russia, Iran, the DPRK, and in China knew better
+at that point than to disturb an enemy who's about to make a fatal mistake), is furious with Goldberg over the failure of the deal, accusing
+him of sabotaging the plan to to try to eventually oust Crodyn and hand America right over to its adversaries under the guide of a puppet
+government, propped up by people behind KINGMAKER and Riptide Red. Crodyn demands that Goldberg "makes the whole thing go
+away" or to otherwise get it back under control by any attainable means. At the height of this private altercation, Crodyn goes as far as to
+threaten Goldberg that if he tries to "grow a brain" of his own and seek to throw Crodyn and his political allies under the bus to protect his
+ow Status as KINGMAKER, Crodyn will expose him to the public, which for a man in Goldberg's position would effectively be a death
+sentence at this point (With his secret role exposed to the public, every intelligence agency and doomsday cult in the world would come
+after Goldberg, some for revenge, others seeking to learn what he knows. Others, still, who might seek to overthrow him and take his
+place as KINGMAKER, or to simply bring his head on a platter to whoever happens to promise to pay the most for it. Goldberg would
+become “radioactive” overnight, ensuring that he is disavowed by his institutional protectors, leaving him exposed and extremely
+vulnerable). Faced with an impossible choice and looming betrayal by his likely most powerful co-conspirator, Goldberg resolves to pull a
+surprising move: he defies Crodyn’s will and lets himself be apprehended and arraigned in court by US authorities on charges of
+mishandling sensitive documents related to the investigation of the KYSC bombing that led to the destruction of the Desautels Resort
+Hotel in Miami during the events of the first game. He is given a lenient plea deal by a Florida state prosecutor Lawrence Kaylor
+(fictionalized version of former US Florida State Attorney and later Trump cabinet nominee Alex Acosta), and sentenced to a total of 24
+months in federal, with earlier parole eligibility no less than 6 months into his sentence, contingent on his behavior at the Coleman Federal
+Medium-Security Correctional Facility in Sumterville, FL. A few weeks into Goldberg’s serving out his prison sentence, the Sumterville
+penitentiary is attacked by an elite Los Sietes Cartel operations team in a highly-coordinated prison-break operation led by Edgar Murillo
+“Bisutrí” Lozada Arias (sometimes also referred to as “El Biz” by some in-game character), El Tiburón’s second- in-command (Arias’s
+nickname means “scalpel” in Spanish, an unmistakable hint to the Player about how the Los Sietes’ top sicario is known to operate,
+referring simultaneously to the brutality, precision and efficiency of the methods that he chooses to employ in achieving his objectives).
+The attack on the prison causes massive damage, leading to the near-complete destruction of one of the facility’s blocks, in the course of
+which Goldberg is declared dead, having been killed by the explosion that almost completely destroyed one the prison’s cell block that
+Goldberg was held in. It is later revealed that this incident has been a deliberate cover up to conceal Goldberg’s covert extraction by
+Bisutri’s team (with the help of Cartel contacts inside the US bureau of prisons, Goldberg and the Los Sietes orchestrate a bait-and-switch
+operation planting a mutilated corpse contaminated with Goldberg’s DNA to fabricate evidence of Goldberg’s death during the attack).
+The world is convinced that Goldberg is dead, but he has just gone deeper into hiding to recover his resources and launch a clandestine
+intelligence “counter-offensive” operation against Crodyn and his circle to reclaim his status as KINGMAKER. I’m thinking Spook might be
+able to catch up to Goldberg at this point in his story, prompting an interesting “Dead Man Walking" narrative angle which can, through use
+of irony, be relatable to both Spook’s and Goldberg’s current situation at that point in the story. Goldberg being officially dead puts an
+
+
+[PDF PAGE BREAK]
+interesting spin on Spooks narrative, as he is now on a hunt “to kill someone who is already dead”, and knowing full well that the staged
+death only serves to put Goldberg ever further out of reach of those seeking to make him accountable for his past transgressions. It is as
+if by dying Goldberg has transcended to an even more elusive form of power broker - no longer a mere man, but a kind of false god,
+which leads Regent, Spook, and the rest of the Victor Two Bravo team to ask the momentous questions ”How do you kill a god?” echoing
+Regent’s words spoken earlier in-game dialogue, and the overall title of Spooks’s campaign’s story. I have no yet decided on the exact
+shape of the final climactic confrontation between Spook and Goldberg, but I know we’ve made a rough sketch of that earlier, so later, we
+can come back to it and flesh it out when we have crystallized other parts of the story that we must figure out first.​
+●​
+
+Another possible suggestion, an alternative main structural campaign event that overlaps in different angles with all three playable
+storylines, could be centered around a nuclear strike somewhere in the west. A massive irreversible significant event, with a complicated
+background of muddy international geopolitical intrigue. We can choose how we develop this in terms of specific plot points. Will it be
+revealed to be yet another distraction perpetrated by Crodyn and his conspirators to lead the public away from the US administration’s
+crimes? Is the attack an unplanned consequence of another , yet unknown insurgency or hidden power struggle inside one of the enemy
+State powers? Is the attack an escalation to the next phase of the world war? We can choose whichever fits best given the eventual
+development of the rest of the story.
+
+●​
+
+The third, but least-developed alternative that I have considered so far is that the momentous overarching event that touches and
+influences the story in significant ways could be someone (either one of the player characters directly, or another main story character)
+revealing the betrayal of a highly trusted and influential person within either DAOG or some other entity that has heretofore been either
+seen as either benevolent, beneficial or neutral towards the players goal. This betrayal reframes this character or entity as hostile and
+creates a new sense of pressure, tension and friction that could drive the story in new directions. I don't have any more specific
+suggestions to this point yet, but if this proves a viable plot point that we can later develop further, I am happy to revisit and flesh it out
+some more.
+
+Out of the three rough ideas that I laid out above, which one do you think makes for the best storytelling development opportunities? AlsoI am now
+genuinely curious about the suggestions that you have for what this critical story plot event might be.
+
+//Sequel note: flavor idea for campaign story teaser trailers
+Romeo’s Story (American Freedom) Teaser video is: set to Jesse Welles Good Morning America, The tagline: War Hits Home. American Freedom.
+Coming Q2 2028
+Ducky’s Story; Teaser video sequence is set to Kyiv by Apashe and Alina Pash, The tagline: We Are Taking Our Home Back. AEGIS Falls. Coming Q2
+2028
+Spook’s Story; Teaser video set to King Nothing by Metallica, The tagline: How Do You Kill A Man Who’s Already Dead? Godkiller, Coming Q2 2028
+//Main character.backstory note: Romeo
+Pablo Ignacio “El Furtivo” Hernández Díaz - High ranking Los Sietes-affiliated human trafficker and close business associate of Goldberg 's. Frequently
+sources people for Goldberg's Miontoya Farm projects. He is the one who gets broken out of Sumterville, FL prison, while a second team of attackers
+work with paid-off correctional staff to plant a fake and badly mangled corpse of “Goldberg” with Goldberg's DNA in it in one for the open cells, and
+the move to the medical Bay where the bribed guards have brought Goldberg lying on a gurney, covered head-to-toe with a white sheet. Goldberg,
+however, is alive and well (the Cartel’s prison staff contacts, having been tipped off about the time of the break, have secured Goldberg in the prison’s
+medical Wing on the pretext of a necessary medical checkup). The cartel men usher Goldberg into an oblong blocks coffin-like box, which he lies
+down in for the cartel men to secure the lid and order the COs to take the box out the back of the medical wing and load it into a waiting hearse
+(positioned inside the prison facility several hours prior to the breakup by a Cartel team.). They then motion for the COs to drive, while the Cartel men
+themselves follow the hearse in their own black SUV. All the while the fighting in the other wing of the prison is still ongoing, mostly among prisoners,
+given that El Furtivo and his extraction team are likely already gone by that point. The chaos helps the attackers verte cover their escape and keep she
+ckreftik alsecurotu staff busy with riot control and too busy to chat the cartel during their exfiltration
+// Second-game character idea:
+Yelena “Eli” Dimitrievna Volkova - the real identity of Laura Isabela “La Avispa” Tejada Rojas - a former FSB covert surveillance specialist, who defected
+following an operation gone awry, she eventually found her new identity as one of The Los Sietes top people trackers. If you're looking for someone
+out there, she’ll find them, typically for a price. She is a high-ranking enforcer and gets her name from her general proficiency at using blades of
+various length and types as weapons. But, make no mistake, Laura just as easily knows her way around a firearm and will easily handle anything from a
+.22 suppressed pistol to a mounted machinegun, when the situation calls for it.
+Appearance-wise, La Avispa is Caucasian with mildly ethnically ambiguous facial features. Her hair is dark and on the shorter side, with a few
+occasional faint streaks of grey, parted neatly down the center. Her exact age is not known but she could be in her late 30s, possibly early 40s, as
+
+
+[PDF PAGE BREAK]
+estimated based on data available about her background. She is 5ft 5in in height, and 115 lbs. She appears to have an elaborate Japanese-style full
+back and front piece tattoo covering her entire torso and extending to also cover most of her arms. She may possibly have other tattoos that have not
+yet been documented.
+// Plot dynamic idea note:
+Add a few missions in the second-game campaign for Spook where he must work with La Avispa, despite initial suspicion, the plot forces them into
+dramatic situations giving them no other option but to depend on each other to pull through. This grows into a quiet trust and a unique sort of bond
+and understanding between Spook and La Vespa. By the end of their mutual ordeal, Spook learns a lot of her private story; her youth growing up near
+the black sea coast in southern Russia, her promising career in the Russian intelligence community, the fateful botched surveillance operation that got
+her burned by her team and superiors. Her defection from Russia and her life on the run first through Venezuela, then to Cuba, Panama and finally to
+Mexico, her finding her way back to the criminal underworld, and her rise to prominence with the Los Sietes, … And she will learn a little bit about
+Spook's story, too. And just for a moment, maybe, there is something, something like a fleeting moment of feeling, of longing, of strange romantic
+tension. But none of that has time to develop into anything more defined for now, because the story inevitably forces Spook and La Avispa to part
+ways, perhaps so that one day they could meet again another day.
+//Second game lore idea:
+UNHMNA - The name of the United Nations Humanitarian Mission to North America formed and dispatched to the United States and to the border
+adjacent areas of northern Mexico and southern Canada affected by the PANDORA attacks to deal with casualties, food, clean water, and medical
+supply shortages, and lack of basic critical infrastructure functionality due to widespread damage caused in the aftermath of the attack. Crodyn,
+having over his previous years in office all but dismantled FEMA, and US federal disease relief capabilities in general, through his corrupt cronyism,
+faux-reformist policymaking and shady, often insider, business dealings, ensured that when the attacks hit and most of the East Coast was taken out,
+while the army was stuck defending what they could of the west coast and pushing the enemy out to stabilize the region, there was not enough
+capacity left to help even a fraction of the people in need. Their presence in game produces another jarring image that juxtaposes the iconic
+appearance of American cityscapes and suburbia with images of white UN humanitarian aid tents, and checkpoints featuring the iconic white-liveried
+UN military vehicles manned by troops in foreign (as in, non-American) looking camouflage fatigues, and donning their signature blue-colored
+military helmets. This kind of imagery is historically associated with European African and South East Asian military conflicts in the era between the
+1980s and 2010s (The previous conflict in Gaza, Iran-Iraq war, The Gulf War, the Yugoslav Wars, Eritrea. Somalia, Sudan, Syria, Libya, Timor Leste,
+GWOT, ,... ) and the game’s visual design juxtaposes it into a familiar landscape and environment in a way that is uniquely unsettling and jarring to
+western viewers especially. The time has changed, but the implications of human loss. hardship, and suffering that this imagery evokes are the same
+regardless of time and place. As part of this mission, 2 hospital ships, the Dawn of Mercy and the Beacon of Hope are dispatched to UN controlled
+ports on the US’s eastern seaboard.
+// Event timing note - first game.
+The canonical storyline date for the “big” nationwide PANDORA attacks (the one that happens at the same time as spook confronts Goldberg on East
+McFarlane Island, at the end of his first-game campaign) in the United States is September 3rd 2028, 2 months and 3 days before the upcoming US
+Presidential Election. The US West Coast attacks were first reported on by local media at 1033 PST. Massive infrastructure outages and a partly
+deliberate communications blackout slowed down the spread of the reports nationally and internationally.
+// Gameplay idea.m note: Use the Inspect weapon key/button to view the controls for all attachments that are currently on your weapon.
+//Character background flavor note: Romeo
+How Romeo got his nickname. Romeo got his nickname during his Ranger School Selection course. He was a young corporal at that time, though
+exceptionally physically fit, and a solid, though not well experienced and had a rather poor set of boundaries with respect to the strictness of life in the
+military. One day during Richard's school selection, Romeo was approached by one of the drill sergeants who needed to help complete the physical
+task and he repeatedly addressed Ramon which was his name at the time Romeo's name of the time as Romeo as refusing to acknowledge his real
+name. So at one point the sergeant motioned for Romeo to follow him outside to the site of the actual physical task that he wanted him to perform.
+Romeo said quite out loud as the drill sergeant that is back turned to him, in his native Spanish: “Me llano Ramón, cabrón! ”. After that, the entire
+platoon was ordered out into the rain and Romeo was smoked by the Dale Sergeant for 25 minutes straight up. After that, the nickname kind of stuck
+and overtime and Romeo just accepted it as part of his identity as a soldier. His sense of boundaries in terms of military convention and proper
+conduct has also vastly improved since then.
+//
+Gennadiy Fyodorovich Lipnin; Very high ranking KGB officer, who went to work for the FSB after the fall of the iron curtain. He is one of the chief
+strategists of the program that planted agents like Glushkin and Lebedev. He operated as a senior officer based at the FSB headquarters in Moscow,
+and closely oversees the deep cover asset exploitation and coordination, sometimes, almost on a day to day level and performs detailed inquisitive
+check-ins with subordinate operational officers.
+//
+Douglas Paul Nasmith; born: Grigoryi Pavlovich Lebedev, in: Nizhnyi Novgorod, USSR, on: March 11 1970, 58 years old (in the story timeline)Russian
+economist and FSB deep cover operative living in Boston, MA for 33 years under a manufactured Identity. Working as head of the Finance department
+at Boston City Hall. Lebedev is activated approximately 3 months before the PANDORA attacks, and upon making contact with his handlers he is
+given a series of operational tasks that are part of a plan to facilitate a takeover of the city of Boston upon invasion by receiving cookies of the city's
+infrastructure documentation, service access route maps, Intel indicating and locating exploitable, structural vulnerabilities, and strategically placed
+defensible chokepoints inside the city’s densest built-up areas. It was Lebedev’s designated assignment upon activation, to find, gather, secure, and
+deliver to the FSB precisely this kind of information. Upon receiving the order from his handler to do so. Lebedev activated Glushkin.
+
+
+[PDF PAGE BREAK]
+//Note: Spook's campaign in the sequel includes a ironic narrative twos on the Flood the zone with shit” statement by the real-life Steve Bannon,
+Tripper ends up using the hardware implant from Montoya Farm implant covertly feed disinformation to poison what its users are certain is an
+impenetrable private communications network, sowing confusion, impeding logistics and coordination and stochastically fomenting conflict among
+normally complicit parties by feeding fake intel about the other collaborators’ covert activities against their associates’ business interests.. In doing so,
+Tripper weaponizes targeted manufactured disinformation to wage informational warfare on those words earlier done the same to the rest of the
+world. In other words, Tripper manages to turn the tables on the Shadow Underground and flood their “zone” with the same kind of proverbial shit.
+We should put a subtle nod to it somewhere in Spook's second-game campaign.
+
+
+[PDF PAGE BREAK]
+----------------------------------------------------------------------------------------------------

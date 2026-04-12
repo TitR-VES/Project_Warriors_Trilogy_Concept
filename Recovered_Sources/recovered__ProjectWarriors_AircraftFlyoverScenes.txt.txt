@@ -1,0 +1,83 @@
+PROJECT WARRIORS — AIRCRAFT FLYOVER SCENE DESCRIPTIONS
+Compiled from Meta Thread Development
+========================================================
+
+
+SCENE 1 — THE EPIC FLYOVER (Romeo's Campaign, Game 2 — American Freedom)
+Location: Harlan County, Kentucky (near Calloway and Redbud)
+Mission context: Following the rescue of Aldrich / late campaign sequence
+
+Description:
+After freeing Aldrich, Romeo's team is in a vehicle being pursued by Russian forces through the Kentucky countryside. The pursuit vehicles are UAZ-type light trucks with mounted guns — fast enough to maintain pressure, not fast enough to fully close the gap on Romeo's vehicle running at full speed. Multiple vehicles in pursuit, at least one with an active mounted gun continuing to engage the player throughout the chase.
+
+At a dramatic moment during the chase, a US Air Force AC-130 gunship (callsign to be determined) makes a low, slow pass overhead — appearing suddenly over the ridgeline or treeline. The aircraft is massive, close, and loud. It descends to a dangerously low altitude directly over or adjacent to the road, its engines shaking the air. The image of a slow, enormous turboprop military gunship appearing at low altitude over a typical Kentucky rural landscape — fields, farmhouses, winding roads — is deliberately jarring and cinematic.
+
+The AC-130 proceeds to engage the pursuing Russian vehicles, eliminating or scattering them and breaking off the chase.
+
+Narrative mechanic / how the pilots got there:
+Earlier missions in Romeo's American Freedom campaign (likely Dead Air or a related mission) inadvertently created a communications benefit for US Armed Forces operating in the region — Romeo's resistance cell actions disrupted or intercepted enemy communications in a way that gave US forces an unexpected operational advantage, possibly enabling the capture or denial of a strategically important position. This created an informal awareness among US military elements of who Romeo's group is and what they are doing.
+
+This flyover occurs BEFORE President Crodyn's wartime address declaring the AFC a domestic terrorist organization. The pilots are therefore still operating in a grey zone where supporting what appears to be American resistance fighters feels permissible — they have a hunch about who these people are, they've heard enough through operational channels to make an educated guess, and they act on it. After the Crodyn declaration, the same pilots could no longer make the same call.
+
+The pilots spot Romeo's team being pursued, radio it in, receive permission to divert and provide close air support, and route to their location. The rest plays out as written.
+
+Visual and tonal notes:
+- The image of the AC-130 at low altitude over rural Kentucky is intended as a striking, almost surreal visual — familiar American landscape suddenly occupied by an instrument of war
+- This is flagged as strong trailer / promotional asset material
+- The slow, deliberate approach of the aircraft contrasts with the speed and chaos of the chase sequence below it
+- The sound design of this moment is critical — the deep rumble of four turboprop engines at low altitude should be physically felt by the player before the aircraft is fully visible
+
+
+========================================================
+
+
+SCENE 2 — THE A400M FLYOVER (Context: General world-building / promotional concept)
+Aircraft: Airbus A400M Atlas (DAOG designation: ICARUS)
+
+Description:
+A massive turboprop military transport aircraft — the Airbus A400M — makes a slow, low pass directly overhead of the player's position in a recognizably ordinary American suburban environment. The contrast between the familiar domestic landscape below and the scale and weight of the military aircraft overhead is the entire point of the image.
+
+The A400M is enormous and slow relative to jet aircraft. At low altitude its four large turboprop engines produce a distinctive, deep, resonant sound unlike anything most civilians would have heard at close range. The aircraft fills the frame. It is close enough that markings and details are visible.
+
+This image — a giant NATO military transport at low altitude over American suburbia — is cited as one of the defining visual expressions of the game's core theme: the collision of the familiar and the catastrophic. The world has not waited. The war has come here.
+
+This image is flagged as a key promotional and trailer asset. It encapsulates the scale of the conflict and the surreal quality of invasion and occupation on American soil in a single, wordless shot.
+
+DAOG asset designation: ICARUS (Airbus A400M) — part of the HERMES airlift component of DAOG Command's force structure.
+
+
+========================================================
+
+
+SCENE 3 — THE AC-130 ON AN ATTACK RUN (Context: General world-building / promotional concept)
+Aircraft: AC-130 gunship
+
+Description:
+An AC-130 gunship passes at low altitude on an attack run over or near a typical American suburban neighborhood. The image of the aircraft — its guns active or implied — against the backdrop of ordinary American houses, yards, and streets is deliberately dissonant.
+
+This is paired conceptually with the A400M image as part of the broader visual language of the game: large, slow, purposeful military aircraft operating at low altitude over recognizably American civilian environments. The scale of the machines against the domestic scale of the landscape is the emotional payload.
+
+Both the A400M and AC-130 images are described as the kinds of things "you'd never believe" — invoking the Tears in the Rain / Roy Batty thematic underpinning of the studio identity. The player gets to witness things that feel impossible and yet are happening.
+
+
+========================================================
+
+
+ADDITIONAL CONTEXT — Red Dawn Callback (Romeo's Campaign, Game 2)
+Location: Smoky Mountains, visible from distance during a navigation moment in a mission
+
+Description:
+At a specific point during Romeo's American Freedom campaign in Game 2, the player — while navigating on foot through terrain — spots in the distance over the Smoky Mountains a formation of enemy paratroopers descending. The parachutes are visible at distance, a deliberate callback to the 1984 film Red Dawn.
+
+This image serves a dual narrative purpose:
+1. It functions as an in-world navigation device — the player sees where the paratroopers are landing and understands instinctively that this is where the mission is heading next
+2. It is a deliberate visual homage to Red Dawn, designed to be felt rather than stated — no dialogue draws attention to it
+
+The image is flagged as strong trailer and promotional asset material — specifically as a standalone rendered version separate from gameplay, for use in teasers and promotional campaigns. A suggested trailer treatment: the shot opens on the Smoky Mountains peaceful and still, then the paratroopers begin to appear — first one, then dozens. Music shift completes the moment.
+
+The callback works for players who know Red Dawn and works independently as a striking image for those who don't. The reference should never be made explicit in dialogue or any other in-game element.
+
+
+========================================================
+END OF DOCUMENT
+----------------------------------------------------------------------------------------------------
