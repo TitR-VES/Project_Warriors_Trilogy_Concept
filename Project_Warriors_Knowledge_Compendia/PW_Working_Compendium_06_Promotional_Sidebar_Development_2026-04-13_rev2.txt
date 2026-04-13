@@ -1420,6 +1420,11 @@ KEY CREATIVE DECISIONS MADE IN THIS THREAD
    Both Stefan and Claude independently arrived at the same placement
    instinct — confirmed as correct.
 
+2a. Yunnan traversal audio-staging note: use a brief non-diegetic music
+    bed during the compressed approach into the border-crossing area,
+    then cut to near-natural sound for the interactive crossing
+    and preserve the helicopter reveal as a no-music rotor-driven beat.
+
 3. RAW POV/DRONE FOOTAGE GRAMMAR — AEGIS FALLS
    Stefan's suggestion: some of the quick cuts in Ducky's teaser
    should reference the visual grammar of modern warfare as audiences
@@ -1464,6 +1469,16 @@ KEY CREATIVE DECISIONS MADE IN THIS THREAD
    bearing: it confirms to the audience that the DECEASED stamp was
    wrong, without a single word of explanation.
 
+7. Yunnan traversal music-placement lock: Creedence Clearwater Revival
+   “Sinister Purpose” is approved as a special-use candidate for the
+   Spook Game 3 Laos→Yunnan crossing, but not for the hillside-pass
+   helicopter reveal itself. Best placement is as a brief non-diegetic 
+   bed over the compressed traversal segment leading into the border-crossing
+   area. Cut the track before the La Avispa border-crossing sequence begins,
+   or at the latest before the helicopter scene. Do not frame it as a blunt
+   Vietnam-reference jungle cue; use it for menace, forward pull, and Spook/La Avispa
+   ambiguity. Headphones / obvious diegetic playback during covert foot movement
+  is not the preferred solution.
 
 NOTES FOR FUTURE DEVELOPMENT IN THIS THREAD
 ---------------------------------------------
