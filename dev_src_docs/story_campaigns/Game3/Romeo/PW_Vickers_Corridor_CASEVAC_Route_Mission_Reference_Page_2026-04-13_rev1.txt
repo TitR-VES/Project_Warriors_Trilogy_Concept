@@ -1,0 +1,486 @@
+PROJECT WARRIORS — SOURCE-READY REFERENCE PAGE
+Title: PW_Vickers_Corridor_CASEVAC_Route_Mission_Reference_Page_2026-04-13_rev1
+Date: 2026-04-13
+Version: rev1
+Thread lane: Who Dares Wins DLC development / Romeo Game 3 Boston arc
+Status: source-ready development page
+
+================================================================================
+MISSION FUNCTION
+================================================================================
+
+This mission is the first hard proof that Lt. Dorothy Anne Vickers's arrival is
+not rhetorical. It is the mission where British widening stops being a briefing
+claim and becomes a material gameplay reality for Romeo.
+
+The mission's primary function is not spectacular destruction. Its purpose is to
+open, hold, and validate the first dependable late-game British CASEVAC corridor
+inside occupied Boston. The player should come away understanding three things:
+
+1) the British package can do something the local resistance could not yet do on
+   its own: create a usable extraction artery under pressure
+2) that capability is limited, risky, and hard-earned rather than magically
+   omnipresent
+3) once it exists, Boston feels different to play because survival options have
+   actually changed
+
+This mission should be the first point in Romeo's Boston campaign where British
+military CASEVAC exists as a mission-facing reality rather than background lore.
+It should not arrive too early in the arc. The player should feel the contrast
+with earlier Boston missions where wounded personnel had to be hidden, dragged,
+carried, or abandoned to improvised solutions.
+
+
+================================================================================
+WORKING MISSION TITLE
+================================================================================
+
+Primary recommendation: LIFELINE
+
+Why it works:
+- clear link to casualty movement without sounding like a pure medical mission
+- speaks to logistics, survival, and fragile continuity rather than heroics
+- reads well on a mission card and in briefing language
+
+Backup options:
+- CLEAR RUN
+- OPEN ROUTE
+- SAFE CONDUCT
+
+Recommendation: keep LIFELINE unless a later Boston mission takes a stronger
+claim to that title.
+
+
+================================================================================
+PLACEMENT IN BOSTON ARC
+================================================================================
+
+Recommended placement: early-to-mid Act III, after Romeo's first proper contact
+and briefing with Vickers, after the player has already worked with SAS/SBS lanes,
+but before British support becomes comfortable or routine.
+
+This should be the hinge mission that converts the British presence from:
+"there are British operators here"
+into:
+"there is now a British-backed support artery inside this city"
+
+Suggested structural location:
+- after Vickers first-contact / first-briefing scene
+- before the biggest harbor or shadow-government operations widen fully
+- before late-game support becomes normalized
+
+
+================================================================================
+CORE PREMISE
+================================================================================
+
+AFC resistance elements and local civilians have been paying a mounting price for
+being unable to move badly wounded personnel out of an eastern-to-central Boston
+combat pocket fast enough. Vickers has identified a narrow, temporary opportunity
+to create a protected evacuation corridor from a contested inland neighborhood to
+a British-held receiving position tied to a covert shore-side logistics node.
+
+The route is not broad enough to move a battalion. It is not a liberation push.
+It is a survivability artery: enough width, time, and security to move wounded,
+critical personnel, and limited high-priority materiel out before the occupation
+can collapse the window.
+
+Vickers's read is simple:
+- the Russians are strong in static control and response mass
+- they are weaker at once their surveillance picture is fractured and multiple
+  small support nodes are hit nearly simultaneously
+- Boston does not need a grand breakthrough here
+- it needs one route that works tonight
+
+The mission therefore becomes a deliberately controlled late-night corridor fight
+through service streets, rail-edge access lanes, underpasses, loading yards, and
+warehouse-adjacent hard cover rather than a broad front-line assault.
+
+
+================================================================================
+THE ROUTE ITSELF
+================================================================================
+
+The corridor should feel physically plausible, urban, and unglamorous.
+Not downtown postcard Boston. Not a giant battlefield boulevard.
+
+Recommended environmental character:
+- outer industrial / light-commercial service belt feeding toward the harbor side
+- truck yards, fenced depots, drainage cuts, rail spurs, loading bays, utility
+  alleys, small underpasses, dead-end service roads, back-lot retaining walls
+- intermittent residential edges or mixed-use blocks showing that the war is
+  pressing right up against ordinary city life
+
+The route should be broken into four tactical segments:
+1) the pocket — where the wounded and pinned fighters actually are
+2) the breach lane — first movement out through enemy-controlled overlap zone
+3) the compression zone — the dangerous middle, where the route narrows and the
+   enemy can still collapse it if not actively suppressed
+4) the receiving end — a British-backed strongpoint / transfer site where CASEVAC
+   becomes a real system and not just a promise
+
+
+================================================================================
+MISSION THESIS
+================================================================================
+
+This mission is about proving that support infrastructure is a form of power.
+Not every turning point in liberation is a dramatic assault on a famous place.
+Sometimes it is the first night your wounded stop dying where they fell.
+
+That is what Vickers is bringing to Boston.
+
+
+================================================================================
+PLAYER PACKAGE / FRIENDLY FORCES
+================================================================================
+
+Primary playable character: Romeo
+
+Primary mission-facing allied roles:
+- Lt. Dorothy Anne Vickers — on mission net, partly forward, commanding the route
+  architecture and making the timing calls
+- Elena Costa — local resistance center of gravity, knows the streets and the
+  human cost of losing the corridor if it fails
+- limited Royal Marines detachment — disciplined late-arriving widening layer,
+  holding nodes and transfer points rather than replacing the resistance
+- one SAS bridge element, ideally Mace or a comparable operator, to preserve
+  continuity with earlier British contact and show the covert-to-supported handoff
+- local resistance movers / stretcher teams / drivers / armed escorts
+
+Optional but useful supporting presence:
+- Patch or Ghost on selective overwatch / counter-overwatch tasking
+- a British medic / corpsman presence at the receiving node to make the unlock
+  feel operationally real
+
+The player should never feel like the Royal Marines have arrived to take the city
+away from the resistance. They are there to make a specific artery function.
+
+
+================================================================================
+MISSION SHAPE
+================================================================================
+
+PHASE 0 — BRIEFING / SETUP
+
+The mission opens from the tail of Vickers's planning rhythm rather than from a
+big cinematic launch. This should feel like work already in motion.
+
+Key briefing beats:
+- casualty numbers in the pocket are getting unacceptable
+- the existing improvised AFC routes are too visible, too slow, or too degraded
+- British receiving position is ready, but only if Romeo's side can punch and
+  hold the inland half of the artery
+- this is not an all-night operation; the route exists only for a short window
+- if the enemy recognizes the corridor for what it is, they can seal it by weight
+
+Vickers's tone should make the mission immediately different from earlier Boston
+operations: exact, unsentimental, already thinking about throughput, timing, and
+how many bodies the route can realistically carry.
+
+Suggested Vickers line:
+"We're not clearing Boston tonight. We're opening a vein and keeping it open long
+ enough to matter."
+
+
+PHASE 1 — GET TO THE POCKET
+
+Romeo and his element move into a resistance-held but compressed block where
+wounded fighters, civilians, and one or two load-bearing people are trapped.
+This opening phase establishes the cost of not having the corridor.
+
+Gameplay goals:
+- move through tight streets and interior cut-throughs under intermittent fire
+- stabilize scattered resistance holdouts
+- reach a temporary casualty collection point in a school basement, loading bay,
+  church hall, mechanic's shop, or similar grounded civilian space
+- assess who must move first and what cannot be left behind
+
+Key emotional effect:
+The player sees the bottleneck. The city has brave people, weapons, and will, but
+it does not yet have enough movement capacity.
+
+
+PHASE 2 — KNOCK OUT THE FIRST LOCK
+
+The occupation controls the exit with overlapping MG positions, spotters, and a
+small command / comms node that keeps the local response picture coherent.
+Romeo's first task is not to sprint casualties forward. It is to break the local
+kill geometry.
+
+Gameplay goals:
+- clear or flank two route-dominating strongpoints
+- destroy or disable a surveillance / relay element watching the corridor mouth
+- coordinate with a small British support element already in place on one flank
+- create the first actual opening so the route can begin functioning
+
+This phase should prove that the corridor is a combined product:
+local knowledge + Romeo's violence of action + British timing and support logic.
+
+
+PHASE 3 — FIRST MOVEMENT
+
+Once the first lock is broken, the route starts working immediately.
+This is the moment the mission differentiates itself.
+
+Instead of a pure advance, the player begins fighting while movement happens
+behind and around him:
+- stretcher teams and walking wounded begin crossing the first segment
+- local vehicles or improvised carts appear where appropriate
+- British and AFC net traffic starts talking in throughput terms, not just kills
+- the player sees the city behaving differently because support has become real
+
+Vickers should not sound excited. She should sound like a commander counting a
+narrow success and already preparing for the counterpunch.
+
+Suggested Vickers line:
+"Good. Keep them moving. Do not admire it."
+
+
+PHASE 4 — THE COMPRESSION ZONE
+
+This is the mission's signature phase.
+
+The corridor narrows through a rail-edge choke, depressed service road, utility
+underpass, loading lane, or fenced industrial cut where casualties and escorts
+are vulnerable to enfilade fire, drones, mortar fragments, or vehicle interception.
+If the enemy closes this zone, the whole operation fails.
+
+Gameplay goals:
+- move ahead of the casualty flow and clear the narrowest point
+- prevent a Russian response unit from sealing the route with a vehicle block,
+  machine-gun team, or light armor presence
+- fight through hard, ugly, practical geometry rather than a cinematic plaza
+- potentially divert briefly off-route to neutralize a rooftop or bridge-line
+  overwatch element the British cannot safely hit from their angle
+
+This is where Vickers proves she is not bluffing and not improvising blindly.
+Her route architecture should show itself in how many things are happening at once:
+- Marines hold the far side node
+- local resistance moves casualties
+- one British element handles rear security
+- Romeo is the knife opening the narrow throat before it shuts
+
+
+PHASE 5 — FIRST BRITISH CASEVAC NODE
+
+Romeo reaches the receiving zone: the first explicitly British-backed late-game
+CASEVAC position in Boston.
+
+Recommended form:
+- a hidden but now active British military receiving site in a warehouse shell,
+  ferry maintenance yard, dry service building, pierside utility annex, or dead
+  industrial structure near the waterfront approach
+- not a glowing high-tech medbay
+- practical lighting, stretchers, triage tables, warmed fluids, ammunition crates,
+  Marine sentries, route markers, engines idling, radio discipline, wet-weather kit
+
+This is the mission's biggest payoff.
+The player has earned the sight of a functioning British position that can actually
+receive casualties and move them onward.
+
+Gameplay goals:
+- bring the first wave in under fire or immediately after contact
+- defend the node from a final probing attack or indirect strike attempt
+- maintain perimeter while triage and transfer begin
+- visually and mechanically establish that this node is now available in later
+  missions as a real support concept, not a one-off set dressing miracle
+
+Suggested emotional beat:
+The player watches wounded people disappear through a door and not come back out
+onto the same floor bleeding. That alone changes the feel of the campaign.
+
+
+PHASE 6 — HOLD UNTIL THE LAST TRUCK / LAST STRETCHER
+
+The route does not end when the player arrives at the receiving site. It ends when
+enough of the trapped people are through.
+
+Final combat problem:
+- enemy probes the route from the inland side after recognizing what is happening
+- small but dangerous attempt to collapse the node with artillery fragments,
+  suicide drone, vehicle push, or coordinated infantry rush
+- Romeo and the British / AFC mixture must hold long enough for the last movement
+  cycle to complete
+
+This final phase should feel less like climax-as-spectacle and more like the hard,
+professional end of an operation that mattered.
+
+Suggested closing Vickers line after the last movement clears:
+"Route is spent. Close it. We got enough."
+
+That line matters because it keeps the British package grounded. The corridor is
+not magically permanent after one mission. What is permanent is the fact that the
+coalition now knows it can be done.
+
+
+================================================================================
+MISSION OUTCOME
+================================================================================
+
+Primary success condition:
+- the route functions long enough to extract a meaningful number of wounded,
+  trapped fighters, and one or more key personnel
+
+Secondary outcome:
+- British-backed receiving node is validated and becomes a repeatable late-game
+  campaign logic element
+
+Narrative outcome:
+- Vickers's authority is proven by results, not by rank alone
+- Romeo's trust in the widened British layer deepens because he has now seen what
+  they can materially change
+- the player feels a tangible campaign-state shift: Boston is still occupied and
+  dangerous, but survival is no longer as narrow as it was yesterday
+
+
+================================================================================
+HOW THIS SHOULD CHANGE THE CAMPAIGN AFTERWARD
+================================================================================
+
+After this mission, later Boston missions should show evidence that the corridor
+operation changed the city even if the exact same route is not always open.
+
+Recommended persistent consequences:
+- British CASEVAC becomes available in selected later missions as a late-game option
+- player briefings can now reference British receiving points or transfer positions
+  as real assets
+- background chatter and environmental state show resistance confidence increasing
+- local fighters talk about being able to move their wounded, even if cautiously
+- British and AFC planning language becomes more integrated and less introductory
+
+This mission is the unlock proof.
+The player should feel it in subsequent mission design.
+
+
+================================================================================
+TONE / REGISTER RULES
+================================================================================
+
+- Do not write this as a triumphant liberation parade
+- Do not make Vickers overly speechifying or Churchillian
+- Do not make the British layer feel like a deus ex machina
+- Keep the route ugly, practical, and urban-service in character
+- Keep the emotional center on survivability, not flag-waving
+- Show care through procedure, timing, throughput, and discipline
+
+The win condition is not that everyone lives.
+The win condition is that enough people do.
+
+
+================================================================================
+GAMEPLAY / SYSTEM FUNCTION
+================================================================================
+
+This mission is the natural place to tutorialize or soft-introduce late-game
+British CASEVAC logic for Romeo without turning it into a systems lecture.
+
+Potential gameplay functions:
+- carrying or escorting a casualty to a British safe zone becomes mission-facing
+- the player learns what a British receiving node looks and sounds like
+- later missions can use the same support logic with less explanation
+- the campaign progression rule from earlier design notes is preserved: Romeo's
+  support options expand because the coalition has materially formed around him
+
+This mission should feel like the narrative proof behind a mechanics unlock.
+
+
+================================================================================
+ROLE OF ELENA COSTA
+================================================================================
+
+Elena is strongly recommended as the local human anchor in this mission.
+Why:
+- she keeps the operation rooted in Boston rather than turning it into a British
+  command show
+- she embodies the local cost of not having the route
+- her presence lets the mission dramatize coalition friction without melodrama
+
+Useful Elena function:
+- she knows which streets are dead, which ones civilians still use, which corner
+  is watched by collaborators, which garage wall can be breached, which alley only
+  looks open, and which holdout cell will move when ordered
+
+This lets Vickers and Elena complement each other:
+- Vickers understands corridor logic, timing, and support architecture
+- Elena understands the neighborhood as lived terrain
+
+Romeo stands in the middle and makes the route violent enough to exist.
+
+
+================================================================================
+ROLE OF MACE
+================================================================================
+
+Mace is useful here as the continuity bridge between the earlier covert British
+presence and the widened Vickers phase.
+
+Best use:
+- small but load-bearing role at the corridor mouth or route flank
+- one or two lines that make clear he trusts Vickers's read without sentimentality
+- no need to dominate the mission
+
+Suggested Mace line:
+"Told you she meant it."
+
+Short, dry, enough.
+
+
+================================================================================
+VISUAL / ATMOSPHERIC IDENTITY
+================================================================================
+
+Night recommended.
+Cold damp air, sodium-vapor spill, emergency lights, wet concrete, distant harbor
+noise, intermittent generator hum, rail clank, sirens too far away to matter.
+
+The British receiving node should look almost shockingly functional by contrast
+with the ruined improvisation the player has been living in:
+- clean tourniquets laid out
+- Marines on sectors
+- radios working
+- stretchers staged before the wounded arrive
+- somebody already writing things down
+
+The point is not luxury.
+It is organized competence.
+
+
+================================================================================
+PROTECTED LINES / MICROBEATS
+================================================================================
+
+Vickers:
+"We're not clearing Boston tonight. We're opening a vein and keeping it open long
+ enough to matter."
+
+Vickers:
+"Good. Keep them moving. Do not admire it."
+
+Mace:
+"Told you she meant it."
+
+Vickers, end-state:
+"Route is spent. Close it. We got enough."
+
+Optional Romeo line on first seeing the British receiving node:
+"You actually built this."
+
+Vickers response:
+"No. We brought enough of it with us."
+
+
+================================================================================
+WHY THIS MISSION MATTERS IN THE ARC
+================================================================================
+
+Without this mission, Vickers risks reading as a persuasive briefer attached to a
+late-game support package.
+
+With this mission, she becomes what she should be:
+not the British character who gives Romeo a speech,
+but the British character who changes what survival looks like in Boston.
+
+================================================================================
+END OF PAGE
+================================================================================

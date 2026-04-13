@@ -1,0 +1,18 @@
+[DOC_ID: PW-INT-TRILOGY-ARC-01 | TYPE: integration note | STATUS: active | SCOPE: working-set source landing | DATE: 2026-04-12]
+
+Integration Note
+Land PW-STD-TRILOGY-ARC-01 in the working-set story / narrative standards lane.
+This is a new standards-page addition, not a correction to existing mission or character canon.
+
+Required Follow-Through
+- Add the trilogy thematic arc standard to the active working-set compendium / standards section.
+- Cross-reference it where franchise-level promo language, campaign framing, or end-state tone guidance is collected.
+- Refresh the milestone archival master at the next scheduled source-refresh milestone.
+
+No Immediate Rewrite Required
+No currently locked mission sheet, character sheet, or mechanics reference requires direct rewrite solely because of this update.
+This addition functions as a franchise-level interpretive and promotional standard.
+
+Canon Effect
+The trilogy-level thematic arc is now Fracture. Resistance. Restoration.
+Restoration must be written as restoration of possibility, legitimacy, continuity, and credible hope rather than clean reset or total victory.

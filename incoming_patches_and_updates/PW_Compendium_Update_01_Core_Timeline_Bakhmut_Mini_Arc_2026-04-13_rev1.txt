@@ -1,0 +1,49 @@
+PROJECT WARRIORS — COMPENDIUM UPDATE PATCH
+Target compendium: 01 Core / Timeline
+Generated: 2026-04-13
+Version: rev1
+Purpose: add the newly locked Ducky Game 2 Bakhmut mini-arc placement and campaign-function note to the Core / Timeline compendium.
+
+================================================================================
+SECTION A — NEW PATCH ENTRY
+================================================================================
+
+Bakhmut mini-arc placement lock — Ducky Game 2 / Persistent Threat:
+- Insert a mid-campaign Bakhmut mini-arc after Hard Winter and before Permafrost.
+- Functional chain:
+  Dead Frequency -> Hard Winter -> Bakhmut mini-arc -> Permafrost
+- Writer-use purpose:
+  Bakhmut is the point where suspicion becomes physical proof. The player discovers
+  that the enemy is not conducting isolated EW attacks, but building a repeatable
+  relay-and-deception kill chain using compromised AEGIS-adjacent knowledge.
+- Bridge logic:
+  The arc should provide the partial northern packet that Halliday later matches to
+  Svalbard, making Permafrost read as consequence rather than abrupt geographic jump.
+
+================================================================================
+SECTION B — RECOMMENDED INSERTION LOCATION
+================================================================================
+
+Add this as a post-source memory integration patch item in the Ducky Game 2 /
+Persistent Threat campaign-order area, or as a short late-2028 / Game 2 continuity
+note immediately adjacent to existing mission-order anchors.
+
+Suggested house-style wording for compact integration:
+
+7) Ducky Game 2 Bakhmut mini-arc lock: place a three-mission Bakhmut detour after
+Hard Winter and before Permafrost. Functionally, Bakhmut is where the campaign moves
+from anomaly recognition to physical proof: the enemy is discovered using ruined urban
+infrastructure as a relay-certification and deception-rehearsal space built around
+compromised AEGIS-adjacent knowledge. The recovered packet from Bakhmut becomes the
+chain of evidence Halliday later uses to identify the Svalbard direction.
+
+================================================================================
+SECTION C — WHAT THIS PATCH DOES NOT TRY TO DO
+================================================================================
+
+- Does not replace the full mission scripting packet.
+- Does not duplicate the full Ukrainian allied character material.
+- Does not introduce exact day-level false precision beyond the locked mission-order
+  relationship.
+
+This patch is timeline-placement and campaign-function only.

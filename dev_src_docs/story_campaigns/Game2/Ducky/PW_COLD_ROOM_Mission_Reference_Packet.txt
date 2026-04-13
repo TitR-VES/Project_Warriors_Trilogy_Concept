@@ -1,0 +1,193 @@
+PROJECT WARRIORS — MISSIONS / SCENES / CINEMATICS COMPENDIUM
+INTERNAL SOURCE-STYLE REFERENCE PAGE
+
+TITLE: COLD ROOM — SHIELD Representative Mission Reference Packet
+STATUS: Current thread landing / working reference
+THREAD SOURCE: Current SHIELD + COLD ROOM development thread
+
+==================================================
+1. MISSION ROLE
+==================================================
+
+COLD ROOM is the template-grade SHIELD mission reference for:
+- hard entry
+- sensitive-site exploitation
+- objective discrimination
+- one authored wound event
+- partial-denial logic
+- restrained DAOG net traffic
+- partial but real success framing
+
+This is not a locked canon story mission by default. It is the representative mission model for how SHIELD should play, sound, and read in production.
+
+==================================================
+2. CORE PREMISE
+==================================================
+
+A compromised urban technical annex inside an occupied district contains a portable archive core tied to encrypted relay traffic and access-authority records. The site has already begun internal sanitization.
+
+SHIELD is tasked to:
+1. enter fast
+2. identify the real archive node
+3. recover what matters
+4. deny what cannot be carried
+5. exfil before the site fully collapses inward
+
+Load-bearing structure:
+- false obvious south door rejected as theater
+- real entry via east utility access
+- utility spine progression
+- archive-floor breach
+- staged false archive room
+- real cold room behind hidden partition
+- compromise and inward enemy collapse
+- controlled Splice wound event
+- partial denial on mirror infrastructure
+- east breakout exfil into loading lane
+- restrained post-action DAOG result framing
+
+==================================================
+3. LEVEL FLOW LOCK
+==================================================
+
+Rear service alley
+-> false south door
+-> east utility access
+-> utility spine corridor
+-> stairwell / fire door stack
+-> archive antechamber
+-> false archive room
+-> real cold room
+-> compromise / casualty / denial decision
+-> east utility breakout
+-> exfil stair / loading lane
+-> vehicle post-action
+
+==================================================
+4. ENCOUNTER DESIGN RULE
+==================================================
+
+Enemy pressure should escalate in staggered layers rather than raw volume.
+
+The building should feel like it is waking up too late, then all at once.
+
+Primary encounter logic:
+- light utility-spine contact
+- short violent archive-antechamber threshold fight
+- archive-floor collapse encounter during exploitation
+- rear-pressure exfil stair encounter
+- optional loading-lane tail contact only if player lingered too long earlier
+
+Do not let the mission turn into a generic open firefight. The archive / compromise overlap is the peak, not the loading lane.
+
+==================================================
+5. DIALOGUE / BARK IMPLEMENTATION RULE
+==================================================
+
+Phase emphasis:
+- Infil = restrained transit texture + ORACLE suspicion
+- Stack / Breach = shortest possible geometry language
+- Exploit = Splice-heavy objective discrimination + Lock priority compression
+- Compromise = route pressure + hold-the-room logic
+- Casualty = Suture exactness + Lock mobility decisions
+- Exfil = package / casualty / route / seconds language
+- Post-action = terse ARES framing + restrained aftermath
+
+Keep SHIELD voice compressed, procedural, unsentimental, and interior-focused.
+
+==================================================
+6. LEVEL BLOCKING RULE
+==================================================
+
+Block COLD ROOM as an older urban commercial/service shell retrofitted into a hidden technical-security annex.
+
+The level depends on:
+- tight thresholds
+- short sightlines
+- hidden-route logic
+- a false-objective room that initially reads as correct
+- a smaller colder real archive space that becomes the true center of gravity
+
+Preferred cover types:
+- door frames
+- service cabinets
+- rack ends
+- office partitions
+- stair corners
+- desk remnants
+
+Avoid:
+- giant open combat arenas
+- multiplayer-map readability
+- too many waist-high videogame boxes
+- cyberpunk or glossy black-site fantasy architecture
+
+==================================================
+7. VISUAL / ART-DIRECTION RULE
+==================================================
+
+Core visual thesis:
+- ordinary older shell
+- inserted retrofit security layer
+- hidden true function behind staged technical front
+
+False archive room vs real cold room distinction:
+
+FALSE ARCHIVE
+- more open
+- more front-facing
+- more evenly readable
+- clearer labeling
+- too tidy / too staged / too legible
+
+REAL COLD ROOM
+- smaller
+- denser
+- more sealed
+- fewer but more consequential objects
+- slightly cooler / tighter light
+- less explanatory, more internally serious
+
+Do not drift into:
+- cyberpunk neon
+- glossy villain-lair server vaults
+- blue-glow sci-fi freezer clichés
+- overdesigned special-forces fantasy architecture
+
+==================================================
+8. TARGET CONCEPT / IMAGE VIEWS
+==================================================
+
+Target image-view set from the thread:
+1. Rear service alley / initial approach
+2. False south door
+3. East utility access / real entry
+4. Utility spine corridor
+5. Stairwell stack at fire door
+6. Archive antechamber threshold
+7. False archive room / theater
+8. Cold room reveal / real archive
+9. Compromise / holding the room
+10. East breakout / exfil stair / after-detonation mood
+
+Ready-to-use prompt set exists in-thread and should be used as the first-pass image-generation guide for COLD ROOM and as a style model for future mission visualization work.
+
+==================================================
+9. THREAD LANDING STATUS
+==================================================
+
+This thread successfully produced:
+- SHIELD squad role definition
+- SHIELD roster lock
+- SHIELD voice / bark identity
+- SHIELD signature build pass
+- representative SHIELD mission model
+- full COLD ROOM mission scripting path
+- combat encounter scripting sheet
+- level blocking sheet
+- visual reference / art-direction sheet
+- concept / image-view shot list
+- ready-to-use image-generation prompts for the 10 key views
+
+Archive-readiness note:
+This packet plus the matching SHIELD squad packet and project memory update are sufficient source landing for thread archival under the project’s current archive standard.

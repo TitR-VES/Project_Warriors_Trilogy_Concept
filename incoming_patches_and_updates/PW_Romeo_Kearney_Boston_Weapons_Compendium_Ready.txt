@@ -1,0 +1,224 @@
+PROJECT WARRIORS
+ROMEO / KEARNEY / BOSTON WEAPONS REFERENCE
+Compendium-ready archival pass
+Status: LOCKED WORKING CANON
+
+SCOPE
+This page consolidates the rifle continuity and authorship logic spanning Romeo’s late Kentucky phase, Boston transition, Eamonn Kearney’s armorer role, and Romeo’s Boston signature primary.
+
+LOCKED CORE RULE
+These rifles must not blur together.
+- DON’T TREAD = where Romeo comes from
+- Unnamed Boston-entry rifle = how Romeo crosses into Boston without arriving empty-handed
+- CIVIL DISOBEDIENCE = what Boston decides he should carry once he has earned it
+- WORK ORDER = Kearney’s personal benchmark rifle and supportability standard
+
+If preserved, the progression reads as place-identity and authorship. If collapsed, it reads as generic upgrade logic.
+
+Kearney anchor
+Eamonn Kearney is Boston’s hidden armorer / repair specialist / small-arms sustainment node. He is not a vendor-first character. He is the recurring local infrastructure figure who proves Boston had hidden professional continuity before Romeo arrived and who gives the city’s liberation material credibility through repair, triage, magazine discipline, optics / mount honesty, and practical small-arms continuity.
+
+Locked profile notes
+- Name: Eamonn Kearney
+- Age: 58
+- Irish-born Boston-based gunsmith / machinist / repair specialist
+- Buried history of quiet clandestine armorer work around republican underground networks in an earlier conflict
+- Trade-first, dry, exact, anti-romantic, bench-authoritative
+- Main node: hidden upper storage/service-floor workshop in a partially powered dead light-industrial/commercial building reached by back-lot route and freight elevator
+- Permanent shop remains separate from Van Hult’s reclaimed body shop, though occasional overflow collaboration is acceptable
+
+WEAPON 01 — DON’T TREAD
+Status: Locked earlier-war / Kentucky-era Romeo signature primary
+Campaign ownership: Game 2 / Kentucky / early-war American resistance phase
+Meaning:
+- Kentucky-place identity
+- inherited / local insurgent-war texture
+- emotionally tied to earlier American resistance phase
+Use rule:
+- DON’T TREAD should dominate the Kentucky phase strongly enough to earn its place-identity
+- It should not be dragged too deep into Boston
+Exit rule:
+- Romeo parts with DON’T TREAD intentionally before or at the Boston threshold
+- Best logic remains returning / leaving it with Dale or Dale’s people, or otherwise within the Kentucky resistance ecosystem it belongs to
+
+WEAPON 02 — UNNAMED BOSTON-ENTRY RIFLE
+Status: Locked transitional working rifle
+Campaign ownership: Game 3 Act I into early Act II
+Function:
+- Lets Romeo arrive in Boston armed
+- Protects DON’T TREAD’s Kentucky identity
+- Gives Kearney something real to judge and maintain
+- Makes CIVIL DISOBEDIENCE arrive as judgment rather than simple upgrade
+Technical lane:
+- AR-pattern carbine
+- 5.56x45mm
+- 16-inch midlength
+- Aimpoint PRO
+- practical white light
+- sling
+- unsuppressed by default
+- no laser
+- no signature-build treatment
+Read:
+- competent
+- practical
+- slightly mixed-history
+- increasingly costly
+- not city-authored
+- good enough for early Boston, not exact enough to remain the long-term answer
+Kearney relationship:
+- workable, still maintainable, increasingly too full of small compromises
+- supports the later line: “Too many small apologies pretending to be one rifle.”
+Mission window:
+- Boston arrival / foothold
+- fractured local contact
+- A-10 suburban aftermath
+- first Kearney meeting
+- first sustainment revisit
+- early undercity / retention phase
+Retirement:
+- Retired in SCENE: THE RIGHT RIFLE
+- Left with Kearney for stripping / salvage / useful-parts recovery
+- Best associated line: “Leave it. I’ll strip what deserves keeping.”
+Naming rule:
+- Do not name this rifle
+- Keep it fully credible but narratively subordinate
+
+WEAPON 03 — CIVIL DISOBEDIENCE
+Status: Locked Romeo Game 3 / Boston signature primary
+Builder / provider: Eamonn Kearney
+Campaign ownership: Late Act II through Act IV
+Meaning:
+- Boston’s rifle in Romeo’s hands
+- civic urban resistance legitimacy under local authorship
+- material proof that Romeo has been judged worth building for
+Technical lane:
+- 14.5-inch AR-pattern carbine
+- 5.56x45mm
+- midlength gas
+- free-float M-LOK rail
+- Aimpoint T-2
+- SureFire Scout
+- Blue Force Gear Vickers sling
+- practical furniture
+- unsuppressed by default
+- no laser by default
+- supportable domestic-parts logic
+Read:
+- cleaner than the Boston-entry rifle
+- more exact
+- more coherent
+- more supportable
+- still entirely inside Kearney’s anti-boutique worldview
+Entry scene:
+- SCENE: THE RIGHT RIFLE
+- Late Act II, between Mission 07 and Mission 08, at the Act II -> Act III hinge
+Handoff rule:
+- Not a gift, not a prize, not a cool unlock
+- Kearney hands it over once Romeo is no longer “too expensive” to build for
+- Elena has quietly been part of the decision
+Key line:
+- “That one was a rifle you carried in Boston. This one’s a Boston rifle.”
+Mission-use phases:
+1) handoff / judgment
+2) Mission 08 first blooding
+3) post-contact bench truth pass
+4) normalization as Romeo’s Boston rifle
+5) late-campaign identity consolidation
+
+WEAPON 04 — WORK ORDER
+Status: Locked Kearney signature primary
+Campaign ownership: Kearney personal weapon across Boston arc
+Meaning:
+- Kearney’s personal benchmark rifle
+- supportability-first personal standard
+- plain, durable, old-service-pattern, anti-romantic, bench-practical
+Technical lane:
+- Colt M4A1 lane
+- 14.5-inch old-service-pattern carbine
+- KAC RAS
+- Aimpoint PRO
+- SureFire Scout
+- plain two-point sling
+- A2 flash hider
+- no laser by default
+- suppressor only if mission-specific
+Use rule:
+- Remains Kearney’s rifle throughout
+- Appears in shop, rare defensive escalation, BODYWORK support cameo, late retained-ground visibility
+Meaning rule:
+- WORK ORDER is not the rifle Boston gives Romeo
+- It is the rifle Kearney measures Romeo against
+
+PROGRESSION LOGIC
+Phase A — Kentucky
+- Active rifle: DON’T TREAD
+- Strong earlier-war / Kentucky identity phase
+
+Phase B — Kentucky to Boston bridge
+- DON’T TREAD remains with Romeo at first, then is intentionally left behind in the Kentucky resistance ecosystem
+
+Phase C — Boston arrival and foothold
+- Active rifle: unnamed Boston-entry rifle
+- Romeo reaches Boston armed but not yet city-authored
+
+Phase D — Early Kearney access
+- Kearney judges and maintains the Boston-entry rifle while increasingly reading it as too costly / too compromised to remain the answer
+
+Phase E — THE RIGHT RIFLE
+- Active rifle changes: Boston-entry rifle -> CIVIL DISOBEDIENCE
+- This is the decisive handoff; not an upgrade, a judgment
+
+Phase F — Act III onward
+- Active rifle: CIVIL DISOBEDIENCE
+- Romeo now carries Boston’s rifle through widened battlespace, harbor phase, late retained-ground fighting, and finale
+
+Across all Boston phases
+- Kearney personal rifle remains WORK ORDER
+
+MISSION SNAPSHOT
+DON’T TREAD
+- Primary through Kentucky / early-war Game 2 phase
+- Exits intentionally before Boston identity takes hold
+
+Boston-entry rifle
+- Primary through Boston arrival, foothold, fractured local contact, A-10 suburban aftermath, first Kearney meeting, sustainment revisit, early retention phase
+- Retired in THE RIGHT RIFLE
+
+CIVIL DISOBEDIENCE
+- Primary from late Act II onward
+- Mission 08 first blooding, harbor / widened battlespace, post-contact revisit, Act III normalization, Act IV retained-ground and finale
+
+WORK ORDER
+- Present as Kearney’s constant benchmark weapon across his scenes
+
+CHARACTER AUTHORSHIP RULES
+- Romeo does not author WORK ORDER
+- Kearney does not author DON’T TREAD
+- Kearney does not author the Boston-entry rifle
+- Kearney does author CIVIL DISOBEDIENCE
+
+PRESENTATION RULES
+Do:
+- keep each rifle in its own place-identity lane
+- treat rifle transitions as authorship shifts, not just gameplay swaps
+- preserve Kearney’s dry standards-driven voice
+- let CIVIL DISOBEDIENCE feel like a judgment
+- let WORK ORDER remain Kearney’s stable benchmark
+
+Do not:
+- blur the Boston-entry rifle into a signature build
+- let DON’T TREAD own Boston
+- let CIVIL DISOBEDIENCE feel like a loot reward
+- let WORK ORDER become Romeo-adjacent enough to lose its personal Kearney identity
+- over-name or over-explain rifles once their role is established
+
+COMPRESSED READ
+Romeo’s rifle progression moves from DON’T TREAD as Kentucky’s earlier-war insurgent identity rifle, through an unnamed Boston-entry rifle that bridges him into the city without arming him from zero, and finally into CIVIL DISOBEDIENCE, the Boston signature rifle that Eamonn Kearney builds / provides once Romeo has earned the city’s trust. WORK ORDER remains Kearney’s personal benchmark rifle throughout, giving the arc a stable internal standard and preventing CIVIL DISOBEDIENCE from collapsing into generic upgrade logic.
+
+FINAL WORKING RULE
+If this packet is functioning correctly, the player should feel:
+- DON’T TREAD = where Romeo came from
+- Unnamed Boston-entry rifle = what carried him across
+- CIVIL DISOBEDIENCE = what Boston placed in his hands
+- WORK ORDER = the standard that judged him worthy of it

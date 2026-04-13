@@ -1,0 +1,36 @@
+PROJECT WARRIORS
+Compendium / source landing note
+Status: ready-to-paste support note
+
+What is included
+- Compendium-ready archival page: ROMEO / KEARNEY / BOSTON WEAPONS REFERENCE
+- Consolidates DON’T TREAD, unnamed Boston-entry rifle, CIVIL DISOBEDIENCE, and WORK ORDER
+- Carries Kearney’s authorship role for CIVIL DISOBEDIENCE and the Boston-entry rifle’s bridge function
+
+Suggested compendium placement
+Primary category suggestions:
+- Characters / Kearney / armorer references
+- Weapons / named builds / Romeo + Kearney
+- Campaigns / Romeo Game 3 / Boston continuity
+
+Suggested index/listing entry text
+ROMEO / KEARNEY / BOSTON WEAPONS REFERENCE — consolidated continuity page covering DON’T TREAD, unnamed Boston-entry rifle, CIVIL DISOBEDIENCE, WORK ORDER, Kearney authorship, and Romeo’s Kentucky-to-Boston rifle progression.
+
+Suggested source-use note
+Treat as the current working canon page for:
+- Romeo rifle progression from Kentucky into Boston
+- Kearney as builder/provider of CIVIL DISOBEDIENCE
+- separation of DON’T TREAD from deep Boston identity
+- Boston-entry rifle as unnamed transition weapon
+- WORK ORDER as Kearney’s personal benchmark rifle
+
+Memory/source landing completed in-chat
+Key canon from this thread was pushed to project memory, including:
+- Eamonn Kearney locked profile and shop concept
+- WORK ORDER and Kearney’s Glock 17 sidearm
+- CIVIL DISOBEDIENCE built/provided by Kearney for Romeo
+- THE RIGHT RIFLE as the late-Act-II handoff scene
+- unnamed Boston-entry rifle as the transition weapon between DON’T TREAD and CIVIL DISOBEDIENCE
+
+Operator note
+I cannot directly modify your existing external compendium listing files or source files from here, so this note is prepared as a ready-to-paste landing stub for the relevant listing/index/source-management pages.

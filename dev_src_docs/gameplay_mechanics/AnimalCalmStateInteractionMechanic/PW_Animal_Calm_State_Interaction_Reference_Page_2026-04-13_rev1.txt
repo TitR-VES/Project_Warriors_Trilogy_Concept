@@ -1,0 +1,67 @@
+PROJECT WARRIORS — GAMEPLAY REFERENCE PAGE
+Title: Animal Calm-State Interaction
+Generated: 2026-04-13
+Version: rev1
+Status: LOCKED
+
+PURPOSE
+This page records the locked direction for optional animal interaction moments in
+Project Warriors. The feature is intentionally small. Its purpose is not mechanical
+advantage but human texture, environmental authenticity, and tonal contrast.
+
+LOCK SUMMARY
+Select non-hostile animals may be briefly interacted with in first person when calm,
+safe, and fictionally appropriate. These interactions are optional, non-reward-
+bearing, context-sensitive, and used sparingly. Animal agency and behavioral
+plausibility must be preserved.
+
+DESIGN INTENT
+The mechanic exists to create occasional quiet human beats inside a war story
+without softening the project into sentimentality. It should make spaces feel
+inhabited and worth protecting. It should not become a collectible behavior, a
+completion target, or a novelty that appears so often it starts announcing itself.
+
+RULES
+- Only calm, non-hostile animals in believable states and locations
+- No rewards, buffs, achievements, or progression hooks
+- No prompt during combat, pursuit, urgent stealth, or tonal high-pressure moments
+- Not every animal should be interactable
+- Dialogue minimal or absent
+- The animal may accept, ignore, or decline the interaction
+
+GROUNDING BY ANIMAL TYPE
+Dogs:
+- brief hand-offer, neck rub, ear scratch, shoulder pat
+
+Cats:
+- brief chin or head touch when accepted
+- refusal / walking away remains valid behavior
+
+Horses / Donkeys:
+- muzzle touch, forehead stroke, short neck pat
+- should read as grounded handling, not pet-video staging
+
+CHARACTER FLAVOR
+Small protagonist-specific handling differences are encouraged but should remain
+subtle:
+- Romeo: direct warmth
+- Ducky: careful steadiness
+- Spook: restrained economy
+
+PLACEMENT EXAMPLES
+- Calloway pharmacy back-room cat during downtime
+- Calm resistance dog in Boston hideout / meetup space
+- Rural horse or donkey in a farm / logistics environment where it naturally belongs
+
+IMPLEMENTATION WARNING
+This feature gains value from rarity. One well-placed interaction can be memorable.
+Frequent reuse, broad map coverage, or exaggerated cute framing will damage tone.
+
+BEST LANDING TARGETS IN SOURCE MODEL
+Primary source-of-truth update:
+- PW_Gameplay_Mechanics_Overview-4.txt
+
+Working-set refresh target after source edit:
+- PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+
+END OF DOCUMENT

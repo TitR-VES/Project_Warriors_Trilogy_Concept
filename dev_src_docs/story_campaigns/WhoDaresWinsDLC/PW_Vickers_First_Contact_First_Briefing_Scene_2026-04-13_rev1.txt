@@ -1,0 +1,448 @@
+PROJECT WARRIORS — VICKERS FIRST CONTACT / FIRST BRIEFING SCENE
+Generated: 2026-04-13
+Version: rev1
+Status: Source-ready narrative scene pass
+
+CAMPAIGN / ARC
+- Romeo Game 3 — Boston
+
+PLACEMENT
+- Late Act III into early Act IV hinge
+- First scene in which the widened British package becomes physically present as more than a covert SAS/SBS footprint
+- Best placed after the first successful British-supported harbor disruption action and just before British military CASEVAC becomes a real late-campaign capability
+
+PURPOSE
+- Introduce Captain Dorothy Anne Vickers as a mission-facing character rather than a background force marker
+- Show the exact tonal shift from covert British competence to limited but meaningful British widening
+- Make clear that Britain is not arriving to replace the Boston resistance, but to make it more survivable and more sustainable
+- Establish practical new realities for the player: a British-held waterfront node, limited CASEVAC, selective resupply, engineer support, and a more credible ability to hold reclaimed ground
+- Lock Romeo / Elena / Vickers dynamic as professional, mutually respectful, and slightly frictional in the useful way
+
+SCENE NOTE
+- Vickers should read as controlled, exact, unsentimental, and mission-clear. Not theatrical. Not "operator cool." Not aristocratic. Not parody-British.
+- She should treat Romeo as a serious local combat leader immediately.
+- She should also visibly understand that Elena is not an adjunct or interpreter for the local scene, but one of the real centers of gravity in Boston.
+- British-in-Boston irony may be acknowledged once, briefly, and then dropped.
+
+PROTECTED LINE CANDIDATES
+- "I am not here to take your city off your hands. I'm here to make sure it stays in them."
+- "You know the ground. We know what can survive the crossing."
+- "This is not relief. This is reinforcement. Small difference on paper. Large one in a city like this."
+
+================================================================================
+SCENE
+================================================================================
+
+[Exterior — Occupied Boston waterfront, night.
+A dead industrial edge of the harbor. Wind off black water. A low wet cold that gets into sleeves and under collars. No skyline glamour. Just cranes, rust, dead sodium lamps, and the distant pulse of a city still under someone else's boot.
+
+The approach is quiet by current Boston standards — which is to say only intermittently violent. Somewhere inland, a short burst of automatic fire. Then nothing. Then sirens, too far away to matter.
+
+Romeo and Elena move through a half-cleared service lane toward an old ferry maintenance building that should be dark.
+
+It is not dark.
+
+Not brightly lit. Carefully lit. Hooded lamps. Red lens torches. Narrow spill under blackout discipline. Enough to work. Not enough to advertise.
+
+Two silhouettes step from cover before Romeo or Elena reach the loading door. Suppressed rifles up, professional, unsurprised.
+
+Romeo recognizes one before the light catches him properly.
+
+Mace.
+
+The other operator peels off to watch the lane. Mace lowers his rifle first by an inch, then the rest of the way.] 
+
+MACE:
+You're late.
+
+ROMEO:
+You said no lights.
+
+MACE:
+And yet. Here you are. Adaptive.
+
+[Elena glances past him toward the building interior.] 
+
+ELENA:
+This yours?
+
+MACE:
+For tonight.
+
+[A stretcher team moves behind him inside the doorway. Not rushed. Not panicked. Deliberate. A casualty bay. Fold-out tables. Medical packs. Waterproof kit. A wall map fixed to plywood with grease-pencil routes spidering inland from the waterfront.] 
+
+ROMEO:
+You finally brought the rest.
+
+MACE:
+Some of it.
+
+[He steps aside.] 
+
+MACE:
+Come on. Someone you should meet.
+
+[Interior — Ferry maintenance hall.
+The place has been turned into a temporary British shore node with the kind of speed that only works when everyone involved already knows exactly where everything goes. A casualty corner. Ammunition stacked low behind machine housings. Two engineers bent over a generator with the side panel off. A radio operator at a folding table. Three Royal Marines in mixed cold-weather and maritime kit checking sectors through cracked side doors.
+
+It is not a base. It is a held breath.
+
+At the far end of the hall, under a hanging work lamp hooded in canvas, a woman in wet-weather gear stands over a dock map with one gloved hand flat on the paper.
+
+She is not performing command. She is working.
+
+Mace doesn't announce her loudly. He doesn't need to.] 
+
+MACE:
+Ma'am.
+
+[She looks up.
+She is younger than Romeo expected and older than the room's urgency. Tired in the way competent people are tired when they have stopped wasting effort on showing it. Her expression changes almost not at all when she takes him in — just enough to register that she has matched the file to the man.] 
+
+VICKERS:
+Lieutenant Álvarez.
+
+ROMEO:
+Captain.
+
+[She shifts her gaze once to Elena.] 
+
+VICKERS:
+Costa.
+
+ELENA:
+Captain.
+
+[No handshake. No speech. No ceremonial sizing-up beyond what already happened in the first two seconds.] 
+
+VICKERS:
+Good. You're both here. Saves me saying this twice.
+
+[She turns the map board so all three can see it. The harbor edge. Two marked approach lanes. A route inland. One red X over a pier cluster. One blue grease-pencil corridor stretching toward contested districts.] 
+
+VICKERS:
+This is the extent of what I hold.
+
+[She taps the waterfront block around the maintenance hall.] 
+
+VICKERS:
+This building. The slip. The service lane behind it. Two hundred metres of ugly ground in either direction if everyone behaves.
+
+[Tap.] 
+
+VICKERS:
+This is what I can influence.
+
+[She traces along the blue route inland.] 
+
+VICKERS:
+A casualty corridor to your side of the fight. Intermittent resupply. Limited engineer work. Shore-to-street movement for small teams. Not miracles.
+
+ROMEO:
+How limited?
+
+VICKERS:
+Urgent only for casualty evacuation. No routine shuttling. No moving people because they're tired. No dragging half the city down here because someone heard the British had arrived.
+
+ELENA:
+People are going to hear it anyway.
+
+VICKERS:
+Then they'd better also hear the next part.
+
+[She rests a finger on the map, not hard, just final.] 
+
+VICKERS:
+This is not relief. This is reinforcement. Small difference on paper. Large one in a city like this.
+
+[Beat.] 
+
+VICKERS:
+I am not here to take your city off your hands. I'm here to make sure it stays in them.
+
+[That lands. Not as rhetoric. As operating terms.
+Romeo glances toward the med corner again. A Royal Marine with a bandaged shoulder is sitting upright on an equipment case, drinking from a foil pouch while another checks a radio battery. No one is being fussed over. They look like men who came in hard and intend to stay.] 
+
+ROMEO:
+What crossed?
+
+VICKERS:
+Enough.
+
+[He waits. She notices. Gives him the real answer.] 
+
+VICKERS:
+Boats. Marines. Medics. Engineers. Signals. A few heavier tools than you've had so far. Not enough for a parade and not enough to waste.
+
+MACE:
+She gets sentimental if you ask twice.
+
+VICKERS:
+Do be quiet, Mace.
+
+[Mace almost smiles. Almost.] 
+
+ELENA:
+What's the window?
+
+VICKERS:
+Depends which one.
+
+[She points to the harbor.] 
+
+VICKERS:
+The maritime window bought by your people and mine hurting them where they unload. The occupation expected throughput tonight. They did not get it. That buys confusion.
+
+[Then inland.] 
+
+VICKERS:
+This one is smaller. Russian response will compress toward the surviving route structure by morning. They will harden checkpoints and start pushing security farther out from the waterfront. If we mean to keep a line open between your districts and this shore node, we do it now.
+
+ROMEO:
+Objective?
+
+[Vickers looks at him once — brief approval, if that is what it is, that he has skipped straight past posture.] 
+
+VICKERS:
+Freight access road here.
+
+[She marks a narrow junction between warehouse lots and an elevated road.] 
+
+VICKERS:
+They've been using it to move port cargo away from the water once it survives unloading. Ammunition, medical stores, fuel bladders, spare parts. The sort of things occupations rely on when they intend to live through winter.
+
+ELENA:
+We've hit trucks on that line before.
+
+VICKERS:
+I know.
+
+[Elena studies her.] 
+
+ELENA:
+You know a lot for someone who just got here.
+
+VICKERS:
+No. I know enough for someone who had to decide whether crossing was worth the dead.
+
+[That shuts the room down for a second.
+No self-drama in the line. Just arithmetic spoken plainly.] 
+
+VICKERS:
+You know the ground. We know what can survive the crossing. Put the two together and Boston becomes more difficult to starve.
+
+[She finally looks from Elena back to Romeo, as if assigning weight rather than authority.] 
+
+VICKERS:
+Which is why this is not your briefing alone.
+
+[Elena folds her arms.] 
+
+ELENA:
+Good.
+
+VICKERS:
+Your district fighters know which alleys flood, which basements connect, which families panic when shooting gets too close, and which don't. My people know how long I can hold that slip if I start moving wounded through it before dawn. Both matter. Neither outranks the other.
+
+[That earns Vickers something small but real from Elena: not warmth. Acceptance.] 
+
+ROMEO:
+And if we take the corridor?
+
+VICKERS:
+Then tonight changes shape.
+
+[Tap.] 
+
+VICKERS:
+Engineers reinforce here and here.
+
+[Two circles appear on adjoining buildings.] 
+
+VICKERS:
+Medics stage one block farther inland.
+
+[Tap.] 
+
+VICKERS:
+Your wounded stop dying in basements because nobody can move them.
+
+[Tap.] 
+
+VICKERS:
+My people stop being a rumor at the waterline and become a problem the occupation has to plan around.
+
+ROMEO:
+And tomorrow?
+
+VICKERS:
+Tomorrow I still won't have enough people.
+
+[Beat.] 
+
+VICKERS:
+But tomorrow you'll have something better than you've had this week.
+
+ROMEO:
+Which is?
+
+VICKERS:
+A rear that exists.
+
+[That lands harder than the earlier line. Because in occupied Boston that is almost an impossible luxury.
+Romeo nods once.
+Mace watches him do the calculation. This is the moment he wanted the meeting to get to.] 
+
+ROMEO:
+What do you need from me?
+
+VICKERS:
+Speed. Restraint. And for once in your life, probably at the same time.
+
+[Mace gives a short breath through his nose. Elena doesn't.] 
+
+VICKERS:
+You move first with Costa's people and mine in support. You take the junction and the adjoining warehouse face. You do not chase a clean-looking retreat if it drags you off the line. You hold ugly ground because ugly ground is what makes corridors real.
+
+ROMEO:
+You sound like you've been talking to Marines.
+
+VICKERS:
+Worse. Sailors.
+
+[That gets the faintest shift in the room — not laughter, exactly, but the release of men and women whose muscles have been locked too long.] 
+
+ELENA:
+What about civilians?
+
+VICKERS:
+Moved if possible. Sheltered if not. Your call on the ground unless I tell you otherwise for operational reasons.
+
+ELENA:
+Fair enough.
+
+VICKERS:
+And one more thing.
+
+[She looks directly at Romeo now.] 
+
+VICKERS:
+When my CASEVAC point opens, you do not feed it glory cases.
+
+ROMEO:
+Meaning?
+
+VICKERS:
+No one gets carried here because they wanted to prove they're still useful after doing something stupid. I want men and women who can still be saved and returned to the fight or returned to a future. Not theatre.
+
+[She lets that sit. It is not abstract for her.] 
+
+ROMEO:
+Understood.
+
+VICKERS:
+Good.
+
+[She slides a grease pencil across the map toward him. Not as a gesture of command. As inclusion.] 
+
+VICKERS:
+Show me where your line actually is.
+
+[He studies the map a second, then leans in and marks it. Not where it should be. Where it is.
+Elena steps in beside him and corrects one street from memory without asking permission. Vickers doesn't object. She shifts two blocks of her own plan to account for it immediately.
+This is the real first contact.
+Not introductions. Work.] 
+
+MACE:
+There. Civilisation.
+
+ELENA:
+Don't push it.
+
+VICKERS:
+No. Let him. We crossed an ocean for the experience.
+
+[One beat. One and done. British in Boston acknowledged. Buried.] 
+
+[Outside, a distant thump rolls across the harbor. Not incoming. Outgoing. One of the occupation's remaining guns speaking to reassure itself the city still belongs to it.
+Nobody in the room looks up.] 
+
+VICKERS:
+You move in twelve.
+
+ROMEO:
+Twelve?
+
+VICKERS:
+You were late. I'm charging interest.
+
+[She turns to the room, voice raised only enough to carry.] 
+
+VICKERS:
+All right. Final checks. Corridor package goes in behind Alvarez and Costa. Engineers on my mark only. No freelancing on the waterfront. If it isn't yours, don't stand near it.
+
+[The room moves at once.
+Romeo and Elena step back from the map. No ceremony. No closing speech.
+Vickers catches Romeo for half a second before he turns away.] 
+
+VICKERS:
+Lieutenant.
+
+[He looks back.] 
+
+VICKERS:
+I've read the broad version of you.
+
+ROMEO:
+That bad?
+
+VICKERS:
+That fast.
+
+[Not a rebuke. A calibration.] 
+
+VICKERS:
+Tonight I don't need fast. I need exact.
+
+ROMEO:
+You'll get exact.
+
+[Vickers gives the smallest possible nod.] 
+
+VICKERS:
+Good.
+
+[Elena is already moving toward the door.] 
+
+ELENA:
+Then let's go make your rear exist.
+
+[Mace falls in for the walk back to the lane.] 
+
+MACE:
+Told you she'd be cheerful.
+
+ROMEO:
+She likes me.
+
+MACE:
+No. She's decided you're usable. Better, really.
+
+[They step back into the harbor cold.
+Behind them, the British node keeps working — not grand enough to feel like salvation, which is exactly why it does.
+For the first time in Boston, the resistance has something like a back end to the war.
+Not safety.
+Not victory.
+Support.
+
+And in a city like this, support is how victory starts to become real.] 
+
+================================================================================
+END SCENE
+================================================================================
+
+USE NOTES
+- This scene should be followed quickly by a mission that proves Vickers correct: ugly, limited, corridor-focused, more about making support real than about dramatic flag-planting.
+- Elena must remain fully active in the scene. Do not let the British layer turn her into local color.
+- Mace functions best as the bridge between covert British competence and Vickers's widened package.
+- Keep the British node visually restrained. It should look fast-built, deniable, and practical rather than like a clean expeditionary FOB.

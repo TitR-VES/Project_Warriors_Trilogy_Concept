@@ -1,0 +1,12 @@
+Project Warriors — BODYWORK / Van Hult branch source landing note
+Updated: 2026-04-12
+
+Files produced in this pass:
+- PW_BODYWORK_Mission4_Vehicle_EndState_Insert_2026-04-12.txt
+- PW_BODYWORK_Mitchell_Van_Hult_Branch_Reference_2026-04-12.txt
+- PW_Sidebar_Development_Summary_UPDATED_2026-04-12.txt
+
+Workflow note:
+- Working source page created.
+- Working compendium refreshed.
+- Archival master not refreshed in this pass, consistent with project rule to refresh the master archive at milestone points rather than for every thread-level update.

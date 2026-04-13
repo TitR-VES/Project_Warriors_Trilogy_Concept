@@ -1,0 +1,349 @@
+PROJECT WARRIORS — BOSTON BRITISH WIDENING PACKAGE
+Reference Page — Lt. Dorothy Anne Vickers / Royal Marines / Royal Navy Layer
+Generated: 2026-04-13
+Version: rev1
+Status: DEVELOPMENT LOCK — source-ready working page
+
+PURPOSE
+Define Lt. Dorothy Anne Vickers and the later Royal Marines / Royal Navy widening package in enough detail that the British late-game support layer in Romeo Game 3 Boston has a stable operational shape. This page is designed to resolve the existing source gap without breaking earlier locks that SAS and SBS arrive first, Britain retains only selective expeditionary reach post-PANDORA, and British military CASEVAC must remain a late-game progression beat rather than an opening-state convenience.
+
+================================================================================
+01. ROLE IN THE BOSTON ARC — WHAT THIS PACKAGE IS
+================================================================================
+
+Vickers and the Royal Marines package are not a full-scale liberation force and not a second campaign taking over Romeo's story. They are the late-arriving widening layer of an already established British presence.
+
+The simplest defining line is:
+
+SAS and SBS prove Britain can still reach Boston.
+Vickers proves Britain can help Boston hold.
+
+That distinction is load-bearing.
+
+SAS and SBS belong to the covert-competence phase:
+- insertion through the blockade
+- sabotage
+- hostage/HVP extraction
+- harbor infiltration
+- deniable disruption
+
+Vickers and the Royal Marines belong to the support-and-retention phase:
+- create a usable allied foothold
+- widen maritime access on a limited scale
+- stabilize casualties and movement
+- support resistance operations with disciplined military competence
+- make later liberation feel materially sustainable rather than episodic
+
+This package should change the campaign's feel from isolated underground competence to the first credible sense that an external allied military structure is now physically participating inside Boston.
+
+================================================================================
+02. WHAT THIS PACKAGE IS NOT
+================================================================================
+
+To keep the Boston arc honest and proportionate, this package is explicitly not:
+
+- a British invasion of New England
+- a large conventional landing force
+- a substitute for the AFC / local Boston underground
+- an excuse to skip Romeo's block-by-block struggle
+- the point where the city is effectively won
+- a pretext for early unlimited air support, armored columns, or broad blue-water dominance
+
+Britain remains a strained post-PANDORA state with selective reach. The Boston package must feel hard-won, finite, and carefully risk-managed.
+
+================================================================================
+03. ENTRY LOGIC — WHY VICKERS ARRIVES WHEN SHE DOES
+================================================================================
+
+Vickers does not arrive at the start of the Boston arc. Her package becomes viable only after three conditions are met:
+
+1. SAS / SBS have already established that Boston contains a resistance partner worth reinforcing.
+2. The harbor strike and related disruption have proven that Russian occupation logistics in Boston can be damaged meaningfully.
+3. Britain has a plausible temporary maritime access window and a local receiving structure that will not simply waste the risk of widening support.
+
+This preserves the existing progression rule that British support begins as covert competence and only later widens into meaningful support and CASEVAC.
+
+Operationally, Vickers arrives not because London suddenly has spare force, but because the earlier covert phase has justified the risk of committing a slightly larger, still limited, expeditionary package.
+
+================================================================================
+04. LT. DOROTHY ANNE VICKERS — CORE PROFILE LOCK
+================================================================================
+
+NAME
+Lt. Dorothy Anne Vickers
+
+FUNCTION
+Mission-facing British officer and visible commander of the later Royal Marines / Royal Navy support package in Boston.
+
+RANK / POSITIONING RULE
+Keep her at lieutenant level as a deliberately lean, forward, mission-leading figure rather than inflating her into a strategic-theater commander. The package should feel like something driven by competence, personal authority, and exact operational control — not by rank spectacle.
+
+BRANCH LOGIC
+Royal Navy officer working closely with a Royal Marines package and maritime support element. In practical game-facing use, the player reads her as the person who makes the later British layer function.
+
+AGE / BEARING
+Early to mid-thirties. Young enough to still be physically and psychologically credible in the field-facing role the campaign needs. Senior enough that nobody doubts why she has command.
+
+VOICE / TEMPERAMENT
+Exact, unsentimental, fast-reading, low-drama. She should not sound theatrical, aristocratic, or slogan-heavy. Her confidence comes from velocity of understanding, not performative hardness.
+
+Her best mode is:
+- clipped without sounding robotic
+- composed without sounding cold
+- authoritative without sounding pompous
+- dry enough to feel British, but never written as a parody of Britishness
+
+She is not Mace's personality in officer form. Mace carries veteran stillness. Vickers carries calibrated forward pressure.
+
+CHARACTER CORE
+Vickers is the officer who understands that in Boston the decisive thing is not planting a flag. It is creating a support structure that lets someone else keep moving and survive the counterblow.
+
+That makes her ideal for Romeo's campaign. Romeo is fighting to define what liberation means. Vickers arrives as an allied officer who understands that helping without owning the story is part of her job.
+
+INTERPERSONAL RULE
+She should respect local competence quickly and visibly. She does not waste time making Romeo or Elena prove themselves twice. Once she has the picture, she moves.
+
+KEY CHARACTER LINE (GUIDING ONLY)
+"We're not here to occupy your liberation. We're here to make it harder for them to stop it."
+
+Use sparingly if used at all. Treat as tonal compass more than protected dialogue.
+
+================================================================================
+05. FORCE PACKAGE — RECOMMENDED SHAPE
+================================================================================
+
+The Vickers package should feel tactically meaningful but numerically restrained.
+
+Recommended structure:
+
+A. FORWARD COMMAND / LIAISON CELL
+Small command element led by Vickers.
+Purpose:
+- coordinate Boston resistance and British military action
+- deconflict SAS / SBS / local resistance / later coalition movement
+- manage limited-support priorities
+- control the late-game support unlock logic
+
+B. ROYAL MARINES STRIKE / SECURITY DETACHMENT
+A compact Commando-trained detachment, not a battalion-scale occupation force.
+Purpose:
+- secure landing or transfer points
+- hold temporary strongpoints long enough for others to work
+- reinforce local pushes at decisive moments
+- provide disciplined casualty collection and extraction security
+- execute short, violent limited-objective raids where holding afterward matters
+
+C. ROYAL NAVY MARITIME SUPPORT ELEMENT
+Not a large fleet parade. A practical littoral support structure.
+Purpose:
+- provide offshore command-and-control continuity
+- move personnel and matériel through narrow windows
+- support coastal / harbor exfil and infiltration
+- sustain small-craft movement and limited resupply
+- anchor the idea that Britain can still reach across the Atlantic selectively
+
+D. MEDICAL / CASEVAC NODE
+Small but transformative.
+Purpose:
+- convert British presence into a felt gameplay progression
+- create the first reliable military casualty-handling lane available to Romeo in Boston
+- materially change mission planning and player psychology late in the arc
+
+E. LIMITED FIRES / HEAVY-WEAPONS SUPPORT
+Keep modest and exact.
+Purpose:
+- not broad bombardment
+- not spectacle-first naval gunfire fantasy
+- rather: carefully rationed heavier support, breaching help, anti-vehicle punch, or overwatch capability when the story says the coalition has earned it
+
+================================================================================
+06. WHAT THE ROYAL MARINES SPECIFICALLY ADD
+================================================================================
+
+The Royal Marines package must contribute something meaningfully different from both SAS/SBS and the AFC.
+
+They add five things.
+
+1. HOLDING POWER
+SAS and SBS are ideal for getting in, breaking something important, and leaving or disappearing. Royal Marines are the British layer that can seize a position, secure it, and keep it usable long enough for the resistance to benefit.
+
+2. DISCIPLINED TRANSITION SPACE
+The Boston resistance is brave, adaptable, and local. It is not a full formal military support system. Royal Marines create temporary bridges between insurgent action and structured military sustainment.
+
+3. CASUALTY STABILITY
+This is the gameplay and narrative hinge. Once Vickers's package is active, a badly hit operation does not feel automatically terminal in the same way it did earlier. The coalition can now catch people who would previously have been lost.
+
+4. SHORE-SIDE MARITIME VIABILITY
+SBS opens the maritime lane covertly. Royal Marines help keep pieces of that lane open long enough to matter.
+
+5. LIBERATION AS INFRASTRUCTURE
+This is the biggest thematic contribution. The Royal Marines package should make Boston feel less like a series of brave attacks and more like the beginning of recoverable civic ground.
+
+================================================================================
+07. OPERATIONAL POSTURE INSIDE BOSTON
+================================================================================
+
+Vickers's package should be used in four recurring modes.
+
+MODE 1 — HIDDEN RECEIVING NODE
+A concealed dockside / warehouse / industrial-edge foothold where people, matériel, and casualties can move through in carefully controlled windows.
+
+MODE 2 — TEMPORARY STRONGPOINT SUPPORT
+A building, quay, terminal edge, workshop belt, or reclaimed service space held just long enough to enable the next move.
+
+MODE 3 — MOBILE REINFORCEMENT
+A small Royal Marines element appears when the campaign needs a disciplined allied shock of support rather than a full separate front.
+
+MODE 4 — EXFIL / RECOVERY FRAMEWORK
+The British layer gives late-Boston missions real extraction logic: boats, hidden coastal pickup, secure transfer point, treated casualties, or a defended onward route.
+
+================================================================================
+08. GAMEPLAY / CAMPAIGN CONSEQUENCE LOCKS
+================================================================================
+
+The Vickers package should unlock support in stages, not all at once.
+
+STAGE 1 — PRESENCE FELT, NOT YET FULLY USABLE
+- rumors of British movement become confirmed
+- evidence of organized foreign military competence appears in mission spaces
+- player sees effects before broad access
+
+STAGE 2 — LIMITED ACCESS
+- one or two missions gain British support options
+- a temporary casualty collection point becomes available
+- a small amount of ammunition / specialist support or route assistance becomes real
+
+STAGE 3 — LATE-GAME SUPPORT THRESHOLD
+- British military CASEVAC becomes available in a way the player can feel
+- one or two stronger combined operations become possible
+- the campaign's momentum changes because survival odds and operational imagination both expand
+
+STAGE 4 — COALITION WEIGHT WITHOUT FULL CONVENTIONAL DOMINANCE
+- British presence is now openly shaping the battle space in selected sectors
+- still finite, still vulnerable, still not citywide control
+- enough to make the player believe liberation can persist after a mission ends
+
+================================================================================
+09. BOSTON SUPPORT UNLOCKS — RECOMMENDED FINAL SHAPE
+================================================================================
+
+Once fully active, Vickers's package can credibly provide the following Boston-side support functions:
+
+- late-game military CASEVAC
+- defended casualty collection points
+- coastal / harbor exfil route
+- limited maritime resupply of high-value items
+- selected insertion options for shoreline-adjacent operations
+- occasional Royal Marines assault participation in story-critical pushes
+- route security for withdrawal after major combined missions
+- heavier crew-served weapons or anti-vehicle support in tightly controlled contexts
+
+Do not give this package casual abundance. Every support beat should feel like something that had to be arranged.
+
+================================================================================
+10. RELATIONSHIP TO ROMEO, ELENA, Kearney, AND LOCAL BOSTON STRUCTURE
+================================================================================
+
+ROMEO
+Vickers should treat Romeo as a local operational partner with strategic relevance, not as a junior auxiliary. Their relationship works best if it is founded on rapid mutual professional recognition.
+
+ELENA COSTA
+Elena is the proof that Boston already had an armed center of gravity before British widening. Vickers should understand this immediately. Elena is not someone Vickers "empowers." Elena is someone Vickers plugs into a larger support lattice.
+
+EAMONN KEARNEY / MATERIAL CONTINUITY
+The British package should strengthen Boston's material sustainment rather than replacing it. Kearney remains the city's hidden armorer / repair specialist. British presence may improve what reaches him, but does not reduce him to quartermaster for foreigners.
+
+LOCAL AFC / BOSTON CELLS
+The British widening layer must reinforce the feeling that Boston liberation is becoming more coordinated, not more externally owned.
+
+================================================================================
+11. RELATIONSHIP TO SAS AND SBS
+================================================================================
+
+This must feel like one British effort with three distinct idioms.
+
+SAS
+- intelligence-led urban direct action
+- hostage/HVP extraction
+- small-team sabotage and deniable precision work
+
+SBS
+- covert maritime approach
+- harbor sabotage
+- underwater / surface access expertise
+- blockade disruption
+
+VICKERS / ROYAL MARINES / ROYAL NAVY
+- convert success into staying power
+- protect and widen the access lane
+- carry casualties, matériel, and momentum
+- make the coalition visible in physical space
+
+The emotional rule is:
+SAS and SBS impress.
+Vickers reassures.
+
+Not because she is soft, but because her arrival means the resistance is no longer carrying every consequence alone.
+
+================================================================================
+12. ROYAL NAVY SCOPE — RECOMMENDED LIMITS
+================================================================================
+
+Keep the Royal Navy contribution real but bounded.
+
+Recommended scope:
+- offshore support vessel / command node kept mostly off-screen or indirect
+- small-craft movement and littoral transfer capability
+- signal continuity, navigation, planning, and movement support
+- possible limited offshore fires or stand-off cover only if tightly justified by mission design
+
+Avoid turning the Boston arc into a frigate-showcase or a naval gunfire fantasy. The harbor and coastline matter because they are contested arteries, not because they are a place to stage hardware porn.
+
+================================================================================
+13. OPTIONAL ASSOCIATED MISSION LANES THIS PACKAGE SHOULD SUPPORT
+================================================================================
+
+The Vickers package should naturally support, without replacing, the following already-seeded British/Boston threads:
+
+- late consequence of the harbor strike against occupation resupply
+- aftermath / onward exploitation of the hostage-HVP extraction lane
+- foreign-civilian / wheelchair exfil side quest via British boat infrastructure
+- Tea Party-style harbor action as the Boston historical inversion reaches full expression
+- later combined operations where Romeo's resistance and British military support finally move in visible concert
+
+================================================================================
+14. AESTHETIC AND TONAL RULES
+================================================================================
+
+VISUAL RULE
+British widening should read as functional expeditionary austerity, not polished occupation. Wet kit, temporary staging, maritime grime, disciplined field order, controlled lighting, narrow windows of movement.
+
+DIALOGUE RULE
+No speechifying about alliance, freedom, or history. Let the irony of British forces in Boston exist mostly through player perception and one or two dry acknowledgements at most.
+
+TACTICAL RULE
+Royal Marines should look better at securing and transitioning a space than at theatrical solo heroics.
+
+NARRATIVE RULE
+Vickers is memorable because she changes the campaign's operational grammar, not because she steals scenes through grandstanding.
+
+================================================================================
+15. CLEAN LOCK RECOMMENDATION
+================================================================================
+
+Lock the Vickers package as follows:
+
+Lt. Dorothy Anne Vickers commands the late-arriving British widening layer in Romeo Game 3 Boston: a limited Royal Marines / Royal Navy support package that follows the earlier SAS and SBS covert phase. Its function is not to liberate Boston by itself, but to convert British reach into staying power — opening defended casualty-handling, maritime access, reinforcement, and temporary holding capacity at the exact point in the campaign when the resistance becomes capable of exploiting outside support. The player should feel Vickers's arrival most strongly through new survivability, new movement options, and the sense that liberated ground might finally be held.
+
+================================================================================
+16. OPEN FLAGS LEFT DELIBERATELY OPEN
+================================================================================
+
+FLAG 01 — Vickers full biography / origin city / service pathway beyond mission-facing requirements
+FLAG 02 — exact Royal Marines detachment size and internal named roster
+FLAG 03 — exact Royal Navy platform type supporting the package
+FLAG 04 — whether any RAF presence ever becomes concrete in late Game 3
+FLAG 05 — whether British anti-vehicle / heavier fires are marine-carried, boat-supported, or delegated to a separate mission-specific element
+FLAG 06 — exact mission where British military CASEVAC first becomes mechanically available
+
+END OF PAGE

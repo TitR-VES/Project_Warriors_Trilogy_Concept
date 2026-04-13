@@ -1,0 +1,19 @@
+PROJECT WARRIORS — COMPENDIUM PATCH INSERT
+Target file: PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+Generated: 2026-04-13
+Version: rev1
+Purpose: source-ready patch note carrying forward the newly locked Animal Calm-State Interaction feature until the next full gameplay compendium refresh.
+
+RECOMMENDED PLACEMENT
+- Section A — POST-SOURCE MEMORY INTEGRATION PATCHES
+- Add as next numbered item after the current ARTEMIS / TYPHON lock
+
+PATCH TEXT
+
+8) Animal Calm-State Interaction lock: select non-hostile animals may be briefly interacted with in first person when calm, safe, and fictionally appropriate; the interaction is optional, non-reward-bearing, context-sensitive, and used sparingly for authenticity, warmth, and lived-in environmental texture; preserve animal agency and behavioral plausibility, do not make every animal interactable, suppress the interaction during danger/urgency/stealth-compromise states, keep dialogue minimal, and treat horses/donkeys with grounded handling rather than cute-pet framing.
+
+OPTIONAL SHORT NOTE FOR FUTURE FULL REFRESH
+- Source-of-truth landing point: PW_Gameplay_Mechanics_Overview-4.txt
+- Best future full-refresh location: between sections 16 and 17 as a short standalone flavor-system subsection
+
+END OF PATCH

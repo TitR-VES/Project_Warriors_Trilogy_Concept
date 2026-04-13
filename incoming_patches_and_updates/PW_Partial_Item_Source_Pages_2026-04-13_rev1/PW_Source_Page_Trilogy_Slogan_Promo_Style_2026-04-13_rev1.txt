@@ -1,0 +1,175 @@
+PROJECT WARRIORS — SOURCE PAGE
+Document ID: PW-SRC-PSD-001
+Title: Trilogy Slogan / Campaign Audio Identity / Promo Style Guide
+Domain: Promotional / Sidebar Development
+Status: ACTIVE SOURCE PAGE
+Canon State: LOCKED CORE TAGLINES / LOCKED PROMO RULES / OPEN FOR FUTURE DLC ADDITIONS
+Source Type: PRIMARY WORKING SOURCE
+Last Updated: 2026-04-13
+Supersedes: scattered sidebar notes and patch-only slogan carry-forward treatment
+Superseded By: —
+Related Files:
+- PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt
+- PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt
+Notes:
+- This page exists because the migration audit identified trilogy slogan / style-guide material as broader logic without a dedicated standalone source page.
+- Use this as the compact house-style reference for campaign identity work.
+
+================================================================================
+01. PURPOSE
+================================================================================
+
+This page defines the currently locked campaign-level teaser identity lines and the rules governing promo construction, tone, and music use.
+
+It is not a full marketing bible.
+It is the source-of-truth reference for narrative-facing promo identity so future pages stop inheriting stale tagline variants.
+
+================================================================================
+02. GAME 2 CAMPAIGN IDENTITY — LOCKED
+================================================================================
+
+ROMEO — AMERICAN FREEDOM
+Anchor track / teaser identity:
+- “Good Morning, America” — Jesse Welles
+Primary tagline:
+- WAR HITS HOME.
+Identity notes:
+- occupation of familiar American space
+- productive dissonance between warmth / folk texture and wrongness on the ground
+- home-front violation, not abstract geopolitics
+
+DUCKY — PERSISTENT THREAT
+Anchor track / teaser identity:
+- “Kyiv” — Apashe ft. Alina Pash
+Primary tagline:
+- THE SYSTEM FELL. WE DIDN’T.
+Retired variant:
+- “We Are Taking Our Home Back.” do not use as the primary line
+Retired campaign title:
+- AEGIS Falls
+Identity notes:
+- institutional survival under pressure
+- Europe as collective will, not clean triumph
+- system damage, human persistence
+
+SPOOK — GODKILLER
+Teaser tone-setter:
+- “King Nothing” — Metallica
+Primary tagline:
+- YOU CAN’T KILL A DEAD MAN.
+Identity notes:
+- haunted pursuit
+- intelligence rot / false death / unreachable power
+- manhunt with metaphysical overtones kept grounded by tradecraft
+
+================================================================================
+03. PROJECT-LEVEL IDENTITY RULES
+================================================================================
+
+Do:
+- let each campaign feel like its own cultural and tonal lane
+- keep the tagline short, declarative, and pressure-bearing
+- use music to create productive tension rather than merely mirror mood
+- treat teaser identity as a narrative thesis statement, not just hype copy
+
+Do not:
+- recycle retired campaign-title language into current-facing materials
+- let environmental song picks replace campaign anchor identity
+- flatten all three campaigns into the same trailer voice
+
+================================================================================
+04. PROMO CONSTRUCTION RULES — LOCKED
+================================================================================
+
+Character promo seven-part structure:
+1. origin / establishing image
+2. first detonation or signature combat ignition
+3. character-specific tool / weapon beat
+4. deeper action escalation
+5. squad / relationship passage
+6. final build
+7. ending private detail / title card
+
+Recurring technique:
+- diegetic sound punctuation
+- music partially drops
+- real-world sound cuts through
+- music returns
+
+Use silence and restraint actively.
+Do not score every second as if fear of empty space were a virtue.
+
+================================================================================
+05. MUSIC USE RULES — LOCKED
+================================================================================
+
+Environmental music rule:
+Music used in environments is world texture first, not replacement for campaign anchor identity.
+
+Preferred principle:
+productive dissonance > literal mood matching
+
+Meaning:
+- warmth against horror can be stronger than grimness against grimness
+- quiet sources matter
+- low-volume diegetic wrongness often lands harder than obvious dramatic scoring
+
+Drop / caution notes:
+- “Run to the Hills” is dropped from active use
+- Blonde Redhead “For the Damaged Coda” is dropped completely
+- extremely famous tracks should be used sparingly and precisely
+
+Special-use note:
+Montoya Farm optional observation-space beat may use Ghost “Square Hammer” as low-volume diegetic wrongness, not overt stylized horror punctuation.
+
+================================================================================
+06. CAMPAIGN-SPECIFIC PROMO FEEL
+================================================================================
+
+ROMEO
+- should feel human, local, occupied, and physically immediate
+- warmth, community texture, and civic stakes are load-bearing
+- avoid making him only a vengeance vector
+
+DUCKY
+- should feel procedural, exact, widening in scale without becoming bombastic
+- systems, coalition, and field competence matter
+- heroism is carried through steadiness and pressure-control
+
+SPOOK
+- should feel hidden, compromised, redacted, and increasingly intimate in its wrongness
+- intelligence-world corruption and the hunt for already-buried truth are central
+- avoid empty “spy cool” framing
+
+================================================================================
+07. HOUSE STYLE FOR TAGLINES
+================================================================================
+
+Preferred form:
+- all caps acceptable in promo layout
+- one sentence or sentence fragment only
+- high compression
+- no stacked clauses
+- declarative over rhetorical unless a deliberate exception has already locked
+
+Good examples from current canon:
+- WAR HITS HOME.
+- THE SYSTEM FELL. WE DIDN’T.
+- YOU CAN’T KILL A DEAD MAN.
+
+Recommended test:
+If the line cannot survive alone on a black screen after one cut to silence, it is probably too weak or too verbose.
+
+================================================================================
+08. DLC / FUTURE-USE NOTE
+================================================================================
+
+This page governs the trilogy core and current major Game 2 identities.
+Future DLCs may append additional promo identities here only after their story direction is stable enough not to churn the document every session.
+
+================================================================================
+09. SOURCE-GOVERNANCE NOTE
+================================================================================
+
+This page should be treated as the dedicated slogan / promo style-guide landing the migration audit flagged as missing.
+Once compendia refresh, broader slogan logic in patch layers may be considered absorbed here.

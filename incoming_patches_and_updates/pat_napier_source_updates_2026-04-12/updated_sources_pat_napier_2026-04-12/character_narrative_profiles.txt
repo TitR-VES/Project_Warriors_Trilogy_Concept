@@ -1,0 +1,898 @@
+================================================================================
+CHARACTER NARRATIVE PROFILES — WEAPONS DEVELOPMENT THREAD
+Fictional FPS Trilogy — Compiled for Story Development Use
+================================================================================
+Source: Weapons Development Thread — narrative content extracted and organized
+These profiles cover weapon philosophy, character behavior, voice notes,
+equipment notes, inter-character dynamics, and story flags developed
+alongside the weapons builds. They are intended as working reference
+material for story development in a dedicated narrative thread.
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 01 — CPT TREVOR "SPOOK" GARTNER
+Campaign: Riptide Red (Game 1) / Godkiller (Game 2)
+Faction: CIA Ground Branch / Victor Two Bravo
+--------------------------------------------------------------------------------
+
+WEAPON PHILOSOPHY:
+Spook's weapons are chosen for concealment, quiet, and deniability.
+Everything on his person exists to solve problems without being seen solving
+them. GRAY GHOST (his Noveske N-4) and NOTHING (his HK45CT) are a matched
+pair in both finish and philosophy — dark gray, suppressed, purposeful.
+The 300 BLK chambering of GRAY GHOST is not incidental: subsonic 300 BLK
+through the SOCOM suppressor in the right environment is as close to silent
+as the game gets, which fits every stealth-critical mission in his campaign.
+NOTHING as a sidearm name functions as both weapon identity and operational
+cover — when asked what he is carrying, Spook's answer is technically,
+literally true. Delivered completely flat. No smile. No pause.
+
+THE "NOTHING" JOKE — STORY FLAG:
+The name NOTHING lends itself to a recurring verbal thread across Godkiller
+missions. Used sparingly, it lands differently each time as the player
+accumulates context:
+  - First use: almost funny
+  - Second use: unsettling
+  - Third use: the word itself carries weight
+Setup: someone — a guard, a checkpoint officer, a contact reading the room
+wrong — asks Spook what he is carrying. Answer: "Nothing."
+It is a straight lie that is also the weapon's actual name, which makes it
+not a lie at all. Spook delivers it completely flat. The player gets it.
+The person asking does not.
+[Flag: develop specific dialogue moments in Godkiller mission writing]
+
+CLEANING ANIMATION CHARACTER NOTE:
+Spook cleans his weapons slowly and almost meditatively. The cleaning is
+something he does when he needs to think. Distinct from Romeo (fast,
+functional, muscle memory) and Ducky (methodical, checks each component).
+
+STRIBOG SP10 A3 — VIENNA MISSION NOTE:
+The Stribog SP10 A3 (10mm AUTO) is a mission-specific weapon for the Vienna
+chase sequence only. It cannot be kept after the mission. The 10mm AUTO
+chambering is deliberately unusual — it is not a caliber Spook can sustainably
+scavenge in the field, which reinforces why it must be surrendered. It also
+makes the weapon feel genuinely exotic when the player handles it, which fits
+the one-mission-only design intent.
+
+DESERT EAGLE EASTER EGG — PANDORA'S BOX:
+When Spook picks up the Desert Eagle Mk XIX (.50 AE) dropped by the mezzanine
+ambush leader, the first 2-3 seconds of the Max Payne main theme play at the
+exact instant the weapon's weight settles into his hand — solo piano, low
+volume, slightly muffled, as if coming from somewhere else entirely. Gone
+before the player can fully process what they heard.
+Players who catch it will feel like they found something.
+Players who don't will have a strange half-second of tonal incongruity
+they can't quite place.
+The inspect animation shows Spook turning the weapon over once, pausing
+a half-beat longer than usual — as if mildly finding it absurd. No dialogue.
+Just the pause. Players who inspect immediately get the full joke.
+The irony: Max Payne's weapon, in the hands of a CIA covert operator in a
+Miami Beach hotel during a firefight that has gone completely sideways.
+Nothing acknowledges that any of this happened.
+
+MAWL-DA UNLOCK — BURNING DAYLIGHT:
+The MAWL-DA module is found in a hard-sided Pelican case in the Montoya Farm
+security equipment room, adjacent to the server room. Tripper cracks the case
+and hands it to Spook during a brief cutscene. The case has a GenCorp logistics
+sticker on it — a quiet thread connecting Montoya Farm's security procurement
+to GenCorp's supply chain. No dialogue draws attention to this connection.
+From this point forward the MAWL-DA is available as a GRAY GHOST attachment.
+The MAWL-DA is not a piece of kit that ends up in a private security compound's
+equipment room through legitimate channels — players who know the real device
+will understand immediately what that sticker implies.
+
+--------------------------------------------------------------------------------
+SECTION 02 — SFC FERRIS "DUCKY" RYAN
+Campaign: Do Right, Fear None (Game 1) / AEGIS Falls (Game 2)
+Faction: AEGIS Squad — NATO Allied Rapid Reaction Command Europe
+--------------------------------------------------------------------------------
+
+WEAPON PHILOSOPHY:
+Ducky's kit is methodical, European in character, and built around
+standardization. His FREYA build is a deliberate statement of identity —
+the olive/black/FDE color discipline reads as European NATO, distinct from
+the all-black or all-FDE American builds. It reflects a senior NCO who has
+invested in his kit and made considered decisions about every element.
+The B&T Rotex suppressor family appearing on both his rifle and his CZ P-09
+is a quiet standardization detail — shared maintenance, shared parts, shared
+philosophy.
+
+FREYA — NAME RESONANCE:
+The build name FREYA fits on multiple levels:
+  - It is the platform name (Grand Power R-15 Freya)
+  - It carries Norse register consistent with AEGIS, Nereid Black, and the
+    Danish frogmen operational world Ducky inhabits
+  - It quietly echoes the HDMS Freja — the Danish patrol vessel that extracts
+    AEGIS at the end of Wirecutter — whether intentional in-universe or simply
+    a resonance the player might notice
+
+FREYA SUPPRESSOR-OFF NOTE:
+The suppressor is removed for the Rotterdam finale. This is the first time
+the player fires FREYA in fully open battle conditions — it sounds and handles
+differently from the suppressed configuration. A small but meaningful sensory
+distinction that signals the changed register of the mission.
+
+CZ P-09 SIDEARM — CHARACTER NOTE:
+The CZ P-09 is Czech-made, widely adopted across NATO allied forces,
+large-frame, accurate, with a distinctly European character that distinguishes
+it from the American Glocks and SIGs that Romeo and Spook carry. The FDE/black
+two-tone is a deliberate field customization — the kind of thing a senior NCO
+does to a weapon he has carried for years. The threaded barrel implies he runs
+a suppressor when the mission allows it.
+
+CLEANING ANIMATION CHARACTER NOTE:
+Ducky cleans his weapons methodically, checking each component before
+reassembly. Distinct from Romeo (fast, muscle memory) and Spook (meditative).
+
+SEVEROMORSK BROADCAST — ROTTERDAM:
+When Ducky reaches the NMESIS command post and arms the battery, the NATO
+radio handset in his equipment slot becomes the active item. The player presses
+the equipment use button to key the handset. The broadcast frequency is already
+set. The line plays. The key turns. The missile launches. The RPG operator
+appears.
+The sequence is then entirely physics and player reaction — no cutscene
+interruption until the command post has tipped and Ducky has emerged from the
+escape hatch.
+RPG OPERATOR NOTE: The Spetsnaz operator fires and exposes himself to a large
+adjacent NATO force. Approximately four seconds after the RPG fires, a burst
+of small arms fire from off-screen in the direction of the drain hole confirms
+his fate — heard but not seen. The player hears the consequence without being
+shown it.
+If the player reacts fast enough to shoot the operator before he fires, the RPG
+round detonates harmlessly into the harbor water and the command post tips from
+the shockwave rather than a direct hit. The outcome is identical. No dialogue
+acknowledges this. It is there for the player who was fast enough to notice.
+
+--------------------------------------------------------------------------------
+SECTION 03 — LT RAMÓN "ROMEO" ÁLVAREZ
+Campaign: Critter Squad (Game 1) / American Freedom (Game 2)
+Faction: US Army 75th Ranger Regiment / American Freedom Corps
+--------------------------------------------------------------------------------
+
+WEAPON PHILOSOPHY:
+Romeo's weapons evolve across the games in a way that mirrors his situation.
+In Game 1 he carries standard Ranger kit — well-maintained, properly issued,
+backed by a supply chain. In Game 2 he arrives in occupied Kentucky with
+depleted stores and no resupply. The AC-556 handoff from Dale Pruett is not
+just a story beat — it is a resupply moment, and the player will feel it.
+His weapons in Game 2 are scavenged, borrowed, and improvised in ways that
+communicate his situation before any dialogue does.
+
+DON'T TREAD — NARRATIVE LAYERS:
+The AC-556 build name DON'T TREAD operates on several levels simultaneously:
+  1. It is the Gadsden motto truncated — the back half of "Don't Tread On Me,"
+     done by hand on the receiver, possibly with a Dremel, at some point in
+     the weapon's past
+  2. It connects the weapon to Dale Pruett's personal history — a man who was
+     angry once, found the wrong community for a few years, and quietly walked
+     away; the engraving is the thing he cannot un-engrave
+  3. It is a dangerous signal in occupied Harlan County — the Three Percenter /
+     Boogaloo-adjacent militia group recognizes the motto when Romeo carries
+     the weapon, creating a moment of mistaken assumption Romeo must navigate
+
+ENVIRONMENTAL ECHO:
+A detail in Dale's house — a framed photograph or jacket patch — echoes the
+same truncated motto, tying Dale to the weapon's origin without dialogue.
+Players who make the connection do so on their own.
+
+DON'T TREAD — PHASING OUT:
+The AC-556's 20-round magazine limit and moderate accuracy ceiling mean the
+player naturally phases it out as better options appear through the campaign.
+The moment of setting it aside should feel like a small story beat in itself —
+a quiet acknowledgment that this phase of the resistance is over and the next
+one has begun.
+
+AMMO SCARCITY — LOW GROUND:
+Low Ground is intentionally the most resource-constrained mission in Game 2.
+Romeo arrives with depleted Game 1 supplies and no resupply chain. 5.56 NATO
+is scarce at mission start — the M4A1 is running low and no enemy in this
+mission carries 5.56, so scavenge is unavailable. The player is incentivized
+to pick up an AK-74M as a temporary primary. This scarcity is narrative as
+much as mechanical.
+
+CLEANING ANIMATION CHARACTER NOTE:
+Romeo cleans his weapons fast and functionally, working from muscle memory.
+No ceremony. Distinct from Ducky (methodical) and Spook (meditative).
+
+CMMG MK47 — AMMO ECONOMY DESIGN NOTE:
+The CMMG Mk47 becoming available in Down Rodeo is not just a rare weapon reward.
+It is a gameplay infrastructure decision that pays off for the entire final act
+of Romeo's campaign — 7.62x39mm is fed by DPRK Type 58 carriers, DPRK AK-15
+carriers, and Los Sietes AKM carriers throughout the San Diego push. The weapon
+rewards the player who carried it forward.
+
+--------------------------------------------------------------------------------
+SECTION 04 — SSGT AKI "FROST" PELTOLA
+Campaign: Do Right, Fear None (Game 1) / AEGIS Falls (Game 2)
+Faction: AEGIS Squad — former Finnish Special Forces Arctic Warfare Division
+--------------------------------------------------------------------------------
+
+WEAPON PHILOSOPHY:
+Frost's kit is the most specialized and least flexible of any AEGIS operator.
+He does not adapt his weapon to the mission — he adapts the engagement to his
+weapon. Everything about his loadout communicates that he would rather end
+the conversation at eight hundred meters before it becomes a conversation at
+eight meters.
+The Finnish heritage of his kit is deliberate and consistent. His equipment
+looks Nordic — it looks like it has been outside for a long time.
+
+THE MASK:
+Frost's mask is a custom-fitted half-face respirator-style mask in matte white.
+Not tactical black. Not camouflage. White, because in his operational
+environment white is a color that disappears.
+Small ventilation ports at the jaw line. Low-profile fit that does not
+interfere with cheek weld on his rifle. He has worn it long enough that it
+is simply part of his face to the people who know him.
+The scarring beneath it is referenced in dialogue but never shown.
+
+TRG M10 — NAME NOTE:
+The TRG M10 is not a name Frost gave the weapon. It is simply what the weapon
+is. The platform name and the build name are the same because the weapon and
+the man are so closely identified that the distinction ceased to matter.
+Frost does not name his weapons. The TRG M10 is just what it is, and everyone
+who knows Frost knows what that means.
+
+COLD PLUNGE — ORIGIN SCENE:
+The Cold Frontier 07 flashback takes place during a Finnish military exercise
+in Lapland, 2007. Young Frost carries a Tikka T3x TAC A1 — a good rifle, not
+his rifle yet. During the encounter with Vympel operators, the T3x is knocked
+from his hands during the fall over the cliff. The rest of the flashback is
+fought with bare hands, a fixed blade, and whatever the Vympel operators
+brought into the water with them.
+The T3x is lost in the lake and not recovered. Its loss is the narrative origin
+of Frost's preference for distance. He learned in that lake what happens when
+distance fails.
+The flashback ends with Frost pulling himself onto the ice, knife in hand,
+the lake behind him. What happened in the water is communicated by what is no
+longer moving in it. The cutaway is deliberate — nothing is shown explicitly.
+
+TRG M10 DAMAGE MOMENT:
+In one late AEGIS campaign mission (scripted event), the TRG M10 takes a round
+through the suppressor body. Frost says one word, in Finnish: "Perkele."
+Quietly. To no one. Then transitions to the MRAD without further comment.
+
+COLD PLUNGE FINAL LINE:
+The only spoken line attributed to the young Frost after the lake encounter
+is in Finnish. It is not subtitled in any language. Players who speak Finnish
+will understand it. Players who do not will hear the tone — exhausted,
+deliberate, privately furious — and understand enough.
+
+FROST / LUPIN DYNAMIC:
+Frost and Lupin developed a shooting shorthand during a joint Finnish-Romanian
+exercise before either joined AEGIS — Lupin calling range and wind, Frost
+confirming or adjusting. Approximately forty words total, in a mix of Finnish
+and Romanian that no other AEGIS member understands. Ducky asked once what
+they were saying. Frost said: "Shooting talk." That was the entire explanation.
+Lupin carries a Rite in the Rain data book written in Romanian. Frost noticed
+this during a joint range session and said nothing. Lupin noticed Frost noticing
+and said nothing. Their relationship is built substantially on things noticed
+and not commented on.
+
+FROST / LANTERN KNIFE CONNECTION:
+Frost carries a Peltonen Ranger M95. Lantern (Nereid Black) carries an
+identical knife — acquired from a Finnish exchange operator during a joint
+exercise. The shared knife connects them as characters without requiring a
+scene about it. Neither has mentioned it.
+
+VOICE NOTE:
+Frost does not comment on enemy weapons he picks up. He does not remark on
+ammunition scarcity. He does not narrate reloads. His weapon-related dialogue
+is sparse to the point of near-silence.
+
+--------------------------------------------------------------------------------
+SECTION 05 — LCPL CASSANDRA "SWITCHBLADE" STEWART
+Campaign: Do Right, Fear None (Game 1) / AEGIS Falls (Game 2)
+Faction: AEGIS Squad — former Australian Army
+--------------------------------------------------------------------------------
+
+BACKGROUND (established in story notes):
+Originally from Melbourne, Victoria. Grew up in relative poverty. Lost her
+mother to unexpected cardiac arrest. Father Richie Stewart became increasingly
+abusive. One night he fell asleep drunk while smoking, causing a house fire.
+Cassie was 17. She escaped. She has confessed that she saw her father
+unconscious among the growing blaze and — feeling bitter and vengeful over
+years of abuse — decided to walk away.
+She spent a rough couple of months doing petty crime on Melbourne streets
+before enlisting one week after her eighteenth birthday.
+
+WEAPON PHILOSOPHY:
+Switchblade's kit reflects someone who came up hard and learned to be dangerous
+with whatever was at hand before she ever had access to good equipment. She is
+not sentimental about weapons the way Frost is, and not systematic about them
+the way Ducky is. She is pragmatic in a way that reads almost as casual —
+she picks things up, runs them until something better appears, and puts them
+down without ceremony.
+Her callsign refers to speed — the speed at which she transitions from
+non-contact to contact, from assessment to action. In AEGIS she is the first
+person through a door, the first to close distance, the first to decide a
+room has become a problem.
+
+AUG A3 — WREN:
+Switchblade has carried the AUG A3 since her Australian Army days. She has
+resisted repeated suggestions from AEGIS armourers to standardize to the
+HK416 Ducky carries. The conversation has happened more than once. She is
+not rude about it. She simply does not change.
+The build is named WREN — written in black marker on the inside of the dust
+cover. Visible only during the bolt-open empty-chamber animation. She named it
+after a bird because the AUG looks to her like something small that moves
+faster than it has any right to. She has never told anyone the name.
+
+GLOVE MODIFICATION:
+Switchblade removed the finger coverage from the right hand of her Mechanix
+Wear M-Pact gloves with scissors during the first week of AEGIS deployment.
+The standard gloves affected her trigger feel on the AUG. She made the
+modification without asking anyone.
+
+AUSTRALIAN ARMY PATCH:
+She does not wear her Australian Army unit patch in the field. She keeps it
+folded once in the left chest pocket of her plate carrier, behind her medical
+card. She has been asked twice to remove it as non-standard. She has not
+removed it.
+
+SCAR NOTE:
+A scar runs along Switchblade's left forearm — the result of the second time
+her habit of closing distance too fast cost her. She does not cover it and
+does not explain it. During the Glock 17 inspect animation, her left hand
+supporting the pistol is visible. The scar is rendered in detail. No camera
+movement draws attention to it. It is simply there.
+
+BENCHMADE INFIDEL — HISTORY:
+The Benchmade 3300BK Infidel OTF automatic is the weapon the callsign refers
+to. Switchblade has carried an OTF automatic since she was seventeen on the
+streets of Melbourne. The current one is the third — the previous two were
+upgraded as better options became available.
+The knife's origin is never discussed. Its presence since age seventeen is
+established. Its adjacency to the house fire story beat is intentional.
+Players who think about the timeline will draw their own conclusions.
+The connection is never made explicit.
+
+VOICE AND BEHAVIOR:
+Switchblade is the most verbally active AEGIS member in contact — calling
+targets, movement, ammo status without being asked. This is not chattiness.
+It is information discipline at high speed. Her callouts are short and
+specific: "Two, left door." "Moving." "Dry — covering."
+She assesses unfamiliar enemy weapons in approximately one second and either
+uses them or drops them. She does not inspect. She does not comment.
+Exception: if the player picks up an AKM as a squadmate in a Ducky mission,
+she glances at it and says, once: "Alright." Flat. Approving.
+Her Melbourne accent is not softened for the NATO multinational environment
+she operates in. Lupin commented on it once. The look she gave him ended
+the conversation.
+
+SWITCHBLADE / LUPIN DYNAMIC:
+Switchblade is fast and close; Lupin is deliberate and distant.
+She thinks he takes too long. He thinks she closes too fast.
+Both are right about the other and wrong about themselves.
+In practice their complementary instincts make them the squad's most effective
+combined element in medium-complexity environments — she clears the close
+ground while ARGINT holds the distant ground. They have never discussed this
+out loud. It is simply what happens when they operate together.
+
+--------------------------------------------------------------------------------
+SECTION 06 — CPL ŞTEFAN "LUPIN" DRAGAVEI
+Campaign: Do Right, Fear None (Game 1) / AEGIS Falls (Game 2)
+Faction: AEGIS Squad — former Romanian Army Special Forces
+--------------------------------------------------------------------------------
+
+WEAPON PHILOSOPHY:
+Lupin's domain is the 200-to-600 meter band — the designated marksman range
+where the right platform and the right training can dominate ground that an
+assault rifle cannot reach and a sniper rifle is overcalibrated for.
+He is the squad's eyes at medium distance and its violence at medium distance,
+often simultaneously.
+He is also, by AEGIS consensus, the most technically meticulous member of
+the squad when it comes to his kit. He cleans his weapons in a specific order,
+with specific tools, at specific intervals. This approaches ritual.
+
+ARGINT — NAME NOTE:
+"ARGINT" is Romanian for silver. Written in small block letters on the
+underside of the SCAR-H stock in black marker. Silver because the round is
+large and old and reliable, and Lupin respects all three qualities.
+He did not explain the name to anyone. Frost read it once during a weapons
+inspection, said nothing, and that was the end of it.
+
+ELECTRICAL TAPE FIELD ADAPTATION:
+A strip of black electrical tape runs along the top of the ARGINT suppressor
+body. Purpose: reduces heat shimmer visible through the optic at sustained fire.
+Documented by AEGIS armorer as "field adaptation, non-structural."
+This detail is the kind of thing a meticulous operator does quietly and without
+announcement. It is visible during inspect and during gameplay.
+
+WALTHER P-99 — WHY NOT THE STANDARD SIG P226:
+Lupin was asked this during AEGIS onboarding. His answer: the P-99 fits his
+hand better and he has ten thousand rounds through it and zero malfunctions.
+The AEGIS armorer documented this as "operator preference, approved."
+
+ROMANIAN ARMY BAYONET — PROVENANCE NOTE:
+Lupin's modified M1974 Romanian bayonet was his knife and he brought it
+because it works. The Romanian Army provenance is visible in the blade's
+steel — a characteristic Eastern Bloc manufacture pattern that anyone familiar
+with Warsaw Pact military equipment will recognize immediately.
+
+UNFAMILIAR WEAPON BEHAVIOR:
+When Lupin handles an unfamiliar platform — a dropped enemy weapon, borrowed
+allied kit — his hands move over it in a systematic check pattern that is
+clearly trained but also clearly personal. Faster than a formal safety check,
+more thorough than a casual one. The same sequence every time. He does not do
+it with his own weapons. He knows his own weapons.
+
+VOICE AND BEHAVIOR:
+Lupin speaks English with a Romanian accent that becomes more precisely
+articulated under stress — as if stress makes him careful about language rather
+than loose with it. His weapon-related dialogue is sparse and technical: range
+calls, wind calls, shot confirmations. He does not editorialize.
+When he misses — which is infrequent — he says nothing for approximately three
+seconds, then makes the correction and fires again.
+
+DATA BOOK NOTE:
+Lupin keeps a Rite in the Rain data book written in Romanian containing
+handwritten ballistic tables for ARGINT at various temperatures, altitudes,
+and ammunition lots. Frost noticed it is written in Romanian during a joint
+range session. He said nothing. Lupin noticed Frost noticing. He said nothing.
+
+FROST / LUPIN SHOOTING SHORTHAND:
+[See Frost section above — entry: FROST / LUPIN DYNAMIC]
+
+--------------------------------------------------------------------------------
+SECTION 07 — CODY BEAUMONT
+Campaign: American Freedom (Game 2)
+Faction: Calloway resistance cell
+--------------------------------------------------------------------------------
+
+CHARACTER OVERVIEW:
+Cody is twenty-something, Harlan County born, around firearms his entire life
+in the way Appalachian men are — functionally, practically, without ceremony.
+He hunts. He shoots recreationally. He is not intimidated by weapons and he is
+not precise about them. What he is, is brave in the reckless way that young men
+who have not yet been badly hurt are brave.
+His weapons are civilian firearms repurposed for a war he did not expect to
+fight with the equipment he happened to own. This is not helplessness — he is
+genuinely dangerous. But there is a ceiling to what a Mossberg 500 and a
+handgun can do against occupation forces, and Cody has not internalized
+where that ceiling is yet.
+
+MOSSBERG 500 — FIELD MODIFICATIONS:
+Cody's Mossberg 500 Field is a hunting configuration — 28" vent-rib barrel,
+walnut stock, designed for birds and deer. He has made two modifications:
+  1. Elastic shell carrier sleeve on the stock — eight shells rapid access
+  2. Cylinder bore choke — removed choke entirely to maximize spread
+The 28" barrel is impractical for interior combat. It catches on doorframes.
+It is slow to bring to bear in confined spaces. Cody knows this abstractly
+but has not fully experienced it in the campaign's early missions.
+
+AMMUNITION DETAIL:
+Cody carries a mix of 00 buckshot and bird shot because he grabbed what was
+in the house. The bird shot is useless against occupation forces in body armor.
+Romeo — if paying attention to the environmental detail of Cody's vest loops —
+can see the mix. No character draws attention to it. Players who know shotgun
+ammunition will notice.
+
+MOSSBERG — NO SLING:
+The Mossberg has no sling swivels in its hunting configuration. Cody has not
+rigged one. He carries it in his hands or sets it down.
+Setting it down is how he loses it during the detainee rescue mission's
+worst moment.
+
+S&W M&P SHIELD — HOLSTER DETAIL:
+Cody carries his Shield in a nylon Uncle Mike's style holster — the kind sold
+at outdoor sporting goods stores. No retention beyond friction.
+He crimps the top of his magazine pouches slightly with his fingers before
+moving so the magazines don't rattle. He worked this out himself.
+
+RUGER 10/22 — EARLY MISSION NOTE:
+The Ruger 10/22 with a Simmons 3-9x40 scope appears in Cody's hands in early
+missions before the cell acquires better equipment. It is a .22 LR semi-auto
+rimfire rifle. In one early mission sequence, Romeo can observe Cody attempting
+to use it against a Russian soldier in body armor — the .22 LR rounds deflect
+off the plate carrier. Cody switches to the Mossberg immediately and closes
+distance. No comment.
+The 10/22 disappears from his loadout as the resistance acquires better weapons.
+He does not mention it again.
+
+BUCK 110 — PROVENANCE AND AFTERMATH:
+The Buck 110 Folding Hunter was his father's knife before it was his.
+He has sharpened it recently — the edge is keener than the rest of his kit.
+After Cody: the knife appears on a resistance cell barn workbench in a later
+mission — cleaned, folded, placed there deliberately. No scene shows who placed
+it there. No character comments on it. It is present the way grief is present —
+without announcement, without explanation.
+
+VEST AND CLOTHING DETAIL:
+  - Condor Outdoor MOLLE chest rig in coyote brown — surplus store purchase
+  - Road flare carried because he thought it might be useful; not yet useful
+  - Red Wing Iron Rangers work boots, well-worn, resoled once
+  - Jeans, flannel shirt, canvas barn coat in olive drab
+He looks like he is going to fix a fence. In occupied Calloway, this is a
+form of camouflage.
+
+VOICE AND BEHAVIOR:
+Cody talks. His callouts are longer than they should be — processing in real
+time rather than from a trained framework. Romeo corrects this once, briefly.
+Cody adjusts for approximately two minutes and then reverts.
+He is not afraid. This is visible and it is not entirely a good thing.
+Fear in combat has a regulatory function. Cody's relative absence of it means
+he does not naturally decelerate before decisions that should be made slowly.
+
+DEATH NOTE:
+The moment of the detainee rescue — the mission where Cody dies — grows
+directly from this behavioral profile. He moves when he should stop. He closes
+when he should hold. He does what the situation seems to call for without
+waiting to confirm what the situation actually is.
+His last words are not dramatic. They are operational.
+He is still processing the situation when he stops being able to process
+anything.
+
+--------------------------------------------------------------------------------
+SECTION 07A — PATRICK "PAT" NAPIER
+Campaign: American Freedom (Game 2)
+Faction: Calloway resistance cell
+--------------------------------------------------------------------------------
+
+CHARACTER OVERVIEW:
+Pat is a former U.S. Army 68W combat medic — one enlistment, former SPC/E-4,
+back in the Calloway area as a civilian when the occupation begins. His kit
+reflects exactly that background: competent, practical, unsentimental, and
+built around keeping other people alive rather than projecting an image.
+
+He does not read as a hobbyist tactical enthusiast or a pseudo-operator. His
+equipment is chosen for reliability, ease of use under stress, and what can be
+kept running in a resistance environment with limited replacement parts and
+uneven resupply. He is a capable rifleman, but the rifle is not the point.
+The point is that when somebody goes down, Pat is the reason they may not stay
+down.
+
+COLT LE6920 CARBINE — PRIMARY:
+Pat's primary weapon is a straightforward civilian AR-pattern carbine of the
+kind a former enlisted soldier buys because he trusts it, understands it, and
+does not need to think about it.
+
+Configuration:
+  - 16.1" government-profile barrel
+  - Aimpoint PRO red-dot optic
+  - Streamlight ProTac Rail Mount 2 weapon light
+  - Blue Force Gear Vickers two-point sling
+  - Magpul MOE stock / grip / handguard
+  - No laser module
+  - No suppressor
+  - Standard black anodizing worn smooth at the edges from use
+
+The distinguishing feature is not aggression but weight discipline. Pat keeps
+the rifle light because he expects to drop it on the sling and go hands-on
+with a casualty without fighting his own equipment. The weapon exists to create
+space, break contact, and buy treatment time.
+
+GLOCK 19 GEN5 — SIDEARM:
+A practical sidearm chosen for familiarity, simplicity, and one-handed use.
+
+Configuration:
+  - Standard iron sights
+  - Streamlight TLR-7A
+  - Safariland ALS belt holster
+
+Pat's pistol is not a statement piece. It is there for the moments when the
+rifle is hanging, one hand is occupied, and he still needs something that works
+immediately and without finesse.
+
+UTILITY / RESCUE TOOLS:
+Leatherman Raptor Rescue trauma shears carried for fast either-hand access.
+Benchmade Triage folding knife with rescue-oriented geometry and strap cutter.
+These tools matter more to Pat than a fighting knife. They are for opening
+clothing, webbing, tape, seatbelts, and anything else between him and the wound.
+
+MEDICAL LOAD:
+Pat's real signature kit is his aid load, not his guns.
+
+Core contents:
+  - CAT tourniquets staged for either-hand access
+  - Compressed gauze and hemostatic gauze
+  - Pressure dressings
+  - Vented chest seals
+  - NPA and basic airway kit
+  - Decompression needles
+  - Nitrile gloves
+  - Tape, casualty markers, Sharpie, trauma shears
+  - Small reserve of pain-management / sustainment items depending on sourcing
+
+His aid bag is a reorganized surplus military medical bag with civilian and
+improvised inserts. Every pouch is labeled with tape and marker. Nothing is
+arranged for aesthetics. Everything is arranged so he can reach it in the dark,
+under stress, or one-handed.
+
+Operational note:
+Pat carries enough organized trauma kit to treat roughly two badly wounded
+people before he has to start improvising. That limitation matters. He is good.
+He is not magic.
+
+VEST AND CLOTHING DETAIL:
+  - Surplus TAP chest rig, cut down and reworked for a slimmer profile
+  - Two rifle magazines where a more aggressive fighter would carry three or four
+  - Additional med pouches occupying space other characters use for ammunition
+  - Civilian work jacket or muted softshell over low-profile armor when available
+  - Mechanix gloves
+  - Waterproof notepad and Sharpie in chest pocket
+  - Ball cap or watch cap depending on weather
+  - Durable hiking or work boots rather than overt military footwear
+
+He looks like a competent rural civilian who had to become useful fast, which
+is exactly what he is. In the early resistance environment, that visual profile
+helps him.
+
+VOICE AND BEHAVIOR:
+Pat is calm, dry, and precise under pressure. He does not dramatize wounds and
+he does not fill silence to make himself feel better.
+
+He does not say:
+  "He's bad."
+He says:
+  "Tourniquet high."
+  "Hold pressure there."
+  "Need thirty seconds."
+  "Keep talking to me."
+
+On the rifle, he is controlled rather than aggressive. He shoots to solve the
+immediate problem in front of the casualty, not to dominate the fight for its
+own sake. His first instinct in chaos is triage: who is hit, who can move, who
+is bleeding, what cover exists, what vehicle still runs, what supplies are left.
+
+BUILD NAME:
+None. Pat does not name his weapons.
+If he labels anything, he labels medical pouches, casualty times, and expiry
+dates.
+
+SQUAD FUNCTION NOTE:
+Cody is the young local who moves forward on nerve and impulse.
+Pat is the adult in the room when that impulse gets somebody hurt.
+
+That contrast is load-bearing for the early Romeo squad dynamic.
+
+
+--------------------------------------------------------------------------------
+SECTION 08 — LAURA ISABELA "LA AVISPA" TEJADA ROJAS
+True identity: Yelena "Eli" Dimitrievna Volkova
+Campaign: Godkiller (Game 2)
+Faction: Los Sietes enforcer / Spook ally (reluctant / situational)
+--------------------------------------------------------------------------------
+
+BACKGROUND (established in story notes):
+True identity: Yelena Dimitrievna Volkova — former FSB covert surveillance
+specialist. Defected following a botched operation in which she was burned by
+her own team and superiors. Life on the run: Venezuela, Cuba, Panama, Mexico.
+Eventually found her way into the Los Sietes criminal organization. Rose to
+prominence as a people-finder — if you need to locate someone, she will find
+them, typically for a price. Named La Avispa (The Wasp) for her proficiency
+with blades of various lengths and types.
+Physical: Caucasian, mildly ethnically ambiguous features, dark hair on the
+shorter side with faint grey streaks parted neatly down the center, late 30s
+to early 40s estimated, 5'5", 115 lbs. Elaborate Japanese-style full body
+tattoo covering her entire torso and most of her arms. Possible additional
+undocumented tattoos.
+
+WEAPON PHILOSOPHY:
+La Avispa's approach is the product of two training traditions grafted onto
+each other by a decade of survival in between. The FSB trained her in
+surveillance, not combat — her weapons training was oriented toward
+self-defense and cover maintenance, not sustained direct action. She knows
+how to shoot. She does not think of shooting as her primary tool.
+Then came a decade in the criminal underworld where the hierarchy of useful
+skills runs: find people first, neutralize threats second, shoot things third.
+She learned blades not because firearms failed her but because blades are
+quiet, concealable, require no ammunition, pass through metal detectors, and
+in the right hands operate at ranges where firearms become liabilities.
+
+THE NAME:
+The wasp's defining characteristic is not size or strength — it is a sting
+that arrives without warning from an unexpected angle. This is the operational
+philosophy the blade system reflects.
+
+SIGNATURE LINE:
+Spoken to Spook during a quiet moment between contacts:
+"A gun is a conversation. A knife is a conclusion."
+
+SPOOK / LA AVISPA DYNAMIC (from story notes):
+The plot forces them into dramatic situations with no option but to depend on
+each other. This grows into a quiet trust and a unique bond. By the end of
+their ordeal, Spook learns her private story — her youth near the Black Sea
+coast in southern Russia, her promising FSB career, the botched surveillance
+operation, her defection, her life on the run, her rise with Los Sietes.
+She learns a little of Spook's story too.
+And for a moment — just a moment — there is something. A fleeting feeling,
+a longing, a strange romantic tension. But the story inevitably forces them
+apart. Perhaps so they could meet again another day.
+
+FSB THREAD — PSS-2 RECOGNITION MOMENT:
+When La Avispa encounters a PSS-2 silent pistol in the field alongside Spook,
+she picks it up from a dropped FSB operative without comment, checks the
+cylinder with the practiced economy of someone who has done it ten thousand
+times, and fires it once at a target Spook has not yet identified. She hands
+it back without explanation. He does not ask for one.
+This is the moment — before any dialogue addresses it — where Spook understands
+that her FSB background is not distant history.
+[Flag: develop this scene in Godkiller mission writing — main narrative thread]
+
+PHOTOGRAPH DETAIL:
+La Avispa carries a small photograph folded inside the left inner pocket of
+whatever jacket she is wearing. The photograph is not shown to the player in
+any scene. Spook notices the pocket — the slight rectangular outline visible
+when the jacket moves — during one of their shared missions. He does not
+mention it. The photograph's subject is never established. It predates
+Venezuela. That is all the story tells us, and it tells us that only by
+implication.
+
+OPERATIONAL COVER BEHAVIOR:
+She does not wear tactical gear in her default operational state. She wears
+civilian clothing chosen for mobility, concealment of her blade system, and
+the social context of wherever she is operating. When the situation escalates
+to acknowledged direct action she adds a low-profile soft armor plate carrier
+(Velocity Systems SCARAB in black) worn under a jacket when possible.
+She has been shot twice while wearing soft armor. She finds this an acceptable
+ratio.
+
+ACCENT NOTE:
+She speaks Spanish as Laura Isabela Tejada Rojas — native-fluent, acquired
+over a decade of total immersion, no accent. She speaks Russian as herself,
+Yelena Volkova, in moments when the constructed identity slips or is set aside.
+She speaks English with a slight accent that is genuinely ambiguous — not
+clearly Russian, not clearly Spanish, not clearly anything. This ambiguity is
+cultivated. She has spent years practicing it.
+
+COMBAT BEHAVIOR:
+In contact she is economical to the point of being unsettling. She does not
+raise her voice. She does not move faster than necessary. She identifies the
+closest problem, resolves it, and moves to the next one.
+Spook — himself highly controlled in contact — notices that she is more
+controlled than he is. This observation is not spoken. It is felt. It is part
+of what generates the tension between them.
+
+BLADE OVER FIREARM — SPOOK QUESTION:
+When she deploys a blade rather than a firearm in a situation where either
+would have worked, Spook asks her about it once. She considers the question
+genuinely — not performing consideration — and says:
+"A gun is a conversation. A knife is a conclusion."
+She does not elaborate. He does not ask her to.
+
+--------------------------------------------------------------------------------
+SECTION 09 — NEREID BLACK — UNIT NARRATIVE NOTES
+Characters: Grim, Rime, Lantern, Undertow
+Campaign: Do Right, Fear None (Game 1) / AEGIS Falls (Game 2)
+Faction: Kongelige Danske Frømandskorps
+--------------------------------------------------------------------------------
+
+UNIT PHILOSOPHY:
+Nereid Black's weapons are chosen for one specific operational environment:
+dark, flooded, mechanically complex, confined, with unpredictable transition
+between underwater and surface phases. Every weapon they carry has been
+tested underwater and come back working. This is not metaphorical — their
+kit is selected, maintained, and configured around the assumption that it may
+go into the North Sea and still need to fire when it comes out.
+Color discipline: all matte, no gloss, dark earth and black only, no visible
+unit markings on weapons in the field. Subdued Danish flag patches on right
+shoulder of dry suits — dark blue on dark grey, barely visible at arm's length.
+
+GRIM — MIKKEL THORSEN (Unit Commander):
+Carries the HK416 A5 because it reflects Frømandskorps' procurement alignment
+with NATO SOF standards. His configuration is deliberately minimal — he has
+settled on what works and has no patience for elaboration.
+Weapon light: white light only. He wants to see exactly what he is looking at
+before he decides what to do with it. Does not use IR.
+P226 note: The Frømandskorps standard P226 MK25 has an anchor engraving on the
+frame. Grim had the anchor ground off years ago. He found it decorative.
+Character assessment (from unit briefing document): "Not inspirational. Not
+theatrical. Not remotely decorative. This is the one you listen to once your
+boots hit steel."
+
+RIME — JONAS VESTERGAARD (Breacher):
+Carries the MP5SD — integral suppressor variant — because in confined shipboard
+spaces it is quieter than any externally suppressed weapon. Chose it
+specifically for enclosed environments where noise discipline matters more
+than range. Carries no second firearm — in the weight budget other operators
+use for a sidearm, he carries linear breaching charges and a thermal lance.
+His P226 has no weapon light — he decided a light on a pistol is less useful
+than a helmet torch in the spaces he operates, and the X300U weight affects
+his draw from the drop-leg holster. He is precise about these calculations.
+Character assessment: "Adaptive, technically fluent, and openly impatient
+with fragile plans."
+
+LANTERN — EMIL RØNNE (Reconnaissance / Overwatch):
+Carries the HK433 rather than HK416 — newer, slightly lighter, more refined
+modular rail. A subtle distinction that knowledgeable players will notice.
+Carries Pulsar Merger LRF XP50 thermal binoculars — his primary surveillance
+instrument during the approach phase of every maritime operation.
+Carries an identical Peltonen Ranger M95 knife to Frost's — acquired from a
+Finnish exchange operator. Neither has mentioned this to the other.
+Character assessment: "If he says the crew are performing 'civilian,' stop
+calling them civilians."
+
+UNDERTOW — KASPER HOLM (Assault Medic):
+Youngest member of the unit. Carries the B&T APC9K Pro specifically because
+it folds — in his role as medic there are moments when both hands must be free
+for casualty treatment, and a folded APC9K can be pushed aside in a way a
+rifle cannot. Chose a blunt-tip rescue knife (Böker Plus Delta) specifically
+because a pointed tip in tight spaces with limited visibility is a liability.
+The window-breaking pommel has been used once — to break a porthole. He keeps
+the pommel polished. Everything else on his kit is matte.
+Character assessment: "Protective, direct, physically assertive, and easier
+to read than the rest of the detachment."
+
+--------------------------------------------------------------------------------
+SECTION 10 — NAMED ANTAGONIST NARRATIVE NOTES
+--------------------------------------------------------------------------------
+
+VYACHESLAV "SLAVA" TIMOFEEVICH GLUSHKIN:
+Glushkin's SR-1 Vektor is not a soldier's weapon. It is chosen for close range,
+for rooms, for the specific inevitable use FSB officers are trained to make of
+it. The 9x21mm armor-piercing round is a quiet statement about what he is.
+In the final confrontation he draws the SR-1 — nothing larger. He does not
+need anything larger. By the time Romeo faces him directly, the surrounding
+situation has been constructed to make the SR-1 sufficient, and Glushkin knows.
+Final moment: he holds the SR-1 through his last words. The weapon stays in
+his hand. Hammer back. Round in chamber. He never fired a second shot.
+Inspect note: inspecting his dropped SR-1 after death shows the hammer cocked.
+The round is still there. Romeo never fires it.
+
+EDGAR MURILLO "BISUTRI" LOZADA-ARIAS:
+Bisutri's HK416 A5 is visually identical at distance to a NATO operator's kit.
+The moment of recognition — that this cartel enforcer carries AEGIS-grade
+hardware — is a character statement delivered without dialogue.
+His FN Five-seveN engraving: a scalpel on the left side of the slide, clean
+and simple. "BISUTRI" on the right. He had it done himself. It is not a status
+symbol. It is a signature.
+The scalpel fixed blade he carries is an actual modified surgical instrument.
+The nickname is not metaphorical.
+Bisutri is not killed during the Coleman prison break — he extracts successfully
+with Goldberg. His Five-seveN is only obtainable by defeating him directly
+in a later confrontation if that scene is developed.
+
+WAR WOLVES — IDENTITY MYSTERY:
+The War Wolves carry no identification. CogniConnect implants detonate on death.
+No dog tags. No unit patches. No faces. The only surviving detail on each body
+is a small Roman numeral tattoo on the inside of the left wrist:
+  Crimson One: I / Crimson Two: II / Crimson Three: III
+This is never explained in Game 1.
+The implication that whoever equipped the War Wolves had access to the same
+procurement channels as CIA Ground Branch (Crimson One's HK45CT matching
+Spook's NOTHING) is never spoken aloud. It is there for the player who notices.
+
+--------------------------------------------------------------------------------
+SECTION 11 — INTER-CHARACTER AND SQUAD DYNAMIC NOTES
+--------------------------------------------------------------------------------
+
+AEGIS SQUAD — WEAPON STANDARDIZATION PATTERN:
+The B&T Rotex suppressor family appears on Ducky's FREYA, his CZ P-09,
+Switchblade's Evo 3, and across Nereid Black weapons. This standardization is
+deliberate — shared maintenance, shared parts. It is the kind of quiet
+operational discipline that a real unit develops and that attentive players
+will notice across multiple weapon inspects.
+
+AEGIS SQUAD — CLEANING ANIMATION SUMMARY:
+  Romeo:      Fast, functional, muscle memory, no ceremony
+  Ducky:      Methodical, checks each component before reassembly
+  Spook:      Slow, meditative — cleaning is how he thinks
+  [Note: Frost, Switchblade, Lupin cleaning animations not yet specified —
+   available for development]
+
+FROST / SWITCHBLADE IMPLIED CONTRAST:
+Frost invests in his weapons. Switchblade regards most of hers as
+infrastructure — except the knife. The contrast is character-defining and
+visible without dialogue through their respective weapon behaviors and
+configurations.
+
+DALE PRUETT / DON'T TREAD STORY FLAG:
+Dale had a prior association with the Three Percenter / Boogaloo-adjacent
+militia group in the area — not a true believer, but an angry man who found
+community in the wrong place for a few years before quietly distancing himself.
+When the occupation came, the group's response clarified for him exactly what
+they were. He walked away. But the engraving remains.
+At some point in the campaign, a militia member recognizes the "DON'T TREAD"
+engraving when Romeo carries the AC-556 — creating a dangerous moment of
+mistaken assumption.
+[Full development: main narrative thread]
+
+SPOOK / LA AVISPA — UNRESOLVED THREAD:
+The story forces them apart before whatever is between them can be named.
+Perhaps so they could meet again another day.
+[Full development: Godkiller campaign writing — main narrative thread]
+
+================================================================================
+END OF CHARACTER NARRATIVE PROFILES
+Fictional FPS Trilogy — Weapons Development Thread
+================================================================================

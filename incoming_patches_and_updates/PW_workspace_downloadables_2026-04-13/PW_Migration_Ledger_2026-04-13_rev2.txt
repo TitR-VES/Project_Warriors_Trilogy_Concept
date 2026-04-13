@@ -1,0 +1,161 @@
+PROJECT WARRIORS — MIGRATION LEDGER
+Generated: 2026-04-13
+Version: rev2
+
+Purpose: map prior sources into the new compendium structure and make retirement decisions explicit.
+
+OUTCOME KEY
+- fully absorbed
+- partially absorbed
+- superseded
+- intentionally dropped
+
+- ANGEL_Cinematic_Screenplay_Pass.txt
+  -> 05_Missions_Scenes_Cinematics
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- Hudson_Overlook_Mission_Scripting.txt
+  -> 05_Missions_Scenes_Cinematics
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- Hudson_Overlook_Screenplay.txt
+  -> 05_Missions_Scenes_Cinematics
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Character_Backstories_Thread_Summary-1.txt
+  -> 03_Characters_DLC
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Character_Sketches.txt
+  -> 03_Characters_DLC
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Game3_Lab_Session_Summary-1.txt
+  -> 02_Worldbuilding_Strategic_Architecture
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Gameplay_Mechanics_Overview-4.txt
+  -> 04_Gameplay_Weapons_Style
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_PANDORA_DeepDive_FullText.txt
+  -> 02_Worldbuilding_Strategic_Architecture
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_PANDORA_Technical_Summary.txt
+  -> 02_Worldbuilding_Strategic_Architecture
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Sidebar_Development_Summary.txt
+  -> 06_Promotional_Sidebar_Development
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Teaser_Treatments_Sidebar_v1.txt
+  -> 06_Promotional_Sidebar_Development
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Thread_NarrativeDev_Session1.txt
+  -> 01_Core_Timeline
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Timeline_Thread_Export_v1.txt
+  -> 01_Core_Timeline
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Timeline_Thread_Summary.txt
+  -> 01_Core_Timeline
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Transition_Mechanic_Overview.txt
+  -> 04_Gameplay_Weapons_Style
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- PW_Weapons_Dev_Thread_Full_Summary.txt
+  -> 04_Gameplay_Weapons_Style
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- ProjectWarriors_AllSevenScenes_Master.txt
+  -> 05_Missions_Scenes_Cinematics
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- ProjectWarriors_Consolidated_Master_Source.txt
+  -> PW_Archival_Master_2026-04-13_rev2.txt
+  outcome: superseded
+  notes: legacy aggregation source superseded by new archival master
+
+- ProjectWarriors_EpicScenes_AllSix.txt
+  -> 05_Missions_Scenes_Cinematics
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- ProjectWarriors_MetaThread_DevelopmentSummary.txt
+  -> 01_Core_Timeline
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- ProjectWarriors_TheWasp_Thread_Handoff_2026-04-08.txt
+  -> 03_Characters_DLC
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- Project_Warriors_Comms_Style_Standard.txt
+  -> 04_Gameplay_Weapons_Style
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- character_narrative_profiles.txt
+  -> 03_Characters_DLC
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- character_profile_andre_bridges.txt
+  -> 03_Characters_DLC
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- named_weapon_builds_v2_1.txt
+  -> 04_Gameplay_Weapons_Style
+  outcome: fully absorbed
+  notes: current uploaded source
+
+- Fictional FPS campaign (8).pdf
+  -> 01_Core_Timeline
+  outcome: fully absorbed
+  notes: recovered from embedded content in prior consolidated master
+
+- PW_dlc_La_Avispa_thread.txt
+  -> 03_Characters_DLC
+  outcome: fully absorbed
+  notes: recovered from embedded content in prior consolidated master
+
+- ProjectWarriors_AircraftFlyoverScenes.txt
+  -> 05_Missions_Scenes_Cinematics
+  outcome: fully absorbed
+  notes: recovered from embedded content in prior consolidated master
+
+- file_00000000aa7c7243abb8a81c49d9427e.png
+  -> 06_Promotional_Sidebar_Development
+  outcome: fully absorbed
+  notes: recovered from embedded content in prior consolidated master as text appendix
+
+- named_weapon_builds_v2_1-1.txt
+  -> 04_Gameplay_Weapons_Style
+  outcome: superseded
+  notes: duplicate entry only in prior consolidated master manifest

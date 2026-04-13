@@ -1,0 +1,126 @@
+PROJECT WARRIORS — SOURCE PAGE
+Document ID: PW-SRC-PSD-002
+Title: Bakhmut Urban Architecture / Mission Environment Visual Reference Packet
+Domain: Promotional / Sidebar Development
+Status: PROVISIONAL SOURCE PAGE
+Canon State: PARTIAL / CHECK REPO BEFORE FINAL LOCK
+Source Type: RECOVERY STUB / WORKING SCAFFOLD
+Last Updated: 2026-04-13
+Supersedes: migration-audit reminder only
+Superseded By: finalized Bakhmut visual packet when repo-side source is restored
+Related Files:
+- PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+- PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+- PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt
+Notes:
+- The migration audit explicitly says no dedicated finalized Bakhmut visual prompt-pack file is visible in the accessible upload corpus.
+- This page is intentionally a scaffold so the work is not silently lost, but it is not a claim that the full repo packet has been recovered.
+
+================================================================================
+01. PURPOSE
+================================================================================
+
+This page exists to hold the minimum stable visual-direction logic for the Bakhmut urban-environment workstream until the fuller repo-side packet is restored or re-created.
+
+Use it as:
+- a placeholder source landing
+- a governance anchor
+- a prompt-pack seed
+
+Do not treat it as proof that the final Bakhmut visual packet has been fully recovered.
+
+================================================================================
+02. ENVIRONMENT THESIS
+================================================================================
+
+Bakhmut should not read as generic apocalyptic rubble.
+It should read as a real Eastern Ukrainian city ground down by prolonged attritional fighting, civilian abandonment, repeated artillery damage, improvised fortification, winter grime, and surviving structural logic.
+
+The environment language should emphasize:
+- cumulative destruction rather than single-event spectacle
+- civic fabric under attrition
+- layered damage states
+- practical military adaptation of ordinary urban space
+- mud, dust, soot, concrete powder, torn insulation, exposed rebar, wet interiors, broken glazing, and lived-in military reuse
+
+================================================================================
+03. VISUAL RULES
+================================================================================
+
+Do:
+- preserve the feeling of a real city rather than a set-piece ruin theme park
+- show mixed survivability: some structures gutted, some partially usable, some intact enough to matter tactically
+- keep street furniture, signage, utility lines, apartment shells, garages, courtyards, tram / road logic, and civilian residue legible
+- let fortification feel improvised and repeated over time
+- ground the space in Eastern European material culture and built form
+
+Do not:
+- beautify destruction
+- over-romanticize ruins
+- flatten all districts into the same damage density
+- turn every street into a cinematic canyon of perfect collapse
+
+================================================================================
+04. TACTICAL SPACE LANGUAGE
+================================================================================
+
+Favorable recurring geometry:
+- broken apartment blocks with partial internal sightlines
+- courtyards and service alleys
+- garages / workshops / utility rooms
+- road choke points created by civilian vehicles, tram infrastructure, concrete obstacles, and collapse debris
+- ad hoc trenching or fighting-position logic cutting through urban edges
+- layered interiors where one floor is dead, another still tactically usable
+
+Combat-space feel:
+- exposure is often vertical as much as frontal
+- cover is often dirty, compromised, and temporary
+- firing positions should feel discovered / adapted rather than beautifully designed
+
+================================================================================
+05. COLOR / WEATHER / MATERIAL REGISTER
+================================================================================
+
+Preferred register:
+- cold neutrals
+- damp concrete
+- dirty thaw or ash-grey winter light
+- smoke haze
+- soot-blackened surfaces
+- faded civilian color residues struggling through mud, dust, and impact marks
+
+Use weather to make space heavier, not prettier.
+
+================================================================================
+06. PROMPT / ART DIRECTION TEMPLATE
+================================================================================
+
+When generating or briefing Bakhmut-facing art, concept, or image-reference work, bias toward:
+- real city block logic
+- attritional war damage
+- Eastern European urban identity
+- improvised defense and reuse
+- documentary realism over operatic destruction
+
+Compact prompt spine:
+"Grounded Eastern Ukrainian urban combat zone shaped by prolonged attritional fighting; real apartment blocks, courtyards, service lanes, damaged civic infrastructure, improvised fortification, mud, soot, rebar, broken glazing, partial interior survivability, winter grime, documentary realism, no stylized apocalypse gloss."
+
+================================================================================
+07. RECOVERY / REPO ACTIONS NEEDED
+================================================================================
+
+Before calling this source complete, check repo-side materials for any of the following:
+- finalized visual prompt pack
+- district-specific Bakhmut image prompts
+- architecture / streetscape breakdown pages
+- mood-board captions or reference packets
+- mission-environment style notes tied directly to a specific campaign mission
+
+If found, merge them forward into a rev2 of this page and retire this scaffold.
+
+================================================================================
+08. SOURCE-GOVERNANCE NOTE
+================================================================================
+
+This page is intentionally provisional.
+Its job is to prevent silent loss and give the migration a named landing point, not to pretend the full canonical Bakhmut packet is already back in hand.

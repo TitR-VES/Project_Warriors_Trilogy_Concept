@@ -1,0 +1,13 @@
+PROJECT WARRIORS — MUSIC PLACEMENT PATCH
+Domain: 06 Promotional / Sidebar Development
+Generated: 2026-04-13
+Version: Beyoncé YA YA placement addendum
+
+STATUS KEY
+- APPROVED
+
+- APPROVED — Beyoncé “YA YA”
+  Placement: Romeo Game 1 / eastern-flank arrival and troop reception-hold space before the opening mission.
+  Best use: diegetic playback from a local American-controlled source such as a rec-bay speaker, improvised troop holding-area setup, personal speaker cluster, or gym/loading-bay sound system temporarily occupied by US troops.
+  Do not use: as the formal base PA source.
+  Rationale: captures pre-fracture optimism, swagger, motion, and ordinary troop confidence before PANDORA. Supports a lived-in staging-space atmosphere where soldiers still think the situation is manageable and temporary. Use atmosphere first and political topicality second; do not over-frame the irony or make the cue feel like thesis annotation.

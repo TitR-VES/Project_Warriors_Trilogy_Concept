@@ -1,0 +1,20 @@
+PROJECT WARRIORS — PACKAGE CHANGELOG
+Version: 2026-04-13 rev2
+
+This revision refreshes the prior migration bundle by more explicitly folding in the newer project-memory locks and late-thread outcomes that were not fully surfaced in the first package version.
+
+Main additions / clarifications carried forward in rev2:
+- Ducky knife canon (Gerber StrongArm) added to Gameplay / Weapons / Style patching.
+- Ducky middle-name scope rule added to Characters patching.
+- CogniConnect / CFIM distinction restated cleanly in Worldbuilding patching.
+- SHIELD / COLD ROOM role, roster, and mission-model lock carried forward more explicitly.
+- Yunnan / Laos traversal refinement and interactive border-crossing direction carried forward more explicitly.
+- Elena Costa, Eamonn Kearney, WORK ORDER, HELL OR HIGH WATER, and CIVIL DISOBEDIENCE folded into Characters and Gameplay patches.
+- ARTEMIS / TYPHON separation and mission placement locks clarified in both Gameplay and Missions.
+- Timeline date corrections (September 7 / November 7) normalized again in Core / Timeline.
+- BODYWORK / killdozer end-state note carried forward as a patch item pending direct source-page verification.
+- Thread archive audit expanded to account for more visible project threads and their current migration status.
+
+Operational use recommendation:
+- Upload the six working compendia first if source-count pressure is severe.
+- Keep the archival master, changelog, manifest, ledger, and audit in external version control even if you do not keep them all uploaded simultaneously.

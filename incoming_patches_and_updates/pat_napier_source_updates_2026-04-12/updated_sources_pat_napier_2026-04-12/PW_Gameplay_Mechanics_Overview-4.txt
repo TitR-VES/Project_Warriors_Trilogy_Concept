@@ -1,0 +1,1399 @@
+PROJECT WARRIORS — DESIGN REFERENCE
+GAMEPLAY MECHANICS OVERVIEW — MASTER DOCUMENT
+Version 1.3 — Gameplay Mechanics Thread
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTENTS
+
+01. Camera / Perspective Format
+02. Narrative Prompt System
+03. Perspective Transition Mechanic (Frost / Lupin)
+04. Injury System
+05. Hit Zone / Armor Coverage System
+06. Enemy Tactical Sophistication Tiers
+07. Ammo Management / Magazine Retention
+08. Precision Rifle / Rangefinder Mechanic
+09. Black Market Mechanic
+10. Body Carrying and Disposal
+11. Close Air Support and Extraction Calls
+12. Stealth System
+13. Enemy Faction Interaction / Dynamic AI Encounters
+14. Vehicle and Large-Scale Combat
+15. Allied NPC Squad Mechanics
+16. Intelligence Gathering as Gameplay
+17. Optional Moral Choices with Narrative Payoff
+18. Weapon Handling and Attachments
+19. Casualty Extraction / Retention Lanyard System
+20. CASEVAC System
+21. Level Design Principles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+01. CAMERA / PERSPECTIVE FORMAT
+
+STATUS: Locked for Game 1. Revisit for later games in trilogy.
+
+Project Warriors Game 1 is a first-person shooter. FPS perspective is
+maintained throughout gameplay. Third-person perspective is reserved
+exclusively for cinematics where visual framing demands it — story moments,
+character reveals, dramatic scene compositions. This is not a hybrid
+gameplay system.
+
+Rationale: The narrative prompt system, the armor and hit zone system,
+and the tactical immersion of the game all function optimally in first person.
+Third-person gameplay would dilute the effect of all three. Building authentic
+dual-perspective gameplay would also represent significant additional scope
+inappropriate for a first entry in the trilogy.
+
+Revisit note: Later games in the trilogy may explore switchable first and
+third person depending on how the story and scope develop.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+02. NARRATIVE PROMPT SYSTEM
+
+STATUS: Pinned for full development. Core concept confirmed and locked.
+
+OVERVIEW
+
+UI action prompts — the text that appears on screen to tell the player what
+button to press and what action it performs — are used as a subtle narrative
+device reflecting the psychology of the character through whose eyes the
+player is looking. The prompt text is not purely functional. In strategically
+selected moments it carries emotional and tonal information about the
+character's mental state, moral position, or situational register.
+
+CORE PRINCIPLE
+
+This mechanic works only through restraint. The majority of prompts
+throughout the game are functional and unremarkable — they do their job
+invisibly. The narrative-laden prompts are placed sparingly at specific
+inflection points: tonal shifts, moral thresholds, psychologically significant
+moments. Their power comes entirely from the contrast with the surrounding
+functional prompts. If every prompt attempts to be meaningful, none of them
+are.
+
+EXAMPLE — CONFIRMED
+
+Cold Frontier flashback mission (Frost). During the QTE sequence in which
+Frost kills the Vympel operator at the lake shore with his knife, the prompt
+reads:
+
+    DISPATCH
+
+Not "stab." Not "kill." Not "neutralize." The clinical neutrality of "dispatch"
+reflects the psychological state Frost is in at that moment — not raging,
+not hesitating, already decided. A trained professional whose mind has gone
+somewhere very quiet and very cold. The word communicates his interior
+state more efficiently than any line of dialogue could.
+
+CHARACTER-SPECIFIC PROMPT VOCABULARIES
+
+Each protagonist has a consistent prompt vocabulary that reflects their
+identity and cognitive register. These vocabularies must remain consistent
+throughout the game so that players begin to feel the difference between
+campaigns without being told about it.
+
+Romeo — direct, physical, soldierly:
+"hit," "push," "go," "move," "take it"
+
+Spook — clinical, operational, intelligence-inflected:
+"neutralize," "acquire," "extract," "secure," "eliminate"
+
+Frost — neutral, detached, professionally cold:
+"dispatch," "remove," "clear," "hold," "acquire"
+
+Lupin — direct, physically charged, protective:
+"break it," "push them back," "hold the line," "cover"
+
+SHIFTING PROMPTS
+
+In specific dramatic moments the prompt text can change while the player
+is reading it, reflecting a sudden shift in the situational or tonal setup
+of the scene. Example: a prompt that reads "spare" then shifts to "end it"
+before the player acts communicates a character's resolve forming without
+a single line of dialogue. This device must be used extremely sparingly —
+it is a high-impact tool that loses force through overuse.
+
+MORAL THRESHOLD APPLICATION
+
+The most powerful application of this system is using a prompt change to
+signal a moral line being crossed without the game editorializing about it.
+If a prompt that has read "subdue" throughout a mission suddenly reads
+"kill" in a specific moment, the player feels that shift before they have
+consciously processed it.
+
+PLACEMENT PHILOSOPHY
+
+Prompts doing narrative work are placed at:
+— Psychologically significant character moments
+— Tonal or register shifts in the story
+— Moral thresholds the player is crossing
+— Moments of dramatic irony where the character's interior state
+  contrasts with the external situation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+03. PERSPECTIVE TRANSITION MECHANIC (FROST / LUPIN)
+
+STATUS: Core concept confirmed and locked. Mission applications in
+development. Full standalone document also exists in project knowledge:
+PW_Transition_Mechanic_Overview.txt
+
+OVERVIEW
+
+In Ducky's campaign missions, the player may temporarily shift perspective
+and control from Ducky to Frost (SSGT Aki Peltola, TRG M10 precision rifle)
+or Lupin (Ştefan Dragavei, Scar-H DMR). These are scripted, mid-mission
+perspective shifts with no loading screen. They are not player-triggered
+on demand. The tactical situation must credibly require that specific
+operator's capability.
+
+TRANSITION IN
+
+Triggered by a radio call from Ducky or a command element directed at
+the operator by name. Functional and mission-driven — never expository.
+World audio pulls slightly. Camera performs a directional zoom or lift
+toward the operator's elevated position. Operator's response heard during
+or just after the perspective settles. Player has control immediately.
+
+FROST SECTIONS
+
+Methodical, deliberate, long-range. Pre-shot routine applies: rangefinder,
+environmental reading, stability, then shot. Sparse flat communication.
+Clinical prompt vocabulary. Longer duration than Lupin sections. Limited
+high-value target count — not volume suppression.
+
+LUPIN SECTIONS
+
+Pressurized, faster-paced, closer range. Intercepting threats moving toward
+the squad. Direct, physically charged communication. Aggressive prompt
+vocabulary. Shorter duration than Frost sections — intense and decisive.
+
+TRANSITION OUT
+
+Operator sign-off when section objective is achieved. Brief and functional.
+Ducky's voice may be heard just before the perspective returns so the
+player begins reorienting before the shift completes.
+
+Frost example: "Clear. You're good to move."
+Lupin example: "Go. I've got the rear."
+
+CONFIRMED MISSION APPLICATION
+
+Maasvlakte Oil and Gas Terminal — Ducky's Campaign, Game 1, Final Mission.
+Frost transition mid-mission (long-range threat / Severomorsk fire support
+problem). Lupin transition late-mission (close surge following NMESIS launch).
+Ducky bookends the mission — opens it and closes it through to extraction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+04. INJURY SYSTEM
+
+STATUS: Pinned. Awaiting full development.
+
+OVERVIEW
+
+Regenerating health (Call of Duty style — step out of fire, health refills
+automatically) is not appropriate for the game's realistic difficulty mode.
+On maximum realism settings, health does not regenerate. On lower difficulty
+settings, some form of regeneration or assisted recovery may be available
+as an accessibility option.
+
+CORE TENSION TO RESOLVE
+
+Resource vs. consequence model. Does getting shot cost something permanent
+within a mission (reduced capacity, slower movement, limited healing uses),
+or does it temporarily impair until treated? These lead to fundamentally
+different gameplay feels. The answer likely sits on a spectrum tunable
+by difficulty setting.
+
+PER-CHARACTER DIFFERENTIATION
+
+Romeo — resistance cell operator in occupied Kentucky. Limited and
+improvised access to medical supplies. Scavenging dependent.
+
+Ducky — NATO SOF with squad logistics. Has Switchblade (Cassandra Stewart)
+as an embedded combat medic. Best supported of the three protagonists.
+Switchblade's role as medic should be mechanically meaningful, not
+just narrative flavor.
+
+Spook — CIA Ground Branch with agency logistics behind him. Better
+supplied than Romeo but operating in more isolated conditions than Ducky.
+
+DEVELOPMENT AGENDA
+
+— Injury states (what conditions are possible beyond simple damage)
+— Healing method and how it is performed
+— Healing frequency and resource limits
+— Per-character access to care and supplies
+— Realism spectrum — what changes across difficulty settings
+— Interaction with the hit zone system (see section 05)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+05. HIT ZONE / ARMOR COVERAGE SYSTEM
+
+STATUS: Pinned. Awaiting full development. Closely coupled with
+Injury System (04) and Enemy Tactical Sophistication Tiers (06).
+
+OVERVIEW
+
+An anatomical hit zone model layered over a realistic armor coverage map.
+Rather than a unified health bar, damage is location-specific and armor
+coverage is geometrically accurate to real plate carrier and body armor
+designs. This forces the player to think tactically about shot placement
+rather than defaulting to center-mass fire.
+
+PELVIC GIRDLE TARGETING
+
+Against a target wearing Level IV plates covering the thoracic cavity, the
+exposed pelvis becomes the primary target for a trained shooter. A pelvic
+girdle hit is vascularly catastrophic and immediately degrades mobility
+even if not immediately fatal. This is real doctrine and building it into
+the game teaches authentic tactical thinking while grounding encounters
+in physical reality.
+
+T-ZONE AND FLACCID PARALYSIS TARGETING
+
+Additional advanced techniques employed by trained special operations
+personnel against high-protection targets. These and similar techniques
+are reserved for high-tier enemies and for the player on maximum realism
+settings. To be fully developed during the hit zone system development pass.
+
+ARMOR COVERAGE GEOMETRY
+
+Coverage varies meaningfully by faction, character, and situation:
+
+— Romeo in a resistance cell: improvised or scavenged armor, significant
+  coverage gaps
+— Ducky's AEGIS operators: NATO-spec full plate carrier coverage
+— Spook: mission-dependent, variable
+— Russian Spetsnaz / Vympel: high-tier military spec
+— DPRK motorized troops: mid-tier military
+— Cartel sicarios: variable, often minimal
+— Vympel combat divers (Wirecutter mission): specialized, different profile
+
+DIFFICULTY SCALING
+
+On maximum realism: full anatomical targeting model active for both
+player and enemies. On lower settings: system may be simplified,
+assisted, or partially abstracted.
+
+DEVELOPMENT AGENDA
+
+— Full anatomical hit zone map
+— Armor tier and coverage geometry per faction and character
+— Interaction with injury system (what does a pelvic hit cause vs.
+  a limb hit vs. a plate strike)
+— Advanced technique implementation (pelvic, T-zone, etc.)
+— Difficulty scaling model
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+06. ENEMY TACTICAL SOPHISTICATION TIERS
+
+STATUS: Pinned. Awaiting full development. Directly coupled with
+Hit Zone / Armor Coverage System (05).
+
+OVERVIEW
+
+Enemy combatants operate according to a tactical sophistication tier system
+that maps to their real-world training level. Higher-tier enemies employ
+advanced shooting techniques — including exploiting armor coverage gaps —
+that lower-tier enemies do not know or use deliberately.
+
+TIER STRUCTURE (DRAFT)
+
+Tier 1 — Basic / Irregular
+Cartel enforcers, conscripts, irregular militia. Shoot at center mass.
+May suppress. Will not deliberately exploit armor gaps. Pelvic hits
+from this tier are incidental, not intentional.
+
+Tier 2 — Trained Military
+Regular Russian infantry, DPRK motorized troops. Basic fire discipline,
+movement and shooting, cover use. Not running advanced techniques
+but tactically coherent.
+
+Tier 3 — Special Operations / Elite
+Spetsnaz, Vympel combat divers, FSB operators, War Wolves. Know and
+use pelvic girdle targeting, T-zone shots, and other techniques that
+exploit the geometry of high-level armor. Fighting this tier requires
+the player to think defensively about their own armor coverage.
+
+ARMOR PROGRESSION INTERACTION
+
+As higher-tier enemies become more prevalent deeper into the game,
+the player gains access to better armor coverage options. Those better
+options then require Tier 3 enemies to adapt further — targeting newly
+exposed gaps or switching techniques. This creates a satisfying
+escalating dynamic across the game's progression arc.
+
+DEVELOPMENT AGENDA
+
+— Full tier definitions with specific enemy types assigned
+— Technique library per tier
+— AI behavior implementation for gap exploitation
+— Player armor progression tied to enemy tier escalation
+— Difficulty scaling — on lower settings, Tier 3 enemies may
+  not employ advanced techniques against the player
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+07. AMMO MANAGEMENT / MAGAZINE RETENTION
+
+STATUS: Pinned. Awaiting full development.
+
+OVERVIEW
+
+On realistic difficulty settings, magazine management is tracked and
+consequential. When the player reloads before a magazine is fully spent,
+the partial magazine is retained in their pouch rather than discarded.
+Reloading then draws the next available magazine, which may not be full.
+The player must track their magazine states across an engagement.
+
+MAGAZINE CONSOLIDATION
+
+The player can consolidate ammunition from partial magazines into fuller
+ones at the cost of time and vulnerability — they cannot shoot while doing
+this. This mirrors a real technique used by shooters during lulls in contact.
+
+Design question to resolve: Is consolidation a manual player-initiated
+field action, something performed only at safe zones or workbenches, or
+available anywhere at significant risk cost? All three have different
+gameplay implications.
+
+PER-CHARACTER AMMO ECONOMY
+
+Romeo — scrounging from fallen enemies and supply caches in occupied
+Kentucky. Enemy ammo compatibility is a significant resource consideration.
+Russian 7.62 ammo becomes commonly available as Russian occupation
+forces are encountered — the CMMG Mk47 (rare weapon drop, Down Rodeo
+mission) is specifically designed around this, using Russian-caliber ammo.
+
+Ducky — NATO standardized loadouts with squad logistics support.
+More reliable resupply but still subject to consumption tracking
+on realistic settings.
+
+Spook — Agency logistics behind him but operating in more isolated
+conditions. Mission-dependent resupply.
+
+ENEMY AMMO COMPATIBILITY
+
+Enemy weapon calibers as a scavenge resource is an established mechanic
+seeded in the narrative (CMMG Mk47 / Russian 7.62 note). This needs
+to be systematized — which enemy factions drop which calibers, and
+which player weapons can use them.
+
+DEVELOPMENT AGENDA
+
+— Magazine state tracking and UI communication to player
+— Tactical reload logic and partial mag retention
+— Consolidation mechanic — where, when, at what cost
+— Ammo scarcity tuning per campaign and difficulty
+— Enemy ammo compatibility and scavenge system
+— Interaction with per-character logistics differences
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+08. PRECISION RIFLE / RANGEFINDER MECHANIC
+
+STATUS: Pinned. Early development begun. Coupled with
+Perspective Transition Mechanic (03).
+
+OVERVIEW
+
+Frost's TRG M10 precision bolt-action rifle sections operate under a
+distinct pre-shot routine mechanic that makes long-range precision shooting
+feel fundamentally different from any other shooting in the game. The player
+cannot simply shoulder the rifle and fire. Preparation is required and
+each step in the routine is a discrete action.
+
+PRE-SHOT ROUTINE (DRAFT)
+
+Step 1 — Rangefinder acquisition
+Frost raises the rangefinder as a separate action from shouldering the rifle.
+Gets a reading on the target or target area. On maximum realism this feeds
+a manual scope adjustment the player must perform. On lower settings
+this may be assisted or automated.
+
+Step 2 — Environmental reading
+Wind direction and speed affect shot at operational ranges. On lower
+difficulty: communicated via subtle environmental cues (foliage movement,
+flags, dust) with some UI assistance. On maximum realism: purely
+observational, no UI data provided.
+
+Step 3 — Positional stability
+Frost must be properly settled before the shot is valid. Rather than a
+traditional stability meter or bar, the narrative prompt system handles
+this: prompt text shifts as stability increases.
+
+Proposed prompt sequence:
+"breathe" → "hold" → "now"
+
+This collapses the UI stability indicator into the character's interior
+state, maintaining immersion while communicating the same information.
+
+DEVELOPMENT AGENDA
+
+— Full pre-shot routine implementation and player feedback design
+— Difficulty scaling for each step
+— Scope adjustment mechanic (manual vs. assisted)
+— Wind and environmental reading system
+— Interaction with Perspective Transition sections
+— Spotter question: does Frost work alone or with an NPC
+  spotter in overwatch sections (working alone fits his character
+  but spotter interaction adds texture)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+09. BLACK MARKET MECHANIC
+
+STATUS: Pinned. Awaiting full development.
+
+OVERVIEW
+
+A black market / underground weapons and equipment acquisition system
+exists in the game allowing players to obtain weapons, attachments, and
+equipment outside of standard mission-issued loadouts. How this is accessed
+and what it contains varies by campaign and character.
+
+TWO POSSIBLE ACCESS MODELS
+
+Located contact model — the player finds and unlocks fixers, arms dealers,
+and black market nodes in the game world. Physical locations that must
+be reached or discovered. Suits Romeo's campaign naturally — scrounging
+and trading in occupied Kentucky through resistance network contacts.
+
+Remote access model — black market runs through Spook's secure device
+(terminal, laptop, or secure smartphone — to be determined). Suits Spook's
+world of back-channel Agency contacts and off-book procurement.
+
+Ducky likely sits between these two models — NATO logistics as the primary
+supply chain but with some capacity to source outside it through DAOG
+contacts or allied networks.
+
+These could be three different expressions of the same underlying system,
+each flavored to match the protagonist's world.
+
+DEVELOPMENT AGENDA
+
+— Access model decision per campaign
+— What is available through black market vs. standard supply
+— Contact discovery and unlock mechanic
+— Economy / currency system
+— Inventory and carrying capacity implications
+— Interaction with ammo management system
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. BODY CARRYING AND DISPOSAL
+
+STATUS: Partially developed. Core design direction confirmed.
+Coupled with Stealth System (12), Casualty Extraction /
+Retention Lanyard System (19), and Enemy Tactical
+Sophistication Tiers (06).
+
+OVERVIEW
+
+In stealth-oriented missions the player must move and conceal
+bodies to prevent discovery by remaining enemies. This mechanic
+is contextually available — not present in every mission. It appears
+where the story and operational context demand it and is absent
+where it doesn't fit. The player is never expected to hide bodies
+during open combat missions.
+
+CONTEXTUAL AVAILABILITY PER CAMPAIGN
+
+Spook — highest demand. Montoya Farm underground tunnel sequence
+is the primary confirmed application. Other covert infiltration
+missions in Spook's campaign will also require it. Body disposal
+is a core stealth tool for this campaign.
+
+Romeo — not required in Game 1 combat missions. Becomes relevant
+in Game 2 and Game 3 resistance cell operations in occupied
+territory, where concealing activity from occupying forces is
+a survival requirement.
+
+Ducky — required in specific missions. Not a campaign-wide
+constant but present in stealth-adjacent operations where
+exposure of a killed enemy would compromise the squad's position.
+
+MOVEMENT — INTEGRATION WITH LANYARD SYSTEM
+
+Body movement uses the same lanyard drag system established
+in section 19. The carabiner clips to the loop on a dead
+enemy's plate carrier or tactical vest and the player drags
+backwards with full upper body freedom.
+
+Enemies not wearing compatible equipment — lightly dressed
+combatants, civilians, non-tactical personnel — must be
+moved by hand drag or over-shoulder carry with compromised
+weapon access. This distinction is consistent with the
+casualty extraction system and applies to both friendly
+casualties and enemy bodies.
+
+DISPOSAL METHODS
+
+Receptacle disposal — primary method. Interactable objects
+placed by level designers in tactically relevant locations:
+dumpsters, lockers, large containers, vehicle trunks, any
+environment-appropriate container. Offers the highest
+concealment reliability — a body inside a receptacle will
+not be found by standard patrol behavior.
+
+Shadow / dark area concealment — secondary method. Faster
+than finding a receptacle but less reliable. A body concealed
+in darkness may be found if patrol patterns shift or a light
+source is activated. Risk differential versus receptacle
+disposal is a meaningful tactical choice.
+
+Environmental disposal — irreversible, highest reliability.
+Elevator shafts, pits, water, drops from height. The player
+trades positioning effort and approach challenge for the
+certainty that the body cannot be found. Available only
+where the environment provides the opportunity.
+
+PROXIMITY-BASED DISPOSAL PROMPT
+
+To avoid frustrating alignment requirements — particularly
+given that the lanyard drag moves the player backwards only
+— disposal uses a proximity radius system rather than
+requiring precise positioning at the receptacle.
+
+When the player is within the proximity radius of a valid
+disposal point AND the body is also within that radius,
+the disposal prompt becomes available. The player unclips
+the lanyard, makes any final small adjustment, and the
+interaction fires. This untethers level designers from
+having to perfectly align receptacle placement with the
+backwards drag approach angle while still requiring genuine
+effort to reach the disposal point.
+
+Proximity radius must be tuned to feel accessible without
+feeling trivial. Tight enough that the player earns the
+disposal. Loose enough that minor misalignment doesn't
+restart the entire approach. Final tuning is a development
+pass task.
+
+Level design constraint: avoid placing receptacles in
+cramped or difficult-to-access spaces. These create approach
+problems for the drag system and risk players getting stuck.
+Receptacles should be reachable with clear backwards
+approach angles.
+
+NARRATIVE PROMPT VOCABULARY
+
+Body disposal prompts follow the character-specific vocabulary
+established in section 02:
+
+Spook — "dispose" — clinical, operational, the body is
+evidence to be managed
+
+Romeo — "move him" — more human register, less sanitized
+
+Ducky — "stash" — direct, military, functional
+
+These are working proposals subject to refinement during
+the narrative prompt development pass.
+
+ENEMY DISCOVERY — RICHER MODEL CONFIRMED
+
+The game uses a richer body discovery model rather than
+simple line-of-sight detection. Enemy response to a missing
+team member escalates through a ladder tied directly to
+the tactical sophistication tier of the enemy faction
+(see section 06):
+
+Stage 1 — Nothing. The absence is not yet noticed.
+Window of opportunity for the player. Duration before
+Stage 2 varies by enemy tier — Tier 3 enemies notice
+faster than Tier 1.
+
+Stage 2 — Search behavior. One or two enemies break
+from patrol pattern to look for the missing man. Alert
+state elevated but not fully blown. If nothing is found,
+enemies eventually return to patrol with elevated
+suspicion — shorter patrol intervals, heightened awareness.
+
+Stage 3 — Escalated response. Triggered by: finding
+a concealed body, finding multiple bodies, or finding
+a poorly concealed body. Response severity scales
+with tactical sophistication tier:
+
+Tier 1 — loose additional search, slow response
+Tier 2 — structured search pattern, moderate response
+Tier 3 — immediate coordinated response, possible
+reinforcement call — scale of reinforcement depends
+on what was found and how many bodies
+
+Finding nothing eventually de-escalates. Finding a body
+does not. Finding multiple bodies or evidence of a
+pattern triggers maximum available response for that tier.
+
+This system rewards thorough concealment without
+catastrophically punishing imperfect play at lower tiers.
+At Tier 3 the margin for error is genuinely thin.
+That asymmetry is intentional.
+
+FULL INTEGRATION NOTE
+
+The discovery escalation ladder must be developed in
+conjunction with the tactical sophistication tier system
+(section 06) during the dedicated development pass for
+both systems. They are tightly coupled and should not
+be designed independently.
+
+DEVELOPMENT AGENDA
+
+— Proximity radius tuning for disposal prompt
+— Receptacle placement guidelines for level designers
+— Shadow concealment risk model and light source interaction
+— Environmental disposal opportunities per mission
+— Enemy discovery escalation ladder full design
+— Integration with tactical sophistication tiers (section 06)
+— Per-campaign availability and tuning
+— Narrative prompt vocabulary finalization
+— Montoya Farm full body disposal design pass
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+11. CLOSE AIR SUPPORT AND EXTRACTION CALLS
+
+STATUS: Pinned. Awaiting full development.
+
+OVERVIEW
+
+The player can call in external support assets — close air support strikes,
+extraction vehicles, fire missions — in certain mission contexts. Two broad
+implementation models are under consideration.
+
+SCRIPTED SUPPORT ZONE MODEL
+
+Designated areas on the map from which support can be called. Simpler
+to balance but feels more artificial and less immersive.
+
+DEVICE / INVENTORY MODEL
+
+Support is called through a device in the player's inventory — a radio,
+secure phone, or terminal appropriate to the character. More immersive
+and fits the world better. Availability of support becomes a narrative
+tool — support goes dark when HOPLON comms are disrupted (already
+flagged as a gameplay-relevant narrative event), reflecting the story's
+comms-disruption beats in a mechanically meaningful way.
+
+PER-CHARACTER SUPPORT ACCESS
+
+Ducky — richest support network. DAOG assets: PHAETON (JAS 39 Gripen
+CAS), KERAUNOS (Dassault Rafale), ARTEMIS (artillery), PEGASUS (extraction
+helicopter). Access through DAOG comms structure.
+
+Romeo — most limited and unreliable support. Resistance network contacts,
+improvised assets, occasionally US military elements where available.
+Support unavailability is itself a narrative statement about his situation.
+
+Spook — Agency channels. Different flavor of support — less military,
+more covert. Safe house contacts, extraction vehicles, occasional
+CIA-contracted assets.
+
+DEVELOPMENT AGENDA
+
+— Access model decision (zones vs. device vs. hybrid)
+— Support asset catalog per character and campaign
+— Availability conditions and cooldown or resource limits
+— Comms disruption interaction — when does support go offline
+  and how is that communicated to the player
+— Extraction call as distinct mechanic from fire support
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+12. STEALTH SYSTEM
+
+STATUS: Partially developed through narrative material. Needs
+dedicated mechanics development pass.
+
+OVERVIEW
+
+Stealth is a significant and recurring gameplay mode across all three
+campaigns, most prominently in Spook's. The existing narrative material
+implies a multi-layered detection system with distinct NPC allegiance tiers
+and context-sensitive alert states.
+
+CONFIRMED DESIGN ELEMENTS (from narrative material)
+
+Multi-tier NPC awareness — Montoya Farm gala sequence establishes
+at least three distinct NPC tiers with different detection behaviors:
+— Civilian guests: will not alert security if player is moving normally,
+  only react to obviously suspicious behavior
+— Facility and security staff: will alert if player acts suspicious or
+  enters off-limits areas
+— High-value targets (Stockbridge): will immediately alert and fail
+  the mission if they encounter the player
+
+Hard stealth gates — certain missions have fail conditions tied to
+stealth rather than combat escalation. Being discovered by specific
+characters (Stockbridge at Montoya Farm) fails the mission entirely.
+This is a design choice that must be applied carefully and communicated
+clearly to the player before the gate activates.
+
+Dedicated stealth tools:
+— Directional microphone (Montoya Farm — Tripper-issued, used to
+  follow Stockbridge and eavesdrop on conversations)
+— CCTV system access and sabotage (Montoya Farm security room)
+— Thermal drone deployment (Miami Beach hotel — Smoke deploys
+  to identify heat signatures through building structure)
+— Body carrying and concealment (see section 10)
+
+Stealth-to-action escalation sequences — Vienna apartment sequence
+establishes a three-phase escalation: stealth infiltration → discovery
+→ parkour chase → motorbike escape → vehicle pursuit with gunfight.
+The transition between phases should feel organic rather than abrupt.
+
+Social stealth — Montoya Farm gala provides a social stealth environment
+where the player can move among civilians without triggering alert,
+using the crowd as partial cover while navigating toward objectives.
+
+DEVELOPMENT AGENDA
+
+— Full detection system design (sight, sound, suspicion states)
+— NPC tier system formalized
+— Alert state escalation model
+— Tool inventory and use cases per campaign
+— Hard stealth gate design guidelines
+— Stealth-to-action transition design
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+13. ENEMY FACTION INTERACTION / DYNAMIC AI ENCOUNTERS
+
+STATUS: Partially developed through narrative material. Needs
+dedicated mechanics development pass.
+
+OVERVIEW
+
+Multiple enemy factions can occupy the same space and engage each other
+independently of the player. The player can interact with or exploit these
+engagements in multiple ways. Faction interactions are not scripted to
+fixed outcomes — they play out dynamically based on AI behavior.
+
+CONFIRMED DESIGN EXAMPLE — DOWN RODEO (Romeo, Game 1)
+
+Three factions in proximity: Romeo's element, Los Sietes cartel (11 men),
+DPRK motorized shock troops (25 men). The cartel-DPRK engagement is
+not scripted — it ends differently on each playthrough.
+
+Player options confirmed:
+1. Ignore and push through — exploit Los Sietes drawing DPRK fire
+2. Flank DPRK while Sietes draw fire — back alley route, ambush position
+3. Clear Sietes first, then DPRK — hardest option, fighting on two fronts
+4. Wait for one side to win, then engage the survivor
+
+Post-engagement cartel behavior: if Los Sietes win and are not attacked
+by player, they retreat neutrally. Vehicle availability affects their
+retreat method — by car if available, on foot through rear if not.
+One sicario rides hanging out the window if only the sedan survives
+with more men than seats. This level of behavioral detail should be
+the standard for dynamic faction AI throughout the game.
+
+Rare weapon reward: CMMG Mk47 dropped by cartel sicario — only
+obtainable if player engages the cartel. Reward for engagement choice.
+
+DEVELOPMENT AGENDA
+
+— Faction relationship matrix (who is hostile to whom by default)
+— Dynamic AI engagement rules
+— Player exploitation options per encounter type
+— Rare reward design for non-obvious engagement choices
+— Neutral faction behavior post-engagement
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+14. VEHICLE AND LARGE-SCALE COMBAT
+
+STATUS: Partially developed through narrative material. Needs
+dedicated mechanics development pass.
+
+CONFIRMED VEHICLE SEQUENCES (from narrative material)
+
+Mounted M2 on convoy — Romeo, Game 1 LA segment. On-rails or
+semi-guided gunner sequence covering convoy movement.
+
+Motorbike escape + vehicle pursuit — Spook, Vienna. Player on back
+seat of Tripper's bike, using Stribog PDW to engage pursuing van.
+Chase ends when player kills van driver causing collision and explosion.
+
+Floatplane covert approach — Spook, Come Fly With Me. Engine-off
+coastal landing at night. Stealth infiltration from water.
+
+NMESIS truck-mounted anti-ship missile — Ducky, Rotterdam finale.
+Fixed-position emplacement sequence. Single dramatic launch as
+mission centrepiece. Immediately followed by RPG hit survival sequence.
+See Maasvlakte Mission Outline for full context.
+
+Helicopter anti-air engagement — Spook, Desautels Hotel. Player must
+destroy hostile helicopter while simultaneously managing ground assault
+from two directions (fire escapes + elevator lobby). Helicopter crash
+creates physical bypass through locked fire escape door — environmental
+consequence of the engagement.
+
+DESIGN NOTE — NMESIS SEQUENCE
+
+The RPG hit immediately following the missile launch is a deliberate
+pacing device: player feels the power fantasy of the launch, then
+immediately loses control as the command post is struck. The scramble
+to the escape hatch should involve partial player control rather than
+a full cutscene to preserve agency at a moment when the player has
+just been handed a significant dramatic beat.
+
+DEVELOPMENT AGENDA
+
+— Vehicle control model per vehicle type
+— Gunner sequences vs. driver sequences vs. passenger sequences
+— Large-scale battle design (Signal Hill, Coronado, Rotterdam)
+— Environmental destruction and consequence system
+— Helicopter engagement mechanics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+15. ALLIED NPC SQUAD MECHANICS
+
+STATUS: Partially developed through Nereid Black dossier and
+narrative material. Needs dedicated mechanics development pass.
+
+NEREID BLACK — CONFIRMED ROLE DESIGN
+
+The Nereid Black dossier establishes a design standard for how NPC
+squad members should behave in the Wirecutter mission. Each operator
+has a clearly defined role mapping to a specific gameplay function:
+
+Grim — command NPC, sets pace and priority, improves when plans deviate
+Rime — breach specialist, solves access denial, improvises routes
+Lantern — recon and detection, identifies threats before contact
+Undertow — medic and sustain, preserves squad effectiveness after casualties
+
+Design constraint from dossier: do not split Nereid Black mid-mission.
+Their value is cumulative and interdependent. The game should not
+separate them in ways that degrade their function.
+
+AEGIS SQUAD — ROLE NOTES
+
+Switchblade (Cassandra Stewart) — combat medic. Her medic role must
+be mechanically meaningful in the injury system, not just narrative flavor.
+Her presence as an embedded medic is Ducky's primary advantage over
+the other protagonists in terms of in-field healing access.
+
+Frost — overwatch and precision fire. Has dedicated mechanic section.
+See Perspective Transition Mechanic (03) and Precision Rifle (08).
+
+Lupin — designated marksman, close protection. Has dedicated mechanic
+section. See Perspective Transition Mechanic (03).
+
+DEVELOPMENT AGENDA
+
+— NPC squad AI behavior model
+— Role-specific NPC actions and capabilities
+— Squad cohesion and split-element rules
+— Friendly casualty system and consequences
+— Switchblade's mechanic role in injury system
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+16. INTELLIGENCE GATHERING AS GAMEPLAY
+
+STATUS: Partially developed through narrative material. Needs
+dedicated mechanics development pass.
+
+OVERVIEW
+
+Story progression frequently advances through what the player discovers
+rather than who they shoot. Intelligence gathering — hacking, document
+recovery, eavesdropping, hardware implant placement — is a core gameplay
+activity particularly in Spook's campaign.
+
+CONFIRMED INTEL MECHANICS (from narrative material)
+
+Hard drive extraction — Tripper extracts hard drives from destroyed
+equipment and mines them for intelligence. Player may initiate this
+at appropriate terminals or destroyed equipment.
+
+Hardware implant placement — Tripper places a hardware implant into
+Montoya Farm's networking system for persistent access. Physical
+interaction with server hardware required.
+
+Eavesdropping via directional microphone — Spook uses Tripper-issued
+directional mic to covertly follow Stockbridge, recording conversations
+that advance investigation. Movement-based stealth challenge.
+
+Document and laptop search — Navarre's laptop, warehouse hard drives,
+safehouse tablets. Physical search of environment reveals intel that
+advances the story. Some intel is optional collectible; some is required.
+
+Thermal drone deployment — Smoke deploys drone to identify heat
+signatures through structure. Remote reconnaissance tool.
+
+DEVELOPMENT AGENDA
+
+— Intel interaction UI and player feedback
+— Required vs. optional intel design
+— Hacking / data extraction minigame or mechanic
+— Eavesdropping mechanic implementation
+— How collected intel is stored and reviewed by player
+— Interaction with optional moral choices system (section 17)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+17. OPTIONAL MORAL CHOICES WITH NARRATIVE PAYOFF
+
+STATUS: Partially developed through narrative material.
+Needs dedicated mechanics development pass.
+
+OVERVIEW
+
+The game contains optional moral decisions that carry no mechanical
+penalty or reward but produce narrative consequences — story payoffs
+that reward player engagement without punishing non-engagement.
+
+CONFIRMED EXAMPLE — NAVARRE / BUDANOVA DECISION
+
+At the end of the Navarre house infiltration mission (Spook, Game 1),
+the player can choose to call in a favor with Langley contacts to
+provide Navarre and Budanova with new identities and a fresh start.
+If the player does this, Navarre calls later in the game to thank Spook
+and say goodbye. If the player does not, this call never happens.
+
+Design principle: low mechanical cost, meaningful narrative reward.
+The choice is not forced, not flagged as a major decision, and carries
+no stat change or gameplay advantage. It rewards players who engage
+with the world beyond the objective markers.
+
+DOWN RODEO FACTION CHOICE
+
+The decision of how to handle the Los Sietes / DPRK engagement
+(ignore, flank, clear cartel first, wait) produces different tactical
+outcomes and a rare weapon reward for certain choices. This is a
+lighter version of the same principle applied to a combat encounter.
+
+DEVELOPMENT AGENDA
+
+— Full catalog of optional moral choices across all three campaigns
+— Narrative payoff design for each choice
+— How choices are surfaced to the player without over-flagging them
+— Whether any choices carry cross-mission or cross-campaign consequences
+— Relationship to the intel gathering system
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+18. WEAPON HANDLING AND ATTACHMENTS
+
+STATUS: Partially developed through MAWL-DA reference material
+and narrative notes. Needs dedicated mechanics development pass.
+
+CONFIRMED DESIGN ELEMENTS
+
+Attachment inspection mechanic — confirmed design note from narrative
+material: "Use the Inspect weapon key/button to view the controls for
+all attachments currently on your weapon." Attachments have functional
+controls accessible through inspection, not just aesthetic variation.
+
+MAWL-DA laser system — real-world reference material for the in-game
+laser/illuminator device. Implies a night vision gameplay system with
+IR and visible green laser modes, close/mid/long range illuminator
+settings, and A/B divergence sub-modes. Suggests weapon customization
+is granular enough to model these functional differences.
+
+Night vision mechanic — implied by MAWL-DA reference. NVG use
+is at minimum a feature of Spook's campaign. Frost's arctic operations
+also suggest NVG/thermal capability. Needs dedicated development.
+
+One-mission weapon design — the Stribog SP10A3 PDW appears only
+in the Vienna chase sequence (Spook, Game 1) and cannot be kept
+after the mission. This is a deliberate design choice creating a
+memorable weapon moment tied specifically to that mission. This
+pattern — rare or one-time weapons as mission memory devices —
+should be systematized.
+
+MACV-SOG sabotage tactic (noted in narrative material) — replacing
+bullets in enemy magazines with PETN-filled hollow rounds, or
+sabotaging mortar rounds. Suggests a potential environmental sabotage
+mechanic or usable item for certain missions.
+
+DEVELOPMENT AGENDA
+
+— Full attachment system design
+— NVG and IR illuminator mechanic
+— One-mission / rare weapon design framework
+— Weapon customization scope and depth
+— Ammo type variety and interaction with hit zone system
+— Environmental weapon sabotage mechanic
+— Per-character weapon access and preferred loadouts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+19. CASUALTY EXTRACTION / RETENTION LANYARD SYSTEM
+
+STATUS: Confirmed design direction. Partially developed.
+Coupled with Injury System (04), Body Carrying and Disposal (10),
+and CASEVAC System (20).
+
+OVERVIEW
+
+All three protagonists carry a retention lanyard as standard equipment —
+a tool with one snap shackle end and one carabiner end, modeled on
+real-world equivalents such as the Warrior Assault Systems retention
+lanyard. Its primary non-combat use is safety aboard helicopters and
+watercraft, which is why all three characters carry it without it requiring
+narrative justification as a combat tool.
+
+In a casualty scenario, the carabiner clips to the loop on the back of
+a downed teammate's plate carrier or tactical vest, allowing the player
+to drag them hands-free while walking backwards. This is the default
+and preferred extraction method — it is technically more advantageous
+and less dangerous than hand dragging in almost all situations.
+
+MOVEMENT CONSTRAINTS WHILE DRAGGING
+
+— Direction: backwards only
+— Lateral movement: very limited
+— Turning radius: very limited
+— Speed: significantly reduced, no sprinting
+— Upper body: fully free — player can shoot, reload, switch weapons
+— Crouching while dragging: physically very difficult; reserved for
+  specific QTE moments in awkward terrain or tight spaces
+
+The player is not defenceless while dragging. The tradeoff is mobility
+for hands-free teammate extraction. This is a meaningful tactical
+decision rather than a binary choice between fighting and saving.
+
+LANYARD LIMITATION — NO COMPATIBLE LOOP
+
+The lanyard system requires a plate carrier or tactical vest with a
+drag loop. When the casualty is not wearing compatible equipment
+— a civilian, a lightly equipped contact, or a non-tactical character
+— the lanyard cannot be used. In these cases the player must use
+an over-shoulder carry or hand drag, with compromised weapon access.
+
+CONFIRMED SPECIAL APPLICATION — MONTOYA FARM
+
+The Montoya Farm underground infiltration (Spook, Game 1) contains
+a confirmed carry moment where the casualty is not wearing compatible
+tactical equipment. The player cannot use the lanyard and must find
+an alternative carry method. This variation is narratively significant
+and mechanically distinct from standard lanyard extraction. The full
+design of this moment is reserved for the Montoya Farm mission
+development pass.
+
+This principle applies broadly: enemy bodies in full Spetsnaz kit
+can be lanyarded to a concealment point; lightly dressed enemies
+or civilians must be dragged by hand. The distinction feeds directly
+into the body disposal mechanic.
+
+IFAK INTEGRATION
+
+Before or during extraction the player may apply a tourniquet or
+basic wound dressing from their IFAK. This is a scripted prompt
+interaction — player hits the prompt button and receives a brief
+scripted animation. It controls bleeding and preserves casualty
+state during the drag. All characters carry an IFAK and are
+trained to use it at this basic level.
+
+DEVELOPMENT AGENDA
+
+— Full animation set for lanyard drag (backwards movement,
+  weapon handling, terrain variation)
+— Hand drag / over-shoulder carry animation set
+— Crouching QTE design for specific terrain moments
+— Casualty state tracking during drag
+— IFAK prompt interaction timing and design
+— Enemy body compatibility with lanyard system
+— Montoya Farm carry moment full design
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+20. CASEVAC SYSTEM
+
+STATUS: Confirmed design direction. Partially developed.
+Coupled with Casualty Extraction / Retention Lanyard System (19),
+Injury System (04), and Allied NPC Squad Mechanics (15).
+
+OVERVIEW
+
+CASEVAC (Casualty Evacuation) is the process of getting a downed
+teammate out of the mission area when their wounds exceed what
+in-field treatment can manage. It is a mission parameter — not
+universally available. Availability is designed per mission and
+reflects the operational context, the protagonist's resources,
+and the story's progression at that point in the trilogy.
+
+No complex squad management. No routing interfaces. No resource
+tracking beyond what the injury system already handles. The player
+gets the casualty to a designated safe point and the extraction
+is handled from there. Next mission the teammate is back. The
+system is designed to feel organic and grounded, not managerial.
+
+MEDIC HIERARCHY — PER TEAM
+
+Every operator carries an IFAK. Basic haemorrhage control —
+tourniquet, wound packing — is available to any character at
+any time via scripted prompt interaction.
+
+Beyond basic IFAK treatment, each team has a designated medic
+with higher treatment capability:
+
+Ducky / AEGIS — Switchblade (LCPL Cassandra Stewart). Confirmed.
+Her medic role is mechanically load-bearing. She can stabilize
+casualties beyond basic IFAK level. Her presence on a mission
+is the primary factor in whether advanced in-field treatment
+is available to Ducky's element.
+
+Spook / Victor Two Bravo — Smoke (confirmed). His medic capability
+is woven into his character profile, to be developed in the
+character development pass. Functions as the analog of Switchblade
+for Spook's team.
+
+Romeo / Resistance Cell — Patrick "Pat" Napier (confirmed). Former U.S. Army
+68W combat medic, former SPC/E-4, back in the Calloway area as a civilian when
+Game 2 opens. Pat is the resistance cell's designated higher-capability medic —
+functionally Romeo's analog of Switchblade or Smoke. His medic role is
+mechanically load-bearing: he extends treatment beyond basic IFAK level,
+stabilizes casualties long enough to move them, and gives the cell a credible
+early-war sustainment backbone.
+
+CASEVAC AVAILABILITY — PER CAMPAIGN AND MISSION
+
+CASEVAC availability is a mission design parameter. It must be
+determined per mission during the mission outline development pass.
+The following are the confirmed availability frameworks per campaign:
+
+DUCKY
+
+Primary CASEVAC asset: PEGASUS (Boeing CH-53 Sea Stallion).
+Ducky can call PEGASUS for CASEVAC in missions where the
+operational context permits it. Where PEGASUS is unavailable,
+allied personnel can receive and extract the casualty if present.
+Availability is generally higher for Ducky than the other
+protagonists due to DAOG infrastructure.
+
+SPOOK
+
+Most variable availability of the three campaigns. Governed
+by CIA infrastructure access and operational cover status.
+
+Covert / stealth missions (e.g. Montoya Farm): NO CASEVAC.
+Cover status of the operation prohibits any extraction call.
+The Tourists do not officially exist on these missions. The
+player manages with IFAK treatment and Smoke's medic capability
+only. Getting a casualty out in this context is a significant
+design challenge reserved for the mission development pass.
+
+Standard missions with CIA infrastructure access: CASEVAC
+available through Agency channels — safe house contacts,
+CIA-contracted extraction assets.
+
+Missions involving La Avispa: her Los Sietes contacts may
+provide a CASEVAC option in specific missions where she is
+present or accessible. This is a mechanical expression of
+the growing trust dynamic between Spook and La Avispa.
+
+Further options open as Game 2 and Game 3 story develops
+and Spook's network of contacts expands.
+
+ROMEO
+
+Most constrained availability. Reflects his arc from isolated
+resistance fighter to organized force leader. CASEVAC availability
+is itself a narrative progression mechanic — the player feels
+the AFC growing in capability through what resources they
+suddenly have access to, without cutscenes announcing it.
+
+Early campaign / resistance cell in occupied Kentucky:
+NO CASEVAC or minimal improvised options through the
+resistance network. Getting a teammate out is a real
+problem with no clean solution.
+
+Mid-campaign as AFC grows: resistance network contacts
+begin to provide basic extraction options. Still unreliable,
+still improvised.
+
+Late Game 1 / early Game 2: as military elements join
+the AFC and Romeo's operational scope expands, more
+reliable CASEVAC options become available.
+
+Boston arc (Game 3): British military CASEVAC becomes
+available — Royal Marines, SAS, SBS infrastructure around
+Lt. Vickers's operation. This is a LATE GAME availability,
+not available from the start of the Boston arc. It arrives
+when the story says it does — when the coalition has
+actually formed around Romeo's operation. The player
+feels the British forces' arrival through suddenly having
+CASEVAC options they didn't have before. This progression
+must be protected during the Game 3 mission design pass.
+
+DLC (Sea Spear / other): CASEVAC availability depends on
+the setting of the specific DLC. To be determined during
+DLC development.
+
+SAFE ZONE DESIGN
+
+The physical safe zone to which the player delivers a casualty
+varies by mission context:
+
+— Allied position or held building within the mission area
+— PEGASUS landing zone (Ducky, where available)
+— CIA safe house or vehicle (Spook)
+— Resistance cell safe house or trusted civilian location (Romeo)
+— British military position (Romeo, Boston, late Game 3 only)
+
+The safe zone does not need to be a marked UI element in all
+cases. In some missions it may emerge organically from the
+mission design — a room the squad has already cleared, an
+allied position the player knows about from mission briefing.
+
+DEVELOPMENT AGENDA
+
+— Per-mission CASEVAC availability matrix across all campaigns
+— Safe zone design guidelines and variation
+— Smoke's medic profile development (character thread)
+— Romeo's resistance cell medic — character confirmation
+  (narrative thread)
+— Montoya Farm no-CASEVAC scenario full design
+— La Avispa CASEVAC option — mission contexts and triggers
+— Boston arc late-game CASEVAC progression design
+— Interaction with injury system casualty states
+— Friendly casualty — out for mission, back next mission —
+  animation and narrative handling
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+21. LEVEL DESIGN PRINCIPLES
+
+STATUS: High-level standing principles. Apply across all campaigns,
+missions, and mechanics. Not specific to any single system.
+Referenced by: Body Carrying and Disposal (10), Stealth System (12),
+and any other mechanic where physical space intersects with gameplay.
+
+OVERVIEW
+
+These principles govern how physical spaces in Project Warriors are
+designed and scaled. They are not mechanic-specific — they apply
+wherever the geometry, atmosphere, and navigability of a space
+affect the player's experience. They should be treated as standing
+constraints during mission design, level layout, and art direction
+passes across all three campaigns and the DLC.
+
+PRINCIPLE 1 — CLAUSTROPHOBIA AS A DESIGN TOOL,
+NOT A DESIGN FAILURE
+
+Tight, oppressive, uncomfortable spaces are valuable for narrative
+and atmospheric purposes. Cramped-feeling environments reinforce
+tension, danger, and psychological pressure on the player in ways
+that open spaces cannot. This is intentional and desirable in the
+right contexts — underground complexes, occupied small-town
+interiors, covert infiltration environments, ship holds.
+
+The distinction is between:
+
+Intentional claustrophobia — spaces that feel tight through
+visual language, lighting, prop density, ceiling height, and
+environmental detail, while remaining fully navigable. The player
+feels the constraint atmospherically without being mechanically
+impeded by it.
+
+Accidental frustration — spaces where the visual promise and
+the navigable reality contradict each other. The player sees
+what appears to be a passable route and finds they cannot pass.
+Or navigation causes repeated collision with environment geometry.
+This is a design failure, not a design tool.
+
+The goal is always the first. The second must be avoided.
+
+PRINCIPLE 2 — VISUAL SCALE VS. COLLISION SCALE
+
+The visual and atmospheric impression of a space can and should
+be significantly tighter than its actual collision geometry.
+A corridor can look barely wide enough to move through while
+being built at a scale that causes no navigation problems.
+A ceiling can appear oppressively low while clearing character
+height comfortably.
+
+Reference: Resident Evil 7 and 8 achieved this consistently —
+spaces feel genuinely small and wrong in scale while remaining
+fully playable. Silent Hill titles used similar approaches.
+This is the target register for Project Warriors environments
+that require a cramped or confined feeling.
+
+Practical implication for level designers: design the visual
+layer to feel smaller than the collision layer. Use props,
+lighting, texture scale, and ceiling detail to compress the
+apparent size of a space. Do not compress the actual navigable
+geometry to match the visual impression.
+
+PRINCIPLE 3 — NAVIGATION CLARITY
+
+Players must always be able to read where they can and cannot
+go. Visual language should communicate passability reliably:
+
+— Spaces that look passable must be passable
+— Spaces that look impassable must be impassable
+— The boundary between the two must be legible at a glance
+
+Where a space must feel ambiguous for atmospheric reasons —
+the player unsure whether a route exists — that ambiguity
+should be intentional and resolved quickly. Prolonged
+navigational confusion is frustrating, not tense.
+
+PRINCIPLE 4 — BODY DISPOSAL GEOMETRY
+
+Specific to missions requiring the body carrying and disposal
+mechanic (section 10): receptacle placement must account for
+the approach geometry of the lanyard drag system. The player
+moves backwards while dragging. Receptacles must be reachable
+with a clear backwards approach angle.
+
+Avoid placing disposal receptacles:
+— In dead-end alcoves requiring a turn to enter while dragging
+— In spaces too narrow to maneuver with a body in tow
+— Behind obstacles that require the player to navigate around
+  them while moving backwards
+
+The proximity radius system (see section 10) provides some
+forgiveness on final positioning, but approach geometry must
+still be considered during level layout.
+
+PRINCIPLE 5 — HUMAN SCALE ENVIRONMENTS
+
+Where appropriate and design-feasible, environments should
+be scaled closer to true human scale rather than the slightly
+inflated scale common in action games (which exists to prevent
+navigation issues and improve combat spacing). Human-scale
+environments feel more real, more grounded, and more
+claustrophobic where that is the intent.
+
+This is not a universal requirement — combat-heavy open
+environments benefit from standard game scale. But interior
+spaces in stealth missions, resistance cell safe houses,
+underground complexes, and similar environments are strong
+candidates for tighter, more human-proportioned geometry
+where the team determines it is achievable without creating
+navigation problems.
+
+This principle requires evaluation on a per-environment basis
+during the level design pass. It is an aspiration with
+practical constraints, not a blanket rule.
+
+DEVELOPMENT AGENDA
+
+— Human scale feasibility assessment per environment type
+— Visual vs. collision scale guidelines for level art team
+— Navigation clarity review process during level design pass
+— Body disposal approach geometry review checklist
+— Reference library of target environments (RE7/8, Silent Hill,
+  and other relevant examples) for art and design team
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+END OF DOCUMENT
+Project Warriors — Gameplay Mechanics Thread
+All items marked PINNED are confirmed for future development.
+All items marked PARTIALLY DEVELOPED have foundational material
+established and require a dedicated development pass to complete.

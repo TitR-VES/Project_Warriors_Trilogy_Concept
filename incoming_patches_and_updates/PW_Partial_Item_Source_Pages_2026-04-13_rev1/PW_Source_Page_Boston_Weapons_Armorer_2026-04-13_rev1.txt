@@ -1,0 +1,232 @@
+PROJECT WARRIORS — SOURCE PAGE
+Document ID: PW-SRC-GWS-001
+Title: Boston Weapons Packet / Kearney / Romeo Rifle Progression
+Domain: Gameplay / Weapons / Style
+Status: ACTIVE SOURCE PAGE
+Canon State: LOCKED CORE ITEMS / OPEN FOR EXPANSION
+Source Type: PRIMARY WORKING SOURCE
+Last Updated: 2026-04-13
+Supersedes: patch-only Boston weapons carry-forward treatment
+Superseded By: —
+Related Files:
+- PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+- PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+- PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+Notes:
+- This page consolidates the currently locked Boston small-arms continuity that was previously spread across patch notes and memory locks.
+- Treat this as the dedicated repo-side packet the migration audit recommended preserving.
+
+================================================================================
+01. PURPOSE
+================================================================================
+
+This page governs Boston-era weapon identity for Romeo Game 3 and the associated hidden armorer / sustainment logic centered on Eamonn Kearney.
+
+It exists to do three things:
+- keep Romeo’s rifle progression legible and place-bound
+- protect Kearney from sliding into generic vendor territory
+- keep the Boston weapon language supportable, practical, and materially grounded
+
+================================================================================
+02. EAMONN KEARNEY — LOCKED FUNCTION
+================================================================================
+
+Name: Eamonn Kearney
+Age: 58
+Identity: Irish-born, Boston-based gunsmith / machinist / repair specialist with a buried history of quiet clandestine armorer work around earlier underground networks
+Narrative function:
+- hidden armorer / repair specialist
+- sustainment node
+- proof Boston had professional continuity before Romeo arrived
+- recurring infrastructure figure, not shopkeeper-first content
+
+Voice / behavioral rules:
+- exact
+- dry
+- bench-authoritative
+- unsentimental
+- mildly territorial about workmanship
+- contemptuous of preventable sloppiness and fashion-gun nonsense
+
+Representative lines / logic:
+- “That mag’s done.”
+- “Captured doesn’t mean usable.”
+- “There. Now it’s honest.”
+- “Trust is for people. This is supportability.”
+- “You’re getting less expensive.”
+
+================================================================================
+03. Kearney’s Permanent Node
+================================================================================
+
+Shop logic:
+- hidden storage / service-floor workshop in a mostly dead light-industrial or service-belt building
+- accessed by rear lot / service route / freight path logic
+- not a glossy storefront
+- not a loot room
+- not a conventional RPG merchant space
+
+Visual rule:
+The space should read as professional continuity under occupation pressure: selective power, machine tools, repair benches, racks, crates, spare optics and mounts, magazines sorted by condition, honest wear, and supportability-first triage.
+
+================================================================================
+04. ROMEO BOSTON RIFLE PROGRESSION — LOCKED
+================================================================================
+
+A. EARLIER RIFLE — DON’T TREAD
+- Place-bound to Kentucky / Game 2 identity
+- Should be intentionally parted with before or at the Boston transition
+- Do not drag deep into Boston as if nothing changed
+
+B. BOSTON-ENTRY RIFLE — UNNAMED TRANSITIONAL CARBINE
+- competent but narratively subordinate
+- AR-pattern, practical, unsuppressed by default
+- useful, credible, increasingly costly / compromised
+- exists partly so Kearney has something real to judge and maintain
+
+C. BOSTON SIGNATURE — BUILD 12: CIVIL DISOBEDIENCE
+- Romeo’s Boston rifle from late Act II onward
+- provided / built through Kearney
+- this is Boston’s rifle in Romeo’s hands
+
+Narrative rule:
+Romeo should feel like he carries different places differently. Boston is not a continuation skin for Kentucky.
+
+================================================================================
+05. BUILD 10 — WORK ORDER
+================================================================================
+
+Owner: Eamonn Kearney
+Function: personal benchmark rifle / shop standard
+Configuration direction:
+- old-service-pattern Colt M4A1 lane
+- 14.5-inch old-service carbine
+- KAC RAS
+- Aimpoint PRO
+- SureFire Scout
+- plain two-point sling
+- A2 flash hider
+- no laser by default
+
+Meaning:
+WORK ORDER is not styled for glamour. It is the rifle that expresses Kearney’s standard of honesty, maintainability, and supportability.
+
+Presentation rule:
+This should read like the rifle of a man who fixes problems for a living, not a collector flex.
+
+================================================================================
+06. BUILD 12 — CIVIL DISOBEDIENCE
+================================================================================
+
+Owner / user: Romeo
+Function: late-Act-II onward Boston signature rifle
+Configuration direction:
+- 14.5-inch midlength AR-pattern carbine
+- free-float M-LOK rail
+- Aimpoint T-2
+- SureFire Scout
+- Blue Force Gear Vickers sling
+- practical furniture
+- unsuppressed by default
+- no laser by default
+- domestic-parts / supportable logic
+
+Meaning:
+CIVIL DISOBEDIENCE is not just Romeo’s best rifle. It is the moment Boston itself starts investing in him as an enduring instrument rather than a passing outsider.
+
+Key identity line to protect:
+“That one was a rifle you carried in Boston. This one’s a Boston rifle.”
+
+================================================================================
+07. BUILD 08 — HELL OR HIGH WATER
+================================================================================
+
+Owner / user: Elena Costa
+Function: Boston local armed center-of-gravity weapon
+Configuration direction:
+- old-service-pattern Colt M4A1
+- detachable carry handle retained
+- iron-sight / carry-handle-forward identity
+- visible wear
+- tan rubber bands on stock
+- green tape on top of stock
+- handguard text reading “…HELL OR HIGH WATER…”
+
+Meaning:
+HELL OR HIGH WATER should read as a city-kept rifle: older, worn, stubborn, completely trustworthy to the person who knows it.
+
+It should not be prettified into boutique retro aesthetics.
+
+================================================================================
+08. THE RIGHT RIFLE — LOCKED HANDOFF SCENE
+================================================================================
+
+Placement:
+- late Act II
+- between Mission 07 and Mission 08
+- hinge before harbor / widened shadow-government phase
+
+Function:
+- Kearney judges Romeo’s transitional rifle too full of small apologies
+- Elena has quietly been part of the decision to build for him
+- CIVIL DISOBEDIENCE is handed off only when Romeo is no longer too expensive to build for
+
+Thematic point:
+The scene is about trust, supportability, and belonging.
+Not a hero-upgrade vending moment.
+
+================================================================================
+09. SUPPORTABILITY RULES
+================================================================================
+
+Global Boston small-arms rules:
+- practical parts logic
+- maintainable domestic / common-source component choices where possible
+- magazines matter
+- optics and mounts should read honest and zeroed, not decorative
+- captured weapons are suspect until proven supportable
+- older service-pattern weapons remain credible if maintained properly
+
+Write against:
+- social-media operator builds
+- gratuitous rare-part fetishism
+- naming every weapon in ways characters would not
+- suppressor / laser creep without mission justification
+
+================================================================================
+10. ROLE SEPARATION
+================================================================================
+
+Kearney is not:
+- a generic vendor
+- Van Hult with smaller tools
+- a universal procurement switch
+
+Van Hult is not:
+- an armorer substitute
+- the small-arms continuity node
+
+Elena is not:
+- a mascot for Boston armed struggle
+- only a cutscene face
+
+Romeo is not:
+- carrying a single campaign-agnostic hero gun forever
+
+================================================================================
+11. OPEN EXPANSION ITEMS
+================================================================================
+
+Still open for later packet expansion:
+- transitional Boston-entry rifle exact spec block
+- Elena sidearm / secondary continuity if needed
+- Kearney bench tools / shop dressing appendix
+- magazine-condition taxonomy if the system pass needs it
+- preferred optic / mount honesty notes by faction and availability
+
+================================================================================
+12. SOURCE-GOVERNANCE NOTE
+================================================================================
+
+This page should be treated as the dedicated Boston weapons packet the migration audit recommended keeping in repo-side sources.
+Once refreshed into the compendium, the Boston weapons patch notes can be considered absorbed into this page.

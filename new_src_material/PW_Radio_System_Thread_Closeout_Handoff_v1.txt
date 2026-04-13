@@ -1,0 +1,20 @@
+PROJECT WARRIORS
+RADIO SYSTEM THREAD CLOSEOUT / HANDOFF v1
+
+Compact structural summary
+Project Warriors now has an approved civilian/public radio layer distinct from tactical/military comms. Locked Romeo-campaign station identities: THE RIDGE (Kentucky local FM civilian baseline), FIELDHOUSE (Coach Terrell Washington's low-power trusted local community/pirate signal), and HARBOR (Boston civilian city station under occupation pressure). The radio layer should convey social weather, public framing, civic pressure, and regional identity rather than direct plot exposition. THE RIDGE tracks county public routine from occupied normalcy to narrowed public language to partial reopening; FIELDHOUSE tracks trusted local organization from emergence to scrutiny-phase compression to practical late-liberation steadiness; HARBOR tracks Boston from occupied routine to hard constraint to fragmented/contested city to reclaimed-function recovery. Sponsor/support reads should evolve with campaign stress from normal ad language toward survival-infrastructure / mutual-aid support phrasing.
+
+Archive readiness
+This thread is ready for archive once the working-set compendium inserts are landed.
+
+Why archive now
+- the radio-system identity is locked enough to hand off cleanly
+- the core Romeo station family is established
+- mission packets now exist for early, mid, late, and recovery windows across Kentucky and Boston
+- further expansion is better handled in separate focused threads than by continuing to load this one
+
+Next recommended thread
+Build one non-Romeo-region pilot station as a scaling test for the radio system.
+
+Reason for new-thread split
+The system now works well enough that the next task should test portability rather than continue enlarging this thread. A new thread will reduce drift and keep the next station build cleaner.

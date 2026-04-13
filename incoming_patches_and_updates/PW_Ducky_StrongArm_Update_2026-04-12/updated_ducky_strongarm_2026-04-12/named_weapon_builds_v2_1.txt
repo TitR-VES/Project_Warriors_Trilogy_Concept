@@ -1,0 +1,665 @@
+================================================================================
+NAMED WEAPON BUILDS — MASTER REFERENCE
+Fictional FPS Trilogy — Weapons Development Thread
+Version 2.1 — Corrected and Complete
+================================================================================
+
+--------------------------------------------------------------------------------
+BUILD 01 — GRAY GHOST
+Character: CPT Trevor "Spook" Gartner — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       Noveske Rifleworks N-4 Gen3
+Caliber:        300 Blackout (subsonic primary / supersonic available)
+Barrel:         10.5" select fire
+Finish:         Solid dark gray Cerakote overall — no markings
+
+ATTACHMENTS:
+  Handguard:    NWS-9 M-LOK
+  Optic 1:      Aimpoint Micro T-2 1x22 red dot on 0.8" riser (primary)
+  Optic 2:      Aimpoint 3x magnifier, swing-to-side mount, behind red dot
+  Canted sights:45-degree offset MBUS Pro Offset iron sights (black)
+  Laser module: BE Meyers MAWL-DA — player-unlocked after Burning Daylight
+  Weapon light: SureFire Scout, M-LOK, extended momentary pressure switch
+  Foregrip:     Milled aluminum low-profile angled skeleton grip with
+                integrated barrier stop — front-mid underside of handguard
+  Suppressor:   SureFire SOCOM556-RC2 (standard)
+                [Supersonic mag available from Tripper as break-glass option]
+
+AMMUNITION TYPES (field-swappable via inspect menu):
+  300 BLK SUBSONIC   — default; near-silent through suppressor
+  300 BLK SUPERSONIC — louder; signals mission has changed character
+
+INSPECT ANIMATION NOTE:
+  Dust cover bears a faint, nearly worn-away factory caliber marking
+  reading "300 BLK" — worn from years of handling rather than deliberate
+  removal. Visible only during the inspect animation.
+  MAWL-DA, once unlocked: thumb clicks activation dial one position
+  forward and back; IR beam briefly pulses visible in inspect view.
+
+BUILD NAME displayed in inspect overlay: GRAY GHOST
+
+--------------------------------------------------------------------------------
+BUILD 02 — NOTHING
+Character: CPT Trevor "Spook" Gartner — Signature Sidearm
+--------------------------------------------------------------------------------
+Platform:       HK45CT
+Caliber:        .45 ACP
+Finish:         Dark gray Cerakote — matches GRAY GHOST
+
+ATTACHMENTS:
+  Weapon light: Streamlight TLR-7A
+  Suppressor:   Nielsen device suppressor (fitted)
+
+NARRATIVE NOTE:
+  Name functions as both weapon identity and operational cover — when
+  asked what he is carrying, Spook's answer "Nothing" is technically,
+  literally true. Delivered completely flat. No smile. No pause.
+  Works as a recurring thread across Godkiller missions — used sparingly;
+  lands differently each time as the player accumulates context.
+  First use: almost funny. Second: unsettling. Third: the word itself
+  carries weight.
+  [Flag for Godkiller mission dialogue development — main narrative thread]
+
+BUILD NAME displayed in inspect overlay: NOTHING
+
+--------------------------------------------------------------------------------
+BUILD 03 — FREYA
+Character: SFC Ferris "Ducky" Ryan — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       Grand Power R-15 Freya GEN 2
+                (fictional 2nd-gen prototype of the real Grand Power R-15)
+Caliber:        5.56x45mm NATO
+Barrel:         16" cold hammer-forged match-grade
+
+GEN 2 PROTOTYPE SPECIFICS:
+  - No forward assist
+  - No magwell ports (clean, uninterrupted lower profile)
+  - Ambidextrous bolt release (GEN 2 refinement)
+  - Refined trigger group developed from AEGIS operator feedback
+  - Weapon card flavor text: "Pre-production evaluation unit, serial 004 of 12"
+
+COLOR SCHEME:
+  Receiver / upper / lower / handguard:   Olive green
+  Barrel / buffer tube / muzzle device:   Black
+  Pistol grip / stock:                    Black
+  Optic 1 housing (Aimpoint Comp M5s):    FDE
+  Magnifier housing:                      FDE
+  Canted sights / QD sling D-ring /
+  small hardware:                         Black
+
+ATTACHMENTS:
+  Rail:         Geissele MK4 M-LOK
+  Optic:        Aimpoint Comp M5s on 1.5" riser — FDE housing
+  Laser module: MAWL-C1+ (AEGIS standard)
+  Weapon light: SureFire Scout Pro, M-LOK at 9 o'clock
+  Grip:         Magpul MOE-K2 (black)
+  Stock:        BCM Gunfighter (black)
+  Suppressor:   B&T Rotex-V (available; removed for Rotterdam finale)
+
+INSPECT ANIMATION NOTE:
+  Suppressor-off config first appears in Rotterdam finale — sounds and
+  handles noticeably differently from suppressed config; deliberate
+  tonal shift from AEGIS standard operational register.
+
+BUILD NAME displayed in inspect overlay: FREYA
+
+--------------------------------------------------------------------------------
+BUILD 04 — [UNNAMED — CZ P-09 SIGNATURE]
+Character: SFC Ferris "Ducky" Ryan — Signature Sidearm
+--------------------------------------------------------------------------------
+Platform:       CZ P-09
+Caliber:        9x19mm
+Finish:         Two-tone — black slide / FDE lower
+
+ATTACHMENTS:
+  Barrel:       Threaded
+  Optic:        Trijicon RMR Type 2 (on optics-cut slide)
+  Weapon light: SureFire X300U
+  Suppressor:   B&T Rotex-III (available from mission 2 onward)
+
+NOTE: No build name. The pistol is Ducky's; FREYA carries the identity.
+
+--------------------------------------------------------------------------------
+BUILD 05 — DON'T TREAD
+Character: LT Ramón "Romeo" Álvarez — Early Game 2 Primary
+--------------------------------------------------------------------------------
+Platform:       Ruger AC-556 (military selective-fire variant)
+Caliber:        5.56x45mm NATO
+Config:         Folding stock, compact tactical variant
+Magazines:      20-round factory magazines
+
+PROVENANCE:
+  Given to Romeo by Dale Pruett at the end of mission Low Ground.
+  Dale retrieved it from a locked gun safe in his barn.
+  Handoff animation: unhurried — Dale checks action, wipes receiver
+  with a cloth, passes it stock-first to Romeo.
+
+ENGRAVING:
+  Left side of receiver — small eagle clutching a banner reading:
+  "DON'T TREAD"
+  Spelled exactly as it appears on the Gadsden flag.
+  Appears to have been done by hand, possibly with a Dremel,
+  at some point in the weapon's past.
+
+ENVIRONMENTAL ECHO:
+  A detail in Dale's house — framed photograph or jacket patch —
+  echoes the same truncated motto, tying Dale to the weapon's origin
+  without any dialogue drawing attention to it.
+
+NARRATIVE FUNCTION:
+  Early-campaign primary only. 20-round magazine limit and moderate
+  accuracy ceiling mean the player naturally phases it out as better
+  options become available — making the moment of setting it aside
+  a quiet story beat in itself.
+
+STORY FLAG:
+  In Act Two, a member of the Three Percenter / Boogaloo-adjacent
+  militia group recognizes the engraving when Romeo is carrying
+  DON'T TREAD — creating a moment of dangerous mistaken assumption
+  Romeo must navigate carefully.
+  [Full development reserved for main narrative thread]
+
+INSPECT ANIMATION NOTE:
+  The "DON'T TREAD" engraving is clearly visible during the inspect
+  animation. No character draws attention to it.
+
+BUILD NAME displayed in inspect overlay: DON'T TREAD
+
+--------------------------------------------------------------------------------
+BUILD 06 — TRG M10
+Character: SSGT Aki "Frost" Peltola — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       Sako TRG M10
+Caliber:        .338 Lapua Magnum
+Barrel:         27" fluted match-grade, threaded muzzle
+Finish:         Chassis — olive drab
+                Barrel and suppressor — matte black
+                Scope body — matte black
+                Scope caps — tan (always closed when not in use)
+
+ATTACHMENTS:
+  Suppressor:   Sako / Vaime SAR .338 (Finnish-made; run as permanent
+                fixture in field conditions)
+  Optic:        Schmidt & Bender PM II 5-25x56
+                (reticle worn at center from years of use; tracking exact)
+  Bipod:        Atlas BT10 V8 on ARCA rail at forend
+  Magazine:     5-round detachable box; 6 spare magazines in dedicated
+                chest pouch
+  Ammunition:   Lapua Scenar 250gr BTHP
+                (hand-loaded in garrison; factory Lapua in field)
+  Stock:        Adjustable LOP and cheek piece height; both set to Frost's
+                exact measurements; marked with small white ink lines for
+                return-to-zero after transport
+
+NAME NOTE:
+  The TRG M10 is not a name Frost gave the weapon. It is simply what
+  the weapon is — the platform name and the build name are the same
+  because the weapon and the man are so closely identified that the
+  distinction ceased to matter. Frost does not name his weapons.
+  The TRG M10 is just what it is, and everyone who knows Frost
+  knows what that means.
+
+BUILD NAME displayed in inspect overlay: TRG M10
+
+INSPECT ANIMATION NOTE:
+  Frost rotates rifle slowly; runs right thumb along bolt handle
+  (habitual checking motion); checks suppressor lockup with two fingers
+  (quarter-turn test); does not open bolt; scope caps remain closed
+  throughout. The rifle is always ready but never presumptuous about it.
+
+--------------------------------------------------------------------------------
+BUILD 07 — [FROST'S COLD PLUNGE RIFLE — MISSION SPECIFIC]
+Character: SSGT Aki "Frost" Peltola — Cold Frontier 07 flashback only
+--------------------------------------------------------------------------------
+Platform:       Tikka T3x TAC A1
+Caliber:        .308 Winchester
+Config:         Standard Finnish military exercise configuration
+Optic:          Kahles K624i in standard military mount
+Finish:         Factory synthetic stock, utilitarian
+
+NARRATIVE NOTE:
+  Carried by young Frost during Cold Frontier 07 exercise in Lapland.
+  Lost when Frost goes over the cliff into the icy lake — knocked from
+  his hands during the fall. Not recovered. Not available as a pickup.
+  Its loss is the narrative origin of Frost's preference for distance.
+  He learned in that lake what happens when distance fails.
+
+--------------------------------------------------------------------------------
+BUILD 08 — WREN
+Character: LCPL Cassandra "Switchblade" Stewart — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       Steyr AUG A3
+Caliber:        5.56x45mm NATO
+Finish:         Olive green (factory — darker shade than FREYA;
+                closer to Australian AUSCAM green than European NATO green)
+                Present since her Australian Army service; never repainted
+                by AEGIS.
+
+ATTACHMENTS:
+  Rail:         NATO standard Picatinny top rail
+                (replacing AUG factory optical system)
+  Optic:        Trijicon MRO red dot on 1.5" absolute co-witness mount
+  Laser module: MAWL-C1+ at 12 o'clock forward position (AEGIS standard)
+  Weapon light: Modlite OKW, M-LOK side mount at 9 o'clock
+  Suppressor:   SureFire SOCOM556-Mini2 (compact; run suppressed on most
+                operations; removed when psychological effect of unsuppressed
+                report is tactically useful)
+  Grip:         AUG factory thumbhole stock grip — unchanged
+  Sling:        Blue Force Gear Vickers VCAS — single-point converted
+                to two-point
+
+BUILD NAME NOTE:
+  "WREN" — written in black marker on the inside of the dust cover.
+  Not visible during normal gameplay. Only readable during the
+  bolt-open animation after the last round, when the dust cover is
+  briefly visible. Switchblade has never told anyone the name.
+
+INSPECT ANIMATION NOTE:
+  Build name NOT displayed in inspect overlay — unlike FREYA, GRAY GHOST,
+  ARGINT, TRG M10, NOTHING, and DON'T TREAD.
+  WREN is discoverable only via the bolt-open empty-chamber animation.
+  A detail exclusively for attentive players.
+
+--------------------------------------------------------------------------------
+BUILD 09 — ARGINT
+Character: CPL Ştefan "Lupin" Dragavei — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       FN SCAR-H DMR configuration
+Caliber:        7.62x51mm NATO
+Barrel:         20" DMR barrel
+Finish:         Factory flat dark earth
+                [Field adaptation: strip of black electrical tape along
+                top of suppressor body to reduce heat shimmer visible
+                through optic at sustained fire — documented by AEGIS
+                armorer as "field adaptation, non-structural"]
+
+ATTACHMENTS:
+  Trigger:      Geissele Super SCAR (precision trigger group)
+  Optic:        Nightforce NX8 1-8x F1 (first focal plane LPVO)
+  Backup optic: Trijicon RMR, offset at 45 degrees for CQB transitions
+  Laser module: MAWL-C1+ at 12 o'clock
+  Weapon light: SureFire Scout Pro at 9 o'clock M-LOK
+  Bipod:        Atlas BT10 V8 (same as Frost and Lantern)
+  Grip:         Magpul MOE-K2
+  Stock:        Factory SCAR-H folding stock — maximum length of pull
+  Suppressor:   SureFire SOCOM762-Mini2
+
+BUILD NAME NOTE:
+  "ARGINT" — Romanian for silver. Written in small block letters on
+  the underside of the stock in black marker. Silver because the round
+  is large and old and reliable, and Lupin respects all three qualities.
+  He did not explain the name to anyone. Frost read it once during a
+  weapons inspection, said nothing, and that was the end of it.
+
+BUILD NAME displayed in inspect overlay: ARGINT
+
+================================================================================
+SIGNATURE SIDEARMS — SUPPORTING CHARACTERS
+================================================================================
+
+--------------------------------------------------------------------------------
+WALTHER P-99 AS — LUPIN'S SIDEARM
+Character: CPL Ştefan "Lupin" Dragavei
+--------------------------------------------------------------------------------
+Platform:       Walther P-99 AS (anti-stress trigger variant)
+Caliber:        9x19mm
+Provenance:     Romanian Police/military issue variant; carried since
+                Romanian Army service before joining AEGIS
+
+ATTACHMENTS:
+  Barrel:       Threaded
+  Optic:        Trijicon RMR Type 2 (factory optics-cut slide)
+  Weapon light: SureFire X300U
+  Suppressor:   B&T Rotex-III
+
+MAGAZINES:      3 spare; carried in single double-stack chest pouch
+
+--------------------------------------------------------------------------------
+GLOCK 19 GEN 5 — FROST'S SIDEARM
+Character: SSGT Aki "Frost" Peltola
+--------------------------------------------------------------------------------
+Platform:       Glock 19 Gen 5 MOS
+Caliber:        9x19mm
+Config:         Completely unmodified from factory
+                No optic. No weapon light.
+Sights:         Night sights only
+Magazines:      3 spare; baseplates marked with red electrical tape strip
+                for tactile identification in low light
+                (red = pistol magazine)
+
+NOTE: The tape is the only non-factory element. Frost sees no reason
+to complicate a reliable instrument.
+
+--------------------------------------------------------------------------------
+GLOCK 17 GEN 5 — SWITCHBLADE'S SIDEARM
+Character: LCPL Cassandra "Switchblade" Stewart
+--------------------------------------------------------------------------------
+Platform:       Glock 17 Gen 5
+Caliber:        9x19mm
+Config:         Standard — no optic
+Weapon light:   SureFire X300U
+Magazines:      2 spare
+
+================================================================================
+SIGNATURE BLADES
+================================================================================
+
+DUCKY — Gerber StrongArm (plain edge)
+  Blade:        4.8" fixed blade, plain edge, coyote brown finish
+  Handle:       Rubberized grip, factory texture retained
+  Sheath:       Factory coyote multi-mount polymer sheath
+  Carry:        Vertical MOLLE mount on support-side kit in full combat load;
+                horizontal belt carry acceptable in lighter setup states
+  Config:       Unmodified
+  Character:    Carried as a field tool first, weapon second; practical,
+                durable, and unshowy; normal service wear only — not a
+                statement piece; factory sheath and hardware retained
+
+SWITCHBLADE — Benchmade 3300BK Infidel (OTF automatic)
+  Blade:        3.91" double-edged tanto profile, matte black DLC coating
+  Handle:       Black aluminum, worn on thumb stud from repeated deployment
+  Modification: Lanyard hole with split ring for simultaneous
+                finger-hook deployment and retention
+  Carry:        Right hip, horizontal belt clip
+  History:      Carried since age 17, Melbourne streets; upgraded twice
+                since then; origin not discussed; narratively adjacent
+                to the house fire story beat — never explicitly connected
+
+LUPIN — Romanian Army M1974 bayonet (modified)
+  Blade:        7" fixed; profile thinned and reprofiled by Romanian
+                bladesmith; tip reground to fine point from original
+                bayonet geometry
+  Handle:       Re-wrapped in black paracord over original grip panels
+  Sheath:       Kydex, left thigh, edge-in, handle forward
+  Draw:         Left-handed
+  Provenance:   Romanian Army issue; steel shows Eastern Bloc manufacture
+                pattern recognizable to Warsaw Pact-familiar players
+
+FROST — Peltonen Ranger M95 (Finnish military issue, unmodified)
+  Carry:        Left shoulder strap, handle down
+  History:      Carried since Finnish conscript service; used in Cold
+                Plunge lake encounter (implied, not shown on screen);
+                handle worn smooth at grip point from years of carry
+  Shared note:  Lantern (Nereid Black) carries an identical knife —
+                acquired from a Finnish exchange operator; connects
+                Frost and Lantern without requiring a scene about it
+
+CODY BEAUMONT — Buck 110 Folding Hunter (lockback folder)
+  Handle:       Stag — older style
+  Provenance:   His father's knife before it was his
+  Carry:        Belt sheath, right hip, forward of Shield holster
+  Edge:         Recently sharpened — keener than the rest of his kit
+  Post-Cody:    Found on resistance cell barn workbench in a later mission;
+                cleaned, folded, placed there deliberately;
+                no scene shows who placed it there;
+                no character comments on it
+
+LA AVISPA — Three-blade system
+
+  Blade 1 (Primary):
+    Extrema Ratio HF3 (fixed blade)
+    3.5" partially serrated, tanto tip, Forprene handle
+    Third unit — previous two left at scenes not discussed
+    Carry: horizontal belt position, concealed beneath jacket hem
+    Draw: one-handed from either side
+
+  Blade 2 (Secondary / Presence weapon):
+    Boker Magnum Bowie (12" overall)
+    Carried openly on thigh in Los Sietes enforcement contexts
+    NOT carried when operating with Spook — too conspicuous
+    Drawn slowly in enforcement contexts; the assessment has already
+    been made before the draw begins
+
+  Blade 3 (Deep concealed):
+    Spyderco Civilian (fully serrated curved blade)
+    Appendix inside waistband under any garment
+    Designed for draw-stroke deployment — single motion deploys
+    and uses simultaneously
+    Has not used this specific knife;
+    has used what it replaced, twice
+
+  Signature line (spoken to Spook, quiet moment between contacts):
+  "A gun is a conversation. A knife is a conclusion."
+
+================================================================================
+RARE AND STORY-SPECIFIC NAMED DROPS
+================================================================================
+
+CMMG Mk47 Mutant | 7.62x39mm
+  Dropped by:   K Lounge Sicario Lieutenant
+                (Down Rodeo — Romeo, Game 1)
+  Visual ID:    Red baseball cap backwards; Crye JPC plate carrier;
+                shark jaw tattoo on right forearm — smaller than El
+                Tiburón's; black ink only, no white highlight detail;
+                earned but not yet the full version
+  Ammo note:    7.62x39mm immediately sustainable from DPRK Type 58
+                and Los Sietes AKM drops throughout remainder of mission
+  Timer note:   If player does not close within approximately 90 seconds
+                of standard sicarios being eliminated, Lieutenant exits
+                via rear door — Mk47 and Five-seveN both lost with no
+                notification given to the player
+
+FN Five-seveN (Sicario Lieutenant's) | 5.7x28mm
+  Dropped by:   K Lounge Sicario Lieutenant
+                (forced pistol transition under sustained player pressure)
+  Ammo note:    5.7x28mm not available from any other source in mission;
+                two remaining magazines on drop
+
+SIG MCX-I (Integrated) prototype | 5.56x45mm
+  Dropped by:   Crimson One (War Wolf — East McFarlane Island, Game 1)
+  Features:     Integral suppressor; electronic fire control with
+                programmable rate selector; small round count display
+                on receiver — visible during inspect animation
+  Note:         Highest-value pickup on East McFarlane Island;
+                immediately applicable to remaining War Wolves and
+                Stockbridge security detail
+
+CheyTac M200 Intervention | .408 CheyTac
+  Found:        Hidden in security post, East McFarlane Island (Game 1)
+  Also:         Crimson Two carries his own personal M200 on the
+                ridgeline above the helipad approach — different
+                serialized weapon; two rounds remaining on drop
+  Symmetry:     Killing Crimson Two with the security post M200
+                is a deliberate mechanical callback
+
+Desert Eagle Mk XIX | .50 AE
+  Dropped by:   Mezzanine ambush leader
+                (Pandora's Box — Spook, Game 1)
+  Easter egg:   First 2-3 seconds of Max Payne main theme plays at
+                the exact instant the weapon's weight settles into
+                Spook's hand during the pickup animation —
+                solo piano, low volume, slightly muffled;
+                gone before the player can fully process it;
+                nothing in the game acknowledges it happened
+  Inspect note: Spook turns the weapon over once; pauses a half-beat
+                longer than usual — as if mildly finding it absurd;
+                no dialogue
+  Ammo note:    .50 AE has no other source in mission; seven rounds
+                total; non-replenishable
+
+APS Underwater Rifle
+  Found:        Vympel dive prep station, Sea Lion 7
+                (Wirecutter — Ducky, Game 1)
+  Limitation:   Loaded magazine only; no resupply source anywhere
+                in mission; functionally useless above water
+  Inspect note: Ducky examines it with visible professional curiosity
+  Value:        Collectible
+
+SPP-1M Underwater Pistol
+  Found:        Vympel dive prep bench, same location as APS
+                (Wirecutter — Ducky, Game 1)
+  Limitation:   Four barrels, dart ammunition; four shots then
+                collectible only; silent above water
+  Value:        Collectible / mechanically unique
+
+OTs-14 Groza | 9x39mm / 40mm UGL
+  Dropped by:   Vympel Dive Team Commander (Wirecutter — Ducky, Game 1)
+                Spetsnaz demolitions operator (Rotterdam — Ducky, Game 1)
+  Note:         40mm underbarrel loaded on both drops;
+                9x39mm feeds from AS Val and 9A-91 scavenge throughout
+                remainder of both missions
+
+PSS-2 Silent Pistol | 7.62x41mm
+  Dropped by:   Vympel officer (hold firefight — Wirecutter, Ducky)
+                Vympel Dive Team Commander (secondary opportunity,
+                same mission)
+                FSB officer (stealth section — Burning Daylight, Spook)
+  Mechanical:   Completely silent; no muzzle flash; no suppressor needed;
+                four-round cylinder
+  Note:         If missed in Wirecutter, Burning Daylight is the
+                second and final opportunity in that campaign
+
+Sako TRG M10 (Frost's backup config) | .338 Lapua
+  Found:        AEGIS equipment cache, Svalbard mission
+                (Cold Frontier — Ducky, Game 1)
+  Note:         Frost's secondary precision platform; Finnish heritage;
+                narrative resonance with his character profile
+
+SR-3M Vikhr | 9x39mm — suppressed
+  Dropped by:   Glushkin's close protection
+                (Romeo — Game 2, late campaign)
+  Also found:   GRU Spetsnaz commander KAPITAN (Rotterdam — Ducky)
+                GRU Spetsnaz command element (Hull Breach — Ducky,
+                only available if alarm is raised; stealth run = no spawn)
+  Significance: First signal that Glushkin has FSB-grade personal
+                security rather than standard occupation forces backup
+
+MAWL-DA (BE Meyers)
+  Found:        Pelican case, Montoya Farm security equipment room
+                (Burning Daylight — Spook, Game 1)
+  Unlock:       Tripper opens case; hands to Spook in brief cutscene;
+                available as GRAY GHOST attachment from this point forward
+  Detail:       GenCorp logistics sticker on the case — quietly connects
+                Montoya Farm's security procurement to GenCorp's
+                supply chain; no dialogue draws attention to it
+  Inspect note: Once mounted on GRAY GHOST, thumb activates dial
+                during inspect view; IR beam briefly pulses visible
+
+================================================================================
+WAR WOLVES — INDIVIDUAL LOADOUTS
+================================================================================
+
+CRIMSON ONE — Close Quarters / Point
+  Primary:      SIG MCX-I prototype | 5.56x45mm
+                [drops on death — highest-value pickup on island]
+  Sidearm:      HK45CT | .45 ACP — suppressed
+                [same platform as Spook's NOTHING — uncomfortable
+                implication about shared procurement channels]
+
+CRIMSON TWO — Overwatch / Precision
+  Primary:      CheyTac M200 Intervention | .408 CheyTac
+                (personal weapon; distinct serial from security post M200)
+                [two rounds remaining on drop]
+  Sidearm:      Glock 34 Gen 5 MOS | 9mm (competition long-slide)
+  Position:     Elevated ridgeline above helipad approach
+
+CRIMSON THREE — Breacher / Support
+  Primary:      Daniel Defense Mk18 | 5.56x45mm — suppressed
+                Geissele Super Dynamic 3-Gun trigger
+                [ammo feeds existing 5.56 pool; no exotic drops]
+  Sidearm:      Glock 19
+  Equipment:    M67 fragmentation x2, flashbang x1
+                [first War Wolf to use grenades against the player]
+
+ALL THREE — Shared details:
+  Identity:     CogniConnect neural implants detonate on death —
+                no facial identification possible; no dog tags;
+                no unit patches beneath tactical gear
+  Shared mark:  Small Roman numeral tattoo, inside left wrist:
+                Crimson One: I
+                Crimson Two: II
+                Crimson Three: III
+                Visible only during inspect-adjacent looting animation
+                Never explained in Game 1
+
+================================================================================
+NAMED ENEMY SIGNATURE WEAPONS
+================================================================================
+
+GLUSHKIN — SR-1 Vektor | 9x21mm
+  Carry:        Civilian shoulder rig under jacket; concealed throughout
+  Significance: FSB weapon, not military — armor-piercing 9x21mm
+                signals intelligence background, not field command
+  Final moment: Holds the SR-1 through his last words; hammer back;
+                round in chamber; never fired a second shot
+  Inspect note: Inspecting his dropped SR-1 after death shows hammer
+                cocked — the round still chambered
+
+BISUTRI — HK416 A5 (suppressed) | 5.56x45mm — Primary
+           FN Five-seveN (custom engraved) | 5.7x28mm — Sidearm
+  Five-seveN engraving: A scalpel — clean and simple, left side of
+                slide; "BISUTRI" on the right side; he had it done
+                himself; not a status symbol — a signature
+  Note:         Bisutri not killed in Coleman prison break; his
+                Five-seveN only obtainable by defeating him directly
+                in a later confrontation if developed
+
+K LOUNGE SICARIO LIEUTENANT — CMMG Mk47 Mutant + FN Five-seveN
+  [See CMMG Mk47 Mutant entry above for full drop behavior detail]
+
+================================================================================
+INSPECT WEAPON MECHANIC — DESIGN REFERENCE
+================================================================================
+
+BEHAVIOR BY WEAPON CLASS:
+
+  Rifles / carbines / DMRs / LMGs:
+    Arms-length presentation; weapon pulled slightly back and rotated
+    slowly to the right; three-quarter view of receiver, optics,
+    handguard; approximately 3-4 seconds full inspect; support hand
+    repositions naturally to allow the view
+
+  Pistols / compact SMGs:
+    Weapon raised slightly and turned to strong-side profile;
+    for weapons with visible hammers (CZ P-09, HK45CT, P-99)
+    animation includes a brief hammer or safety check motion —
+    one mechanical gesture that varies per weapon
+
+  Shotguns:
+    Short rack-and-check motion; forend pulled back a half-inch
+    and released; functional rather than aesthetic
+
+SIGNATURE WEAPON EXTENDED INSPECT:
+  Signature builds receive slightly longer or more detailed animations
+  Build name appears in small text at bottom of inspect frame for:
+  GRAY GHOST / NOTHING / FREYA / TRG M10 / ARGINT / DON'T TREAD
+  WREN does not appear in overlay — discoverable only via
+  bolt-open empty-chamber animation
+
+OVERLAY SYSTEM (field modification mode):
+  Semi-transparent non-intrusive overlay during inspect
+  Labels appear near attachment points with available interactions
+  Empty rails with nothing available show no label
+  Field-removable attachments interactable during inspect:
+    — Suppressors (threaded barrels)
+    — Optics on quick-detach mounts
+    — Weapon lights (M-LOK / Picatinny)
+    — MAWL-DA and MAWL-C1+ laser modules
+    — Foregrips (M-LOK / Picatinny)
+    — Ammunition type where multiple types carried
+  Non-removable in field (no prompt appears):
+    — Fixed barrels
+    — Integrated handguards
+    — Permanently mounted hardware
+
+AMMUNITION SWITCHING (inspect menu):
+  Most weapons: single caliber option shown
+  GRAY GHOST: 300 BLK SUBSONIC / 300 BLK SUPERSONIC
+    Switching requires magazine change animation — approximately
+    4 seconds; not skippable; tactical risk if done mid-contact
+
+REMOVAL ANIMATIONS:
+  Physical attachment removal: approximately 3 seconds
+  Not skippable — removing a suppressor mid-firefight is a
+  deliberate tactical decision with real time cost
+
+CHARACTER-SPECIFIC CLEANING ANIMATIONS (gunsmith):
+  Romeo:  Fast and functional; muscle memory; no ceremony
+  Ducky:  Methodical; checks each component before reassembly
+  Spook:  Slow and almost meditative — the cleaning is something
+          he does when he needs to think
+
+================================================================================
+END OF NAMED WEAPON BUILDS — MASTER REFERENCE
+Version 2.1 — Corrected and Complete
+================================================================================
