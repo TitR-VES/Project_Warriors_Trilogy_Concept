@@ -1,0 +1,822 @@
+PROJECT WARRIORS — CAMPAIGN TEASER TREATMENTS
+Sidebar Promotional Development Thread — Master File v1.0
+================================================================
+NOTE TO OTHER THREADS: This file was developed in a dedicated
+promotional/sidebar thread separate from the main narrative,
+gameplay, and worldbuilding threads. All decisions here are
+creative/promotional in nature and do not constitute canonical
+story changes. Cross-reference with main narrative thread before
+treating any specific detail as locked canon.
+================================================================
+
+
+OVERVIEW & WORKING METHOD
+--------------------------
+This file documents the full teaser video treatments for all three
+Game 2 campaigns developed in the promotional sidebar thread, along
+with the creative rationale, collaborative decisions, and principles
+that emerged from the development process. It is intended to be
+uploaded to the project knowledge base so that future threads can
+benefit from what was established here.
+
+The three teasers were developed sequentially — Romeo first, then
+Ducky, then Spook — using a consistent method: Claude proposed a
+full concept, Stefan responded with additions and modifications,
+and each treatment was refined through that exchange before being
+written up as a clean final document. All final creative calls
+were made by Stefan.
+
+
+CONFIRMED TAGLINES (FINAL, ALL THREE CAMPAIGNS)
+-------------------------------------------------
+AMERICAN FREEDOM:       "War Hits Home."
+AEGIS FALLS:            "The System Fell. We Didn't."
+GODKILLER:              "You Can't Kill A Dead Man."
+
+NOTE ON TAGLINE DEVELOPMENT:
+- "War Hits Home" was Stefan's original and was kept unchanged.
+- "The System Fell. We Didn't." was proposed by Claude as a
+  replacement for Stefan's original "We Are Taking Our Home Back."
+  Stefan accepted it as stronger and more specific to the campaign's
+  betrayal/institutional collapse architecture.
+- "You Can't Kill A Dead Man." is a shortened version of Stefan's
+  original "How Do You Kill A Man Who's Already Dead?" — the
+  truncation was proposed by Claude for punch and pacing and
+  confirmed by Stefan as a clear improvement.
+
+CONFIRMED MUSIC (ALL THREE CAMPAIGNS)
+--------------------------------------
+AMERICAN FREEDOM:   "Good Morning America" — Jesse Welles
+AEGIS FALLS:        "Kyiv" — Apashe ft. Alina Pash
+GODKILLER:          "King Nothing" — Metallica
+
+NOTE: All music selections carry commercial licensing flags.
+Acknowledged as a future constraint, not a current creative blocker.
+
+RELEASE DATE USED IN ALL THREE TEASERS: Coming Q2 2028
+NOTE: This date is invented flavor only and does not reflect any
+actual development or release timeline.
+
+
+SHARED FORMAT SPECS (ALL THREE TEASERS)
+-----------------------------------------
+- Runtime: approx. 90 seconds each
+- Aspect ratio: 2.39:1 cinematic widescreen
+- No HUD, no gameplay footage
+- No dialogue in Romeo or Ducky teasers
+- Godkiller contains two lines of spoken dialogue at the close only
+  (see Godkiller treatment below — this was a deliberate exception
+  confirmed by Stefan)
+- Title cards: plain white text, no fanfare, no music beneath them,
+  one beat between each card
+
+
+CAMPAIGN-BY-CAMPAIGN EMOTIONAL REGISTER SUMMARY
+-------------------------------------------------
+AMERICAN FREEDOM (Romeo):
+  Elegiac, documentary, grief before defiance. The teaser shows
+  what has been lost before it shows any resistance. Emotional
+  architecture: grief → weight → quiet defiance → reckoning.
+
+AEGIS FALLS (Ducky):
+  Dread and institutional fracture. The feeling of standing on a
+  fault line the moment before it gives. Emotional architecture:
+  trust → creeping wrongness → operational chaos → the promise
+  broken. The returning AEGIS emblem (pristine → cracked →
+  fractured) is the visual spine.
+
+GODKILLER (Spook):
+  Psychological menace and the gap between official truth and
+  actual truth. Investigative rather than action-driven. Emotional
+  architecture: institutional certainty → evidence of deception →
+  the hunt → the confrontation of two men who understand each other
+  completely.
+
+
+KEY CREATIVE DECISIONS MADE IN THIS THREAD
+--------------------------------------------
+1. CHORAL ARRANGEMENT — AMERICAN FREEDOM CLOSE
+   Stefan's suggestion: the Good Morning America melody transitions
+   in the final act not to a music swell but to a sparse unaccompanied
+   mixed choir arrangement. Tonal reference: "Keep Your Rifle By Your
+   Side" from the Ken Burns Civil War soundtrack — voices that sound
+   like they belong to the land, somewhere between a hymn and a lament.
+   The effect: Romeo at the tree line stops being one soldier and
+   becomes something larger. The melody now belongs to everyone in
+   the town. Hard cut to black stops the choir mid-phrase — the
+   silence lands harder for what it interrupted.
+
+2. THREE-FRAME CODY BEAUMONT IMAGE — AMERICAN FREEDOM BUILD SECTION
+   Stefan's suggestion: buried in the quick cuts of Act Three, lasting
+   approximately three frames (roughly one eighth of a second at 24fps),
+   is a flash of the Cody Beaumont death image — the ambiguous loading
+   screen photograph that is one of the campaign's most emotionally
+   loaded visual assets. It is not acknowledged by the edit around it.
+   It is gone before the conscious mind fully forms the question.
+   Placement confirmed: inside the momentum of the build section cuts,
+   not near the emotional close. Purpose: plants subconscious unease,
+   rewards frame-by-frame analysis, respects the intelligence of the
+   audience, generates organic discovery/discussion post-release.
+   Both Stefan and Claude independently arrived at the same placement
+   instinct — confirmed as correct.
+
+3. RAW POV/DRONE FOOTAGE GRAMMAR — AEGIS FALLS
+   Stefan's suggestion: some of the quick cuts in Ducky's teaser
+   should reference the visual grammar of modern warfare as audiences
+   now know it from Ukrainian war footage online — GoPro helmet
+   footage, drone POV, night vision green, thermal white-hot
+   signatures, handheld phone video with blown-out audio. The
+   frequency of this raw footage material should ramp up and down
+   in sync with the music and pacing — rare during the measured
+   opening acts, bleeding in with increasing frequency during the
+   build, peaking near the climax, then receding as the music
+   hollows out toward the close. First act kept entirely cinematic
+   so the raw footage's first appearance carries weight as an
+   intrusion. Claude confirmed this is not a step in the wrong
+   direction — it has real cinematic and editorial precedent and
+   the ramp logic is sophisticated and correct.
+
+4. TWO LINES OF DIALOGUE — GODKILLER CLOSE
+   The only spoken words across all three teasers appear at the
+   close of Godkiller:
+     SPOOK: "You can't kill a dead man."
+     GOLDBERG (O.S.): "No."
+   Rationale: the tagline IS dialogue, and hearing it spoken lands
+   differently than reading it. Goldberg's single-word response —
+   calm, faintly amused — is more unsettling than any image.
+   It establishes his presence without showing his face clearly.
+   Stefan confirmed: keep the dialogue. Do not apply the no-dialogue
+   rule to Godkiller.
+
+5. RETURNING EMBLEM STRUCTURE — AEGIS FALLS
+   The AEGIS emblem appears three times across the teaser —
+   Act One (pristine), Act Two close (hairline crack, easy to miss),
+   Act Four (spider web fracture, still holding its shape, still
+   recognizable, motto still legible). The visual argument made
+   without words: the system you trusted was already cracking.
+   You just couldn't see it yet.
+
+6. EAST MCFARLANE ISLAND — GODKILLER
+   Appears in Act Three as the cut that sits longer than everything
+   around it — wide aerial, golden hour, Goldberg alive and unhurried
+   on a terrace overlooking the water. His posture is that of a man
+   who has decided he is entirely beyond reach. This image is load-
+   bearing: it confirms to the audience that the DECEASED stamp was
+   wrong, without a single word of explanation.
+
+
+NOTES FOR FUTURE DEVELOPMENT IN THIS THREAD
+---------------------------------------------
+The following items were flagged during teaser development as
+next steps for this promotional sidebar thread:
+
+1. KEY ART — one hero image per campaign. The single image that
+   goes on a billboard, a Steam page, a magazine spread. Locks
+   in the visual identity of each campaign. To be developed next.
+
+2. SECONDARY FORMATS — loading screen teasers, social media drip
+   content, print ads, possibly diegetic in-universe artifacts
+   (newspaper front pages, redacted documents, ARG-style website
+   content). To follow key art.
+
+3. AEGIS FALLS TEASER — PLACEHOLDER NOTE
+   The AEGIS Falls teaser currently uses first-game locations and
+   operational geography as placeholder scaffolding, since Ducky's
+   Game 2 campaign (Persistent Threat) has not yet been fully
+   developed in the main narrative thread. Stefan confirmed this
+   is acceptable at this stage of development. Flag for revisit
+   when the main thread catches up with Persistent Threat mission
+   development.
+
+4. CHARACTER PROMO CLIP SERIES — flagged in main thread, to be
+   developed in the music/audio thread. Starting with Switchblade.
+   60-90 seconds, tone varies by character. Not yet started in
+   this sidebar thread.
+
+
+================================================================
+FULL TEASER TREATMENTS — COMPLETE TEXT
+================================================================
+
+
+----------------------------------------------------------------
+TEASER ONE: AMERICAN FREEDOM
+----------------------------------------------------------------
+
+AMERICAN FREEDOM
+Campaign Teaser — Full Treatment
+Music: "Good Morning America" — Jesse Welles
+
+FORMAT
+Runtime: approx. 90 seconds
+No dialogue. No HUD. No gameplay footage.
+Aspect ratio: 2.39:1 cinematic widescreen
+Grade: desaturated, cool morning light, high contrast shadows
+
+---
+
+ACT ONE — RECOGNITION
+0:00 — 0:20
+
+Black screen. Silence. Two full beats.
+
+The first guitar notes of Good Morning America come in barely
+audible — like a radio signal finding its frequency from a long
+way away.
+
+Image fades in slowly. Pre-dawn blue light. The camera drifts
+forward at roof height, unhurried, almost floating, down what is
+unmistakably a Main Street in small-town America. Storefronts.
+A diner with its lights still off. A church steeple against a
+pale sky. Fall foliage. It looks almost peaceful.
+
+The camera drifts lower.
+
+A Russian military checkpoint fills the intersection ahead.
+A BTR parked across two lanes. Soldiers in unfamiliar uniforms,
+breath visible in the cold morning air. A Russian flag hanging
+from a telephone pole, completely still.
+
+No dramatic sting. No music swell. Just that image, held long
+enough to land.
+
+---
+
+ACT TWO — WEIGHT
+0:20 — 0:50
+
+The camera keeps moving — slow, documentary, without commentary.
+We see the town in fragments.
+
+A shuttered hardware store, plywood boards spray-painted with a
+message in English. A burned-out house, two or three survivors
+and neighbors quietly picking through the wreckage in the early
+light, shovels moving slowly. A child's face at a curtained
+window watching a patrol pass below. A handwritten sign in a
+shop window in English and Russian. An elderly man sitting on
+his porch steps, hands folded, watching nothing in particular.
+
+Jesse Welles' voice carries the melody. The music still sounds
+like home. The images don't look like home anymore. The contrast
+does the emotional work without comment.
+
+One image held a beat longer than the others: a partially burned
+American flag still hanging from a porch railing, moving almost
+imperceptibly in the morning cold.
+
+No comment. Just that.
+
+---
+
+ACT THREE — CURRENT
+0:50 — 1:10
+
+The music begins to shift — not into anything loud, just a subtle
+change in emotional register underneath the melody, like something
+waking up.
+
+Quick cuts. Still no dialogue.
+
+A hand pressing a magazine into a rifle in near-darkness.
+Mud-caked boots moving along a treeline. A face — Romeo's,
+half-lit by weak morning light — watching a patrol pass from
+cover, completely still. A resistance contact sliding a folded
+paper across a table without making eye contact. A flare climbing
+into a grey sky somewhere in the middle distance. Shadowed figures
+moving with quiet urgency through the back of a barn.
+
+Buried here, in the momentum of the cuts, lasting approximately
+three frames:
+
+THE CODY BEAUMONT IMAGE.
+
+Not dwelt upon. Not explained. Gone before the conscious mind can
+fully form the question. Something is wrong with what you just saw.
+You're not sure what.
+
+The cuts continue. Nothing acknowledges it.
+
+Romeo again — moving now, low and deliberate through undergrowth,
+toward the edge of a tree line.
+
+---
+
+ACT FOUR — RECKONING
+1:10 — 1:28
+
+The quick cuts stop.
+
+One wide, still shot: Romeo at the top of a hill, standing at the
+edge of the tree line. His back is to the camera. He is looking
+down at the town below — the checkpoints, the unfamiliar flags,
+the smoke from a chimney here and there, ordinary life ground down
+to its most essential and most fragile.
+
+He doesn't move.
+
+The guitar melody of Good Morning America begins to fall away —
+and in its place, quietly at first and then with full weight, the
+same melody rises again in unaccompanied human voices. A mixed
+choir, sparse and unhurried, somewhere between a hymn and a
+lament. The tonal reference is the Civil War vocal tradition —
+voices that sound like they belong to the land, not to a recording
+studio. The melody has grown larger than one man with a guitar.
+It belongs to everyone in that town now.
+
+Romeo still doesn't move.
+
+---
+
+CLOSE
+1:28 — 1:35
+
+Hard cut to black.
+
+The choir stops mid-phrase.
+
+Silence. One full beat.
+
+---
+
+White text. Plain. No fanfare. No musical swell beneath it.
+
+WAR HITS HOME.
+
+One beat.
+
+AMERICAN FREEDOM.
+
+One beat.
+
+Coming Q2 2028.
+
+Fade.
+
+---
+Treatment v1.0 — Sidebar Development File
+Main narrative authority: primary project thread
+
+
+----------------------------------------------------------------
+TEASER TWO: AEGIS FALLS
+----------------------------------------------------------------
+
+AEGIS FALLS
+Campaign Teaser — Full Treatment
+Music: "Kyiv" — Apashe ft. Alina Pash
+
+FORMAT
+Runtime: approx. 90 seconds
+No dialogue. No HUD. No gameplay footage.
+Aspect ratio: 2.39:1 cinematic widescreen
+Grade: cold, high contrast, deep shadows — steel blue and amber
+where light exists
+Visual grammar: two modes — cinematic widescreen and raw
+POV/drone footage. POV material is ungraded, aspect ratio native
+to source, audio authentic. The two grammars are kept visually
+distinct at all times.
+
+---
+
+ACT ONE — THE PROMISE
+0:00 — 0:15
+
+Black. Then Alina Pash's voice comes in alone — just the vocal,
+unaccompanied, in Ukrainian. No orchestration yet. The language
+sounds simultaneously foreign and deeply familiar to Western ears.
+Beautiful and melancholy and completely unafraid.
+
+A single image fades in slowly against it.
+
+The AEGIS emblem. Clean and sharp, rendered in the established
+briefing screen aesthetic — dark background, gold and silver
+insignia, the Latin motto beneath it.
+
+Recte Faciendo Neminem Timeas.
+
+It looks authoritative. Trustworthy. Like something that has never
+failed and has no reason to expect that it will.
+
+Hold on it. Let Alina Pash's voice carry it.
+
+Then cut to black.
+
+---
+
+ACT TWO — THE WEIGHT
+0:15 — 0:50
+
+The orchestration begins to build underneath the vocal, slowly,
+with intention.
+
+All footage in this section is cinematic. No POV material yet.
+
+Geography established through feeling rather than labels. The flat
+grey expanse of the North Sea at night, surface broken by wind.
+The massive industrial silhouette of Rotterdam's port infrastructure
+against a low sky. The angular geometry of a communications relay
+station surrounded by deep Arctic snow — we don't name it Svalbard,
+but the cold names it for us. Wet cobblestones in a European city
+at night, boots moving with controlled urgency.
+
+Then the operational texture. AEGIS in environments that should be
+controlled but aren't quite behaving that way. A door that opens
+onto something unexpected, a beat of stillness before the operator
+moves. A contact who isn't where they're supposed to be. A screen
+showing data that contradicts the brief. Frost at a tall window,
+mask on, completely still, watching something below that the camera
+does not show us. Ducky on a radio, expression unreadable,
+listening to something we cannot hear.
+
+Woven between these — brief, almost incidental — the details that
+are wrong underneath the surface. A name visible on a document for
+just long enough to register. A timestamp that doesn't add up if
+you're paying attention. A familiar face in a place it has no
+business being.
+
+Nothing explained. Everything felt.
+
+The music continues to build. Alina Pash's voice rising, the
+orchestration thickening and broadening around it.
+
+We return to the AEGIS emblem.
+
+The same image. But there is a crack running through it now —
+hairline thin, barely visible, easy to dismiss as a trick of the
+light. The motto still perfectly legible beneath it.
+
+Cut away before the viewer has fully decided what they saw.
+
+---
+
+ACT THREE — THE FRACTURE
+0:50 — 1:10
+
+The music hits its first real peak. The teaser shifts register.
+
+This is where the raw POV material enters for the first time —
+and its arrival is felt precisely because the first two acts earned
+it. A burst of helmet-mounted GoPro footage, ungraded, slightly
+blown out, the audio raw and immediate. Combat in a European
+industrial environment, close and fast and without the composed
+geometry of cinematic framing. Then back to cinematic. Then raw
+again, slightly longer this time. Then cinematic. The alternation
+accelerates in sync with the music — the two grammars trading
+places with increasing frequency as the build intensifies, until
+near the peak they are cutting against each other almost measure
+for measure.
+
+The raw footage carries that specific visual grammar of modern
+warfare as people actually know it now. Drone footage, the eerie
+detached silence of it before impact. Night vision green. Thermal
+white-hot signatures of vehicles moving through darkness. A
+handheld shot of a street engagement, audio blown out by nearby
+concussion. The intimacy and inhumanity existing in the same frame
+simultaneously.
+
+Interspersed with both grammars — the operational reality of what
+is going wrong. AEGIS in cover in an environment that was supposed
+to be friendly. Ducky making a decision we don't understand with
+information we don't have. Frost firing from a position that tells
+us the plan has already failed. Switchblade pulling someone out of
+a collapsing space, not looking up, focused entirely on the person
+in her hands.
+
+The question the campaign is actually asking moves underneath all
+of it, never surfaced directly, only accumulated:
+
+Who built this. Who funded it. Who does it actually serve.
+
+The music reaches its peak — and then hollows out. The
+orchestration falls away beneath Alina Pash's voice, leaving her
+exposed and solitary and completely clear.
+
+The raw POV footage recedes with the orchestration. The last few
+cuts are cinematic again — stilled, composed. The visual grammar
+settling back into itself as the music does.
+
+---
+
+ACT FOUR — THE RECKONING
+1:10 — 1:28
+
+One final image, held steady against that lone vocal.
+
+The AEGIS emblem. Third and final time.
+
+It is fractured now. Not destroyed — fractured. The crack from
+before has spread across the face of the shield in a spider web
+pattern, the way safety glass breaks — still holding its shape,
+still recognizable as what it was, the structure intact but
+fundamentally and irreversibly compromised. Every line of the
+insignia still visible. The motto still legible beneath it.
+
+Recte Faciendo Neminem Timeas.
+
+Hold on it. Let Alina Pash carry the silence around it.
+
+Then cut to black. The vocal stops.
+
+Silence. One full beat.
+
+---
+
+White text. Plain. No fanfare.
+
+THE SYSTEM FELL.
+
+One beat.
+
+WE DIDN'T.
+
+One beat.
+
+AEGIS FALLS.
+
+One beat.
+
+Coming Q2 2028.
+
+Fade.
+
+---
+Treatment v1.0 — Sidebar Development File
+Main narrative authority: primary project thread
+NOTE: First-game locations used as placeholder scaffolding.
+Flag for revision when Persistent Threat (Ducky Game 2) mission
+geography is developed in main narrative thread.
+
+
+----------------------------------------------------------------
+TEASER THREE: GODKILLER
+----------------------------------------------------------------
+
+GODKILLER
+Campaign Teaser — Full Treatment
+Music: "King Nothing" — Metallica
+
+FORMAT
+Runtime: approx. 90 seconds
+Minimal dialogue — two lines at close only.
+No HUD. No gameplay footage.
+Aspect ratio: 2.39:1 cinematic widescreen
+Grade: high contrast, deep shadows, warm amber and cold white
+where artificial light exists — the palette of late nights in
+rooms where important things are decided and never recorded
+
+---
+
+ACT ONE — THE FILE
+0:00 — 0:20
+
+Black. Silence.
+
+King Nothing begins — not the opening riff, but the single breath
+of anticipation just before it. One beat of quiet that makes the
+guitar's arrival inevitable.
+
+Then the riff hits and we open on:
+
+A pair of hands — Spook's — laying a photograph face up on a
+table in a dark room. We don't see his face yet. Just the hands,
+and the photograph, and a pool of artificial light falling across
+a surface covered in documents, strings, photographs, case files.
+The architecture of an investigation that has been running for a
+long time and has not yet found its floor.
+
+The photograph is of Goldberg. Composed. Confident. The face of
+a man who has never been held accountable for anything and has no
+expectation that this will change.
+
+Below the photograph, stamped in red:
+
+DECEASED.
+
+Spook's hand rests on the photograph for a moment. Still. Then he
+slides it to one side and keeps working.
+
+He doesn't believe it either.
+
+---
+
+ACT TWO — THE TRAIL
+0:20 — 0:55
+
+King Nothing drives this section. The music has momentum and the
+teaser uses it.
+
+We move through the world of the campaign in quick, kinetic cuts —
+but always refracted through the specific lens of intelligence
+work rather than conventional action. This is not Romeo's war.
+This is not Ducky's institutional crisis. This is the world as
+seen through surveillance, through intercepted documents, through
+the gap between what the official record says and what is actually
+true underneath it.
+
+Fragments. Locations felt rather than named or labeled. Rain-
+slicked streets of a European city at night, headlights smearing
+across wet stone. The interior of a safehouse lived in for too
+long — takeout containers, multiple laptops, a corkboard dense
+with material. An airport concourse, Spook and his team moving
+through the civilian flow like ghosts, unhurried, invisible.
+A skyscraper face at night, a figure rappelling down glass toward
+a lit window below. A tropical compound perimeter at night,
+security lights cutting hard lines through the dark.
+
+Interspersed with the locations — the paper trail. Fragments of
+documents, never held long enough to fully read. Photographs with
+names partially visible. Redacted lines that confirm something is
+present without revealing what. A name appearing across multiple
+separate files in separate contexts, connecting things that should
+have no connection.
+
+And woven through all of it — faces. Goldberg. Stockbridge.
+Macmillan. Crodyn. Each appearing briefly, never labeled, never
+explained. Simply present. Watching from inside their photographs
+and their files with the particular composure of people who have
+never had reason to be afraid of being seen.
+
+Then a cut that lands differently than the ones around it:
+
+A television screen. News broadcast, slightly grainy. A chyron
+running beneath footage of a federal prison facility. We cannot
+read it fully — only fragments. Explosion. Federal facility.
+One confirmed dead.
+
+Then the photograph of Goldberg again. Different photograph.
+Same stamp.
+
+DECEASED.
+
+Spook's face for the first time — lit from below by the cold
+light of a screen, expression unreadable, somewhere between fury
+and something that might almost be recognition. The look of a man
+who has just been told a joke he already knew the punchline to
+and is not remotely amused by it.
+
+---
+
+ACT THREE — THE HUNT
+0:55 — 1:15
+
+The music moves into its harder register and the teaser opens up.
+
+Brief, controlled glimpses of action — not sustained sequences,
+just enough to establish what is at stake and what these men are
+willing to do to reach it. A close quarters engagement in a dark
+interior, fast and without ceremony. Spook moving through a
+burning space with the unhurried focus of a man looking for
+something specific amid the chaos. Tripper at a keyboard inside
+a vehicle moving fast through a city at night. Smoke back against
+a wall beside a doorway, covering the approach, waiting.
+
+But the action is never the point here. Every action beat is
+interrupted by or resolves into another intelligence fragment —
+another piece of the picture assembling itself into something
+larger and more dangerous than any single mission.
+
+Until one cut that arrives without announcement and sits longer
+than everything around it:
+
+East McFarlane Island. Wide aerial shot, golden hour light, the
+water around it the deep blue of somewhere that does not appear
+on maps that ordinary people consult. Isolated. Beautiful.
+Completely self-contained.
+
+Then Goldberg — alive. Standing at the edge of a terrace
+overlooking the water, back partially to camera, unhurried,
+looking at the horizon with the posture of a man who has decided
+he is entirely beyond reach. No urgency. No fear. Just a man
+standing on his island in the golden hour, watching the water.
+
+Then black. Sudden and total.
+
+---
+
+ACT FOUR — THE EXCHANGE
+1:15 — 1:28
+
+The music strips back to almost nothing. Just the guitar, quiet.
+
+Spook's voice — low, flat, certain. The only spoken words in
+the teaser:
+
+"You can't kill a dead man."
+
+A beat of silence.
+
+Then another voice — older, quieter, somewhere in the register
+of a man who finds most things faintly amusing and has learned
+not to show it too obviously:
+
+"No."
+
+Cut to black. Music stops completely.
+
+Silence. One full beat.
+
+---
+
+White text. Plain. No fanfare. No music beneath it.
+
+YOU CAN'T KILL A DEAD MAN.
+
+One beat.
+
+GODKILLER.
+
+One beat.
+
+Coming Q2 2028.
+
+Fade.
+
+---
+Treatment v1.0 — Sidebar Development File
+Main narrative authority: primary project thread
+
+
+================================================================
+END OF FILE
+PW_Teaser_Treatments_Sidebar_v1.0
+================================================================
+
+
+----------------------------------------------------------------
+ADDENDUM — RESISTANCE VISUAL IDENTITY PROMPT PACKET
+----------------------------------------------------------------
+
+NOTE:
+This addendum captures logo / emblem design direction and reusable
+image-generation prompts developed in a later dedicated thread.
+These items are creative/promotional support material and should be
+cross-checked against narrative canon where needed.
+
+LOCKED RESISTANCE EMBLEM SYSTEM
+-------------------------------
+AFC / national umbrella identity:
+- Republic Shield = main AFC emblem
+  - Upright shield silhouette
+  - Central five-point star
+  - Rising wedge / chevron from the lower portion
+  - Conveys civilian protection, defense of American soil, and active resistance
+  - Should read cleanly in one color and be stencil-friendly
+
+AFC / field graffiti identity:
+- Breach Star = fast-action field mark
+  - Bold five-point star breaking through a horizontal barricade / block shape
+  - Used for propaganda walls, sabotage claims, morale tags, and rough quick-spray use
+  - More aggressive and less formal than Republic Shield
+
+Boston / local underground identity:
+- Union Mark = pre-existing Boston underground emblem
+  - Angular industrial bands forming a hidden / implied star in negative space
+  - Local, civic, industrial, neighborhood-rooted
+  - Strong on reclaimed vehicles, workshops, barricades, utility spaces, safehouses,
+    and district-level resistance materials
+
+RELATIONSHIP / WORLD USE
+------------------------
+- Early Boston: Union Mark appears first
+- Mid Boston: Union Mark and Republic Shield begin appearing together
+- Late Boston: Republic Shield becomes the larger umbrella emblem while Union Mark
+  persists in neighborhood and vehicle-level local use
+- Breach Star remains the rough AFC field tag throughout
+
+VISUAL RULES
+------------
+- No skulls
+- No rifles
+- No eagle marks
+- No decorative heraldry
+- No tactical-brand or mall-ninja styling
+- Favor heavy geometry, one-color readability, stencil survivability, and fast sprayability
+- Preferred polished palette: muted red, off-white, dark navy
+- Real field use should still work in plain white / off-white spray paint
+
+REUSABLE IMAGE PROMPTS
+----------------------
+
+A) Republic Shield — clean preview
+Design a fictional resistance movement logo for the American Freedom Corps (AFC), set in an occupied near-future United States. The emblem is simple, memorable, stencil-friendly, and easily spray-painted. Main concept: a bold upright shield silhouette with a five-point star in negative space at the center, and a forward-driving chevron or wedge rising from the bottom of the shield. The logo should communicate protection of civilians, defense of American soil, and active resistance against foreign military occupation. Use a restrained palette of muted red, off-white, and dark navy, but keep the design flat and readable in one color. No skulls, no eagle, no rifles, no excessive ornament, no tactical-brand look. Present as a clean centered emblem on a plain light background, graphic design concept sheet style, crisp edges, flat vector look, no mockup, no extra text.
+
+B) Republic Shield — highway structure mockup
+Show the exact same fictional AFC resistance emblem painted large on the support structure or maintenance surface of an American highway gantry sign near a suburb outside Boston. The emblem is a simple shield with a central star and a forward wedge. Use white spray paint with slight wear and streaking. Scene should feel unmistakably American: green directional highway signage, metal gantry structure, concrete barriers, overcast or cold daylight, subtle occupation-era decay. Realistic cinematic environment, no extra made-up insignias, keep the AFC symbol crisp and readable.
+
+C) Breach Star — clean preview
+Design a fictional resistance logo for the American Freedom Corps (AFC), intended for rapid spray-paint use in an occupied near-future United States. Main concept: a bold five-point American star breaking through a horizontal barricade or block shape, with a split or wedge showing the star forcing a breach. The design must be extremely simple, iconic, aggressive, and easy to recognize from far away. Use muted red, off-white, and dark navy, but keep it functional in a single-color stencil. No skulls, no guns, no eagles, no decorative flourishes. Present as a clean flat vector-style emblem on a neutral background, centered, no mockup, no extra typography.
+
+D) Breach Star — Boston wall mockup
+Show the exact same fictional AFC Breach Star emblem spray-painted on a concrete wall in occupied Boston. The emblem is a bold five-point star breaking through a horizontal barricade shape. Off-white spray paint, rough but legible stencil application, realistic overspray, slight paint drips, layered with older faded tags underneath but the AFC emblem dominates. The street should feel American and Boston-adjacent: brick, utility boxes, worn sidewalks, cold urban atmosphere, grounded realism, no fantasy styling.
+
+E) Union Mark — clean preview
+Design a fictional resistance emblem for a pre-existing Boston underground movement in an occupied near-future United States. The symbol is called Union Mark. It should feel local, civic, industrial, and neighborhood-rooted rather than national. The design is simple, angular, memorable, and stencil-friendly, suitable for spray paint, welded plates, paper leaflets, and improvised vehicle markings. Main idea: bold structural bands or diagonal/horizontal forms that create a hidden or implied five-point star in negative space, without looking like a flag. It should evoke dockyards, transit infrastructure, workshops, labor solidarity, reclaimed city space, and organized urban resistance. Use muted red, off-white, and dark navy, but keep the design functional in one color. No skulls, no rifles, no eagle, no over-detailed heraldry, no corporate-tech look. Present as a clean centered flat vector-style emblem on a plain light background, no mockup, no extra text.
+
+F) Union Mark — reclaimed utility pickup mockup
+Show the exact same fictional Union Mark resistance emblem painted on the door and improvised armor plate of a reclaimed utility pickup truck used by a Boston resistance cell in an occupied near-future America. The symbol is angular, structural, and stencil-friendly, suggesting a hidden star through bold geometric bands. White or faded off-white paint, slightly rough hand-stenciled application, realistic wear, grime, scratches, and layered field repairs. The vehicle should look civilian-turned-resistance, not polished military. Environment: cold urban Boston industrial district, garages, brick walls, chain-link fencing, concrete barriers, grounded realism, cinematic but believable.
+
+G) Union Mark + Republic Shield — late-stage liberation wall
+Show two fictional resistance emblems painted side by side on a reclaimed wall in occupied Boston: on the left, Union Mark, a local Boston underground symbol made of angular industrial bands with an implied star; on the right, Republic Shield, a national AFC emblem with a shield silhouette, central star, and rising wedge. Both are spray-painted in off-white on brick or concrete. The scene should suggest late-stage liberation and growing coordination between local resistance and the broader American Freedom Corps. Realistic urban American setting, Boston atmosphere, layered paint, weathering, subtle wartime damage, grounded cinematic realism.
+
+END ADDENDUM
+----------------------------------------------------------------

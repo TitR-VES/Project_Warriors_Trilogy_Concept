@@ -1,0 +1,452 @@
+PROJECT WARRIORS — HOSTAGE / HVP EXTRACTION MISSION REFERENCE PAGE
+Generated: 2026-04-13
+Version: rev1
+Status: thread-locked development reference; source-ready for compendium landing
+Scope: mission-facing reference page for the flagged SAS-led British Boston hostage / HVP extraction lane.
+
+================================================================================
+PURPOSE
+================================================================================
+This page develops the previously flagged British Boston hostage / HVP extraction mission
+into a source-ready mission reference that can support later story mapping, mission
+scripting, operator usage, Boston-arc progression, and alignment with the wider Who Dares
+Wins / Boston shared UK logic.
+
+The mission’s governing logic is now clear:
+this is not a clean snatch-and-grab, not a “rescue the VIP and leave” power fantasy,
+and not a generic special-forces hostage template.
+
+It is a morally congested covert extraction of high-value British nationals whose removal
+matters for strategic reasons, but whose situation has become humanly tangled inside the
+occupation. They are not alone. They have spouses, children, divided loyalties, American
+attachments, and very immediate reasons not to leave cleanly or quickly. The mission should
+therefore feel exact, pressured, and compromised from the beginning.
+
+================================================================================
+INHERITED LOCKS THIS PAGE MUST HONOR
+================================================================================
+1. British forces in Boston are already structured in three distinct layers:
+   - SAS = covert sabotage / infiltration / hostage-HVP extraction
+   - SBS = covert maritime sabotage / blockade disruption / insertion expertise
+   - Royal Marines (+ Royal Navy) under Lt. Dorothy Anne Vickers = later widening,
+     resistance support, CASEVAC growth, and genuine balance-of-power shift
+
+2. The hostage / HVP extraction lane already exists in-source as a flagged SAS primary
+   mission in Boston / nearby locations.
+
+3. The protected existing source note must remain true:
+   the targets are high-value British nationals with access to sensitive British
+   intelligence and institutional knowledge, but the extraction also carries a strong
+   human dimension — families involved, emotional complications, and ties to the U.S.
+   including a teenager forced to leave a love interest behind.
+
+4. British support in Boston must begin as covert competence and only later widen into
+   more visible and materially stronger support.
+
+5. Vickers, the larger Royal Marines layer, and wider Royal Navy scope remain only
+   partially developed and should not be over-locked here.
+
+================================================================================
+WORKING MISSION TITLE RECOMMENDATIONS
+================================================================================
+PRIMARY RECOMMENDATION
+LEAVE TAKING
+
+Reason:
+- carries the emotional center without becoming melodramatic
+- sounds formal, slightly old-fashioned, and appropriately British without feeling cute
+- frames the mission as separation under pressure rather than heroic conquest
+
+ALTERNATE RESERVE TITLES
+- PASSAGE
+- LAST BOAT
+- DEPARTURES
+
+Usage rule:
+Use LEAVE TAKING as the current mission-title recommendation unless a later Boston title
+set produces a stronger paired naming logic across the British mission cluster.
+
+================================================================================
+CORE MISSION IDENTITY
+================================================================================
+MISSION TYPE
+Urban covert extraction under occupation pressure.
+
+CAMPAIGN HOME
+Romeo Game 3 — Boston arc.
+
+MISSION FUNCTION INSIDE THE BOSTON CAMPAIGN
+This mission is the most humanly complicated proof of why the British covert presence exists
+in Boston at all. The harbor strike proves operational value. This mission proves political,
+institutional, and moral value.
+
+PRIMARY RESULT
+A British-sensitive human package is extracted before the occupation can exploit, trade,
+turn, or publicly stage-manage it.
+
+SECONDARY RESULT
+Romeo sees the British mission in Boston from the inside: not as abstract allied help, but
+as a set of choices where intelligence value, family duty, and local human consequences do
+not line up cleanly.
+
+TERTIARY RESULT
+The mission deepens trust between Romeo and the SAS team while also preserving a useful point
+of friction: the British can leave with certain people in a way Boston locals often cannot.
+
+================================================================================
+WHY THE BRITISH CARE
+================================================================================
+The British rationale should be practical first, emotional second.
+
+Recommended combined rationale:
+- at least one of the trapped British nationals possesses sensitive institutional knowledge
+  the occupation must not consolidate
+- the target set includes either intelligence access, continuity-planning knowledge,
+  Atlantic maritime-routing knowledge, or classified diplomatic / liaison exposure
+- one or more family members are with them, which raises both urgency and operational burden
+- leaving them in place risks interrogation, coercion, surveillance exploitation, staged
+  collaboration footage, or transfer out of Boston to a harder-to-reach holding site
+- the mission is therefore time-sensitive in a way the British covert package cannot ignore
+
+The British are not mounting a sentimental rescue of compatriots because they happen to be in
+trouble. They are extracting people whose capture matters — while also being unable to strip
+away the fact that those people are still a family.
+
+================================================================================
+WHY ROMEO / BOSTON RESISTANCE CARE
+================================================================================
+For Romeo and the local resistance, the mission matters for three reasons:
+
+1. The extraction target is in an occupied neighborhood or urban pocket whose Russian control
+   is already tightening.
+
+2. The mission creates a temporary corridor fight or deception window that Boston resistance
+   can exploit elsewhere.
+
+3. The extraction foregrounds the difference between “who can be taken out” and “who has to
+   stay,” which is emotionally and politically useful inside Romeo’s broader Game 3 thesis.
+
+Recommended Romeo-side read:
+he helps because the mission is operationally worthwhile and because he has decided by this
+stage that coalition help is real when it is specific. But the mission should leave a residue:
+these people get a boat out. Most Bostonians do not.
+
+That tension is valuable and should remain in the mission rather than being sanded away.
+
+================================================================================
+RECOMMENDED TARGET PACKAGE
+================================================================================
+The mission works best with a compact multi-person package rather than a single VIP.
+
+RECOMMENDED EXTRACTION SET
+1. Primary HVP — British national, mid-40s to late-50s, civilian or quasi-civilian with
+   access to sensitive institutional knowledge.
+2. Spouse or partner — American or dual-national, making the “just take the Brit” option
+   morally and politically impossible.
+3. Teenager — old enough to understand what leaving means, young enough that the forced
+   separation from Boston ties lands hard.
+4. Optional additional dependent or older relative only if the mission scale supports it.
+
+The existing source note about a teenager forced to leave a love interest behind should be
+preserved exactly in spirit. That detail is load-bearing because it makes the extraction feel
+like wartime rupture rather than espionage choreography.
+
+================================================================================
+RECOMMENDED HVP PROFILE LANE
+================================================================================
+Best-fit lane:
+a British port-logistics / maritime-intelligence liaison, consular security specialist,
+or Atlantic contingency planner who was in Boston on legitimate prewar business or embedded
+liaison work when the occupation closed around the city.
+
+Why this works:
+- ties naturally into Britain’s wider Atlantic / blockade concerns
+- connects cleanly to the Boston harbor logistics thread
+- feels valuable enough to justify risk without making the target a cartoon super-spy
+- allows the character to have meaningful but bounded knowledge rather than world-breaking lore
+
+Preferred rule:
+the HVP is useful because of systems knowledge, routing awareness, contacts, and institutional
+memory — not because they personally know the whole conspiracy.
+
+================================================================================
+HUMAN COMPLICATION LANE
+================================================================================
+This mission only works at full strength if the extraction package does not behave like a
+prepared evacuation unit.
+
+Required complications:
+- someone does not want to leave immediately
+- someone wants to bring too much
+- someone wants to say goodbye to someone they cannot safely contact
+- someone is trying to preserve one last piece of ordinary life under impossible conditions
+- the team’s schedule is tightened by those choices, not destroyed by them
+
+Most important protected complication:
+the teenager’s American tie must feel real and small-scale — not melodramatic, not a speech.
+A text unsent. A doorway looked at too long. A name written somewhere. A refusal to take off a
+ring, bracelet, hoodie, or school item because leaving would otherwise become emotionally real.
+
+================================================================================
+MISSION PLACEMENT RECOMMENDATION
+================================================================================
+ACT / CAMPAIGN PLACEMENT
+Late Act II or early Act III.
+
+Why this window works:
+- early enough that the British presence still feels covert and selective
+- late enough that Romeo has already met the SAS team and will go through the wall for them
+- before the harbor strike if you want the British lane to first prove human necessity,
+  or after the harbor strike if you want to show their capability broadening from cargo to people
+
+Preferred structural read:
+this is the first British mission where Romeo fully understands what the British are carrying
+in Boston besides explosives and plans.
+
+================================================================================
+MISSION THESIS
+================================================================================
+The Hostage / HVP Extraction mission should feel like this:
+a professional extraction built around people who are just human enough to make the plan worse.
+
+That is the point.
+The mission is not about whether the SAS can do the job.
+It is about what the job becomes once the package turns out to contain a family and a life,
+not a briefcase.
+
+================================================================================
+PRIMARY TEAM ROLES
+================================================================================
+ROMEO
+- player-facing ground combat anchor
+- local resistance access, route flexibility, and neighborhood legitimacy
+- handles dynamic adaptation when the plan bends under human delay or enemy compression
+- provides Boston ownership; this is not a British-only action in an American city
+
+MACE / SAS
+- on-scene lead
+- final say when timing, risk, and humanity stop aligning
+- should read as experienced enough to be neither cruel nor indulgent
+
+PATCH / SAS
+- overwatch, countersurveillance, quiet range work, approach security
+- useful for trimming reaction elements before they become a street problem
+
+GHOST / SAS
+- interior access, stealth movement, quiet takedowns, stairwells / utility shafts / service
+  corridors / alarm control / pattern reading
+- best fit for physically reaching the package undetected before the mission becomes kinetic
+
+SBS SUPPORT
+Use lightly.
+If SBS presence is needed, keep it to insertion / exfil support, shoreline route management,
+or the maritime handoff rather than turning the mission into a blended-team spectacle.
+This should remain predominantly an SAS mission lane.
+
+ELENA COSTA OPTION
+Use selectively and only if it strengthens Boston ownership without overcrowding the mission.
+Best use is local route authority or neighborhood realism check, not permanent tagalong role.
+
+================================================================================
+MISSION FORM RECOMMENDATION
+================================================================================
+FOUR-PHASE STRUCTURE
+
+PHASE 1 — FIND THE WINDOW
+Romeo and the SAS team move through occupied Boston toward the hold site.
+The opening should be tense, observational, and exact.
+This phase should establish:
+- why the package cannot simply be called out and moved
+- occupation patrol patterns and surveillance pressure
+- the team’s professionalism and shorthand
+- Romeo’s growing comfort operating alongside them
+
+PHASE 2 — THE PACKAGE IS PEOPLE
+The team reaches the hold site.
+This is where the mission becomes itself.
+The player learns:
+- the package includes family, not just a target
+- someone is reluctant, resistant, frozen, or trying to delay
+- the teenager’s unresolved American tie is present
+- departure is now emotionally real and therefore slower than planned
+
+This phase should be quiet and uncomfortable, not theatrical.
+
+PHASE 3 — THE CITY STARTS CLOSING
+The exfil begins and the occupation picture tightens.
+Possible triggers:
+- patrol route shifts
+- a missed check-in by a sentry the team quietly removed
+- local collaborator movement
+- surveillance blind spot closes earlier than expected
+- the family’s hesitation burns more clock than the team can afford
+
+This is the phase where stealth begins to fray and Romeo’s adaptable resistance style becomes
+indispensable.
+
+PHASE 4 — LAST LEG TO WATER / SAFE HANDOFF
+The team reaches a shoreline, service quay, drainage edge, flood channel, marina ruin,
+or preselected covert pickup point.
+This final movement should be short, cold, and loaded.
+The extraction succeeds, but not in a way that feels triumphant.
+Someone leaves. Someone stays. Someone almost says something and does not.
+
+================================================================================
+ENVIRONMENT / LOCATION RECOMMENDATION
+================================================================================
+Best hold-site lane:
+occupied residential or mixed-use Boston neighborhood with enough density for concealment but
+not so much spectacle that the mission loses intimacy.
+
+Strong location flavors:
+- Brookline / Brighton edge if you want civilian domesticity under pressure
+- harbor-adjacent worker housing if you want cleaner integration with maritime exfil logic
+- a half-dead academic / consular / institutional pocket if you want the HVP’s presence to
+  feel prewar-plausible
+
+Recommended hold-site type:
+borrowed apartment, rectory annex, shuttered clinic apartment, caretaker’s flat above a dead
+commercial ground floor, or service-level hide in a partially abandoned civic building.
+
+Avoid:
+turning the hold site into a huge safehouse compound or rebel HQ. The right read is temporary,
+strained concealment.
+
+================================================================================
+GAMEPLAY IDENTITY
+================================================================================
+This mission should not play like a large assault.
+Its gameplay identity is:
+- compressed stealth
+- slow civilian movement under pressure
+- route management
+- selective violence
+- exfil tension
+
+Recommended gameplay tools:
+- limited suppressed engagements
+- hold / wait / move sequencing with civilians
+- brief carry / assist / shepherd interactions
+- one or two short but ugly close-quarter breaks when concealment fails
+- route choice or micro-decision moments that feel local and improvised rather than menu-driven
+
+Do not overbuild escort gimmicks.
+The emotional pressure should come from pacing and vulnerability, not from awkward AI babysitting.
+
+================================================================================
+WHAT MAKES THE MISSION DIFFERENT FROM THE WHEELCHAIR EXFIL SIDE QUEST
+================================================================================
+The already-flagged wheelchair civilian exfil side mission should stay distinct.
+
+This HVP mission is:
+- British-priority
+- intelligence-bearing
+- professionally organized
+- strategically motivated
+
+The wheelchair exfil is:
+- more openly humanitarian
+- less institutionally central
+- more Boston-side in moral register
+- better as optional or semi-optional collateral proof of allied decency and local cost
+
+Do not merge them.
+They should rhyme, not collapse into each other.
+
+================================================================================
+EMOTIONAL REGISTER
+================================================================================
+The tone should be restrained, not sentimental.
+
+Key emotional notes:
+- nobody should monologue about sacrifice
+- the family should not become hysterical plot furniture
+- Mace should not become a cold bastard just to create drama
+- Romeo should observe more than he comments
+- the pain point is not whether leaving is good; it is that leaving is final in a way none of
+  them can fully process in the moment
+
+Best mission-end feeling:
+success with emotional abrasion.
+
+================================================================================
+ROMEO / MACE DYNAMIC VALUE
+================================================================================
+This mission is one of the best places to deepen the Romeo / Mace relationship.
+
+Recommended read:
+- Romeo sees Mace as exact, steady, less romantic than American operators of similar type
+- Mace sees Romeo as fast, useful, and more politically entangled with the ground than he first appeared
+- by mission end, each has seen the other in the kind of pressure that matters
+
+This does not need speeches.
+One short post-handoff exchange is enough.
+
+================================================================================
+CONSEQUENCE LOGIC
+================================================================================
+If the mission succeeds cleanly:
+- British trust in Romeo increases
+- the SAS team becomes more willing to expose Romeo to deeper mission layers
+- later British support feels earned relationally, not just structurally
+
+If the mission succeeds messily:
+- this is still probably the best tonal outcome
+- some compromise, injury, burned route, or local cost can be useful
+- success should not mean “no consequences”
+
+Recommended standing rule:
+the mission should succeed canonically, but not frictionlessly.
+
+================================================================================
+LINK TO BROADER BOSTON ARC
+================================================================================
+This mission supports the Boston campaign in five ways:
+- proves the British presence has concrete purpose
+- strengthens the Romeo / British trust layer
+- widens Boston beyond “just combat” into family rupture and extraction politics
+- reinforces that the occupation is also fighting for people, not only territory
+- prepares the player to accept later British widening as something built on prior risk
+
+It also supports the Who Dares Wins logic from the opposite end:
+Who Dares Wins explains why Britain can still project selective force.
+This mission shows what that selective force is actually for when it arrives.
+
+================================================================================
+DO NOTS / DRIFT CONTROL
+================================================================================
+Do not turn the HVP into a conspiracy dump machine.
+Do not turn the family into dead weight stereotypes.
+Do not let the mission become a giant firefight that happens to start with civilians.
+Do not resolve the teenager’s American tie in a dramatic reunion scene.
+Do not let the British appear as if they can casually evacuate whoever they like from Boston.
+
+The mission should feel difficult because extraction is rare, selective, and costly.
+
+================================================================================
+CLEAN LOCK RECOMMENDATION
+================================================================================
+Lock the Boston Hostage / HVP Extraction mission as a restrained SAS-led covert urban extraction
+of a British-sensitive family package whose value is both strategic and human. The core
+complication is that the target is not a neat VIP but a family with American ties and unresolved
+attachments, making departure slower, sadder, and tactically worse. Romeo’s role is not to
+watch British operators do their job, but to make the mission possible on Boston ground when the
+plan begins to deform under real people.
+
+================================================================================
+OPEN FLAGS LEFT INTENTIONALLY OPEN
+================================================================================
+FLAG 01: Final mission title — LEAVE TAKING recommended, not yet globally locked
+FLAG 02: Exact HVP profession / institutional lane — maritime-intel / consular-security /
+         contingency-planning lanes remain open
+FLAG 03: Exact Boston district and hold-site type — several strong options, not yet fixed
+FLAG 04: Whether Elena appears directly in-mission — useful but not required
+FLAG 05: Exact exfil platform — covert boat / shoreline pickup / drainage-channel handoff /
+         other maritime extraction method still open
+FLAG 06: Specific civilian family composition and names — not yet developed
+FLAG 07: Exact downstream consequence in later British missions — trust increase is implied,
+         explicit callback placement still open
+
+================================================================================
+END OF PAGE
+================================================================================

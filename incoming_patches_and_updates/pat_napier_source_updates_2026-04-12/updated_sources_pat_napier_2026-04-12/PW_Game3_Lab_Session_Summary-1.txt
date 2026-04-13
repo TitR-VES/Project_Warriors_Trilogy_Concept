@@ -1,0 +1,540 @@
+PROJECT WARRIORS — GAME 3 LAB THREAD
+SESSION DEVELOPMENT SUMMARY
+For cross-thread reference and project knowledge upload
+============================================================
+
+This document summarizes all concepts, characters, plot threads, and structural decisions
+developed in the Game 3 Lab thread. Items are flagged as CONFIRMED, PARKED, or SPECULATIVE
+where relevant. Nothing here is fully canonical until locked in the Narrative Development thread.
+
+============================================================
+SECTION 1: CHINA STRATEGIC ARCHITECTURE
+============================================================
+
+CONFIRMED — China's Role Across the Trilogy
+
+China's silence following Crodyn's false-flag accusation is explained by active consolidation,
+not innocence. They did not orchestrate Riptide Red. They read it correctly while everyone
+else was still inside it, let the conspiracy run, quietly harvested intelligence access through
+the chaos, and executed their own strategy at the moment of maximum Western vulnerability.
+This makes China a fundamentally different kind of adversary from Russia or the domestic
+conspirators — patient, structural, and opportunistic rather than ideologically driven or
+emotionally reactive.
+
+China's strategic actions during and after the PANDORA attacks:
+- Annexed Taiwan, seizing control of strategic chip foundry infrastructure and monopolizing
+  access to advanced semiconductor manufacturing
+- Moved on Pine Gap (Australia) to neutralize the signals intelligence and satellite relay
+  facility — this is the primary strategic rationale for the Australian military operation
+- Attacked the Torrejón de Ardoz AEGIS facility using unmarked operators (previously attributed
+  to Russia — now confirmed as Chinese, change to be implemented in Game 2 Ducky campaign)
+- Supported Russian operations against AEGIS and other Western infrastructure
+- Made moves in the Middle East and South Asia during the window of Western vulnerability
+- Exploited persistent access to NATO and AEGIS operational infrastructure data, acquired
+  through a combination of intelligence operations, theft from Russian intelligence, and
+  long-running MSS technical penetration operations
+
+CONFIRMED — The Supply Chain Ceiling
+
+China's Taiwan annexation and chip foundry monopoly does not result in an unrecoverable
+situation for the West, but it severely constrains the pace of recovery. The US and Europe
+can manufacture chips and theoretically rebuild AEGIS and defensive infrastructure, but not
+fast enough and not under active wartime conditions. Europe's only precision lithography
+machine (the ASML facility in the Netherlands, already seeded in Ducky's Game 2 campaign)
+is the single most critical bottleneck in any Western recovery effort. The dramatic premise
+of Game 3 is not "can they rebuild at all" but "can they buy enough time and breathing room
+to rebuild before the window closes permanently."
+
+CONFIRMED — The False Flag Consumed by a Bigger Conspiracy
+
+Riptide Red was a controlled domestic coup. Foreign partners agreed to a show-of-force
+invasion sufficient to justify Crodyn's domestic emergency framing, then withdraw once his
+unconstitutional third term was secured. What the conspirators failed to account for was
+that prior corruption had gutted FEMA and domestic response infrastructure, making the
+PANDORA attacks hit harder and spread further than modeled. Crodyn, cut off by the
+communications failure and operating in a delusional bunker mentality, believed he was
+consolidating power. His partners, watching from outside the chaos, saw weakness and
+opportunity and reneged on the withdrawal agreement. This is the structural hinge between
+Games 1 and 2. China's separate agenda and Russia's opportunism fully detached from the
+original conspiracy architecture at this moment. The false flag worked and failed
+simultaneously — it achieved Crodyn's domestic goals but triggered a real war nobody in
+the Riptide Red circle actually wanted.
+
+When Crodyn realized the deal was dead, he turned on Goldberg. Goldberg, recognizing that
+a panicking Crodyn made him the most dangerous variable in the system, made a preemptive
+move: surrender on a trivial classified information charge, take a lenient plea, and
+disappear through Coleman Federal Prison before Crodyn could have him killed or genuinely
+exposed. The fake death via the Bisutri operation gives Goldberg official nonexistence —
+making him simultaneously untouchable and irrelevant to the powers that would otherwise
+pursue him.
+
+CONFIRMED — Seeding Requirements (China)
+
+Game 1: A PYTHIA anomaly flag — Jaeger notes that Chinese signals intelligence went
+unusually quiet immediately after the PANDORA attacks. Not an accusation. Just an anomaly
+that gets filed away and only makes sense in retrospect. This is the minimum viable China
+seeding for the first game.
+
+Game 2: The Torrejón mission pivot (unmarked Chinese operators replacing Russian attribution).
+Wei Junlong's two indirect appearances (see Section 2). The Taiwan chip foundry consequence
+made explicit somewhere in Ducky's storyline. The ASML Netherlands facility as a load-bearing
+mission asset connecting to the supply chain thread.
+
+PROTECTED DRAMATIC ASSET — The scene in which a character (Goldberg as the natural voice)
+articulates the false-flag-consumed-by-a-bigger-conspiracy irony. The moment where someone
+who was inside the conspiracy acknowledges with bitter clarity that they built the door that
+let in something they could not control. This scene should be protected and placed carefully —
+probably Spook's Game 2 or Game 3 campaign, after sufficient player understanding has
+accumulated. Do not deploy early.
+
+============================================================
+SECTION 2: WEI JUNLONG — CHARACTER PROFILE (WORKING DRAFT)
+============================================================
+
+STATUS: First draft confirmed. Not yet fully canonical. Subject to revision.
+
+Name: Wei Junlong (魏俊龙)
+Cover Identity: Jonathan Wei, Senior Regional Director, GenCorp Asia-Pacific
+  Infrastructure Division, Singapore
+Agency: MSS Technical Reconnaissance Bureau, Third Department
+Internal Designation: PAVILION
+
+Physical Profile:
+Male. Early to mid forties. Lean, composed bearing — stillness that reads as either
+patience or danger depending on context. Well-dressed without ostentation. Looks entirely
+at home in a boardroom, a diplomatic reception, or the back of a government vehicle.
+No visible indicators of field background. Deliberate.
+
+Background:
+Born Chengdu, Sichuan Province, 1983. Father: PLA signals engineer. Mother: university
+lecturer in international law. Educated at Peking University (computer science and
+international relations), postgraduate at University of Edinburgh. English is native-register
+with a faint Scottish cadence he has never entirely shed and occasionally deploys deliberately
+to put Westerners at ease. Recruited by MSS Technical Reconnaissance Bureau at 26 following
+a brief career at a state-affiliated telecommunications company (MSS front in practice).
+Cover as Jonathan Wei constructed over more than a decade. Area of expertise: the
+intersection of commercial data infrastructure and Western defense communications architecture.
+
+Function in Story:
+Wei is the human face of China's patient, structural approach to the conflict. Not a soldier.
+Not an ideologue. A systems thinker who has spent fifteen years mapping Western
+vulnerabilities from inside Western institutions. Appears in Spook's campaign and Ducky's
+campaign from different angles — neither recognizes him as a primary target until Game 3.
+
+Moral Register:
+Morally complex professional. Serves China's interests with genuine competence and without
+visible crisis of conscience about most of what he does. Understands the consequences of
+what China has set in motion — that a world structurally dependent on a single power's
+goodwill for technological survival tends toward one historically predictable outcome. Has
+concluded this is not his problem to solve. There is one fracture line: a long-standing
+professional relationship with a Taiwanese semiconductor engineer (former Edinburgh
+colleague, now at TSMC) whose situation after the annexation is something Wei does not
+discuss and visibly does not want discussed. Whether this fracture opens into something
+actionable is a Game 3 question.
+
+PROTECTED STRUCTURAL ASSET — The Taiwanese engineer is the likely architect of the
+TETHERBREAK credential kill switch. Their foundry/firmware knowledge makes them the
+person who can reverse-engineer PANDORA's persistence vulnerability. Wei's personal
+fracture and the technical resolution of PANDORA may be the same thread. Treat as
+load-bearing and do not resolve casually.
+
+Voice and Manner:
+Measured. Precise. Genuinely curious about people in the way a very good intelligence
+officer is curious — not warmly, but attentively. Rarely volunteers information but responds
+to direct questions with a candor that feels surprising and is probably calculated. Does not
+threaten. Does not posture. When he tells you something will happen, it is because he has
+already ensured it will. In conversation with Spook he is the first antagonist-adjacent
+character who treats Spook as a genuine peer rather than an obstacle or asset.
+
+PROTECTED QUOTE (Wei Junlong):
+"The Russians wanted an empire. The Chinese wanted the world."
+— Deploy late Game 3, after the player has accumulated sufficient understanding of who
+Wei is and what China has done. Either in direct conversation with Spook or as a recovered
+private document. Never deploy early. The line must be earned.
+
+Seeding Schedule (Confirmed):
+- Game 1: Name only. One mention in a corporate filing or conference attendee list in a
+  collectible. Nothing underlined.
+- Game 2: Two appearances. (1) A flagged travel anomaly in Jaeger's PYTHIA report — Wei's
+  pattern in the weeks before PANDORA placed him in proximity to three AEGIS-adjacent
+  facilities under cover of GenCorp site inspections. Nothing actionable; just a pattern
+  that doesn't fit. (2) Background GenCorp presence in the Abu Dhabi mission — possibly
+  glimpsed, possibly a voice on an intercepted call, never identified by name in that moment.
+- Game 3: Full presence. The distance closes.
+
+============================================================
+SECTION 3: GAME 3 CAMPAIGN CONCEPTS — EARLY SCRATCHPAD
+============================================================
+
+All items in this section are early-stage concepts. None are fully developed or canonically
+locked. They are held here for future development passes.
+
+--- 3A: OCCUPIED BOSTON CAMPAIGN ---
+
+STATUS: Parked for development.
+
+One of the Game 3 campaigns will be set in occupied Boston. Urban warfare in dense
+historical terrain — architecturally and culturally distinct from Harlan County, Kentucky,
+providing immediate tonal contrast with Romeo's Game 2 American Freedom campaign. Boston
+offers colonial-era underground infrastructure, a major port, significant symbolic resonance
+as a city with its own revolutionary history, and the deliberate thematic inversion of
+British forces in Boston now reimagined through a Russian occupation lens (see UK subplot
+note in Section 3F below). The West Coast was the original amphibious invasion beachhead.
+Boston represents a different theater — the Eastern seaboard occupation front.
+
+--- 3B: NEW AMERICA ACCELERATIONIST FACTION ---
+
+STATUS: Speculative. Parked for development.
+
+A far-right domestic extremist faction drawing from Three Percenters, Boogaloo Boys, and
+accelerationist movements. Initially ambiguous during the Russian occupation arc — possible
+grudging co-belligerents against the occupation before revealing themselves as something
+more dangerous. Their ideology: the invasion and collapse of federal authority is not a
+catastrophe to be reversed but an opportunity — a controlled demolition of the old order
+to clear ground for something new. They don't want to liberate America. They want to reset it.
+
+Nuclear escalation thread (speculative):
+Two possible expressions, both undeveloped:
+(1) Provoke a nuclear exchange — engineer a situation forcing one of the warring powers to
+launch, triggering civilizational collapse they believe they can survive and inherit.
+(2) Self-detonation — gain access to US nuclear arsenal assets (possibly through
+TETHERBREAK-adjacent infrastructure compromise or corruption of surviving command-and-control
+elements) and trigger a limited domestic detonation. Logic: if you can't trust the system
+to die cleanly, you kill it yourself.
+
+Dale Pruett connection: Speculative and unconfirmed. Possible shapes include: Dale has
+pre-occupation history with the movement without Romeo's knowledge; Dale's network
+unknowingly overlaps with cells that have been infiltrated or co-opted; or Dale becomes a
+tragic figure pulled between AFC liberation goals and accelerationist nihilism.
+This connection is deliberately left unresolved for future development.
+
+Thematic note:
+Game 1 enemy: the deep state and its foreign enablers.
+Game 2 enemy: foreign occupation and institutional betrayal.
+Game 3 enemy (potential): the idea that America should be saved at all.
+
+--- 3C: QUEER CHARACTER IN AMERICAN FREEDOM CAMPAIGN ---
+
+STATUS: Resolved. Character locked as Patrick "Pat" Napier.
+
+Romeo's American Freedom campaign now includes Patrick "Pat" Napier, a trans
+man and former U.S. Army enlisted 68W combat medic (one enlistment, former
+SPC/E-4) back in the Calloway area as a civilian when the occupation begins.
+Pat functions first as a capable adult, field medic, sustainment specialist,
+and secondary rifleman inside Romeo's early resistance cell. His transness is
+part of his history of institutional betrayal under tightening Crodyn-era
+policy, but it is not his only or even primary scene-to-scene function.
+
+The Kentucky setting remains load-bearing: Pat is written as someone who
+already understands how visibility, privacy, and trust work in a small place.
+That local texture matters. The occupation adds specific additional danger, but
+the character should not be reduced to victimization. The betrayal axis is
+primarily institutional/state/military rather than familial; his parents remain
+supportive, and Renata Voss's support is best shown through natural adult
+respect and trust rather than speeches.
+
+Operational role in campaign:
+- early resistance-cell casualty stabilizer / field medic / sustainment anchor
+- secondary rifleman who creates space and buys treatment time
+- adult counterweight to younger, more impulsive cell energy, especially Cody
+
+--- 3D: SORAYA PROBST ---
+
+
+STATUS: Concept confirmed. Character profile sketched.
+
+Name: Soraya Probst
+Background: First-generation German-Iranian. Father German (hence surname). Mother Iranian.
+Placement: Ducky-adjacent character — intel team, AEGIS support, or similar non-squad role.
+Game placement: Game 2 or Game 3 (undecided).
+
+Function: Soraya is a lens for examining the cultural and geopolitical tensions surrounding
+Iran's role as a Russian-aligned invasion force, and the overlapping real-world tensions
+between Western and Islamic-world identities. She is not a commentary or a resolution — she
+is a vessel through which these tensions become human and specific rather than abstract.
+
+Character notes:
+A German father and Iranian mother means Soraya grew up watching her mother navigate a
+Western European society with its own complicated relationship to Iranian and broader Muslim
+immigrant communities. She has been code-switching and mediating between worlds since
+childhood as simple survival. Her relationship to Iran is matrilineal — her mother's country,
+her mother's culture, potentially her mother's religion. That tends to produce a more
+emotionally charged connection. Her German surname is partly what opened institutional doors
+for her — a fact she is aware of and has complicated feelings about. The story does not need
+to resolve the tensions she embodies. It needs to let them be present and real.
+
+--- 3E: RUSSIAN-AMERICAN FAMILY (BOSTON) ---
+
+STATUS: Concept confirmed. Character(s) undeveloped.
+
+One Russian-American family — not a community portrait, one family — introduced in the
+occupied Boston campaign. Maximum three generations if possible, with enough internal
+difference of perspective to carry the lens function without becoming a symposium.
+
+Suggested generational structure:
+- Elderly first-generation figure who left the Soviet Union and has built a life here for
+  decades — the invasion forces a reckoning with everything that act of emigrating meant.
+- American-born middle generation — culturally hybrid in the way second-generation immigrants
+  are, fluent in both worlds, fully belonging to neither.
+- Third generation — essentially just American, experiencing this as a purely American crisis
+  until their family's origin makes them a target of suspicion from their own neighbors.
+
+Boston's Brighton neighborhood has historical Russian Jewish immigrant community presence —
+provides authentic setting texture without invention.
+
+The central dramatic question is not whether they support the invasion (most of them almost
+certainly do not). It is what the invasion does to how their American neighbors look at them,
+how they look at themselves, and whether any of them have family still in Russia who are
+either complicit in the invasion or themselves victims of conscription into something they
+didn't choose.
+
+--- 3F: UKRAINIAN CHARACTERS ---
+
+STATUS: Concept confirmed. Undeveloped. To be returned to during Game 1/2 campaign
+development passes.
+
+Ukrainian characters to be introduced — placement undecided between Game 1, Game 2, or both.
+Primary placement instinct: Game 2, Ducky's campaign, where Ukrainian military and
+intelligence cooperation with NATO is most plausible and historically grounded. Game 1 could
+carry a lighter touch — brief appearance in a Eastern European mission context.
+
+Function: Lens, not commentary. Ukraine is structurally present in the story already given
+the geopolitical context of Russian expansionism. Ukrainian characters don't arrive as a
+political statement — they arrive as people who have been living inside this reality longer
+than anyone else in the story.
+
+The Ukrainian innovation angle — drone warfare, electronic warfare, urban defense, distributed
+resistance command — is directly relevant to existing gameplay and tactical themes and gives
+Ukrainian characters specific professional competence that integrates naturally.
+
+The polarization note: Ukrainian society contains real internal tensions. Treating Ukraine as
+a monolithic heroic symbol would be as reductive as any other simplification. The lens
+approach handles this. Handle with more care than other threads given the proximity of the
+fictional world to ongoing real-world events. Return to develop during campaign detail passes.
+
+--- 3G: UK SUBPLOT / BOSTON (LT. VICKERS) ---
+
+STATUS: Previously flagged. Cross-referencing here for completeness.
+
+Lt. Dorothy Anne Vickers (inspired in bearing by Lt. Lilly-Mae Fisher, fully fictionalized).
+SAS, SBS, Royal Marines, potentially Royal Navy. British forces in occupied Boston — the
+revolutionary history inversion (British in Boston) as deliberate thematic layer. Tea Party-
+inspired harbor mission flagged for development. Optional side quest: escorting three stranded
+foreign civilians (couple in late thirties plus friend in mid-forties who uses a wheelchair)
+to SAS boat for exfiltration — wheelchair-pushing mechanic as stealth challenge. Characters
+contribute something narratively specific; dialogue carries emotional weight.
+
+============================================================
+SECTION 4: SEA SPEAR EXPANSION
+============================================================
+
+STATUS: Concept confirmed. Structure locked. Timeline placement undecided.
+
+Title: Sea Spear (confirmed — Sea Spire is retired)
+Playable Unit: Nereid Black — Grim (primary), Rime, Undertow, Lantern
+Setting: Baltic front (primary operational theater)
+Relationship to Main Games: Expansion, separate from main trilogy campaigns
+
+Structural Framework (Confirmed):
+Sea Spear covers events the main campaigns don't show — gap-filling rather than retreading
+known ground. Partial, significant overlaps with Ducky's campaign primarily, possibly Romeo's
+depending on timeline placement. Those overlaps serve a specific purpose: giving the player
+a new angle on events they already experienced, widening the geopolitical picture, and
+potentially seeding retroactive intelligence pointing toward things the main campaigns only
+partially revealed.
+
+The retroactive intelligence seeding function is particularly valuable — Sea Spear could
+make a second playthrough of the main games feel different because the player now recognizes
+things they lacked context for the first time through. Kaliningrad harbor is already a
+confirmed setting element from the Hull Breach mission, giving Sea Spear a natural geographic
+anchor.
+
+Timeline placement: UNDECIDED. Could sit before the main Game 2 events, run parallel to
+them, or occupy a window between Games 2 and 3. To be determined when the main campaign
+structures of Games 2 and 3 are more fully developed — the right window will likely become
+obvious at that point.
+
+============================================================
+SECTION 5: ISRAELI SUBPLOT ARCHITECTURE
+============================================================
+
+STATUS: Framework confirmed. Characters sketched. All undeveloped beyond framework level.
+To be returned to for full development.
+
+--- 5A: EXISTING CANON CONNECTIONS (from Game 1 notes) ---
+
+The following are already established in the Game 1 campaign notes and are load-bearing
+for the Israeli subplot:
+
+BASTION INFOTECH: An Israeli defense-oriented software company confirmed as a front for
+a Mossad and CIA black op run as part of the PANDORA plan. The shipment Spook's team
+tracks in Game 1 is contracted in Bastion Infotech's name. This is the primary existing
+Israeli institutional fingerprint on the PANDORA conspiracy.
+
+ELIEZER BARUCH YADAT: Former Israeli PM, now working for Atlas Solutions (Singapore-based
+global PMC, recently contracted to run operations security for multiple GenCorp sites
+worldwide). Named in Game 1 collectible intel as a key connection to TETHERBREAK. Spook's
+team infiltrates the Montoya Estate gala specifically to gather intel on connections between
+Brodie van Horne, Reginald Stockbridge, and Yadat. He is already one of the most deeply
+embedded figures in the entire conspiracy architecture — touching TETHERBREAK, the Shadow
+Underground, GenCorp, and Atlas Solutions simultaneously.
+
+YITZHAK BEN-TOV: Sitting Israeli PM in the game world. Netanyahu analogue. Already noted
+in the canon.
+
+PALISADE SYSTEMS: US defense contractor with confirmed ties to Israel. Listed recipient
+of drone countermeasure technology from Bastion Infotech.
+
+--- 5B: POST-PANDORA ISRAEL (CONFIRMED FRAMEWORK) ---
+
+Israel partially survived the PANDORA infrastructure blackout because they had enough
+foreknowledge — obtained through Yadat's Bastion Infotech connection and his pipeline to
+Ben-Tov's government — to develop partial countermeasures before the attacks hit. Israel
+pursues its own survival agenda exclusively post-PANDORA. No obligation to the US, which
+is assessed as having handed itself to its enemies through conspiracy and institutional rot.
+Previous military relationships and transactions do not change the calculus.
+
+Chinese moves in the Middle East place Israeli interests in direct conflict with Chinese
+strategic expansion — not ideologically, just geographically and materially. Israel doesn't
+need to hate China. They just need China to stop operating in their backyard.
+
+--- 5C: THE THREE ISRAELI FIGURES (CONFIRMED FRAMEWORK) ---
+
+ELIEZER BARUCH YADAT — Former PM, Atlas Solutions. Antagonistic role in the conspiracy
+architecture. Not a state actor — a private power player whose Israeli identity is part of
+his history but whose current loyalties are to the network he operates within. The
+conspiracy's Israeli face rather than Israel's face. His relationship to Bastion Infotech
+and TETHERBREAK is load-bearing. Whether Ben-Tov knows the full extent of Yadat's
+involvement or chooses not to examine it too closely is deliberately ambiguous.
+ATLAS SOLUTIONS + GENCORP OVERLAP WITH WEI JUNLONG: Yadat's Atlas Solutions has GenCorp
+security contracts. Wei Junlong operates through GenCorp as Jonathan Wei. These two figures
+are therefore operating in the same layer. Whether they have had direct contact — and what
+the nature of that contact is — is a significant potential Game 3 revelation.
+
+YITZHAK BEN-TOV — Sitting Israeli PM. Legitimate state actor making calculated survival
+decisions. Not entirely legitimate in practice — using the existential crisis as political
+cover, forcing people to look the other way on due process and political integrity because
+survival is a more urgent concern. Ben-Tov and Yadat are connected transactionally: Yadat
+has been feeding Ben-Tov select intelligence (including enough about PANDORA to enable
+partial countermeasures) through the Atlas/Bastion pipeline. Ben-Tov knows Yadat is a
+source. How much he knows about the full extent of Yadat's network is the load-bearing
+ambiguity of his character. He has a stake in whether the player succeeds or fails in
+exposing Yadat. His placement in Game 2 or Game 3 is undecided.
+
+ANONYMOUS ISRAELI INTELLIGENCE LIAISON — Distinct from both Yadat and Ben-Tov. A working
+intelligence officer, probably younger generation, operating entirely off books. Passes
+Chinese military intelligence to player-adjacent characters because it serves Israeli
+interests for someone capable of hurting China to have it. Motivated purely by strategic
+calculation, not sentiment or ideology. Institutional background: Mossad most likely,
+Unit 8200 possible depending on specific function. Whether they act with quiet unofficial
+sanction from Ben-Tov's government or are genuinely rogue is deliberately ambiguous.
+Identity anonymous to the player initially — revealed gradually. Narrative entry point
+is through the Bastion Infotech thread. The load-bearing moral tension of their arc is
+the question of what they knew about what Bastion Infotech was actually used for.
+Placement and timing undecided.
+
+--- 5D: THE SLOW REVEAL (CONFIRMED STRUCTURE) ---
+
+The player's accumulated understanding across Games 1-3 eventually reveals that Bastion
+Infotech, Atlas Solutions, and GenCorp are all nodes in the same network. The Israeli
+subplot isn't a separate thread grafted onto the main conspiracy — it was always inside it.
+Bastion Infotech was in the Game 1 canon from the beginning. Atlas Solutions personnel
+were at the Frankfurt warehouse. GenCorp runs through everything. The Israeli dimension
+was embedded in the story from the start. The revelation in Game 3 is not that Israel is
+connected. The revelation is that it was never not connected.
+
+============================================================
+SECTION 6: GAME 3 MISSION CONCEPTS
+============================================================
+
+--- 6A: SEATTLE PORT MISSION (SPOOK CAMPAIGN) ---
+
+STATUS: Early concept. Parked for development.
+
+Spook is sent to the Port of Seattle to interdict a ship loaded with explosives before
+it detonates in port — Beirut explosion scale and style as the tonal/destructive reference.
+Perpetrating faction undecided (Russian, North Korean, Chinese, or proxy). Currently floating
+without a narrative anchor in the Godkiller campaign structure. No confirmed crossover with
+other player campaigns. The West Coast was the original amphibious invasion beachhead in
+Game 1 — a Spook mission in Seattle carries the accumulated weight of what happened to
+that coastline across the first two games. The mission's eventual narrative framing should
+acknowledge this rather than ignore it.
+
+--- 6B: WEST COAST THEATER (UNRESOLVED) ---
+
+STATUS: Gap acknowledged. Resolution undecided.
+
+California invasion partially visible in Game 1. Game 2 implies ongoing West Coast fighting
+without detailed treatment. This gap is either material for a dedicated DLC covering the
+West Coast conventional military resistance theater, or integration into a Game 3 campaign
+(possibly Spook's given the Seattle concept, or a fourth campaign thread if Game 3 expands).
+Deciding which of these it is will shape how much weight Seattle and the broader West Coast
+carry in Game 3. Return to when Game 3 campaign structure is more fully mapped.
+
+============================================================
+SECTION 7: CROSS-THREAD FLAGS AND CONTINUITY NOTES
+============================================================
+
+The following items require attention in other threads:
+
+NARRATIVE DEVELOPMENT THREAD:
+- Torrejón mission pivot: change Russian attribution to unmarked Chinese operators in
+  Game 2 Ducky campaign notes. Rationale: China consolidating, sees AEGIS as threat,
+  synergizing with Russian objectives rather than deploying own resources unnecessarily.
+- The false-flag-consumed-by-a-bigger-conspiracy irony scene (Goldberg voice) needs
+  placement decision. Protect and do not resolve casually.
+- Queer character in American Freedom: RESOLVED as Patrick "Pat" Napier —
+  former U.S. Army 68W combat medic embedded in Romeo's Calloway resistance
+  cell. Further work now belongs in character/loadout/mission passes, not
+  placement triage.
+- Soraya Probst: needs full character development pass when Game 2/3 campaign structure
+  is clearer.
+- Switchblade's scar/phrase detail: still pending development (pre-existing flag).
+
+TIMELINE & WORLDBUILDING THREAD:
+- China's consolidation window needs timeline mapping relative to PANDORA attacks and
+  the Game 1/2 bridge period.
+- The moment Crodyn's partners reneged on the withdrawal agreement — a few days after
+  the PANDORA attacks, before Game 2 opens — should be placed precisely on the timeline.
+- Israeli foreknowledge of PANDORA (via Bastion Infotech/Yadat pipeline to Ben-Tov):
+  needs timeline placement — how far in advance did Israel know enough to prepare?
+
+GAMEPLAY MECHANICS THREAD:
+- Three pinned mechanics still awaiting development: injury/healing system, hit zone
+  system, magazine retention/ammo management. (Pre-existing flag, not developed this session.)
+
+AUDIO/MUSIC THREAD:
+- Character promo clips pending — Switchblade first. (Pre-existing flag.)
+
+============================================================
+SECTION 8: PROTECTED ASSETS SUMMARY
+============================================================
+
+The following items are flagged as significant dramatic or structural assets that should
+not be resolved casually or deployed early:
+
+1. The false-flag-consumed-by-a-bigger-conspiracy irony scene (Goldberg voice) — place
+   carefully in Spook's Game 2 or Game 3 campaign after sufficient player understanding.
+
+2. Wei Junlong's defining quote: "The Russians wanted an empire. The Chinese wanted the
+   world." — deploy late Game 3 only, after the player knows who Wei is.
+
+3. The Taiwanese semiconductor engineer / TETHERBREAK kill switch connection — Wei's
+   personal fracture and the technical resolution of PANDORA may be the same thread.
+   Treat as load-bearing.
+
+4. The slow reveal that Bastion Infotech, Atlas Solutions, and GenCorp are all nodes in
+   the same network — this should land as a earned revelation, not an announced one.
+
+5. The anonymous Israeli intelligence liaison identity reveal — anonymous for a significant
+   stretch of the story; the reveal recontextualizes all intelligence provided up to that point.
+
+6. The moment Ben-Tov's complicity with Yadat becomes visible to the player — this
+   implicates the sitting Israeli government and gives Ben-Tov a stake in the player's
+   success or failure. Handle deliberately.
+
+============================================================
+END OF DOCUMENT
+Project Warriors — Game 3 Lab Thread Session Summary
+Cross-thread reference document
+============================================================

@@ -1,0 +1,413 @@
+PROJECT WARRIORS — SOURCE-READY REFERENCE PAGE
+Title: PW_LIFELINE_Persistent_Campaign_Consequences_Sheet_2026-04-13_rev1
+Date: 2026-04-13
+Version: rev1
+Thread lane: Who Dares Wins DLC development / Romeo Game 3 Boston arc
+Status: source-ready development page
+Related mission page: PW_Vickers_Corridor_CASEVAC_Route_Mission_Reference_Page_2026-04-13_rev1
+
+================================================================================
+PURPOSE
+================================================================================
+
+This page locks the persistent campaign-state consequences of LIFELINE, the first
+successful corridor-establishment / British CASEVAC-route mission in Boston.
+
+Its purpose is to make sure the mission does not behave like a one-night action
+sequence that leaves no mark on the wider campaign. LIFELINE must change Boston
+in ways the player can feel afterward through mission structure, support logic,
+environmental state, civilian behavior, enemy posture, and coalition confidence.
+
+The key design rule is simple:
+Boston should not feel liberated after LIFELINE.
+Boston should feel less alone after LIFELINE.
+
+
+================================================================================
+PRIMARY CONSEQUENCE LOCK
+================================================================================
+
+After LIFELINE, the player should understand that a late-game British-backed
+support artery now exists inside the city.
+
+This does NOT mean:
+- open, consequence-free movement across Boston
+- routine helicopter rescue on demand
+- a broad conventional military corridor under coalition dominance
+- the British taking over the campaign from Romeo and the local resistance
+
+It DOES mean:
+- there is now at least one validated British receiving / transfer concept inside
+  Boston that can be activated in selected later missions
+- wounded resistance personnel no longer automatically disappear into improvised
+  cellars, basements, and hopeless delays if the story and mission conditions
+  support movement to the British node
+- Romeo's campaign support logic has materially advanced, and the player should
+  feel that advancement without needing a systems lecture
+
+
+================================================================================
+CAMPAIGN-STATE SHIFT — HIGH LEVEL
+================================================================================
+
+Before LIFELINE:
+- resistance movement of wounded is slow, improvised, and often local-only
+- British support is credible but still partly abstract from the player's point
+  of view
+- Vickers is promising capability the player has not yet fully seen
+- survival in Boston still feels brutally narrow
+
+After LIFELINE:
+- the coalition has proven it can create and defend a usable extraction artery
+- British military competence is no longer just something Romeo is told about;
+  it has become a mission-facing reality
+- Vickers's authority now rests on demonstrated throughput and results
+- Boston still feels occupied, but the campaign's emotional register changes from
+  isolated endurance toward coordinated resistance with selective external depth
+
+
+================================================================================
+MECHANICAL / SUPPORT CONSEQUENCES
+================================================================================
+
+1) BRITISH CASEVAC AVAILABILITY UNLOCK
+
+LIFELINE is the proof mission behind late-game British CASEVAC availability in
+selected Boston missions.
+
+Lock:
+- British CASEVAC does not become universal after LIFELINE
+- it becomes conditionally available in missions where route security, distance,
+  timing, weather, and British presence make it plausible
+- future mission briefings can now refer to British receiving points, transfer
+  positions, or route windows without the player asking "since when?"
+
+Design effect:
+The player feels that coalition growth through newly available survivability
+options rather than through a cutscene announcing a faction unlock.
+
+
+2) BRITISH MILITARY POSITION AS SAFE-ZONE CONCEPT
+
+LIFELINE permanently establishes the visual and mechanical language of a British
+military position in Boston:
+- disciplined perimeter
+- practical triage capability
+- transfer staging under pressure
+- route markers, discipline, paperwork, actual continuity
+
+Once seen here, later missions may reuse this safe-zone concept with less setup.
+
+
+3) SUPPORT LANGUAGE NORMALIZATION
+
+Before LIFELINE, British support language in Romeo's arc is introductory.
+After LIFELINE, planning language can become more integrated and matter-of-fact:
+- "Route window opens in twelve"
+- "British node can take two more litter cases"
+- "Push him to the receiving site"
+- "Vickers says the lane is live"
+
+This matters because the campaign should sound different after the mission.
+The coalition is no longer theoretical.
+
+
+================================================================================
+MISSION-DESIGN CONSEQUENCES FOR LATER BOSTON OPERATIONS
+================================================================================
+
+1) MORE AGGRESSIVE PLAYER DECISION SPACE
+
+Once the player knows that a real receiving node exists, later missions can ask
+Romeo to take risks that would previously have been irresponsible.
+
+Examples:
+- hold a block longer because casualties can actually be moved
+- commit to a harder breach knowing a rearward transfer position exists
+- rescue a badly wounded NPC because there is now somewhere credible to send them
+- retain a more ambitious objective package because the mission no longer collapses
+  the moment someone important goes down
+
+This should not make the campaign easy.
+It should make it deeper.
+
+
+2) MULTI-STAGE OPERATIONS BECOME MORE PLAUSIBLE
+
+After LIFELINE, Boston missions can more credibly split into:
+- contact phase
+- transfer / stabilization phase
+- renewed push
+
+That structure was harder to justify earlier because the city lacked reliable
+late-game support depth.
+
+
+3) LARGER OBJECTIVE STACKS BECOME BELIEVABLE
+
+Missions after LIFELINE can support slightly denser objective loads because the
+campaign now has more back-end operational credibility.
+
+Not because the player got stronger in a gamey sense.
+Because the coalition can now sustain more complicated nights.
+
+
+================================================================================
+ENVIRONMENTAL CONSEQUENCES ON REVISIT
+================================================================================
+
+Revisited Boston spaces after LIFELINE should show evidence that the mission
+changed the city physically.
+
+Recommended recurring signs:
+- improvised route markers, chevrons, chalk symbols, low-light tape, or coded
+  corridor markings left by resistance / British coordination teams
+- drag marks, stretcher wear, spent medical packaging, discarded IV bags,
+  tourniquet wrappers, burned-out flares, traffic cones, sandbags, casualty tags
+- a once-chaotic rear building now visibly functioning as a transfer point, or as
+  the ghost of one after the window has closed
+- fresh breach work in walls, cut fencing, cleared alley clutter, moved vehicles,
+  broken concrete that shows a route was made and used
+- civilian spaces repurposed for disciplined emergency use rather than random
+  collapse alone
+
+Important rule:
+The city should not look cleaner after LIFELINE.
+It should look more organized in specific scars.
+
+
+================================================================================
+CIVILIAN / RESISTANCE CONSEQUENCES
+================================================================================
+
+1) CONFIDENCE SHIFTS, BUT ONLY PARTWAY
+
+Resistance morale should rise after LIFELINE, but not into triumph.
+The relevant shift is not "we are winning."
+It is:
+"If somebody gets hit, maybe they do not just die where they fall anymore."
+
+That is a huge emotional change and a small strategic one. Exactly right.
+
+
+2) CIVILIAN BEHAVIOR BECOMES MORE PURPOSEFUL IN CERTAIN POCKETS
+
+Selected civilian-facing spaces should show that news of the route has traveled:
+- people preparing rooms, blankets, water, and bandages because they now believe
+  handoff is possible
+- lookouts taking route discipline more seriously
+- local drivers or couriers volunteering for one dangerous run because the route
+  has proven it can work
+- fewer despair-coded background beats in the immediate corridor-adjacent districts
+  and more exhausted purposeful ones
+
+
+3) ELENA'S LOCAL AUTHORITY DEEPENS
+
+LIFELINE should strengthen Elena not because she gains rank, but because Vickers's
+system has now validated Elena's local knowledge as battle-winning.
+
+After LIFELINE:
+- more cells defer faster when Elena says a route is dead or usable
+- neighborhood fighters trust mixed British/AFC timing more because they have seen
+  it save lives
+- Elena's relationship with Vickers shifts from cautious coalition management to
+  earned professional reciprocity
+
+
+================================================================================
+ROMEO CONSEQUENCES
+================================================================================
+
+1) ROMEO'S TRUST THRESHOLD MOVES
+
+Before LIFELINE, Romeo can respect Vickers without fully internalizing what her
+layer means.
+After LIFELINE, he has seen her change a city-level survival problem into an
+operational system.
+
+Effect on Romeo:
+- he becomes more willing to plan around British support windows
+- he can still question British intent, timing, or priorities, but not their value
+- his campaign posture shifts slightly from local improviser forced to do
+  everything alone toward coalition field leader able to exploit allied depth
+
+
+2) ROMEO'S VOICE CAN QUIETLY CHANGE
+
+Later Romeo dialogue can carry a subtle shift from:
+- "Can they help?"
+toward:
+- "What can they hold?"
+- "How long is the lane live?"
+- "Can Vickers take them?"
+
+This is a writing consequence as much as a systems consequence.
+
+
+================================================================================
+VICKERS CONSEQUENCES
+================================================================================
+
+1) AUTHORITY THROUGH RESULTS
+
+After LIFELINE, Vickers no longer needs to persuade the player that she is load-
+bearing. The campaign should treat that as settled.
+
+Her later briefings can therefore become more compressed, more technical, and
+less introductory.
+
+
+2) HER PACKAGE IS NOW REAL TO THE PLAYER
+
+The Royal Marines / Royal Navy layer should feel different after the mission.
+Not larger in raw spectacle, but more believable.
+The player now knows what this package does:
+- open temporary arterial support
+- hold receiving points
+- provide disciplined rearward continuity under pressure
+- make Boston survivable in ways the resistance alone could not yet manage
+
+
+3) VICKERS / MACE HANDOFF BECOMES ORGANIC
+
+LIFELINE should reduce the narrative seam between the earlier SAS lane and the
+later Vickers phase. Mace no longer feels like Romeo's British contact while
+Vickers feels like a separate plot arrival. The player has now seen the two lanes
+function as parts of the same British intervention.
+
+
+================================================================================
+ENEMY CONSEQUENCES
+================================================================================
+
+This is critical. The occupation must learn from LIFELINE.
+If the enemy does not adapt, the mission cheapens the campaign.
+
+Recommended enemy response shifts:
+
+1) ROUTE-HUNTING BEHAVIOR
+- more active effort to identify transfer points, not just front-line cells
+- greater attention to service roads, loading lanes, rail-edge cuts, and rear-area
+  support traffic
+- occasional punitive shelling or drone attacks against suspected evacuation nodes
+
+2) COUNTER-CORRIDOR TACTICS
+- enemy attempts to seal lanes with wrecks, burning vehicles, mines, or MG teams
+- faster response to comms blackout and missing surveillance nodes in areas the
+  British are likely to use again
+- greater emphasis on collaborator or observer networks feeding route information
+
+3) PROPAGANDA / PSYCHOLOGICAL RESPONSE
+- occupation messaging may try to frame the British as using Boston civilians as
+  cover, or claim the corridor was a staged extraction for foreign assets only
+- this is useful because it shows the enemy understood the operation mattered
+
+LIFELINE should help the player.
+It should also make future route work harder.
+
+
+================================================================================
+MAP / DISTRICT CONSEQUENCES
+================================================================================
+
+Recommended persistent district-state changes in corridor-adjacent areas:
+- one district feels marginally more connected to the harbor side than before
+- another feels more threatened because the enemy is now searching for route logic
+- certain interior paths, breach holes, or fenced service cuts remain usable as
+  traversal options in later missions, though not always under safe conditions
+- one British-backed receiving structure may remain active only intermittently,
+  while another future site opens elsewhere using the same operational model
+
+The important rule is modular continuity:
+The exact same corridor need not stay open forever.
+But the city now knows what a corridor is.
+
+
+================================================================================
+HARBOR-ARC CONSEQUENCES
+================================================================================
+
+LIFELINE should quietly strengthen the later harbor arc and the Boston Harbor
+Strike logic in three ways:
+
+1) it proves British logistics are present, not abstract
+2) it proves the coalition can synchronize inland and shore-side timing
+3) it gives the player a lived sense that disrupting occupation supply and opening
+   extraction arteries are part of the same wider struggle over who can move what
+   through Boston
+
+This helps the harbor operations feel like escalation, not genre drift.
+
+
+================================================================================
+WHAT THE PLAYER SHOULD FEEL IN THE NEXT THREE MISSIONS
+================================================================================
+
+Mission immediately after LIFELINE:
+- relief mixed with caution
+- the coalition can now do something new, but everyone knows the enemy will react
+
+One mission later:
+- route logic begins to affect planning language, traversal choices, and casualty
+  expectations
+
+Two to three missions later:
+- the player no longer thinks of British CASEVAC as a surprise feature; it has
+  become part of how late Boston works
+
+That psychological normalization is the whole point.
+
+
+================================================================================
+REVISIT / BARK / RADIO CONSEQUENCE GUIDANCE
+================================================================================
+
+Recommended ambient lines after LIFELINE:
+- "British took three through last night. Still breathing."
+- "Do not bunch at the lane. They close it, you die there."
+- "Vickers's people marked the wall. Follow the second arrow, not the first."
+- "If he drops, we can move him now. We could not last week."
+- "They brought hot plasma. Actual hot plasma."
+- "They'll hit the route next. Count on it."
+
+Recommended radio effect:
+Net traffic becomes fractionally more procedural and less desperate whenever the
+British layer is in play. That tonal shift should be perceptible but understated.
+
+
+================================================================================
+WHAT MUST NOT HAPPEN
+================================================================================
+
+Do not let LIFELINE produce any of the following false readings:
+- Boston is basically won now
+- the British have solved the resistance's core problems
+- casualties no longer matter
+- Vickers can rescue anyone anywhere
+- the occupation's rear areas are now soft
+- coalition coordination is frictionless
+
+LIFELINE is a survivability breakthrough.
+It is not strategic closure.
+
+
+================================================================================
+CLEAN LOCK RECOMMENDATION
+================================================================================
+
+Lock the aftermath of LIFELINE as follows:
+
+LIFELINE is the mission that proves a British-backed extraction artery can exist
+inside occupied Boston. After it, selected late-game British CASEVAC options,
+receiving nodes, and route-window planning become plausible and playable. The
+city does not become safe; it becomes more operationally survivable. Civilian and
+resistance behavior grows more purposeful in corridor-adjacent districts, enemy
+forces begin actively hunting route logic, and Vickers's authority becomes rooted
+in demonstrated results rather than promised support. Boston should feel changed
+not by spectacle, but by the sudden fact that some of the wounded now make it out.
+
+
+================================================================================
+END OF PAGE
+================================================================================

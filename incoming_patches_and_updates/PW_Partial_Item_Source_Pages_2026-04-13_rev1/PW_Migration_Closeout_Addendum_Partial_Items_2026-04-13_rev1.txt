@@ -1,0 +1,30 @@
+PROJECT WARRIORS — MIGRATION CLOSEOUT ADDENDUM
+Document ID: PW-GOV-ADD-001
+Title: Partial-Item Source Landings Created on 2026-04-13
+Status: ACTIVE GOVERNANCE NOTE
+Last Updated: 2026-04-13
+
+Purpose:
+Record the first-pass source pages created to reduce repo-only loss risk for items previously flagged as PARTIAL / CHECK SOURCE in the migration audit.
+
+Created pages:
+1. PW_Source_Page_BODYWORK_Van_Hult_2026-04-13_rev1.txt
+2. PW_Source_Page_Boston_Weapons_Armorer_2026-04-13_rev1.txt
+3. PW_Source_Page_Trilogy_Slogan_Promo_Style_2026-04-13_rev1.txt
+4. PW_Source_Page_Bakhmut_Visual_Reference_Packet_2026-04-13_rev1.txt
+
+Intent:
+- BODYWORK page replaces patch-only carry-forward treatment with a dedicated source landing.
+- Boston weapons page consolidates Kearney / Elena / Romeo Boston rifle continuity into a dedicated packet.
+- Trilogy slogan page creates the standalone style-guide source the audit said was missing.
+- Bakhmut page is a recovery scaffold, not a claim of full prompt-pack restoration.
+
+Still open after this pass:
+- non-Romeo pilot-station radio follow-up remains forward work rather than migration-complete source
+- South Africa viability workstream remains live and should not be retired blind
+- any fuller repo-side packets should still be merged forward when recovered
+
+Recommended next repo action:
+- copy these pages into the repo
+- refresh the affected compendia from them
+- mark the relevant partial items as absorbed or reduced-risk in the next governance refresh

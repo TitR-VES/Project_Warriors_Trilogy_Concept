@@ -1,0 +1,58 @@
+PROJECT WARRIORS
+RADIO SYSTEM UPDATE PACKAGE MANIFEST v1
+
+Purpose
+This package lands the current radio-system work into the Project Warriors working-set compendium structure without prematurely forcing a full archival-master refresh.
+
+Recommended landing order
+1) Land structural summary in project memory.
+2) Update source-of-truth compendium files in the working set.
+3) Archive this thread after source landing is complete.
+4) Defer archival-master refresh until the next normal milestone refresh.
+
+Recommended compendium destinations
+
+A. Promotional / Sidebar Development compendium
+Use file:
+- PW_Radio_System_Compendium_Insert_Promotional_Sidebar_v1.txt
+
+Contains:
+- civilian/public radio system framework summary
+- locked station identities
+- workflow summary
+- station contrast rules
+- filing / handoff rules
+- next-thread scaling-test note
+
+B. Missions / Scenes / Cinematics compendium
+Use file:
+- PW_Radio_System_Compendium_Insert_Missions_Scenes_Cinematics_v1.txt
+
+Contains:
+- phase / implementation overview
+- current packet sequencing
+- scripted mission packet index
+- packet-by-packet placement notes
+- open expansion slots
+
+C. Thread closeout / archive note
+Use file:
+- PW_Radio_System_Thread_Closeout_Handoff_v1.txt
+
+Contains:
+- compact memory-sized structural summary
+- archive-readiness note
+- next-thread recommendation: non-Romeo-region pilot station
+
+Working-set source-management note
+- Land these updates into the appropriate working compendia first.
+- Do not treat this package as a reason to immediately refresh the archival master unless you are already doing a milestone refresh.
+- Keep source boundaries clear: framework/system material belongs in Promotional/Sidebar Development; packet and deployment material belongs in Missions/Scenes/Cinematics.
+
+Suggested internal labels
+- radio_framework_sidebar_insert_v1
+- radio_packets_missions_insert_v1
+- radio_thread_closeout_handoff_v1
+
+Archive readiness rule
+Once the memory update is landed and these compendium inserts are merged into the working set, this thread is ready for archive.

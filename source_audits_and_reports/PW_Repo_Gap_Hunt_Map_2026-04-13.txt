@@ -1,0 +1,112 @@
+PROJECT WARRIORS — REPO GAP HUNT MAP
+Generated: 2026-04-13
+Purpose: isolate the items that still appear to be repo-side, only partially landed, or not safe to retire blind.
+
+HOW TO USE THIS
+This is not a canon packet. It is a recovery packet.
+Use it to identify which external repo files or later-thread outputs still need to be pulled forward before migration closeout.
+
+================================================================================
+A. PRIMARY GAP TARGETS — PARTIAL / CHECK SOURCE
+================================================================================
+
+1) BAKHMUT VISUAL REFERENCE / PROMPT PACK
+Status: PARTIAL / CHECK SOURCE
+Why it matters:
+- The audit says no dedicated finalized visual prompt-pack file is present in the accessible upload corpus.
+Best recovery action:
+- Pull the final repo-side Bakhmut visual packet or latest thread export.
+Expected home after recovery:
+- Worldbuilding / Strategic Architecture or Missions / Scenes / Cinematics, depending on how art-direction packets are being housed.
+
+2) TRILOGY SLOGAN / STYLE-GUIDE PAGE
+Status: PARTIAL / CHECK SOURCE
+Why it matters:
+- Broader trilogy identity is represented, but the audit says no dedicated slogan style-guide source page is directly available here.
+Best recovery action:
+- Pull the final slogan/style sheet from repo-side source files or external notes.
+Expected home after recovery:
+- Promotional / Sidebar Development.
+
+3) BODYWORK / VAN HULT DEDICATED SOURCE PAGE
+Status: PARTIAL / CHECK SOURCE
+Why it matters:
+- The BODYWORK / killdozer end-state has been preserved as a patch item, but the dedicated mission/reference page itself is not visible in the uploaded corpus.
+Best recovery action:
+- Recover the BODYWORK mission sheet or Van Hult branch reference page from repo-side sources.
+Expected home after recovery:
+- Missions / Scenes / Cinematics.
+
+4) CONSOLIDATED BOSTON WEAPONS PACKET
+Status: PARTIAL / CHECK SOURCE
+Why it matters:
+- HELL OR HIGH WATER, WORK ORDER, and CIVIL DISOBEDIENCE are represented in the patch layer, but the audit still recommends keeping a dedicated consolidated Boston weapons packet.
+Best recovery action:
+- Pull the consolidated Boston weapons source packet or the latest source-style weapon sheets.
+Expected home after recovery:
+- Gameplay / Weapons / Style.
+
+5) NON-ROMEO REGION PILOT-STATION FOLLOW-UP
+Status: PARTIAL / CHECK SOURCE / FORWARD-DEVELOPMENT EDGE
+Why it matters:
+- The note exists, but there is no stable finalized source page visible in the current corpus.
+Best recovery action:
+- Recover only if a real landed page exists externally; otherwise keep it marked as forward work.
+Expected home after recovery:
+- Promotional / Sidebar Development or a radio/worldbuilding support-source lane.
+
+================================================================================
+B. STILL LIVE / NOT SAFE TO RETIRE BLIND
+================================================================================
+
+6) RADIO WORLD-BUILDING IDEAS / PILOT-STATION FOLLOW-UP
+Status: STILL LIVE / NOT SAFE TO RETIRE BLIND
+Interpretation:
+- Do not assume this is “missing.” It may simply not have been finished yet.
+Recommended action:
+- Check whether a source-ready page was actually authored. If not, leave it live and do not force a false recovery.
+
+7) SOUTH AFRICA CAMPAIGN VIABILITY
+Status: STILL LIVE / NOT SAFE TO RETIRE BLIND
+Interpretation:
+- Not sufficiently represented in the accessible corpus.
+Recommended action:
+- Treat as active development, not archival loss, unless you know a source-ready page exists in repo-side materials.
+
+================================================================================
+C. PATCH-ONLY ITEMS THAT MAY WARRANT DIRECT SOURCE PAGE RECOVERY
+================================================================================
+
+These are not necessarily missing, but in this workspace they are visible mainly through patching, not through a clearly surfaced dedicated source page.
+
+- BODYWORK / killdozer end-state
+- Elena Costa mission-facing integration
+- Eamonn Kearney / Boston sustainment node
+- WORK ORDER / HELL OR HIGH WATER / CIVIL DISOBEDIENCE as a unified packet
+- SHIELD / COLD ROOM refinements beyond older source layers
+- ARTEMIS / TYPHON separation and mission placement locks
+- Yunnan interactive border-crossing refinement
+
+Recommended action:
+- When repo-side source pages exist, prefer recovering those rather than relying forever on patch-only carry-forward.
+
+================================================================================
+D. FASTEST RECOVERY ORDER
+================================================================================
+
+1. BODYWORK / Van Hult source page
+2. Consolidated Boston weapons packet
+3. Bakhmut visual reference packet
+4. Trilogy slogan/style-guide page
+5. Check pilot-station follow-up for a real landed page
+6. Confirm South Africa remains intentionally live, not silently lost
+
+================================================================================
+E. CROSS-CHECK FILES IN THIS PACKET
+================================================================================
+
+- PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+- PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+- PW_Migration_Ledger_2026-04-13_rev2.txt
+- PW_Source_Manifest_2026-04-13_rev2.csv
+- PW_Package_ChangeLog_2026-04-13_rev2.txt

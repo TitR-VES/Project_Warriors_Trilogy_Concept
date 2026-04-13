@@ -1,0 +1,21 @@
+PROJECT WARRIORS — PACKAGE CHANGELOG
+Version: 2026-04-13 rev3
+
+This revision is a targeted migration-closeout refresh focused on items that rev2 still flagged as PARTIAL / CHECK SOURCE.
+
+Main additions / clarifications carried forward in rev3:
+- Added dedicated source page for BODYWORK / Mitchell Van Hult optional Boston branch.
+- Added dedicated source page for Boston weapons / armorer continuity: Kearney, WORK ORDER, HELL OR HIGH WATER, CIVIL DISOBEDIENCE, and THE RIGHT RIFLE.
+- Added dedicated source page for trilogy slogan / tagline / promo style guidance.
+- Added provisional Bakhmut visual-reference recovery scaffold so the work has a named source landing.
+- Refreshed affected working compendia:
+  - 03 Characters / DLC
+  - 04 Gameplay / Weapons / Style
+  - 05 Missions / Scenes / Cinematics
+  - 06 Promotional / Sidebar Development
+- Updated the thread archive audit so BODYWORK, Boston weapons, trilogy slogan/style, and Bakhmut no longer sit only as unmanaged partial warnings.
+
+Operational use recommendation:
+- Treat rev3 as the current governance-aware working refresh for the affected domains.
+- If a richer repo-side Bakhmut packet is recovered later, supersede the provisional scaffold rather than layering both indefinitely.
+- Remaining live governance watch-items are the radio pilot-station follow-up and the South Africa workstream.

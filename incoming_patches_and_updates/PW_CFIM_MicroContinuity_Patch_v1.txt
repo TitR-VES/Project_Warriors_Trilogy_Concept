@@ -1,0 +1,57 @@
+PROJECT WARRIORS — MICRO-CONTINUITY PATCH
+CFIM / COGNICONNECT DISTINCTION
+Status: Approved canon refinement
+
+INSERTION BLOCK:
+
+COGNICONNECT / CFIM CLARIFICATION:
+CogniConnect is the broader implant architecture present across multiple hostile
+programs and covert applications in the Project Warriors setting. CFIM
+(Counter-Forensic Identification Module) is a separate specialized add-on
+package integrated only into selected War Wolves implant stacks. CFIM is not a
+default feature of CogniConnect.
+
+WAR WOLVES — IDENTITY MYSTERY:
+The War Wolves carry no identification. Their CogniConnect implant stacks
+include CFIM (Counter-Forensic Identification Module) packages that trigger a
+terminal anti-exploitation detonation on death, catastrophic implant breach, or
+designated fail-dead conditions. The effect is intended to destroy or severely
+degrade the face and adjacent cranial structures, corrupt implant-resident data,
+and deny rapid postmortem forensic identification. CFIM is designed to defeat
+rapid battlefield and near-term forensic identification, not to guarantee the
+perfect erasure of every possible biometric trace under laboratory conditions.
+
+KYSC / MONTOYA FARM DISTINCTION:
+KYSC-conditioned Montoya Farm victims may carry CogniConnect implants as part of
+the broader conditioning / control architecture, but they are not fitted with
+CFIM packages. Standard CogniConnect implantation does not imply terminal
+counter-forensic detonation. The War Wolves' postmortem facial-destruction /
+rapid-identification-denial effect is specific to CFIM-equipped operators.
+
+RETCON CLARIFICATION:
+Earlier broad wording may imply that CogniConnect implantation itself causes the
+War Wolves' postmortem anti-identification detonation. Current canon narrows
+that effect: the terminal facial-destruction / rapid-forensic-denial behavior is
+specific to CFIM-equipped War Wolves, not to all CogniConnect users.
+
+REPLACEMENT GUIDANCE:
+- Replace broad phrasing such as "CogniConnect detonates on death" with
+  "CFIM-equipped CogniConnect stacks trigger a terminal anti-exploitation
+  detonation on death" when referring to War Wolves.
+- Replace broad phrasing such as "no ID possible" with
+  "prevents rapid forensic identification" or
+  "denies rapid postmortem exploitation" unless a more absolute phrasing is
+  explicitly desired for in-world imperfect reporting.
+- Do not apply CFIM language to KYSC unless a future source explicitly changes
+  the canon split above.
+
+SHORT IN-WORLD EXPLANATION:
+"CogniConnect is the base hardware. CFIM is the black add-on. KYSC had the
+first. The War Wolves had both."
+
+SUGGESTED PATCH TARGETS:
+- War Wolves identity blurbs / individual loadouts pages
+- Timeline entries describing War Wolves deaths
+- Any summary line that currently implies all CogniConnect users self-destruct
+- Any KYSC reference that could be misread as including the War Wolves death
+  effect

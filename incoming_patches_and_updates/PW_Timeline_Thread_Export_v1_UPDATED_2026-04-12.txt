@@ -1,0 +1,817 @@
+================================================================================
+PROJECT WARRIORS — TIMELINE & WORLDBUILDING THREAD EXPORT
+Thread: Game 2 Master Timeline Skeleton
+Date of export: April 2026
+Status: Working draft — all confirmed canon flagged; gaps flagged for development
+================================================================================
+
+PURPOSE OF THIS DOCUMENT
+This file captures the full content of the Timeline & Worldbuilding thread session
+in which the Game 2 master campaign timeline was drafted. It is intended for upload
+to project knowledge to keep other threads current on timeline decisions and structural
+anchors. All decisions here should be treated as working draft unless explicitly
+confirmed by Stefan in a subsequent session.
+
+================================================================================
+SECTION 1 — THREAD SETUP & OPERATIONAL NOTES
+================================================================================
+
+THREAD PURPOSE:
+This thread is designated as the Timeline & Worldbuilding thread for Project Warriors.
+Its function is to sketch and maintain a chronological record of events across all
+three campaigns in Games 1, 2, and 3 — anchoring narrative decisions to specific
+dates and sequences to prevent continuity errors and contradictions, especially as
+Game 3 development deepens.
+
+WORKING METHOD NOTE:
+Stefan requested a fresh timeline sketch without replaying older, now-outdated
+timeline sketches from prior threads. This document reflects the new draft built
+from scratch using current project knowledge.
+
+THREAD MANAGEMENT PROTOCOL (CONFIRMED):
+- Claude will warn when threads exceed 20 messages to prompt starting a new thread
+  and avoid API overload and message throttling.
+- During heavy development periods, Claude will check in regularly and push relevant
+  decisions in sufficient detail — including state of completion and development
+  status — to project memory to keep all threads current.
+
+================================================================================
+SECTION 2 — CANONICAL DATE ANCHORS (CONFIRMED)
+================================================================================
+
+The following dates are confirmed canonical anchors for the entire trilogy:
+
+September 3, 2028
+  - PANDORA attacks. Nationwide US cyber attack.
+  - West Coast amphibious invasion begins.
+  - Russia opens Baltic front.
+  - China invades Taiwan.
+  - Spook confronts Goldberg on East McFarlane Island simultaneously.
+  - First reported: 1033 PST by local media.
+
+November 3, 2028
+  - US Presidential Election (suspended by Crodyn via SCOTUS ruling under wartime
+    emergency provisions).
+  - Exactly two months after PANDORA attacks.
+
+June 4, 2028
+  - Glushkin activation by Lebedev/Nasmith at Specter Aerospace, Peabody MA.
+  - 91 days before PANDORA attacks.
+
+Lebedev activation: Approximately 3 months before PANDORA (early June 2028).
+
+Game 2 Romeo campaign opens: Approximately Day 31 of Calloway occupation.
+  - Day 1 of Calloway occupation = September 3, 2028 (PANDORA day).
+  - Day 31 = approximately October 4, 2028.
+  - This is the approximate Game 2 campaign open date.
+
+Crodyn's wartime presidential address: Late October or very early November 2028.
+  - Falls within days of the suspended election date (November 3).
+  - This is the convergent event connecting all three Game 2 campaigns.
+
+Inter-game time gap (Game 1 to Game 2): NOT YET LOCKED. [FLAGGED]
+  - Spook and Ducky campaign openings reference "six weeks post-PANDORA."
+  - Romeo's "Day 31 of occupation" puts his campaign open at approximately October 4.
+  - These are approximately coherent but not formally reconciled.
+  - Resolution needed before Game 3 development deepens.
+
+================================================================================
+SECTION 3 — GAME 2 GLOBAL STRATEGIC CONTEXT
+================================================================================
+
+Setting: Continuation of global conflict immediately following Game 1.
+
+United States:
+  - Russian occupation of US East Coast and interior.
+  - Calloway, KY (and surrounding Harlan County region) under occupation.
+  - US Air Force partially degraded by PANDORA cyber effects.
+  - Network-dependent aircraft (F-22, F-35) compromised or non-operational.
+  - Legacy platforms (A-10 Warthog) operationally relevant due to PANDORA resilience
+    and Crodyn administration's military mismanagement.
+  - AFC (American Freedom Corps) emerging as organized resistance movement.
+  - UNHMNA (United Nations Humanitarian Mission to North America) active:
+    White UN vehicles, blue helmets, foreign troops in American environments.
+    Hospital ships Dawn of Mercy and Beacon of Hope.
+    Jarring visual juxtaposition — imagery historically associated with
+    developing-world conflicts now in American suburban landscapes.
+
+Europe:
+  - Russian Baltic offensive ongoing.
+  - NATO Allied Rapid Reaction forces active across northern/eastern Europe.
+  - DAOG (multi-national command structure) operational.
+  - AEGIS Squad (Ducky) running EW interdiction campaign across Baltic states and Arctic.
+
+Asia-Pacific:
+  - China has annexed Taiwan.
+  - China moving on South Asia and Middle East.
+  - South Pacific front opening (Australia theater beginning).
+
+Convergent Event — Crodyn's Presidential Address:
+  - Crodyn names AFC as domestic terrorist organization under 18 USC.
+  - Names LT Ramón Álvarez by name as rogue officer.
+  - Claims AFC coordinates with foreign intelligence.
+  - 30-day voluntary disengagement window announced.
+  - Framed as protecting wartime constitutional order.
+  - Affirmed by SCOTUS Justices Howard (fictionalized Clarence Thomas)
+    and Pedilla (fictionalized Samuel Alito).
+  - Full address text written and available in sidebar thread.
+  - Structural lynchpin connecting all three Game 2 campaigns.
+
+================================================================================
+SECTION 4 — GAME 2 MASTER TIMELINE SKELETON
+================================================================================
+
+All three campaigns run in parallel. The convergent event (Crodyn's address) is the
+shared temporal anchor. Timeline is presented chronologically within each campaign,
+with cross-campaign synchronization notes.
+
+--------------------------------------------------------------------------------
+4A — ROMEO CAMPAIGN: AMERICAN FREEDOM
+Subtitle: "War Hits Home"
+Teaser tagline: "War Hits Home. American Freedom."
+Teaser music: Jesse Welles, "Good Morning, America" — mixed choir arrangement
+--------------------------------------------------------------------------------
+
+CAMPAIGN OPEN (~October 4, 2028 — Day 31 of Calloway occupation)
+  - Calloway/Redbud, Harlan County, Kentucky.
+  - Opening cinematic. Resistance cell active and operational.
+  - "Good Morning, America" plays over occupied Kentucky landscape.
+  - Squad: Dingo, Howler, Beaver.
+
+EARLY CAMPAIGN MISSIONS (sequence partially confirmed, some titles provisional):
+  Mission: Low Ground
+    - Early resistance operations, Harlan County.
+    - Status: Confirmed mission name, details undeveloped.
+
+  Mission: Dead Air
+    - Radio/comms interdiction.
+    - Status: Confirmed mission name, details undeveloped.
+
+  Mission: The Redbud Vehicles
+    - Materiel acquisition beat.
+    - Status: Confirmed mission name, details undeveloped.
+
+  Mission: Farm Road
+    - Rural engagement.
+    - Status: Confirmed mission name, details undeveloped.
+
+  Mission: Second Level
+    - Escalation beat — AFC identity solidifying.
+    - Status: Confirmed mission name, details undeveloped.
+
+KEY SET-PIECE BEATS (placement within sequence TBD):
+
+  Red Dawn Callback — Enemy paratroopers over Smoky Mountains
+    - Spotted at distance. Navigation device.
+    - Confirmed as standalone trailer/promotional asset.
+    - Status: Concept confirmed, placement TBD, dedicated development needed.
+
+  AC-130 "Angel" Scene (Scene 7 — FULL TREATMENT)
+    - Aircraft: AC-130 Spectre, callsign SPECTRE FOUR ONE.
+    - Romeo on mounted weapon, horizon reveal, flare deployment.
+    - Angel wing smoke trail.
+    - Protected closing line: "American Freedom, over."
+      (AC-130 crew using Crodyn's terrorist designation back to Romeo
+      over an open military frequency — small act of institutional defiance
+      with story consequences.)
+    - Status: Full treatment written.
+
+  AFC Founding and Naming
+    - Confirmed story beat. Exact mission placement TBD.
+
+  DON'T TREAD Recognition Beat (Act Two)
+    - Dale Pruett's AC-556 with Three Percenter engraving.
+    - Flagged for main narrative thread. Placement TBD.
+
+CONVERGENT EVENT (~late October 2028)
+  - Romeo's perspective: Cumberland hardware store.
+  - Hears address live. Named by the President directly.
+  - Register: Personal. Enraging. Identity-defining.
+  - Terrell Washington on radio: "You seeing this?" Romeo: "Yeah."
+    Washington: "Good morning, America." Romeo looks at sky. Nods.
+
+POST-ADDRESS:
+  - Smoke (Oakenfold, from Spook's team) is using AFC infrastructure unknowingly.
+  - Romeo eventually senses someone outside his chain is using his network.
+  - Chooses not to push back.
+  - Neither Romeo nor Spook knows the other's full picture.
+
+GAME 3 SEEDS (embedded in Romeo's Game 2 campaign):
+  Seed 1: Encrypted communication from command contains buried line:
+    "Regent sends regards." First indirect connection between Romeo and Spook storylines.
+  Seed 2: Hargrove asks Romeo what the AFC becomes after the occupation ends.
+    Romeo doesn't answer. "You should think about it. Because someone else will, if you don't."
+    Sets up Game 3 Romeo campaign throughline — who controls the AFC and what it becomes.
+
+--------------------------------------------------------------------------------
+4B — DUCKY CAMPAIGN: PERSISTENT THREAT
+Subtitle: "The System Fell. We Didn't."
+Final title: PERSISTENT THREAT (working title AEGIS Falls — retired; AEGIS FALLS
+  reserved as mission name within the campaign)
+Teaser tagline: "We Are Taking Our Home Back. AEGIS Falls."
+Teaser music: "Kyiv" by Apashe featuring Alina Pash
+--------------------------------------------------------------------------------
+
+SQUAD:
+  Ducky — SFC Ferris "Ducky" Ryan (American-Irish expat, Boston-born)
+  Frost — Aki Peltola (Finnish, masked, scarred)
+  Lupin — Ştefan Dragavei (Romanian, Banat/Reşiţa)
+  Switchblade — Cassandra Stewart (Melbourne, combat medic)
+  CORYS squad also active: Valkyrie, Brick (and others — TBD development)
+
+CAMPAIGN OPEN (~October 4, 2028 — approximately six weeks post-PANDORA)
+
+  Mission: Cold Open
+    - Location: Norwegian coastal town.
+    - Situation: Russian naval infantry landing. AEGIS fighting withdrawal to helicopter
+      pickup. Links up with Norwegian coastal defense unit.
+    - Key beat: Switchblade saves elderly Norwegian civilian — 45 seconds, doesn't
+      break mission. Conversation about this happens later.
+      (Ducky's threshold was 45 seconds — clean, no comment.
+       60 seconds — he would have said something.)
+    - Walker on DAOG net after exfil: "Good exfil. We have a problem."
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Dead Frequency
+    - Location: Northern Estonia. Converted NATO facility.
+    - Operation: Two-element assault. CORYS secures northern approach; AEGIS penetrates.
+    - Four-hundred-meter river crossing under Frost overwatch.
+    - Valkyrie: "I've seen Frost work. It's appropriate faith."
+    - EW equipment destroyed.
+    - Lupin photographs technical parameters document before destroying it.
+    - Brick takes through-and-through wound to left forearm.
+    - INVESTIGATIVE BEAT 1 — "The Parameters":
+      Technical document reveals AEGIS internal system nomenclature used by Russian EW
+      team — confirming inside access. Halliday produces list of seven senior DAOG
+      personnel with AEGIS architecture access. Eliminates one. Four remain.
+      Access anomalies trace back 18 months minimum.
+      Ducky: "That's not a leak. That's an agent."
+    - Gripen flyover scene: TENTATIVE placement here (or Hard Winter). TBD.
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Hard Winter
+    - Location: Latvian interior.
+    - Operation: Mobile EW convoy tracking. Two in-game days.
+    - Three gameplay moments: movement establishing terrain, near-miss patrol encounter,
+      frozen reservoir crossing.
+    - Halliday on comms: "I can't give you certainty."
+      Ducky: "Nobody ever can."
+    - Convoy destroyed.
+    - INVESTIGATIVE BEAT 2 — "The Architecture":
+      Quiet period. Halliday traces AEGIS development contracts. Core technology
+      licensing traces to Nexus Meridian Holdings (Cayman Islands). Nexus Meridian
+      appears in Montoya Farm financial records — transfers made 14 months before first
+      AEGIS licensing agreement. AEGIS architecture partly funded through
+      KINGMAKER-connected financial infrastructure.
+    - Gripen flyover scene: Tentative placement here (or Dead Frequency). TBD.
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Permafrost (formerly Cold Frontier — renamed to avoid confusion with
+    Frost backstory mission Cold Frontier 07)
+    - Location: Svalbard.
+    - Operation: Third EW node — pre-positioned for direct attack on AEGIS datacenter.
+    - Halliday: "They're waiting for authorization."
+    - Vympel security element.
+    - Frost on ice shelf — Ducky pulls him off before flanked.
+      Frost: "I had them." Ducky: "I know. Keep moving."
+    - Node destroyed in sequence — line cut first, then equipment.
+    - Lupin takes fragment wound to shoulder.
+    - Sea exfil via rigid inflatable to Norwegian Coast Guard vessel.
+    - Walker: "That's the good news."
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Hull Breach (canonical spelling confirmed — NOT "Hill Breach")
+    - Location: Kaliningrad harbor.
+    - Target: Russian intelligence vessel Akademik Volkov.
+    - Operation: AEGIS + Nereid Black joint operation.
+    - Approach: Submarine via USS District of Columbia.
+    - Harbor patrol forces six-minute hold on bottom.
+    - Rime breaches plated access point in 4 min 17 sec.
+    - CQB through vessel interior.
+    - Data infrastructure destroyed.
+    - Lupin handles intel exploitation despite shoulder wound.
+    - Rime scuttles vessel. Undertow exits last.
+    - Akademik Volkov sinks as apparent accident.
+    - Recovered drive contains DAOG credential identifier fragment — ZEUS level,
+      Tremblay's personal authentication token including biometric profile.
+      18 months of access confirmed.
+    - INVESTIGATIVE BEAT 3 — "The Credential": Drive completes credential identifier.
+    - Squad character moment: Brick wants in. Ducky: "He's holding the perimeter
+      with Valkyrie. That's not a lesser role."
+    - Status: SIDEBAR CONFIRMED.
+
+  Post-Hull Breach — 0200 Conversation
+    - INVESTIGATIVE BEAT 4 — "What Ducky Does With It."
+    - Decision to take to Walker via Halliday's counterintelligence node channel.
+    - Walker confirms he's known something was wrong.
+      Walker: "Now you've given me enough."
+    - Walker tasks unauthorized mission: find Tremblay, confront with evidence,
+      secure confession or defection.
+    - Status: SIDEBAR CONFIRMED.
+
+  A400M Passage Scene (Scene 2 — FULL TREATMENT)
+    - Aircraft: Airbus A400M, Belgian Air Component, DAOG designation ICARUS.
+    - Placement: TBD — tentatively a transit beat mid-campaign.
+    - Full treatment written. Belgian crew, multilingual (French/Dutch/English).
+    - 12-minute pre-announced arrival. 30-second sky crossing. Circuits for second pass.
+    - Status: SIDEBAR CONFIRMED, PLACEMENT TBD.
+
+CONVERGENT EVENT (~late October 2028)
+  - Ducky's perspective: 0347 hours. Norwegian ops room.
+  - Halliday wakes Ducky with tablet. Reads full address text.
+  - Ducky and Halliday discuss — Ducky identifies address as Crodyn demonstrating
+    panic, not control.
+  - 0600 command call: Walker reads DAOG legal position (address inapplicable to
+    NATO mandate).
+  - Tremblay: "Exercise discretion."
+  - Tremblay's pause after specific phrasing becomes investigative data point for Halliday.
+  - Tremblay received address before command call — implies advance knowledge from
+    Crodyn's circle.
+  - Status: SIDEBAR CONFIRMED.
+
+  Squad moment: Frost and Jussi (Jussi Mustonen — Frost's only mention of him in sequel):
+    0300 in operations room. Two coffees.
+    Frost: "The cold helps. It's quieter in my head."
+
+  Squad moment: Lupin/Brick wound exchange:
+    "It's fine." "Sure." "It's fine." "I heard you." "Good."
+
+  Mission: AEGIS Falls
+    - Location: Aix-en-Provence, southern France. Private estate, GenCorp-connected
+      holding company.
+    - AEGIS alone. Unauthorized operation.
+    - Ducky finds Tremblay in study.
+    - Full conversation:
+      European strategic autonomy ideology. FSB found architectural backdoor
+      independently. Tremblay's attempt to manage rather than report.
+      Waiting for something to change.
+    - Tremblay: "AEGIS falls regardless."
+      Ducky: "Then we build something better."
+    - Tremblay agrees to Walker's process.
+      Conditions: Crodyn not protected.
+    - Status: SIDEBAR CONFIRMED.
+
+  Campaign defining moment (Ducky):
+    After discovering AEGIS architectural compromise:
+    "Does it still work?" (about the constellation)
+    "Then we keep fighting for it. We figure out the rest later."
+
+CROSS-CAMPAIGN CONNECTION — DUCKY/SPOOK:
+  Tripper's intelligence manipulation (Montoya Farm persistent access) produces a
+  document that reaches Halliday through an unaccountable channel. Both Ducky's team
+  and Spook's team are pulling the same thread from different ends. Neither has the
+  full picture.
+
+GAME 3 SEEDS:
+  - Tremblay in Walker's process. FSB connection deliberately left with hidden
+    complexity — to be developed in the sequel.
+  - AEGIS rebuild stalled by chip supply constraints (Taiwan annexation + ASML
+    disruption). Ducky's Game 2 ASML Netherlands mission may connect to the broader
+    autonomous systems recovery arc. Ducky potentially operating inside this consequence
+    without the full picture. PROTECTED STRUCTURAL ASSET — dramatic irony.
+
+--------------------------------------------------------------------------------
+4C — SPOOK CAMPAIGN: GODKILLER
+Subtitle: "You Can't Kill a Dead Man"
+Teaser tagline: "How Do You Kill A Man Who's Already Dead? Godkiller."
+Teaser music: "King Nothing" by Metallica
+--------------------------------------------------------------------------------
+
+TEAM:
+  Spook — CPT Trevor Gartner (CIA Ground Branch, Victor Two Bravo "The Tourists")
+  Tripper — Bartlett
+  Smoke — Oakenfold
+  Handler: Senior Case Officer Matthew Mullen, callsign Regent
+  DO: Director Robert Macmillan, callsign Bishop (later goes dark)
+  La Avispa — Yelena Volkova (former FSB, embedded in Los Sietes cartel)
+
+THREE-TRACK STRUCTURE:
+  Track 1 (Spook): Protecting Budanova and hunting Goldberg.
+  Track 2 (Tripper): Intelligence manipulation via Montoya Farm persistent access.
+    Contact with Hartwell (NSA analyst, DARMA operation, Vela 2 knowledge).
+  Track 3 (Smoke): Supporting resistance organizations including AFC network (unknowingly).
+
+CAMPAIGN OPEN (~October 4, 2028 — six weeks post-PANDORA)
+  - Fort Lauderdale safehouse.
+  - Victor Two Bravo declared rogue.
+  - Spook repositioned, secured channels, built operational picture.
+  - Coleman Federal facility admin contact surfaces.
+    Processed unusual medical transfer for Goldberg night of breakout.
+    Duty officer was Douglas Paul Nasmith — actually Grigoryi Pavlovich Lebedev
+    (FSB illegal, Boston City Hall Finance).
+    Transfer covered by Meridian Shield Services tracing to GenCorp-connected holding.
+
+COLEMAN EXTRACTION MECHANISM (confirmed):
+  El Furtivo (Pablo Ignacio Hernández Díaz) leads noisy Los Sietes extraction through
+  prison cell block, causing mass damage. Simultaneously, second team plants mutilated
+  DNA-contaminated corpse as "Goldberg" in open cell. Goldberg moved to medical bay,
+  placed in coffin-like oblong box, loaded into hearse by bribed COs. Convoy exfiltrates
+  during riot chaos. Goldberg declared dead.
+
+  Mission: The Wasp's Nest
+    - Location: Oaxaca, Mexico.
+    - Spook approaches La Avispa openly — deliberate choice.
+    - Restaurant meeting, midday. She was already there. Knows he's CIA.
+    - La Avispa has lead on Goldberg's location — won't give it, will take him there.
+    - La Avispa: "I've been looking for interesting work."
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Dead Letters
+    - Location: Cuba, Miramar.
+    - Contact: Los Sietes financial officer Cristóbal Reyes.
+    - La Avispa vouches approach.
+    - Reyes gives Goldberg's first movement: Florida airstrip to Bahamas.
+    - Financial transfer document confirming Meridian Shield / GenCorp connection.
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Ghost Signal
+    - Tripper's track — player controls Tripper (only time in entire campaign).
+    - Montoya Farm persistent access activated.
+    - Contact and authentication with Hartwell.
+    - Vela 2 fragment revealed — connected to near-miss nuclear incident used as
+      conspiracy leverage.
+    - Full details parceled across remaining missions.
+    - Status: SIDEBAR CONFIRMED.
+
+CONVERGENT EVENT (~late October 2028)
+  - Spook's perspective: Fort Lauderdale safehouse. Alone.
+  - Watches address live. Three other team members give him the room.
+  - Identifies address as panic dressed as damage control.
+  - Sees it as accelerant — Goldberg window closing.
+  - Decides to find La Avispa first.
+  - Smoke confirms he's been supplying AFC unknowingly.
+    Spook: "American Freedom." Smoke: confirms. "Then yes. Keep it open."
+  - Supply route kept open. Romeo never knows who's on the other end.
+
+  Mission: Safe House
+    - Operation: Budanova protection and relocation.
+    - Meridian Shield surveillance on her location.
+    - La Avispa negotiates extended Los Sietes protection with El Tiburón.
+    - Doesn't disclose terms: "A favor. For later. The kind that won't cost you anything."
+    - Budanova: "He said if you ever met you, you were one of the ones who wasn't owned."
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Haverford
+    - Location: Panama City, Panama. Financial institution/dark money clearing house.
+    - Spook + La Avispa — first two-person operation.
+    - Financial trail leads to Caribbean.
+    - Goldberg positioned waiting for Crodyn's communication.
+    - La Avispa tells Spook about El Tiburón favor.
+    - La Avispa: "You're a strange man, Gartner."
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Regent
+    - Regent reunion. Two operations built same case from different ends.
+    - Regent has Hartwell knowledge (14 months).
+    - Senate Intelligence Committee contact established.
+    - Goldberg's 72-hour window before Crodyn communication arrives.
+    - Regent: "I wondered how long it would take you." / "It holds." / "Go get him."
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Come Fly With Me
+    - Location: St. Croix, US Virgin Islands (~40 miles south of East McFarlane Island).
+    - Asset: Found BFA-2 floatplane.
+    - Smoke flies team dark.
+    - La Avispa present.
+    - Quiet scene before departure: "Ask me again someday." / "Someday."
+    - Status: SIDEBAR CONFIRMED.
+
+  Mission: Sins of Our Fathers (Godkiller)
+    - Location: East McFarlane Island.
+    - War Wolves present.
+    - La Avispa handles Crimson Three.
+    - Goldberg cornered at helipad. Stockbridge steps back.
+    - Goldberg: "Spend enough time doing what I do..."
+    - Spook: "So the sins of the fathers are yours now. What do you want to do
+      with them?"
+    - Goldberg agrees to process.
+    - Macmillan contacts Spook. Spook demands authorization code, invokes Senate
+      Intelligence Committee oversight. Macmillan goes dark.
+    - Goldberg in custody.
+    - Status: SIDEBAR CONFIRMED.
+
+CAMPAIGN ENDING:
+  - Goldberg in process.
+  - Tremblay in Walker's accounting.
+  - Budanova and Hartwell on record.
+  - Crodyn's communication intercepted — becomes evidentiary record.
+  - Text from unsaved number: "Ask me again."
+  - Regent: "We need you on a call."
+  - Spook: "Give me a minute... Okay. I'm ready."
+
+CROSS-CAMPAIGN CONNECTIONS:
+  Romeo-Spook: Smoke's Track Three uses AFC infrastructure. Romeo senses outside
+    presence, doesn't push. Neither knows the other's full picture.
+  Ducky-Spook: Tripper's intelligence manipulation produces document reaching Halliday
+    through unaccountable channel. Both pulling same thread from different ends.
+  Tremblay-Goldberg-GenCorp: AEGIS architectural compromise and GenCorp-Nexus Meridian
+    financial architecture connect to same shadow network Spook is unraveling. Ducky's
+    discovery becomes part of wider evidentiary record.
+
+================================================================================
+SECTION 5 — CONVERGENT EVENT DETAIL
+================================================================================
+
+All three campaigns experience Crodyn's presidential address simultaneously.
+Full address text written and available in the sidebar thread.
+
+Romeo's perspective:
+  Location: Cumberland hardware store, Kentucky.
+  Register: Personal. Enraging. Named by the President directly.
+  Beat: Terrell Washington on radio: "You seeing this?" Romeo: "Yeah."
+    Washington: "Good morning, America." Romeo looks at sky. Nods.
+
+Ducky's perspective:
+  Location: 0347 hours, Norwegian ops room.
+  Register: Analytical. Reads it as panic not control.
+  Beat: Halliday wakes Ducky. 0600 command call. Tremblay's pause = data point.
+    Tremblay had advance knowledge — received address before command call.
+
+Spook's perspective:
+  Location: Fort Lauderdale safehouse. Alone.
+  Register: Cold. Operational. Sees it as accelerant.
+  Beat: Others give him the room. Identifies window closing. Acts immediately.
+
+================================================================================
+SECTION 6 — AIRCRAFT SCENES IN GAME 2 TIMELINE
+================================================================================
+
+The following aircraft set-piece scenes are confirmed for Game 2. Exact mission
+placements are TBD for several. Full treatments exist in ProjectWarriors_AllSevenScenes_Master.txt
+and PW_Aircraft_Scenes.pdf.
+
+SCENE 1 — JAS 39 Gripen Flyover (FULL TREATMENT)
+  Campaign: Persistent Threat (Ducky) — Game 2
+  DAOG designation: PHAETON — Swedish Air Force, two-ship
+  Placement: Tentatively Dead Frequency or Hard Winter — TBD
+  Function: World-scale moment in ground-level mission. Squad feels small inside
+    something vast. Frost's single line is the emotional punctuation.
+  Key audio beat: Swedish radio chatter intentionally unsubtitled — player hears
+    cadence and register without understanding content.
+  DAOG liaison exchange confirms position before aircraft arrive.
+  Sound design: Jet noise builds from ambience to physical pressure before visual.
+  Aircraft overhead and gone in under three seconds. Two-ship break maneuver.
+  Frost's line follows. Not quoted here — protect placement.
+
+SCENE 2 — Airbus A400M Passage (FULL TREATMENT)
+  Campaign: Persistent Threat (Ducky) — Game 2
+  DAOG designation: ICARUS — Belgian Air Component
+  Placement: TBD — tentatively mid-campaign transit beat
+  Function: Scale moment. Multilingual Belgian crew (French/Dutch/English).
+    12-minute pre-announced arrival. 30-second sky crossing. Circuits for second pass.
+
+SCENE 5 — KERAUNOS Rafale B Strike (FULL TREATMENT)
+  Campaign: Persistent Threat (Ducky) — Game 2
+  DAOG designation: KERAUNOS — French Air and Space Force, Rafale B
+  Placement: Linked to Zubr LCAC scene (Scene 6) — ARES tasks KERAUNOS at end of
+    Zubr sequence. Scenes 5 and 6 are causally linked.
+  Full dialogue written.
+
+SCENE 6 — Zubr LCAC Landing (FULL TREATMENT)
+  Campaign: Do Right, Fear None (Ducky) — Game 1 (Dutch coast, Maasvlakte)
+  NOTE: This is a Game 1 scene but listed here for causal link context.
+  ARES tasks KERAUNOS at end of this sequence — bridging Game 1 to Game 2 asset.
+
+SCENE 7 — AC-130 "Angel" CAS Strike (FULL TREATMENT)
+  Campaign: American Freedom (Romeo) — Game 2
+  DAOG designation: SPECTRE FOUR ONE
+  Placement: Mid-to-late campaign, Kentucky theater
+  Protected line: "American Freedom, over." — DO NOT move or dilute.
+  Romeo on mounted weapon. Horizon reveal. Flare deployment. Angel wing smoke trail.
+
+RED DAWN CALLBACK (CONCEPT + PARTIAL)
+  Campaign: American Freedom (Romeo) — Game 2
+  Asset: Enemy paratroopers over Smoky Mountains
+  Spotted at distance. Navigation device.
+  Also flagged as standalone trailer/promotional asset.
+  Needs dedicated development session.
+
+================================================================================
+SECTION 7 — STRUCTURAL GAPS IDENTIFIED IN THIS THREAD
+================================================================================
+
+The following gaps were identified during timeline construction and are flagged
+for resolution in this thread or the relevant specialist thread.
+
+GAP 1 — Inter-game time gap
+  "Six weeks post-PANDORA" (Spook/Ducky opening) vs. "Day 31 of Calloway occupation"
+  (Romeo opening) are approximately coherent but not formally reconciled.
+  Requires a locked universal or per-campaign time gap statement.
+  Priority: HIGH — affects Game 3 anchor date calculations.
+
+GAP 2 — Ducky campaign internal chronology
+  How many in-game days span Cold Open → AEGIS Falls?
+  This matters for synchronizing with the Election Day anchor (November 3).
+  Priority: MEDIUM.
+
+GAP 3 — Spook campaign duration
+  The Goldberg hunt spans multiple locations across several missions.
+  Does it complete before or after November 3?
+  Goldberg has a "72-hour window" before Crodyn's communication arrives —
+  this needs to be anchored to a specific campaign date.
+  Priority: MEDIUM.
+
+GAP 4 — Gripen flyover placement (Dead Frequency vs. Hard Winter)
+  Confirmed for Persistent Threat. Specific mission not locked.
+  Priority: LOW — can be resolved during mission design pass.
+
+GAP 5 — A400M placement
+  Confirmed for Persistent Threat. Specific mission not locked.
+  Priority: LOW — can be resolved during mission design pass.
+
+GAP 6 — Romeo mission sequence (Red Dawn callback to convergent event)
+  Several mission beats in Romeo's mid-campaign are sketched but not sequenced.
+  Priority: MEDIUM — affects campaign pacing map.
+
+GAP 7 — Romeo's Game 1 campaign subtitle
+  Not confirmed in any notes. [FLAGGED — carried from prior sessions]
+
+GAP 8 — Ducky's Game 1 missions between Wirecutter and Rotterdam finale
+  Entirely unmapped. [FLAGGED — MAJOR GAP — carried from prior sessions]
+
+GAP 9 — Spook's Godkiller three-track interweaving
+  Three-track structure established but granular mission interweaving not mapped.
+  [FLAGGED — carried from prior sessions]
+
+================================================================================
+SECTION 8 — PROTECTED STRUCTURAL ASSETS RELEVANT TO TIMELINE
+================================================================================
+
+The following are load-bearing narrative assets that must not be resolved casually
+or prematurely. All are flagged for protection across all threads.
+
+1. PANDORA kill switch / Wei Junlong fracture line
+   Taiwanese semiconductor engineer (connected to Wei's personal fracture) is the
+   likely architect of the TETHERBREAK credential kill switch. Their
+   foundry/firmware knowledge makes them the person who can reverse-engineer
+   PANDORA's persistence vulnerability. Wei's fracture and the technical resolution
+   of PANDORA are potentially the same thread. PROTECT PLACEMENT.
+
+2. AEGIS supply chain / Ducky dramatic irony
+   AEGIS rebuild stalled by chip supply constraints (Taiwan annexation + ASML
+   disruption) may connect Ducky's Game 2 ASML Netherlands mission to the broader
+   autonomous systems recovery arc. Ducky potentially operating inside this
+   consequence without full picture. PROTECT — flag for Ducky campaign development.
+
+3. Goldberg's false-flag-consumed-by-bigger-conspiracy articulation
+   Late-story scene with Goldberg as natural voice. Significant dramatic asset.
+   PROTECT PLACEMENT.
+
+4. PANDORA ending — Option B or close to C
+   Remediation underway but incomplete at end of Game 3. Not a clean resolution.
+   PROTECT — do not resolve prematurely in Game 2 materials.
+
+5. Tremblay's FSB connection
+   Deliberately left with hidden complexity. To be developed in sequel.
+   PROTECT — do not over-specify in Game 2 materials.
+
+6. "American Freedom, over" — AC-130 Angel scene closing line
+   Small act of institutional defiance. Story consequences. PROTECT PLACEMENT.
+
+7. AEGIS Falls — Ducky/Tremblay confrontation dialogue
+   "AEGIS falls regardless." / "Then we build something better."
+   Tremblay's conditions: Crodyn not protected.
+   PROTECT EXACT WORDING.
+
+8. Godkiller campaign ending text exchange
+   "Ask me again." / "Give me a minute... Okay. I'm ready."
+   PROTECT EXACT WORDING AND PLACEMENT.
+
+================================================================================
+SECTION 9 — CROSS-THREAD FLAGS FROM THIS SESSION
+================================================================================
+
+The following items surfaced during this thread and require routing to their
+appropriate specialist threads:
+
+NARRATIVE DEVELOPMENT THREAD:
+  - Romeo's mission sequence mid-campaign needs a dedicated mapping pass.
+  - DON'T TREAD recognition beat (Act Two, Romeo) — develop placement.
+  - Signal Hill + Game 2 AFC thread development for André Bridges — pending.
+  - Torrejón mission pivot (Russian → unmarked Chinese operators) — carry to
+    Ducky campaign notes.
+
+TIMELINE & WORLDBUILDING THREAD (THIS THREAD — NEXT SESSION):
+  - Reconcile inter-game time gap formally.
+  - Map Ducky campaign day count (Cold Open → AEGIS Falls).
+  - Anchor Spook's 72-hour Goldberg window to a specific campaign date.
+  - Begin Game 1 timeline skeleton (Do Right Fear None and Riptide Red
+    mission sequences).
+  - Begin Game 3 timeline skeleton when Game 2 gaps are resolved.
+
+SIDEBAR THREAD:
+  - Red Dawn callback — dedicated development session needed.
+  - A-10 suburban scene (Romeo, Game 3) — dedicated development session needed.
+
+================================================================================
+SECTION 10 — GAME 1 CAMPAIGN REFERENCE (SUMMARY — FOR TIMELINE ANCHORING)
+================================================================================
+
+The following is a summary of confirmed Game 1 campaign structure for reference
+when building cross-game timeline continuity.
+
+DUCKY — DO RIGHT, FEAR NONE (Game 1)
+  Mission: Wirecutter
+    North Sea. AEGIS/Nereid Black joint op on Sea Lion 7.
+    Vympel FSB Naval Spetsnaz discovered in hold.
+    TRIDENT SIX (HDMS Freja) arrives.
+    AEGIS exfiltrated by PEGASUS TWO (CH-53 Sea Stallion).
+    Ghost signal seed: Unresolved encrypted burst transmission, northeastern US
+    (probable Massachusetts). Never explained. Retroactively significant in
+    Persistent Threat.
+  Missions between Wirecutter and Rotterdam: NOT MAPPED. [MAJOR GAP]
+  Final mission: Maasvlakte Oil and Gas Terminal, Rotterdam.
+    AEGIS + Dutch Royal Marines.
+    Ducky fires NSM from NMESIS-type launcher at destroyer Severomorsk.
+    "Hey, Russian warship! Go fuck yourself!"
+    Zubr LCAC landing scene (Scene 6 — FULL TREATMENT) occurs here.
+    ARES tasks KERAUNOS at end of this sequence.
+
+SPOOK — RIPTIDE RED (Game 1)
+  Confirmed mission sequence:
+    Prologue: Amsterdam → Frankfurt warehouse. Meet Cameron Steele (Emperor).
+      Briefed on PANDORA. Restricted shipment from Turkmenistan.
+    Vienna: Hughes (Archduke) at US Embassy. Lebanese cell safehouse in Hernals.
+      Team infiltrates empty apartment. Woman returns. Armed men summoned.
+    [Additional missions confirmed but not fully detailed in accessible notes]
+  Closing event: Spook confronts Goldberg on East McFarlane Island — September 3, 2028.
+  Game 1 seeds for Game 2:
+    Regent radio fragment: Frankfurt warehouse, live transmission cut mid-sentence,
+      never acknowledged.
+    Montoya Farm manually redacted file: timestamp 3 days pre-reassignment;
+      Tripper flags unresolved.
+    Macmillan slip: "Bigger than Mullen told you."
+    East McFarlane Island hidden cache: symbol + coordinates. Symbol also seeded in
+      Montoya Farm tunnels Game 1. Sequel: symbol in environment unlocks storage unit
+      or safe deposit box containing Regent's unredacted Riptide Red report.
+
+ROMEO — CRITTER SQUAD (Game 1)
+  Subtitle: NOT CONFIRMED. [FLAGGED]
+  Arc: Counter-invasion → AEGIS infrastructure protection → California defense.
+  Squad: Dingo, Howler, Beaver.
+  [Mission sequence not mapped in available notes — MAJOR GAP]
+
+================================================================================
+SECTION 11 — CANONICAL RECORD: KEY NAMES AND SPELLINGS
+================================================================================
+
+For reference and continuity. All spellings below are canonical.
+
+Characters:
+  LT Ramón Fulgencio Medrano Álvarez — callsign Romeo
+  SFC Ferris "Ducky" Ryan — AEGIS Squad
+  CPT Trevor "Spook" Gartner — Victor Two Bravo
+  Aki "Frost" Peltola — Finnish, AEGIS
+  Ştefan "Lupin" Dragavei — Romanian, AEGIS
+  Cassandra "Switchblade" Stewart — Australian, AEGIS
+  Col. Mark Walker — CO AEGIS/CORYS/SHIELD
+  Lt. Tara Halliday — callsign ORACLE, Senior Ops Intel Analyst
+  Lt. Gen. Callum Tremblay — DAOG C-in-C, French Canadian
+  Edward Gregory Goldberg — KINGMAKER (faked death)
+  Gillian Stockbridge — CHAPERONE (canonical spelling: G-I-L-L-I-A-N)
+  Barry James Crodyn — US President
+  Grigoryi Pavlovich Lebedev — FSB illegal, alias Douglas Paul Nasmith
+  Pablo Ignacio Hernández Díaz — El Furtivo (Los Sietes)
+  Yelena Volkova — La Avispa, former FSB embedded in Los Sietes
+  Simon-Pierre Aubert — formerly Navarre (Swiss French, semi-retired freight consultant)
+  Katja Reimann — formerly Budanova (Austrian)
+  Matthew Mullen — callsign Regent, Senior Case Officer
+  Robert Macmillan — callsign Bishop, CIA Director of Operations
+  Cameron Steele — callsign Emperor, Case Officer
+  Cristóbal Reyes — Los Sietes financial officer, Cuba
+  Jussi Mustonen — Frost's connection (mentioned once by name in Game 2)
+
+Mission names (canonical spellings):
+  Hull Breach (NOT "Hill Breach") — Ducky Game 2, Kaliningrad
+  AEGIS Falls — mission name within Persistent Threat (retired as campaign title)
+  Permafrost — renamed from Cold Frontier (avoid confusion with Frost backstory mission)
+  Cold Frontier 07 — Frost backstory flashback mission (Game 1, playable)
+
+Campaign names (canonical):
+  Persistent Threat — Ducky Game 2 (working title AEGIS Falls fully retired)
+  Do Right, Fear None — Ducky Game 1
+  American Freedom — Romeo Game 2
+  Critter Squad — Romeo Game 1
+  Godkiller — Spook Game 2
+  Riptide Red — Spook Game 1
+
+DLC titles (confirmed):
+  Sea Spear — Grim/Nereid Black, Baltic front
+  Semper Fi — André Bridges/USMC
+  Who Dares Wins — SAS, British home front
+  Home Defense — Australian front/China Pacific arc
+
+================================================================================
+END OF DOCUMENT
+PW_Timeline_Thread_Export_v1.txt
+Exported April 2026
+For upload to Project Warriors project knowledge base
+================================================================================
+
+
+AFC / BOSTON RESISTANCE VISUAL IDENTITY NOTE
+  - Republic Shield = main AFC emblem
+  - Breach Star = AFC fast field tag / propaganda mark
+  - Union Mark = pre-existing Boston underground symbol, later seen alongside AFC marks
+  - Early Boston favors Union Mark first; late Boston shows Union Mark and Republic Shield
+    in co-presence as local resistance integrates with the wider AFC project.

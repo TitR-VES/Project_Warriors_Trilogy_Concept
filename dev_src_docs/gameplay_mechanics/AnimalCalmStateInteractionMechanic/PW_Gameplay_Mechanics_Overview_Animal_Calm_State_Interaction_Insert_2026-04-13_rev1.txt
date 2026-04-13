@@ -1,0 +1,131 @@
+PROJECT WARRIORS — SOURCE INSERT
+Target file: PW_Gameplay_Mechanics_Overview-4.txt
+Insert title: Animal Calm-State Interaction
+Generated: 2026-04-13
+Version: rev1
+
+RECOMMENDED PLACEMENT
+- Best fit: after section 16 (Intelligence Gathering as Gameplay) and before section 17 (Optional Moral Choices with Narrative Payoff)
+- Alternate fit: as a short standing subsection under Level Design / Environmental Interaction if you later create a broader non-combat interaction cluster
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+16A. ANIMAL CALM-STATE INTERACTION
+
+STATUS: Locked as flavor / world-authenticity feature. Use with restraint.
+
+OVERVIEW
+
+Select non-hostile animals may be briefly interacted with in first person when
+they are calm, the surrounding situation is safe, and the interaction is
+fictionally appropriate. The mechanic exists to add lived-in environmental
+texture, warmth, and authenticity to the world. It does not exist to provide
+mechanical advantage, progression, or collectible-style completion pressure.
+
+CORE RULE
+
+This feature only works through moderation. It should be rare, quiet, optional,
+and context-sensitive. The player should feel as though they encountered a small
+human moment in the world, not as though they triggered a system asking to be used.
+
+NON-NEGOTIABLE DESIGN RULES
+
+- No rewards, buffs, score, achievements, or progression hooks.
+- No pressure to use the interaction for completion.
+- No interaction prompt when the fiction makes it absurd or tactically reckless.
+- No broad assumption that every visible animal is interactable.
+- Animal behavior and agency must remain believable.
+
+VALID CONDITIONS
+
+The interaction may appear only when all of the following are true:
+- The animal is non-hostile and in a normal behavioral state
+- The animal is not panicked, fleeing, injured, restrained in distress, or
+  otherwise behaving as though human contact is unwelcome
+- The player is not in active combat, immediate pursuit, urgent stealth tension,
+  or another situation where stopping to touch an animal would break tone
+- The local story context supports the animal's presence and the player's
+  ability to approach it without compromising the scene
+
+INVALID CONDITIONS
+
+Do not present the interaction when:
+- Gunfire, alarms, pursuit, or immediate danger are active
+- The player is in a high-urgency dramatic beat
+- The animal is stressed, working, guarding in a way that makes contact unsafe,
+  or otherwise behaviorally unavailable
+- The animal's presence is meant to communicate neglect, fear, contamination,
+  or other negative environmental information that petting would trivialize
+
+ANIMAL-SPECIFIC GROUNDING
+
+Dogs:
+- Most readable and reliable version of the mechanic
+- Preferred actions: offered hand, brief neck rub, ear scratch, shoulder pat
+
+Cats:
+- Must remain more selective and less predictable
+- May accept a brief chin or head stroke, ignore the player, or walk away
+- Refusal is valid behavior and should remain in the system
+
+Horses / Donkeys:
+- Do not frame like domestic-pet cuddling
+- Preferred actions: muzzle touch, forehead stroke, short neck pat
+- Read as familiarity and calm handling, not cuteness-first staging
+
+CHARACTER DIFFERENTIATION
+
+Minor character-specific animation flavor is encouraged if kept subtle:
+- Romeo: direct, warm, unceremonious
+- Ducky: careful, steady, quietly familiar
+- Spook: restrained, slightly awkward, economical
+- Other protagonists / DLC leads may receive equally small handling differences
+  where useful
+
+Do not turn these differences into overt personality showcase moments. The
+interaction should still read first as a natural environmental beat.
+
+DIALOGUE / AUDIO RULE
+
+Dialogue should be absent by default. At most, use occasional soft
+under-the-breath lines when the moment genuinely supports it. The primary tools
+should be hand animation, animal response, cloth/gear movement, breath, and
+small diegetic sound.
+
+PLACEMENT PHILOSOPHY
+
+Use in curated, memorable spaces rather than as a frequent open-world filler:
+- Quiet back rooms
+- Resistance hideouts
+- Farm or service spaces
+- Brief downtime windows between high-pressure beats
+
+A single remembered animal in the right space is more valuable than repeated
+interactions across many areas.
+
+EXAMPLE REGISTER
+
+- A cat in the Calloway pharmacy back room during downtime
+- A calm resistance dog present at a Boston hideout or meeting point
+- A horse or donkey in a rural logistics / farm-adjacent location where its
+  presence is natural to the setting
+
+PROMPT / PRESENTATION RULE
+
+The interaction prompt should be plain and quiet. Avoid cute phrasing and avoid
+framing the mechanic as a joke. The action should read as a small human choice,
+not a novelty button.
+
+SUCCESS CONDITION
+
+The player should come away feeling:
+- this place is inhabited
+- these animals belong to the world
+- these people still have ordinary human reflexes in wartime
+
+Not:
+- I found the petting feature again
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+END OF INSERT

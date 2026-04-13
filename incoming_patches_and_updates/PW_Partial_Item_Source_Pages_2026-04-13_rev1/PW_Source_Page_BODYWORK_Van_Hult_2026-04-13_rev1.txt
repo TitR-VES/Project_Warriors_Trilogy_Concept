@@ -1,0 +1,205 @@
+PROJECT WARRIORS — SOURCE PAGE
+Document ID: PW-SRC-MSC-001
+Title: BODYWORK / Mitchell Van Hult Optional Boston Branch
+Domain: Missions / Scenes / Cinematics
+Status: ACTIVE SOURCE PAGE
+Canon State: LOCKED CORE SHAPE / OPEN FOR DETAIL PASS
+Source Type: PRIMARY WORKING SOURCE
+Last Updated: 2026-04-13
+Supersedes: patch-only carry-forward note for BODYWORK / killdozer branch
+Superseded By: —
+Related Files:
+- PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+- PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+- PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+Notes:
+- This page exists to replace patch-only BODYWORK carry-forward treatment with a dedicated source page.
+- Build from currently locked thread outcomes and migration notes. Use as source-of-truth until a fuller mission scripting packet supersedes it.
+
+================================================================================
+01. PURPOSE
+================================================================================
+
+BODYWORK is Romeo Game 3's optional Boston neighborhood-reclamation branch centered on Mitchell Van Hult, a former USAF technician and body-shop owner whose seized garage has been turned into an occupation motor pool.
+
+The branch is not revenge fantasy. Its narrative point is that liberation becomes real when ordinary skilled people recover civic function, practical infrastructure, and neighborhood confidence.
+
+Guiding line:
+It breaches as a weapon, then is reclaimed as infrastructure.
+
+================================================================================
+02. VAN HULT — LOCKED CHARACTER FUNCTION
+================================================================================
+
+Name: Mitchell Van Hult
+Age band: mid-50s
+Background: former USAF technician; later Boston body-shop owner / tradesman
+Role in branch: local civilian resistance anchor for vehicle reclamation / fabrication
+Core read:
+- proud
+- exact
+- community-minded
+- not crank-coded
+- not revenge-maniac-coded
+- grievance is specific: the occupation stole his life’s work, his role in the neighborhood, and turned his shop into something crude and parasitic
+
+Writing rule:
+Van Hult should read as a tradesman whose dignity has been violated, not as a cartoon avenger.
+
+================================================================================
+03. PLACEMENT / STRUCTURE
+================================================================================
+
+Campaign placement:
+- Romeo Game 3
+- Act II / Neighborhood War
+- Recommended as a four-mission optional branch plus one epilogue beat
+
+Recommended district flavor:
+- Newmarket / Widett Circle / South Bay industrial belt edge
+- broad roads, back-lot access, service corridors, parking structure volume, construction plausibility, proximity to dense neighborhoods
+
+Thematic function inside Boston campaign:
+- proves liberation is not only about raids and firefights
+- shows skilled civilians as infrastructure-makers rather than victims/background dressing
+- turns reclaimed ground into something materially sustainable
+
+================================================================================
+04. BRANCH SHAPE
+================================================================================
+
+Mission 01 — THE SHOP
+Function:
+- meet Van Hult
+- establish that his seized body shop now functions as a Russian motor pool / checkpoint support node
+- show neighborhood cost
+- seed the possibility of a tracked breaching vehicle built from construction equipment and community labor
+
+Mission 02 — CONCRETE
+Function:
+- secure a half-finished construction site / parking-garage workspace
+- restore limited power and usable shelter
+- move salvage, tools, fuel, armor plate, welding gear, and heavy components
+- establish hidden neighborhood build cell: welders, mechanics, electricians, operators, laborers, lookouts
+
+Mission 03 — OPEN THE ROUTE
+Function:
+- Romeo-led shaping mission
+- blind surveillance / comms picture
+- remove likely overwatch and machine-gun positions
+- isolate the checkpoint / motor-pool area
+- shape the avenue so the breach can work without becoming a suicide charge
+
+Mission 04 — BODYWORK
+Function:
+- moving assault built around Van Hult driving the improvised armored dozer through the checkpoint line
+- Romeo does not ride the dozer
+- Romeo advances on foot with the breach, clearing flank rooms, MG nests, rooftops, and route-blocking hardpoints
+- fight should feel like a civic breach held together by timing, nerve, and practical planning rather than superhero machinery
+
+Mission 05 — EPILOGUE BEAT
+Function:
+- ordinary life returns in partial form
+- reclaimed block / street life / local music / neighborhood gathering
+- emotional point is not triumphalism but proof that reclaimed ground can become lived space again
+
+================================================================================
+05. THE DOZER / BREACH VEHICLE
+================================================================================
+
+Design rule:
+The vehicle is a one-purpose improvised armored bulldozer / breaching ram.
+It is not a homemade supertank.
+
+Threat envelope:
+- barricades
+- concrete obstacles
+- light fortified checkpoints
+- small arms
+- fragments
+- light occupation control nodes
+
+Not for:
+- tank duels
+- reusable campaign-wide armor asset fantasy
+- theatrical invulnerability
+
+Construction logic:
+- hidden build in parking garage / industrial cover space
+- neighborhood labor cell assembles it from available industrial equipment and protection layers
+- reads as ugly, plausible, welded, functional, and singular
+
+Gameplay rule:
+The dozer supports the breach. Romeo remains the playable assault element on foot.
+
+================================================================================
+06. MISSION 04 END-STATE — LOCKED
+================================================================================
+
+The final-state logic is locked as follows:
+- the dozer completes its intended breaching role
+- after smashing the avenue roadblock and helping collapse the motor-pool / checkpoint pocket, it suffers a final mobility kill
+- preferred presentation: lodged off the avenue in rubble, rebar, debris, or broken street furniture
+- acceptable cause set: thrown track, shattered drive component, engine failure, jammed undercarriage, cumulative battlefield damage, terrain entrapment
+- it must read as worn out and dead, not martyred in a theatrical sacrifice shot
+
+Temporary end-of-fight function:
+- rear-mounted gun serves as a short-duration expedient strongpoint during the final stabilization push
+- this is not a permanent hero emplacement
+
+Post-fight diegetic rule:
+- resistance strips recoverable weaponry and useful heavy components from it after the fight
+- later revisit should show the hull repurposed into barricade / lookout / reclaimed defensive-civic infrastructure
+
+Guiding revisit rule:
+The neighborhood keeps the shell, not the weapon fantasy.
+
+================================================================================
+07. CAMPAIGN CONSEQUENCES
+================================================================================
+
+Completion consequences:
+- Van Hult’s shop becomes a reclaimed vehicle repair / fabrication node
+- wider Boston should show improved allied vehicle condition and improvised reinforcement capacity
+- branch completion should quietly strengthen the sense that the resistance can hold and maintain space
+
+Relationship to Kearney:
+- Van Hult is not a substitute for Eamonn Kearney
+- Kearney remains the hidden armorer / small-arms sustainment figure
+- Van Hult handles heavier fabrication / vehicle-space continuity
+- occasional overflow collaboration is acceptable; permanent identity collapse is not
+
+================================================================================
+08. WRITING / TONE RULES
+================================================================================
+
+Do:
+- keep the branch grounded, practical, and civic-minded
+- make the breach feel planned by workers and fighters together
+- show cost, preparation, and physical labor
+- preserve Boston’s layered geography and local continuity
+
+Do not:
+- frame Van Hult as a meme-killdozer reference in-text
+- turn the dozer into a recurring magical combat asset
+- make Romeo passenger to spectacle rather than active assault lead
+- write the epilogue as a clean victory lap with no scars or material aftermath
+
+================================================================================
+09. OPEN DETAIL PASS ITEMS
+================================================================================
+
+Still open for later dedicated development:
+- exact mission titles / subtitle styling if desired
+- named secondary NPCs within build cell
+- exact lane / avenue geography blockout
+- boss-fight equivalent threat shape during BODYWORK
+- epilogue music/licensing decision if kept diegetic
+- optional revisit interaction detail on immobilized hull
+
+================================================================================
+10. SOURCE-GOVERNANCE NOTE
+================================================================================
+
+This page should now be treated as the dedicated source landing for BODYWORK.
+When compendia are refreshed next, the patch-only BODYWORK carry-forward note should be treated as absorbed into this page.

@@ -1,0 +1,404 @@
+PROJECT WARRIORS — SOURCE-READY REFERENCE PAGE
+Document: PW_HOLDFAST_Post_LIFELINE_Follow_Up_Mission_Reference_Page_2026-04-13_rev1
+Generated: 2026-04-13
+Version: rev1
+Status: source-ready development page
+
+================================================================================
+TITLE / PURPOSE
+================================================================================
+
+MISSION TITLE: HOLDFAST
+CAMPAIGN: Romeo — Game 3 Boston arc
+PLACEMENT: Immediately after LIFELINE and its persistent-consequence shift;
+           late Act III moving toward Act IV
+MISSION TYPE: corridor validation / two-way movement / anti-severance action
+FUNCTION: first post-LIFELINE follow-up mission that cashes out the newly opened
+          British-backed CASEVAC corridor as a real campaign-changing artery
+
+CORE RULE THIS PAGE PROTECTS:
+LIFELINE must not feel like a one-off scripted miracle. HOLDFAST exists to prove
+that the route Vickers opened can actually be used under pressure, in both
+ directions, by real people carrying real stakes.
+
+SHORT THESIS LINE:
+LIFELINE opened the artery. HOLDFAST proves Boston can keep blood moving through it.
+
+================================================================================
+WHY THIS MISSION EXISTS
+================================================================================
+
+The Boston arc already establishes that British military CASEVAC becomes a late
+campaign capability once the coalition has materially formed around Romeo's
+operation. That unlock only matters if the player immediately experiences what it
+changes.
+
+HOLDFAST is the first mission where that new reality becomes practical rather than
+abstract:
+- wounded fighters and civilians can actually move out through a protected route
+- British matériel, med support, and technical personnel can move in through the
+  same route
+- the enemy recognizes the corridor as strategically dangerous and adapts to cut
+  it rather than merely absorb its existence
+
+The mission therefore serves three purposes at once:
+1. validates LIFELINE as real campaign progression
+2. demonstrates Vickers's widening layer as materially useful, not rhetorical
+3. teaches the player that a corridor is not "won" once — it must be kept open
+
+================================================================================
+RECOMMENDED NARRATIVE POSITION
+================================================================================
+
+BEST FIT:
+The mission should occur soon after Vickers's first-contact / first-briefing scene
+and immediately after the player has had just enough time to feel the LIFELINE
+campaign consequences in ambient form.
+
+This timing matters. The player should have had one or two quieter signs that the
+route exists — new planning language, visible British matériel, changed safe-zone
+behavior, more confidence around casualty handling — before being asked to defend
+that change in a mission.
+
+================================================================================
+CORE MISSION IDEA
+================================================================================
+
+The first full two-way movement through the newly opened corridor is scheduled
+under Vickers's authority.
+
+Outbound:
+- wounded resistance fighters
+- selected wounded civilians who can no longer be treated safely inside the
+  district
+- one medically fragile priority patient whose survival would have been doubtful
+  before LIFELINE
+
+Inbound:
+- British medical supplies
+- ammunition and batteries
+- compact field engineering package for route hardening / barricade improvement
+- limited signals equipment to strengthen the inner handoff node
+- a small Royal Marines protection element and technical personnel
+
+The movement is intentionally modest. This is not a triumphant road march.
+It is the first careful proof that the artery can be used without collapsing.
+
+The enemy has been watching. Once the first real pattern appears, Russian local
+command moves quickly to sever the corridor at its thinnest point.
+
+================================================================================
+MISSION IDENTITY
+================================================================================
+
+TONAL IDENTITY:
+Not a giant British assault. Not a pure medevac set piece. Not a convoy mission in
+open country.
+
+HOLDFAST should feel like:
+- a fragile logistical artery inside a half-liberated city
+- urgent movement through streets that were only just made usable
+- tactical proof that coalition support changes what resistance can sustain
+- enemy adaptation arriving faster than comfort does
+
+GAMEPLAY IDENTITY:
+- short-movement escort and handoff
+- dismounted route reopening
+- strongpoint clearing under time pressure
+- layered defense while the corridor is reconstituted
+- protection of people and movement, not just elimination of targets
+
+PLAYER FEEL TARGET:
+"We finally have something real — and now we have to keep it alive."
+
+================================================================================
+KEY CAST / CHARACTER USE
+================================================================================
+
+ROMEO:
+Playable. He is the force that keeps the route from being cut. The mission should
+feel like Romeo translating Vickers's larger framework into ground truth at the
+block level.
+
+LT. DOROTHY ANNE VICKERS:
+Operational lead. Calm, exact, unsentimental. She does not oversell the route or
+pretend it is secure. Her authority should come through clarity, timing, and the
+fact that what she said in briefing is now materially happening.
+
+ELENA COSTA:
+Local district-side anchor. She represents the part of Boston that has to trust
+this new arrangement without surrendering local control. She helps choose who goes
+out first and what matters enough to bring in.
+
+PAT NAPIER:
+Strong recommended use. This mission is an excellent place to cash out Pat's role
+as Romeo's practical combat medic. He should be centrally involved in deciding who
+must move, what can wait, and how ugly the pre-route standard of care used to be.
+His interaction with British military medicine should be professional, wary, and
+quietly meaningful rather than sentimental.
+
+MACE:
+Optional but recommended light use. He works best here as the dry bridge between
+covert British presence and Vickers's widened phase. He does not need to dominate
+screen time; a brief planning contribution or flank update is enough.
+
+ROYAL MARINES DETACHMENT:
+Mission-facing but not over-personalized. This is the first time the player should
+feel them as a functioning protective layer rather than a late-game abstract.
+
+================================================================================
+RECOMMENDED ENVIRONMENT / ROUTE CHARACTER
+================================================================================
+
+GENERAL GEOGRAPHY:
+Keep the route in the Boston industrial-service / rail-edge / back-street logic
+already established for late Boston rather than moving into a broad boulevard war
+fantasy.
+
+BEST SPATIAL CHARACTER:
+- broken service roads
+- warehouse edges
+- half-cleared intersections
+- underpasses and retaining walls
+- a narrow exposed crossing overlooked by enemy positions
+- one interior handoff node that can plausibly become a repeat-use casualty
+  collection point afterward
+
+The route should feel barely sufficient rather than comfortably secure.
+
+PROTECTED LEVEL-DESIGN RULE:
+The mission should look constricted and compromised without becoming mechanically
+frustrating. Visually claustrophobic, navigably honest.
+
+================================================================================
+MISSION FLOW — RECOMMENDED STRUCTURE
+================================================================================
+
+PHASE 1 — THE FIRST MOVEMENT
+Romeo begins at the interior district-side collection point.
+
+State of play:
+- wounded already assembled
+- Pat and local helpers triaging hard
+- Elena deciding who moves first and who still has to wait
+- inbound British package confirmed moving toward midpoint
+- Vickers establishing windows, timings, and fallback language over comms
+
+Player tasks:
+- secure immediate departure area
+- escort first outbound package through the first leg
+- establish that this is a real two-way movement system, not a cutscene
+
+Key feeling:
+The route exists, but nobody trusts it yet.
+
+
+PHASE 2 — THE CUT
+At the route's thinnest and most exposed middle segment, the enemy makes its move.
+
+Recommended enemy action:
+- pre-sighted mortar or light indirect fire onto a known choke point
+- machine-gun / DMR overwatch from an upper industrial shell or overpass edge
+- rushed obstacle emplacement from side streets to split outbound and inbound
+  elements
+- optional drone / recon feed implication rather than futuristic swarm spectacle
+
+Result:
+- vehicles cannot continue cleanly
+- the route is fragmented into pockets
+- the first outbound movement risks becoming a trap
+- the inbound support package stalls short of the inner node
+
+Critical design note:
+This must feel like the enemy learning, not like a random firefight.
+They are responding to a newly dangerous pattern in the city.
+
+
+PHASE 3 — ROMEO REOPENS THE SPINE
+The mission shifts from escort to violent route surgery.
+
+Romeo dismounts with a small element and clears the positions cutting the artery.
+This should be a compact, pressurized sequence through the built fabric surrounding
+ the choke point:
+- stairwells / service corridors / loading-bay interiors
+- rooftop or gantry gun position
+- flanking rooms controlling the lane below
+- one route-blocking emplacement that must be physically neutralized or bypassed
+
+The point is not body count. The point is to restore movement.
+
+Recommended protected line of logic:
+Romeo is not "taking the objective" in the abstract. He is making it possible for
+people to keep moving.
+
+
+PHASE 4 — THE INBOUND PACKAGE BECOMES THE STAKE
+Once the choke point is partly reopened, the inbound British element becomes exposed
+rather than safely off-screen.
+
+Recommended inbound contents:
+- med crates / blood / airway kit / hard-to-source sustainment items
+- radio batteries and compact relay gear
+- engineer stores for route hardening
+- one or two Royal Marines and a technical specialist whose survival matters
+
+Now the player has to:
+- link up with the stalled inbound package
+- move it through the reopened but still vulnerable corridor segment
+- protect both the outbound wounded and the inbound capacity that will make future
+  use of the corridor possible
+
+This is the phase that proves the route is valuable in both directions.
+
+
+PHASE 5 — INNER NODE HARDENING
+The mission's final movement is not back to calm. It is into function.
+
+Romeo returns with the inbound package to the inner handoff node, where the player
+must secure a perimeter long enough for the first real British-backed interior
+casualty collection / stabilization point to come online.
+
+Recommended tasks:
+- clear remaining enemy pressure around the node
+- hold perimeter while equipment is unpacked and basic routing established
+- protect med staff / tech personnel / local helpers
+- possibly move one critical casualty to the new treatment room under time pressure
+
+Important tone rule:
+This should not read as a pristine field hospital magically appearing.
+It should read as a hard-won, improvised, militarily credible stabilization space
+that is vastly better than what the district had before.
+
+
+PHASE 6 — SECOND WAVE / MISSION PROOF
+Before mission end, there should be one final confirming beat:
+- another casualty successfully moved out
+- another needed item successfully moved in
+- Vickers or Pat confirming in precise language that this changes what the district
+  can survive
+
+That beat is the mission's emotional lock.
+The player must not leave wondering whether all that effort changed anything.
+
+================================================================================
+RECOMMENDED ENEMY LOGIC
+================================================================================
+
+ENEMY OBJECTIVE:
+Not to retake the whole district. Not to wipe out every resistance fighter.
+To cut the corridor and prove it cannot be used reliably.
+
+BEST ENEMY COMPOSITION:
+- disciplined local occupation infantry / motorized troops
+- one stronger internal-security or special-purpose cell coordinating the cut
+- competent overwatch rather than endless waves
+
+The enemy should feel tactically coherent and unpleasantly fast at adapting.
+That makes the British widening feel contested and therefore real.
+
+================================================================================
+MISSION-SPECIFIC CHARACTER BEATS
+================================================================================
+
+PAT / BRITISH MEDICAL LOGIC:
+Pat should recognize immediately what is different about real military casualty
+movement, but he should not romanticize it. His response should be practical.
+For example: less about gratitude, more about finally having options he can trust.
+
+ELENA / CONTROL OF THE DISTRICT:
+Elena should not read as surrendering control to Britain. The mission should show
+her deciding what the district sends, what it accepts, and what it still refuses.
+The coalition works because it is negotiated, not absorbed.
+
+VICKERS / CREDIBILITY:
+This mission is where Vickers becomes unquestionably real to the player.
+Not through a speech. Through competence under interruption.
+Her comms in this mission should be exact, dry, and useful — the kind of command
+voice that narrows panic rather than amplifying it.
+
+MACE / QUIET HUMOR UNDER PRESSURE:
+Optional but useful small beat. A single line after the cut is reopened can keep
+continuity with the earlier covert British tone without stealing the mission.
+Something dry, clipped, and instantly finished.
+
+================================================================================
+SUPPORT / SYSTEM CONSEQUENCES THIS MISSION MUST DELIVER
+================================================================================
+
+After HOLDFAST, the following should be treated as materially more believable in
+campaign logic:
+- British interior casualty collection is now a functioning reality, not just a
+  distant receiving point
+- later missions can route wounded through this infrastructure with less bespoke
+  explanation
+- British supplies and limited technical reach now extend further into the city
+- Vickers has earned both player trust and local resistance confidence
+- the enemy is now actively hunting corridor logic, meaning future route use
+  carries tension even when available
+
+This mission should therefore unlock or justify:
+- more confident late-Boston CASEVAC use
+- stronger interior safe-zone feel at the handoff node
+- follow-on missions with slightly higher operational ambition because sustainment
+  has improved
+- increased enemy adaptation in any later mission touching the same corridor system
+
+================================================================================
+POST-MISSION WORLDSTATE CHANGES
+================================================================================
+
+ENVIRONMENTAL:
+- more obvious casualty-routing preparation at the inner node
+- visible British crates, medical packaging, batteries, comms gear, stretcher
+  traffic, route markings, and better barricade discipline
+- civilians react differently: not relaxed, but less purely trapped
+
+MISSION BRIEFING LANGUAGE:
+After HOLDFAST, later briefings can talk about casualty movement, resupply windows,
+ and route timing as established facts rather than hopeful experiments.
+
+PLAYER EXPECTATION:
+The player now understands that Boston's liberation is not only about taking
+ ground. It is about making districts survivable long enough to keep fighting.
+
+================================================================================
+TIES TO LARGER BOSTON ARC
+================================================================================
+
+HOLDFAST should strengthen, not replace, the wider British mission lanes.
+
+It supports:
+- Vickers / Royal Marines late-Boston widening
+- the harbor strike logic by showing Britain can now help sustain the city, not
+  only raid for it
+- any later hostage/HVP or evacuation logic by proving movement infrastructure can
+  exist under pressure
+- Romeo's larger campaign thesis that liberation is about what kind of order can
+  actually replace occupation
+
+This is especially important for Boston's late-campaign identity:
+not "the British arrived and fixed it," but "their arrival helped make holding and
+surviving liberated ground actually possible."
+
+================================================================================
+OPEN FLAGS / NEXT DEVELOPMENT STEPS
+================================================================================
+
+FLAG 01: Exact district-side node location — choose once the late-Boston mission map
+         order is fixed
+FLAG 02: Whether Pat is physically present throughout or partially staged between
+         nodes
+FLAG 03: Whether Mace appears on the ground or only over comms / parallel flank
+FLAG 04: Exact enemy cut method — mortar first, DMR/MG first, or obstacle-first
+         depending on how dense the surrounding mission run becomes
+FLAG 05: Whether the incoming technical package seeds a later mission-specific
+         capability such as stronger comms, route lighting discipline, or limited
+         recon support
+
+RECOMMENDED IMMEDIATE FOLLOW-ON:
+Build the matching screenplay / mission-scripting path for HOLDFAST, because this
+mission is now load-bearing for making Vickers's widening phase feel physically real.
+
+================================================================================
+END OF PAGE
+================================================================================

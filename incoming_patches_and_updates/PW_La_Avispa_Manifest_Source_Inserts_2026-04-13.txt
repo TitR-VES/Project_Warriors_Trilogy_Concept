@@ -1,0 +1,80 @@
+PROJECT WARRIORS — SOURCE INSERT
+Target domain: 05 Missions / Scenes / Cinematics
+Status: LOCKED
+Date: 2026-04-13
+Subject: La Avispa selective flashback — THE GREAT DISAPPEARANCE / MANIFEST
+
+INSERT BLOCK
+
+La Avispa selective flashback concept is now locked under the internal label THE GREAT DISAPPEARANCE, with MANIFEST as the preferred working mission title.
+
+Canonical route:
+Bruges burn -> Brussels departure -> Vienna-bound commercial flight.
+
+Sequence logic:
+After a surveillance/tail job in Bruges goes catastrophically wrong, La Avispa is burned by her handlers and forced into immediate exfil toward a fallback contact in Vienna. She boards a commercial flight out of Brussels using an improvised travel identity. The aircraft is sabotaged on approach and crashes in muddy airport-edge ground outside Vienna.
+
+Playable structure:
+- brief lavatory-to-seat pre-impact setup inside the aircraft
+- short fragmented crash phase
+- concussion-haze aftermath walk as the true playable core
+
+Tone / execution rule:
+Treat this as an aftermath-first survival sequence, not a long disaster-ride set piece. The crash itself should be violent, brief, and fragmented. The emotional center is the player regaining partial control in the wreck field and realizing rescue is compromised.
+
+Key twist:
+An FSB retrieval element is folded into or moving alongside the first-responder perimeter and is searching survivors specifically for her. La Avispa recognizes the threat before she is fully steady on her feet.
+
+Prompt language direction:
+Functional prompts should stay restrained through most of the sequence, with the key late-sequence narrative prompt carrying the turn:
+LEAVE -> RETURN TO SEAT -> BRACE -> WAKE -> STAND -> MOVE -> DISAPPEAR
+
+Outcome:
+La Avispa sheds the last usable trace of her travel identity, slips away through the drainage / flood-control edge of the crash site, collapses in concealment, and is effectively processed by the world as dead, missing, or unconfirmed. She does not correct the record.
+
+End-state rule:
+End the flashback before recovery becomes competence. Do not let the sequence turn into a chase level or a full operational comeback.
+
+
+============================================================================================
+
+PROJECT WARRIORS — SOURCE INSERT
+Target domain: 03 Characters / DLC
+Status: LOCKED
+Date: 2026-04-13
+Subject: La Avispa flashback integration note — THE GREAT DISAPPEARANCE / MANIFEST
+
+INSERT BLOCK
+
+La Avispa now has a locked selective flashback concept titled internally THE GREAT DISAPPEARANCE, with MANIFEST as the preferred working mission title.
+
+Function in campaign:
+This is a selective flashback, not a detached prequel detour. It should be used as one of the key authored reveals explaining how La Avispa once disappeared so completely that the world processed her as dead, missing, or unconfirmed.
+
+Canonical route and event:
+After being burned following a Bruges surveillance job, she secures passage out of Brussels on a Vienna-bound commercial flight. The aircraft is sabotaged on approach and crashes in muddy airport-edge ground outside Vienna.
+
+Character-use rule:
+The sequence should prove La Avispa's survivability through bodily ordeal, cold judgment, and opportunistic self-erasure rather than through superhuman action spectacle. The playable emphasis is concussion, recognition, concealment, and disappearance.
+
+Threat twist:
+FSB retrieval operatives are present within or alongside the responder perimeter, searching the crash survivors for her.
+
+Outcome:
+She abandons the last clean trace of her travel identity, escapes through the drainage edge of the crash site, collapses in concealment, and is effectively declared gone by the outside world.
+
+Reserve note:
+A separate Spook plane-crash / sabotage-discovery variant remains parked in reserve and is not active development.
+
+
+============================================================================================
+
+THREAD CLOSEOUT NOTE
+
+Archive status after source landing:
+Ready to archive.
+
+Reason:
+- concept locked
+- project memory landed
+- source insert now landed in both Missions / Scenes / Cinematics and Characters / DLC domains

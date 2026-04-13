@@ -1,0 +1,113 @@
+PROJECT WARRIORS
+RADIO SYSTEM — MISSIONS / SCENES / CINEMATICS COMPENDIUM INSERT v1
+
+Section: Radio Deployment / Mission Packet Architecture
+
+Purpose
+This insert records the phase logic, packet sequencing, and mission-window deployment for the current Romeo campaign radio system.
+
+Phase structure summary
+
+Kentucky / THE RIDGE
+- very early occupied-town routine: First Morning in Calloway
+- early-to-mid county strain: The Redbud Vehicles
+- later public narrowing under scrutiny: Washington's Wall
+- late-liberation civilian reopening texture: County Breathes Again
+
+Kentucky / FIELDHOUSE
+- mid-campaign growth / shared direction: Hard Ground
+- late-phase scrutiny / dispersal pressure: Washington's Wall
+- late-liberation trusted local steadiness: County Holds
+
+Boston / HARBOR
+- early occupied routine / morning district crossing: First Contact
+- hard-constraint / industrial-belt pressure: Open the Route
+- post-BODYWORK reclaimed-function evening: First Night on the Reclaimed Row
+
+Mission packet ledger
+
+1) THE RIDGE — First Morning in Calloway
+- very early campaign-opening civilian FM packet
+- early morning
+- use for opening town pass, diner/kitchen/hardware-store radio, first occupied-town civilian sound
+
+2) THE RIDGE — The Redbud Vehicles
+- late morning / midday civilian FM packet
+- use for pre-recon drive, garage prep, civilian-adjacent route approach
+
+3) FIELDHOUSE — Hard Ground
+- mid-campaign burst packet
+- use for safehouse prep, parked-vehicle pauses, school-adjacent spaces, quiet movement between local nodes
+
+4) THE RIDGE — Washington's Wall
+- later-strain civilian FM packet
+- late afternoon / early evening
+- use for Cumberland-adjacent approach, hardware-store or kitchen radio, regroup spaces
+
+5) FIELDHOUSE — Washington's Wall
+- late-phase scrutiny packet
+- burst-based late afternoon into dusk
+- use for relocation prep, truck loading, darkened back rooms, garage regroup under pressure
+
+6) THE RIDGE — County Breathes Again
+- late-liberation civilian FM packet
+- partial reopening / damaged normality / ordinary planning returning in pieces
+- use for calmer drives, shop/diner returns, later county traversal
+
+7) FIELDHOUSE — County Holds
+- late-liberation trusted local packet
+- practical recovery / community maintenance / quieter local confidence
+- use for school/church/garage/recovery-node revisits and late-game local recovery windows
+
+8) HARBOR — First Contact
+- morning-drive packet
+- early Boston / district crossing / pre-full Elena route-authority feel
+- use for apartment departure, parked-car movement, early city traversal
+
+9) HARBOR — Open the Route
+- late-afternoon industrial-belt packet
+- BODYWORK branch / route and corridor pressure / public understatement
+- use for approach or staging before contact in Newmarket-Widett-South Bay spaces
+
+10) HARBOR — First Night on the Reclaimed Row
+- evening post-BODYWORK packet
+- reclaimed-function quiet / block-level recovery / repair-row lived consequence
+- use for Van Hult revisit, workshop decompression, laundry/market/apartment spaces near reclaimed row
+
+Deployment rules
+- THE RIDGE and FIELDHOUSE are not substitutes.
+- THE RIDGE is the county public voice.
+- FIELDHOUSE is the trusted local community voice.
+- HARBOR is the public city voice.
+- Packet selection should always be checked against station role, campaign phase, time of day, geography, and whether the scene needs public voice, trusted voice, or city-systems voice.
+
+Industrial-belt rule
+The Boston industrial-belt packet family is strongest around hard-constraint and contested-city states, especially BODYWORK / Open the Route / post-BODYWORK revisit-state spaces. Reclaimed-function variants should sound practical rather than celebratory.
+
+Open expansion slots
+Kentucky
+- one post-major-speech / national-ripple media packet if needed later
+- one very late short-form county-normality packet if end-state texture needs another civilian pass
+
+Boston
+- one non-BODYWORK district HARBOR packet
+- one deep-night safehouse / apartment HARBOR packet if a more intimate urban window is needed
+- one recovery-state morning mission packet beyond First Contact if Boston's later-state routine needs dedicated texture
+
+Sequencing shorthand
+Game 2
+1. Ridge / First Morning in Calloway
+2. Ridge / Redbud Vehicles
+3. Fieldhouse / Hard Ground
+4. Ridge / Washington's Wall
+5. Fieldhouse / Washington's Wall
+6. Ridge / County Breathes Again
+7. Fieldhouse / County Holds
+
+Game 3
+8. Harbor / First Contact
+9. Harbor / Open the Route
+10. Harbor / First Night on the Reclaimed Row
+
+Use note
+Do not treat these packets as decorative flavor only. Each packet marks a campaign phase, a social scale, and a truth relationship.

@@ -1,0 +1,760 @@
+================================================================================
+PROJECT WARRIORS — WEAPONS DEVELOPMENT THREAD
+Full Summary — All Decisions, Discussions, and Outcomes
+================================================================================
+Thread purpose: Dedicated weapons development for the Project Warriors FPS
+trilogy. Covers weapon roster by faction, named character builds, per-mission
+weapon tables, named enemy loadouts, character kit profiles, attachment/
+customization system, inspect weapon mechanic, and new character development
+(SSgt André Bridges).
+Filed for: Project Knowledge upload — all threads
+Related filed documents:
+  - named_weapon_builds_v2_1.txt (full named build specs)
+  - character_narrative_profiles.txt (character weapon philosophy + behavior)
+  - character_profile_andre_bridges.txt (full André Bridges profile)
+================================================================================
+
+--------------------------------------------------------------------------------
+PART 1 — DESIGN PARAMETERS (established at thread open)
+--------------------------------------------------------------------------------
+
+WEAPON SYSTEM APPROACH: Mostly realistic — real-world guns accurate to 2028
+military/paramilitary use, with a small number of near-future prototype weapons.
+
+RARITY SYSTEM: Both — some weapons hidden as collectibles requiring exploration
+or side objectives; some dropped by defeating specific named/elite enemies.
+
+FACTION COVERAGE: All factions developed simultaneously.
+
+--------------------------------------------------------------------------------
+PART 2 — WEAPON ROSTER BY FACTION
+--------------------------------------------------------------------------------
+
+NOTE: Full faction tables with tiers (Standard / Uncommon / Rare) are
+contained in the thread itself. Below is a summary of key decisions and
+faction-specific design principles.
+
+US MILITARY / NATO (Player-side):
+  - Rangers (Romeo): M4A1 DD MK18, SIG MCX Spear (NGSW late game),
+    M249 SAW, M320 GLM, AT4, MAAWS Carl Gustaf M4
+  - AEGIS (Ducky): HK416 A5 as standard, FN SCAR-H, FN P90, B&T APC9K
+  - Ground Branch (Spook): Suppressed compact platforms, HK MP5SD,
+    SIG MPX-K
+  - Standard sidearms: Glock 19 Gen5, SIG P320-M17, SIG P226 MK25
+  - Key design note: AEGIS carries European platforms deliberately —
+    multinational unit with European procurement character
+
+RUSSIAN FORCES (VDV / GRU / FSB Vympel):
+  - Line infantry: AK-74M, AKM, SVD Dragunov, PKM/PKP Pecheneg, RPG-7
+  - VDV elite: AK-12, AK-15, ORSIS T-5000
+  - FSB Spetsnaz: AS Val, VSS Vintorez, SR-3M Vikhr, 9A-91
+  - Vympel naval: OTs-14 Groza, PSS-2 silent pistol, SPP-1M, APS
+  - KEY DESIGN NOTE: When player starts seeing AS Vals and VSS instead
+    of AKMs — they know they are fighting better-trained enemies
+  - 7.62x39mm thread: AKM/AK-15 drops feed CMMG Mk47 ammo pool
+    throughout Romeo's late campaign — deliberate cross-faction mechanic
+
+NORTH KOREAN FORCES (KPA):
+  - Standard: Type 58/Type 68 (AKM clones — FEEDS CMMG Mk47), Type 88
+  - Elite SOF: Type 98, indigenous bullpup (unsettling, unlike anything else)
+  - Support: Type 73 LMG, F-7 RPG clone, Bulsae-3 ATGM
+  - KEY DESIGN NOTE: DPRK infantry look deliberately wrong — older,
+    indigenous designs that signal "different from Russian kit"
+
+LOS SIETES CARTEL:
+  - Standard: AKM/WASR-10, AR-15 variants (stolen LE), Glock 17/19,
+    Mossberg 500, Saiga-12
+  - Elite sicarios: FN SCAR-L, HK MP5, FN Five-seveN, Vector KRISS V
+  - KEY DESIGN NOTE: Elite Cartel kit (K Lounge, Bisutri's team) should
+    feel professional, not gangster — purchased military-grade hardware
+
+ATLAS PMC / WAR WOLVES:
+  - Standard: HK416 A5 suppressed, Daniel Defense MK18 suppressed
+  - Elite: MCX Rattler (300BLK), AXSR, CheyTac M200
+  - KEY DESIGN NOTE: Atlas carries same platforms as AEGIS and Ground
+    Branch — deliberate uncomfortable parallel about shared procurement.
+    War Wolves are the most individually dangerous human enemies in Game 1.
+
+FSB VYMPEL (Shipboard / Hull Breach):
+  - 9A-91 suppressed, AS Val, SR-3M Vikhr, OTs-14 Groza
+  - PSS-2 silent pistol, SPP-1M underwater pistol, APS underwater rifle
+  - KEY DESIGN NOTE: All Vympel kit optimized for confined steel spaces —
+    subsonic, suppressed, compact. They are mechanically different enemies.
+
+AMMO ECONOMY DESIGN THREADS:
+  7.62x39mm — richest scavenge caliber. DPRK Type 58, Russian AKM/AK-15,
+    Los Sietes AKM all feed this pool. CMMG Mk47 unlock in Down Rodeo is
+    a gameplay infrastructure decision paying off through San Diego finale.
+  9x39mm — creates its own niche economy when Vympel appear. AS Val/VSS/
+    SR-3M/9A-91 drops sustain the caliber on scavenge.
+  300 BLK — deliberately scarce. No enemy uses it. GRAY GHOST is a luxury
+    weapon; Atlas MCX Rattler drops provide limited scavenge.
+  5.56 NATO — baseline. Most universally available across all campaigns.
+
+--------------------------------------------------------------------------------
+PART 3 — NAMED CHARACTER BUILDS (all confirmed, v2.1)
+--------------------------------------------------------------------------------
+
+BUILD 01 — GRAY GHOST (Spook's primary)
+  Platform:   Noveske Rifleworks N-4 Gen3 (NOT HK — confirmed correction)
+  Caliber:    300 Blackout
+  Barrel:     10.5" select fire
+  Finish:     Solid dark gray Cerakote, no markings
+  Handguard:  NWS-9 M-LOK
+  Optics:     Aimpoint T-2 1x22 on 0.8" riser + Aimpoint 3x magnifier
+              swing-to-side behind red dot
+  Canted:     45-deg offset MBUS Pro Offset (black)
+  Laser:      BE Meyers MAWL-DA — player-unlocked after Burning Daylight
+  Light:      SureFire Scout, extended momentary switch
+  Foregrip:   Milled aluminum skeleton grip + barrier stop, front-mid
+  Suppressor: SureFire SOCOM556-RC2
+  Ammo types: 300BLK SUBSONIC (default, near-silent) /
+              300BLK SUPERSONIC (louder — signals mission changed)
+  Dust cover: Faint worn "300 BLK" factory marking visible in inspect
+  Build name in overlay: GRAY GHOST
+
+BUILD 02 — NOTHING (Spook's sidearm)
+  Platform:   HK45CT
+  Caliber:    .45 ACP
+  Finish:     Dark gray Cerakote — matches GRAY GHOST
+  Light:      Streamlight TLR-7A
+  Suppressor: Nielsen device
+  NAME MECHANIC: When asked what he's carrying, Spook answers "Nothing" —
+    technically literally true. Flat delivery, no smile, no pause.
+    Recurring Godkiller thread: first use almost funny, second unsettling,
+    third the word itself carries weight.
+    [Flag: develop specific dialogue moments in Godkiller mission writing]
+  Build name in overlay: NOTHING
+
+BUILD 03 — FREYA (Ducky's primary)
+  Platform:   Grand Power R-15 Freya GEN 2
+              (fictional 2nd-gen prototype of real Grand Power R-15)
+  Caliber:    5.56x45mm NATO
+  Barrel:     16" cold hammer-forged
+  GEN 2 specifics: No forward assist. No magwell ports (clean lower).
+    Ambidextrous bolt release. Refined trigger from AEGIS operator feedback.
+    Weapon card: "Pre-production evaluation unit, serial 004 of 12"
+  Color: Receiver/upper/lower/handguard = OLIVE GREEN
+         Barrel/buffer tube/muzzle device/grip/stock = BLACK
+         Aimpoint Comp M5s housing + magnifier housing = FDE
+         All small hardware (canted sights, QD D-ring) = BLACK
+  Rail:       Geissele MK4 M-LOK
+  Optic:      Aimpoint Comp M5s FDE housing, 1.5" riser
+  Laser:      MAWL-C1+ (AEGIS standard)
+  Light:      SureFire Scout Pro, 9 o'clock M-LOK
+  Grip:       Magpul MOE-K2 (black)
+  Stock:      BCM Gunfighter (black)
+  Suppressor: B&T Rotex-V (removed for Rotterdam finale — first time player
+              fires FREYA in open conditions; sounds/handles differently)
+  Build name in overlay: FREYA
+  NAME RESONANCE: Platform name + Norse register of AEGIS world + echoes
+    HDMS Freja (Danish vessel that extracts AEGIS at end of Wirecutter)
+
+BUILD 04 — CZ P-09 (Ducky's sidearm — UNNAMED)
+  Platform:   CZ P-09
+  Caliber:    9x19mm
+  Finish:     Two-tone — black slide / FDE lower
+  Barrel:     Threaded
+  Optic:      Trijicon RMR Type 2
+  Light:      SureFire X300U
+  Suppressor: B&T Rotex-III (available mission 2+)
+  NOTE: No build name. FREYA carries Ducky's identity.
+
+BUILD 05 — DON'T TREAD (Romeo's early Game 2 primary)
+  Platform:   Ruger AC-556 (military selective-fire variant)
+  Caliber:    5.56x45mm NATO
+  Config:     Folding stock, compact tactical
+  Magazines:  20-round factory — limit felt immediately; player adapts
+  Engraving:  "DON'T TREAD" — Gadsden flag spelling — eagle clutching
+              banner, left side of receiver, appears hand-done (Dremel)
+  Provenance: From Dale Pruett, end of mission Low Ground. Unhurried
+              handoff animation — Dale checks action, wipes receiver,
+              passes stock-first. "DON'T TREAD" visible during animation.
+  Echo:       Photo/patch in Dale's house mirrors motto — no dialogue
+  Narrative:  Phases out naturally mid-campaign. Setting aside = story beat.
+  Story flag: Act Two militia member recognizes engraving — dangerous
+              mistaken assumption Romeo must navigate.
+              [Flag: main narrative thread]
+  Build name in overlay: DON'T TREAD
+
+BUILD 06 — TRG M10 (Frost's primary)
+  Platform:   Sako TRG M10
+  Caliber:    .338 Lapua Magnum
+  Barrel:     27" fluted match-grade, threaded
+  Finish:     Chassis=olive drab, barrel/suppressor=matte black,
+              scope=matte black, caps=tan (always closed when not in use)
+  Suppressor: Sako/Vaime SAR .338 (permanent field fixture)
+  Optic:      Schmidt & Bender PM II 5-25x56 (worn at reticle center)
+  Bipod:      Atlas BT10 V8 on ARCA rail
+  Ammo:       Lapua Scenar 250gr BTHP (hand-loaded garrison / factory field)
+  Stock:      Adjusted to Frost's exact measurements, white ink reference marks
+  NAME NOTE: Not a name Frost gave — platform name IS build name. Weapon and
+    man so identified the distinction ceased to matter. Frost names nothing.
+    Absence of naming IS the character statement.
+  Build name in overlay: TRG M10
+  INSPECT: Rotates slowly, thumb along bolt handle, checks suppressor lockup
+    two fingers, scope caps remain closed throughout.
+
+BUILD 07 — COLD PLUNGE RIFLE (Frost — mission specific, Cold Frontier 07)
+  Platform:   Tikka T3x TAC A1
+  Caliber:    .308 Winchester
+  Config:     Standard Finnish military exercise configuration
+  Lost:       Knocked from hands during cliff fall into icy lake.
+              Not recovered. Not available as pickup.
+              Its loss = narrative origin of Frost's preference for distance.
+
+BUILD 08 — WREN (Switchblade's primary)
+  Platform:   Steyr AUG A3
+  Caliber:    5.56x45mm NATO
+  Finish:     Olive green (factory — darker than FREYA; Australian AUSCAM
+              green shade; present since AUS Army service, never repainted)
+  Rail:       NATO Picatinny top rail (replacing AUG factory optic)
+  Optic:      Trijicon MRO red dot, 1.5" absolute co-witness
+  Laser:      MAWL-C1+ at 12 o'clock (AEGIS standard)
+  Light:      Modlite OKW, 9 o'clock M-LOK
+  Suppressor: SureFire SOCOM556-Mini2 (removed when report useful tactically)
+  Grip:       AUG factory thumbhole — unchanged
+  Sling:      Blue Force Gear Vickers VCAS (single to two-point)
+  NAME: "WREN" in black marker INSIDE dust cover. Visible ONLY during
+    bolt-open empty-chamber animation. NOT in inspect overlay.
+    Named after a bird — small, moves faster than it has any right to.
+    She has never told anyone.
+  INSPECT: Build name NOT in overlay. WREN discoverable bolt-open only.
+
+BUILD 09 — ARGINT (Lupin's primary)
+  Platform:   FN SCAR-H DMR configuration
+  Caliber:    7.62x51mm NATO
+  Barrel:     20" DMR
+  Finish:     Factory FDE + black electrical tape strip on suppressor top
+              (reduces heat shimmer in optic — "field adaptation, non-structural")
+  Trigger:    Geissele Super SCAR
+  Optic:      Nightforce NX8 1-8x F1 (first focal plane)
+  Backup:     Trijicon RMR 45-degree offset
+  Laser:      MAWL-C1+ at 12 o'clock
+  Light:      SureFire Scout Pro, 9 o'clock M-LOK
+  Bipod:      Atlas BT10 V8
+  Suppressor: SureFire SOCOM762-Mini2
+  NAME: "ARGINT" = Romanian for silver. Small block letters underside of
+    stock in black marker. Frost read it once, said nothing.
+  Build name in overlay: ARGINT
+
+SIGNATURE SIDEARMS (supporting characters):
+  Lupin:       Walther P-99 AS 9mm, Romanian issue, threaded barrel,
+               Trijicon RMR, X300U, B&T Rotex-III suppressor
+  Frost:       Glock 19 Gen5 COMPLETELY UNMODIFIED — night sights only.
+               Red electrical tape on mag baseplates for tactile ID in dark.
+               (tape = only non-factory element)
+  Switchblade: Glock 17 Gen5, SureFire X300U, no optic
+  André:       Glock 19M USMC issue, TLR-7A only — no other modifications
+
+--------------------------------------------------------------------------------
+PART 4 — SIGNATURE BLADES
+--------------------------------------------------------------------------------
+
+SWITCHBLADE — Benchmade 3300BK Infidel (OTF automatic)
+  3.91" double-edged tanto, matte black DLC. Black aluminum handle worn
+  on thumb stud. Finger-hook lanyard mod for draw/retention. Right hip
+  horizontal belt clip. Carried since age 17 Melbourne streets — 3rd unit,
+  previous two left at scenes not discussed. Origin never discussed.
+  Narratively adjacent to house fire beat — never explicitly connected.
+  Inspect (Glock 17): left hand visible with forearm scar — no camera
+  attention drawn to it.
+
+LUPIN — Romanian Army M1974 bayonet (modified)
+  7" fixed, reprofiled/thinned by Romanian bladesmith. Black paracord
+  rewrap over original grip panels. Kydex sheath left thigh, edge-in,
+  handle forward. Draws LEFT-HANDED. Eastern Bloc steel pattern visible
+  to knowledgeable players.
+
+FROST — Peltonen Ranger M95 (Finnish military issue, unmodified)
+  Left shoulder strap, handle down. Carried since conscript service.
+  Used in Cold Plunge lake encounter — implied, not shown. Handle worn
+  smooth. IDENTICAL knife to Lantern (Nereid Black) — acquired from
+  Finnish exchange operator. Neither has mentioned this to the other.
+
+CODY BEAUMONT — Buck 110 Folding Hunter
+  Stag handle, older style. Father's knife before it was his.
+  Right hip belt sheath forward of holster. Recently sharpened —
+  keener than anything else on his kit.
+  POST-CODY: Appears on resistance cell barn workbench in later mission —
+  cleaned, folded, placed deliberately. No scene shows who placed it.
+  No character comments. Present the way grief is present.
+
+LA AVISPA — Three-blade system
+  Blade 1 (Primary): Extrema Ratio HF3 — 3.5" tanto, partially serrated,
+    Forprene handle. 3rd unit — previous two left at scenes not discussed.
+    Horizontal belt concealed beneath jacket hem. One-handed draw either side.
+  Blade 2 (Secondary/Presence): Boker Magnum Bowie — 12" overall.
+    Carried openly on thigh in Los Sietes enforcement contexts ONLY.
+    NOT carried with Spook — too conspicuous.
+  Blade 3 (Deep concealed): Spyderco Civilian — fully serrated curved blade.
+    Appendix inside waistband. Draw-stroke deploys and uses simultaneously.
+    Has not used this specific knife. Has used what it replaced, twice.
+  PROTECTED LINE: "A gun is a conversation. A knife is a conclusion."
+    Spoken to Spook, quiet moment between contacts.
+
+--------------------------------------------------------------------------------
+PART 5 — INSPECT WEAPON MECHANIC (finalized)
+--------------------------------------------------------------------------------
+
+BEHAVIOR BY CLASS:
+  Rifles/carbines/DMRs/LMGs: Arms-length, rotated slowly right, 3-4 seconds,
+    support hand repositions naturally.
+  Pistols/compact SMGs: Hand-profile, strong-side. Hammer-check motion for
+    weapons with external hammers (CZ P-09, HK45CT, P-99) — varies per weapon.
+  Shotguns: Rack-and-check, forend half-inch back and released.
+
+SIGNATURE WEAPON ANIMATIONS: Slightly longer/more detailed.
+  Build name in overlay bottom frame for:
+  GRAY GHOST / NOTHING / FREYA / TRG M10 / ARGINT / DON'T TREAD
+  WREN: NOT in overlay — bolt-open empty-chamber animation ONLY.
+
+OVERLAY (field modification mode):
+  Semi-transparent, non-intrusive. Labels near attachment points.
+  Empty rails with nothing available: no label shown.
+  Field-removable (interactable):
+    Suppressors / QD-mount optics / weapon lights / MAWL-DA / MAWL-C1+ /
+    foregrips / ammunition type (where multiple types loaded)
+  Non-removable (no prompt):
+    Fixed barrels / integrated handguards / permanently mounted hardware
+
+AMMO SWITCHING:
+  Most weapons: single caliber shown.
+  GRAY GHOST: 300BLK SUBSONIC / 300BLK SUPERSONIC — switching requires
+    magazine change animation ~4 seconds, NOT skippable. Tactical risk.
+
+PHYSICAL REMOVAL ANIMATION: ~3 seconds. Not skippable.
+  Removing a suppressor mid-contact is a deliberate tactical cost.
+
+GRAY GHOST DUST COVER: Faint worn factory marking "300 BLK" visible in
+  inspect. Worn from years of handling, not deliberate removal.
+
+MAWL-DA INSPECT (once unlocked on GRAY GHOST): Thumb clicks activation
+  dial one position forward and back. IR beam briefly pulses visible.
+
+CLEANING ANIMATIONS (gunsmith between missions):
+  Romeo:  Fast, functional, muscle memory. No ceremony.
+  Ducky:  Methodical — checks each component before reassembly.
+  Spook:  Slow, almost meditative. The cleaning is how he thinks.
+  Others: Not yet specified — flag for development.
+
+GUNSMITH SYSTEM (between missions only):
+  Laid flat on workbench. All attachment points visible including non-field-
+  removable. Categories: Barrel / Muzzle / Optics / Underbarrel /
+  Laser/IR / Stock / Grip / Internal (trigger, BCG, buffer — affects
+  performance, not visible on model).
+  Signature weapons CAN be modified but core identity cannot be changed
+  (GRAY GHOST cannot become another color; FREYA color discipline locked).
+
+--------------------------------------------------------------------------------
+PART 6 — RARE AND STORY-SPECIFIC WEAPON DROPS
+--------------------------------------------------------------------------------
+
+CMMG Mk47 Mutant | 7.62x39mm
+  Dropped by: K Lounge Sicario Lieutenant (Down Rodeo, Romeo G1)
+  Visual ID: Red baseball cap backwards; Crye JPC; shark jaw tattoo on
+    right forearm (smaller/black-only — earned but not the full version).
+  Behavior: Emerges from side door ~45 sec into contact. Controlled pairs.
+    Uses smoke if pinned. More dangerous with Five-seveN at close range
+    than Mk47 at medium.
+  TIMER: If player doesn't close within ~90 sec of standard sicarios down,
+    Lieutenant exits rear door — BOTH weapons lost, NO notification.
+
+Desert Eagle Mk XIX | .50 AE
+  Dropped by: Mezzanine ambush leader (Pandora's Box, Spook G1)
+  EASTER EGG: First 2-3 sec of Max Payne main theme (solo piano, low
+    volume, slightly muffled) plays at EXACT instant weapon settles into
+    Spook's hand during pickup animation. Gone before player can process.
+    Nothing in game acknowledges it.
+  Inspect: Spook turns weapon over once, pauses half-beat longer —
+    mildly finding it absurd. No dialogue. Just the pause.
+
+PSS-2 Silent Pistol | 7.62x41mm (4-round cylinder)
+  Mechanically unique: completely silent, no muzzle flash, no suppressor.
+  Locations: Wirecutter (Vympel officer in hold + Dive Team Commander);
+    Burning Daylight (FSB officer stealth section).
+  If missed in Wirecutter, Burning Daylight is second opportunity.
+
+OTs-14 Groza | 9x39mm / 40mm UGL
+  Locations: Wirecutter (Vympel Dive Team Commander);
+    Rotterdam (Spetsnaz demolitions operator).
+  9x39mm feeds from AS Val / 9A-91 scavenge throughout rest of mission.
+
+SPP-1M Underwater Pistol + APS Underwater Rifle
+  Location: Vympel dive prep station, Sea Lion 7 (Wirecutter, Ducky G1)
+  SPP-1M: 4 barrels, dart ammo — silent above water — 4 shots then collectible
+  APS: Loaded mag only, functionally useless above water, collectible.
+    Ducky's inspect shows visible professional curiosity.
+
+SIG MCX-I (Integrated) prototype | 5.56
+  Dropped by: Crimson One, War Wolf (East McFarlane Island, G1)
+  Features: Integral suppressor, electronic fire control, round count
+    display on receiver visible in inspect. Highest-value pickup on island.
+
+CheyTac M200 Intervention | .408 CheyTac
+  Found: Hidden in security post, East McFarlane Island (G1)
+  Also: Crimson Two carries personal M200 on ridgeline (different serial).
+    Using security post M200 to kill Crimson Two = mechanical symmetry.
+
+SR-3M Vikhr | 9x39mm suppressed
+  Locations: Glushkin's close protection (Romeo G2 late);
+    KAPITAN (Rotterdam, Ducky); Hull Breach command element (alarm only —
+    stealth run = no spawn, no Vikhr).
+  Significance: First signal Glushkin has FSB-grade personal security.
+
+MAWL-DA | BE Meyers
+  Found: Pelican case, Montoya Farm equipment room (Burning Daylight, Spook)
+  Unlock: Tripper opens case, brief cutscene handoff.
+  Detail: GenCorp logistics sticker = connects Montoya Farm procurement
+    to GenCorp supply chain. No dialogue draws attention to this.
+
+Sako TRG M10 (Frost's backup) | .338 Lapua
+  Found: AEGIS equipment cache, Svalbard mission (Cold Frontier, Ducky G1)
+
+--------------------------------------------------------------------------------
+PART 7 — NAMED ENEMY WEAPON PROFILES
+--------------------------------------------------------------------------------
+
+GLUSHKIN — SR-1 Vektor | 9x21mm
+  Civilian shoulder rig under jacket throughout. 9x21mm AP = FSB not
+  military. Draws only SR-1 in final confrontation — situation constructed
+  to make it sufficient, and he knows it. Holds SR-1 through last words.
+  Hammer back, round in chamber — never fired second shot.
+  Inspect after death: hammer cocked, round still there. Romeo never fires it.
+
+BISUTRI — HK416 A5 suppressed (primary) + FN Five-seveN engraved (sidearm)
+  HK416: Visually identical at distance to NATO SOF kit — character statement
+    without dialogue. Purchased through black market military supply chains.
+  Five-seveN: Scalpel engraving left slide, "BISUTRI" right slide.
+    Not a status symbol — a signature. He had it done himself.
+  Fixed blade: Modified surgical scalpel handle with 4" custom blade.
+    Nickname is not metaphorical.
+  NOT killed in Coleman prison break — Five-seveN only obtainable if
+    player defeats him directly in later confrontation.
+
+K LOUNGE SICARIO LIEUTENANT — CMMG Mk47 + FN Five-seveN
+  [Full entry above in rare drops section]
+
+WAR WOLVES — Crimson One/Two/Three
+  Crimson One: SIG MCX-I prototype + HK45CT (same as Spook's NOTHING —
+    implies shared procurement channels, never spoken aloud)
+  Crimson Two: CheyTac M200 (personal) + Glock 34 Gen5 MOS long-slide
+  Crimson Three: DD Mk18 suppressed + Glock 19 + M67 x2 + flashbang x1
+    (first War Wolf to use grenades against player)
+  ALL THREE: CFIM-equipped CogniConnect stacks trigger terminal counter-
+    forensic detonation on death — rapid ID denied.
+    Roman numeral tattoo inside left wrist: I / II / III.
+    Visible only during looting animation. Never explained in Game 1.
+
+--------------------------------------------------------------------------------
+PART 8 — PER-MISSION WEAPON TABLES (summary of missions developed)
+--------------------------------------------------------------------------------
+
+The following missions have full weapon tables developed in thread:
+  - Down Rodeo (Romeo G1)
+  - Battle of Coronado (Romeo G1)
+  - Wirecutter (Ducky G1)
+  - Hull Breach (Ducky G1)
+  - Vienna Chase (Spook G1)
+  - Burning Daylight (Spook G1)
+  - Pandora's Box (Spook G1)
+  - Rotterdam Finale (Ducky G1)
+  - Low Ground (Romeo G2)
+  - Dead Air (Romeo G2)
+
+KEY NOTES FROM MISSION TABLES:
+
+DOWN RODEO:
+  DPRK + Los Sietes. Romeo starts M4A1 + P320-M17.
+  7.62x39mm abundant from DPRK Type 58 + Los Sietes AKM.
+  Rooftop cache above K Lounge: Saiga-12 + drum mags + cash (uncollectable).
+  DPRK elite squad carries Type 98 (5.56 — NATO ammo bonus) +
+    one indigenous bullpup (rare, one mag only, no resupply).
+
+CORONADO:
+  DPRK amphibious + Russian Naval Infantry + Iranian IRGC.
+  KH-2002 Khara (Iranian 5.56 bullpup) — no dialogue explains why IRGC
+    carries NATO caliber. Implies deliberate re-equipping. Just there.
+  PKP Pecheneg can be unbolted and carried — movement penalty.
+  ORSIS T-5000 on control tower — only G1 appearance.
+  Locked cage in secondary hangar: M1014 + nameplate "GUNNERY SGT. R. HARLOW"
+    — not a named character; nameplate just a nameplate.
+
+WIRECUTTER:
+  FREYA available and primary (first Ducky mission).
+  Dive prep station: APS + SPP-1M both present as finds.
+  Captain's cabin: Benelli M4 in wall mount + unburned burn bag papers
+    (readable intel collectible — routing history of Sea Lion 7).
+  Vympel Dive Team Commander: OTs-14 Groza + PSS-2 — emerges partially
+    suited from dive station. If player too slow, he may reach the water.
+    APS underwater rifle required to follow. Time pressure design.
+
+HULL BREACH:
+  Stealth-favored: alarm raised = Spetsnaz spawn = SR-3M available.
+    Stealth run = Spetsnaz never appear = SR-3M not obtainable.
+  SIGINT room hidden: VSS Vintorez in padded case under console.
+
+VIENNA CHASE:
+  Stribog SP10 A3 (10mm AUTO — CONFIRMED CALIBER) + HK45CT only.
+  Mission-specific — Stribog cannot be kept. 10mm unusual caliber
+    reinforces why it cannot be sustained in the field.
+  Chase scenario — scavenging possible but disrupts momentum.
+
+BURNING DAYLIGHT:
+  GRAY GHOST + HK45CT. MAWL-DA NOT yet available (pre-unlock mission).
+  Supersonic 300BLK mag from Tripper = "break glass" option if mission
+    goes loud — acoustic change signals mission character shift.
+  Walther P-99 in locked drawer, coat check area — belongs to gala guest.
+  PSS-2 second opportunity (if missed in Wirecutter) — tunnel FSB officer.
+  MAWL-DA unlock: Pelican case, equipment room, GenCorp sticker.
+
+PANDORA'S BOX:
+  Cartel general + elite sicarios + KYSC (5 members, conditioned behavior).
+  KYSC fight differently — irregular movement, strange vocalizations, don't
+    respond to suppressing fire normally. One already dead on arrival.
+  Vector KRISS V (.45 ACP) shares ammo with HK45CT — only exotic pickup
+    with sustained utility in this mission.
+  Desert Eagle (.50 AE) — 7 rounds total, non-replenishable, Max Payne easter egg.
+  Hidden finds: MP5SD in guitar case mount behind bar (pre-cartel occupant);
+    Mossberg 590M behind junction box in maintenance corridor (labeled "PETE").
+
+ROTTERDAM FINALE:
+  FREYA suppressor-off for first time. Tonal shift deliberate.
+  OTs-14 Groza second appearance (Spetsnaz demolitions operator).
+  KAPITAN (named kill-feed only) drops SR-3M Vikhr.
+  RPG operator: fires from drain hole. Adjacent NATO forces respond
+    ~4 seconds after — heard off-screen, not shown. Player who shoots
+    him before he fires: RPG goes into harbor, tip caused by shockwave.
+    Identical outcome. No dialogue acknowledges player was fast enough.
+  Dutch Marine cache in secondary building: Walther P-99 + field notebook
+    (readable intel, reveals additional patrol routes on minimap).
+
+LOW GROUND:
+  Most resource-constrained mission in Game 2. Romeo's M4A1 running low
+    from G1 carry. No 5.56 scavenge available (no enemy uses it).
+    Ammo scarcity IS the narrative before any dialogue.
+  Glushkin introduction: player observes him interviewing Gene Marlow
+    from concealment. Cannot engage. Watching Glushkin operate calmly
+    while being unable to do anything = Christoph Waltz archetype landing.
+  SR-1 Vektor dropped by close protection IF Romeo breaks cover
+    (breaking cover = failed covert observation objective).
+  AC-556 handoff from Dale CLOSES the mission — quiet moment before next
+    mission's action. "DON'T TREAD" visible in handoff animation.
+
+DEAD AIR:
+  AC-556 active and primary for first time. 20-round limit felt immediately.
+  Renata Voss carries suppressed Ruger 10/22 — visible in her hands during
+    escort. Communicates her situation without dialogue.
+  Cody: Mossberg 500 + M&P Shield. Aggressive, reckless, exposes himself.
+  Frank Kowalski: AR-15 + Glock 17. Methodical, conservative with ammo.
+    One of few allied characters who calls out when running low.
+  SVD on water tower: significant detour, worth it.
+  Redbud community center cache: unidentified voice on radio gives grid
+    reference relevant to next mission. No character comments.
+
+--------------------------------------------------------------------------------
+PART 9 — NEREID BLACK LOADOUTS (full profiles in character_narrative_profiles.txt)
+--------------------------------------------------------------------------------
+
+GRIM (Mikkel Thorsen — Commander):
+  HK416 A5 suppressed (14.5"), Aimpoint CompM5, SureFire M600DF white light
+  (NO IR — wants to see what he's looking at), SIG P226 MK25 (anchor ground
+  off — "found it decorative"), Extrema Ratio MF2 fixed blade.
+
+RIME (Jonas Vestergaard — Breacher):
+  HK MP5SD (integral suppressor, quietest possible for confined spaces),
+  Aimpoint Nano, X300U. NO second firearm — space used for breaching kit:
+  Mk152 linear charges x2, thermal lance components, breaching shotgun
+  attachment on separate rail. P226 MK25 NO weapon light (calculated trade).
+  Dive knife, blunt tip (cutting not fighting).
+
+LANTERN (Emil Rønne — Recon/Overwatch):
+  HK433 (NOT HK416 — newer, lighter, refined rail; knowledgeable players
+  notice), Trijicon VCOG 1-8x, MAWL-C1+, Atlas BT10 bipod, Pulsar Merger
+  LRF XP50 thermal binos. P226 MK25 (no suppressor — pistol is a backup
+  acknowledgment of possibility, not a plan). Peltonen Ranger M95 —
+  IDENTICAL to Frost's knife (Finnish exchange operator acquisition).
+
+UNDERTOW (Kasper Holm — Assault Medic):
+  B&T APC9K Pro suppressed — chosen SPECIFICALLY because it FOLDS (both
+  hands needed for casualty treatment). Aimpoint Nano, X300U, Magpul RVG.
+  Glock 19 Gen5 stripped — night sights only, 4 spare magazines.
+  Böker Plus Delta rescue knife — BLUNT TIP (deliberate medical choice).
+  Window-breaking pommel used once (porthole). Polished. Everything else matte.
+
+--------------------------------------------------------------------------------
+PART 10 — ALLIED CHARACTER PROFILES (weapons development context)
+--------------------------------------------------------------------------------
+
+CODY BEAUMONT (Calloway resistance cell, American Freedom):
+  Mossberg 500 Field 28" HUNTING CONFIG — no sling, catches doorframes.
+  Mixed 00 buckshot + bird shot (grabbed what was in house — bird shot
+  useless vs body armor, players who know will notice, no one says anything).
+  S&W M&P Shield 9mm in Uncle Mike's friction-only holster — crimps pouch
+  tops before moving so mags don't rattle (worked this out himself).
+  Ruger 10/22 .22LR early missions — one scene shows rounds deflecting off
+  Russian plate carrier; Cody switches to Mossberg, no comment.
+  Vest: Condor MOLLE rig, coyote, road flare (not yet useful).
+  Clothing: jeans, flannel, canvas barn coat olive drab — looks like he's
+  going to fix a fence. In occupied Calloway, this is camouflage.
+  BEHAVIOR: Talks too much in contact, processes in real time, not afraid
+  (regulatory absence of fear = what eventually kills him). Last words
+  operational not dramatic.
+  DEATH: Loading screen showing figure hanged from highway gantry with
+  cardboard placard — never confirmed as Cody explicitly. Strategically
+  ambiguous. Connection implied, left for player.
+
+LA AVISPA / YELENA VOLKOVA (Los Sietes / Godkiller):
+  True identity: Yelena Dimitrievna Volkova, former FSB surveillance specialist.
+  Defection route: Venezuela → Cuba → Panama → Mexico → Los Sietes.
+  Two firearm configurations:
+    LOS SIETES COVER: Ruger LCP II .22LR suppressed (SilencerCo Sparrow) +
+      SIG P365 XL 9mm concealed. LCP II in cosmetics bag = relevant on
+      occasion. Carries because expects <5 shots total in cover situations.
+    ACTIVE OPS (with Spook): HK SP5K 9mm suppressed (SilencerCo Omega 9K),
+      Aimpoint Nano, no weapon light (handheld torch support hand instead).
+      P365 XL openly in Tier 1 AIWB holster.
+  FSB THREAD: Carried PSS-2 during FSB service. Recognizes one immediately
+    when encountered with Spook — picks it up, checks cylinder with ten-
+    thousand-rounds-worth of economy, fires it at target Spook hasn't ID'd,
+    hands it back. No explanation. He doesn't ask. This is the moment player
+    understands her FSB background is not distant history.
+    [Flag: develop this scene in Godkiller mission writing]
+  PHOTOGRAPH: Small folded photo inside jacket left inner pocket. Never shown.
+    Spook notices the rectangular outline when jacket moves. Says nothing.
+    Predates Venezuela. Story says nothing more.
+  ACCENT: Spanish (native-fluent, no accent). Russian (when identity slips).
+    English (cultivated ambiguity — not clearly Russian or Spanish).
+
+SSgt ANDRÉ NATHANIEL BRIDGES, USMC (full profile filed separately):
+  See character_profile_andre_bridges.txt for complete profile.
+  Summary: 28yo, New Orleans Ninth Ward, Black, French Creole name spelling
+  deliberate. Enlisted age 20 (2020), E-6 by merit. M27 IAR/ACOG TA31 4x/
+  no suppressor, Glock 19M/TLR-7A, OKC-3S bayonet. No weapon names.
+  Says "copy" not "roger." Meets Romeo at Port of LA — instant mutual respect.
+  Friction = Ranger pushes / Marine consolidates doctrine.
+  Signal Hill disagreement outcome TBD narrative thread.
+  Calibrated by Coronado. New Orleans/Ninth Ward thematic layer available
+  (city that knows what it means to be abandoned by systems meant to protect it).
+  Decency as statement in cynical story. [Flag: Signal Hill + Game 2 AFC]
+
+--------------------------------------------------------------------------------
+PART 11 — CHARACTER BEHAVIOR / VOICE NOTES (weapons context)
+--------------------------------------------------------------------------------
+
+FROST: Does not comment on enemy weapons. Does not narrate reloads.
+  Does not remark on ammo scarcity. One exception: TRG M10 takes a round
+  through suppressor — says "Perkele." Quietly. To no one. Transitions
+  to MRAD without further comment.
+  Cold Plunge final line: in Finnish, unsubitled. Exhausted, deliberate,
+  privately furious. Players who speak Finnish understand. Others understand
+  the tone.
+  Frost/Lupin shorthand: ~40 words total, mix Finnish/Romanian, developed
+  at pre-AEGIS joint exercise. Ducky asked once. Frost: "Shooting talk."
+  That was the entire explanation.
+
+SWITCHBLADE: Most verbally active in contact. Short specific callouts.
+  "Two, left door." "Moving." "Dry — covering."
+  Enemy weapon assessment: ~1 second, use or drop. No comment.
+  Exception: player picks up AKM in Ducky mission — she glances and says
+  "Alright." Flat. Approving.
+  Glove modification: removed right-hand finger coverage with scissors,
+  week 1 of AEGIS deployment. Trigger feel affected. No permission sought.
+  Australian Army patch: left chest pocket, not field-worn, not removed
+  despite two requests.
+
+LUPIN: Romanian accent more precisely articulated under stress.
+  Sparse/technical weapon dialogue: range calls, wind calls, confirmations.
+  No editorializing. On miss: silence ~3 seconds, correction, fire again.
+  Unfamiliar weapon handling: systematic personal check pattern — faster than
+  formal safety check, more thorough than casual. Same sequence every time.
+  Does not do it with his own weapons.
+  Data book: Rite in the Rain, written in ROMANIAN. Frost noticed.
+  Said nothing. Lupin noticed Frost noticing. Said nothing.
+
+CODY: Talks too much, processes in real time, callouts too long.
+  Romeo corrects once. Cody adjusts ~2 minutes, reverts.
+
+ANDRÉ: "Copy" not "roger." Economical in contact. In quiet moments
+  asks genuine questions: "How far did you come to get here?"
+  New Orleans accent present without performance.
+
+--------------------------------------------------------------------------------
+PART 12 — INTER-CHARACTER DYNAMICS FROM WEAPONS CONTEXT
+--------------------------------------------------------------------------------
+
+FROST / LUPIN: Productive complementary pair. Lupin calls range and wind,
+  Frost confirms or adjusts. Shorthand unintelligible to others.
+  Data book detail + Peltonen knife detail both connect them silently.
+  Relationship built on things noticed and not commented on.
+
+SWITCHBLADE / LUPIN: Productive tension. She closes fast, he holds distant.
+  She thinks he takes too long. He thinks she closes too fast. Both right
+  about the other, wrong about themselves. Never discussed. Just what happens.
+
+FROST / LANTERN (Nereid Black): Share identical Peltonen M95 knife.
+  Acquired by Lantern from Finnish exchange operator during joint exercise.
+  Neither has acknowledged this to the other.
+
+ROMEO / ANDRÉ: Mutual respect immediate. Friction = professional/doctrinal
+  not personal. Rangers push, Marines consolidate. Both legitimately right.
+  Best friction type: two competent professionals with different reads.
+  Signal Hill: one carries the call, other executes without ego.
+  Coronado: calibrated, shorthand established. Relationship has moved.
+
+SPOOK / LA AVISPA: Forced mutual dependence → quiet trust → unique bond.
+  Strange romantic tension — fleeting, unnamed, no time to develop.
+  Story forces them apart. Perhaps to meet again.
+  Her combat control unsettles even Spook (who is himself highly controlled).
+  PSS-2 recognition scene = moment player understands her FSB past is present.
+
+--------------------------------------------------------------------------------
+PART 13 — PENDING / IN PROGRESS FLAGS
+--------------------------------------------------------------------------------
+
+[IN PROGRESS — weapons thread]:
+  - Cody detailed behavioral notes not fully pushed to memory (char limit)
+  - La Avispa FSB recognition scene full dialogue
+  - Switchblade scar/patch/glove full details in memory
+  - Nereid Black narrative notes in memory
+  - Named enemy weapon narrative details in memory
+  - Per-mission table summary notes in memory
+  All above: FULL DETAIL in character_narrative_profiles.txt
+
+[FLAGGED FOR NARRATIVE THREAD]:
+  - Signal Hill disagreement resolution (Romeo / André)
+  - NOTHING dialogue moments in Godkiller missions
+  - DON'T TREAD militia recognition scene (Act Two, Romeo)
+  - Dale Pruett full Three Percenter backstory
+  - La Avispa PSS-2 recognition scene (Godkiller)
+  - Spook/La Avispa dynamic development
+  - André Bridges Game 2 / AFC connection (if used)
+  - Coronado second friction/resolution beat (Romeo/André)
+
+[FLAGGED FOR AUDIO THREAD]:
+  - US multi-service radio chatter full library (Army Rangers, Marines,
+    Navy, USAF JTAC, National Guard, LAPD bleed) — framework established,
+    full library not written
+  - Inter-service Army/Marine friction in chatter
+  - Phaeton two-ship flyover/split scene (developed elsewhere, not located)
+
+[FLAGGED — LICENSING]:
+  All music board entries require commercial licensing clearance.
+  Not a current blocker but flagged for production stage.
+
+[NOT YET DEVELOPED]:
+  - Lupin / Switchblade cleaning animations
+  - Frost cleaning animation
+  - André Bridges cleaning animation
+  - CORYS squad (Valkyrie/Brick) — full weapon profiles pending
+    squad development
+  - Renata Voss, Frank Kowalski weapon profiles (partial in mission tables)
+  - Sea Spear DLC (Grim / Nereid Black) weapons beyond what is filed here
+  - Semper Fi DLC (André Bridges) — weapon development pending
+  - Who Dares Wins DLC (SAS) — not yet started
+  - Home Defense DLC (Australian front) — not yet started
+
+================================================================================
+END OF WEAPONS DEVELOPMENT THREAD — FULL SUMMARY
+Project Warriors — All decisions and outcomes as of thread close
+================================================================================

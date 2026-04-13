@@ -1,0 +1,127 @@
+PROJECT WARRIORS — COMPENDIUM UPDATE PATCH
+Target compendium: 05 Missions / Scenes / Cinematics
+Generated: 2026-04-13
+Version: rev1
+Purpose: add the locked Bakhmut mini-arc mission set, site function, and mission-function summary for Ducky Game 2.
+
+================================================================================
+SECTION A — NEW PATCH ENTRY
+================================================================================
+
+Bakhmut mini-arc lock — Ducky Game 2 / Persistent Threat:
+- The Bakhmut insertion is a three-mission mini-arc placed after Hard Winter and
+  before Permafrost.
+- Mission set:
+  1) Dead Ground
+  2) Dark Fiber
+  3) Ash Relay
+- Transition structure:
+  - Dead Ground includes a Frost transition for precision long-range clearance of
+    load-bearing overwatch / controller positions.
+  - Dark Fiber includes a Lupin transition for fast interdiction / approach-lock /
+    pressure control during technical exploitation.
+  - Ash Relay remains Ducky-led through the finish with no perspective transition.
+
+================================================================================
+SECTION B — TARGET / SITE FUNCTION LOCK
+================================================================================
+
+The Bakhmut target is not a generic cache or simple command post.
+It is a forward relay-certification site inside a ruined municipal
+communications-and-utilities complex with an attached industrial service wing.
+
+Its functions are:
+1. validate attack logic using compromised AEGIS-adjacent architectural knowledge
+2. rehearse a relay chain built to survive contested spectrum using buried / hardline
+   routing, local wired handoff, decoy emissions, and drone-supported observation
+3. tune a deception envelope meant to manipulate how an AEGIS-shaped defense reads an attack
+4. certify a later northern strike package
+
+Bakhmut is used as a dead-city proving ground because ruined civic and utility
+infrastructure makes concealed routing, compartmentalization, and relay testing
+believable under drone-heavy battlefield conditions.
+
+================================================================================
+SECTION C — MISSION-BY-MISSION FUNCTION SUMMARY
+================================================================================
+
+Mission 1 — Dead Ground
+- link up with the Ukrainian attached cell
+- teach route discipline, overhead-threat logic, and pattern recognition inside
+  ruined Bakhmut
+- confirm the target is a functioning technical site rather than a dump
+- identify service-access logic tied to the later assault
+
+Mission 2 — Dark Fiber
+- strip away an outer dependency keeping the main site alive
+- recover relay-timing, route, and certification material proving future
+  operational intent
+- reinforce correct kill logic: cut the line first, then kill the room
+
+Mission 3 — Ash Relay
+- main assault on the municipal-industrial relay complex
+- Ducky leads the interior denial while the Ukrainian element keeps outer ground,
+  sky picture, and exfil timing coherent
+- recover the final surviving packet that lets Halliday identify the Svalbard
+  direction afterward
+
+================================================================================
+SECTION D — ENEMY ORDER OF BATTLE WORKING SHAPE
+================================================================================
+
+The site should be defended by a compact Russian-led technical-security detachment,
+not a theatrical battalion-scale fortress.
+
+Working defensive layers:
+- inner technical cell
+- site-security element
+- outer screening force
+- support enablers / local reaction group
+
+Useful enemy-role families:
+- relay security troops
+- observation / drone spotter teams
+- technical operators
+- local reaction group
+- engineering / breach pair
+
+Tone rule: enemy chatter should emphasize process protection, route correction,
+line integrity, sanitization, and response to compromise rather than action-movie
+villain posturing.
+
+================================================================================
+SECTION E — RECOMMENDED HOUSE-STYLE COMPACT INSERTION
+================================================================================
+
+7) Bakhmut mini-arc lock: add a three-mission Bakhmut insertion to Ducky Game 2
+between Hard Winter and Permafrost. The arc consists of Dead Ground (link-up,
+route survival, first recognition), Dark Fiber (outer-node shaping and evidence
+lift), and Ash Relay (main assault and denial). The target is a forward
+relay-certification site embedded in a ruined municipal communications-and-utilities
+complex with an attached industrial service wing, used to rehearse a relay-and-
+deception architecture built around compromised AEGIS-adjacent knowledge. Frost
+supports Dead Ground through a long-range clearance transition; Lupin supports
+Dark Fiber through a pressure-control transition; Ash Relay stays Ducky-led to the
+finish. Halliday’s post-arc interpretation of the recovered packet points forward
+to Svalbard and Permafrost.
+
+================================================================================
+SECTION F — ENVIRONMENT / TONE RULES TO CARRY WITH THE INSERTION
+================================================================================
+
+Use the locked Bakhmut visual package:
+- apartment slabs
+- exposed concrete frames
+- broken balcony grids
+- soot-blackened and shell-pocked facades
+- muddy or frozen courtyards
+- leafless trees
+- dirty snow
+- cold pale daylight / overcast
+- documentary realism
+
+Avoid:
+- generic apocalypse drift
+- cyberpunk spillover
+- blockbuster destruction framing
+- misery-tourism treatment of the city

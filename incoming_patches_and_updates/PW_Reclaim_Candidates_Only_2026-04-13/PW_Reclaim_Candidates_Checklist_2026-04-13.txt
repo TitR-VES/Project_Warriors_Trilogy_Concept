@@ -1,0 +1,54 @@
+PROJECT WARRIORS — RECLAIM CANDIDATES CHECKLIST
+Generated: 2026-04-13
+Purpose: isolate the files most worth mining when rebuilding a new post-migration source file.
+
+WHAT THIS BUNDLE IS
+A smaller, reclaim-focused subset of the wider migration package.
+
+WHAT TO READ FIRST
+1. PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+   - fastest way to see which thread outcomes are only partial, repo-side, or still live
+2. PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+   - highest-density list of late canon locks and corrections
+3. PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+4. PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+5. PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+6. PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt
+7. PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-13_rev2.txt
+8. PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt
+
+BEST RECLAIM TARGETS IDENTIFIED BY THE AUDIT
+- Bakhmut urban architecture / visual reference packet
+- trilogy slogan / style-guide page
+- BODYWORK / Van Hult dedicated mission source page
+- consolidated Boston weapons packet
+- any non-Romeo region pilot-station source page
+- any other repo-only late-thread outputs not visible in the workspace
+
+WHY THESE FILES ARE INCLUDED
+- Six working compendia: best content-mining layer by domain
+- Memory integration patch: best override/canon-correction layer
+- Thread archive audit: tells you what may still be missing
+- Migration ledger: traces older sources into new homes
+- Source manifest CSV: provenance map
+- Updated canon overview PDF: fast review / skim asset
+
+RECOMMENDED REBUILD WORKFLOW
+1. Read the archive audit and mark every PARTIAL / CHECK SOURCE item.
+2. Read the memory patch and transfer any still-unlanded overrides into the new source file.
+3. Mine the six compendia for source text worth reclaiming.
+4. Use the migration ledger and source manifest to trace origin and avoid duplicate recovery.
+5. Pull repo-only pages for the partial items before calling the new source file complete.
+
+FILES INCLUDED IN THIS ZIP
+- PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt
+- PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-13_rev2.txt
+- PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+- PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+- PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+- PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt
+- PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+- PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+- PW_Migration_Ledger_2026-04-13_rev2.txt
+- PW_Source_Manifest_2026-04-13_rev2.csv
+- PW_Updated_Canon_Overview_2026-04-13_rev1.pdf

@@ -1,0 +1,98 @@
+PROJECT WARRIORS — COMPENDIUM UPDATE PATCH
+Target compendium: 03 Characters / DLC
+Generated: 2026-04-13
+Version: rev1
+Purpose: add the locked Ukrainian attached cell for Ducky Game 2's Bakhmut mini-arc.
+
+================================================================================
+SECTION A — NEW PATCH ENTRY
+================================================================================
+
+Bakhmut mini-arc Ukrainian attached cell lock — Ducky Game 2 / Persistent Threat:
+- The Bakhmut arc uses a joint veteran Ukrainian attached cell built by necessity,
+  not a mythic “elite super-squad” and not a political-symbol cast.
+- Core writing rule: show competence, adaptation, and real-war experience through
+  route choice, timing, technical interpretation, overhead awareness, structural
+  judgment, casualty management, and survival logic — not speeches, geopolitics,
+  or propaganda framing.
+- Desired dramatic balance: AEGIS is excellent, but these operators still understand
+  this kind of ground and overhead threat better.
+
+================================================================================
+SECTION B — NAMED CHARACTERS TO ADD
+================================================================================
+
+1) Captain Oleksandr Honcharenko
+- Branch / role: Ukrainian Ground Forces captain; attached ground commander,
+  route owner, outer-ground lead.
+- Origin: Donetsk Oblast.
+- Character rule: war-seasoned, dry, exact, authority through repetition rather
+  than charisma.
+- Dramatic function: teaches that Bakhmut is not just ruined terrain but watched
+  ground and survivable geometry.
+- Core Ducky dynamic: Ducky quickly recognizes that Honcharenko is protecting
+  mission success by respecting exposed ground; trust forms through practical
+  correctness, not sentiment.
+
+2) Senior Lieutenant Kateryna Melnyk
+- Branch / role: Ukrainian signals / EW-adjacent technical officer.
+- Origin: Dnipro.
+- Background note: likely pre-war civilian telecom / infrastructure-network track.
+- Function: relay interpretation, cable-route reasoning, technical exploitation,
+  identifying real nodes versus bait.
+- Character rule: precise, clipped, mechanism-first.
+- Dramatic function: makes the Bakhmut site legible and proves the enemy is
+  building a repeatable system.
+- Core Halliday dynamic: rapid professional analytical trust; Halliday brings the
+  macro-pattern, Melnyk brings field-shaped logic.
+
+3) Senior Sergeant Mykhailo Vorobei
+- Branch / role: Ukrainian reconnaissance / unmanned systems NCO.
+- Origin: Kharkiv.
+- Function: drone reconnaissance lead, overhead survival picture, short-range
+  route confirmation.
+- Character rule: quiet, practical, tired, treats drones as consumable eyes rather
+  than glamorous tech.
+- Dramatic function: teaches the player how oppressive overhead awareness has become
+  in this battlespace.
+- Core Frost dynamic: mutual respect through sparse language, minimal movement,
+  and precision.
+
+4) Chief Sergeant Taras Savchuk
+- Branch / role: Ukrainian engineer / breacher / structural-access specialist.
+- Origin: Kramatorsk area, Donetsk Oblast.
+- Function: breach realism, route opening, structural judgment.
+- Character rule: practical distrust of damaged architecture; stops people from
+  making bad access assumptions.
+- Dramatic function: makes Dark Fiber and Ash Relay interiors feel materially
+  believable rather than videogame-convenient.
+
+5) Staff Sergeant Olena Kysil
+- Branch / role: Ukrainian combat medic / casualty movement / practical CASEVAC.
+- Origin: Poltava Oblast.
+- Function: casualty stabilization, movement preservation, quiet human grounding.
+- Character rule: short, clinically practical, stabilizing authority without
+  sentimentality.
+- Dramatic function: keeps the arc human without turning it soft or speech-heavy.
+
+================================================================================
+SECTION C — RECOMMENDED HOUSE-STYLE COMPACT INSERTION
+================================================================================
+
+8) Bakhmut mini-arc Ukrainian cell lock: add Captain Oleksandr Honcharenko
+(ground commander / route owner), Senior Lieutenant Kateryna Melnyk (signals /
+EW-adjacent technical officer), Senior Sergeant Mykhailo Vorobei (drone-recon /
+overhead survival), Chief Sergeant Taras Savchuk (engineer / breach / structural
+judgment), and Staff Sergeant Olena Kysil (medic / casualty movement) as the
+attached Ukrainian veteran cell supporting Ducky’s Bakhmut mini-arc. Write them as
+specific, war-seasoned professionals whose competence appears through route logic,
+technical interpretation, structural realism, overhead-threat reading, and
+practical casualty handling rather than speeches or symbolism.
+
+================================================================================
+SECTION D — OPTIONAL FUTURE EXPANSION, NOT REQUIRED NOW
+================================================================================
+
+- Full loadout sheets for the five Ukrainians.
+- Later reuse of any one or more of them outside the Bakhmut mini-arc.
+- Additional minor Ukrainian support operators beyond the locked five-person core.

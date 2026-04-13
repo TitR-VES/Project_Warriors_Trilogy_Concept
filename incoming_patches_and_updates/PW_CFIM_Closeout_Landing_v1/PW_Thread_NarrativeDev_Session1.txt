@@ -1,0 +1,752 @@
+PROJECT WARRIORS — NARRATIVE DEVELOPMENT THREAD SUMMARY
+Session 1: Story Overview, Sequel Setup, Ducky Campaign Development
+================================================================
+
+NOTE: This document is a full record of a narrative development session covering:
+- Three-campaign story overview (Games 1, 2, 3)
+- Sequel setup and cross-game continuity seeds
+- Ducky/AEGIS campaign theme, character development, and mission structure
+- Frost backstory (Cold Frontier 07)
+- DAOG Command character profiles
+- Partial Hinderloopen mission development
+
+All decisions marked [LOCKED] are confirmed canonical.
+Items marked [FLAG] require further development in a dedicated thread.
+
+
+================================================================
+SECTION 1: THREE-CAMPAIGN STORY OVERVIEW (GAME 1)
+================================================================
+
+THE OVERARCHING CONSPIRACY
+--------------------------
+All three campaigns converge on a deep-state plot codenamed RIPTIDE RED.
+Architects: Edward Gregory Goldberg (CIA codename: KINGMAKER) and Gillian
+Stockbridge (codename: CHAPERONE), with complicity of President Barry James Crodyn.
+
+Their instrument: TETHERBREAK — a covert CIA program weaponizing America's own
+autonomous military drone systems. Operational plan: PANDORA — deploying TETHERBREAK
+as a false-flag attack on US soil to destabilize the government and install Crodyn
+in an unconstitutional third term.
+
+Goldberg also operates the Shadow Underground (Forever Pact / Eclipse Society /
+KINGMAKER) — a global human trafficking, blackmail, and dark-money empire centered
+on the underground complex beneath Montoya Farm, New Mexico.
+
+Goldberg sold intelligence about Riptide Red to multiple hostile foreign governments,
+triggering a coordinated Russian, North Korean, and Iranian amphibious invasion of
+the US West Coast, a Russian push into Western Europe, and a Chinese move on Taiwan.
+Effectively: World War Three used as cover for the conspirators' escape.
+
+PANDORA canonical attack date: September 3, 2028.
+US Presidential Election: November 3, 2028.
+
+
+CAMPAIGN 1 — CRITTER SQUAD
+---------------------------
+Playable character: LT Ramón "Romeo" Álvarez, Fire Team Delta, 75th Ranger Regiment
+Squad: Dingo, Howler, Beaver
+
+Arc: Begins in eastern Poland (NATO eastern flank reinforcement). PANDORA activates,
+autonomous systems turn against US forces. Squad fights west through Czech Republic
+and Austria to Ramstein Air Base, Germany. Assigned to protect classified geospatial
+intelligence sites across Europe alongside AEGIS Squad:
+- Faroe Islands
+- French Alps
+- Greek island of Lemnos (Aegean)
+- Hinderloopen, Netherlands
+
+With all flights grounded, squads travel overland through Brittany to French naval
+base at Île Longue. Defend French nuclear submarines Le Terrible and Le Vigilant
+from enemy sabotage. AEGIS diverted to Rotterdam. Romeo's squad boards nuclear
+submarine USS District of Columbia, surfaces off Ventura, California.
+
+US campaign:
+- Links up with Army/Marine forces
+- Fights North Korean forces out of North Hollywood (mission: Down Rodeo)
+- Pushes through South Beverly Hills toward coast
+- Secures Port of Los Angeles
+- Defends Long Beach Airport at Battle of Signal Hill
+- Convoy south toward San Diego
+- Climax: Battle of Coronado Island — defending North Island Naval Air Station
+  against massive joint amphibious assault (shared climax across all three campaigns)
+
+Key character: André Nathaniel Bridges, USMC SSgt, New Orleans. Meets Romeo at Port
+of LA. Signal Hill disagreement (Rangers push vs Marines consolidate) — outcome TBD.
+[FLAG: Signal Hill resolution and Coronado climax detail]
+
+
+CAMPAIGN 2 — DO RIGHT, FEAR NONE (AEGIS) / PERSISTENT THREAT
+--------------------------------------------------------------
+Playable character: SFC Ferris "Ducky" Ryan, AEGIS Squad,
+NATO Allied Rapid Reaction Command Europe
+
+AEGIS Squad:
+- Ducky (Ferris Ryan) — American-Irish expat, Boston-born, long-time European resident
+- Frost (Aki Peltola, SSGT) — Finnish, masked, scarred, arctic warfare specialist/sniper
+- Lupin (Ştefan Dragavei) — Romanian, former special forces, stubborn protector
+- Switchblade (Cassandra Stewart, LCPL) — Australian (Melbourne), combat medic, fierce
+
+Campaign arc and mission structure: SEE SECTION 4 below.
+
+
+CAMPAIGN 3 — RIPTIDE RED
+------------------------
+Playable character: CPT Trevor "Spook" Gartner,
+Victor Two Bravo "The Tourists" — CIA Directorate of Operations, Ground Branch
+Team: Tripper (Bartlett), Smoke (Oakenfold)
+
+Handler: Senior Case Officer Matthew Mullen (mission callsign: Regent)
+Frankfurt CIA officer: Cameron Steele (Emperor)
+CIA Director of Operations: Robert Macmillan (Bishop) — COMPROMISED
+
+Mission sequence:
+1. AMSTERDAM (Prologue) — Arrive undercover at Schipol. Meet Emperor at Eastern
+   Docklands warehouse. Briefed on PANDORA — suspicious restricted tech shipment
+   from Turkmenistan headed to Atlanta, currently in transit to Vienna.
+
+2. VIENNA — Report to CIA officer Kathy Hughes (Archduke) at US Embassy.
+   Mission: Raid Lebanese terror cell safehouse, Hernals district (17th). Find it
+   empty. Interrupted by armed men. Rooftop parkour chase across Hernals, motorcycle
+   escape onto city beltway, high-speed firefight (GP SP10A3 Stribog PDW — Vienna
+   mission only, cannot be kept). Pursuers' van destroyed. Exfil to Port of Vienna.
+   Recovery: tablet from safehouse. Intel points to Betta Logistics GmbH Frankfurt
+   and owner Simenon Christophe Navarre (French-Canadian-German), and his partner
+   Karyna Budanova (Austrian, executive at GenCorp).
+   NOTE: Navarre → now Simon-Pierre Aubert [LOCKED]. Budanova → now Katja Reimann
+   [LOCKED]. Both relocated to Évora, Alentejo, Portugal under new CIA identities.
+
+3. FRANKFURT — Mission: Above My Pay Grade. Night infiltration of Navarre's house.
+   Navarre gives access to laptop with shipping manifests → Warehouse 46, Frankfurt
+   Airport. Player can give Navarre/Budanova new identities (optional — canonical
+   for sequel). Team takes Navarre's keys/van, heads to airport.
+   Warehouse swarming with Atlas Solutions personnel. Shipment already moved —
+   tipped off (anomaly: someone warned Atlas). Team clears warehouse, extracts
+   hard drive, destroys site. Hard drive contains partial PANDORA/TETHERBREAK
+   references. Partial flight schedule recovered. DAOG contact Karl Alexander
+   "Jaeger" Stanzler (PYTHIA) helps match to privately chartered flights.
+
+4. ABU DHABI — Mission: Infrastructure Day. GenCorp regional HQ raid — rappel
+   down skyscraper. Data obtained links shipment to Agarwal Berkhan (Indonesian-
+   Emirati billionaire, majority GenCorp shareholder). Optional target: Leandro
+   Blommaert (GenCorp Head of Data Security).
+
+5. MEDAN CITY, INDONESIA — Operation DRAGONSLAYER / Mission: Man From Medan.
+   Ordered to find and apprehend Berkhan. Fail to capture him — Berkhan escapes
+   by helicopter, shot down mid-flight by apparently sabotaged Indonesian air
+   defense. Silenced before team could reach him.
+   Regent "urgently reassigned." Team placed under Macmillan (Bishop).
+
+6. MIAMI BEACH — Mission: Pandora's Box. NSA contacts Keith Simmons and Jessica
+   Lynch brief team: restricted components tracked to far-right cult Kali Yuga
+   Surf Club (KYSC), now holed up in abandoned Desautels Resort Hotel, Miami Beach
+   (based on real-life Deauville Beach Resort, 6701 Collins Ave, demolished 2022).
+   Hotel occupied jointly by KYSC and Los Sietes cartel as muscle.
+   KYSC: brainwashed MKUltra-style conditioning at Montoya Farm, CogniConnect neural
+   implants, but no CFIM anti-identification package. They are implanted
+   conditioning subjects, not War Wolves-style counter-forensic operators.
+   Team neutralizes PANDORA device and all 5 KYSC members. All bear identical symbol
+   (old MKUltra era marking associated with Montoya Farm).
+   Ambushed by cartel on exit — setup by Macmillan. Escape through collapsing hotel
+   via elevator shaft and parking garage. Media reports as foiled lone-wolf attack.
+   Goldberg later reveals: Miami was only one of many PANDORA cells.
+
+7. NEW MEXICO — Mission: Burning Daylight. Night infiltration of Montoya Farm
+   compound near San Rafael. Cover: stolen U-HAUL truck and disguises from meth
+   producer "Uncle" Jack Pruitt's men (New Mexico white supremacist biker gang).
+   Gala event at mansion provides stealth cover. Spook uses directional mic to
+   tail Stockbridge, eavesdrop on phone conversations.
+   Security room accessed via second-floor concealed entrance (keycard from
+   Ballroom Annex cloak room desk). CCTV reveals vast underground complex:
+   - Hidden prison
+   - Inpatient medical facility / operating theater
+   - Dormitories for long-term living
+   - Underground plaza with simulated sky ceiling
+   - "Movie sets" contaminated with bodily fluids / snuff film production evidence
+   - Same KYSC symbols on tunnel walls
+   - Server room: Tripper plants hardware implant, extracts encrypted archive
+   Exfil: narrow vertical shaft with ladder, hidden door behind filing cabinet
+   in basement laundry room. Data decrypted at safehouse reveals Shadow Underground
+   architecture — FSB, Mossad, IRGC, Chinese MSS, North Korean intelligence, entire
+   NATO security apparatus. First references to buried Riptide Red report. DARMA
+   (NSA operation suppressing inquiry into all of it) also mentioned.
+
+8. CARIBBEAN — Mission: Come Fly With Me. Safehouse near Anguilla, St. Croix,
+   USVI (~40 miles south of East McFarlane Island). Steal Found BFA-2 floatplane
+   from fishing company compound (7-man security detail). Approach East McFarlane
+   Island in darkness, engine off, land in small cove.
+   Mission: Sins of Our Fathers. Fight through War Wolves — three former Tier 1
+   operators in dark grey gear and Kevlar wolf masks. Their CogniConnect implant
+   stacks include CFIM packages that trigger terminal counter-forensic detonation
+   on death. Corner Goldberg and Stockbridge at helipad. Macmillan radios: stand
+   down, grant Goldberg safe passage, Victor Two Bravo declared rogue.
+   CLIFFHANGER ENDING. Goldberg monologue gives mission its name.
+
+CONVERGENCE POINT: All three campaigns meet at Battle of Coronado Island.
+Romeo fighting amphibious assault. Ducky's campaign ends at Rotterdam as invasion
+begins. Spook's cliffhanger lands at the exact moment the West Coast attack starts.
+Military action and conspiracy revealed as the same story.
+
+
+================================================================
+SECTION 2: SEQUEL SETUP AND CROSS-GAME CONTINUITY SEEDS
+================================================================
+
+REGENT AS WHISTLEBLOWER [LOCKED]
+---------------------------------
+Mullen (Regent) confirmed as major NPC in Game 2 — a Riptide Red whistleblower.
+
+THREE SUBTLE GAME 1 SEEDS [LOCKED]:
+
+(1) CUT RADIO TRANSMISSION — Frankfurt warehouse mission (Above My Pay Grade):
+As team clears Atlas personnel from Warehouse 46, Spook's earpiece briefly catches
+a fragmented transmission on an unassigned frequency. Regent's voice, mid-sentence:
+"...copies of everything, they don't know I—" then cuts to static. Easy to miss
+entirely during firefight. Game never acknowledges it happened.
+SEQUEL REVEAL: Video recording found in East McFarlane cache reveals this was a
+live transmission Regent was making during the exact moment of the warehouse raid.
+He was trying to reach Spook directly and was cut off — or silenced.
+
+(2) MANUALLY REDACTED FILE — Montoya Farm server room:
+Among archived documents Tripper extracts, one file stands out: a PANDORA-adjacent
+intelligence report whose author's name has been manually redacted — crudely blacked
+out, not algorithmically purged like the others. As if done in a hurry by someone
+who knew what they were doing. File creation timestamp: 3 days before Regent was
+"urgently reassigned." Tripper notes the anomaly but has nothing to go on.
+
+(3) MACMILLAN'S SLIP — Helipad stand-down (Sins of Our Fathers):
+When Macmillan radios Spook to order stand-down, he says: "Stand down, Spook.
+This is bigger than Mullen told you." He clearly meant to say "bigger than you know."
+Catching himself mid-sentence implies he knows exactly what Regent told the team,
+and when — suggesting active FSB monitoring of Regent, not just reassignment.
+
+EAST McLARLANE HIDDEN CACHE [LOCKED]
+-------------------------------------
+Off the main objective path in the final mission — looks like scenery, easy to miss.
+Contents: weatherproof cache, single encrypted USB drive, handwritten note.
+Note contains: a specific symbol + a set of coordinates. No signature.
+Coordinates don't appear on any map accessible in Game 1.
+The symbol is also seeded in Montoya Farm tunnels, Game 1 (graffiti in cell or
+hidden crawlspace or film set — appears purely atmospheric on first playthrough).
+
+CROSS-GAME QUEST MECHANIC [LOCKED]
+------------------------------------
+In Game 2: A location corresponds to the coordinates from the cache note.
+Access requires knowing the symbol from the note (cannot be obtained elsewhere
+in Game 1 without finding the cache). Symbol is embedded in Game 2 environment
+looking like scenery — player who knows it recognizes it and interacts with it.
+Players who don't have the note walk past forever.
+Inside: Unredacted Riptide Red analyst report authored by Regent.
+This triggers the "Find Regent" storyline in Game 2.
+
+SEQUEL CACHE CONTENTS — UNREDACTED REPORT [LOCKED]
+---------------------------------------------------
+- Full Riptide Red conspiracy architecture
+- Deeper FSB/CIA penetration than previously known
+- Conclusive evidence of Russian interference in multiple US presidential elections
+- Evidence of covert deep-state cloning and human experimentation program
+- The truth about the Vela 2 incident
+- Evidence of Western governments running clandestine operations to suppress
+  internal dissent against capitalist ideology
+- Evidence that Riptide Red is the most recent chapter of a decades-long operation
+  (makes the Game 1 conspiracy look small by comparison)
+
+MORAL JEOPARDY [LOCKED THEMATIC ASSET]:
+Truth so large and so implicating that revealing it may cause more damage than
+burying it. WW3 running in background of Game 2 makes acting on it nearly
+impossible — no uncorrupted institution left to receive it.
+Regent documented everything and hid it rather than publishing — the player must
+wrestle with whether that was cowardice or wisdom.
+
+NAVARRE AND BUDANOVA IN SEQUEL [LOCKED]
+----------------------------------------
+Their return is canonical only for playthroughs where player chose to give them
+new identities (humane choice = canon for sequel).
+Budanova (now Katja Reimann) in danger: GenCorp/Palisade Systems/Bastion Infotech
+global surveillance network re-exposed her and Navarre's identities despite CIA
+protection. GenCorp moved to eliminate them as witnesses.
+How they were found = open plot thread: either compromised CIA contact OR
+GenCorp's surveillance capability itself surfacing them (more frightening — implies
+no protection is adequate against their reach).
+Budanova's insider GenCorp knowledge = key to exposing network's corruption.
+Player decision in Game 2: risk saving her or lose the most valuable living witness.
+Navarre's trust in the system getting them found = quiet institutional indictment.
+
+ROUGH SEQUEL CAMPAIGN STRUCTURES [EARLY STAGE — FLAG FOR SEQUEL THREAD]
+------------------------------------------------------------------------
+Romeo G2: Counter-offensive West to East Coast. Retaking enemy-occupied military
+bases and cities along the way. Gathering scattered US forces into their ranks.
+
+Ducky G2: AEGIS takes fight to the Russians. Recon, sabotage, strategic asset
+retrieval missions deep within Russian-occupied Western European cities and
+countryside. Later: deep inside Russia itself. Campaign climax: stopping Russia
+from launching a "salted" coastal undersea bomb at the northeastern coast of France.
+
+Spook G2: Three-track structure — protect Budanova, run intelligence destabilization
+operation to pit conspirators and foreign partners against each other, covertly arm
+resistance groups inside enemy-occupied territories. Unified by theme of accountability:
+every action serves ensuring that when the war ends, the people who started it
+cannot simply walk away.
+
+
+================================================================
+SECTION 3: DAOG COMMAND CHARACTER PROFILES
+================================================================
+
+COLONEL MARK WALKER [LOCKED]
+------------------------------
+Role: Commanding Officer of AEGIS, CORYS, and SHIELD squads.
+Background: Extensive operational experience. The squad respects his strategic
+thinking because he has been where they are.
+Character: Delivers bad news directly, no institutional softening.
+Team dynamic: Don't always see eye to eye with him on every decision, but
+overall trust and respect his leadership.
+In Innsworth/Standing Watch: Conducts formal Wirecutter debrief. Acknowledges
+Vympel staging anomaly directly — notes it, assigns Halliday to investigate,
+then moves forward. His directness is both strength and potential limitation.
+
+LT. TARA HALLIDAY — Callsign: ORACLE [LOCKED]
+----------------------------------------------
+Role: Senior Operations Intelligence Analyst, DAOG Command.
+Background: Embedded with AEGIS command structure long enough to be fooled by
+absolutely no one. Has her own clear read on the institutional picture.
+Character: Careful to stick to professional analytical role. When she does push
+back on command decisions, it is always for a very good reason.
+Key trait: Paper trail instinct — ensures the record reflects reality even when
+reality is inconvenient. At some point in the campaign, something she documented
+and filed away becomes important in a way nobody anticipated.
+Relationship with Ducky: Mutual recognition — two people who have learned to read
+the gap between what's being said officially and what's actually happening, from
+different professional angles.
+In Innsworth/Standing Watch: Runs the AEGIS infrastructure briefing. Already
+cross-referenced Sea Lion 7 anomaly with two other incidents in past 6 months
+following similar pattern. Mentions it briefly, almost as a footnote. Meeting
+moves on. Ducky and player don't forget.
+
+LT. GENERAL CALLUM TREMBLAY [LOCKED]
+--------------------------------------
+Role: DAOG Commander in Chief.
+Background: French Canadian.
+Character: Player and AEGIS only interact with Tremblay on few official occasions.
+AEGIS and peers consider him "too high up on the food chain."
+Hidden complexity: Potential FSB connection — deliberately left ambiguous in Game 1.
+He never does anything overtly suspicious. Simply occasionally makes decisions or
+omissions that, in retrospect, benefited the wrong people. Nothing provable.
+Halliday notices. She always notices.
+NOTE: Tremblay's absence from the Wirecutter debrief (Walker runs it) is itself
+a small character note — left open whether this is routine or meaningful.
+[FLAG: FSB connection / full complexity — develop in sequel or late Game 1]
+
+
+================================================================
+SECTION 4: DUCKY CAMPAIGN — FULL DEVELOPMENT
+================================================================
+
+CAMPAIGN THEME [LOCKED]
+------------------------
+Ducky's campaign is about collective will — fragmented, imperfect, argumentative
+people and nations choosing to be stronger together than the forces trying to pull
+them apart.
+
+Political soul: Uniting a politically disjointed European leadership against:
+- Russian covert sabotage campaign targeting European civil and military infrastructure
+- Compromised personnel within Europe's own political and military command structure
+
+AEGIS (the system) as the "Seeing Eye of Europe":
+Years before the events of Game 1, European NATO leaders recognized the threat of
+continuous Russian subversion and escalating infrastructure attacks. Built AEGIS —
+a classified, independent, distributed terrestrial and orbital infrastructure system
+with enough fault tolerance, fail-safety, and redundancy to remain online even when
+US infrastructure is taken down. Secures independent geospatial capability for
+European NATO command.
+AEGIS has proven highly effective at unmasking Russian covert sabotage operations
+and clandestine media campaign funding of manufactured dissent within European civil
+and political society.
+Russian response: Step up subversive activity, escalate to attacks on civil and
+military infrastructure, targeting strategic components of AEGIS itself.
+AEGIS Squad's task: Protect AEGIS. Protect the Seeing Eye of Europe.
+
+THEMATIC MIRROR [LOCKED]:
+AEGIS Squad's diversity (Ducky=American-Irish expat, Frost=Finnish, Lupin=Romanian,
+Switchblade=Australian) mirrors the EU unity theme. They are all different, don't
+always get along, but willing to set differences aside when it matters most — just
+like EU countries united to build AEGIS, and DAOG came together from different
+backgrounds to protect a common asset that in turn protects each of them individually.
+
+AEGIS SQUAD CHARACTER NOTES
+----------------------------
+DUCKY — Long-time American-Irish expat with strong ties to Europe. Boston-born.
+His American identity is a potential source of friction within DAOG Command when
+the US military is effectively neutralized by PANDORA and Europe is left to defend
+itself. Ducky's home country being knocked out could be a significant personal
+turning point in the campaign. [FLAG: Develop Ducky personal arc beat]
+
+FROST (Aki Peltola, SSGT) — SEE SECTION 5 for full backstory.
+Patient, laser-focused on the mission, uncannily calm under pressure. Uniquely
+experienced fighting Russians. Wears mask to hide facial scarring.
+Character voice: Finnish deadpan — zero inflection required in VA direction.
+
+LUPIN (Ştefan Dragavei) — Romanian, former special forces. Fearless but often
+stubborn protector. His trust is difficult to earn, but once earned makes him an
+ally you want beside you when things get tough.
+Romanian special forces background suggests exposure to institutional corruption
+and betrayal — Romania's post-communist security apparatus history is relevant
+source material.
+In Innsworth/Standing Watch: Asks one unexpected question during the briefing —
+not tactical but political. About who has oversight authority over the AEGIS
+constellation data and who has access to raw intelligence it generates. Gets a
+satisfactory official answer. Doesn't look satisfied. Nobody follows up.
+This is Lupin's anomaly seed — instinct that the system they're protecting may
+not be as accountable as it's supposed to be.
+[FLAG: Lupin personal wound backstory — develop when ready]
+
+SWITCHBLADE (Cassandra Stewart, LCPL) — Australian, Melbourne. Grew up in relative
+poverty in Melbourne suburbs. Mother died unexpectedly of cardiac arrest. Father
+Richie Stewart became increasingly abusive. At 17, the night of a house fire caused
+by her drunk father falling asleep with a cigarette, Cassie chose to walk away
+rather than save him. Spent months doing petty crime on Melbourne streets. Enlisted
+one week after her 18th birthday.
+Character: Moves with grace and swiftness that conceals brutal capability. Those who
+underestimate her rarely live to regret it. Proficient combat medic — can stitch
+people together or blow them apart, whichever the situation requires.
+Carries a moral wound (the house fire choice) that manifests in field behavior.
+[FLAG: Specific field behavior manifestation of fire night wound — develop]
+Relationship with Frost: Most interesting pairing. She instinctively understands
+the mask isn't just about the face. She has seen what's underneath it — in a medical
+context, not dramatically — and said nothing to anyone.
+
+ANOMALY THREADS IN DUCKY'S CAMPAIGN [LOCKED STRUCTURAL ASSET]
+---------------------------------------------------------------
+Three anomaly threads to plant across the campaign — never explained in Game 1,
+retroactively meaningful in Game 2:
+
+(1) Wirecutter: Vympel diving equipment was already staged and partially prepped
+when Nereid found them — not being unpacked, already staged. Means someone told
+them the window. Official attribution: good Russian operational planning. Ducky
+mentions to Halliday afterward. Neither pushes it. Never referenced again in Game 1.
+
+(2) Hinderloopen: Intercepted operative carries communications equipment / encryption
+signature consistent with private contractor rather than state intelligence apparatus.
+Halliday flags it in her report. Walker notes it. No further action.
+
+(3) Torrejón Air Base: How did Russian operators get deep enough inside a NATO air
+base to attempt satellite deorbit command sequence? Someone inside was compromised.
+Nobody officially held accountable for the infiltration. Ducky notices. Files it away.
+
+All three point toward same pattern: the enemy has inside information. Collectively
+they form a thread Halliday has partially documented. In Game 2, this becomes
+evidence of deeper penetration of DAOG or NATO command structure.
+
+
+MISSION STRUCTURE — DUCKY CAMPAIGN GAME 1 [LOCKED FRAMEWORK]
+-------------------------------------------------------------
+
+1. WIRECUTTER [LOCKED — fully developed]
+   Sea Lion 7 boarding operation with Nereid Black, North Sea.
+   Vympel FSB Naval Spetsnaz combat divers discovered in hold.
+   CQB fight in hold, repel two more attack craft.
+   HDMS Freja (TRIDENT SIX) arrives to secure scene. AEGIS extracted by PEGASUS TWO.
+   ANOMALY SEED: Vympel equipment pre-staged (planted, never resolved).
+   GRIM/FROST beat: SEE SECTION 5.
+
+2. INNSWORTH / STANDING WATCH [LOCKED]
+   Two-part mission — free roam of Innsworth base + formal briefing.
+   Part A — "Innsworth": AEGIS returns to RAF Innsworth, Gloucestershire.
+   Arrival by helicopter, early morning. Decompression. First encounter with Valkyrie
+   on tarmac. Base atmosphere: lived-in, institutional, not cinematic.
+   Character moments: Frost alone outside with coffee, Switchblade joins, minimal
+   exchange, almost-smile. Lupin cleans weapon before rotors stop.
+   Part B — "Standing Watch": Formal Wirecutter debrief by Walker. Halliday runs
+   AEGIS infrastructure briefing. Four sites identified: Hinderloopen, Faroe Islands,
+   French Alps, Lemnos. Romeo's squad mentioned as allied element (not yet arrived).
+   Halliday closing line: "When the Americans can't see, we have to. That's what
+   we built this for." [Protected line]
+   Lupin's unexpected political question — oversight/access anomaly seed planted.
+   Tremblay absent from debrief — noted, left open.
+
+3. HINDERLOOPEN / QUIET WATER [IN DEVELOPMENT]
+   Location: Hinderloopen, West Frisian coast, IJsselmeer, Netherlands.
+   AEGIS node concealed in what appears to be a maritime heritage museum/restored
+   historic building on waterfront. Terrestrial signal relay and data processing
+   for Northwestern European constellation coverage.
+   Threat: Russian surveillance and preparation team embedded in civilian cover
+   (marine equipment supplier, "cycling tourists" at B&B, telecoms maintenance van).
+   Three-phase structure:
+   Phase 1 — Covert reconnaissance. AEGIS in civilian cover. Switchblade uses
+   mobility/unremarkability advantage (café, waterfront, museum as tourist).
+   Character moment: brief exchange with local — humanizing, reminder of what
+   they're protecting.
+   Phase 2 — Threat activates. Telecom van makes move on relay infrastructure.
+   Contained firefight — suppressed weapons, narrow streets, no civilian exposure.
+   Lupin CQB + Frost long-range hold combination. Secondary team (cycling tourists)
+   intercepted at IJsselmeer waterfront before reaching boat.
+   Phase 3 — Anomaly. Intercepted operative carries private contractor signature
+   rather than state intelligence equipment. Halliday flags. Walker notes. No action.
+   Romeo's squad arrives mid-Phase 2 — first joint operation, natural friction
+   (different training, communication styles, instincts). Smoothed by end of mission.
+   Ducky/Romeo disagreement beat — resolved under pressure, neither wrong.
+   ANOMALY SEED: Private contractor equipment (anomaly thread 2).
+   [FLAG: Finalize mission name — candidates: Quiet Water, Still Life, Watchers]
+
+4. FAROE ISLANDS [TO BE DEVELOPED]
+   Site: Remote, exposed. Enemy has already made preliminary move.
+   Escalation: Team arrives to find situation already deteriorating.
+   [FLAG: Full mission development]
+
+5. FRENCH ALPS [TO BE DEVELOPED]
+   Site: High altitude, extreme terrain.
+   Escalation: Direct sabotage attempt already underway. Team arrives mid-crisis.
+   [FLAG: Full mission development]
+
+6. TORREJÓN AIR BASE, SPAIN [LOCKED CONCEPT]
+   Russian black operation attempting to take over Torrejón Air Base (Torrejón de
+   Ardoz, Spain) to deorbit the AEGIS satellite constellation.
+   KYNEE squad operators cut network access to satellite command center inside the
+   base, causing uplink to drop and interrupting deorbit command sequence.
+   Result: Only a single satellite of the AEGIS constellation is successfully
+   deorbited. It crashes down to earth in the foothills of the Julian Alps, Slovenia.
+   ANOMALY SEED: How did Russian operators get this deep inside a NATO air base?
+   Someone was compromised. Nobody held officially accountable. (Anomaly thread 3.)
+   [FLAG: Full mission development]
+
+7. JULIAN ALPS, SLOVENIA [LOCKED CONCEPT]
+   AEGIS Squad joins Slovenian ESD special forces operators to protect the crashed
+   satellite from recovery by multiple teams of unmarked Russian special operators.
+   Objective: Deny enemy access to security-critical data on the satellite.
+   Outcome: Team succeeds — recovers satellite themselves, preventing data compromise.
+   Environment: Debris trail across mountainside, crater still smoking, satellite
+   partially intact and partially catastrophically destroyed. Extraordinary natural
+   beauty as backdrop to tense recovery operation.
+   Slovenian ESD operators: Develop at least one as a minor character — name, local
+   knowledge that proves tactically decisive, moment of humanity in tense situation.
+   [FLAG: Full mission development]
+
+8. LEMNOS, AEGEAN [TO BE DEVELOPED]
+   Most intense of the infrastructure protection missions.
+   Enemy's full escalation strategy becomes clear here.
+   Anomaly thread surfaces most visibly.
+   Romeo's squad converges here before transition toward Brittany.
+   [FLAG: Full mission development]
+
+9. ÎLE LONGUE, BRITTANY [LOCKED CONCEPT — partial]
+   Joint mission with Romeo's squad defending French nuclear submarine base.
+   French nuclear submarines: Le Terrible and Le Vigilant.
+   Enemy: sabotage operation against French garrison and submarines.
+   Outcome: Sabotage foiled. Squads separate here — Romeo boards USS District of
+   Columbia. AEGIS diverted to Rotterdam.
+   [FLAG: Full mission development — separation beat, emotional weight of squads
+   going different ways needs development]
+
+10. ROTTERDAM / MAASVLAKTE TERMINAL [LOCKED — largely developed]
+    AEGIS alongside Dutch Royal Marines at Maasvlakte Oil and Gas Terminal,
+    Port of Rotterdam.
+    Ducky fights to Russian-encircled NATO mobile missile command post.
+    Manually fires NSM (AGM184A) anti-ship missile from NMESIS-type truck launcher.
+    Target: Russian Baltic Fleet destroyer Severomorsk, laying artillery fire from
+    off coast, blocking reinforcements.
+    Protected dialogue exchange:
+    Severomorsk: "Attention NATO forces! This is the destroyer Severomorsk...
+    You are illegally occupying the Maasvlakte terminal. Cease fire immediately..."
+    Ducky: [arms NMESIS battery, reaches for radio, switches to Severomorsk frequency]
+    "Hey, Russian warship! Go fuck yourself!" [turns key to initiate NSM launch]
+    RPG operator (Spetsnaz) emerges from drain hole 100 yards out, fires at command
+    center. Command center struck, knocked off outriggers, tips over. Ducky scrambles
+    for escape hatch, emerges to see plume of black smoke on horizon as Severomorsk
+    retreats in flames. Dutch Marine radio chatter confirms ship's retreat.
+    [LOCKED — "Hey, Russian warship! Go fuck yourself!" is a protected canonical line]
+
+
+================================================================
+SECTION 5: FROST BACKSTORY — COLD FRONTIER 07
+================================================================
+
+THE INCIDENT [LOCKED]
+----------------------
+Location: Near Inarijärvi (Lake Inari), East Lapland, Finland —
+near the Finno-Russian national border.
+Operation: Finnish Special Border Jaeger Company border security mission.
+Frost's role at the time: Young NCO, serving with his spotter and close comrade
+Jussi Mustonen.
+
+What happened:
+Frost and Jussi's position was ambushed by two Chechen members of a Russian
+Spetsnaz Arctic operations team. One Spetsnaz attacker charged directly at Frost.
+Jussi, in an immediate instinct to protect Frost, threw himself at the attacker —
+taking a hatchet to the neck. Jussi was fatally wounded.
+
+Meanwhile Frost engaged the other attacker in the cramped elevated fortified lookout
+position. A close-quarters struggle ensued as Frost tried to grab the attacker's
+pistol. He failed to secure it. He was shot point-blank in the face and thrown from
+the elevated position, managing to drag the attacker down with him as they both
+plunged several dozen feet off a clifftop into the icy lake water below.
+
+Underwater, the struggle continued until Frost — severely wounded, hypothermic,
+barely conscious — managed to get his bearings, grasp the back of the Spetsnaz
+operator's helmet as the enemy briefly faced away, and drive his head face-first
+into a jagged rock outcropping underwater.
+
+Frost's unit found him unconscious on the lake shore, half in the water. The dead
+Spetsnaz operator was floating face down in a crimson-tinted patch of lake water
+a few yards out.
+
+Frost's first words upon regaining consciousness (in Finnish):
+"Naamani? Sinun pitäisi nähdä, miten se toinen kusipää päätyi. Unohda koko juttu,
+meidän on löydettävä Jussi! Se toinen venäläinen pani hänet pahasti pieleen."
+
+English caption translation:
+"My face? You should see how that other asshole ended up. Forget the whole thing,
+we have to find Jussi! That other Russian screwed him badly."
+
+This moment is designed as a playable flashback sequence.
+[FLAG: Confirm placement and integration of flashback within Ducky campaign]
+
+THE COVER-UP [LOCKED]
+---------------------
+Official designation: Cold Frontier 07 (winter military exercise).
+Jussi Mustonen's death was officially reported as drowning after falling through
+ice while crossing the frozen surface of Lake Inari.
+Cover story rationale: A Russian Spetsnaz team operating inside Finnish sovereign
+territory is an act of war. Finnish and NATO leadership chose to bury it to avoid
+escalation of conflict with Russia at the time.
+The cover story is mundane enough to generate no questions — the kind of death
+that happens in Arctic conditions.
+
+What this means for Frost:
+Jussi doesn't just die — he dies officially as a clumsy accident. No record of
+his sacrifice. No acknowledgment that he threw himself at an armed Spetsnaz operator
+to save his spotter's life. In the official version, he just fell through ice.
+The real wound beneath the physical scarring: not just that Frost couldn't save him,
+but that the institution they both served decided Jussi's actual death was
+inconvenient and replaced it with a lesser one.
+Somewhere in the Kremlin, someone signed off on the operation and was never held
+accountable.
+
+FROST'S RELATIONSHIP WITH HIS SCARRING [LOCKED]
+-----------------------------------------------
+Frost is not ashamed of his scarring. He sees it as a reminder of sacrifice and
+perseverance in the face of adversity — a badge of courage in his own mind.
+He never talks about it that way to others, preferring not to discuss how he got
+the injury.
+He wears the mask primarily because the scarring makes him recognizable —
+a significant operational OPSEC liability.
+He is also aware that the disfigurement can disturb people, and hides his face
+when it makes his day easier. This is pragmatic, not emotional.
+
+FROST FACE REVEAL — TWO-STAGE STRUCTURE [LOCKED]
+-------------------------------------------------
+Stage 1: GRIM'S RECOGNITION (Mission: Wirecutter)
+Grim (Nereid Black squad leader) has high enough clearance to have passing knowledge
+of Cold Frontier 07 and its cover-up. He knows exactly who Frost is.
+
+Three beats of the Grim/Frost interaction across Wirecutter:
+Beat 1: During initial AEGIS/Nereid link-up, Grim runs his eyes across the team.
+Gets to Frost. Holds a fraction of a second longer than the others. Not staring —
+just registering. Moves on without expression.
+Beat 2: In the heat of the hold firefight, Grim and Frost working in close proximity.
+Grim addresses everyone by callsign — except Frost, whom he addresses once, briefly,
+by his real surname: "Peltola." Just once, naturally, as if between senior operators.
+Back to callsigns immediately. Frost doesn't react visibly.
+Beat 3: End of Wirecutter. Grim and Frost momentarily alone (or near enough).
+Grim says, in Swedish:
+"Du klarade dig bra där inne. Jussi hade också gjort det."
+("You did well in there. Jussi would have too.")
+Then walks away before Frost can respond. No acknowledgment that anything unusual
+was just said. No waiting for a reaction.
+[PROTECTED LINE — Swedish delivery confirmed canonical]
+
+Stage 2: THE REVEAL (Later in campaign — triggered by Cold Frontier resurfacing)
+When resurfaced connections to Cold Frontier 07 become undeniable (intelligence
+document, a name on a brief, a face Frost recognizes from the past), old wounds
+surface. Frost lets on his personal story to the team.
+The reveal is NOT dramatic — Frost removes the mask because the situation calls for
+it (medical moment, or moment of exhaustion where he stops performing composure).
+Switchblade is present. She has already seen his face in a medical context and said
+nothing to anyone. Her presence makes it safe.
+The playable flashback plays here — fragmented, subjective. Jussi charging the
+attacker. Frost's POV tumbling off the cliff. Darkness. Cold. Underwater struggle.
+Shore. Then back to the present, Frost's face visible to the player for the first time.
+
+Frost touching his face [LOCKED detail]:
+Just before speaking, in the silence after regaining consciousness on the lake shore
+(within the flashback), Frost reaches up and touches his own face — not in distress,
+just registering it, the way you register an unexpected physical fact. A single gesture.
+Then the Finnish line. He never touches it again.
+
+FROST AND JUSSI — PERSISTENT PRESENCE [LOCKED]
+-----------------------------------------------
+Frost carries a small personal item that was Jussi's — mundane, never explained.
+Player notices it without it ever being named.
+Frost may use Jussi's name once, briefly, in passing — making clear this was someone
+specific and important, without elaboration.
+In a mission against Russian Arctic operators specifically, Frost's behavior shifts
+almost imperceptibly. He gets quieter. More precise. Ducky says his name once over
+comms — a check-in. Frost responds with clipped confirmation. Nothing else.
+
+THEMATIC RESONANCE [LOCKED]
+----------------------------
+Cold Frontier 07 fits within the campaign's larger theme: powerful institutions
+choosing the comfortable lie over the dangerous truth. The Shadow Underground, Riptide
+Red, FSB penetration of Western institutions — all expressions of the same underlying
+disease. Cold Frontier 07 is a smaller, more intimate version of the same pattern.
+Frost's personal story is not separate from the campaign's political themes —
+it is a human-scale embodiment of them. Jussi's real death rusting at the bottom
+of Lake Inari is the anchor that makes the political personal.
+
+[FLAG: The FSB official who sanctioned the border operation — plant their name or
+suggestion of name in a late Game 1 document or brief. Frost sees it. Player sees
+Frost see it. Nothing said. Resolution for Game 2.]
+
+
+================================================================
+SECTION 6: ITEMS FLAGGED FOR FURTHER DEVELOPMENT
+================================================================
+
+HIGH PRIORITY (needed to complete Game 1):
+- Faroe Islands mission — full development
+- French Alps mission — full development  
+- Torrejón Air Base mission — full development
+- Julian Alps / Slovenia mission — full development
+- Lemnos mission — full development
+- Île Longue mission — separation beat, emotional weight
+- Ducky's personal arc beat — American identity vs. Europe defending itself alone
+- Lupin personal wound backstory
+- Switchblade field behavior manifestation of house fire moral wound
+- Battle of Coronado Island — full development (shared climax all 3 campaigns)
+- Signal Hill outcome — Rangers push vs Marines consolidate (André vs. Romeo)
+- Hinderloopen mission name — finalize (candidates: Quiet Water, Still Life, Watchers)
+
+MEDIUM PRIORITY (structural, some development done):
+- CORYS Squad — Valkyrie and Brick need development before their promo clips
+- Frost flashback placement and integration within campaign
+- Tremblay hidden complexity — how much to seed in Game 1
+- FSB official connected to Cold Frontier 07 — name/hint in late Game 1 document
+- Ducky/Romeo relationship arc across joint missions
+
+LOWER PRIORITY / SEQUEL THREAD:
+- Full sequel campaign structures for all three characters
+- Regent's full whistleblower arc and Find Regent storyline
+- Budanova protection storyline in Spook G2
+- Cold Frontier 07 FSB accountability thread
+- Tremblay FSB connection full development
+- GenCorp/Palisade/Bastion surveillance network as sequel antagonist infrastructure
+- La Avispa DLC development
+- Game 3 development (Wei Junlong, New America faction, Spook Laos-Yunnan-Shanghai)
+- US multi-service radio chatter full library (framework done, library pending)
+
+PROTECTED LINES AND ASSETS — DO NOT USE IN MARKETING OR RESOLVE PREMATURELY:
+- "Hey, Russian warship! Go fuck yourself!" (Ducky, Rotterdam finale)
+- "Du klarade dig bra där inne. Jussi hade också gjort det." (Grim to Frost, Swedish)
+- "When the Americans can't see, we have to. That's what we built this for." (Halliday)
+- "American Freedom, over." (Romeo, AC-130 Angel, Kentucky — Game 2)
+- "Try her." (Switchblade — in-story only, never marketing)
+- Unsubtitled Finnish line (Frost promo — Helvegen)
+- WREN name — never in overlay, bolt-open animation only, never spoken aloud
+- PANDORA ending — option B or close to C (remediation underway but incomplete)
+- Goldberg false-flag-consumed-by-bigger-conspiracy articulation — late story, protect placement
+- PANDORA kill switch / Wei Junlong fracture line — protected structural asset
+
+================================================================
+END OF SESSION DOCUMENT
+================================================================
+Generated for upload to Project Warriors project knowledge base.
+Continue development in new thread — begin with Faroe Islands mission.

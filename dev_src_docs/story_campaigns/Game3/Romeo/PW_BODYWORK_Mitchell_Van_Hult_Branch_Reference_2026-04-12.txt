@@ -1,0 +1,69 @@
+PW|ROMEO G3|BOSTON|BODYWORK / MITCHELL VAN HULT|Status: active working canon|Updated: 2026-04-12
+
+Project Warriors — Romeo Game 3 — BODYWORK / Mitchell Van Hult Branch Reference
+
+Purpose
+This page converts the earlier compact Van Hult side-quest sketch into a source-ready branch reference for Romeo's Boston campaign. It is intended as the working source page for mission writing, branch integration, future scripting, and compendium refreshes.
+
+Branch Status
+Active working canon. BODYWORK is an optional multi-mission Boston branch centered on neighborhood-scale reclamation, culminating in the recovery of Mitchell Van Hult's seized body shop and the transformation of a one-use improvised breaching machine into reclaimed neighborhood infrastructure.
+
+Core Identity
+Mitchell Van Hult is a mid-50s former USAF technician and body-shop owner whose Boston shop was seized by occupation forces and turned into a motor pool. He should not be written as a crank, a joke reference, or a direct clone of any real-world figure. The emotional core of the branch is not revenge fantasy. It is restoration of civic function through violent reclamation by ordinary skilled people whose work, streets, and neighborhood role were stolen and repurposed by the occupation.
+
+Working branch title: BODYWORK.
+Recommended branch shape: 4 linked optional missions plus 1 epilogue beat.
+Recommended district flavor: Newmarket / Widett Circle / South Bay industrial belt on the edge of Roxbury and the South End. The area should support broad roads, industrial plausibility, a hidden construction-site / parking-garage build space, and immediate proximity to dense lived-in neighborhoods.
+
+Character Roles
+Mitchell Van Hult
+Proud, exact, community-minded tradesman. His grievance is that the occupation stole his livelihood, his shop, and his neighborhood function and turned them into something crude. He supplies the branch's emotional center and the civilian-skilled-labor logic behind the dozer build.
+
+Romeo
+Operational spearpoint and combat executor. Romeo does not ride the dozer. He advances on foot with the breach-supported assault, clearing flank threats, machine-gun nests, rooms, rooftops, and route-blocking positions while the dozer forces open the choke point.
+
+Elena Costa
+District-level resistance combat leader and operational realism check. Elena is important connective tissue in this branch. She should appear in The Shop, Concrete, Open the Route, and Bodywork as local facilitator, district-security lead, route authority, and the person who helps translate Van Hult's anger into something tactically survivable.
+
+Branch Theme
+Not spectacle for its own sake. Not secret resistance super-weapon fantasy. The branch is about a neighborhood reclaiming function, access, and dignity. The dozer exists to open the street, not to become a heroic franchise asset.
+
+Mission Sequence
+1) The Shop
+Romeo meets Van Hult, learns that the occupied avenue checkpoint and nearby command node are fed by the motor-pool complex built around Van Hult's seized shop, and sees the neighborhood cost of leaving that control node in place. The hidden opportunity is discovered: a stalled construction site / parking-garage space and a plausible path to an improvised breaching vehicle.
+
+2) Concrete
+Secure the half-finished construction site and parking garage. Restore limited power, move salvage and tools, protect the builders, and establish the hidden community build cell. The point is not a montage of genius fabrication; it is showing welders, mechanics, electricians, and construction workers making one ugly, purposeful machine out of what the neighborhood can still reach.
+
+3) Open the Route
+Romeo-led shaping mission. Blind the local surveillance / comms picture, remove likely overwatch and kill positions, create confusion in the checkpoint's response pattern, and canalize enemy reaction so the breach has a real chance of working. This mission is what makes the later dozer run feel earned rather than magical.
+
+4) Bodywork
+Moving assault mission. Van Hult drives the improvised armored bulldozer through the checkpoint while Romeo advances on foot with the push. The dozer is there to smash barricades, crush the command-post pocket, absorb small-arms / fragment punishment, and keep the avenue open long enough for the district assault to stick. It is not there to duel tanks or become a free-roaming special vehicle.
+
+5) Epilogue beat
+Post-branch ordinary-life return in the reclaimed neighborhood, ideally with a small concert / street gathering / reopened civic-space feeling rather than triumphalist speechifying. The point is that the street and the shop are functioning for the neighborhood again.
+
+Dozer Design Rule
+The armored bulldozer is a one-purpose improvised breaching ram built in a hidden parking garage by a neighborhood build cell. Treat any real-world resonance only as a subtle structural echo, never as the moral center of the mission. It should be credible against barricades, checkpoints, fragments, machine-gun fire, and light occupation control nodes. It should not read as a homemade supertank.
+
+Mission 4 — Locked Vehicle End-State
+The improvised armored bulldozer completes its intended role as a one-use breaching vehicle during the final assault on the checkpoint / motor-pool position. After smashing through the avenue roadblock and helping collapse the command-post pocket, it suffers a final mobility kill and becomes permanently immobilized in the target area.
+
+Preferred presentation: the dozer ends the fight lodged off the side of the avenue in rubble, rebar, and debris, angled so its rear-mounted gun can still cover the approach. Cause should read as cumulative battlefield damage / terrain entrapment rather than theatrical sacrifice; acceptable causes include thrown track, shattered drive component, jammed undercarriage, engine failure, or combined damage.
+
+Immediate gameplay function: the rear-mounted gun serves as a temporary end-of-fight expedient strongpoint to help repel a final Russian reinforcement push from the far side of the avenue. This is a last-minute stabilization function only, not a redefinition of the dozer as a reusable resistance asset.
+
+Post-battle rule: the resistance removes the mounted gun and any other recoverable heavy components after the fight. They would not leave useful heavier weapons unattended where they could be scavenged, sabotaged, or retaken.
+
+Revisit-state rule: the hull remains, but the dozer is dead as a combat vehicle. On later revisits it is reclaimed by the neighborhood and integrated into reclaimed defensive / civic space as part of a barricade / strongpoint line, with possible sandbags, scrap reinforcement, warning markings, observation use, nearby resistance traffic, and a small command-post or lookout node nearby.
+
+Guiding line for later reference: It breaches as a weapon, then is reclaimed as infrastructure.
+
+Direct enterability / hatch-climb interaction on revisit remains intentionally unlocked for a later detail pass and is not currently required design.
+
+Campaign Consequences / Unlock Logic
+Completing the branch reclaims Van Hult's shop and turns it into a resistance vehicle repair / fabrication node. Post-branch Boston should show improved allied vehicle condition, improvised armor / reinforcement capability, and a stronger sense that the resistance is sustaining liberated ground rather than only passing through. A gunsmith may briefly use the reclaimed shop as temporary overflow workspace, but the preferred long-term direction remains that the gunsmith has a separate permanent city location so Boston retains layered geography.
+
+Use Cautions
+Do not write the dozer as a pet super-weapon, recurring drivable toy, or mythic mascot. Do not make the branch's emotional center a wink to the real-world reference point. Keep the moral focus on stolen civic function, neighborhood labor, practical anger, and the transformation of wreckage into defended public space.

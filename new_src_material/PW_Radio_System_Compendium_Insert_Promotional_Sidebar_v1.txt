@@ -1,0 +1,58 @@
+PROJECT WARRIORS
+RADIO SYSTEM — PROMOTIONAL / SIDEBAR DEVELOPMENT COMPENDIUM INSERT v1
+
+Section: Civilian / Public Radio Layer
+
+Overview
+Project Warriors now has an approved civilian/public radio layer distinct from tactical and military comms. Its purpose is to provide social weather, public framing, civic pressure, regional identity, and entertainment/worldbuilding value without collapsing into direct plot exposition. Civilian/public radio should sound like it was made for in-world listeners, not for the player.
+
+Core station identities locked for Romeo campaigns
+1) THE RIDGE
+- Kentucky local FM civilian baseline
+- county public voice
+- weather, roads, traffic, sponsor reads, headlines, clinic/school/community rhythm
+- tracks occupied normalcy to narrowed public language to partial reopening
+
+2) FIELDHOUSE
+- Coach Terrell Washington's low-power trusted local community/pirate signal
+- practical bulletins, morale without speeches, quiet local organization, later OPSEC compression
+- tracks emergence/local trust to mid-campaign shared direction to scrutiny-phase compression to practical late-liberation steadiness
+- must remain local, trusted, practical, intermittent, and non-speechifying rather than a polished resistance-media network
+
+3) HARBOR
+- Boston civilian city station under occupation pressure
+- route stress, utility pressure, district fragmentation, building/neighborhood survival, later reclaimed-function recovery
+- tracks occupied routine to hard constraint to fragmented/contested city to reclaimed-function recovery
+
+Tone / truth rules
+- Public radio should rarely explain the plot directly.
+- It should convey how civilians, commuters, workers, shopkeepers, and neighborhoods interpret events around them.
+- THE RIDGE carries more public half-truths and routine county framing.
+- FIELDHOUSE is more truthful but deliberately incomplete: say enough to help, not enough to burn people.
+- HARBOR reveals truth through route stress, utility degradation, civic texture, and the gap between official wording and lived city reality.
+
+Sponsor/support evolution rule
+As campaigns get harsher, smoother ad language should degrade into support-from / held-together-by / mutual-aid and survival-infrastructure phrasing.
+
+Production workflow rule
+Build stations in this order:
+identity -> phase logic -> daypart logic -> line libraries -> mission packets
+
+Do not start by writing random radio lines. Lock what the station is, who it speaks to, how truthful it can be, how it changes over time, and where it appears in gameplay.
+
+Current reusable system assets now exist for:
+- framework
+- workflow
+- station contrast
+- THE RIDGE identity
+- FIELDHOUSE identity
+- HARBOR identity
+- handoff / filing rules
+
+Filing rule
+Memory stores durable system truths.
+Compendia store structured reference pages and reusable assets.
+Implementation notes store mission/window-specific deployment.
+
+Next-step note for new thread
+Build one non-Romeo-region pilot station as a scaling test for the radio system. This should be handled in a new thread after this radio-development thread is archived, so the current thread does not bloat further.

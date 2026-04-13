@@ -1,0 +1,205 @@
+ROOT_DIR
+├── archived
+│   ├── pat_napier_source_updates_2026-04-12.zip
+│   ├── PW_CFIM_Closeout_Landing_v1.zip
+│   ├── PW_Ducky_StrongArm_Update_2026-04-12.zip
+│   ├── PW_Partial_Item_Source_Pages_2026-04-13_rev1.zip
+│   ├── PW_Reclaim_Candidates_Only_2026-04-13.zip
+│   ├── PW_Repo_Gap_Hunt_Packet_2026-04-13.zip
+│   ├── PW_Rev3_Compendia_Refresh_Bundle_2026-04-13.zip
+│   └── PW_workspace_downloadables_2026-04-13.zip
+├── dev_src_docs
+│   ├── canon_lore_source_of_truth
+│   │   ├── PW_Updated_Canon_Overview_2026-04-13_rev1.docx
+│   │   └── PW_Updated_Canon_Overview_2026-04-13_rev1.pdf
+│   ├── diegetics_and_world-building
+│   │   └── visual_identity
+│   │       └── PW_Resistance_Visual_Identity_Source_2026-04-12.txt
+│   ├── gameplay_mechanics
+│   │   └── AnimalCalmStateInteractionMechanic
+│   │       ├── PW_Animal_Calm_State_Interaction_Reference_Page_2026-04-13_rev1.txt
+│   │       ├── PW_Gameplay_Mechanics_Overview_Animal_Calm_State_Interaction_Insert_2026-04-13_rev1.txt
+│   │       └── PW_Working_Compendium_04_Animal_Calm_State_Interaction_Patch_2026-04-13_rev1.txt
+│   ├── image_prompts
+│   ├── music_and_sound_design
+│   ├── PW_Source_Manifest_2026-04-13_rev2.csv
+│   ├── story_campaigns
+│   │   ├── Game1
+│   │   ├── Game2
+│   │   │   ├── Ducky
+│   │   │   │   ├── PW_COLD_ROOM_Mission_Reference_Packet.txt
+│   │   │   │   └── PW_SHIELD_Squad_Development_Packet.txt
+│   │   │   ├── PAT_NAPIER_SOURCE_UPDATE_MANIFEST.json
+│   │   │   ├── Romeo
+│   │   │   │   ├── character_profile_pat_napier.txt
+│   │   │   │   └── PAT_NAPIER_SOURCE_UPDATE_CHANGELOG.txt
+│   │   │   └── Spook
+│   │   ├── Game3
+│   │   │   ├── Ducky
+│   │   │   ├── Romeo
+│   │   │   │   ├── PW_BODYWORK_Mission4_Vehicle_EndState_Insert_2026-04-12.txt
+│   │   │   │   ├── PW_BODYWORK_Mitchell_Van_Hult_Branch_Reference_2026-04-12.txt
+│   │   │   │   ├── PW_BODYWORK_Source_Landing_Note_2026-04-12.txt
+│   │   │   │   ├── PW_HOLDFAST_Full_Screenplay_Mission_Scripting_Path_2026-04-13_rev1.txt
+│   │   │   │   ├── PW_HOLDFAST_Post_LIFELINE_Follow_Up_Mission_Reference_Page_2026-04-13_rev1.txt
+│   │   │   │   ├── PW_LIFELINE_Persistent_Campaign_Consequences_Sheet_2026-04-13_rev1.txt
+│   │   │   │   └── PW_Vickers_Corridor_CASEVAC_Route_Mission_Reference_Page_2026-04-13_rev1.txt
+│   │   │   └── Spook
+│   │   ├── HomeDefenseDLC
+│   │   ├── SemperFiDLC
+│   │   ├── TheWaspDLC
+│   │   └── WhoDaresWinsDLC
+│   │       ├── PW_Boston_Harbor_Strike_Reference_Page_2026-04-13_rev1.txt
+│   │       ├── PW_Hostage_HVP_Extraction_Mission_Reference_Page_2026-04-13_rev1.txt
+│   │       ├── PW_UK_Response_Reference_Page_2026-04-13_rev1.txt
+│   │       ├── PW_Vickers_Character_Profile_Page_2026-04-13_rev1.txt
+│   │       ├── PW_Vickers_First_Contact_First_Briefing_Scene_2026-04-13_rev1.txt
+│   │       ├── PW_Vickers_Royal_Marines_Boston_Package_Reference_Page_2026-04-13_rev1.txt
+│   │       ├── PW_Who_Dares_Wins_Campaign_Structure_Page_2026-04-13_rev1.txt
+│   │       └── PW_Who_Dares_Wins_Detailed_Mission_Outline_Sheet_2026-04-13_rev1.txt
+│   └── templates
+│       └── PW_Governance_Header_Template_2026-04-13_rev1.txt
+├── incoming_patches_and_updates
+│   ├── Open_Circuit_Brno_Archive_Handoff.md
+│   ├── pat_napier_source_updates_2026-04-12
+│   │   └── updated_sources_pat_napier_2026-04-12
+│   │       ├── character_narrative_profiles.txt
+│   │       ├── character_profile_pat_napier.txt
+│   │       ├── PAT_NAPIER_SOURCE_UPDATE_CHANGELOG.txt
+│   │       ├── PAT_NAPIER_SOURCE_UPDATE_MANIFEST.json
+│   │       ├── ProjectWarriors_Consolidated_Master_Source.txt
+│   │       ├── PW_Game3_Lab_Session_Summary-1.txt
+│   │       ├── PW_Gameplay_Mechanics_Overview-4.txt
+│   │       ├── PW_Timeline_Thread_Summary.txt
+│   │       └── PW_Weapons_Dev_Thread_Full_Summary.txt
+│   ├── Project_Warriors_Trilogy_Thematic_Arc_Standard.txt
+│   ├── PW_CFIM_Closeout_Landing_v1
+│   │   ├── character_narrative_profiles.txt
+│   │   ├── named_weapon_builds_v2_1.txt
+│   │   ├── ProjectWarriors_Consolidated_Master_Source.txt
+│   │   ├── PW_CFIM_Closeout_Manifest_v1.txt
+│   │   ├── PW_Sidebar_Development_Summary.txt
+│   │   ├── PW_Thread_NarrativeDev_Session1.txt
+│   │   ├── PW_Timeline_Thread_Summary.txt
+│   │   └── PW_Weapons_Dev_Thread_Full_Summary.txt
+│   ├── PW_CFIM_Closeout_Manifest_v1.txt
+│   ├── PW_CFIM_MicroContinuity_Patch_v1.txt
+│   ├── PW_Compendium_Update_01_Core_Timeline_Bakhmut_Mini_Arc_2026-04-13_rev1.txt
+│   ├── PW_Compendium_Update_03_Characters_DLC_Bakhmut_Cell_2026-04-13_rev1.txt
+│   ├── PW_Compendium_Update_05_Missions_Scenes_Cinematics_Bakhmut_Arc_2026-04-13_rev1.txt
+│   ├── PW_Compendium_Update_Bakhmut_Mini_Arc_Index_2026-04-13_rev1.txt
+│   ├── PW_Ducky_StrongArm_Update_2026-04-12
+│   │   └── updated_ducky_strongarm_2026-04-12
+│   │       ├── character_narrative_profiles.txt
+│   │       ├── named_weapon_builds_v2_1.txt
+│   │       ├── ProjectWarriors_Consolidated_Master_Source.txt
+│   │       ├── PW_UpdateLog_2026-04-12_Ducky_StrongArm.txt
+│   │       └── PW_Weapons_Dev_Thread_Full_Summary.txt
+│   ├── PW_La_Avispa_Manifest_Source_Inserts_2026-04-13.txt
+│   ├── PW_Music_Placement_Patch_Beyonce_YAYA_2026-04-13_rev1.txt
+│   ├── PW_Partial_Item_Source_Pages_2026-04-13_rev1
+│   │   ├── PW_Migration_Closeout_Addendum_Partial_Items_2026-04-13_rev1.txt
+│   │   ├── PW_Source_Page_Bakhmut_Visual_Reference_Packet_2026-04-13_rev1.txt
+│   │   ├── PW_Source_Page_BODYWORK_Van_Hult_2026-04-13_rev1.txt
+│   │   ├── PW_Source_Page_Boston_Weapons_Armorer_2026-04-13_rev1.txt
+│   │   └── PW_Source_Page_Trilogy_Slogan_Promo_Style_2026-04-13_rev1.txt
+│   ├── PW_Reclaim_Candidates_Checklist_2026-04-13.txt
+│   ├── PW_Reclaim_Candidates_Only_2026-04-13
+│   │   ├── PW_Migration_Ledger_2026-04-13_rev2.txt
+│   │   ├── PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+│   │   ├── PW_Reclaim_Candidates_Checklist_2026-04-13.txt
+│   │   ├── PW_Source_Manifest_2026-04-13_rev2.csv
+│   │   ├── PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+│   │   ├── PW_Updated_Canon_Overview_2026-04-13_rev1.pdf
+│   │   ├── PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+│   │   └── PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt
+│   ├── PW_Resistance_Visual_Identity_Source_2026-04-12.txt
+│   ├── PW_Romeo_Kearney_Boston_Weapons_Compendium_Landing_Note.txt
+│   ├── PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt
+│   ├── PW_Sidebar_Development_Summary_UPDATED_2026-04-12 (1).txt
+│   ├── PW_Sidebar_Development_Summary_UPDATED_2026-04-12.txt
+│   ├── PW_Source_Insert_03_Characters_La_Avispa_Manifest_2026-04-13.txt
+│   ├── PW_Source_Insert_05_Missions_La_Avispa_Manifest_2026-04-13.txt
+│   ├── PW_Teaser_Treatments_Sidebar_v1_UPDATED_2026-04-12.txt
+│   ├── PW_Timeline_Refresh_Audit_Sheet_2026-04-13_v1.txt
+│   ├── PW_Timeline_Thread_Export_v1_UPDATED_2026-04-12.txt
+│   ├── PW_Vickers_Character_Profile_Page_2026-04-13_rev1.txt
+│   ├── PW_Vickers_Royal_Marines_Boston_Package_Reference_Page_2026-04-13_rev1.txt
+│   ├── PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev3.txt
+│   ├── PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev3.txt
+│   ├── PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev3.txt
+│   ├── PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev3.txt
+│   ├── PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev4.txt
+│   ├── PW_WorkingSet_Trilogy_Thematic_Arc_Dropin.txt
+│   ├── PW_WorkingSet_Trilogy_Thematic_Arc_Integration_Note.txt
+│   ├── PW_workspace_downloadables_2026-04-13
+│   │   ├── PW_Archival_Master_2026-04-13_rev2.txt
+│   │   ├── PW_Governance_Header_Template_2026-04-13_rev1.txt
+│   │   ├── PW_Migration_Ledger_2026-04-13_rev2.txt
+│   │   ├── PW_Package_ChangeLog_2026-04-13_rev2.txt
+│   │   ├── PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+│   │   ├── PW_Recommended_Upload_Order_2026-04-13_rev2.txt
+│   │   ├── PW_Source_Manifest_2026-04-13_rev2.csv
+│   │   ├── PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+│   │   ├── PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt
+│   │   ├── PW_workspace_downloadables_inventory_2026-04-13.txt
+│   │   └── README_PW_Migration_Package_2026-04-13_rev2.txt
+│   └── PW_workspace_downloadables_inventory_2026-04-13.txt
+├── new_src_material
+│   ├── character_profile_pat_napier.txt
+│   ├── PAT_NAPIER_SOURCE_UPDATE_CHANGELOG.txt
+│   ├── PAT_NAPIER_SOURCE_UPDATE_MANIFEST.json
+│   ├── PW_La_Avispa_Manifest_Source_Inserts_2026-04-13.txt
+│   ├── PW_Radio_System_Compendium_Insert_Missions_Scenes_Cinematics_v1.txt
+│   ├── PW_Radio_System_Compendium_Insert_Promotional_Sidebar_v1.txt
+│   ├── PW_Radio_System_Thread_Closeout_Handoff_v1.txt
+│   ├── PW_Radio_System_Update_Package_Manifest_v1.txt
+│   ├── PW_Source_Insert_03_Characters_La_Avispa_Manifest_2026-04-13.txt
+│   └── PW_Source_Insert_05_Missions_La_Avispa_Manifest_2026-04-13.txt
+├── Project_Warriors_Knowledge_Compendia
+│   ├── PW_Archival_Master_2026-04-13_rev2.txt
+│   ├── PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+│   ├── PW_Recommended_Upload_Order_2026-04-13_rev2.txt
+│   ├── PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt
+│   ├── PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-13_rev2.txt
+│   ├── PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+│   ├── PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+│   ├── PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+│   └── PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt
+├── README.md
+├── Recovered_Sources
+│   ├── recovered__Fictional_FPS_campaign_8.pdf.txt
+│   ├── recovered__file_00000000aa7c7243abb8a81c49d9427e.png.txt
+│   ├── recovered__ProjectWarriors_AircraftFlyoverScenes.txt.txt
+│   └── recovered__PW_dlc_La_Avispa_thread.txt.txt
+├── source_audits_and_reports
+│   ├── PW_Compendia_Refresh_Note_2026-04-13_rev1.txt
+│   ├── PW_Migration_Ledger_2026-04-13_rev2.txt
+│   ├── PW_Migration_Ledger_2026-04-13_rev3.txt
+│   ├── PW_Package_ChangeLog_2026-04-13_rev2.txt
+│   ├── PW_Package_ChangeLog_2026-04-13_rev3.txt
+│   ├── PW_Repo_Gap_Hunt_Acquisition_Checklist_2026-04-13.txt
+│   ├── PW_Repo_Gap_Hunt_Map_2026-04-13.txt
+│   ├── PW_Repo_Gap_Hunt_Packet_2026-04-13
+│   │   ├── PW_Migration_Ledger_2026-04-13_rev2.txt
+│   │   ├── PW_Package_ChangeLog_2026-04-13_rev2.txt
+│   │   ├── PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+│   │   ├── PW_Repo_Gap_Hunt_Acquisition_Checklist_2026-04-13.txt
+│   │   ├── PW_Repo_Gap_Hunt_Map_2026-04-13.txt
+│   │   ├── PW_Source_Manifest_2026-04-13_rev2.csv
+│   │   └── PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+│   ├── PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+│   ├── PW_Thread_Archive_Audit_2026-04-13_rev3.txt
+│   ├── PW_Timeline_Refresh_Audit_Sheet_2026-04-13_v1.txt
+│   └── README_PW_Migration_Package_2026-04-13_rev2.txt
+└── temporary_files
+└── kearney_likeness.txt

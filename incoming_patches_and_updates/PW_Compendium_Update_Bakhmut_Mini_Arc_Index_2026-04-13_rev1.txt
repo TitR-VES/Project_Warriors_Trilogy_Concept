@@ -1,0 +1,26 @@
+PROJECT WARRIORS — BAKHMUT MINI-ARC COMPENDIUM UPDATE INDEX
+Generated: 2026-04-13
+Version: rev1
+
+This packet contains only the compendium deltas still needed after the current
+rev2 migration package, based on the Bakhmut mini-arc thread finalized after that
+package was generated.
+
+FILES INCLUDED
+1. PW_Compendium_Update_01_Core_Timeline_Bakhmut_Mini_Arc_2026-04-13_rev1.txt
+2. PW_Compendium_Update_03_Characters_DLC_Bakhmut_Cell_2026-04-13_rev1.txt
+3. PW_Compendium_Update_05_Missions_Scenes_Cinematics_Bakhmut_Arc_2026-04-13_rev1.txt
+
+NOT INCLUDED
+- Gameplay / Weapons / Style patch: not required at this time because the thread
+  did not lock full Ukrainian loadout sheets or a new standalone gameplay mechanic.
+- Promotional / Sidebar patch: not required.
+- Worldbuilding / Strategic Architecture patch: optional later if you want the
+  Bakhmut relay-certification concept duplicated outside the mission-facing domain,
+  but not necessary for the recommended landing set.
+
+USE ORDER
+1. Add the Core / Timeline patch.
+2. Add the Characters / DLC patch.
+3. Add the Missions / Scenes / Cinematics patch.
+4. Refresh the working compendia if you maintain regenerated compendium files.

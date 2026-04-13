@@ -1,0 +1,143 @@
+PROJECT WARRIORS — CHARACTERS / DLC COMPENDIUM
+INTERNAL SOURCE-STYLE REFERENCE PAGE
+
+TITLE: SHIELD Squad Development Packet
+STATUS: Current thread landing / working reference
+THREAD SOURCE: Current SHIELD + COLD ROOM development thread
+
+==================================================
+1. UNIT ROLE / CANON POSITION
+==================================================
+
+SHIELD is now defined as DAOG’s hard-entry / sensitive-site exploitation / emergency recovery and denial squad, distinct from both AEGIS and CORYS.
+
+Functional distinction:
+- AEGIS = broader frontline special-operations strike / recon team
+- CORYS = protection of command personnel and fixed critical assets
+- SHIELD = breach, recover, stabilize, exploit, exfil; deny the asset if recovery fails
+
+Use SHIELD when the objective is inside a collapsing, compromised, or time-sensitive interior site and must be recovered before sanitization, overrun, or internal destruction.
+
+==================================================
+2. ROSTER LOCK
+==================================================
+
+SSgt Tomasz “Lock” Kaczmarek
+- Nationality: Polish
+- Background: former GROM
+- Role: team leader / CQB planner / primary assaulter
+- Voice / behavior: calm, procedural, sequence-minded, dry, precise under pressure
+- Function: turns chaos into sequence, sets route, stack, threshold, and priority logic
+
+Sgt Nadja “Mallet” Vuković
+- Nationality: Croatian
+- Background: breacher / assault-engineer path
+- Role: breacher / assault engineer / heavy entry specialist
+- Voice / behavior: blunt, structural thinker, controlled, unsentimental
+- Function: forced access, frame / latch / wall judgment, correct force application
+
+Sgt Iben “Suture” Nørgaard
+- Nationality: Danish
+- Background: SOF-attached combat medic / special-recon medical support path
+- Role: combat medic / close-quarter stabilizer
+- Voice / behavior: flat, exact, humane through competence, pressure-flattening
+- Function: casualty stabilization, body-state realism, keeps team tempo from collapsing
+
+Sgt Marek “Splice” Veselý
+- Nationality: Czech
+- Background: technical exploitation / access specialist
+- Role: technical exploitation / lock bypass / signal and device recovery / access specialist
+- Voice / behavior: quiet, observant, infrastructure-first, faintly wry off-pressure
+- Function: identifies the real objective, preserves sensitive material, reads hidden system logic
+
+Rank presentation rule:
+- Keep SHIELD as an all-NCO team in project-facing anglicized ranks for plausibility and clarity.
+
+==================================================
+3. TEAM IDENTITY / DIALOGUE RULE
+==================================================
+
+Shared voice:
+- compressed
+- procedural
+- unsentimental
+- low-drama
+- role-aware
+- tighter and more interior-focused than AEGIS
+
+Dialogue functions:
+1. identify what matters
+2. assign the next action
+3. preserve the objective
+4. prevent team error
+5. stabilize tempo
+
+Command-role shorthand:
+- Lock = sequence / route / priority
+- Mallet = structure / force / access
+- Suture = casualty / exact calm / continuity
+- Splice = hidden system / preservation / real objective
+
+Comms rule:
+- keep SHIELD aligned with project radio standard: “say again” / “I say again”
+- reserve “repeat” for actual fire-support contexts only
+
+==================================================
+4. SIGNATURE BUILDS / LOADOUT DIRECTION
+==================================================
+
+LOCK — DEADBOLT
+- Primary: HK416 A5, 11", 5.56x45mm NATO
+- Setup: Aimpoint T-2 + magnifier, MAWL, white light, B&T Rotex-V
+- Secondary: Glock 17 Gen5 MOS
+- Loadout emphasis: entry sequencing, threshold control, compact breach tools
+
+MALLET — HINGE
+- Primary: B&T APC223 Pro, 10.3", 5.56x45mm NATO
+- Setup: EOTech, MAWL, white light, B&T Rotex-V
+- Secondary: Glock 45 MOS
+- Mission secondary: Benelli M4 Entry
+- Loadout emphasis: breaching, charge carriage, forced access
+
+SUTURE — TRIAGE
+- Primary: HK416 A5, 11", 5.56x45mm NATO
+- Setup: Aimpoint CompM5, white-light-first suppressed configuration
+- Secondary: Glock 19 Gen5 MOS
+- Loadout emphasis: casualty stabilization, one-handed weapon handling, compact assault medical load
+
+SPLICE — GHOST KEY
+- Primary: CZ BREN 2 Ms, 11", 5.56x45mm NATO
+- Setup: Aimpoint T-2 + magnifier, MAWL, white light, B&T Rotex-V
+- Secondary: CZ P-10 C OR
+- Loadout emphasis: technical exploitation, access, signal / device recovery
+
+Shared SHIELD equipment rule:
+- compact interior-focused suppressed carbines
+- mostly real 2028-credible weapons
+- shared 5.56 / 9mm logistics
+- visible breaching / admin / access gear
+- less long-patrol silhouette than AEGIS
+
+==================================================
+5. REPRESENTATIVE SHIELD MISSION MODEL POINTER
+==================================================
+
+Representative mission title: COLD ROOM
+
+Use COLD ROOM as the template-grade SHIELD reference for:
+- hard entry
+- false-entry rejection
+- sensitive-site exploitation
+- one authored wound event
+- partial-denial logic
+- restrained DAOG net traffic
+- partial but real mission success framing
+
+Mission summary pointer:
+SHIELD enters a compromised urban technical annex, rejects a false obvious entry, breaches through east utility access, reaches a staged false archive room, identifies the real archive behind a hidden cold-room partition, recovers archive core + relay board + ledger packet as able, sustains a controlled Splice wound during compromise, denies unrecoverable mirror infrastructure, and exfils through an improvised east-side breakout into a loading lane.
+
+==================================================
+6. USAGE NOTE
+==================================================
+
+This packet is the compact squad / character / voice / equipment landing page. Use the matching COLD ROOM packet in the Missions / Scenes / Cinematics lane for mission scripting, encounter design, blockout, art direction, and image-generation views.

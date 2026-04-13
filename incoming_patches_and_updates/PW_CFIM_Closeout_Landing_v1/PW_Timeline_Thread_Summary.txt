@@ -1,0 +1,703 @@
+================================================================================
+PROJECT WARRIORS — MASTER STORY TIMELINE THREAD SUMMARY
+Thread type: Timeline / Continuity
+Generated for upload to Project Knowledge
+================================================================================
+
+PURPOSE OF THIS DOCUMENT
+--------------------------------------------------------------------------------
+This document captures the full content of the Project Warriors master timeline
+thread in exhaustive detail. It is intended for upload to the Claude project
+knowledge base so that all other development threads have access to the canonical
+event sequence, locked dates, confirmed corrections, and flagged continuity
+questions developed here.
+
+Thread message count at time of export: 4 (User + Claude exchanges)
+Warning threshold: 20 messages per thread.
+
+================================================================================
+SECTION 1 — CANONICAL DATE CORRECTIONS (LOCKED)
+================================================================================
+
+The following corrections were made and locked during this thread:
+
+1. US PRESIDENTIAL ELECTION DATE
+   - INCORRECT (prior notes): November 6, 2028
+   - CORRECT (locked): November 3, 2028
+   - Note: September 3, 2028 (PANDORA attacks) to November 3, 2028 (Election Day)
+     is exactly 2 calendar months. Any prose in existing notes describing the gap
+     as "2 months and 3 days" is an approximation and should defer to the hard
+     canonical dates. September 3rd and November 3rd are the locked anchors.
+
+2. DUCKY'S GAME 2 MISSION TITLE
+   - INCORRECT (prior notes): Hill Breach
+   - CORRECT (locked): Hull Breach
+   - This is the canonical mission name. All references should use Hull Breach.
+
+================================================================================
+SECTION 2 — THREAD INTENT AND METHODOLOGY
+================================================================================
+
+The timeline was built to serve as a structural skeleton for the entire trilogy,
+anchoring historical decisions and ensuring synchronicity of events across all
+three games and all DLC content. The goal is to prevent continuity fractures as
+Game 3 development deepens.
+
+Methodology:
+- Fixed canonical anchors established first (September 3 PANDORA attacks,
+  November 3 election, Cold Frontier 07, etc.)
+- Uncertain dates flagged with [~] to indicate they need formal locking
+- Events confirmed across multiple project files are treated as canonical
+- Gaps and structural unknowns are explicitly flagged at the end
+- Game 2 treated as the more developed entry and built out in greater detail
+  than Game 1, which is documented at the campaign-arc level
+
+================================================================================
+SECTION 3 — MASTER STORY TIMELINE (FULL TEXT)
+================================================================================
+
+--------------------------------------------------------------------------------
+DEEP BACKGROUND (PRE-GAME)
+--------------------------------------------------------------------------------
+
+[~2006-2007] — COLD FRONTIER 07
+
+Finnish special forces winter exercise in Lapland. Russian Vympel team executes
+Operation Parhelion-53: a false flag designed to frame Finnish troops as having
+attacked Russian border forces on Russian soil.
+
+Frost kills Vympel operators during the incident. Takes a 9mm round to the face
+point-blank. Falls 96 feet into an icy lake, drowns his attacker underwater,
+pulls himself ashore, loses consciousness. Comrade Jussi Mustonen is killed
+during the operation.
+
+Unmarked Russian operator bodies surface — potential international incident.
+Averted by a quiet Finland-NATO-Russia trilateral back-channel agreement. All
+reports are buried. Parhelion-53 fails in its objective. Frost's permanent
+facial scarring dates to this event.
+
+The FSB officer who signed off on Parhelion-53: a then-middling operations
+officer named Mikhail Kostropov. By the late 2020s, Kostropov has risen to
+become Baranov's chief of intelligence staff and head of the FSB.
+
+[~2007 ONWARD] — GLUSHKIN DEEP COVER BEGINS
+
+Glushkin adopts the ghost identity of Brent Henry Tibbets — a homeless,
+disappeared 24-year-old from Haverhill, MA — under FSB financing. Enrolls at
+MIT. Completes dual electrical and aeronautics engineering degrees by
+approximately 2011. Takes a position at Specter Aerospace, Peabody, MA.
+Deep cover becomes operational.
+
+[~2010s] — STRUCTURAL BUILDUP DECADE
+
+Montoya Farm underground complex becomes operational under Brodie van Horne,
+later transferred into Goldberg's orbit. Runs MKULTRA-adjacent conditioning
+programs, global trafficking infrastructure, and the Shadow Underground's
+blackmail architecture.
+
+TETHERBREAK is developed as a CIA black program. Nominally framed as a
+penetration test against US autonomous weapons command-and-control
+infrastructure. True purpose: an insurance policy for the global elite,
+ensuring autonomous weapons systems can never be turned against them.
+
+PANDORA is conceived as the operational weaponization of TETHERBREAK against
+US soil. Originally a contingency. Later activated.
+
+GenCorp grows into a global surveillance data and defense ICT giant. Berkhan,
+Crodyn, and Ruetger accumulate major shareholdings.
+
+Kostropov rises through FSB ranks.
+
+[~EARLY TO MID 2020s]
+
+Crodyn serves first and second presidential terms. Systematically dismantles
+FEMA and federal emergency response capability through cronyism, insider dealing,
+and faux-reformist policy. When the attacks come, there is not enough
+infrastructure left to help even a fraction of those in need.
+
+Compromised SCOTUS justices Howard and Pedilla quietly develop legal rationale
+for suspending the two-term presidential limit under wartime emergency
+conditions. Held in reserve, awaiting use.
+
+KINGMAKER network reaches peak operational maturity. Goldberg is its center of
+gravity.
+
+La Avispa (Yelena Volkova, formerly of FSB) defects following a botched
+surveillance operation. Surfaces eventually as a top-ranking enforcer within
+Los Sietes.
+
+--------------------------------------------------------------------------------
+GAME 1 — YEAR: ~2027-2028
+--------------------------------------------------------------------------------
+
+========================================
+SPOOK'S CAMPAIGN — RIPTIDE RED
+[~Spring 2027 – September 3, 2028]
+========================================
+
+[~SPRING 2027]
+
+Victor Two Bravo (Spook, Tripper, Smoke) dispatched by handler Regent (Mullen)
+to Amsterdam Schiphol. Arrive undercover as Canadian overland travelers and
+amateur filmmakers. Meet Emperor (Cameron Steele) at Eastern Docklands
+warehouse. Briefed on PANDORA and a suspicious Turkmenistan tech shipment in
+transit to the US via Vienna. Issued mission equipment and mobile ops RV.
+
+Team travel to Vienna. Receive brief from Archduke (Kathy Hughes) at the US
+Embassy. Safehouse raid in Hernals (Vienna, 17th district) — apartment initially
+empty, then compromised by a returning woman and armed men. Rooftop chase across
+Hernals, onto a train platform, into a pedestrian underpass. Motorcycle
+exfiltration. High-speed pursuit on Vienna beltway — van driver killed, van
+destroyed. Bikes ditched at Port of Vienna. Tablet recovered from safehouse.
+
+[~LATE SPRING 2027]
+
+Tablet Intel leads to Betta Logistics / Simenon Navarre, near Frankfurt Airport.
+Mission: Above My Pay Grade — team infiltrate Navarre's house. Navarre gives up
+Warehouse 46, Frankfurt Airport.
+Optional: Navarre and Budanova given new identities (relocated to Evora,
+Alentejo, Portugal — Navarre becomes Simon-Pierre Aubert, Swiss French,
+semi-retired freight consultant; Budanova becomes Katja Reimann, Austrian).
+
+Team assault Warehouse 46. Atlas personnel present. Shipment already moved
+following an apparent tip-off — source unknown at this stage. Warehouse
+destroyed. Hard drive recovered by Tripper.
+
+Tripper partially decrypts hard drive: fragments of PANDORA and TETHERBREAK.
+Jaeger (Stanzler) at DAOG/PYTHIA matches cryptic flight codes to privately
+chartered cargo flights, all declared as restricted drone countermeasure hardware
+for US defense contractors.
+
+[~SUMMER 2027]
+
+Intel trail leads to GenCorp regional HQ, Abu Dhabi, UAE.
+Mission: Infrastructure Day — team rappel into Abu Dhabi skyscraper data center.
+Shipping records recovered. Easter egg: Atlas recruitment poster reading "Feel
+like a hero?" has been vandalized in the bathroom to read "Do you feel like a
+hero yet?" — Spec Ops: The Line reference. Poster seeded in Game 1 and Game 2.
+Trail leads to Agarwal Berkhan (codename: Baloo).
+
+Team dispatched to Medan City, Indonesia.
+Operation: DRAGONSLAYER / Mission: Man From Medan.
+Assault Berkhan's Cemara Asri compound. Berkhan escapes by helicopter.
+Helicopter shot down mid-flight by a "malfunctioning" Indonesian Skynex SAM —
+actually TETHERBREAK sabotage, not recognized by the team at the time.
+Berkhan killed. Death officially blamed on Indonesian Islamic terrorists.
+
+Macmillan (Bishop) contacts team: Regent has been "urgently reassigned."
+Victor Two Bravo now reports directly to Bishop.
+New orders: Miami, FL. Team fly Frankfurt to Orlando. Drive to Doral safehouse.
+
+[~JULY-AUGUST 2028]
+
+Rendezvous with NSA contacts Simmons and Lynch in Medley, FL.
+Intel: restricted components tracked from Miami-Dade Airport to the Kali Yuga
+Surf Club (KYSC), who have moved containers into the Desautels Resort Hotel,
+Miami Beach.
+
+Mission: Pandora's Box — team infiltrate Desautels Resort Hotel.
+Discovery: KYSC members are Montoya Farm conditioning subjects bearing
+CogniConnect neural implants. Team defeats KYSC. Disable one PANDORA device
+(one cell — Miami averted as a primary target). Los Sietes cartel security
+overruns the hotel. Cartel helicopter engages. Fertilizer bomb detonates at
+mezzanine lobby — team escape through elevator shaft into parking garage.
+Hotel largely destroyed in the firefight and explosion. Team exfiltrate.
+
+KYSC members bear Montoya Farm symbol tattoos — lead to Montoya Farm.
+
+[~AUGUST 2028]
+
+Team acquire cover via ambush of Uncle Jack Pruitt's biker gang contacts.
+Infiltrate Montoya Farm compound, New Mexico.
+Mission: Burning Daylight — infiltration takes place during a gala event.
+Stockbridge is present at the gala.
+Spook tails Stockbridge with directional mic. Recovers keycard from ballroom
+annex cloakroom desk. Accesses security room. Discovers CCTV feeds showing a
+vast, unknown underground complex beneath the farm.
+
+Team infiltrate underground via concealed basement hatch near pool machinery
+room. Interior: makeshift prison, inpatient medical facility with operating
+theater, snuff production sets, conditioning rooms (the "Ludovico Room"),
+dormitories with fake windows, underground plaza with simulated sky. Montoya
+Farm symbols on the walls. Tripper plants hardware implant in server room.
+Extracts encrypted archive. Team exfiltrate via hidden vertical shaft behind
+a filing cabinet.
+
+Tripper decrypts archive. Contents revealed:
+- KINGMAKER architecture in full
+- Global intelligence agency participation documented
+- KYSC/PANDORA/TETHERBREAK connections
+- Riptide Red conspiracy structure
+- The suppressed Riptide Red analyst report (the document itself was purged)
+- Crodyn's criminal and foreign intelligence ties
+- DARMA (NSA program suppressing domestic inquiry into the Shadow Underground)
+
+Team decide to move directly on Goldberg. KINGMAKER plan activated. Travel to
+US Virgin Islands.
+
+[~LATE AUGUST 2028]
+
+Mission: Come Fly With Me — St. Croix, US Virgin Islands.
+Team stake out a fishing compound. Eliminate 7-man security detail. Coerce
+foreman to refuel a Found BFA-2 floatplane. Smoke flies the team dark toward
+East McFarlane Island — engine off, landing in a small cove.
+
+Mission: Sins of Our Fathers — East McFarlane Island.
+Team infiltrate Goldberg's private island complex. Discover evidence of
+trafficking operations, illegal material production, and ritual crimes
+in the underground complex.
+War Wolves dispatched by Stockbridge to intercept: Crimson One, Crimson Two,
+Crimson Three. Team defeats all three. Their CFIM-equipped CogniConnect stacks
+trigger terminal counter-forensic detonation on death, destroying their faces
+and denying rapid identification. Identities never confirmed.
+Team corner Goldberg and Stockbridge at the helipad.
+Macmillan (Bishop) contacts Spook — orders him to stand down and give Goldberg
+safe passage. Victor Two Bravo declared rogue.
+
+SEPTEMBER 3, 2028 — THE PANDORA ATTACKS [CANONICAL ANCHOR]
+
+Nationwide PANDORA activation. Autonomous air and ground drone systems hijacked
+across multiple US cities via TETHERBREAK — turned against strategic military
+assets and civilian populations. Publicly attributed by the Crodyn administration
+to China.
+
+US cyber defense and EW countermeasures blacked out.
+
+Simultaneously:
+- Russia opens the Baltic front in Western Europe
+- West Coast amphibious invasion begins (Russian, North Korean, Iranian coalition)
+- China invades Taiwan, exploiting the US cyber blackout — annexation begins
+
+Crodyn declares wartime national emergency. Howard and Pedilla's SCOTUS
+rationale invoked. Two-term presidential limit suspended. Crodyn positioned
+for an unconstitutional third term.
+
+========================================
+ROMEO'S CAMPAIGN — CRITTER SQUAD
+[~Early 2028 – September 2028]
+========================================
+
+[~EARLY TO MID 2028]
+
+Fire Team Delta (Romeo, Dingo, Howler, Beaver) deployed to eastern Poland to
+shore up NATO's eastern border against the anticipated Russian invasion.
+
+Russian forces cross. Delta encircled near the southern Polish border. Escape
+encirclement. Evade drones. Move through eastern Czech Republic and Austria to
+Ramstein Air Base, Germany, to regroup.
+
+Delta and AEGIS Squad jointly protect classified geospatial intelligence
+infrastructure across Europe:
+- Svalbard (AEGIS primary datacenter)
+- French Alps
+- Lemnos, Aegean
+- Hindeloopen, Netherlands
+
+Command orders Delta back to the continental United States. All flights grounded.
+AEGIS assists Delta across Brittany to Ile Longue French Naval Base.
+Team intercept enemy sabotage operation targeting the garrison and nuclear
+submarines Le Terrible and Le Vigilant. Garrison secured.
+
+AEGIS diverted: Maasvlakte Oil and Gas Terminal, Rotterdam — combat alongside
+Dutch Royal Marines against Russian special forces.
+
+Delta rendezvous with USS District of Columbia (nuclear submersible). Transit
+to US West Coast. Surface off Ventura, California.
+
+[~AUGUST TO SEPTEMBER 2028]
+
+Delta joins US Army infantry moving toward Port of Los Angeles.
+Clear DPRK forces from North Hollywood (mission: Down Rodeo) and South
+Beverly Hills. Reach Port of Los Angeles / Long Beach — secured by USMC platoon.
+
+Battle of Signal Hill — defend Long Beach Airport against DPRK assault.
+Attackers pushed back. Outcome of André vs. Romeo (Rangers push vs. Marines
+consolidate) — TBD. Coronado friction/resolution to mirror Signal Hill structure.
+
+Convoy south along highway toward San Diego.
+Distress signal received from Naval Air Station North Island, Coronado —
+large amphibious attack incoming.
+
+Battle of Coronado Island — Delta fights alongside US Army and Marines to repel
+joint Russian/DPRK/Iranian amphibious assault on the Pacific Navy Carrier Strike
+Group. [CAMPAIGN 1 FINALE]
+
+========================================
+DUCKY'S CAMPAIGN — DO RIGHT FEAR NONE
+[~Early 2028 – September 2028]
+========================================
+
+[~EARLY TO MID 2028]
+
+AEGIS Squad operations protecting NATO special operations and communications
+infrastructure across Europe. Svalbard, French Alps, Lemnos, Hindeloopen —
+these missions run parallel to and intersect with Romeo's campaign.
+
+Mission: Wirecutter
+AEGIS + Nereid Black (Grim, Rime, Lantern, Undertow) intercept Sea Lion 7
+(Panamanian-registered, Russian shadow fleet vessel) in the North Sea.
+AEGIS fast-rope from PEGASUS onto the deck. Nereid approach from the sea.
+Encounter armed Russian crew. Nereid secure hold — discover concealed compartment
+containing FSB Vympel naval Spetsnaz preparing a sabotage dive.
+Firefight. AEGIS descend to reinforce hold. All Spetsnaz eliminated.
+Lantern flags an anomaly. Nereid dive to undersea cable terminal to check for
+damage and persistent threats.
+AEGIS defend upper deck against two more Spetsnaz surface attack craft
+attempting to scuttle the vessel.
+HDMS Freja (TRIDENT SIX) arrives. AEGIS extracted by PEGASUS TWO.
+
+[~AUGUST TO SEPTEMBER 2028]
+
+Final AEGIS campaign mission: Maasvlakte Oil and Gas Terminal defense, Rotterdam.
+Fight alongside Dutch Royal Marines. Ducky fights through to reach NATO mobile
+NMESIS launcher. Fires NSM at destroyer Severomorsk.
+("Russian warship, go fuck yourself!")
+Command post struck by Spetsnaz RPG immediately after launch.
+Ducky escapes through escape hatch. Severomorsk retreats, severely damaged.
+[CAMPAIGN 2 FINALE]
+
+--------------------------------------------------------------------------------
+INTERWAR PERIOD — AUTUMN 2028 TO EARLY 2029
+--------------------------------------------------------------------------------
+
+[SEPTEMBER TO OCTOBER 2028]
+
+PANDORA aftermath: mass civilian casualties. Infrastructure collapse across
+multiple US cities. FEMA non-functional due to Crodyn's systematic dismantling.
+
+UNHMNA (United Nations Humanitarian Mission to North America) deployed.
+White UN vehicles and foreign-uniformed troops visible across American cities
+and suburbs. UN blue-helmeted soldiers at checkpoints in familiar American
+landscapes — a deeply jarring visual juxtaposition, recalling imagery historically
+associated with conflict zones in Africa, the Middle East, and Southeast Asia
+now transposed onto American soil.
+
+SPRINGBLOAT (NSA) activated — suppresses domestic communications and inquiry
+about the true nature of the attacks.
+
+Russian forces continue pressure on European NATO members. Baltic front active.
+
+Chinese annexation of Taiwan completed. China monopolizes TSMC foundry
+capabilities. Emerges as world's premier digital and military superpower.
+ASML supply disruption affects autonomous systems rebuild globally — including
+the AEGIS program. (Flagged: potential dramatic irony for Ducky's Game 2
+campaign — Ducky may be operating inside this consequence without full awareness
+of the connection.)
+
+NOVEMBER 3, 2028 — US PRESIDENTIAL ELECTION [CANONICAL ANCHOR]
+
+Election suspended or invalidated under Crodyn's wartime emergency declaration.
+Howard and Pedilla SCOTUS rationale upheld. Crodyn remains in office for an
+unconstitutional third term.
+
+[~LATE 2028]
+
+Goldberg surrenders to US authorities. Charged with mishandling sensitive
+documents related to the Desautels/KYSC bombing — a deliberately reduced charge.
+Plea deal arranged with Florida prosecutor Lawrence Kaylor. Sentenced to 24
+months at Coleman Federal Correctional Facility, Sumterville, FL. Parole
+eligibility at 6 months.
+
+[~EARLY 2029] — SUMTERVILLE PRISON OPERATION
+
+Los Sietes dual-team assault on Coleman Federal Correctional Facility.
+
+Team One: assault on the general population wing. El Furtivo (Pablo Ignacio
+"El Furtivo" Hernandez Diaz — high-ranking Los Sietes-affiliated human
+trafficker and Goldberg business associate) extracted in the chaos.
+
+Team Two (operating via paid-off correctional staff): Goldberg has been secured
+in the medical wing under the pretext of a routine medical checkup. Team plants
+a mutilated, DNA-matched corpse in a destroyed cell block — the DNA matches
+Goldberg's, courtesy of cartel prison contacts. Goldberg is loaded into an
+oblong box (coffin-like), the lid sealed, and the box is loaded into a waiting
+hearse positioned inside the facility hours before the assault. COs drive the
+hearse out the back of the medical wing. Cartel men follow in a black SUV.
+The chaos of the general wing assault provides cover. Goldberg is extracted
+successfully.
+
+The world believes Goldberg is dead. He goes underground. Begins rebuilding
+resources and networks. Launches an intelligence counter-offensive against
+Crodyn and his circle.
+
+--------------------------------------------------------------------------------
+GAME 2 — YEAR: ~2029
+--------------------------------------------------------------------------------
+
+========================================
+ROMEO'S CAMPAIGN — "GOOD MORNING, AMERICA"
+========================================
+
+Setting: Russian-occupied Kentucky. Fictional town of Calloway and nearby
+community Redbud.
+
+Opening cinematic: Jesse Welles' "Good Morning, America" plays over a dawn
+aerial shot of Calloway's main street. Russian flags. Troops at roadblocks.
+Burnt-out houses. Survivors picking through rubble. Foreign occupation rendered
+in a completely familiar American landscape. Music cue function: productive
+dissonance — the warmth of the song against the horror of the image.
+Established design principle: "Good Morning, America" against occupied Kentucky
+is the model for music-to-scene relationship across all Project Warriors trailers
+and campaign openings.
+
+Romeo makes contact with the resistance cell:
+- Dale Pruitt
+- Renata Voss
+- Cody Beaumont
+- Frank Kowalski
+
+Three-movement campaign arc: Roots / Pressure / Breaking Point
+
+Missions (confirmed): Low Ground, Dead Air, The Redbud Vehicles, Farm Road,
+Second Level
+
+In Low Ground: Player observes Glushkin (operating as Brent Tibbets, his
+deep cover identity) conducting an interview with resistance-adjacent civilian
+Gene Marlow. This is one of the player's first implicit encounters with the
+deeper conspiracy in the Game 2 setting.
+
+Cody Beaumont arc: develops over the campaign, culminates in his death during
+a detainee rescue operation. Loading screen following the mission: image of a
+young man suspended from a highway gantry, a cardboard sign accusing him of
+treason against Russia. Never explicitly confirmed as Cody. Strategically
+ambiguous — left for the player to carry.
+
+Later: Romeo reunites with Dingo, Howler, and Beaver.
+
+American Freedom Corps (AFC) founded: the Calloway resistance cell becomes the
+seed of a broader national movement. Romeo becomes its de facto first figurehead.
+
+Late-campaign decision point: opportunity to kill Glushkin. Outcome TBD.
+
+Flagged: DON'T TREAD militia recognition beat (Act Two, Romeo) — to be developed
+in the narrative thread.
+
+Note on AC-130 scene: The AC-130 "Angel" scene is a confirmed set-piece in
+Romeo's Game 2 campaign (American Freedom). Full treatment exists in master
+scenes file. Protected line: "American Freedom, over." The AC-130 sequence
+has been developed in full in the aircraft scenes thread and master file.
+
+Red Dawn paratrooper drop over the Smoky Mountains: confirmed Romeo Game 2
+scene. Concept-stage only. Also flagged as a standalone trailer asset.
+
+========================================
+DUCKY'S CAMPAIGN — PERSISTENT THREAT
+(formerly AEGIS Falls — that title is fully retired)
+========================================
+
+Note: This campaign is identified as the most structurally incomplete of all
+six Game 1/Game 2 campaigns. Further development is a priority.
+
+Campaign theme: The GenCorp-AEGIS conspiracy thread deepens. Who built AEGIS?
+Who funded it? Who does it ultimately answer to?
+
+General Tremblay's loyalty is placed under scrutiny. His FSB connection is a
+confirmed protected structural asset — deliberately left with hidden complexity,
+to be developed further in the sequel.
+
+Mission: Hull Breach (LOCKED — Hull, not Hill)
+Nereid Black return to active operations. They assault a vessel or submarine
+(possibly while in port) to rescue AEGIS operators who have been captured and
+are being transported to a Russian extrajudicial facility. Nereid scuttle the
+vessel, deal significant damage to Russian Baltic/North Sea naval capability,
+exfiltrate AEGIS personnel to safety.
+
+Flagged structural asset: AEGIS supply chain / Ducky dramatic irony.
+AEGIS rebuild is stalled by chip supply constraints — Taiwan annexation plus
+ASML disruption. Ducky's Game 2 ASML Netherlands mission may connect to the
+broader autonomous systems recovery arc. Ducky is potentially operating inside
+this consequence without the full picture. This is a confirmed dramatic irony
+asset and should be protected during Ducky campaign development.
+
+Further mission structure and arc shape: TBD.
+
+========================================
+SPOOK'S CAMPAIGN — GODKILLER
+========================================
+
+Three operational tracks running simultaneously:
+- Protecting Budanova
+- Intelligence manipulation (Tripper's track)
+- Covert resistance support (Smoke's track)
+
+Regent reunion: Mullen resurfaces. His "urgent reassignment" from Game 1 must
+be accounted for — was he burned, turned, or protected? This needs a timeline
+entry once developed.
+
+Central narrative question: "How do you kill a man who's already dead?"
+Spook hunting Goldberg — a man the world believes is dead, beyond conventional
+reach, operating outside all systems.
+
+La Avispa (Yelena Volkova): confirmed to appear in Godkiller. Several missions
+force Spook and La Avispa to work together despite initial mutual suspicion.
+Dramatic circumstances give them no option but to depend on each other. A quiet
+trust and an unusual bond develops. Spook learns her private story over the
+course of their ordeal — her youth near the Black Sea coast in southern Russia,
+her promising career in Russian intelligence, the botched surveillance operation
+that got her burned by her own team and superiors, her defection, life on the
+run through Venezuela, Cuba, Panama, and eventually Mexico, her rise within
+Los Sietes. She learns a fragment of Spook's story in return. A moment of
+genuine connection — possibly something close to fleeting romantic tension —
+but the story forces them apart before it can become anything defined. Left open
+for a possible future reunion.
+
+Goldberg confrontation scene: confirmed late-game dramatic asset. Goldberg as
+the natural voice for articulating "the false flag consumed by a bigger
+conspiracy" — a significant dramatic asset, protect placement. The scene should
+not arrive too early and must be earned.
+
+PANDORA ending: Option B or close to C. Remediation underway but incomplete at
+the end of Game 3. Not a clean resolution. Do not resolve prematurely.
+
+Further structure: TBD.
+
+================================================================================
+SECTION 4 — FLAGGED CONTINUITY QUESTIONS AND OPEN THREADS
+================================================================================
+
+The following items were explicitly identified during timeline construction as
+requiring future development passes. None of these are resolved. Do not treat
+them as settled.
+
+1. TREMBLAY — FSB CONNECTION
+   Confirmed as a protected structural asset. When does it activate? What does
+   it cost AEGIS? What does it cost Tremblay? To be developed in the sequel
+   (Game 3 or DLC). Do not resolve in Game 2.
+
+2. REGENT (MULLEN) — WHAT WAS THE "URGENT REASSIGNMENT"?
+   Was he burned? Turned? Protected? His Game 2 reappearance in Godkiller
+   needs a proper timeline entry and backstory. This gap covers the period from
+   his disappearance (~Summer 2027) to his resurfacing in ~2029.
+
+3. GOLDBERG'S COUNTER-OFFENSIVE
+   What is Goldberg actually doing between his faked death (~early 2029) and
+   Spook catching up to him in Game 2? This interwar gap needs at minimum a
+   sketch of his activity, resources, and objectives.
+
+4. GAME 2 CROSS-CAMPAIGN CONVERGENCE EVENT
+   Game 1 converges on the September 3rd PANDORA attacks. Game 2 needs an
+   equivalent structural fulcrum — an event that all three campaigns point
+   toward or intersect at. Not yet determined.
+
+5. CHINA / SOUTH PACIFIC FRONT
+   Game 2 introduces a Chinese military operation targeting northeastern
+   Australia. Needs placement in the timeline relative to the other Game 2
+   campaign events. Home Defense DLC is the relevant content container.
+
+6. AFC GROWTH ARC
+   Romeo's campaign seeds the American Freedom Corps in Calloway. When and how
+   does it become a national movement? What is its state by Game 3? Relevant
+   to Romeo's Game 3 arc. Dale Pruitt's potential New America accelerationist
+   faction connection is an unresolved early-stage thread.
+
+7. FIND REGENT CROSS-GAME HIDDEN QUEST
+   Dead drop cache on East McFarlane Island. Symbol seeded at Montoya Farm
+   (tunnels, Game 1) and on the island. Symbol appears again in a Game 2
+   environment and unlocks a storage unit or safe deposit box containing
+   Regent's unredacted Riptide Red report. Cache must be placed in the timeline
+   before Game 2 events begin. Who placed it and when?
+
+8. PANDORA KILL SWITCH / WEI JUNLONG FRACTURE LINE
+   The Taiwanese semiconductor engineer connected to Wei Junlong's personal
+   fracture is the likely architect of the TETHERBREAK kill switch. Their
+   foundry/firmware knowledge makes them the person who can reverse-engineer
+   PANDORA's persistence vulnerability. Wei's fracture and the technical
+   resolution of PANDORA may be the same thread. PROTECTED — do not resolve
+   prematurely.
+
+9. CORYS SQUAD DEVELOPMENT
+   Valkyrie and Brick promo clips cannot be produced until CORYS squad is
+   developed. This is a blocking dependency.
+
+10. GAME 3 TIMELINE PLACEMENT
+    Game 3 campaigns for Romeo, Ducky, and Spook are in early development.
+    The timeline as constructed ends at the close of Game 2 campaign arcs.
+    A Game 3 section should be added to this document as development progresses.
+
+================================================================================
+SECTION 5 — CONFIRMED LOCKED DECISIONS REFERENCED IN THIS THREAD
+================================================================================
+
+The following items were referenced or confirmed during timeline construction
+and should be treated as canonical across all threads:
+
+DATES
+- PANDORA attacks: September 3, 2028 (LOCKED)
+- US Presidential Election: November 3, 2028 (LOCKED)
+- Gap between the two: exactly 2 calendar months (LOCKED)
+
+MISSION NAMES
+- Hull Breach: Ducky's Game 2 mission (LOCKED — Hull, not Hill)
+- Burning Daylight: Montoya Farm mission, Game 1 Spook (LOCKED)
+- Pandora's Box: Desautels Hotel mission, Game 1 Spook (LOCKED)
+- Sins of Our Fathers: East McFarlane Island mission, Game 1 Spook (LOCKED)
+- Come Fly With Me: St. Croix/floatplane mission, Game 1 Spook (LOCKED)
+- Infrastructure Day: Abu Dhabi mission, Game 1 Spook (LOCKED)
+- Man From Medan: Medan City/Berkhan mission, Game 1 Spook (LOCKED)
+- Above My Pay Grade: Navarre house mission, Game 1 Spook (LOCKED)
+- Down Rodeo: North Hollywood mission, Game 1 Romeo (LOCKED)
+- Wirecutter: Sea Lion 7 interdiction, Game 1 Ducky (LOCKED)
+
+CAMPAIGN TITLES
+- Game 1 Romeo: Critter Squad (LOCKED)
+- Game 1 Ducky: Do Right Fear None (LOCKED)
+- Game 1 Spook: Riptide Red (LOCKED)
+- Game 2 Romeo: American Freedom (LOCKED)
+- Game 2 Ducky: Persistent Threat (LOCKED — AEGIS Falls fully retired)
+- Game 2 Spook: Godkiller (LOCKED)
+
+CHARACTER IDENTITIES
+- Glushkin = Brent Henry Tibbets (ghost identity from Haverhill, MA) (LOCKED)
+- Regent = Mullen (LOCKED)
+- Bishop = Macmillan (LOCKED)
+- Emperor = Cameron Steele (LOCKED)
+- Archduke = Kathy Hughes (LOCKED)
+- Jaeger = Stanzler (LOCKED)
+- La Avispa = Yelena Volkova (real name) / Laura Isabela Tejada Rojas
+  (cartel identity) (LOCKED)
+- El Furtivo = Pablo Ignacio Hernandez Diaz (LOCKED)
+- Navarre = Simon-Pierre Aubert (post-extraction identity, Swiss French) (LOCKED)
+- Budanova = Katja Reimann (post-extraction identity, Austrian) (LOCKED)
+
+NAMED ASSETS
+- Sea Lion 7: Russian shadow fleet vessel, Panamanian registration (LOCKED)
+- HDMS Freja callsign: TRIDENT SIX (LOCKED)
+- PEGASUS: AEGIS extraction helicopter (LOCKED)
+- USS District of Columbia: nuclear submersible, Romeo extraction to US (LOCKED)
+- Destroyer Severomorsk: vessel fired on by Ducky at Maasvlakte (LOCKED)
+- Found BFA-2: floatplane used in St. Croix/East McFarlane Island mission (LOCKED)
+
+PROTECTED LINES OF DIALOGUE
+- "Russian warship, go fuck yourself!" — Ducky, Maasvlakte (LOCKED, protected)
+- "American Freedom, over." — AC-130 scene, Romeo Game 2 (LOCKED, protected)
+- "Try her." — Switchblade. In-story use only, not for promo (LOCKED, protected)
+
+STRUCTURAL PROTECTIONS
+- Goldberg false-flag-consumed-by-bigger-conspiracy articulation: late-story
+  scene, Goldberg as natural voice. Significant dramatic asset. Protect placement.
+- PANDORA ending: remediation underway but incomplete at end of Game 3.
+  Not a clean resolution. Do not resolve prematurely.
+- Tremblay FSB connection: hidden complexity, to be developed in sequel.
+- PANDORA kill switch / Wei Junlong fracture: potentially same thread as
+  Taiwanese semiconductor engineer. Protected. Do not resolve prematurely.
+- AEGIS supply chain / Ducky dramatic irony: Ducky potentially operating
+  inside the consequence of the Taiwan chip shortage without full awareness.
+  Protect placement.
+
+================================================================================
+SECTION 6 — THREAD MANAGEMENT NOTES
+================================================================================
+
+- Thread message count at export: 4
+- Warning threshold: 20 messages per thread
+- Claude will flag when thread approaches 20 messages
+- During heavy development periods, Claude will prompt to push relevant
+  decisions to project memory and flag when a new thread should be opened
+- This document should be uploaded to project knowledge so all other threads
+  have access to the timeline and locked decisions contained here
+- When uploading, recommended filename: PW_Timeline_Thread_Summary.txt
+- This document should be updated and re-exported as the timeline develops
+
+================================================================================
+END OF DOCUMENT
+================================================================================

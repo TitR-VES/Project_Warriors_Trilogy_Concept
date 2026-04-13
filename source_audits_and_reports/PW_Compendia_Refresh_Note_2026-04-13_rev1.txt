@@ -1,0 +1,29 @@
+PROJECT WARRIORS — COMPRENDIA REFRESH NOTE
+Document ID: PW-GOV-ADD-002
+Title: rev3 Compendia Refresh for Previously Partial Items
+Status: ACTIVE GOVERNANCE NOTE
+Last Updated: 2026-04-13
+
+Purpose:
+Record the files refreshed after the first-pass partial-item source landings were created.
+
+Refreshed compendia:
+1. PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev3.txt
+2. PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev3.txt
+3. PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev3.txt
+4. PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev3.txt
+
+Governance files refreshed:
+1. PW_Thread_Archive_Audit_2026-04-13_rev3.txt
+2. PW_Migration_Ledger_2026-04-13_rev3.txt
+3. PW_Package_ChangeLog_2026-04-13_rev3.txt
+
+Effect:
+- BODYWORK now lands as a source page and is absorbed into Missions.
+- Boston weapons now land as a source page and are absorbed into Gameplay, with character-facing continuity also carried into Characters.
+- Trilogy slogan / promo style now lands as a source page and is absorbed into Promotional / Sidebar.
+- Bakhmut now has a named provisional source landing and is absorbed into Promotional / Sidebar as a recovery scaffold.
+
+Remaining live governance watch-items:
+- non-Romeo pilot-station radio follow-up
+- South Africa campaign viability workstream

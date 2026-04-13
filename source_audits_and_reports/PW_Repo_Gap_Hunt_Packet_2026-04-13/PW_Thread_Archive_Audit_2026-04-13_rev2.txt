@@ -1,0 +1,120 @@
+PROJECT WARRIORS — THREAD ARCHIVE / MIGRATION AUDIT
+Generated: 2026-04-13
+Version: rev2
+Scope note: this audit is based on the accessible project context in this workspace: uploaded source files, visible project-memory locks, the older consolidated master, and the visible recent-thread summaries present in the project conversation context. It is a migration aid, not proof that every hidden or older thread in the project is fully represented.
+
+STATUS KEY
+- WRAPPED IN PACKAGE: material is represented in the generated compendia or the memory-integration patch
+- PARTIAL / CHECK SOURCE: some load-bearing decisions are represented, but a dedicated source file from the thread is not directly available in the accessible corpus
+- STILL LIVE / NOT SAFE TO RETIRE BLIND: thread appears to still have open development dependency or insufficient visible landing
+
+VISIBLE THREADS REVIEWED
+
+1) World Events Timeline Mapping
+Status: WRAPPED IN PACKAGE
+Landing:
+- Timeline anchor and supersession guidance is represented in the Core / Timeline compendium and memory integration patch.
+Notes:
+- If you created newer repo-only companion pages beyond what is visible here, keep those in the external source set until they are merged forward.
+
+2) Archiving Threads Safely
+Status: WRAPPED IN PACKAGE
+Landing:
+- The four-outcome retirement model (fully absorbed / partially absorbed / superseded / intentionally dropped) is now explicit in the migration ledger.
+Notes:
+- The operational checklist logic is represented even if the exact original punch-list page is not separately available here.
+
+3) Game 2 Bakhmut urban architecture and mission environment style prompt pack
+Status: PARTIAL / CHECK SOURCE
+Landing:
+- No dedicated finalized visual prompt-pack file is present in the accessible upload corpus.
+Notes:
+- If the canonical visual-reference packet exists in your repo or a later thread output, fold it into the final migration before retiring the older materials.
+
+4) Song Ideas Integration
+Status: WRAPPED IN PACKAGE
+Landing:
+- The environmental / diegetic music decisions and caution notes are carried into the Promotional / Sidebar compendium and patch.
+Notes:
+- Especially useful music shortlist items are preserved, but keep any longer rationale page from your repo if you authored one separately.
+
+5) Building Ducky’s Character
+Status: WRAPPED IN PACKAGE
+Landing:
+- Ducky voice sheet, behavioral guidance, and naming-scope caution are integrated into Characters and Gameplay patches.
+
+6) Epic Typhon and Artemis Rocket Scenes
+Status: WRAPPED IN PACKAGE
+Landing:
+- ARTEMIS / TYPHON separation, placement, and mission-specific logic are represented in Gameplay and Missions compendia.
+
+7) Pat Napier Loadout Draft
+Status: WRAPPED IN PACKAGE
+Landing:
+- Pat loadout and role logic are represented in Characters and Gameplay patches.
+
+8) Game Trilogy Slogan Help
+Status: PARTIAL / CHECK SOURCE
+Landing:
+- Broader trilogy-identity logic is represented, but no dedicated slogan style-guide source page is directly available in the upload corpus.
+Notes:
+- If you produced a final slogan/source-style page externally, pull it into the repo-side compendium before migration closeout.
+
+9) Killdozer Concept Feedback
+Status: PARTIAL / CHECK SOURCE
+Landing:
+- The BODYWORK / killdozer end-state note is carried forward as a patch item, but a dedicated bodywork mission source page is not visible in the uploaded corpus.
+Notes:
+- Pull in the Van Hult / BODYWORK reference page from the external repo before calling migration complete.
+
+10) Campaign 3 Yunnan Jungle
+Status: WRAPPED IN PACKAGE
+Landing:
+- The compressed traversal structure and interactive border-crossing direction are represented in Worldbuilding and Missions patches.
+
+11) Radio World-Building Ideas
+Status: PARTIAL / CHECK SOURCE
+Landing:
+- Comms standard and migration/source-model logic are represented.
+Notes:
+- The non-Romeo region pilot-station next-step note remains more like a forward-development reminder than a landed source page.
+
+12) CORYS & SHIELD Squads Character Development
+Status: WRAPPED IN PACKAGE
+Landing:
+- SHIELD identity, roster, loadouts, and COLD ROOM mission model are carried into Worldbuilding, Characters, Gameplay, and Missions.
+
+13) CFIM Naming Feedback
+Status: WRAPPED IN PACKAGE
+Landing:
+- CogniConnect / CFIM distinction is carried into the Worldbuilding patch.
+
+14) New Signature Weapon Idea
+Status: PARTIAL / CHECK SOURCE
+Landing:
+- HELL OR HIGH WATER, WORK ORDER, and CIVIL DISOBEDIENCE are represented in the patch layer.
+Notes:
+- A dedicated consolidated Boston weapons source packet is still worth keeping in repo-side sources if you have one.
+
+15) Ducky’s Knife Canon
+Status: WRAPPED IN PACKAGE
+Landing:
+- The Gerber StrongArm canon entry is represented in the Gameplay patch.
+
+16) Radio World-Building Ideas / pilot station follow-up
+Status: STILL LIVE / NOT SAFE TO RETIRE BLIND
+Landing:
+- The next-step note exists, but there is no stable finalized source page visible in the current corpus.
+Notes:
+- Treat this as forward work rather than migration-complete material.
+
+17) South Africa Campaign Viability
+Status: STILL LIVE / NOT SAFE TO RETIRE BLIND
+Landing:
+- Not sufficiently represented in the accessible source corpus.
+Notes:
+- Keep this thread/workstream live until it lands in source-ready form.
+
+GENERAL TAKEAWAY
+- This refreshed package is strong enough to function as a new working compendium set.
+- Before final migration, double-check the PARTIAL / CHECK SOURCE items against your external version-controlled files so that Boston weapons, BODYWORK / Van Hult material, Bakhmut visual reference work, slogan/style-guide pages, and any other repo-only late-thread outputs are not silently lost.

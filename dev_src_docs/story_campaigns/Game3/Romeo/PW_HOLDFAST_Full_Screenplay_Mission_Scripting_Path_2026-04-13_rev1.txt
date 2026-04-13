@@ -1,0 +1,678 @@
+PROJECT WARRIORS — SOURCE-READY MISSION SCRIPTING PAGE
+Document: PW_HOLDFAST_Full_Screenplay_Mission_Scripting_Path_2026-04-13_rev1
+Generated: 2026-04-13
+Version: rev1
+Status: source-ready narrative / gameplay pass
+
+================================================================================
+TITLE / PLACEMENT
+================================================================================
+
+MISSION TITLE: HOLDFAST
+CAMPAIGN: Romeo — Game 3 Boston
+PLACEMENT: Late Act III moving toward Act IV, immediately after LIFELINE and its
+           first ambient consequence beats
+MISSION FUNCTION: full screenplay / mission-scripting path for the first post-
+                  LIFELINE validation mission
+
+SHORT THESIS LINE:
+LIFELINE opened the artery. HOLDFAST proves Boston can keep blood moving through it.
+
+CORE RULE THIS PAGE PROTECTS:
+HOLDFAST must not feel like a generic defensive firefight. It is the first time
+Romeo and the player experience a real two-way corridor under Vickers's widened
+British support logic: wounded and civilians going out, matériel and support
+coming in, and the occupation adapting fast enough to try to cut the route at
+its thinnest point.
+
+================================================================================
+MISSION IDENTITY
+================================================================================
+
+TONAL IDENTITY:
+- fragile logistical artery inside a half-liberated city
+- urgency and movement rather than heroic static last stand
+- enemy adaptation arriving immediately after progress
+- proof that Vickers's briefing changed material reality, not just tone
+
+GAMEPLAY IDENTITY:
+- short-range escort and handoff
+- route collapse and re-opening under pressure
+- strongpoint clearing with movement as the real objective
+- layered defense while medics, engineers, and litter teams keep the line alive
+- protection of people and throughput, not just elimination of enemies
+
+PLAYER FEEL TARGET:
+"We finally have something real, and now we have to keep it alive."
+
+================================================================================
+KEY CAST
+================================================================================
+
+ROMEO
+Playable. The ground-level force that makes the route viable once the enemy cuts it.
+
+LT. DOROTHY ANNE VICKERS
+Operational lead. Exact, unsentimental, calm. She never speaks as if the route is
+safer than it is.
+
+ELENA COSTA
+Local district anchor. She decides who gets moved first and what must still stay.
+
+PAT NAPIER
+Central mission-facing use. He is the practical medical conscience of the mission.
+Strongly load-bearing in triage, casualty movement, and the old-vs-new standard
+of care contrast.
+
+MACE
+Light use only. Best used as bridge between covert British presence and Vickers's
+widened phase. One or two interventions are enough.
+
+ROYAL MARINES DETACHMENT
+Mission-facing but not over-personalized. This is the first time the player
+should feel them as a functioning protective layer rather than an abstract late-
+game support label.
+
+BRITISH MEDICAL / ENGINEERING PACKAGE
+A compact inbound element. Small enough to feel plausible. Important enough to
+become the mission's second stake once the route is cut.
+
+================================================================================
+PROTECTED CHARACTER LOGIC
+================================================================================
+
+VICKERS
+- exact, clipped, low-drama
+- no theatrical speeches
+- reassures through structure, not comfort language
+
+ELENA
+- never reduced to local color or Romeo's interpreter
+- she is a real decision-maker in who moves and what matters
+
+PAT
+- practical, tired, competent, unsentimental
+- concern shown through triage, restraint, and exact language
+
+ROMEO
+- direct and movement-focused
+- once the route is cut, he thinks in restoring motion rather than "winning"
+  a symbolic objective
+
+================================================================================
+PROTECTED LINES (USE AS WRITTEN)
+================================================================================
+
+VICKERS:
+"No, that changes the route, not the job."
+
+PAT:
+"Before this route, these people died where they were lying."
+
+ELENA:
+"If they can feel this line working, they'll come for it every day."
+
+ROMEO:
+"Then we make every day cost them."
+
+================================================================================
+OPENING BRIEFING SCENE
+================================================================================
+
+[Interior — Temporary district-side casualty collection point, pre-dawn.
+A mechanic's workshop cut into the ground floor of a brick service building.
+Shutters down. Side door open to a rear alley. Work lights hooded. Compressors,
+jack stands, tool cabinets, oil stains, folded stretchers, blood on concrete.
+The space was meant to keep vehicles alive. Tonight it is keeping people alive.
+
+Two wounded fighters lie on litters near an engine hoist. A teenage boy with a
+shrapnel bandage around his shoulder sits upright on a tyre stack, jaw clenched,
+trying not to look afraid. A middle-aged woman in a winter coat breathes through
+pain in one corner while Elena kneels beside her, speaking low.
+
+Pat is at a folding table made from a door on saw horses. Tourniquets, gauze,
+chest seals, a ledger, a grease pencil. He looks like he has been awake for far
+too long and has decided that this is nobody else's problem.
+
+Romeo comes in through the alley entrance with two cell fighters. The distant city
+is quiet in the wrong way.
+
+A field radio on the workbench hisses. Then Vickers.] 
+
+VICKERS (RADIO):
+Álvarez, report.
+
+ROMEO:
+At the collection point.
+
+VICKERS (RADIO):
+Good. Your first outbound movement steps in six minutes. I want your eyes on the
+order before anybody starts improvising.
+
+[Pat slides the grease-pencil board toward Romeo. Twelve names. Three crossed out.
+One circled twice.] 
+
+PAT:
+Twelve out on the first pull. Four stretcher. Three walking wounded. Two civilians
+can't be treated here much longer. One priority.
+
+ROMEO:
+Which one?
+
+PAT:
+The abdominal bleed by the drill press. He stays here and he dies slow.
+He moves and maybe he gets lucky.
+
+[Elena rises from the woman in the corner and crosses over.] 
+
+ELENA:
+And if we move the wrong people first, the block remembers that too.
+
+PAT:
+I'm aware.
+
+[He is not defensive. Just tired.] 
+
+PAT:
+Before this route, these people died where they were lying.
+
+[Beat.] 
+
+PAT:
+Now we've got a line. Thin one. That's better than nothing and worse than safe.
+
+[Mace steps in from the alley, wet jacket, rifle low. He looks like he has been
+outside since yesterday.] 
+
+MACE:
+Middle segment's clean for now.
+
+ELENA:
+For now.
+
+MACE:
+Yes. That's what I said.
+
+[Pat marks the circled priority patient again.] 
+
+PAT:
+He goes in first package. No argument.
+
+ELENA:
+Agreed.
+
+ROMEO:
+Who walks with him?
+
+PAT:
+I do until midpoint. British medic takes him from there if the route still exists.
+
+[The radio crackles.] 
+
+VICKERS (RADIO):
+Listen carefully.
+
+[Pat turns the volume up. The whole room bends toward the voice without drama.] 
+
+VICKERS (RADIO):
+Outbound package one moves from your position to Junction Blue at zero four thirty.
+Inbound package crosses from shore node to Junction Blue simultaneously, not before.
+You do not outrun the overlap. You do not stack at the choke point. If contact
+closes the middle, you hold what you have and wait for direction.
+
+ROMEO:
+Copy.
+
+VICKERS (RADIO):
+No, not copy. Understand.
+
+ROMEO:
+Understood.
+
+VICKERS (RADIO):
+Good. Inbound package is med stores, batteries, engineer kit, one signals case,
+small protection element. If the route pinches, the support package becomes part
+of the problem. Keep that in mind before anyone gets brave for cosmetic reasons.
+
+ELENA:
+They're going to feel the route working.
+
+VICKERS (RADIO):
+Yes.
+
+ELENA:
+If they can feel this line working, they'll come for it every day.
+
+ROMEO:
+Then we make every day cost them.
+
+[Small beat.
+That is not a speech. It is a working assumption.] 
+
+VICKERS (RADIO):
+Exactly. Move.
+
+[Pat starts calling names. Litter teams lift. A resistance fighter wraps a blanket
+around the woman in the corner. Romeo checks his rifle, looks once at Elena, then
+at the shuttered exit.
+
+Mission title card:
+HOLDFAST]
+
+================================================================================
+MISSION SCRIPTING PATH
+================================================================================
+
+------------------------------------------------------------------------------
+PHASE 1 — FIRST MOVEMENT
+------------------------------------------------------------------------------
+
+MISSION START STATE:
+- player begins inside casualty collection point
+- first outbound package is physically present and moving
+- light British radio traffic heard in background, never overbearing
+- player understands immediately that this mission is about moving people through
+  a live route, not simply assaulting a fixed target
+
+PRIMARY OBJECTIVE:
+Escort Outbound Package One to Junction Blue.
+
+SECONDARY OBJECTIVES:
+- keep first package intact
+- protect Pat while he accompanies the priority casualty
+- suppress immediate threats without over-delaying movement
+
+GAMEPLAY FLOW:
+1. Player exits via rear alley with first litter team.
+2. Route begins through tight service lane, broken fence cut-through, and a half-
+   cleared loading court.
+3. Light enemy contact begins at distance: single rifleman, then upper-window
+   spotter, then two-man harassment team falling back.
+4. Romeo clears path, but the mission tempo should feel like advancing a fragile
+   body of people, not running point for an assault squad.
+
+TRIGGER 1A — EXIT ALLEY
+ELENA:
+Keep them moving. Don't let the lane breathe on us.
+
+PAT:
+Priority litter first. Everyone else takes their pace from that frame.
+
+ROMEO:
+Move.
+
+TRIGGER 1B — FIRST CONTACT, UPPER WINDOW
+CELL FIGHTER:
+Window, second floor.
+
+ROMEO:
+Seen.
+
+[Player neutralizes upper-window rifleman or forces him off the angle.] 
+
+PAT:
+Good. Keep going.
+
+TRIGGER 1C — PASSING A SHUTTERED BODEGA / GARAGE EDGE
+WALKING WOUNDED FIGHTER:
+Never thought I'd miss being shot at on a static line.
+
+PAT:
+You can miss it after you live through it.
+
+TRIGGER 1D — APPROACH TO JUNCTION BLUE
+[Inbound British traffic now becomes audible on comms: clipped directions,
+range checks, casualty prep. The player should feel the two-way route as real
+before it fails.] 
+
+ROYAL MARINE (RADIO):
+Junction Blue in sight. No movement front.
+
+BRITISH MEDIC (RADIO):
+Stretcher ready on handoff.
+
+VICKERS (RADIO):
+Hold spacing. Hold spacing. Nobody bunches at the junction.
+
+------------------------------------------------------------------------------
+PHASE 2 — THE CUT
+------------------------------------------------------------------------------
+
+TRANSITION NOTE:
+The route must fail in a way that reads as enemy adaptation, not random bad luck.
+The player should understand that the occupation has identified the corridor as a
+real threat to control.
+
+PRIMARY OBJECTIVE:
+Survive the route severance and secure the wounded at Junction Blue.
+
+EVENT CHAIN:
+1. As outbound and inbound elements begin to overlap near Junction Blue, enemy
+   indirect fire lands on the exposed road throat.
+2. Simultaneously, MG / DMR fire opens from an elevated industrial shell.
+3. A side-street team shoves scrap and a light truck across the lane, splitting
+   the route into pockets.
+4. The inbound support package halts short of the junction.
+5. Pat and two litter teams are pinned on the inner side.
+
+TRIGGER 2A — FIRST ROUND IMPACT
+[One sharp incoming whistle. Then impact. Brick dust. Shattered glass. A vehicle
+alarms once and dies.] 
+
+PAT:
+Down. Litters down. Down.
+
+ROMEO:
+Middle's blown. Get them under cover.
+
+VICKERS (RADIO):
+All stations, all stations, middle segment compromised. I say again, middle
+segment compromised. Hold what you have. Do not stack the lane.
+
+TRIGGER 2B — MG / DMR OVERWATCH ESTABLISHED
+CELL FIGHTER:
+Gun up high. North side shell. Gantry level.
+
+PAT:
+If that angle stays open, nobody crosses.
+
+ROMEO:
+Then it closes.
+
+TRIGGER 2C — INBOUND PACKAGE STALLS
+ROYAL MARINE (RADIO):
+Inbound halted short. Obstacle across the lane. We can move on foot, not with the
+cases.
+
+VICKERS (RADIO):
+No, that changes the route, not the job.
+
+[Protected line.]
+
+VICKERS (RADIO):
+Álvarez, you're reopening the spine. Mark the gun. Mark the choke. Everything else
+waits.
+
+NEW PRIMARY OBJECTIVE:
+Reopen the Corridor.
+
+------------------------------------------------------------------------------
+PHASE 3 — ROUTE SURGERY
+------------------------------------------------------------------------------
+
+MISSION IDENTITY SHIFT:
+Escort becomes violent route repair. Romeo is no longer just guarding movement;
+he is restoring it.
+
+SUB-OBJECTIVES:
+1. Eliminate MG / DMR overwatch team.
+2. Disable enemy observation / comms node controlling the cut.
+3. Clear obstacle emplacement at the choke point.
+
+RECOMMENDED ENVIRONMENT:
+- service corridor through warehouse annex
+- stairwell to upper catwalk / gantry gun position
+- roof edge or overpass service deck
+- small relay room or construction office used as enemy local command cell
+- narrow descent back to the lane for obstacle clearance
+
+TRIGGER 3A — PUSH INTO WAREHOUSE ANNEX
+MACE (RADIO, OPTIONAL):
+North shell's got a maintenance stair on the east side. Ugly angle, but it'll do.
+
+ROMEO:
+Understood.
+
+TRIGGER 3B — INTERIOR CLEARING / STAIRS
+CELL FIGHTER:
+Movement above.
+
+ROMEO:
+Stairs. Fast.
+
+[Compact, pressurized CQB through service rooms and steel stairs.] 
+
+TRIGGER 3C — GANTRY GUN POSITION CLEARED
+[MG team neutralized. Fire on the lane drops instantly and noticeably.] 
+
+PAT (RADIO):
+That's it. That's the angle gone.
+
+VICKERS (RADIO):
+Good. Do not admire the work. Find their eyes.
+
+TRIGGER 3D — OBSERVATION / COMMS ROOM
+[Player enters a cramped upper office with field radio, drone feed tablet, and
+marked route sketch proving the enemy had begun pattern-watching the corridor.] 
+
+ROMEO:
+Found their picture.
+
+VICKERS (RADIO):
+Then erase it.
+
+[Player destroys radio / tablet / local relay node.] 
+
+TRIGGER 3E — DESCENT TO OBSTACLE
+[Back on the lane edge, a side-street team is trying to finish blocking the route
+with scrap, a van, and a quick mine / charge / incendiary denial setup.] 
+
+ELENA (RADIO):
+They're not just cutting it. They're trying to make us afraid to reuse it.
+
+ROMEO:
+Noted.
+
+[Player clears the team and physically secures the choke point.] 
+
+NEW PRIMARY OBJECTIVE:
+Hold the Choke While the Line Reforms.
+
+------------------------------------------------------------------------------
+PHASE 4 — HOLD THE THROAT
+------------------------------------------------------------------------------
+
+MISSION PURPOSE:
+The route is not truly open until movement resumes. This phase proves reopening
+was worth the fight.
+
+SUB-OBJECTIVES:
+1. Cover engineers removing / bypassing the lane obstacle.
+2. Protect British medics and Pat during the handoff of the priority casualty.
+3. Keep inbound supplies from being overrun or abandoned.
+
+GAMEPLAY SHAPE:
+- layered defense across one exposed lane and two side entries
+- emphasis on protecting working people rather than chasing kills
+- visible movement of litters, medics, engineer kit, and battery / signals cases
+
+TRIGGER 4A — ENGINEERS STEP IN
+ROYAL ENGINEER:
+We've got three minutes if nobody shoots the wheels off us.
+
+ROMEO:
+Then work.
+
+TRIGGER 4B — PRIORITY CASUALTY HANDOFF
+[Pat and British medic meet at the restored midpoint under fire.] 
+
+BRITISH MEDIC:
+We've got him.
+
+PAT:
+No, you've got half of him. Keep the pressure there and move.
+
+BRITISH MEDIC:
+Understood.
+
+PAT:
+Good.
+
+[Pat's hand stays on the dressing one second too long before he lets go.
+That is the emotional beat. Not a speech.] 
+
+TRIGGER 4C — ENEMY COUNTER-SURGE FROM SIDE STREET
+CELL FIGHTER:
+Left side. Left side. They're pushing the breach.
+
+ROMEO:
+Hold them off the frame. The lane matters more.
+
+TRIGGER 4D — VICKERS REFRAMES STAKES
+VICKERS (RADIO):
+Inbound package is now the stake. If they hit those cases, LIFELINE becomes a
+story people tell each other about the one time it nearly worked.
+
+ROMEO:
+It worked.
+
+VICKERS (RADIO):
+Then prove it again.
+
+TRIGGER 4E — SIGNALS CASE / BATTERY PACKAGE ARRIVES
+[Small but crucial visual beat: waterproof signals case and battery crates cross
+through the choke under Marine protection while litters move the other way.] 
+
+ELENA (RADIO):
+There. That's the city breathing.
+
+------------------------------------------------------------------------------
+PHASE 5 — LAST LEG TO SHORE NODE
+------------------------------------------------------------------------------
+
+MISSION PURPOSE:
+The route has to complete, not merely survive. The player now escorts the reduced
+outbound package through the last leg toward the British-held shore node.
+
+PRIMARY OBJECTIVE:
+Escort the Remaining Casualties to the Shore Node.
+
+SECONDARY OBJECTIVE:
+Ensure the inbound support package reaches the inner transfer point.
+
+GAMEPLAY FLOW:
+1. Route is open but unstable.
+2. Enemy pressure becomes more distant and harassing rather than dominant.
+3. The mission breathes just enough for the player to notice the new grammar of
+   support: Royal Marines covering angles, medics already working, a shore-side
+   military node that exists in more than rumor form.
+
+TRIGGER 5A — MOVEMENT RESUMES
+PAT:
+Move. Move now before they remember how roads work.
+
+TRIGGER 5B — APPROACH TO SHORE NODE
+[The ferry maintenance hall / waterfront node comes into view under blackout
+lighting and disciplined sector coverage.] 
+
+ROYAL MARINE:
+Shore node visual. Keep them straight in.
+
+TRIGGER 5C — FINAL HARASSMENT FIRE
+CELL FIGHTER:
+Rear windows. Long shot.
+
+ROMEO:
+Ignore the noise. Keep walking.
+
+[Important: player may suppress threats, but mission emphasis is completion of
+movement, not hunting final stragglers.] 
+
+MISSION COMPLETE TRIGGER:
+First full two-way movement cycle successfully completed.
+
+================================================================================
+END SCENE
+================================================================================
+
+[Interior — British shore node, dawn beginning to grey the high windows.
+The first real outbound package is inside. British medics work. One walking
+wounded resistance fighter is sitting on an ammo crate drinking water and looking
+slightly embarrassed to still be alive.
+
+The priority casualty is rushed through a canvas-screened med corner. The player
+never gets a neat answer yet on whether he survives. That uncertainty is part of
+the tone.
+
+Pat comes in late, jacket dark with other people's blood, and stops just inside
+because he is suddenly unsure what to do with the fact that the route actually
+worked.
+
+Vickers is at the map board again. Different board now. Shore node side. The lane
+that nearly died is marked back open in grease pencil.
+
+Romeo steps up beside her. Elena arrives a beat later, eyes still on the medics.] 
+
+VICKERS:
+How many did you lose?
+
+ROMEO:
+None on the line.
+
+VICKERS:
+Good.
+
+[She means it. She does not celebrate it.] 
+
+ELENA:
+They'll hit it again.
+
+VICKERS:
+Yes.
+
+ELENA:
+Harder.
+
+VICKERS:
+Probably.
+
+[Beat.] 
+
+VICKERS:
+Now we know where harder is.
+
+[Pat watches the med corner. One British medic leans out.] 
+
+BRITISH MEDIC:
+Napier.
+
+[Pat goes immediately.] 
+
+ROMEO:
+This enough for tomorrow?
+
+[Vickers looks at the board, then at the lane, then at him.] 
+
+VICKERS:
+No.
+
+[Beat.] 
+
+VICKERS:
+It's enough to make tomorrow worth planning.
+
+[Mission end.] 
+
+================================================================================
+PERSISTENT CONSEQUENCE LOCKS THIS SCRIPT SHOULD FEED
+================================================================================
+
+After HOLDFAST, the campaign should feel materially changed in the following ways:
+- the player believes the corridor is real because they have personally reopened
+  and completed it under pressure
+- British military CASEVAC is now emotionally and mechanically trusted, though
+  still finite
+- enemy counter-adaptation becomes part of late-Boston mission planning language
+- Vickers, Elena, Romeo, and Pat now share a proven operational bond rather than
+  merely a briefing-room understanding
+- later missions can assume the existence of an artery that must be protected,
+  widened, or exploited
+
+================================================================================
+NEXT CLEAN STEP
+================================================================================
+
+Convert HOLDFAST into a matching trigger-by-trigger gameplay script with explicit
+objective text, checkpoint placement, combat beats, and failure / recovery states,
+or write the next linked scene in which the city reacts to the fact that the route
+actually held.

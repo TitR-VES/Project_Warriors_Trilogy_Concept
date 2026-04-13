@@ -1,0 +1,19 @@
+PROJECT WARRIORS — GOVERNANCE HEADER TEMPLATE
+Version: 2026-04-13 rev1
+
+Document ID:
+Domain / Compendium:
+Status:
+Canon state:
+Last updated:
+Source type:
+Supersedes:
+Superseded by:
+Related files:
+Notes / scope:
+
+Usage rule:
+- Keep this header lightweight.
+- Update source-of-truth files first.
+- Refresh working compendia after source updates.
+- Refresh the archival master at milestones, not after every small change.

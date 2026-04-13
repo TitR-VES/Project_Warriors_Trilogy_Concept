@@ -1,0 +1,473 @@
+PROJECT WARRIORS — BOSTON HARBOR STRIKE REFERENCE PAGE
+Generated: 2026-04-13
+Version: rev1
+Status: thread-locked development reference; source-ready for compendium landing
+Scope: mission-facing reference page for the flagged SAS/SBS/Romeo Boston harbor joint strike.
+
+================================================================================
+PURPOSE
+================================================================================
+This page develops the previously flagged British Boston harbor joint mission into a
+source-ready mission reference that can support later story mapping, mission scripting,
+operator usage, and Boston-arc progression.
+
+The mission’s governing logic is now clear:
+this is not a symbolic raid and not a generic “blow up a ship” set piece.
+It is a targeted strike on a load-bearing Russian occupation resupply delivery entering
+or preparing to offload through enemy-controlled Boston Harbor. The vessel is carrying
+ordnance, demolitions materiel, heavy weapons ammunition, spare parts, and sustainment
+stock whose arrival would materially strengthen the occupation’s ability to hold Boston.
+
+Destroying or catastrophically denying that shipment weakens the occupation in a way the
+player can later feel on land.
+
+================================================================================
+INHERITED LOCKS THIS PAGE MUST HONOR
+================================================================================
+1. British forces in Boston are already structured in three distinct layers:
+   - SAS = covert sabotage / infiltration / hostage-HVP extraction
+   - SBS = covert maritime sabotage / blockade disruption / insertion expertise
+   - Royal Marines (+ Royal Navy) under Lt. Dorothy Anne Vickers = later widening,
+     resistance support, CASEVAC growth, and genuine balance-of-power shift
+
+2. The Boston harbor joint mission already exists in-source as a flagged mission lane:
+   SAS and SBS operating jointly with Romeo against a Russian ordnance / supply vessel,
+   approached by mini-submarine or combat-diving route.
+
+3. British support in Boston must begin as covert competence and only later widen into
+   more visible and materially stronger support.
+
+4. The Tea Party harbor thread already exists as a flagged Boston mission layer and must
+   be honored rather than discarded.
+
+5. Lt. Dorothy Anne Vickers, Royal Marines scope, and wider Royal Navy involvement remain
+   only partially developed and should not be over-locked here.
+
+================================================================================
+WORKING MISSION TITLE RECOMMENDATION
+================================================================================
+TEA PARTY
+
+Reason:
+- it cleanly inherits the already-flagged harbor-thread language
+- it preserves the revolutionary-history inversion without needing anyone to speechify it
+- it works best if treated as dry internal naming rather than a shouted in-fiction slogan
+
+Usage rule:
+Use TEA PARTY as the current mission-title recommendation for this harbor strike unless a
+stronger later Boston harbor title emerges. Do not write characters performing the title.
+Let the title carry the irony by itself.
+
+================================================================================
+CORE MISSION IDENTITY
+================================================================================
+MISSION TYPE
+Covert joint sabotage strike in occupied Boston Harbor.
+
+CAMPAIGN HOME
+Romeo Game 3 — Boston arc.
+
+MISSION FUNCTION INSIDE THE BOSTON CAMPAIGN
+This mission is the British Boston package’s clearest proof of value before the later
+Vickers / Royal Marines widening. It demonstrates exactly why SAS and SBS were worth
+getting through the blockade at all: they can do one precise thing the local resistance
+and Romeo’s people cannot easily do alone.
+
+PRIMARY RESULT
+The occupation loses a critical ordnance / sustainment delivery before it can be fully
+absorbed into the Boston port logistics chain.
+
+SECONDARY RESULT
+Boston resistance gains time, breathing room, and proof that the occupation’s port grip is
+vulnerable.
+
+TERTIARY RESULT
+The strike helps justify the later widening of British support, because it proves that
+small-force intervention in Boston can produce theater-relevant outcomes.
+
+================================================================================
+WHY THE BRITISH CARE
+================================================================================
+The British motivation should be practical, not sentimental.
+
+Recommended combined rationale:
+- the Russian Atlantic blockade and East Coast port network form one operational system
+- enemy-controlled Boston is not just an occupied city but a working logistics node
+- a particular inbound shipment is judged load-bearing enough that destroying it offers
+  outsized effect relative to the small British footprint available
+- SBS is already in theater specifically to disrupt maritime occupation capability
+- SAS can support the strike by infiltrating port-side infrastructure, fixing targets,
+  cutting reaction pathways, and enabling exfiltration
+- helping Boston here is also helping the wider anti-blockade effort
+
+The British are not “coming to save Boston.”
+They are choosing one exact place where limited force can break something that matters.
+
+================================================================================
+WHY ROMEO / BOSTON RESISTANCE CARE
+================================================================================
+For Romeo and the local resistance, the target matters because the shipment directly
+strengthens the occupation at street level.
+
+Recommended cargo profile:
+- mortar and artillery ammunition for harbor-side and district firebases
+- heavy machine gun ammunition and replacement barrels
+- demolition stores for route denial and building reduction
+- vehicle spare parts for occupation motor pools and technical repair yards
+- communications components and power systems needed to stabilize local command nodes
+
+On land, this means:
+- harder checkpoints
+- better-supplied strongpoints
+- more sustained indirect fire
+- faster repair of damaged enemy vehicles and infrastructure
+- a longer occupation timeline for Boston neighborhoods already barely holding on
+
+The strike should therefore feel like a direct block-by-block campaign mission even though
+much of it happens on or near the water.
+
+================================================================================
+PLACEMENT RECOMMENDATION
+================================================================================
+ACT / CAMPAIGN PLACEMENT
+Early-to-mid Act III lane preferred.
+
+Reason:
+- early enough that British covert action still feels selective and fragile
+- late enough that Romeo has already met the British teams and trust has been established
+- ideally placed before the full Vickers / Royal Marines widening, so the mission reads as
+  part of the covert phase that earns later expansion
+
+BEST STRUCTURAL READ
+This is not the first British mission Romeo sees.
+It is the mission where British presence stops being interesting and becomes indispensable.
+
+================================================================================
+TARGET MODEL
+================================================================================
+TARGET TYPE
+Russian ordnance / sustainment vessel moored, anchoring offshore, or entering the inner
+harbor under occupation control.
+
+PREFERRED TARGET READ
+Not a capital ship. Not a dramatic duel target. Not a destroyer.
+The right target is a guarded military cargo vessel or requisitioned heavy freighter whose
+value lies in what it is carrying, not in its prestige.
+
+Why this works better:
+- keeps the mission grounded in occupation logistics rather than naval spectacle
+- makes covert demolition and sabotage the correct solution
+- fits SBS specialty far better than a stand-up naval battle
+- lets the player feel the cargo as the real target
+
+OPTIONAL COMPLICATION
+Ammunition lighter or secondary security picket vessel nearby.
+Use only if it adds tactical pressure without turning the mission into a fleet battle.
+
+================================================================================
+MISSION THESIS
+================================================================================
+The Boston Harbor Strike should feel like this:
+A small multinational team moves through freezing, black, enemy-held water to stop a city
+from being resupplied for its own occupation.
+
+That is the mission.
+Everything else is execution detail.
+
+================================================================================
+PRIMARY TEAM ROLES
+================================================================================
+ROMEO
+- player-facing ground combat anchor
+- local route familiarity and resistance link
+- handles port-side access fights, interior clearing, and emergent adaptation when the
+  plan inevitably bends under pressure
+- provides the mission’s Boston ownership; this is not a British-only operation in an
+  American city
+
+MACE / SAS
+- overall on-scene professional gravity
+- sabotage and contingency lead on landward side
+- makes the hard call when the plan starts to deform
+
+PATCH / SAS
+- precision support, overwatch, suppressed shaping kills, route security
+- useful for cutting reaction forces approaching from cranes, catwalks, fuel yards,
+  or customs-adjacent structures
+
+GHOST / SAS
+- close reconnaissance, infiltration support, silent interior work, fixed-site access,
+  alarms / control / locking systems / human-factor exploitation
+
+DEPTH / SBS
+- load-bearing maritime specialist
+- lead combat diver and underwater demolitions
+- without Depth, the vessel strike does not happen
+
+CUTTER / SBS
+- demolition partner and surface-route problem solver
+- charts the harbor approach window and builds the charges plan into a workable action
+- can flex between surface and vessel-based breaching logic
+
+WREN / SBS
+- intercepts Russian harbor traffic, patrol changes, and reaction cues
+- keeps the insertion team informed when the picture shifts
+- above-water intelligence layer preventing the dive team from moving blind
+
+================================================================================
+MISSION FORM RECOMMENDATION
+================================================================================
+THREE-PHASE STRUCTURE
+
+PHASE 1 — THE APPROACH
+Black-water insertion and harbor penetration.
+
+PHASE 2 — THE FIX
+The team confirms cargo, plants denial charges, and shapes enemy response.
+
+PHASE 3 — THE BREAK
+The team escapes through a collapsing reaction window as the strike disables or destroys the
+shipment and throws the harbor into violent confusion.
+
+================================================================================
+PHASE 1 — THE APPROACH
+================================================================================
+TONAL REGISTER
+Cold, procedural, low-verbal, technically exact.
+This should be one of the wettest and quietest missions in the Boston arc.
+
+APPROACH OPTIONS
+Preferred combined approach:
+- initial insertion by small maritime platform or covert drop-off outside the main patrol ring
+- SBS-led combat-dive approach for the actual harbor penetration / final vessel access
+- Romeo and SAS elements inserted to a separate port-side landing point or industrial edge
+  for synchronized landward shaping actions
+
+Why combined approach works best:
+- honors the already-seeded dive / mini-sub lane
+- gives SBS something uniquely theirs
+- still preserves Romeo as active mission participant rather than spectator to divers
+
+KEY GAMEPLAY ELEMENTS
+- low-visibility navigation using environmental cues, timed movement, and minimal dialogue
+- patrol-light avoidance, propeller / wake danger, hull-shadow movement
+- intermittent Russian comms intercepted by Wren rather than constant exposition
+- sense that one mistake does not trigger instant mission failure, but does make later phases worse
+
+KEY BEAT
+The harbor should feel occupied, industrial, and half-dead rather than theatrically bustling.
+Generators, sodium light, cranes, low voices, diesel, water slap, metal groan.
+Boston is still there beneath it, but the harbor currently belongs to someone else.
+
+================================================================================
+PHASE 2 — THE FIX
+================================================================================
+OBJECTIVE
+Get onto or under the vessel, confirm the cargo profile, and deny it decisively.
+
+DENIAL METHOD RECOMMENDATION
+The mission should prefer cargo-kill over ship-kill if that produces a better tactical read.
+
+Meaning:
+- the goal is not simply “sink the ship because explosions are cool”
+- the goal is to make the shipment unusable, unrecoverable, or catastrophically dangerous to offload
+- total sinking is acceptable if it emerges from the demolition logic, but it should not feel like the
+  only valid fantasy outcome
+
+BEST DEMOLITION READ
+Layered sabotage package:
+- underwater charges on critical vessel points / propulsion or mooring vulnerability
+- internal or deck-level charges positioned to ignite / ruin ordnance holds or key palletized cargo
+- optional secondary sabotage on harbor unloading gear, cranes, or fuel-transfer equipment to slow
+  rescue and salvage effort
+
+WHY THIS IS BETTER
+It lets the strike land as logistics warfare, not generic action spectacle.
+
+ROMEO’S JOB IN THIS PHASE
+- clears port-side access route or customs / warehouse control point
+- protects SAS movement to a control, alarm, or line-of-sight position
+- may participate in interior vessel clearance if the plan breaks early
+- keeps the mission from becoming “watch the British do maritime SOF”
+
+SAS JOB IN THIS PHASE
+- suppress or silently remove key sentries
+- cut shore-based reaction and observation
+- access harbor-control or security infrastructure if needed
+- create the buffer that lets SBS finish the actual sabotage
+
+SBS JOB IN THIS PHASE
+- vessel access
+- charge placement
+- cargo confirmation
+- timing and detonation architecture
+
+KEY DRAMATIC BEAT
+The team realizes the shipment is even more load-bearing than expected.
+Not just ammunition, but the specific kind of material that would have made the next stage of the
+occupation materially nastier.
+This sharpens the necessity of finishing the strike even if the exfil window is worsening.
+
+================================================================================
+PHASE 3 — THE BREAK
+================================================================================
+OBJECTIVE
+Escape before the harbor fully locks down.
+
+HOW THE PLAN SHOULD BEND
+One element of the plan should degrade, but not collapse into chaos porn.
+Best options:
+- harbor patrol timing shifts unexpectedly
+- a port-side reaction element arrives earlier than predicted
+- a mooring / charge timing issue forces one operator to stay committed a little too long
+- an intercepted Russian call reveals the harbor is beginning to understand what is happening
+
+The mission should then pivot from perfect stealth to compressed violent efficiency.
+
+GAMEPLAY IDENTITY
+- short, hard break-contact sequence
+- split pressure between waterline and landward escape lanes
+- no prolonged stand-up firefight that turns the harbor into an arena shooter
+- urgency comes from enclosure, light, search, engines, and reaction, not just enemy count
+
+DETONATION / PAYOFF RECOMMENDATION
+The strike should produce a layered payoff:
+1. initial proof of success — charges / fire / secondary explosions / loss of cargo control
+2. a worse realization by the enemy — this is not a small incident but catastrophic denial
+3. a harbor-wide confusion window the team uses to vanish
+
+VISUAL READ
+Prefer industrial violence over blockbuster fireball.
+Ammunition cooking off, cranes freezing, forklifts abandoned, searchlights swinging, mooring strain,
+container stacks echoing, harbor sirens, Russian radio traffic degrading in quality.
+The city should feel the shock of the strike before it sees who did it.
+
+================================================================================
+MISSION OUTCOME
+================================================================================
+RECOMMENDED OUTCOME LOCK
+The shipment is successfully denied.
+The vessel is destroyed, crippled beyond practical use, or left burning and unsalvageable enough that
+its intended cargo function is gone.
+The team escapes, but the exfil is hard and should leave a cost impression even if no major character
+is lost.
+
+PREFERRED CONSEQUENCE MODEL
+Not “the British saved Boston.”
+Instead:
+- several later enemy positions are visibly less well supplied
+- one later operation happens because ordnance or spares failed to arrive
+- resistance chatter starts treating the harbor as vulnerable rather than untouchable
+- British credibility with Romeo and Boston locals rises sharply
+- higher command is more willing to commit later widening support because the first intervention worked
+
+================================================================================
+RELATIONSHIP TO VICKERS / ROYAL MARINES LAYER
+================================================================================
+This mission should PRECEDE the fuller Vickers widening.
+
+Why:
+- it keeps Vickers from entering as unexplained support fantasy
+- it gives later Royal Marines / Royal Navy involvement a proven reason to exist
+- it preserves the campaign rule that British help begins as covert competence and only later widens
+
+Best follow-on read:
+TEA PARTY proves that a carefully chosen British intervention in Boston can create strategic effect.
+Only after that proof does the larger support argument become materially persuasive.
+
+Vickers may be:
+- off-screen in this mission
+- present only via planning approval or distant coordination
+- held entirely for later reveal
+
+Do not force her into the mission if doing so muddies the covert-phase identity.
+
+================================================================================
+RELATIONSHIP TO OTHER BOSTON MISSIONS
+================================================================================
+HOSTAGE / HVP EXTRACTION
+This remains distinct.
+The extraction mission is human, morally tangled, and about people Britain cannot leave behind.
+TEA PARTY is colder: occupation logistics, denial, and pressure on the city’s port artery.
+They support each other by contrast.
+
+OPTIONAL FOREIGN-CIVILIANS / WHEELCHAIR EXFIL SIDE QUEST
+Also remains distinct.
+That mission expresses British presence through restraint and obligation.
+TEA PARTY expresses it through precision violence.
+
+HARBOR AND SHADOW-GOVERNMENT ARC
+This strike should strengthen the harbor act materially, not replace it.
+It is one operation that weakens a system, not the act’s sole answer.
+
+================================================================================
+ENEMY / ENVIRONMENT READ
+================================================================================
+ENEMY MIX
+- Russian naval infantry / port-security personnel
+- harbor labor under coercive occupation control
+- technical logistics staff
+- limited quick-reaction force element
+
+Avoid turning the mission into an elite-operator theme park.
+The threat should mostly come from layered security, limited reaction time, and the danger of being
+caught in the wrong geometry once the strike begins.
+
+ENVIRONMENTAL TEXTURE
+- black water and rusted steel
+- cranes, catwalks, loading gantries, sealed containers, wet ladders
+- cold sodium light and intermittent darkness
+- industrial noise floor that sometimes helps and sometimes harms stealth
+- American harbor architecture wearing occupation overlays
+
+================================================================================
+CHARACTER / DIALOGUE RULES
+================================================================================
+- keep dialogue sparse and professional
+- let SBS feel culturally and operationally distinct from SAS
+- let Romeo remain mission-critical, not guest talent in a British showcase
+- avoid history-class dialogue about Boston and Britain; one dry acknowledgment somewhere in the
+  broader arc is enough
+- Cutter and Wren can carry more of the active harbor comms texture than Depth, whose silence is part
+  of his function
+- Mace should only speak when it matters
+
+================================================================================
+DO NOTS
+================================================================================
+- do not make the target a prestige warship just to inflate spectacle
+- do not make the mission a full harbor liberation
+- do not make Vickers arrive with a huge force package too early
+- do not let Romeo become secondary inside his own city
+- do not write the British motive as sentimental rescue theater
+- do not make the mission’s success abstract; the denied shipment must matter afterward
+
+================================================================================
+CLEAN LOCK RECOMMENDATION
+================================================================================
+TEA PARTY is a joint Romeo / SAS / SBS Boston Harbor strike in which a small British covert package
+and the local resistance destroy or decisively deny a load-bearing Russian ordnance and sustainment
+shipment moving through enemy-controlled Boston port infrastructure. The mission exists to weaken the
+occupation materially, prove the harbor is vulnerable, and justify the later widening of British
+support under Vickers rather than replacing it.
+
+================================================================================
+OPEN FLAGS FOR LATER THREADS
+================================================================================
+FLAG 01: Exact cargo vessel class / silhouette
+FLAG 02: Exact insertion craft or launch platform
+FLAG 03: Exact harbor district / berth / terminal selection
+FLAG 04: Whether title TEA PARTY remains final or only working
+FLAG 05: Whether detonation leaves target sunk, burning, grounded, or crippled alongside
+FLAG 06: Whether Vickers is named in planning layer here or withheld until later
+FLAG 07: Specific downstream Boston missions that show the effect of denied cargo
+FLAG 08: Whether one small human-cost beat should attach to the harbor workers caught in the strike zone
+         and, if so, how to do that without softening the military necessity of the mission
+
+================================================================================
+END STATE
+================================================================================
+This page is ready to serve as:
+- a compendium insert for the British / Boston arc
+- a mission-development reference for later scripting
+- a bridge document between the Who Dares Wins DLC spine and Romeo’s Boston harbor act

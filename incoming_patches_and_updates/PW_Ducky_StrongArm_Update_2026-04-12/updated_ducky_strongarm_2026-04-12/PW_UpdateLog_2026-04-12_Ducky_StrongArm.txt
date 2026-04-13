@@ -1,0 +1,27 @@
+Project Warriors update log — 2026-04-12
+Topic: Ducky signature blade canonization
+
+Updated files:
+- named_weapon_builds_v2_1.txt
+- PW_Weapons_Dev_Thread_Full_Summary.txt
+- character_narrative_profiles.txt
+- ProjectWarriors_Consolidated_Master_Source.txt
+
+Change summary:
+- Added Ducky's signature blade entry:
+  Gerber StrongArm, plain edge, coyote brown, factory coyote multi-mount polymer sheath.
+- Locked presentation rule:
+  field tool first, weapon second; practical, durable, unshowy; normal service wear only.
+- Locked carry rule:
+  default vertical MOLLE mount on support-side kit in full combat load;
+  horizontal belt carry acceptable in lighter setup states.
+- Locked config rule:
+  unmodified; factory sheath and hardware retained.
+- Locked tone rule:
+  never present as a knife-guy statement piece or theatrical tactical flourish.
+
+Archive-readiness impact:
+- Memory should be updated with the same canon note.
+- Source-of-truth file now contains the knife entry.
+- Working summary/compendium layer now reflects the same decision.
+- Master/reference layer now reflects the same decision for reconstruction.

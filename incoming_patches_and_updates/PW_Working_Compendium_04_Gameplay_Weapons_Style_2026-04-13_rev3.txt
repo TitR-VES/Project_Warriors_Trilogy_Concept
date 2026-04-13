@@ -1,0 +1,3360 @@
+PROJECT WARRIORS — WORKING COMPENDIUM
+Compendium: 04 Gameplay / Weapons / Style
+Generated: 2026-04-13
+Version: rev3
+
+PURPOSE
+This working compendium consolidates the currently accessible source materials for the Gameplay / Weapons / Style domain and folds in the latest visible project-memory corrections and late-thread outcomes that materially affect future writing.
+
+SOURCE COUNT
+6 included source items
+
+INCLUDED SOURCES
+
+1. PW_Gameplay_Mechanics_Overview-4.txt [current uploaded source | chars=56559 | sha256:444453f23ec367fe]
+2. PW_Transition_Mechanic_Overview.txt [current uploaded source | chars=7535 | sha256:0519234aa1bdd6a0]
+3. Project_Warriors_Comms_Style_Standard.txt [current uploaded source | chars=3034 | sha256:35bf1485c0f8d80a]
+4. PW_Weapons_Dev_Thread_Full_Summary.txt [current uploaded source | chars=39610 | sha256:873b83bc200d545f]
+5. named_weapon_builds_v2_1.txt [current uploaded source | chars=30509 | sha256:8597d11c7eed355a]
+
+6. PW_Source_Page_Boston_Weapons_Armorer_2026-04-13_rev1.txt [generated repo-side source landing | chars=9143 | sha256:4367d10cdfbce4e0]
+
+SECTION A — POST-SOURCE MEMORY INTEGRATION PATCHES
+
+1) Radio / comms lock: use “say again” to request repetition and “I say again” when repeating information; reserve “repeat” for fire-support contexts only; avoid “over and out.”
+2) Ducky knife canon: Gerber StrongArm fixed blade, plain edge, coyote brown, in the factory coyote multi-mount polymer sheath; treated as a field tool first and weapon second; default mount vertical MOLLE on support-side kit, with horizontal belt carry acceptable in lighter setup states.
+3) Elena Costa signature rifle lock: BUILD 08 — HELL OR HIGH WATER, an old-service-pattern Colt M4A1 with detachable carry handle retained, iron-sight / carry-handle configuration, visible wear, tan rubber bands on the stock, green tape on top of the stock, and handguard text reading “…HELL OR HIGH WATER…”
+4) Kearney / Romeo Boston rifle progression lock: DON’T TREAD remains the earlier Kentucky/Game 2 rifle; Romeo enters Boston with an unnamed transitional carbine; late Act II he receives BUILD 12 — CIVIL DISOBEDIENCE from Kearney in THE RIGHT RIFLE; Kearney’s own benchmark rifle remains BUILD 10 — WORK ORDER.
+5) Pat Napier loadout lock: Colt LE6920 with Aimpoint PRO, Streamlight, practical sling and furniture; Glock 19 Gen5 with TLR-7A; med-bag-forward sustainment kit; his rifle exists to create space and buy treatment time rather than signal operator vanity.
+6) SHIELD loadout lock: compact, interior-focused suppressed 5.56 carbines with shared 5.56 / 9mm logistics; DEADBOLT, HINGE, TRIAGE, and GHOST KEY remain the signature SHIELD builds.
+7) ARTEMIS / TYPHON lock: ARTEMIS is the Swedish Archer gun-artillery asset and TYPHON is the Norwegian K239 Chunmoo rocket-artillery asset; keep them distinct in visuals, battlefield role, comms identity, and mission placement.
+8) Boston weapons / armorer source-page landing: dedicated packet now governs Kearney, WORK ORDER, CIVIL DISOBEDIENCE, HELL OR HIGH WATER, and THE RIGHT RIFLE as a maintained source page rather than only a patch-layer carry-forward.
+
+====================================================================================================
+SOURCE CONTENT
+====================================================================================================
+
+====================================================================================================
+[PW_Gameplay_Mechanics_Overview-4.txt]
+Origin: current uploaded source
+Chars: 56559
+SHA-256 prefix: 444453f23ec367fe
+====================================================================================================
+
+PROJECT WARRIORS — DESIGN REFERENCE
+GAMEPLAY MECHANICS OVERVIEW — MASTER DOCUMENT
+Version 1.3 — Gameplay Mechanics Thread
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTENTS
+
+01. Camera / Perspective Format
+02. Narrative Prompt System
+03. Perspective Transition Mechanic (Frost / Lupin)
+04. Injury System
+05. Hit Zone / Armor Coverage System
+06. Enemy Tactical Sophistication Tiers
+07. Ammo Management / Magazine Retention
+08. Precision Rifle / Rangefinder Mechanic
+09. Black Market Mechanic
+10. Body Carrying and Disposal
+11. Close Air Support and Extraction Calls
+12. Stealth System
+13. Enemy Faction Interaction / Dynamic AI Encounters
+14. Vehicle and Large-Scale Combat
+15. Allied NPC Squad Mechanics
+16. Intelligence Gathering as Gameplay
+17. Optional Moral Choices with Narrative Payoff
+18. Weapon Handling and Attachments
+19. Casualty Extraction / Retention Lanyard System
+20. CASEVAC System
+21. Level Design Principles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+01. CAMERA / PERSPECTIVE FORMAT
+
+STATUS: Locked for Game 1. Revisit for later games in trilogy.
+
+Project Warriors Game 1 is a first-person shooter. FPS perspective is
+maintained throughout gameplay. Third-person perspective is reserved
+exclusively for cinematics where visual framing demands it — story moments,
+character reveals, dramatic scene compositions. This is not a hybrid
+gameplay system.
+
+Rationale: The narrative prompt system, the armor and hit zone system,
+and the tactical immersion of the game all function optimally in first person.
+Third-person gameplay would dilute the effect of all three. Building authentic
+dual-perspective gameplay would also represent significant additional scope
+inappropriate for a first entry in the trilogy.
+
+Revisit note: Later games in the trilogy may explore switchable first and
+third person depending on how the story and scope develop.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+02. NARRATIVE PROMPT SYSTEM
+
+STATUS: Pinned for full development. Core concept confirmed and locked.
+
+OVERVIEW
+
+UI action prompts — the text that appears on screen to tell the player what
+button to press and what action it performs — are used as a subtle narrative
+device reflecting the psychology of the character through whose eyes the
+player is looking. The prompt text is not purely functional. In strategically
+selected moments it carries emotional and tonal information about the
+character's mental state, moral position, or situational register.
+
+CORE PRINCIPLE
+
+This mechanic works only through restraint. The majority of prompts
+throughout the game are functional and unremarkable — they do their job
+invisibly. The narrative-laden prompts are placed sparingly at specific
+inflection points: tonal shifts, moral thresholds, psychologically significant
+moments. Their power comes entirely from the contrast with the surrounding
+functional prompts. If every prompt attempts to be meaningful, none of them
+are.
+
+EXAMPLE — CONFIRMED
+
+Cold Frontier flashback mission (Frost). During the QTE sequence in which
+Frost kills the Vympel operator at the lake shore with his knife, the prompt
+reads:
+
+    DISPATCH
+
+Not "stab." Not "kill." Not "neutralize." The clinical neutrality of "dispatch"
+reflects the psychological state Frost is in at that moment — not raging,
+not hesitating, already decided. A trained professional whose mind has gone
+somewhere very quiet and very cold. The word communicates his interior
+state more efficiently than any line of dialogue could.
+
+CHARACTER-SPECIFIC PROMPT VOCABULARIES
+
+Each protagonist has a consistent prompt vocabulary that reflects their
+identity and cognitive register. These vocabularies must remain consistent
+throughout the game so that players begin to feel the difference between
+campaigns without being told about it.
+
+Romeo — direct, physical, soldierly:
+"hit," "push," "go," "move," "take it"
+
+Spook — clinical, operational, intelligence-inflected:
+"neutralize," "acquire," "extract," "secure," "eliminate"
+
+Frost — neutral, detached, professionally cold:
+"dispatch," "remove," "clear," "hold," "acquire"
+
+Lupin — direct, physically charged, protective:
+"break it," "push them back," "hold the line," "cover"
+
+SHIFTING PROMPTS
+
+In specific dramatic moments the prompt text can change while the player
+is reading it, reflecting a sudden shift in the situational or tonal setup
+of the scene. Example: a prompt that reads "spare" then shifts to "end it"
+before the player acts communicates a character's resolve forming without
+a single line of dialogue. This device must be used extremely sparingly —
+it is a high-impact tool that loses force through overuse.
+
+MORAL THRESHOLD APPLICATION
+
+The most powerful application of this system is using a prompt change to
+signal a moral line being crossed without the game editorializing about it.
+If a prompt that has read "subdue" throughout a mission suddenly reads
+"kill" in a specific moment, the player feels that shift before they have
+consciously processed it.
+
+PLACEMENT PHILOSOPHY
+
+Prompts doing narrative work are placed at:
+— Psychologically significant character moments
+— Tonal or register shifts in the story
+— Moral thresholds the player is crossing
+— Moments of dramatic irony where the character's interior state
+  contrasts with the external situation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+03. PERSPECTIVE TRANSITION MECHANIC (FROST / LUPIN)
+
+STATUS: Core concept confirmed and locked. Mission applications in
+development. Full standalone document also exists in project knowledge:
+PW_Transition_Mechanic_Overview.txt
+
+OVERVIEW
+
+In Ducky's campaign missions, the player may temporarily shift perspective
+and control from Ducky to Frost (SSGT Aki Peltola, TRG M10 precision rifle)
+or Lupin (Ştefan Dragavei, Scar-H DMR). These are scripted, mid-mission
+perspective shifts with no loading screen. They are not player-triggered
+on demand. The tactical situation must credibly require that specific
+operator's capability.
+
+TRANSITION IN
+
+Triggered by a radio call from Ducky or a command element directed at
+the operator by name. Functional and mission-driven — never expository.
+World audio pulls slightly. Camera performs a directional zoom or lift
+toward the operator's elevated position. Operator's response heard during
+or just after the perspective settles. Player has control immediately.
+
+FROST SECTIONS
+
+Methodical, deliberate, long-range. Pre-shot routine applies: rangefinder,
+environmental reading, stability, then shot. Sparse flat communication.
+Clinical prompt vocabulary. Longer duration than Lupin sections. Limited
+high-value target count — not volume suppression.
+
+LUPIN SECTIONS
+
+Pressurized, faster-paced, closer range. Intercepting threats moving toward
+the squad. Direct, physically charged communication. Aggressive prompt
+vocabulary. Shorter duration than Frost sections — intense and decisive.
+
+TRANSITION OUT
+
+Operator sign-off when section objective is achieved. Brief and functional.
+Ducky's voice may be heard just before the perspective returns so the
+player begins reorienting before the shift completes.
+
+Frost example: "Clear. You're good to move."
+Lupin example: "Go. I've got the rear."
+
+CONFIRMED MISSION APPLICATION
+
+Maasvlakte Oil and Gas Terminal — Ducky's Campaign, Game 1, Final Mission.
+Frost transition mid-mission (long-range threat / Severomorsk fire support
+problem). Lupin transition late-mission (close surge following NMESIS launch).
+Ducky bookends the mission — opens it and closes it through to extraction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+04. INJURY SYSTEM
+
+STATUS: Pinned. Awaiting full development.
+
+OVERVIEW
+
+Regenerating health (Call of Duty style — step out of fire, health refills
+automatically) is not appropriate for the game's realistic difficulty mode.
+On maximum realism settings, health does not regenerate. On lower difficulty
+settings, some form of regeneration or assisted recovery may be available
+as an accessibility option.
+
+CORE TENSION TO RESOLVE
+
+Resource vs. consequence model. Does getting shot cost something permanent
+within a mission (reduced capacity, slower movement, limited healing uses),
+or does it temporarily impair until treated? These lead to fundamentally
+different gameplay feels. The answer likely sits on a spectrum tunable
+by difficulty setting.
+
+PER-CHARACTER DIFFERENTIATION
+
+Romeo — resistance cell operator in occupied Kentucky. Limited and
+improvised access to medical supplies. Scavenging dependent.
+
+Ducky — NATO SOF with squad logistics. Has Switchblade (Cassandra Stewart)
+as an embedded combat medic. Best supported of the three protagonists.
+Switchblade's role as medic should be mechanically meaningful, not
+just narrative flavor.
+
+Spook — CIA Ground Branch with agency logistics behind him. Better
+supplied than Romeo but operating in more isolated conditions than Ducky.
+
+DEVELOPMENT AGENDA
+
+— Injury states (what conditions are possible beyond simple damage)
+— Healing method and how it is performed
+— Healing frequency and resource limits
+— Per-character access to care and supplies
+— Realism spectrum — what changes across difficulty settings
+— Interaction with the hit zone system (see section 05)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+05. HIT ZONE / ARMOR COVERAGE SYSTEM
+
+STATUS: Pinned. Awaiting full development. Closely coupled with
+Injury System (04) and Enemy Tactical Sophistication Tiers (06).
+
+OVERVIEW
+
+An anatomical hit zone model layered over a realistic armor coverage map.
+Rather than a unified health bar, damage is location-specific and armor
+coverage is geometrically accurate to real plate carrier and body armor
+designs. This forces the player to think tactically about shot placement
+rather than defaulting to center-mass fire.
+
+PELVIC GIRDLE TARGETING
+
+Against a target wearing Level IV plates covering the thoracic cavity, the
+exposed pelvis becomes the primary target for a trained shooter. A pelvic
+girdle hit is vascularly catastrophic and immediately degrades mobility
+even if not immediately fatal. This is real doctrine and building it into
+the game teaches authentic tactical thinking while grounding encounters
+in physical reality.
+
+T-ZONE AND FLACCID PARALYSIS TARGETING
+
+Additional advanced techniques employed by trained special operations
+personnel against high-protection targets. These and similar techniques
+are reserved for high-tier enemies and for the player on maximum realism
+settings. To be fully developed during the hit zone system development pass.
+
+ARMOR COVERAGE GEOMETRY
+
+Coverage varies meaningfully by faction, character, and situation:
+
+— Romeo in a resistance cell: improvised or scavenged armor, significant
+  coverage gaps
+— Ducky's AEGIS operators: NATO-spec full plate carrier coverage
+— Spook: mission-dependent, variable
+— Russian Spetsnaz / Vympel: high-tier military spec
+— DPRK motorized troops: mid-tier military
+— Cartel sicarios: variable, often minimal
+— Vympel combat divers (Wirecutter mission): specialized, different profile
+
+DIFFICULTY SCALING
+
+On maximum realism: full anatomical targeting model active for both
+player and enemies. On lower settings: system may be simplified,
+assisted, or partially abstracted.
+
+DEVELOPMENT AGENDA
+
+— Full anatomical hit zone map
+— Armor tier and coverage geometry per faction and character
+— Interaction with injury system (what does a pelvic hit cause vs.
+  a limb hit vs. a plate strike)
+— Advanced technique implementation (pelvic, T-zone, etc.)
+— Difficulty scaling model
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+06. ENEMY TACTICAL SOPHISTICATION TIERS
+
+STATUS: Pinned. Awaiting full development. Directly coupled with
+Hit Zone / Armor Coverage System (05).
+
+OVERVIEW
+
+Enemy combatants operate according to a tactical sophistication tier system
+that maps to their real-world training level. Higher-tier enemies employ
+advanced shooting techniques — including exploiting armor coverage gaps —
+that lower-tier enemies do not know or use deliberately.
+
+TIER STRUCTURE (DRAFT)
+
+Tier 1 — Basic / Irregular
+Cartel enforcers, conscripts, irregular militia. Shoot at center mass.
+May suppress. Will not deliberately exploit armor gaps. Pelvic hits
+from this tier are incidental, not intentional.
+
+Tier 2 — Trained Military
+Regular Russian infantry, DPRK motorized troops. Basic fire discipline,
+movement and shooting, cover use. Not running advanced techniques
+but tactically coherent.
+
+Tier 3 — Special Operations / Elite
+Spetsnaz, Vympel combat divers, FSB operators, War Wolves. Know and
+use pelvic girdle targeting, T-zone shots, and other techniques that
+exploit the geometry of high-level armor. Fighting this tier requires
+the player to think defensively about their own armor coverage.
+
+ARMOR PROGRESSION INTERACTION
+
+As higher-tier enemies become more prevalent deeper into the game,
+the player gains access to better armor coverage options. Those better
+options then require Tier 3 enemies to adapt further — targeting newly
+exposed gaps or switching techniques. This creates a satisfying
+escalating dynamic across the game's progression arc.
+
+DEVELOPMENT AGENDA
+
+— Full tier definitions with specific enemy types assigned
+— Technique library per tier
+— AI behavior implementation for gap exploitation
+— Player armor progression tied to enemy tier escalation
+— Difficulty scaling — on lower settings, Tier 3 enemies may
+  not employ advanced techniques against the player
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+07. AMMO MANAGEMENT / MAGAZINE RETENTION
+
+STATUS: Pinned. Awaiting full development.
+
+OVERVIEW
+
+On realistic difficulty settings, magazine management is tracked and
+consequential. When the player reloads before a magazine is fully spent,
+the partial magazine is retained in their pouch rather than discarded.
+Reloading then draws the next available magazine, which may not be full.
+The player must track their magazine states across an engagement.
+
+MAGAZINE CONSOLIDATION
+
+The player can consolidate ammunition from partial magazines into fuller
+ones at the cost of time and vulnerability — they cannot shoot while doing
+this. This mirrors a real technique used by shooters during lulls in contact.
+
+Design question to resolve: Is consolidation a manual player-initiated
+field action, something performed only at safe zones or workbenches, or
+available anywhere at significant risk cost? All three have different
+gameplay implications.
+
+PER-CHARACTER AMMO ECONOMY
+
+Romeo — scrounging from fallen enemies and supply caches in occupied
+Kentucky. Enemy ammo compatibility is a significant resource consideration.
+Russian 7.62 ammo becomes commonly available as Russian occupation
+forces are encountered — the CMMG Mk47 (rare weapon drop, Down Rodeo
+mission) is specifically designed around this, using Russian-caliber ammo.
+
+Ducky — NATO standardized loadouts with squad logistics support.
+More reliable resupply but still subject to consumption tracking
+on realistic settings.
+
+Spook — Agency logistics behind him but operating in more isolated
+conditions. Mission-dependent resupply.
+
+ENEMY AMMO COMPATIBILITY
+
+Enemy weapon calibers as a scavenge resource is an established mechanic
+seeded in the narrative (CMMG Mk47 / Russian 7.62 note). This needs
+to be systematized — which enemy factions drop which calibers, and
+which player weapons can use them.
+
+DEVELOPMENT AGENDA
+
+— Magazine state tracking and UI communication to player
+— Tactical reload logic and partial mag retention
+— Consolidation mechanic — where, when, at what cost
+— Ammo scarcity tuning per campaign and difficulty
+— Enemy ammo compatibility and scavenge system
+— Interaction with per-character logistics differences
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+08. PRECISION RIFLE / RANGEFINDER MECHANIC
+
+STATUS: Pinned. Early development begun. Coupled with
+Perspective Transition Mechanic (03).
+
+OVERVIEW
+
+Frost's TRG M10 precision bolt-action rifle sections operate under a
+distinct pre-shot routine mechanic that makes long-range precision shooting
+feel fundamentally different from any other shooting in the game. The player
+cannot simply shoulder the rifle and fire. Preparation is required and
+each step in the routine is a discrete action.
+
+PRE-SHOT ROUTINE (DRAFT)
+
+Step 1 — Rangefinder acquisition
+Frost raises the rangefinder as a separate action from shouldering the rifle.
+Gets a reading on the target or target area. On maximum realism this feeds
+a manual scope adjustment the player must perform. On lower settings
+this may be assisted or automated.
+
+Step 2 — Environmental reading
+Wind direction and speed affect shot at operational ranges. On lower
+difficulty: communicated via subtle environmental cues (foliage movement,
+flags, dust) with some UI assistance. On maximum realism: purely
+observational, no UI data provided.
+
+Step 3 — Positional stability
+Frost must be properly settled before the shot is valid. Rather than a
+traditional stability meter or bar, the narrative prompt system handles
+this: prompt text shifts as stability increases.
+
+Proposed prompt sequence:
+"breathe" → "hold" → "now"
+
+This collapses the UI stability indicator into the character's interior
+state, maintaining immersion while communicating the same information.
+
+DEVELOPMENT AGENDA
+
+— Full pre-shot routine implementation and player feedback design
+— Difficulty scaling for each step
+— Scope adjustment mechanic (manual vs. assisted)
+— Wind and environmental reading system
+— Interaction with Perspective Transition sections
+— Spotter question: does Frost work alone or with an NPC
+  spotter in overwatch sections (working alone fits his character
+  but spotter interaction adds texture)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+09. BLACK MARKET MECHANIC
+
+STATUS: Pinned. Awaiting full development.
+
+OVERVIEW
+
+A black market / underground weapons and equipment acquisition system
+exists in the game allowing players to obtain weapons, attachments, and
+equipment outside of standard mission-issued loadouts. How this is accessed
+and what it contains varies by campaign and character.
+
+TWO POSSIBLE ACCESS MODELS
+
+Located contact model — the player finds and unlocks fixers, arms dealers,
+and black market nodes in the game world. Physical locations that must
+be reached or discovered. Suits Romeo's campaign naturally — scrounging
+and trading in occupied Kentucky through resistance network contacts.
+
+Remote access model — black market runs through Spook's secure device
+(terminal, laptop, or secure smartphone — to be determined). Suits Spook's
+world of back-channel Agency contacts and off-book procurement.
+
+Ducky likely sits between these two models — NATO logistics as the primary
+supply chain but with some capacity to source outside it through DAOG
+contacts or allied networks.
+
+These could be three different expressions of the same underlying system,
+each flavored to match the protagonist's world.
+
+DEVELOPMENT AGENDA
+
+— Access model decision per campaign
+— What is available through black market vs. standard supply
+— Contact discovery and unlock mechanic
+— Economy / currency system
+— Inventory and carrying capacity implications
+— Interaction with ammo management system
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. BODY CARRYING AND DISPOSAL
+
+STATUS: Partially developed. Core design direction confirmed.
+Coupled with Stealth System (12), Casualty Extraction /
+Retention Lanyard System (19), and Enemy Tactical
+Sophistication Tiers (06).
+
+OVERVIEW
+
+In stealth-oriented missions the player must move and conceal
+bodies to prevent discovery by remaining enemies. This mechanic
+is contextually available — not present in every mission. It appears
+where the story and operational context demand it and is absent
+where it doesn't fit. The player is never expected to hide bodies
+during open combat missions.
+
+CONTEXTUAL AVAILABILITY PER CAMPAIGN
+
+Spook — highest demand. Montoya Farm underground tunnel sequence
+is the primary confirmed application. Other covert infiltration
+missions in Spook's campaign will also require it. Body disposal
+is a core stealth tool for this campaign.
+
+Romeo — not required in Game 1 combat missions. Becomes relevant
+in Game 2 and Game 3 resistance cell operations in occupied
+territory, where concealing activity from occupying forces is
+a survival requirement.
+
+Ducky — required in specific missions. Not a campaign-wide
+constant but present in stealth-adjacent operations where
+exposure of a killed enemy would compromise the squad's position.
+
+MOVEMENT — INTEGRATION WITH LANYARD SYSTEM
+
+Body movement uses the same lanyard drag system established
+in section 19. The carabiner clips to the loop on a dead
+enemy's plate carrier or tactical vest and the player drags
+backwards with full upper body freedom.
+
+Enemies not wearing compatible equipment — lightly dressed
+combatants, civilians, non-tactical personnel — must be
+moved by hand drag or over-shoulder carry with compromised
+weapon access. This distinction is consistent with the
+casualty extraction system and applies to both friendly
+casualties and enemy bodies.
+
+DISPOSAL METHODS
+
+Receptacle disposal — primary method. Interactable objects
+placed by level designers in tactically relevant locations:
+dumpsters, lockers, large containers, vehicle trunks, any
+environment-appropriate container. Offers the highest
+concealment reliability — a body inside a receptacle will
+not be found by standard patrol behavior.
+
+Shadow / dark area concealment — secondary method. Faster
+than finding a receptacle but less reliable. A body concealed
+in darkness may be found if patrol patterns shift or a light
+source is activated. Risk differential versus receptacle
+disposal is a meaningful tactical choice.
+
+Environmental disposal — irreversible, highest reliability.
+Elevator shafts, pits, water, drops from height. The player
+trades positioning effort and approach challenge for the
+certainty that the body cannot be found. Available only
+where the environment provides the opportunity.
+
+PROXIMITY-BASED DISPOSAL PROMPT
+
+To avoid frustrating alignment requirements — particularly
+given that the lanyard drag moves the player backwards only
+— disposal uses a proximity radius system rather than
+requiring precise positioning at the receptacle.
+
+When the player is within the proximity radius of a valid
+disposal point AND the body is also within that radius,
+the disposal prompt becomes available. The player unclips
+the lanyard, makes any final small adjustment, and the
+interaction fires. This untethers level designers from
+having to perfectly align receptacle placement with the
+backwards drag approach angle while still requiring genuine
+effort to reach the disposal point.
+
+Proximity radius must be tuned to feel accessible without
+feeling trivial. Tight enough that the player earns the
+disposal. Loose enough that minor misalignment doesn't
+restart the entire approach. Final tuning is a development
+pass task.
+
+Level design constraint: avoid placing receptacles in
+cramped or difficult-to-access spaces. These create approach
+problems for the drag system and risk players getting stuck.
+Receptacles should be reachable with clear backwards
+approach angles.
+
+NARRATIVE PROMPT VOCABULARY
+
+Body disposal prompts follow the character-specific vocabulary
+established in section 02:
+
+Spook — "dispose" — clinical, operational, the body is
+evidence to be managed
+
+Romeo — "move him" — more human register, less sanitized
+
+Ducky — "stash" — direct, military, functional
+
+These are working proposals subject to refinement during
+the narrative prompt development pass.
+
+ENEMY DISCOVERY — RICHER MODEL CONFIRMED
+
+The game uses a richer body discovery model rather than
+simple line-of-sight detection. Enemy response to a missing
+team member escalates through a ladder tied directly to
+the tactical sophistication tier of the enemy faction
+(see section 06):
+
+Stage 1 — Nothing. The absence is not yet noticed.
+Window of opportunity for the player. Duration before
+Stage 2 varies by enemy tier — Tier 3 enemies notice
+faster than Tier 1.
+
+Stage 2 — Search behavior. One or two enemies break
+from patrol pattern to look for the missing man. Alert
+state elevated but not fully blown. If nothing is found,
+enemies eventually return to patrol with elevated
+suspicion — shorter patrol intervals, heightened awareness.
+
+Stage 3 — Escalated response. Triggered by: finding
+a concealed body, finding multiple bodies, or finding
+a poorly concealed body. Response severity scales
+with tactical sophistication tier:
+
+Tier 1 — loose additional search, slow response
+Tier 2 — structured search pattern, moderate response
+Tier 3 — immediate coordinated response, possible
+reinforcement call — scale of reinforcement depends
+on what was found and how many bodies
+
+Finding nothing eventually de-escalates. Finding a body
+does not. Finding multiple bodies or evidence of a
+pattern triggers maximum available response for that tier.
+
+This system rewards thorough concealment without
+catastrophically punishing imperfect play at lower tiers.
+At Tier 3 the margin for error is genuinely thin.
+That asymmetry is intentional.
+
+FULL INTEGRATION NOTE
+
+The discovery escalation ladder must be developed in
+conjunction with the tactical sophistication tier system
+(section 06) during the dedicated development pass for
+both systems. They are tightly coupled and should not
+be designed independently.
+
+DEVELOPMENT AGENDA
+
+— Proximity radius tuning for disposal prompt
+— Receptacle placement guidelines for level designers
+— Shadow concealment risk model and light source interaction
+— Environmental disposal opportunities per mission
+— Enemy discovery escalation ladder full design
+— Integration with tactical sophistication tiers (section 06)
+— Per-campaign availability and tuning
+— Narrative prompt vocabulary finalization
+— Montoya Farm full body disposal design pass
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+11. CLOSE AIR SUPPORT AND EXTRACTION CALLS
+
+STATUS: Pinned. Awaiting full development.
+
+OVERVIEW
+
+The player can call in external support assets — close air support strikes,
+extraction vehicles, fire missions — in certain mission contexts. Two broad
+implementation models are under consideration.
+
+SCRIPTED SUPPORT ZONE MODEL
+
+Designated areas on the map from which support can be called. Simpler
+to balance but feels more artificial and less immersive.
+
+DEVICE / INVENTORY MODEL
+
+Support is called through a device in the player's inventory — a radio,
+secure phone, or terminal appropriate to the character. More immersive
+and fits the world better. Availability of support becomes a narrative
+tool — support goes dark when HOPLON comms are disrupted (already
+flagged as a gameplay-relevant narrative event), reflecting the story's
+comms-disruption beats in a mechanically meaningful way.
+
+PER-CHARACTER SUPPORT ACCESS
+
+Ducky — richest support network. DAOG assets: PHAETON (JAS 39 Gripen
+CAS), KERAUNOS (Dassault Rafale), ARTEMIS (artillery), PEGASUS (extraction
+helicopter). Access through DAOG comms structure.
+
+Romeo — most limited and unreliable support. Resistance network contacts,
+improvised assets, occasionally US military elements where available.
+Support unavailability is itself a narrative statement about his situation.
+
+Spook — Agency channels. Different flavor of support — less military,
+more covert. Safe house contacts, extraction vehicles, occasional
+CIA-contracted assets.
+
+DEVELOPMENT AGENDA
+
+— Access model decision (zones vs. device vs. hybrid)
+— Support asset catalog per character and campaign
+— Availability conditions and cooldown or resource limits
+— Comms disruption interaction — when does support go offline
+  and how is that communicated to the player
+— Extraction call as distinct mechanic from fire support
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+12. STEALTH SYSTEM
+
+STATUS: Partially developed through narrative material. Needs
+dedicated mechanics development pass.
+
+OVERVIEW
+
+Stealth is a significant and recurring gameplay mode across all three
+campaigns, most prominently in Spook's. The existing narrative material
+implies a multi-layered detection system with distinct NPC allegiance tiers
+and context-sensitive alert states.
+
+CONFIRMED DESIGN ELEMENTS (from narrative material)
+
+Multi-tier NPC awareness — Montoya Farm gala sequence establishes
+at least three distinct NPC tiers with different detection behaviors:
+— Civilian guests: will not alert security if player is moving normally,
+  only react to obviously suspicious behavior
+— Facility and security staff: will alert if player acts suspicious or
+  enters off-limits areas
+— High-value targets (Stockbridge): will immediately alert and fail
+  the mission if they encounter the player
+
+Hard stealth gates — certain missions have fail conditions tied to
+stealth rather than combat escalation. Being discovered by specific
+characters (Stockbridge at Montoya Farm) fails the mission entirely.
+This is a design choice that must be applied carefully and communicated
+clearly to the player before the gate activates.
+
+Dedicated stealth tools:
+— Directional microphone (Montoya Farm — Tripper-issued, used to
+  follow Stockbridge and eavesdrop on conversations)
+— CCTV system access and sabotage (Montoya Farm security room)
+— Thermal drone deployment (Miami Beach hotel — Smoke deploys
+  to identify heat signatures through building structure)
+— Body carrying and concealment (see section 10)
+
+Stealth-to-action escalation sequences — Vienna apartment sequence
+establishes a three-phase escalation: stealth infiltration → discovery
+→ parkour chase → motorbike escape → vehicle pursuit with gunfight.
+The transition between phases should feel organic rather than abrupt.
+
+Social stealth — Montoya Farm gala provides a social stealth environment
+where the player can move among civilians without triggering alert,
+using the crowd as partial cover while navigating toward objectives.
+
+DEVELOPMENT AGENDA
+
+— Full detection system design (sight, sound, suspicion states)
+— NPC tier system formalized
+— Alert state escalation model
+— Tool inventory and use cases per campaign
+— Hard stealth gate design guidelines
+— Stealth-to-action transition design
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+13. ENEMY FACTION INTERACTION / DYNAMIC AI ENCOUNTERS
+
+STATUS: Partially developed through narrative material. Needs
+dedicated mechanics development pass.
+
+OVERVIEW
+
+Multiple enemy factions can occupy the same space and engage each other
+independently of the player. The player can interact with or exploit these
+engagements in multiple ways. Faction interactions are not scripted to
+fixed outcomes — they play out dynamically based on AI behavior.
+
+CONFIRMED DESIGN EXAMPLE — DOWN RODEO (Romeo, Game 1)
+
+Three factions in proximity: Romeo's element, Los Sietes cartel (11 men),
+DPRK motorized shock troops (25 men). The cartel-DPRK engagement is
+not scripted — it ends differently on each playthrough.
+
+Player options confirmed:
+1. Ignore and push through — exploit Los Sietes drawing DPRK fire
+2. Flank DPRK while Sietes draw fire — back alley route, ambush position
+3. Clear Sietes first, then DPRK — hardest option, fighting on two fronts
+4. Wait for one side to win, then engage the survivor
+
+Post-engagement cartel behavior: if Los Sietes win and are not attacked
+by player, they retreat neutrally. Vehicle availability affects their
+retreat method — by car if available, on foot through rear if not.
+One sicario rides hanging out the window if only the sedan survives
+with more men than seats. This level of behavioral detail should be
+the standard for dynamic faction AI throughout the game.
+
+Rare weapon reward: CMMG Mk47 dropped by cartel sicario — only
+obtainable if player engages the cartel. Reward for engagement choice.
+
+DEVELOPMENT AGENDA
+
+— Faction relationship matrix (who is hostile to whom by default)
+— Dynamic AI engagement rules
+— Player exploitation options per encounter type
+— Rare reward design for non-obvious engagement choices
+— Neutral faction behavior post-engagement
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+14. VEHICLE AND LARGE-SCALE COMBAT
+
+STATUS: Partially developed through narrative material. Needs
+dedicated mechanics development pass.
+
+CONFIRMED VEHICLE SEQUENCES (from narrative material)
+
+Mounted M2 on convoy — Romeo, Game 1 LA segment. On-rails or
+semi-guided gunner sequence covering convoy movement.
+
+Motorbike escape + vehicle pursuit — Spook, Vienna. Player on back
+seat of Tripper's bike, using Stribog PDW to engage pursuing van.
+Chase ends when player kills van driver causing collision and explosion.
+
+Floatplane covert approach — Spook, Come Fly With Me. Engine-off
+coastal landing at night. Stealth infiltration from water.
+
+NMESIS truck-mounted anti-ship missile — Ducky, Rotterdam finale.
+Fixed-position emplacement sequence. Single dramatic launch as
+mission centrepiece. Immediately followed by RPG hit survival sequence.
+See Maasvlakte Mission Outline for full context.
+
+Helicopter anti-air engagement — Spook, Desautels Hotel. Player must
+destroy hostile helicopter while simultaneously managing ground assault
+from two directions (fire escapes + elevator lobby). Helicopter crash
+creates physical bypass through locked fire escape door — environmental
+consequence of the engagement.
+
+DESIGN NOTE — NMESIS SEQUENCE
+
+The RPG hit immediately following the missile launch is a deliberate
+pacing device: player feels the power fantasy of the launch, then
+immediately loses control as the command post is struck. The scramble
+to the escape hatch should involve partial player control rather than
+a full cutscene to preserve agency at a moment when the player has
+just been handed a significant dramatic beat.
+
+DEVELOPMENT AGENDA
+
+— Vehicle control model per vehicle type
+— Gunner sequences vs. driver sequences vs. passenger sequences
+— Large-scale battle design (Signal Hill, Coronado, Rotterdam)
+— Environmental destruction and consequence system
+— Helicopter engagement mechanics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+15. ALLIED NPC SQUAD MECHANICS
+
+STATUS: Partially developed through Nereid Black dossier and
+narrative material. Needs dedicated mechanics development pass.
+
+NEREID BLACK — CONFIRMED ROLE DESIGN
+
+The Nereid Black dossier establishes a design standard for how NPC
+squad members should behave in the Wirecutter mission. Each operator
+has a clearly defined role mapping to a specific gameplay function:
+
+Grim — command NPC, sets pace and priority, improves when plans deviate
+Rime — breach specialist, solves access denial, improvises routes
+Lantern — recon and detection, identifies threats before contact
+Undertow — medic and sustain, preserves squad effectiveness after casualties
+
+Design constraint from dossier: do not split Nereid Black mid-mission.
+Their value is cumulative and interdependent. The game should not
+separate them in ways that degrade their function.
+
+AEGIS SQUAD — ROLE NOTES
+
+Switchblade (Cassandra Stewart) — combat medic. Her medic role must
+be mechanically meaningful in the injury system, not just narrative flavor.
+Her presence as an embedded medic is Ducky's primary advantage over
+the other protagonists in terms of in-field healing access.
+
+Frost — overwatch and precision fire. Has dedicated mechanic section.
+See Perspective Transition Mechanic (03) and Precision Rifle (08).
+
+Lupin — designated marksman, close protection. Has dedicated mechanic
+section. See Perspective Transition Mechanic (03).
+
+DEVELOPMENT AGENDA
+
+— NPC squad AI behavior model
+— Role-specific NPC actions and capabilities
+— Squad cohesion and split-element rules
+— Friendly casualty system and consequences
+— Switchblade's mechanic role in injury system
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+16. INTELLIGENCE GATHERING AS GAMEPLAY
+
+STATUS: Partially developed through narrative material. Needs
+dedicated mechanics development pass.
+
+OVERVIEW
+
+Story progression frequently advances through what the player discovers
+rather than who they shoot. Intelligence gathering — hacking, document
+recovery, eavesdropping, hardware implant placement — is a core gameplay
+activity particularly in Spook's campaign.
+
+CONFIRMED INTEL MECHANICS (from narrative material)
+
+Hard drive extraction — Tripper extracts hard drives from destroyed
+equipment and mines them for intelligence. Player may initiate this
+at appropriate terminals or destroyed equipment.
+
+Hardware implant placement — Tripper places a hardware implant into
+Montoya Farm's networking system for persistent access. Physical
+interaction with server hardware required.
+
+Eavesdropping via directional microphone — Spook uses Tripper-issued
+directional mic to covertly follow Stockbridge, recording conversations
+that advance investigation. Movement-based stealth challenge.
+
+Document and laptop search — Navarre's laptop, warehouse hard drives,
+safehouse tablets. Physical search of environment reveals intel that
+advances the story. Some intel is optional collectible; some is required.
+
+Thermal drone deployment — Smoke deploys drone to identify heat
+signatures through structure. Remote reconnaissance tool.
+
+DEVELOPMENT AGENDA
+
+— Intel interaction UI and player feedback
+— Required vs. optional intel design
+— Hacking / data extraction minigame or mechanic
+— Eavesdropping mechanic implementation
+— How collected intel is stored and reviewed by player
+— Interaction with optional moral choices system (section 17)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+17. OPTIONAL MORAL CHOICES WITH NARRATIVE PAYOFF
+
+STATUS: Partially developed through narrative material.
+Needs dedicated mechanics development pass.
+
+OVERVIEW
+
+The game contains optional moral decisions that carry no mechanical
+penalty or reward but produce narrative consequences — story payoffs
+that reward player engagement without punishing non-engagement.
+
+CONFIRMED EXAMPLE — NAVARRE / BUDANOVA DECISION
+
+At the end of the Navarre house infiltration mission (Spook, Game 1),
+the player can choose to call in a favor with Langley contacts to
+provide Navarre and Budanova with new identities and a fresh start.
+If the player does this, Navarre calls later in the game to thank Spook
+and say goodbye. If the player does not, this call never happens.
+
+Design principle: low mechanical cost, meaningful narrative reward.
+The choice is not forced, not flagged as a major decision, and carries
+no stat change or gameplay advantage. It rewards players who engage
+with the world beyond the objective markers.
+
+DOWN RODEO FACTION CHOICE
+
+The decision of how to handle the Los Sietes / DPRK engagement
+(ignore, flank, clear cartel first, wait) produces different tactical
+outcomes and a rare weapon reward for certain choices. This is a
+lighter version of the same principle applied to a combat encounter.
+
+DEVELOPMENT AGENDA
+
+— Full catalog of optional moral choices across all three campaigns
+— Narrative payoff design for each choice
+— How choices are surfaced to the player without over-flagging them
+— Whether any choices carry cross-mission or cross-campaign consequences
+— Relationship to the intel gathering system
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+18. WEAPON HANDLING AND ATTACHMENTS
+
+STATUS: Partially developed through MAWL-DA reference material
+and narrative notes. Needs dedicated mechanics development pass.
+
+CONFIRMED DESIGN ELEMENTS
+
+Attachment inspection mechanic — confirmed design note from narrative
+material: "Use the Inspect weapon key/button to view the controls for
+all attachments currently on your weapon." Attachments have functional
+controls accessible through inspection, not just aesthetic variation.
+
+MAWL-DA laser system — real-world reference material for the in-game
+laser/illuminator device. Implies a night vision gameplay system with
+IR and visible green laser modes, close/mid/long range illuminator
+settings, and A/B divergence sub-modes. Suggests weapon customization
+is granular enough to model these functional differences.
+
+Night vision mechanic — implied by MAWL-DA reference. NVG use
+is at minimum a feature of Spook's campaign. Frost's arctic operations
+also suggest NVG/thermal capability. Needs dedicated development.
+
+One-mission weapon design — the Stribog SP10A3 PDW appears only
+in the Vienna chase sequence (Spook, Game 1) and cannot be kept
+after the mission. This is a deliberate design choice creating a
+memorable weapon moment tied specifically to that mission. This
+pattern — rare or one-time weapons as mission memory devices —
+should be systematized.
+
+MACV-SOG sabotage tactic (noted in narrative material) — replacing
+bullets in enemy magazines with PETN-filled hollow rounds, or
+sabotaging mortar rounds. Suggests a potential environmental sabotage
+mechanic or usable item for certain missions.
+
+DEVELOPMENT AGENDA
+
+— Full attachment system design
+— NVG and IR illuminator mechanic
+— One-mission / rare weapon design framework
+— Weapon customization scope and depth
+— Ammo type variety and interaction with hit zone system
+— Environmental weapon sabotage mechanic
+— Per-character weapon access and preferred loadouts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+19. CASUALTY EXTRACTION / RETENTION LANYARD SYSTEM
+
+STATUS: Confirmed design direction. Partially developed.
+Coupled with Injury System (04), Body Carrying and Disposal (10),
+and CASEVAC System (20).
+
+OVERVIEW
+
+All three protagonists carry a retention lanyard as standard equipment —
+a tool with one snap shackle end and one carabiner end, modeled on
+real-world equivalents such as the Warrior Assault Systems retention
+lanyard. Its primary non-combat use is safety aboard helicopters and
+watercraft, which is why all three characters carry it without it requiring
+narrative justification as a combat tool.
+
+In a casualty scenario, the carabiner clips to the loop on the back of
+a downed teammate's plate carrier or tactical vest, allowing the player
+to drag them hands-free while walking backwards. This is the default
+and preferred extraction method — it is technically more advantageous
+and less dangerous than hand dragging in almost all situations.
+
+MOVEMENT CONSTRAINTS WHILE DRAGGING
+
+— Direction: backwards only
+— Lateral movement: very limited
+— Turning radius: very limited
+— Speed: significantly reduced, no sprinting
+— Upper body: fully free — player can shoot, reload, switch weapons
+— Crouching while dragging: physically very difficult; reserved for
+  specific QTE moments in awkward terrain or tight spaces
+
+The player is not defenceless while dragging. The tradeoff is mobility
+for hands-free teammate extraction. This is a meaningful tactical
+decision rather than a binary choice between fighting and saving.
+
+LANYARD LIMITATION — NO COMPATIBLE LOOP
+
+The lanyard system requires a plate carrier or tactical vest with a
+drag loop. When the casualty is not wearing compatible equipment
+— a civilian, a lightly equipped contact, or a non-tactical character
+— the lanyard cannot be used. In these cases the player must use
+an over-shoulder carry or hand drag, with compromised weapon access.
+
+CONFIRMED SPECIAL APPLICATION — MONTOYA FARM
+
+The Montoya Farm underground infiltration (Spook, Game 1) contains
+a confirmed carry moment where the casualty is not wearing compatible
+tactical equipment. The player cannot use the lanyard and must find
+an alternative carry method. This variation is narratively significant
+and mechanically distinct from standard lanyard extraction. The full
+design of this moment is reserved for the Montoya Farm mission
+development pass.
+
+This principle applies broadly: enemy bodies in full Spetsnaz kit
+can be lanyarded to a concealment point; lightly dressed enemies
+or civilians must be dragged by hand. The distinction feeds directly
+into the body disposal mechanic.
+
+IFAK INTEGRATION
+
+Before or during extraction the player may apply a tourniquet or
+basic wound dressing from their IFAK. This is a scripted prompt
+interaction — player hits the prompt button and receives a brief
+scripted animation. It controls bleeding and preserves casualty
+state during the drag. All characters carry an IFAK and are
+trained to use it at this basic level.
+
+DEVELOPMENT AGENDA
+
+— Full animation set for lanyard drag (backwards movement,
+  weapon handling, terrain variation)
+— Hand drag / over-shoulder carry animation set
+— Crouching QTE design for specific terrain moments
+— Casualty state tracking during drag
+— IFAK prompt interaction timing and design
+— Enemy body compatibility with lanyard system
+— Montoya Farm carry moment full design
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+20. CASEVAC SYSTEM
+
+STATUS: Confirmed design direction. Partially developed.
+Coupled with Casualty Extraction / Retention Lanyard System (19),
+Injury System (04), and Allied NPC Squad Mechanics (15).
+
+OVERVIEW
+
+CASEVAC (Casualty Evacuation) is the process of getting a downed
+teammate out of the mission area when their wounds exceed what
+in-field treatment can manage. It is a mission parameter — not
+universally available. Availability is designed per mission and
+reflects the operational context, the protagonist's resources,
+and the story's progression at that point in the trilogy.
+
+No complex squad management. No routing interfaces. No resource
+tracking beyond what the injury system already handles. The player
+gets the casualty to a designated safe point and the extraction
+is handled from there. Next mission the teammate is back. The
+system is designed to feel organic and grounded, not managerial.
+
+MEDIC HIERARCHY — PER TEAM
+
+Every operator carries an IFAK. Basic haemorrhage control —
+tourniquet, wound packing — is available to any character at
+any time via scripted prompt interaction.
+
+Beyond basic IFAK treatment, each team has a designated medic
+with higher treatment capability:
+
+Ducky / AEGIS — Switchblade (LCPL Cassandra Stewart). Confirmed.
+Her medic role is mechanically load-bearing. She can stabilize
+casualties beyond basic IFAK level. Her presence on a mission
+is the primary factor in whether advanced in-field treatment
+is available to Ducky's element.
+
+Spook / Victor Two Bravo — Smoke (confirmed). His medic capability
+is woven into his character profile, to be developed in the
+character development pass. Functions as the analog of Switchblade
+for Spook's team.
+
+Romeo / Resistance Cell — medic TBD. One resistance cell member
+fills this role mechanically — equivalent function to Switchblade
+or Smoke. Character to be confirmed in the narrative thread.
+
+CASEVAC AVAILABILITY — PER CAMPAIGN AND MISSION
+
+CASEVAC availability is a mission design parameter. It must be
+determined per mission during the mission outline development pass.
+The following are the confirmed availability frameworks per campaign:
+
+DUCKY
+
+Primary CASEVAC asset: PEGASUS (Boeing CH-53 Sea Stallion).
+Ducky can call PEGASUS for CASEVAC in missions where the
+operational context permits it. Where PEGASUS is unavailable,
+allied personnel can receive and extract the casualty if present.
+Availability is generally higher for Ducky than the other
+protagonists due to DAOG infrastructure.
+
+SPOOK
+
+Most variable availability of the three campaigns. Governed
+by CIA infrastructure access and operational cover status.
+
+Covert / stealth missions (e.g. Montoya Farm): NO CASEVAC.
+Cover status of the operation prohibits any extraction call.
+The Tourists do not officially exist on these missions. The
+player manages with IFAK treatment and Smoke's medic capability
+only. Getting a casualty out in this context is a significant
+design challenge reserved for the mission development pass.
+
+Standard missions with CIA infrastructure access: CASEVAC
+available through Agency channels — safe house contacts,
+CIA-contracted extraction assets.
+
+Missions involving La Avispa: her Los Sietes contacts may
+provide a CASEVAC option in specific missions where she is
+present or accessible. This is a mechanical expression of
+the growing trust dynamic between Spook and La Avispa.
+
+Further options open as Game 2 and Game 3 story develops
+and Spook's network of contacts expands.
+
+ROMEO
+
+Most constrained availability. Reflects his arc from isolated
+resistance fighter to organized force leader. CASEVAC availability
+is itself a narrative progression mechanic — the player feels
+the AFC growing in capability through what resources they
+suddenly have access to, without cutscenes announcing it.
+
+Early campaign / resistance cell in occupied Kentucky:
+NO CASEVAC or minimal improvised options through the
+resistance network. Getting a teammate out is a real
+problem with no clean solution.
+
+Mid-campaign as AFC grows: resistance network contacts
+begin to provide basic extraction options. Still unreliable,
+still improvised.
+
+Late Game 1 / early Game 2: as military elements join
+the AFC and Romeo's operational scope expands, more
+reliable CASEVAC options become available.
+
+Boston arc (Game 3): British military CASEVAC becomes
+available — Royal Marines, SAS, SBS infrastructure around
+Lt. Vickers's operation. This is a LATE GAME availability,
+not available from the start of the Boston arc. It arrives
+when the story says it does — when the coalition has
+actually formed around Romeo's operation. The player
+feels the British forces' arrival through suddenly having
+CASEVAC options they didn't have before. This progression
+must be protected during the Game 3 mission design pass.
+
+DLC (Sea Spear / other): CASEVAC availability depends on
+the setting of the specific DLC. To be determined during
+DLC development.
+
+SAFE ZONE DESIGN
+
+The physical safe zone to which the player delivers a casualty
+varies by mission context:
+
+— Allied position or held building within the mission area
+— PEGASUS landing zone (Ducky, where available)
+— CIA safe house or vehicle (Spook)
+— Resistance cell safe house or trusted civilian location (Romeo)
+— British military position (Romeo, Boston, late Game 3 only)
+
+The safe zone does not need to be a marked UI element in all
+cases. In some missions it may emerge organically from the
+mission design — a room the squad has already cleared, an
+allied position the player knows about from mission briefing.
+
+DEVELOPMENT AGENDA
+
+— Per-mission CASEVAC availability matrix across all campaigns
+— Safe zone design guidelines and variation
+— Smoke's medic profile development (character thread)
+— Romeo's resistance cell medic — character confirmation
+  (narrative thread)
+— Montoya Farm no-CASEVAC scenario full design
+— La Avispa CASEVAC option — mission contexts and triggers
+— Boston arc late-game CASEVAC progression design
+— Interaction with injury system casualty states
+— Friendly casualty — out for mission, back next mission —
+  animation and narrative handling
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+21. LEVEL DESIGN PRINCIPLES
+
+STATUS: High-level standing principles. Apply across all campaigns,
+missions, and mechanics. Not specific to any single system.
+Referenced by: Body Carrying and Disposal (10), Stealth System (12),
+and any other mechanic where physical space intersects with gameplay.
+
+OVERVIEW
+
+These principles govern how physical spaces in Project Warriors are
+designed and scaled. They are not mechanic-specific — they apply
+wherever the geometry, atmosphere, and navigability of a space
+affect the player's experience. They should be treated as standing
+constraints during mission design, level layout, and art direction
+passes across all three campaigns and the DLC.
+
+PRINCIPLE 1 — CLAUSTROPHOBIA AS A DESIGN TOOL,
+NOT A DESIGN FAILURE
+
+Tight, oppressive, uncomfortable spaces are valuable for narrative
+and atmospheric purposes. Cramped-feeling environments reinforce
+tension, danger, and psychological pressure on the player in ways
+that open spaces cannot. This is intentional and desirable in the
+right contexts — underground complexes, occupied small-town
+interiors, covert infiltration environments, ship holds.
+
+The distinction is between:
+
+Intentional claustrophobia — spaces that feel tight through
+visual language, lighting, prop density, ceiling height, and
+environmental detail, while remaining fully navigable. The player
+feels the constraint atmospherically without being mechanically
+impeded by it.
+
+Accidental frustration — spaces where the visual promise and
+the navigable reality contradict each other. The player sees
+what appears to be a passable route and finds they cannot pass.
+Or navigation causes repeated collision with environment geometry.
+This is a design failure, not a design tool.
+
+The goal is always the first. The second must be avoided.
+
+PRINCIPLE 2 — VISUAL SCALE VS. COLLISION SCALE
+
+The visual and atmospheric impression of a space can and should
+be significantly tighter than its actual collision geometry.
+A corridor can look barely wide enough to move through while
+being built at a scale that causes no navigation problems.
+A ceiling can appear oppressively low while clearing character
+height comfortably.
+
+Reference: Resident Evil 7 and 8 achieved this consistently —
+spaces feel genuinely small and wrong in scale while remaining
+fully playable. Silent Hill titles used similar approaches.
+This is the target register for Project Warriors environments
+that require a cramped or confined feeling.
+
+Practical implication for level designers: design the visual
+layer to feel smaller than the collision layer. Use props,
+lighting, texture scale, and ceiling detail to compress the
+apparent size of a space. Do not compress the actual navigable
+geometry to match the visual impression.
+
+PRINCIPLE 3 — NAVIGATION CLARITY
+
+Players must always be able to read where they can and cannot
+go. Visual language should communicate passability reliably:
+
+— Spaces that look passable must be passable
+— Spaces that look impassable must be impassable
+— The boundary between the two must be legible at a glance
+
+Where a space must feel ambiguous for atmospheric reasons —
+the player unsure whether a route exists — that ambiguity
+should be intentional and resolved quickly. Prolonged
+navigational confusion is frustrating, not tense.
+
+PRINCIPLE 4 — BODY DISPOSAL GEOMETRY
+
+Specific to missions requiring the body carrying and disposal
+mechanic (section 10): receptacle placement must account for
+the approach geometry of the lanyard drag system. The player
+moves backwards while dragging. Receptacles must be reachable
+with a clear backwards approach angle.
+
+Avoid placing disposal receptacles:
+— In dead-end alcoves requiring a turn to enter while dragging
+— In spaces too narrow to maneuver with a body in tow
+— Behind obstacles that require the player to navigate around
+  them while moving backwards
+
+The proximity radius system (see section 10) provides some
+forgiveness on final positioning, but approach geometry must
+still be considered during level layout.
+
+PRINCIPLE 5 — HUMAN SCALE ENVIRONMENTS
+
+Where appropriate and design-feasible, environments should
+be scaled closer to true human scale rather than the slightly
+inflated scale common in action games (which exists to prevent
+navigation issues and improve combat spacing). Human-scale
+environments feel more real, more grounded, and more
+claustrophobic where that is the intent.
+
+This is not a universal requirement — combat-heavy open
+environments benefit from standard game scale. But interior
+spaces in stealth missions, resistance cell safe houses,
+underground complexes, and similar environments are strong
+candidates for tighter, more human-proportioned geometry
+where the team determines it is achievable without creating
+navigation problems.
+
+This principle requires evaluation on a per-environment basis
+during the level design pass. It is an aspiration with
+practical constraints, not a blanket rule.
+
+DEVELOPMENT AGENDA
+
+— Human scale feasibility assessment per environment type
+— Visual vs. collision scale guidelines for level art team
+— Navigation clarity review process during level design pass
+— Body disposal approach geometry review checklist
+— Reference library of target environments (RE7/8, Silent Hill,
+  and other relevant examples) for art and design team
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+END OF DOCUMENT
+Project Warriors — Gameplay Mechanics Thread
+All items marked PINNED are confirmed for future development.
+All items marked PARTIALLY DEVELOPED have foundational material
+established and require a dedicated development pass to complete.
+
+====================================================================================================
+[PW_Transition_Mechanic_Overview.txt]
+Origin: current uploaded source
+Chars: 7535
+SHA-256 prefix: 0519234aa1bdd6a0
+====================================================================================================
+
+PROJECT WARRIORS — DESIGN REFERENCE
+PERSPECTIVE TRANSITION MECHANIC: FROST / LUPIN OVERWATCH SECTIONS
+Version 1.0 — Gameplay Mechanics Thread
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OVERVIEW
+
+In Ducky's campaign missions, the player may temporarily shift perspective
+and control from Ducky (SFC Ferris Ryan) to one of two squad members:
+Frost (SSGT Aki Peltola) or Lupin (Ştefan Dragavei). These are not chapter
+breaks or separate missions. They occur mid-mission, without a loading screen,
+as tactically motivated perspective shifts driven by the needs of the situation.
+Control returns to Ducky after each section concludes.
+
+These sections are scripted and placed deliberately at specific tactical and
+narrative inflection points. They are not player-triggered on demand. The
+situation must credibly require that specific operator's capability for the
+transition to occur.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRANSITION IN — FROM DUCKY TO FROST OR LUPIN
+
+The transition is triggered by a radio call from Ducky or a command element
+(Walker, Halliday) directed at the relevant operator by name. The call is
+functional and mission-driven — it reflects a genuine tactical problem that
+requires that operator's specific capability. It is never expository or theatrical.
+
+Example register for a Frost call:
+"Frost, you with us? I need those observers gone before we can push.
+What are you seeing?"
+
+Example register for a Lupin call (more urgent in tone, reflecting closer
+and faster-developing pressure):
+"Lupin, I need that approach locked down right now. Can you work?"
+
+As the transmission ends, the world audio pulls back slightly. The camera
+performs a directional zoom or lift toward the operator's position on elevated
+ground — a brief spatial reorientation that shows the player where they are
+moving to relative to where they just were. The transition is fast but not
+instantaneous. The operator's response is heard either during this movement
+or as the perspective settles into their point of view. They are already
+oriented, already scanning. Control transfers to the player immediately.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FROST SECTIONS — CHARACTER AND MECHANICAL REGISTER
+
+Frost operates the TRG M10 precision bolt-action rifle at long range. His
+sections are methodical, deliberate, and unhurried in pace. The pre-shot
+routine applies: rangefinder acquisition, environmental reading (wind, distance),
+positional stability, then the shot. Each shot is constructed, not reactive.
+
+Frost's communication style during these sections is sparse and flat. Short
+directional information. Numbers. Minimal affect. His dynamic prompt
+vocabulary reflects clinical neutrality — words like "acquire," "hold," "clear,"
+"dispatch." The emotional temperature is low and controlled.
+
+Frost sections tend to be longer in duration than Lupin sections, reflecting
+the deliberate nature of precision long-range work. Target count is limited
+to high-value priority elements — forward observers, command figures, heavy
+weapons emplacements — rather than volume suppression.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LUPIN SECTIONS — CHARACTER AND MECHANICAL REGISTER
+
+Lupin operates a Scar-H DMR build as a designated marksman. His sections
+are more pressurized and faster in pace than Frost's. He engages at closer
+ranges, in faster succession, intercepting threats actively moving toward
+the squad rather than neutralizing static or distant targets. His work is
+about creating and holding space for the squad to move or recover.
+
+Lupin's communication style is direct and physically charged. His dynamic
+prompt vocabulary reflects controlled aggression — words like "break it,"
+"push them back," "hold the line." The emotional temperature is higher than
+Frost's — there is personal investment in keeping the squad intact.
+
+Lupin sections are shorter in duration than Frost sections — intense and
+decisive rather than methodical. The player is in, the immediate crisis is
+resolved, and control returns to Ducky relatively quickly.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRANSITION OUT — RETURN TO DUCKY
+
+The return transition is initiated by a sign-off from the operator currently
+in play, delivered when the tactical objective of their section is achieved.
+The sign-off is brief and functional — it signals completion and releases
+control back to Ducky.
+
+Example Frost sign-off:
+"Clear. You're good to move."
+
+Example Lupin sign-off:
+"Go. I've got the rear."
+
+Ducky's voice may be heard over comms during or just before the return
+transition — acknowledging the sign-off or issuing the next movement order —
+so the player begins reorienting to Ducky's situation before the perspective
+has fully shifted back. The camera drops back to ground level and control
+returns to Ducky.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TIMING AND RHYTHM
+
+Transition durations are not uniform. Frost sections breathe longer; Lupin
+sections are compressed and urgent. The asymmetry in duration reinforces
+the character difference between them without requiring explicit explanation.
+
+In missions where both transitions occur (confirmed: Maasvlakte Terminal,
+Ducky's Game 1 final mission), the sequencing follows the mission's pressure
+curve. Frost addresses the long-range problem in the mid-mission phase.
+Lupin addresses the close-pressing surge in the late-mission phase following
+the NMESIS launch sequence. Ducky bookends both — opening the mission
+and closing it through to extraction.
+
+Dynamic timing within individual sections — how long the player stays with
+Frost or Lupin before returning to Ducky — must be calibrated during the
+mission outline pass for each mission where transitions occur. The transitions
+should feel driven by tactical necessity, not by a designer-imposed timer.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DESIGN PRINCIPLES
+
+— Transitions are always diegetic. The radio call exists within the fiction.
+  The player never feels the hand of the designer.
+
+— Transitions are always scripted and mission-specific. They are not
+  available on player demand. The situation must require that operator.
+
+— The spatial reorientation during transition is intentional. The player
+  should register where Frost or Lupin is positioned relative to Ducky's
+  ground-level situation before control transfers.
+
+— The player should see Ducky's position from above during Frost or Lupin's
+  section where possible. The squad they were just part of should be visible
+  below, under threat. This grounds the overwatch role emotionally.
+
+— Prompt vocabulary is character-specific and must remain consistent with
+  each operator's established register throughout the game.
+
+— Ducky always closes the mission. He bookends every transition sequence.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONFIRMED MISSION APPLICATIONS
+
+Maasvlakte Oil and Gas Terminal, Rotterdam — Ducky's Campaign, Game 1,
+Final Mission. Both Frost and Lupin transitions confirmed. Frost mid-mission,
+Lupin late-mission post-NMESIS. Full mission structural outline exists in
+the Gameplay Mechanics thread.
+
+Additional missions in Ducky's campaign to be determined during narrative
+and mission outline development passes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+END OF DOCUMENT
+Project Warriors — Gameplay Mechanics Thread
+
+====================================================================================================
+[Project_Warriors_Comms_Style_Standard.txt]
+Origin: current uploaded source
+Chars: 3034
+SHA-256 prefix: 35bf1485c0f8d80a
+====================================================================================================
+
+Project Warriors — Comms Style Standard
+
+Purpose
+This note standardizes military radio dialogue across Project Warriors to improve realism and avoid common Hollywood-style mistakes. It is intended as a writing rule for treatments, mission scripting, dialogue drafts, and related canon material.
+
+Core Rule: “Say Again” / “I Say Again” / “Repeat”
+For standard military radio traffic, do not use “repeat” to mean “say that again” or “I am restating this.”
+Use “say again” when requesting retransmission.
+Use “I say again” when deliberately restating critical information.
+Reserve “repeat” for genuine artillery, mortar, naval gunfire, or other fire-support dialogue only.
+
+Examples
+- “Say again last.”
+- “Say again grid.”
+- “Break contact south. I say again, break contact south.”
+- Keep “repeat” only in real fire-support contexts.
+
+No “Over and Out”
+Do not use “over and out.”
+Use “over” when a response is required.
+Use “out” when ending the exchange with no response expected.
+Never use them together.
+
+No “Roger, Wilco”
+Do not write “roger wilco.”
+Use “roger” when the speaker acknowledges receipt and understanding.
+Use “wilco” when the speaker acknowledges receipt, understanding, and intent to comply.
+
+Use “Correction” for Self-Fixes
+When a speaker misspeaks a grid, route, time, or instruction, use “correction” rather than a casual self-repair.
+
+Example
+- “Correction, convoy is moving east, not west.”
+
+Use Precision Prowords When Exact Data Matters
+For exact information such as coordinates, callsigns, route segments, and instructions, prefer formal phrasing where appropriate:
+- “Say again all after …”
+- “Say again all before …”
+- “Read back.”
+- “I read back …”
+
+Distinguish “Wait Over” and “Wait Out”
+Use “wait over” for a short delay within the same exchange.
+Use “wait out” for a longer delay when the speaker will return later.
+
+Brevity Is Not Security
+Keep radio traffic concise, but do not write as though brevity codes themselves make a transmission secure.
+Professional units should assume radio traffic may be intercepted.
+
+Use “This Is” for Formal Identification
+In openings, handoffs, and controlled professional traffic, identify stations cleanly.
+
+Example
+- “Viking Two-One, this is Reaper Six …”
+
+Use Phonetic Alphabet and Spoken Numerals When Clarity Matters
+When spelling callsigns, abbreviations, grids, or identifiers, use phonetic alphabet and standard spoken numerals where misunderstanding would matter.
+
+Examples
+- “Alpha”
+- “Bravo”
+- “Tree”
+- “Fife”
+- “Niner”
+
+Character Exception
+A nonprofessional, irregular, exhausted, panicked, or poorly trained character may misuse procedure intentionally for characterization.
+That should be an intentional voice choice, not the project default for professional military traffic.
+
+Recommended House Standard
+Professional units should sound procedural when the information matters most.
+They may loosen slightly in moments of stress, urgency, or personality, but should still avoid obvious doctrinal errors unless that error is intentional characterization.
+
+====================================================================================================
+[PW_Weapons_Dev_Thread_Full_Summary.txt]
+Origin: current uploaded source
+Chars: 39610
+SHA-256 prefix: 873b83bc200d545f
+====================================================================================================
+
+================================================================================
+PROJECT WARRIORS — WEAPONS DEVELOPMENT THREAD
+Full Summary — All Decisions, Discussions, and Outcomes
+================================================================================
+Thread purpose: Dedicated weapons development for the Project Warriors FPS
+trilogy. Covers weapon roster by faction, named character builds, per-mission
+weapon tables, named enemy loadouts, character kit profiles, attachment/
+customization system, inspect weapon mechanic, and new character development
+(SSgt André Bridges).
+Filed for: Project Knowledge upload — all threads
+Related filed documents:
+  - named_weapon_builds_v2_1.txt (full named build specs)
+  - character_narrative_profiles.txt (character weapon philosophy + behavior)
+  - character_profile_andre_bridges.txt (full André Bridges profile)
+================================================================================
+
+--------------------------------------------------------------------------------
+PART 1 — DESIGN PARAMETERS (established at thread open)
+--------------------------------------------------------------------------------
+
+WEAPON SYSTEM APPROACH: Mostly realistic — real-world guns accurate to 2028
+military/paramilitary use, with a small number of near-future prototype weapons.
+
+RARITY SYSTEM: Both — some weapons hidden as collectibles requiring exploration
+or side objectives; some dropped by defeating specific named/elite enemies.
+
+FACTION COVERAGE: All factions developed simultaneously.
+
+--------------------------------------------------------------------------------
+PART 2 — WEAPON ROSTER BY FACTION
+--------------------------------------------------------------------------------
+
+NOTE: Full faction tables with tiers (Standard / Uncommon / Rare) are
+contained in the thread itself. Below is a summary of key decisions and
+faction-specific design principles.
+
+US MILITARY / NATO (Player-side):
+  - Rangers (Romeo): M4A1 DD MK18, SIG MCX Spear (NGSW late game),
+    M249 SAW, M320 GLM, AT4, MAAWS Carl Gustaf M4
+  - AEGIS (Ducky): HK416 A5 as standard, FN SCAR-H, FN P90, B&T APC9K
+  - Ground Branch (Spook): Suppressed compact platforms, HK MP5SD,
+    SIG MPX-K
+  - Standard sidearms: Glock 19 Gen5, SIG P320-M17, SIG P226 MK25
+  - Key design note: AEGIS carries European platforms deliberately —
+    multinational unit with European procurement character
+
+RUSSIAN FORCES (VDV / GRU / FSB Vympel):
+  - Line infantry: AK-74M, AKM, SVD Dragunov, PKM/PKP Pecheneg, RPG-7
+  - VDV elite: AK-12, AK-15, ORSIS T-5000
+  - FSB Spetsnaz: AS Val, VSS Vintorez, SR-3M Vikhr, 9A-91
+  - Vympel naval: OTs-14 Groza, PSS-2 silent pistol, SPP-1M, APS
+  - KEY DESIGN NOTE: When player starts seeing AS Vals and VSS instead
+    of AKMs — they know they are fighting better-trained enemies
+  - 7.62x39mm thread: AKM/AK-15 drops feed CMMG Mk47 ammo pool
+    throughout Romeo's late campaign — deliberate cross-faction mechanic
+
+NORTH KOREAN FORCES (KPA):
+  - Standard: Type 58/Type 68 (AKM clones — FEEDS CMMG Mk47), Type 88
+  - Elite SOF: Type 98, indigenous bullpup (unsettling, unlike anything else)
+  - Support: Type 73 LMG, F-7 RPG clone, Bulsae-3 ATGM
+  - KEY DESIGN NOTE: DPRK infantry look deliberately wrong — older,
+    indigenous designs that signal "different from Russian kit"
+
+LOS SIETES CARTEL:
+  - Standard: AKM/WASR-10, AR-15 variants (stolen LE), Glock 17/19,
+    Mossberg 500, Saiga-12
+  - Elite sicarios: FN SCAR-L, HK MP5, FN Five-seveN, Vector KRISS V
+  - KEY DESIGN NOTE: Elite Cartel kit (K Lounge, Bisutri's team) should
+    feel professional, not gangster — purchased military-grade hardware
+
+ATLAS PMC / WAR WOLVES:
+  - Standard: HK416 A5 suppressed, Daniel Defense MK18 suppressed
+  - Elite: MCX Rattler (300BLK), AXSR, CheyTac M200
+  - KEY DESIGN NOTE: Atlas carries same platforms as AEGIS and Ground
+    Branch — deliberate uncomfortable parallel about shared procurement.
+    War Wolves are the most individually dangerous human enemies in Game 1.
+
+FSB VYMPEL (Shipboard / Hull Breach):
+  - 9A-91 suppressed, AS Val, SR-3M Vikhr, OTs-14 Groza
+  - PSS-2 silent pistol, SPP-1M underwater pistol, APS underwater rifle
+  - KEY DESIGN NOTE: All Vympel kit optimized for confined steel spaces —
+    subsonic, suppressed, compact. They are mechanically different enemies.
+
+AMMO ECONOMY DESIGN THREADS:
+  7.62x39mm — richest scavenge caliber. DPRK Type 58, Russian AKM/AK-15,
+    Los Sietes AKM all feed this pool. CMMG Mk47 unlock in Down Rodeo is
+    a gameplay infrastructure decision paying off through San Diego finale.
+  9x39mm — creates its own niche economy when Vympel appear. AS Val/VSS/
+    SR-3M/9A-91 drops sustain the caliber on scavenge.
+  300 BLK — deliberately scarce. No enemy uses it. GRAY GHOST is a luxury
+    weapon; Atlas MCX Rattler drops provide limited scavenge.
+  5.56 NATO — baseline. Most universally available across all campaigns.
+
+--------------------------------------------------------------------------------
+PART 3 — NAMED CHARACTER BUILDS (all confirmed, v2.1)
+--------------------------------------------------------------------------------
+
+BUILD 01 — GRAY GHOST (Spook's primary)
+  Platform:   Noveske Rifleworks N-4 Gen3 (NOT HK — confirmed correction)
+  Caliber:    300 Blackout
+  Barrel:     10.5" select fire
+  Finish:     Solid dark gray Cerakote, no markings
+  Handguard:  NWS-9 M-LOK
+  Optics:     Aimpoint T-2 1x22 on 0.8" riser + Aimpoint 3x magnifier
+              swing-to-side behind red dot
+  Canted:     45-deg offset MBUS Pro Offset (black)
+  Laser:      BE Meyers MAWL-DA — player-unlocked after Burning Daylight
+  Light:      SureFire Scout, extended momentary switch
+  Foregrip:   Milled aluminum skeleton grip + barrier stop, front-mid
+  Suppressor: SureFire SOCOM556-RC2
+  Ammo types: 300BLK SUBSONIC (default, near-silent) /
+              300BLK SUPERSONIC (louder — signals mission changed)
+  Dust cover: Faint worn "300 BLK" factory marking visible in inspect
+  Build name in overlay: GRAY GHOST
+
+BUILD 02 — NOTHING (Spook's sidearm)
+  Platform:   HK45CT
+  Caliber:    .45 ACP
+  Finish:     Dark gray Cerakote — matches GRAY GHOST
+  Light:      Streamlight TLR-7A
+  Suppressor: Nielsen device
+  NAME MECHANIC: When asked what he's carrying, Spook answers "Nothing" —
+    technically literally true. Flat delivery, no smile, no pause.
+    Recurring Godkiller thread: first use almost funny, second unsettling,
+    third the word itself carries weight.
+    [Flag: develop specific dialogue moments in Godkiller mission writing]
+  Build name in overlay: NOTHING
+
+BUILD 03 — FREYA (Ducky's primary)
+  Platform:   Grand Power R-15 Freya GEN 2
+              (fictional 2nd-gen prototype of real Grand Power R-15)
+  Caliber:    5.56x45mm NATO
+  Barrel:     16" cold hammer-forged
+  GEN 2 specifics: No forward assist. No magwell ports (clean lower).
+    Ambidextrous bolt release. Refined trigger from AEGIS operator feedback.
+    Weapon card: "Pre-production evaluation unit, serial 004 of 12"
+  Color: Receiver/upper/lower/handguard = OLIVE GREEN
+         Barrel/buffer tube/muzzle device/grip/stock = BLACK
+         Aimpoint Comp M5s housing + magnifier housing = FDE
+         All small hardware (canted sights, QD D-ring) = BLACK
+  Rail:       Geissele MK4 M-LOK
+  Optic:      Aimpoint Comp M5s FDE housing, 1.5" riser
+  Laser:      MAWL-C1+ (AEGIS standard)
+  Light:      SureFire Scout Pro, 9 o'clock M-LOK
+  Grip:       Magpul MOE-K2 (black)
+  Stock:      BCM Gunfighter (black)
+  Suppressor: B&T Rotex-V (removed for Rotterdam finale — first time player
+              fires FREYA in open conditions; sounds/handles differently)
+  Build name in overlay: FREYA
+  NAME RESONANCE: Platform name + Norse register of AEGIS world + echoes
+    HDMS Freja (Danish vessel that extracts AEGIS at end of Wirecutter)
+
+BUILD 04 — CZ P-09 (Ducky's sidearm — UNNAMED)
+  Platform:   CZ P-09
+  Caliber:    9x19mm
+  Finish:     Two-tone — black slide / FDE lower
+  Barrel:     Threaded
+  Optic:      Trijicon RMR Type 2
+  Light:      SureFire X300U
+  Suppressor: B&T Rotex-III (available mission 2+)
+  NOTE: No build name. FREYA carries Ducky's identity.
+
+BUILD 05 — DON'T TREAD (Romeo's early Game 2 primary)
+  Platform:   Ruger AC-556 (military selective-fire variant)
+  Caliber:    5.56x45mm NATO
+  Config:     Folding stock, compact tactical
+  Magazines:  20-round factory — limit felt immediately; player adapts
+  Engraving:  "DON'T TREAD" — Gadsden flag spelling — eagle clutching
+              banner, left side of receiver, appears hand-done (Dremel)
+  Provenance: From Dale Pruett, end of mission Low Ground. Unhurried
+              handoff animation — Dale checks action, wipes receiver,
+              passes stock-first. "DON'T TREAD" visible during animation.
+  Echo:       Photo/patch in Dale's house mirrors motto — no dialogue
+  Narrative:  Phases out naturally mid-campaign. Setting aside = story beat.
+  Story flag: Act Two militia member recognizes engraving — dangerous
+              mistaken assumption Romeo must navigate.
+              [Flag: main narrative thread]
+  Build name in overlay: DON'T TREAD
+
+BUILD 06 — TRG M10 (Frost's primary)
+  Platform:   Sako TRG M10
+  Caliber:    .338 Lapua Magnum
+  Barrel:     27" fluted match-grade, threaded
+  Finish:     Chassis=olive drab, barrel/suppressor=matte black,
+              scope=matte black, caps=tan (always closed when not in use)
+  Suppressor: Sako/Vaime SAR .338 (permanent field fixture)
+  Optic:      Schmidt & Bender PM II 5-25x56 (worn at reticle center)
+  Bipod:      Atlas BT10 V8 on ARCA rail
+  Ammo:       Lapua Scenar 250gr BTHP (hand-loaded garrison / factory field)
+  Stock:      Adjusted to Frost's exact measurements, white ink reference marks
+  NAME NOTE: Not a name Frost gave — platform name IS build name. Weapon and
+    man so identified the distinction ceased to matter. Frost names nothing.
+    Absence of naming IS the character statement.
+  Build name in overlay: TRG M10
+  INSPECT: Rotates slowly, thumb along bolt handle, checks suppressor lockup
+    two fingers, scope caps remain closed throughout.
+
+BUILD 07 — COLD PLUNGE RIFLE (Frost — mission specific, Cold Frontier 07)
+  Platform:   Tikka T3x TAC A1
+  Caliber:    .308 Winchester
+  Config:     Standard Finnish military exercise configuration
+  Lost:       Knocked from hands during cliff fall into icy lake.
+              Not recovered. Not available as pickup.
+              Its loss = narrative origin of Frost's preference for distance.
+
+BUILD 08 — WREN (Switchblade's primary)
+  Platform:   Steyr AUG A3
+  Caliber:    5.56x45mm NATO
+  Finish:     Olive green (factory — darker than FREYA; Australian AUSCAM
+              green shade; present since AUS Army service, never repainted)
+  Rail:       NATO Picatinny top rail (replacing AUG factory optic)
+  Optic:      Trijicon MRO red dot, 1.5" absolute co-witness
+  Laser:      MAWL-C1+ at 12 o'clock (AEGIS standard)
+  Light:      Modlite OKW, 9 o'clock M-LOK
+  Suppressor: SureFire SOCOM556-Mini2 (removed when report useful tactically)
+  Grip:       AUG factory thumbhole — unchanged
+  Sling:      Blue Force Gear Vickers VCAS (single to two-point)
+  NAME: "WREN" in black marker INSIDE dust cover. Visible ONLY during
+    bolt-open empty-chamber animation. NOT in inspect overlay.
+    Named after a bird — small, moves faster than it has any right to.
+    She has never told anyone.
+  INSPECT: Build name NOT in overlay. WREN discoverable bolt-open only.
+
+BUILD 09 — ARGINT (Lupin's primary)
+  Platform:   FN SCAR-H DMR configuration
+  Caliber:    7.62x51mm NATO
+  Barrel:     20" DMR
+  Finish:     Factory FDE + black electrical tape strip on suppressor top
+              (reduces heat shimmer in optic — "field adaptation, non-structural")
+  Trigger:    Geissele Super SCAR
+  Optic:      Nightforce NX8 1-8x F1 (first focal plane)
+  Backup:     Trijicon RMR 45-degree offset
+  Laser:      MAWL-C1+ at 12 o'clock
+  Light:      SureFire Scout Pro, 9 o'clock M-LOK
+  Bipod:      Atlas BT10 V8
+  Suppressor: SureFire SOCOM762-Mini2
+  NAME: "ARGINT" = Romanian for silver. Small block letters underside of
+    stock in black marker. Frost read it once, said nothing.
+  Build name in overlay: ARGINT
+
+SIGNATURE SIDEARMS (supporting characters):
+  Lupin:       Walther P-99 AS 9mm, Romanian issue, threaded barrel,
+               Trijicon RMR, X300U, B&T Rotex-III suppressor
+  Frost:       Glock 19 Gen5 COMPLETELY UNMODIFIED — night sights only.
+               Red electrical tape on mag baseplates for tactile ID in dark.
+               (tape = only non-factory element)
+  Switchblade: Glock 17 Gen5, SureFire X300U, no optic
+  André:       Glock 19M USMC issue, TLR-7A only — no other modifications
+
+--------------------------------------------------------------------------------
+PART 4 — SIGNATURE BLADES
+--------------------------------------------------------------------------------
+
+SWITCHBLADE — Benchmade 3300BK Infidel (OTF automatic)
+  3.91" double-edged tanto, matte black DLC. Black aluminum handle worn
+  on thumb stud. Finger-hook lanyard mod for draw/retention. Right hip
+  horizontal belt clip. Carried since age 17 Melbourne streets — 3rd unit,
+  previous two left at scenes not discussed. Origin never discussed.
+  Narratively adjacent to house fire beat — never explicitly connected.
+  Inspect (Glock 17): left hand visible with forearm scar — no camera
+  attention drawn to it.
+
+LUPIN — Romanian Army M1974 bayonet (modified)
+  7" fixed, reprofiled/thinned by Romanian bladesmith. Black paracord
+  rewrap over original grip panels. Kydex sheath left thigh, edge-in,
+  handle forward. Draws LEFT-HANDED. Eastern Bloc steel pattern visible
+  to knowledgeable players.
+
+FROST — Peltonen Ranger M95 (Finnish military issue, unmodified)
+  Left shoulder strap, handle down. Carried since conscript service.
+  Used in Cold Plunge lake encounter — implied, not shown. Handle worn
+  smooth. IDENTICAL knife to Lantern (Nereid Black) — acquired from
+  Finnish exchange operator. Neither has mentioned this to the other.
+
+CODY BEAUMONT — Buck 110 Folding Hunter
+  Stag handle, older style. Father's knife before it was his.
+  Right hip belt sheath forward of holster. Recently sharpened —
+  keener than anything else on his kit.
+  POST-CODY: Appears on resistance cell barn workbench in later mission —
+  cleaned, folded, placed deliberately. No scene shows who placed it.
+  No character comments. Present the way grief is present.
+
+LA AVISPA — Three-blade system
+  Blade 1 (Primary): Extrema Ratio HF3 — 3.5" tanto, partially serrated,
+    Forprene handle. 3rd unit — previous two left at scenes not discussed.
+    Horizontal belt concealed beneath jacket hem. One-handed draw either side.
+  Blade 2 (Secondary/Presence): Boker Magnum Bowie — 12" overall.
+    Carried openly on thigh in Los Sietes enforcement contexts ONLY.
+    NOT carried with Spook — too conspicuous.
+  Blade 3 (Deep concealed): Spyderco Civilian — fully serrated curved blade.
+    Appendix inside waistband. Draw-stroke deploys and uses simultaneously.
+    Has not used this specific knife. Has used what it replaced, twice.
+  PROTECTED LINE: "A gun is a conversation. A knife is a conclusion."
+    Spoken to Spook, quiet moment between contacts.
+
+--------------------------------------------------------------------------------
+PART 5 — INSPECT WEAPON MECHANIC (finalized)
+--------------------------------------------------------------------------------
+
+BEHAVIOR BY CLASS:
+  Rifles/carbines/DMRs/LMGs: Arms-length, rotated slowly right, 3-4 seconds,
+    support hand repositions naturally.
+  Pistols/compact SMGs: Hand-profile, strong-side. Hammer-check motion for
+    weapons with external hammers (CZ P-09, HK45CT, P-99) — varies per weapon.
+  Shotguns: Rack-and-check, forend half-inch back and released.
+
+SIGNATURE WEAPON ANIMATIONS: Slightly longer/more detailed.
+  Build name in overlay bottom frame for:
+  GRAY GHOST / NOTHING / FREYA / TRG M10 / ARGINT / DON'T TREAD
+  WREN: NOT in overlay — bolt-open empty-chamber animation ONLY.
+
+OVERLAY (field modification mode):
+  Semi-transparent, non-intrusive. Labels near attachment points.
+  Empty rails with nothing available: no label shown.
+  Field-removable (interactable):
+    Suppressors / QD-mount optics / weapon lights / MAWL-DA / MAWL-C1+ /
+    foregrips / ammunition type (where multiple types loaded)
+  Non-removable (no prompt):
+    Fixed barrels / integrated handguards / permanently mounted hardware
+
+AMMO SWITCHING:
+  Most weapons: single caliber shown.
+  GRAY GHOST: 300BLK SUBSONIC / 300BLK SUPERSONIC — switching requires
+    magazine change animation ~4 seconds, NOT skippable. Tactical risk.
+
+PHYSICAL REMOVAL ANIMATION: ~3 seconds. Not skippable.
+  Removing a suppressor mid-contact is a deliberate tactical cost.
+
+GRAY GHOST DUST COVER: Faint worn factory marking "300 BLK" visible in
+  inspect. Worn from years of handling, not deliberate removal.
+
+MAWL-DA INSPECT (once unlocked on GRAY GHOST): Thumb clicks activation
+  dial one position forward and back. IR beam briefly pulses visible.
+
+CLEANING ANIMATIONS (gunsmith between missions):
+  Romeo:  Fast, functional, muscle memory. No ceremony.
+  Ducky:  Methodical — checks each component before reassembly.
+  Spook:  Slow, almost meditative. The cleaning is how he thinks.
+  Others: Not yet specified — flag for development.
+
+GUNSMITH SYSTEM (between missions only):
+  Laid flat on workbench. All attachment points visible including non-field-
+  removable. Categories: Barrel / Muzzle / Optics / Underbarrel /
+  Laser/IR / Stock / Grip / Internal (trigger, BCG, buffer — affects
+  performance, not visible on model).
+  Signature weapons CAN be modified but core identity cannot be changed
+  (GRAY GHOST cannot become another color; FREYA color discipline locked).
+
+--------------------------------------------------------------------------------
+PART 6 — RARE AND STORY-SPECIFIC WEAPON DROPS
+--------------------------------------------------------------------------------
+
+CMMG Mk47 Mutant | 7.62x39mm
+  Dropped by: K Lounge Sicario Lieutenant (Down Rodeo, Romeo G1)
+  Visual ID: Red baseball cap backwards; Crye JPC; shark jaw tattoo on
+    right forearm (smaller/black-only — earned but not the full version).
+  Behavior: Emerges from side door ~45 sec into contact. Controlled pairs.
+    Uses smoke if pinned. More dangerous with Five-seveN at close range
+    than Mk47 at medium.
+  TIMER: If player doesn't close within ~90 sec of standard sicarios down,
+    Lieutenant exits rear door — BOTH weapons lost, NO notification.
+
+Desert Eagle Mk XIX | .50 AE
+  Dropped by: Mezzanine ambush leader (Pandora's Box, Spook G1)
+  EASTER EGG: First 2-3 sec of Max Payne main theme (solo piano, low
+    volume, slightly muffled) plays at EXACT instant weapon settles into
+    Spook's hand during pickup animation. Gone before player can process.
+    Nothing in game acknowledges it.
+  Inspect: Spook turns weapon over once, pauses half-beat longer —
+    mildly finding it absurd. No dialogue. Just the pause.
+
+PSS-2 Silent Pistol | 7.62x41mm (4-round cylinder)
+  Mechanically unique: completely silent, no muzzle flash, no suppressor.
+  Locations: Wirecutter (Vympel officer in hold + Dive Team Commander);
+    Burning Daylight (FSB officer stealth section).
+  If missed in Wirecutter, Burning Daylight is second opportunity.
+
+OTs-14 Groza | 9x39mm / 40mm UGL
+  Locations: Wirecutter (Vympel Dive Team Commander);
+    Rotterdam (Spetsnaz demolitions operator).
+  9x39mm feeds from AS Val / 9A-91 scavenge throughout rest of mission.
+
+SPP-1M Underwater Pistol + APS Underwater Rifle
+  Location: Vympel dive prep station, Sea Lion 7 (Wirecutter, Ducky G1)
+  SPP-1M: 4 barrels, dart ammo — silent above water — 4 shots then collectible
+  APS: Loaded mag only, functionally useless above water, collectible.
+    Ducky's inspect shows visible professional curiosity.
+
+SIG MCX-I (Integrated) prototype | 5.56
+  Dropped by: Crimson One, War Wolf (East McFarlane Island, G1)
+  Features: Integral suppressor, electronic fire control, round count
+    display on receiver visible in inspect. Highest-value pickup on island.
+
+CheyTac M200 Intervention | .408 CheyTac
+  Found: Hidden in security post, East McFarlane Island (G1)
+  Also: Crimson Two carries personal M200 on ridgeline (different serial).
+    Using security post M200 to kill Crimson Two = mechanical symmetry.
+
+SR-3M Vikhr | 9x39mm suppressed
+  Locations: Glushkin's close protection (Romeo G2 late);
+    KAPITAN (Rotterdam, Ducky); Hull Breach command element (alarm only —
+    stealth run = no spawn, no Vikhr).
+  Significance: First signal Glushkin has FSB-grade personal security.
+
+MAWL-DA | BE Meyers
+  Found: Pelican case, Montoya Farm equipment room (Burning Daylight, Spook)
+  Unlock: Tripper opens case, brief cutscene handoff.
+  Detail: GenCorp logistics sticker = connects Montoya Farm procurement
+    to GenCorp supply chain. No dialogue draws attention to this.
+
+Sako TRG M10 (Frost's backup) | .338 Lapua
+  Found: AEGIS equipment cache, Svalbard mission (Cold Frontier, Ducky G1)
+
+--------------------------------------------------------------------------------
+PART 7 — NAMED ENEMY WEAPON PROFILES
+--------------------------------------------------------------------------------
+
+GLUSHKIN — SR-1 Vektor | 9x21mm
+  Civilian shoulder rig under jacket throughout. 9x21mm AP = FSB not
+  military. Draws only SR-1 in final confrontation — situation constructed
+  to make it sufficient, and he knows it. Holds SR-1 through last words.
+  Hammer back, round in chamber — never fired second shot.
+  Inspect after death: hammer cocked, round still there. Romeo never fires it.
+
+BISUTRI — HK416 A5 suppressed (primary) + FN Five-seveN engraved (sidearm)
+  HK416: Visually identical at distance to NATO SOF kit — character statement
+    without dialogue. Purchased through black market military supply chains.
+  Five-seveN: Scalpel engraving left slide, "BISUTRI" right slide.
+    Not a status symbol — a signature. He had it done himself.
+  Fixed blade: Modified surgical scalpel handle with 4" custom blade.
+    Nickname is not metaphorical.
+  NOT killed in Coleman prison break — Five-seveN only obtainable if
+    player defeats him directly in later confrontation.
+
+K LOUNGE SICARIO LIEUTENANT — CMMG Mk47 + FN Five-seveN
+  [Full entry above in rare drops section]
+
+WAR WOLVES — Crimson One/Two/Three
+  Crimson One: SIG MCX-I prototype + HK45CT (same as Spook's NOTHING —
+    implies shared procurement channels, never spoken aloud)
+  Crimson Two: CheyTac M200 (personal) + Glock 34 Gen5 MOS long-slide
+  Crimson Three: DD Mk18 suppressed + Glock 19 + M67 x2 + flashbang x1
+    (first War Wolf to use grenades against player)
+  ALL THREE: CogniConnect detonates on death — no ID possible.
+    Roman numeral tattoo inside left wrist: I / II / III.
+    Visible only during looting animation. Never explained in Game 1.
+
+--------------------------------------------------------------------------------
+PART 8 — PER-MISSION WEAPON TABLES (summary of missions developed)
+--------------------------------------------------------------------------------
+
+The following missions have full weapon tables developed in thread:
+  - Down Rodeo (Romeo G1)
+  - Battle of Coronado (Romeo G1)
+  - Wirecutter (Ducky G1)
+  - Hull Breach (Ducky G1)
+  - Vienna Chase (Spook G1)
+  - Burning Daylight (Spook G1)
+  - Pandora's Box (Spook G1)
+  - Rotterdam Finale (Ducky G1)
+  - Low Ground (Romeo G2)
+  - Dead Air (Romeo G2)
+
+KEY NOTES FROM MISSION TABLES:
+
+DOWN RODEO:
+  DPRK + Los Sietes. Romeo starts M4A1 + P320-M17.
+  7.62x39mm abundant from DPRK Type 58 + Los Sietes AKM.
+  Rooftop cache above K Lounge: Saiga-12 + drum mags + cash (uncollectable).
+  DPRK elite squad carries Type 98 (5.56 — NATO ammo bonus) +
+    one indigenous bullpup (rare, one mag only, no resupply).
+
+CORONADO:
+  DPRK amphibious + Russian Naval Infantry + Iranian IRGC.
+  KH-2002 Khara (Iranian 5.56 bullpup) — no dialogue explains why IRGC
+    carries NATO caliber. Implies deliberate re-equipping. Just there.
+  PKP Pecheneg can be unbolted and carried — movement penalty.
+  ORSIS T-5000 on control tower — only G1 appearance.
+  Locked cage in secondary hangar: M1014 + nameplate "GUNNERY SGT. R. HARLOW"
+    — not a named character; nameplate just a nameplate.
+
+WIRECUTTER:
+  FREYA available and primary (first Ducky mission).
+  Dive prep station: APS + SPP-1M both present as finds.
+  Captain's cabin: Benelli M4 in wall mount + unburned burn bag papers
+    (readable intel collectible — routing history of Sea Lion 7).
+  Vympel Dive Team Commander: OTs-14 Groza + PSS-2 — emerges partially
+    suited from dive station. If player too slow, he may reach the water.
+    APS underwater rifle required to follow. Time pressure design.
+
+HULL BREACH:
+  Stealth-favored: alarm raised = Spetsnaz spawn = SR-3M available.
+    Stealth run = Spetsnaz never appear = SR-3M not obtainable.
+  SIGINT room hidden: VSS Vintorez in padded case under console.
+
+VIENNA CHASE:
+  Stribog SP10 A3 (10mm AUTO — CONFIRMED CALIBER) + HK45CT only.
+  Mission-specific — Stribog cannot be kept. 10mm unusual caliber
+    reinforces why it cannot be sustained in the field.
+  Chase scenario — scavenging possible but disrupts momentum.
+
+BURNING DAYLIGHT:
+  GRAY GHOST + HK45CT. MAWL-DA NOT yet available (pre-unlock mission).
+  Supersonic 300BLK mag from Tripper = "break glass" option if mission
+    goes loud — acoustic change signals mission character shift.
+  Walther P-99 in locked drawer, coat check area — belongs to gala guest.
+  PSS-2 second opportunity (if missed in Wirecutter) — tunnel FSB officer.
+  MAWL-DA unlock: Pelican case, equipment room, GenCorp sticker.
+
+PANDORA'S BOX:
+  Cartel general + elite sicarios + KYSC (5 members, conditioned behavior).
+  KYSC fight differently — irregular movement, strange vocalizations, don't
+    respond to suppressing fire normally. One already dead on arrival.
+  Vector KRISS V (.45 ACP) shares ammo with HK45CT — only exotic pickup
+    with sustained utility in this mission.
+  Desert Eagle (.50 AE) — 7 rounds total, non-replenishable, Max Payne easter egg.
+  Hidden finds: MP5SD in guitar case mount behind bar (pre-cartel occupant);
+    Mossberg 590M behind junction box in maintenance corridor (labeled "PETE").
+
+ROTTERDAM FINALE:
+  FREYA suppressor-off for first time. Tonal shift deliberate.
+  OTs-14 Groza second appearance (Spetsnaz demolitions operator).
+  KAPITAN (named kill-feed only) drops SR-3M Vikhr.
+  RPG operator: fires from drain hole. Adjacent NATO forces respond
+    ~4 seconds after — heard off-screen, not shown. Player who shoots
+    him before he fires: RPG goes into harbor, tip caused by shockwave.
+    Identical outcome. No dialogue acknowledges player was fast enough.
+  Dutch Marine cache in secondary building: Walther P-99 + field notebook
+    (readable intel, reveals additional patrol routes on minimap).
+
+LOW GROUND:
+  Most resource-constrained mission in Game 2. Romeo's M4A1 running low
+    from G1 carry. No 5.56 scavenge available (no enemy uses it).
+    Ammo scarcity IS the narrative before any dialogue.
+  Glushkin introduction: player observes him interviewing Gene Marlow
+    from concealment. Cannot engage. Watching Glushkin operate calmly
+    while being unable to do anything = Christoph Waltz archetype landing.
+  SR-1 Vektor dropped by close protection IF Romeo breaks cover
+    (breaking cover = failed covert observation objective).
+  AC-556 handoff from Dale CLOSES the mission — quiet moment before next
+    mission's action. "DON'T TREAD" visible in handoff animation.
+
+DEAD AIR:
+  AC-556 active and primary for first time. 20-round limit felt immediately.
+  Renata Voss carries suppressed Ruger 10/22 — visible in her hands during
+    escort. Communicates her situation without dialogue.
+  Cody: Mossberg 500 + M&P Shield. Aggressive, reckless, exposes himself.
+  Frank Kowalski: AR-15 + Glock 17. Methodical, conservative with ammo.
+    One of few allied characters who calls out when running low.
+  SVD on water tower: significant detour, worth it.
+  Redbud community center cache: unidentified voice on radio gives grid
+    reference relevant to next mission. No character comments.
+
+--------------------------------------------------------------------------------
+PART 9 — NEREID BLACK LOADOUTS (full profiles in character_narrative_profiles.txt)
+--------------------------------------------------------------------------------
+
+GRIM (Mikkel Thorsen — Commander):
+  HK416 A5 suppressed (14.5"), Aimpoint CompM5, SureFire M600DF white light
+  (NO IR — wants to see what he's looking at), SIG P226 MK25 (anchor ground
+  off — "found it decorative"), Extrema Ratio MF2 fixed blade.
+
+RIME (Jonas Vestergaard — Breacher):
+  HK MP5SD (integral suppressor, quietest possible for confined spaces),
+  Aimpoint Nano, X300U. NO second firearm — space used for breaching kit:
+  Mk152 linear charges x2, thermal lance components, breaching shotgun
+  attachment on separate rail. P226 MK25 NO weapon light (calculated trade).
+  Dive knife, blunt tip (cutting not fighting).
+
+LANTERN (Emil Rønne — Recon/Overwatch):
+  HK433 (NOT HK416 — newer, lighter, refined rail; knowledgeable players
+  notice), Trijicon VCOG 1-8x, MAWL-C1+, Atlas BT10 bipod, Pulsar Merger
+  LRF XP50 thermal binos. P226 MK25 (no suppressor — pistol is a backup
+  acknowledgment of possibility, not a plan). Peltonen Ranger M95 —
+  IDENTICAL to Frost's knife (Finnish exchange operator acquisition).
+
+UNDERTOW (Kasper Holm — Assault Medic):
+  B&T APC9K Pro suppressed — chosen SPECIFICALLY because it FOLDS (both
+  hands needed for casualty treatment). Aimpoint Nano, X300U, Magpul RVG.
+  Glock 19 Gen5 stripped — night sights only, 4 spare magazines.
+  Böker Plus Delta rescue knife — BLUNT TIP (deliberate medical choice).
+  Window-breaking pommel used once (porthole). Polished. Everything else matte.
+
+--------------------------------------------------------------------------------
+PART 10 — ALLIED CHARACTER PROFILES (weapons development context)
+--------------------------------------------------------------------------------
+
+CODY BEAUMONT (Calloway resistance cell, American Freedom):
+  Mossberg 500 Field 28" HUNTING CONFIG — no sling, catches doorframes.
+  Mixed 00 buckshot + bird shot (grabbed what was in house — bird shot
+  useless vs body armor, players who know will notice, no one says anything).
+  S&W M&P Shield 9mm in Uncle Mike's friction-only holster — crimps pouch
+  tops before moving so mags don't rattle (worked this out himself).
+  Ruger 10/22 .22LR early missions — one scene shows rounds deflecting off
+  Russian plate carrier; Cody switches to Mossberg, no comment.
+  Vest: Condor MOLLE rig, coyote, road flare (not yet useful).
+  Clothing: jeans, flannel, canvas barn coat olive drab — looks like he's
+  going to fix a fence. In occupied Calloway, this is camouflage.
+  BEHAVIOR: Talks too much in contact, processes in real time, not afraid
+  (regulatory absence of fear = what eventually kills him). Last words
+  operational not dramatic.
+  DEATH: Loading screen showing figure hanged from highway gantry with
+  cardboard placard — never confirmed as Cody explicitly. Strategically
+  ambiguous. Connection implied, left for player.
+
+LA AVISPA / YELENA VOLKOVA (Los Sietes / Godkiller):
+  True identity: Yelena Dimitrievna Volkova, former FSB surveillance specialist.
+  Defection route: Venezuela → Cuba → Panama → Mexico → Los Sietes.
+  Two firearm configurations:
+    LOS SIETES COVER: Ruger LCP II .22LR suppressed (SilencerCo Sparrow) +
+      SIG P365 XL 9mm concealed. LCP II in cosmetics bag = relevant on
+      occasion. Carries because expects <5 shots total in cover situations.
+    ACTIVE OPS (with Spook): HK SP5K 9mm suppressed (SilencerCo Omega 9K),
+      Aimpoint Nano, no weapon light (handheld torch support hand instead).
+      P365 XL openly in Tier 1 AIWB holster.
+  FSB THREAD: Carried PSS-2 during FSB service. Recognizes one immediately
+    when encountered with Spook — picks it up, checks cylinder with ten-
+    thousand-rounds-worth of economy, fires it at target Spook hasn't ID'd,
+    hands it back. No explanation. He doesn't ask. This is the moment player
+    understands her FSB background is not distant history.
+    [Flag: develop this scene in Godkiller mission writing]
+  PHOTOGRAPH: Small folded photo inside jacket left inner pocket. Never shown.
+    Spook notices the rectangular outline when jacket moves. Says nothing.
+    Predates Venezuela. Story says nothing more.
+  ACCENT: Spanish (native-fluent, no accent). Russian (when identity slips).
+    English (cultivated ambiguity — not clearly Russian or Spanish).
+
+SSgt ANDRÉ NATHANIEL BRIDGES, USMC (full profile filed separately):
+  See character_profile_andre_bridges.txt for complete profile.
+  Summary: 28yo, New Orleans Ninth Ward, Black, French Creole name spelling
+  deliberate. Enlisted age 20 (2020), E-6 by merit. M27 IAR/ACOG TA31 4x/
+  no suppressor, Glock 19M/TLR-7A, OKC-3S bayonet. No weapon names.
+  Says "copy" not "roger." Meets Romeo at Port of LA — instant mutual respect.
+  Friction = Ranger pushes / Marine consolidates doctrine.
+  Signal Hill disagreement outcome TBD narrative thread.
+  Calibrated by Coronado. New Orleans/Ninth Ward thematic layer available
+  (city that knows what it means to be abandoned by systems meant to protect it).
+  Decency as statement in cynical story. [Flag: Signal Hill + Game 2 AFC]
+
+--------------------------------------------------------------------------------
+PART 11 — CHARACTER BEHAVIOR / VOICE NOTES (weapons context)
+--------------------------------------------------------------------------------
+
+FROST: Does not comment on enemy weapons. Does not narrate reloads.
+  Does not remark on ammo scarcity. One exception: TRG M10 takes a round
+  through suppressor — says "Perkele." Quietly. To no one. Transitions
+  to MRAD without further comment.
+  Cold Plunge final line: in Finnish, unsubitled. Exhausted, deliberate,
+  privately furious. Players who speak Finnish understand. Others understand
+  the tone.
+  Frost/Lupin shorthand: ~40 words total, mix Finnish/Romanian, developed
+  at pre-AEGIS joint exercise. Ducky asked once. Frost: "Shooting talk."
+  That was the entire explanation.
+
+SWITCHBLADE: Most verbally active in contact. Short specific callouts.
+  "Two, left door." "Moving." "Dry — covering."
+  Enemy weapon assessment: ~1 second, use or drop. No comment.
+  Exception: player picks up AKM in Ducky mission — she glances and says
+  "Alright." Flat. Approving.
+  Glove modification: removed right-hand finger coverage with scissors,
+  week 1 of AEGIS deployment. Trigger feel affected. No permission sought.
+  Australian Army patch: left chest pocket, not field-worn, not removed
+  despite two requests.
+
+LUPIN: Romanian accent more precisely articulated under stress.
+  Sparse/technical weapon dialogue: range calls, wind calls, confirmations.
+  No editorializing. On miss: silence ~3 seconds, correction, fire again.
+  Unfamiliar weapon handling: systematic personal check pattern — faster than
+  formal safety check, more thorough than casual. Same sequence every time.
+  Does not do it with his own weapons.
+  Data book: Rite in the Rain, written in ROMANIAN. Frost noticed.
+  Said nothing. Lupin noticed Frost noticing. Said nothing.
+
+CODY: Talks too much, processes in real time, callouts too long.
+  Romeo corrects once. Cody adjusts ~2 minutes, reverts.
+
+ANDRÉ: "Copy" not "roger." Economical in contact. In quiet moments
+  asks genuine questions: "How far did you come to get here?"
+  New Orleans accent present without performance.
+
+--------------------------------------------------------------------------------
+PART 12 — INTER-CHARACTER DYNAMICS FROM WEAPONS CONTEXT
+--------------------------------------------------------------------------------
+
+FROST / LUPIN: Productive complementary pair. Lupin calls range and wind,
+  Frost confirms or adjusts. Shorthand unintelligible to others.
+  Data book detail + Peltonen knife detail both connect them silently.
+  Relationship built on things noticed and not commented on.
+
+SWITCHBLADE / LUPIN: Productive tension. She closes fast, he holds distant.
+  She thinks he takes too long. He thinks she closes too fast. Both right
+  about the other, wrong about themselves. Never discussed. Just what happens.
+
+FROST / LANTERN (Nereid Black): Share identical Peltonen M95 knife.
+  Acquired by Lantern from Finnish exchange operator during joint exercise.
+  Neither has acknowledged this to the other.
+
+ROMEO / ANDRÉ: Mutual respect immediate. Friction = professional/doctrinal
+  not personal. Rangers push, Marines consolidate. Both legitimately right.
+  Best friction type: two competent professionals with different reads.
+  Signal Hill: one carries the call, other executes without ego.
+  Coronado: calibrated, shorthand established. Relationship has moved.
+
+SPOOK / LA AVISPA: Forced mutual dependence → quiet trust → unique bond.
+  Strange romantic tension — fleeting, unnamed, no time to develop.
+  Story forces them apart. Perhaps to meet again.
+  Her combat control unsettles even Spook (who is himself highly controlled).
+  PSS-2 recognition scene = moment player understands her FSB past is present.
+
+--------------------------------------------------------------------------------
+PART 13 — PENDING / IN PROGRESS FLAGS
+--------------------------------------------------------------------------------
+
+[IN PROGRESS — weapons thread]:
+  - Cody detailed behavioral notes not fully pushed to memory (char limit)
+  - La Avispa FSB recognition scene full dialogue
+  - Switchblade scar/patch/glove full details in memory
+  - Nereid Black narrative notes in memory
+  - Named enemy weapon narrative details in memory
+  - Per-mission table summary notes in memory
+  All above: FULL DETAIL in character_narrative_profiles.txt
+
+[FLAGGED FOR NARRATIVE THREAD]:
+  - Signal Hill disagreement resolution (Romeo / André)
+  - NOTHING dialogue moments in Godkiller missions
+  - DON'T TREAD militia recognition scene (Act Two, Romeo)
+  - Dale Pruett full Three Percenter backstory
+  - La Avispa PSS-2 recognition scene (Godkiller)
+  - Spook/La Avispa dynamic development
+  - André Bridges Game 2 / AFC connection (if used)
+  - Coronado second friction/resolution beat (Romeo/André)
+
+[FLAGGED FOR AUDIO THREAD]:
+  - US multi-service radio chatter full library (Army Rangers, Marines,
+    Navy, USAF JTAC, National Guard, LAPD bleed) — framework established,
+    full library not written
+  - Inter-service Army/Marine friction in chatter
+  - Phaeton two-ship flyover/split scene (developed elsewhere, not located)
+
+[FLAGGED — LICENSING]:
+  All music board entries require commercial licensing clearance.
+  Not a current blocker but flagged for production stage.
+
+[NOT YET DEVELOPED]:
+  - Lupin / Switchblade cleaning animations
+  - Frost cleaning animation
+  - André Bridges cleaning animation
+  - CORYS squad (Valkyrie/Brick) — full weapon profiles pending
+    squad development
+  - Renata Voss, Frank Kowalski weapon profiles (partial in mission tables)
+  - Sea Spear DLC (Grim / Nereid Black) weapons beyond what is filed here
+  - Semper Fi DLC (André Bridges) — weapon development pending
+  - Who Dares Wins DLC (SAS) — not yet started
+  - Home Defense DLC (Australian front) — not yet started
+
+================================================================================
+END OF WEAPONS DEVELOPMENT THREAD — FULL SUMMARY
+Project Warriors — All decisions and outcomes as of thread close
+================================================================================
+
+====================================================================================================
+[named_weapon_builds_v2_1.txt]
+Origin: current uploaded source
+Chars: 30509
+SHA-256 prefix: 8597d11c7eed355a
+====================================================================================================
+
+================================================================================
+NAMED WEAPON BUILDS — MASTER REFERENCE
+Fictional FPS Trilogy — Weapons Development Thread
+Version 2.1 — Corrected and Complete
+================================================================================
+
+--------------------------------------------------------------------------------
+BUILD 01 — GRAY GHOST
+Character: CPT Trevor "Spook" Gartner — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       Noveske Rifleworks N-4 Gen3
+Caliber:        300 Blackout (subsonic primary / supersonic available)
+Barrel:         10.5" select fire
+Finish:         Solid dark gray Cerakote overall — no markings
+
+ATTACHMENTS:
+  Handguard:    NWS-9 M-LOK
+  Optic 1:      Aimpoint Micro T-2 1x22 red dot on 0.8" riser (primary)
+  Optic 2:      Aimpoint 3x magnifier, swing-to-side mount, behind red dot
+  Canted sights:45-degree offset MBUS Pro Offset iron sights (black)
+  Laser module: BE Meyers MAWL-DA — player-unlocked after Burning Daylight
+  Weapon light: SureFire Scout, M-LOK, extended momentary pressure switch
+  Foregrip:     Milled aluminum low-profile angled skeleton grip with
+                integrated barrier stop — front-mid underside of handguard
+  Suppressor:   SureFire SOCOM556-RC2 (standard)
+                [Supersonic mag available from Tripper as break-glass option]
+
+AMMUNITION TYPES (field-swappable via inspect menu):
+  300 BLK SUBSONIC   — default; near-silent through suppressor
+  300 BLK SUPERSONIC — louder; signals mission has changed character
+
+INSPECT ANIMATION NOTE:
+  Dust cover bears a faint, nearly worn-away factory caliber marking
+  reading "300 BLK" — worn from years of handling rather than deliberate
+  removal. Visible only during the inspect animation.
+  MAWL-DA, once unlocked: thumb clicks activation dial one position
+  forward and back; IR beam briefly pulses visible in inspect view.
+
+BUILD NAME displayed in inspect overlay: GRAY GHOST
+
+--------------------------------------------------------------------------------
+BUILD 02 — NOTHING
+Character: CPT Trevor "Spook" Gartner — Signature Sidearm
+--------------------------------------------------------------------------------
+Platform:       HK45CT
+Caliber:        .45 ACP
+Finish:         Dark gray Cerakote — matches GRAY GHOST
+
+ATTACHMENTS:
+  Weapon light: Streamlight TLR-7A
+  Suppressor:   Nielsen device suppressor (fitted)
+
+NARRATIVE NOTE:
+  Name functions as both weapon identity and operational cover — when
+  asked what he is carrying, Spook's answer "Nothing" is technically,
+  literally true. Delivered completely flat. No smile. No pause.
+  Works as a recurring thread across Godkiller missions — used sparingly;
+  lands differently each time as the player accumulates context.
+  First use: almost funny. Second: unsettling. Third: the word itself
+  carries weight.
+  [Flag for Godkiller mission dialogue development — main narrative thread]
+
+BUILD NAME displayed in inspect overlay: NOTHING
+
+--------------------------------------------------------------------------------
+BUILD 03 — FREYA
+Character: SFC Ferris "Ducky" Ryan — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       Grand Power R-15 Freya GEN 2
+                (fictional 2nd-gen prototype of the real Grand Power R-15)
+Caliber:        5.56x45mm NATO
+Barrel:         16" cold hammer-forged match-grade
+
+GEN 2 PROTOTYPE SPECIFICS:
+  - No forward assist
+  - No magwell ports (clean, uninterrupted lower profile)
+  - Ambidextrous bolt release (GEN 2 refinement)
+  - Refined trigger group developed from AEGIS operator feedback
+  - Weapon card flavor text: "Pre-production evaluation unit, serial 004 of 12"
+
+COLOR SCHEME:
+  Receiver / upper / lower / handguard:   Olive green
+  Barrel / buffer tube / muzzle device:   Black
+  Pistol grip / stock:                    Black
+  Optic 1 housing (Aimpoint Comp M5s):    FDE
+  Magnifier housing:                      FDE
+  Canted sights / QD sling D-ring /
+  small hardware:                         Black
+
+ATTACHMENTS:
+  Rail:         Geissele MK4 M-LOK
+  Optic:        Aimpoint Comp M5s on 1.5" riser — FDE housing
+  Laser module: MAWL-C1+ (AEGIS standard)
+  Weapon light: SureFire Scout Pro, M-LOK at 9 o'clock
+  Grip:         Magpul MOE-K2 (black)
+  Stock:        BCM Gunfighter (black)
+  Suppressor:   B&T Rotex-V (available; removed for Rotterdam finale)
+
+INSPECT ANIMATION NOTE:
+  Suppressor-off config first appears in Rotterdam finale — sounds and
+  handles noticeably differently from suppressed config; deliberate
+  tonal shift from AEGIS standard operational register.
+
+BUILD NAME displayed in inspect overlay: FREYA
+
+--------------------------------------------------------------------------------
+BUILD 04 — [UNNAMED — CZ P-09 SIGNATURE]
+Character: SFC Ferris "Ducky" Ryan — Signature Sidearm
+--------------------------------------------------------------------------------
+Platform:       CZ P-09
+Caliber:        9x19mm
+Finish:         Two-tone — black slide / FDE lower
+
+ATTACHMENTS:
+  Barrel:       Threaded
+  Optic:        Trijicon RMR Type 2 (on optics-cut slide)
+  Weapon light: SureFire X300U
+  Suppressor:   B&T Rotex-III (available from mission 2 onward)
+
+NOTE: No build name. The pistol is Ducky's; FREYA carries the identity.
+
+--------------------------------------------------------------------------------
+BUILD 05 — DON'T TREAD
+Character: LT Ramón "Romeo" Álvarez — Early Game 2 Primary
+--------------------------------------------------------------------------------
+Platform:       Ruger AC-556 (military selective-fire variant)
+Caliber:        5.56x45mm NATO
+Config:         Folding stock, compact tactical variant
+Magazines:      20-round factory magazines
+
+PROVENANCE:
+  Given to Romeo by Dale Pruett at the end of mission Low Ground.
+  Dale retrieved it from a locked gun safe in his barn.
+  Handoff animation: unhurried — Dale checks action, wipes receiver
+  with a cloth, passes it stock-first to Romeo.
+
+ENGRAVING:
+  Left side of receiver — small eagle clutching a banner reading:
+  "DON'T TREAD"
+  Spelled exactly as it appears on the Gadsden flag.
+  Appears to have been done by hand, possibly with a Dremel,
+  at some point in the weapon's past.
+
+ENVIRONMENTAL ECHO:
+  A detail in Dale's house — framed photograph or jacket patch —
+  echoes the same truncated motto, tying Dale to the weapon's origin
+  without any dialogue drawing attention to it.
+
+NARRATIVE FUNCTION:
+  Early-campaign primary only. 20-round magazine limit and moderate
+  accuracy ceiling mean the player naturally phases it out as better
+  options become available — making the moment of setting it aside
+  a quiet story beat in itself.
+
+STORY FLAG:
+  In Act Two, a member of the Three Percenter / Boogaloo-adjacent
+  militia group recognizes the engraving when Romeo is carrying
+  DON'T TREAD — creating a moment of dangerous mistaken assumption
+  Romeo must navigate carefully.
+  [Full development reserved for main narrative thread]
+
+INSPECT ANIMATION NOTE:
+  The "DON'T TREAD" engraving is clearly visible during the inspect
+  animation. No character draws attention to it.
+
+BUILD NAME displayed in inspect overlay: DON'T TREAD
+
+--------------------------------------------------------------------------------
+BUILD 06 — TRG M10
+Character: SSGT Aki "Frost" Peltola — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       Sako TRG M10
+Caliber:        .338 Lapua Magnum
+Barrel:         27" fluted match-grade, threaded muzzle
+Finish:         Chassis — olive drab
+                Barrel and suppressor — matte black
+                Scope body — matte black
+                Scope caps — tan (always closed when not in use)
+
+ATTACHMENTS:
+  Suppressor:   Sako / Vaime SAR .338 (Finnish-made; run as permanent
+                fixture in field conditions)
+  Optic:        Schmidt & Bender PM II 5-25x56
+                (reticle worn at center from years of use; tracking exact)
+  Bipod:        Atlas BT10 V8 on ARCA rail at forend
+  Magazine:     5-round detachable box; 6 spare magazines in dedicated
+                chest pouch
+  Ammunition:   Lapua Scenar 250gr BTHP
+                (hand-loaded in garrison; factory Lapua in field)
+  Stock:        Adjustable LOP and cheek piece height; both set to Frost's
+                exact measurements; marked with small white ink lines for
+                return-to-zero after transport
+
+NAME NOTE:
+  The TRG M10 is not a name Frost gave the weapon. It is simply what
+  the weapon is — the platform name and the build name are the same
+  because the weapon and the man are so closely identified that the
+  distinction ceased to matter. Frost does not name his weapons.
+  The TRG M10 is just what it is, and everyone who knows Frost
+  knows what that means.
+
+BUILD NAME displayed in inspect overlay: TRG M10
+
+INSPECT ANIMATION NOTE:
+  Frost rotates rifle slowly; runs right thumb along bolt handle
+  (habitual checking motion); checks suppressor lockup with two fingers
+  (quarter-turn test); does not open bolt; scope caps remain closed
+  throughout. The rifle is always ready but never presumptuous about it.
+
+--------------------------------------------------------------------------------
+BUILD 07 — [FROST'S COLD PLUNGE RIFLE — MISSION SPECIFIC]
+Character: SSGT Aki "Frost" Peltola — Cold Frontier 07 flashback only
+--------------------------------------------------------------------------------
+Platform:       Tikka T3x TAC A1
+Caliber:        .308 Winchester
+Config:         Standard Finnish military exercise configuration
+Optic:          Kahles K624i in standard military mount
+Finish:         Factory synthetic stock, utilitarian
+
+NARRATIVE NOTE:
+  Carried by young Frost during Cold Frontier 07 exercise in Lapland.
+  Lost when Frost goes over the cliff into the icy lake — knocked from
+  his hands during the fall. Not recovered. Not available as a pickup.
+  Its loss is the narrative origin of Frost's preference for distance.
+  He learned in that lake what happens when distance fails.
+
+--------------------------------------------------------------------------------
+BUILD 08 — WREN
+Character: LCPL Cassandra "Switchblade" Stewart — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       Steyr AUG A3
+Caliber:        5.56x45mm NATO
+Finish:         Olive green (factory — darker shade than FREYA;
+                closer to Australian AUSCAM green than European NATO green)
+                Present since her Australian Army service; never repainted
+                by AEGIS.
+
+ATTACHMENTS:
+  Rail:         NATO standard Picatinny top rail
+                (replacing AUG factory optical system)
+  Optic:        Trijicon MRO red dot on 1.5" absolute co-witness mount
+  Laser module: MAWL-C1+ at 12 o'clock forward position (AEGIS standard)
+  Weapon light: Modlite OKW, M-LOK side mount at 9 o'clock
+  Suppressor:   SureFire SOCOM556-Mini2 (compact; run suppressed on most
+                operations; removed when psychological effect of unsuppressed
+                report is tactically useful)
+  Grip:         AUG factory thumbhole stock grip — unchanged
+  Sling:        Blue Force Gear Vickers VCAS — single-point converted
+                to two-point
+
+BUILD NAME NOTE:
+  "WREN" — written in black marker on the inside of the dust cover.
+  Not visible during normal gameplay. Only readable during the
+  bolt-open animation after the last round, when the dust cover is
+  briefly visible. Switchblade has never told anyone the name.
+
+INSPECT ANIMATION NOTE:
+  Build name NOT displayed in inspect overlay — unlike FREYA, GRAY GHOST,
+  ARGINT, TRG M10, NOTHING, and DON'T TREAD.
+  WREN is discoverable only via the bolt-open empty-chamber animation.
+  A detail exclusively for attentive players.
+
+--------------------------------------------------------------------------------
+BUILD 09 — ARGINT
+Character: CPL Ştefan "Lupin" Dragavei — Signature Primary
+--------------------------------------------------------------------------------
+Platform:       FN SCAR-H DMR configuration
+Caliber:        7.62x51mm NATO
+Barrel:         20" DMR barrel
+Finish:         Factory flat dark earth
+                [Field adaptation: strip of black electrical tape along
+                top of suppressor body to reduce heat shimmer visible
+                through optic at sustained fire — documented by AEGIS
+                armorer as "field adaptation, non-structural"]
+
+ATTACHMENTS:
+  Trigger:      Geissele Super SCAR (precision trigger group)
+  Optic:        Nightforce NX8 1-8x F1 (first focal plane LPVO)
+  Backup optic: Trijicon RMR, offset at 45 degrees for CQB transitions
+  Laser module: MAWL-C1+ at 12 o'clock
+  Weapon light: SureFire Scout Pro at 9 o'clock M-LOK
+  Bipod:        Atlas BT10 V8 (same as Frost and Lantern)
+  Grip:         Magpul MOE-K2
+  Stock:        Factory SCAR-H folding stock — maximum length of pull
+  Suppressor:   SureFire SOCOM762-Mini2
+
+BUILD NAME NOTE:
+  "ARGINT" — Romanian for silver. Written in small block letters on
+  the underside of the stock in black marker. Silver because the round
+  is large and old and reliable, and Lupin respects all three qualities.
+  He did not explain the name to anyone. Frost read it once during a
+  weapons inspection, said nothing, and that was the end of it.
+
+BUILD NAME displayed in inspect overlay: ARGINT
+
+================================================================================
+SIGNATURE SIDEARMS — SUPPORTING CHARACTERS
+================================================================================
+
+--------------------------------------------------------------------------------
+WALTHER P-99 AS — LUPIN'S SIDEARM
+Character: CPL Ştefan "Lupin" Dragavei
+--------------------------------------------------------------------------------
+Platform:       Walther P-99 AS (anti-stress trigger variant)
+Caliber:        9x19mm
+Provenance:     Romanian Police/military issue variant; carried since
+                Romanian Army service before joining AEGIS
+
+ATTACHMENTS:
+  Barrel:       Threaded
+  Optic:        Trijicon RMR Type 2 (factory optics-cut slide)
+  Weapon light: SureFire X300U
+  Suppressor:   B&T Rotex-III
+
+MAGAZINES:      3 spare; carried in single double-stack chest pouch
+
+--------------------------------------------------------------------------------
+GLOCK 19 GEN 5 — FROST'S SIDEARM
+Character: SSGT Aki "Frost" Peltola
+--------------------------------------------------------------------------------
+Platform:       Glock 19 Gen 5 MOS
+Caliber:        9x19mm
+Config:         Completely unmodified from factory
+                No optic. No weapon light.
+Sights:         Night sights only
+Magazines:      3 spare; baseplates marked with red electrical tape strip
+                for tactile identification in low light
+                (red = pistol magazine)
+
+NOTE: The tape is the only non-factory element. Frost sees no reason
+to complicate a reliable instrument.
+
+--------------------------------------------------------------------------------
+GLOCK 17 GEN 5 — SWITCHBLADE'S SIDEARM
+Character: LCPL Cassandra "Switchblade" Stewart
+--------------------------------------------------------------------------------
+Platform:       Glock 17 Gen 5
+Caliber:        9x19mm
+Config:         Standard — no optic
+Weapon light:   SureFire X300U
+Magazines:      2 spare
+
+================================================================================
+SIGNATURE BLADES
+================================================================================
+
+SWITCHBLADE — Benchmade 3300BK Infidel (OTF automatic)
+  Blade:        3.91" double-edged tanto profile, matte black DLC coating
+  Handle:       Black aluminum, worn on thumb stud from repeated deployment
+  Modification: Lanyard hole with split ring for simultaneous
+                finger-hook deployment and retention
+  Carry:        Right hip, horizontal belt clip
+  History:      Carried since age 17, Melbourne streets; upgraded twice
+                since then; origin not discussed; narratively adjacent
+                to the house fire story beat — never explicitly connected
+
+LUPIN — Romanian Army M1974 bayonet (modified)
+  Blade:        7" fixed; profile thinned and reprofiled by Romanian
+                bladesmith; tip reground to fine point from original
+                bayonet geometry
+  Handle:       Re-wrapped in black paracord over original grip panels
+  Sheath:       Kydex, left thigh, edge-in, handle forward
+  Draw:         Left-handed
+  Provenance:   Romanian Army issue; steel shows Eastern Bloc manufacture
+                pattern recognizable to Warsaw Pact-familiar players
+
+FROST — Peltonen Ranger M95 (Finnish military issue, unmodified)
+  Carry:        Left shoulder strap, handle down
+  History:      Carried since Finnish conscript service; used in Cold
+                Plunge lake encounter (implied, not shown on screen);
+                handle worn smooth at grip point from years of carry
+  Shared note:  Lantern (Nereid Black) carries an identical knife —
+                acquired from a Finnish exchange operator; connects
+                Frost and Lantern without requiring a scene about it
+
+CODY BEAUMONT — Buck 110 Folding Hunter (lockback folder)
+  Handle:       Stag — older style
+  Provenance:   His father's knife before it was his
+  Carry:        Belt sheath, right hip, forward of Shield holster
+  Edge:         Recently sharpened — keener than the rest of his kit
+  Post-Cody:    Found on resistance cell barn workbench in a later mission;
+                cleaned, folded, placed there deliberately;
+                no scene shows who placed it there;
+                no character comments on it
+
+LA AVISPA — Three-blade system
+
+  Blade 1 (Primary):
+    Extrema Ratio HF3 (fixed blade)
+    3.5" partially serrated, tanto tip, Forprene handle
+    Third unit — previous two left at scenes not discussed
+    Carry: horizontal belt position, concealed beneath jacket hem
+    Draw: one-handed from either side
+
+  Blade 2 (Secondary / Presence weapon):
+    Boker Magnum Bowie (12" overall)
+    Carried openly on thigh in Los Sietes enforcement contexts
+    NOT carried when operating with Spook — too conspicuous
+    Drawn slowly in enforcement contexts; the assessment has already
+    been made before the draw begins
+
+  Blade 3 (Deep concealed):
+    Spyderco Civilian (fully serrated curved blade)
+    Appendix inside waistband under any garment
+    Designed for draw-stroke deployment — single motion deploys
+    and uses simultaneously
+    Has not used this specific knife;
+    has used what it replaced, twice
+
+  Signature line (spoken to Spook, quiet moment between contacts):
+  "A gun is a conversation. A knife is a conclusion."
+
+================================================================================
+RARE AND STORY-SPECIFIC NAMED DROPS
+================================================================================
+
+CMMG Mk47 Mutant | 7.62x39mm
+  Dropped by:   K Lounge Sicario Lieutenant
+                (Down Rodeo — Romeo, Game 1)
+  Visual ID:    Red baseball cap backwards; Crye JPC plate carrier;
+                shark jaw tattoo on right forearm — smaller than El
+                Tiburón's; black ink only, no white highlight detail;
+                earned but not yet the full version
+  Ammo note:    7.62x39mm immediately sustainable from DPRK Type 58
+                and Los Sietes AKM drops throughout remainder of mission
+  Timer note:   If player does not close within approximately 90 seconds
+                of standard sicarios being eliminated, Lieutenant exits
+                via rear door — Mk47 and Five-seveN both lost with no
+                notification given to the player
+
+FN Five-seveN (Sicario Lieutenant's) | 5.7x28mm
+  Dropped by:   K Lounge Sicario Lieutenant
+                (forced pistol transition under sustained player pressure)
+  Ammo note:    5.7x28mm not available from any other source in mission;
+                two remaining magazines on drop
+
+SIG MCX-I (Integrated) prototype | 5.56x45mm
+  Dropped by:   Crimson One (War Wolf — East McFarlane Island, Game 1)
+  Features:     Integral suppressor; electronic fire control with
+                programmable rate selector; small round count display
+                on receiver — visible during inspect animation
+  Note:         Highest-value pickup on East McFarlane Island;
+                immediately applicable to remaining War Wolves and
+                Stockbridge security detail
+
+CheyTac M200 Intervention | .408 CheyTac
+  Found:        Hidden in security post, East McFarlane Island (Game 1)
+  Also:         Crimson Two carries his own personal M200 on the
+                ridgeline above the helipad approach — different
+                serialized weapon; two rounds remaining on drop
+  Symmetry:     Killing Crimson Two with the security post M200
+                is a deliberate mechanical callback
+
+Desert Eagle Mk XIX | .50 AE
+  Dropped by:   Mezzanine ambush leader
+                (Pandora's Box — Spook, Game 1)
+  Easter egg:   First 2-3 seconds of Max Payne main theme plays at
+                the exact instant the weapon's weight settles into
+                Spook's hand during the pickup animation —
+                solo piano, low volume, slightly muffled;
+                gone before the player can fully process it;
+                nothing in the game acknowledges it happened
+  Inspect note: Spook turns the weapon over once; pauses a half-beat
+                longer than usual — as if mildly finding it absurd;
+                no dialogue
+  Ammo note:    .50 AE has no other source in mission; seven rounds
+                total; non-replenishable
+
+APS Underwater Rifle
+  Found:        Vympel dive prep station, Sea Lion 7
+                (Wirecutter — Ducky, Game 1)
+  Limitation:   Loaded magazine only; no resupply source anywhere
+                in mission; functionally useless above water
+  Inspect note: Ducky examines it with visible professional curiosity
+  Value:        Collectible
+
+SPP-1M Underwater Pistol
+  Found:        Vympel dive prep bench, same location as APS
+                (Wirecutter — Ducky, Game 1)
+  Limitation:   Four barrels, dart ammunition; four shots then
+                collectible only; silent above water
+  Value:        Collectible / mechanically unique
+
+OTs-14 Groza | 9x39mm / 40mm UGL
+  Dropped by:   Vympel Dive Team Commander (Wirecutter — Ducky, Game 1)
+                Spetsnaz demolitions operator (Rotterdam — Ducky, Game 1)
+  Note:         40mm underbarrel loaded on both drops;
+                9x39mm feeds from AS Val and 9A-91 scavenge throughout
+                remainder of both missions
+
+PSS-2 Silent Pistol | 7.62x41mm
+  Dropped by:   Vympel officer (hold firefight — Wirecutter, Ducky)
+                Vympel Dive Team Commander (secondary opportunity,
+                same mission)
+                FSB officer (stealth section — Burning Daylight, Spook)
+  Mechanical:   Completely silent; no muzzle flash; no suppressor needed;
+                four-round cylinder
+  Note:         If missed in Wirecutter, Burning Daylight is the
+                second and final opportunity in that campaign
+
+Sako TRG M10 (Frost's backup config) | .338 Lapua
+  Found:        AEGIS equipment cache, Svalbard mission
+                (Cold Frontier — Ducky, Game 1)
+  Note:         Frost's secondary precision platform; Finnish heritage;
+                narrative resonance with his character profile
+
+SR-3M Vikhr | 9x39mm — suppressed
+  Dropped by:   Glushkin's close protection
+                (Romeo — Game 2, late campaign)
+  Also found:   GRU Spetsnaz commander KAPITAN (Rotterdam — Ducky)
+                GRU Spetsnaz command element (Hull Breach — Ducky,
+                only available if alarm is raised; stealth run = no spawn)
+  Significance: First signal that Glushkin has FSB-grade personal
+                security rather than standard occupation forces backup
+
+MAWL-DA (BE Meyers)
+  Found:        Pelican case, Montoya Farm security equipment room
+                (Burning Daylight — Spook, Game 1)
+  Unlock:       Tripper opens case; hands to Spook in brief cutscene;
+                available as GRAY GHOST attachment from this point forward
+  Detail:       GenCorp logistics sticker on the case — quietly connects
+                Montoya Farm's security procurement to GenCorp's
+                supply chain; no dialogue draws attention to it
+  Inspect note: Once mounted on GRAY GHOST, thumb activates dial
+                during inspect view; IR beam briefly pulses visible
+
+================================================================================
+WAR WOLVES — INDIVIDUAL LOADOUTS
+================================================================================
+
+CRIMSON ONE — Close Quarters / Point
+  Primary:      SIG MCX-I prototype | 5.56x45mm
+                [drops on death — highest-value pickup on island]
+  Sidearm:      HK45CT | .45 ACP — suppressed
+                [same platform as Spook's NOTHING — uncomfortable
+                implication about shared procurement channels]
+
+CRIMSON TWO — Overwatch / Precision
+  Primary:      CheyTac M200 Intervention | .408 CheyTac
+                (personal weapon; distinct serial from security post M200)
+                [two rounds remaining on drop]
+  Sidearm:      Glock 34 Gen 5 MOS | 9mm (competition long-slide)
+  Position:     Elevated ridgeline above helipad approach
+
+CRIMSON THREE — Breacher / Support
+  Primary:      Daniel Defense Mk18 | 5.56x45mm — suppressed
+                Geissele Super Dynamic 3-Gun trigger
+                [ammo feeds existing 5.56 pool; no exotic drops]
+  Sidearm:      Glock 19
+  Equipment:    M67 fragmentation x2, flashbang x1
+                [first War Wolf to use grenades against the player]
+
+ALL THREE — Shared details:
+  Identity:     CogniConnect neural implants detonate on death —
+                no facial identification possible; no dog tags;
+                no unit patches beneath tactical gear
+  Shared mark:  Small Roman numeral tattoo, inside left wrist:
+                Crimson One: I
+                Crimson Two: II
+                Crimson Three: III
+                Visible only during inspect-adjacent looting animation
+                Never explained in Game 1
+
+================================================================================
+NAMED ENEMY SIGNATURE WEAPONS
+================================================================================
+
+GLUSHKIN — SR-1 Vektor | 9x21mm
+  Carry:        Civilian shoulder rig under jacket; concealed throughout
+  Significance: FSB weapon, not military — armor-piercing 9x21mm
+                signals intelligence background, not field command
+  Final moment: Holds the SR-1 through his last words; hammer back;
+                round in chamber; never fired a second shot
+  Inspect note: Inspecting his dropped SR-1 after death shows hammer
+                cocked — the round still chambered
+
+BISUTRI — HK416 A5 (suppressed) | 5.56x45mm — Primary
+           FN Five-seveN (custom engraved) | 5.7x28mm — Sidearm
+  Five-seveN engraving: A scalpel — clean and simple, left side of
+                slide; "BISUTRI" on the right side; he had it done
+                himself; not a status symbol — a signature
+  Note:         Bisutri not killed in Coleman prison break; his
+                Five-seveN only obtainable by defeating him directly
+                in a later confrontation if developed
+
+K LOUNGE SICARIO LIEUTENANT — CMMG Mk47 Mutant + FN Five-seveN
+  [See CMMG Mk47 Mutant entry above for full drop behavior detail]
+
+================================================================================
+INSPECT WEAPON MECHANIC — DESIGN REFERENCE
+================================================================================
+
+BEHAVIOR BY WEAPON CLASS:
+
+  Rifles / carbines / DMRs / LMGs:
+    Arms-length presentation; weapon pulled slightly back and rotated
+    slowly to the right; three-quarter view of receiver, optics,
+    handguard; approximately 3-4 seconds full inspect; support hand
+    repositions naturally to allow the view
+
+  Pistols / compact SMGs:
+    Weapon raised slightly and turned to strong-side profile;
+    for weapons with visible hammers (CZ P-09, HK45CT, P-99)
+    animation includes a brief hammer or safety check motion —
+    one mechanical gesture that varies per weapon
+
+  Shotguns:
+    Short rack-and-check motion; forend pulled back a half-inch
+    and released; functional rather than aesthetic
+
+SIGNATURE WEAPON EXTENDED INSPECT:
+  Signature builds receive slightly longer or more detailed animations
+  Build name appears in small text at bottom of inspect frame for:
+  GRAY GHOST / NOTHING / FREYA / TRG M10 / ARGINT / DON'T TREAD
+  WREN does not appear in overlay — discoverable only via
+  bolt-open empty-chamber animation
+
+OVERLAY SYSTEM (field modification mode):
+  Semi-transparent non-intrusive overlay during inspect
+  Labels appear near attachment points with available interactions
+  Empty rails with nothing available show no label
+  Field-removable attachments interactable during inspect:
+    — Suppressors (threaded barrels)
+    — Optics on quick-detach mounts
+    — Weapon lights (M-LOK / Picatinny)
+    — MAWL-DA and MAWL-C1+ laser modules
+    — Foregrips (M-LOK / Picatinny)
+    — Ammunition type where multiple types carried
+  Non-removable in field (no prompt appears):
+    — Fixed barrels
+    — Integrated handguards
+    — Permanently mounted hardware
+
+AMMUNITION SWITCHING (inspect menu):
+  Most weapons: single caliber option shown
+  GRAY GHOST: 300 BLK SUBSONIC / 300 BLK SUPERSONIC
+    Switching requires magazine change animation — approximately
+    4 seconds; not skippable; tactical risk if done mid-contact
+
+REMOVAL ANIMATIONS:
+  Physical attachment removal: approximately 3 seconds
+  Not skippable — removing a suppressor mid-firefight is a
+  deliberate tactical decision with real time cost
+
+CHARACTER-SPECIFIC CLEANING ANIMATIONS (gunsmith):
+  Romeo:  Fast and functional; muscle memory; no ceremony
+  Ducky:  Methodical; checks each component before reassembly
+  Spook:  Slow and almost meditative — the cleaning is something
+          he does when he needs to think
+
+================================================================================
+END OF NAMED WEAPON BUILDS — MASTER REFERENCE
+Version 2.1 — Corrected and Complete
+================================================================================
+
+
+====================================================================================================
+[PW_Source_Page_Boston_Weapons_Armorer_2026-04-13_rev1.txt]
+Origin: generated repo-side source landing
+Chars: 9143
+SHA-256 prefix: 4367d10cdfbce4e0
+====================================================================================================
+
+PROJECT WARRIORS — SOURCE PAGE
+Document ID: PW-SRC-GWS-001
+Title: Boston Weapons Packet / Kearney / Romeo Rifle Progression
+Domain: Gameplay / Weapons / Style
+Status: ACTIVE SOURCE PAGE
+Canon State: LOCKED CORE ITEMS / OPEN FOR EXPANSION
+Source Type: PRIMARY WORKING SOURCE
+Last Updated: 2026-04-13
+Supersedes: patch-only Boston weapons carry-forward treatment
+Superseded By: —
+Related Files:
+- PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+- PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+- PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+Notes:
+- This page consolidates the currently locked Boston small-arms continuity that was previously spread across patch notes and memory locks.
+- Treat this as the dedicated repo-side packet the migration audit recommended preserving.
+
+================================================================================
+01. PURPOSE
+================================================================================
+
+This page governs Boston-era weapon identity for Romeo Game 3 and the associated hidden armorer / sustainment logic centered on Eamonn Kearney.
+
+It exists to do three things:
+- keep Romeo’s rifle progression legible and place-bound
+- protect Kearney from sliding into generic vendor territory
+- keep the Boston weapon language supportable, practical, and materially grounded
+
+================================================================================
+02. EAMONN KEARNEY — LOCKED FUNCTION
+================================================================================
+
+Name: Eamonn Kearney
+Age: 58
+Identity: Irish-born, Boston-based gunsmith / machinist / repair specialist with a buried history of quiet clandestine armorer work around earlier underground networks
+Narrative function:
+- hidden armorer / repair specialist
+- sustainment node
+- proof Boston had professional continuity before Romeo arrived
+- recurring infrastructure figure, not shopkeeper-first content
+
+Voice / behavioral rules:
+- exact
+- dry
+- bench-authoritative
+- unsentimental
+- mildly territorial about workmanship
+- contemptuous of preventable sloppiness and fashion-gun nonsense
+
+Representative lines / logic:
+- “That mag’s done.”
+- “Captured doesn’t mean usable.”
+- “There. Now it’s honest.”
+- “Trust is for people. This is supportability.”
+- “You’re getting less expensive.”
+
+================================================================================
+03. Kearney’s Permanent Node
+================================================================================
+
+Shop logic:
+- hidden storage / service-floor workshop in a mostly dead light-industrial or service-belt building
+- accessed by rear lot / service route / freight path logic
+- not a glossy storefront
+- not a loot room
+- not a conventional RPG merchant space
+
+Visual rule:
+The space should read as professional continuity under occupation pressure: selective power, machine tools, repair benches, racks, crates, spare optics and mounts, magazines sorted by condition, honest wear, and supportability-first triage.
+
+================================================================================
+04. ROMEO BOSTON RIFLE PROGRESSION — LOCKED
+================================================================================
+
+A. EARLIER RIFLE — DON’T TREAD
+- Place-bound to Kentucky / Game 2 identity
+- Should be intentionally parted with before or at the Boston transition
+- Do not drag deep into Boston as if nothing changed
+
+B. BOSTON-ENTRY RIFLE — UNNAMED TRANSITIONAL CARBINE
+- competent but narratively subordinate
+- AR-pattern, practical, unsuppressed by default
+- useful, credible, increasingly costly / compromised
+- exists partly so Kearney has something real to judge and maintain
+
+C. BOSTON SIGNATURE — BUILD 12: CIVIL DISOBEDIENCE
+- Romeo’s Boston rifle from late Act II onward
+- provided / built through Kearney
+- this is Boston’s rifle in Romeo’s hands
+
+Narrative rule:
+Romeo should feel like he carries different places differently. Boston is not a continuation skin for Kentucky.
+
+================================================================================
+05. BUILD 10 — WORK ORDER
+================================================================================
+
+Owner: Eamonn Kearney
+Function: personal benchmark rifle / shop standard
+Configuration direction:
+- old-service-pattern Colt M4A1 lane
+- 14.5-inch old-service carbine
+- KAC RAS
+- Aimpoint PRO
+- SureFire Scout
+- plain two-point sling
+- A2 flash hider
+- no laser by default
+
+Meaning:
+WORK ORDER is not styled for glamour. It is the rifle that expresses Kearney’s standard of honesty, maintainability, and supportability.
+
+Presentation rule:
+This should read like the rifle of a man who fixes problems for a living, not a collector flex.
+
+================================================================================
+06. BUILD 12 — CIVIL DISOBEDIENCE
+================================================================================
+
+Owner / user: Romeo
+Function: late-Act-II onward Boston signature rifle
+Configuration direction:
+- 14.5-inch midlength AR-pattern carbine
+- free-float M-LOK rail
+- Aimpoint T-2
+- SureFire Scout
+- Blue Force Gear Vickers sling
+- practical furniture
+- unsuppressed by default
+- no laser by default
+- domestic-parts / supportable logic
+
+Meaning:
+CIVIL DISOBEDIENCE is not just Romeo’s best rifle. It is the moment Boston itself starts investing in him as an enduring instrument rather than a passing outsider.
+
+Key identity line to protect:
+“That one was a rifle you carried in Boston. This one’s a Boston rifle.”
+
+================================================================================
+07. BUILD 08 — HELL OR HIGH WATER
+================================================================================
+
+Owner / user: Elena Costa
+Function: Boston local armed center-of-gravity weapon
+Configuration direction:
+- old-service-pattern Colt M4A1
+- detachable carry handle retained
+- iron-sight / carry-handle-forward identity
+- visible wear
+- tan rubber bands on stock
+- green tape on top of stock
+- handguard text reading “…HELL OR HIGH WATER…”
+
+Meaning:
+HELL OR HIGH WATER should read as a city-kept rifle: older, worn, stubborn, completely trustworthy to the person who knows it.
+
+It should not be prettified into boutique retro aesthetics.
+
+================================================================================
+08. THE RIGHT RIFLE — LOCKED HANDOFF SCENE
+================================================================================
+
+Placement:
+- late Act II
+- between Mission 07 and Mission 08
+- hinge before harbor / widened shadow-government phase
+
+Function:
+- Kearney judges Romeo’s transitional rifle too full of small apologies
+- Elena has quietly been part of the decision to build for him
+- CIVIL DISOBEDIENCE is handed off only when Romeo is no longer too expensive to build for
+
+Thematic point:
+The scene is about trust, supportability, and belonging.
+Not a hero-upgrade vending moment.
+
+================================================================================
+09. SUPPORTABILITY RULES
+================================================================================
+
+Global Boston small-arms rules:
+- practical parts logic
+- maintainable domestic / common-source component choices where possible
+- magazines matter
+- optics and mounts should read honest and zeroed, not decorative
+- captured weapons are suspect until proven supportable
+- older service-pattern weapons remain credible if maintained properly
+
+Write against:
+- social-media operator builds
+- gratuitous rare-part fetishism
+- naming every weapon in ways characters would not
+- suppressor / laser creep without mission justification
+
+================================================================================
+10. ROLE SEPARATION
+================================================================================
+
+Kearney is not:
+- a generic vendor
+- Van Hult with smaller tools
+- a universal procurement switch
+
+Van Hult is not:
+- an armorer substitute
+- the small-arms continuity node
+
+Elena is not:
+- a mascot for Boston armed struggle
+- only a cutscene face
+
+Romeo is not:
+- carrying a single campaign-agnostic hero gun forever
+
+================================================================================
+11. OPEN EXPANSION ITEMS
+================================================================================
+
+Still open for later packet expansion:
+- transitional Boston-entry rifle exact spec block
+- Elena sidearm / secondary continuity if needed
+- Kearney bench tools / shop dressing appendix
+- magazine-condition taxonomy if the system pass needs it
+- preferred optic / mount honesty notes by faction and availability
+
+================================================================================
+12. SOURCE-GOVERNANCE NOTE
+================================================================================
+
+This page should be treated as the dedicated Boston weapons packet the migration audit recommended keeping in repo-side sources.
+Once refreshed into the compendium, the Boston weapons patch notes can be considered absorbed into this page.
+
