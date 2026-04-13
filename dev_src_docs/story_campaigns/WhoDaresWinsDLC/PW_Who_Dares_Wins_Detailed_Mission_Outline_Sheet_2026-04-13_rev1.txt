@@ -1,0 +1,523 @@
+PROJECT WARRIORS — WHO DARES WINS DETAILED MISSION OUTLINE SHEET
+Generated: 2026-04-13
+Version: rev1
+Status: thread-locked development reference; source-ready for compendium landing
+Scope: detailed mission-by-mission outline for Project Warriors: Who Dares Wins, built from the UK response spine and campaign structure page.
+
+================================================================================
+PURPOSE
+================================================================================
+This page expands the Who Dares Wins campaign ladder into a practical mission-outline
+sheet that can support later mission scripting, squad usage, Boston handoff logic,
+and Vickers-layer integration.
+
+The governing rule remains simple:
+Who Dares Wins must make the later British Boston arc feel earned.
+It should explain why Britain still functions, what kind of war Britain can still fight,
+and how a damaged state becomes capable of one precise transatlantic intervention.
+
+================================================================================
+INHERITED LOCKS THIS PAGE MUST HONOR
+================================================================================
+1. Who Dares Wins covers both:
+   - SAS deployment operations
+   - the British home front and Britain’s response to PANDORA and the subsequent war
+
+2. The later Boston-side British package remains:
+   - SAS = covert sabotage / infiltration / hostage-HVP extraction
+   - SBS = covert maritime sabotage / blockade disruption / insertion expertise
+   - Royal Marines (+ Royal Navy) under Lt. Dorothy Anne Vickers = later widening,
+     resistance support, CASEVAC growth, and real balance-of-power shift
+
+3. British support in Boston must begin as covert competence and only later widen into
+   meaningful support / CASEVAC capability.
+
+4. The DLC must not consume Boston’s main payoffs. It should end by making the Boston arc
+   possible, not by replacing it.
+
+5. Working lock adopted from current thread:
+   the later joint Boston harbor strike should be motivated by disrupting a key Russian
+   occupation resupply delivery through the enemy-controlled port of Boston. The target is
+   not just “a ship” but a load-bearing ordnance / sustainment movement whose destruction
+   materially weakens occupation capacity in the city.
+
+================================================================================
+PRIMARY PLAYABLE-POV RECOMMENDATION
+================================================================================
+Primary playable protagonist: MACE.
+
+Reason:
+- keeps the DLC recognizably SAS-led
+- supports both home-front and deployment phases cleanly
+- allows PATCH and GHOST to function as the immediate SAS team
+- lets DEPTH, CUTTER, and WREN grow from adjacent capability into indispensable SBS counterparts
+
+Usage rule:
+Mace remains principal POV. Short controlled perspective deviations are permissible only if
+later development identifies a genuinely load-bearing SBS-specific mechanic that cannot be
+felt through Mace’s observation and coordination.
+
+================================================================================
+TONE / REGISTER RULES
+================================================================================
+- Britain is damaged, not untouched.
+- Britain survives by discipline, redundancy, triage, and grim competence.
+- The DLC is not patriotic pageantry and not collapse porn.
+- Most missions should feel exact, pressured, and materially grounded.
+- Maritime operations should feel technical, cold, and procedural rather than swashbuckling.
+- By the end, the player should feel that Boston is possible only because Britain narrowed its
+  ambitions and chose one high-value intervention it could actually sustain.
+
+================================================================================
+PROLOGUE — DEAD CHANNEL
+================================================================================
+ROLE
+Playable opening on PANDORA day.
+
+MISSION PURPOSE
+Establish the British version of the catastrophe: severe military and infrastructure shock,
+command confusion, dead systems, partial continuity, and the sudden shift from routine
+operation to state triage.
+
+SETTING LANE
+Strategic military or naval site in Britain. Best-fit lane: a coastal or command-adjacent
+facility where dead networks and misidentification fear are immediately legible.
+
+CORE GAMEPLAY IDENTITY
+- short playable crisis opening
+- urgent but simple trained tasks
+- fragmentary radio traffic
+- no full battlefield picture
+- danger created by uncertainty, not spectacle
+
+OBJECTIVE FLOW
+1. Routine status interrupted by contradictory alarms and dead channels.
+2. Player performs immediate containment tasks under incomplete information.
+3. Base/system confusion produces brief friend-or-foe pressure without cheap melodrama.
+4. The mission resolves not with victory but with partial restoration of a critical function.
+
+KEY BEATS
+- first realization that Britain has also been hit hard
+- first proof that disciplined professionals are the only reason anything still works
+- first tonal statement that normal life is already over
+
+SQUAD / CAST USE
+- Mace present in pre-crisis state, immediately forced into emergency problem-solving
+- other team members can be heard or briefly seen, but do not need full dramatic introduction yet
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+It establishes the cost Britain pays before it can matter abroad. Boston help later will read as
+something Britain fought to remain capable of, not something it could do for free.
+
+OPEN FLAGS
+- exact site selection
+- whether this opens with Mace already active-duty on site or in transit to a response node
+
+================================================================================
+MISSION 01 — HOLDFAST
+================================================================================
+ROLE
+First full mission. Britain chooses what must be preserved.
+
+MISSION PURPOSE
+Dramatize the preservation of state core functions: continuity, deterrence, strategic survivability,
+base integrity, and command retention.
+
+SETTING LANE
+Sensitive military / naval / command continuity site.
+
+CORE GAMEPLAY IDENTITY
+- defensive redirection under incomplete information
+- compound fighting and interior movement
+- mixed security and combat tasks
+- pressure from uncertainty rather than huge numbers
+
+OBJECTIVE FLOW
+1. Move to a compromised continuity-critical facility.
+2. Re-establish physical control of one or more breached sections.
+3. Prevent destruction or compromise of a strategic process, archive, or command function.
+4. Extract or secure a person / device / facility section necessary for continuity.
+
+KEY BEATS
+- Britain cannot save everything and stops pretending otherwise
+- the state preserves core capability at the expense of ordinary functionality
+- Mace’s team is defined as exact, unsentimental, and already beyond peacetime assumptions
+
+SQUAD / CAST USE
+- full SAS team introduced in functional rather than expository fashion
+- Patch gets first clear support-role moment
+- Ghost gets first low-verbal, high-competence beat
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+This is the foundation of the whole British arc: Britain still has something to project later because
+it first chose what not to lose.
+
+OPEN FLAGS
+- exact national-level function preserved here
+- whether continuity-of-government remains off-screen or partially player-facing
+
+================================================================================
+MISSION 02 — TIDELINE
+================================================================================
+ROLE
+First true triage-state mission.
+
+MISSION PURPOSE
+Show that Britain’s war rapidly becomes one of throughput, access, and infrastructure survival.
+The enemy target is not national symbolism but ports, fuel, maritime movement, and undersea or
+shoreline connectivity.
+
+SETTING LANE
+British coastal logistics node, cable-landing environment, fuel terminal, or military-adjacent port.
+
+CORE GAMEPLAY IDENTITY
+- maritime-industrial environment
+- partial stealth and close interception
+- civilian-proximate pressure
+- environmental hazards matter
+
+OBJECTIVE FLOW
+1. Conduct reconnaissance on a threatened coastal node.
+2. Identify sabotage architecture already in place.
+3. Intercept multiple enemy actions with different tempos: planted charges, access compromise,
+   communications disruption, and a timed exfil attempt.
+4. Save enough of the node to preserve function, even if not all of it survives intact.
+
+KEY BEATS
+- Britain becomes a triage power rather than a normal state
+- the war is increasingly about keeping corridors open
+- ports and cable / fuel logic are now explicit, not background lore
+
+SQUAD / CAST USE
+- SAS still primary, but the mission begins to imply the future need for SBS expertise
+- local uniformed defenders or security staff can briefly appear to widen the world
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+It teaches the campaign’s port logic early. The later Boston harbor material will feel like a natural
+extension of something the DLC has already taught the player to care about.
+
+OPEN FLAGS
+- exact facility type
+- whether the target is more cable-centric or fuel-centric
+
+================================================================================
+MISSION 03 — GLASSHOUSE
+================================================================================
+ROLE
+Internal penetration mission.
+
+MISSION PURPOSE
+Reveal that Britain’s surviving institutions are functioning but compromised. The threat is not only
+external assault; it is prepared access, contractor-mediated vulnerability, and penetrated systems.
+
+SETTING LANE
+Secure technical or contractor-linked site inside Britain.
+
+CORE GAMEPLAY IDENTITY
+- intelligence-led raid
+- room-to-room clearing with document / device capture
+- possible soft-stealth opening leading into controlled violence
+- strong “exact SAS work” identity
+
+OBJECTIVE FLOW
+1. Follow fragmentary anomaly trail to a nominally British-controlled site.
+2. Confirm that compromise came through access, not brute force.
+3. Seize drives, communication gear, and/or liaison records before sanitization.
+4. Fight or intercept exfil element attempting to erase the chain.
+
+KEY BEATS
+- Britain survives, but not cleanly
+- trust narrows
+- the campaign’s moral register tightens: preservation without innocence
+
+SQUAD / CAST USE
+- Patch or Ghost gets the mission’s most load-bearing specialist contribution
+- Mace’s tone as leader should settle here: quiet, exact, mildly dry, no speeches
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+Explains why Britain’s later Boston intervention must begin very small. A penetrated state does not
+commit broad force lightly.
+
+OPEN FLAGS
+- exact compromised actor type: contractor, insider, parallel intelligence access, or mixed chain
+
+================================================================================
+MISSION 04 — GREY WATER
+================================================================================
+ROLE
+The campaign turns seaward.
+
+MISSION PURPOSE
+Transition Britain from homeland sealing to North Atlantic edge-work. This is where SBS stops
+being a later add-on and becomes indispensable.
+
+SETTING LANE
+Littoral intercept or vessel-boarding operation in rough, low-visibility maritime conditions.
+
+CORE GAMEPLAY IDENTITY
+- night maritime movement
+- boarding and hull / ladder / confined-vessel space
+- timing, route discipline, and low-signature movement
+- the ocean as an operational system, not scenery
+
+OBJECTIVE FLOW
+1. Link up with SBS counterparts and conduct approach planning.
+2. Infiltrate a disguised vessel / surveillance platform / route-monitoring craft.
+3. Recover route or patrol intelligence and disable the target without over-signaturing the action.
+4. Exfil before the broader maritime picture tightens around the team.
+
+KEY BEATS
+- first full SBS operational legitimacy
+- the Atlantic becomes a contested living space
+- Britain rediscovers a kind of war it can still fight well: cold, maritime, deniable
+
+SQUAD / CAST USE
+- Depth, Cutter, and Wren properly enter the playable architecture here
+- Cutter should begin reading as the practical harbor / route mind
+- Wren begins to establish the comms-intercept lane that later matters in Boston
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+Makes later submarine transit and covert Atlantic insertion feel credible rather than hand-waved.
+
+OPEN FLAGS
+- exact target type
+- how much of this mission is above-water versus submerged approach
+
+================================================================================
+MISSION 05 — LEE SHORE
+================================================================================
+ROLE
+First outward strike with clear strategic consequence.
+
+MISSION PURPOSE
+Prove that Britain can still do more than hold ground at home. The target should be small,
+technical, and load-bearing: a reconnaissance relay, route-monitoring asset, covert staging node,
+or logistics-support element whose removal opens maneuver space.
+
+SETTING LANE
+North Atlantic edge-space beyond mainland Britain.
+
+CORE GAMEPLAY IDENTITY
+- exposed terrain or weather
+- longer insertion and extraction discipline
+- precision strike rather than attritional firefight
+- isolation and distance more important than spectacle
+
+OBJECTIVE FLOW
+1. Insert onto or near a remote operational node.
+2. Conduct surveillance confirmation before action.
+3. Neutralize the target with minimal signature and recover any route-relevant intelligence.
+4. Survive a tightening exfil window as the enemy begins to understand something has changed.
+
+KEY BEATS
+- Britain’s surviving strength is selective reach, not mass return
+- the player feels risk, distance, and narrow operating margin
+- the war’s geography expands without losing precision
+
+SQUAD / CAST USE
+- strongest SAS/SBS integration so far
+- Ghost can carry a quiet but memorable role here, especially if the target demands patience
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+This is the doctrinal bridge to Boston. Britain is now demonstrated capable of reaching out and
+opening one lane that matters.
+
+OPEN FLAGS
+- exact target selection
+- whether this mission has a harsher weather identity or a stealthier summer-fog identity
+
+================================================================================
+MISSION 06 — NEXT OF KIN
+================================================================================
+ROLE
+Boston becomes necessary.
+
+MISSION PURPOSE
+Converge the human, intelligence, and strategic reasons for intervening around Boston.
+This mission should establish that Boston matters because several things overlap there at once:
+trapped British-linked personnel, coalition leverage, blockade pressure, and a city where a small
+British intervention might genuinely alter the board.
+
+SETTING LANE
+Interception, recovery, or liaison operation yielding Boston-facing intelligence and human stakes.
+
+CORE GAMEPLAY IDENTITY
+- capture / recover / extract rather than pure destruction
+- time pressure and moral pressure together
+- intelligence mission with emotional weight
+
+OBJECTIVE FLOW
+1. Recover a person, courier, archive, or device carrying Boston-relevant knowledge.
+2. Confirm that British nationals or British intelligence-linked personnel remain exposed in or near
+   the Boston battlespace.
+3. Identify Boston not just as a humanitarian site but as an operational hinge on the Atlantic front.
+4. End with a concrete decision point: Britain now has enough reason to consider a transatlantic move.
+
+KEY BEATS
+- Boston becomes legible as a real obligation
+- the operation is not charity and not sentimentality; it is a convergence of duty and strategy
+- the player feels the moment Britain’s war stops being contained to its own perimeter
+
+SQUAD / CAST USE
+- Mace carries command judgement
+- Wren or Patch can own the intelligence readability of the recovered material
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+This is the explicit narrative hinge. It justifies why Britain risks a covert move across the Atlantic.
+
+OPEN FLAGS
+- exact source of Boston intelligence
+- whether the British-linked human stake is a family case, intelligence case, or mixed case
+
+================================================================================
+MISSION 07 — LONG WAKE
+================================================================================
+ROLE
+Prepare the lane and commit to the operation.
+
+MISSION PURPOSE
+Clear, protect, or confirm the covert route by which the SAS/SBS package can move toward New
+England at all. This is the last point at which Britain can still decide not to go.
+
+SETTING LANE
+Maritime pre-insertion shaping operation in the Atlantic.
+
+CORE GAMEPLAY IDENTITY
+- covert maritime strike / denial
+- route timing, patrol windows, and low-signature destruction
+- tension from narrow windows rather than massive combat density
+
+OBJECTIVE FLOW
+1. Identify the route-obstructing obstacle: patrol pattern, route-monitoring node, relay, or support vessel.
+2. Conduct a shaping action that clears or blinds part of the picture.
+3. Confirm a viable insertion lane through the blockade environment.
+4. Exit with the understanding that the decision has effectively been made.
+
+KEY BEATS
+- Britain does not “go global” again; it chooses one dangerous reach operation it can actually support
+- the team crosses from possibility to commitment
+- SBS route logic becomes fully load-bearing
+
+SQUAD / CAST USE
+- strongest pure maritime teamwork in the DLC
+- Cutter should feel especially authoritative here
+- Depth’s stillness / dive identity can land strongly if underwater work is used
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+This mission is the practical precondition for submarine-supported insertion and first contact on the
+New England side.
+
+OPEN FLAGS
+- exact nature of the route obstacle
+- whether the mission leans more sabotage or more intelligence denial
+
+================================================================================
+MISSION 08 — FIRST FOOTING
+================================================================================
+ROLE
+Campaign finale. Britain arrives.
+
+MISSION PURPOSE
+Deliver the first clandestine British foothold on the New England side without consuming the major
+Boston story beats that belong to Romeo’s campaign.
+
+SETTING LANE
+New England coastal insertion and early inland movement toward first hide-site / contact chain.
+
+CORE GAMEPLAY IDENTITY
+- stealth-heavy, tension-heavy
+- minimal signature
+- survival through patience, timing, and exactness
+- the most important emotional effect is not conquest but arrival
+
+OBJECTIVE FLOW
+1. Execute transatlantic insertion under extreme low-signature conditions.
+2. Make landfall and survive first movement off the shoreline.
+3. Establish first safe hide-site / observation point / contact node.
+4. Confirm that the British package has a viable foothold and that resistance capacity exists to work with.
+5. End before the DLC becomes Romeo’s Boston campaign in miniature.
+
+KEY BEATS
+- the British home-front survival story becomes physical presence inside occupied America
+- covert competence, not spectacle, is the reward
+- the sense of scale contracts deliberately from state logic to one hidden foothold in enemy-held space
+
+SQUAD / CAST USE
+- Mace central
+- SBS capability remains inseparable from success
+- no Vickers arrival yet; only the knowledge that broader widening may come later if the foothold lives
+
+WHAT THIS MISSION CONTRIBUTES TO BOSTON
+Direct handoff to Romeo’s later first SAS contact and the British Boston-side architecture.
+
+OPEN FLAGS
+- exact New England insertion point
+- whether first local contact is American resistance, British-linked holdout, or observation-only
+
+================================================================================
+EPILOGUE — THE OTHER SIDE OF THE OCEAN
+================================================================================
+ROLE
+Short coda / handoff scene.
+
+PURPOSE
+Connect the DLC cleanly into the already-seeded Boston architecture without spending Boston’s own
+mission payoffs too early.
+
+RECOMMENDED CONTENT
+- SAS/SBS foothold confirmed
+- first task lanes identified: surveillance, sabotage, extraction, harbor shaping
+- explicit recognition that the force is too small to alter Boston alone
+- early mention of a later widening layer under Lt. Dorothy Anne Vickers
+- confirmation that broader British support and CASEVAC capability are not yet available
+
+WORKING BOSTON-HARBOR DIRECTION ADOPTED FROM THIS THREAD
+The joint harbor strike later in Boston should target a Russian occupation resupply movement through
+enemy-controlled port infrastructure. The target is best understood as a key ordnance / sustainment
+shipment whose destruction would materially weaken occupation combat power in Boston rather than only
+produce symbolic damage.
+
+Why this works:
+- aligns with the already-seeded “ordnance/supply vessel” concept
+- fits SBS maritime sabotage and blockade-disruption identity cleanly
+- gives SAS a real supporting sabotage / infiltration role onshore
+- gives Romeo a clear city-level reason to participate later
+- makes the harbor strike a serious operational act, not just a Tea Party allusion
+
+BEST END NOTE
+Quiet commitment, not triumph.
+Britain is now on the far side of the Atlantic, but only just.
+
+================================================================================
+MISSION LADDER — COMPACT OPERATIONAL VIEW
+================================================================================
+PROLOGUE  DEAD CHANNEL   disciplined shock / first survival tasks
+01        HOLDFAST       preserve the state core
+02        TIDELINE       save coastal throughput / infrastructure survivability
+03        GLASSHOUSE     expose internal penetration
+04        GREY WATER     first true SBS maritime edge mission
+05        LEE SHORE      outward precision strike proving selective reach
+06        NEXT OF KIN    Boston becomes human + strategic imperative
+07        LONG WAKE      clear / protect covert Atlantic lane
+08        FIRST FOOTING  clandestine New England foothold
+EPILOGUE  THE OTHER SIDE OF THE OCEAN   Boston and Vickers handoff setup
+
+================================================================================
+DELIBERATELY RESERVED FOR LATER BOSTON DEVELOPMENT
+================================================================================
+Do not spend these fully inside the DLC:
+- Romeo’s first direct SAS contact in Boston
+- the full hostage / HVP extraction mission in Boston
+- the joint SAS / SBS / Romeo harbor strike itself
+- the Tea Party inversion layer in full mission form
+- the wheelchair exfil side quest to the SAS boat
+- late British CASEVAC / widened support under Vickers and Royal Marines
+
+================================================================================
+NEXT RECOMMENDED PAGES
+================================================================================
+1. Who Dares Wins cast / squad-use page
+2. individual mission sheets for Missions 01–08
+3. Vickers / Royal Marines widening page
+4. Boston harbor strike reference page
+5. Boston handoff bridge note from FIRST FOOTING to Romeo first-contact mission

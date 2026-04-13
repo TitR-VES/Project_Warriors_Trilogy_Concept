@@ -1,0 +1,269 @@
+PROJECT WARRIORS — UK RESPONSE / WHO DARES WINS REFERENCE PAGE
+Generated: 2026-04-13
+Version: rev1
+Status: thread-locked development reference; source-ready for compendium landing
+Scope: national-response spine linking the British home-front arc in Project Warriors: Who Dares Wins to the British intervention architecture in Romeo Game 3 Boston.
+
+================================================================================
+PURPOSE
+================================================================================
+This page supplies the missing national logic that must govern both:
+- Project Warriors: Who Dares Wins
+- the British force package in Romeo’s occupied-Boston / liberation arc
+
+The guiding requirement is continuity of cause and effect. Britain’s Boston presence
+must feel like the later outward expression of the same wartime reality established
+in the DLC, not a separately invented subplot.
+
+================================================================================
+CORE LOCK
+================================================================================
+Britain survives PANDORA as a strained but functioning state by preserving continuity
+of government, strategic deterrence, maritime access, and select high-end military
+capability. It does not emerge untouched, and it does not mirror the full state-
+fracture experienced by the United States. In the war’s first phase Britain becomes
+an emergency triage power rather than a sanctuary. Who Dares Wins covers the passage
+from shock to selective reach. The British Boston arc is the later outward expression
+of that same logic: SAS and SBS first, Royal Marines and Royal Navy widening only
+after a covert foothold and strategic justification already exist.
+
+Short thematic shorthand:
+Damaged state. Preserved core. Selective reach.
+
+================================================================================
+01. PANDORA DAY — BRITAIN IS HIT HARD, NOT BROKEN
+================================================================================
+Britain should register PANDORA as a severe national shock, not a near-miss.
+The correct tonal read is abrupt compression of normal life under military and
+infrastructural stress.
+
+Recommended immediate effects:
+- severe disruption to military and governmental digital systems
+- rolling power, telecom, transport, and logistics failures in selected regions
+- paralysis and emergency restriction at airfields, ports, and rail nodes
+- autonomous / networked-defense anomalies causing panic, misidentification, and
+  localized command breakdowns
+- sudden domestic fear of sabotage, infiltration, and follow-on attacks
+
+Narrative rule:
+The opening British experience is not competence porn. It is disciplined survival
+under pressure.
+
+================================================================================
+02. FIRST 72 HOURS — SAVE THE STATE, NOT NORMAL LIFE
+================================================================================
+Britain’s first successful action after PANDORA is not restoring public normalcy.
+It is preventing cascading state failure.
+
+Immediate national priorities:
+- continuity of government
+- survivability of strategic deterrent / nuclear command architecture
+- air-defense and early-warning continuity
+- protection of key naval bases, ports, fuel nodes, and communications sites
+- prevention of opportunistic internal panic, sabotage, and administrative collapse
+
+Home-front texture guidance:
+- emergency broadcasts instead of normal media rhythm
+- reduced civilian movement and visible military security around critical sites
+- queueing, rumor, fuel anxiety, restricted travel, and compressed public language
+- sense that the country is still functioning, but in a narrowed wartime register
+
+Comparative rule:
+Britain should not read as unaffected and should not read as fully shattered. The
+point is that it retains enough institutional spine to act coherently while still
+paying a visible price.
+
+================================================================================
+03. FIRST MONTH — BRITAIN AS A TRIAGE POWER
+================================================================================
+In the first post-PANDORA month Britain becomes a North Atlantic triage state.
+It cannot operate as a confident global enforcer. It can still preserve, organize,
+repair, launch from, and coordinate key functions that larger broken systems no
+longer can.
+
+This phase should define the home-front identity of Who Dares Wins.
+
+Core conditions:
+- military overstretch without full institutional collapse
+- economic constriction and fuel / shipping pressure
+- hardened infrastructure protection posture
+- counter-sabotage and counter-infiltration activity across ports, coasts, bases,
+  signal sites, and sensitive civilian infrastructure
+- public fatigue, professionalism, and narrowing expectation of ordinary life
+
+Best atmospheric read:
+Britain feels tired, disciplined, and increasingly wartime-practical.
+
+================================================================================
+04. WHAT BRITAIN CAN STILL DO — SELECTIVE FORCE, NOT MASS FORCE
+================================================================================
+The key question for both the DLC and Boston is not whether Britain remains powerful
+in the abstract. It is what kind of force a damaged but functioning Britain could
+still credibly project.
+
+Recommended answer:
+Britain cannot deploy large conventional force overseas freely after PANDORA. It
+can still deploy select high-value capabilities where the footprint is small and
+the payoff is strategic.
+
+Capabilities that plausibly survive and matter:
+- special operations forces
+- submarine-enabled insertion and covert maritime access
+- limited maritime special operations and interdiction
+- constrained expeditionary support once a viable foothold exists
+
+This is the national logic that makes the Boston package believable.
+
+================================================================================
+05. BOSTON LINKAGE — WHY BRITAIN GOES THERE
+================================================================================
+British involvement in Boston must not feel sentimental or arbitrary. It should
+follow directly from British wartime logic.
+
+Boston matters because it can credibly satisfy several British-interest conditions
+at once:
+- British nationals or intelligence-linked personnel require extraction
+- the city offers a meaningful point of pressure against the Atlantic blockade
+- a live resistance network on the ground makes limited intervention worthwhile
+- a small British commitment can produce outsized coalition effect there in a way
+  that broader East Coast intervention cannot
+
+Therefore Boston is not a side adventure. It is one of the first places where a
+strained Britain can turn survival capability outward with real strategic leverage.
+
+================================================================================
+06. FORCE PACKAGE FOR BOSTON — LOCKED SHARED LOGIC
+================================================================================
+British Boston structure should remain three-part and sequential in felt effect:
+
+1. SAS
+- covert sabotage
+- infiltration
+- hostage / HVP extraction
+- precision raids
+
+2. SBS
+- covert maritime insertion
+- blockade-disruption actions
+- combat-diver approach work
+- harbor and near-shore special operations support
+
+3. Royal Marines (+ Royal Navy support)
+- led by Lt. Dorothy Anne Vickers
+- resistance support and widening coalition presence
+- practical shift in local balance of power
+- later-stage CASEVAC / reinforcement / support presence
+
+Operational rule:
+SAS and SBS establish the covert foothold first. Vickers and the Royal Marines
+widen the British effect later, once the narrative has earned it.
+
+Gameplay / campaign-progression rule:
+British military CASEVAC in Boston remains a late-availability capability. The
+player should feel the coalition physically thickening around Romeo’s operation
+when these options arrive.
+
+================================================================================
+07. WHO DARES WINS DLC — RECOMMENDED STRUCTURE
+================================================================================
+The DLC should not begin as a Boston story. It should end by making Boston possible.
+
+Recommended five-part shape:
+
+ACT I — THE BLOW
+PANDORA day and immediate British shock. Confusion, containment, interrupted
+systems, and proof that the state is still alive only because exhausted people
+keep it alive.
+
+ACT II — THE SEAL
+Internal security, counter-sabotage, sensitive-site defense, and the practical
+reality of preserving a wounded homeland.
+
+ACT III — THE EDGE
+North Atlantic and coastal pressure environment. Britain discovers what kind of
+war it can still fight: maritime, covert, exact, selective.
+
+ACT IV — THE REACH
+SAS / SBS missions that demonstrate restored outward precision, but still at small
+scale. Britain is not back to normal; it is learning where it can still matter.
+
+ACT V — THE HANDOFF
+Direct narrative handoff into the Boston architecture:
+- covert transatlantic insertion becomes plausible
+- SAS / SBS operational lanes are established
+- Vickers / Royal Marines widening is prepared
+- Boston reads as consequence, not invention
+
+================================================================================
+08. HOME-FRONT DESIGN LANGUAGE FOR WHO DARES WINS
+================================================================================
+The home-front should not be built around speeches or broad patriotism alone. Its
+strength is procedural, physical, and environmental.
+
+Useful recurring textures:
+- coastal weather, port lighting, blackout discipline, and emergency barriers
+- hardened compounds and tired domestic military routines
+- temporary command spaces in still-functioning but narrowed civilian Britain
+- public information that becomes shorter, flatter, and more survival-oriented
+- the emotional register of people continuing because the alternative is collapse
+
+Preferred dramatic emphasis:
+Britain survives not because it is invulnerable, but because enough people in key
+places keep doing unglamorous jobs correctly under extreme pressure.
+
+================================================================================
+09. RELATIONSHIP TO ROMEO’S BOSTON ARC
+================================================================================
+This UK spine should produce the following reads in Game 3 Boston:
+- British contact begins as covert competence, not triumphant arrival
+- British presence is useful before it is large
+- Romeo does not get “rescued by Britain”; he gains allied capability that alters
+  what becomes possible
+- Vickers and the Royal Marines feel materially transformative because earlier
+  scarcity has already been established
+- the British-in-Boston revolutionary-history inversion remains a deliberate theme,
+  but never overwhelms the human and operational stakes
+
+================================================================================
+10. GUARDRAILS
+================================================================================
+Do not write Britain as:
+- untouched sanctuary
+- mirror-image US collapse
+- conventionally dominant transatlantic savior force
+
+Do write Britain as:
+- damaged but functional
+- maritime and strategic in its surviving strengths
+- selective rather than mass-projecting
+- increasingly outward-facing only after preserving its own core
+
+================================================================================
+11. OPEN FLAGS FOR FOLLOW-UP DEVELOPMENT
+================================================================================
+These remain live after this page and should be developed in dedicated passes:
+- exact British PANDORA-day incident sequence and first visible public crisis points
+- continuity-of-government handling details and command personalities
+- exact naval / submarine lane used for Boston insertion
+- Lt. Dorothy Anne Vickers full profile and Royal Marines package detail
+- Royal Navy support scope in Boston
+- RAF contribution threshold and plausibility ceiling
+- precise Who Dares Wins protagonist selection and campaign-specific squad structure
+- exact Boston handoff mission or final scene that bridges DLC to Game 3 usage
+
+================================================================================
+12. IMPLEMENTATION NOTE
+================================================================================
+Use this page as the master logic bridge whenever developing:
+- Who Dares Wins missions
+- British Boston missions
+- Vickers / Royal Marines support timing
+- British CASEVAC progression in Boston
+- any SAS / SBS / Sea Spear crossover logic
+
+If a future British mission idea does not fit the damaged-state / preserved-core /
+selective-reach model, revise the mission idea before expanding it.
+
+================================================================================
+END
+================================================================================
