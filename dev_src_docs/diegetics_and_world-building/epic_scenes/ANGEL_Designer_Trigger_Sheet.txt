@@ -1,0 +1,650 @@
+ANGEL — DESIGNER-FACING TRIGGER SHEET
+Project Warriors — Game 2 — Romeo Campaign
+Late Act 2 / Exfil Chase Set Piece
+
+PURPOSE
+This document translates the locked ANGEL sequence into implementation-facing mission logic.
+It is structured around states, trigger IDs, conditions, bark priority, fallback behavior, and protected beats.
+
+CANON LOCK
+- Aldridge spelling locked
+- Vehicle: current-generation Ford F-150, quad cab
+- Mounted weapon: M240B on improvised bed ring / pintle
+- Player position: Romeo on gun
+- Total ammo state: two cans total at chase start
+- Enemy: three UAZ-type pursuers, at least one mounted
+- Air support: AC-130 Spectre gunship, callsign SPECTRE FOUR ONE
+- Protected closing line: "Don't mention it. American Freedom, over."
+
+======================================================================
+1. HIGH-LEVEL ENCOUNTER MODEL
+======================================================================
+
+STATE A   Exfil_Start
+STATE B   First_Engagement
+STATE C   Reload_One_Vulnerability
+STATE D   Mid_Chase_Triage
+STATE E   Last_Can_Commit
+STATE F   Final_Trough
+STATE G   Spectre_Authenticate
+STATE H   Reveal_Run
+STATE I   Angel_Reveal
+STATE J   Spectre_Intervention
+STATE K   Aftermath_Exfil
+
+Recommended playable duration: 5.5 to 7 minutes.
+
+======================================================================
+2. ACTOR MAP
+======================================================================
+
+PLAYER VEHICLE OCCUPANTS
+01. Romeo - mounted gun, player-controlled
+02. Driver
+03. Front Passenger / Radio
+04. Aldridge - rear left
+05. Ammo Teammate - rear right / handoff role
+
+ENEMY VEHICLES
+E1. Lead gun truck - highest early threat
+E2. Pressure truck - medium distance harasser
+E3. Offset truck - wider angle / closure pressure
+
+AIR ASSET
+A1. AC-130 Spectre gunship - SPECTRE FOUR ONE
+
+======================================================================
+3. ROAD SEGMENT MAP
+======================================================================
+
+SEGMENT R1 - Settling straight
+Purpose: initial orientation and first target acquisition.
+
+SEGMENT R2 - Fenced bend section
+Purpose: increase sway, introduce line-of-sight breakups.
+
+SEGMENT R3 - Dip / rise
+Purpose: ideal location for first belt depletion and reload fear.
+
+SEGMENT R4 - Longer rearward lane
+Purpose: lets player re-engage and understand the pursuit geometry.
+
+SEGMENT R5 - Offset pressure section
+Purpose: enemy stagger behavior becomes clearer.
+
+SEGMENT R6 - Rough downhill approach
+Purpose: maximum instability, strongest trough.
+
+SEGMENT R7 - Open horizon corridor
+Purpose: protected reveal space for AC-130.
+
+======================================================================
+4. GLOBAL RULES
+======================================================================
+
+GR-01
+Do not show all three pursuers in full, clearly readable composition at the exact first visual moment.
+Preferred cadence: dust -> one vehicle -> two -> three.
+
+GR-02
+Ammo scarcity is narrative and should not be softened by hidden reserve.
+
+GR-03
+Player should retain control during the reveal. Avoid hard-cut loss of agency.
+
+GR-04
+The AC-130 must be heard before it is clearly seen.
+
+GR-05
+Aftermath must be restrained. No cheering, no victory whoops, no tonal break.
+
+GR-06
+Do not checkpoint after the reveal. Protect run-up tension.
+
+======================================================================
+5. STATE-BY-STATE LOGIC
+======================================================================
+
+----------------------------------------------------------------------
+STATE A - Exfil_Start
+----------------------------------------------------------------------
+
+TR_A_01_ControlGain
+WHEN:
+- player control is handed to Romeo on mounted gun
+- truck speed already above chase threshold
+- enemy fire audio already active
+
+DO:
+- enable mounted gun controls
+- start vehicle shake profile A
+- queue Bark Set A
+
+BARK SET A - PRIORITY ORDER
+A1 Driver: "Contact rear! Rear, rear, rear!"
+A2 Front Passenger: "They stayed on us!"
+A3 Ammo Teammate: "Romeo, on the gun!"
+
+FAILSAFE
+If A1 is blocked by overlapping SFX, force A2 within 1.0 sec and A3 within 2.0 sec.
+
+TR_A_02_FirstVisual
+WHEN:
+- player yaws within rear acquisition arc
+- E1 enters camera-eligible lane
+
+DO:
+- expose E1 clearly
+- hold E2 for 1.0-1.8 sec
+- hold E3 for 2.0-3.5 sec
+
+BARK SET B - PRIORITY ORDER
+B1 Front Passenger: "One truck--"
+B2 Aldridge: "No. Three. Three total."
+B3 Driver: "Lead one's mounted!"
+
+FALLBACK
+If player never yaws far enough rear within allowed window, auto-slew camera assist 10-15 degrees and fire B2/B3 anyway.
+
+----------------------------------------------------------------------
+STATE B - First_Engagement
+----------------------------------------------------------------------
+
+TR_B_01_AmmoCall
+WHEN:
+- player has aimed at a pursuing vehicle for 3-6 sec cumulative
+- current state still B
+
+DO:
+- queue ammo scarcity line
+- reveal ammo UI state if using diegetic/minimal HUD
+
+BARK
+B4 Ammo Teammate: "Romeo! Two cans total!"
+
+FOLLOW-UP PRIORITY
+B5 Driver: "Then make 'em hurt!"
+
+FALLBACK
+If B4 cannot fire due to combat overlap, force within 5 sec of first sustained trigger pull.
+
+TR_B_02_LeadThreat
+WHEN:
+- E1 lead gun has valid suppressive lane
+- player has not yet significantly damaged E1
+
+DO:
+- increase tracers from E1
+- flag E1 as tutorialized high-priority threat
+
+BARK SET C
+C1 Driver: "Lead gun truck! Kill that gun!"
+C2 Aldridge: "Don't chase all three. Break the one that can kill us."
+C3 Ammo Teammate: "Short bursts!"
+
+DESIGN INTENT
+Player should feel effective here, but not dominant.
+One meaningful disable is acceptable. Total encounter cleanup is not.
+
+----------------------------------------------------------------------
+STATE C - Reload_One_Vulnerability
+----------------------------------------------------------------------
+
+TR_C_01_RoadGetsUgly
+WHEN:
+- vehicle enters R2 or R3
+- player has been firing at least one engagement window
+
+DO:
+- switch to shake profile B
+- increase mounted sway
+- enable harsher chassis bounce audio
+
+OPTIONAL BARKS
+C4 Driver: "Hold on!"
+C5 Aldridge: "Road drops here!"
+
+TR_C_02_BeltOneLow
+WHEN:
+- first belt under low threshold
+
+DO:
+- light ammo-low signal
+- prep reload choreography
+
+OPTIONAL BARK
+C6 Ammo Teammate: "You're running it down!"
+
+TR_C_03_BeltOneEmpty
+WHEN:
+- first belt reaches zero
+
+DO:
+- hard dry-fire event
+- force reload state
+- temporarily increase enemy closure pressure
+- disable instant, gamey reload snap
+
+MANDATORY BARK PRIORITY
+C7 Romeo or Ammo Teammate: "Reloading!"
+C8 Driver: "Make it fast!"
+C9 Aldridge: "They're gaining!"
+
+RELOAD ONE TIMING
+Target feel: 4.5 to 6.0 sec
+Not all of that must be literal animation lock; some may be recovery vulnerability.
+
+RELOAD ONE CHOREOGRAPHY
+RLD1. Romeo ducks
+RLD2. feed cover open
+RLD3. can handoff enters frame
+RLD4. bump interrupts seat
+RLD5. reseat belt
+RLD6. close cover
+RLD7. charge
+RLD8. restore fire
+
+FALLBACK
+If animation desync occurs, preserve audio order and do not skip the vulnerable beat.
+
+CHECKPOINT
+CP_01_ReloadOneComplete
+Set only when the weapon is live again.
+
+----------------------------------------------------------------------
+STATE D - Mid_Chase_Triage
+----------------------------------------------------------------------
+
+TR_D_01_BackOnGun
+WHEN:
+- reload one complete
+- Romeo regains sustained fire
+
+DO:
+- return agency
+- push E2 and E3 into stronger tactical behaviors
+- reduce chance of E1 instantly dying unless already critically damaged
+
+BARK SET D
+D1 Front Passenger: "Command says SPECTRE may be on call."
+D2 Driver: "May?"
+D3 Front Passenger: "That's what I got."
+
+DESIGN INTENT
+This is the realization state:
+player now understands firepower will not fully solve the chase.
+
+ENEMY BEHAVIOR RULES
+E1 - hold center when possible
+E2 - medium-distance suppress and punish tunnel vision
+E3 - seek offset lane / alternate pressure angle
+
+FALLBACK
+If one enemy is already destroyed early, preserve three-axis pressure by making the surviving offset vehicle more aggressive in angle selection.
+
+TR_D_02_TriageBarks
+WHEN:
+- player has split fire across multiple targets
+OR
+- E3 acquires strong angle
+OR
+- truck damage threshold hits mid band
+
+BARK PRIORITY
+D4 Aldridge: "Only shoot what matters!"
+D5 Driver: "Pick one and break it!"
+
+----------------------------------------------------------------------
+STATE E - Last_Can_Commit
+----------------------------------------------------------------------
+
+TR_E_01_BeltTwoLow
+WHEN:
+- second belt under low threshold
+
+OPTIONAL BARKS
+E1 Driver: "How much you got left?"
+E2 Ammo Teammate: "Not enough!"
+
+TR_E_02_LastCanLine
+WHEN:
+- final handoff moment begins
+OR
+- if represented abstractly, at emotional commit point for last usable belt
+
+MANDATORY BARK
+E3 Ammo Teammate: "That's the last can. Make it count."
+
+RULE
+Do not allow any other high-value line to overlap E3.
+
+DESIGN INTENT
+This is the emotional pivot.
+Silence around the line helps it land.
+
+----------------------------------------------------------------------
+STATE F - Final_Trough
+----------------------------------------------------------------------
+
+TR_F_01_NoMargin
+WHEN:
+- final belt nearly spent
+OR
+- scripted survival timer reached
+OR
+- truck damage enters high but non-fail band
+
+DO:
+- escalate chassis damage audio
+- apply visible damage package if not already active
+- increase perceived pressure while keeping survival window fair
+
+VISIBLE DAMAGE PACKAGE
+F1 cracked windshield centerline
+F2 tailgate and rear body peppering
+F3 one missing or shattered mirror/light assembly
+F4 ring mount rattle layer
+
+BARK SET F
+F5 Driver: "We are not doing this much longer!"
+F6 Aldridge: "Stay on the road!"
+F7 Front Passenger: "Wait. Wait one--"
+
+MIX RULE
+At this point, enemy engines and impacts should briefly dominate over hope.
+
+----------------------------------------------------------------------
+STATE G - Spectre_Authenticate
+----------------------------------------------------------------------
+
+TR_G_01_SpectreContact
+WHEN:
+- state F established
+- player has survived minimum trough duration
+- not before emotional low point
+
+MANDATORY RADIO ORDER
+G1 SPECTRE FOUR ONE:
+   "ROMEO element, SPECTRE FOUR ONE, we are at your push frequency. Authenticate."
+
+G2 Front Passenger:
+   "SPECTRE FOUR ONE, this is ROMEO element. Authenticate Sierra-Two-Kilo."
+
+G3 SPECTRE FOUR ONE:
+   "ROMEO element, copy. SPECTRE FOUR ONE is at angels two, four minutes out. We have your position on ROVER. Stand by, over."
+
+RULE
+Truck must still be under active threat during G1-G3.
+Do not stage as safety.
+
+CHECKPOINT
+CP_02_SpectreConfirmed
+Set after G3 completes.
+
+FALLBACK
+If radio line G2 is blocked by combat VO, temporarily duck non-essential barks and replay within 1.5 sec.
+
+TR_G_02_OneMinuteOut
+WHEN:
+- 20 to 35 sec after authentication
+- reveal corridor not yet entered
+
+BARKS
+G4 SPECTRE FOUR ONE:
+   "ROMEO element, SPECTRE FOUR ONE. One minute. We are in your twelve o'clock. You should have us shortly."
+
+G5 Aldridge or Driver:
+   "You hear that?"
+
+RULE
+G5 should feel quiet and instinctive.
+
+----------------------------------------------------------------------
+STATE H - Reveal_Run
+----------------------------------------------------------------------
+
+TR_H_01_RoadOpensForward
+WHEN:
+- vehicle enters R7 open horizon corridor
+
+DO:
+- reduce forward clutter
+- preserve skyline readability
+- keep rear pressure audible
+- start AC-130 pre-visual audio bed
+
+AUDIO RULE
+The turboprop body-rumble must begin before visual acquisition.
+
+PLAYER AGENCY RULE
+Retain full control. At most, use gentle aim damping or subtle visual bias.
+
+----------------------------------------------------------------------
+STATE I - Angel_Reveal
+----------------------------------------------------------------------
+
+TR_I_01_AngelReveal
+WHEN:
+- player camera enters forward reveal lane
+OR
+- fail-safe if player refuses to look forward for too long
+
+VISUAL ORDER
+I1 empty horizon
+I2 aircraft mass rises over ridgeline
+I3 silhouette resolves to AC-130
+I4 maximum visual presence
+I5 flare deployment
+I6 angel-wing smoke pattern
+I7 aircraft pushes through smoke
+
+PROTECTED RULE
+Do not cut away to a detached camera unless absolutely necessary.
+Primary power of sequence comes from seeing it from Romeo's live position.
+
+AUDIO DUCKING
+For 2-3 sec around I5/I6, reduce perceived dominance of road combat mix.
+
+DESIGN NOTE
+Player can technically keep shooting, but almost nobody will.
+That is desired behavior, not a problem.
+
+----------------------------------------------------------------------
+STATE J - Spectre_Intervention
+----------------------------------------------------------------------
+
+TR_J_01_GunshipEngages
+WHEN:
+- 1 to 3 sec after reveal peak
+
+ENEMY OUTCOME SCRIPT
+J1 one pursuer destroyed outright
+J2 one pursuer disabled / crash / spin-off
+J3 one pursuer breaks formation / aborts close pursuit
+
+MANDATORY RADIO ORDER
+J4 SPECTRE FOUR ONE:
+   "ROMEO element, SPECTRE FOUR ONE. BANDITS are egressing. You are clear. What else do you need, over?"
+
+J5 Front Passenger or Romeo:
+   "SPECTRE FOUR ONE, I think we're good. How copy?"
+
+J6 SPECTRE FOUR ONE:
+   "ROMEO element, copy good. SPECTRE FOUR ONE will remain on station. You call, we answer. Over."
+
+J7 Front Passenger or Romeo:
+   "Thank you, SPECTRE FOUR ONE."
+
+J8 SPECTRE FOUR ONE:
+   "Don't mention it. American Freedom, over."
+
+PROTECTED RULE
+No one talks over J8.
+
+FALLBACK
+If a surviving enemy vehicle persists too long due to gameplay variance, force disengage behavior after J4 so that the emotional release is not delayed.
+
+----------------------------------------------------------------------
+STATE K - Aftermath_Exfil
+----------------------------------------------------------------------
+
+TR_K_01_ChaseBroken
+WHEN:
+- enemy close pursuit state collapsed
+- truck still mobile
+
+DO:
+- reduce combat intensity
+- keep truck moving
+- preserve AC-130 orbit visibility if angle permits
+
+BARKS
+K1 Driver: "Everybody still here?"
+K2 Aldridge: "Yeah."
+K3 Aldridge: "Hell of a thing."
+
+RULE
+Keep space between K2 and K3.
+Do not over-write the aftermath.
+
+OBJECTIVE UPDATE
+"Reach exfil route"
+
+MISSION END OPTIONS
+Preferred: truck turns onto concealed secondary route under tree cover.
+Alternate: brief playable handoff, then fade on motion.
+
+======================================================================
+6. BARK PRIORITY / FALLBACK MATRIX
+======================================================================
+
+CATEGORY 1 - MUST FIRE
+- "Romeo! Two cans total!"
+- "Reloading!"
+- "That's the last can. Make it count."
+- SPECTRE authentication lines
+- "Don't mention it. American Freedom, over."
+
+CATEGORY 2 - STRONGLY PREFERRED
+- "Lead gun truck! Kill that gun!"
+- "Don't chase all three. Break the one that can kill us."
+- "Only shoot what matters!"
+- "You hear that?"
+- "Everybody still here?"
+- "Hell of a thing."
+
+CATEGORY 3 - FLEX / SPACING LINES
+- "Hold on!"
+- "Road drops here!"
+- "How much you got left?"
+- "Not enough!"
+- "Stay on the road!"
+
+Fallback principle:
+If Category 1 overlaps with anything, Category 1 wins.
+If two Category 1 lines compete, preserve chronological logic over incidental realism.
+
+======================================================================
+7. CHECKPOINTS
+======================================================================
+
+CP_00_GunControl
+After mounted control stabilizes and first target is valid.
+
+CP_01_ReloadOneComplete
+After first vulnerable reload completes.
+
+CP_02_SpectreConfirmed
+After G3 radio line completes, before reveal run.
+
+Do not place a checkpoint after the reveal.
+
+======================================================================
+8. FAILURE CONDITIONS
+======================================================================
+
+HARD FAIL
+- Romeo killed
+- truck disabled beyond scripted continuation threshold
+- driver killed before intervention window
+- catastrophic rollover / route loss
+
+SOFT FAILURE PRESSURE
+- poor target prioritization
+- wasted ammo
+- excessive exposure during reload windows
+- allowing lead gun truck uninterrupted fire too long
+
+Encounter should remain survivable without perfection, but not without discipline.
+
+======================================================================
+9. DIFFICULTY SCALING
+======================================================================
+
+EASY
+- enemy gun accuracy reduced
+- sway slightly softened
+- reload one slightly shorter
+- suppression more effective
+
+NORMAL
+- reference tuning
+
+HARD
+- lead gun truck punishes delay faster
+- offset truck chooses better angles
+- truck durability margin lower
+- final trough tighter
+
+RULE
+Do not add extra ammo by difficulty.
+Scarcity belongs to story logic.
+
+======================================================================
+10. PROTECTED NARRATIVE BEATS
+======================================================================
+
+PB-01
+Aldridge spelling locked.
+
+PB-02
+Romeo remains on mounted weapon for the reveal.
+
+PB-03
+AC-130 is heard before seen.
+
+PB-04
+Reveal is forward-horizon based, not a detached cutaway by default.
+
+PB-05
+Flares create angel-wing silhouette.
+
+PB-06
+Closing line remains:
+"Don't mention it. American Freedom, over."
+
+PB-07
+Aftermath stays restrained.
+
+======================================================================
+11. IMPLEMENTATION NOTES
+======================================================================
+
+AI
+Enemy vehicles should feel aggressive but road-constrained, not arcade-suicidal.
+
+ANIMATION
+Reload must feel physically awkward and exposed. Preserve vibration and handoff friction.
+
+CAMERA
+Most of the scene should live from Romeo's playable viewpoint.
+Use assist, not takeover.
+
+SOUND
+The AC-130 should feel like mass entering the scene, not just another vehicle cue.
+
+NARRATIVE
+This sequence works because the player buys time rather than wins outright.
+Do not accidentally tune it into a clean turret-victory chase.
+
+END OF DOCUMENT

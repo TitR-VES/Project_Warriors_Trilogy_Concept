@@ -1,0 +1,318 @@
+ANGEL — CINEMATIC SCREENPLAY PASS
+Project Warriors — Game 2 — Romeo Campaign
+Late Act 2 / Exfil Chase Set Piece
+
+CANON LOCK
+- Location thread: post-liberation AFC operation tied to Aldridge
+- Vehicle: current-generation Ford F-150, quad cab
+- Mount: improvised bed-mounted ring / pintle
+- Weapon: M240B
+- Ammo state: two cans total
+- Player position: Romeo on mounted gun
+- Pursuit: three enemy UAZ-type vehicles, at least one with mounted gun
+- Air support: AC-130 Spectre gunship, callsign SPECTRE FOUR ONE
+
+NOTE
+This pass is written as an in-engine cinematic/gameplay hybrid rather than a non-interactive cutscene. The player should remain in control for most of the sequence, especially the reveal.
+
+======================================================================
+EXT. KENTUCKY COUNTY ROAD - DAY
+======================================================================
+
+A battered FORD F-150 tears downhill along a narrow Kentucky road bordered by pasture fence, brush, and tree line. Dust boils behind it. The truck is civilian at its core, but changed by necessity: improvised mount in the bed, welds visible, metal scraped raw at the joints, gear lashed down wherever it will fit.
+
+ROMEO is on the mounted M240B in the truck bed, braced inside the ring mount, one boot slipping half an inch every time the rear axle kicks sideways over a rut.
+
+The truck is already under fire.
+
+Rounds crack past the cab. A rear window spiders. Fence posts flick past in a strobing rhythm.
+
+                               DRIVER
+                 Contact rear! Rear, rear, rear!
+
+                               FRONT PASSENGER
+                 They stayed on us!
+
+                               AMMO TEAMMATE
+                 Romeo, on the gun!
+
+Romeo hauls the weapon around toward the rear arc.
+
+Down the road behind them: a DUST PLUME, then the first UAZ breaks through it, hard and fast. A second appears on the bend behind it. Then a third, offset wide, rising and falling with the road.
+
+                               FRONT PASSENGER
+                 One truck--
+
+                               ALDRIDGE
+                 No. Three. Three total.
+
+A burst from the lead vehicle walks up the road and snaps over the truck bed.
+
+                               DRIVER
+                 Lead one's mounted!
+
+Romeo settles the sights.
+
+                               AMMO TEAMMATE
+                 Romeo! Two cans total!
+
+That lands harder than the incoming fire.
+
+Romeo opens up in short, controlled bursts. The M240B pounds through the chassis. Brass rattles across the truck bed and vanishes into the road behind them.
+
+The lead UAZ shudders under the impacts. The enemy gunner ducks. The windshield crazes.
+
+                               DRIVER
+                 Lead gun truck! Kill that gun!
+
+                               ALDRIDGE
+                 Don't chase all three. Break the one that can kill us.
+
+The road bends. The truck leans hard. Romeo has to fight the mount and the road at the same time.
+
+                               AMMO TEAMMATE
+                 Short bursts!
+
+The second UAZ starts offsetting for angle. The third hangs back just enough to be trouble later.
+
+Romeo bursts again -- this time longer, less clean. The ring mount clatters. The truck drops into a washout and slams out of it. The weapon bucks off target.
+
+                               DRIVER
+                 Hold on!
+
+                               ALDRIDGE
+                 Road drops here!
+
+The lead gun truck recovers and answers with another burst. A round punches through thin sheet metal somewhere behind Romeo with an ugly, intimate sound.
+
+Romeo keeps firing.
+
+The belt runs dry.
+
+A dead click.
+
+For one sharp instant the whole chase becomes enormous.
+
+                               ROMEO / AMMO TEAMMATE
+                 Reloading!
+
+                               DRIVER
+                 Make it fast!
+
+                               ALDRIDGE
+                 They're gaining!
+
+Romeo ducks into the ring. The feed cover comes up. The AMMO TEAMMATE wrestles the next can upward from the cab/bed handoff position, one hand braced, one hand fighting the vibration of the truck.
+
+                               AMMO TEAMMATE
+                 Hold it steady -- hold it steady--
+
+                               DRIVER
+                 I am!
+
+The truck hits another bump. The belt slips. Romeo reseats it with a hard slap, slams the cover shut, charges the weapon, and comes back up on the gun just as the second UAZ closes the gap.
+
+He fires again. The second belt starts to disappear.
+
+The middle phase of the chase is worse than the beginning. The Russians are not just chasing. They are learning the truck's rhythm, its weak windows, its bad angles.
+
+One UAZ holds center. One drifts wide. One pressures from behind the others, waiting for the reload that may or may not come.
+
+Inside the cab, the FRONT PASSENGER fights the radio.
+
+                               FRONT PASSENGER
+                 Command says SPECTRE may be on call.
+
+                               DRIVER
+                 May?
+
+                               FRONT PASSENGER
+                 That's what I got.
+
+Romeo kills the gunner in the lead truck or suppresses him hard enough to matter. Another burst punches into the second vehicle's front end and throws smoke off the hood. But the third remains. And the second is still moving.
+
+The road straightens just enough to show the geometry of the problem.
+
+Not enough gun.
+Not enough time.
+Not enough road.
+
+                               ALDRIDGE
+                 Only shoot what matters!
+
+                               DRIVER
+                 Pick one and break it!
+
+Romeo does. He has to.
+
+The belt count drops.
+
+                               DRIVER
+                 How much you got left?
+
+                               AMMO TEAMMATE
+                 Not enough!
+
+Rounds tear through the tailgate. The truck fishtails half a lane and recovers.
+
+The second belt is almost gone.
+
+Romeo ducks again for the final handoff.
+
+The AMMO TEAMMATE shoves the can up toward him, arm stretched, shoulder jammed against the frame.
+
+                               AMMO TEAMMATE
+                 That's the last can. Make it count.
+
+No one answers. No one needs to.
+
+Romeo seats the belt and comes back onto the gun.
+
+Everything now is triage.
+
+A burst into the most dangerous truck.
+A burst to keep the offset vehicle from getting too comfortable.
+A burst saved because there may not be another.
+
+The windshield in front of the driver is cracked through the center now. One side mirror is gone. The ring mount shudders like it wants to tear free from the truck bed.
+
+                               DRIVER
+                 We are not doing this much longer!
+
+                               ALDRIDGE
+                 Stay on the road!
+
+The FRONT PASSENGER freezes, head tilted to the headset.
+
+                               FRONT PASSENGER
+                 Wait. Wait one--
+
+Then, over the radio -- calm, clipped, unmistakably professional:
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, SPECTRE FOUR ONE, we are at your
+                 push frequency. Authenticate.
+
+The truck is still under fire.
+
+The FRONT PASSENGER keys the handset.
+
+                               FRONT PASSENGER
+                 SPECTRE FOUR ONE, this is ROMEO element.
+                 Authenticate Sierra-Two-Kilo.
+
+A burst from behind forces Romeo to duck the weapon a fraction. He fires back without really seeing.
+
+The reply comes quickly.
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, copy. SPECTRE FOUR ONE is at angels
+                 two, four minutes out. We have your position on
+                 ROVER. Stand by, over.
+
+The words help. They do not solve anything yet.
+
+The truck barrels into the final downhill stretch. Trees thin. The road ahead opens.
+
+The sound changes first.
+
+Not the high whine of jets. Not the chopping violence of rotor blades. Something heavier. Slower. Turboprop mass. The kind of sound that seems to come through the air and the earth at the same time.
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, SPECTRE FOUR ONE. One minute. We are
+                 in your twelve o'clock. You should have us shortly.
+
+A beat.
+
+                               ALDRIDGE / DRIVER
+                 You hear that?
+
+Romeo does.
+
+He swings his attention forward.
+
+The road drops away in front of them toward an open horizon line framed by low hills, fence line, and morning sky.
+
+For a fraction of a second there is nothing there.
+
+Then the AC-130 begins to rise over the ridgeline.
+
+Not fast. Nothing that large looks fast. It lifts over the horizon like a ship rising over the curve of the sea -- slow, heavy, inevitable.
+
+For a moment the whole chase reorders itself around that single fact.
+
+The aircraft grows.
+
+Grey fuselage. Prop arcs. Immense wingspan. Not a rescue helicopter darting low, not a fast mover slashing through and vanishing, but a giant American gunship coming straight into the frame over rural Kentucky.
+
+Just before it reaches maximum visual presence --
+
+FLARES.
+
+A full defensive salvo bursts from both sides in a wide, symmetrical spread.
+
+Smoke trails bloom into the angel-wing silhouette.
+
+For several seconds the only thing that matters is the aircraft and the flares and the smoke and the Kentucky sky.
+
+Romeo still has the gun in his hands. He could technically be shooting.
+
+He doesn't.
+
+Nobody would.
+
+The AC-130 roars overhead.
+
+Then the strikes begin.
+
+Behind the truck, one UAZ disappears in a blast of dust, fire, and broken metal. Another slews sideways, disabled, and tumbles off the edge of the road. The last breaks formation, swerving hard, suddenly unsure whether survival still exists in the same shape it did ten seconds earlier.
+
+On the radio:
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, SPECTRE FOUR ONE. BANDITS are
+                 egressing. You are clear. What else do you need, over?
+
+The truck keeps moving. The team is still breathing hard, still in it, but alive now in a different way.
+
+                               FRONT PASSENGER / ROMEO
+                 SPECTRE FOUR ONE, I think we're good. How copy?
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, copy good. SPECTRE FOUR ONE will
+                 remain on station. You call, we answer. Over.
+
+A beat.
+
+                               FRONT PASSENGER / ROMEO
+                 Thank you, SPECTRE FOUR ONE.
+
+Another brief pause. Then:
+
+                               SPECTRE FOUR ONE (RADIO)
+                 Don't mention it. American Freedom, over.
+
+No one in the truck says anything for a second.
+
+The AC-130 banks into orbit above and behind them, enormous and patient.
+
+The angel-wing smoke still hangs in the air longer than it should.
+
+The truck rattles on.
+
+                               DRIVER
+                 Everybody still here?
+
+                               ALDRIDGE
+                 Yeah.
+
+A beat. Aldridge looks up once, almost despite himself.
+
+                               ALDRIDGE
+                 Hell of a thing.
+
+The truck turns off the main road onto a narrower concealed route, disappearing under tree cover.
+
+The gunship remains overhead.
+
+FADE OUT.

@@ -1,0 +1,532 @@
+ANGEL — CAST RECORDING SCRIPT
+Project Warriors — Game 2 — Romeo Campaign
+Late Act 2 / Exfil Chase Set Piece
+
+DOCUMENT PURPOSE
+This is the cast-facing recording script for the ANGEL sequence.
+It is organized by character for efficient studio use and includes:
+- grouped lines by speaker
+- line IDs
+- priority markers
+- delivery notes
+- context notes
+- light alternates where useful
+
+CANON LOCK
+- Aldridge spelling locked
+- Vehicle: current-generation Ford F-150, quad cab
+- Mount: improvised bed-mounted ring / pintle
+- Weapon: M240B
+- Ammo state: two cans total
+- Player: Romeo on mounted gun
+- Enemy: three UAZ-type pursuers, at least one mounted
+- Air support: SPECTRE FOUR ONE, AC-130
+- Protected closing line: "Don't mention it. American Freedom, over."
+
+KEY
+P1 = must fire / protected
+P2 = strongly preferred
+P3 = flexible
+P4 = optional
+CALM = controlled, composed
+SHARP = urgent, clipped
+STRAINED = under pressure but functional
+LOW = quiet, instinctive
+AWE = briefly unguarded / involuntary human reaction
+
+GLOBAL PERFORMANCE NOTES
+This scene should not sound like a joke-heavy action movie.
+Nobody is quipping.
+Nobody is performing for the audience.
+The pressure is real, but the team is competent.
+
+The truck crew should sound like people already in motion, already in trouble,
+and already used to operating under stress.
+
+SPECTRE FOUR ONE should sound like a sharp contrast to the truck interior:
+calm, professional, procedural, but recognizably human.
+
+========================================================================
+CHARACTER: DRIVER
+========================================================================
+
+ROLE SUMMARY
+The Driver is keeping the truck alive under terrible conditions. He is practical,
+fast, and stretched near his limit, but he does not panic. He should sound like
+someone whose attention is split between speed, traction, incoming fire, and
+not killing everyone in the truck by losing the road.
+
+READ STYLE
+- urgent
+- economical
+- never theatrical
+- Kentucky / local flavor is fine if subtle, but do not overplay accent
+
+LINES
+
+[DRV_001]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Contact rear! Rear, rear, rear!
+CONTEXT: First intelligible line of the chase. The sequence is already hot.
+
+[DRV_002]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Lead one's mounted!
+CONTEXT: Identifies priority threat.
+
+[DRV_003]
+PRIORITY: P3
+DELIVERY: SHARP
+LINE: Then make 'em hurt!
+CONTEXT: Optional follow-up after ammo scarcity line.
+
+[DRV_004]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Lead gun truck! Kill that gun!
+CONTEXT: Strong gameplay-directing line. Clear and tactical.
+
+[DRV_005]
+PRIORITY: P3
+DELIVERY: SHARP
+LINE: Hold on!
+CONTEXT: Short spacing bark during rough road transition.
+
+[DRV_006]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Make it fast!
+CONTEXT: First reload vulnerability. Pressure line, not panic line.
+
+[DRV_007]
+PRIORITY: P4
+DELIVERY: SHARP
+LINE: I am!
+CONTEXT: Reactive answer during reload handoff chaos.
+
+[DRV_008]
+PRIORITY: P2
+DELIVERY: SHARP
+LINE: May?
+CONTEXT: Reaction to uncertain possible air support. Disbelief, not sarcasm.
+
+[DRV_009]
+PRIORITY: P2
+DELIVERY: SHARP
+LINE: Pick one and break it!
+CONTEXT: Reinforces triage gameplay logic.
+
+[DRV_010]
+PRIORITY: P3
+DELIVERY: STRAINED
+LINE: How much you got left?
+CONTEXT: Lead-in toward last-can beat.
+
+[DRV_011]
+PRIORITY: P1
+DELIVERY: STRAINED
+LINE: We are not doing this much longer!
+CONTEXT: Near-lowest point of chase. Controlled, but close to limit.
+
+[DRV_012]
+PRIORITY: P2
+DELIVERY: LOW
+LINE: You hear that?
+CONTEXT: Optional assignment if Aldridge does not carry this line. Small, instinctive.
+
+[DRV_013]
+PRIORITY: P2
+DELIVERY: STRAINED
+LINE: Everybody still here?
+CONTEXT: First human-scale aftermath line. Relief beginning to enter.
+
+OPTIONAL ALTERNATES
+For [DRV_004]
+ALT A: Hit the gun truck!
+ALT B: Break that lead gun!
+
+For [DRV_011]
+ALT A: We can't hold this much longer!
+ALT B: We are running out of road!
+
+========================================================================
+CHARACTER: FRONT PASSENGER / RADIO
+========================================================================
+
+ROLE SUMMARY
+This character carries both situational awareness and radio traffic. He should sound
+competent, compressed, and busy. He is not a coward and not a melodramatic comms guy.
+He is trying to do too many things at once and still hold the net together.
+
+READ STYLE
+- clipped
+- functional
+- slightly compressed breath at high-pressure moments
+- more formal when on radio, more immediate when speaking to team
+
+LINES
+
+[RAD_001]
+PRIORITY: P2
+DELIVERY: SHARP
+LINE: They stayed on us!
+CONTEXT: Confirms pursuit continuity.
+
+[RAD_002]
+PRIORITY: P2
+DELIVERY: SHARP
+LINE: One truck--
+CONTEXT: Interrupted count line. Should cut off naturally.
+
+[RAD_003]
+PRIORITY: P1
+DELIVERY: STRAINED
+LINE: Command says SPECTRE may be on call.
+CONTEXT: First hope line. Keep uncertainty alive.
+
+[RAD_004]
+PRIORITY: P2
+DELIVERY: STRAINED
+LINE: That's what I got.
+CONTEXT: Flat, factual answer to Driver's "May?"
+
+[RAD_005]
+PRIORITY: P1
+DELIVERY: STRAINED
+LINE: Wait. Wait one--
+CONTEXT: Breath before SPECTRE contact. Small and involuntary.
+
+[RAD_006]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: SPECTRE FOUR ONE, this is ROMEO element. Authenticate Sierra-Two-Kilo.
+CONTEXT: Must be clean and fast. Radio procedure under pressure.
+
+[RAD_007]
+PRIORITY: P1
+DELIVERY: STRAINED
+LINE: SPECTRE FOUR ONE, I think we're good. How copy?
+CONTEXT: Post-strike. Slightly breathless, relieved, still working.
+
+[RAD_008]
+PRIORITY: P1
+DELIVERY: STRAINED
+LINE: Thank you, SPECTRE FOUR ONE.
+CONTEXT: Brief and sincere. No flourish.
+
+OPTIONAL ALTERNATES
+For [RAD_003]
+ALT A: Command says SPECTRE might be in the stack.
+ALT B: They say SPECTRE may be up.
+
+For [RAD_007]
+ALT A: SPECTRE FOUR ONE, we should be good. How copy?
+ALT B: SPECTRE FOUR ONE, we are good for now. How copy?
+
+========================================================================
+CHARACTER: ALDRIDGE
+========================================================================
+
+ROLE SUMMARY
+Aldridge is not baggage. He is not a rescued civilian who suddenly has nothing to do.
+In this scene he is an integrated teammate: sharp, observant, local, and tactically useful.
+He should sound grounded in the terrain and the danger. He helps the sequence feel
+Kentucky-specific rather than generically military.
+
+READ STYLE
+- concise
+- competent
+- grounded
+- emotionally contained
+- not showy, not speechifying
+
+LINES
+
+[ALD_001]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: No. Three. Three total.
+CONTEXT: Early competence beat. He reads the count faster than the others.
+
+[ALD_002]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Don't chase all three. Break the one that can kill us.
+CONTEXT: Core tactical logic line. Very important.
+
+[ALD_003]
+PRIORITY: P2
+DELIVERY: SHARP
+LINE: Road drops here!
+CONTEXT: Local road awareness. Good geography-grounding line.
+
+[ALD_004]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: They're gaining!
+CONTEXT: First reload vulnerability line.
+
+[ALD_005]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Only shoot what matters!
+CONTEXT: Mid-chase triage reminder. One of Aldridge's most important action lines.
+
+[ALD_006]
+PRIORITY: P2
+DELIVERY: SHARP
+LINE: Stay on the road!
+CONTEXT: Trough survival command.
+
+[ALD_007]
+PRIORITY: P2
+DELIVERY: LOW
+LINE: You hear that?
+CONTEXT: Preferred assignment for reveal lead-in. Small, instinctive, intimate.
+
+[ALD_008]
+PRIORITY: P2
+DELIVERY: LOW
+LINE: Yeah.
+CONTEXT: Understated aftermath answer.
+
+[ALD_009]
+PRIORITY: P1
+DELIVERY: LOW / AWE
+LINE: Hell of a thing.
+CONTEXT: Final grounding line of the scene. Understatement is the strength.
+
+OPTIONAL ALTERNATES
+For [ALD_002]
+ALT A: Don't spray all three. Break the killer first.
+ALT B: One matters more. Break that one.
+
+For [ALD_005]
+ALT A: Pick what matters!
+ALT B: Don't waste it!
+
+For [ALD_009]
+ALT A: Hell of a sight.
+ALT B: Didn't think I'd ever see that.
+NOTE: Primary line preferred.
+
+========================================================================
+CHARACTER: AMMO TEAMMATE
+========================================================================
+
+ROLE SUMMARY
+This character lives closest to Romeo's physical experience of the gun. He is the best
+source of ammo-state pressure, handoff friction, and short functional urgency.
+He should feel physically present, close-mic, and busy with real tasks.
+
+READ STYLE
+- immediate
+- practical
+- close and physical
+- not decorative
+- urgency tied to weapon state, not general screaming
+
+LINES
+
+[AMM_001]
+PRIORITY: P2
+DELIVERY: SHARP
+LINE: Romeo, on the gun!
+CONTEXT: Early role handoff.
+
+[AMM_002]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Romeo! Two cans total!
+CONTEXT: Protected scarcity line. Must land clean.
+
+[AMM_003]
+PRIORITY: P2
+DELIVERY: SHARP
+LINE: Short bursts!
+CONTEXT: Fire-discipline reminder.
+
+[AMM_004]
+PRIORITY: P4
+DELIVERY: STRAINED
+LINE: You're running it down!
+CONTEXT: Optional low-ammo warning before empty state.
+
+[AMM_005]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Reloading!
+CONTEXT: Can be assigned here if Romeo is not voiced for this line.
+
+[AMM_006]
+PRIORITY: P3
+DELIVERY: STRAINED
+LINE: Hold it steady-- hold it steady--
+CONTEXT: First reload physicality line.
+
+[AMM_007]
+PRIORITY: P3
+DELIVERY: STRAINED
+LINE: Not enough!
+CONTEXT: Short factual answer before final commitment.
+
+[AMM_008]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: That's the last can. Make it count.
+CONTEXT: Protected line. Keep silence around it.
+
+OPTIONAL ALTERNATES
+For [AMM_003]
+ALT A: Keep it short!
+ALT B: Burst it! Burst it!
+
+For [AMM_006]
+ALT A: Keep it still-- keep it still--
+ALT B: Hold it, hold it--
+
+========================================================================
+CHARACTER: ROMEO
+========================================================================
+
+ROLE SUMMARY
+Romeo is sparse here. If voiced at all during the chase, he should be functional and
+economical. He is too occupied to narrate his feelings. Use him sparingly so that when
+he does speak, it counts.
+
+READ STYLE
+- minimal
+- low-emotion surface, high focus underneath
+- no chatter
+
+LINES
+
+[ROM_001]
+PRIORITY: P1
+DELIVERY: SHARP
+LINE: Reloading!
+CONTEXT: Use this if design wants the empty-gun call to come directly from Romeo.
+
+[ROM_002]
+PRIORITY: P1
+DELIVERY: STRAINED
+LINE: SPECTRE FOUR ONE, I think we're good. How copy?
+CONTEXT: Optional reassignment from Radio if Romeo is more active vocally in this mission.
+
+[ROM_003]
+PRIORITY: P1
+DELIVERY: STRAINED
+LINE: Thank you, SPECTRE FOUR ONE.
+CONTEXT: Optional reassignment from Radio. Should stay brief.
+
+NOTE
+Do not add extra Romeo color lines just to "give him more dialogue."
+His presence is strongest here when he feels concentrated and occupied.
+
+========================================================================
+CHARACTER: SPECTRE FOUR ONE
+========================================================================
+
+ROLE SUMMARY
+SPECTRE FOUR ONE is the tonal counterweight to the truck chaos. He must sound like an
+experienced American crewman: calm, clipped, reliable, professional. Not robotic, not
+swaggering, not movie-cool. His confidence comes from competence, not performance.
+
+READ STYLE
+- calm under pressure
+- crisp procedural delivery
+- steady pacing
+- slight warmth permitted after the strike, but stay disciplined
+
+LINES
+
+[SP4_001]
+PRIORITY: P1
+DELIVERY: CALM
+LINE: ROMEO element, SPECTRE FOUR ONE, we are at your push frequency. Authenticate.
+CONTEXT: First contact. Contrast voice to truck interior.
+
+[SP4_002]
+PRIORITY: P1
+DELIVERY: CALM
+LINE: ROMEO element, copy. SPECTRE FOUR ONE is at angels two, four minutes out. We have your position on ROVER. Stand by, over.
+CONTEXT: Protected procedural line. Keep clear and steady.
+
+[SP4_003]
+PRIORITY: P1
+DELIVERY: CALM
+LINE: ROMEO element, SPECTRE FOUR ONE. One minute. We are in your twelve o'clock. You should have us shortly.
+CONTEXT: Still under pressure. This is not yet triumph.
+
+[SP4_004]
+PRIORITY: P1
+DELIVERY: CALM
+LINE: ROMEO element, SPECTRE FOUR ONE. BANDITS are egressing. You are clear. What else do you need, over?
+CONTEXT: Post-strike control line. No gloating.
+
+[SP4_005]
+PRIORITY: P1
+DELIVERY: CALM
+LINE: ROMEO element, copy good. SPECTRE FOUR ONE will remain on station. You call, we answer. Over.
+CONTEXT: Relationship line. Quiet reassurance through professionalism.
+
+[SP4_006]
+PRIORITY: P1
+DELIVERY: CALM
+LINE: Don't mention it. American Freedom, over.
+CONTEXT: Protected signature line. Let it breathe. No overlap.
+
+LIGHT ALTERNATES
+For [SP4_003]
+ALT A: ROMEO element, SPECTRE FOUR ONE. One minute. We are in your twelve. You should have us shortly.
+ALT B: ROMEO element, SPECTRE FOUR ONE. One minute out. We are in your twelve o'clock.
+NOTE: Use only if timing compression is necessary.
+
+For [SP4_004]
+ALT A: ROMEO element, SPECTRE FOUR ONE. Bandits are breaking. You are clear. What else do you need, over?
+NOTE: Primary preferred.
+
+========================================================================
+PICKUP LIST
+========================================================================
+
+These are the most likely pickup lines if implementation changes late.
+
+PICKUP_01
+SPEAKER: DRIVER
+LINE: Hit the gun truck!
+
+PICKUP_02
+SPEAKER: ALDRIDGE
+LINE: Pick what matters!
+
+PICKUP_03
+SPEAKER: AMMO TEAMMATE
+LINE: Last one. Make it count.
+NOTE: Emergency alternate only. Primary preferred.
+
+PICKUP_04
+SPEAKER: FRONT PASSENGER / RADIO
+LINE: SPECTRE FOUR ONE, we should be good. How copy?
+
+PICKUP_05
+SPEAKER: SPECTRE FOUR ONE
+LINE: ROMEO element, copy. We will remain on station. You call, we answer. Over.
+
+========================================================================
+SESSION NOTES FOR DIRECTOR
+========================================================================
+
+1. Keep the truck interior voices grounded and non-performative.
+2. Protect the quiet around:
+   - "Romeo! Two cans total!"
+   - "That's the last can. Make it count."
+   - first SPECTRE contact
+   - "Don't mention it. American Freedom, over."
+3. Aldridge should sound like a real teammate, not a tagged-on plot passenger.
+4. SPECTRE FOUR ONE should not sound like a one-liner machine. Underplay him.
+5. Final aftermath lines should feel smaller than the reveal, not larger.
+
+END OF DOCUMENT
