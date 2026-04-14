@@ -1,0 +1,536 @@
+CHATGPT 5.4 PROJECT MEMORY BACKUP
+UPDATED: 14-APR-2026
+
+Thin Lizzy 'The Boys Are Back in Town' is also part of Eamonn Kearney’s workshop track list in Boston. Treat it as an already-agreed Kearney workshop environmental track even if it has not yet landed in the current project source files or compendium revisions.
+
+Project Warriors memory update: BODYWORK optional post-arc gathering now includes a locked Romeo first-person bottle-handoff decompression beat. After BODYWORK combat resolves, a resistance companion hands Romeo a brown longneck bottle labeled BOSTON BUBBLE; lower style text is torn away, and the neck label carries either a small BBB mark or a torn partial BREW remnant. Interaction is limited to two prompts: DRINK and RAISE. Romeo may take one or two small sips; a rapid third attempt triggers silent self-limiting cooldown behavior, with further drink input producing only a small bottle jiggle until cooldown clears. No buffs, intoxication system, comedy framing, or reward logic. Romeo carries the bottle through the body shop threshold and casually sets it down on an interior clutter surface just inside before standard control fully restores. Tone rule: brief human decompression and reclaimed-space warmth, with diegetic world-texture-first presentation.
+
+Rush “Working Man” is approved as a Boston environmental cue for Eamonn Kearney’s hidden gunsmithing / armorer workshop. Best use is low-level diegetic playback from a shop radio, bench speaker, or old stereo while Kearney works, sorts parts, or talks through supportability and repair. Function: labor, upkeep, material continuity, and stubborn civic function; do not use as a triumphant anthem or overt montage thesis.
+
+Romeo Game 2 mission/scene canon lock from the ANGEL thread: Aldridge spelling is canonical. The late Game 2 Romeo exfil chase 'ANGEL' uses a current-generation quad-cab Ford F-150 with an improvised bed-mounted M240B, Romeo on the gun, Aldridge in the cab team, and only two cans total ammo at chase start. The chase structure is: three pursuing UAZ-type vehicles, first engagement, long awkward reload, last-can line ('That's the last can. Make it count.'), SPECTRE FOUR ONE radio authenticate, forward-horizon AC-130 reveal with flare angel-wing image, and closing line 'Don't mention it. American Freedom, over.' Associated production docs now exist for ANGEL: cinematic screenplay pass, designer trigger sheet, mission VO sheet, bark variant matrix, cast recording script, and pronunciation guide.
+
+Project Warriors memory update: La Avispa now has a locked selective flashback concept titled internally THE GREAT DISAPPEARANCE, with working mission title MANIFEST. Canonical route: Bruges burn -> Brussels departure -> Vienna-bound commercial flight. The aircraft is sabotaged on approach and crashes in muddy airport-edge ground outside Vienna. Playable structure: brief lavatory-to-seat pre-impact setup, short fragmented crash phase, then concussion-haze aftermath walk. Key twist: FSB retrieval operatives are mingled with the first-responder perimeter searching survivors for her. Outcome: she sheds the last usable trace of her travel identity, escapes via the drainage/flood-control edge of the crash site, collapses in concealment, and is effectively processed by the world as dead/missing/unconfirmed. Tone rule: aftermath-first survival sequence, not a long disaster-ride set piece; end before recovery becomes competence. Spook plane-crash/sabotage-discovery variant remains parked in reserve, not active development.
+
+Project Warriors music placement update: Beyoncé “YA YA” is approved as a Romeo Game 1 eastern-flank arrival / troop reception-hold-space environmental cue. Best use is from a local American-controlled source (rec-bay speaker, gym/loading-bay setup, personal speaker cluster), not the official base PA. Function: pre-fracture optimism, swagger, ordinary troop confidence before PANDORA; atmosphere first, political topicality secondary. Use naturally, not as an ironic over-underline.
+
+Project Warriors memory update: Animal Calm-State Interaction lock added. Select non-hostile animals may be briefly interacted with in first person when calm, safe, and fictionally appropriate. The interaction is optional, non-reward-bearing, context-sensitive, and used sparingly for authenticity, warmth, and lived-in environmental texture. Animal agency and behavioral plausibility must be preserved; not every animal is interactable, and stressed, fleeing, working, or tactically compromising animals should not present the interaction. Best-fit examples: pharmacy cat in Calloway downtime; quiet resistance dog in Boston hideout; horses/donkeys handled with grounded muzzle/neck/forehead touch rather than overly cute petting. Keep dialogue minimal; slight character-specific handling differences are acceptable but understated.
+
+Project Warriors timeline canon update:
+
+- PANDORA attacks are canonically locked to Thursday, September 7, 2028. Any older project source using September 3, 2028 is superseded where it conflicts.
+- The US presidential election date is canonically locked to Tuesday, November 7, 2028. Any older project source using November 3, 2028 is superseded where it conflicts.
+- Hudson Overlook is the same day as the PANDORA attacks: September 7, 2028.
+- Cold Frontier 07 remains anchored in early March 2007.
+- Glushkin activation / Lebedev-linked Boston staging begins June 4, 2028.
+- Crodyn’s wartime address is the main cross-campaign Game 2 synchronization fulcrum.
+- Safest current campaign-overlap model until fuller refresh: Romeo Game 2 opens first in early October 2028; Ducky and Spook Game 2 open later in the same broader October window, best treated as mid-to-late October 2028.
+- Writer continuity rule: use broader windows rather than false precision for inherited “Day 31,” “six weeks post-PANDORA,” and election-proximity math until the older timeline source files are refreshed.
+- Project source-governance rule: older timeline files carrying the September 3 / November 3 model remain archival context only and should not override newer locked memory.
+
+Project Warriors update: ARTEMIS and TYPHON are now locked as separate DAOG fires assets. ARTEMIS is the Swedish Archer artillery unit: closer, faster gun-artillery support with a shoot-and-scoot identity, best placed in Ducky Game 2 mission Dead Frequency during the post-objective break-contact withdrawal from the converted NATO facility in northern Estonia. TYPHON is the Norwegian K239 Chunmoo-based rocket-artillery element: colder, deeper route-severance fires, best placed in Ducky Game 2 mission Permafrost during the post-node-destruction Svalbard shore exfil, collapsing inland pursuit routes before rigid-inflatable extraction. ARTEMIS and TYPHON should remain distinct in tone, visuals, comms identity, and battlefield function.
+
+Eamonn Kearney is now locked as Boston’s hidden armorer / repair specialist / small-arms sustainment node for Romeo Game 3. He is not a vendor-first character. He is a recurring local infrastructure figure whose function is to prove Boston had hidden professional continuity before Romeo arrived and to make the city’s liberation feel materially sustainable through repair, triage, magazine discipline, optics/mount honesty, and practical small-arms continuity.
+
+Kearney locked profile:
+- Name: Eamonn Kearney
+- Age: 58
+- Identity/background: Irish-born Boston-based gunsmith / machinist / repair specialist with a buried history of quiet clandestine armorer work around republican underground networks in an earlier conflict. Trade-first, not operator-coded, not gangster-coded, not ideological in voice, does not romanticize insurgency.
+- Voice/behavior: exact, dry, unsentimental, bench-authoritative, mildly territorial about workmanship, contemptuous of preventable sloppiness and “fashion gun” nonsense. Key recurring lines/logic include: “That mag’s done,” “Captured doesn’t mean usable,” “There. Now it’s honest,” “Trust is for people. This is supportability,” and “You’re getting less expensive.”
+- Permanent shop: hidden storage/service-floor workshop in a mostly dead light-industrial/commercial Boston service-belt building. Access via rear/back-lot service route, selective hidden power, old freight elevator to upper storage/service level, maze-like corridors, one reinforced but visually restrained industrial door. Main node remains separate from Van Hult’s reclaimed body shop, though overflow/heavier work can occasionally collaborate there.
+
+Kearney weapon lock:
+- Signature primary: BUILD 10 — WORK ORDER. Old-service-pattern Colt M4A1 lane; 14.5-inch old-service carbine; KAC RAS; Aimpoint PRO; SureFire Scout; plain two-point sling; A2 flash hider; no laser by default; supportability-first personal benchmark rifle.
+- Signature sidearm: Glock 17 Gen 3 with steel night sights and Streamlight TLR-1 HL; essentially stock, no optic, no compensator, no threaded-barrel identity.
+
+Romeo Boston rifle progression lock:
+- DON’T TREAD remains Romeo’s earlier Kentucky / Game 2 place-bound signature rifle and should be parted with intentionally before or at the Boston transition rather than dragged deep into Boston’s identity.
+- Romeo enters Boston carrying an unnamed Boston-entry rifle: competent, unnamed, narratively subordinate AR-pattern transitional carbine (16-inch midlength, Aimpoint PRO, practical white light, sling, no suppressor/laser by default). It is useful and credible but increasingly costly / compromised, giving Kearney something real to judge and maintain through early Boston.
+- Romeo’s Game 3 / Boston signature rifle is BUILD 12 — CIVIL DISOBEDIENCE, built/provided by Kearney. CIVIL DISOBEDIENCE is a 14.5-inch midlength AR-pattern urban resistance carbine with free-float M-LOK rail, Aimpoint T-2, SureFire Scout, Blue Force Gear Vickers sling, practical furniture, unsuppressed by default, no laser by default, and wholly supportable domestic-parts logic. It is “Boston’s rifle” in Romeo’s hands.
+
+Handoff / scene lock:
+- Approved handoff scene title: THE RIGHT RIFLE.
+- Placement: late Act II, between Mission 07 and Mission 08, at the Act II -> Act III hinge before the widened harbor / shadow-government phase.
+- Logic: Kearney judges Romeo’s unnamed Boston-entry rifle too costly / too full of “small apologies” and hands Romeo CIVIL DISOBEDIENCE only once Romeo is no longer “too expensive” to build for. Elena has quietly been part of the decision.
+- Key thematic line: “That one was a rifle you carried in Boston. This one’s a Boston rifle.”
+
+Mission-use integration locks:
+- Kearney should be withheld in early Boston, first fully revealed through Elena’s gatekeeping, then widen from hidden support node to recurring sustainment presence, BODYWORK connective tissue, selective mobile support, and late retained-ground visible figure.
+- WORK ORDER remains Kearney’s constant personal standard; CIVIL DISOBEDIENCE becomes Romeo’s active Boston signature from Mission 08 onward; unnamed Boston-entry rifle remains active only through early Boston and retires during THE RIGHT RIFLE.
+
+Project Warriors canon update: trilogy-level thematic arc is now defined as 'Fracture. Resistance. Restoration.' Fracture = breaking of states, systems, trust, legitimacy, and normalcy; includes physical, institutional, moral, and psychological rupture. Resistance = organized answer to that break through insurgency, refusal, endurance, clandestine action, preservation, and active opposition. Restoration = not a clean reset or total victory, but the contested, incomplete effort to rebuild legitimacy, continuity, civic life, and hope; in trilogy-end terms it means restoration of possibility and credible forward light rather than utopia or neat closure. Usage rule: treat the three terms as directional emphases, not rigid one-game-only compartments; Restoration should be written as beginning rather than completion, and used selectively in pre-Game-3 promo language.
+
+Project Warriors memory update — Spook Game 3 Yunnan/Laos traversal refinement locked from thread on 2026-04-12:
+
+Source anchor: PW_Sidebar_Development_Summary.txt Yunnan-Shanghai sequence sketch. Current interpretation and development direction now locked for follow-up threads unless later revised.
+
+Yunnan jungle crossing structure:
+- Keep the Laos -> Yunnan crossing explicitly compressed / not fully simulated; avoid turning the jungle traverse into a long continuous realism trek.
+- Recommended section shape:
+  1) short playable terrain-difficulty beat
+  2) compressed traversal transition
+  3) interactive La Avispa border-crossing sequence
+  4) very short quiet post-crossing aftermath
+  5) hillside pass / valley / PLA helicopter reveal
+- The helicopter reveal remains a distinct authored beat and should preserve the existing note: overlapping rotor throb, no music.
+
+Music placement lock:
+- Creedence Clearwater Revival "Sinister Purpose" is approved as a strong candidate for this Yunnan traversal section, but not for the helicopter reveal itself.
+- Best placement: use only part of the song as a brief non-diegetic bed over the compressed traversal segment leading into the border-crossing area.
+- Cut the song before the border-crossing sequence begins, or at the latest before the hillside-pass helicopter reveal.
+- Do not frame the song as a blunt Vietnam-reference jungle cue; use it for menace, forward pull, and Spook/La Avispa ambiguity.
+- Headphones / obvious diegetic playback during covert foot movement is not the preferred solution.
+
+Border-crossing beat lock:
+- The La Avispa border-crossing moment should not be treated as a full cinematic by default.
+- Preferred form is an interactive in-game sequence with low input, high tension, mostly observation, and no combat.
+- Player experience should be guided participation: following La Avispa’s cues, stopping, crouching, moving when instructed, preserving concealment, and watching her cross-border craft / social-terrain expertise.
+- This beat should feel like La Avispa’s authored competence space; Spook is capable but deliberately not the primary driver of the moment.
+- Design rule: not a spectator cutscene, not a stealth firefight, but quiet participatory tension.
+
+Use this memory entry as the handoff basis when resuming Spook Game 3 Yunnan/Laos sequence development in another thread.
+
+Project Warriors radio-system memory update: Project Warriors now has an approved civilian/public radio layer distinct from tactical/military comms. Locked Romeo-campaign station identities: THE RIDGE (Kentucky local FM civilian baseline), FIELDHOUSE (Coach Terrell Washington’s low-power trusted local community/pirate signal), and HARBOR (Boston civilian city station under occupation pressure). The radio layer should convey social weather, public framing, civic pressure, and regional identity rather than direct plot exposition. THE RIDGE tracks county public routine from occupied normalcy to narrowed public language to partial reopening; FIELDHOUSE tracks trusted local organization from emergence to scrutiny-phase compression to practical late-liberation steadiness; HARBOR tracks Boston from occupied routine to hard constraint to fragmented/contested city to reclaimed-function recovery. Sponsor/support reads should evolve with campaign stress from normal ad language toward survival-infrastructure / mutual-aid support phrasing. Current radio-system work is ready for compendium landing and thread archive after source landing. Next recommended follow-up in a new thread: build one non-Romeo-region pilot station as a scaling test for the radio system.
+
+Project Warriors memory update — SHIELD / COLD ROOM development lock from current thread:
+
+SHIELD squad canon:
+- SHIELD is now defined as DAOG’s hard-entry / sensitive-site exploitation / emergency recovery and denial squad, distinct from AEGIS and CORYS.
+- Functional identity:
+  - AEGIS = broader frontline special-operations strike/recon team
+  - CORYS = protection of command personnel and fixed critical assets
+  - SHIELD = breach, recover, stabilize, exploit, exfil; deny the asset if recovery fails
+- Use SHIELD for collapsing, compromised, or time-sensitive interior sites where the objective is a person, archive, relay, detainee, prototype, or other sensitive asset that must be recovered before sanitization or overrun.
+
+SHIELD roster lock:
+- SSgt Tomasz “Lock” Kaczmarek — Polish, former GROM; team leader / CQB planner / primary assaulter; calm, procedural, sequence-minded.
+- Sgt Nadja “Mallet” Vuković — Croatian, breacher / assault engineer / heavy entry specialist; blunt, structural thinker, force applied as craft.
+- Sgt Iben “Suture” Nørgaard — Danish, combat medic / close-quarter stabilizer; flat, exact, humane through competence, pressure-flattening.
+- Sgt Marek “Splice” Veselý — Czech, technical exploitation / access specialist; quiet, observant, infrastructure-first, preserves the real objective.
+- Rank presentation lock: keep SHIELD as an all-NCO team in project-facing anglicized ranks for plausibility and clarity.
+
+SHIELD signature build / loadout lock:
+- Lock primary build: DEADBOLT — HK416 A5 11" 5.56 with compact CQB setup, Aimpoint T-2 + magnifier, MAWL, white light, B&T Rotex-V; Glock 17 Gen5 MOS secondary.
+- Mallet primary build: HINGE — B&T APC223 Pro 10.3" 5.56 with EOTech, MAWL, white light, B&T Rotex-V; Glock 45 MOS secondary; Benelli M4 Entry as mission-dependent breaching secondary.
+- Suture primary build: TRIAGE — HK416 A5 11" 5.56, Aimpoint CompM5, white-light-first suppressed setup; Glock 19 Gen5 MOS secondary; compact assault medical load.
+- Splice primary build: GHOST KEY — CZ BREN 2 Ms 11" 5.56, Aimpoint T-2 + magnifier, MAWL, white light, B&T Rotex-V; CZ P-10 C OR secondary; technical exploitation kit.
+- SHIELD overall equipment rule: compact interior-focused suppressed carbines, mostly real 2028-credible weapons, shared 5.56 / 9mm logistics, visible breaching/admin/access gear, less long-patrol silhouette than AEGIS.
+
+SHIELD dialogue / bark canon:
+- SHIELD voice = compressed, procedural, unsentimental, role-aware, slightly colder/tighter and more interior-focused than AEGIS.
+- Dialogue functions: identify what matters, assign next action, preserve the objective, prevent team error, stabilize tempo.
+- Lock = sequence / priority / route control.
+- Mallet = access / structural reality / forced entry.
+- Suture = casualty stabilization / exact calm / tempo preservation.
+- Splice = real-objective identification / hidden-system awareness / preservation of sensitive material.
+- Keep SHIELD aligned with project radio standard: “say again” / “I say again”; reserve “repeat” for fire-support contexts only.
+
+Representative SHIELD mission model lock:
+- Mission title: COLD ROOM.
+- COLD ROOM is the template-grade SHIELD mission reference for hard entry, sensitive-site exploitation, one authored wound event, partial-denial logic, and restrained DAOG net traffic.
+- Core premise: SHIELD enters a compromised urban technical annex, rejects a false obvious entry, breaches through east utility access, reaches a staged false archive room, identifies the real archive behind a hidden cold-room partition, recovers archive core + relay board + ledger packet as able, sustains a controlled Splice wound during compromise, denies unrecoverable mirror infrastructure, and exfils through an improvised east-side breakout into a loading lane.
+- Mission-end logic should emphasize retained value / partial but real success rather than triumph.
+
+COLD ROOM level / art direction lock:
+- Visual identity: older urban commercial/service shell quietly retrofitted into a hidden technical-security annex; grounded near-future documentary realism, not glossy black-site fantasy or cyberpunk.
+- Load-bearing visual distinction:
+  - false archive room = more open, front-facing, evenly readable, too legible, more conventional technical signage and rack presentation
+  - real cold room = smaller, denser, more sealed, more consequential, less explanatory, slightly cooler and tighter lighting, fewer but more important objects
+- Level flow lock: rear service alley -> false south door -> east utility access -> utility spine -> stair stack -> archive antechamber -> false archive -> real cold room -> compromise / casualty -> denial -> east breakout -> exfil stair -> loading lane / vehicle.
+- Use COLD ROOM as the reference model for future SHIELD mission scripting, encounter design, blocking, and concept-art passes.
+
+Project Warriors canon update: CogniConnect is the broader implant architecture used across multiple hostile programs. CFIM stands for Counter-Forensic Identification Module and is a specialized War Wolves-only add-on package within selected CogniConnect stacks. War Wolves carry CFIM-equipped implants that trigger terminal counter-forensic detonation on death, destroying facial identification pathways and denying rapid postmortem exploitation. KYSC / Montoya Farm victims may carry baseline CogniConnect implants but do not carry CFIM and do not exhibit the War Wolves postmortem facial-destruction effect. Use this distinction in future source updates and narrative references.
+
+Project Warriors canon update: CIVIL DISOBEDIENCE is Romeo's Game 3 / Boston signature rifle build and is obtained from local Boston armorer Eamonn Kearney. Kearney remains associated with his own signature rifle WORK ORDER; CIVIL DISOBEDIENCE is Romeo's Boston-era build that Kearney provides/builds for him. Romeo should not retain DON’T TREAD as his Game 3 signature primary. DON’T TREAD remains tied to the earlier Kentucky / early-war phase and may stay in the opening stretch, but the active direction is that Game 3 gets a new named signature weapon. The recommended transition logic is that Romeo parts with DON’T TREAD through an intentional story beat (for example returning it to Dale / leaving it with Dale’s people), preserving its emotional/place identity rather than silently retiring it. CIVIL DISOBEDIENCE is the approved front-rank name for Romeo’s Boston/Game 3 signature rifle build. It is preferred because it feels more mature, civic, urban, New England/Boston-coded, and thematically aligned with occupation, legitimacy, and resistance in the Game 3 campaign than DON’T TREAD. CIVIL DISOBEDIENCE should be built in the “civic rifle” lane: an American, urban, restrained, organized resistance-war carbine rather than an exotic, enemy, or overly operator-coded weapon. Current recommended technical direction for CIVIL DISOBEDIENCE: 14.5-inch 5.56 AR-pattern carbine, unsuppressed by default, red-dot equipped, white-light equipped, sling, free-float rail, practical and maintained rather than flashy or boutique. The gun should feel like Boston resistance infrastructure built it for Romeo. The weapon should represent Romeo’s shift from inherited insurgent symbolism to civic resistance legitimacy / organized block-by-block urban liberation. Thematically: Boston gives him the rifle once the campaign properly becomes Boston’s war.
+
+Project Warriors memory update — resistance visual identity system locked from logo-design thread:
+
+- American Freedom Corps visual identity is now split across three related marks rather than one all-purpose emblem.
+- Republic Shield is the primary AFC emblem: an upright shield silhouette with a central five-point star and a rising wedge / chevron from the lower portion. It signifies civilian protection, defense of American soil, and active resistance against occupation. It should read clearly in one color and be stencil-friendly / quickly sprayable.
+- Breach Star is the AFC field tag / propaganda-wall mark: a bold five-point star breaking through a horizontal barricade / block shape. It is the rough, aggressive quick-spray symbol for sabotage claims, morale tags, and improvised field messaging rather than polished formal branding.
+- Union Mark is the pre-existing Boston underground emblem: angular industrial bands creating a hidden / implied star in negative space. It should feel local, civic, industrial, and neighborhood-rooted, not national, and is especially appropriate for reclaimed vehicles, workshops, barricades, safehouses, and district-level Boston resistance spaces.
+- Relationship / progression lock:
+  - Early Boston: Union Mark appears first as the local resistance identity.
+  - Mid Boston: Union Mark and Republic Shield begin appearing together as AFC coordination deepens.
+  - Late Boston: Republic Shield becomes the dominant umbrella emblem while Union Mark remains on local vehicles, workshops, barricades, and veteran neighborhood strongholds.
+  - Breach Star remains the AFC’s rough field tag throughout.
+- Visual design rules:
+  - Avoid skulls, rifle silhouettes, eagle marks, decorative heraldry, and tactical-brand / mall-ninja aesthetics.
+  - Favor heavy geometry, stencil-readability, one-color survivability, and fast spray-paint execution.
+  - Preferred polished palette: muted red, off-white, dark navy; real field use should still work in plain white or off-white spray paint.
+  - Union Mark must not read as a simplified Republic Shield; it should feel like an older, local Boston resistance tradition later aligned with the AFC.
+
+Ducky now canonically carries a Gerber StrongArm fixed blade, plain edge, coyote brown, in the factory coyote multi-mount polymer sheath. It is unmodified, treated as a field tool first and weapon second, defaulting to vertical MOLLE mount on his support-side kit in full combat load, with horizontal belt carry acceptable in lighter setup states. Presentation rule: reliable, worn-in, understated; never a knife-guy statement piece or theatrical tactical flourish.
+
+Romeo Game 3 / Boston campaign integration lock:
+- Elena Costa is now locked as a mission-facing Boston campaign character, not only a background profile.
+- Campaign function: Boston’s local armed center of gravity / district-level resistance combat leader who predates Romeo’s arrival and proves the city already had an indigenous armed struggle before outside help scaled it.
+- First-contact rule: introduce Elena early, before the British layer becomes significant, ideally late Act I or very early Act II. Preferred first-contact format is voice before face: clipped local radio guidance during a compromised movement sequence, followed by an in-person meet in a basement / service corridor / utility-space route that validates her city knowledge.
+- Intro tone rule: no speeches or myth-making. Mutual professional assessment, immediate utility, restrained friction.
+- Squad-role rule: Elena should be a recurring mission-facing ally, not a constant all-campaign squadmate. Her main functions are route authority, district-level combat leadership, ground-retention conscience, and practical urban-infrastructure route knowledge.
+- Combat / tone rule: disciplined, practical, not operator-flashy. HELL OR HIGH WATER reinforces this exact read.
+- Mission-arc placement:
+  - Act I: heard before fully known; first proof Boston resistance is active on the ground.
+  - Early Act II / Neighborhood War: strongest presence; should appear in at least two story-critical missions and help define the campaign’s block-by-block identity.
+  - BODYWORK / Van Hult branch: major connective tissue character. She should appear in The Shop, Concrete, Open the Route, and Bodywork as district security / local facilitator / operational realism check / armed commander coordinating the push around the dozer.
+  - Act III / Harbor and Shadow Government: remains important but does not own the arc; functions as Boston-side gatekeeper, local-cost contextualizer, and reminder that strategic operations still draw resources away from district survival.
+  - Optional wheelchair-exfil or trapped-civilian branch: strong fit as the character who knows who is still stranded and why the mission matters.
+  - Act IV: return to high importance as a representative of local ownership in the question of what victory means and who defines post-liberation Boston.
+- Romeo / Elena dynamic lock:
+  - Phase 1: assessment, not instant trust.
+  - Phase 2: trust grows when Romeo proves he can listen seriously to local knowledge.
+  - Phase 3: shared authorship with professional friction — Romeo thinks in momentum and widening opportunity; Elena thinks in survivable ground and retained neighborhoods.
+  - Phase 4: by late game they are compatible co-authors of a piece of Boston’s liberation without becoming the same kind of leader.
+- Van Hult / Elena relationship lock:
+  - They come from the same civic-reclamation moral ecosystem but do not duplicate each other.
+  - Elena is the operational realism check on Van Hult’s bulldozer plan and helps translate his anger into something survivable and tactically usable.
+- British-presence relationship lock:
+  - Elena respects competent British/SAS/SBS/Marine help once proven, but never emotionally yields Boston’s local authorship to them.
+  - Best stance: practical, unsentimental, "good, you’re here, here’s where you’re useful."
+  - She is one of the characters who makes late British CASEVAC / support feel materially transformative because she understands what earlier Boston lacked.
+- Campaign identity function:
+  - Elena should make Boston feel less like “Romeo arrives and leads a resistance” and more like “Romeo enters a city already bleeding, meets the people who kept it alive, and helps turn scattered survival into liberation.”.
+
+Project Warriors workflow preference: when the user mentions archiving a thread or when a thread appears bloated or has drifted off-purpose, proactively flag it. Warn if archiving seems premature under the thread archival standard, and suggest squaring away source landing, compendium updates, and memory updates before archive. Also flag when a thread likely should be wrapped and split or archived after cleanup.
+
+Project Warriors memory update: Bakhmut now has a locked visual style package for the Ducky Game 2 mid-campaign Bakhmut mini-arc and related Ukrainian urban-war material. Use specific eastern Ukrainian post-Soviet urban texture rather than generic war-torn-city shorthand: apartment slabs, damaged civic/mixed-use buildings, exposed concrete frames, broken balcony grids, shattered glazing, soot-blackened and shell-pocked facades, muddy or frozen courtyards, leafless trees, dirty snow in winter variants, flat overcast or cold pale daylight, documentary realism, grounded scale. Mission-ready categories include residential approach, courtyard fighting space, civic landmark ruin, low-rise institutional/industrial ruin, winter aftermath, interior-exterior transition zones, aerial establishing shot, religious/historical structure ruin, active-damage/live-fire trace, and quiet courtyard aftermath. Drift-control rule: avoid anonymous apocalypse visuals, cyberpunk/futurist spillover, blockbuster destruction framing, and over-designed shooter-map rubble.
+
+Project Warriors memory update: Canada worldbuilding posture is now locked at a baseline level. Canada is a functioning but strained NATO/AEGIS-aligned partner state in the Project Warriors world, not a blank space and not a passive appendage of the United States. It retains strategic independence and domestic priorities while contributing selectively to the coalition through command presence, intelligence, logistics, aerospace warning, Arctic/North Atlantic access, humanitarian support, and limited expeditionary capability rather than mass manpower. Southern Canada is affected by the PANDORA aftermath, but Canada is not depicted as either untouched sanctuary or full mirror-collapse of the U.S. Lt. Gen. Callum Tremblay’s French Canadian identity remains the primary human anchor for Canada’s place inside DAOG/AEGIS command architecture. Narrative use rule: default Canada presence should appear through command, basing, logistics, allied personnel, bilingual texture, and North American recovery context unless a dedicated Canadian arc is later developed.
+
+Elena Costa's signature primary is BUILD 08: HELL OR HIGH WATER.
+
+Platform: old-service-pattern Colt M4A1 carbine in 5.56x45mm, select-fire, 14.5-inch government-profile barrel, standard round polymer carbine handguards, detachable carry handle retained, standard collapsible M4 stock, plain two-point web sling.
+
+Configuration rule: no optic, no laser, no suppressor, no fashionable modernization. The rifle remains iron-sight / carry-handle configured.
+
+Identifying details: visible finish wear; tan rubber bands wrapped on the stock; green cloth/friction tape across the top of the stock; white marker on the handguard reading '...HELL OR HIGH WATER...'
+
+Build-name display: HELL OR HIGH WATER (without ellipses) in the inspect overlay / named-build listing; handguard text retains the ellipses.
+
+Narrative read: this is a stubborn, inherited, kept-alive resistance rifle rather than a boutique protagonist hero gun. It should imply Elena had already decided what kind of war Boston was before Romeo arrived.
+
+Thematic usage note: Elena and HELL OR HIGH WATER give Boston a local armed center of gravity and pair well with the civic-reclamation tone of the BODYWORK / Van Hult branch without duplicating Van Hult's role.
+
+New Boston resistance character locked for Romeo Game 3: Staff Sergeant Elena Maria Costa, former Massachusetts Army National Guard infantry NCO (E-6), age 35 in 2028, from Dorchester, Boston.
+
+Elena Costa's functional role is local resistance combat leader / district cell coordinator in occupied Boston. She predates Romeo's arrival in the city and represents Boston's own indigenous armed resistance rather than an outside-led effort.
+
+Character use rule: Elena is not the sole political leader of Boston and should not replace Romeo's campaign function. She provides local armed authorship, district-level tactical competence, infrastructure-route knowledge, and 'we were already fighting before you got here' legitimacy.
+
+Civilian background: municipal water/sewer field-side infrastructure work moving into supervisory responsibility. This background is load-bearing for her knowledge of utility corridors, service access, hidden crossings, and survivable movement through occupied Boston.
+
+Service plausibility: former Massachusetts Army National Guard infantry Staff Sergeant is the locked rank/background direction. She is not special operations; write her as a highly competent Guard infantry NCO made dangerous by repetition, reliability, and responsibility.
+
+Romeo/Elena dynamic: professional respect, initially limited trust; Romeo thinks in operational momentum, Elena in survivable ground and retained neighborhoods. Their friction should be professional, not ideological or theatrical.
+
+Voice / behavior guidance: blunt, compressed, practical, not slogan-heavy, not revolutionary-poster charismatic, no caricature Boston accent. Under pressure she narrows and uses less language.
+
+Project Warriors / Spook character design update: Trevor 'Spook' Gartner now has a locked personal-markings / wearable-detail note. He carries two tattoos and one habitual watch detail, all treated with restraint. Tattoo 1: 'KING NOTHING' black-and-grey upper-center-back piece between the shoulder blades, medium-large but contained, older/rougher/slightly more settled ink, rarely visible (shirtless, medical, aftermath, changing). Tattoo 2: 'CAN'T TAKE IT WITH YOU' black-and-grey skull/treasure-chest piece on the mid inner forearm, scaled down for believable forearm placement, body-facing at rest, selectively visible mainly in first-person or close-body gameplay beats (weapon manipulations, climbing, bracing, sleeve movement, scripted actions). The two tattoos should feel related but not like a matching same-day package; back piece older and more foundational, forearm piece slightly later/more controlled. Spook also wears a classic black Casio F-91W as a practical habitual carry detail, not tactical styling. Preferred rule: the watch sits on the wrist opposite the forearm tattoo to avoid visual stacking. Usage rule: show sparingly and never as a costume-reveal element; one hidden thesis statement on the back, one glimpsed mortality joke on the arm, one ordinary watch grounding the whole package.
+
+Project Warriors Montoya Farm environmental/music scene note locked from thread: Ghost’s “Square Hammer” is approved as a special-use, one-off low-volume diegetic source for an optional or semi-optional Montoya Farm underground observation-space beat in Spook’s campaign. Preferred presentation: a sealed handle-less keypad door with one-way observation glass and a narrow slit; through it, Spook glimpses a bright, too-clean room with a technician at a desk, low-volume playback, childlike drawings/soft stationery details, a child-sized or child-adapted restraint chair with visible wear, a crash cart or tray with spent capsules/open packaging, and a cute-looking ledger/clipboard with repeated coded entries or nicknames plus alphanumeric suffixes. The room should imply recent use and systemic repetition while the subject remains absent. Keep the tone restrained, clinical, and wrong rather than overtly horror-nursery coded.
+
+Ducky’s full legal name is Ferris Michael Ryan. Use the middle name in full-name / profile / canon-reference contexts where fuller personal naming makes sense. Do not force the middle name into routine rosters, list-style teammate summaries, or places where other characters are not being given middle names. Default everyday project-facing usage remains Ferris "Ducky" Ryan or simply Ducky unless a fuller formal naming context is specifically appropriate.
+
+Project Warriors / user preference: when generating military characters or squad compositions, prioritize real-world rank accuracy and organizational plausibility. Check that assigned ranks fit the role, billet, seniority, and service branch equivalent the character would realistically hold. Treat rank-role consistency as a standing quality-control step in future character generation.
+
+Project Warriors memory update — Romeo Game 3 BODYWORK / Van Hult branch vehicle end-state locked from current thread:
+
+- Mission 4 BODYWORK improvised armored bulldozer final-state logic is now locked.
+- The dozer completes its intended role as a one-use breaching vehicle during the final assault on the checkpoint / motor-pool position.
+- After smashing through the avenue roadblock and helping collapse the command-post pocket, it suffers a final mobility kill and becomes permanently immobilized in the target area.
+- Preferred presentation: the dozer ends the fight lodged off the side of the avenue in rubble, rebar, and debris, angled so its rear-mounted gun can still cover the approach. Cause should read as cumulative battlefield damage / terrain entrapment, not theatrical sacrifice; acceptable causes include thrown track, shattered drive component, jammed undercarriage, engine failure, or combined damage.
+- Immediate gameplay function: the rear-mounted gun serves as a temporary end-of-fight expedient strongpoint to help repel a final Russian reinforcement push from the far side of the avenue. This is a last-minute stabilization function only, not a redefinition of the dozer as a reusable resistance asset.
+- Post-battle diegetic rule: the resistance removes the mounted gun and any other recoverable heavy components after the fight. Rationale: they would not leave useful heavier weapons unattended where they could be scavenged, sabotaged, or retaken.
+- Revisit-state rule: the hull remains, but the dozer is dead as a combat vehicle. On later revisits it is reclaimed by the neighborhood and integrated into reclaimed defensive/civic space as part of a barricade / strongpoint line, with possible sandbags, scrap reinforcement, warning markings, observation use, nearby resistance traffic, and a small command-post or lookout node nearby.
+- The guiding line for later reference is: “It breaches as a weapon, then is reclaimed as infrastructure.”
+- Direct enterability / hatch-climb interaction on revisit remains intentionally unlocked for a later detail pass and is not currently required design.
+
+Project Warriors Cold Frontier flashback canon update: place the Cold Frontier 07 exercise in early March 2007. The Frost/Jussi staging-area beat with Ville Valo and Natalia Avelon’s 'Summer Wine' is approved as a one-time environmental/diegetic texture moment before the fatal attack. Use FM radio or a small MP3-player speaker rather than AM. Keep the exchange brief and human: Jussi lightly complains that the song is everywhere and he is sick of it; Frost answers tersely in character. Do not reuse the song later as a trauma callback or heavy-handed motif.
+
+Project Warriors environmental music development update: A new campaign-by-campaign internal source sheet was created for environmental/diegetic music use. Core rules now locked for this music layer:
+- These songs are environmental / diegetic / in-world texture first, not replacements for the already locked campaign-anchor identity tracks.
+- Heavy tracks generally work best when the world is producing them (car stereos, FM radio, workshops, safehouses, command posts, bars, apartments, garages, motor pools, staging rooms), not as overt heroic score cues.
+- Productive dissonance remains preferred: familiar or lighter songs against strain/occupation/dread often work better than literal mood-matching.
+- Character associations should stay restrained; avoid turning environmental tracks into blunt thesis statements or joke tags.
+- Especially famous songs should be used sparingly and precisely.
+
+Load-bearing campaign music shortlist from the thread:
+- Romeo Game 1 strongest additions: “California Kids” (Weezer), “Check My Brain” (Alice in Chains), “Heartbreaker” (Pat Benatar).
+- Romeo Game 2 strongest additions: “Drive” (Incubus), “La Dee Da” (Foo Fighters), “Heartbreaker” (Pat Benatar), “Show Me How to Live” (Audioslave).
+- Romeo Game 3 / Boston strongest additions: “Re-Arranged” (Limp Bizkit), “What’s Up?” (4 Non Blondes), “Numb Little Bug” (Em Beihold), “Symphony of Destruction” (Megadeth), “The Down Town” (Days of the New). “The Trooper” is retained only as late-Boston British-presence special-use texture.
+- BODYWORK / Van Hult branch note: “Symphony of Destruction” is an especially strong prep-space candidate; Pantera tracks may work in workshop/motor-pool/breach-prep spaces but should stay diegetic and selective, not glamorizing heroic cues.
+- Spook strongest additions: “60 Miles an Hour” (New Order; Gillian-adjacent), “The Sky Is a Neighborhood” (Foo Fighters), “Sick Sad Little World” (Incubus), “Show Me How to Live” (Audioslave), “Revelations” (Audioslave), “Fear of the Dark” (Iron Maiden), “A Looking in View” (Alice in Chains), “They” (Jem). Special-use Spook/Goldberg layer: “Megalomaniac” (Incubus), “What’s Up Mr. Zero?” (sHEAVY), “Cochise” (Audioslave), “Killer” (Valerie Broussard), “Stone” and “Your Decision” (Alice in Chains). “Aliens Exist” (Blink-182) stays as a Spook reserve only, not a promoted favorite.
+- Ducky music note: Ducky still has the thinnest and most space-dependent pool; best current fit is “Rooster” (Alice in Chains). Ducky songs should be chosen by believable operational space rather than lyric-first character matching.
+- La Avispa strongest addition: “Paid My Dues” (Anastacia). “Heavy Is the Head” stays special-use only. Spook / La Avispa music should stay restrained and unresolved.
+
+Caution / drop decisions:
+- “Run to the Hills” (Iron Maiden) is dropped from the active shortlist because its historical connotations risk pulling thematic focus sideways.
+- “Hotel California” stays starred reserve only.
+- “Black Gives Way to Blue” (Alice in Chains) is kept with caution because it is too grief-specific for broad environmental use.
+- “Psycho Killer” (Talking Heads) is special-use only and should never turn a villain into an unintended joke.
+- “Rooster” should not be used as a big heroic or sentimental military shorthand; it works best as environmental playback in military-adjacent spaces.
+
+Project Warriors development memory update — Romeo Game 3 Boston optional mission branch locked from current thread:
+
+Mitchell Van Hult optional branch:
+- Canonical spelling: Mitchell Van Hult.
+- Source seed survives as the compact “Van Hult side quest” sketch in uploaded source files; current thread expands it into a full optional branch for Romeo Game 3 Act II / Neighborhood War.
+- Van Hult remains a mid-50s former USAF technician and body-shop owner whose Boston shop was seized by occupation forces and turned into a motor pool. He is not a crank or Heymire analogue; write him as a proud, exact, community-minded tradesman whose grievance is that the occupation stole his livelihood, life’s work, and neighborhood role and turned them into something crude.
+
+Branch structure / identity:
+- Working branch title: BODYWORK.
+- Recommended shape: 4 linked optional missions plus 1 epilogue scene.
+- Recommended district flavor: Newmarket / Widett Circle / South Bay industrial belt on the edge of Roxbury and the South End for broad roads, industrial plausibility, a construction site, and proximity to dense neighborhoods.
+- Theme: not revenge fantasy but restoration of civic function through violent reclamation by ordinary skilled people.
+
+Mission sequence:
+1) The Shop — meet Van Hult, recon the occupied avenue/checkpoint, confirm the seized body shop is a Russian motor pool, understand neighborhood cost, and discover the stalled construction site / dozer possibility.
+2) Concrete — secure the half-finished construction site and parking garage, restore limited power, move salvage/tools, and establish a hidden community build cell around the tracked dozer.
+3) Open the Route — Romeo-led shaping mission to blind the local surveillance/comms picture, remove likely overwatch/kill positions, and canalize enemy response so the breach can work.
+4) Bodywork — moving assault mission where Van Hult drives the armored dozer through the checkpoint while Romeo advances on foot with the push, clearing MG nests, flanking rooms/strongpoints, and keeping the breach alive until the motor-pool pocket collapses and the shop is retaken.
+5) Epilogue beat — reclaimed-neighborhood concert / ordinary-life return, using the Mighty Mighty Bosstones “The Impression That I Get” concept as the contrastive end-cap already discussed in-thread (thread-established project beat rather than currently retrievable file-anchored source).
+
+Dozer design / gameplay rule:
+- The armored bulldozer is a one-purpose improvised breaching ram built in a hidden parking garage by a neighborhood build cell of welders, electricians, mechanics, and construction workers.
+- Treat the “Killdozer” connection as a subtle unnamed structural echo only, never the moral center.
+- It is not a homemade supertank and should not duel tanks; use it against barricades, checkpoints, small-arms/fragments, and light occupation control nodes.
+- Romeo does not ride it; he moves with the breach-supported assault on foot, clearing flank threats, rooms, rooftops, machine guns, and route-blocking positions.
+
+Campaign consequences / unlock logic:
+- Completing the branch reclaims Van Hult’s shop and turns it into a resistance vehicle repair / fabrication node.
+- Post-branch Boston should show improved allied vehicle condition, improvised armor / reinforcement capability, and a stronger sense that the resistance is sustaining liberated ground rather than only passing through.
+- A gunsmith may briefly use the reclaimed shop as temporary overflow workspace, but the preferred long-term direction remains that the gunsmith has a separate permanent city location so Boston retains layered geography.
+
+Project Warriors source-ingestion update from uploaded project files:
+
+Source-use / governance:
+- Treat sidebar/promotional teaser files as creative reference only; they should not override main narrative/gameplay canon unless cross-checked against the core narrative sources.
+- When uploaded source files conflict with newer locked project memory, prefer the newer locked memory and treat older file content as superseded continuity.
+
+Project identity / title canon from source set:
+- Studio identity: Tears in the Rain (TITR), with the studio descriptor “Virtual Entertainment Software.”
+- Trilogy installment titles in source set: Project Warriors I / II / III.
+- DLC title directions present in source set:
+  - Project Warriors: Sea Spear = Nereid Black DLC, Grim sole playable protagonist.
+  - Project Warriors: The Wasp = La Avispa DLC title/direction.
+  - Project Warriors: Semper Fi = West Coast USMC DLC direction, tied to André Bridges.
+  - Project Warriors: Who Dares Wins = SAS/British-home-front DLC concept title (parked concept, not deeply developed yet).
+
+Character / continuity canon from source set:
+- Lt. Tara Halliday’s callsign is ORACLE.
+- Ducky is from Boston and this should be revealed primarily through environmental storytelling, not expository dialogue.
+- If Navarre and Budanova are helped to escape in Game 1, their locked post-escape identities/relocation are:
+  - Simenon Christophe Navarre -> Simon-Pierre Aubert
+  - Karyna Budanova -> Katja Reimann
+  - Relocation: Évora, Alentejo, Portugal
+  - Navarre’s farewell call to Spook in Game 2 comes from Évora.
+
+Locked/backstory character reference added from source set:
+- Ştefan “Lupin” Dragavei locked source profile: from Reşiţa/Banat, former Romanian SOF operator in AEGIS, shaped by post-communist civic/economic collapse, multilingual/regional identity texture, family-sacrifice background, realist who shows up and does the work rather than speechifying.
+- André Nathaniel Bridges source profile: USMC Staff Sergeant infantry NCO from the New Orleans Ninth Ward; reliable, tactically sound, develops subordinates, leads through clarity rather than charisma; source-set direction makes him the sole playable protagonist path for the Semper Fi West Coast DLC.
+
+Gameplay / systems canon from source set:
+- Ducky campaign missions may include scripted, diegetic, tactically motivated mid-mission perspective transitions to Frost or Lupin. These are not player-on-demand switches and do not function like chapter breaks.
+- Frost transition sections: long-range TRG M10 precision work, sparse/clinical comms, slower and more methodical pacing.
+- Lupin transition sections: SCAR-H DMR space-making/interdiction, faster and more pressurized pacing.
+- Transition triggers and exits should be handled through believable radio tasking/sign-off rather than overt gamey framing.
+
+Worldbuilding / strategic architecture canon from source set:
+- China is not treated as the original architect of Riptide Red/PANDORA; instead it correctly read the conspiracy, allowed it to unfold, harvested advantage, and moved opportunistically during the post-PANDORA collapse.
+- Source-set China actions include: annexation of Taiwan, move on Pine Gap, support/exploitation against Western infrastructure, and use of the Western recovery bottleneck created by semiconductor/manufacturing dependence.
+- The ASML Netherlands facility is a load-bearing Western recovery bottleneck in Game 3 architecture.
+- Game 2 Ducky continuity from the Game 3 lab source: the Torrejón de Ardoz AEGIS attack should pivot from earlier Russian attribution to unmarked Chinese operators.
+
+Weapons / equipment canon from source set:
+- Global weapon direction: mostly realistic 2028 real-world weapons with a small number of near-future prototype systems.
+- Signature named builds from source files:
+  - Spook primary: GRAY GHOST
+  - Spook sidearm: NOTHING
+  - Ducky primary: FREYA
+  - Romeo early Game 2 primary: DON’T TREAD
+  - Frost primary: TRG M10
+  - Lupin primary: ARGINT
+- AEGIS / related-unit suppressor-family standardization is intentional continuity texture; shared B&T Rotex suppressor-family usage signals quiet professional maintenance/commonality across unit weapon setups.
+
+Relationship / thread guidance from source set:
+- Spook / La Avispa relationship should remain restrained and unresolved; the story forces them apart before whatever is between them can be named.
+
+Project Warriors memory update — Ducky characterization / voice-sheet canonization from thread:
+
+Use the thread’s Ducky characterization work as active writing guidance across story, dialogue, and gameplay-facing barks/comms. Ducky’s usable core rule is: calm, exact, dry, methodical, pressure-flattening, and morally stubborn. He should not read as loud, flashy, speechifying, or operator-cool. He makes intensity feel normal and solves chaos by compressing it into action.
+
+Voice / dialogue rules:
+- Ducky is a short-form speaker. Prefer short declaratives, plain wording, low-drama phrasing, concise tactical language, and restrained emotional language.
+- If a line can be shorter, cleaner, less self-conscious, and more practical, that version is usually closer to Ducky.
+- His lines usually do one of four things: identify the real problem, cut through noise, stabilize someone else, or move action forward.
+- He is dry rather than witty; humor should be sparse, deadpan, pressure-flattening, and quickly return to task. Do not write him as a quip machine.
+- Under pressure he gets quieter and more exact, not louder or more expressive.
+- He reassures through normalization and tasking (“I know,” “Keep moving,” “One thing at a time,” etc.), not through overtly therapeutic or sentimental language.
+- He reads major political/institutional events analytically as data points, signs of panic, prior knowledge, or control failure, rather than reacting rhetorically.
+- A good compression rule for his voice is: Ducky usually says the least dramatic version of the truest thing in the room.
+
+Leadership / squad behavior:
+- Ducky leads by setting tone, making the decision, giving the next action, and quietly protecting people from bad choices.
+- He validates fast and redirects faster. He trusts competence, notices overload early, and intervenes before chaos becomes collapse.
+- His care for people comes through brief check-ins, practical instructions, competent intervention, defending support roles, and refusing reckless sacrifice rather than overt sentiment.
+- He does not hover, grandstand, or perform authority.
+
+Body language / mannerism guidance:
+- He settles before speaking; a brief calibrated pause is in character.
+- Minimal, purposeful gestures; he points with his gaze more than with his hands.
+- Habit of squaring or aligning things (map corners, kit, small objects) fits him.
+- Habitual equipment confirmation is good character texture: checking buckles, straps, radio leads, seated magazines, pouch flaps by feel.
+- He wastes little movement; fatigue remains contained rather than theatrical.
+- Subtle stress tells fit best: jaw set, brief silence, sharper diction, one exhale through the nose, slower lowering of optics, reduced verbal cushioning.
+
+Emotional / interpersonal guidance:
+- Ducky is controlled rather than cold, protective rather than sentimental, observant rather than expressive, steady rather than charismatic.
+- His warmth comes out sideways: practical concern, brief reassurance, timely intervention, understated humor, and competence.
+- Use names sparingly; when he says someone’s name, it should land.
+- In quiet scenes, concern should stay procedural and practical (“Sit down a minute,” “Eat something,” “Get some water in you,” “Get dry first,” “Sleep before you make it worse,” etc.) rather than openly therapeutic by default.
+
+Cross-character usage note:
+- When Frost tightens up in Arctic/Russian-operator contexts, Ducky may check in by saying Frost’s name once or with a very short comms prompt (“Frost.” / “Frost. Status.”). Frost answers with clipped confirmation and nothing more. Do not overwrite these exchanges.
+
+Accent / tonal restraint:
+- Boston origin should remain subtle background texture, not a dominant audible gimmick. Years abroad have leveled him out; traces may surface under stress or irritation.
+- Do not write Ducky as a constant wisecracker, stoic robot, overtalking mission-dad stereotype, swaggering action hero, poetic melancholic, or loud hardass.
+
+Usage caution:
+- The Rotterdam/warship outburst line is a special-use moment, not baseline everyday Ducky register.
+- For radio traffic, keep Ducky aligned with the project comms standard: “say again” / “I say again”; reserve “repeat” for fire-support contexts only.
+
+Patrick 'Pat' Napier now has a source-style loadout direction locked for Romeo Game 2 / American Freedom.
+
+Canon loadout summary:
+- Role: combat medic / sustainment / secondary rifleman in Romeo's early resistance cell.
+- Primary: Colt LE6920 civilian AR-pattern carbine in 5.56x45mm with Aimpoint PRO red dot, Streamlight ProTac Rail Mount 2, Blue Force Gear Vickers two-point sling, Magpul MOE furniture, no laser, no suppressor.
+- Sidearm: Glock 19 Gen5 in 9mm with standard iron sights, Streamlight TLR-7A, Safariland ALS belt holster.
+- Utility tools: Leatherman Raptor Rescue trauma shears and Benchmade Triage folding knife.
+- Medical signature: reorganized surplus military aid bag with civilian/improvised inserts; CAT tourniquets, compressed and hemostatic gauze, pressure dressings, vented chest seals, NPA/basic airway kit, decompression needles, nitrile gloves, tape, casualty markers, Sharpie, trauma shears, limited pain-management/sustainment items depending on sourcing.
+- Gear profile: surplus TAP chest rig cut down for slimmer profile, fewer rifle mags because med pouches take priority, civilian work jacket or muted softshell over low-profile armor when available, Mechanix gloves, waterproof notepad and Sharpie, ball cap/watch cap, durable hiking/work boots rather than overt military footwear.
+- Character/loadout design rule: Pat should read as a practical former enlisted 68W who prioritizes reliability, mobility, and casualty treatment over operator aesthetics. His rifle exists to create space and buy treatment time. He does not name weapons.
+- Squad dynamic note: Cody pushes forward on impulse; Pat is the stabilizing adult in the room when that impulse gets people hurt. This contrast is load-bearing for the early Romeo squad dynamic.
+
+Reference note:
+- Full longform source-style loadout block was developed in-thread on 2026-04-10; use this memory entry as the pointer/summary for other threads.
+
+Renata Voss connection update: Pat keeps the surname Napier; do not make him a Voss by surname. The preferred tie is relational, not genealogical. Renata's support of Pat should be shown subtly through natural adult respect, correct naming, and trust in his judgment in narratively significant moments only, without speeches or performative validation. Pat's parents should also be portrayed as supportive rather than stereotypically rejecting; the main betrayal remains institutional/state/military, not familial.
+
+Romeo Game 2 / American Freedom queer-character and medic slot is now resolved as Patrick 'Pat' Napier. Pat Napier is a trans man and former U.S. Army enlisted 68W combat medic, best treated as a one-enlistment former enlisted soldier (about 3 years active service) who left service as a Specialist/E-4 after tightening Crodyn-era policy pushed trans enlisted personnel out. He is back in the Calloway, Kentucky area as a civilian when Romeo arrives and becomes the early resistance cell's indispensable casualty stabilizer / field medic / sustainment specialist and a secondary rifleman. He is calm, dry, precise under pressure, not elite-special-operations coded, and should read as a capable adult first rather than an identity thesis character. His transness matters to his history of institutional betrayal but is not his only or primary scene-to-scene function.
+
+Project Warriors memory update:
+
+Audio / campaign identity canon:
+- Romeo Game 2 audio identity: "Good Morning, America" by Jesse Welles is the canonical anchor track for the teaser/opening identity; tagline: "WAR HITS HOME."
+- Ducky Game 2 campaign title remains "Persistent Threat"; "AEGIS Falls" is retired as the campaign title. Audio identity uses "Kyiv" by Apashe ft. Alina Pash; tagline: "THE SYSTEM FELL. WE DIDN'T."
+- Spook Game 2 campaign identity: "Godkiller" with "King Nothing" by Metallica as teaser tone-setter; tagline: "YOU CAN'T KILL A DEAD MAN."
+
+Project Warriors audio design rules:
+- Favor productive dissonance over mood-matching: warmth/gentleness against wrongness/horror is a preferred music-to-image principle.
+- Silence and restraint are active design tools, not absence of content.
+- Enemy chatter should primarily convey worldbuilding; friendly chatter should primarily convey character.
+- Inter-coalition NATO/DAOG comms default to English as the working language, while enemy factions use authentic native-language chatter with culturally grounded callsigns.
+
+Project Warriors audio / promo development standards:
+- Character promos use an established seven-part structure: origin; first detonation/weapon moment; character-specific tool/weapon moment; deeper action; squad relationship passage; final build; ending/private detail/title card.
+- The recurring promo technique is diegetic sound punctuation: music partially drops, a real-world sound cuts through, then music returns.
+- Romeo voice direction: in combat his voice should drop in register and slow down; that contrast with his warmer downtime voice is load-bearing characterization.
+- Switchblade medic calls must stay clinically specific (location, what she sees, what she needs), not generic "he's hit" calls.
+- Hoplon comms-blackout calls should trigger simultaneous HUD/minimap loss; audio and gameplay must tell the same story at the same time.
+
+Project Warriors antagonist audio identity:
+- KYSC / Kali Yuga Surf Club audio identity: no callsigns, no normal tactical radio discipline, flat intimate American voices, metronomic breathing, and the deliberate absence of normal enemy ambient noise; conditioning-fracture moments should puncture the programming rather than turn them into conventional shouting enemies.
+
+Project Warriors development memory update:
+
+New development catalog / queue decisions from the current thread:
+- Organize the newly proposed work into five lanes:
+  1) Campaign architecture: Romeo Game 3 campaign spine
+  2) Contained narrative treatment: Frost Cold Frontier flashback
+  3) Support spectacle scenes: TYPHON rocket artillery epic scene
+  4) Audio worldbuilding library: public FM radio voice lines around songs
+  5) Systems/mechanics: Support Calls / CAS / Extraction mechanics pass
+- Development priority order agreed in-thread:
+  1) Romeo Game 3 campaign spine
+  2) Frost flashback treatment
+  3) Support Calls / CAS / Extraction mechanics pass
+  4) TYPHON rocket artillery scene
+  5) Public FM radio library
+
+Frost / Cold Frontier canon update:
+- Older file continuity where Frost kills the attacker underwater against rock is superseded.
+- Current intended canon for the Cold Frontier flashback is the version with the dispatch prompt already described in later notes: Specnaz/Vympel attack, plunge into the lake, Frost reaches the shallow lakeshore and dispatches the surviving attacker with his Peltonen knife.
+- When writing the scene, override the older continuity and treat the lakeshore knife dispatch version as the valid one.
+
+TYPHON scene planning update:
+- TYPHON is confirmed as a rocket artillery spectacle item, not a mechanics/system item.
+- Treat it as its own epic scene category entry, separate from CAS/support-call mechanics.
+- Probable placement possibilities discussed: Ducky Game 1, Ducky Game 2, or Romeo’s European segment when operating with Ducky.
+
+Support mechanics planning update:
+- Support Calls / CAS / Extraction should be handled as a separate mechanics pass and not folded into the TYPHON spectacle scene.
+- Existing project files already contain partial support-call groundwork, but the system is not yet fully developed.
+
+Romeo Game 3 campaign spine update:
+- Build the Game 3 Romeo/Boston campaign around the core idea that Romeo is no longer only fighting to free a place; he is fighting over what victory will mean and what the AFC becomes after liberation.
+- Working title recommendation: "No Kings."
+- Backup title options discussed: "Open City" and "Block by Block."
+- Use "block by block" primarily as the internal design phrase for the campaign progression model.
+
+Romeo Game 3 campaign design direction:
+- The campaign should create the feeling that the resistance is advancing through Boston neighborhood by neighborhood / block by block, but without a formal territorial-conquest mechanic.
+- That feeling should be conveyed narratively and environmentally through mission order, revisited districts, shifting civilian behavior, thinning checkpoints, growing resistance infrastructure, improved support availability, enemy posture degradation, and late coalition/British arrival.
+
+Romeo Game 3 structural outline:
+- Four-act spine:
+  Act I: Eastbound War / transition from Kentucky to Boston; fractured resistance contact; first foothold; A-10 suburban attack-run mission as early surge-of-hope spectacle.
+  Act II: Neighborhood War / localized urban resistance arc; Van Hult body-shop / armored-bulldozer material; reclaimed blocks; Ducky family house environmental beat; tunnels / old infrastructure / undercity pressure.
+  Act III: Harbor and the Shadow Government / British SAS then SBS contact; optional wheelchair exfil side mission; harbor reconnaissance and sabotage prep; Tea Party-style harbor operation.
+  Act IV: What Victory Is For / late British CASEVAC/support threshold; New America / accelerationist / false-allies pressure; Lebedev / City Hall / infrastructure-ledger reveal; finale centered on who defines post-liberation America and the AFC’s future.
+- Recommended overall mission-count shape: roughly 12–13 main missions plus optional side content.
+- Clean thesis line for recall: Romeo comes to Boston to help free a city and discovers he is really fighting over who gets to define America after liberation.
+
+Key Romeo Game 3 component beats already tied into this spine:
+- Kentucky-to-Boston bridge material still needed, but campaign is now structured to absorb it.
+- A-10 suburban attack run belongs early in the campaign.
+- Van Hult neighborhood/liberation material is one of the campaign’s main block-by-block identity pieces.
+- Ducky family house beat should stay subtle and environmental rather than expository.
+- British presence should begin with covert competence and only later expand into meaningful support and CASEVAC.
+- Tea Party harbor mission should be a signature operation fusing Boston history, occupation logistics, and multinational resistance cooperation.
+- Lebedev should matter as part of Boston’s pre-invasion administrative/infrastructure compromise rather than only as a front-line villain.
+
+Use this memory state as the handoff basis when continuing Romeo Game 3 campaign development in a dedicated thread.
+
+Project Warriors memory update: Black market / underground procurement design skeleton is now treated as canon but revisable later. It is one shared underlying procurement system with three campaign-specific shells. Shared hidden logic tracks item pools, unlock state, scarcity, delivery timing, campaign progression gates, and pressure/availability. Delivery should be meaningful rather than instant magical acquisition. Romeo's version is physical resistance-network procurement with a handwritten map / planning-board / field-ledger presentation and barter/trust/network-strain logic. Spook's version is secure-device covert procurement with a monochrome typewriter/redacted/classified presentation and operational-pull/channel-clearance/trace logic. Ducky's version is hybrid formal requisition plus off-book allied sourcing with a green-phosphor DAOG tactical presentation and logistics-priority/authorization/theater-availability logic. Exact UI density and the number of visible contacts/channels/stocks remain intentionally flexible for later tuning.
+
+Project Warriors project memory update:
+
+Canon / character status:
+- Trevor 'Spook' Gartner uses the surname spelling 'Gartner' canonically.
+- Spook should not be given the rank/title Captain in current project-facing material; treat him as a senior CIA paramilitary officer.
+- Current rank retcon set from recent threads: Romeo -> Sergeant; Ducky remains Sergeant First Class; Frost remains Staff Sergeant; Lupin remains Corporal; Switchblade -> Corporal; Halliday remains Lieutenant; Andre Bridges remains Staff Sergeant; Vickers -> Captain if leading a full British reinforcement element; Mace -> Colour Sergeant; Patch, Ghost, Depth, Cutter, and Wren keep current ranks; Macmillan is non-military and should be treated as Director Robert Macmillan, CIA Director of Operations.
+
+Systems / likely-lock development direction:
+- Black market mechanic: one shared underlying progression/procurement system with campaign-specific interfaces. Romeo = contact/fixer/barter logic in occupied territory. Spook = remote secure off-book procurement with trace-risk flavor. Ducky = hybrid NATO/DAOG logistics plus allied off-book sourcing. No cash-shop framing. Economy/details still pending dedicated design pass.
+- The Wasp / La Avispa DLC is being treated as a sole-playable protagonist campaign that overlaps Game 2 and uses selective flashbacks rather than functioning mainly as a disconnected prequel; hidden parallel layer of Game 2 is the active direction.
+
+Writing / development standards:
+- Radio comms realism standard: use 'say again' / 'I say again' in standard traffic; reserve 'repeat' for fire-support only; never 'over and out'; do not stack 'roger' and 'wilco'; use 'correction' for self-fixes; use formal phrasing, phonetics, and spoken numerals when precision matters. Character misuse should be intentional only.
+- Ducky voice guidance: calm, dry, methodical, morally stubborn, pressure-flattening; short declarative lines; restrained emotion; care shown through precision, responsibility, and competence rather than overt sentiment.
+
+Source-management standard:
+- Project Warriors now uses a two-layer source model: milestone-refreshed archival master corpus + day-to-day working set of six topical compendia.
+- Consolidation should stay lossless: preserve original filenames, stable doc IDs, manifests, and clear source boundaries.
+- Edit source-of-truth files first, then refresh working compendia; refresh master archive at milestones.
+- Avoid uploading originals + working compendia + archival master simultaneously as a normal practice.
+
+Project Warriors radio dialogue rule update: Avoid using 'repeat' to announce or request repetition of information over radio. Reserve 'repeat' for follow-up fire/support contexts only (for example, requesting another artillery fire mission). Use 'I say again' before repeating information over radio comms. Use 'say again' to request that the other party repeat their last message. Always follow the latest project memory and source guidance when writing accurate radio chatter dialogue for the games.
+
+Project Warriors working source-set mapping:
+- Core/Timeline compendium
+- Worldbuilding/Strategic Architecture compendium
+- Characters/DLC compendium
+- Gameplay/Weapons/Style compendium
+- Missions/Scenes/Cinematics compendium
+- Promotional/Sidebar Development compendium
+These six compendia are the default day-to-day upload set under the new archival-master + working-set source architecture.
