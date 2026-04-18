@@ -4,6 +4,11 @@ This repository is the working source home for **Project Warriors**: a grounded 
 
 It is primarily a **source-development repo**, not a software build repo. Its job is to keep narrative, worldbuilding, gameplay, audio, promotional, and migration/governance materials organized, recoverable, and easy to refresh.
 
+For repo-organization and intake rules, also see:
+
+- `CONTENT_LIFECYCLE.md`
+- the `README.md` files inside the major content directories
+
 ---
 
 ## What lives here
@@ -92,6 +97,19 @@ Scratch area. Treat as disposable unless an item is intentionally promoted elsew
 ---
 
 ## Working conventions
+
+### Content lifecycle
+
+Use the repo as a layered system, not one flat document dump:
+
+- `dev_src_docs/` is the durable authoring layer
+- `Project_Warriors_Knowledge_Compendia/` is the synthesized reference layer
+- `incoming_patches_and_updates/` and `new_src_material/` are intake layers
+- `source_audits_and_reports/` is the governance layer
+- `Recovered_Sources/` and `archived/` are recovery and history layers
+- `temporary_files/` is scratch space
+
+The full operating rule set lives in `CONTENT_LIFECYCLE.md`.
 
 ### Preferred editing order
 
