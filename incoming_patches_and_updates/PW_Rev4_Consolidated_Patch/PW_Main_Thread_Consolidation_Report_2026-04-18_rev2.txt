@@ -1,0 +1,33 @@
+PROJECT WARRIORS — MAIN THREAD CONSOLIDATION REPORT
+Generated: 2026-04-18
+Version: rev2 for Revision 4 delta
+
+SUMMARY
+Created a rev4 delta consolidation package intended to stack cleanly after the 2026-04-14 rev3 consolidation package. The rev3 package remains the base layer; this package contains only post-rev3 and visibly missing locks that should be applied as a second source update.
+
+WHAT WAS CHECKED
+- Existing /mnt/data rev3 package and rev3 memory patch.
+- Visible Project Warriors project memory available in this conversation.
+- Visible recent project-thread summaries in the project context.
+- Retrievable personal project context for DAOG/OLYMPUS patch work and image-reference workflow.
+- Known workspace limitation: GitHub repo main/branch contents are still not directly accessible from this environment.
+
+MAJOR REV4 CONTENT AREAS
+1. Core/thematic: “Fracture. Resistance. Restoration.”
+2. Worldbuilding: Canada posture, OLYMPUS command layer, DAOG patch grammar.
+3. Bakhmut: localized PenCott MetroPolis AEGIS adaptation.
+4. Characters/visuals: image-reference workflow, Boston wheelchair civilians, Halliday/ORACLE, Frost visual flag.
+5. Gameplay: animal calm-state interaction and Bakhmut style implementation.
+6. Missions: wheelchair repair intro beat plus source-check flags for Boston bridge and British DLC sequences.
+7. Promotional/branding: DAOG family patches, KERAUNOS/PHAETON patch concepts, Minotaur Steakhouse brand lane, tourist-memory prompts.
+
+NOT FULLY VERIFIED
+- Actual GitHub main state.
+- Full mission text for DAY WINDOW / ROLL CALL / THE POCKET.
+- Full mission text for HOLD FAST / BROKEN HARBOR / FAR SHORE.
+- Detailed Tripper / Smoke / Tourists source insertion.
+- Generated image binaries from prior image threads.
+- Any repo-side prompt packet files generated outside this workspace.
+
+RECOMMENDED APPLICATION
+Create a new branch from the rev3 branch or from main after merging rev3, then apply the rev4 delta files. Keep the delta files as patch artifacts, or fold their contents into the relevant canonical compendia according to your repo’s source layout.

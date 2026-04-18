@@ -1,0 +1,25 @@
+PROJECT WARRIORS — RECOMMENDED UPLOAD ORDER
+Version: 2026-04-14 rev3
+
+If source-count pressure is severe, use this order:
+
+Tier 1 — upload first
+1. PW_Working_Compendium_01_Core_Timeline_2026-04-14_rev3.txt
+2. PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-14_rev3.txt
+3. PW_Working_Compendium_03_Characters_DLC_2026-04-14_rev3.txt
+4. PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-14_rev3.txt
+5. PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-14_rev3.txt
+6. PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-14_rev3.txt
+
+Tier 2 — upload only when actively needed
+7. PW_Project_Memory_Integration_Patch_2026-04-14_rev3.txt
+8. PW_Migration_Ledger_2026-04-14_rev3.txt
+9. PW_Thread_Archive_Audit_2026-04-14_rev3.txt
+
+Tier 3 — usually keep outside ChatGPT unless you specifically need it live
+10. PW_Archival_Master_2026-04-14_rev3.txt
+11. PW_Source_Manifest_2026-04-14_rev3.csv
+12. Recovered_Sources/*
+
+Retirement rule:
+Do not remove the old uploads until the Tier 1 compendia are uploaded and spot-checked successfully.
