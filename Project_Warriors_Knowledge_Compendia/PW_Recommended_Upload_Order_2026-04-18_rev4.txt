@@ -1,0 +1,27 @@
+PROJECT WARRIORS — RECOMMENDED UPLOAD ORDER
+Version: 2026-04-18 rev4
+
+If source-count pressure is severe, use this order:
+
+Tier 1 — upload first
+1. PW_Working_Compendium_01_Core_Timeline_2026-04-18_rev4.txt
+2. PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-18_rev4.txt
+3. PW_Working_Compendium_03_Characters_DLC_2026-04-18_rev4.txt
+4. PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-18_rev4.txt
+5. PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-18_rev4.txt
+6. PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-18_rev4.txt
+
+Tier 2 — upload when actively working against the newest canon layer
+7. PW_Project_Memory_Integration_Patch_2026-04-18_rev4.txt
+8. dev_src_docs/image_prompts/*
+9. dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_MetroPolis_AEGIS_Adaptation_2026-04-18_rev1.txt
+10. dev_src_docs/story_campaigns/Game3/Romeo/PW_Boston_Wheelchair_Group_Visual_and_Intro_Beat_Packet_2026-04-18_rev1.txt
+
+Tier 3 — usually keep outside ChatGPT unless specifically needed live
+11. PW_Archival_Master_2026-04-18_rev4.txt
+12. PW_Source_Manifest_2026-04-18_rev4.csv
+13. Recovered_Sources/*
+
+Retirement rule:
+Do not remove the rev3 uploads until the rev4 Tier 1 compendia are uploaded and
+spot-checked successfully.

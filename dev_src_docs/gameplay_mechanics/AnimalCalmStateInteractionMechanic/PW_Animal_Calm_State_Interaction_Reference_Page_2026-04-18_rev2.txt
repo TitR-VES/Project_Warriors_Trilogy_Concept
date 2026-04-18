@@ -1,0 +1,58 @@
+PROJECT WARRIORS — GAMEPLAY REFERENCE PAGE
+Title: Animal Calm-State Interaction
+Generated: 2026-04-18
+Version: rev2
+Status: LOCKED
+
+PURPOSE
+This page refreshes the locked direction for optional animal interaction moments
+with the rev4 implementation clarifications.
+
+LOCK SUMMARY
+Select non-hostile animals may be briefly interacted with in first person when
+calm, safe, and fictionally appropriate. These interactions are optional,
+non-reward-bearing, context-sensitive, and sparse. Animal agency and grounded
+behavior must be preserved.
+
+IMPLEMENTATION RULES
+- Only calm, non-hostile animals in believable states and locations
+- No rewards, buffs, achievements, or progression hooks
+- No prompt during combat, pursuit, urgent stealth, or tonal high-pressure moments
+- Not every animal should be interactable
+- Dialogue minimal or absent
+- The animal may accept, ignore, or decline the interaction
+- Do not present the interaction for stressed, fleeing, working, or tactically
+  compromising animals
+
+GROUNDING BY ANIMAL TYPE
+Dogs:
+- brief hand-offer, neck rub, ear scratch, shoulder pat
+- best fit: quiet resistance dog in a Boston hideout
+
+Cats:
+- brief chin or head touch when accepted
+- refusal / walking away remains valid behavior
+- best fit: Calloway pharmacy back-room cat during downtime
+
+Horses / Donkeys:
+- muzzle touch, forehead stroke, short neck pat
+- should read as grounded handling, not pet-video staging
+
+CHARACTER FLAVOR
+- Romeo: direct warmth
+- Ducky: careful steadiness
+- Spook: restrained economy
+
+TONE WARNING
+This feature gains value from rarity. One well-placed interaction can be
+memorable. If it starts reading like a "pet the animal" checklist, the tone is
+wrong.
+
+BEST LANDING TARGETS IN SOURCE MODEL
+Primary source-of-truth update:
+- PW_Gameplay_Mechanics_Overview-4.txt
+
+Working-set refresh target after source edit:
+- PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-18_rev4.txt
+
+END OF DOCUMENT
