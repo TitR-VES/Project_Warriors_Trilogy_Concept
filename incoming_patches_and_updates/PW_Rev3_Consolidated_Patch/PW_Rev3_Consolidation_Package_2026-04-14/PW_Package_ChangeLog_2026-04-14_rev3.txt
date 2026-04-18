@@ -1,0 +1,17 @@
+PROJECT WARRIORS — PACKAGE CHANGELOG
+Version: 2026-04-14 rev3
+
+This revision folds in late April 13–14 project-memory locks and visible thread outcomes that were not yet surfaced in the rev2 migration bundle, while also flagging likely repo-only workstreams visible from other project threads.
+
+Main additions / clarifications carried forward in rev3:
+- Spook identity lock added to Characters and memory patching: Trevor Albertson Gartner, born February 13, 1983, Gary, Indiana, USA.
+- La Avispa selective flashback THE GREAT DISAPPEARANCE / MANIFEST folded into Characters and Missions patching.
+- ANGEL mission canon refinement restated in Missions and patching: Aldridge spelling, quad-cab F-150, bed-mounted M240B, two-can ammo constraint, protected angel-wing finish.
+- BODYWORK post-fight BOSTON BUBBLE decompression beat folded into Missions and patching.
+- Beyoncé “YA YA” added as Romeo Game 1 eastern-flank arrival / troop-reception-hold-space environmental cue.
+- Thin Lizzy “The Boys Are Back in Town” added to Eamonn Kearney’s workshop environmental track list alongside the already approved Rush “Working Man.”
+- Thread archive audit expanded to note visible project-thread work that appears likely to exist repo-side but is not represented in the accessible upload corpus, including British/Who Dares Wins development packets, README work, fictional-brand source packages, and some promo-refresh outputs.
+
+Operational use recommendation:
+- Upload the refreshed Characters, Missions, Promotional compendia, memory patch, changelog, audit, and archival master together if you want a tight rev3 governance refresh.
+- Keep treating repo-only source pages that were never uploaded into this workspace as external source-of-truth items until they are folded into the working compendia and re-audited.

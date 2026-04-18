@@ -1,0 +1,99 @@
+PROJECT WARRIORS — MEMORY INTEGRATION PATCH
+Generated: 2026-04-14
+Version: rev3
+Purpose: source-ready normalization of currently loaded project-memory locks and visible late-thread outcomes that post-date or override parts of the uploaded source corpus.
+
+================================================================================
+01. SOURCE MODEL / WORKFLOW
+================================================================================
+- Two-layer source model: one milestone-refreshed archival master corpus and six day-to-day working compendia.
+- Preserve original filenames, stable doc IDs, manifests, and clear source boundaries whenever practical.
+- Edit source-of-truth files first, then refresh working compendia; refresh the archival master at milestones rather than after every tiny change.
+- Avoid uploading originals + working compendia + archival master simultaneously as a normal practice when source-count pressure matters.
+
+================================================================================
+02. RADIO / COMMS STANDARD
+================================================================================
+- Use “say again” to request repetition.
+- Use “I say again” before repeating information.
+- Reserve “repeat” for fire-support contexts only.
+- Avoid “over and out.”
+- Do not stack “roger” and “wilco.”
+
+================================================================================
+03. TIMELINE CANON / DATE OVERRIDES
+================================================================================
+- PANDORA attacks are canonically Thursday, September 7, 2028.
+- The U.S. presidential election is canonically Tuesday, November 7, 2028.
+- Hudson Overlook is the same day as the PANDORA attacks: September 7, 2028.
+- Cold Frontier 07 remains anchored in early March 2007.
+- Glushkin activation / Lebedev-linked Boston staging begins June 4, 2028.
+- Crodyn’s wartime address remains the main cross-campaign Game 2 synchronization fulcrum.
+- Use broader windows rather than false precision until inherited older timeline files are refreshed.
+
+================================================================================
+04. RANK / NAMING / CANON CORRECTIONS
+================================================================================
+- Trevor “Spook” Gartner is the canonical surname spelling.
+- Trevor Albertson Gartner is Spook’s full legal name.
+- Spook was born on February 13, 1983, in Gary, Indiana, USA.
+- Spook should not be written as Captain in current project-facing material.
+- Ducky’s full legal name is Ferris Michael Ryan, but his middle name should stay scoped to contexts where full-name treatment is actually warranted.
+- Pat keeps the surname Napier; do not turn him into a Voss by surname.
+
+================================================================================
+05. CAMPAIGN-LEVEL ARCHITECTURE LOCKS
+================================================================================
+- Romeo Game 3 is built around the idea that Romeo is fighting not only to free Boston but over what victory will mean and what America becomes afterward.
+- Working title recommendation remains NO KINGS; “block by block” is the internal design phrase for progression without a literal territory-capture mechanic.
+- Romeo Game 3 four-act spine: Eastbound War; Neighborhood War; Harbor and the Shadow Government; What Victory Is For.
+- British support should begin as covert competence and only later widen into meaningful CASEVAC/support capability.
+
+================================================================================
+06. WORLD / SYSTEM LOCKS
+================================================================================
+- Black-market procurement is one shared underlying system with three campaign-specific shells.
+- Resistance logo system is now split across Republic Shield, Breach Star, and Union Mark.
+- CogniConnect is the broad implant architecture; CFIM is the War Wolves-only counter-forensic add-on package.
+- SHIELD is DAOG’s hard-entry / sensitive-site exploitation / emergency recovery and denial squad, distinct from AEGIS and CORYS.
+
+================================================================================
+07. CHARACTER LOCKS
+================================================================================
+- Ducky should read as calm, exact, dry, methodical, pressure-flattening, and morally stubborn.
+- Pat Napier’s core loadout and support-role identity are locked.
+- Elena Costa is a mission-facing Boston character and local armed center of gravity.
+- Eamonn Kearney is Boston’s hidden armorer / repair specialist / sustainment node, not a vendor-first character.
+- Renata’s support of Pat should be relational, subtle, and non-genealogical.
+- La Avispa’s selective-flashback concept THE GREAT DISAPPEARANCE / MANIFEST is locked to the Bruges burn -> Brussels departure -> Vienna-bound flight sabotage/crash -> aftermath escape route.
+
+================================================================================
+08. WEAPON / EQUIPMENT LOCKS
+================================================================================
+- Elena Costa’s signature primary is BUILD 08 — HELL OR HIGH WATER.
+- Romeo’s Boston rifle progression culminates in BUILD 12 — CIVIL DISOBEDIENCE via Kearney’s THE RIGHT RIFLE handoff.
+- Kearney’s personal benchmark rifle is BUILD 10 — WORK ORDER.
+- Ducky now canonically carries a Gerber StrongArm fixed blade in coyote brown with the factory coyote multi-mount polymer sheath.
+- SHIELD signature builds DEADBOLT, HINGE, TRIAGE, and GHOST KEY are locked.
+
+================================================================================
+09. MUSIC / PROMOTIONAL LOCKS
+================================================================================
+- Environmental music is diegetic/world-texture first, not a replacement for the campaign anchor identity tracks.
+- Use productive dissonance and restraint rather than literal lyric-first mood matching.
+- “Run to the Hills” is dropped from the active shortlist; Blonde Redhead “For the Damaged Coda” is dropped completely.
+- Montoya Farm’s optional observation-space beat can use Ghost “Square Hammer” as a one-off low-volume diegetic source.
+- Beyoncé “YA YA” is approved as a Romeo Game 1 eastern-flank arrival / troop reception-hold-space environmental cue from a local American-controlled diegetic source.
+- Thin Lizzy “The Boys Are Back in Town” is approved as part of Eamonn Kearney’s workshop track list as a special-use revisit cue.
+
+================================================================================
+10. MISSION / SCENE LOCKS
+================================================================================
+- Cold Frontier uses the lakeshore knife-dispatch continuity, not the older underwater rock-kill version.
+- Yunnan border crossing should be an interactive, low-input, no-combat observation sequence led by La Avispa.
+- ARTEMIS belongs in Dead Frequency; TYPHON belongs in Permafrost.
+- COLD ROOM remains the template-grade SHIELD mission model.
+- BODYWORK / killdozer end-state should preserve the stub-dozer ending position with the mounted gun treated as a temporary expedient later reclaimed/integrated.
+- MANIFEST uses an aftermath-first playable structure rather than a long aircraft-disaster spectacle.
+- ANGEL keeps the quad-cab F-150 + bed-mounted M240B chase structure, two-can ammo constraint, and protected AC-130 angel-wing finish.
+- BODYWORK’s post-fight BOSTON BUBBLE bottle handoff is locked as a brief first-person decompression beat.

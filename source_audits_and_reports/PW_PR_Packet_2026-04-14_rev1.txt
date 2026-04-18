@@ -1,0 +1,27 @@
+PROJECT WARRIORS — PR PACKET
+Generated: 2026-04-14
+Version: rev1
+
+Suggested branch name:
+pw/rev3-consolidation-apr14
+
+Suggested commit title:
+Project Warriors rev3 consolidation: fold late Apr 13-14 locks into compendia and archival master
+
+Suggested PR title:
+Project Warriors rev3 consolidation refresh
+
+Suggested PR body:
+This PR refreshes the migration package and working compendia to better match the visible April 13–14 project state.
+
+Included in this pass:
+- fold Spook’s full legal name / DOB / birthplace identity lock into Characters + memory patch
+- fold La Avispa THE GREAT DISAPPEARANCE / MANIFEST selective-flashback lock into Characters + Missions + memory patch
+- restate ANGEL mission refinement in Missions + memory patch
+- fold BODYWORK BOSTON BUBBLE decompression beat into Missions + memory patch
+- add Beyoncé “YA YA” environmental cue to Promotional / Sidebar
+- add Thin Lizzy “The Boys Are Back in Town” to Kearney workshop track list in Promotional / Sidebar
+- refresh changelog, audit, upload-order, and archival master to match rev3 package state
+
+Important note:
+This is still a workspace-limited consolidation pass. The audit now explicitly flags visible thread work that appears likely to exist repo-side but is not represented in the accessible upload corpus, including some British/Who Dares Wins packets, README work, fictional-brand package work, and some promo-refresh outputs. Please reconcile those separately before claiming full migration parity.

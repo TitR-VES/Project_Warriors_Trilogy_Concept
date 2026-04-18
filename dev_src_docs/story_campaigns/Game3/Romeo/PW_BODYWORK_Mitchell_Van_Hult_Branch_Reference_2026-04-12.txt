@@ -1,4 +1,4 @@
-PW|ROMEO G3|BOSTON|BODYWORK / MITCHELL VAN HULT|Status: active working canon|Updated: 2026-04-12
+PW|ROMEO G3|BOSTON|BODYWORK / MITCHELL VAN HULT|Status: active working canon|Updated: 2026-04-18
 
 Project Warriors — Romeo Game 3 — BODYWORK / Mitchell Van Hult Branch Reference
 
@@ -40,6 +40,8 @@ Romeo-led shaping mission. Blind the local surveillance / comms picture, remove 
 
 4) Bodywork
 Moving assault mission. Van Hult drives the improvised armored bulldozer through the checkpoint while Romeo advances on foot with the push. The dozer is there to smash barricades, crush the command-post pocket, absorb small-arms / fragment punishment, and keep the avenue open long enough for the district assault to stick. It is not there to duel tanks or become a free-roaming special vehicle.
+
+Locked post-fight decompression beat: once the final combat pressure breaks, a resistance companion hands Romeo a brown longneck bottle labeled BOSTON BUBBLE. The neck label can carry a BBB mark or a torn BREW remnant. Interaction should stay limited to DRINK and RAISE, with a silent self-limiting cooldown and no buff, intoxication, or comedy framing. Romeo can carry the bottle through the body-shop threshold before casually setting it down on nearby interior clutter.
 
 5) Epilogue beat
 Post-branch ordinary-life return in the reclaimed neighborhood, ideally with a small concert / street gathering / reopened civic-space feeling rather than triumphalist speechifying. The point is that the street and the shop are functioning for the neighborhood again.

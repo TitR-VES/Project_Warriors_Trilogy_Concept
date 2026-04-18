@@ -1,5 +1,5 @@
 Project Warriors — BODYWORK / Van Hult branch source landing note
-Updated: 2026-04-12
+Updated: 2026-04-18
 
 Files produced in this pass:
 - PW_BODYWORK_Mission4_Vehicle_EndState_Insert_2026-04-12.txt
@@ -9,4 +9,5 @@ Files produced in this pass:
 Workflow note:
 - Working source page created.
 - Working compendium refreshed.
+- Rev3 consolidation lock folded in for the post-fight BOSTON BUBBLE decompression beat.
 - Archival master not refreshed in this pass, consistent with project rule to refresh the master archive at milestone points rather than for every thread-level update.

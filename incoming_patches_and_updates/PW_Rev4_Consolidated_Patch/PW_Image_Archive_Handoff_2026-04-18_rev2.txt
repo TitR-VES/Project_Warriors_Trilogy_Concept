@@ -1,0 +1,48 @@
+PROJECT WARRIORS — IMAGE ARCHIVE HANDOFF
+Generated: 2026-04-18
+Version: rev2
+Pairs with source consolidation: PW_Rev4_Delta_Consolidation_Package_2026-04-18.zip
+
+STATUS
+I re-checked the accessible workspace filesystem for image assets that could be packaged alongside the latest Project Warriors source updates.
+
+RESULT
+No image binary files were present in the accessible workspace at packaging time.
+
+SEARCH SCOPE
+- /mnt/data
+- /mnt and subdirectories accessible from this session
+- common image extensions: .png .jpg .jpeg .webp .gif .tif .tiff .bmp
+
+IMPORTANT LIMITATION
+This handoff archive does not contain the actual generated image files from earlier Project Warriors image-generation threads, because those image outputs are not mounted into the current workspace filesystem. They may still be visible/downloadable from the original image-generation turns in the ChatGPT UI, but I cannot retrieve their binary files from here unless they are uploaded or otherwise present in /mnt.
+
+WHAT IS INCLUDED HERE
+- this updated handoff note only
+
+WHAT IS NOT INCLUDED
+- Halliday / ORACLE generated command-center image
+- Halliday / ORACLE generated full-body roster-card image
+- Switchblade generated promotional/refinement images
+- Lupin generated facial-reference images
+- Boston wheelchair civilian tourist-memory generated images
+- any other prior image-generation outputs that appeared only in project threads/UI and were not saved into this workspace filesystem
+
+RECOMMENDED REPO ACTION
+For version control, collect the original image binaries from their generation turns/download UI, then place them into a repo-side visual-reference or concept-art asset folder next to the Rev3 and Rev4 source packages. Suggested folder lane:
+
+ProjectWarriors/visual_references/generated/
+
+Suggested subfolders:
+- AEGIS/
+- DAOG_Command/
+- Boston_Civilians/
+- Promotional_Stills/
+- Branding_Explorations/
+
+MATCHING SOURCE PACKAGES
+Relevant accessible source-side consolidation packages created in this workspace:
+- PW_Rev3_Consolidation_Package_2026-04-14.zip
+- PW_Rev4_Delta_Consolidation_Package_2026-04-18.zip
+
+END
