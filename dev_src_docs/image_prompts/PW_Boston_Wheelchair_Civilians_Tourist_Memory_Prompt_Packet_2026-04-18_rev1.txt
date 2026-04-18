@@ -1,0 +1,43 @@
+PROJECT WARRIORS — VISUAL REFERENCE PACKET
+Title: Boston Wheelchair Civilians Tourist-Memory Prompts
+Generated: 2026-04-18
+Version: rev1
+Status: LOCKED
+
+PURPOSE
+This packet records the approved tourist-memory prompt lanes for the Boston
+wheelchair civilian trio so they can be regenerated later without relying on
+missing binary assets.
+
+PROMPT LANE 01 — BOSTON CITY HALL / SMARTPHONE
+Three civilian friends in pre-occupation Boston standing in front of Boston
+City Hall, ordinary warm tourist snapshot, no military, no war damage, no
+dystopian mood, casual slightly imperfect framing, natural peacetime clothing,
+civilian wheelchair present as everyday reality rather than emotional center.
+
+PROMPT LANE 02 — BOSTON CITY HALL / POLAROID
+Same trio and setting, instant-film / Polaroid feel, warm civilian memory,
+slight film softness, ordinary tourist-photo energy, no foreshadowing-heavy
+melodrama.
+
+PROMPT LANE 03 — BOSTON CITY HALL / PASSERBY SHOT
+Same trio, slightly awkward passerby-took-it smartphone composition, warm
+civilian memory, imperfect framing welcome.
+
+PROMPT LANE 04 — CHEERS / SMARTPHONE
+Same trio seated inside Cheers in Boston in the evening, warm pub atmosphere,
+ordinary civilian memory, no military, no dystopian mood.
+
+PROMPT LANE 05 — CHEERS / POLAROID
+Same trio inside Cheers, instant-film version with optional handwritten border
+note "Cheers, Boston."
+
+PROMPT LANE 06 — CHEERS / DIM-BAR SMARTPHONE
+Same trio inside Cheers, slightly awkward low-light smartphone capture, warm
+TV-era pub energy, civilian memory not tragedy foreshadowing.
+
+OPTIONAL TEXT RULE
+Overlay text may read "Cheers from Boston" in a vintage pub warmth style, but
+should not reproduce an exact logo.
+
+END OF DOCUMENT

@@ -1,0 +1,50 @@
+PROJECT WARRIORS — FICTIONAL BRAND SOURCE NOTE
+Title: MINOTAUR STEAKHOUSE
+Generated: 2026-04-18
+Version: rev1
+Status: LOCKED
+
+PURPOSE
+This page records the approved brand lane for MINOTAUR STEAKHOUSE so the
+fictional brand can be reused consistently across environment art, signage,
+menus, props, and promotional concept work.
+
+BRAND POSITION
+MINOTAUR STEAKHOUSE should read as a serious local steakhouse with a slightly
+mythic self-image. The tone is masculine, warm, theatrical, and memorable, but
+believable as a real restaurant. It should not read as novelty fantasy, parody,
+or theme-park camp.
+
+LOGO RULES
+- MINOTAUR must be visually dominant
+- STEAKHOUSE must read smaller and secondary
+- the U in MINOTAUR may be subtly stylized as a restrained bovine-head form
+  with horn suggestion, but it must still read clearly as the letter U
+- the mark should feel carved, old-world, and slightly ceremonial rather than
+  cartoonish or heavy-metal goofy
+
+PALETTE
+- dark oxblood
+- charcoal
+- bone
+- aged brass
+- deep ember orange
+
+MOTIF LANGUAGE
+- restrained bovine-head cue
+- dark badge / crest logic
+- carved or archaic lettering
+- fire-grill atmosphere
+- upscale but local steakhouse sign logic
+
+DO NOT
+- turn the brand into a joke
+- make it read like a fantasy tavern
+- lean into mascot-comedy energy
+- overcomplicate the logo with too many mythic details
+
+USAGE NOTE
+This source note captures brand rules only. The original visual board / image
+output was not present in the checked-in repo during this pass.
+
+END OF SOURCE NOTE

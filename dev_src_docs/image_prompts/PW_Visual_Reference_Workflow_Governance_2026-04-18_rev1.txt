@@ -1,0 +1,43 @@
+PROJECT WARRIORS — VISUAL REFERENCE GOVERNANCE NOTE
+Generated: 2026-04-18
+Version: rev1
+Status: LOCKED
+
+PURPOSE
+This page records the default workflow for durable Project Warriors image
+continuity after the rev4 delta pass.
+
+DEFAULT RULE
+Do not treat raw image uploads as the only source of truth. Convert generated or
+uploaded reference work into source-controlled text prompt packets.
+
+REQUIRED PACKET CONTENT
+- one prompt per image
+- locked identity / appearance details
+- avoid-drift notes
+- reuse notes
+- any shared family / identity block required for consistent regeneration
+- merge notes when multiple reference images must work together
+
+IDENTITY PRIORITY
+1. face-first anchoring
+2. outfit / body / silhouette support
+3. scene instructions
+
+AEGIS REFERENCE-PACKET MODEL
+Ducky, Switchblade, and Lupin should use:
+- frontal close facial reference
+- side-angle close facial reference
+- low-light close facial reference
+- full-body / outfit / silhouette reference
+- merge-note support
+
+OPEN FOLLOW-UP
+Frost still needs a dedicated packet pass including extra unmasked / scarring
+coverage beyond the standard close-face set.
+
+ARCHIVE RULE
+Keep prompt packets and any available image binaries together in version control.
+If the binary asset is missing, the prompt packet remains the durable source.
+
+END OF DOCUMENT

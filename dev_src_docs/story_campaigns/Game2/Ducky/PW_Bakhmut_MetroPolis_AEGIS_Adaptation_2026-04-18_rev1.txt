@@ -1,0 +1,43 @@
+PROJECT WARRIORS — GAME 2 REFERENCE PAGE
+Title: Bakhmut MetroPolis AEGIS Adaptation
+Generated: 2026-04-18
+Version: rev1
+Status: LOCKED
+
+PURPOSE
+This page captures the localized Bakhmut-specific AEGIS style direction so it
+exists as a reusable source page rather than only as compendium language.
+
+CORE LOCK
+During Ducky's Bakhmut-specific missions and adjacent scenes, AEGIS may shift
+from its usual multicam-dominant presentation into a localized PenCott
+MetroPolis-driven urban adaptation. This is a mission-cluster response only,
+not a campaign-wide uniform reset.
+
+IMPLEMENTATION RULES
+- MetroPolis should appear through mixed outer-layer adaptation:
+  smocks, overshirts, helmet covers, selected pouch swaps, pack panels, soft
+  goods, and some combat shirts or outer garments
+- avoid pristine head-to-toe matched issue sets
+- preserve AEGIS readability through helmet / headset profile, armor geometry,
+  comms setup, medical-role readability, and familiar NATO / DAOG silhouette
+- the look should read documentary, practical, cold, dusty, weathered, and
+  war-used rather than boutique or skin-like
+
+CHARACTER WEIGHTING
+- Ducky = most restrained / pragmatic implementation
+- Frost = strongest candidate for heavier MetroPolis weighting when overwatch /
+  concealment logic supports it
+- Lupin = slightly rougher and more field-adjusted while still professional
+- Switchblade = selective, practical use without hero-outfit stylization
+
+FRIENDLY-FORCE CONTRAST
+Ukrainian personnel should retain their own issue logic, wear history, and
+local continuity. Do not harmonize them into the same MetroPolis lane.
+
+ENVIRONMENT RULE
+Bakhmut itself remains visually dominant: broken post-Soviet urban texture,
+exposed concrete, shattered glazing, apartment blocks, utility corridors, mud,
+snow residue, soot, rebar, blown interiors, and courtyard debris.
+
+END OF DOCUMENT

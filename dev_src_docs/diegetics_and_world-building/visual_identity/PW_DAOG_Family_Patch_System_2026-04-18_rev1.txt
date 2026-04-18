@@ -1,0 +1,64 @@
+PROJECT WARRIORS — VISUAL IDENTITY SOURCE NOTE
+Title: DAOG Family Patch System
+Generated: 2026-04-18
+Version: rev1
+Status: LOCKED WITH LOCAL SPELLING VERIFICATION
+
+PURPOSE
+This page turns the rev4 DAOG / OLYMPUS patch discussion into a reusable source
+note for art direction, prop design, UI insignia work, and promotional material.
+
+CORE SYSTEM RULE
+DAOG, OLYMPUS, AEGIS, CORYS, SHIELD, and attached asset-flight patches should
+read as one institutional family. The system should scale from command-level
+formal presentation to field-usable patches without losing organizational
+coherence.
+
+COMMON GRAMMAR
+- Shield-based silhouette
+- Abstract graticule / map-logic interior language
+- Dagger or sharpened command-axis logic where appropriate
+- Clean silhouette readability at small scale
+- Institutional rather than mall-ninja operator energy
+
+VERSIONING RULE
+Where useful, build three variants per unit:
+- full-color presentation version
+- subdued embroidered field version
+- low-vis / IR / rubberized plate-carrier version
+
+UNIT-SPECIFIC LANES
+DAOG:
+- command-wide family anchor
+- may retain a more ornate ceremonial crest for formal use
+- field variants should simplify aggressively
+
+OLYMPUS:
+- black field with deep blue / graphite interior
+- coyote-tan title tab
+- stylized mountain peak over tactical graticule
+- silver / steel accents
+- no motto
+- should read as command-layer authority, not squad vanity
+
+AEGIS / CORYS / SHIELD:
+- retain shared DAOG institutional grammar
+- vary motif language according to function
+- preserve clear role separation without abandoning family resemblance
+
+ASSET-FLIGHT PATCH CONCEPTS
+KERAUNOS:
+- stylized thunderbolt / precision-strike motif
+- black / deep blue-grey / gold-coyote / steel palette
+- reads as exact force application and high-confidence strike authority
+
+PHAETON:
+- stylized heraldic griffin echoing aircraft geometry
+- optional horizon arc
+- reads as guardian-speed / air-superiority support inside DAOG family grammar
+
+LOCAL VERIFICATION NOTE
+KERAUNOS and PHAETON are the spellings supported by the checked-in source set
+and recovered-source layer in this repo.
+
+END OF SOURCE NOTE

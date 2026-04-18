@@ -1,0 +1,2464 @@
+PROJECT WARRIORS — WORKING COMPENDIUM
+Compendium: 05 Missions / Scenes / Cinematics
+Generated: 2026-04-18
+Version: rev4
+
+PURPOSE
+This working compendium consolidates the currently accessible source materials for the Missions / Scenes / Cinematics domain and folds in the latest visible project-memory corrections and late-thread outcomes that materially affect future writing.
+
+SOURCE COUNT
+6 included source items
+
+INCLUDED SOURCES
+
+1. ProjectWarriors_AllSevenScenes_Master.txt [current uploaded source | chars=31429 | sha256:e834479562bb5f86]
+2. ProjectWarriors_EpicScenes_AllSix.txt [current uploaded source | chars=20052 | sha256:85e0ab2401d4b84a]
+3. ProjectWarriors_AircraftFlyoverScenes.txt [recovered from embedded content in prior consolidated master | chars=7380 | sha256:52718f4729eb26f9]
+4. ANGEL_Cinematic_Screenplay_Pass.txt [current uploaded source | chars=11407 | sha256:cfd92864956cfe70]
+5. Hudson_Overlook_Screenplay.txt [current uploaded source | chars=11481 | sha256:9124db974329a026]
+6. Hudson_Overlook_Mission_Scripting.txt [current uploaded source | chars=17764 | sha256:300b5b7460376e8e]
+
+SECTION A — POST-SOURCE MEMORY INTEGRATION PATCHES
+
+1) COLD FRONTIER flashback continuity lock: older underwater rock-kill continuity is superseded; the valid version is Vympel attack, plunge into the lake, Frost reaches the shallow lakeshore, and dispatches the surviving attacker with his Peltonen knife.
+2) Yunnan border-crossing beat lock: do not default it to a pure cinematic; preferred form is an interactive, low-input, high-tension observational sequence with no combat, letting the player follow La Avispa’s cues and watch her authored competence space.
+3) ARTEMIS placement lock: Ducky Game 2 mission DEAD FREQUENCY during the post-objective break-contact withdrawal from the converted NATO facility in northern Estonia.
+4) TYPHON placement lock: Ducky Game 2 mission PERMAFROST during the post-node-destruction Svalbard shore exfil, collapsing inland pursuit routes before rigid-inflatable extraction.
+5) BODYWORK / killdozer-end-state carry-forward note: keep the stub-dozer ending position; the mounted gun reads as a temporary end-of-fight expedient and should later be treated as reclaimed and integrated rather than a permanent theatrical hero-gun fixture.
+6) THE RIGHT RIFLE placement lock: late Act II, between Mission 07 and Mission 08, at the hinge before the widened harbor / shadow-government phase; key line remains “That one was a rifle you carried in Boston. This one’s a Boston rifle.”
+7) MANIFEST selective-flashback lock: La Avispa’s active selective-flashback route is Bruges burn -> Brussels departure -> Vienna-bound commercial flight sabotage/crash -> muddy airport-edge aftermath -> FSB retrieval operatives hidden among first responders -> drainage-edge escape. Tone rule: aftermath-first survival sequence, not a long disaster-ride spectacle.
+8) ANGEL mission canon refinement: Aldridge spelling is canonical. The late Game 2 exfil chase uses a current-generation quad-cab Ford F-150 with an improvised bed-mounted M240B, Romeo on the gun, Aldridge in the cab team, and only two cans total ammo at chase start; protected structure remains the awkward reload, “That’s the last can. Make it count.”, SPECTRE FOUR ONE authenticate, forward-horizon AC-130 reveal, flare angel-wing image, and closing line “Don’t mention it. American Freedom, over.”
+9) BODYWORK decompression beat lock: after the BODYWORK combat resolves, a resistance companion hands Romeo a brown longneck bottle labeled BOSTON BUBBLE; the neck label carries a BBB or torn BREW remnant. Interaction is limited to DRINK and RAISE, with silent self-limiting cooldown behavior, no buffs/intoxication/comedy framing, and Romeo carrying the bottle through the body shop threshold before casually setting it down on interior clutter.
+
+====================================================================================================
+SOURCE CONTENT
+====================================================================================================
+
+====================================================================================================
+[ProjectWarriors_AllSevenScenes_Master.txt]
+Origin: current uploaded source
+Chars: 31429
+SHA-256 prefix: e834479562bb5f86
+====================================================================================================
+
+PROJECT WARRIORS — EPIC AIRCRAFT & VEHICLE SCENE TREATMENTS
+Master Document — All Seven Scenes
+Compiled from Meta Thread and Sidebar Development
+========================================================
+
+DOCUMENT STATUS KEY:
+[FULL TREATMENT] = Complete narrative scene with full dialogue written
+[CONCEPT + PARTIAL] = Narrative concept developed, some dialogue, placement TBD
+[CONCEPT ONLY] = Idea established, needs dedicated development session
+
+========================================================
+
+
+SCENE 1 — THE GRIPEN FLYOVER [FULL TREATMENT]
+Aircraft: JAS 39 Gripen (x2) — PHAETON Flight, Swedish Air Force
+DAOG Designation: PHAETON
+Campaign: Persistent Threat (Ducky) — Game 2
+Placement: TBD — tentatively Hard Winter or Dead Frequency
+
+--------
+
+CONCEPT
+
+A world-scale moment embedded in a ground-level mission. The player — as Ducky — exits dense forest or terrain cover and enters a clearing with open sky. Swedish Air Force Gripens pass in a low fast attack run, deploying into a break maneuver after the pass. The scene establishes that AEGIS is operating inside something much larger than a four-person squad, and briefly makes the squad feel small inside something vast — before contracting back to ground level. Frost's single line afterward is the scene's emotional punctuation.
+
+AUDIO ARCHITECTURE — THREE PHASES
+
+Phase One — The Frequency: Radio chatter begins as ambient background — not directed at the player, not requiring response. In Swedish. The player who doesn't speak Swedish hears cadence and register — professional, clipped, military aviation communication rhythm — without understanding content. This is intentional. A brief exchange in English on DAOG liaison frequency establishes position and intent:
+
+"AEGIS element, this is PHAETON flight, two Gripens, we have you visual. Ten clicks northeast, maintaining altitude. Standing by for tasking."
+
+Ducky responds briefly — confirms position, acknowledges support. Radio returns to Swedish between the two aircraft.
+
+Phase Two — The Approach: Squad continues moving. Forest thins. Sound design begins its work — jet noise building from a hum that could be wind, to a frequency the player's body registers before their ears consciously identify it, to something unmistakably mechanical and fast and getting faster. Directionality shifts — behind, above, closing. The clearing opens. The sky appears. Player has full control throughout.
+
+Phase Three — The Exposure: Gripens come in low and fast from behind the player's position. Sound arrives before the aircraft — engine noise reaches full intensity in the half-second before jets cross the player's field of view. They are overhead and gone in under three seconds. The player who was looking at the right part of the sky catches them fully. The player who was looking elsewhere catches the blur, the shadow, the physical pressure of the sound.
+
+CAMERA NOTE
+
+A dynamic camera pull mimics the involuntary response of a trained person to fast-moving aircraft overhead. Not taking control away from the player — nudging the camera upward with just enough force that looking up feels like something their character did rather than something the game did to them. If it feels like the game is making them look, it breaks immersion. If it feels like Ducky's head just moved, it deepens it.
+
+POST-PASS
+
+Gripens peel off after the pass — one banking left, one banking right. The specific visual of a two-ship breaking into separate egress vectors. Afterburner catch in the light if the time of day supports it. Then gone, climbing, sound receding as fast as it arrived.
+
+"AEGIS, PHAETON flight departing for tasking. Good hunting."
+
+Then Swedish again between the two pilots — briefly, something that sounds like it might be humor. The specific register of two people in high-performance aircraft who are very good at what they do and know it. Then silence. The forest. The squad. The scale contracting back to four people on the ground.
+
+FROST'S LINE
+
+After a moment:
+
+"Finnish Air Force flies Hornets."
+
+Nobody asks why he said that. Nobody needs to.
+
+THEMATIC FUNCTION
+
+The scene expands the player's perceptual world from squad-sized to theater-sized, then contracts it back. The contraction is as important as the expansion — the contrast produces the feeling. The player feels small after the Gripens peel off. But small in the specific way of someone who is part of something large, not the small of someone who is alone. The radio chatter in Swedish communicates that the world does not exist to serve the player's comprehension of it. Allied forces speak to each other in their own languages. The war has its own life outside the missions.
+
+
+========================================================
+
+
+SCENE 2 — THE A400M PASSAGE [FULL TREATMENT]
+Aircraft: Airbus A400M Atlas — ICARUS Flight, Belgian Air Component / DAOG
+DAOG Designation: ICARUS
+Campaign: Persistent Threat (Ducky) — Game 2
+Placement: TBD — tentatively Permafrost (Svalbard approach) or Cold Open withdrawal
+
+--------
+
+CONCEPT
+
+Where the Gripen scene is fast, kinetic, gone before the player fully processes it — the A400M passage is slow. Enormous. Impossible to ignore and impossible to hurry. The A400M is one of the largest military transport aircraft currently in service. Its four turboprop engines produce a sound completely unlike jet noise — lower, more pervasive, with a physical quality that fighter jets do not have. You hear an A400M coming for a long time before you see it, and continue to hear it for a long time after it is gone. This is the scene's entire mechanism. Length. Duration. The aircraft taking an unreasonable amount of time to cross the sky, and the player unable to look away.
+
+SETUP — THE ANTICIPATED ARRIVAL
+
+Unlike the Gripen scene — which catches the player mid-movement with no warning — the A400M scene is partially anticipated. Radio chatter establishes it coming. Communication switches between French and Dutch and English in the specific way of a Belgian military crew — Belgium's linguistic division means Belgian military units routinely operate in both national languages plus English as a working lingua franca.
+
+"AEGIS, ICARUS Zeven, A400M, we are inbound your position, carrying medical and ammunition resupply, ETA twelve minutes."
+
+Then French between crew members. Then Dutch. Then English again for DAOG coordination. The player has twelve minutes of game time — compressed, but felt — before the aircraft arrives. Long enough to continue the mission's current activity. Long enough to almost forget the inbound call. Long enough that when the sound begins it arrives as something half-expected and still surprising.
+
+THE ARRIVAL
+
+The A400M comes in low — lower than it should be for a transport aircraft, low enough that the player who looks up sees detail. The four propeller discs catching the light. The massive fuselage with ICARUS wing markings and Belgian Air Component roundels. The specific silhouette of an aircraft that is all utility, all capacity, no elegance — and beautiful for being exactly what it is rather than anything more.
+
+It crosses the sky slowly enough that the player can watch the whole passage. No sudden peel-off, no afterburner flash. It simply continues, enormous and unhurried, the engine sound filling everything and then gradually, over thirty seconds, vacating it. The sky after an A400M passage feels emptier than the sky before it.
+
+RADIO — POST-PASS
+
+The ICARUS crew confirming drop zone approach. French between the loadmaster and the pilot. The sound of the cargo ramp opening transmitted accidentally on the coordination frequency — a brief burst of wind noise and crew voices from inside the aircraft — before the channel clears.
+
+Then, from somewhere below the flight path, a ground element that isn't AEGIS — unidentified, whose presence the player only infers from this exchange:
+
+"ICARUS Zeven, confirmed. Come around for second pass, we have a marking panel on the north end."
+
+The A400M banks. Begins its circuit. It will be back. The player's squad continues their mission. The aircraft continues its work. Two operations, parallel, neither aware of the other's full picture. The war being large enough to contain both simultaneously.
+
+THEMATIC FUNCTION
+
+The A400M is carrying something toward the place the squad is trying to protect. The supply and the protection are different expressions of the same purpose. The scene does the same tonal work as the Gripen scene — expanding then contracting the player's sense of scale — but at a completely different speed and register. The Gripen scene is a three-second shock. The A400M passage is a thirty-second weight.
+
+SVALBARD PLACEMENT NOTE
+
+If placed during the Permafrost mission's approach phase: the A400M coming in over the fjord, enormous against the grey Norwegian sky, before the squad descends into the mission. The aircraft is carrying something toward the AEGIS datacenter that the squad is trying to protect — supply and protection as parallel expressions of the same purpose. The player who watches it cross the Svalbard sky before the mission begins understands AEGIS as an institution rather than just a squad.
+
+
+========================================================
+
+
+SCENE 3 — THE A-10 ATTACK RUN [CONCEPT ONLY — NEEDS DEVELOPMENT]
+Aircraft: A-10 Thunderbolt II
+Campaign: Romeo — Game 3
+Location: American suburban environment (specific location TBD)
+
+--------
+
+CONCEPT (summary only — full scene not yet written)
+
+An A-10 Warthog makes a low attack run over or near a recognizably American suburban neighborhood. The image of the aircraft — its distinctive silhouette and the unmistakable sound of the GAU-8 Avenger cannon — against the backdrop of ordinary American houses, yards, and streets. The contrast between the domestic scale of the landscape and the violence of the aircraft is the emotional payload.
+
+The A-10 is chosen deliberately for its iconic visual identity — no aircraft in the US inventory is more immediately recognizable by silhouette — and for its sound signature, which is unlike any other aircraft in service. The GAU-8 cannon sound (the famous "BRRRT") carries enormous cultural recognition among the gaming audience and would land with immediate visceral impact.
+
+STATUS: CONCEPT ONLY. Specific mission, location, dialogue, and narrative mechanic all TBD.
+NEEDS: Dedicated development session to write the full scene.
+
+
+========================================================
+
+
+SCENE 4 — THE RED DAWN CALLBACK — PARATROOPER DROP [CONCEPT + PARTIAL]
+Location: Smoky Mountains, visible from distance
+Campaign: American Freedom (Romeo) — Game 2
+Placement: Navigation moment in a mission, specific mission TBD
+
+--------
+
+CONCEPT
+
+At a specific point during Romeo's American Freedom campaign, the player — while navigating on foot through terrain — spots in the distance over the Smoky Mountains a formation of enemy paratroopers descending. The parachutes are visible at distance — a deliberate callback to the 1984 film Red Dawn.
+
+DUAL NARRATIVE PURPOSE
+
+1. In-world navigation device — the player sees where the paratroopers are landing and understands instinctively that this is where the mission is heading. No radio prompt, no waypoint, no UI element. The world tells the player where to go.
+
+2. Deliberate visual homage to Red Dawn — designed to be felt rather than stated. No dialogue draws attention to it. The reference should never be made explicit in any in-game element.
+
+DIALOGUE
+
+Minimal by design — this is largely a wordless cinematic moment. Any dialogue that exists around it should be understated and not draw attention to what the player is seeing. A teammate noticing the chutes. A brief, flat acknowledgment. Nothing more.
+
+TRAILER / PROMOTIONAL NOTE
+
+Flagged as strong standalone trailer asset. Suggested treatment: shot opens on the Smoky Mountains peaceful and still in early morning. Then paratroopers begin to appear — first one, then dozens. Music shift completes the moment. The image works for players who know Red Dawn and works independently as a striking image for those who don't.
+
+STATUS: CONCEPT AND NARRATIVE MECHANICS DEVELOPED. Full dialogue minimal by design and TBD. Needs short development session to finalize any dialogue around the moment and confirm mission placement.
+
+
+========================================================
+
+
+SCENE 5 — THE KERAUNOS URBAN PRECISION STRIKE [FULL TREATMENT]
+Aircraft: Dassault Rafale B (x2) — KERAUNOS Flight, French Air and Space Force
+DAOG Designation: KERAUNOS
+Weapons: AASM Hammer precision air-to-ground munitions
+Campaign: Persistent Threat (Ducky) — Game 2
+Location: Urban / built-up environment in Western Europe (specific city TBD)
+
+--------
+
+CONTEXT AND NARRATIVE SETUP
+
+Ducky and AEGIS Squad are pinned down by a fortified Russian or enemy position in a dense urban environment — a reinforced building, a blocked street corridor, a bridge approach, or a key infrastructure chokepoint. Too heavily defended for AEGIS to take by direct assault. Ducky or Lt. Tara Halliday (ORACLE) calls in the strike through DAOG Command channels. Colonel Mark Walker (ARES) approves. KERAUNOS FLIGHT acknowledges and begins their attack run. The player, as Ducky, is ordered to pull back to a safe observation distance and hold.
+
+THE STRIKE SEQUENCE — FULL SCENE
+
+[The squad takes cover behind a low wall or in a doorway with a clear line of sight to the target building approximately 200-300 metres ahead. The street between them and the target is empty — rubble, abandoned vehicles, broken glass. It is quiet for a moment, the kind of quiet that precedes something.]
+
+DUCKY:
+(into radio, clipped and dry)
+KERAUNOS FLIGHT, this is AEGIS ACTUAL. Target is marked. You are clear hot. How copy?
+
+KERAUNOS LEAD:
+(French-accented English, calm and professional, slight static on the radio)
+AEGIS ACTUAL, KERAUNOS LEAD. Copy clear hot. Tally the mark. Running in now. Stand by.
+
+[A beat. Silence. Then — heard before seen — a rising, tearing sound from the west. High and fast. Both Rafales come in low and fast over the rooftops, in close formation, wings loaded with AASM Hammer munitions, the Thales Damoclès targeting pods visible under the fuselage. They are moving at speed — not the slow, gravitational presence of the AC-130 or the A400M but something faster, more violent, more precise. The noise arrives a half-second after the aircraft, a characteristic shriek of twin engines at military power at low altitude.]
+
+[The first aircraft releases. Two AASM Hammer munitions drop, their propulsion kits igniting almost immediately, guiding them on their terminal approach to the target with GPS and infrared precision. The Rafale pulls up sharply, climbing away to the left.]
+
+[A fraction of a second later — impact. The target position disappears inside two near-simultaneous explosions. Not a massive fireball — these are precision munitions, tightly placed. The building does not collapse dramatically. Its upper floors blow outward and inward. The reinforced position on the ground floor ceases to exist. Dust and smoke billow outward and upward in a dense column.]
+
+[The second Rafale completes a follow-on pass, releasing a single additional round on a secondary position at the building's flank. Another precise impact. Another column of smoke.]
+
+[Both aircraft pull up hard into the sky, their delta-wing planforms clean against the grey European overcast, engines still pushing hard. Within seconds they are climbing away, already a mile out, their shapes shrinking against the clouds.]
+
+KERAUNOS LEAD:
+(radio, unhurried)
+AEGIS ACTUAL, KERAUNOS LEAD. Splash two. Target destroyed. BDA to follow. KERAUNOS FLIGHT is RTB. Bonne chance.
+
+DUCKY:
+(beat — watching the smoke column rise above the buildings ahead)
+...Yeah. Thanks, Pierre.
+
+[He stands, checks his weapon, looks at the squad.]
+
+DUCKY:
+(quiet, to the squad)
+Alright. Let's go see what's left.
+
+[AEGIS moves forward through the settling dust toward the destroyed position.]
+
+VISUAL AND TONAL NOTES
+
+The Rafale's character is defined by SPEED and PRECISION rather than scale. Fast, surgical, gone before the player fully processes it. Under 20 seconds from first visual contact to departure. The AASM Hammer impacts are precise and contained — devastating to the specific target, not spreading destruction across the surrounding street. A scalpel, not a hammer. The Rafale at low altitude produces a distinctive high-pitched twin-engine shriek very different from the turboprop rumble of the A400M or AC-130. Sound arrives slightly after the aircraft. Ducky's "Yeah. Thanks, Pierre." — deliberately casual. This is Ducky. The French pilot's "Bonne chance." — natural and unforced, a French pilot signing off in his own language.
+
+CONTINUITY NOTE: This scene and Scene 6 (Zubr Landing) are causally linked — ARES tasks KERAUNOS at the end of the Zubr sequence. Seeding KERAUNOS assets in earlier missions recommended before this moment lands.
+
+
+========================================================
+
+
+SCENE 6 — THE ZUBR LANDING [FULL TREATMENT]
+Vehicle: Zubr-class LCAC (x2 confirmed inbound, x1 third behind, Ropucha standing off)
+Campaign: Do Right, Fear None (Ducky) — Game 1
+Location: Dutch coastline near the Maasvlakte terminal, Rotterdam
+Context: Pre-final mission escalation sequence
+
+--------
+
+CONTEXT AND NARRATIVE SETUP
+
+AEGIS Squad is moving toward the Maasvlakte terminal — approaching through a coastal industrial area, exiting a treeline at the edge of dune terrain, or cresting an elevated road embankment that gives a sudden unobstructed view of the North Sea coastline. This is not a combat encounter. AEGIS watches and withdraws. The Russian amphibious force is too large to engage directly. The player sees what is coming and understands with complete clarity what the final mission is about to be.
+
+THE SEQUENCE — FULL SCENE
+
+[The squad moves along the edge of a coastal road or dune ridge. Industrial structures of the port complex are visible to the right. To the left, the North Sea. Grey sky, grey water, a cold Dutch coastal morning. Wind off the water. Flat, open, nowhere to hide.]
+
+[Frost stops. He raises his rifle — not to shoot, but to look through the scope. He says nothing for a moment.]
+
+FROST:
+(quiet, almost to himself)
+...Contact. Bearing two-seven-zero. Multiple surface contacts. Large.
+
+[Ducky raises his own optics. What he sees through the scope — and what the camera then cuts to in a wide establishing shot — stops him cold.]
+
+[Two Zubr-class LCACs are coming in from the northwest, riding low and fast over the grey water toward the Dutch beach below the terminal approach. They are enormous — 57 metres long, riding on a cushion of air and spray, their five gas turbine engines producing a sound unlike anything the squad has heard before: a deep, resonant, mechanical howl, felt in the chest before it's fully registered by the ears. The air cushion skirts billow white beneath them. The twin 30mm gun turrets forward are clearly visible, traversing slowly. The cargo ramps are still closed.]
+
+[Behind the two lead Zubrs, further out to sea, more shapes are visible in the grey — a third Zubr, and beyond it the silhouette of a Ropucha-class landing ship standing off approximately two kilometres out.]
+
+LUPIN:
+(flat)
+How many?
+
+DUCKY:
+(still looking through optics)
+Two confirmed inbound. Third behind them. There's a Ropucha standing off — maybe two klicks out.
+
+SWITCHBLADE:
+(low)
+What are they carrying?
+
+DUCKY:
+(beat)
+Whatever they brought, it fits three tanks. Each.
+
+[Silence. The squad watches. The Zubrs are closing fast — at 35 knots they cover the remaining distance in under two minutes. As they hit the shallow water approach to the beach the air cushion allows them to transition seamlessly from water to shore without slowing — they do not beach themselves the way conventional landing craft do. They simply continue forward, riding the cushion over the sand and gravel of the Dutch shoreline, the massive ramps dropping forward with a sound like a controlled explosion.]
+
+[From the first Zubr's ramp: a T-80 main battle tank rolls forward onto Dutch soil, engine already running, followed immediately by a second. Infantry pour out from the sides — Russian Naval Infantry in full combat kit, spreading left and right into a perimeter, weapons up.]
+
+[From the second Zubr: BTR-82 armoured vehicles rolling down the ramp in sequence, troops dismounting immediately and forming up.]
+
+[The Grad rocket launchers — retracted during transit — are already beginning to elevate on one of the Zubrs, preparing to provide fire support for the landing force.]
+
+[Ducky lowers his optics. He looks at the squad. Nobody speaks for a moment.]
+
+DUCKY:
+(to radio, steady)
+ARES, this is AEGIS ACTUAL. We have eyes on a Russian amphibious landing — Zubr-class, at least two confirmed, third inbound. Armour and Naval Infantry on the beach. Grid to follow. How copy?
+
+WALKER (ARES):
+(radio, controlled)
+AEGIS ACTUAL, ARES. Copy all. Hold your position. Do not engage. KERAUNOS is being tasked. Get me that grid.
+
+DUCKY:
+(already moving)
+Frost. Grid.
+
+FROST:
+(already reading it off)
+Copy.
+
+[The squad pulls back from the ridge line, moving fast and low. Behind them, the sound of the Zubr turbines continues — that deep mechanical howl carrying across the flat Dutch coastal terrain, audible long after the craft themselves are out of sight. The Grad launchers fire — a rippling series of rockets arcing inland toward the terminal perimeter.]
+
+[The final mission has begun whether AEGIS is ready or not.]
+
+VISUAL AND TONAL NOTES
+
+The Zubr's defining characteristic is its sheer improbability — something that large should not move that fast or transition from water to land that seamlessly. The scene is a pressure indicator, not a combat sequence — AEGIS watches and withdraws. The Ropucha standing off implies more coming. This is not the full picture. The Grad rockets firing at the terminal at the end is the transition moment — the final mission has started on the enemy's terms. Frost's first line — "...Contact. Bearing two-seven-zero. Multiple surface contacts. Large." — is the scene's ignition point. The word "Large" doing the work of an entire paragraph. This scene and Scene 5 (KERAUNOS) are causally linked — ARES tasks KERAUNOS at the end of this sequence.
+
+
+========================================================
+
+
+SCENE 7 — THE AC-130 SPECTRE CAS STRIKE [FULL TREATMENT]
+Aircraft: AC-130 Spectre Gunship — SPECTRE FOUR ONE
+Campaign: American Freedom (Romeo) — Game 2
+Placement: TBD — tentatively late campaign, vehicle exfiltration under pursuit, possibly Frank rescue aftermath from Harlan
+
+--------
+
+CONCEPT
+
+The scene lands with maximum impact because the player has earned it through sustained combat pressure. It is not spectacle inserted into a mission — it is the payoff for the player's effort. The AC-130 arrives because Romeo built something worth arriving for. The central image: Romeo on a mounted weapon in a vehicle moving downhill on a Kentucky county road, the hill's crest creating a natural horizon ahead. The AC-130 rises above that horizon line, flying toward the camera. Just before it reaches maximum visual presence it deploys flares — the iconic angel wing countermeasure smoke trail — flies through its own smoke, and continues.
+
+PLAYER POSITION
+
+Romeo is on a mounted weapon — M2 or similar — in the back of a pickup truck or similar vehicle moving fast downhill. The player has active control of the weapon throughout. The vehicle is moving; the player is managing the pursuit. The mounted weapon position gives the player the elevated sightline needed to see the horizon reveal when it happens.
+
+TACTICAL CONTEXT
+
+The AFC element is in a hot exfiltration — pursuit vehicles behind them, a county road descending a hill with open sky visible ahead. The situation is controlled but uncomfortable. A CAS request went up through Romeo's command two hours earlier. Whether it got processed and approved — whether an aircraft was actually tasked and launched — is genuinely uncertain. This uncertainty is the scene's dramatic engine.
+
+DINGO:
+(from the front of the vehicle)
+"Command says SPECTRE is en route. Command also said that forty minutes ago."
+
+RADIO SEQUENCE
+
+SPECTRE FOUR ONE makes contact:
+
+"ROMEO element, SPECTRE FOUR ONE, we are at your push frequency. Authenticate."
+
+"ROMEO element authenticates KILO TANGO SEVEN. We have you loud and clear. Be advised we are mobile, south on county route twelve, taking fire from two to three pursuit vehicles, over."
+
+"ROMEO element, copy. SPECTRE FOUR ONE is at angels two, four minutes out. We have your position on ROVER. Stand by, over."
+
+Four minutes. The vehicle accelerates. The pursuit closes slightly on the descent. Romeo fires suppression bursts — not to destroy, to slow. To buy the four minutes.
+
+On radio — F-16 tactical net bleeding briefly into Romeo's receiver, cross-channel bleed from congested airspace during active engagement:
+
+"VIPER flight, BANDIT ONE is turning. He's coming back around—"
+"VIPER TWO, I have him, stay with BANDIT TWO—"
+"Fox two—"
+"[Static]"
+
+Then SPECTRE FOUR ONE again, calm, the specific calm of an AC-130 crew that has been doing this for a very long time:
+
+"ROMEO element, SPECTRE FOUR ONE. One minute. We are in your twelve o'clock. You should have us shortly."
+
+THE REVEAL — THE HORIZON
+
+The player, on the mounted weapon, naturally looks forward — toward the horizon ahead, toward the clean line of the hill's descent against the open sky. Nothing yet. The pursuit vehicles still behind. Still closing. Thirty seconds.
+
+Then — from the direction of the horizon ahead — a sound. Low. Pervasive. Not the sharp crack of jet engines but something broader, something with physical weight — four turboprop engines at combat power. Less a sound than a condition of the air. The player feels it before they see it.
+
+The horizon line ahead — the clean edge of the hill's descent against the sky — begins to change. Something is rising above it. Something enormous.
+
+THE AC-130 CRESTS THE HORIZON
+
+Not fast — nothing about an AC-130 in flight reads as fast, because the aircraft is so large that its speed becomes relative to its size rather than to anything human-scaled. It rises above the hill's horizon the way a ship rises above the curvature of the ocean — slowly, massively, inevitable.
+
+It is flying toward the vehicle. Toward the player. Growing in the frame as it descends toward them on its attack approach. The four propeller discs catching the light. The fuselage enormous and grey and bristling with sensor pods and weapons systems. The 105mm howitzer on the port side fires. The player doesn't see the round. They see the result: the lead pursuit vehicle disappearing in a column of fire and debris fifty metres behind the player's truck.
+
+Then the second vehicle. Gone.
+
+The AC-130 passes directly overhead. For a moment the aircraft fills the frame — a ceiling of grey fuselage and propeller noise and the smell of exhaust. Then past, banking slowly to the left, beginning its circuit.
+
+THE FLARES — THE ANGEL WING
+
+A Su-30 that has been tracking the tactical area for the past ninety seconds locks the AC-130. The aircraft's threat detection system responds immediately. The flares deploy — not one or two but a full defensive salvo, arcing outward from both wingtips simultaneously in the specific spread pattern that gives the countermeasure its silhouette.
+
+CAMERA NOTE — THE FOUR SECONDS
+
+The moment the flares deploy, the camera stops tracking the vehicle entirely and simply looks up. Not dramatically, not with a sudden cut — it drifts upward the way a person's attention drifts upward when something overhead demands it, then holds. The vehicle continues moving beneath the frame. The pursuit is irrelevant. The road is irrelevant.
+
+For approximately four seconds, the only thing in the frame is the AC-130 and the flares and the smoke and the Kentucky sky. Four seconds is a long time in an action sequence. The player retains control of the mounted weapon during it — they could technically be doing something tactical. But they won't be. Nobody will be. Because what's overhead is more important than anything on the road.
+
+That involuntary cessation of tactical thinking is the scene's real achievement. For four seconds, Romeo stops being a soldier and becomes a witness. The player stops playing and starts watching.
+
+Then the smoke begins to diffuse. The aircraft banks away. The road comes back. The mission continues.
+
+RESOLUTION
+
+The Su-30 pulls up hard. The flares have done their work. The missile seeker confused and then lost. VIPER ONE back on him. The engagement moves north — away from the road, away from the vehicle, away from the AC-130 which is now banking slowly, enormously, to come back around for another attack pass if needed.
+
+"ROMEO element, SPECTRE FOUR ONE. BANDITS are egressing. You are clear. What else do you need, over?"
+
+A beat. Romeo looks at the road ahead.
+
+"SPECTRE FOUR ONE, I think we're good. How copy?"
+
+"ROMEO element, copy good. SPECTRE FOUR ONE will remain on station. You call, we answer. Over."
+
+"Thank you, SPECTRE FOUR ONE."
+
+A brief pause. Then, from the AC-130:
+
+"Don't mention it. American Freedom, over."
+
+THE 'AMERICAN FREEDOM' LINE
+
+Not a triumphant callback. Not a winking acknowledgment. The specific thing that a crew says when they know who they're talking to and want them to know they know. The AC-130 crew has been following the AFC's story. Every American service member in the theater knows the name — because Crodyn put it on television.
+
+The crew saying it back to Romeo — over a military radio net, on the record, using the designation that the President of the United States just called a terrorist organization — is a small act of institutional defiance that costs the crew nothing in the moment and means everything to the player who has lived inside this campaign.
+
+It also means something for the wider story: Romeo's command will hear that exchange. Crodyn's intelligence apparatus, monitoring military communications, will hear it too. The AC-130 crew just put themselves on the wrong side of a presidential designation, knowingly, over an open tactical frequency. They knew what they were doing. That is the point.
+
+CLOSING IMAGE
+
+The vehicle continues down the road. Behind them, the smoke trail from the flares is still visible — the angel wing silhouette slowly diffusing in the morning air, the shape holding longer than seems physically reasonable, as if the sky is reluctant to let it go. Romeo watches it from the mounted weapon. The radio continues its work. The mission continues its work. The smoke fades. The AC-130 banks and holds its orbit, patient, overhead.
+
+
+========================================================
+END OF DOCUMENT
+
+SCENE STATUS SUMMARY:
+Scene 1 — Gripen Flyover: FULL TREATMENT ✓
+Scene 2 — A400M Passage: FULL TREATMENT ✓
+Scene 3 — A-10 Attack Run: CONCEPT ONLY — needs development session
+Scene 4 — Red Dawn Paratrooper Drop: CONCEPT + PARTIAL — needs short development session
+Scene 5 — KERAUNOS Rafale Strike: FULL TREATMENT ✓
+Scene 6 — Zubr Landing: FULL TREATMENT ✓
+Scene 7 — AC-130 Spectre Strike: FULL TREATMENT ✓
+
+Five of seven scenes fully written.
+Two scenes (3 and 4) require dedicated development sessions.
+========================================================
+
+====================================================================================================
+[ProjectWarriors_EpicScenes_AllSix.txt]
+Origin: current uploaded source
+Chars: 20052
+SHA-256 prefix: 85e0ab2401d4b84a
+====================================================================================================
+
+PROJECT WARRIORS — EPIC VEHICLE & AIRCRAFT SCENE DESCRIPTIONS
+Compiled from Meta Thread Development
+All six scenes — master document
+========================================================
+
+
+SCENE 1 — THE AC-130 FLYOVER CHASE (Romeo's Campaign, Game 2 — American Freedom)
+Aircraft: AC-130 Gunship
+Location: Harlan County, Kentucky (near Calloway and Redbud)
+Mission context: Following the rescue of Aldrich / late campaign sequence
+
+Description:
+After freeing Aldrich, Romeo's team is in a vehicle being pursued by Russian forces through the Kentucky countryside. The pursuit vehicles are UAZ-type light trucks with mounted guns — fast enough to maintain pressure, not fast enough to fully close the gap on Romeo's vehicle running at full speed. Multiple vehicles in pursuit, at least one with an active mounted gun continuing to engage the player throughout the chase.
+
+At a dramatic moment during the chase, a US Air Force AC-130 gunship (callsign to be determined) makes a low, slow pass overhead — appearing suddenly over the ridgeline or treeline. The aircraft is massive, close, and loud. It descends to a dangerously low altitude directly over or adjacent to the road, its engines shaking the air. The image of a slow, enormous turboprop military gunship appearing at low altitude over a typical Kentucky rural landscape — fields, farmhouses, winding roads — is deliberately jarring and cinematic.
+
+The AC-130 proceeds to engage the pursuing Russian vehicles, eliminating or scattering them and breaking off the chase.
+
+Narrative mechanic / how the pilots got there:
+Earlier missions in Romeo's American Freedom campaign (likely Dead Air or a related mission) inadvertently created a communications benefit for US Armed Forces operating in the region — Romeo's resistance cell actions disrupted or intercepted enemy communications in a way that gave US forces an unexpected operational advantage, possibly enabling the capture or denial of a strategically important position. This created an informal awareness among US military elements of who Romeo's group is and what they are doing.
+
+This flyover occurs BEFORE President Crodyn's wartime address declaring the AFC a domestic terrorist organization. The pilots are therefore still operating in a grey zone where supporting what appears to be American resistance fighters feels permissible — they have a hunch about who these people are, they've heard enough through operational channels to make an educated guess, and they act on it. After the Crodyn declaration, the same pilots could no longer make the same call.
+
+The pilots spot Romeo's team being pursued, radio it in, receive permission to divert and provide close air support, and route to their location.
+
+Visual and tonal notes:
+- The image of the AC-130 at low altitude over rural Kentucky is intended as a striking, almost surreal visual — familiar American landscape suddenly occupied by an instrument of war
+- Flagged as strong trailer / promotional asset material
+- The slow, deliberate approach of the aircraft contrasts with the speed and chaos of the chase sequence below it
+- Sound design critical — the deep rumble of four turboprop engines at low altitude should be physically felt by the player before the aircraft is fully visible
+
+
+========================================================
+
+
+SCENE 2 — THE A400M FLYOVER (General world-building / promotional concept)
+Aircraft: Airbus A400M Atlas (DAOG designation: ICARUS)
+
+Description:
+A massive turboprop military transport aircraft — the Airbus A400M — makes a slow, low pass directly overhead of the player's position in a recognizably ordinary American suburban environment. The contrast between the familiar domestic landscape below and the scale and weight of the military aircraft overhead is the entire point of the image.
+
+The A400M is enormous and slow relative to jet aircraft. At low altitude its four large turboprop engines produce a distinctive, deep, resonant sound unlike anything most civilians would have heard at close range. The aircraft fills the frame. It is close enough that markings and details are visible.
+
+This image — a giant NATO military transport at low altitude over American suburbia — is one of the defining visual expressions of the game's core theme: the collision of the familiar and the catastrophic. The world has not waited. The war has come here.
+
+Flagged as a key promotional and trailer asset. Encapsulates the scale of the conflict and the surreal quality of invasion on American soil in a single wordless shot.
+
+DAOG asset designation: ICARUS (Airbus A400M) — part of the HERMES airlift component of DAOG Command's force structure.
+
+
+========================================================
+
+
+SCENE 3 — THE AC-130 ATTACK RUN (General world-building / promotional concept)
+Aircraft: AC-130 Gunship
+
+Description:
+An AC-130 gunship passes at low altitude on an attack run over or near a typical American suburban neighborhood. The image of the aircraft — its guns active or implied — against the backdrop of ordinary American houses, yards, and streets is deliberately dissonant.
+
+Paired conceptually with the A400M image as part of the broader visual language of the game: large, slow, purposeful military aircraft operating at low altitude over recognizably American civilian environments. The scale of the machines against the domestic scale of the landscape is the emotional payload.
+
+Both the A400M and AC-130 images invoke the Tears in the Rain / Roy Batty thematic underpinning of the studio identity. The player gets to witness things that feel impossible and yet are happening.
+
+
+========================================================
+
+
+SCENE 4 — RED DAWN CALLBACK — ENEMY PARATROOPER DROP (Romeo's Campaign, Game 2 — American Freedom)
+Location: Smoky Mountains, visible from distance during navigation moment
+
+Description:
+At a specific point during Romeo's American Freedom campaign in Game 2, the player — while navigating on foot through terrain — spots in the distance over the Smoky Mountains a formation of enemy paratroopers descending. The parachutes are visible at distance, a deliberate callback to the 1984 film Red Dawn.
+
+This image serves a dual narrative purpose:
+1. In-world navigation device — the player sees where the paratroopers are landing and understands instinctively that this is where the mission is heading
+2. Deliberate visual homage to Red Dawn — designed to be felt rather than stated. No dialogue draws attention to it
+
+Flagged as strong trailer and promotional asset material — specifically as a standalone rendered version for use in teasers. Suggested trailer treatment: shot opens on the Smoky Mountains peaceful and still, then paratroopers begin to appear — first one, then dozens. Music shift completes the moment.
+
+Works for players who know Red Dawn and works independently as a striking image for those who don't. The reference should never be made explicit in dialogue or any other in-game element.
+
+
+========================================================
+
+
+SCENE 5 — KERAUNOS URBAN PRECISION STRIKE (Ducky's Campaign, Game 2 — Persistent Threat)
+Aircraft: Dassault Rafale B (x2)
+DAOG Designation: KERAUNOS
+Nationality: French Air and Space Force
+Role: Close Air Support / Precision Ground Attack
+Weapons: AASM Hammer precision air-to-ground munitions
+Location: Urban / built-up environment in Western Europe (specific city TBD)
+
+Context and narrative setup:
+Ducky and AEGIS Squad are pinned down by a fortified Russian or enemy position in a dense urban environment — a reinforced building, a blocked street corridor, a bridge approach, or a key infrastructure chokepoint. Too heavily defended for AEGIS to take by direct assault. Ducky or Lt. Tara Halliday (ORACLE) calls in the strike through DAOG Command channels. Colonel Mark Walker (ARES) approves. KERAUNOS FLIGHT acknowledges and begins their attack run. The player, as Ducky, is ordered to pull back to a safe observation distance and hold.
+
+---
+
+THE STRIKE SEQUENCE — FULL SCENE:
+
+[The squad takes cover behind a low wall or in a doorway with a clear line of sight to the target building approximately 200-300 metres ahead. The street between them and the target is empty — rubble, abandoned vehicles, broken glass. It is quiet for a moment, the kind of quiet that precedes something.]
+
+DUCKY:
+(into radio, clipped and dry)
+KERAUNOS FLIGHT, this is AEGIS ACTUAL. Target is marked. You are clear hot. How copy?
+
+KERAUNOS LEAD:
+(French-accented English, calm and professional, slight static on the radio)
+AEGIS ACTUAL, KERAUNOS LEAD. Copy clear hot. Tally the mark. Running in now. Stand by.
+
+[A beat. Silence. Then — heard before seen — a rising, tearing sound from the west. High and fast. Both Rafales come in low and fast over the rooftops, in close formation, wings loaded with AASM Hammer munitions, the Thales Damoclès targeting pods visible under the fuselage. They are moving at speed — not the slow, gravitational presence of the AC-130 or the A400M but something faster, more violent, more precise. The noise arrives a half-second after the aircraft, a characteristic shriek of twin engines at military power at low altitude.]
+
+[The first aircraft releases. Two AASM Hammer munitions drop, their propulsion kits igniting almost immediately, guiding them on their terminal approach to the target with GPS and infrared precision. The Rafale pulls up sharply, climbing away to the left.]
+
+[A fraction of a second later — impact. The target position disappears inside two near-simultaneous explosions. Not a massive fireball — these are precision munitions, tightly placed. The building does not collapse dramatically. Its upper floors blow outward and inward. The reinforced position on the ground floor ceases to exist. Dust and smoke billow outward and upward in a dense column.]
+
+[The second Rafale completes a follow-on pass, releasing a single additional round on a secondary position at the building's flank. Another precise impact. Another column of smoke.]
+
+[Both aircraft pull up hard into the sky, their delta-wing planforms clean against the grey European overcast, engines still pushing hard. Within seconds they are climbing away, already a mile out, their shapes shrinking against the clouds.]
+
+KERAUNOS LEAD:
+(radio, unhurried)
+AEGIS ACTUAL, KERAUNOS LEAD. Splash two. Target destroyed. BDA to follow. KERAUNOS FLIGHT is RTB. Bonne chance.
+
+DUCKY:
+(beat — watching the smoke column rise above the buildings ahead)
+...Yeah. Thanks, Pierre.
+
+[He stands, checks his weapon, looks at the squad.]
+
+DUCKY:
+(quiet, to the squad)
+Alright. Let's go see what's left.
+
+[AEGIS moves forward through the settling dust toward the destroyed position.]
+
+---
+
+Visual and tonal notes:
+- The Rafale's character in this scene is defined by SPEED and PRECISION rather than scale. Fast, surgical, and gone before the player has fully processed what happened. The strike is over in under 20 seconds from first visual contact.
+- The Rafale's distinctive delta-canard planform is immediately recognizable and unmistakably French. French Air and Space Force roundels and grey/blue-grey livery visible in the brief seconds overhead.
+- AASM Hammer impacts: precise, contained, devastating to the specific target. Not spreading destruction across the surrounding street. This is a scalpel, not a hammer.
+- Sound design critical. The Rafale at low altitude produces a distinctive high-pitched twin-engine shriek very different from the deep turboprop rumble of the A400M or AC-130. Sound arrives slightly after the aircraft.
+- Ducky's "Yeah. Thanks, Pierre." — deliberately casual and characteristically understated. This is Ducky.
+- The French pilot's "Bonne chance." — natural and unforced. A French pilot signing off in his own language. Clean and real.
+- The column of smoke rising above the European urban skyline is the lasting image of this scene.
+
+Location note: Specific city TBD pending further development of Ducky's Persistent Threat campaign geography. Candidate environments: a Dutch port city, a Baltic coastal city, or a Central European urban centre. Scene is written to be location-agnostic.
+
+Continuity note: KERAUNOS (Dassault Rafale B) confirmed in the DAOG Command force structure under Close Air Support alongside PHAETON (JAS 39 Gripen). Seeding in earlier missions recommended — a radio reference, a mention from ORACLE that KERAUNOS assets are available — before this moment lands.
+
+
+========================================================
+
+
+SCENE 6 — THE ZUBR LANDING (Ducky's Campaign, Game 1 — Do Right, Fear None)
+Vehicle: Zubr-class LCAC (x2 confirmed inbound, x1 third behind, Ropucha standing off)
+Location: Dutch coastline near the Maasvlakte terminal, Rotterdam
+Mission context: Pre-final mission escalation sequence — pressure indicator before the terminal defense mission
+
+Context and narrative setup:
+AEGIS Squad is moving toward the Maasvlakte terminal — approaching through a coastal industrial area, exiting a treeline at the edge of dune terrain, or cresting an elevated road embankment that gives a sudden unobstructed view of the North Sea coastline and the shallow beach approaches to the terminal.
+
+This is not a combat encounter. AEGIS watches and withdraws. The Russian amphibious force is too large to engage directly. The player sees what is coming and understands with complete clarity what the final mission is about to be.
+
+---
+
+THE SEQUENCE — FULL SCENE:
+
+[The squad moves along the edge of a coastal road or dune ridge. Industrial structures of the port complex are visible to the right. To the left, the North Sea. Grey sky, grey water, a cold Dutch coastal morning. Wind off the water. Flat, open, nowhere to hide.]
+
+[Frost stops. He raises his rifle — not to shoot, but to look through the scope. He says nothing for a moment.]
+
+FROST:
+(quiet, almost to himself)
+...Contact. Bearing two-seven-zero. Multiple surface contacts. Large.
+
+[Ducky raises his own optics. What he sees through the scope — and what the camera then cuts to in a wide establishing shot — stops him cold.]
+
+[Two Zubr-class LCACs are coming in from the northwest, riding low and fast over the grey water toward the Dutch beach below the terminal approach. They are enormous — 57 metres long, riding on a cushion of air and spray, their five gas turbine engines producing a sound unlike anything the squad has heard before: a deep, resonant, mechanical howl, felt in the chest before it's fully registered by the ears. The air cushion skirts billow white beneath them. The twin 30mm gun turrets forward are clearly visible, traversing slowly. The cargo ramps are still closed.]
+
+[Behind the two lead Zubrs, further out to sea, more shapes are visible in the grey — a third Zubr, and beyond it the silhouette of a Ropucha-class landing ship standing off approximately two kilometres out.]
+
+LUPIN:
+(flat)
+How many?
+
+DUCKY:
+(still looking through optics)
+Two confirmed inbound. Third behind them. There's a Ropucha standing off — maybe two klicks out.
+
+SWITCHBLADE:
+(low)
+What are they carrying?
+
+DUCKY:
+(beat)
+Whatever they brought, it fits three tanks. Each.
+
+[Silence. The squad watches. The Zubrs are closing fast — at 35 knots they cover the remaining distance in under two minutes. As they hit the shallow water approach to the beach the air cushion allows them to transition seamlessly from water to shore without slowing — they do not beach themselves the way conventional landing craft do. They simply continue forward, riding the cushion over the sand and gravel of the Dutch shoreline, the massive ramps dropping forward with a sound like a controlled explosion.]
+
+[From the first Zubr's ramp: a T-80 main battle tank rolls forward onto Dutch soil, engine already running, followed immediately by a second. Infantry pour out from the sides — Russian Naval Infantry in full combat kit, spreading left and right into a perimeter, weapons up.]
+
+[From the second Zubr: BTR-82 armoured vehicles rolling down the ramp in sequence, troops dismounting immediately and forming up.]
+
+[The Grad rocket launchers — retracted during transit — are already beginning to elevate on one of the Zubrs, preparing to provide fire support for the landing force.]
+
+[Ducky lowers his optics. He looks at the squad. Nobody speaks for a moment.]
+
+DUCKY:
+(to radio, steady)
+ARES, this is AEGIS ACTUAL. We have eyes on a Russian amphibious landing — Zubr-class, at least two confirmed, third inbound. Armour and Naval Infantry on the beach. Grid to follow. How copy?
+
+WALKER (ARES):
+(radio, controlled)
+AEGIS ACTUAL, ARES. Copy all. Hold your position. Do not engage. KERAUNOS is being tasked. Get me that grid.
+
+DUCKY:
+(already moving)
+Frost. Grid.
+
+FROST:
+(already reading it off)
+Copy.
+
+[The squad pulls back from the ridge line, moving fast and low. Behind them, the sound of the Zubr turbines continues — that deep mechanical howl carrying across the flat Dutch coastal terrain, audible long after the craft themselves are out of sight. The Grad launchers fire — a rippling series of rockets arcing inland toward the terminal perimeter.]
+
+[The final mission has begun whether AEGIS is ready or not.]
+
+---
+
+Visual and tonal notes:
+- The Zubr's defining visual characteristic is its sheer improbability — something that large should not move that fast or transition from water to land that seamlessly. The air cushion skirt billowing white underneath it, the spray trail behind it, the turbine howl — these details make the image unforgettable. Most players will never have seen a Zubr before. This is their introduction to it and it should feel like a revelation.
+- The scene is a pressure indicator, not a combat sequence. AEGIS watches and withdraws. The enemy force is too large to engage here — that's the point. The player sees what they're about to fight and feels the weight of it before the mission begins.
+- The Ropucha-class landing ship standing off in the background implies more forces in reserve. The Zubrs are the fast forward element. There is more coming. This is not the full picture.
+- The Grad rockets firing at the terminal at the end of the sequence is the transition moment — the final mission has started on the enemy's terms. No pause, no preparation time.
+- Sound design critical. The Zubr uses five gas turbines — three for propulsion and two for the air cushion lift system, each delivering approximately 12,100 shaft horsepower. The sound at close range on a flat coastal environment would be extraordinary — felt physically as much as heard. Present in the scene from the moment Frost first spots them, growing as they close the distance.
+- The Ropucha standing off in the background implies there is more coming behind the Zubrs. The player does not see everything. That incompleteness is part of the dread.
+- Frost's first line — "Contact. Bearing two-seven-zero. Multiple surface contacts. Large." — is the scene's emotional ignition point. The word "large" doing the work of an entire paragraph.
+- The Dutch coastal terrain — flat, open, industrial, dunes and beach and port infrastructure — gives the scene a specific recognizable geography. The flatness means the Zubrs are visible from a long distance, giving the player time to process what they're seeing before the scale of it fully registers.
+- This scene also serves as a continuity bridge to Scene 5 (KERAUNOS) — ARES tasks KERAUNOS assets at the end of this sequence, implying the Rafales are being sent to deal with the landing force. The two scenes are causally linked.
+
+Continuity note:
+The Ropucha-class landing ship standing off is a real Russian Navy vessel class used for amphibious operations and is consistent with the Baltic Fleet operational context established in Ducky's Game 1 campaign. The combination of Zubr LCACs for fast shallow-water landing and a Ropucha for heavier equipment delivery is historically accurate Russian amphibious doctrine.
+
+
+========================================================
+END OF DOCUMENT — 6 SCENES TOTAL
+========================================================
+
+====================================================================================================
+[ProjectWarriors_AircraftFlyoverScenes.txt]
+Origin: recovered from embedded content in prior consolidated master
+Chars: 7380
+SHA-256 prefix: 52718f4729eb26f9
+====================================================================================================
+
+PROJECT WARRIORS — AIRCRAFT FLYOVER SCENE DESCRIPTIONS
+Compiled from Meta Thread Development
+========================================================
+
+
+SCENE 1 — THE EPIC FLYOVER (Romeo's Campaign, Game 2 — American Freedom)
+Location: Harlan County, Kentucky (near Calloway and Redbud)
+Mission context: Following the rescue of Aldrich / late campaign sequence
+
+Description:
+After freeing Aldrich, Romeo's team is in a vehicle being pursued by Russian forces through the Kentucky countryside. The pursuit vehicles are UAZ-type light trucks with mounted guns — fast enough to maintain pressure, not fast enough to fully close the gap on Romeo's vehicle running at full speed. Multiple vehicles in pursuit, at least one with an active mounted gun continuing to engage the player throughout the chase.
+
+At a dramatic moment during the chase, a US Air Force AC-130 gunship (callsign to be determined) makes a low, slow pass overhead — appearing suddenly over the ridgeline or treeline. The aircraft is massive, close, and loud. It descends to a dangerously low altitude directly over or adjacent to the road, its engines shaking the air. The image of a slow, enormous turboprop military gunship appearing at low altitude over a typical Kentucky rural landscape — fields, farmhouses, winding roads — is deliberately jarring and cinematic.
+
+The AC-130 proceeds to engage the pursuing Russian vehicles, eliminating or scattering them and breaking off the chase.
+
+Narrative mechanic / how the pilots got there:
+Earlier missions in Romeo's American Freedom campaign (likely Dead Air or a related mission) inadvertently created a communications benefit for US Armed Forces operating in the region — Romeo's resistance cell actions disrupted or intercepted enemy communications in a way that gave US forces an unexpected operational advantage, possibly enabling the capture or denial of a strategically important position. This created an informal awareness among US military elements of who Romeo's group is and what they are doing.
+
+This flyover occurs BEFORE President Crodyn's wartime address declaring the AFC a domestic terrorist organization. The pilots are therefore still operating in a grey zone where supporting what appears to be American resistance fighters feels permissible — they have a hunch about who these people are, they've heard enough through operational channels to make an educated guess, and they act on it. After the Crodyn declaration, the same pilots could no longer make the same call.
+
+The pilots spot Romeo's team being pursued, radio it in, receive permission to divert and provide close air support, and route to their location. The rest plays out as written.
+
+Visual and tonal notes:
+- The image of the AC-130 at low altitude over rural Kentucky is intended as a striking, almost surreal visual — familiar American landscape suddenly occupied by an instrument of war
+- This is flagged as strong trailer / promotional asset material
+- The slow, deliberate approach of the aircraft contrasts with the speed and chaos of the chase sequence below it
+- The sound design of this moment is critical — the deep rumble of four turboprop engines at low altitude should be physically felt by the player before the aircraft is fully visible
+
+
+========================================================
+
+
+SCENE 2 — THE A400M FLYOVER (Context: General world-building / promotional concept)
+Aircraft: Airbus A400M Atlas (DAOG designation: ICARUS)
+
+Description:
+A massive turboprop military transport aircraft — the Airbus A400M — makes a slow, low pass directly overhead of the player's position in a recognizably ordinary American suburban environment. The contrast between the familiar domestic landscape below and the scale and weight of the military aircraft overhead is the entire point of the image.
+
+The A400M is enormous and slow relative to jet aircraft. At low altitude its four large turboprop engines produce a distinctive, deep, resonant sound unlike anything most civilians would have heard at close range. The aircraft fills the frame. It is close enough that markings and details are visible.
+
+This image — a giant NATO military transport at low altitude over American suburbia — is cited as one of the defining visual expressions of the game's core theme: the collision of the familiar and the catastrophic. The world has not waited. The war has come here.
+
+This image is flagged as a key promotional and trailer asset. It encapsulates the scale of the conflict and the surreal quality of invasion and occupation on American soil in a single, wordless shot.
+
+DAOG asset designation: ICARUS (Airbus A400M) — part of the HERMES airlift component of DAOG Command's force structure.
+
+
+========================================================
+
+
+SCENE 3 — THE AC-130 ON AN ATTACK RUN (Context: General world-building / promotional concept)
+Aircraft: AC-130 gunship
+
+Description:
+An AC-130 gunship passes at low altitude on an attack run over or near a typical American suburban neighborhood. The image of the aircraft — its guns active or implied — against the backdrop of ordinary American houses, yards, and streets is deliberately dissonant.
+
+This is paired conceptually with the A400M image as part of the broader visual language of the game: large, slow, purposeful military aircraft operating at low altitude over recognizably American civilian environments. The scale of the machines against the domestic scale of the landscape is the emotional payload.
+
+Both the A400M and AC-130 images are described as the kinds of things "you'd never believe" — invoking the Tears in the Rain / Roy Batty thematic underpinning of the studio identity. The player gets to witness things that feel impossible and yet are happening.
+
+
+========================================================
+
+
+ADDITIONAL CONTEXT — Red Dawn Callback (Romeo's Campaign, Game 2)
+Location: Smoky Mountains, visible from distance during a navigation moment in a mission
+
+Description:
+At a specific point during Romeo's American Freedom campaign in Game 2, the player — while navigating on foot through terrain — spots in the distance over the Smoky Mountains a formation of enemy paratroopers descending. The parachutes are visible at distance, a deliberate callback to the 1984 film Red Dawn.
+
+This image serves a dual narrative purpose:
+1. It functions as an in-world navigation device — the player sees where the paratroopers are landing and understands instinctively that this is where the mission is heading next
+2. It is a deliberate visual homage to Red Dawn, designed to be felt rather than stated — no dialogue draws attention to it
+
+The image is flagged as strong trailer and promotional asset material — specifically as a standalone rendered version separate from gameplay, for use in teasers and promotional campaigns. A suggested trailer treatment: the shot opens on the Smoky Mountains peaceful and still, then the paratroopers begin to appear — first one, then dozens. Music shift completes the moment.
+
+The callback works for players who know Red Dawn and works independently as a striking image for those who don't. The reference should never be made explicit in dialogue or any other in-game element.
+
+
+========================================================
+END OF DOCUMENT
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+[ANGEL_Cinematic_Screenplay_Pass.txt]
+Origin: current uploaded source
+Chars: 11407
+SHA-256 prefix: cfd92864956cfe70
+====================================================================================================
+
+ANGEL — CINEMATIC SCREENPLAY PASS
+Project Warriors — Game 2 — Romeo Campaign
+Late Act 2 / Exfil Chase Set Piece
+
+CANON LOCK
+- Location thread: post-liberation AFC operation tied to Aldridge
+- Vehicle: current-generation Ford F-150, quad cab
+- Mount: improvised bed-mounted ring / pintle
+- Weapon: M240B
+- Ammo state: two cans total
+- Player position: Romeo on mounted gun
+- Pursuit: three enemy UAZ-type vehicles, at least one with mounted gun
+- Air support: AC-130 Spectre gunship, callsign SPECTRE FOUR ONE
+
+NOTE
+This pass is written as an in-engine cinematic/gameplay hybrid rather than a non-interactive cutscene. The player should remain in control for most of the sequence, especially the reveal.
+
+======================================================================
+EXT. KENTUCKY COUNTY ROAD - DAY
+======================================================================
+
+A battered FORD F-150 tears downhill along a narrow Kentucky road bordered by pasture fence, brush, and tree line. Dust boils behind it. The truck is civilian at its core, but changed by necessity: improvised mount in the bed, welds visible, metal scraped raw at the joints, gear lashed down wherever it will fit.
+
+ROMEO is on the mounted M240B in the truck bed, braced inside the ring mount, one boot slipping half an inch every time the rear axle kicks sideways over a rut.
+
+The truck is already under fire.
+
+Rounds crack past the cab. A rear window spiders. Fence posts flick past in a strobing rhythm.
+
+                               DRIVER
+                 Contact rear! Rear, rear, rear!
+
+                               FRONT PASSENGER
+                 They stayed on us!
+
+                               AMMO TEAMMATE
+                 Romeo, on the gun!
+
+Romeo hauls the weapon around toward the rear arc.
+
+Down the road behind them: a DUST PLUME, then the first UAZ breaks through it, hard and fast. A second appears on the bend behind it. Then a third, offset wide, rising and falling with the road.
+
+                               FRONT PASSENGER
+                 One truck--
+
+                               ALDRIDGE
+                 No. Three. Three total.
+
+A burst from the lead vehicle walks up the road and snaps over the truck bed.
+
+                               DRIVER
+                 Lead one's mounted!
+
+Romeo settles the sights.
+
+                               AMMO TEAMMATE
+                 Romeo! Two cans total!
+
+That lands harder than the incoming fire.
+
+Romeo opens up in short, controlled bursts. The M240B pounds through the chassis. Brass rattles across the truck bed and vanishes into the road behind them.
+
+The lead UAZ shudders under the impacts. The enemy gunner ducks. The windshield crazes.
+
+                               DRIVER
+                 Lead gun truck! Kill that gun!
+
+                               ALDRIDGE
+                 Don't chase all three. Break the one that can kill us.
+
+The road bends. The truck leans hard. Romeo has to fight the mount and the road at the same time.
+
+                               AMMO TEAMMATE
+                 Short bursts!
+
+The second UAZ starts offsetting for angle. The third hangs back just enough to be trouble later.
+
+Romeo bursts again -- this time longer, less clean. The ring mount clatters. The truck drops into a washout and slams out of it. The weapon bucks off target.
+
+                               DRIVER
+                 Hold on!
+
+                               ALDRIDGE
+                 Road drops here!
+
+The lead gun truck recovers and answers with another burst. A round punches through thin sheet metal somewhere behind Romeo with an ugly, intimate sound.
+
+Romeo keeps firing.
+
+The belt runs dry.
+
+A dead click.
+
+For one sharp instant the whole chase becomes enormous.
+
+                               ROMEO / AMMO TEAMMATE
+                 Reloading!
+
+                               DRIVER
+                 Make it fast!
+
+                               ALDRIDGE
+                 They're gaining!
+
+Romeo ducks into the ring. The feed cover comes up. The AMMO TEAMMATE wrestles the next can upward from the cab/bed handoff position, one hand braced, one hand fighting the vibration of the truck.
+
+                               AMMO TEAMMATE
+                 Hold it steady -- hold it steady--
+
+                               DRIVER
+                 I am!
+
+The truck hits another bump. The belt slips. Romeo reseats it with a hard slap, slams the cover shut, charges the weapon, and comes back up on the gun just as the second UAZ closes the gap.
+
+He fires again. The second belt starts to disappear.
+
+The middle phase of the chase is worse than the beginning. The Russians are not just chasing. They are learning the truck's rhythm, its weak windows, its bad angles.
+
+One UAZ holds center. One drifts wide. One pressures from behind the others, waiting for the reload that may or may not come.
+
+Inside the cab, the FRONT PASSENGER fights the radio.
+
+                               FRONT PASSENGER
+                 Command says SPECTRE may be on call.
+
+                               DRIVER
+                 May?
+
+                               FRONT PASSENGER
+                 That's what I got.
+
+Romeo kills the gunner in the lead truck or suppresses him hard enough to matter. Another burst punches into the second vehicle's front end and throws smoke off the hood. But the third remains. And the second is still moving.
+
+The road straightens just enough to show the geometry of the problem.
+
+Not enough gun.
+Not enough time.
+Not enough road.
+
+                               ALDRIDGE
+                 Only shoot what matters!
+
+                               DRIVER
+                 Pick one and break it!
+
+Romeo does. He has to.
+
+The belt count drops.
+
+                               DRIVER
+                 How much you got left?
+
+                               AMMO TEAMMATE
+                 Not enough!
+
+Rounds tear through the tailgate. The truck fishtails half a lane and recovers.
+
+The second belt is almost gone.
+
+Romeo ducks again for the final handoff.
+
+The AMMO TEAMMATE shoves the can up toward him, arm stretched, shoulder jammed against the frame.
+
+                               AMMO TEAMMATE
+                 That's the last can. Make it count.
+
+No one answers. No one needs to.
+
+Romeo seats the belt and comes back onto the gun.
+
+Everything now is triage.
+
+A burst into the most dangerous truck.
+A burst to keep the offset vehicle from getting too comfortable.
+A burst saved because there may not be another.
+
+The windshield in front of the driver is cracked through the center now. One side mirror is gone. The ring mount shudders like it wants to tear free from the truck bed.
+
+                               DRIVER
+                 We are not doing this much longer!
+
+                               ALDRIDGE
+                 Stay on the road!
+
+The FRONT PASSENGER freezes, head tilted to the headset.
+
+                               FRONT PASSENGER
+                 Wait. Wait one--
+
+Then, over the radio -- calm, clipped, unmistakably professional:
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, SPECTRE FOUR ONE, we are at your
+                 push frequency. Authenticate.
+
+The truck is still under fire.
+
+The FRONT PASSENGER keys the handset.
+
+                               FRONT PASSENGER
+                 SPECTRE FOUR ONE, this is ROMEO element.
+                 Authenticate Sierra-Two-Kilo.
+
+A burst from behind forces Romeo to duck the weapon a fraction. He fires back without really seeing.
+
+The reply comes quickly.
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, copy. SPECTRE FOUR ONE is at angels
+                 two, four minutes out. We have your position on
+                 ROVER. Stand by, over.
+
+The words help. They do not solve anything yet.
+
+The truck barrels into the final downhill stretch. Trees thin. The road ahead opens.
+
+The sound changes first.
+
+Not the high whine of jets. Not the chopping violence of rotor blades. Something heavier. Slower. Turboprop mass. The kind of sound that seems to come through the air and the earth at the same time.
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, SPECTRE FOUR ONE. One minute. We are
+                 in your twelve o'clock. You should have us shortly.
+
+A beat.
+
+                               ALDRIDGE / DRIVER
+                 You hear that?
+
+Romeo does.
+
+He swings his attention forward.
+
+The road drops away in front of them toward an open horizon line framed by low hills, fence line, and morning sky.
+
+For a fraction of a second there is nothing there.
+
+Then the AC-130 begins to rise over the ridgeline.
+
+Not fast. Nothing that large looks fast. It lifts over the horizon like a ship rising over the curve of the sea -- slow, heavy, inevitable.
+
+For a moment the whole chase reorders itself around that single fact.
+
+The aircraft grows.
+
+Grey fuselage. Prop arcs. Immense wingspan. Not a rescue helicopter darting low, not a fast mover slashing through and vanishing, but a giant American gunship coming straight into the frame over rural Kentucky.
+
+Just before it reaches maximum visual presence --
+
+FLARES.
+
+A full defensive salvo bursts from both sides in a wide, symmetrical spread.
+
+Smoke trails bloom into the angel-wing silhouette.
+
+For several seconds the only thing that matters is the aircraft and the flares and the smoke and the Kentucky sky.
+
+Romeo still has the gun in his hands. He could technically be shooting.
+
+He doesn't.
+
+Nobody would.
+
+The AC-130 roars overhead.
+
+Then the strikes begin.
+
+Behind the truck, one UAZ disappears in a blast of dust, fire, and broken metal. Another slews sideways, disabled, and tumbles off the edge of the road. The last breaks formation, swerving hard, suddenly unsure whether survival still exists in the same shape it did ten seconds earlier.
+
+On the radio:
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, SPECTRE FOUR ONE. BANDITS are
+                 egressing. You are clear. What else do you need, over?
+
+The truck keeps moving. The team is still breathing hard, still in it, but alive now in a different way.
+
+                               FRONT PASSENGER / ROMEO
+                 SPECTRE FOUR ONE, I think we're good. How copy?
+
+                               SPECTRE FOUR ONE (RADIO)
+                 ROMEO element, copy good. SPECTRE FOUR ONE will
+                 remain on station. You call, we answer. Over.
+
+A beat.
+
+                               FRONT PASSENGER / ROMEO
+                 Thank you, SPECTRE FOUR ONE.
+
+Another brief pause. Then:
+
+                               SPECTRE FOUR ONE (RADIO)
+                 Don't mention it. American Freedom, over.
+
+No one in the truck says anything for a second.
+
+The AC-130 banks into orbit above and behind them, enormous and patient.
+
+The angel-wing smoke still hangs in the air longer than it should.
+
+The truck rattles on.
+
+                               DRIVER
+                 Everybody still here?
+
+                               ALDRIDGE
+                 Yeah.
+
+A beat. Aldridge looks up once, almost despite himself.
+
+                               ALDRIDGE
+                 Hell of a thing.
+
+The truck turns off the main road onto a narrower concealed route, disappearing under tree cover.
+
+The gunship remains overhead.
+
+FADE OUT.
+
+====================================================================================================
+[Hudson_Overlook_Screenplay.txt]
+Origin: current uploaded source
+Chars: 11481
+SHA-256 prefix: 9124db974329a026
+====================================================================================================
+
+HUDSON OVERLOOK
+Clean Screenplay-Style Narrative Document
+
+Date: Labor Day — September 3, 2029
+Perspective: First-person, anonymous civilian
+Format: Interactive narrative cold open
+Length target: 6–8 minutes
+Tone arc: ordinary life -> subtle wrongness -> distant dread -> sudden fear -> systemic realization -> hard cut
+
+CAST
+
+PLAYER CHARACTER
+Anonymous male civilian, first-person POV.
+
+TANYA
+Player’s girlfriend. Warm, playful, then frightened.
+
+LOUIS
+Perceptive, practical, first to sense danger.
+
+JANINE
+Phone-focused, casual, socially expressive.
+
+VERONICA
+Quieter, observant, composed until panic breaks through.
+
+OPENING PRINCIPLE
+
+The player should not feel like a soldier or protagonist yet.
+He should feel like he is already in the middle of a real day off.
+
+No tactical framing.
+No score until the run back to the car.
+No overt exposition.
+
+SCENE 1 — TRAILHEAD PICNIC AREA
+
+EXT. HUDSON OVERLOOK TRAILHEAD — AFTERNOON
+
+Late summer light. Mild breeze. Leaves moving overhead. Insects. A faint hush of distant traffic somewhere beyond the woods.
+
+FADE IN:
+
+FIRST-PERSON POV.
+
+The player sits at a weathered public picnic table with attached benches. On the tabletop: a folded trail map, half-finished drinks, sunglasses, an empty snack wrapper.
+
+TANYA sits across from the player. JANINE and VERONICA sit along one side of the table. LOUIS stands nearby, adjusting a light backpack, waiting for the group to get moving.
+
+For the first few seconds, the player has LOOK CONTROL ONLY.
+
+Tanya reaches for the empty snack wrapper, lifts it, and looks at the player.
+
+TANYA
+I can’t believe you ate the last Twistie.
+
+PLAYER
+I was hungry.
+
+TANYA
+That’s not a defense.
+
+JANINE
+I’m with her, honestly.
+
+VERONICA
+You always take the last one and then act surprised when people notice.
+
+PLAYER
+That feels made up.
+
+TANYA
+Wow.
+
+Louis checks his watch or phone and looks over.
+
+LOUIS
+Come on, guys. We’re gonna miss the movie.
+
+JANINE
+No, no, I can still get tickets.
+
+She taps her phone.
+
+JANINE
+Probably.
+
+LOUIS
+That is not confidence.
+
+TANYA
+We drove all this way and we’re still gonna sprint from a scenic overlook to a mediocre theater because Janine buys tickets like it’s an emergency landing.
+
+JANINE
+It’s called spontaneity.
+
+VERONICA
+It’s called bad planning.
+
+Light laughter.
+
+A subtle gameplay prompt appears:
+
+[STAND UP]
+
+The player presses input.
+
+The camera rises naturally from the bench.
+
+SCENE 2 — THE TRAIL
+
+EXT. WOODED TRAIL — CONTINUOUS
+
+The group begins moving down the trail at an easy pace. Warm green light. Packed dirt underfoot. Occasional breaks in the trees hint at a steep drop and water in the distance.
+
+The player now has FULL WALK AND LOOK CONTROL.
+SPRINT IS DISABLED.
+
+A minimal objective appears:
+
+FOLLOW YOUR FRIENDS
+
+The group naturally spaces itself:
+Louis slightly ahead.
+Tanya near the player.
+Janine intermittently checking her phone.
+Veronica alternating between the middle and rear.
+
+Ambient walking dialogue plays with pauses and overlap.
+
+TANYA
+You really ate all of them?
+
+PLAYER
+There were like three left.
+
+TANYA
+There were four.
+
+PLAYER
+That sounds unverifiable.
+
+TANYA
+I counted.
+
+PLAYER
+That’s insane.
+
+TANYA
+That’s survival.
+
+They keep walking.
+
+JANINE
+If they’re sold out, I’m blaming all of you for making me go outside.
+
+VERONICA
+You suggested this.
+
+JANINE
+I suggest a lot of things. That doesn’t make me responsible for them.
+
+LOUIS
+That’s not how that works.
+
+At a scenic opening, Tanya drifts to the player’s side and lifts her phone.
+
+TANYA
+Okay, wait. Stop for a second.
+
+She frames a photo.
+
+TANYA
+Don’t do the face.
+
+PLAYER
+What face?
+
+TANYA
+That one.
+
+She takes the picture.
+
+TANYA
+Yeah, that’s terrible. Perfect.
+
+They continue.
+
+Leaves. Wind. Footsteps. Birds. Still no score.
+
+About halfway through the walk, Janine slows and frowns at her phone.
+
+JANINE
+Hey. Do you guys have signal?
+
+LOUIS
+Out here? Probably not.
+
+JANINE
+No, like— nothing. Not even one bar.
+
+Veronica checks her own phone.
+
+VERONICA
+Mine too.
+
+Tanya glances at hers and shrugs.
+
+TANYA
+We’re still in the woods.
+
+JANINE
+The city’s right there, though.
+
+LOUIS
+We’re on a hillside in the middle of trees. Try again at the overlook.
+
+JANINE
+I am trying again at the overlook. That’s literally my plan.
+
+They keep walking.
+
+Nobody treats it like a crisis yet.
+
+If the player falls behind too long, one of the group calls back casually:
+
+TANYA (O.S.)
+You coming?
+
+or
+
+LOUIS (O.S.)
+Come on, man.
+
+SCENE 3 — APPROACH TO THE OVERLOOK
+
+EXT. APPROACH TRAIL — CONTINUOUS
+
+The trail widens subtly. More light ahead. The wind is a little stronger here.
+
+Conversation thins out naturally.
+
+Louis slows first.
+
+LOUIS
+...Huh.
+
+TANYA
+What?
+
+Louis looks through the trees but does not answer.
+
+The player rounds the final bend.
+
+Ahead is a modest entry threshold to the overlook platform — a narrow opening between low stonework that funnels movement naturally.
+
+The group moves toward it.
+
+SCENE 4 — THE OVERLOOK REVEAL
+
+EXT. HUDSON OVERLOOK PLATFORM — CONTINUOUS
+
+The player steps out onto the overlook.
+
+Below: a broad river.
+Beyond: a distant city skyline.
+
+At first glance the view is simply wide and beautiful enough to require a second look.
+
+Then the wrongness resolves.
+
+Several smoke columns rise from different parts of the city.
+Not one central fire.
+Scattered fires.
+Isolated plumes.
+Small, strange movements in the far air that are too distant to identify cleanly.
+
+A few bystanders are already at the overlook barrier:
+One holding up a phone.
+Another squinting toward the city.
+An older man stepping forward for a better angle.
+A couple murmuring to one another.
+
+The player has FULL LOOK CONTROL and LIMITED MOVEMENT.
+
+No one immediately understands what they are seeing.
+
+TANYA
+What is that?
+
+JANINE
+Is that smoke?
+
+VERONICA
+From where?
+
+BYSTANDER 1
+Was there an explosion or something?
+
+BYSTANDER 2
+That’s... more than one.
+
+Louis steps closer to the low barrier.
+
+LOUIS
+No... look.
+
+The player is allowed to take it in.
+
+Janine raises her phone again, instinctively trying to use it.
+
+Phone screen texture:
+NO SERVICE / spinner / failed load.
+
+JANINE
+Still nothing.
+(beat)
+Why do I still have no signal?
+
+Nobody answers.
+
+Tanya instinctively raises her phone toward the skyline as if to take a picture, then lowers it without pressing the shutter.
+
+TANYA
+That doesn’t look right.
+
+Wind moves across the platform.
+
+No music.
+
+A long enough pause for unease to become discomfort.
+
+SCENE 5 — THE SOUND
+
+At first, just under the wind:
+
+A low, uneven engine hum.
+
+Not close enough yet to locate.
+Not normal enough to ignore.
+
+Louis hears it first. He turns away from the skyline and looks up and behind, trying to place the sound.
+
+LOUIS
+Do you hear that?
+
+The player can turn view freely.
+
+The hum builds. Heavy. Wrong pitch. Too low.
+
+BYSTANDER 1
+What is that?
+
+VERONICA
+Is that a plane?
+
+BYSTANDER 2
+That’s way too low.
+
+The sound grows very fast.
+
+SCENE 6 — AIRLINER PASS
+
+A brief, instinctive upward camera pull.
+
+Through partial tree cover overhead, the player catches only a broken glimpse of a large commercial airliner passing far too low and at the wrong angle.
+
+It is not a full reveal.
+It is only enough to understand what it is and that it should not be there.
+
+The plane roars past and out of sight.
+
+JANINE
+Oh my God—
+
+LOUIS
+That is low—
+
+TANYA
+Why is it—
+
+The plane is gone.
+
+Silence.
+
+One beat.
+
+Two.
+
+Then, from the distance:
+
+A deep, hollow impact boom.
+
+No visible fireball.
+Just the sound.
+
+Everything changes.
+
+SCENE 7 — PANIC BREAK
+
+The bystanders react in staggered fashion.
+
+One ducks.
+Another swears.
+Another backs away.
+Then motion spreads.
+
+BYSTANDER 2
+Jesus Christ—
+
+BYSTANDER 1
+Did that just crash?
+
+VERONICA
+Oh my God.
+
+Louis has already turned back toward the trail.
+
+LOUIS
+Guys. We gotta go. Now.
+
+TANYA
+Go where?
+
+LOUIS
+Back to the car. Move.
+
+A new objective appears:
+
+GET BACK TO THE CAR
+
+SPRINT ENABLED.
+
+Only now does music enter, if used at all: low, restrained, pulsing.
+
+SCENE 8 — THE DESCENT
+
+EXT. TRAIL BACK TO PARKING LOT — CONTINUOUS
+
+The group runs downhill.
+
+The same trail that felt scenic now feels narrow, crowded, and exposed.
+
+Breathing.
+Footfalls.
+Leaves and brush snapping underfoot.
+Shouts from other visitors moving in both panic and confusion.
+
+Dialogue overlaps. Nobody is calm now.
+
+TANYA
+Wait— wait—
+
+LOUIS
+Come on!
+
+JANINE
+I dropped it— damn it—
+
+VERONICA
+Just keep moving!
+
+At one point Janine fumbles and drops her phone onto the trail.
+It skids into leaves.
+
+She half-turns toward it on reflex.
+
+JANINE
+My phone—
+
+TANYA
+Leave it!
+
+LOUIS
+Janine, move!
+
+Janine leaves it and runs.
+
+A beat later, upset and breathless:
+
+JANINE
+I don’t even have my phone—
+
+VERONICA
+Just move!
+
+Other visitors are heard around them, mostly off-screen:
+
+OTHER VISITOR (O.S.)
+What happened?
+
+OTHER VISITOR 2 (O.S.)
+Get in the car!
+
+OTHER VISITOR 3 (O.S.)
+Was that in the city?
+
+OTHER VISITOR 4 (O.S.)
+I can’t get my wife—
+
+No nearby drones.
+No gunfire.
+Danger remains undefined.
+
+SCENE 9 — PARKING LOT
+
+EXT. TRAILHEAD PARKING LOT — CONTINUOUS
+
+The group bursts out of the trees into the lot.
+
+The area is destabilizing but not yet full riot:
+Car doors slamming.
+Engines starting.
+People yelling across rows of cars.
+Someone backing out too fast.
+A child crying somewhere off-screen.
+Someone frozen, staring at a dead phone screen.
+
+Objective remains:
+
+GET BACK TO THE CAR
+
+The group runs to Louis’ vehicle:
+An older three-row SUV, effectively analog — a late-1990s full-size Chevy Suburban type, old enough to have no networked systems worth speaking of.
+
+Louis reaches the driver’s side first.
+
+LOUIS
+Come on, come on—
+
+Doors open fast.
+
+The player enters the front passenger seat.
+
+CUT TO:
+
+SCENE 10 — INSIDE THE SUV
+
+INT. SUV — CONTINUOUS
+
+First-person in the front passenger seat.
+
+Door slam.
+Seatbelt chime.
+The key turns.
+The engine catches immediately.
+
+Good.
+No hesitation.
+No electronics acting up.
+
+That little success matters.
+
+Louis throws the vehicle into gear.
+
+Tanya is breathing hard in the back. Veronica looks over her shoulder out the rear side window. Janine pats her pockets on reflex, realizes again the phone is gone, and looks suddenly at a loss.
+
+TANYA
+Go, go.
+
+VERONICA
+Just drive.
+
+JANINE
+I left it. I left my phone—
+
+TANYA
+Janine—
+
+JANINE
+I don’t have it. I don’t have anything.
+
+The line should not sound melodramatic. More stunned than theatrical. She has lost the object she kept using to mediate the day.
+
+Louis pulls toward the parking lot exit.
+
+The player has LOOK CONTROL ONLY.
+
+No objective text now.
+
+Only tension.
+
+SCENE 11 — THE EXIT ROAD
+
+EXT./INT. PARKING LOT EXIT ROAD — CONTINUOUS
+
+The SUV reaches the lot exit and slows just enough to check the road.
+
+A car passes.
+
+Then, almost immediately, another vehicle enters frame at unnatural speed and slams hard into it.
+
+Metal folds.
+Glass bursts.
+The impact is shocking and abrupt.
+
+Everyone in the SUV flinches.
+
+A beat.
+
+Then a second nearly identical vehicle rams into the wreck.
+
+Not random panic driving.
+Not an ordinary pileup.
+Pattern.
+
+From the passenger seat, the player sees enough through shattered glass and movement to register what is wrong:
+No visible driver movement.
+A blank-looking front seat.
+Uncanny acceleration.
+Near-identical vehicle profile.
+
+Inside the SUV:
+
+VERONICA
+What the hell—
+
+JANINE
+There’s nobody in that car—
+
+TANYA
+Louis—
+
+Louis stares ahead.
+
+Quietly, almost to himself:
+
+LOUIS
+No.
+
+Hold exactly long enough for the player to understand the meaning of that word.
+
+Cut to black.
+
+END.
+
+====================================================================================================
+[Hudson_Overlook_Mission_Scripting.txt]
+Origin: current uploaded source
+Chars: 17764
+SHA-256 prefix: 300b5b7460376e8e
+====================================================================================================
+
+HUDSON OVERLOOK
+Mission Scripting Document
+
+Purpose
+Cold-open interactive narrative sequence showing PANDORA from civilian ground level before the main campaign. The sequence must establish civilian-scale dread, introduce systemic/autonomous threat without explanation, and transition cleanly into Game 1 at the moment of recognition.
+
+Core Intent
+- Single continuous sequence, not montage
+- First-person anonymous civilian POV
+- Player agency limited to movement, looking, and staying with group
+- No score until the run back to the car
+- Cut at recognition, not aftermath
+
+Sequence Metadata
+Mission ID: NAR_COLDOPEN_HUDSON_OVERLOOK
+Runtime Target: 6–8 minutes
+Mode: Interactive-linear
+Failure State: Soft leash only; no death/fail state in normal flow
+Transition Out: Hard cut to black on Louis line “No.”
+
+NPC Roster
+NPC_TANYA
+Role: emotional anchor / warmth -> fear
+
+NPC_LOUIS
+Role: perceptive lead / first to notice wrongness / driver
+
+NPC_JANINE
+Role: phone dependency / practical problem voice / loss-of-device beat
+
+NPC_VERONICA
+Role: quieter observer / stabilizing group voice during panic
+
+PLAYER
+Role: unnamed civilian / first-person / limited agency witness
+
+Gameplay State Overview
+STATE_00_BOOT
+STATE_01_PICNIC
+STATE_02_TRAIL_WALK
+STATE_03_SIGNAL_BEAT
+STATE_04_APPROACH
+STATE_05_OVERLOOK_REVEAL
+STATE_06_ENGINE_SOUND
+STATE_07_AIRLINER_PASS
+STATE_08_PANIC_BREAK
+STATE_09_DESCENT
+STATE_10_PARKING_LOT
+STATE_11_SUV_INTERIOR
+STATE_12_EXIT_IMPACT
+STATE_13_CUT_TO_BLACK
+
+Music Logic
+MUSIC_NONE from STATE_00 through STATE_07
+MUSIC_LOW_PULSE begins at STATE_08 only
+MUSIC_STOP on cut to black
+
+HUD Logic
+Minimal narrative HUD only
+Allowed prompts:
+- [STAND UP]
+- FOLLOW YOUR FRIENDS
+- GET BACK TO THE CAR
+No tactical HUD, no enemy markers, no waypoint chevrons if avoidable
+Use soft environmental guidance instead
+
+CAMERA / CONTROL RULES
+- Standard first-person throughout except for brief scripted head motion on stand and on airliner pass
+- No third-person insert shots
+- Look control available in every state
+- Walk enabled from STATE_02 onward
+- Sprint disabled until STATE_08
+- Interaction prompts minimal, single-button where needed
+- No weapon, inventory, or combat systems exposed
+
+----------------------------------------------------------------
+STATE_00_BOOT
+----------------------------------------------------------------
+Purpose
+Fade in from black and establish ordinary day-off tone.
+
+OnEnter
+- Fade in from black over 1.5 sec
+- Load ambient trailhead soundscape
+- Set player seated at picnic table anchor
+- Look control only
+- Disable walk, sprint, interaction except stand prompt
+- No music
+
+Transition Condition
+- 3–5 seconds elapsed and opening tableau fully loaded
+
+Next State
+STATE_01_PICNIC
+
+----------------------------------------------------------------
+STATE_01_PICNIC
+----------------------------------------------------------------
+Purpose
+Introduce group dynamic and normalcy before disruption.
+
+Player Control
+- Look control only
+- Display prompt: [STAND UP] after first dialogue block completes
+
+Dialogue Block VO_LABELS
+VO_TANYA_001: “I can’t believe you ate the last Twistie.”
+VO_PLAYER_001: “I was hungry.”
+VO_TANYA_002: “That’s not a defense.”
+VO_JANINE_001: “I’m with her, honestly.”
+VO_VERONICA_001: “You always take the last one and then act surprised when people notice.”
+VO_PLAYER_002: “That feels made up.”
+VO_TANYA_003: “Wow.”
+VO_LOUIS_001: “Come on, guys. We’re gonna miss the movie.”
+VO_JANINE_002: “No, no, I can still get tickets. Probably.”
+VO_LOUIS_002: “That is not confidence.”
+VO_TANYA_004: “We drove all this way and we’re still gonna sprint from a scenic overlook to a mediocre theater because Janine buys tickets like it’s an emergency landing.”
+VO_JANINE_003: “It’s called spontaneity.”
+VO_VERONICA_002: “It’s called bad planning.”
+
+Trigger
+TRIG_STAND_PROMPT after VO_VERONICA_002 complete + 0.5 sec
+
+Input Event
+INPUT_STAND accepted
+
+OnStand
+- Play stand camera rise anim
+- Enable walk/look
+- Disable stand prompt
+- Set objective text: FOLLOW YOUR FRIENDS
+
+Next State
+STATE_02_TRAIL_WALK
+
+----------------------------------------------------------------
+STATE_02_TRAIL_WALK
+----------------------------------------------------------------
+Purpose
+Let scene breathe. Establish scenic normalcy and group movement pattern.
+
+Player Control
+- Walk + look enabled
+- Sprint disabled
+- No interaction prompts besides soft leash callouts
+
+NPC Movement Logic
+- Louis lead spline, speed variable 0.9–1.1 m/s
+- Tanya companion band near player within 2–5 m when possible
+- Janine intermittent phone-check animation set
+- Veronica mid/rear group shuffle logic
+- Group pauses if player lags behind by >12 m
+- Soft callout if lag >8 m for >3 sec
+
+Soft Leash Callouts
+VO_TANYA_005_ALT: “You coming?”
+VO_LOUIS_003_ALT: “Come on, man.”
+
+Ambient Dialogue Pools
+Pool A:
+VO_TANYA_006: “You really ate all of them?”
+VO_PLAYER_003: “There were like three left.”
+VO_TANYA_007: “There were four.”
+VO_PLAYER_004: “That sounds unverifiable.”
+VO_TANYA_008: “I counted.”
+VO_PLAYER_005: “That’s insane.”
+VO_TANYA_009: “That’s survival.”
+
+Pool B:
+VO_JANINE_004: “If they’re sold out, I’m blaming all of you for making me go outside.”
+VO_VERONICA_003: “You suggested this.”
+VO_JANINE_005: “I suggest a lot of things. That doesn’t make me responsible for them.”
+VO_LOUIS_004: “That’s not how that works.”
+
+Optional Scenic Stop Trigger
+If player pauses at scenic marker SCN_PHOTO_01 for >2 sec and Tanya is within band:
+VO_TANYA_010: “Okay, wait. Stop for a second.”
+- Tanya photo framing anim
+VO_TANYA_011: “Don’t do the face.”
+VO_PLAYER_006: “What face?”
+VO_TANYA_012: “That one.”
+SFX_PHONE_PHOTO
+VO_TANYA_013: “Yeah, that’s terrible. Perfect.”
+
+Transition Condition
+- Player reaches mid-trail trigger volume TV_SIGNAL_01
+
+Next State
+STATE_03_SIGNAL_BEAT
+
+----------------------------------------------------------------
+STATE_03_SIGNAL_BEAT
+----------------------------------------------------------------
+Purpose
+Introduce first wrong note without overstating it.
+
+OnEnter
+- Janine slows slightly and phone-check anim forced
+- Group speed reduced briefly
+- No music
+
+Dialogue
+VO_JANINE_006: “Hey. Do you guys have signal?”
+VO_LOUIS_005: “Out here? Probably not.”
+VO_JANINE_007: “No, like— nothing. Not even one bar.”
+VO_VERONICA_004: “Mine too.”
+VO_TANYA_014: “We’re still in the woods.”
+VO_JANINE_008: “The city’s right there, though.”
+VO_LOUIS_006: “We’re on a hillside in the middle of trees. Try again at the overlook.”
+VO_JANINE_009: “I am trying again at the overlook. That’s literally my plan.”
+
+Phone Screen Texture Hook
+- Janine phone can briefly display NO SERVICE
+- Optional: Veronica glances at blank signal bars
+
+Transition Condition
+- Dialogue complete and player continues to approach overlook funnel
+- Player enters TV_APPROACH_01
+
+Next State
+STATE_04_APPROACH
+
+----------------------------------------------------------------
+STATE_04_APPROACH
+----------------------------------------------------------------
+Purpose
+Thin out banter and prepare reveal.
+
+OnEnter
+- Reduce incidental dialogue
+- Increase wind layer slightly
+- Louis slow-walk behavior enabled
+- Narrow path funnel active
+
+Dialogue
+VO_LOUIS_007: “…Huh.”
+VO_TANYA_015: “What?”
+
+Behavior
+- Louis look-ahead anim
+- No answer from Louis
+- Tanya sidestep to partial overtake of player near reveal edge
+
+Transition Condition
+- Player crosses overlook threshold TV_OVERLOOK_ENTRY
+
+Next State
+STATE_05_OVERLOOK_REVEAL
+
+----------------------------------------------------------------
+STATE_05_OVERLOOK_REVEAL
+----------------------------------------------------------------
+Purpose
+Core dread beat. Player witnesses city wrongness without understanding.
+
+Player Control
+- Look enabled
+- Movement limited to local overlook radius
+- Barrier/funnel prevents premature exit until state completion
+
+OnEnter
+- Spawn/activate bystander set
+- Skyline VFX active: multiple smoke plumes, scattered fire points, distant ambiguous aerial specks
+- Wind prominent
+- No music
+- Objective cleared
+
+Bystander Set
+BYSTANDER_A phone filming
+BYSTANDER_B squint/look
+BYSTANDER_C older man step-forward animation
+BYSTANDER_D/E murmuring pair optional
+
+Dialogue Sequence
+VO_TANYA_016: “What is that?”
+VO_JANINE_010: “Is that smoke?”
+VO_VERONICA_005: “From where?”
+VO_BYSTANDER_001: “Was there an explosion or something?”
+VO_BYSTANDER_002: “That’s... more than one.”
+VO_LOUIS_008: “No... look.”
+
+Hold Logic
+- Minimum dwell 10 sec after VO_LOUIS_008 before next progression
+- Player encouraged to scan skyline; no waypoint
+
+Phone Callback
+- Janine raises phone and checks it again
+UI_PHONE_JANINE: NO SERVICE / loading spinner / failed data call
+VO_JANINE_011: “Still nothing.”
+VO_JANINE_012: “Why do I still have no signal?”
+
+Tanya Photo Callback
+- Tanya instinctively raises phone to frame skyline
+- She lowers it without taking a photo
+VO_TANYA_017: “That doesn’t look right.”
+
+Transition Condition
+- Minimum dwell met
+- Player orientation enters audio trigger sector ATS_ENGINE_LISTEN or dwell timer expires
+
+Next State
+STATE_06_ENGINE_SOUND
+
+----------------------------------------------------------------
+STATE_06_ENGINE_SOUND
+----------------------------------------------------------------
+Purpose
+Introduce offscreen airliner through sound first.
+
+OnEnter
+- Start distant uneven engine hum layer
+- Hum pans ambiguously then resolves overhead trajectory
+- Bystander and Louis attention redirection from skyline to sky/behind
+
+Dialogue
+VO_LOUIS_009: “Do you hear that?”
+VO_BYSTANDER_003: “What is that?”
+VO_VERONICA_006: “Is that a plane?”
+VO_BYSTANDER_004: “That’s way too low.”
+
+Audio Logic
+- Hum ramps from -18 dB to near pass level over 6–8 sec
+- Avoid clean commercial flyover signature; pitch instability desirable
+
+Transition Condition
+- Hum reaches peak threshold OR 7 sec elapsed
+
+Next State
+STATE_07_AIRLINER_PASS
+
+----------------------------------------------------------------
+STATE_07_AIRLINER_PASS
+----------------------------------------------------------------
+Purpose
+Deliver shock event without eclipsing final road recognition.
+
+Player Control
+- Look retained after brief scripted head tug upward
+- Movement still limited
+
+OnEnter
+- Play brief camera jerk up (0.6 sec)
+- Trigger airliner overhead pass VFX/SFX through partial tree occlusion
+- Important: do not show full glamour shot; only broken glimpse sufficient for recognition
+
+Dialogue
+VO_JANINE_013: “Oh my God—”
+VO_LOUIS_010: “That is low—”
+VO_TANYA_018: “Why is it—”
+
+Timing
+- Airliner visual 1–2 sec
+- Then immediate offscreen departure
+- 2 sec silence
+- Trigger distant impact boom SFX_CRASH_DISTANT_HEAVY
+
+Transition Condition
+- Crash boom complete
+
+Next State
+STATE_08_PANIC_BREAK
+
+----------------------------------------------------------------
+STATE_08_PANIC_BREAK
+----------------------------------------------------------------
+Purpose
+Shift from dread to urgent movement.
+
+OnEnter
+- Unlock overlook exit
+- Enable sprint
+- Start MUSIC_LOW_PULSE (or remain silent if design preference)
+- Activate bystander panic behavior package
+
+Dialogue
+VO_BYSTANDER_005: “Jesus Christ—”
+VO_BYSTANDER_006: “Did that just crash?”
+VO_VERONICA_007: “Oh my God.”
+VO_LOUIS_011: “Guys. We gotta go. Now.”
+VO_TANYA_019: “Go where?”
+VO_LOUIS_012: “Back to the car. Move.”
+
+HUD
+- Objective text: GET BACK TO THE CAR
+
+Transition Condition
+- Player exits overlook funnel and enters descent path trigger TV_DESCENT_01
+
+Next State
+STATE_09_DESCENT
+
+----------------------------------------------------------------
+STATE_09_DESCENT
+----------------------------------------------------------------
+Purpose
+Compressed panic run; preserve civilian helplessness and digital dependency beat.
+
+Player Control
+- Walk + sprint + look enabled
+- No interactions except movement
+- Group maintains urgent downhill spline with catch-up elasticity
+
+Audio/Atmos
+- Heavy breaths
+- Footfalls
+- Offscreen visitor shouts
+- No drones/gunfire nearby
+
+Dialogue Layers
+VO_TANYA_020: “Wait— wait—”
+VO_LOUIS_013: “Come on!”
+VO_JANINE_014: “I dropped it— damn it—”
+VO_VERONICA_008: “Just keep moving!”
+
+Phone Drop Event
+Trigger: TV_PHONE_DROP_01
+- Janine stumble/fumble animation
+- PROP_PHONE_JANINE spawned and skids into leaves
+- Janine half-turn pose
+
+Dialogue
+VO_JANINE_015: “My phone—”
+VO_TANYA_021: “Leave it!”
+VO_LOUIS_014: “Janine, move!”
+
+Follow-up Janine Dependency Beat
+VO_JANINE_016: “I don’t even have my phone—”
+VO_VERONICA_009: “Just move!”
+
+Offscreen Crowd VO Pool
+VO_VISITOR_001: “What happened?”
+VO_VISITOR_002: “Get in the car!”
+VO_VISITOR_003: “Was that in the city?”
+VO_VISITOR_004: “I can’t get my wife—”
+
+Transition Condition
+- Player enters parking lot trigger TV_PARKING_01
+
+Next State
+STATE_10_PARKING_LOT
+
+----------------------------------------------------------------
+STATE_10_PARKING_LOT
+----------------------------------------------------------------
+Purpose
+Show system-wide civilian confusion without full explanation.
+
+OnEnter
+- Parking lot panic ambience enabled
+- Vehicles starting/backing cues
+- Child crying offscreen optional
+- Some NPC civilians looking at dead phones
+
+HUD
+- Objective remains: GET BACK TO THE CAR
+
+Vehicle Asset
+VEH_SUBURBAN_1998_ANALOG
+- Old three-row SUV
+- No networked behavior hooks
+- Guaranteed successful ignition on first turn
+
+Dialogue
+VO_LOUIS_015: “Come on, come on—”
+
+Transition Logic
+- Group reaches SUV interaction zone
+- Auto-board sequence begins on proximity if player at front passenger door volume
+- If player lags, group stalls briefly but auto-snaps once within acceptable distance to preserve pacing
+
+Next State
+STATE_11_SUV_INTERIOR
+
+----------------------------------------------------------------
+STATE_11_SUV_INTERIOR
+----------------------------------------------------------------
+Purpose
+Create temporary false refuge and emphasize analog vehicle reliability versus digital failure.
+
+Player Control
+- Look only from front passenger seat
+- No HUD objective text
+
+OnEnter
+- Door slam
+- Seatbelt chime
+- Engine start anim/sfx
+- Engine must catch immediately
+- Louis put vehicle in gear
+
+Dialogue
+VO_TANYA_022: “Go, go.”
+VO_VERONICA_010: “Just drive.”
+VO_JANINE_017: “I left it. I left my phone—”
+VO_TANYA_023: “Janine—”
+VO_JANINE_018: “I don’t have it. I don’t have anything.”
+
+Behavior Notes
+- Janine pats pockets first, then realizes again phone is gone
+- Performance target is stunned dependency, not melodrama
+- Veronica rearward look anim
+- Tanya breath/shake anim in back seat
+
+Transition Condition
+- SUV reaches exit road stop point SP_EXIT_01
+
+Next State
+STATE_12_EXIT_IMPACT
+
+----------------------------------------------------------------
+STATE_12_EXIT_IMPACT
+----------------------------------------------------------------
+Purpose
+Deliver final realization image: autonomous pattern, not random panic.
+
+Player Control
+- Look only
+- Vehicle remains stopped/creeping at exit
+
+OnEnter
+- Spawn/drive civilian road car through crossing path
+- After 0.8–1.2 sec spawn autonomous impact car at unnatural acceleration
+- Collision 1: autonomous vehicle rams passing car
+- Hold 0.7–1.0 sec
+- Collision 2: near-identical autonomous vehicle rams the wreck
+
+Visual Requirements
+- Enough readability to imply no active driver / empty front seat / uncanny system behavior
+- Similar silhouette between impact vehicles
+- Should read as pattern, not conventional pileup
+
+SFX
+- High-impact metal fold
+- Glass burst
+- Tire scrub minimal; more committed acceleration than evasive driving
+
+Dialogue
+VO_VERONICA_011: “What the hell—”
+VO_JANINE_019: “There’s nobody in that car—”
+VO_TANYA_024: “Louis—”
+VO_LOUIS_016: “No.”
+
+Hold Logic
+- Hold 1.5–2.0 sec after VO_LOUIS_016
+- Allow player to scan wreck just long enough for realization
+
+Transition Condition
+- Hold complete
+
+Next State
+STATE_13_CUT_TO_BLACK
+
+----------------------------------------------------------------
+STATE_13_CUT_TO_BLACK
+----------------------------------------------------------------
+Purpose
+End at recognition, not aftermath.
+
+OnEnter
+- Hard cut to black
+- Stop music
+- Let residual impact/breath ring for <1 sec
+- Trigger title card or Game 1 opener load
+
+No further gameplay.
+
+----------------------------------------------------------------
+TRIGGER SUMMARY
+----------------------------------------------------------------
+TRIG_STAND_PROMPT
+TV_SIGNAL_01
+TV_APPROACH_01
+TV_OVERLOOK_ENTRY
+ATS_ENGINE_LISTEN
+TV_DESCENT_01
+TV_PHONE_DROP_01
+TV_PARKING_01
+SP_EXIT_01
+
+----------------------------------------------------------------
+VO LABEL SUMMARY BY CHARACTER
+----------------------------------------------------------------
+PLAYER
+VO_PLAYER_001
+VO_PLAYER_002
+VO_PLAYER_003
+VO_PLAYER_004
+VO_PLAYER_005
+VO_PLAYER_006
+
+TANYA
+VO_TANYA_001 through VO_TANYA_024
+
+LOUIS
+VO_LOUIS_001 through VO_LOUIS_016
+
+JANINE
+VO_JANINE_001 through VO_JANINE_019
+
+VERONICA
+VO_VERONICA_001 through VO_VERONICA_011
+
+BYSTANDERS / VISITORS
+VO_BYSTANDER_001 through VO_BYSTANDER_006
+VO_VISITOR_001 through VO_VISITOR_004
+
+----------------------------------------------------------------
+DESIGN GUARDRAILS
+----------------------------------------------------------------
+1. Do not let the overlook beat move too fast.
+   The dread comes from looking long enough to not understand.
+
+2. Do not add explicit tech exposition.
+   No one should say “PANDORA,” “autonomous system,” or anything intelligence-flavored.
+
+3. Do not add nearby drones or gunfire before the road impact sequence.
+   The threat should remain indeterminate through most of the scene.
+
+4. Keep panic compressed once it starts.
+   The return to the car should feel messy and urgent, not like a full survival level.
+
+5. The road impacts are the thesis image.
+   The airliner is shock; the cars are recognition.
+
+6. The analog SUV must start cleanly.
+   That moment matters thematically.
+
+7. Cut on Louis’ “No.”
+   Do not continue into another action beat.
+
+====================================================================================================
+REV4 DELTA INTEGRATION — 2026-04-18
+====================================================================================================
+
+1) Boston wheelchair introduction beat:
+Romeo may enter a safehouse / residence / private meeting spot and catch Van
+Hult or Eamonn Kearney fixing a small mechanical problem on the wheelchair used
+by the wheelchair-using civilian friend before the main interaction begins.
+The clean approved lane is a grounded repair beat such as resolving a caster
+bearing issue.
+
+2) Tone rule:
+The repair beat should establish competence, care, and lived-in resistance
+infrastructure without sentimentalizing the wheelchair user or turning the
+moment into speechmaking.
+
+3) Civilian memory-photo usage:
+The City Hall and Cheers images are pre-occupation Boston memory artifacts.
+They can function as optional environmental props, phone photos, printed
+photos, or prompt-reference material.
+
+4) Bakhmut mission-cluster placement:
+The PenCott MetroPolis adaptation belongs in Bakhmut-specific missions and
+adjacent scenes only. The environment itself remains visually dominant.
+
+5) Repo-local source check:
+The Kentucky-to-Boston bridge work remains partial locally. THE POCKET appears
+inside the Vickers corridor route page, but DAY WINDOW and ROLL CALL were not
+present as dedicated source files during this pass.
+
+6) Repo-local source check:
+The British Forces DLC source set contains HOLDFAST-centered structure material,
+but BROKEN HARBOR and FAR SHORE were not present as landed source pages in the
+repo during this pass. Miraik Black crossover placement also remains unresolved
+locally.

@@ -1,0 +1,57 @@
+PROJECT WARRIORS — WORLD / COMMAND REFERENCE PAGE
+Title: Canada Posture and DAOG / OLYMPUS Command Architecture
+Generated: 2026-04-18
+Version: rev1
+Status: LOCKED
+
+PURPOSE
+This page records the missing worldbuilding and command-layer decisions surfaced
+in the rev4 delta pass so they land as reusable source text rather than only as
+compendium prose.
+
+CANADA POSTURE
+Canada is a functioning but strained NATO / AEGIS-aligned partner state in the
+Project Warriors world. It is not a blank space, a passive appendage of the
+United States, an untouched sanctuary, or a full mirror-collapse of the United
+States. It retains strategic independence and domestic priorities while still
+contributing through command presence, logistics, intelligence, aerospace
+warning, Arctic / North Atlantic access, humanitarian support, and limited
+expeditionary capability.
+
+USAGE RULES
+- Southern Canada is affected by the PANDORA aftermath, but should not read as
+  either untouched refuge or total collapse mirror.
+- Lt. Gen. Callum Tremblay remains the primary human anchor for Canada's place
+  inside DAOG / AEGIS command architecture.
+- Default Canadian presence should appear through basing, logistics, allied
+  personnel, bilingual texture, and North American recovery context unless a
+  dedicated Canadian campaign is later developed.
+
+DAOG / OLYMPUS HIERARCHY
+Current hierarchy:
+- ZEUS = DAOG commander in chief
+- ARES = DAOG special-operations commander
+- OLYMPUS = DAOG operations-command staff / operations-center layer
+- ORACLE = individual callsign within OLYMPUS
+- AEGIS / CORYS / SHIELD = subordinate operational units
+
+VISUAL / ORGANIZATIONAL RULE
+DAOG's ceremonial crest may remain ornate for formal seal use, but field-facing
+patch variants should simplify into shield-based institutional grammar with
+dagger and abstract graticule logic. The goal is command readability and
+organizational continuity, not vanity-operator aesthetics.
+
+LOCAL VERIFICATION NOTE
+The repo-visible corpus and recovered-source layer confirm KERAUNOS and PHAETON
+as the current asset-flight spellings used alongside OLYMPUS in the DAOG
+command vocabulary.
+
+BEST LANDING TARGETS IN SOURCE MODEL
+Primary source-of-truth update:
+- world / command architecture and visual identity pages
+
+Working-set refresh targets after source edit:
+- PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-18_rev4.txt
+- PW_Project_Memory_Integration_Patch_2026-04-18_rev4.txt
+
+END OF DOCUMENT
