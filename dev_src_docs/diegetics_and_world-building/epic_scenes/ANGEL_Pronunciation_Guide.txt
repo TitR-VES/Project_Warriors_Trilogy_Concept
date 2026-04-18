@@ -1,0 +1,225 @@
+ANGEL — PRONUNCIATION GUIDE
+Project Warriors — Game 2 — Romeo Campaign
+Cast / VO Support Document
+
+DOCUMENT PURPOSE
+This guide supports consistent pronunciation during recording for the ANGEL sequence.
+It focuses on:
+- character names
+- callsigns
+- place names
+- radio / military terms that appear in the scene
+- recommended read style for potentially ambiguous items
+
+STYLE NOTE
+This is a fictional military-action setting anchored in the United States.
+Most reads should feel natural and contemporary rather than over-militarized.
+Avoid exaggerated "movie radio voice" delivery.
+
+========================================================================
+PRIMARY NAMES AND TERMS
+========================================================================
+
+ALDRIDGE
+Preferred spelling: A-L-D-R-I-D-G-E
+Recommended pronunciation: AWL-dridge
+Simple guide: "ALL-dridge"
+Notes:
+- Keep consistent with the locked spelling.
+- Do not drift into "Aldrich."
+- The second half should be a quick "dridge," not over-enunciated.
+
+ROMEO
+Recommended pronunciation: ROH-mee-oh
+Notes:
+- Standard English pronunciation.
+- In radio context, can carry slight emphasis on first syllable.
+
+SPECTRE FOUR ONE
+Recommended pronunciation: SPEK-ter four one
+Notes:
+- "Spectre" with a clean "spek" opening.
+- Avoid over-stylizing.
+- "Four One" should usually be read as separate digits, not "forty-one."
+
+AMERICAN FREEDOM
+Recommended pronunciation: uh-MER-ih-kən FREE-dəm
+Notes:
+- Straight, sincere, understated.
+- Do not turn this into a slogan read.
+
+========================================================================
+VEHICLES / WEAPONS / PLATFORM TERMS
+========================================================================
+
+F-150
+Recommended pronunciation: F one-fifty
+Alternate acceptable: F one hundred fifty
+Preferred in-scene read: F one-fifty
+Notes:
+- Keep casual and natural.
+
+M240B
+Recommended pronunciation: em two-forty bravo
+Notes:
+- Standard spoken pattern.
+- "Bravo" should be clean and professional, not exaggerated.
+
+UAZ
+Recommended pronunciation: oo-AHZ
+Simple guide: "oo-AHZ"
+Notes:
+- Stress the second syllable.
+- Do not spell out U-A-Z unless a specific line is rewritten that way.
+- If a performer struggles, "truck" or "vehicle" can often replace it in live dialogue, but the preferred guide remains oo-AHZ.
+
+AC-130
+Recommended pronunciation: ay-see one-thirty
+Notes:
+- Standard and natural.
+- Do not over-punch the letters.
+
+GUNSHIP
+Recommended pronunciation: GUN-ship
+Notes:
+- Straight read.
+
+========================================================================
+RADIO / MILITARY / AVIATION TERMS
+========================================================================
+
+AUTHENTICATE
+Recommended pronunciation: aw-THEN-tih-kayt
+Notes:
+- Stress on "then."
+- Keep clipped in radio use.
+
+SIERRA-TWO-KILO
+Recommended pronunciation: see-AIR-uh two KEE-loh
+Notes:
+- NATO alphabet read.
+- "Sierra" natural American English.
+- "Kilo" = KEE-loh, not KILL-oh.
+
+ANGELS TWO
+Recommended pronunciation: AYN-jəlz two
+Notes:
+- Aviation altitude shorthand.
+- In this script, read naturally, not like a lecture.
+- "Angels two" should sound like the speaker uses the term routinely.
+
+ROVER
+Recommended pronunciation: ROH-ver
+Notes:
+- Straight read.
+- In military context, still just "ROH-ver."
+
+PUSH FREQUENCY
+Recommended pronunciation: push FREE-kwən-see
+Notes:
+- Natural technical phrase.
+- No need to over-accent "push."
+
+BANDITS
+Recommended pronunciation: BAN-dits
+Notes:
+- Standard air combat shorthand for hostile aircraft or hostile contacts in stylized military dialogue.
+- In this scene, deliver matter-of-factly.
+
+EGRESSING
+Recommended pronunciation: ee-GRESS-ing
+Notes:
+- Stress the second syllable.
+- Keep smooth and professional.
+
+TWELVE O'CLOCK
+Recommended pronunciation: twelve oh-CLOCK
+Notes:
+- Standard directional call.
+- Keep natural.
+
+ON STATION
+Recommended pronunciation: on STAY-shən
+Notes:
+- Standard military / aviation phrase.
+- Underplay slightly.
+
+========================================================================
+DELIVERY NOTES FOR POSSIBLY TRICKY LINES
+========================================================================
+
+"ROMEO element, SPECTRE FOUR ONE, we are at your push frequency. Authenticate."
+Notes:
+- "ROMEO element" should be clear and slightly separated from the callsign.
+- Brief pause after "SPECTRE FOUR ONE" is acceptable.
+- "Authenticate" should sound procedural, not aggressive.
+
+"SPECTRE FOUR ONE, this is ROMEO element. Authenticate Sierra-Two-Kilo."
+Notes:
+- Read the code group clearly.
+- Avoid swallowing "Sierra."
+- "Two" and "Kilo" should sound clean and distinct.
+
+"ROMEO element, copy. SPECTRE FOUR ONE is at angels two, four minutes out. We have your position on ROVER. Stand by, over."
+Notes:
+- This line carries several technical terms in one sentence.
+- Best approach is measured calm, with slight phrase breaks:
+  1. "ROMEO element, copy."
+  2. "SPECTRE FOUR ONE is at angels two, four minutes out."
+  3. "We have your position on ROVER."
+  4. "Stand by, over."
+
+"ROMEO element, SPECTRE FOUR ONE. One minute. We are in your twelve o'clock. You should have us shortly."
+Notes:
+- "One minute" should be reassuring through certainty, not excitement.
+- "Twelve o'clock" should stay natural.
+
+"ROMEO element, SPECTRE FOUR ONE. BANDITS are egressing. You are clear. What else do you need, over?"
+Notes:
+- "Bandits" and "egressing" should not become flashy.
+- The power of the line is in calm control.
+
+"Don't mention it. American Freedom, over."
+Notes:
+- This is the signature line.
+- Underplay it.
+- The speaker should sound like he means it, not like he has been waiting all day to say it.
+
+========================================================================
+COMMON MISTAKES TO AVOID
+========================================================================
+
+1. Do not say "Aldrich."
+Preferred: "Aldridge."
+
+2. Do not say "forty-one" for the callsign.
+Preferred: "Four One."
+
+3. Do not turn SPECTRE FOUR ONE into a movie trailer voice.
+Keep him calm and real.
+
+4. Do not overdo Southern accents for the truck crew.
+Local flavor is fine. Caricature is not.
+
+5. Do not over-pronounce every radio term.
+Natural competence is better than forced crispness.
+
+========================================================================
+FAST REFERENCE LIST
+========================================================================
+
+Aldridge = ALL-dridge
+Romeo = ROH-mee-oh
+Spectre Four One = SPEK-ter four one
+F-150 = F one-fifty
+M240B = em two-forty bravo
+UAZ = oo-AHZ
+AC-130 = ay-see one-thirty
+Authenticate = aw-THEN-tih-kayt
+Sierra-Two-Kilo = see-AIR-uh two KEE-loh
+Angels two = AYN-jəlz two
+ROVER = ROH-ver
+Bandits = BAN-dits
+Egressing = ee-GRESS-ing
+
+END OF DOCUMENT
