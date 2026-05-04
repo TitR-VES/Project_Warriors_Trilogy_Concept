@@ -1,0 +1,103 @@
+PROJECT WARRIORS — WORKING COMPENDIUM
+Compendium: 06 Promotional / Sidebar Development
+Generated: 2026-05-05
+Version: rev5
+
+PURPOSE
+This rev5 refresh updates the repo-facing promotional / sidebar knowledge layer so it reflects the now-stable Game 2 and Game 3 campaign identities, audio anchors, and headline promo handling. It is a source-ready summary layer, not a replacement for deeper promo packets.
+
+================================================================================
+A. GAME 2 PROMOTIONAL NORMALIZATION
+================================================================================
+
+Romeo Game 2 — AMERICAN FREEDOM
+Campaign identity lock to retain:
+- audio anchor: "Good Morning, America"
+- tagline: WAR HITS HOME.
+
+Promo handling rule:
+- American Freedom should sell domestic fracture, endurance, and return of agency rather than clean chest-thumping triumph
+- ANGEL and the Red Dawn callback remain two of its strongest trailer-grade image lanes
+
+
+Ducky Game 2 — PERSISTENT THREAT
+Campaign identity lock to retain:
+- title remains Persistent Threat
+- retired title note: AEGIS Falls is not the campaign title
+- audio anchor: "Kyiv"
+- tagline: THE SYSTEM FELL. WE DIDN'T.
+
+Promo handling rule:
+- the campaign should market as coalition survival and damaged trust under strategic pressure
+- avoid promo language that makes the campaign read like sleek NATO invulnerability
+
+
+Spook Game 2 — GODKILLER
+Campaign identity lock to retain:
+- working campaign title: Godkiller
+- teaser tone-setter: "King Nothing"
+- tagline: YOU CAN'T KILL A DEAD MAN.
+
+Promo handling rule:
+- sell the campaign as accountability, clandestine pressure, and moral continuation after Game 1 rather than as a victory lap
+- preserve the sense that the ending is private readiness, not public closure
+
+================================================================================
+B. GAME 3 PROMOTIONAL NORMALIZATION
+================================================================================
+
+Romeo Game 3 — NO KINGS
+Campaign identity safe to normalize:
+- working campaign title recommendation remains NO KINGS
+- internal progression phrase remains block by block
+- Boston should market as a struggle over what victory means and who defines post-liberation America
+
+Promo handling rule:
+- early materials should foreground lived city pressure, local ownership, and coalition friction / utility rather than generic uprising spectacle
+- BODYWORK, THE RIGHT RIFLE, LIFELINE, and HOLDFAST are now valid source-landed anchor references for internal promo guidance
+
+
+Ducky Game 3 — FAILSAFE
+Campaign identity safe to normalize:
+- FAILSAFE is now the stable working campaign title
+- promo framing should emphasize recovery-state coalition work under damaged trust
+
+Promo handling rule:
+- avoid selling FAILSAFE as a clean post-exposure reboot
+- strongest internal promo read is systems-level survival, verification, and what can still be responsibly rebuilt
+
+
+Spook Game 3 — DARK SKIES
+Campaign identity safe to normalize:
+- DARK SKIES is now the stable working campaign title
+- opening identity should reflect the restored Dawn of Mercy / Mercy Line / Order and Progress / Outer Port block before the later wrong-signature architecture lane
+
+Promo handling rule:
+- do not summarize DARK SKIES as a Yunnan-first Far East access thriller only
+- its promo identity should reflect widened war opportunism, private-power transition, and the strategic unmasking of a much larger storm
+
+================================================================================
+C. CROSS-CAMPAIGN PROMO / STYLE RULES TO RETAIN
+================================================================================
+
+- character promos use the established seven-part structure
+- use silence and restraint as active tools
+- diegetic sound punctuation remains a recurring preferred technique
+- environmental music stays world-texture first, not a replacement for the locked campaign anchor identity tracks
+- productive dissonance remains preferred to literal mood-matching
+
+================================================================================
+D. REV5 REPLACEMENT LANGUAGE
+================================================================================
+
+Replace any repo-facing promotional summary language that still implies:
+- AEGIS Falls remains Ducky Game 2's campaign title
+- FAILSAFE and DARK SKIES remain unnamed or undeveloped Game 3 placeholders
+- Game 3 internal promo handling should still be built around older fragmentary summary blocks
+
+With:
+- the identity / tagline / promo-handling blocks in this file
+
+================================================================================
+END OF FILE
+================================================================================
