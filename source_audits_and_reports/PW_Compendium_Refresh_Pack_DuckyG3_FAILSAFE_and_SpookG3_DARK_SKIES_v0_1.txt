@@ -1,0 +1,71 @@
+PROJECT WARRIORS — COMPENDIUM REFRESH PACK
+Title: PW_Compendium_Refresh_Pack_DuckyG3_FAILSAFE_and_SpookG3_DARK_SKIES_v0_1
+Status: repo-facing refresh pack
+Purpose: update the working compendia so they reflect the now-resolved Ducky Game 3 and Spook Game 3 structure instead of the older undeveloped / fragments-only / Yunnan-first placeholder state.
+
+Core / Timeline refresh
+- Treat Ducky Game 3 / FAILSAFE as a structured working campaign rather than an undeveloped placeholder.
+- Treat Spook Game 3 / DARK SKIES as a structured working campaign rather than a fragmentary Yunnan-first placeholder.
+
+Replacement summary blocks
+Ducky Game 3 — FAILSAFE
+- post-Tremblay-confrontation recovery-state coalition lane
+- four-act structure: Broken Picture / The Verification War / Selective Restoration / Failsafe
+- campaign identity: coalition recovery under damaged trust
+
+Spook Game 3 — DARK SKIES
+- reconciled structure with restored opening act before the older Yunnan / Wei material
+- four-act structure: Bad Omens / Private Route / Wrong Signature / Dark Skies
+- opening sequence: Dawn of Mercy -> Mercy Line -> Order and Progress -> Outer Port
+- Outer Port locked as the Japan contact mission
+- Cephaly Splice restored into early structure
+- older La Avispa / Yunnan / Wei prototype retained, but moved later as the access / wrong-signature / architecture-expansion phase
+- Fracture Map replaces the earlier placeholder title
+
+Characters / DLC refresh
+Ducky Game 3 active cast:
+- Ducky, Frost, Lupin, Switchblade
+- Walker and Halliday as active post-breach command / accounting figures
+- Soraya as promoted support figure
+- Tremblay treated as resolved Game 2 consequence only
+
+Spook Game 3 active cast:
+- Spook, Tripper, Smoke
+- La Avispa, Regent, Hartwell
+- Wei Junlong and Lin Yueh-ting
+- Sakhalin / Procella bridge note if retained
+
+Missions / Scenes / Cinematics refresh
+Ducky Game 3 mission ladder:
+1. Cold Start
+2. Ghost Map
+3. Narrow Band
+4. Clean Room
+5. Handshake
+6. Cutout
+7. Load Bearing
+8. Human Factor / Dusan insertion point
+9. Second Order
+10. No Defaults
+11. Failsafe
+12. Built to Hold
+
+Spook Game 3 mission ladder:
+1. Dawn of Mercy
+2. Mercy Line
+3. Order and Progress
+4. Outer Port
+5. Cephaly Splice
+6. Manifest Line
+7. South Culvert
+8. Crosswind
+9. False Color
+10. Quiet Response
+11. Fracture Map
+12. Specification
+13. Dark Skies
+
+Flags to close now:
+- Ducky Game 3 entirely undeveloped
+- Game 3 campaign structure only fragments sketched for Ducky and Spook
+- Spook Game 3 summarized primarily through the older Yunnan-first prototype
