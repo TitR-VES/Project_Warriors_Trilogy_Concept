@@ -1,0 +1,34 @@
+PROJECT WARRIORS — SOURCE LANDING SUMMARY
+Title: PW_Source_Landing_Summary_Game2_and_Game3_Campaigns_rev5_2026-05-05
+Status: source-ready landing summary
+Scope: Game 2 and Game 3 campaign consolidation into the repo-facing knowledge layer and PR #7 branch
+
+Why this landing was needed
+- the PR branch still carried the older rev2 compendium layer
+- visible repo-side source landing had advanced materially past the branch's summary documents
+- FAILSAFE and DARK SKIES had already been normalized in side docs, but the main knowledge layer still lagged
+- NO KINGS had visible Boston mission source pages in-branch that the summary layer still understated
+- Game 2 campaigns were structurally clearer than the branch's placeholder-level summary language suggested
+
+What this landing updates
+- adds rev5 compendium refreshes for Core / Timeline, Characters / DLC, Missions / Scenes / Cinematics, and Promotional / Sidebar Development
+- records Game 2 campaigns as structured source-ready campaigns at compendium level
+- records Game 3 campaigns as materially more source-landed than the older branch-visible summary layer implied
+- keeps an explicit scope wall between compendium-ready normalization and full screenplay-grade source saturation
+
+Flags closed by this landing
+- Ducky Game 3 as undeveloped placeholder in the visible knowledge layer
+- Spook Game 3 as primarily Yunnan-first placeholder in the visible knowledge layer
+- Romeo Game 3 as only act-title-level Boston architecture in the visible knowledge layer
+- Game 2 campaigns treated as broad sequel placeholders in the visible knowledge layer
+
+Flags intentionally left live
+- fully detailed end-to-end Game 2 source packet parity
+- HINGE / A-10 suburban set piece source landing
+- exact day-level cross-campaign timeline normalization
+- Dusan dedicated FAILSAFE source page if retained
+- Sakhalin / Procella dedicated bridge page if formalized further
+- deeper Who Dares Wins / British package parity beyond the current Boston-side landed subset
+
+PR placement note
+This landing is added directly to the existing PR #7 head branch so it can be reviewed together with the earlier Game 3 reconciliation materials rather than opening a second parallel PR.
