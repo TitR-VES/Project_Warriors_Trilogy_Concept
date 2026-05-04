@@ -1,0 +1,172 @@
+PROJECT WARRIORS — WORKING COMPENDIUM
+Compendium: 05 Missions / Scenes / Cinematics
+Generated: 2026-05-05
+Version: rev5
+
+PURPOSE
+This rev5 refresh updates the missions / scenes / cinematics knowledge layer so the repo-facing summary set reflects the Game 2 and Game 3 campaign material that is now clearly ready for source landing. This file is intentionally narrower than a full screenplay bundle. It is a mission-anchor and protected-beat normalization pass.
+
+================================================================================
+A. GAME 2 MISSION / SCENE NORMALIZATION
+================================================================================
+
+Romeo Game 2 — AMERICAN FREEDOM
+Mission anchors safe to normalize:
+- Low Ground
+- Dead Air
+- The Redbud Vehicles
+- Farm Road
+- Second Level
+- ANGEL
+
+Protected mission / scene beats to retain:
+- Red Dawn-style paratrooper callback over the Smoky Mountains as a navigation / trailer-grade image
+- ANGEL uses Aldridge spelling, quad-cab Ford F-150, bed-mounted M240B, two-can ammo constraint, and the protected AC-130 angel-wing finish
+- closing line remains protected:
+  - "Don't mention it. American Freedom, over."
+
+Safe compendium statement:
+American Freedom now has stable mission anchors and protected late-campaign scene logic. It should no longer be summarized as a broad domestic-resistance sequel placeholder.
+
+
+Ducky Game 2 — PERSISTENT THREAT
+Mission ladder safe to normalize:
+- Cold Open
+- Dead Frequency
+- Hard Winter
+- Permafrost
+- Hull Breach
+- AEGIS Falls
+
+Protected mission / scene beats to retain:
+- ARTEMIS belongs in Dead Frequency
+- TYPHON belongs in Permafrost
+- KERAUNOS / PHAETON / ICARUS scene logic remains part of the campaign's cinematic identity
+- campaign culminates in Tremblay confrontation and post-trust choice rather than procedural institutional closure
+
+Safe compendium statement:
+Persistent Threat now has a stable mission ladder and protected strategic-scene placements. Replace any older fragmentary summary language accordingly.
+
+
+Spook Game 2 — GODKILLER
+Mission ladder safe to normalize:
+- The Wasp's Nest
+- Dead Letters
+- Ghost Signal
+- Safe House
+- Haverford
+- Regent
+- Come Fly With Me
+- Sins of Our Fathers
+
+Protected mission / scene beats to retain:
+- the campaign is structurally three-track, but these titles are now safe mission-level anchors
+- ending exchange remains protected:
+  - "Ask me again."
+  - "Give me a minute... Okay. I'm ready."
+
+Safe compendium statement:
+Godkiller should now be summarized as a mission-bearing campaign rather than a sequel setup cloud around Regent / Budanova / Goldberg.
+
+================================================================================
+B. GAME 3 MISSION / SCENE NORMALIZATION
+================================================================================
+
+Romeo Game 3 — NO KINGS
+Mission anchors safe to normalize now:
+- ROLL CALL
+- DAY WINDOW
+- HINGE
+- THE POCKET
+- THE RIGHT RIFLE
+- LIFELINE
+- HOLDFAST
+- BODYWORK
+
+Protected scene / mission notes to retain:
+- HINGE and the A-10 suburban attack-run concept remain partial / concept-level and should not be overstated
+- THE RIGHT RIFLE remains the late Act II hinge with the protected line:
+  - "That one was a rifle you carried in Boston. This one's a Boston rifle."
+- LIFELINE is the first hard proof of a British-backed CASEVAC corridor inside Boston
+- HOLDFAST is the first proof that the corridor can keep blood moving under pressure after LIFELINE
+- BODYWORK is the Van Hult civic-reclamation branch and remains optional but active working canon
+- BODYWORK retains the BOSTON BUBBLE decompression beat and the rule:
+  - it breaches as a weapon, then is reclaimed as infrastructure
+
+Safe compendium statement:
+NO KINGS now has enough mission-facing Boston source pages that the campaign should no longer be represented only by four-act labels and general thesis language.
+
+
+Ducky Game 3 — FAILSAFE
+Mission ladder safe to normalize:
+- Cold Start
+- Ghost Map
+- Narrow Band
+- Clean Room
+- Handshake
+- Cutout
+- Load Bearing
+- Human Factor
+- Second Order
+- No Defaults
+- Failsafe
+- Built to Hold
+
+Safe compendium statement:
+FAILSAFE now has a stable mission ladder and should replace undeveloped-placeholder summary language in repo-facing campaign references.
+
+
+Spook Game 3 — DARK SKIES
+Mission ladder safe to normalize:
+- Dawn of Mercy
+- Mercy Line
+- Order and Progress
+- Outer Port
+- Cephaly Splice
+- Manifest Line
+- South Culvert
+- Crosswind
+- False Color
+- Quiet Response
+- Fracture Map
+- Specification
+- Dark Skies
+
+Protected mission notes to retain:
+- Outer Port is the Japan contact mission
+- Cephaly Splice belongs in the early campaign block
+- the older La Avispa / Yunnan / Wei access prototype is retained but moved later into the Wrong Signature / architecture-expansion lane
+- Fracture Map replaces the earlier placeholder late-campaign title
+
+Safe compendium statement:
+DARK SKIES now has a stable reconciled mission ladder and should no longer be summarized primarily through the older Yunnan-first prototype.
+
+================================================================================
+C. CROSS-CAMPAIGN MISSION STATUS CAUTION
+================================================================================
+
+This rev5 file is safe to use as a knowledge-layer update because:
+- the Game 3 Romeo Boston pages for LIFELINE / HOLDFAST / BODYWORK are visible repo-side
+- the Game 3 Spook reconciliation page and refresh pack are visible repo-side
+- the current Game 2 ladders and protected beats are stable enough to summarize at compendium level
+
+This rev5 file is not a claim that:
+- every Game 2 or Game 3 mission has a full screenplay or dedicated deep source page
+- every bridge mission has exact day-level timeline normalization completed
+- all British / Procella / Sakhalin side dependencies are fully closed
+
+================================================================================
+D. REV5 REPLACEMENT LANGUAGE
+================================================================================
+
+Replace any repo-facing mission summary language that still implies:
+- Ducky Game 3 and Spook Game 3 are still only fragmentary Game 3 sketches
+- Romeo Game 3 Boston lacks source-landed mission anchors
+- the Game 2 sequel campaigns remain mission-title-light broad concepts only
+
+With:
+- the mission-anchor blocks in this file, keeping the caution notes intact
+
+================================================================================
+END OF FILE
+================================================================================
