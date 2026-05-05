@@ -1,0 +1,26 @@
+PROJECT WARRIORS — ARCHIVAL MILESTONE LANDING SUMMARY
+Title: PW_Archival_Milestone_Landing_Summary_rev5_2026-05-05
+Status: source-ready landing summary
+Scope: separate archival / memory-patch branch based off main
+
+Purpose
+This landing exists to preserve separation between:
+- the campaign-compendium uplift already added on the PR #7 branch
+- the milestone-grade archival master / memory integration patch refresh
+
+Files included in this branch
+- Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-05-05_rev5.txt
+- Project_Warriors_Knowledge_Compendia/PW_Archival_Master_2026-05-05_rev5.txt
+
+What this landing does
+- records the May 2026 milestone normalization state for Game 2 and Game 3 campaign architecture
+- provides a durable rev5 memory patch reflecting the current safe campaign-consolidation locks
+- provides a compact rev5 archival master that points future milestone refreshes at the rev5 patch rather than re-monolithizing the whole project corpus
+
+What this landing intentionally does not do
+- it does not duplicate the campaign-compendium refresh files from PR #7
+- it does not claim screenplay-grade source parity across all campaigns
+- it does not close still-live dependencies like HINGE / A-10, Dusan if retained, or Sakhalin / Procella bridge formalization
+
+Review guidance
+This PR should be reviewed as a governance / milestone-ballast refresh, not as a broad source-authoring pass.
