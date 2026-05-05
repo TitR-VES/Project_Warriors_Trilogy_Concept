@@ -1,0 +1,46 @@
+PROJECT WARRIORS — SOURCE LANDING SUMMARY
+Package: Game 4 Restoration Direction and Seed Pack
+Generated: 2026-05-05
+Version: rev1
+Status: reviewable source-side addition
+
+PURPOSE
+This landing summary records the addition of a new source-side development page for a possible fourth mainline Project Warriors installment. The addition is intended to preserve the newly developed Game 4 direction in a durable authoring layer without prematurely forcing first-draft sequel material into the working compendia.
+
+FILE ADDED
+- dev_src_docs/story_campaigns/Game4/Shared/PW_Game4_Restoration_Era_Sequel_Direction_and_Seed_Pack_2026-05-05_rev1.txt
+
+WHAT THE NEW SOURCE PAGE COVERS
+- Game 4 directional ruling: restoration-era sequel, not war-restart sequel
+- sequel-pressure keyword guidance: Vigilance as the preferred Game 4 extension concept following Fracture / Resistance / Restoration
+- working campaign title set:
+  - Command Authority
+  - Common Picture
+  - Permanent Record
+- high-level three-campaign thesis direction for Romeo, Ducky, and Spook
+- return/support asset notes for André Bridges, Jaeger, Soraya Probst, and Lucas Hill
+- Buenos Aires fugitive lane for Gillian Stockbridge under the assumed identity Lana Erika Delhardt
+- RelCom Media S.A. cover-employment shell and Puerto Madero / Torres Mulieris environmental note
+- Pacific / Japan character seed structure for Jiro Watanabe, Aiko Nakamura, and Hideki Minata
+
+WHY THIS WAS LANDED AS A SOURCE PAGE FIRST
+The repo lifecycle guidance treats dev_src_docs as the primary active-authoring layer and advises against using compendia as the place where first-draft durable material lives.
+
+This package therefore lands first as a source page because:
+- the material is strong enough to preserve
+- the material is still early enough to remain in development mode
+- compendium refresh is better deferred until the sequel direction matures and the campaign structures are more fully developed
+
+CURRENT SCOPE NOTE
+This landing does not yet:
+- refresh the working compendia
+- update the archival master
+- create a dedicated Home Defense source page
+- create full mission ladders or act structures for the three Game 4 campaigns
+- hard-lock full biographies for the Japanese seed characters
+
+RECOMMENDED NEXT STEPS
+1. Build the Game 4 three-campaign act / mission architecture.
+2. Expand the Permanent Record Buenos Aires / Gillian hunt lane into a dedicated mission or sub-arc source page if it remains favored.
+3. Assess whether the Pacific seed characters belong first in Home Defense, Game 4 coalition material, or Lucas Hill support development.
+4. Refresh compendia only after the new source-side material reaches a more stable level.
