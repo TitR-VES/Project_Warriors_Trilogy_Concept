@@ -1,0 +1,188 @@
+PROJECT WARRIORS — MEMORY INTEGRATION PATCH
+Generated: 2026-05-05
+Version: rev5
+Purpose: milestone-grade normalization of currently loaded project-memory locks, visible repo-side source landing, and late-thread campaign outcomes through the May 2026 Game 2 / Game 3 consolidation pass.
+
+================================================================================
+01. SOURCE MODEL / WORKFLOW
+================================================================================
+- Maintain one archival master plus six working compendia as the repo's normalized knowledge layer.
+- Edit source-of-truth files first, then refresh the working compendia.
+- Treat the archival master as milestone ballast rather than the everyday working file.
+- Keep a strict distinction between compendium-ready normalization and screenplay-grade source coverage.
+
+================================================================================
+02. TIMELINE CANON / DATE OVERRIDES
+================================================================================
+- PANDORA attacks are canonically Thursday, September 7, 2028.
+- The U.S. presidential election is canonically Tuesday, November 7, 2028.
+- Hudson Overlook is the same day as the PANDORA attacks: September 7, 2028.
+- Cold Frontier 07 remains anchored in early March 2007.
+- Glushkin activation / Lebedev-linked Boston staging begins June 4, 2028.
+- Crodyn's wartime address remains the main cross-campaign Game 2 synchronization fulcrum.
+- Until inherited timeline files are fully refreshed, prefer broader windows over false day-count precision.
+
+================================================================================
+03. GAME 2 CAMPAIGN CONSOLIDATION LOCKS
+================================================================================
+
+Romeo Game 2 — AMERICAN FREEDOM
+- Treat American Freedom as a structured Kentucky resistance campaign rather than a generic sequel placeholder.
+- Stable mission anchors now safe to normalize in summary layers include:
+  - Low Ground
+  - Dead Air
+  - The Redbud Vehicles
+  - Farm Road
+  - Second Level
+  - ANGEL
+- Preserve the Red Dawn paratrooper callback over the Smoky Mountains as a trailer-grade and navigation-grade campaign image.
+- Preserve ANGEL canon refinement: Aldridge spelling, quad-cab Ford F-150, bed-mounted M240B, two-can ammo constraint, and protected AC-130 angel-wing finish.
+- Preserve the closing line: "Don't mention it. American Freedom, over."
+
+Ducky Game 2 — PERSISTENT THREAT
+- Treat Persistent Threat as the canonical Game 2 campaign title; retire any residual use of AEGIS Falls as the campaign title.
+- Stable mission anchors now safe to normalize include:
+  - Cold Open
+  - Dead Frequency
+  - Hard Winter
+  - Permafrost
+  - Hull Breach
+  - AEGIS Falls
+- Preserve the campaign investigation spine:
+  - The Parameters
+  - The Architecture
+  - The Credential
+  - What Ducky Does With It
+- Preserve the end-state line pair:
+  - "AEGIS falls regardless."
+  - "Then we build something better."
+
+Spook Game 2 — GODKILLER
+- Treat Godkiller as a structured three-track campaign rather than a loose sequel-hook bundle.
+- Stable mission anchors now safe to normalize include:
+  - The Wasp's Nest
+  - Dead Letters
+  - Ghost Signal
+  - Safe House
+  - Haverford
+  - Regent
+  - Come Fly With Me
+  - Sins of Our Fathers
+- Preserve the campaign's three-track architecture:
+  - Spook = Budanova / Goldberg pursuit
+  - Tripper = Hartwell / Vela 2 / buried architecture
+  - Smoke = covert resistance sustainment / AFC overlap
+- Preserve the ending exchange:
+  - "Ask me again."
+  - "Give me a minute... Okay. I'm ready."
+
+================================================================================
+04. GAME 3 CAMPAIGN CONSOLIDATION LOCKS
+================================================================================
+
+Romeo Game 3 — NO KINGS
+- Romeo comes to Boston to help free a city and discovers he is really fighting over who gets to define America after liberation.
+- Working campaign title recommendation remains NO KINGS.
+- Internal progression phrase remains block by block.
+- Four-act structure remains:
+  - Eastbound War
+  - Neighborhood War
+  - Harbor and the Shadow Government
+  - What Victory Is For
+- Treat the Kentucky -> Boston bridge as partial existing work rather than blank missing authoring.
+- Stable bridge / Act I anchors now safe to normalize include:
+  - ROLL CALL
+  - DAY WINDOW
+  - HINGE
+  - THE POCKET
+- The following Boston mission nodes are now safe to treat as source-landed anchors in repo-facing summary layers:
+  - THE RIGHT RIFLE
+  - LIFELINE
+  - HOLDFAST
+  - BODYWORK
+- Keep HINGE / the A-10 suburban attack-run concept marked as still partial and not fully screenplay-landed.
+
+Ducky Game 3 — FAILSAFE
+- Treat FAILSAFE as the stable working campaign title.
+- Campaign identity: post-Tremblay-confrontation coalition recovery under damaged trust.
+- Four-act structure:
+  - Broken Picture
+  - The Verification War
+  - Selective Restoration
+  - Failsafe
+- Stable mission ladder now safe to normalize in repo-facing knowledge layers:
+  - Cold Start
+  - Ghost Map
+  - Narrow Band
+  - Clean Room
+  - Handshake
+  - Cutout
+  - Load Bearing
+  - Human Factor
+  - Second Order
+  - No Defaults
+  - Failsafe
+  - Built to Hold
+
+Spook Game 3 — DARK SKIES
+- Treat DARK SKIES as the stable working campaign title.
+- Campaign identity: deep-route strategic unmasking; the domestic false flag is only one layer inside a wider opportunistic storm.
+- Four-act structure:
+  - Bad Omens
+  - Private Route
+  - Wrong Signature
+  - Dark Skies
+- Stable mission ladder now safe to normalize:
+  - Dawn of Mercy
+  - Mercy Line
+  - Order and Progress
+  - Outer Port
+  - Cephaly Splice
+  - Manifest Line
+  - South Culvert
+  - Crosswind
+  - False Color
+  - Quiet Response
+  - Fracture Map
+  - Specification
+  - Dark Skies
+- Preserve the reconciliation note:
+  - Outer Port is the Japan contact mission.
+  - The older La Avispa / Yunnan / Wei prototype is retained, but moved later rather than serving as the opening campaign identity.
+
+================================================================================
+05. CHARACTER / ROLE LOCKS RELEVANT TO GAME 2 / GAME 3
+================================================================================
+- Ducky remains calm, exact, dry, methodical, pressure-flattening, and morally stubborn.
+- Pat Napier remains practical, sustainment-oriented, medic-forward, and visually non-operator-aesthetic.
+- Elena Costa is the local armed center of gravity in Boston, not a background guide.
+- Eamonn Kearney is Boston's hidden armorer / repair specialist / sustainment node, not a vendor-first trope.
+- Lt. Dorothy Anne Vickers's authority should come through exactness, timing, and throughput rather than speeches.
+- Mitchell Van Hult remains a civic-reclamation figure rather than revenge-fantasy caricature.
+- Wei Junlong and Lin Yueh-ting should be treated as real strategic actors in DARK SKIES rather than background worldbuilding names.
+
+================================================================================
+06. MISSION / SCENE LOCKS RELEVANT TO GAME 2 / GAME 3
+================================================================================
+- ARTEMIS belongs in Dead Frequency.
+- TYPHON belongs in Permafrost.
+- THE RIGHT RIFLE remains the late Act II hinge in NO KINGS.
+- LIFELINE is the first hard proof of a British-backed CASEVAC corridor inside Boston.
+- HOLDFAST proves the corridor can keep blood moving under pressure after LIFELINE.
+- BODYWORK remains active working canon as the Van Hult civic-reclamation branch.
+- BODYWORK retains the BOSTON BUBBLE decompression beat and the end-state rule: it breaches as a weapon, then is reclaimed as infrastructure.
+
+================================================================================
+07. STATUS / SCOPE CAUTIONS
+================================================================================
+- This patch is safe to use as milestone-grade normalization of current campaign state.
+- It is not a claim that every Game 2 or Game 3 campaign already has full screenplay-grade source coverage.
+- Detailed Game 2 end-to-end packet parity remains uneven.
+- HINGE / the A-10 suburban set piece remains a live partial-source dependency.
+- Dusan remains a live dedicated-source dependency in FAILSAFE if retained.
+- Sakhalin / Procella remains cleaner as a dedicated bridge page if formalized further.
+- Exact day-level cross-campaign normalization remains broader-window-first.
+
+================================================================================
+END OF FILE
+================================================================================
