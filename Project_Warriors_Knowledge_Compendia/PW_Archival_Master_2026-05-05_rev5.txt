@@ -1,0 +1,88 @@
+PROJECT WARRIORS — ARCHIVAL MASTER
+Generated: 2026-05-05
+Version: rev5
+
+PURPOSE
+This archival master is the milestone-grade consolidated reference package for the May 2026 campaign-consolidation pass. It is intended to sit above the working compendia as durable ballast and to record the current safe normalization state of Game 2 and Game 3 campaign architecture.
+
+SCOPE NOTE
+This archival master records what is safe to state from the accessible repo state and current project-memory locks. It is not proof that every campaign already has full screenplay-grade parity or that every deeper source packet has been reconciled.
+
+CONTENTS
+- milestone workflow note
+- rev5 campaign normalization note
+- rev5 memory integration patch reference block
+- explicit live-scope cautions
+
+================================================================================
+A. MILESTONE WORKFLOW NOTE
+================================================================================
+
+This archival master should be treated as:
+- milestone ballast
+- migration-grade reference
+- a durable summary of the current normalized campaign state
+
+This archival master should not be treated as:
+- the primary day-to-day authoring file
+- a substitute for deeper source pages in dev_src_docs/
+- a claim that all late-thread work has been rewritten into one monolithic document
+
+================================================================================
+B. MAY 2026 CAMPAIGN NORMALIZATION NOTE
+================================================================================
+
+Game 2 campaigns now safe to treat as structured at milestone level:
+- Romeo Game 2 — AMERICAN FREEDOM
+- Ducky Game 2 — PERSISTENT THREAT
+- Spook Game 2 — GODKILLER
+
+Game 3 campaigns now safe to treat as structured at milestone level:
+- Romeo Game 3 — NO KINGS
+- Ducky Game 3 — FAILSAFE
+- Spook Game 3 — DARK SKIES
+
+Milestone statement:
+The repo's visible knowledge layer should no longer describe Game 2 as broad sequel-placeholder territory or Game 3 as mostly fragmentary act-title-only architecture. The campaigns above now have stable enough working identities, structural blocks, and mission anchors to justify milestone-grade normalization.
+
+================================================================================
+C. REV5 MEMORY INTEGRATION PATCH REFERENCE BLOCK
+================================================================================
+
+The authoritative milestone patch for this archival master pass is:
+- PW_Project_Memory_Integration_Patch_2026-05-05_rev5.txt
+
+That patch records:
+- timeline/date overrides that remain active
+- Game 2 campaign consolidation locks
+- Game 3 campaign consolidation locks
+- relevant character / role locks
+- relevant mission / scene locks
+- the explicit scope cautions for what remains only partial
+
+Use that patch as the first reference whenever a future milestone refresh needs to know what was considered safe to normalize in May 2026.
+
+================================================================================
+D. LIVE-SCOPE CAUTIONS RETAINED AT MILESTONE LEVEL
+================================================================================
+
+The following still remain intentionally live or partial after this archival pass:
+- detailed end-to-end Game 2 source packet parity remains uneven
+- HINGE / the A-10 suburban set piece remains a live partial-source dependency
+- Dusan remains a live dedicated-source dependency in FAILSAFE if retained
+- Sakhalin / Procella remains cleaner as a dedicated bridge page if formalized further
+- exact day-level cross-campaign normalization remains broader-window-first rather than fully closed
+- deeper Who Dares Wins / broader British-package parity remains outside the scope of this archival-only pass
+
+================================================================================
+E. CLEAN MILESTONE SUMMARY
+================================================================================
+
+May 2026 rev5 archival state:
+- the repo now has a clean separation between the campaign-compendium uplift branch and the archival / memory-patch milestone branch
+- Game 2 and Game 3 campaign architecture is materially more normalized than the older rev2/rev3 milestone state implied
+- the project retains a strict boundary between source-ready normalization and overclaiming full source saturation
+
+================================================================================
+END OF FILE
+================================================================================
