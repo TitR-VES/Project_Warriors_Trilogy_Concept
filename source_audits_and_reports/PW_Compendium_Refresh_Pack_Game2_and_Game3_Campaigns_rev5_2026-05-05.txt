@@ -1,0 +1,33 @@
+PROJECT WARRIORS — COMPENDIUM REFRESH PACK
+Title: PW_Compendium_Refresh_Pack_Game2_and_Game3_Campaigns_rev5_2026-05-05
+Status: repo-facing refresh pack
+Purpose: normalize the repo's visible knowledge layer so it reflects the Game 2 and Game 3 campaigns that are now safe to treat as source-ready at compendium level.
+
+Included rev5 files
+- Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-05-05_rev5.txt
+- Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-05-05_rev5.txt
+- Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-05-05_rev5.txt
+- Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-05-05_rev5.txt
+
+What this refresh normalizes
+
+Game 2
+- American Freedom now treated as a structured Kentucky resistance campaign with stable mission anchors and protected late-campaign beats
+- Persistent Threat now treated as a structured strategic-attribution campaign with stable ladder and protected end-state language
+- Godkiller now treated as a structured three-track campaign with stable mission anchors and protected ending exchange
+
+Game 3
+- NO KINGS now treated as more than act-title-only Boston architecture because the branch contains visible source-landed pages for THE RIGHT RIFLE, LIFELINE, HOLDFAST, and BODYWORK
+- FAILSAFE now treated as a stable working campaign instead of an undeveloped placeholder
+- DARK SKIES now treated as a reconciled structured campaign instead of a Yunnan-first placeholder summary
+
+Strict scope note
+This refresh is intentionally stricter than a full archival-master rewrite.
+It updates the visible knowledge layer and governance note set without pretending that every campaign already has a complete screenplay-grade mission packet tree in this branch.
+
+Still-live / partial items after this refresh
+- detailed end-to-end Game 2 source pages beyond the compendium layer remain unevenly distributed
+- HINGE / A-10 suburban set piece remains concept-level rather than fully landed
+- Dusan dedicated FAILSAFE page remains a live dependency if retained
+- Sakhalin / Procella bridge remains cleaner as a dedicated source page if formalized further
+- exact day-level cross-campaign timeline normalization remains broader-window-first

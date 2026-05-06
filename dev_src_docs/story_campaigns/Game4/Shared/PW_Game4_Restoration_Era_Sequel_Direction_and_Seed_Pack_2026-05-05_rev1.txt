@@ -1,0 +1,295 @@
+PROJECT WARRIORS — GAME 4 / RESTORATION-ERA SEQUEL DIRECTION AND SEED PACK
+Generated: 2026-05-05
+Version: rev1
+Status: DEVELOPMENT / SOURCE-SIDE SKETCH
+Purpose: establish a reviewable source-side direction for a possible fourth mainline installment, including campaign-level framing, sequel-era thematic logic, selected returning-support asset notes, the Buenos Aires Stockbridge fugitive lane, and initial Pacific/Japan character seeds.
+
+================================================================================
+01. CORE DIRECTIONAL RULING
+================================================================================
+
+A fourth mainline Project Warriors installment is narratively viable if treated as a restoration-era sequel rather than a war-restart sequel.
+
+The game should not:
+- invent a larger hidden architect than Goldberg
+- undo the gains or meaning of Game 3 merely to restart the conflict loop
+- present restoration as clean, settled, technocratic, or morally neutral
+- resolve the world into a neat peace-state or full-justice ending
+
+The game should treat its central condition as the dangerous middle of restoration:
+- some fronts are cooling unevenly rather than vanishing cleanly
+- institutions are returning, but legitimacy is contested
+- infrastructure recovery is underway, but trust remains damaged
+- public truth, institutional truth, and usable justice remain in tension
+- wartime actors, resistance movements, and coalition partners now disagree over what the rebuilt order should become
+
+This direction extends the already locked trilogy arc without replacing it.
+
+================================================================================
+02. THEMATIC FRAMING
+================================================================================
+
+Locked trilogy arc remains:
+Fracture. Resistance. Restoration.
+
+Preferred Game 4 extension / sequel-pressure keyword:
+Vigilance.
+
+Use rule:
+- Do not retroactively convert the trilogy into a four-term slogan.
+- Treat Vigilance as the pressure concept that follows from Restoration.
+- Restoration begins the rebuild; Vigilance is what keeps that rebuild from being captured, laundered, or turned into permanent emergency authority.
+
+Why Vigilance fits more cleanly than Choice:
+- the restored order remains vulnerable to capture, distortion, and partial truth
+- justice can still be professionally buried after the peak war period declines
+- conspiracy remnants, collaborators, and opportunists remain active
+- the rebuilt order must be watched, defended, and morally checked
+- the danger is no longer only invasion or occupation, but the misuse of recovery itself
+
+Choice remains important at the character and mission level, but is too broad to function as the primary sequel-era keyword.
+
+================================================================================
+03. TIMEFRAME GUIDANCE
+================================================================================
+
+Do not hard-lock a precise start date yet.
+
+Preferred direction:
+roughly 12–24 months after the close of Game 3, treated with broad-window continuity rather than false precision.
+
+This preserves:
+- visible physical recovery
+- enough surviving instability for meaningful conflict
+- the presence of tribunals, commissions, aid corridors, reconstruction nodes, and coalition bargaining
+- the sense that the war has changed register rather than simply ended
+
+================================================================================
+04. WORKING CAMPAIGN TITLE SET
+================================================================================
+
+Romeo campaign title:
+COMMAND AUTHORITY
+
+Ducky campaign title:
+COMMON PICTURE
+
+Spook campaign title:
+PERMANENT RECORD
+
+Associated note:
+FAULT TOLERANCE remains a strong reserve sub-arc / act title inside Ducky’s campaign rather than the preferred campaign-wide title.
+
+================================================================================
+05. OVERALL GAME 4 THESIS
+================================================================================
+
+Project Warriors IV is not about ending the war.
+It is about fighting over what restoration becomes.
+
+Primary sequel-scale questions:
+- who gets to govern after liberation
+- what kind of system is rebuilt, and for whom
+- which truths become admissible, survivable, or suppressible
+- whether wartime legitimacy yields to civilian legitimacy
+- whether the rebuild restores the republic, preserves emergency rule, or creates a new managed order wearing democratic language
+
+================================================================================
+06. THREE-CAMPAIGN ARCHITECTURE — V0.1
+================================================================================
+
+A) ROMEO — COMMAND AUTHORITY
+Theme: what becomes of a resistance when it starts winning.
+
+Core issue:
+Romeo’s campaign is no longer only about defeating occupation remnants. It is about whether postwar authority becomes republican restoration, prolonged emergency rule, or something uglier disguised as patriotic necessity.
+
+Key direction:
+- AFC / post-AFC legitimacy struggle
+- conflict between local armed authority and returning civilian authority
+- collaborators, opportunists, and wartime actors who resist normalization
+- public pressure to mythologize Romeo into a political or quasi-military symbol
+- racist / reactionary / exclusionary American currents re-entering the bloodstream once common external occupation pressure declines
+- tension between short-term stability and genuine civilian restoration
+
+Important support-lane note:
+André Bridges remains a strong major supporting continuity asset and should be treated as a professional counterweight to resistance mythmaking and emergency-authority drift rather than as a cameo-only figure.
+
+B) DUCKY — COMMON PICTURE
+Theme: rebuilding the system without rebuilding the lie.
+
+Core issue:
+Ducky’s campaign focuses on coalition restoration, infrastructure security, remediation of the PANDORA-damaged technical order, and widening allied fracture during the rebuild.
+
+Key direction:
+- infrastructure hardening and restoration-node defense
+- remediation bottlenecks tied to damaged trust and damaged supply chains
+- coalition partners cooperating tactically while diverging politically
+- arguments over surveillance, autonomy, security, and resilience
+- preservation of civic continuity rather than only military advantage
+- selection of known-good systems versus politically expedient systems
+
+Important support-lane note:
+This campaign is the cleanest current home for Pacific-facing expansion assets, coalition partners, and regional pressure points such as South Africa, the Middle East, and selected South American nodes, provided they function as restoration-pressure environments rather than disconnected anthology detours.
+
+C) SPOOK — PERMANENT RECORD
+Theme: justice is a field operation.
+
+Core issue:
+Spook’s campaign focuses on preventing history from being professionally laundered after enough of the truth has surfaced to make accountability possible but not safe.
+
+Key direction:
+- witness protection and witness extraction
+- archive recovery and chain-of-custody operations
+- institutional preference for survivable truth over full truth
+- legal and political pressure to narrow accountability
+- protection of commissions, tribunals, and admissible evidence paths
+- dismantling escape infrastructure for surviving architects and facilitators
+
+Major antagonist / denied-escape direction:
+Gillian Stockbridge is a preferred major denied-escape figure for Game 4 and should not be displaced by a newly invented master architect.
+
+================================================================================
+07. RETURN / SUPPORT ASSET NOTES
+================================================================================
+
+1) Karl Alexander “Jaeger” Stanzler
+Keep live as a future return asset. He already has continuity value as a PYTHIA / DAOG contact and can be reintroduced later in AEGIS-facing or cross-campaign material without feeling invented.
+
+2) Soraya Probst
+Keep live as a strong cross-system support asset suited to diplomatic-intelligence, negotiated access, or coalition-reality seams. Best current fit is Ducky and/or Spook material where truth, access, and political survivability overlap.
+
+3) Lucas Hill
+Keep live as a wider Pacific / allied field-support expansion asset. Best current fit is Home Defense, Ducky’s coalition-restoration lane, or any Pacific-facing Game 4 block that benefits from a practical partner-state field presence.
+
+================================================================================
+08. BUENOS AIRES / STOCKBRIDGE FUGITIVE LANE
+================================================================================
+
+Preferred direction:
+In Game 4 / Permanent Record, Gillian Stockbridge attempts to disappear into Buenos Aires under the assumed identity Lana Erika Delhardt.
+
+Cover-employment shell:
+RelCom Media S.A.
+
+Preferred role direction under assumed identity:
+English-language external affairs / international communications lead.
+
+Use rule:
+- the cover should feel polished, sustainable, internationally legible, and close enough to Gillian’s genuine skills to be believable over time
+- avoid making the cover too conspicuous, too glamorous, or too vague to function
+- “consultant” is weaker than a defined communications-facing role attached to a small but real company
+
+Narrative value:
+This gives Spook a strong urban hunt premise built around a morally central architect trying to turn survival into permanent respectable erasure rather than overt flight.
+
+================================================================================
+09. RELCOM MEDIA / PUERTO MADERO ENVIRONMENTAL NOTE
+================================================================================
+
+Preferred location direction:
+RelCom Media S.A. maintains its Buenos Aires executive office suite in one of the Torres Mulieris towers in Puerto Madero.
+
+Environmental identity:
+- polished luxury-residential architecture rather than a generic corporate tower feel
+- controlled access, elevators, reception flow, and executive-floor privacy
+- elevated waterfront views that strengthen both surveillance logic and visual identity
+- a high-status atmosphere that reinforces Gillian’s fugitive-cover psychology under the Delhardt identity
+
+Presentation rule:
+The setting should work in both daytime and nighttime presentation.
+
+Daytime emphasis:
+- false calm
+- respectability
+- polished civic and waterfront beauty
+- the contrast between public serenity and hidden moral ugliness
+
+Nighttime emphasis:
+- surveillance
+- concealment
+- covert pressure
+- reflections, dark water, interior lighting, and expensive silence
+
+Mission-use note:
+The Puerto Madero / Mulieris environment helps prevent the Buenos Aires lane from reading as “just another big-city hunt” and gives Permanent Record a distinctive international urban texture.
+
+================================================================================
+10. PACIFIC / JAPAN CHARACTER SEED STRUCTURE
+================================================================================
+
+Status for all three below:
+DEVELOPMENT / ACTIVE RESERVE
+
+General rule:
+Treat these characters as distinct-function Japanese support assets rather than interchangeable “Japanese contacts.”
+
+Preferred lane split:
+- Jiro Watanabe = command bridge
+- Aiko Nakamura = access bridge
+- Hideki Minata = movement bridge
+
+Do not hard-lock full biographies, exact service records, or final campaign ownership yet.
+
+A) JIRO WATANABE
+Preferred lane:
+formal military / JSDF liaison
+
+Best fit:
+Home Defense, Ducky Game 4, Lucas Hill support lane
+
+Core read:
+A serious Japanese military professional shaped by the burden of preparedness in a region that always knew large-scale contingency was possible. He should read as disciplined institutional continuity under strain, not as a nationalist icon or a bureaucratic caricature.
+
+Functional value:
+- coalition planning
+- air / maritime defense coordination
+- homeland pressure without theatrics
+- official-layer Japanese continuity
+
+B) AIKO NAKAMURA
+Preferred lane:
+intelligence / strategic-sector / state-private bridge
+
+Best fit:
+Spook Game 4, Ducky Game 4, Home Defense
+
+Core read:
+Aiko understands how modern power actually moves through access, permissions, silence, procurement, signal flow, institutional language, and the thin membrane between public administration and strategic concealment. She is strongest where intelligence, infrastructure, and survivable narrative construction intersect.
+
+Functional value:
+- infrastructure access
+- politically sensitive intelligence handoffs
+- strategic-sector liaison work
+- interpretation of what official reality is already being assembled
+
+C) HIDEKI MINATA
+Preferred lane:
+logistics / movement / infrastructure continuity
+
+Best fit:
+Ducky Game 4, Lucas Hill expansion, Home Defense, selected Spook support beats
+
+Core read:
+Hideki should feel like a materially load-bearing continuity figure: the person who knows which systems still move when official confidence is gone, which routes can still function, which manifests lie, which depots are ghosts, and which emergency workarounds only exist because somebody like him kept them alive.
+
+Functional value:
+- ports, cargo corridors, routing, depots, ferries, railheads
+- movement realism under Pacific pressure
+- recovery as a physical rather than rhetorical process
+- logistical truth that undercuts elegant but unserious plans
+
+================================================================================
+11. CURRENT RECOMMENDATION
+================================================================================
+
+Keep this entire package in active development mode as a reviewable source-side direction for Game 4.
+
+Preferred near-term follow-up order:
+1. mission / act architecture for all three Game 4 campaigns
+2. tighter Stockbridge / Buenos Aires hunt structure inside Permanent Record
+3. first-pass Home Defense / Pacific fit assessment for Jiro, Aiko, Hideki, Lucas Hill, and Soraya Probst
+4. eventual compendium refresh only after source-side direction is mature enough to justify rollup
+
+End-state rule:
+Game 4 is strongest when treated as the war of restoration, legitimacy, accountability, and vigilance.

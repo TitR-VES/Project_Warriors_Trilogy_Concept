@@ -1,0 +1,217 @@
+PROJECT WARRIORS — WORKING COMPENDIUM
+Compendium: 01 Core / Timeline
+Generated: 2026-05-05
+Version: rev5
+
+PURPOSE
+This rev5 compendium refresh consolidates the Game 2 and Game 3 campaign material that is now safe to treat as source-ready in the repo-facing knowledge layer. It is not a claim that every campaign has a fully authored mission-by-mission source page. It is a claim that the current campaign architecture, mission anchors, and protected late-thread decisions are now stable enough to replace older placeholder summary language.
+
+SCOPE RULE
+Use this file to normalize the visible knowledge layer.
+Do not treat it as permission to retire deeper repo-side source pages that carry more detail.
+
+================================================================================
+A. TRILOGY / CAMPAIGN STATUS REFRESH
+================================================================================
+
+GAME 2
+
+Romeo Game 2 — AMERICAN FREEDOM
+Campaign identity:
+- domestic resistance / counter-occupation campaign
+- AFC formation and growth under real scarcity
+- the campaign's emotional lane is not abstract patriotism but lived American fracture, local endurance, and organized return of agency
+
+Source-ready campaign anchors safe to normalize now:
+- Low Ground
+- Dead Air
+- The Redbud Vehicles
+- Farm Road
+- Second Level
+- Red Dawn paratrooper callback over the Smoky Mountains
+- ANGEL / AC-130 protected closing beat
+
+Safe compendium statement:
+American Freedom is now a structured Kentucky resistance campaign with stable early and middle mission anchors, not a blank sequel placeholder. It should be summarized as the campaign where Romeo helps build and widen the AFC under occupation pressure, with ANGEL retained as one of the key late-campaign protected moments.
+
+Status note:
+- safe to land as compendium-level structure
+- not yet safe to claim as a fully detailed end-to-end mission packet set from this repo branch alone
+
+
+Ducky Game 2 — PERSISTENT THREAT
+Campaign identity:
+- coalition security / infrastructure war / attribution-collapse campaign
+- the campaign is about protecting Europe while discovering that the official picture is structurally wrong
+- end-state is not institutional rescue but moral and operational choice under damaged trust
+
+Source-ready mission ladder safe to normalize now:
+- Cold Open
+- Dead Frequency
+- Hard Winter
+- Permafrost
+- Hull Breach
+- AEGIS Falls
+
+Protected architecture to retain in all summary layers:
+- The Parameters
+- The Architecture
+- The Credential
+- What Ducky Does With It
+- Tremblay confrontation as the load-bearing Game 2 end-state
+- protected ending line pair:
+  - "AEGIS falls regardless."
+  - "Then we build something better."
+
+Safe compendium statement:
+Persistent Threat is now a structured working campaign, not a retired-title correction case. It should be summarized as the campaign where AEGIS fights a European strategic war while the official story breaks under pressure and Ducky is forced into a post-trust choice rather than a neat institutional victory.
+
+
+Spook Game 2 — GODKILLER
+Campaign identity:
+- accountability war / whistleblower retrieval / covert resistance sustainment campaign
+- three-track structure rather than one linear pursuit lane
+- end-state is a private readiness to continue rather than public closure
+
+Source-ready mission ladder safe to normalize now:
+- The Wasp's Nest
+- Dead Letters
+- Ghost Signal
+- Safe House
+- Haverford
+- Regent
+- Come Fly With Me
+- Sins of Our Fathers
+
+Protected structure to retain in all summary layers:
+- Spook = Budanova / Goldberg pursuit lane
+- Tripper = Hartwell / Vela 2 / buried-architecture lane
+- Smoke = resistance support / clandestine sustainment lane
+- protected ending exchange:
+  - "Ask me again."
+  - "Give me a minute... Okay. I'm ready."
+
+Safe compendium statement:
+Godkiller is now source-ready as a structured three-track campaign and should no longer be summarized as a loose post–Game 1 sequel hook bundle.
+
+================================================================================
+B. GAME 3 STATUS REFRESH
+================================================================================
+
+Romeo Game 3 — NO KINGS
+Campaign thesis:
+Romeo comes to Boston to help free a city and discovers he is really fighting over who gets to define America after liberation.
+
+Four-act structure:
+- Eastbound War
+- Neighborhood War
+- Harbor and the Shadow Government
+- What Victory Is For
+
+Source-ready material safe to normalize now:
+- Kentucky -> Boston bridge recovery exists as partial prior work rather than blank missing authoring
+- stable Act I bridge anchors:
+  - ROLL CALL
+  - DAY WINDOW
+  - HINGE
+  - THE POCKET
+- stable Boston-side source pages now visible repo-side:
+  - THE RIGHT RIFLE
+  - LIFELINE
+  - HOLDFAST
+  - BODYWORK
+
+Compendium caution:
+- HINGE / A-10 suburban set piece remains concept-level and should not be overstated
+- the Boston campaign is no longer a placeholder, but not every act has a fully written mission source page yet
+
+
+Ducky Game 3 — FAILSAFE
+Campaign thesis:
+post-Tremblay-confrontation coalition recovery under damaged trust; the war shifts from exposure to verification, continuity, and deciding what can still be rebuilt without lying about the damage
+
+Four-act structure:
+- Broken Picture
+- The Verification War
+- Selective Restoration
+- Failsafe
+
+Mission ladder currently safe to normalize:
+- Cold Start
+- Ghost Map
+- Narrow Band
+- Clean Room
+- Handshake
+- Cutout
+- Load Bearing
+- Human Factor
+- Second Order
+- No Defaults
+- Failsafe
+- Built to Hold
+
+Safe compendium statement:
+FAILSAFE should now replace older undeveloped-placeholder language in repo-facing summary documents.
+
+
+Spook Game 3 — DARK SKIES
+Campaign thesis:
+deep-route strategic unmasking campaign; the domestic false flag is only one layer inside a much wider opportunistic war architecture
+
+Four-act structure:
+- Bad Omens
+- Private Route
+- Wrong Signature
+- Dark Skies
+
+Restored / reconciled ladder safe to normalize:
+- Dawn of Mercy
+- Mercy Line
+- Order and Progress
+- Outer Port
+- Cephaly Splice
+- Manifest Line
+- South Culvert
+- Crosswind
+- False Color
+- Quiet Response
+- Fracture Map
+- Specification
+- Dark Skies
+
+Protected reconciliation note:
+- Outer Port is the Japan contact mission
+- the older La Avispa / Yunnan / Wei prototype is retained but moved later instead of serving as the campaign opening identity
+
+Safe compendium statement:
+DARK SKIES is now a reconciled structured campaign and should no longer be summarized primarily through the older Yunnan-first prototype.
+
+================================================================================
+C. CROSS-CAMPAIGN TIMELINE / SYNCHRONIZATION NOTES TO RETAIN
+================================================================================
+
+- PANDORA attacks: Thursday, September 7, 2028
+- U.S. presidential election: Tuesday, November 7, 2028
+- Hudson Overlook occurs on September 7, 2028
+- Crodyn's wartime address remains the main cross-campaign Game 2 synchronization fulcrum
+- use broader windows rather than false precision when inherited timing math is still mixed across older sources
+
+================================================================================
+D. REV5 REPLACEMENT LANGUAGE
+================================================================================
+
+Replace any repo-facing summary language that still implies:
+- Ducky Game 3 is effectively undeveloped
+- Spook Game 3 is only a fragmentary Yunnan-first sketch
+- Game 2 sequel campaigns remain broad concept placeholders
+- Romeo Game 3 Boston still lacks source-landed campaign anchors beyond generic act titles
+
+With:
+- Game 2 campaigns are structured and source-ready at compendium level
+- Game 3 campaigns are materially more source-landed than older summary layers suggest
+- FAILSAFE and DARK SKIES are now stable working campaign identities
+- NO KINGS has stable Boston-side mission anchors and bridge recovery material, with explicit caution where full screenplay-level landing is still partial
+
+================================================================================
+END OF FILE
+================================================================================

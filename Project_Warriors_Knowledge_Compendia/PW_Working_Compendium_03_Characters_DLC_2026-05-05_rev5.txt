@@ -1,0 +1,138 @@
+PROJECT WARRIORS — WORKING COMPENDIUM
+Compendium: 03 Characters / DLC
+Generated: 2026-05-05
+Version: rev5
+
+PURPOSE
+This rev5 refresh updates the repo-facing character / DLC knowledge layer so it reflects the Game 2 and Game 3 campaigns that are now structurally source-ready. It is intentionally strict about the difference between a compendium-ready campaign cast block and a fully authored character packet set.
+
+================================================================================
+A. GAME 2 ACTIVE CAST NORMALIZATION
+================================================================================
+
+Romeo Game 2 — AMERICAN FREEDOM
+Primary active cast safe to normalize:
+- Romeo
+- Pat Napier
+- AFC resistance cell / founding figures as a live campaign layer rather than background abstraction
+
+Protected characterization rules to retain:
+- Pat Napier remains practical, sustainment-oriented, medic-forward, and visually non-operator-aesthetic
+- Renata's connection to Pat remains relational and subtle, not genealogical
+- American Freedom should read as a campaign of local people and improvised durable trust, not lone-hero occupation fantasy
+
+
+Ducky Game 2 — PERSISTENT THREAT
+Primary active cast safe to normalize:
+- Ducky
+- Frost
+- Lupin
+- Switchblade
+- Walker
+- Halliday
+- Tremblay as the major late-campaign institutional fracture figure
+
+Protected characterization rules to retain:
+- Ducky remains calm, exact, dry, methodical, pressure-flattening, morally stubborn
+- Frost remains the most experienced anti-Russian war reader inside AEGIS, not an edgy mascot
+- Lupin remains the wary, layered, post-collapse Romanian realist whose trust matters because it is hard-earned
+- Switchblade remains clinically specific and practically fierce; medic calls should stay concrete and non-generic
+
+
+Spook Game 2 — GODKILLER
+Primary active cast safe to normalize:
+- Spook
+- Tripper
+- Smoke
+- Budanova
+- Regent
+- Hartwell
+- La Avispa as a structurally important adjacent lane rather than detached decorative sequel bait
+
+Protected characterization rules to retain:
+- Spook should read as seasoned mid-40s, intelligent, worn, and deeply credible rather than prestige-TV polished
+- Tripper is the systems / access / pattern-break specialist, not comic relief
+- Smoke is the sustainment / mobility / rescue-built steadying force, not a generic third wheel
+- La Avispa remains underworld-intelligence connective tissue with selective flashback relevance, not a sidecar protagonist with no structural load
+
+================================================================================
+B. GAME 3 ACTIVE CAST NORMALIZATION
+================================================================================
+
+Romeo Game 3 — NO KINGS
+Primary active cast safe to normalize:
+- Romeo
+- Elena Costa
+- Eamonn Kearney
+- Pat Napier
+- Lt. Dorothy Anne Vickers
+- Mace as bridge figure in the British widening phase
+- Mitchell Van Hult as BODYWORK branch center
+
+Protected characterization rules to retain:
+- Elena is Boston's local armed center of gravity, not a background district guide
+- Kearney is a hidden armorer / repair specialist / sustainment node, not a vendor-first trope character
+- Vickers's authority comes through exactness, timing, and throughput, not speeches
+- Van Hult is proud, exact, community-minded, and anchored in stolen civic function rather than revenge fantasy caricature
+
+
+Ducky Game 3 — FAILSAFE
+Primary active cast safe to normalize:
+- Ducky
+- Frost
+- Lupin
+- Switchblade
+- Walker
+- Halliday
+- Soraya as promoted support figure
+- Tremblay as a resolved Game 2 consequence shadow rather than an active team member
+- Dusan remains a live dedicated-source dependency if retained as a named mission-facing figure
+
+Protected characterization rules to retain:
+- FAILSAFE is a coalition recovery campaign; the cast should read as people navigating damaged continuity, not clean reboot heroics
+- Halliday and Walker should function as accounting / verification / command-trust figures, not generic briefing furniture
+
+
+Spook Game 3 — DARK SKIES
+Primary active cast safe to normalize:
+- Spook
+- Tripper
+- Smoke
+- La Avispa
+- Regent
+- Hartwell
+- Wei Junlong
+- Lin Yueh-ting
+- Sakhalin / Procella bridge note remains conditional and should be summarized only as a possible retained bridge if separately formalized
+
+Protected characterization rules to retain:
+- Wei is not scenery for Spook's revelation; he is a real pressure-bearing strategic actor
+- Lin should not remain theoretical once she fully arrives in the campaign layer
+- La Avispa's later placement must still preserve her connective role rather than demote her into a cameo
+
+================================================================================
+C. DLC / CROSS-CAMPAIGN CHARACTER POSITIONING NOTES
+================================================================================
+
+- Who Dares Wins material remains partially repo-landed and should continue to be treated as external deeper source-of-truth beyond this character compendium block.
+- Vickers is now safe to reference as a mission-facing British Boston figure in Romeo Game 3 because dedicated repo-side source pages exist.
+- BODYWORK character logic is now safe to reference directly because the Van Hult branch reference page is visible repo-side.
+- Sakhalin remains a valid bridge note for wider Game 3 architecture, but a dedicated bridge page is still the cleaner long-form home if that link becomes more load-bearing.
+
+================================================================================
+D. REV5 REPLACEMENT LANGUAGE
+================================================================================
+
+Replace any repo-facing summary language that still implies:
+- Elena is only a background Boston profile
+- Kearney is only a loose idea or temporary vendor figure
+- FAILSAFE lacks an active cast definition
+- DARK SKIES lacks a stable strategic cast beyond Spook's core trio
+- Game 2 casts are still broad sequel placeholders rather than campaign-specific active groups
+
+With:
+- the cast blocks above, using the protected role language in this file
+
+================================================================================
+END OF FILE
+================================================================================

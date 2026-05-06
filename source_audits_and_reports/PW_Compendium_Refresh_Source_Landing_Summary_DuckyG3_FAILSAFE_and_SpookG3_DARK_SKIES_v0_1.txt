@@ -1,0 +1,38 @@
+PROJECT WARRIORS — SOURCE LANDING SUMMARY
+Title: PW_Compendium_Refresh_Source_Landing_Summary_DuckyG3_FAILSAFE_and_SpookG3_DARK_SKIES_v0_1
+Status: source-ready landing summary
+Scope: working compendia refresh for Ducky Game 3 and Spook Game 3
+Purpose: record the compendium-side landing of recently resolved Game 3 campaign structure so the repo’s visible summary layer no longer lags behind the current working campaign state.
+
+Why this landing was needed:
+- the compendium layer still framed Ducky Game 3 as effectively undeveloped
+- Game 3 campaign structure was still summarized as fragmentary
+- Spook Game 3 was still represented primarily through the older La Avispa / Yunnan / Wei access prototype rather than the newer reconciled opening-act structure
+
+What this landing updates
+Ducky Game 3 — FAILSAFE
+- now treated as a structured working campaign
+- post-Tremblay-confrontation recovery-state coalition lane
+- four-act structure: Broken Picture / The Verification War / Selective Restoration / Failsafe
+
+Spook Game 3 — DARK SKIES
+- now treated as a reconciled structured campaign
+- four-act structure: Bad Omens / Private Route / Wrong Signature / Dark Skies
+- opening sequence normalized as Dawn of Mercy / Mercy Line / Order and Progress / Outer Port
+- Outer Port locked as the Japan contact mission
+- Cephaly Splice restored into the early campaign structure
+- older La Avispa / Yunnan / Wei prototype retained, but moved later
+- late architecture mission normalized to Fracture Map
+
+Flags closed by this landing
+- Ducky Game 3 as undeveloped placeholder
+- generic Game 3 structure only fragments sketched language for Ducky and Spook
+- Spook Game 3 being summarized primarily through the older Yunnan-first prototype
+
+Flags still live after this landing
+- detailed Ducky G3 mission outline sheet
+- detailed Spook G3 mission outline sheet
+- Dusan dedicated source page if retained in FAILSAFE
+- Sakhalin / Procella dedicated bridge page if formalized separately
+- exact cross-campaign calendar normalization at tighter day-level precision
+- broader unresolved Game 3 theater allocation items not directly closed by this pass
