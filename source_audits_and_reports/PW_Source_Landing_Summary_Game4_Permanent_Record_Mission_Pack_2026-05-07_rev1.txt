@@ -1,0 +1,66 @@
+PROJECT WARRIORS — SOURCE LANDING SUMMARY
+Package: Game 4 Permanent Record Mission Pack
+Generated: 2026-05-07
+Version: rev1
+Status: reviewable source-side addition
+
+PURPOSE
+This landing summary records the addition of a new source-side mission pack for Spook’s Game 4 campaign Permanent Record. The package consolidates the mission and aftermath material developed in the current thread into durable source pages under the Game 4 / Spook lane, while also adding a compendium-side addendum for working-knowledge visibility.
+
+FILES ADDED — ACTIVE AUTHORING LAYER
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Backup_Plan_Weapon_Presentation_Note_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_DPRK_Defector_Safe_Passage_Mini_Arc_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Et_In_Arcadia_Ego_Mission_Reference_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Receivership_Mission_Reference_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Flow_Control_Mission_Reference_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_And_Into_The_Fire_Mission_Reference_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Judgment_Day_Mission_Reference_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_One_Head_of_the_Hydra_Aftermath_Reference_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Endgame_Ladder_2026-05-07_rev1.txt
+
+FILES ADDED — SYNTHESIS / WORKING-KNOWLEDGE LAYER
+- Project_Warriors_Knowledge_Compendia/PW_Game4_Permanent_Record_Mission_Pack_Addendum_2026-05-07_rev1.txt
+
+WHAT THE NEW SOURCE PAGES COVER
+- BACKUP PLAN weapon identity and action-shot deployment logic
+- DPRK defector safe-passage mini-arc
+- Monaco maritime infiltration mission ET IN ARCADIA EGO
+- Haifa identity-confirmation mission RECEIVERSHIP
+- late-campaign pressure beat FLOW CONTROL
+- cold-open continuation mission …AND INTO THE FIRE
+- endgame confrontation mission JUDGMENT DAY
+- post-capture aftermath reveal ONE HEAD OF THE HYDRA
+- compact late-endgame ladder for Permanent Record
+
+KEY LOCKS CARRIED FORWARD
+- ET IN ARCADIA EGO = Monaco / Marietta infiltration
+- RECEIVERSHIP = Haifa / Keter Maritime identity-confirmation mission
+- FLOW CONTROL = La Avispa warning / toll-road pressure beat before the final run
+- …AND INTO THE FIRE = direct cold-open continuation; Spook times the EVADE move off the exposed line and jumps into the passing sand barge below after hearing the horn
+- JUDGMENT DAY = stealth-led Torres Mulieres breach, pencil ambush, Smoke wounded, solo pursuit, motorcycle escape, catastrophic non-fatal crash, capture
+- ONE HEAD OF THE HYDRA = device-data aftermath reveal that the surviving network already overlaps with parts of the reconstruction order
+
+WHY THIS WAS LANDED AS SOURCE PAGES FIRST
+The repo lifecycle guidance treats dev_src_docs as the primary active-authoring layer for durable mission pages and warns against using compendia as the place where first-draft mission material lives.
+
+This package therefore lands first as a source-page cluster because:
+- the material is stable enough to preserve
+- it is mission- and campaign-structured rather than loose thread residue
+- it benefits from living as discrete editable pages rather than being buried only inside a rollup
+
+COMPENDIUM-SIDE DECISION
+A compact addendum is added to the working-knowledge layer rather than rewriting the full rev4 Missions / Scenes / Cinematics compendium in place. This keeps the package reviewable and source-first while still making the Game 4 Permanent Record mission cluster visible in the synthesis layer.
+
+CURRENT SCOPE NOTE
+This landing does not yet:
+- rewrite the full rev4 missions compendium body around Game 4
+- refresh the archival master
+- update the migration ledger or thread archive audit
+- create screenplay passes or full trigger sheets for every mission page
+- hard-lock full act-wide campaign architecture beyond the current endgame ladder and linked mission pack
+
+RECOMMENDED NEXT STEPS
+1. Decide whether the addendum should be folded into the next full Missions / Scenes / Cinematics compendium refresh.
+2. Build the wider Permanent Record campaign spine around the newly landed mission cluster.
+3. Expand JUDGMENT DAY and ONE HEAD OF THE HYDRA into screenplay / trigger-sheet forms if implementation-facing detail becomes necessary.
+4. Revisit the repo README and Game4 directory structure note if Game 4 becomes a sustained active lane rather than an early source cluster.
