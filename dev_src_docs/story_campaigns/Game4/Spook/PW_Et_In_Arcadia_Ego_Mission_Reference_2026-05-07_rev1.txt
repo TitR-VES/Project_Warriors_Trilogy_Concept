@@ -1,0 +1,85 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+MISSION REFERENCE PAGE
+Title: ET IN ARCADIA EGO
+Generated: 2026-05-07
+Version: rev1
+Status: source-ready draft
+Scope: mission reference / narrative + gameplay alignment page
+
+PURPOSE
+This page defines the Monaco maritime infiltration mission ET IN ARCADIA EGO. The mission exists to move the campaign from suspicion and social-theater trail work into physical contact with Delhardt’s covert transport infrastructure.
+
+PLACEMENT
+ET IN ARCADIA EGO belongs before RECEIVERSHIP and after the Paris / Moffat trail has established that a resurfaced maritime asset tied to Geoffrey-Guy Moffat’s dead network is still in covert use.
+
+CORE IDENTITY
+ET IN ARCADIA EGO is a glossy-surface / hidden-rot infiltration mission built around five linked functions:
+1. establish Monaco as an elite leisure world whose safety is partly an illusion
+2. physically introduce the resurfaced former Gerhana, now operating publicly as Marietta
+3. let Spook recover practical intelligence from a shadow maritime asset rather than an abstract intel source
+4. turn the mission bad on exfil rather than on entry
+5. deliver a short ugly close-quarters galley fight that hardens the mission’s identity without hijacking it
+
+NARRATIVE PREMISE
+The former Gerhana, believed lost inside scrubbed ownership history after Berkhan’s death, has resurfaced under a new public identity:
+- current public name: Marietta
+- registry: Cayman Islands
+- management shell: Keter Maritime, Haifa
+
+The vessel functions as a discreet mobility and meeting platform that can host private handoffs, off-book movement, or compartmented client handling without immediately pointing back to Delhardt.
+
+ENVIRONMENT
+Preferred location is Monaco marina / port-luxury territory: beautiful, expensive, curated, watched, and quietly dangerous. The yacht itself should feel recently used, not museum-pristine.
+
+MISSION SHAPE
+STAGE 1 — APPROACH AND BOARD
+Spook infiltrates the marina and boards Marietta under covert conditions. Entry should feel controlled, careful, and plausible inside a luxury-security environment rather than like a commando assault.
+
+STAGE 2 — INTERIOR EXPLOITATION
+The player moves through the vessel gathering practical intelligence. This includes both visible luxury surfaces and the more revealing admin / service seams behind them.
+
+STAGE 3 — COMPROMISED EXFIL
+The mission goes bad on the way out, not the way in. Violence or exposure triggers an escape through the vessel under rising pressure. During this collapse, an accidental interaction with onboard controls or media infrastructure reactivates the ship PA / audio system.
+
+STAGE 4 — GALLEY FIGHT AND ESCAPE
+Spook is forced into a short brutal close-quarters fight in the galley against a deceptively strong hostile using knives and improvised kitchen weapons. He survives through controlled violence, finishes the hostile with NOTHING in a tight reversal, and escapes with the extracted intel.
+
+INTELLIGENCE YIELD
+The player should leave the yacht with a small but high-value proof bundle:
+- service records tying Marietta to unusual handling patterns
+- operating / admin traces linking it to the former Gerhana
+- lease or client-management anomalies pointing toward Delhardt
+- concealed contact data or route fragments
+- maritime admin residue that later makes RECEIVERSHIP in Haifa possible
+
+GALLEY FIGHT LOCK
+The galley fight is a supporting pressure beat, not the mission’s thesis. It should obey the following rules:
+- the hostile is more dangerous in close quarters than he first appears
+- the fight is short, desperate, and physically cramped
+- the galley uses knives and improvised kitchen tools as weapons
+- the violence is sharp and fast, not lingered on for gore
+- the finishing move uses NOTHING in a rapid last-inch reversal
+
+AUDIO / MUSIC LOCK
+During the escape, violence accidentally reactivates the yacht PA or media system when a hostile falls into a console, panel, or control surface. Teddybears’ “Cobra Style” resumes mid-track, as if it had been playing earlier during a party and is now coming back in the wrong context.
+
+Use rules:
+- the song is diegetic, not score
+- it should feel resumed, not cleanly cued
+- it should become more muffled and degraded once the fight spills into the galley
+- after the gunshot, the track should cut hard or collapse into hum / silence
+
+PROMPT VOCABULARY
+Strong candidates:
+- OBSERVE
+- ACQUIRE
+- SECURE
+- EXTRACT
+- HOLD
+- NEUTRALIZE
+
+THEMATIC FUNCTION
+Monaco is paradise only if you confuse polish with innocence. The mission should let the player feel that the same wealth, access, privacy, and refinement that make the place seductive also make it an ideal operating environment for covert movement, surveillance, and violence.
+
+DESIGN RULE
+Treat ET IN ARCADIA EGO as a shadow-asset mission with one ugly rupture, not a broad “yacht mission.” Intelligence first, compromised exfil second, close-quarters survival beat as hard punctuation.
