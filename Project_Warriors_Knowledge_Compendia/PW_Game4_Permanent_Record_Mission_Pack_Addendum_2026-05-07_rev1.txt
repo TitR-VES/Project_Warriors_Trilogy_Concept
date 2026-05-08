@@ -5,13 +5,14 @@ Version: rev1
 Status: compendium-side addendum / reviewable synthesis note
 
 PURPOSE
-This addendum provides a compact working-knowledge layer summary of the Game 4 / Spook / Permanent Record mission pack landed as source pages on 2026-05-07.
+This addendum provides a compact working-knowledge layer summary of the Game 4 source package landed on the PR branch. It now covers not only the late Permanent Record mission cluster, but also the broader recovered campaign-architecture layer and the current Romeo-side crossover / New American Frontier packet that the Spook-side work depends on.
 
 USE RULE
-This file is a synthesis aid, not the preferred editing layer. The durable working copies live in:
+This file is a synthesis aid, not the preferred editing layer. The durable working copies live primarily in:
 - dev_src_docs/story_campaigns/Game4/Spook/
+- dev_src_docs/story_campaigns/Game4/Romeo/
 
-SOURCE PAGES COVERED
+SOURCE PAGES COVERED — SPOOK / PERMANENT RECORD
 - PW_Backup_Plan_Weapon_Presentation_Note_2026-05-07_rev1.txt
 - PW_DPRK_Defector_Safe_Passage_Mini_Arc_2026-05-07_rev1.txt
 - PW_Et_In_Arcadia_Ego_Mission_Reference_2026-05-07_rev1.txt
@@ -21,8 +22,15 @@ SOURCE PAGES COVERED
 - PW_Judgment_Day_Mission_Reference_2026-05-07_rev1.txt
 - PW_One_Head_of_the_Hydra_Aftermath_Reference_2026-05-07_rev1.txt
 - PW_Permanent_Record_Endgame_Ladder_2026-05-07_rev1.txt
+- PW_Enfant_Terrible_Weapon_Presentation_Note_2026-05-08_rev1.txt
+- PW_Permanent_Record_Campaign_Architecture_Recovery_Packet_2026-05-08_rev1.txt
+- PW_Line_of_Fire_Story_Arc_Reference_2026-05-08_rev1.txt
+- PW_No_Shelter_Story_Arc_Reference_2026-05-08_rev1.txt
 
-TOP-LEVEL MISSION STACK
+SOURCE PAGES COVERED — ROMEO / COMMAND AUTHORITY SUPPORT LANE
+- PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+
+TOP-LEVEL PERMANENT RECORD MISSION STACK
 - ET IN ARCADIA EGO — Monaco / Marietta infiltration
 - RECEIVERSHIP — Haifa / Keter Maritime identity-confirmation mission
 - FLOW CONTROL — La Avispa warning / toll-road pressure beat before the final run
@@ -30,9 +38,24 @@ TOP-LEVEL MISSION STACK
 - JUDGMENT DAY — stealth-led Torres Mulieres breach, pencil ambush, Smoke wounded, solo pursuit, motorcycle escape, catastrophic non-fatal crash, capture
 - ONE HEAD OF THE HYDRA — post-capture device-data reveal showing the surviving network already overlaps with parts of the reconstruction order
 
-ASSOCIATED SUPPORT PAGE
+BROADER CAMPAIGN-RECOVERY LAYER
+- LINE OF FIRE = current preferred early domestic-investigation arc
+  Minneapolis bombing -> Twin Cities safe house -> Chicago -> Montreal
+- NO SHELTER = current preferred international pursuit / cover-collapse arc
+  Montreal -> Paris -> ET IN ARCADIA EGO -> RECEIVERSHIP
+- final run = FLOW CONTROL -> …AND INTO THE FIRE -> JUDGMENT DAY -> ONE HEAD OF THE HYDRA
+
+ASSOCIATED SUPPORT PAGES
 - DPRK Defector Safe-Passage Mini-Arc — human-source recovery operation tying sanctions-evasion, covert shipping, and foreign-foreknowledge threads into a compromised extraction
 - BACKUP PLAN weapon note — compact suppressed PDW identity, contingency role, and preferred action-shot deployment in the DPRK mini-arc or similar break-contact exfil
+- ENFANT TERRIBLE weapon note — Delhardt / Stockbridge antagonist sidearm build tied to the Permanent Record endgame
+
+ROMEO-SIDE CROSSOVER / FACTION RECOVERY
+The source package now also preserves the currently developed shared-world handoff and faction lane that the Spook-side domestic investigation feeds:
+- Spook-side LINE OF FIRE produces intelligence that later travels into Romeo’s Game 4 campaign
+- preferred receiving mission lane is the Lower Ninth Ward / New Orleans safe-house raid, current title HOME ADVANTAGE
+- shared faction pressure lane preserved under the New American Frontier packet
+- senior figures preserved: Gregory David Allen / Pacer, Dalton Maynard Crane / River, Dylan Joseph Peretti / Static, Cheryl Lynn Vaughn / Sunny, Jefferson Lee Davis / Hazzard
 
 KEY LOCKS
 1. Monaco title lock: ET IN ARCADIA EGO
@@ -42,7 +65,11 @@ KEY LOCKS
 5. Pencil ambush lock: at the Judgment Day office threshold, Stockbridge drives a pencil / pen into Spook’s vest line; first-person camera dips to it; Spook says one dry line only — “Really?”
 6. Judgment Day end-state lock: Stockbridge survives the crash catastrophically injured and is captured alive
 7. Aftermath title lock: ONE HEAD OF THE HYDRA
-8. End-state thematic lock: the campaign ends on real progress and real capture, but not triumph; the system survives in distributed, inherited, patronage-based form
+8. Early-arc lock: LINE OF FIRE remains the current preferred domestic-investigation opening arc
+9. Mid-arc lock: NO SHELTER remains the current preferred international pursuit / cover-collapse arc
+10. Shared-world crossover lock: the early Spook domestic-investigation arc feeds the Romeo-side New Orleans / Lower Ninth Ward mission lane rather than staying sealed inside Permanent Record
+11. New American Frontier preservation lock: faction direction and current senior-figure block are now preserved in source-facing form rather than only in thread residue
+12. End-state thematic lock: the campaign ends on real progress and real capture, but not triumph; the system survives in distributed, inherited, patronage-based form
 
 ENDGAME LADDER
 FLOW CONTROL
@@ -51,7 +78,11 @@ FLOW CONTROL
 → ONE HEAD OF THE HYDRA
 
 FUNCTIONAL READ
-The Game 4 / Spook / Permanent Record mission cluster now has a stable late-campaign chain preserved in source pages and visible in the working-knowledge layer without requiring a full compendium rewrite.
+The Game 4 source package now preserves:
+- the early Spook domestic-investigation architecture
+- the mid-campaign international pursuit architecture
+- the tight late-game Permanent Record mission cluster
+- the Romeo-side crossover / New American Frontier packet that previously existed only as thread-developed material
 
 NEXT RECOMMENDED STEP
-Fold this addendum into the next full Missions / Scenes / Cinematics compendium refresh once the broader Permanent Record campaign spine has matured enough to justify a larger rev pass.
+Fold this addendum into the next full Missions / Scenes / Cinematics and relevant Characters / DLC refreshes once the broader Game 4 campaign spines are mature enough to justify a larger rev pass.
