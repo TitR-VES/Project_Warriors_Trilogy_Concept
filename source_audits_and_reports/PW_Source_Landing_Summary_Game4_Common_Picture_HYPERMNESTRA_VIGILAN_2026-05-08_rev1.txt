@@ -1,0 +1,39 @@
+PROJECT WARRIORS — SOURCE LANDING SUMMARY
+Game 4 / Common Picture / HYPERMNESTRA -> VIGILAN Lane
+Generated: 2026-05-08
+Version: rev1
+Status: SOURCE-FIRST LANDING SUMMARY
+
+PURPOSE
+This source landing adds the first dedicated source-side continuity note for the Ducky Game 4 / COMMON PICTURE restoration-architecture lane built around:
+- HYPERMNESTRA as the development codename for the post-AEGIS successor effort
+- VIGILAN as the actual replacement system name
+- ANTIFRAGILITY as the preferred Ducky Game 4 sub-arc title
+- Y. T. Lin as the preferred consultative cryptography-engineering figure for this lane
+
+FILES ADDED / UPDATED
+
+1. New source page
+- dev_src_docs/story_campaigns/Game4/Ducky/PW_HYPERMNESTRA_VIGILAN_Continuity_and_ANTIFRAGILITY_Sub_Arc_Note_2026-05-08_rev1.txt
+
+2. Updated shared source page
+- dev_src_docs/story_campaigns/Game4/Shared/PW_Game4_Restoration_Era_Sequel_Direction_and_Seed_Pack_2026-05-05_rev1.txt
+
+WHAT THIS LANDING DOES
+- preserves the distinction between a mythic / conceptual development codename and the actual deployable restoration-era system name
+- gives COMMON PICTURE a clearer infrastructural and political center of gravity
+- creates a source-first home for the HYPERMNESTRA -> VIGILAN lane without pretending the full Ducky Game 4 campaign is already source-complete
+- keeps ANTIFRAGILITY at the sub-arc level instead of prematurely forcing it into campaign-title duty
+- leaves room for later mission / act architecture around the lane
+
+WHAT IT DOES NOT CLAIM
+- this does not claim that Game 4 Ducky material is fully reconciled
+- this does not represent a compendium refresh
+- this does not finalize Y. T. Lin’s full character profile
+- this does not yet provide mission-by-mission Common Picture structure for the HYPERMNESTRA / VIGILAN lane
+
+BEST NEXT FOLLOW-UPS
+1. common-picture act and mission skeleton around the ANTIFRAGILITY sub-arc
+2. Y. T. Lin source-side character/profile note
+3. any Game 3 Ducky early-seed mention of HYPERMNESTRA if that bridge is later written explicitly
+4. eventual compendium refresh after more of the Game 4 Ducky lane is source-landed
