@@ -1,0 +1,137 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+INVESTIGATIVE MISSION PACK
+Generated: 2026-05-08
+Version: rev1
+Status: source-ready consolidation page
+Scope: Monaco / Haifa / DPRK human-source chain
+
+PURPOSE
+This page consolidates the mid-to-late investigative mission work developed for Spook’s Game 4 campaign Permanent Record. It is intended to function as a durable source page in active authoring, with compendium refresh handled afterward.
+
+MISSION STACK COVERED
+1. ET IN ARCADIA EGO — Monaco / Marietta infiltration
+2. RECEIVERSHIP — Haifa / Keter Maritime identity-confirmation mission
+3. DPRK Defector Safe-Passage Mini-Arc — Seoul intermediary / South-side reception / compromised extraction chain
+
+================================================================================
+1. ET IN ARCADIA EGO
+================================================================================
+
+TITLE LOCK
+ET IN ARCADIA EGO
+
+ROLE IN CAMPAIGN
+This mission moves the campaign from suspicion and social-theater trail work into physical contact with Delhardt’s covert maritime infrastructure. It is the shadow-asset mission, not the identity-collapse proof mission and not the endgame confrontation.
+
+CORE PREMISE
+The former Gerhana has resurfaced as the Marietta under Cayman Islands registration and a maritime-management shell tied to Keter Maritime in Haifa. The vessel matters because it functions as a discreet movement and meeting asset within Delhardt’s covert network.
+
+ENVIRONMENT LOCK
+Monaco marina / port-luxury environment at night: glossy, expensive, curated, watched, and quietly dangerous. Use polished marina surfaces, reflected artificial light on black water, dock access control, private security, and service corridors beneath a luxury presentation.
+
+MISSION SHAPE
+- covert marina approach and vessel boarding
+- interior exploitation of the Marietta as a functioning covert asset rather than a villain lair
+- extraction of practical intelligence: service/admin traces, routing residue, client-handling anomalies, and links that make Haifa possible later
+- mission goes bad on exfil rather than on entry
+- during the collapse, ship PA/audio is accidentally reactivated
+- short brutal galley fight against a deceptively dangerous hostile using knives and improvised kitchen tools
+- Spook finishes the hostile with NOTHING in a rapid last-inch reversal
+
+DIEGETIC MUSIC LOCK
+Teddybears — Cobra Style resumes mid-track over the yacht PA after accidental reactivation during exfil collapse. It should feel resumed from an earlier elite gathering, not cued for the player.
+
+OUTPUT / CAMPAIGN FUNCTION
+The player leaves with a compact but high-value evidence bundle tying Marietta to covert handling patterns and pointing the investigation toward Keter Maritime in Haifa.
+
+================================================================================
+2. RECEIVERSHIP
+================================================================================
+
+TITLE LOCK
+RECEIVERSHIP
+
+ROLE IN CAMPAIGN
+This is the identity-confirmation proof mission. It collapses ambiguity around Lana Erika Delhardt by giving Victor Two Bravo hard administrative proof that Delhardt and Gillian Stockbridge are the same person operating through a maritime shell structure.
+
+IDENTITY LOCK
+Lana Erika Delhardt is the active public-facing alias. Gillian Stockbridge is the buried real identity behind the mask.
+
+CORE PREMISE
+The Marietta’s management history repeatedly points to Keter Maritime in Haifa. Keter should present as an ordinary maritime-services company handling vessel administration, charter support, customs clearing, registry/document handling, and discreet port logistics.
+
+ENVIRONMENT LOCK
+Port-adjacent Haifa, not a polished central-city tower. Preferred texture:
+- older concrete commercial/light-industrial shell
+- mixed-use or semi-industrial neighborhood near the port
+- marine suppliers, vans, scooters, and service traffic nearby
+- narrow offices, cheap glass partitions, fluorescent light, printers, filing systems, cable clutter
+- a quieter, denser compliance/records layer hidden behind an ordinary front-office face
+
+MISSION SHAPE
+- low-profile approach and access under legitimate-looking business conditions
+- front-office read in which ordinary paperwork starts to look wrong in pattern rather than in overt villainy
+- restricted records/compliance layer as mission hinge
+- proof assembled through layered cross-reference rather than one magic file
+- controlled exfil under rising pressure, not a giant shootout
+
+PROOF PACKAGE LOCK
+The player leaves Haifa with enough material to collapse the mask:
+- Marietta current service/admin records
+- former Gerhana identity residue
+- shell-routing or beneficial-owner overlap
+- concealed client/admin handling tied to Delhardt
+- buried metadata or admin history collapsing Delhardt into Stockbridge
+- one deeper breadcrumb suggesting Keter sits inside a larger commercial-security ecosystem rather than existing as an isolated company
+
+CAMPAIGN FUNCTION
+Before Haifa, Delhardt is still a protected alias. After Haifa, the campaign moves from inference to certainty.
+
+================================================================================
+3. DPRK DEFECTOR SAFE-PASSAGE MINI-ARC
+================================================================================
+
+TITLE / PACK NAME LOCK
+DPRK Defector Safe-Passage Mini-Arc
+
+ROLE IN CAMPAIGN
+This mini-arc links conspiracy-finance, covert shipping / sanctions-evasion, and foreign foreknowledge into a human-source extraction that feels dangerous and plausible rather than expositional. It also provides the best current live-story placement for BACKUP PLAN.
+
+STRUCTURE
+Three linked beats:
+1. Seoul intermediary contact
+2. South Korean-side reception / tunnel-security beat
+3. compromised extraction under pressure with one defector dying after crossing and the other surviving
+
+BEAT 1 — SEOUL INTERMEDIARY CONTACT
+Preferred environment is a dense event-management / entertainment setting in Seoul, such as a K-pop concert or fan-event logistics space. The intermediary is a civilian-facing movement professional whose legitimate access to schedules, identity handling, and people movement makes them a credible bridge into a defector-assistance network.
+
+BEAT 2 — SOUTH KOREAN-SIDE RECEPTION
+Victor Two Bravo secures the South-side reception area around a secret tunnel or equivalent border-adjacent exfil route before the defectors emerge. Tone should be quiet, low-light, constrained, and tense.
+
+BEAT 3 — HOT EXTRACTION / HUMAN-SOURCE HANDOFF
+Two defectors emerge alive but damaged.
+- finance / logistics / sanctions-evasion-side defector carries the critical physical package and dies after crossing
+- intelligence-side defector survives and becomes the living explanatory asset
+
+DOCUMENT PACKAGE RULE
+The dying defector hands over a compact, ugly, deniable package rather than a miracle drive:
+- ledger or notebook
+- copied finance records
+- photos or printed identifiers
+- compact media with partial archive material
+- ship / routing / port / sanctions-evasion markers
+
+BACKUP PLAN PLACEMENT LOCK
+This is the cleanest current story-space for BACKUP PLAN. Preferred hero/action image: Spook uses the suppressed MP7A1 one-handed, stock fully extended and braced against the inside of his shoulder, while dragging a wounded defector, teammate, VIP, or critical evidence package during an extraction-gone-bad break-contact moment.
+
+CONSPIRACY FUNCTION
+The mini-arc should illuminate:
+- covert shipping and sanctions-evasion pathways
+- foreign foreknowledge and quiet preparation for the PANDORA rupture
+- the administrative depth and survivability of the network
+
+DESIGN RULE
+Treat the arc as a human-source recovery operation under pressure, not as a military incursion mission.
+
+END OF FILE
