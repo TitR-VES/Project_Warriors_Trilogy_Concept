@@ -1,0 +1,76 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+MISSION REFERENCE PAGE
+Title: JUDGMENT DAY
+Generated: 2026-05-08
+Revision: rev1
+Status: source-ready draft
+
+PURPOSE
+This page defines the endgame confrontation mission JUDGMENT DAY for Spook’s Game 4 campaign Permanent Record. The mission exists to bring Victor Two Bravo physically to Lana Erika Delhardt / Gillian Stockbridge, force her into a desperate improvised escape, and end her active run with catastrophic non-fatal collapse and capture.
+
+PLACEMENT
+JUDGMENT DAY belongs at the campaign endgame after FLOW CONTROL and the final approach beat …AND INTO THE FIRE.
+
+CORE IDENTITY
+Stealth-led endgame raid built around:
+- quiet infiltration of Torres Mulieres
+- camera-angle avoidance and optional surveillance degradation through a control-room/security node
+- selective elimination rather than broad assault
+- sudden office-threshold rupture
+- short tower pursuit
+- staged motorcycle escape
+- violent crash, survival, and custody
+
+LEAD-UP / STEALTH RULE
+The mission works only if the player believes Stockbridge was caught too late to leave cleanly. The approach therefore needs to be controlled and quiet enough that she remains physically present in the building until Spook reaches the final door.
+
+VISUAL TARGET-STATE LOCK
+When Spook reaches her, Stockbridge should read as already in flight mode rather than settled:
+- light-colored riding / protective trousers already on
+- pale shirt / undershirt
+- jacket and helmet staged with the motorcycle below
+- last movement items gathered, but escape not fully committed
+
+OFFICE RUPTURE LOCK
+At the final approach, Spook reaches a half-open office/suite door and gets a plain OPEN prompt. When he opens it, Stockbridge lunges from the blind corner and drives a pen or pencil into the edge of his vest/webbing/soft-armor line. The first-person camera jerks and drops involuntarily to the pencil caught in gear. Spook reacts with one dry line:
+
+Really?
+
+That is the full joke. She is already breaking away by the time the line lands.
+
+SMOKE WOUND / TEAM SPLIT LOCK
+During Stockbridge’s breakout, she produces a concealed compact pistol and fires while retreating. One hurried but effective shot hits Smoke non-fatally and removes him from the pursuit lane. Tripper stays with Smoke. Spook continues the chase alone.
+
+PURSUIT RULE
+The tower pursuit remains compact:
+- short corridor transitions
+- one or two security / contractor contact beats
+- lower parking / service deck movement
+- clear sense that Stockbridge is burning the last available protection around her just to make distance
+
+MOTORCYCLE ESCAPE LOCK
+Stockbridge reaches a staged motorcycle in the lower parking or service area. She clears the building before Spook can physically stop her.
+
+CRASH RESOLUTION LOCK
+The chase ends outside the tower when Stockbridge overcommits into an intersection and is violently struck by a delivery van. The crash should feel sudden, mundane, and brutal. Helmet use preserves her life but not her body. Injuries are catastrophic and life-altering, leaving her unable to continue but still alive for capture and later trial.
+
+FINAL ROADSIDE EXCHANGE LOCK
+Stockbridge: You can’t prove anything.
+Spook: There’s enough on file already. And more people are talking.
+Stockbridge: We haven’t lost yet.
+Spook: No. Not yet. They’re going to keep you alive. Then you’re going into custody. And then you stand trial with the rest of the bastards.
+
+The exchange stays lean. The deeper final wound belongs to ONE HEAD OF THE HYDRA afterward, not to a crash-scene monologue.
+
+AFTERMATH RULE
+After the roadside exchange:
+- Tripper arrives
+- Smoke arrives wounded but clearly recoverable / under treatment
+- responders converge
+- Spook returns to procedure and custody coordination
+- Stockbridge enters secured medical-custody handling
+
+DESIGN RULE
+Treat JUDGMENT DAY as a controlled endgame raid that turns bad late, not as a loud tower siege.
+
+END OF FILE
