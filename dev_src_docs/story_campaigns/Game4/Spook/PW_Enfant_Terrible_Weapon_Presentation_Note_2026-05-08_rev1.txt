@@ -1,0 +1,44 @@
+PROJECT WARRIORS — SPOOK GAME 4 WEAPON PRESENTATION NOTE
+Build Name: ENFANT TERRIBLE
+Character: Lana Erika Delhardt / Gillian Stockbridge
+Campaign: Game 4 / Permanent Record
+Generated: 2026-05-08
+Version: rev1
+Status: working lock / source-ready development note
+
+PURPOSE
+This page preserves the current source-ready presentation logic for ENFANT TERRIBLE, the preferred named sidearm build associated with Lana Erika Delhardt, Gillian Stockbridge’s Buenos Aires cover identity.
+
+CORE IDENTITY
+ENFANT TERRIBLE is a compact concealed-carry antagonist sidearm build: elegant, deniable, and expensive-looking without overt ornament. It should read as something chosen by a highly controlled, socially legible fugitive power broker who still expects to move through respectable civilian space.
+
+PLATFORM
+Glock 26 V MOS
+
+CALIBER
+9×19mm
+
+CONFIGURATION
+- Glock 26 V MOS compact profile
+- dark practical finish
+- optics-ready slide kept visually restrained
+- concealable, executive-carry silhouette
+- no compensator, no oversized tactical gimmickry, no vanity engraving
+
+OPTIONAL RESTRICTED LOAD
+SNAIL special armor-defeating ammunition
+- non-commercial
+- restricted-distribution specialty load
+- should be treated as a selective-use contingency rather than her everyday visible carry state
+
+ROLE LOGIC
+ENFANT TERRIBLE is not a battlefield sidearm. It is Delhardt / Stockbridge’s concealed emergency pistol for the moments when cover collapses, movement narrows, and she has to create a few seconds of distance through sudden precise violence.
+
+NAME LOGIC
+The name should feel coldly self-aware rather than flamboyant. ENFANT TERRIBLE suits Delhardt’s cultivated public-facing cover identity while also carrying the right undertone of social disruption, volatility, and controlled menace.
+
+NARRATIVE FIT
+Best current fit is the Permanent Record endgame lane, especially the JUDGMENT DAY breakout where Stockbridge draws a concealed compact pistol during the office rupture and subsequent escape. The weapon should feel like something she could have worn unobtrusively inside a respectable executive or media-facing environment.
+
+DESIGN RULE
+ENFANT TERRIBLE should communicate that Stockbridge still thinks like someone who can weaponize presentation, access, and surprise. The pistol should not make her read like an operator. It should make her read like a dangerous civilian conspirator who planned for the moment when civility fails.
