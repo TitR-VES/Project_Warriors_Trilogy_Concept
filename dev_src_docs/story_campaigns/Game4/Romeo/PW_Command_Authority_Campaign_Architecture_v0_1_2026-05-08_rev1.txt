@@ -1,0 +1,275 @@
+PROJECT WARRIORS — ROMEO GAME 4 / COMMAND AUTHORITY
+CAMPAIGN ARCHITECTURE v0.1
+Generated: 2026-05-08
+Version: rev1
+Status: working lock / source-ready v0.1
+Purpose: establish the current preferred macro-direction for Romeo’s Game 4 campaign as a restoration-era domestic-fracture story centered on legitimacy collapse, foreign-backed militia acceleration, and Romeo’s effort to prevent a second American war after liberation.
+
+================================================================================
+01. CORE USE RULE
+================================================================================
+
+This page is the current v0.1 architecture pass for Romeo Game 4.
+
+Use it to preserve:
+- the campaign’s thematic center
+- the preferred threat model
+- the four-act spine
+- the already-landed overlap mission continuity from Spook Game 4 / Permanent Record
+- the distinction between domestic armed consequence and foreign acceleration
+
+This is not yet a full mission bible.
+It is the stable source-side frame future mission pages should land against.
+
+================================================================================
+02. CAMPAIGN THESIS
+================================================================================
+
+Romeo Game 4 is not mainly about defeating a single militia movement.
+It is about preventing postwar American fracture from hardening into a second civil war.
+
+Preferred core dramatic read:
+Romeo enters a country that is technically recovering but politically unfinished. The occupation has ended, the invasion has withdrawn, and the immediate emergency has passed, but legitimacy has not been restored cleanly. Armed local power, provisional civic authority, federal remnants, state structures, veterans’ networks, resistance figures, private contractors, and foreign-fed extremist movements all compete inside the same damaged space.
+
+Romeo’s campaign is the story of colliding with that vacuum before it becomes irreversible.
+
+Short form:
+Romeo is fighting to stop liberation from curdling into domestic self-destruction.
+
+================================================================================
+03. THEME / POLITICAL CENTER
+================================================================================
+
+The campaign’s load-bearing question is not:
+“Who won the war?”
+
+It is:
+“Who gets to define America after the war, and by what right?”
+
+That makes Command Authority the natural continuation of the Game 3 Romeo lane where liberation widened into the question of what victory is for.
+
+Key thematic pressures:
+- legitimacy versus force
+- restoration versus distortion
+- continuity versus vacuum
+- patriot language used as cover for anti-state acceleration
+- the fear that everyone is one bad week away from choosing sides that cannot be unchosen
+
+Tone rule:
+Keep the threat of civil war looming for most of the campaign rather than immediately fully igniting it. The pressure should feel close, plausible, and intermittently visible, but not spent too early.
+
+================================================================================
+04. THREAT MODEL
+================================================================================
+
+Preferred threat environment:
+The New American Frontier is the dominant ideological pole among multiple smaller anti-establishment militias and armed groups aligned around restoration-distortion politics, not a single neat centrally controlled army.
+
+Use rule:
+- treat the New American Frontier as the largest and most politically dangerous domestic extremist current, not the only one
+- keep them strongest where authority is thin, grievance is high, and armed local legitimacy is confused
+- they should feel operationally capable, politically adaptive, and dangerous without becoming cartoon supervillains
+
+Foreign role rule:
+Russia should read as the accelerant, not the sole engine.
+
+Best current foreign-support logic:
+- money
+- weapons flow
+- deniable logistics
+- information shaping
+- selective handler contact
+- tactical intelligence leakage
+- help turning already-existing American fracture into a wider burn
+
+The Americans choosing to take the country over the edge must remain the tragic center.
+
+================================================================================
+05. COMMAND FRACTURE RULE
+================================================================================
+
+One of the campaign’s core environmental truths is that command authority has begun to dematerialize.
+
+Not vanish completely.
+Not collapse into total anarchy.
+But soften, overlap, contradict itself, and lose the monopoly of being believed.
+
+The player should feel that:
+- multiple authorities can issue real orders
+- legality and legitimacy are no longer cleanly identical
+- local commanders, civic leaders, and armed groups can all claim continuity
+- every institution is trying to prevent vacuum while also fearing capture by the wrong people
+
+Romeo should not simply become a mouthpiece for whichever remnant authority claims to be official. He works best as a defender of the possibility of a country rather than a blind enforcer for the nearest surviving seal on a document.
+
+================================================================================
+06. CROSS-CAMPAIGN OVERLAP LOCK
+================================================================================
+
+Already-landed overlap mission continuity must stay active.
+
+Preferred current crossover logic preserved from repo source:
+During Spook’s LINE OF FIRE arc, Victor Two Bravo uncovers actionable intelligence on a domestic extremist safe house in New Orleans. That intelligence is passed up the chain rather than resolved as a direct Spook-side raid. Later, Romeo receives it as a field-action lead and moves on the property with Andre Bridges and attached USMC support.
+
+Current locked overlap mission title:
+HOME ADVANTAGE
+
+Use rule:
+- keep the crossover subtle
+- prefer intelligence continuity over reunion spectacle
+- the line should read like “CIA gave us something fresh,” not like a franchise crossover announcement
+
+Load-bearing effect:
+HOME ADVANTAGE proves Game 4 is one connected restoration-era conflict rather than three sealed campaigns.
+
+================================================================================
+07. NEW AMERICAN FRONTIER FIGURE BLOCK
+================================================================================
+
+Carry forward the current senior-figure block from the existing recovery packet:
+- Gregory David Allen / PACER
+- Dalton Maynard Crane / RIVER
+- Dylan Joseph Peretti / STATIC
+- Cheryl Lynn Vaughn / SUNNY
+- Jefferson Lee Davis / HAZZARD
+
+Use rule:
+These figures should function as different expressions of domestic fracture rather than five flavors of the same villain.
+
+Best dramatic spread:
+- PACER = veteran credibility / professionalized movement edge
+- RIVER = field mobility / route control / local network hardness
+- STATIC = surveillance circumvention / systems disruption / denial logic
+- SUNNY = human approach / social penetration / intelligence asymmetry
+- HAZZARD = hidden area-denial / bomb and escalation pressure
+
+Preserve the Sunny bar-scene logic from the crossover packet as a strong intelligence-asymmetry beat.
+
+================================================================================
+08. CAMPAIGN SHAPE — FOUR-ACT SPINE v0.1
+================================================================================
+
+ACT I — UNFINISHED PEACE
+
+Core purpose:
+Establish that the war is over in the formal sense but not in the political sense. Romeo enters a landscape where stabilization efforts, armed local autonomy, federal continuity, and extremist opportunism are already colliding.
+
+Primary act jobs:
+- reintroduce Romeo in a recovery-era America rather than an occupation-era one
+- show that command authority is fragmented, procedural, and contested
+- establish the New American Frontier as a movement exploiting the vacuum rather than a simple battlefield enemy
+- begin the sense that the country may tear itself open if the wrong sparks catch
+
+Preferred mission anchors:
+1. campaign-opening stabilization mission in a half-restored American urban corridor where multiple authorities claim overlapping control
+2. convoy / custody / relief-protection mission where civilian panic and militia theater matter more than set-piece combat volume
+3. lower-signature social-space or meeting mission preserving the SUNNY intelligence-asymmetry lane
+4. a first hard proof mission showing Russian-adjacent acceleration, money, or logistics behind domestic actors without flattening them into puppets
+
+Act-end condition:
+Romeo realizes he is no longer operating inside a liberation campaign but inside a legitimacy crisis with guns.
+
+--------
+
+ACT II — COUNTIES OF EXCEPTION
+
+Core purpose:
+Expand from isolated incidents into a wider map of armed parallel authority. The player should feel how local defense, grievance politics, opportunism, and professional extremist organization blur together across counties, corridors, and infrastructure nodes.
+
+Primary act jobs:
+- widen the New American Frontier from rumor and incidents into a real operating ecosystem
+- differentiate true believers, frightened locals, profiteers, and professional cadres
+- make route control, communications, and selective intimidation tactically meaningful
+- build the sense that retaliatory violence could tip multiple regions over at once
+
+Preferred mission anchors:
+1. route-security / road-control mission where Romeo must reopen movement without treating every armed local as a valid target
+2. courthouse / records / emergency-management or broadcast-node mission where legitimacy infrastructure matters as much as firepower
+3. HAZZARD- or STATIC-adjacent mission focused on hidden area-denial, sabotage, or technical disruption rather than a conventional assault
+4. a pressure-cooker prevention mission where Romeo’s success condition is stopping a retaliatory spiral, not maximizing enemy kills
+
+Act-end condition:
+Romeo identifies that the movement’s real power is not territorial conquest but selective escalation at points where the recovering country is still soft.
+
+--------
+
+ACT III — HOME ADVANTAGE
+
+Core purpose:
+Pay off the first repo-logged cross-campaign overlap and turn the domestic-fissure story into a more intimate national argument through New Orleans and Bridges.
+
+Locked overlap mission anchor:
+HOME ADVANTAGE — Lower Ninth Ward extremist safe-house / staging-property raid generated from Spook’s LINE OF FIRE intelligence seam.
+
+Use rule:
+Bridges’ New Orleans origin gives the mission emotional and geographic legitimacy, but not hometown-superpower mysticism. The value is lived familiarity, not omniscience.
+
+Primary act jobs:
+- pay off the Spook-to-Romeo intelligence handoff cleanly
+- show ideology, logistics, and myth-making taking physical shelter inside American ruin-space
+- deepen Bridges as a Game 4 connective figure without overpowering Romeo’s lane
+- prove that the New American Frontier is not just rhetoric; it has networked depth, logistics, and senior-figure coordination
+
+Preferred mission anchors:
+1. HOME ADVANTAGE
+2. follow-on exploitation mission from material recovered in HOME ADVANTAGE leading toward PACER / RIVER / SUNNY lanes
+3. coalition-friction mission where federal, military, and local actors disagree on how hard to strike next
+4. containment mission whose real objective is preventing the raid’s aftermath from becoming a recruitment myth or reprisal trigger
+
+Act-end condition:
+Romeo understands that the movement can still be broken, but only if he prevents every tactical success from becoming a political loss.
+
+--------
+
+ACT IV — COMMAND AUTHORITY
+
+Core purpose:
+Bring the country to the edge of a second war and force the campaign to resolve around legitimacy, restraint, and control rather than a simple decapitation fantasy.
+
+Primary act jobs:
+- make civil-war risk feel immediate and plausible
+- bring PACER and the senior faction block into final operational convergence
+- force Romeo to protect fragile civic continuity while under armed pressure
+- resolve the campaign in a way that preserves the possibility of national recovery without pretending the danger is over forever
+
+Preferred mission anchors:
+1. multi-authority crisis mission where contradictory lawful orders and field necessity collide
+2. major prevention operation against a domestic-trigger event designed to create mass reprisals or open regional fracture
+3. final command-node / leadership / convergence mission where the objective is to stop ignition, not simply stack bodies
+4. ending sequence showing that America has not been healed, only kept from tipping into something worse
+
+End-state rule:
+The campaign should end with prevented catastrophe rather than clean closure. Romeo succeeds by keeping the country from crossing a line, not by making the line disappear.
+
+================================================================================
+09. DESIGN RULES
+================================================================================
+
+1. Do not make every domestic armed group identical.
+Differentiate:
+- committed New American Frontier cadres
+- adjacent militias drifting toward them
+- frightened local defense groups
+- opportunists and profiteers
+- legitimate local figures who are armed, difficult, and not villains
+
+2. Do not over-federalize Romeo.
+He should remain grounded in people, consequence, and practical legitimacy rather than becoming a pure avatar of abstract state power.
+
+3. Do not make Russia the whole explanation.
+Foreign support sharpens the threat. It does not absolve domestic actors of agency.
+
+4. Keep the campaign postwar, not postpolitical.
+The shooting matters because the political settlement is still contested.
+
+5. Preserve overlap material as continuity, not spectacle.
+HOME ADVANTAGE should feel like one consequence of a larger shared war record, not an event built around character reunion applause.
+
+================================================================================
+10. RECOMMENDED NEXT FOLLOW-THROUGH
+================================================================================
+
+1. build a dedicated HOME ADVANTAGE mission reference page
+2. create a compact Romeo Game 4 mission ladder v0.1 with provisional titles for the non-landed act anchors
+3. expand PACER / RIVER / STATIC / SUNNY / HAZZARD into proper source-side character pages if the faction holds
+4. mirror the stable essentials into future Core / Missions / Characters refreshes once the broader Game 4 lane is mature enough
