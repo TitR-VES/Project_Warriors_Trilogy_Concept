@@ -1,0 +1,57 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+Package: Game 4 Permanent Record Mission Pack
+Generated: 2026-05-07
+Version: rev1
+Status: compendium-side addendum / reviewable synthesis note
+
+PURPOSE
+This addendum provides a compact working-knowledge layer summary of the Game 4 / Spook / Permanent Record mission pack landed as source pages on 2026-05-07.
+
+USE RULE
+This file is a synthesis aid, not the preferred editing layer. The durable working copies live in:
+- dev_src_docs/story_campaigns/Game4/Spook/
+
+SOURCE PAGES COVERED
+- PW_Backup_Plan_Weapon_Presentation_Note_2026-05-07_rev1.txt
+- PW_DPRK_Defector_Safe_Passage_Mini_Arc_2026-05-07_rev1.txt
+- PW_Et_In_Arcadia_Ego_Mission_Reference_2026-05-07_rev1.txt
+- PW_Receivership_Mission_Reference_2026-05-07_rev1.txt
+- PW_Flow_Control_Mission_Reference_2026-05-07_rev1.txt
+- PW_And_Into_The_Fire_Mission_Reference_2026-05-07_rev1.txt
+- PW_Judgment_Day_Mission_Reference_2026-05-07_rev1.txt
+- PW_One_Head_of_the_Hydra_Aftermath_Reference_2026-05-07_rev1.txt
+- PW_Permanent_Record_Endgame_Ladder_2026-05-07_rev1.txt
+
+TOP-LEVEL MISSION STACK
+- ET IN ARCADIA EGO — Monaco / Marietta infiltration
+- RECEIVERSHIP — Haifa / Keter Maritime identity-confirmation mission
+- FLOW CONTROL — La Avispa warning / toll-road pressure beat before the final run
+- …AND INTO THE FIRE — direct cold-open continuation; Spook survives by timing the EVADE move into the passing sand barge below
+- JUDGMENT DAY — stealth-led Torres Mulieres breach, pencil ambush, Smoke wounded, solo pursuit, motorcycle escape, catastrophic non-fatal crash, capture
+- ONE HEAD OF THE HYDRA — post-capture device-data reveal showing the surviving network already overlaps with parts of the reconstruction order
+
+ASSOCIATED SUPPORT PAGE
+- DPRK Defector Safe-Passage Mini-Arc — human-source recovery operation tying sanctions-evasion, covert shipping, and foreign-foreknowledge threads into a compromised extraction
+- BACKUP PLAN weapon note — compact suppressed PDW identity, contingency role, and preferred action-shot deployment in the DPRK mini-arc or similar break-contact exfil
+
+KEY LOCKS
+1. Monaco title lock: ET IN ARCADIA EGO
+2. Haifa title lock: RECEIVERSHIP
+3. Highway pressure-beat title lock: FLOW CONTROL
+4. Cold-open continuation lock: …AND INTO THE FIRE resumes exactly where the cold open cuts away; Spook waits for the barge horn and jumps into the passing service barge carrying sand below
+5. Pencil ambush lock: at the Judgment Day office threshold, Stockbridge drives a pencil / pen into Spook’s vest line; first-person camera dips to it; Spook says one dry line only — “Really?”
+6. Judgment Day end-state lock: Stockbridge survives the crash catastrophically injured and is captured alive
+7. Aftermath title lock: ONE HEAD OF THE HYDRA
+8. End-state thematic lock: the campaign ends on real progress and real capture, but not triumph; the system survives in distributed, inherited, patronage-based form
+
+ENDGAME LADDER
+FLOW CONTROL
+→ …AND INTO THE FIRE
+→ JUDGMENT DAY
+→ ONE HEAD OF THE HYDRA
+
+FUNCTIONAL READ
+The Game 4 / Spook / Permanent Record mission cluster now has a stable late-campaign chain preserved in source pages and visible in the working-knowledge layer without requiring a full compendium rewrite.
+
+NEXT RECOMMENDED STEP
+Fold this addendum into the next full Missions / Scenes / Cinematics compendium refresh once the broader Permanent Record campaign spine has matured enough to justify a larger rev pass.
