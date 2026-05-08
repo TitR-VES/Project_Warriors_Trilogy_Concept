@@ -293,6 +293,27 @@ BUILD NAME NOTE:
 
 BUILD NAME displayed in inspect overlay: ARGINT
 
+--------------------------------------------------------------------------------
+BUILD 10 — ENFANT TERRIBLE
+Character: Lana Erika Delhardt / Gillian Stockbridge — Permanent Record antagonist sidearm
+--------------------------------------------------------------------------------
+Platform:       Glock 26 V MOS
+Caliber:        9×19mm
+Finish:         Dark practical finish; restrained optics-ready compact profile
+
+OPTIONAL RESTRICTED LOAD:
+  SNAIL special armor-defeating ammunition
+  Non-commercial restricted-distribution specialty load
+
+NARRATIVE NOTE:
+  Associated with Lana Erika Delhardt, Stockbridge’s Buenos Aires cover identity.
+  The pistol should read as concealed, executive-carry, deniable, and socially legible
+  rather than overtly operator-coded. It is an emergency compact sidearm for the moment
+  when respectable civilian presentation collapses and Delhardt / Stockbridge needs a few
+  seconds of distance through sudden precise violence.
+
+BUILD NAME displayed in inspect overlay: ENFANT TERRIBLE
+
 ================================================================================
 SIGNATURE SIDEARMS — SUPPORTING CHARACTERS
 ================================================================================
@@ -612,7 +633,7 @@ BEHAVIOR BY WEAPON CLASS:
 SIGNATURE WEAPON EXTENDED INSPECT:
   Signature builds receive slightly longer or more detailed animations
   Build name appears in small text at bottom of inspect frame for:
-  GRAY GHOST / NOTHING / FREYA / TRG M10 / ARGINT / DON'T TREAD
+  GRAY GHOST / NOTHING / FREYA / TRG M10 / ARGINT / DON'T TREAD / ENFANT TERRIBLE
   WREN does not appear in overlay — discoverable only via
   bolt-open empty-chamber animation
 
