@@ -1,0 +1,34 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+MISSION REFERENCE PAGE
+Title: …AND INTO THE FIRE
+Generated: 2026-05-08
+Revision: rev1
+Status: source-ready draft
+
+PURPOSE
+This page defines the final-approach mission beat …AND INTO THE FIRE for Spook’s Game 4 campaign Permanent Record. Its primary structural job is to resume the campaign exactly where the cold open cuts away and carry that interrupted frame forward into the broader Delhardt endgame.
+
+CORE IDENTITY
+…AND INTO THE FIRE is the moment where the campaign stops rewinding and lets the player survive the frame they were left hanging inside.
+
+COLD OPEN CONTINUATION LOCK
+The mission picks up exactly where the campaign cold open cuts away. Spook appears cornered on an exposed line above an industrial waterfront/service channel. He does not simply drop into generic lower cover.
+
+BARge ESCAPE LOCK
+The escape is triggered when Spook hears a service-barge horn below and realizes a moving barge carrying a sand load is passing under him. The first major playable beat is an EVADE prompt. Spook commits by jumping into the passing sand barge below rather than holding position or making a blind leap into open space.
+
+ENVIRONMENT LOCK
+Preferred texture:
+- industrial waterfront / service channel
+- moving work barge
+- sand or aggregate load container
+- harsh port-industrial lighting and steel geometry
+- site-specific movement rather than a generic rooftop escape
+
+FUNCTION IN CAMPAIGN
+This beat reveals that the cold open was a true interrupted mission-state, not a disconnected teaser image. It also turns endgame pressure into final physical approach.
+
+DESIGN RULE
+The barge jump should feel opportunistic and sharp, not flashy or implausible. Spook survives by reading the environment faster than the people trying to kill him.
+
+END OF FILE
