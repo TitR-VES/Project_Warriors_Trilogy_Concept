@@ -1,0 +1,156 @@
+PROJECT WARRIORS — ROMEO GAME 4 / COMMAND AUTHORITY
+CROSSOVER AND FACTION RECOVERY PACKET
+Generated: 2026-05-08
+Version: rev1
+Status: source-ready recovery / reconciliation pass
+Purpose: preserve the currently developed Romeo-adjacent Game 4 crossover material tied to Spook’s Permanent Record campaign, including the New Orleans / Lower Ninth Ward safe-house mission lane and the New American Frontier faction leadership / support structure.
+
+================================================================================
+01. CORE USE RULE
+================================================================================
+
+This page exists so the current Permanent Record landing does not silently preserve only the Spook-side half of the shared Game 4 structure.
+
+Use it to preserve:
+- the intelligence handoff from Spook’s early domestic-investigation arc into Romeo’s campaign
+- the New Orleans / Lower Ninth Ward mission lane
+- the current New American Frontier faction direction
+- the named senior figures currently developed for that faction
+
+================================================================================
+02. CROSS-CAMPAIGN HANDOFF LOCK
+================================================================================
+
+Preferred current crossover logic:
+During Spook’s LINE OF FIRE arc, the Twin Cities / Chicago investigation chain produces actionable intelligence about a domestic extremist safe house in New Orleans. Spook and Victor Two Bravo pass that intelligence up the chain rather than personally running the raid. Later, Romeo’s campaign receives it as a field-action lead and moves on the property with Andre Bridges and attached USMC support.
+
+Use rule:
+- keep the crossover subtle
+- prefer intelligence continuity over direct reunion spectacle
+- the line should read like: “CIA gave us something fresh,” not like a crossover event announcement
+
+================================================================================
+03. NEW ORLEANS / LOWER NINTH WARD MISSION LANE
+================================================================================
+
+Current preferred mission title:
+HOME ADVANTAGE
+
+Mission role:
+Romeo-side New Orleans raid on a domestic extremist safe house or staging property in the Lower Ninth Ward.
+
+Why the lane matters:
+- it turns Spook’s domestic-investigation work into downstream field consequence
+- it gives Andre Bridges a geographically and emotionally meaningful role
+- it helps Game 4 feel like one connected restoration-era conflict rather than three sealed campaigns
+
+Andre Bridges note:
+Bridges’ New Orleans origin gives him legitimate local texture and emotional charge here, but it should not be overplayed into hometown-superpower writing. The value is lived familiarity, not magic omniscience.
+
+Tone rule:
+The mission should feel like a raid on a place where ideology, logistics, and domestic insurgent myth-making have briefly taken physical shelter inside an American ruin-scape that still remembers older disasters.
+
+================================================================================
+04. NEW AMERICAN FRONTIER — FACTION DIRECTION
+================================================================================
+
+Current preferred faction name:
+NEW AMERICAN FRONTIER
+Alternative expanded form:
+New American Frontier Movement
+
+Core direction:
+The New American Frontier is not one neat centrally controlled army. It is the dominant ideological pole among multiple smaller anti-establishment militias and armed groups that align around a shared restoration-distortion politics.
+
+Use rule:
+- present them as the big dog in a broader ecosystem, not the sole domestic extremist current
+- they are strongest where they can exploit instability, resentment, local armed authority, and the vacuum between restoration and legitimacy
+- they should feel politically dangerous and operationally capable without becoming cartoon omnipotent supervillains
+
+================================================================================
+05. SENIOR FIGURE RECOVERY BLOCK
+================================================================================
+
+A) GREGORY DAVID ALLEN — “PACER”
+Preferred role:
+Senior New American Frontier leader.
+
+Current direction:
+- former USMC Force Recon
+- Iraq / Afghanistan veteran
+- long-range reconnaissance and marksman background
+- trained in paramilitary operations
+- preferred rank history: Gunnery Sergeant
+- origin: Westport, Washington
+
+Use rule:
+Pacer should read as a credible, dangerous veteran organizer whose professional capability gives the movement real edge, not as a cosplay demagogue.
+
+B) DALTON MAYNARD CRANE — “RIVER”
+Preferred role:
+Second-in-command / senior field figure.
+
+Current direction:
+- former military background
+- origin: Augusta, Maine
+- harder field / route / movement identity than Pacer
+
+C) DYLAN JOSEPH PERETTI — “STATIC”
+Preferred role:
+Third-in-command / systems-denial specialist.
+
+Current direction:
+- former Air Force drone pilot
+- Iraq / Afghanistan veteran
+- origin: Camden, New Jersey
+- gives the group an edge in surveillance circumvention and tactical technical disruption without turning him into a fantasy hacker
+
+D) CHERYL LYNN VAUGHN — “SUNNY”
+Preferred role:
+Senior intelligence / human engagement figure.
+
+Current direction:
+- former U.S. Army intelligence
+- origin: Telluride, Colorado
+- demeanor can draw loosely on a Mary Elizabeth Winstead lane without becoming likeness-dependent
+- strong current scene concept: Romeo meets her in a bar; flirtation flips into quiet threat when she reveals she knows exactly who he is
+
+E) JEFFERSON LEE DAVIS — “HAZZARD”
+Preferred role:
+Area denial / explosives / CBRN-adjacent technical specialist.
+
+Current direction:
+- origin: Natchez, Mississippi
+- trained EOD / explosive-handling background
+- strong utility as hidden-area-denial and bomb-making / deployment node inside the faction
+
+================================================================================
+06. SUNNY / ROMEO SCENE NOTE
+================================================================================
+
+One currently strong character beat worth preserving:
+Romeo meets Sunny in a bar while operating in a lower-signature social space. She initially reads as flirty and easygoing, then abruptly reveals she knows exactly who he is, proving the New American Frontier has better situational awareness than Romeo wanted to believe.
+
+Best current line preserved from thread logic:
+“If I wanted you burned, the room would already know.”
+
+Use rule:
+The scene should create uncertainty and intelligence asymmetry, not a cheap seduction beat.
+
+================================================================================
+07. DESIGN RULE
+================================================================================
+
+The New American Frontier material should not be stranded as “cool faction notes.” It matters because it shapes the American restoration-side threat environment Romeo is moving through while Spook is trying to keep the accountability record alive elsewhere.
+
+The shared Game 4 logic is:
+- Spook follows the admissible truth
+- Romeo collides with the armed domestic consequences of the same degraded political environment
+
+================================================================================
+08. RECOMMENDED NEXT FOLLOW-THROUGH
+================================================================================
+
+1. build a dedicated HOME ADVANTAGE mission reference page
+2. expand Pacer / River / Static / Sunny / Hazzard into proper character-profile pages if the faction continues to hold
+3. mirror the strongest faction essentials into a future Characters / DLC and Missions / Scenes refresh once the wider Game 4 pass is mature enough
