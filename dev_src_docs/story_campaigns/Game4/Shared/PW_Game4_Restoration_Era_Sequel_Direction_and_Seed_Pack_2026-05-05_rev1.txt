@@ -80,6 +80,9 @@ PERMANENT RECORD
 Associated note:
 FAULT TOLERANCE remains a strong reserve sub-arc / act title inside Ducky’s campaign rather than the preferred campaign-wide title.
 
+Additional Ducky note:
+ANTIFRAGILITY is the current preferred sub-arc title for the HYPERMNESTRA -> VIGILAN hardening / trust-architecture / coalition-fracture lane inside COMMON PICTURE.
+
 ================================================================================
 05. OVERALL GAME 4 THESIS
 ================================================================================
@@ -128,9 +131,15 @@ Key direction:
 - arguments over surveillance, autonomy, security, and resilience
 - preservation of civic continuity rather than only military advantage
 - selection of known-good systems versus politically expedient systems
+- the HYPERMNESTRA development effort as the codename for the post-AEGIS successor program
+- VIGILAN as the actual restoration-era replacement architecture produced by that effort
+- conflict over whether the rebuilt shared system can reject corrupted authority rather than merely centralize it more cleanly
 
 Important support-lane note:
 This campaign is the cleanest current home for Pacific-facing expansion assets, coalition partners, and regional pressure points such as South Africa, the Middle East, and selected South American nodes, provided they function as restoration-pressure environments rather than disconnected anthology detours.
+
+Additional Common Picture note:
+Y. T. Lin is a strong current fit as a consulting cryptography engineer attached to hardening the HYPERMNESTRA effort and the eventual VIGILAN architecture against PANDORA-class compromise paths.
 
 C) SPOOK — PERMANENT RECORD
 Theme: justice is a field operation.
