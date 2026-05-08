@@ -1,0 +1,59 @@
+PROJECT WARRIORS — PERMANENT RECORD COMPENDIUM PATCH
+Generated: 2026-05-08
+Version: rev1
+Purpose: compact synthesis-layer patch capturing the Game 4 Spook / Permanent Record source pages and thread locks landed in the 2026-05-08 source pack.
+
+SCOPE
+This patch is meant to be read alongside the existing working compendia. It records the new landed source pages and the key narrative / gameplay / character locks that should be mirrored into future full compendium refreshes.
+
+NEW SOURCE PAGES LANDED
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Investigative_Mission_Pack_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Flow_Control_Mission_Reference_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_And_Into_The_Fire_Mission_Reference_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Judgment_Day_Mission_Reference_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_One_Head_of_the_Hydra_Aftermath_Reference_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Endgame_Ladder_2026-05-08_rev1.txt
+
+================================================================================
+CHARACTERS / DLC LAYER
+================================================================================
+- Lana Erika Delhardt is the active public-facing alias.
+- Gillian Stockbridge is the buried real identity behind the mask.
+- Permanent Record’s late campaign should treat Delhardt/Stockbridge as one character operating through a deliberately managed commercial identity rather than as two separate late-stage reveals.
+- In the Judgment Day confrontation, Stockbridge should read as a ruthless, opportunistic civilian power broker rather than an elite close-quarters operator.
+
+================================================================================
+GAMEPLAY / WEAPONS / STYLE LAYER
+================================================================================
+- BACKUP PLAN is reaffirmed as Spook’s compact contingency PDW for close, controlled, deniable violence once a clean operation collapses.
+- Best current live-story deployment for BACKUP PLAN is the DPRK defector safe-passage mini-arc.
+- Spook’s key narrative-prompt lane remains clinical and operational. Strong current Game 4 prompt usage includes OPEN, OBSERVE, IDENTIFY, SECURE, NEUTRALIZE, BREAK CONTACT, and EVADE depending on mission context.
+- Judgment Day lead-up should emphasize stealth-led controlled entry, selective elimination, camera-angle avoidance, and optional surveillance degradation through a control-room/security node rather than broad assault.
+
+================================================================================
+MISSIONS / SCENES / CINEMATICS LAYER
+================================================================================
+Investigative chain lock:
+- ET IN ARCADIA EGO — Monaco / Marietta infiltration mission
+- RECEIVERSHIP — Haifa / Keter Maritime identity-confirmation mission
+- DPRK Defector Safe-Passage Mini-Arc — Seoul intermediary / South-side reception / compromised extraction chain
+
+Late-endgame ladder lock:
+- FLOW CONTROL — La Avispa warning / toll-road pressure beat before the final run
+- …AND INTO THE FIRE — cold-open continuation / sand-barge evade beat and final approach transition
+- JUDGMENT DAY — Torres Mulieres infiltration, Delhardt/Stockbridge confrontation, breakout, motorcycle escape, crash, capture
+- ONE HEAD OF THE HYDRA — post-capture device-data aftermath reveal that the network already overlaps with the rebuilding order
+
+Specific scene locks:
+- …AND INTO THE FIRE resumes exactly where the cold open cuts away. Spook survives by taking an EVADE prompt into a passing sand barge below after hearing the service-barge horn.
+- JUDGMENT DAY office-threshold rupture: Stockbridge drives a pen/pencil into Spook’s vest/webbing line; first-person camera drops to it; Spook reacts with a single dry “Really?” before the breakout.
+- Smoke is wounded non-fatally during Stockbridge’s breakout and falls out of the pursuit lane, forcing Tripper to stay with him while Spook continues alone.
+- Stockbridge’s escape ends with a violent but non-fatal motorcycle crash and capture.
+- The roadside exchange in Judgment Day stays lean and procedural. The deeper structural wound belongs to ONE HEAD OF THE HYDRA, not the crash scene.
+
+================================================================================
+LANDING / WORKFLOW NOTE
+================================================================================
+This patch is a synthesis-layer companion to the new Permanent Record source pages. Future full compendium refreshes should absorb these locks into the standing Characters, Gameplay, and Missions working compendia.
+
+END OF FILE
