@@ -1,0 +1,41 @@
+PROJECT WARRIORS — ROMEO GAME 4 / COMMAND AUTHORITY
+CHARACTER PROFILE PAGE
+Name: Dalton Maynard Crane
+Callsign / Nickname: RIVER
+Generated: 2026-05-08
+Version: rev1
+Status: source-ready draft
+
+PURPOSE
+This page preserves the current source-ready character direction for Dalton Maynard Crane, callsign River, as a senior New American Frontier field figure in Romeo’s Game 4 threat environment.
+
+CORE IDENTITY
+River should read as harder-edged field utility than Pacer: less symbolic, less politically load-bearing, more route-minded and terrain-practical. He is the kind of second-in-command who makes movement, positioning, and local action actually happen.
+
+CURRENT PREFERRED DIRECTION
+- former military background
+- current best origin lock: Augusta, Maine
+- second-in-command lane inside the New American Frontier block
+- more field-facing identity than overt ideological face
+
+ROLE IN FACTION
+River is the current best fit for a senior operational lieutenant: the man who turns broader faction intent into movement, staging, and tactical execution. He should help make the faction feel distributed and competent below the top rung.
+
+USE RULE
+Write River as someone who understands routes, pressure points, terrain, and practical violence. He should feel less like a speech-maker and more like a man who has already checked the roads, counted the angles, and figured out where the weak shoulder is.
+
+THREAT VALUE
+- movement planning
+- field logistics
+- route familiarity
+- practical command of local armed presence
+- ability to keep fragile faction cohesion functioning under pressure
+
+VOICE / BEHAVIOR GUIDANCE
+- terse
+- utilitarian
+- not interested in rhetoric unless it serves movement control
+- likely to come off colder and more immediately dangerous than Pacer in close space
+
+DESIGN RULE
+River should reinforce that the New American Frontier is not only dangerous at the ideological top. It has people underneath who know how to move force through real ground.
