@@ -14,7 +14,7 @@ CORE IDENTITY
 COLD OPEN CONTINUATION LOCK
 The mission picks up exactly where the campaign cold open cuts away. Spook appears cornered on an exposed line above an industrial waterfront/service channel. He does not simply drop into generic lower cover.
 
-BARge ESCAPE LOCK
+BARGE ESCAPE LOCK
 The escape is triggered when Spook hears a service-barge horn below and realizes a moving barge carrying a sand load is passing under him. The first major playable beat is an EVADE prompt. Spook commits by jumping into the passing sand barge below rather than holding position or making a blind leap into open space.
 
 ENVIRONMENT LOCK
