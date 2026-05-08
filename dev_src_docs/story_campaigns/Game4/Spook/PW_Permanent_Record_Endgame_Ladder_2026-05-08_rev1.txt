@@ -1,0 +1,32 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+COMPACT ENDGAME LADDER / CHAIN INSERTION SUMMARY
+Generated: 2026-05-08
+Revision: rev1
+Status: source-ready draft
+
+PURPOSE
+This page defines the late-endgame chain for Spook’s Game 4 campaign Permanent Record. The chain escalates from hostile pressure, to physical confrontation, to capture, to the final structural revelation that capture alone does not end the organism behind the conspiracy.
+
+ENDGAME CHAIN
+1. FLOW CONTROL
+Compact pressure mission placed shortly before the final run. Victor Two Bravo is forced into a deniable highway/toll-corridor interdiction attempt after a voice-only warning from La Avispa.
+
+2. …AND INTO THE FIRE
+Final-approach continuation beat that resumes exactly where the campaign cold open cuts away. Spook survives by taking the EVADE prompt into a passing sand barge below.
+
+3. JUDGMENT DAY
+Endgame confrontation mission in which Victor Two Bravo infiltrates Torres Mulieres quietly enough to catch Delhardt / Stockbridge before she can execute a clean early escape. Pencil ambush at the office door, Smoke wounded in the breakout, solo pursuit by Spook, motorcycle escape, violent crash, capture alive.
+
+4. ONE HEAD OF THE HYDRA
+Post-capture device-data aftermath beat. The team exploits Stockbridge’s recovered devices and learns that the corruption does not end with her capture. The surviving network already overlaps with parts of the rebuilding order.
+
+CHAIN LOGIC
+FLOW CONTROL = active pressure.
+…AND INTO THE FIRE = pressure becomes final approach.
+JUDGMENT DAY = confrontation, chase, crash, capture.
+ONE HEAD OF THE HYDRA = capture becomes structural revelation.
+
+CAMPAIGN-END FUNCTION
+This ladder gives Permanent Record the correct ending tone: real progress, real justice in motion, enduring contamination, and no false cleansing.
+
+END OF FILE
