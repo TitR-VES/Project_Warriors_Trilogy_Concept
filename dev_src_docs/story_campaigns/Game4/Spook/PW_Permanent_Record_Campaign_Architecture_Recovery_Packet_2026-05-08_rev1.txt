@@ -1,0 +1,155 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+CAMPAIGN ARCHITECTURE RECOVERY PACKET
+Generated: 2026-05-08
+Version: rev1
+Status: source-ready recovery / reconciliation pass
+Purpose: recover the broader current mission-chain architecture for Spook’s Game 4 campaign from the currently developed thread material, so the landed source set does not preserve only the mid/late mission cluster while dropping the early and cross-campaign connective work.
+
+================================================================================
+01. CORE USE RULE
+================================================================================
+
+This page is not a final full campaign bible.
+It is a source-side recovery packet that preserves the currently developed broad mission path and act / story-arc logic for Permanent Record.
+
+Use it to:
+- keep the early campaign from silently disappearing behind the later Monaco / Haifa / Buenos Aires pack
+- maintain continuity between domestic investigation, international pursuit, and endgame accountability
+- give future source pages a stable mission-order skeleton to land against
+
+================================================================================
+02. CURRENT HIGH-LEVEL SHAPE
+================================================================================
+
+Permanent Record currently reads most cleanly in three broad movement blocks:
+
+A) opening domestic-investigation / consequence block
+B) international pursuit / cover-collapse block
+C) late-campaign pressure / confrontation / aftermath block
+
+Preferred current story-arc naming within that structure:
+- LINE OF FIRE = early domestic-investigation arc
+- NO SHELTER = international pursuit / cover-collapse arc
+- final run = FLOW CONTROL -> …AND INTO THE FIRE -> JUDGMENT DAY -> ONE HEAD OF THE HYDRA
+
+================================================================================
+03. COLD-OPEN / RETURN STRUCTURE LOCK
+================================================================================
+
+The campaign should still open on the late-campaign cold-open frame where Spook appears cornered on the exposed industrial line above the waterfront / service channel. The cut-away is load-bearing.
+
+Later, …AND INTO THE FIRE returns to that exact moment. The player hears the barge horn, gets the EVADE prompt, and Spook throws himself into the passing service barge carrying sand below.
+
+Use rule:
+- treat the cold open as a real interrupted mission-state, not a disconnected teaser
+- do not let the broader campaign-recovery pass flatten that device
+
+================================================================================
+04. LINE OF FIRE ARC — CURRENT RECOVERY MODEL
+================================================================================
+
+LINE OF FIRE is the current preferred opening story arc for Permanent Record.
+
+Its job is to establish that Game 4 Spook is not reopening the old war from zero. He is entering a postwar accountability environment where domestic violence, surviving networks, and politically sensitive evidence paths are already colliding.
+
+Preferred current Line of Fire path:
+1. Minneapolis State Center bombing aftermath / investigation beat
+2. Twin Cities safe-house / staging-area exploitation
+3. Chicago follow-on mission from the more urgent lead recovered there
+4. Montreal bridge mission carrying the campaign from domestic consequence space toward the Delhardt / Moffat international trail
+
+Core function of the arc:
+- reintroduce Spook through investigation, consequence, and chain-of-custody pressure rather than a simple direct-action opener
+- establish that surviving domestic extremist infrastructure now overlaps with wider permanent-record accountability work
+- provide the intelligence seam that later creates one of Romeo’s Game 4 touchpoints
+
+================================================================================
+05. NO SHELTER ARC — CURRENT RECOVERY MODEL
+================================================================================
+
+NO SHELTER is the preferred current mid-campaign / international-pursuit story-arc title.
+
+Core meaning:
+The network is transnational, the cover identities are mobile, and the surviving facilitators still believe they can disappear into respectable systems. The arc proves they cannot do so cleanly.
+
+Preferred current No Shelter path:
+1. Montreal bridge continuation into the European lead
+2. Paris trailwork around the Geoffrey-Guy Moffat seam and the resurfaced maritime asset history
+3. Monaco / Marietta infiltration = ET IN ARCADIA EGO
+4. Haifa / Keter Maritime identity-confirmation mission = RECEIVERSHIP
+
+Placement rule:
+NO SHELTER should be treated as the arc that carries the campaign from domestic casework into the international Delhardt / Stockbridge pursuit, not as a disconnected travel block.
+
+================================================================================
+06. PARIS / MOFFAT RECOVERY NOTE
+================================================================================
+
+Paris must remain part of the live Permanent Record source set.
+
+Current recovery logic:
+- Geoffrey-Guy Moffat is the dead-network continuity seam
+- the resurfaced former Gerhana / now Marietta is one of the practical traces that survives him
+- Paris is where the campaign most clearly shows that elite social respectability, culture-facing professions, and covert mobility infrastructure can overlap without advertising their connection
+
+Use rule:
+Paris should feel like trailwork, access logic, and dead-network residue, not like a generic glamorous spy stop.
+
+================================================================================
+07. DPRK SAFE-PASSAGE PLACEMENT NOTE
+================================================================================
+
+The DPRK defector safe-passage mini-arc remains live and should be treated as a middle-to-late Permanent Record support lane rather than as a disconnected side branch.
+
+Best current placement:
+inside or adjacent to the broader NO SHELTER / pre-Argentina stretch, before the final Buenos Aires run closes.
+
+Why it still fits:
+- it expands the conspiracy’s finance / shipping / foreknowledge dimension
+- it gives BACKUP PLAN a strong current story home
+- it broadens the campaign’s accountability scope without displacing the Delhardt hunt
+
+================================================================================
+08. FINAL RUN — CURRENT LOCKED CHAIN
+================================================================================
+
+Current late-endgame chain remains:
+- FLOW CONTROL
+- …AND INTO THE FIRE
+- JUDGMENT DAY
+- ONE HEAD OF THE HYDRA
+
+These pages are already landed separately and should be treated as the tightest current endgame packet.
+
+================================================================================
+09. CROSS-CAMPAIGN TOUCHPOINT RULE
+================================================================================
+
+Permanent Record should not live as a sealed Spook-only corridor.
+
+Load-bearing cross-campaign rule:
+The early domestic-investigation material in Line of Fire produces at least one actionable intelligence seam that later travels into Romeo’s Game 4 campaign, specifically the New Orleans / Lower Ninth Ward safe-house lane.
+
+Use rule:
+- keep the crossover subtle
+- prefer intelligence continuity over direct character reunion spectacle
+- let the shared world do the work
+
+================================================================================
+10. DESIGN RULE
+================================================================================
+
+The main risk this recovery packet is designed to prevent is source drift where the later glamorous / international / endgame beats survive because they were written last, while the earlier mission logic that makes them meaningful silently drops out.
+
+Permanent Record is strongest when it preserves all three of these registers together:
+- domestic consequence
+- international pursuit
+- procedural endgame accountability
+
+================================================================================
+11. RECOMMENDED NEXT FOLLOW-THROUGH
+================================================================================
+
+1. keep using LINE OF FIRE and NO SHELTER as working story-arc labels unless and until a better architecture pass displaces them
+2. land dedicated source pages for the early-arc mission chain rather than leaving it only in campaign-recovery prose
+3. preserve the Romeo-side crossover packet and New American Frontier faction material in parallel so the Game 4 source lane does not drift back into single-campaign isolation
