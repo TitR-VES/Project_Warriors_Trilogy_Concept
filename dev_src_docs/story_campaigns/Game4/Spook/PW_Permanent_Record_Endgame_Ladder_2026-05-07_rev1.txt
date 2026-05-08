@@ -1,0 +1,57 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+COMPACT ENDGAME LADDER / CHAIN INSERTION SUMMARY
+Generated: 2026-05-07
+Version: rev1
+Status: source-ready draft
+
+PURPOSE
+This page defines the late-endgame chain for Spook’s Game 4 campaign Permanent Record. The chain should deliver a clean escalation from hostile pressure, to physical confrontation, to capture, to the final structural revelation that capture alone does not end the organism behind the conspiracy.
+
+The correct emotional shape is:
+- pressure
+- pursuit
+- consequence
+- contamination
+- partial victory without triumph
+
+ENDGAME CHAIN
+1. FLOW CONTROL
+Compact pressure mission placed shortly before the final run. Victor Two Bravo moves covertly through a South American highway corridor and is forced into a deniable interdiction attempt after a voice-only warning from La Avispa. The mission proves that Stockbridge-aligned infrastructure is already acting to cut Spook off before the final approach.
+
+2. …AND INTO THE FIRE
+Final approach / cold-open continuation beat. This mission resumes exactly where the campaign cold open cuts away. The first major playable beat is the EVADE prompt, where Spook times his move off the exposed line and jumps into the passing service barge carrying a sand load below.
+
+3. JUDGMENT DAY
+Endgame confrontation mission. Victor Two Bravo infiltrates Torres Mulieres through a quiet, stealth-led breach built around controlled suppression, camera-angle avoidance, optional surveillance degradation, and selective elimination rather than broad assault. At the office threshold, Stockbridge launches the pencil ambush, breaks away with a concealed pistol, non-fatally wounds Smoke, forces Tripper to stay with him, and leaves Spook to continue the pursuit alone. She reaches a staged motorcycle, escapes the building, loses control in the street, and is violently struck by a delivery van. She survives catastrophically injured and is captured alive.
+
+4. ONE HEAD OF THE HYDRA
+Post-capture aftermath beat. Victor Two Bravo exploits Stockbridge’s recovered personal devices in a controlled secure setting and discovers that the corruption does not end with her. The surviving network already overlaps with people, institutions, and patronage lines involved in rebuilding the postwar order.
+
+CHAIN LOGIC
+FLOW CONTROL
+Network pressure becomes active.
+
+…AND INTO THE FIRE
+Pressure becomes final approach and cold-open survival continuation.
+
+JUDGMENT DAY
+Approach becomes confrontation, pursuit, crash, capture.
+
+ONE HEAD OF THE HYDRA
+Capture becomes revelation that the system survives.
+
+DESIGN RULES
+- FLOW CONTROL must stay compact and sharp.
+- …AND INTO THE FIRE must preserve the cold-open continuation function.
+- JUDGMENT DAY must stay stealth-led long enough to justify Stockbridge still being physically present.
+- The roadside exchange in JUDGMENT DAY must remain lean.
+- ONE HEAD OF THE HYDRA must feel procedural and evidentiary, not like a final exposition speech.
+- The end-state must remain partial victory: real damage done to the network, real capture achieved, but no false sense of total cleansing.
+
+CAMPAIGN-END FUNCTION
+This ladder gives Permanent Record the correct ending tone:
+- not defeat
+- not triumph
+- real progress
+- real justice in motion
+- enduring contamination
