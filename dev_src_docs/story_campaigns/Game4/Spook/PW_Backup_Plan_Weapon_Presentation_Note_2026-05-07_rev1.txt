@@ -1,0 +1,42 @@
+PROJECT WARRIORS — SPOOK GAME 4 WEAPON PRESENTATION NOTE
+Build Name: BACKUP PLAN
+Character: Trevor “Spook” Gartner
+Campaign: Game 4 / Permanent Record
+Generated: 2026-05-07
+Version: rev1
+Status: working lock / source-ready development note
+
+PURPOSE
+This page preserves the current source-ready presentation logic for BACKUP PLAN, Spook’s compact suppressed Game 4 PDW build.
+
+CORE IDENTITY
+BACKUP PLAN is a contingency weapon for close, controlled, deniable violence when an operation collapses and the primary plan no longer exists.
+
+PLATFORM
+HK MP7A1
+
+CONFIGURATION
+- 4.6×30mm armor-defeating / armor-piercing load
+- factory MP7A1 profile
+- integrated folding foregrip
+- top rail
+- compact micro red-dot / collimator sight
+- compact suppressor
+- fully extendable stock
+- dark, low-reflective, agency-practical finish
+- no decorative markings or vanity customization
+
+ROLE LOGIC
+BACKUP PLAN does not replace GRAY GHOST or NOTHING. It occupies the emergency compact-PDW slot: the weapon Spook carries when covert movement, confined-space contact, armored opposition, and extraction failure are all plausible.
+
+NAME LOGIC
+The name is intentionally dry and operational. BACKUP PLAN should not read as bravado. It is Spook naming the contingency rather than romanticizing the weapon.
+
+ACTION-SHOT PRESENTATION LOCK
+Preferred hero/action image: Spook wields the suppressed MP7A1 one-handed, stock fully extended, buttplate braced against the inside of his shoulder, while covering an exit route during an extraction-gone-bad. His off hand is occupied dragging a wounded teammate, defector, VIP, or critical intel package behind him.
+
+BEST CURRENT MISSION FIT
+Top current placement is the Game 4 DPRK defector safe-passage mini-arc, especially if Spook is extracting one surviving defector or evidence package after the tunnel reception operation turns violent. Secondary fit remains any Permanent Record emergency exfil / break-contact sequence where Spook must move one-handed while preserving a human or evidentiary asset.
+
+DESIGN RULE
+BACKUP PLAN should communicate ugly contingency. It is not a beauty-shot gun. It is the weapon that appears when the op has gone wrong and Spook still has to get someone or something out alive.
