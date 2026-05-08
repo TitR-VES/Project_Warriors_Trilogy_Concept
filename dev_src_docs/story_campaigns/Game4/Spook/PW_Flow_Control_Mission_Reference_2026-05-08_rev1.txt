@@ -1,0 +1,60 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+MISSION REFERENCE PAGE
+Title: FLOW CONTROL
+Generated: 2026-05-08
+Revision: rev1
+Status: source-ready draft
+
+PURPOSE
+This page defines the compact pressure mission FLOW CONTROL for Spook’s Game 4 campaign Permanent Record. The mission is a late bridge beat placed shortly before the final run on Delhardt / Stockbridge.
+
+ROLE IN CAMPAIGN
+FLOW CONTROL proves that as Spook closes on Stockbridge, her network is no longer content to watch. It is actively shaping movement, compressing routes, and attempting to cut Victor Two Bravo off before the final approach.
+
+CORE IDENTITY
+Compact pressure mission built around:
+- covert movement turning into interdiction
+- civilian-roadway target discrimination
+- La Avispa voice-only warning call
+- short, intense lane-constriction ambush
+- breakout and moving rear-security exfil
+
+PLACEMENT
+Preferred placement is South America, during covert movement between a staging point and the final Buenos Aires / Torres Mulieres lead-in.
+
+MISSION PREMISE
+Victor Two Bravo is moving covertly by SUV through a civilian highway / toll-corridor environment. Subtle anomalies in traffic behavior suggest the team is already being shaped. Before the ambush fully manifests, La Avispa breaks silence via burner call to warn Spook that the tail behind them is real and that any closure ahead should be assumed arranged.
+
+ENVIRONMENT LOCK
+Preferred physical ingredients:
+- multi-lane divided highway
+- toll booths or lane-control chokepoint
+- barrier islands, crash rails, service shoulder
+- civilian cars, vans, motorcycles, buses
+- road lighting, overhead gantries, maintenance barriers
+- public normalcy becoming tactical liability
+
+MISSION SHAPE
+1. Covert movement and pattern wrongness
+2. Burner call from La Avispa
+3. Toll-lane / constriction choke point
+4. Disciplined deniable interdiction attempt
+5. Civilian-target discrimination firefight
+6. Breakout through the kill box
+7. Moving rear-security exfil from the open rear of the SUV
+
+TEAM ROLE SPLIT
+- Smoke driving
+- Tripper handling traffic read, target calls, and route logic
+- Spook acting as rear security after breakout
+
+WEAPON / GEAR LOCK
+GRAY GHOST handles the larger share of rear-security fire once the SUV clears the choke point. BACKUP PLAN appears once the geometry tightens and the fight compresses. Spook clips into a retention lanyard before the hatch phase.
+
+LA AVISPA USE RULE
+La Avispa appears only as a warning edge. Her call must stay brief, urgent, tradecraft-clean, and emotionally restrained.
+
+DESIGN RULE
+Treat FLOW CONTROL as a pressure mission, not a feature mission. Its value comes from precision, not scale.
+
+END OF FILE
