@@ -1,0 +1,39 @@
+PROJECT WARRIORS — SOURCE LANDING SUMMARY
+Package: Permanent Record Thread Pack
+Generated: 2026-05-08
+Version: rev1
+
+PURPOSE
+This summary records the Game 4 Spook / Permanent Record source pages and synthesis-layer patch landed from the narrative-development thread covering the Delhardt / Stockbridge investigation chain, the DPRK defector mini-arc, and the late-endgame ladder.
+
+BRANCH
+source-landing/permanent-record-thread-pack-2026-05-08
+
+FILES ADDED
+1. dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Investigative_Mission_Pack_2026-05-08_rev1.txt
+2. dev_src_docs/story_campaigns/Game4/Spook/PW_Flow_Control_Mission_Reference_2026-05-08_rev1.txt
+3. dev_src_docs/story_campaigns/Game4/Spook/PW_And_Into_The_Fire_Mission_Reference_2026-05-08_rev1.txt
+4. dev_src_docs/story_campaigns/Game4/Spook/PW_Judgment_Day_Mission_Reference_2026-05-08_rev1.txt
+5. dev_src_docs/story_campaigns/Game4/Spook/PW_One_Head_of_the_Hydra_Aftermath_Reference_2026-05-08_rev1.txt
+6. dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Endgame_Ladder_2026-05-08_rev1.txt
+7. Project_Warriors_Knowledge_Compendia/PW_Permanent_Record_Compendium_Patch_2026-05-08_rev1.txt
+
+SOURCE-LAYER OUTCOME
+The Permanent Record late-game work from this thread now exists as dedicated source pages in active authoring rather than only as conversational development.
+
+KEY LOCKS CARRIED FORWARD
+- Delhardt / Stockbridge identity collapse preserved as an active campaign truth.
+- Monaco / Haifa / DPRK investigative chain landed in source-ready form.
+- FLOW CONTROL, …AND INTO THE FIRE, JUDGMENT DAY, and ONE HEAD OF THE HYDRA landed as distinct late-campaign nodes.
+- Cold-open continuation via the sand-barge EVADE beat is preserved.
+- Judgment Day office-threshold pencil hit with the single “Really?” reaction is preserved.
+- Lean crash-site exchange + post-capture device-data reveal structure is preserved.
+- BACKUP PLAN’s strongest current story-space fit remains the DPRK defector safe-passage mini-arc.
+
+SYNTHESIS-LAYER OUTCOME
+A compact Permanent Record compendium patch has been added so the new source pages and locks are visible from the synthesis layer without requiring a full standing-compendium rewrite on the same branch.
+
+FOLLOW-UP RECOMMENDATION
+At the next broader compendium refresh, absorb the contents of the Permanent Record compendium patch into the standing Characters / DLC, Gameplay / Weapons / Style, and Missions / Scenes / Cinematics working compendia.
+
+END OF FILE
