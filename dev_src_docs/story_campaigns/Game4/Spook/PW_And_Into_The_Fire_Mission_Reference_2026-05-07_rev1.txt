@@ -1,0 +1,38 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+MISSION REFERENCE PAGE
+Title: …AND INTO THE FIRE
+Generated: 2026-05-07
+Version: rev1
+Status: source-ready draft
+Scope: mission reference / continuation-beat alignment page
+
+PURPOSE
+This page defines …AND INTO THE FIRE, the mission that resumes directly from the campaign cold open. Its job is to reveal that the cold open was not a disconnected teaser but a true interrupted mission-state whose withheld continuation becomes playable later.
+
+PLACEMENT
+…AND INTO THE FIRE belongs immediately after FLOW CONTROL and functions as the final approach / continuation bridge into the Delhardt confrontation phase.
+
+CORE IDENTITY
+…AND INTO THE FIRE is not just another transition mission. It is the moment where the campaign stops rewinding and finally lets the player survive the exact frame they were left hanging inside.
+
+CONTINUATION LOCK
+The mission must pick up exactly where the cold open cuts away. Spook appears cornered on an exposed line above an industrial waterfront / service channel. He does not simply jump into generic lower cover. He holds until he hears a service-barge horn below, realizes a moving barge carrying a sand load is passing under him, and commits to the move.
+
+FIRST MAJOR PLAYABLE BEAT
+The first high-impact prompt is:
+EVADE
+
+Spook throws himself into the passing service barge below, specifically into or onto the sand-carrying load area, using the barge’s movement as the only viable escape line rather than a blind leap.
+
+ENVIRONMENT
+Preferred texture:
+- industrial waterfront / service channel
+- container flow, aggregate handling, runoff, grime, and logistics-space harshness
+- moving barge traffic
+- site-specific freight / port identity rather than generic rooftop escape logic
+
+FUNCTION OF THE BEAT
+This beat should show that the cold open was a true interrupted mission-state and that Spook survives by reading the environment faster than the people trying to kill him.
+
+DESIGN RULE
+Treat the barge jump as a sharp environmental-read survival decision, not a generic cinematic leap.
