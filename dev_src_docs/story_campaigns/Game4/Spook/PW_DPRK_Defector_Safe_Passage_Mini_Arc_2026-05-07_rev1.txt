@@ -1,0 +1,90 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+MINI-ARC REFERENCE PAGE
+Title: DPRK Defector Safe-Passage Mini-Arc
+Generated: 2026-05-07
+Version: rev1
+Status: source-ready draft
+Scope: linked mission / mini-arc reference page
+
+PURPOSE
+This page defines the South Korea / DMZ-adjacent DPRK defector mini-arc for Spook’s Game 4 campaign Permanent Record. The arc exists to connect the campaign’s conspiracy-finance thread, covert shipping / sanctions-evasion thread, and foreign-foreknowledge thread to a human-source extraction that feels dangerous, plausible, and mission-shaped rather than expositional.
+
+PLACEMENT
+This mini-arc belongs in the middle-to-late investigation phase of Permanent Record, before the final Delhardt / Stockbridge endgame hardens but after the campaign has already established that Spook is tracing a living network rather than a dead historical scandal.
+
+CORE IDENTITY
+The DPRK defector mini-arc is a three-step intelligence / extraction chain:
+1. Seoul intermediary contact
+2. DMZ / tunnel reception beat
+3. hot extraction under pressure
+
+NARRATIVE PREMISE
+A South Korea-based intermediary embedded in event-management / people-movement work maintains covert access to a defector-assistance network capable of moving sensitive human sources. Through this intermediary, Spook gets access to a network that knows the location and use-pattern of a secret tunnel under or adjacent to the DMZ. Two DPRK intelligence or intelligence-adjacent defectors are expected to emerge.
+
+DEFECTOR VALUE SPLIT
+- Defector One = finance / logistics / shipping / sanctions-evasion knowledge
+- Defector Two = intelligence-side knowledge about who was briefed in advance, what foreign services were told, and how DPRK prepared for the coming geopolitical rupture
+
+CONSPIRACY FUNCTION
+The mini-arc should illuminate:
+- sanctions evasion and covert shipping
+- foreign foreknowledge
+- administrative survivability of the conspiracy
+
+ARC SHAPE
+BEAT 1 — SEOUL INTERMEDIARY CONTACT
+Preferred setting is a massive entertainment-event environment in Seoul, such as a K-pop concert, fan convention, or adjacent logistics/control space where the intermediary can plausibly move people and paperwork without obvious suspicion. This beat remains restrained and functions as a contact-and-handoff scene rather than the main action payoff.
+
+BEAT 2 — SOUTH KOREAN-SIDE TUNNEL RECEPTION
+Victor Two Bravo moves into a DMZ-adjacent reception zone to secure the exit area around the tunnel before the defectors arrive. The player’s job is not to cross into North Korea and not to launch an assault. The job is to ensure that the ground on the South Korean side is safe enough for emergence and recovery.
+
+BEAT 3 — EMERGENCE AND COMPROMISED EXTRACTION
+The two defectors emerge alive, but one is already mortally wounded from a previous firefight before reaching the tunnel. Both may be carrying limited sidearms with spent or near-spent ammunition, implying they already fought to buy the escape window and are only alive because they won just enough time to get underground.
+
+DEATH OF ONE DEFECTOR
+Preferred current lock:
+- the finance / logistics / shipping-side defector dies after crossing
+- the intelligence-side defector survives
+
+The dead defector still transfers hard proof in physical form. The surviving defector carries the live explanatory value needed for the campaign to move forward.
+
+GAMEPLAY IDENTITY
+The mini-arc should emphasize:
+- covert contact
+- quiet movement in dense civilian or border-adjacent space
+- surveillance, route security, and stealth
+- protection of an extraction site rather than conquest of a battlefield
+- short, violent break-contact action once the handoff turns hot
+
+BACKUP PLAN DEPLOYMENT
+This mini-arc is the best current live-story placement for BACKUP PLAN. Preferred action image / story beat: Spook is forced into an extraction-gone-bad moment where he is covering the route one-handed with BACKUP PLAN, stock fully extended and braced against the inside of his shoulder, while dragging a wounded defector, teammate, or critical evidence package with his off hand.
+
+CHARACTER / TEAM ROLES
+- Spook = playable perspective and final extraction driver
+- Tripper = route logic, signals interpretation, and post-handoff data exploitation
+- Smoke = mobility / extraction support and casualty handling assistance
+
+PROMPT VOCABULARY
+Strong candidates:
+- OBSERVE
+- IDENTIFY
+- SECURE
+- EXTRACT
+- MOVE
+- NEUTRALIZE
+- BREAK CONTACT
+
+DOCUMENT PACKAGE RULE
+The physical intelligence handoff should feel ugly, handheld, and deniable:
+- ledger
+- coded notes
+- copied finance records
+- photo prints
+- partial archive on compact media
+- names, account markers, routing fragments, port or ship references, sanction-evasion identifiers
+
+THEMATIC FUNCTION
+The mini-arc shows that the conspiracy did not only live in elite rooms, executive shells, and covert yachts. It also forced frightened people inside closed systems to decide whether to die with the secret or risk everything to carry it out.
+
+DESIGN RULE
+Treat the DPRK defector arc as a human-source recovery operation under pressure, not as a military incursion mission.
