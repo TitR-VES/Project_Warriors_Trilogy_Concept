@@ -1,0 +1,67 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+STORY-ARC REFERENCE PAGE
+Title: LINE OF FIRE
+Generated: 2026-05-08
+Version: rev1
+Status: source-ready draft
+Scope: early-campaign story-arc reference / mission-chain alignment page
+
+PURPOSE
+This page defines LINE OF FIRE, the preferred current early story arc for Spook’s Game 4 campaign Permanent Record. Its job is to reintroduce Spook through domestic postwar accountability pressure, surviving extremist violence, and chain-of-custody investigation rather than through a simple direct-action opener.
+
+CORE IDENTITY
+LINE OF FIRE is a domestic-investigation / consequence arc. It should feel like the old conspiracy is no longer hidden in the same way, but justice still has to be built one admissible piece at a time while active violent remnants try to destroy witnesses, evidence, and political survivability.
+
+CURRENT CHAIN
+1. Minneapolis State Center bombing aftermath / investigation
+2. Twin Cities safe-house / staging-area exploitation
+3. Chicago follow-on mission from the more urgent lead recovered there
+4. Montreal bridge mission carrying the campaign toward the Delhardt / Moffat international trail
+
+01. MINNEAPOLIS STATE CENTER BOMBING
+The campaign’s early domestic consequence lane begins with the aftermath of the Minneapolis State Center bombing. Preferred function:
+- establish restoration-era America as unstable, contested, and still vulnerable to ideologically motivated violence
+- reintroduce Spook through scene reading, investigative follow-through, and evidence logic
+- create a visible wound in the domestic reconstruction order rather than opening on an abstract intelligence brief
+
+Presentation note:
+The bombing can also support a loading-screen / pre-mission newsreel or chyron treatment, helping the campaign open on public consequence before dropping into playable investigation.
+
+02. TWIN CITIES SAFE-HOUSE / STAGING AREA
+Spook tracks bombing-adjacent suspects to a safe house or staging area in or near Minneapolis / Saint Paul. This mission should feel like exploitation of a recently used operational space rather than a full-scale warzone.
+
+Primary functions:
+- identify local preparation, movement, and support residues
+- confirm that the bombing was not a lone isolated outburst
+- recover the more urgent lead that sends Victor Two Bravo onward
+- produce one piece of actionable intelligence that later matters to Romeo’s Game 4 campaign
+
+03. CHICAGO FOLLOW-ON MISSION
+Chicago is the next step once the Twin Cities exploitation yields the more urgent lead. The exact core target or payload remains open, but the mission’s role is already clear:
+- continue the chain from domestic violent consequence toward broader network structure
+- push the campaign physically and tonally out of the initial blast-investigation space
+- strengthen the sense that Victor Two Bravo is following a live route, not reconstructing a cold case
+
+Elastic-space note:
+One additional mission can still be inserted between Twin Cities and Chicago later if the campaign needs it, but the current source-ready path does not require it.
+
+04. MONTREAL BRIDGE MISSION
+Montreal is the bridge that carries LINE OF FIRE into the international-pursuit block. It should preserve momentum while changing the campaign’s operating register.
+
+Primary functions:
+- move the story out of purely domestic consequence space
+- connect the bombing / safe-house / Chicago line to the later Delhardt / Moffat trail
+- prepare the player for the shift into NO SHELTER without making the campaign feel episodic
+
+CROSS-CAMPAIGN TOUCHPOINT
+LINE OF FIRE must preserve at least one intelligence seam that later feeds Romeo’s Game 4 campaign. Current preferred receiving lane:
+- New Orleans / Lower Ninth Ward safe-house mission on Romeo’s side
+
+Use rule:
+The crossover should read as intelligence continuity, not as forced character handoff spectacle.
+
+THEMATIC FUNCTION
+LINE OF FIRE proves that postwar restoration is not a clean slide into peace. The violence has changed scale and register, but it is still political, organized, and tied to actors who believe history can be forced back into a narrower shape through fear.
+
+DESIGN RULE
+Treat LINE OF FIRE as a story arc built on consequence, evidence, and live-route investigation. Do not let it become a disconnected terrorism vignette or a generic procedural opening.
