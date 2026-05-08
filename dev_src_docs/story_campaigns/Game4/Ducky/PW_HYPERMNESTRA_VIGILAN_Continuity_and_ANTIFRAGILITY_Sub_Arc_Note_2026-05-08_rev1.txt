@@ -195,8 +195,39 @@ The stronger direction is:
 Lin’s value is not that she invents magic.
 Her value is that she knows where systems lie to themselves.
 
+Additional use rule:
+Lin’s collaboration should not be treated as automatic or politically frictionless. The campaign benefits if bringing her in, securing her trust, and then keeping her alive once her value is visible become real mission problems rather than off-screen assumptions.
+
 ================================================================================
-12. CURRENT LOCK SUMMARY
+12. KARL ALEXANDER “JAEGER” STANZLER
+================================================================================
+
+Jaeger is the strongest current DAOG / PYTHIA fit for the Y. T. Lin lane.
+
+Best function:
+Jaeger should act as the field-intelligence bridge between the HYPERMNESTRA / VIGILAN planners and Lin herself.
+
+That means he is a strong current fit for:
+- assessing whether Lin can be approached safely at all
+- helping secure her collaboration rather than assuming it
+- building the initial trust bridge between a skeptical technical specialist and damaged allied institutions
+- helping establish the security envelope once Lin becomes strategically valuable
+- participating in missions where protecting Lin matters because her knowledge has become operationally load-bearing
+
+Why Jaeger fits:
+- he already has continuity value as a PYTHIA / DAOG contact rather than a newly invented convenience figure
+- he can credibly operate in the seam between intelligence handling, institutional damage control, and practical field security
+- he helps keep the Lin lane from reading as a purely abstract technical subplot
+- he gives COMMON PICTURE a human bridge between doctrine, mistrust, and operations
+
+Use rule:
+Jaeger should not displace Ducky from the moral center of the lane, and he should not turn Lin into a passive escorted asset. His role is to help make contact, trust, and survivability plausible under hostile conditions.
+
+Strong mission-use direction:
+If there are missions or major beats built around protecting Lin, securing her movement, or extracting her from a pressure environment after she agrees to cooperate, Jaeger is a preferred recurring participant in those beats.
+
+================================================================================
+13. CURRENT LOCK SUMMARY
 ================================================================================
 
 - HYPERMNESTRA is the development codename for the post-AEGIS successor effort.
@@ -206,3 +237,4 @@ Her value is that she knows where systems lie to themselves.
 - ANTIFRAGILITY is the preferred Ducky Game 4 sub-arc title for the hardening / trust-architecture / coalition-fracture lane.
 - ANTIFRAGILE remains a strong reserve mission-level title inside that lane.
 - Y. T. Lin is the preferred consultative cryptography-engineering figure attached to hardening the HYPERMNESTRA effort and the eventual VIGILAN architecture against PANDORA-class attacks.
+- Jaeger is the preferred PYTHIA / DAOG continuity figure for securing Lin’s collaboration and participating in missions built around protecting her once that collaboration becomes strategically important.
