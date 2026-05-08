@@ -1,0 +1,86 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+MISSION REFERENCE PAGE
+Title: RECEIVERSHIP
+Generated: 2026-05-07
+Version: rev1
+Status: source-ready draft
+Scope: mission reference / narrative + gameplay alignment page
+
+PURPOSE
+This page defines the Haifa identity-confirmation mission RECEIVERSHIP. The mission exists to collapse ambiguity around Lana Erika Delhardt by giving Victor Two Bravo the first hard administrative proof that Delhardt and Gillian Stockbridge are the same person operating through a maritime shell structure.
+
+PLACEMENT
+RECEIVERSHIP belongs after ET IN ARCADIA EGO and before the final Argentina endgame fully closes around Stockbridge.
+
+CORE IDENTITY
+RECEIVERSHIP is a low-visibility intelligence mission built around:
+- covert access to a practical maritime-services company rather than a glamorous intelligence front
+- administrative proof instead of confession or lucky data dump
+- quiet records exploitation under real-world commercial cover
+- identity collapse through paperwork, service history, shell overlap, and concealed ownership / admin traces
+- a restrained exfil complication rather than a large firefight
+
+NARRATIVE PREMISE
+After the Monaco yacht infiltration, Victor Two Bravo extracts enough fragments from the Marietta’s service trail to identify a recurring maritime-management layer:
+Keter Maritime
+Haifa, Israel
+
+Keter Maritime presents as an ordinary port-economy company: vessel administration, charter support, customs clearing, registry / document handling, port services, and discreet maritime logistics. That ordinary face is the point.
+
+ENVIRONMENT
+Preferred location is port-adjacent Haifa, not a polished central-city tower and not a cinematic spy palace.
+Best current environmental read:
+- older concrete commercial / light-industrial office shell
+- mixed-use or semi-industrial neighborhood near the port
+- marine suppliers, service traffic, vans, scooters, and distant container movement
+- practical signage in ordinary commercial combinations
+- narrow offices, cheap glass partitions, fluorescent lighting
+- printers, filing systems, cable clutter, stale coffee, marine calendars, admin paper stacks
+- a more sensitive records / compliance layer hidden behind an ordinary front-office face
+
+MISSION SHAPE
+STAGE 1 — APPROACH AND ACCESS
+Spook reaches Keter Maritime under low-profile cover. Preferred approach is controlled infiltration through a legitimate-looking business environment rather than a blackout assault.
+
+STAGE 2 — FRONT-OFFICE READ
+Inside the public-facing Keter layer, the player gathers small non-dramatic clues. The office looks boring in exactly the wrong way. Marietta appears in scheduling or service history. Delhardt’s name does not appear openly. Client-handling patterns suggest that certain files and services are being treated differently than a normal charter-management shop would justify.
+
+STAGE 3 — RESTRICTED RECORDS / COMPLIANCE LAYER
+This is the mission hinge. Spook gains access to the real administrative core: a quieter, denser, smaller records / compliance node where the useful truth is stored. The player assembles proof through layered cross-reference rather than one magic file:
+- current Marietta records
+- former Gerhana identity residue
+- shell-routing and beneficial-owner overlap
+- client exception handling linked to Delhardt
+- buried identifying metadata or admin history collapsing Delhardt into Stockbridge
+
+STAGE 4 — EXIT UNDER PRESSURE
+Once the proof package is secured, the building behavior starts to shift. Security awareness rises, a wrong badge gets noticed, or a slow closure begins around the rear corridors and service exits. The mission ends in a controlled exfil under growing pressure, not a full kinetic set-piece.
+
+PROOF PACKAGE
+The mission should yield a compact but devastating extracted bundle:
+- Marietta service / admin records
+- remnants linking it to the former Gerhana
+- shell or beneficial-owner traces
+- concealed client / admin handling tied to Delhardt
+- metadata or historical identity residue proving Delhardt = Stockbridge
+- one deeper breadcrumb suggesting Keter belongs to a broader commercial-security shadow ecosystem
+
+CHARACTER / TEAM ROLES
+- Spook = pattern recognition, institutional literacy, stealth under pressure
+- Tripper = remote support for interpretation and anomaly spotting
+- Smoke = exterior watch, fallback mobility, emergency extraction contingency
+
+PROMPT VOCABULARY
+Strong candidates:
+- OBSERVE
+- ACQUIRE
+- SECURE
+- EXTRACT
+- HOLD
+- NEUTRALIZE only if the mission truly turns and a quiet removal becomes unavoidable
+
+THEMATIC FUNCTION
+RECEIVERSHIP is where suspicion becomes proof. Before Haifa, Delhardt is still a protected mask. After Haifa, the player knows the alias is real, administratively constructed, and sustained through a maritime shell layer.
+
+DESIGN RULE
+Treat RECEIVERSHIP as a proof mission, not a spectacle mission. The power of the mission is that the player wins by making the hidden administrative structure legible.
