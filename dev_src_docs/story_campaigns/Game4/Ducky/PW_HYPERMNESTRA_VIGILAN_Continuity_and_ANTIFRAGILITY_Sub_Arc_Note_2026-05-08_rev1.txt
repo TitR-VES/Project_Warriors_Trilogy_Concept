@@ -1,0 +1,208 @@
+PROJECT WARRIORS — DUCKY GAME 4 / COMMON PICTURE
+HYPERMNESTRA, VIGILAN, AND ANTIFRAGILITY CONTINUITY NOTE
+Generated: 2026-05-08
+Version: rev1
+Status: DEVELOPMENT / SOURCE-SIDE SKETCH
+Purpose: establish a source-ready Common Picture continuity note for HYPERMNESTRA as the development codename for the post-AEGIS successor effort, VIGILAN as the actual replacement system name, ANTIFRAGILITY as the preferred Ducky Game 4 sub-arc title, and Y. T. Lin’s best current campaign function.
+
+================================================================================
+01. CORE RULING
+================================================================================
+
+After AEGIS is publicly and institutionally understood to have been compromised, European NATO-aligned states begin work on a successor effort under the development codename HYPERMNESTRA.
+
+The actual restoration-era replacement system produced by that effort is VIGILAN:
+Vertically Integrated Geospatial Intelligence Layered Architecture Network.
+
+This distinction is important and should be preserved.
+
+HYPERMNESTRA is the programmatic / conceptual / development-codename layer.
+VIGILAN is the deployable architecture name.
+
+================================================================================
+02. HYPERMNESTRA
+================================================================================
+
+HYPERMNESTRA is the preferred codename for the development effort behind the post-AEGIS successor architecture.
+
+Best use:
+- concept-development packets
+- internal restoration-planning language
+- architecture hardening discussions
+- NATO / DAOG future-capability conversations
+- early seed mentions before the replacement system is actually fielded
+
+This is also the cleanest way to seed the lane in Ducky’s Game 3 campaign if needed.
+
+Game 3 use rule:
+HYPERMNESTRA may be mentioned as an early concept or development codename in Ducky’s Game 3 campaign, but it should not yet read as a completed answer, a publicly mature program, or a fully fielded system.
+
+================================================================================
+03. VIGILAN
+================================================================================
+
+VIGILAN is the actual replacement system name.
+
+Expansion:
+Vertically Integrated Geospatial Intelligence Layered Architecture Network.
+
+VIGILAN should be the name used when the restoration-era successor system is being discussed as something concrete, buildable, defendable, governable, and eventually fielded.
+
+Preferred read:
+- operationally legible
+- alliance-usable
+- sober and technical rather than mythic
+- plausible as an actual deployable system name that could survive procurement, doctrine, and service use
+
+================================================================================
+04. WHAT THE SUCCESSOR LANE IS ACTUALLY ABOUT
+================================================================================
+
+The core replacement problem is not only:
+- compute
+- speed
+- sensor fusion
+- throughput
+- coverage
+
+It is also:
+- trust
+- custody
+- credential legitimacy
+- model provenance
+- update authority
+- the ability to reject corrupted command paths
+
+The restoration problem is constitutional as much as technical.
+
+================================================================================
+05. DESIGN IDENTITY
+================================================================================
+
+The HYPERMNESTRA effort and the eventual VIGILAN architecture should be presented as:
+- post-quantum-hardened
+- quantum-assisted where useful, not magically dependent on quantum computing for everything
+- distributed across multiple allied custody domains
+- built around split trust, adversarial verification, and fail-closed behavior where legitimacy cannot be established
+- designed for survivability under degraded coalition conditions rather than for glossy central perfection
+
+Avoid writing this lane as a futuristic black-box supercomputer miracle.
+
+================================================================================
+06. WHY THE HYPERMNESTRA NAME MATTERS
+================================================================================
+
+The codename refers to Hypermnesta, the Danaid who refused her father’s order to murder her husband.
+
+That reference is load-bearing.
+
+The point is not only naming continuity with the established DAOG / AEGIS mythic lane. The point is that the successor effort is defined not only by perception, but by refusal.
+
+Guiding line:
+The system is being rebuilt not for perfect obedience, but for the capacity to reject corrupted authority.
+
+That is the moral and architectural lesson extracted from AEGIS’s compromise.
+
+================================================================================
+07. WHAT VIGILAN SHOULD EMBODY
+================================================================================
+
+Guiding design ethic:
+Seeing is not enough; the system must also know when not to obey.
+
+Preferred doctrine set:
+- no single hidden root of trust
+- no one-state or one-contractor silent override path
+- split cryptographic custody across multiple allied governments
+- model, firmware, and sensor-fusion provenance treated as first-order security concerns
+- mandatory challenge / cross-check logic between sovereign or regional nodes
+- selective human authorization tripwires for high-consequence tasking categories
+- graceful degradation preferred over brittle central optimization
+- vendor diversity treated as resilience doctrine, not inefficiency
+
+================================================================================
+08. DUCKY CAMPAIGN FUNCTION
+================================================================================
+
+In COMMON PICTURE, the HYPERMNESTRA -> VIGILAN lane should be one of the main political and technical battlegrounds of the campaign.
+
+The question is not only whether allied countries can build a replacement for AEGIS.
+The question is whether they can still trust one another enough to build a shared picture after shared betrayal.
+
+That lets the campaign stage conflicts around:
+- sovereignty versus integration
+- speed versus verifiability
+- resilience versus civil liberty
+- military urgency versus constitutional restraint
+- salvage of contaminated AEGIS-adjacent infrastructure versus full replacement
+- shared picture versus shared obedience
+
+Ducky’s strongest role remains field-side and moral rather than lab-side or abstractly technocratic.
+He is the operator who knows what bad trust design costs in blood.
+
+================================================================================
+09. ANTIFRAGILITY
+================================================================================
+
+Preferred Ducky Game 4 sub-arc title:
+ANTIFRAGILITY
+
+Why it fits better than ANTIFRAGILE as the arc-level title:
+- it reads like doctrine, process, and institutional struggle rather than a single operation
+- it suits a multi-mission lane about hardening, redesign, and political conflict over architecture
+- it implies an attempt to build a system that improves through stress rather than merely surviving it
+
+Reserve use:
+ANTIFRAGILE remains a strong mission title, operation label, or promotional phrase inside the broader ANTIFRAGILITY lane.
+
+================================================================================
+10. ANTIFRAGILITY SUB-ARC FUNCTION
+================================================================================
+
+ANTIFRAGILITY should be the sub-arc in which COMMON PICTURE most directly stages the fight over what the HYPERMNESTRA effort and the eventual VIGILAN architecture are allowed to become.
+
+This arc should not collapse into “protect the server farm.”
+
+Its real dramatic questions are:
+- what lessons from PANDORA are actually being learned
+- who gets custody over root authorities and update pathways
+- whether coalition partners will accept slower but cleaner trust structures
+- how much restoration-era surveillance power can be morally justified
+- whether emergency logic is quietly rebuilding the same fragility under different language
+
+Strong guiding question:
+How do you build something that becomes harder to subvert after surviving betrayal, instead of merely rebuilding the old fragility with better branding?
+
+================================================================================
+11. Y. T. LIN
+================================================================================
+
+Y. T. Lin is the preferred consulting cryptography engineer for the HYPERMNESTRA / VIGILAN / ANTIFRAGILITY lane.
+
+Best current role:
+a technically exact consultative specialist brought in to help NATO and AEGIS-adjacent restoration planners harden the HYPERMNESTRA effort and the eventual VIGILAN architecture against PANDORA-class compromise paths.
+
+Use rule:
+Do not write Lin as a miracle-worker, lone genius savior, or exposition machine.
+
+The stronger direction is:
+- skeptical
+- precise
+- difficult to impress
+- acutely aware that trust assumptions fail quietly before they fail catastrophically
+- more interested in custody, key management, verification, and adversarial pressure-testing than in elegant theory for its own sake
+
+Lin’s value is not that she invents magic.
+Her value is that she knows where systems lie to themselves.
+
+================================================================================
+12. CURRENT LOCK SUMMARY
+================================================================================
+
+- HYPERMNESTRA is the development codename for the post-AEGIS successor effort.
+- VIGILAN is the actual restoration-era replacement system name: Vertically Integrated Geospatial Intelligence Layered Architecture Network.
+- HYPERMNESTRA may be seeded as an early conceptual/programmatic reference in Ducky’s Game 3 campaign.
+- VIGILAN belongs primarily to the Game 4 / COMMON PICTURE restoration lane.
+- ANTIFRAGILITY is the preferred Ducky Game 4 sub-arc title for the hardening / trust-architecture / coalition-fracture lane.
+- ANTIFRAGILE remains a strong reserve mission-level title inside that lane.
+- Y. T. Lin is the preferred consultative cryptography-engineering figure attached to hardening the HYPERMNESTRA effort and the eventual VIGILAN architecture against PANDORA-class attacks.
