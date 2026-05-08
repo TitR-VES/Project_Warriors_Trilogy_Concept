@@ -1,0 +1,104 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+AFTERMATH REFERENCE PAGE
+Title: ONE HEAD OF THE HYDRA
+Generated: 2026-05-07
+Version: rev1
+Status: source-ready draft
+Scope: aftermath beat / narrative + structural alignment page
+
+PURPOSE
+This page defines ONE HEAD OF THE HYDRA, the post-capture aftermath beat that follows JUDGMENT DAY in Spook’s Game 4 campaign Permanent Record. Its job is not to restage the capture or prolong the roadside confrontation. Its job is to deliver the campaign’s final structural wound: the discovery that Gillian Stockbridge’s capture matters, but does not end the network. The corruption already extends into the people, institutions, and patronage lines involved in rebuilding the postwar order.
+
+PLACEMENT
+ONE HEAD OF THE HYDRA belongs immediately after JUDGMENT DAY.
+The sequence should work in two clean halves:
+- JUDGMENT DAY = confrontation, pursuit, crash, survival, custody
+- ONE HEAD OF THE HYDRA = device exploitation, pattern recognition, end-state dread
+
+CORE IDENTITY
+ONE HEAD OF THE HYDRA is a quiet post-mission evidence-exploitation beat built around four linked functions:
+1. confirm that Stockbridge’s personal devices contain real actionable value
+2. reveal that the conspiracy survives her capture in distributed form
+3. tie the surviving network to the postwar reconstruction order rather than only to the old war-making order
+4. end the campaign on partial victory rather than triumph
+
+NARRATIVE PREMISE
+After Stockbridge is captured alive in JUDGMENT DAY, Victor Two Bravo secures her personal devices for immediate exploitation. These should include some combination of:
+- phone
+- hardened secondary handset
+- secure tablet
+- personal laptop or removable encrypted storage
+- partial credential artifacts, contact caches, notes, or routing residue recovered from her immediate possession
+
+The initial assumption is that these devices will help close out her surviving network, identify fugitives, and lock down associated channels. They do provide that value. But the deeper significance is worse: they reveal that Stockbridge was not the last meaningful node of the organism. She was only one powerful head of it.
+
+REVEAL FUNCTION
+The extracted material should confirm that parts of the network already overlap with the structures and individuals involved in building the “new” order after the war. The stronger version is layered and institutionally poisonous:
+- some names already appear inside reconstruction, recovery, or stabilization architecture
+- some are direct participants
+- some are relatives, protégés, heirs, patrons, or continuation lines tied to older network families
+- some institutions meant to restore order are already contaminated by the patronage system that survived the war
+- some people may not even fully understand what they inherited, only that they were selected, protected, or advanced through the wrong channels
+
+The point is not “everyone is evil.” The point is that the organism knows how to survive regime change.
+
+SCENE SHAPE
+Preferred environment:
+- secure room / field-safehouse / agency-controlled exploitation suite
+- low light, screens, evidence trays, medical-bandage residue still visible on team members
+- procedural atmosphere, not theatrical noir
+
+Beat progression:
+1. devices opened / triaged
+2. ordinary high-value findings first: contacts, accounts, routes, retained assets
+3. then pattern anomaly: names or relationships appearing where they should not
+4. then recognition that the overlap reaches into reconstruction / recovery structures
+5. silence, dread, or one very short confirming exchange
+6. cut to black / playout song handoff
+
+WHAT THE DATA SHOULD CONTAIN
+The device bundle should not feel like a magic omniscient archive. It should be enough to imply scale and confirm continuation, not enough to answer every question in the franchise.
+
+Best data categories:
+- contact directories with sanitized naming conventions
+- secure-message residue
+- meeting schedules
+- donor / contractor / intermediary references
+- family or patronage-line cross-links
+- infrastructure / reconstruction committee names
+- protected-candidate lists
+- administrative handoff notes
+- succession-minded contingency planning
+- dead-drop / shell / proxy architecture indicating deliberate survivability
+
+DIALOGUE RULE
+Dialogue should remain sparse. The dread comes from reading, not speechifying.
+Example lane only:
+TRIPPER
+These aren’t holdovers.
+
+SPOOK
+No.
+
+TRIPPER
+They’re already in the rebuild.
+
+THEMATIC FUNCTION
+ONE HEAD OF THE HYDRA is the campaign’s final argument against comforting narrative closure. The player must leave with a double truth:
+- action mattered
+- justice still matters
+- but the system that created the catastrophe was built to survive decapitation
+
+MUSIC HANDOFF RULE
+This beat is the proper handoff point for the end-credit / playout track, not the crash site. The playout music should begin only after the player has understood what the devices mean.
+
+DESIGN RULE
+Treat ONE HEAD OF THE HYDRA as an aftermath revelation, not a final exposition dump. The more specific and procedural the evidence feels, the worse the realization becomes.
+
+CAMPAIGN-END FUNCTION
+This beat should close Spook’s Game 4 campaign in the correct tonal register:
+- not defeat
+- not triumph
+- real progress
+- partial justice
+- contaminated future
