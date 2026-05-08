@@ -1,0 +1,79 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+MISSION REFERENCE PAGE
+Title: FLOW CONTROL
+Generated: 2026-05-07
+Version: rev1
+Status: source-ready draft
+Scope: mission reference / narrative + gameplay alignment page
+
+PURPOSE
+This page defines the compact bridge mission FLOW CONTROL for Spook’s Game 4 campaign Permanent Record. The mission is designed as a short pressure escalation beat placed shortly before …AND INTO THE FIRE. Its job is to prove that Victor Two Bravo is already inside an adversarial engagement space and that Stockbridge-aligned infrastructure is now attempting to cut the team off before the final approach.
+
+PLACEMENT
+FLOW CONTROL belongs late in the campaign, during covert vehicle movement through a South American civilian highway corridor between a staging point and the final Buenos Aires / Torres Mulieres lead-in.
+
+CORE IDENTITY
+FLOW CONTROL is a compact covert-movement-turned-interdiction mission built around three linked functions:
+1. bring La Avispa back for a brief voice-only warning in a way that feels natural and tradecraft-sound
+2. show that Stockbridge-aligned actors still possess deniable violent reach beyond static surveillance or paperwork concealment
+3. give Spook a short grounded roadway ambush / breakout sequence that emphasizes target discrimination, controlled fire, and procedural survival rather than spectacle
+
+NARRATIVE PREMISE
+Victor Two Bravo is moving covertly by SUV through a civilian highway corridor in South America. The team believes it is still inside a relatively clean transit phase. Subtle anomalies in traffic behavior begin to suggest otherwise: recurring vehicles, induced slowdown, wrong-feeling lane closures, and the growing impression that normal road geometry is being shaped around them.
+
+Before the ambush fully manifests, Spook receives a burner call from La Avispa. She reaches out only because she has learned enough through her own channels to conclude that Victor Two Bravo may be about to be cut off before the mission can finish. Her warning is short and operational: the team has been seen, the tail is real, and any traffic closure ahead should be assumed arranged.
+
+ENVIRONMENT
+Preferred setting is a night or late-dusk civilian highway / toll-corridor in South America:
+- multi-lane divided roadway
+- toll booths or lane-control chokepoint
+- civilian traffic under compression
+- barrier islands, crash rails, maintenance signage, gantries
+- buses, sedans, service vans, motorcycles, stalled civilian vehicles
+- low roadside admin structures and toll-control huts
+
+MISSION SHAPE
+STAGE 1 — MOVEMENT
+Victor Two Bravo is in transit. The player has time to absorb normal traffic flow, team posture, and low-intensity operational conversation.
+
+STAGE 2 — PATTERN WRONGNESS
+Subtle anomalies accumulate. A recurring vehicle reappears in mirrors. Traffic slows too early. A lane indicator changes at the wrong time. A service or maintenance vehicle appears placed rather than incidental.
+
+STAGE 3 — LA AVISPA WARNING
+Spook’s burner rings. La Avispa confirms that the team has been seen and that the tail behind them is real. The scene gains force from the fact that Spook and team do not need a long debate about whether her warning is worth acting on.
+
+STAGE 4 — TOLL-LANE AMBUSH
+The team reaches a choke point with too little room to maneuver. Hostiles attempt a short disciplined interdiction strike among civilian traffic. The defining gameplay tension here is target discrimination: Spook cannot simply hose the lane.
+
+STAGE 5 — BREAKOUT AND REAR-SECURITY EXFIL
+Victor Two Bravo forces a breakout through the blockage. Once clear of the static kill geometry, the mission turns into a moving rear-security exfil. Spook clips into a retention lanyard, opens the rear hatch, and engages pursuing threats with GRAY GHOST and, at tighter geometry, BACKUP PLAN.
+
+TEAM ROLES
+- Spook = player character and rear security
+- Smoke = driver, calm and committed under pressure
+- Tripper = traffic read, route logic, target calls, anomaly recognition
+- La Avispa = voice-only warning presence
+
+PROMPT VOCABULARY
+Strong candidates:
+- OBSERVE
+- IDENTIFY
+- HOLD
+- SECURE
+- BREAK CONTACT
+- NEUTRALIZE
+
+WEAPON / GEAR USE
+GRAY GHOST should handle the larger share of rear-security work once the SUV has broken the choke point and gained speed. BACKUP PLAN should appear once the engagement geometry tightens. The retention lanyard clip-in is a load-bearing beat and should be preserved.
+
+ENEMY PROFILE
+Attackers should read as deniable, disciplined, and funded. Best current lane is a mixed interdiction cell: professional contract shooters or private-security-adjacent operators, possibly supported by one or two local assets with route familiarity or disposable utility value.
+
+THEMATIC FUNCTION
+FLOW CONTROL leaves three residues behind:
+- Victor Two Bravo survives and reaches the next staging area
+- the player now understands that Stockbridge’s network is taking active steps to cut the team off before the finale
+- La Avispa has re-entered the campaign just enough to matter without collapsing her into a regular support channel
+
+DESIGN RULE
+Treat FLOW CONTROL as a pressure mission, not a feature mission. Its value comes from precision, not scale.
