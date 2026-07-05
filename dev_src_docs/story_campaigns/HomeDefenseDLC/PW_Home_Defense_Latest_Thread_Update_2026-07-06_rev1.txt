@@ -1,0 +1,154 @@
+PROJECT WARRIORS — HOME DEFENSE DLC
+LATEST THREAD UPDATE
+Generated: 2026-07-06
+Version: rev1
+Status: source-ready latest-thread update / branch handoff layer
+
+PURPOSE
+This page lands the latest visible Home Defense / Australia DLC updates so the material is not stranded only in conversation memory. It is a source-side update for future compendium refresh.
+
+================================================================================
+01. CURRENT PLACEMENT
+================================================================================
+
+Home Defense should now be placed after Game 4, with the current user-preferred window around 2033.
+
+This supersedes older assumptions that Home Defense was immediately post-Game 3.
+
+Macro-context:
+- After Game 4, the United States is internally weakened and less able to provide strategic deterrence.
+- China proceeds after Taiwan / South Pacific consolidation.
+- Australia becomes a major contested front because the old U.S.-backed regional order has weakened.
+- The DLC should read as national defense and homeland mobilization, not as a side adventure.
+
+================================================================================
+02. PROTAGONIST / EMOTIONAL OWNERSHIP
+================================================================================
+
+Primary protagonist:
+Lucas Hill, Australian Army, 2RAR.
+
+Trailer ownership lock:
+Lucas Hill owns the Home Defense main trailer emotionally and in screen real estate.
+
+Switchblade use rule:
+Switchblade can function as connective tissue and callback through her Australian history, but she must not displace Hill or become the trailer's emotional center.
+
+Trailer thesis:
+“We're being attacked, we're mobilizing, and we stand here in defense of the homeland.”
+
+Hill line lock:
+“Stay low. Only when it breaks.”
+
+================================================================================
+03. SWITCHBLADE VISUAL / ROLE CONTINUITY
+================================================================================
+
+When Switchblade appears with Lucas Hill, her visual presentation should share the ADF frontline visual language rather than defaulting to older AEGIS presentation.
+
+Purpose:
+- returns her to Australian military heritage
+- makes her presence feel grounded in the Australian conflict rather than cameo-first
+- lets her reinforce the DLC's national-defense thesis without owning it
+
+================================================================================
+04. ADF GEAR AND SILHOUETTE
+================================================================================
+
+Current visual baseline:
+Use modern ADF full-kit photos as silhouette inspiration.
+
+Core silhouette ingredients:
+- AMCU / multicam-style field pattern logic
+- high-cut helmets with NVG shrouds and side rails
+- eye protection
+- face paint, balaclava, or gaiter depending on scene
+- plate carriers
+- hydration / assault packs
+- Australian marking logic where appropriate
+
+Rifle note:
+Visual references may show EF88 Austeyr. Lucas and squad can carry newer Thales ACAR-style rifles in-campaign if that remains the preferred near-future direction. Keep this flexible rather than overlocking one rifle from the reference set.
+
+================================================================================
+05. RHIB / OFFSHORE SEQUENCE
+================================================================================
+
+RHIB sequence correction:
+The RHIB and aircraft should be farther offshore, with coastline distant rather than immediate.
+
+Aircraft correction:
+The aircraft must read as a Chengdu J-20. Earlier image directions that resembled an F-35 are not valid.
+
+Composition baseline:
+- ADF RHIB / patrol-boat exercise-photo logic
+- open water between the boat and coastline
+- distant coastal or island form rather than a close beach assault
+- Australian military presence under pressure rather than generic naval action
+
+Sea / island reference:
+A strong separate environmental reference is sunset from an Australian vessel at sea, with deck or railing foreground, open ocean, distant rugged island silhouette, low sun, and cloud light.
+
+================================================================================
+06. NIGHT MANGROVES / AUTONOMOUS GROUND-SCANNER DRONES
+================================================================================
+
+Trailer / mission image lock:
+Add a night coastal mangrove / wetland movement image where Lucas Hill and squadmates move low through mangrove growth near the water while Chinese AI drones search overhead.
+
+Visual identity:
+- dark coastal treeline
+- mangrove roots and wet ground / water edge
+- multiple small drone lights above or beyond the treeline
+- green / yellow search beams projecting down through haze
+- beams tracking the ground and water below
+- tense enemy-tech pressure image
+- visually distinctive without overexplaining the system
+
+Dialogue lock:
+Hill first says:
+“Ground scanners. Hold still.”
+
+After the squad freezes, one squadmate quietly breathes or whispers:
+“What the fuck…”
+
+Then Hill quietly says:
+“On the ground. They're searching the coastline.”
+
+Correction:
+Use “On the ground,” not “Lie down.”
+
+Tone:
+The scene should feel tense, low, quiet, and field-immediate. The drones are a pressure system, not a spectacle device.
+
+================================================================================
+07. TRAILER MUSIC
+================================================================================
+
+Current accepted trailer anchor:
+“Coming Down.”
+
+Use rule:
+Treat the song as part of Hill's national-defense trailer identity. Do not let Switchblade's cameo history pull the trailer into an AEGIS nostalgia piece.
+
+================================================================================
+08. MACRO GEOPOLITICAL CONTEXT
+================================================================================
+
+Post-Game 4 / pre-Home Defense global context:
+- U.S. internal crisis reduces strategic backing capacity for allies.
+- European NATO allies and the United Kingdom remain under the shadow of a long-running cold-war-like pressure with Russia.
+- NATO does not collapse, but the U.S. role is reduced and European allies must drive vigilance and rebuilding.
+- Israel survives through preparations against Pandora-style attacks and becomes one of the main opposing forces to China later.
+- Israel is no longer strongly allied with the United States in the old sense because the U.S. can no longer provide the same strategic and military backing.
+
+Home Defense consequence:
+The Australian conflict should feel enabled by a wider breakdown of deterrence, not by Australia randomly becoming isolated.
+
+================================================================================
+09. HANDOFF NOTES
+================================================================================
+
+This page should be incorporated into future Characters / DLC, Worldbuilding / Strategic Architecture, Missions / Scenes / Cinematics, Gameplay / Weapons / Style, and Promotional / Sidebar compendium refreshes.
+
+Do not archive the Home Defense thread as fully absorbed until the Lucas Hill source page, mission ladder, and trailer packet are separately matured or intentionally scoped.
