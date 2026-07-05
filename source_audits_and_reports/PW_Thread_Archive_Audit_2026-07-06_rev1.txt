@@ -1,0 +1,205 @@
+PROJECT WARRIORS — THREAD ARCHIVE / MIGRATION AUDIT
+Generated: 2026-07-06
+Version: rev1
+Status: governance / archive-readiness audit
+
+PURPOSE
+Apply the stricter archive-readiness model to the latest visible Project Warriors thread work. This audit is a migration aid, not proof that every hidden or inaccessible conversation is fully represented.
+
+STATUS KEY
+- WRAPPED IN BRANCH: material is represented in the July 2026 branch source or synthesis layer.
+- PARTIAL / CHECK SOURCE: key material is represented, but a fuller dedicated source page or upstream PR merge remains necessary.
+- STILL LIVE / NOT SAFE TO RETIRE BLIND: the thread remains active, underdeveloped, or migration-risky.
+- SUPERSEDED / CORRECTED: earlier wording is replaced by a newer correction.
+
+================================================================================
+01. ROMEO GAME 4 / COMMAND AUTHORITY
+================================================================================
+
+Status: PARTIAL / CHECK SOURCE
+
+Landing:
+- `PW_Command_Authority_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt`
+- `PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt`
+
+Open dependency:
+- PR #13 contains the v0.1 architecture page and remains open.
+
+Archive-readiness note:
+Not safe to retire fully. The latest mission/title stack is landed, but a full Romeo G4 mission bible and merged PR reconciliation remain live.
+
+================================================================================
+02. SPOOK GAME 4 / PERMANENT RECORD
+================================================================================
+
+Status: WRAPPED IN BRANCH / PARTIAL FOR FULL CAMPAIGN
+
+Landing:
+- Existing main-branch Permanent Record mission pack addendum.
+- `PW_Permanent_Record_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt`
+
+Archive-readiness note:
+The latest delta is represented. The broader Permanent Record package should not be retired unless all individual source pages and the addendum are accepted as sufficient.
+
+================================================================================
+03. DUCKY GAME 4 / COMMON PICTURE — JAEGER / LIN FOLLOW-UP
+================================================================================
+
+Status: PARTIAL / CHECK SOURCE
+
+Landing:
+- Essentials represented in rev6 memory patch, LLM handoff, and compendium addendum.
+
+Open dependency:
+- PR #14 remains open with source-file updates.
+
+Archive-readiness note:
+Not safe to retire blindly. Merge or reconcile PR #14 before declaring the lane fully absorbed.
+
+================================================================================
+04. HOME DEFENSE DLC
+================================================================================
+
+Status: PARTIAL / CHECK SOURCE
+
+Landing:
+- `PW_Home_Defense_Latest_Thread_Update_2026-07-06_rev1.txt`
+
+Absorbed latest locks:
+- post-Game 4 / around 2033 placement
+- Lucas Hill trailer ownership
+- Switchblade support / connective-tissue rule
+- ADF visual silhouette
+- RHIB offshore / J-20 correction
+- night mangrove ground-scanner dialogue
+- “Coming Down” trailer anchor
+
+Archive-readiness note:
+Not safe to retire fully. Needs a fuller Lucas Hill profile, trailer packet, mission ladder, and visual-reference source pack.
+
+================================================================================
+05. WAR WITHIN / AMERICAN GUERRILLA
+================================================================================
+
+Status: PARTIAL / CHECK SOURCE
+
+Landing:
+- `PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt`
+
+Absorbed latest locks:
+- Hawthorne origin and toxic tide wound
+- South Mills incident
+- Parker breakpoint
+- NAF contact ladder
+- Vanguard / NO WITNESSES
+- SIC SEMPER TYRANNIS final mission
+- Abernathy / Ledger / Palisade motive refinement
+- DEAD BLOW correction
+- Duke Montgomery / Robert Earl Bevins visual-persona constraints
+
+Archive-readiness note:
+Not safe to retire fully. Needs fuller campaign bible, Hawthorne profile, NAF faction source, and DEAD BLOW dedicated page or explicit scope decision.
+
+================================================================================
+06. RAÚL DÍAZ
+================================================================================
+
+Status: WRAPPED IN BRANCH / PARTIAL FOR FULL PROFILE
+
+Landing:
+- `PW_Raul_Diaz_Latest_Source_Update_2026-07-06_rev1.txt`
+
+Absorbed latest locks:
+- Cuban / likely Cienfuegos origin
+- Cuban intelligence / FSB liaison networks
+- constructed U.S.-side cover identity
+- cosmopolitan Latin American finish
+- minor early Spook Game 1 document seeding allowed
+- not an architect of RIPTIDE RED or PANDORA
+
+Archive-readiness note:
+The correction/update is source-landed. Full character thread remains live if a profile, mission appearances, or dialogue/visual page is needed.
+
+================================================================================
+07. THE COLLAPSE
+================================================================================
+
+Status: PARTIAL / CHECK SOURCE
+
+Landing:
+- `PW_The_Collapse_Latest_Thread_Update_2026-07-06_rev1.txt`
+
+Absorbed latest locks:
+- AID AND COMFORT as Act IV opener after BLACKOUT MEDICINE
+- MARKED SAFE as follow-up
+- public-aid targeting logic
+- radiological disposal / handling aftermath begins surfacing
+
+Archive-readiness note:
+Not safe to retire fully. Full Act IV ladder and hazard-chain source pages remain live.
+
+================================================================================
+08. NIGHTFALL
+================================================================================
+
+Status: PARTIAL / CHECK SOURCE
+
+Landing:
+- `PW_Nightfall_Latest_Thread_Update_2026-07-06_rev1.txt`
+
+Absorbed latest locks:
+- Deluvia / Damhaven hazardous-trade rule
+- Jeroen van Hal correction
+- Long Shadows / ظلال طويلة singular memorial-set-piece rule
+
+Archive-readiness note:
+Not safe to retire fully. The sequel needs full campaign/source pages before thread retirement.
+
+================================================================================
+09. SPOOK STAPLER / B&T APC9K PRO
+================================================================================
+
+Status: STILL LIVE / NOT SAFE TO RETIRE BLIND
+
+Landing:
+- provisional notes represented in `PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt`.
+
+Open issues:
+- final build name not locked
+- exact muzzle-device / suppressor / blast-deflector configuration not source-checked
+- gameplay/audio representation not decided
+
+Archive-readiness note:
+Keep live.
+
+================================================================================
+10. POST-GAME 4 MACRO CONTEXT
+================================================================================
+
+Status: WRAPPED IN BRANCH / PARTIAL FOR FULL WORLD SOURCE
+
+Landing:
+- represented in Home Defense, Nightfall, rev6 patch, and compendium addendum.
+
+Absorbed latest locks:
+- U.S. reduced strategic role after internal crisis
+- Europe / UK carry more NATO vigilance
+- Israel survives through anti-Pandora preparation and becomes major opposing force to China later
+
+Archive-readiness note:
+Needs a dedicated macro-world source page before fully retiring the thread logic.
+
+================================================================================
+GENERAL TAKEAWAY
+================================================================================
+
+The July 2026 branch is strong enough for LLM handoff and comparison.
+
+It is not strong enough to declare every recent thread fully archive-ready. Several threads are represented as latest-thread deltas and still require fuller source pages or explicit scope decisions.
+
+================================================================================
+END
+================================================================================
