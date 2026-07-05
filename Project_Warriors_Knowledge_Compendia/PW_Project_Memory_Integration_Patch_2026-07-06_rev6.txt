@@ -1,0 +1,157 @@
+PROJECT WARRIORS — MEMORY INTEGRATION PATCH
+Generated: 2026-07-06
+Version: rev6
+Status: current project-memory / thread-lock bridge for LLM handoff
+
+PURPOSE
+Source-ready normalization of visible project-memory locks and thread outcomes after the May–July 2026 development passes. This patch does not replace the six working compendia; it tells a future reader what newer material must override or extend older compendium language.
+
+================================================================================
+01. SOURCE MODEL / WORKFLOW
+================================================================================
+- Maintain source-first workflow.
+- Durable topic changes belong in `dev_src_docs/` before compendium rewrite.
+- Working compendia are day-to-day synthesis, not sole source of truth for new detailed material.
+- Governance files live in `source_audits_and_reports/`.
+- Treat archival masters as milestone reference, not active authoring copies.
+- Open PRs must be checked before claiming main is fully current.
+
+================================================================================
+02. GAME 4 SHARED STRUCTURE
+================================================================================
+- Game 4 works as a restoration-era sequel about vigilance after restoration.
+- Campaign titles remain: COMMAND AUTHORITY, COMMON PICTURE, PERMANENT RECORD.
+- HYPERMNESTRA is the development codename for the post-AEGIS successor effort.
+- VIGILAN is the actual replacement architecture: Vertically Integrated Geospatial Intelligence Layered Architecture Network.
+- ANTIFRAGILITY is the preferred Ducky Game 4 sub-arc title for the HYPERMNESTRA -> VIGILAN hardening lane.
+- Y. T. Lin is the preferred consulting cryptography engineer for the VIGILAN hardening lane.
+- Karl Alexander “Jaeger” Stanzler is the preferred PYTHIA / DAOG continuity figure for securing Lin's collaboration and participating in Lin-protection beats.
+
+================================================================================
+03. ROMEO GAME 4 / COMMAND AUTHORITY
+================================================================================
+- COMMAND AUTHORITY is a restoration-era domestic-fracture campaign about legitimacy under armed pressure.
+- New American Frontier is the dominant ideological pole among multiple armed groups, not the only domestic actor.
+- Russia / foreign backing is accelerant, not sole engine.
+- Act I current stack: DE-ESCALATION, PRESSURE POINT, WATERING HOLE, RIGHT OF WAY.
+- WATERING HOLE location: The Rollin' Good Times, Baton Rouge; jukebox cue “Needle and the Spoon.”
+- RIGHT OF WAY location: White Castle, Louisiana logistic-transfer warehouse; first mention of Raúl Díaz.
+- Act II title lock: AMERICAN WARLORD.
+- Act II current stack: COUNTY LINE, EMERGENCY POWERS, DEAD SWITCH, NO MARTYRS.
+- Act III current stack: HOME ADVANTAGE, COMMON CAUSE, SECOND LINE; HEARTS AND MINDS is reserve alternate for SECOND LINE.
+- Charity Hospital Ninth Ward is reserved for Bridges DLC Act I, not current HOME ADVANTAGE.
+- Act IV Shreveport endgame location: Government Plaza, 505 Travis St, Shreveport, Louisiana.
+- Shreveport media naming preference: “Shreveport insurgency” or “Shreveport armed insurgency.”
+- Sunny final stand-down line locked: “All Frontier personnel, stand down, I say again, stand down, the operation is over.”
+- A separate tactical leader gives the lay-down-weapons instruction after Sunny's line.
+
+================================================================================
+04. SPOOK GAME 4 / PERMANENT RECORD
+================================================================================
+- PERMANENT RECORD is an evidence, witness, and accountability campaign.
+- Current stack: LINE OF FIRE -> NO SHELTER -> ET IN ARCADIA EGO -> RECEIVERSHIP -> FLOW CONTROL -> …AND INTO THE FIRE -> JUDGMENT DAY -> ONE HEAD OF THE HYDRA.
+- BACKUP PLAN is Spook's compact suppressed HK MP7A1 contingency PDW.
+- BACKUP PLAN action-shot lock: one-handed MP7A1, extended stock braced inside shoulder, off hand dragging wounded teammate / defector / VIP / intel package.
+- DPRK defector safe-passage mini-arc is the best current BACKUP PLAN deployment.
+- FLOW CONTROL is a short South American toll-road / highway pressure beat with a La Avispa burner-call warning and civilian-target discrimination fight.
+- Gillian Stockbridge uses Lana Erika Delhardt as Buenos Aires cover identity at RelCom Media S.A., Torres Mulieris / Puerto Madero lane.
+- JUDGMENT DAY pencil / pen ambush line remains: “Really?”
+- Stockbridge survives catastrophically injured and is captured alive.
+
+================================================================================
+05. WAR WITHIN / AMERICAN GUERRILLA
+================================================================================
+- Campaign placement: between Game 3 and Game 4.
+- Protagonist: Nicholas Wayne Hawthorne, Morehead City / Beaufort, North Carolina.
+- Core wound: Morehead City toxic tide; sister Florence chronically ill; niece Hannah Rose dies.
+- South Mills flashback: KDH follows enemy supply, Mi-8 spots them, 6–8 VDV insert, Parker-led AFC patrol extracts them.
+- Parker breakpoint line: Hawthorne says “I didn't sleep,” later “I just don't know how much longer I can stand by and do nothing.”
+- NAF contact ladder: toxic tide -> first contact -> Parker scene -> NAF truck recovery -> serious consideration -> LA/MS entry.
+- Vanguard threshold mission: NO WITNESSES; Mark “Skidrow” Champlin executes surrendering/cowering staff.
+- Final mission: SIC SEMPER TYRANNIS; DC/VA-adjacent hotel infiltration to kill Stanley Abernathy; player choice surrender or fire first.
+- Abernathy used the Palisade government-technology partnership for corporate self-promotion and status, including Ledger-hunt surveillance after the Atlanta UNHMNA airport bombing.
+- Abernathy should read as trying to appear military while visibly ignorant of military culture; not farce, but tragic out-of-depth corporate rank performance.
+- DEAD BLOW is Hawthorne's Vanguard-associated MP5SD-style build, not Halloran / Helleren.
+- DEAD BLOW must not be called a prototype.
+
+================================================================================
+06. HOME DEFENSE
+================================================================================
+- Home Defense is now preferred after Game 4, around 2033.
+- Lucas Hill, 2RAR, is the protagonist and owns the main trailer emotionally.
+- Switchblade can appear as connective tissue but must not displace Hill.
+- Trailer anchor “Coming Down” remains accepted.
+- Hill long line: “Stay low. Only when it breaks.”
+- Night mangroves / drone beat dialogue locked:
+  Hill: “Ground scanners. Hold still.”
+  Squadmate: “What the fuck…”
+  Hill: “On the ground. They're searching the coastline.”
+- Use “On the ground,” not “Lie down.”
+- RHIB sequence correction: RHIB and aircraft farther offshore, coastline distant.
+- Aircraft correction: must be Chengdu J-20, not F-35-like.
+- ADF gear silhouette: AMCU/multicam logic, high-cut helmets, NVG shrouds/rails, eye pro, face paint/balaclava/gaiter, plate carriers, hydration/assault packs.
+
+================================================================================
+07. THE COLLAPSE
+================================================================================
+- Placement remains roughly 2–3 years after Game 4.
+- Act IV opener after BLACKOUT MEDICINE: AID AND COMFORT.
+- AID AND COMFORT: Chris secures relief convoy carrying generator fuel, medical supplies, batteries, and support gear for Rivergate / nearby public aid staging.
+- Convoy targeting reveals hardliners treat public aid as collaboration / federal control.
+- Follow-up preferred title: MARKED SAFE.
+- MARKED SAFE: Chris tracks those who marked / targeted relief convoy and aid infrastructure; hunter/counter-hunt against actors preparing a larger public-aid strike.
+- MARKED SAFE should begin surfacing radiological disposal / handling aftermath.
+
+================================================================================
+08. NIGHTFALL
+================================================================================
+- Nightfall is late-timeline stealth / expedition continuation.
+- Limited China–Israel nuclear exchange remains current macro-event; Syria primary, parts Iran/Israel, limited southwest China nodes; fallout to Turkey -> Turkish retaliation.
+- Deluvia / Damhaven hazardous-trade rule: catastrophic materials require proven containment, ongoing responsibility, monitoring, and emergency response; council/triumvirate may approve, deny, or restrict entry.
+- Deluvia has no major recorded catastrophic contamination incident so far.
+- Correct Deluvia / Upper Amsterdam security-chief candidate name: Jeroen van Hal, not Jeroen / Jerun van Hout.
+- Long Shadows / ظلال طويلة is a singular memorial-like Dubai environmental set piece: one terrace, one wall, a few shadows, no enemies, no collectible, no jump scare, no repetition elsewhere.
+
+================================================================================
+09. RAÚL DÍAZ
+================================================================================
+- Raúl Díaz is Cuban, likely Cienfuegos or nearby.
+- Background includes Cuban intelligence and long FSB / Russian-intelligence liaison contact networks.
+- “Raúl Díaz” is a long-term constructed operational cover for U.S.-side work.
+- He presents with broader cosmopolitan Latin American finish because it helps the cover travel socially, commercially, and operationally.
+- Can be seeded in earlier games through minor secret-document references, especially Spook Game 1.
+- Associated with Goldberg / KINGMAKER only as limited liaison / information-handler, not architect of RIPTIDE RED or PANDORA.
+
+================================================================================
+10. NAF / DUKE MONTGOMERY
+================================================================================
+- Robert Earl Bevins uses stage name Duke Montgomery.
+- Duke is civilian / media-facing NAF figurehead and liaison to Pacer via Sunny, not battlefield commander.
+- Podcast: Freedom Now with Duke Montgomery.
+- Broad right-wing podcaster / streamer archetype allowed; no exact likeness, copy, caricature, or one-to-one real-person reference.
+- Cap / shirt visual logic: NAF Frontier Flag or Frontier Mark, FREEDOM NOW shirt with two slanted bands + tree motif.
+
+================================================================================
+11. NAMED WEAPONS / EQUIPMENT
+================================================================================
+- BACKUP PLAN: Spook Game 4 HK MP7A1 contingency PDW.
+- DEAD BLOW: Hawthorne Vanguard MP5SD-style suppressed 9mm build.
+- STAPLER / B&T APC9K Pro remains provisional candidate for Spook's retroactive secondary weapon in Games 1–3; not locked.
+
+================================================================================
+12. THREAD RETIREMENT RULE
+================================================================================
+Strict archive-readiness should not be granted for a thread unless it is clearly fully absorbed, superseded, intentionally dropped, or safe to retire.
+
+Still-live / partial areas after this patch:
+- Spook STAPLER/APC9K build
+- full Home Defense source package
+- full American Guerrilla campaign package
+- full Collapse Act IV ladder
+- full Nightfall package
+- full Romeo G4 mission bible
+- full Common Picture mission package
+
+================================================================================
+END
+================================================================================
