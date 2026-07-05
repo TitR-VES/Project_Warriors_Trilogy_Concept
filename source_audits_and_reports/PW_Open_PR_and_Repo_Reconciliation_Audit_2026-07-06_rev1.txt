@@ -1,0 +1,139 @@
+PROJECT WARRIORS — OPEN PR AND REPO RECONCILIATION AUDIT
+Generated: 2026-07-06
+Version: rev1
+Status: governance / handoff audit
+
+PURPOSE
+This audit records how the July 2026 handoff branch handled the current main branch, merged Game 4 source work, and open PRs that remain relevant to the latest thread state.
+
+================================================================================
+01. REPO CHECK
+================================================================================
+
+Repository:
+TitR-VES/Project_Warriors_Trilogy_Concept
+
+Default branch:
+main
+
+Repo structure confirmed:
+- `dev_src_docs/` for active source pages
+- `Project_Warriors_Knowledge_Compendia/` for synthesis / working knowledge
+- `source_audits_and_reports/` for governance
+- `incoming_patches_and_updates/` and `new_src_material/` for staging
+- `Recovered_Sources/`, `archived/`, and `temporary_files/` for recovery / history / scratch
+
+Current topic branch created for this update:
+`topic/pw-llm-handoff-2026-07-06`
+
+================================================================================
+02. OPEN PRS REVIEWED
+================================================================================
+
+PR #13 — Add Romeo G4 Command Authority v0.1 campaign architecture
+Status at review: open, mergeable.
+Branch: `romeo-g4-command-authority-v01-2026-05-08`.
+Key content:
+- Adds `dev_src_docs/story_campaigns/Game4/Romeo/PW_Command_Authority_Campaign_Architecture_v0_1_2026-05-08_rev1.txt`.
+- Frames Romeo Game 4 as restoration-era domestic fracture / legitimacy collapse.
+- Preserves New American Frontier as dominant ideological pole among multiple armed groups.
+- Treats Russia as accelerant rather than sole engine.
+- Establishes v0.1 act frame: Unfinished Peace, Counties of Exception, Home Advantage, Command Authority.
+
+Handling in this branch:
+- Not merged directly.
+- Its architecture is referenced and extended by `PW_Command_Authority_Latest_Thread_Update_2026-07-06_rev1.txt`.
+- Latest thread updates should be read as an extension / more concrete mission-title layer, not as a deletion of the PR #13 architecture.
+
+PR #14 — Thread Jaeger into the Common Picture Lin protection lane
+Status at review: open, mergeable.
+Branch: `game4-common-picture-jaeger-lin-followup-2026-05-08`.
+Key content:
+- Updates Ducky Common Picture HYPERMNESTRA / VIGILAN / ANTIFRAGILITY note.
+- Updates shared Game 4 seed pack.
+- Makes Jaeger the preferred PYTHIA / DAOG continuity figure for the Y. T. Lin lane.
+
+Handling in this branch:
+- Not merged directly.
+- Jaeger / Lin / HYPERMNESTRA / VIGILAN / ANTIFRAGILITY essentials are represented in the rev6 memory patch, LLM handoff state, and compendium addendum.
+- If PR #14 later merges, compare wording before deleting or superseding the handoff docs.
+
+================================================================================
+03. MERGED SOURCE CONTEXT REVIEWED
+================================================================================
+
+Merged Game 4 Permanent Record material exists on main, including:
+- `PW_Game4_Permanent_Record_Mission_Pack_Addendum_2026-05-07_rev1.txt`.
+
+That addendum already preserves:
+- ET IN ARCADIA EGO
+- RECEIVERSHIP
+- FLOW CONTROL
+- …AND INTO THE FIRE
+- JUDGMENT DAY
+- ONE HEAD OF THE HYDRA
+- BACKUP PLAN
+- DPRK defector safe-passage mini-arc
+- early LINE OF FIRE / NO SHELTER arc logic
+- Romeo-side crossover / New American Frontier packet
+
+Handling in this branch:
+- This branch does not duplicate the entire already-landed Permanent Record package.
+- It adds `PW_Permanent_Record_Latest_Thread_Update_2026-07-06_rev1.txt` as a latest-thread delta and handoff cross-check.
+
+================================================================================
+04. CURRENT BRANCH ADDITIONS
+================================================================================
+
+New source pages:
+- `dev_src_docs/story_campaigns/Game4/Romeo/PW_Command_Authority_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/HomeDefenseDLC/PW_Home_Defense_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/WarWithin/PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/TheCollapse/PW_The_Collapse_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/Nightfall/PW_Nightfall_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/characters/PW_Raul_Diaz_Latest_Source_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/weapons_and_equipment/PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt`
+
+New compendium / handoff synthesis files:
+- `Project_Warriors_Knowledge_Compendia/PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt`
+
+New governance files:
+- `source_audits_and_reports/PW_Open_PR_and_Repo_Reconciliation_Audit_2026-07-06_rev1.txt`
+- `source_audits_and_reports/PW_Thread_Archive_Audit_2026-07-06_rev1.txt`
+- `source_audits_and_reports/PW_Source_Manifest_Addendum_2026-07-06_rev1.csv`
+- `source_audits_and_reports/PW_Package_ChangeLog_2026-07-06_rev1.txt`
+- `source_audits_and_reports/PW_Handoff_Review_Checklist_2026-07-06_rev1.txt`
+
+================================================================================
+05. LIMITATIONS
+================================================================================
+
+This branch is a best-effort reconciliation from accessible repo state plus visible project context.
+
+It does not claim:
+- every inaccessible historical conversation is fully absorbed
+- open PR #13 or #14 are merged into main
+- every latest thread is now mature enough for archive retirement
+- the six full working compendia have been rewritten end to end
+
+It does claim:
+- the latest visible thread locks are represented in source-style or synthesis-style files
+- open PR dependencies are explicitly flagged
+- the branch is structured for another LLM to read and compare results
+
+================================================================================
+06. RECOMMENDED NEXT ACTION
+================================================================================
+
+Before merging this branch to main:
+1. Review PR #13 and #14 status.
+2. Decide whether to merge them first, merge this branch first, or manually reconcile both into a combined branch.
+3. If combining, avoid duplicate authoritative pages with conflicting act names; preserve v0.1 architecture and July 2026 mission-title refinements as layered source history.
+4. After merge, perform a full compendium refresh only when the mission/source pages are stable enough.
+
+================================================================================
+END
+================================================================================
