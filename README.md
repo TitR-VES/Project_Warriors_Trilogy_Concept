@@ -38,6 +38,23 @@ The six working compendia are:
 
 ---
 
+## July 2026 LLM handoff note
+
+The branch `topic/pw-llm-handoff-2026-07-06` adds a handoff-oriented update set for comparing current project state with another LLM.
+
+Start with:
+
+1. `Project_Warriors_Knowledge_Compendia/PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt`
+2. `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt`
+3. `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt`
+4. the July 2026 source pages under `dev_src_docs/`
+5. `source_audits_and_reports/PW_Open_PR_and_Repo_Reconciliation_Audit_2026-07-06_rev1.txt`
+6. `source_audits_and_reports/PW_Thread_Archive_Audit_2026-07-06_rev1.txt`
+
+Important: open PR #13 and PR #14 contain relevant Game 4 source material and should be checked before claiming `main` is fully reconciled with all current Game 4 updates.
+
+---
+
 ## Repo layout
 
 ```text
@@ -45,6 +62,7 @@ ROOT_DIR/
 ├── README.md
 ├── dev_src_docs/
 │   ├── canon_lore_source_of_truth/
+│   ├── characters/
 │   ├── diegetics_and_world-building/
 │   ├── gameplay_mechanics/
 │   ├── image_prompts/
@@ -53,11 +71,16 @@ ROOT_DIR/
 │   │   ├── Game1/
 │   │   ├── Game2/
 │   │   ├── Game3/
+│   │   ├── Game4/
 │   │   ├── HomeDefenseDLC/
+│   │   ├── Nightfall/
 │   │   ├── SemperFiDLC/
+│   │   ├── TheCollapse/
 │   │   ├── TheWaspDLC/
+│   │   ├── WarWithin/
 │   │   └── WhoDaresWinsDLC/
 │   ├── templates/
+│   ├── weapons_and_equipment/
 │   └── PW_Source_Manifest_2026-04-13_rev2.csv
 ├── Project_Warriors_Knowledge_Compendia/
 ├── incoming_patches_and_updates/
@@ -131,24 +154,32 @@ The full operating rule set lives in `CONTENT_LIFECYCLE.md`.
 
 ## Key reference files
 
+### Current handoff / latest-thread bridge
+
+- `Project_Warriors_Knowledge_Compendia/PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt`
+- `source_audits_and_reports/PW_Open_PR_and_Repo_Reconciliation_Audit_2026-07-06_rev1.txt`
+- `source_audits_and_reports/PW_Thread_Archive_Audit_2026-07-06_rev1.txt`
+- `source_audits_and_reports/PW_Source_Manifest_Addendum_2026-07-06_rev1.csv`
+
 ### Core working set
 
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-13_rev2.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-04-18_rev4.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-18_rev4.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-04-18_rev4.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-18_rev4.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-18_rev4.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-18_rev4.txt`
 
 ### Governance / migration layer
 
-- `Project_Warriors_Knowledge_Compendia/PW_Archival_Master_2026-04-13_rev2.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Recommended_Upload_Order_2026-04-13_rev2.txt`
-- `source_audits_and_reports/PW_Source_Manifest_2026-04-13_rev2.csv`
-- `source_audits_and_reports/PW_Migration_Ledger_2026-04-13_rev2.txt`
-- `source_audits_and_reports/PW_Thread_Archive_Audit_2026-04-13_rev2.txt`
-- `source_audits_and_reports/PW_Package_ChangeLog_2026-04-13_rev2.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Archival_Master_2026-04-18_rev4.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-04-18_rev4.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Recommended_Upload_Order_2026-04-18_rev4.txt`
+- `source_audits_and_reports/PW_Migration_Ledger_2026-04-13_rev3.txt`
+- `source_audits_and_reports/PW_Thread_Archive_Audit_2026-04-13_rev3.txt`
+- `source_audits_and_reports/PW_Package_ChangeLog_2026-04-13_rev3.txt`
 
 ### Canon overview
 
@@ -164,7 +195,7 @@ The full operating rule set lives in `CONTENT_LIFECYCLE.md`.
 Read, in this order:
 
 1. `README.md`
-2. `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt`
+2. the July 2026 handoff files listed above
 3. the six working compendia
 4. the migration ledger and thread archive audit if you are checking source coverage or retirement safety
 
@@ -198,6 +229,8 @@ This section is intentionally selective: it lists the live items that appear mos
 - The **time gap between Game 1 and Game 2** still needs cleaner determination.
 - The **Romeo bridge from Kentucky to Boston** remains an active construction zone.
 - Some broader **Game 3 campaign structure** work remains fragmentary outside the best-developed current lanes.
+- **Romeo Game 4 / Command Authority** now has a latest-thread handoff page, but still needs a full mission bible after open PR reconciliation.
+- **Ducky Game 4 / Common Picture** has HYPERMNESTRA / VIGILAN / Lin / Jaeger source material, but open PR #14 should be resolved or reconciled.
 
 ### Mission / scene development still worth revisiting
 
@@ -206,35 +239,19 @@ This section is intentionally selective: it lists the live items that appear mos
 - Additional aircraft-scene placements still merit final assignment cleanup where not already fixed.
 - **Tea Party / Boston harbor** mission work remains a live revisit space.
 - The **Boston foreign-civilian / wheelchair side quest** remains parked but still live.
+- **Home Defense** has updated trailer/visual/dialogue locks but still needs a fuller campaign and mission source package.
+- **The Collapse** has updated AID AND COMFORT / MARKED SAFE Act IV material but still needs a fuller Act IV ladder.
+- **Nightfall** has updated Deluvia / Dubai / Long Shadows notes but still needs a full sequel source package.
 
 ### Design / presentation items still open
 
 - Final visual execution of the **TITR studio logo**.
 - Final visual execution of the **studio splash sequence**.
 - Final decision / execution pass for the **campaign mission timestamp card** style system.
+- Final lock for Spook's provisional **STAPLER / B&T APC9K Pro** retroactive secondary weapon concept.
 
 ### DLC / theater-level items still parked for later
 
-- **Home Defense DLC** protagonist/title/final shape remain provisional.
+- **Home Defense DLC** protagonist/title/final shape are more developed than before but still not fully source-bibled.
 - **Middle Eastern theater** development remains parked for later Game 3 work.
-- **India’s geopolitical role** remains a pinned later-development item.
-- Some **British arc follow-up items** remain open even after recent expansion, including wider Royal Navy / RAF / heavier-force scope decisions.
-
----
-
-## Status note
-
-The repo is already strong enough to function as a practical working source set, but it should still be treated as a **living development repository** rather than a finished canon vault. Before retiring older material, cross-check repo-only additions, patch bundles, and partial-item packets so late-thread outputs are not silently lost.
-
----
-
-## Maintenance note
-
-When the structure changes materially, update this README alongside:
-
-- the source manifest
-- the migration ledger
-- the thread archive audit
-- the recommended upload order
-
-That keeps the landing page aligned with the actual repo rather than becoming a stale description of an older package state.
+- **India's geopolitical role** remains a pinned later-development item.
