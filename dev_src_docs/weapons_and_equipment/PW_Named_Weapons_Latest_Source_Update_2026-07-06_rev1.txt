@@ -1,0 +1,144 @@
+PROJECT WARRIORS — NAMED WEAPONS / EQUIPMENT
+LATEST SOURCE UPDATE
+Generated: 2026-07-06
+Version: rev1
+Status: source-ready latest-thread update / branch handoff layer
+
+PURPOSE
+This page consolidates the latest visible named-weapon updates that cut across Spook Game 4, American Guerrilla / War Within, and current Spook retroactive secondary-weapon development.
+
+================================================================================
+01. BACKUP PLAN — SPOOK GAME 4
+================================================================================
+
+Build name:
+BACKUP PLAN.
+
+Character:
+Trevor “Spook” Gartner.
+
+Campaign:
+Game 4 / PERMANENT RECORD.
+
+Status:
+Working lock / source-ready development note.
+
+Platform:
+HK MP7A1.
+
+Core identity:
+BACKUP PLAN is Spook's compact suppressed PDW build for close, controlled, deniable violence when an operation collapses and the primary plan no longer exists.
+
+Configuration:
+- 4.6x30mm armor-defeating / armor-piercing load
+- factory MP7A1 profile
+- integrated folding foregrip
+- top rail
+- compact micro red-dot / collimator sight
+- compact suppressor
+- fully extendable stock
+- dark, low-reflective, agency-practical finish
+- no decorative markings or vanity customization
+
+Role logic:
+BACKUP PLAN does not replace GRAY GHOST or NOTHING. It occupies the emergency secondary / compact PDW slot for covert movement, confined spaces, armored contact, and rapid extraction failure.
+
+Name logic:
+Dry and operational. Spook is naming the contingency, not romanticizing the weapon.
+
+Action-shot lock:
+Spook wields the suppressed MP7A1 one-handed with the stock fully extended and the buttplate braced against the inside of his shoulder while covering an exit route during an extraction gone bad. His off hand drags a wounded teammate, defector, VIP, or critical intel package.
+
+Best current mission fit:
+Top fit is the DPRK defector safe-passage mini-arc. Secondary fit is any later PERMANENT RECORD emergency exfil / break-contact sequence.
+
+Design rule:
+This should feel like a prepared answer to failure, not a beauty shot.
+
+================================================================================
+02. DEAD BLOW — AMERICAN GUERRILLA / WAR WITHIN
+================================================================================
+
+Build name:
+DEAD BLOW.
+
+Correct character association:
+Nicholas Wayne Hawthorne.
+
+Correction:
+Replace earlier mistaken Halloran / Helleren carrier references with Nicholas Wayne Hawthorne.
+
+Campaign:
+War Within / American Guerrilla.
+
+Status:
+Candidate / working lock unless later finalized.
+
+Platform:
+Black HK MP5SD-style suppressed 9x19 SMG.
+
+Current candidate configuration:
+- Navy-style ambidextrous 0-1-3-F trigger group
+- standard MP5SD suppressor logic
+- black gun / suppressor / light mount
+- flat dark earth EOTech XPS3-0
+- M300-style light
+- two-point sling
+- paired 30-round magazines
+
+Role:
+Hawthorne's Vanguard-associated weapon after Julian's Vanguard.
+
+Correction:
+Do not frame DEAD BLOW as a prototype.
+
+Language rule:
+Use “bullet hose” as the intended metaphor if needed. “Bullet holes” should not be used except as an explicitly controlled metaphor for accurate, rapid, low-recoil suppressed output.
+
+Later continuity:
+DEAD BLOW can return to NAF custody and later become recoverable by Romeo in COMMAND AUTHORITY from a locker with Hawthorne's name.
+
+================================================================================
+03. SPOOK RETROACTIVE SECONDARY BUILD — B&T APC9K PRO / STAPLER CANDIDATE
+================================================================================
+
+Status:
+Provisional candidate / not yet locked.
+
+Character:
+Spook.
+
+Games:
+Potential retroactive change for Games 1 through 3.
+
+Current platform idea:
+B&T APC9K Pro as Spook's secondary SMG / compact weapon, previously not yet a named build.
+
+Potential build-name direction:
+STAPLER is the current conversational candidate name. Do not treat as locked until confirmed.
+
+Current configuration elements from thread:
+- B&T APC9K Pro
+- suppressor or other muzzle-device discussion remains unsettled in wording
+- collimator / compact optic
+- V-style blast deflector / blast-forwarding muzzle device concept for a 9mm SMG variant
+
+Functional concept:
+A compact vehicle / confined-space weapon that can be fired from inside a car or tight spaces with reduced hazard to the shooter and teammates compared with an uncontrolled muzzle blast.
+
+Psychological / environmental idea:
+The device may project a loud, overwhelming report forward toward the threat space, creating an additional coercive / shock effect while making the weapon usable in confined movement.
+
+Design caution:
+Do not overstate real-world technical performance until the exact device and configuration are researched and source-checked. Keep this as a design concept rather than a technical claim.
+
+Gameplay caution:
+The coercive noise effect may or may not be represented mechanically. This should be revisited later as a gameplay/audio design decision rather than silently treated as locked.
+
+================================================================================
+04. HANDOFF NOTES
+================================================================================
+
+This file should feed future Gameplay / Weapons / Style, Characters / DLC, Missions / Scenes / Cinematics, and Promotional / Sidebar compendium refreshes.
+
+Do not archive the Spook STAPLER/APC9K thread as fully absorbed until a final build name, exact configuration, mission-use role, and gameplay/audio decision are landed.
