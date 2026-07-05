@@ -1,0 +1,142 @@
+PROJECT WARRIORS — WORKING COMPENDIUM LATEST-THREAD ADDENDUM
+Generated: 2026-07-06
+Version: rev1
+Status: compendium-side addendum / not a full compendium replacement
+
+PURPOSE
+This addendum maps the latest visible thread updates onto the six-compendia model without pretending the full compendia have been rewritten. Use it as a bridge until the next milestone compendium refresh.
+
+================================================================================
+01. CORE / TIMELINE — ADDENDUM
+================================================================================
+
+New / updated timeline-pressure items:
+- Game 4 now reads as a restoration-era sequel with Vigilance as the sequel-pressure concept after the trilogy arc Fracture — Resistance — Restoration.
+- Home Defense is now preferred after Game 4, around 2033.
+- The Collapse remains roughly 2–3 years after Game 4.
+- Nightfall remains a later timeline after U.S. federal collapse / continuity-government exile logic.
+
+Important caution:
+Do not hard-lock exact dates where current thread work still uses broad windows.
+
+================================================================================
+02. WORLDBUILDING / STRATEGIC ARCHITECTURE — ADDENDUM
+================================================================================
+
+Game 4 restoration world:
+- Institutions return unevenly; legitimacy is contested.
+- Foreign influence accelerates domestic fracture but does not erase domestic agency.
+- HYPERMNESTRA -> VIGILAN is a trust-architecture and coalition-governance problem, not only a technical rebuild.
+
+Home Defense macro-context:
+- U.S. crisis reduces old deterrence.
+- China proceeds after Taiwan / South Pacific consolidation.
+- Australia conflict emerges from a changed regional order.
+- Europe / UK shoulder more NATO vigilance with reduced U.S. role.
+- Israel survives through anti-Pandora preparation and becomes a major opposing force to China later.
+
+Nightfall world:
+- Deluvia / Damhaven hazardous material is strictly governed.
+- Limited China–Israel nuclear exchange remains a late-timeline macro-event.
+- Dubai / Long Shadows is a human-scale memorial beat, not reusable spectacle.
+
+================================================================================
+03. CHARACTERS / DLC — ADDENDUM
+================================================================================
+
+Romeo Game 4:
+- Sunny final stand-down line locked.
+- Duke Montgomery / Robert Earl Bevins preserved as civilian-media figurehead, not commander.
+- Pacer, River, Static, Sunny, Hazzard remain live NAF senior block.
+
+War Within:
+- Nicholas Wayne Hawthorne is the American Guerrilla protagonist.
+- Parker, Dale Jacobs, Florence, Hannah Rose, Mark “Skidrow” Champlin, and Stanley Abernathy lanes remain live.
+
+Home Defense:
+- Lucas Hill is the emotional protagonist.
+- Switchblade can support but not displace him.
+
+Raúl Díaz:
+- Cuban / Cienfuegos-origin direction.
+- Cuban intelligence and FSB-liaison history.
+- Constructed cover identity for U.S.-side work.
+- Faint early Spook Game 1 document seeding allowed.
+
+Nightfall:
+- Jeroen van Hal is the corrected candidate Deluvia / Upper Amsterdam security-chief name.
+
+================================================================================
+04. GAMEPLAY / WEAPONS / STYLE — ADDENDUM
+================================================================================
+
+BACKUP PLAN:
+- HK MP7A1 contingency PDW for Spook Game 4.
+- One-handed extraction-gone-bad action-shot lock.
+
+DEAD BLOW:
+- Hawthorne / Vanguard MP5SD-style suppressed 9mm build.
+- Not a prototype.
+- Later Romeo G4 locker recovery remains viable.
+
+STAPLER candidate:
+- B&T APC9K Pro retroactive Spook secondary concept remains provisional and needs research/configuration lock.
+
+Home Defense:
+- ADF gear silhouette and J-20 correction should feed visual and equipment references.
+
+================================================================================
+05. MISSIONS / SCENES / CINEMATICS — ADDENDUM
+================================================================================
+
+Romeo Game 4:
+- Act I: DE-ESCALATION, PRESSURE POINT, WATERING HOLE, RIGHT OF WAY.
+- Act II title: AMERICAN WARLORD; missions COUNTY LINE, EMERGENCY POWERS, DEAD SWITCH, NO MARTYRS.
+- Act III: HOME ADVANTAGE, COMMON CAUSE, SECOND LINE / HEARTS AND MINDS.
+- Act IV: Shreveport / Government Plaza endgame; Sunny captured and orders stand-down.
+
+Spook Game 4:
+- Current late stack: ET IN ARCADIA EGO, RECEIVERSHIP, FLOW CONTROL, …AND INTO THE FIRE, JUDGMENT DAY, ONE HEAD OF THE HYDRA.
+- FLOW CONTROL = toll-road / highway pressure mission with La Avispa warning.
+
+Home Defense:
+- Night mangrove / ground-scanner drone beat and dialogue are locked.
+
+The Collapse:
+- AID AND COMFORT and MARKED SAFE are Act IV latest locks.
+
+Nightfall:
+- Long Shadows / ظلال طويلة is a singular Dubai terrace / shadow memorial set piece.
+
+================================================================================
+06. PROMOTIONAL / SIDEBAR DEVELOPMENT — ADDENDUM
+================================================================================
+
+Home Defense trailer:
+- Lucas Hill owns the main trailer.
+- Switchblade remains connective tissue.
+- “Coming Down” remains accepted trailer anchor.
+
+Duke / NAF visual identity:
+- Duke's NAF media persona and clothing marks should remain broad, original, and non-one-to-one.
+
+Named weapon visuals:
+- BACKUP PLAN action-shot should emphasize ugly contingency, not glamour.
+- DEAD BLOW should read as controlled suppressed output, not prototype novelty.
+
+Nightfall / Long Shadows:
+- Treat as a restrained memorial-like image, not a repeated promo motif.
+
+================================================================================
+07. FUTURE REFRESH GUIDANCE
+================================================================================
+
+Next full compendium refresh should:
+1. absorb this addendum into the six domain compendia where appropriate;
+2. preserve source page boundaries for concrete mission / character / weapon material;
+3. cross-check open PR #13 and #14 before saying main is fully reconciled;
+4. keep partial items live until dedicated source pages or intentional-drop decisions exist.
+
+================================================================================
+END
+================================================================================
