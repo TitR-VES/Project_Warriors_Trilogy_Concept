@@ -1,0 +1,169 @@
+PROJECT WARRIORS — NIGHTFALL
+LATEST THREAD UPDATE
+Generated: 2026-07-06
+Version: rev1
+Status: source-ready latest-thread update / branch handoff layer
+
+PURPOSE
+This page lands the latest visible Nightfall / late-timeline sequel updates, especially Deluvia hazardous-trade governance, the corrected Jeroen van Hal note, and Dubai / Long Shadows restraint.
+
+================================================================================
+01. NIGHTFALL TOPLINE
+================================================================================
+
+Title:
+Nightfall.
+
+Position:
+Late-timeline sequel / post-collapse / expedition and stealth-focused continuation.
+
+Tone:
+Rare heavy violence, more expeditionary / stealth / survival-intelligence pressure than mainline constant-combat escalation.
+
+Known playables / returns:
+- older Spook in stealth-focused role
+- Ducky and Lupin as contractors
+- Frost returns to Finland
+- Smoke / Tripper likely dead unless later revised
+
+North America:
+U.S. federal collapse leads to exile / continuity-government structures. Romeo returns as Brigadier General Álvarez in a leader / non-playable role.
+
+Canada:
+Canada is preserved. Quebec secedes as the Commonwealth of Quebec.
+
+================================================================================
+02. NUCLEAR / STRATEGIC EXCHANGE CONTEXT
+================================================================================
+
+Nightfall includes a limited China–Israel nuclear exchange.
+
+Primary affected regions:
+- Syria as primary
+- parts of Iran / Israel
+- limited southwest China nodes
+
+Fallout / escalation:
+Fallout reaches Turkey, triggering Turkish retaliation.
+
+AI strategic suggestion:
+Can remain ambiguous as a possible contributor to escalation logic, but should not become a simple “AI did it” explanation unless later locked.
+
+Use rule:
+Keep the nuclear exchange limited, horrifying, and strategically specific. Do not turn it into generalized global apocalypse spectacle.
+
+================================================================================
+03. DELUVIA / DAMHAVEN HAZARDOUS-TRADE RULE
+================================================================================
+
+Strict rule:
+Anyone trading, transporting, or storing radiological, nuclear, chemical, biological, or similarly catastrophic material must prove safe containment while it is in or near the platform city and remains responsible for containment, monitoring, and emergency response.
+
+Authority:
+The triumvirate / council can approve, deny, or restrict entry after weighing risk.
+
+Failure:
+Failure to comply, or causing a leak / incident, is punished severely.
+
+Current historical status:
+So far Deluvia has had no major recorded catastrophic contamination incident.
+
+Use rule:
+This is not a generic “anything goes black market.” Deluvia / Damhaven can be rough, pragmatic, and trade-driven, but catastrophic material is treated as a special legal and survival category because one bad actor can endanger the whole platform city.
+
+================================================================================
+04. DELUVIA SECURITY LEADERSHIP CORRECTION
+================================================================================
+
+Correct character name:
+Jeroen van Hal.
+
+Correction:
+The returning Dutch ASR-associated character proposed for Deluvia / Upper Amsterdam security chief is Jeroen van Hal, not Jeroen / Jerun van Hout.
+
+Prior appearance:
+He appears in Game 1 around the Hindeloopen material in the Ducky and Romeo storylines.
+
+Current role status:
+Candidate unless later locked.
+
+Preferred role:
+Older, more experienced Deluvia / Upper Amsterdam security chief or top security figure within the three-person leadership structure.
+
+Use rule:
+Use Jeroen van Hal as the corrected name going forward.
+
+================================================================================
+05. DUBAI MISSION — CURRENT ENVIRONMENT LOCKS
+================================================================================
+
+Major mission:
+Dubai archive-vault mission beneath a luxury villa.
+
+Strike context:
+Dubai airport airburst, approximately 1.75 Mt at approximately 1.09 km AGL.
+
+Access logic:
+Overland only. Sand-buried routes / “Sands” logic remains active.
+
+Rival team:
+5–6-person rival team remains viable.
+
+Entry:
+Garage-ramp entry remains the preferred physical approach.
+
+Guides:
+- Tex / Teixeira
+- Bülent “Waltari”
+
+Oasis enclave:
+Midnight Oasis.
+
+Midnight Oasis identity:
+Water collectors, volunteer security, and “keep walking” gatekeeping energy.
+
+Exfil:
+Drone sweep; guide sacrifice; Spook escapes with duffel / container.
+
+================================================================================
+06. LONG SHADOWS / ظلال طويلة
+================================================================================
+
+Long Shadows / ظلال طويلة is locked as a singular memorial-like environmental set piece.
+
+Use rule:
+- one terrace
+- one wall
+- a few shadows
+- no enemies
+- no collectible
+- no jump scare
+- no repetition elsewhere
+
+Function:
+Make the Dubai airport strike suddenly human and immediate.
+
+Meaning:
+Not statistics. Not spectacle. Just people who were there, watching the airport.
+
+Restraint:
+The power of the beat comes from its singularity and silence. Do not reuse it as a general nuclear-horror visual motif.
+
+================================================================================
+07. THREAD RETIREMENT STATUS
+================================================================================
+
+The specific Deluvia hazardous-trade rule, Jeroen van Hal correction, and Long Shadows restraint note are now source-landed in this branch.
+
+Nightfall as a whole is not safe to retire or treat as fully absorbed until the following are landed or intentionally scoped:
+- full Nightfall premise / campaign source page
+- Deluvia / Damhaven governance page
+- Dubai mission reference page
+- nuclear exchange timeline / geography page
+- character status page for older Spook, Ducky, Lupin, Frost, Romeo, Smoke, Tripper
+
+================================================================================
+08. HANDOFF NOTES
+================================================================================
+
+This page should feed future Core / Timeline, Worldbuilding / Strategic Architecture, Characters / DLC, and Missions / Scenes / Cinematics compendium refreshes.
