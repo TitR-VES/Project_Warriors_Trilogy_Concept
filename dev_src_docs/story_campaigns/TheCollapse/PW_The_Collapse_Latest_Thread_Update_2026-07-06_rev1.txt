@@ -1,0 +1,136 @@
+PROJECT WARRIORS — THE COLLAPSE
+LATEST THREAD UPDATE
+Generated: 2026-07-06
+Version: rev1
+Status: source-ready latest-thread update / branch handoff layer
+
+PURPOSE
+This page lands the latest visible The Collapse updates, especially the Act IV relief / public-aid targeting refinement and MARKED SAFE follow-up structure.
+
+================================================================================
+01. PLACEMENT
+================================================================================
+
+The Collapse remains placed roughly 2–3 years after Game 4 unless later source work hard-locks a precise date.
+
+Primary protagonist:
+Christopher Carl Haywood, 33.
+
+Primary setting:
+St. Louis metro / regional collapse environment.
+
+Core function:
+Show the U.S. collapse after Game 4 as a lived civil-infrastructure and extremist-escalation crisis rather than a simple military front.
+
+================================================================================
+02. EXISTING CORRIDOR / ACT CONTEXT
+================================================================================
+
+Known corridor titles remain live:
+- ADMISSION
+- BOTTLENECK
+- LIFELINE
+- COLD CHAIN
+- HOT ZONE
+- QUARANTINE LINE
+
+Known FFSM / hardliner figures:
+- Leland Benjamin Turner
+- Mara Evelyn Sutter
+- Jonah Mercer Wade
+
+Known named builds:
+- LAST RESORT — M16A4 + M203
+- SAVING GRACE — P226
+- PDW SIG MCX Rattler 5.56
+
+================================================================================
+03. ACT IV OPENER REFINEMENT — AID AND COMFORT
+================================================================================
+
+Mission title:
+AID AND COMFORT.
+
+Placement:
+Act IV opener, after BLACKOUT MEDICINE.
+
+Mission function:
+Chris helps secure a relief convoy carrying limited generator fuel, medical supplies, batteries, and support gear for Rivergate / nearby public aid staging.
+
+Attack / threat function:
+The convoy is targeted, revealing to Chris and the player that FFSM / Jacobs & Reed hardliners are not only disrupting logistics. They are marking public aid itself as the next target.
+
+Targeting logic:
+Hardliners treat relief as collaboration, federal control, or betrayal. The public-aid apparatus becomes an ideological target because it demonstrates that civic survival can still exist outside their control.
+
+Reveal methods:
+The mission can make the targeting logic visible through one or more of:
+- ambush / probing attack
+- observers marking the convoy
+- recovered notes or comms
+- surviving attacker behavior
+- evidence of pre-selected public-aid infrastructure targets
+
+End-state purpose:
+Set up the following mission where Chris tracks the actors preparing to strike the newly arrived aid infrastructure.
+
+Tone rule:
+AID AND COMFORT should not become generic convoy defense. Its main value is showing that relief itself has become contested authority.
+
+================================================================================
+04. ACT IV FOLLOW-UP — MARKED SAFE
+================================================================================
+
+Preferred title:
+MARKED SAFE.
+
+Placement:
+Act IV follow-up after AID AND COMFORT.
+
+Function:
+Chris follows the people who marked or targeted the relief convoy and newly arrived aid infrastructure.
+
+Mission identity:
+Hunter / counter-hunt against actors preparing a larger strike on public aid.
+
+Reveals:
+- hardliner targeting logic
+- escalation from logistics disruption to public-aid attack
+- the beginning of radiological disposal / handling aftermath that leads into the next layer of the act
+
+Core dramatic read:
+The player realizes the enemy is not simply stealing supplies or blocking roads. They are deciding which civilians are allowed to survive and what forms of help count as enemy control.
+
+================================================================================
+05. RADIOLOGICAL / DISPOSAL AFTERMATH THREAD
+================================================================================
+
+MARKED SAFE should begin surfacing the radiological disposal / handling aftermath, but should not overexplain the full hazard chain too early.
+
+Use as:
+- unease
+- contaminated logistics trace
+- mishandled disposal evidence
+- hardliner incompetence / recklessness under ideological pressure
+- a bridge into later Act IV hazard material
+
+Do not turn this into a clean sci-fi radiation fetch quest. It should feel like collapse-era mishandling of dangerous material by actors who do not understand or do not care about containment consequences.
+
+================================================================================
+06. THREAD RETIREMENT STATUS
+================================================================================
+
+The Act IV AID AND COMFORT / MARKED SAFE refinement is now source-landed in this branch.
+
+The wider Collapse thread is not fully safe to retire unless the following are also landed or intentionally scoped:
+- fuller Act IV mission ladder
+- detailed Rivergate / public aid staging source page
+- hardliner faction source page
+- radiological disposal / handling chain source note
+- updated compendium layer incorporating these beats
+
+================================================================================
+07. HANDOFF NOTES
+================================================================================
+
+This page should feed future Core / Timeline, Worldbuilding / Strategic Architecture, Missions / Scenes / Cinematics, Gameplay / Weapons / Style, and Characters / DLC compendium refreshes.
