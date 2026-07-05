@@ -1,0 +1,125 @@
+PROJECT WARRIORS — RAÚL DÍAZ
+LATEST CHARACTER SOURCE UPDATE
+Generated: 2026-07-06
+Version: rev1
+Status: source-ready latest-thread update / branch handoff layer
+
+PURPOSE
+This page lands the latest visible Raúl Díaz character/background updates so they are durable source material for Game 4 / Permanent Record, Romeo Game 4 / Command Authority, and War Within / American Guerrilla continuity.
+
+================================================================================
+01. CORE CHARACTER IDENTITY
+================================================================================
+
+Name:
+Raúl Díaz.
+
+Function:
+Principal cross-campaign antagonist / funding-intelligence-finance leg in Game 4-era material.
+
+Current major use:
+- Romeo Game 4 / Command Authority funding and handler lane.
+- Spook Game 4 / Permanent Record parallel intelligence / finance continuity.
+- War Within / American Guerrilla as a handler / deal figure where useful.
+
+================================================================================
+02. BACKGROUND LOCK
+================================================================================
+
+Nationality / origin:
+Cuban.
+
+Likely origin:
+Cienfuegos, Cuba, or nearby.
+
+Background:
+Cuban intelligence, with a long history of collaboration, liaison work, and contact networks with the FSB / Russian intelligence sphere.
+
+Use rule:
+Díaz can still draw on these FSB / Russian intelligence sphere contacts during Game 4 and War Within.
+
+================================================================================
+03. COVER IDENTITY RULE
+================================================================================
+
+“Raúl Díaz” functions as a long-term constructed operational cover for U.S.-side work.
+
+Core identity:
+Cuban at core.
+
+Social / operational finish:
+He presents with a broader cosmopolitan Latin American finish because that helps the cover travel socially, commercially, and operationally.
+
+Use rule:
+Do not flatten him into generic cartel financier, generic Russian proxy, or generic Latin American villain. His value is that he is a cultivated intelligence-linked commercial / operational node who can move between worlds.
+
+================================================================================
+04. PERFORMANCE / VISUAL-DEMEANOR ANCHOR
+================================================================================
+
+Loose performance / vibe anchor:
+Giancarlo Esposito-inspired walk / demeanor direction remains useful.
+
+Restriction:
+This is only a broad performance/vibe anchor. Do not use direct likeness, direct copy, caricature, or one-to-one reference.
+
+Preferred qualities:
+- calm
+- precise
+- elegant
+- controlled
+- strategic
+- morally cold
+- socially polished
+- operationally patient
+
+================================================================================
+05. EARLY-SEEDING REFINEMENT
+================================================================================
+
+Díaz can be mentioned in earlier games, especially Spook Game 1, only through minor secret-document references rather than on-screen presence.
+
+Best seed:
+An obscure document mention of Díaz and/or a southern-U.S. logistics operation discovered by Spook.
+
+Association:
+Díaz may be associated with Goldberg / KINGMAKER in a limited liaison or information-handler capacity.
+
+Restriction:
+Díaz is not an architect of RIPTIDE RED or PANDORA.
+
+Use rule:
+Keep early references faint enough that they work retroactively without making him feel artificially inserted into older storylines.
+
+================================================================================
+06. GAME 4 / COMMAND AUTHORITY ROLE
+================================================================================
+
+Current role:
+Díaz is the principal funding / intel leg in Romeo Game 4.
+
+RIGHT OF WAY:
+First mention of Raúl Díaz occurs around the White Castle logistic-transfer warehouse threshold.
+
+Act III / Montreal / Chicago braid:
+His lane should run parallel to the Minneapolis -> Twin Cities -> Chicago -> Montreal convergence, tying financial, intelligence, and logistics movement to the broader Game 4 conflict.
+
+Function:
+Díaz helps explain how domestic extremist pressure connects to higher-grade money, information, and external acceleration without making Russia the sole engine of NAF agency.
+
+================================================================================
+07. WAR WITHIN / AMERICAN GUERRILLA ROLE
+================================================================================
+
+Díaz can appear in War Within as a handler / deal figure.
+
+Use rule:
+He should not dominate Hawthorne's radicalization arc. He is more useful as evidence that NAF and adjacent structures have access to external support, money movement, and intelligence tradecraft long before Romeo encounters the full Game 4 consequence.
+
+================================================================================
+08. HANDOFF NOTES
+================================================================================
+
+This page should be incorporated into future Characters / DLC, Core / Timeline, Worldbuilding / Strategic Architecture, and Missions / Scenes / Cinematics compendium refreshes.
+
+If a full Díaz profile is later written, this file should become its lock-summary appendix or be fully absorbed into that profile with a migration-ledger note.
