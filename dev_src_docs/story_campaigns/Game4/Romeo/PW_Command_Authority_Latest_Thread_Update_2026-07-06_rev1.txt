@@ -1,0 +1,229 @@
+PROJECT WARRIORS — ROMEO GAME 4 / COMMAND AUTHORITY
+LATEST THREAD UPDATE
+Generated: 2026-07-06
+Version: rev1
+Status: source-ready latest-thread update / branch handoff layer
+
+PURPOSE
+This page lands the latest visible Romeo Game 4 / COMMAND AUTHORITY updates that post-date or refine the earlier v0.1 repo architecture page. It is intended to sit beside the existing open-PR v0.1 architecture rather than silently replacing it.
+
+SOURCE POSITION
+- Existing open PR lane: `PW_Command_Authority_Campaign_Architecture_v0_1_2026-05-08_rev1.txt`.
+- This file adds the more concrete later mission/title/scene work visible in the current project context.
+- Where this file is more specific, treat it as the newer working layer; where it is silent, retain the earlier architecture page.
+
+================================================================================
+01. CAMPAIGN IDENTITY
+================================================================================
+
+Campaign title: COMMAND AUTHORITY.
+
+Current read:
+Romeo Game 4 is a restoration-era domestic-fracture campaign. Romeo is not only fighting armed enemies; he is fighting to stop liberation, provisional authority, emergency power, and domestic grievance from curdling into a second American war.
+
+Core pressure:
+America is technically recovering after Game 3, but legitimacy is contested. Federal structures, state authorities, local actors, veteran networks, aid infrastructure, resistance continuities, and armed extremist movements all claim different kinds of authority.
+
+Command Authority should remain about legitimacy under armed pressure, not simply a militia-hunting campaign.
+
+================================================================================
+02. ACT I — CURRENT MISSION SPINE
+================================================================================
+
+Act I current preferred mission/beat stack:
+
+1. DE-ESCALATION — Vicksburg stadium relief-site crisis.
+2. PRESSURE POINT — investigative bridge from Vicksburg toward Baton Rouge.
+3. WATERING HOLE — first Sunny encounter at The Rollin' Good Times, Baton Rouge.
+4. RIGHT OF WAY — White Castle, Louisiana logistic-transfer warehouse threshold.
+
+DE-ESCALATION
+- Preferred title over PRESSURE CRACK.
+- Location identity: Vicksburg / stadium relief site.
+- Function: establish that relief, crowd control, sabotage, and emergency legitimacy are all colliding.
+- Key incident logic: transformer sabotage severs grid support, escalating crowd violence and showing that hardliners can weaponize civic fragility without needing a conventional battlefield.
+
+PRESSURE POINT
+- Function: bridge from the Vicksburg relief crisis to Baton Rouge.
+- Role: investigative, pressure-building, and connective rather than a standalone blowout.
+- Should clarify the pattern behind the sabotage and lead Romeo toward the first real human-intelligence contact with NAF-adjacent activity.
+
+WATERING HOLE
+- Location: The Rollin' Good Times, Baton Rouge, Louisiana.
+- Physical identity: summer swelter, slow fans, Venetian blinds, screen door half-open, cigarette smoke, mismatched furniture, faded posters; cozy but cramped.
+- Jukebox/environmental track: Lynyrd Skynyrd, “Needle and the Spoon.”
+- Function: first Sunny encounter before HOME ADVANTAGE.
+- Sunny should read as human, dangerous, socially perceptive, and ahead of Romeo in local information flow.
+
+RIGHT OF WAY
+- Location: White Castle, Louisiana.
+- Function: logistic-transfer warehouse threshold and first mention of Raúl Díaz.
+- Title note: CREDIBLE THREAT rejected for Romeo here and reserved for Bridges DLC Act II.
+
+================================================================================
+03. ACT II — AMERICAN WARLORD
+================================================================================
+
+Act II title lock: AMERICAN WARLORD.
+
+Current mission stack:
+
+1. COUNTY LINE
+2. EMERGENCY POWERS
+3. DEAD SWITCH
+4. NO MARTYRS
+
+Act purpose:
+Expand NAF from scattered incidents into a working armed ecosystem. The player should see route control, emergency-law distortion, sabotage leverage, and martyrdom logic becoming tactical problems.
+
+COUNTY LINE
+- Current status: one-view source treatment accepted.
+- Function: regional boundary / local-authority pressure mission.
+- Should show how county-level control becomes a political weapon.
+
+EMERGENCY POWERS
+- Current status: full page requested/accepted in thread.
+- Function: exposes how emergency authority can be bent by local actors, infiltrated structures, or opportunistic officials.
+
+DEAD SWITCH
+- Current status: full page requested/accepted in thread.
+- Function: sabotage/leverage mission where NAF or adjacent actors can make defeat costly enough to deter lawful response.
+
+NO MARTYRS
+- Current status: full page requested/accepted in thread.
+- Function: Romeo prevents NAF from turning a tactical defeat into propaganda, martyrdom, or escalation.
+
+================================================================================
+04. ACT III — HOME ADVANTAGE / COMMON CAUSE / SECOND LINE
+================================================================================
+
+Current Act III mission stack:
+
+1. HOME ADVANTAGE
+2. COMMON CAUSE
+3. SECOND LINE
+
+Reserve / alternate title:
+- HEARTS AND MINDS is a current alternate for SECOND LINE depending on final mission emphasis.
+
+HOME ADVANTAGE
+- Current rewrite accepted.
+- The Charity Hospital Ninth Ward version is moved out of this Romeo mission and reserved for Bridges DLC Act I.
+- Function: pay off the Spook-to-Romeo intelligence handoff cleanly without turning it into cameo spectacle.
+- Current continuity: Spook's LINE OF FIRE / Twin Cities–Chicago–Montreal seam helps generate actionable intelligence that Romeo later receives.
+
+COMMON CAUSE
+- Function: show cooperation under contested legitimacy.
+- Should connect Romeo, Bridges, local actors, and lawful responders without flattening their tensions.
+
+SECOND LINE / HEARTS AND MINDS
+- Function: deepen the New Orleans / Louisiana civic and ideological argument.
+- Should keep NAF's organizing logic visible while still making civilian trust, fear, and public legitimacy central.
+
+================================================================================
+05. SPOOK / ROMEO CROSS-BRAID — CURRENT MODEL
+================================================================================
+
+Current cross-braid:
+- Minneapolis UNHMNA aid-center bombing initially reads as lone-wolf or foreign-red-herring activity.
+- Later it is proven organized.
+- Twin Cities safe house yields evidence of structured support.
+- Chicago provides an actionable package tied to dark money and smuggling, with drug-trade money as an important funding source.
+- Montreal clinic cover ties into Stockbridge protection-cover logic and a parallel Raúl Díaz leg.
+- Abernathy assassination knowledge arrives too late to stop the strike; Ledger is suspected as initiator.
+
+Use rule:
+Keep the braid as intelligence continuity and shared-world consequence, not reunion spectacle.
+
+================================================================================
+06. ACT IV — SHREVEPORT ARMED INSURGENCY ENDGAME
+================================================================================
+
+Current accepted Act IV one-view:
+
+Endgame location:
+Government Plaza, 505 Travis St, Shreveport, Louisiana.
+
+Media naming preference:
+- “Shreveport insurgency”
+- “Shreveport armed insurgency”
+
+Reserve / descriptive alternatives:
+- “Shreveport armed insurgency incident”
+- “Louisiana state government coup attempt”
+
+NAF on site:
+- River is present as second-in-command.
+- Sunny broadcasts.
+- Static controls electronic, broadcast, and security systems.
+
+NAF off site:
+- Pacer oversees from HQ.
+- Hazzard is absent.
+- Pacer is targeted and killed during the response; use “shot down” only if the specific physical action supports that wording.
+
+Enemy strength:
+Approximately 25–35 NAF personnel inside the building.
+
+Interference model:
+Romeo's team receives or encounters conflicting lawful orders from infiltrated structures. The team verifies internally rather than simply obeying whichever authority speaks loudest.
+
+Resolution:
+- River is killed.
+- Pacer is killed during the response.
+- Sunny's ambush fails because of weapon malfunction.
+- Sunny is captured.
+- Duke Montgomery reframes Sunny's capture as federal oppression to energize remaining NAF pockets.
+
+Sunny final stand-down line — locked:
+“All Frontier personnel, stand down, I say again, stand down, the operation is over.”
+
+Follow-on action:
+The SWAT / tactical team securing the building gives the separate instruction to lay down weapons. Do not make Sunny say that part.
+
+Tone rule:
+Sunny should deliver the line with control and clarity. It is not desperate begging; it is a leader recognizing that the operation is over and that further fighting only wastes people.
+
+================================================================================
+07. CURRENT FACTION / CHARACTER LOCKS
+================================================================================
+
+New American Frontier senior block remains live:
+- Pacer
+- River
+- Static
+- Sunny
+- Hazzard
+- Duke Montgomery / Robert Earl Bevins as civilian-media figurehead.
+
+Duke use rule:
+Duke is a civilian / media-facing figurehead and liaison to Pacer through Sunny, not a battlefield commander. His capture-reframing role after Shreveport is important because it keeps NAF pockets energized after tactical defeat.
+
+Duke visual-persona note:
+He may draw only broad inspiration from the right-wing podcaster / streamer archetype associated with Tim Gionet / “Baked Alaska.” Do not make him an exact likeness, direct copy, caricature, or obvious one-to-one reference. Use the broad grammar: online provocateur turned faction-media figure, audience-hungry right-wing podcaster energy, casual-to-performative wardrobe, livestream/podcast posture, and grievance-branding fluency.
+
+================================================================================
+08. WEAPON / OBJECT CONTINUITY
+================================================================================
+
+DEAD BLOW convergence:
+- DEAD BLOW is an MP5SD-style suppressed 9x19 build associated with Croatoan / Hawthorne / Vanguard continuity.
+- It returns to NAF custody.
+- Romeo later finds a locker with the Hawthorne name and acquires the weapon in the late Act III / Act IV window.
+- Current candidate configuration remains black MP5SD-style with Navy-style 0-1-3-F trigger group, SD suppressor, top rail, FDE EOTech XPS3-0, M300-style light, two-point sling, and paired 30-round magazines.
+
+Do not frame DEAD BLOW as a prototype.
+Use “bullet hose” or accurate, rapid, low-recoil suppressed-output language only as controlled metaphor.
+
+================================================================================
+09. MIGRATION / HANDOFF NOTES
+================================================================================
+
+This page should be read with:
+- `PW_Command_Authority_Campaign_Architecture_v0_1_2026-05-08_rev1.txt` from open PR #13.
+- `PW_Game4_Permanent_Record_Mission_Pack_Addendum_2026-05-07_rev1.txt` already on main.
+- `PW_Raul_Diaz_Latest_Source_Update_2026-07-06_rev1.txt` for the Díaz-related funding / handler lane.
+- `PW_American_Guerrilla_Latest_Source_Update_2026-07-06_rev1.txt` for Hawthorne / NAF / DEAD BLOW backstory.
+
+Current branch status:
+This page is intended to make the latest thread state available to a handoff LLM without requiring reconstruction from long conversation residue.
