@@ -1,0 +1,193 @@
+PROJECT WARRIORS — SPOOK GAME 4 / PERMANENT RECORD
+LATEST THREAD UPDATE
+Generated: 2026-07-06
+Version: rev1
+Status: source-ready latest-thread update / branch handoff layer
+
+PURPOSE
+This page lands the latest visible Permanent Record updates and cross-checks them against the already-landed May 2026 mission pack. It is not a full replacement for the existing source pages. It is a handoff-safe delta layer for later compendium refresh.
+
+PRIMARY EXISTING REPO LAYER
+- `Project_Warriors_Knowledge_Compendia/PW_Game4_Permanent_Record_Mission_Pack_Addendum_2026-05-07_rev1.txt`
+- durable source pages under `dev_src_docs/story_campaigns/Game4/Spook/`
+
+================================================================================
+01. CURRENT CAMPAIGN READ
+================================================================================
+
+Campaign title: PERMANENT RECORD.
+
+Core thesis:
+Justice is a field operation. Spook's Game 4 campaign is about keeping truth, evidence, witness chains, and accountability from being professionally laundered after the main war has moved into restoration.
+
+The campaign should not invent a bigger mastermind than Goldberg or Stockbridge. It should focus on the surviving network, its escape infrastructure, its respectability covers, and the difficulty of making truth admissible, survivable, and actionable.
+
+================================================================================
+02. CURRENT MISSION / ARC STACK
+================================================================================
+
+Early domestic-investigation arc:
+LINE OF FIRE
+- Minneapolis UNHMNA aid-center bombing initially reads as lone-wolf or foreign-red-herring activity.
+- Later proven organized.
+- Twin Cities safe house leads toward Chicago and Montreal.
+- The domestic thread later feeds Romeo's Game 4 campaign through intelligence transfer rather than direct Spook resolution.
+
+Mid-campaign international cover-collapse arc:
+NO SHELTER
+- Montreal -> Paris -> Monaco -> Haifa direction remains the working structure.
+
+Late mission stack:
+- ET IN ARCADIA EGO — Monaco / Marietta infiltration.
+- RECEIVERSHIP — Haifa / Keter Maritime identity-confirmation mission.
+- FLOW CONTROL — La Avispa warning / toll-road pressure beat before the final run.
+- …AND INTO THE FIRE — direct cold-open continuation; Spook survives by timing the EVADE move into the passing sand barge below.
+- JUDGMENT DAY — stealth-led Torres Mulieres breach, pencil ambush, Smoke wounded, solo pursuit, motorcycle escape, catastrophic non-fatal crash, Stockbridge captured alive.
+- ONE HEAD OF THE HYDRA — post-capture device-data reveal showing the surviving network already overlaps with parts of the reconstruction order.
+
+Title note:
+Earlier Haifa alternatives included CHAIN OF CUSTODY, RECEIVERSHIP, and HOSTILE TAKEOVER. Current active title in the landed mission-pack addendum is RECEIVERSHIP. CHAIN OF CUSTODY remains a strong reserve if the mission needs to lean harder into records custody; HOSTILE TAKEOVER is the looser backup and should only be used if the mission becomes more overtly corporate-aggressive.
+
+================================================================================
+03. FLOW CONTROL — FUNCTIONAL LOCK
+================================================================================
+
+FLOW CONTROL is a compact pressure mission / bridge beat before …AND INTO THE FIRE.
+
+Role:
+- escalates endgame pressure without bloating the campaign
+- brings La Avispa back in a professional warning function
+- shows that Stockbridge-aligned infrastructure can still shape movement and kill people through deniable intermediaries
+- gives Spook a grounded civilian-exposed vehicle-action set piece
+- reinforces BACKUP PLAN as a contingency weapon
+
+Preferred environment:
+Civilian highway / toll-corridor environment in Argentina or adjacent South American transit space.
+
+Best ingredients:
+- multi-lane divided highway
+- toll booths or lane-control chokepoint
+- barrier islands and crash rails
+- slow civilian traffic
+- buses, compact cars, delivery vans, motorcycles
+- overhead gantries, lane lights, maintenance barriers
+- low admin/service buildings
+- public normalcy becoming a liability
+
+Core beat:
+Victor Two Bravo is already inside a prepared engagement area before it recognizes the trap.
+
+Phase logic:
+1. Covert movement in an SUV.
+2. Pattern wrongness: repeated vehicles, disciplined following distance, induced traffic slowdown, wrong-feeling roadworks.
+3. La Avispa burner-call warning.
+4. Choke point: toll queue / lane constriction.
+5. Deniable interdiction attempt.
+6. Civilian-target discrimination fight.
+7. Smoke breaks the SUV through; the team does not win the firefight, it breaks contact.
+
+Use rule:
+Do not make FLOW CONTROL a long chase map or triumphant action blowout. It should be short, tense, compressed, professional, and civilian-exposed.
+
+================================================================================
+04. BACKUP PLAN — CURRENT WEAPON PRESENTATION LOCK
+================================================================================
+
+BACKUP PLAN is Spook's Game 4 compact suppressed PDW build.
+
+Platform:
+HK MP7A1.
+
+Role:
+Emergency secondary / compact PDW. It belongs to the moment where the operation collapses and the primary plan no longer exists.
+
+Configuration:
+- 4.6x30mm armor-defeating / armor-piercing load
+- factory MP7A1 profile
+- integrated folding foregrip
+- top rail
+- compact micro red-dot / collimator sight
+- compact suppressor
+- fully extendable stock
+- dark, low-reflective, agency-practical finish
+- no decorative markings, no vanity customization
+
+Action-shot lock:
+Spook wields the suppressed MP7A1 one-handed with the stock fully extended and the buttplate braced against the inside of his shoulder, covering an exfil route while dragging a wounded teammate, defector, VIP, or critical intel package behind him with his off hand.
+
+Best current deployment:
+Top fit is the DPRK defector safe-passage mission. Secondary fit is any later emergency exfil / break-contact sequence in Permanent Record.
+
+Design rule:
+BACKUP PLAN is not a cool-gun beauty shot. It is the weapon that appears when the op has gone wrong and Spook still has to get someone or something out alive.
+
+================================================================================
+05. DPRK DEFECTOR SAFE-PASSAGE FIT
+================================================================================
+
+The DPRK defector safe-passage mini-arc remains the cleanest current fit for BACKUP PLAN's action-shot identity.
+
+Good deployment contexts:
+- Spook covering an exfil route
+- dragging a wounded teammate
+- dragging a surviving defector
+- hauling an intel bag / evidence container
+- a tunnel reception operation or safe-passage sequence that has turned violent
+
+The scene should visibly communicate that survival has become the mission, not that Spook is showing off a new weapon.
+
+================================================================================
+06. STOCKBRIDGE / DELHARDT LANE
+================================================================================
+
+Current fugitive-cover lane:
+Gillian Stockbridge attempts to disappear into Buenos Aires under the assumed identity Lana Erika Delhardt.
+
+Cover-employment shell:
+RelCom Media S.A.
+
+Preferred role:
+English-language external affairs / international communications lead.
+
+Preferred environment:
+RelCom Media S.A. executive office suite in one of the Torres Mulieris towers in Puerto Madero, Buenos Aires.
+
+Use rule:
+The cover should feel polished, sustainable, internationally legible, and close enough to Gillian's genuine skills to be believable. Do not make it too conspicuous, too glamorous, or too vague.
+
+================================================================================
+07. JUDGMENT DAY LOCKS
+================================================================================
+
+Pencil / pen ambush:
+At the Judgment Day office threshold, Stockbridge drives a pencil or pen into Spook's vest line. First-person camera dips to it. Spook has one dry line only:
+“Really?”
+
+End-state:
+Stockbridge survives the crash catastrophically injured and is captured alive.
+
+Aftermath:
+ONE HEAD OF THE HYDRA reveals that the surviving network already overlaps with parts of the reconstruction order. The end should feel like progress and capture, not clean triumph.
+
+================================================================================
+08. LA AVISPA USE RULE
+================================================================================
+
+In FLOW CONTROL, La Avispa's re-entry should be professional and earned.
+
+She does not reconnect emotionally, give a long explanation, or ask for trust. She calls because her channels show that Victor Two Bravo is about to be cut off before the real mission can finish.
+
+Best read:
+warning delivered, line cut.
+
+================================================================================
+09. HANDOFF NOTES
+================================================================================
+
+This file is a delta layer. It should be read with:
+- the existing Permanent Record source pages
+- `PW_Game4_Permanent_Record_Mission_Pack_Addendum_2026-05-07_rev1.txt`
+- `PW_Raul_Diaz_Latest_Source_Update_2026-07-06_rev1.txt`
+- `PW_Command_Authority_Latest_Thread_Update_2026-07-06_rev1.txt`
+
+Future compendium refresh should preserve the distinction between source pages and synthesis pages. This file is source-side because the material is concrete enough to land but not broad enough to justify a full six-compendia rewrite by itself.
