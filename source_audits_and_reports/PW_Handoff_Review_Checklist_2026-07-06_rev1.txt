@@ -1,0 +1,85 @@
+PROJECT WARRIORS — HANDOFF REVIEW CHECKLIST
+Generated: 2026-07-06
+Version: rev1
+Status: governance / review checklist
+
+PURPOSE
+Provide a practical review order and completeness checklist for the July 2026 handoff branch.
+
+================================================================================
+01. BEST REVIEW ORDER
+================================================================================
+
+1. README.md
+2. `Project_Warriors_Knowledge_Compendia/PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt`
+3. `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt`
+4. `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt`
+5. Source pages under `dev_src_docs/` added by this branch.
+6. `source_audits_and_reports/PW_Open_PR_and_Repo_Reconciliation_Audit_2026-07-06_rev1.txt`
+7. `source_audits_and_reports/PW_Thread_Archive_Audit_2026-07-06_rev1.txt`
+8. `source_audits_and_reports/PW_Source_Manifest_Addendum_2026-07-06_rev1.csv`
+9. `source_audits_and_reports/PW_Package_ChangeLog_2026-07-06_rev1.txt`
+
+================================================================================
+02. COMPLETENESS CHECKLIST
+================================================================================
+
+Repository structure checked:
+[ ] README source model still matches branch additions.
+[ ] New files are in appropriate source / compendium / governance directories.
+[ ] Open PR dependencies are visible.
+
+Game 4 checked:
+[ ] Romeo G4 latest mission stack represented.
+[ ] Shreveport endgame represented.
+[ ] Sunny stand-down line represented exactly.
+[ ] Spook G4 latest Permanent Record deltas represented.
+[ ] Ducky Common Picture / Jaeger / Lin essentials represented.
+[ ] Open PR #13 and #14 are considered before merge.
+
+DLC / side campaigns checked:
+[ ] Home Defense latest timeline/trailer/visual/dialogue updates represented.
+[ ] American Guerrilla / War Within latest Hawthorne/NAF/DEAD BLOW/Abernathy/Duke updates represented.
+[ ] The Collapse Act IV latest updates represented.
+[ ] Nightfall latest Deluvia/Jeroen/Long Shadows updates represented.
+
+Cross-cutting source checked:
+[ ] Raúl Díaz latest character update represented.
+[ ] Named-weapons updates represented.
+[ ] STAPLER remains provisional, not locked.
+
+Governance checked:
+[ ] Manifest addendum lists every new file.
+[ ] Archive audit avoids overclaiming retirement readiness.
+[ ] Changelog describes branch scope.
+[ ] README includes current handoff note.
+
+================================================================================
+03. MERGE CAUTIONS
+================================================================================
+
+Do not merge as “full final compendium refresh.”
+This branch is a latest-thread source and handoff update with a compendium addendum.
+
+Do not delete or ignore open PR #13 and #14.
+They contain relevant source work that overlaps with this branch.
+
+Do not call still-live threads fully archived unless a stricter source-retirement pass confirms:
+- fully absorbed
+- superseded
+- intentionally dropped
+- or otherwise safe to retire
+
+================================================================================
+04. POST-MERGE FOLLOW-UP
+================================================================================
+
+After merge:
+1. Update repomap if the repo workflow still uses it as a tree snapshot.
+2. Decide whether to open/merge a combined PR for #13, #14, and this branch.
+3. Refresh affected compendia once stable.
+4. Consider a new milestone archival master only after the compendia are refreshed.
+
+================================================================================
+END
+================================================================================
