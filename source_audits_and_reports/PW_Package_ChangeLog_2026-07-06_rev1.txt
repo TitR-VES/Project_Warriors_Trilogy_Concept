@@ -1,0 +1,124 @@
+PROJECT WARRIORS — PACKAGE CHANGELOG
+Generated: 2026-07-06
+Version: rev1
+Status: governance / handoff branch changelog
+
+PURPOSE
+Summarize the July 2026 handoff branch additions and the major source/governance changes introduced for LLM comparison and future repo reconciliation.
+
+================================================================================
+01. BRANCH
+================================================================================
+
+Branch:
+`topic/pw-llm-handoff-2026-07-06`
+
+Scope:
+Latest visible Project Warriors thread and memory updates since the last repo-synced baseline, with explicit open-PR reconciliation notes.
+
+================================================================================
+02. MAIN ADDITIONS
+================================================================================
+
+Source-side updates added:
+- Romeo Game 4 / COMMAND AUTHORITY latest mission/title/Shreveport update.
+- Spook Game 4 / PERMANENT RECORD latest mission/weapon/endgame update.
+- Home Defense latest placement, trailer, ADF/J-20, and mangrove-drone update.
+- War Within / American Guerrilla latest Hawthorne, NAF, Abernathy, DEAD BLOW, and Duke update.
+- The Collapse latest AID AND COMFORT / MARKED SAFE Act IV update.
+- Nightfall latest Deluvia, Jeroen van Hal, Dubai / Long Shadows update.
+- Raúl Díaz latest character / cover / early-seeding update.
+- Named weapons latest BACKUP PLAN, DEAD BLOW, and STAPLER candidate update.
+
+Synthesis / compendium-side additions:
+- Current LLM handoff state.
+- rev6 project-memory integration patch.
+- Latest-thread compendium addendum mapped to the six compendium domains.
+
+Governance additions:
+- Open PR and repo reconciliation audit.
+- Strict thread archive-readiness audit.
+- Source manifest addendum.
+- Handoff review checklist.
+- This changelog.
+
+README update:
+- Adds a July 2026 handoff note with review order and branch context.
+
+================================================================================
+03. OPEN PR HANDLING
+================================================================================
+
+Open PR #13:
+Romeo G4 / COMMAND AUTHORITY v0.1 architecture. It remains open and is treated as relevant source context.
+
+Open PR #14:
+Ducky COMMON PICTURE / Jaeger-Lin follow-up. It remains open and is treated as relevant source context.
+
+This branch does not claim those PRs are merged into main. It explicitly surfaces their dependencies so another LLM does not miss them.
+
+================================================================================
+04. MATERIAL LANDED BY DOMAIN
+================================================================================
+
+Core / Timeline:
+- Game 4 restoration-era structure.
+- Home Defense after Game 4 around 2033.
+- The Collapse roughly 2–3 years after Game 4.
+- Nightfall late-timeline continuation.
+
+Worldbuilding / Strategic Architecture:
+- VIGILAN / HYPERMNESTRA trust architecture.
+- reduced U.S. strategic backing / NATO-Europe vigilance / Israel-China opposition context.
+- Deluvia catastrophic-material governance.
+
+Characters / DLC:
+- Hawthorne, Duke, Díaz, Jeroen van Hal, Lucas Hill, Sunny / NAF leadership updates.
+
+Gameplay / Weapons / Style:
+- BACKUP PLAN, DEAD BLOW, STAPLER candidate.
+- ADF silhouette / J-20 correction.
+
+Missions / Scenes / Cinematics:
+- Romeo G4 mission stack and Shreveport endgame.
+- FLOW CONTROL / Judgment Day reinforcement.
+- Home Defense mangrove-drone scene.
+- Collapse AID AND COMFORT / MARKED SAFE.
+- Nightfall Long Shadows.
+
+Promotional / Sidebar:
+- Home Defense trailer ownership and “Coming Down” anchor.
+- Duke visual-persona constraints.
+- BACKUP PLAN action-shot presentation.
+
+================================================================================
+05. LIMITATIONS
+================================================================================
+
+This branch is handoff-ready but not a full milestone archival master refresh.
+
+It does not:
+- rewrite all six full compendia end to end
+- merge open PR #13 or #14
+- claim every thread is safe to archive
+- produce a full updated archival master
+
+It does:
+- source-land the latest visible thread updates
+- add a compendium-side addendum
+- create governance/audit files
+- update README orientation
+- prepare a package another LLM can compare against
+
+================================================================================
+06. RECOMMENDED MERGE PATH
+================================================================================
+
+1. Review this branch alongside PR #13 and PR #14.
+2. Decide whether to merge PR #13/#14 first or fold their changes into this handoff branch.
+3. After source pages stabilize, run a full six-compendia refresh.
+4. Only then consider a new archival master / upload-order refresh.
+
+================================================================================
+END
+================================================================================
