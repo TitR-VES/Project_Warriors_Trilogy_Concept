@@ -1,0 +1,172 @@
+PROJECT WARRIORS — CURRENT LLM HANDOFF STATE
+Generated: 2026-07-06
+Version: rev1
+Status: handoff synthesis / latest-thread bridge
+
+PURPOSE
+This file gives another LLM a compact current project-state map after the July 2026 thread update pass. It is intentionally a synthesis layer. Durable topic details should be read in the source pages listed below.
+
+SCOPE NOTE
+This handoff is based on:
+- the repository as accessible through GitHub
+- merged main-branch material
+- open PR metadata and accessible open-PR source content
+- visible project-memory and thread-summary material in the current ChatGPT project context
+- uploaded migration / compendium files available in this workspace
+
+It is not proof that hidden, deleted, or inaccessible conversations outside this project context were fully represented.
+
+================================================================================
+01. CURRENT SOURCE MODEL
+================================================================================
+
+Use the source-first workflow:
+1. Create or update durable source pages in `dev_src_docs/`.
+2. Refresh working compendia only after stable source landing.
+3. Keep governance files in `source_audits_and_reports/`.
+4. Treat archival masters as milestone ballast, not everyday authoring files.
+
+Current high-value reference layers:
+- `Project_Warriors_Knowledge_Compendia/`
+- `dev_src_docs/`
+- `source_audits_and_reports/`
+
+New July 2026 branch handoff files:
+- `dev_src_docs/story_campaigns/Game4/Romeo/PW_Command_Authority_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/HomeDefenseDLC/PW_Home_Defense_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/WarWithin/PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/TheCollapse/PW_The_Collapse_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/story_campaigns/Nightfall/PW_Nightfall_Latest_Thread_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/characters/PW_Raul_Diaz_Latest_Source_Update_2026-07-06_rev1.txt`
+- `dev_src_docs/weapons_and_equipment/PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt`
+
+================================================================================
+02. MAINLINE / GAME 4 CURRENT STATE
+================================================================================
+
+Game 4 working campaign titles:
+- Romeo — COMMAND AUTHORITY
+- Ducky — COMMON PICTURE
+- Spook — PERMANENT RECORD
+
+Shared Game 4 thesis:
+Restoration is not clean. Game 4 fights over what restoration becomes: legitimacy, continuity, accountability, technical trust, reconstruction, and public truth.
+
+Ducky / COMMON PICTURE:
+- HYPERMNESTRA = development codename for the post-AEGIS successor effort.
+- VIGILAN = actual restoration-era replacement system name: Vertically Integrated Geospatial Intelligence Layered Architecture Network.
+- ANTIFRAGILITY = preferred sub-arc title for hardening / trust-architecture / coalition-fracture lane.
+- Y. T. Lin = preferred consulting cryptography engineer.
+- Jaeger = preferred PYTHIA / DAOG continuity figure for securing Lin's collaboration and participating in Lin-protection beats.
+
+Romeo / COMMAND AUTHORITY:
+- Restoration-era domestic-fracture campaign.
+- New American Frontier is the dominant ideological pole among multiple armed currents, not the only enemy group.
+- Russia is accelerant, not sole engine.
+- Latest mission ladder includes DE-ESCALATION, PRESSURE POINT, WATERING HOLE, RIGHT OF WAY, AMERICAN WARLORD, COUNTY LINE, EMERGENCY POWERS, DEAD SWITCH, NO MARTYRS, HOME ADVANTAGE, COMMON CAUSE, SECOND LINE / HEARTS AND MINDS, and Shreveport endgame.
+- Sunny final stand-down line is locked: “All Frontier personnel, stand down, I say again, stand down, the operation is over.”
+
+Spook / PERMANENT RECORD:
+- Evidence / witness / accountability campaign.
+- Current stack: LINE OF FIRE -> NO SHELTER -> ET IN ARCADIA EGO -> RECEIVERSHIP -> FLOW CONTROL -> …AND INTO THE FIRE -> JUDGMENT DAY -> ONE HEAD OF THE HYDRA.
+- BACKUP PLAN is Spook's MP7A1 compact suppressed contingency weapon.
+- Gillian Stockbridge / Lana Erika Delhardt lane remains the late-game Buenos Aires fugitive-cover center.
+
+================================================================================
+03. DLC / SIDE-CAMPAIGN CURRENT STATE
+================================================================================
+
+Home Defense:
+- Now preferred after Game 4, around 2033.
+- Lucas Hill owns the trailer emotionally and visually.
+- Switchblade is connective tissue, not the emotional center.
+- Night mangrove / drone beat and dialogue are locked.
+- J-20 correction for the RHIB/offshore sequence is important.
+
+American Guerrilla / War Within:
+- Protagonist: Nicholas Wayne Hawthorne.
+- Shows NAF rise from the inside between Game 3 and Game 4.
+- DEAD BLOW is Hawthorne's Vanguard-associated MP5SD-style build, not Halloran's weapon.
+- Abernathy's Palisade partnership / Ledger-hunt self-promotion gives Ledger additional public motive.
+- Final mission: SIC SEMPER TYRANNIS.
+
+The Collapse:
+- Placement remains roughly 2–3 years after Game 4.
+- Act IV opener AID AND COMFORT: relief convoy / public-aid targeting.
+- Follow-up MARKED SAFE: Chris tracks those marking aid infrastructure for larger strike.
+
+Nightfall:
+- Late-timeline stealth/expedition sequel.
+- Deluvia / Damhaven hazardous-trade rule now source-landed.
+- Correct Deluvia security-chief candidate name: Jeroen van Hal.
+- Long Shadows / ظلال طويلة is a singular memorial-like Dubai environmental set piece.
+
+================================================================================
+04. CROSS-CUTTING CHARACTER / WEAPON CURRENT STATE
+================================================================================
+
+Raúl Díaz:
+- Cuban, likely Cienfuegos origin.
+- Cuban intelligence background with FSB / Russian intelligence liaison networks.
+- “Raúl Díaz” is a constructed operational cover for U.S.-side work.
+- Presents with broader cosmopolitan Latin American finish.
+- Can be seeded in earlier Spook Game 1 docs only faintly; not an architect of RIPTIDE RED or PANDORA.
+
+Duke Montgomery / Robert Earl Bevins:
+- Civilian/media-facing NAF figurehead, not battlefield commander.
+- Freedom Now with Duke Montgomery.
+- Broad right-wing podcaster / streamer archetype allowed, but no exact real-person likeness or one-to-one reference.
+
+BACKUP PLAN:
+- Spook Game 4 MP7A1 contingency PDW.
+
+DEAD BLOW:
+- Hawthorne / Vanguard MP5SD-style suppressed 9mm build.
+
+STAPLER candidate:
+- Provisional Spook retroactive secondary weapon concept around B&T APC9K Pro.
+- Not yet locked.
+
+================================================================================
+05. OPEN PR CONTEXT TO PRESERVE
+================================================================================
+
+Open PR #13:
+Adds Romeo G4 / COMMAND AUTHORITY v0.1 architecture.
+
+Open PR #14:
+Adds Jaeger into the Common Picture / Lin protection lane.
+
+This branch does not assume those PRs are already merged into main. It includes a reconciliation audit and latest-thread addenda so another LLM can see both main and open-PR context.
+
+================================================================================
+06. ARCHIVE-READINESS CAUTION
+================================================================================
+
+Do not call the following workstreams fully archive-ready yet:
+- Spook STAPLER / APC9K retroactive secondary weapon thread
+- Home Defense full mission/trailer source package
+- War Within / American Guerrilla full campaign source package
+- The Collapse Act IV full ladder
+- Nightfall full campaign source package
+- Romeo G4 full mission bible
+- Ducky COMMON PICTURE full mission/character package
+
+They are now represented enough for handoff, but several still need dedicated source pages or compendium absorption before strict retirement.
+
+================================================================================
+07. BEST REVIEW ORDER FOR ANOTHER LLM
+================================================================================
+
+1. `README.md`
+2. `Project_Warriors_Knowledge_Compendia/PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt`
+3. `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt`
+4. `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt`
+5. relevant new source pages under `dev_src_docs/`
+6. `source_audits_and_reports/PW_Open_PR_and_Repo_Reconciliation_Audit_2026-07-06_rev1.txt`
+7. `source_audits_and_reports/PW_Thread_Archive_Audit_2026-07-06_rev1.txt`
+
+================================================================================
+END
+================================================================================
