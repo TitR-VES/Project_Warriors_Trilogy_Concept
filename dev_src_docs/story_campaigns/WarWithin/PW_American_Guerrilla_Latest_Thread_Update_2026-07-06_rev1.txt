@@ -1,0 +1,273 @@
+PROJECT WARRIORS — WAR WITHIN / AMERICAN GUERRILLA
+LATEST THREAD UPDATE
+Generated: 2026-07-06
+Version: rev1
+Status: source-ready latest-thread update / branch handoff layer
+
+PURPOSE
+This page lands the latest visible American Guerrilla / New American Frontier / Nicholas Wayne Hawthorne updates so they are available as durable source material for later compendium refresh and Romeo Game 4 continuity.
+
+================================================================================
+01. CAMPAIGN POSITION
+================================================================================
+
+Campaign:
+American Guerrilla.
+
+Placement:
+Between Game 3 and Game 4.
+
+Function:
+Show the rise of the New American Frontier from the inside and make the later Romeo Game 4 NAF conflict feel historically lived rather than invented at the moment of Command Authority.
+
+Central protagonist:
+Nicholas Wayne Hawthorne.
+
+Origin:
+Morehead City, North Carolina; later work in Beaufort.
+
+Background:
+Civilian shooter / practical-shooting practitioner with limited hunting experience. He is not an existing Tier 1 archetype. His competence develops through crisis, local defense, AFC-adjacent work, and NAF recruitment.
+
+================================================================================
+02. HAWTHORNE FOUNDATION
+================================================================================
+
+Hawthorne's entry path:
+- early bridge through Kill Devil Hills Detachment, with “State Defense” reactivation implied
+- buddy: Dale Jacobs, Triangle, North Carolina; former ARNG; tracker / hunter
+- later AFC-adjacent work in coastal / southeast Virginia and DC river corridors
+
+Cover / practical role during AFC-adjacent period:
+- mechanic
+- marine-diesel / logistics worker
+- blockade bypass support
+- riverine repairs
+- courier / intel transfer
+
+Core wound:
+The toxic tide at Morehead City.
+
+Toxic tide event:
+A near-shore vessel collision caused by gutted oversight and war-adjacent chemical cargo contaminates tidal water. Hawthorne's sister Florence develops chronic illness; his niece Hannah Rose dies.
+
+Opening logic:
+Use brief trauma flashes rather than a long explanatory prologue.
+
+================================================================================
+03. SOUTH MILLS INCIDENT
+================================================================================
+
+Flashback / formative incident:
+Kill Devil Hills follows enemy supply to South Mills, North Carolina.
+
+Enemy reaction:
+They are spotted by a Mi-8; 6–8 VDV are inserted.
+
+KDH posture:
+Holds under pressure, ammo running low, helicopter cycling.
+
+AFC intervention:
+An AFC patrol led by Major Cornell Gordon Parker flanks from the tree line, breaks reinforcement, links with the KDH detachment, and extracts them.
+
+Wounded KDH:
+Kyle Perkins.
+
+Function:
+This incident should prove why Hawthorne respects competence and why Parker's later argument matters.
+
+================================================================================
+04. PARKER BREAKPOINT SCENE
+================================================================================
+
+Setting:
+Foggy Virginia-side Potomac waterfront.
+
+Scene function:
+Private moral / strategic conversation between Parker and Hawthorne.
+
+Core exchange:
+Hawthorne: “I didn't sleep.”
+
+Parker argues for disciplined cooperation and warns against destructive impatience.
+
+Hawthorne: “I just don't know how much longer I can stand by and do nothing.”
+
+Function:
+This is Hawthorne's psychological bridge from disciplined adjacent work toward NAF recruitment vulnerability.
+
+================================================================================
+05. NAF CONTACT LADDER
+================================================================================
+
+Current ladder:
+1. Florence / toxic tide wound.
+2. First low-key NAF contact.
+3. Parker scene.
+4. Second NAF contact involving stuck / jackknifed NAF truck recovery.
+5. Serious consideration.
+6. Louisiana / Mississippi entry.
+
+Use rule:
+NAF fills Hawthorne's vacuum. Do not make the turn instant, stupid, or purely ideological. It should feel like grief, competence hunger, betrayal, and the appeal of decisive action coming together.
+
+================================================================================
+06. NAF WORLD / STRUCTURE
+================================================================================
+
+NAF identity:
+Dispersed “frontier states/counties,” local cells, sympathetic county authorities, and in-group / out-group order logic.
+
+Frontier claim:
+They claim to represent the will of the people and hardline order where official structures failed.
+
+Top commander:
+Pacer.
+
+Vanguard:
+Informal elite task-group designation for sabotage, denial, high-risk, and deniable enforcement tasks.
+
+Vanguard threshold mission:
+NO WITNESSES.
+
+NO WITNESSES lock:
+Senior Vanguard figure Mark “Skidrow” Champlin executes surrendering or cowering staff while observing Hawthorne.
+
+Purpose:
+This is the moral threshold where Hawthorne sees what NAF discipline actually permits, not only what it claims to protect.
+
+================================================================================
+07. LA/MS TRAINING ARC
+================================================================================
+
+Hawthorne's decisive patrol-performance beat:
+He reads infrastructure, corrects fallback, identifies a service-route escape, preserves recon, and uses a remote car alarm / power relay diversion.
+
+Function:
+This proves Hawthorne is useful to NAF because of practical field intelligence, not because he is already a super-operator.
+
+Ninth Ward safe-house bridge:
+New Orleans Ninth Ward under-construction safe house. Wall mark: X-quadrant KDH.
+
+Baton Rouge crossover option:
+The Rollin' Good Times cameo option remains live, with Hawthorne as Vanguard-linked security.
+
+================================================================================
+08. SIC SEMPER TYRANNIS — FINAL MISSION LOCK
+================================================================================
+
+Final mission title:
+SIC SEMPER TYRANNIS.
+
+Location / premise:
+DC / Virginia-adjacent hotel infiltration to kill Stanley Abernathy.
+
+Abernathy role:
+LtCol cyber-reserve / corporate-government technology figure connected to Palisade-style strategic software, data aggregation, and the post-Atlanta Ledger hunt.
+
+Player choice:
+Surrender or fire first.
+
+Function:
+The mission is not only an assassination. It is the endpoint of Hawthorne's radicalization and the player's confrontation with what “American Guerrilla” has become.
+
+================================================================================
+09. ABERNATHY MOTIVE / PERFORMANCE REFINEMENT
+================================================================================
+
+Abernathy / Ledger motive clarification:
+Abernathy used the Palisade government-technology partnership for self-promotion, corporate rise, sales, investor enrichment, and status with the Crodyn cabinet / corporate administration.
+
+One major purpose of the Palisade government technology partnership:
+Tracking / hunting Ledger after the Atlanta UNHMNA airport bombing, using Palisade-style surveillance and data-aggregation infrastructure.
+
+Effect:
+Abernathy becomes a meaningful public target for Ledger and a symbol of the corporate-state machinery that profited from the hunt.
+
+Abernathy performance rule:
+He should subtly show that he is trying hard to appear military while being visibly ignorant of military culture.
+
+Tone:
+Not farce. Not cartoon. He is embarrassing and tragic because he is out of depth, wearing rank and uniform, and inadvertently disrespectful through posture, stage manner, phrasing, gestures, and contradictions unbecoming of a real military professional.
+
+Targeting logic:
+His nominal Cyber Command / commissioned status lets NAF frame him as a legitimate military target in its rhetoric. It also justifies larger event security and stronger containment response.
+
+================================================================================
+10. DEAD BLOW — CURRENT CORRECTED WEAPON LOCK
+================================================================================
+
+Weapon name:
+DEAD BLOW.
+
+Status:
+Candidate / working lock unless later explicitly finalized.
+
+Correct carrier reference:
+Nicholas Wayne Hawthorne, not Halloran / Helleren.
+
+Role:
+Hawthorne's Vanguard-associated weapon after Julian's Vanguard in War Within / American Guerrilla.
+
+Platform:
+Black HK MP5SD-style suppressed 9x19 SMG.
+
+Candidate configuration:
+- Navy-style ambidextrous 0-1-3-F trigger group
+- standard MP5SD suppressor logic
+- black gun / suppressor / light mount
+- flat dark earth EOTech XPS3-0
+- M300-style light
+- two-point sling
+- paired 30-round magazines
+
+Correction:
+Do not call DEAD BLOW a prototype.
+
+Language rule:
+Use “bullet hose” if needed as a metaphor for accurate, rapid-fire, low-recoil suppressed output. Avoid accidental “bullet holes” wording unless explicitly used as a metaphor.
+
+Later continuity:
+DEAD BLOW can return to NAF custody and later be found by Romeo in Command Authority in a locker marked with Hawthorne's name.
+
+================================================================================
+11. DUKE MONTGOMERY / ROBERT EARL BEVINS
+================================================================================
+
+Identity:
+Robert Earl Bevins.
+
+Stage name:
+Duke Montgomery.
+
+Role:
+Civilian / media-facing New American Frontier figurehead; liaison to Pacer through Sunny. Not battlefield commander.
+
+Podcast:
+Freedom Now with Duke Montgomery.
+
+Persona:
+Former conspiracy podcaster / online entertainer. Persuasive, media-savvy, long-form “just asking questions” cadence, rally crowd-work.
+
+Visual-persona rule:
+Can draw loose inspiration from the right-wing podcaster / streamer archetype associated with Tim Gionet / “Baked Alaska,” but must not be an exact likeness, direct copy, caricature, or obvious one-to-one reference.
+
+Use broad design grammar only:
+- online provocateur turned faction-media figure
+- audience-hungry right-wing podcaster energy
+- casual-to-performative wardrobe
+- livestream / rally posture
+- grievance branding
+
+Visual marks:
+- trucker cap with black mesh back and white front
+- cap may carry NAF Frontier Flag motif or NAF Frontier Mark
+- FREEDOM NOW shirt design can use two slanted bands and tree motif
+
+================================================================================
+12. HANDOFF NOTES
+================================================================================
+
+This page should feed future Characters / DLC, Gameplay / Weapons / Style, Missions / Scenes / Cinematics, and Core / Timeline compendium refreshes.
+
+Do not treat American Guerrilla as fully absorbed until a fuller campaign ladder, Hawthorne profile, NAF faction bible, DEAD BLOW source note, and Abernathy / Ledger relation page are either landed or intentionally scoped into this source page.
