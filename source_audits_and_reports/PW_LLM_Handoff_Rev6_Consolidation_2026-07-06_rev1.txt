@@ -1,0 +1,160 @@
+PROJECT WARRIORS — LLM HANDOFF: REV6 CONSOLIDATION AND CANON CORRECTIONS
+Generated: 2026-07-06
+Version: rev1
+Status: cross-LLM handoff / onboarding document for this branch's changes
+Audience: any LLM (or human collaborator) continuing Project Warriors development
+Authored by: Claude (Anthropic), external consistency review + implementation pass
+Branch: rev6-consolidation-2026-07-06
+
+================================================================================
+1. WHAT THIS BRANCH IS
+================================================================================
+On 2026-07-06 the project owner commissioned a full-repo external consistency
+review (plot holes, contradictions, name collisions, realism, structural gaps),
+then approved implementation of the findings. This branch contains that
+implementation. Two audit reports in source_audits_and_reports/ document the
+review itself:
+- PW_External_Consistency_Review_Audit_2026-07-06_rev1.txt (repo-internal audit)
+- PW_CrossWorkspace_Reconciliation_Audit_2026-07-06_rev1.txt (repo vs ChatGPT
+  memory layer vs Claude workspace reconciliation)
+
+================================================================================
+2. THE NEW WORKING SET — READ THIS FIRST
+================================================================================
+The canonical day-to-day source set is now the SIX REV6 WORKING COMPENDIA plus
+the REV6 ARCHIVAL MASTER in Project_Warriors_Knowledge_Compendia/:
+  PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt
+  PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-07-06_rev6.txt
+  PW_Working_Compendium_03_Characters_DLC_2026-07-06_rev6.txt
+  PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-07-06_rev6.txt
+  PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-07-06_rev6.txt
+  PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-07-06_rev6.txt
+  PW_Archival_Master_2026-07-06_rev6.txt
+
+Each rev6 file is SELF-CONTAINED: corrected rev4 body + absorbed rev5 refresh
+layer + absorbed 2026-07-06 Latest Thread Addendum + the Canon Decisions layer.
+You do NOT need rev4/rev5 (now in archived/superseded_by_rev6/). If any older
+layer conflicts with a rev6 file, rev6 wins. If two statements conflict INSIDE a
+rev6 file, the later layers (Addendum, then Canon Decisions) win over the body.
+
+Also load: PW_Canon_Decisions_Lock_2026-07-06_rev1.txt (same directory) and
+PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt (broader project state,
+Game 4 and side-campaign coverage).
+
+================================================================================
+3. CANON DECISIONS LOCKED 2026-07-06 (apply on sight, purge stale variants)
+================================================================================
+3.1 TIMELINE: PANDORA attacks = Thursday, September 7, 2028. U.S. presidential
+    election = Tuesday, November 7, 2028 (statutory election day). Hudson
+    Overlook = September 7, 2028. Glushkin activation / Lebedev Boston staging =
+    June 4, 2028. ALL September 3 / November 3 / November 6, 2028 variants are
+    stale — purge on sight. (Careful: "Labor Day — September 3, 2029" in the
+    missions compendium is a DIFFERENT, correct date. Leave it.) Writer rule:
+    prefer broad windows ("weeks after PANDORA") over inherited day-math until
+    every derived date is re-verified.
+3.2 AEGIS FALLS: retired as the CAMPAIGN title — Ducky's Game 2 campaign is
+    Persistent Threat — but RETAINED as the final MISSION title of that
+    campaign. Do not delete the mission name in cleanup passes.
+3.3 DALE PRUETT: canonical spelling is PRUETT (Game 2, Romeo campaign).
+    "Pruitt" is superseded — purge on sight.
+3.4 Y. T. LIN: is the Taiwanese semiconductor engineer of Wei Junlong's
+    fracture line — same person, identity locked. Likely architect of the
+    TETHERBREAK credential kill switch (Game 3); consulting engineer hardening
+    HYPERMNESTRA -> VIGILAN (Game 4). The Wei-fracture / PANDORA-resolution arc
+    remains a PROTECTED STRUCTURAL ASSET: identity is locked, but do not write
+    the resolution ahead of the dedicated Game 3 pass.
+3.5 TRU/SIGHT: the DAOG counterintelligence detachment formerly named PYTHIA is
+    renamed TRU/SIGHT (also spelled TRUSIGHT — Tactical Reconnaissance Unit /
+    Signals Intelligence and Geospatial Heuristics Team). ORACLE (Lt. Tara
+    Halliday) is retained. Jaeger (Karl Alexander Stanzler) is TRU/SIGHT
+    personnel. Purge PYTHIA on sight.
+3.6 MAGS: the SBS operator formerly called Wren (Swansea) is renamed Mags.
+    Switchblade's weapon build WREN is UNCHANGED. The smallest-bird-in-Britain
+    callsign lore retired with the old name; interim logic — relentless
+    magazine discipline — may be refined in a character pass. Purge operator-
+    "Wren" on sight.
+3.7 KEARNEY LIKENESS: temporary_files/kearney_likeness.txt (real-actor voice/
+    appearance reference) is DELETED and replaced by
+    dev_src_docs/characters/kearney_visual_voice_brief_2026-07-06_rev2.txt,
+    written in archetype-only language under the same governance rule as the
+    Duke Montgomery brief. Never reintroduce named-actor likeness references
+    for any character.
+
+================================================================================
+4. DECISIONS STILL OPEN — DO NOT RESOLVE UNILATERALLY, ASK THE OWNER
+================================================================================
+4.1 JACOBS RENAME: the War Within buddy "Dale Jacobs" will be renamed to avoid
+    first-name duplication with Dale Pruett. Owner proposed "Hale Jacobs";
+    reviewer flagged (a) Hale/Dale are near-homophones in voiced dialogue and
+    (b) the surname already overlaps "Jacobs & Reed" hardliners in The
+    Collapse. Awaiting final name.
+4.2 ROMEO RANK: LT Ramon Alvarez (older canon) vs Sergeant (ChatGPT rank
+    retcon). Unresolved cross-workspace conflict.
+4.3 SPOOK TITLE: remove "Captain" / treat as senior CIA paramilitary officer
+    (retcon; realism-correct) vs CPT Trevor Gartner (older canon). Unresolved.
+4.4 DEADBOLT vs DEAD BLOW: near-identical weapon names (SHIELD/Lock's HK416 vs
+    Hawthorne's MP5SD in War Within). One should be renamed.
+4.5 LA AVISPA DLC TITLE: The Wasp vs Plata o Plomo / Money or Lead.
+4.6 DON'T TREAD RETIREMENT TIMING: mid-Game-2 phase-out vs carried through
+    Game 2 and returned to Dale at the Boston transition (the latter interlocks
+    with the Kearney / THE RIGHT RIFLE / CIVIL DISOBEDIENCE arc).
+
+================================================================================
+5. REPOSITORY CHANGES ON THIS BRANCH (full list)
+================================================================================
+ADDED
+- 6x rev6 working compendia + rev6 archival master (see section 2).
+- PW_Canon_Decisions_Lock_2026-07-06_rev1.txt (compendia dir).
+- dev_src_docs/characters/kearney_visual_voice_brief_2026-07-06_rev2.txt.
+- source_audits_and_reports/PW_External_Consistency_Review_Audit_2026-07-06_rev1.txt.
+- source_audits_and_reports/PW_CrossWorkspace_Reconciliation_Audit_2026-07-06_rev1.txt.
+- source_audits_and_reports/PW_Duplicate_Consolidation_Manifest_2026-07-06_rev1.txt.
+- This handoff document.
+MOVED
+- All superseded compendium/master revisions (rev2-rev5) ->
+  archived/superseded_by_rev6/ (26 files).
+- temporary_files/chatgpt_project_memory_backup.txt ->
+  dev_src_docs/project_memory/chatgpt_project_memory_backup_2026-04-14.txt
+  (promoted: it is load-bearing canon, not scratch).
+DELETED
+- temporary_files/kearney_likeness.txt (real-person likeness; replaced, see 3.7).
+- Empty .codex file.
+- "PW_PR_Packet_2026-04-18_rev2 (1).txt" (byte-identical duplicate).
+- 71 byte-identical staging duplicates in incoming_patches_and_updates/ whose
+  canonical copies live in dev_src_docs/, new_src_material/,
+  source_audits_and_reports/, or the compendia directory. Every removal is
+  listed in PW_Duplicate_Consolidation_Manifest_2026-07-06_rev1.txt and is
+  reversible via git history.
+FIXED
+- PW_Sidebar_Development_Summary_UPDATED_2026-04-12.txt: the " (1)" variant was
+  the NEWER superset (it contains the AFC visual identity system — Republic
+  Shield / Breach Star / Union Mark). Its content now replaces the older file
+  under the clean filename.
+
+================================================================================
+6. WORKING RULES FOR THE NEXT LLM (project standards, unchanged but restated)
+================================================================================
+- Two-layer source model: milestone archival master + six topical working
+  compendia. Edit source-of-truth files first, then refresh compendia.
+- Corrections to canon (names, dates, titles) trigger clean full-output
+  re-runs, not patches.
+- Radio realism: "say again" / "I say again"; "repeat" reserved for fire
+  support; never "over and out"; no stacked roger+wilco.
+- Rank/role plausibility is a standing QC step for military characters.
+- Protected lines and protected structural assets (listed in the compendia)
+  must not be repurposed or resolved prematurely.
+- Real-person likeness: broad archetype only, never one-to-one references.
+- Log every canon decision in BOTH LLM memory layers (ChatGPT project memory
+  and Claude project memory) AND a dated repo source page in the same pass —
+  single-layer logging is how the September 3 / November 3 schism happened.
+
+================================================================================
+7. IMMEDIATE NEXT ACTIONS AFTER MERGE
+================================================================================
+1. Paste section 3 (items 3.1-3.7) into the ChatGPT project memory.
+2. Upload the rev6 set + Canon Decisions Lock to the Claude project knowledge.
+3. Obtain owner decisions on section 4; log per the rule in section 6.
+4. Refresh PW_Recommended_Upload_Order to point at the rev6 set.
+5. Resume development queues per PW_LLM_Handoff_Current_Project_State_2026-07-06.
+
+END

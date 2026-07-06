@@ -1,0 +1,287 @@
+PROJECT WARRIORS — EXTERNAL CONSISTENCY REVIEW AUDIT
+Generated: 2026-07-06
+Version: rev1
+Status: governance / cross-source consistency audit (external LLM review — Claude)
+
+PURPOSE
+Independent full-repo review of TitR-VES/Project_Warriors_Trilogy_Concept (main branch,
+July 2026 state) for contradictions, plot holes, duplicated or colliding character
+names, realism issues, and structural gaps not already tracked by the repo's own
+governance layer. This audit deliberately does not repeat gaps already documented in
+PW_Thread_Archive_Audit_2026-07-06_rev1.txt or
+PW_Open_PR_and_Repo_Reconciliation_Audit_2026-07-06_rev1.txt (open PRs #13/#14,
+partial mission bibles, unretired threads); those audits were found accurate.
+
+SCOPE
+- Full clone of main branch, all directories.
+- Cross-checked against the external Claude project workspace (project knowledge files
+  and project memory) used for parallel development.
+- Not proof that hidden or inaccessible conversations are represented.
+
+STATUS KEY
+- BLOCKER: will corrupt canon or create legal exposure if left unresolved.
+- FIX SOON: active contradiction inside current-revision files.
+- DECIDE: not an error yet; requires a deliberate creative decision, then a lock.
+- HYGIENE: repo mechanics; low narrative risk.
+- POSITIVE: checked and found sound; no action needed.
+
+================================================================================
+01. TIMELINE CANON SCHISM — SEPT 3/NOV 3 vs SEPT 7/NOV 7
+================================================================================
+STATUS: BLOCKER (partially self-documented; residue remains)
+
+Current canon (confirmed by project owner 2026-07-06):
+- PANDORA attacks: Thursday, September 7, 2028
+- U.S. presidential election: Tuesday, November 7, 2028
+- Hudson Overlook: September 7, 2028
+- Glushkin activation / Lebedev-linked Boston staging: June 4, 2028
+
+Realism verification (supports the new lock):
+- November 7, 2028 is the actual statutory U.S. election day (first Tuesday after the
+  first Monday in November). November 3, 2028 falls on a Friday and is legally
+  impossible as a federal election date.
+- September 7, 2028 is genuinely a Thursday; day-of-week references are accurate.
+
+Residual contamination found:
+1. Stale September 3 / November 3 anchors remain embedded in current-revision files:
+   - Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-04-18_rev4.txt
+   - Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-18_rev4.txt
+   - Project_Warriors_Knowledge_Compendia/PW_Archival_Master_2026-04-18_rev4.txt
+   - plus all mirrored copies under incoming_patches_and_updates/ and archived bundles.
+2. HIGH-RISK PATTERN — inverted correction block: the rev4 Core Timeline compendium
+   contains an older embedded correction reading:
+     "INCORRECT (prior notes): November 6, 2028 / CORRECT (locked): November 3, 2028"
+   This block now asserts stale canon with "CORRECT (locked)" authority. A future
+   reader or LLM will trust it. Correction blocks that survive a canon supersession
+   are more dangerous than plain stale text.
+3. External workspace divergence: the parallel Claude project workspace (project
+   knowledge files and memory) still carried September 3 / November 3 as immovable
+   locks until this review. Claude-side memory is now corrected (2026-07-06); the
+   Claude project knowledge files (PW_Timeline_Thread_Summary variants and others)
+   still require the same refresh pass.
+
+EXACT CORRECTION NEEDED:
+- Execute the remaining items in PW_Timeline_Refresh_Audit_Sheet_2026-04-13_v1.txt
+  against the rev4 compendia and archival master, not only thread-summary sources.
+- Delete or rewrite all embedded correction blocks that name November 3 or
+  November 6 as correct; do not leave superseded corrections in current files.
+- Refresh the external Claude project knowledge files with the Sept 7 / Nov 7 lock.
+
+================================================================================
+02. DALE PRUITT vs DALE PRUETT — UNRESOLVED SPELLING SPLIT
+================================================================================
+STATUS: FIX SOON
+
+Both spellings are live inside the SAME current-revision files:
+- PW_Archival_Master_2026-04-18_rev4.txt: 14x "Pruett", 7x "Pruitt"
+- PW_Working_Compendium_01_Core_Timeline_2026-04-18_rev4.txt: 6x "Pruitt", 1x "Pruett"
+- PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-18_rev4.txt:
+  7x "Pruett", 1x "Pruitt"
+- Character and weapons compendia use "Pruett"; timeline compendium prefers "Pruitt".
+
+The external Claude workspace is also split (memory says Pruett; knowledge summary
+says Pruitt), so the divergence propagates across tools.
+
+EXACT CORRECTION NEEDED:
+- Owner selects one canonical spelling.
+- Per the project's own continuity principle, run a clean full-output re-run of every
+  file that names the character (masters, compendia 01/02/03/04/06, weapons files,
+  sidebar summaries), not a patch.
+- Log the decision in the memory integration patch layer so both LLM workspaces
+  inherit it.
+
+================================================================================
+03. EAMONN KEARNEY LIKENESS — REAL-PERSON EXPOSURE
+================================================================================
+STATUS: BLOCKER (legal/production risk, not narrative)
+
+temporary_files/kearney_likeness.txt currently reads:
+  "Eamonn Kearney - voiced and appearance based on Norman Reedus..."
+
+Issues:
+1. Directly contradicts the project's own (correct) Duke Montgomery rule: broad
+   archetype allowed; "no exact likeness, copy, caricature, or one-to-one real-person
+   reference."
+2. Basing a character's voice AND appearance on a named living actor without a
+   licensed likeness agreement is a right-of-publicity exposure. (Note: this is a
+   flag from a reviewer, not legal advice; a games/IP attorney should confirm before
+   any asset production.)
+
+EXACT CORRECTION NEEDED:
+- Rewrite the Kearney visual/voice brief in archetype language mirroring the Duke
+  Montgomery governance wording (e.g., weathered late-50s New England tradesman
+  archetype; short-clipped hair, glasses optional, plaid work shirt over faded band
+  tee, Carhartt-style work pants; gravel-quiet voice register) with an explicit
+  "no one-to-one real-person reference" clause.
+- Because the file sits in temporary_files/, either promote the corrected version to
+  dev_src_docs/characters/ or delete it; do not leave the current wording as the only
+  Kearney visual source.
+
+================================================================================
+04. "AEGIS FALLS" — RETIRED TITLE vs LIVE MISSION NAME
+================================================================================
+STATUS: DECIDE, then lock
+
+Standing lock: "Persistent Threat fully replaces retired working title 'AEGIS Falls'
+everywhere."
+Current rev5 Core Timeline compendium: the Ducky Game 2 mission ladder ends with a
+MISSION titled "AEGIS Falls" (Cold Open -> Dead Frequency -> Hard Winter ->
+Permafrost -> Hull Breach -> AEGIS Falls), paying off the protected ending pair
+"AEGIS falls regardless." / "Then we build something better."
+
+These two instructions collide: a literal application of the "everywhere" lock would
+delete a legitimate final-mission title during a future cleanup pass.
+
+EXACT CORRECTION NEEDED (if the mission name is intentional, which it appears to be):
+- Amend the lock language to: "AEGIS Falls is retired as the CAMPAIGN title (replaced
+  by Persistent Threat) but retained as the FINAL MISSION title of Persistent Threat."
+- Propagate the amended lock to both LLM workspaces' memory layers.
+
+================================================================================
+05. Y. T. LIN vs THE TAIWANESE SEMICONDUCTOR ENGINEER
+================================================================================
+STATUS: DECIDE (protected-asset adjacency)
+
+Two adjacent figures now exist:
+- Game 3 protected structural asset: unnamed Taiwanese semiconductor engineer
+  (former Edinburgh colleague of Wei Junlong, now at TSMC), likely architect of the
+  TETHERBREAK credential kill switch; Wei's personal fracture line.
+- Game 4 / COMMON PICTURE: Y. T. Lin, female consulting cryptography engineer
+  hardening HYPERMNESTRA -> VIGILAN against PANDORA-class compromise.
+
+Risk if they are DIFFERENT people: two Taiwanese-adjacent engineer-saviors of
+successive critical systems in consecutive games is a repeated character shape and
+dilutes the Game 3 protected asset.
+Opportunity if they are the SAME person (or directly connected): the Game 3 fracture
+line resolves into the Game 4 rebuild lane — strong continuity — but the discipline
+mismatch (foundry/firmware vs cryptography) must be reconciled explicitly (plausible
+path: hardware-security specialization bridging both).
+
+EXACT CORRECTION NEEDED:
+- Make the identity decision BEFORE further Ducky G4 development passes.
+- Record the decision alongside the existing protected-asset language so neither
+  workspace resolves it accidentally.
+
+================================================================================
+06. NAME-COLLISION WATCHLIST
+================================================================================
+STATUS: DECIDE (two items); POSITIVE (remainder)
+
+6.1 ORACLE vs PYTHIA — Lt. Tara Halliday's callsign is ORACLE; Jaeger (Karl Alexander
+    Stanzler) is described as a PYTHIA / DAOG continuity figure. Both names reference
+    the Delphic oracle within the same command architecture. Workable if PYTHIA is an
+    organization/cell and ORACLE a personal callsign, but the near-synonymy invites
+    reader confusion. Confirm intent; if unintentional, rename one.
+
+6.2 WREN (weapon) vs Wren (operator) — Switchblade's AUG A3 build WREN (name written
+    inside the dust cover) coexists with SBS Operator 03 "Wren" (Swansea). If the
+    rifle is named after the operator, that is a strong buried connection — document
+    it as deliberate in the weapons source page. If coincidental, rename one asset.
+
+6.3 POSITIVE — checked and clean:
+- Parker = Major Cornell Gordon Parker (War Within); no competing Parker found.
+- Chris (The Collapse) = Christopher Carl Haywood, 33; unique.
+- Halloran / Helleren: earlier mistaken DEAD BLOW carrier references are already
+  corrected in-repo to Nicholas Wayne Hawthorne; supersession is documented.
+- Jeroen van Hout -> Jeroen van Hal correction (Nightfall) is documented and
+  consistently applied in the 2026-07-06 layer.
+- Two Dales exist (Dale Pruitt/Pruett, Romeo lane; Dale Jacobs, War Within lane).
+  Different surnames and different campaigns — acceptable, but be aware both are
+  militia-adjacent Southern-coded figures; keep their voices distinct.
+
+================================================================================
+07. REV5 COMPENDIUM NAMING TRAP
+================================================================================
+STATUS: FIX SOON (information-architecture risk)
+
+The rev5 (2026-05-05) working compendia are thin refresh layers (4-8 KB) while the
+rev4 (2026-04-18) files remain the full bodies (100-250 KB). The version-numbered
+filenames imply rev5 SUPERSEDES rev4. A future reader or LLM applying "read latest
+revision only" logic would silently lose ~95% of compendium content. The rev5 purpose
+statements do disclose this, but only after the file is opened.
+
+EXACT CORRECTION NEEDED (either):
+- Rename refresh layers to break the succession implication, e.g.
+  PW_Working_Compendium_01_Core_Timeline_REFRESH_2026-05-05_rev5.txt; or
+- Produce true full rev6 compendia that absorb rev4 bodies + rev5 refresh + the
+  2026-07-06 addendum, then retire rev4/rev5 to archived/.
+Also update PW_Recommended_Upload_Order to state explicitly that rev4 bodies remain
+required reading.
+
+================================================================================
+08. REPO HYGIENE
+================================================================================
+STATUS: HYGIENE
+
+- Duplicate files with " (1).txt" suffixes:
+  incoming_patches_and_updates/PW_Sidebar_Development_Summary_UPDATED_2026-04-12 (1).txt
+  incoming_patches_and_updates/PW_Rev4_Consolidated_Patch/PW_PR_Packet_2026-04-18_rev2 (1).txt
+- .codex at repo root is empty; remove or populate.
+- Recovered_Sources/recovered__file_00000000aa7c7243abb8a81c49d9427e.png.txt — image
+  recovered as text; confirm the actual image binary exists elsewhere or re-source.
+- media/images/ is intentionally binary-free per its README; fine, but the external
+  Claude workspace holds several image binaries (logos, patches, briefing screens)
+  that the repo manifest does not reference. Consider adding them to the image
+  manifest so the recovery checklist is complete.
+
+================================================================================
+09. EXTERNAL WORKSPACE SYNCHRONIZATION GAP
+================================================================================
+STATUS: FIX SOON
+
+The parallel Claude project workspace predates the repo's May-July 2026 layer. It has
+no representation of: Game 4 (COMMAND AUTHORITY / COMMON PICTURE / PERMANENT RECORD),
+War Within / American Guerrilla, The Collapse, Nightfall, revised Home Defense
+placement (post-Game 4, ~2033), Raul Diaz, Duke Montgomery / Robert Earl Bevins,
+Pat Napier, Eamonn Kearney, the full Vickers / Who Dares Wins package, HYPERMNESTRA /
+VIGILAN / ANTIFRAGILITY, or the named-weapon additions (BACKUP PLAN, DEAD BLOW,
+STAPLER candidate).
+
+EXACT CORRECTION NEEDED:
+- Upload to the Claude project knowledge, minimum set:
+  1. PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt
+  2. PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt
+  3. PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt
+- Retire or annotate stale-date knowledge files in that workspace (see item 01).
+
+================================================================================
+10. REALISM SPOT-CHECK RESULTS (LIGHT PASS, AS REQUESTED)
+================================================================================
+STATUS: POSITIVE (with one advisory)
+
+- Election date Nov 7, 2028: statutorily correct. Strengthens the false-flag-to-
+  election pressure architecture.
+- Sunny stand-down line uses "I say again" rather than "repeat": correct military
+  radio protocol ("repeat" is reserved for fire missions). Keep.
+- Mi-8 spotting + 6-8 VDV troop insert (South Mills flashback): within Mi-8 lift
+  capacity and doctrine-plausible.
+- DEAD BLOW as an MP5SD-style integral-suppressed 9mm, explicitly not a prototype:
+  correct choice for militia-acquired hardware; the platform is common enough in
+  civilian/LE circulation to be credible.
+- BACKUP PLAN MP7A1 one-handed with stock braced inside the shoulder while dragging a
+  casualty: physically plausible for a PDW; the "ugly contingency, not glamour"
+  presentation note is the right realism register.
+- Home Defense J-20 correction (offshore, distant, RHIB sequence): sound. Advisory:
+  keep the J-20 as high-threat air presence only; the low-level coastline SEARCH role
+  correctly belongs to the drone/ground-scanner beat, which the locked mangrove
+  dialogue already handles. Do not migrate the search function onto the fighter.
+
+================================================================================
+11. SUMMARY ACTION QUEUE (PRIORITY ORDER)
+================================================================================
+1. Purge residual Sept 3 / Nov 3 anchors and inverted correction blocks from rev4
+   compendia + archival master; refresh external workspace knowledge files. (01)
+2. Rewrite Kearney likeness brief to archetype language; move out of
+   temporary_files/. (03)
+3. Lock canonical Pruitt-vs-Pruett spelling; clean full re-run of affected files. (02)
+4. Amend the AEGIS Falls lock to campaign-title-retired / mission-title-retained. (04)
+5. Decide Y. T. Lin vs Taiwanese semiconductor engineer identity before further
+   Ducky G4 passes. (05)
+6. Confirm or resolve ORACLE/PYTHIA and WREN/Wren naming. (06)
+7. Rename rev5 refresh layers or produce full rev6 compendia. (07)
+8. Sync the 2026-07-06 handoff layer into the Claude workspace. (09)
+9. Hygiene sweep: duplicate " (1)" files, empty .codex, image manifest. (08)
+
+================================================================================
+END
+================================================================================

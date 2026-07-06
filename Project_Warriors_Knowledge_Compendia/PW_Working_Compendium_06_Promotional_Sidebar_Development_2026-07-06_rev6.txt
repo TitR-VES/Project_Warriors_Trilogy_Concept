@@ -1,3 +1,64 @@
+PROJECT WARRIORS — WORKING COMPENDIUM 06 — PROMOTIONAL / SIDEBAR DEVELOPMENT
+Generated: 2026-07-06
+Version: rev6 (FULL CONSOLIDATED COMPENDIUM)
+Status: canonical working source — supersedes rev4 body + rev5 refresh layer
+
+REV6 CONSOLIDATION NOTE
+This file is self-contained. It absorbs: (1) the full 2026-04-18 rev4 body with
+the 2026-07-06 canon corrections applied in-line; (2) the 2026-05-05 rev5 refresh
+layer; (3) the 2026-07-06 Latest Thread Addendum; (4) the 2026-07-06 Canon
+Decisions layer. Corrections applied throughout the body:
+- Timeline: September 3 -> September 7, 2028 (PANDORA); November 3/6 -> November 7,
+  2028 (election); inverted correction blocks rewritten. (Labor Day September 3,
+  2029 references are a different, correct date and are untouched.)
+- AEGIS Falls: retired as campaign title (campaign = Persistent Threat), RETAINED
+  as the campaign's final mission title.
+- PYTHIA renamed TRU/SIGHT (Tactical Reconnaissance Unit / Signals Intelligence
+  and Geospatial Heuristics Team) throughout.
+- SBS operator Wren renamed Mags throughout (weapon build WREN unchanged).
+- CONFIRMED (owner lock 2026-07-06): canonical spelling is Dale PRUETT.
+  All Pruitt variants are superseded — purge on sight.
+================================================================================
+
+PROJECT WARRIORS — WORKING COMPENDIUM
+Compendium: 06 Promotional / Sidebar Development
+Generated: 2026-04-18
+Version: rev4
+
+PURPOSE
+This working compendium consolidates the currently accessible source materials for the Promotional / Sidebar Development domain and folds in the latest visible project-memory corrections and late-thread outcomes that materially affect future writing.
+
+SOURCE COUNT
+3 included source items
+
+INCLUDED SOURCES
+
+1. PW_Sidebar_Development_Summary.txt [current uploaded source | chars=74866 | sha256:686b8e00b2bf05f5]
+2. PW_Teaser_Treatments_Sidebar_v1.txt [current uploaded source | chars=26653 | sha256:f192154eff071dea]
+3. file_00000000aa7c7243abb8a81c49d9427e.png [recovered from embedded content in prior consolidated master | chars=543 | sha256:d1f4402447052d23]
+
+SECTION A — POST-SOURCE MEMORY INTEGRATION PATCHES
+
+1) Campaign audio-identity lock: Romeo Game 2 = “Good Morning, America” / WAR HITS HOME; Ducky Game 2 / Persistent Threat = “Kyiv” / THE SYSTEM FELL. WE DIDN’T.; Spook Game 2 / Godkiller = “King Nothing” teaser tone-setter / YOU CAN’T KILL A DEAD MAN.
+2) Environmental / diegetic music lock: music should be world texture first, not a replacement for the already locked campaign-anchor identity tracks; productive dissonance is often preferable to literal mood-matching.
+3) Music shortlist updates: Romeo Game 3/Boston strongest additions include “Re-Arranged,” “What’s Up?,” “Numb Little Bug,” “Symphony of Destruction,” and “The Down Town”; Ducky’s best current environmental anchor remains “Rooster” used carefully as space-driven texture rather than hero shorthand.
+4) Caution / drop notes: “Run to the Hills” is dropped from the active shortlist; Blonde Redhead “For the Damaged Coda” is dropped completely; “Hotel California” remains reserve only; especially famous songs should be used sparingly and precisely.
+5) Montoya Farm special-use music note: Ghost “Square Hammer” is approved as a one-off, low-volume diegetic source for the optional underground observation-room beat; keep the tone clinical, recent-use, and wrong rather than overtly horror-nursery coded.
+6) Promo / style rule: character promos use the seven-part structure established in-thread, favor silence and restraint as active tools, and use diegetic sound punctuation as a recurring technique.
+7) Romeo Game 1 eastern-flank arrival cue: Beyoncé “YA YA” is approved as a pre-fracture troop-reception-hold-space environmental track. Best use is a local American-controlled diegetic source (rec-bay speaker, gym/loading-bay setup, personal speaker cluster), not the official base PA; function is optimism, swagger, and ordinary troop confidence before PANDORA.
+8) Kearney workshop environmental-track update: Rush “Working Man” remains approved, and Thin Lizzy “The Boys Are Back in Town” is now also part of Eamonn Kearney’s workshop track list. Treat the Thin Lizzy cue as a special-use revisit track that plays in the shop after a specific story mission rather than as a triumphant anthem or montage thesis.
+
+====================================================================================================
+SOURCE CONTENT
+====================================================================================================
+
+====================================================================================================
+[PW_Sidebar_Development_Summary.txt]
+Origin: current uploaded source
+Chars: 74866
+SHA-256 prefix: 686b8e00b2bf05f5
+====================================================================================================
+
 ================================================================================
 PROJECT WARRIORS — SIDEBAR DEVELOPMENT SUMMARY
 Comprehensive record of all story, character, and world-building development
@@ -22,10 +83,10 @@ SECTION 1 — GAME 1 CANONICAL RECORD (CONFIRMED BASELINE)
 Title: Project Warriors (series title) [CONFIRMED IN NOTES]
 Setting: Fictional present-day global conflict, 2028 [CONFIRMED IN NOTES]
 Format: Three interconnected campaigns, three protagonists, shared world/timeline
-Central event: PANDORA attacks — September 3rd, 2028, nationwide cyber attack
+Central event: PANDORA attacks — September 7th, 2028, nationwide cyber attack
   weaponizing TETHERBREAK program against autonomous military drone systems
 PANDORA attack time: First reported 1033 PST. Communications blackout slowed spread.
-US Presidential Election: November 3rd, 2028 — exactly two months after PANDORA
+US Presidential Election: November 7th, 2028 — exactly two months after PANDORA
 Invasion forces: Russian, North Korean, Iranian coalition — amphibious invasion of
   US West Coast. China simultaneously invades and annexes Taiwan. [CONFIRMED IN NOTES]
 
@@ -137,7 +198,7 @@ Mission sequence (confirmed):
     Laptop yields shipping manifests. Shipment at Warehouse 46. Player can choose
     to give Navarre/Budanova new identities (Navarre calls to say goodbye if yes).
   Frankfurt Warehouse 46: Atlas personnel. Shipment already moved. Tripper recovers
-    hard drive. Team destroys warehouse. PYTHIA contact Jaeger Stanzler helps match
+    hard drive. Team destroys warehouse. TRU/SIGHT contact Jaeger Stanzler helps match
     partial schedule to chartered flights.
   Infrastructure Day: Abu Dhabi, GenCorp skyscraper. Rappel to data center.
     Shipment linked to Agarwal Berkhan. Optional target: Leandro Blommaert.
@@ -353,37 +414,6 @@ AFC FOUNDING:
   Frequency mission coordination — multiple cells on same frequency simultaneously for
   first time. Terrell Washington suggests "American Freedom something." Romeo: "American
   Freedom Corps." Washington: "Yeah. That works." [SIDEBAR CONFIRMED]
-
-AFC / BOSTON RESISTANCE VISUAL IDENTITY:
-  Republic Shield — Primary AFC emblem. Upright shield silhouette with a central
-    five-point star and a rising wedge / chevron from the lower portion. Meaning:
-    protection of civilians, defense of American soil, and active resistance against
-    occupation. Must read cleanly in one color and be sprayable fast. [THREAD LOCK]
-  Breach Star — AFC field tag / propaganda-wall mark. Bold five-point star breaking
-    through a horizontal barricade or block shape. Meaning: breach, defiance, violent
-    disruption of occupation control. Used for fast spray tags, sabotage claims, rough
-    morale markings, and improvised wall messaging rather than polished formal branding.
-    [THREAD LOCK]
-  Union Mark — Pre-existing Boston underground emblem. Angular industrial bands creating
-    a hidden / implied star in negative space. Feels local, civic, industrial,
-    neighborhood-rooted, and suitable for workshops, reclaimed vehicles, barricades,
-    safehouses, and district-level resistance spaces. [THREAD LOCK]
-  Relationship / progression:
-    — Early Boston: Union Mark appears first as local resistance identity.
-    — Mid Boston: Union Mark and Republic Shield begin appearing together as AFC
-      coordination and Romeo's integration deepen.
-    — Late Boston: Republic Shield becomes the dominant umbrella emblem while Union Mark
-      remains on local vehicles, workshops, barricades, and veteran neighborhood
-      strongholds. [THREAD LOCK]
-  Visual design rules:
-    — Avoid skulls, rifle silhouettes, eagle marks, decorative heraldry, or tactical-brand
-      aesthetics.
-    — Favor heavy geometry, stencil-readability, one-color survivability, and fast
-      spray-paint execution.
-    — Preferred palette for polished applications: muted red, off-white, dark navy.
-      Real field use should still work in plain white or off-white spray paint.
-    — Union Mark should not read as a simplified Republic Shield; it must feel like an
-      older, local Boston resistance tradition later aligned with the AFC. [THREAD LOCK]
 
 NETWORK EXPANSION CONTACTS:
   Patrice Odom — Barbourville. Former county emergency management coordinator. Kept
@@ -915,7 +945,7 @@ Moral register: Complex professional. Fracture line — long-standing relationsh
 Defining quote (deploy late Game 3 only): "The Russians wanted an empire. The Chinese
   wanted the world." [CONFIRMED IN NOTES]
 Seeding schedule: Game 1 — name only in a document. Game 2 — two indirect appearances
-  (PYTHIA counterintelligence travel anomaly; background GenCorp presence in Abu Dhabi
+  (TRU/SIGHT counterintelligence travel anomaly; background GenCorp presence in Abu Dhabi
   mission). Game 3 — full presence. [CONFIRMED IN NOTES]
 Game 3 role: Spook approaches via Yunnan-Shanghai route. Wei's Taiwanese engineer
   connection is the lever. Whether Wei helps, resists, or does something more
@@ -1033,7 +1063,7 @@ ZEUS: LT General Callum Tremblay (DAOG C-in-C, French Canadian, hidden FSB conne
 ARES: Colonel Mark Walker (Special Operations Commander)
 OLYMPUS / GANYMEDE / HADES: Operations command positions
 AEGIS / CORYS / SHIELD: Special Operations units
-PYTHIA: Counter-intelligence & OPSEC (Karl Alexander "Jaeger" Stanzler is a contact)
+TRU/SIGHT: Counter-intelligence & OPSEC (Karl Alexander "Jaeger" Stanzler is a contact)
 KYNEE: Electronic Warfare
 HOPLON: Logistics (Signals comms-going-down sequences should trigger HUD/minimap
   gameplay responses) [CONFIRMED IN NOTES]
@@ -1223,12 +1253,12 @@ WRITTEN SCENES (full text available):
 SECTION 7 — CONFIRMED CANONICAL DATES AND TIMELINE ANCHORS
 ================================================================================
 
-September 3rd, 2028: PANDORA attacks. US nationwide cyber attack. West Coast
+September 7th, 2028: PANDORA attacks. US nationwide cyber attack. West Coast
   amphibious invasion begins. Russia opens Baltic front. China invades Taiwan.
   Spook confronts Goldberg on East McFarlane Island simultaneously.
   First reported: 1033 PST by local media. [CONFIRMED IN NOTES]
 
-November 3rd, 2028: US Presidential Election (suspended by Crodyn via SCOTUS ruling
+November 7th, 2028: US Presidential Election (suspended by Crodyn via SCOTUS ruling
   under wartime emergency provisions). Exactly two months after PANDORA. [CONFIRMED IN NOTES]
 
 June 4th, 2028: Glushkin activation by Lebedev/Nasmith at Specter Aerospace, Peabody MA.
@@ -1259,7 +1289,7 @@ MAJOR GAPS:
 PENDING CHARACTER DEVELOPMENT:
 9. Switchblade's scar detail and characteristic phrase — noted as pending [FLAGGED]
 10. Lupin's detailed character backstory — noted as redirected to character thread [FLAGGED]
-11. "New America" accelerationist faction and possible Dale Pruitt (sic — likely
+11. "New America" accelerationist faction and possible Dale Pruett (sic — likely
     different character from Dale Pruett) connection — deliberately left open [FLAGGED]
 
 PENDING SCENE/MISSION DEVELOPMENT:
@@ -1284,3 +1314,1142 @@ but has not been fully integrated or confirmed for main narrative thread.
 For anything marked [FLAGGED] — a gap or continuity risk exists requiring resolution
 before that section of the story can be considered complete.
 ================================================================================
+
+====================================================================================================
+[PW_Teaser_Treatments_Sidebar_v1.txt]
+Origin: current uploaded source
+Chars: 26653
+SHA-256 prefix: f192154eff071dea
+====================================================================================================
+
+PROJECT WARRIORS — CAMPAIGN TEASER TREATMENTS
+Sidebar Promotional Development Thread — Master File v1.0
+================================================================
+NOTE TO OTHER THREADS: This file was developed in a dedicated
+promotional/sidebar thread separate from the main narrative,
+gameplay, and worldbuilding threads. All decisions here are
+creative/promotional in nature and do not constitute canonical
+story changes. Cross-reference with main narrative thread before
+treating any specific detail as locked canon.
+================================================================
+
+
+OVERVIEW & WORKING METHOD
+--------------------------
+This file documents the full teaser video treatments for all three
+Game 2 campaigns developed in the promotional sidebar thread, along
+with the creative rationale, collaborative decisions, and principles
+that emerged from the development process. It is intended to be
+uploaded to the project knowledge base so that future threads can
+benefit from what was established here.
+
+The three teasers were developed sequentially — Romeo first, then
+Ducky, then Spook — using a consistent method: Claude proposed a
+full concept, Stefan responded with additions and modifications,
+and each treatment was refined through that exchange before being
+written up as a clean final document. All final creative calls
+were made by Stefan.
+
+
+CONFIRMED TAGLINES (FINAL, ALL THREE CAMPAIGNS)
+-------------------------------------------------
+AMERICAN FREEDOM:       "War Hits Home."
+AEGIS FALLS:            "The System Fell. We Didn't."
+GODKILLER:              "You Can't Kill A Dead Man."
+
+NOTE ON TAGLINE DEVELOPMENT:
+- "War Hits Home" was Stefan's original and was kept unchanged.
+- "The System Fell. We Didn't." was proposed by Claude as a
+  replacement for Stefan's original "We Are Taking Our Home Back."
+  Stefan accepted it as stronger and more specific to the campaign's
+  betrayal/institutional collapse architecture.
+- "You Can't Kill A Dead Man." is a shortened version of Stefan's
+  original "How Do You Kill A Man Who's Already Dead?" — the
+  truncation was proposed by Claude for punch and pacing and
+  confirmed by Stefan as a clear improvement.
+
+CONFIRMED MUSIC (ALL THREE CAMPAIGNS)
+--------------------------------------
+AMERICAN FREEDOM:   "Good Morning America" — Jesse Welles
+AEGIS FALLS:        "Kyiv" — Apashe ft. Alina Pash
+GODKILLER:          "King Nothing" — Metallica
+
+NOTE: All music selections carry commercial licensing flags.
+Acknowledged as a future constraint, not a current creative blocker.
+
+RELEASE DATE USED IN ALL THREE TEASERS: Coming Q2 2028
+NOTE: This date is invented flavor only and does not reflect any
+actual development or release timeline.
+
+
+SHARED FORMAT SPECS (ALL THREE TEASERS)
+-----------------------------------------
+- Runtime: approx. 90 seconds each
+- Aspect ratio: 2.39:1 cinematic widescreen
+- No HUD, no gameplay footage
+- No dialogue in Romeo or Ducky teasers
+- Godkiller contains two lines of spoken dialogue at the close only
+  (see Godkiller treatment below — this was a deliberate exception
+  confirmed by Stefan)
+- Title cards: plain white text, no fanfare, no music beneath them,
+  one beat between each card
+
+
+CAMPAIGN-BY-CAMPAIGN EMOTIONAL REGISTER SUMMARY
+-------------------------------------------------
+AMERICAN FREEDOM (Romeo):
+  Elegiac, documentary, grief before defiance. The teaser shows
+  what has been lost before it shows any resistance. Emotional
+  architecture: grief → weight → quiet defiance → reckoning.
+
+AEGIS FALLS (Ducky):
+  Dread and institutional fracture. The feeling of standing on a
+  fault line the moment before it gives. Emotional architecture:
+  trust → creeping wrongness → operational chaos → the promise
+  broken. The returning AEGIS emblem (pristine → cracked →
+  fractured) is the visual spine.
+
+GODKILLER (Spook):
+  Psychological menace and the gap between official truth and
+  actual truth. Investigative rather than action-driven. Emotional
+  architecture: institutional certainty → evidence of deception →
+  the hunt → the confrontation of two men who understand each other
+  completely.
+
+
+KEY CREATIVE DECISIONS MADE IN THIS THREAD
+--------------------------------------------
+1. CHORAL ARRANGEMENT — AMERICAN FREEDOM CLOSE
+   Stefan's suggestion: the Good Morning America melody transitions
+   in the final act not to a music swell but to a sparse unaccompanied
+   mixed choir arrangement. Tonal reference: "Keep Your Rifle By Your
+   Side" from the Ken Burns Civil War soundtrack — voices that sound
+   like they belong to the land, somewhere between a hymn and a lament.
+   The effect: Romeo at the tree line stops being one soldier and
+   becomes something larger. The melody now belongs to everyone in
+   the town. Hard cut to black stops the choir mid-phrase — the
+   silence lands harder for what it interrupted.
+
+2. THREE-FRAME CODY BEAUMONT IMAGE — AMERICAN FREEDOM BUILD SECTION
+   Stefan's suggestion: buried in the quick cuts of Act Three, lasting
+   approximately three frames (roughly one eighth of a second at 24fps),
+   is a flash of the Cody Beaumont death image — the ambiguous loading
+   screen photograph that is one of the campaign's most emotionally
+   loaded visual assets. It is not acknowledged by the edit around it.
+   It is gone before the conscious mind fully forms the question.
+   Placement confirmed: inside the momentum of the build section cuts,
+   not near the emotional close. Purpose: plants subconscious unease,
+   rewards frame-by-frame analysis, respects the intelligence of the
+   audience, generates organic discovery/discussion post-release.
+   Both Stefan and Claude independently arrived at the same placement
+   instinct — confirmed as correct.
+
+3. RAW POV/DRONE FOOTAGE GRAMMAR — AEGIS FALLS
+   Stefan's suggestion: some of the quick cuts in Ducky's teaser
+   should reference the visual grammar of modern warfare as audiences
+   now know it from Ukrainian war footage online — GoPro helmet
+   footage, drone POV, night vision green, thermal white-hot
+   signatures, handheld phone video with blown-out audio. The
+   frequency of this raw footage material should ramp up and down
+   in sync with the music and pacing — rare during the measured
+   opening acts, bleeding in with increasing frequency during the
+   build, peaking near the climax, then receding as the music
+   hollows out toward the close. First act kept entirely cinematic
+   so the raw footage's first appearance carries weight as an
+   intrusion. Claude confirmed this is not a step in the wrong
+   direction — it has real cinematic and editorial precedent and
+   the ramp logic is sophisticated and correct.
+
+4. TWO LINES OF DIALOGUE — GODKILLER CLOSE
+   The only spoken words across all three teasers appear at the
+   close of Godkiller:
+     SPOOK: "You can't kill a dead man."
+     GOLDBERG (O.S.): "No."
+   Rationale: the tagline IS dialogue, and hearing it spoken lands
+   differently than reading it. Goldberg's single-word response —
+   calm, faintly amused — is more unsettling than any image.
+   It establishes his presence without showing his face clearly.
+   Stefan confirmed: keep the dialogue. Do not apply the no-dialogue
+   rule to Godkiller.
+
+5. RETURNING EMBLEM STRUCTURE — AEGIS FALLS
+   The AEGIS emblem appears three times across the teaser —
+   Act One (pristine), Act Two close (hairline crack, easy to miss),
+   Act Four (spider web fracture, still holding its shape, still
+   recognizable, motto still legible). The visual argument made
+   without words: the system you trusted was already cracking.
+   You just couldn't see it yet.
+
+6. EAST MCFARLANE ISLAND — GODKILLER
+   Appears in Act Three as the cut that sits longer than everything
+   around it — wide aerial, golden hour, Goldberg alive and unhurried
+   on a terrace overlooking the water. His posture is that of a man
+   who has decided he is entirely beyond reach. This image is load-
+   bearing: it confirms to the audience that the DECEASED stamp was
+   wrong, without a single word of explanation.
+
+
+NOTES FOR FUTURE DEVELOPMENT IN THIS THREAD
+---------------------------------------------
+The following items were flagged during teaser development as
+next steps for this promotional sidebar thread:
+
+1. KEY ART — one hero image per campaign. The single image that
+   goes on a billboard, a Steam page, a magazine spread. Locks
+   in the visual identity of each campaign. To be developed next.
+
+2. SECONDARY FORMATS — loading screen teasers, social media drip
+   content, print ads, possibly diegetic in-universe artifacts
+   (newspaper front pages, redacted documents, ARG-style website
+   content). To follow key art.
+
+3. AEGIS FALLS TEASER — PLACEHOLDER NOTE
+   The AEGIS Falls teaser currently uses first-game locations and
+   operational geography as placeholder scaffolding, since Ducky's
+   Game 2 campaign (Persistent Threat) has not yet been fully
+   developed in the main narrative thread. Stefan confirmed this
+   is acceptable at this stage of development. Flag for revisit
+   when the main thread catches up with Persistent Threat mission
+   development.
+
+4. CHARACTER PROMO CLIP SERIES — flagged in main thread, to be
+   developed in the music/audio thread. Starting with Switchblade.
+   60-90 seconds, tone varies by character. Not yet started in
+   this sidebar thread.
+
+
+================================================================
+FULL TEASER TREATMENTS — COMPLETE TEXT
+================================================================
+
+
+----------------------------------------------------------------
+TEASER ONE: AMERICAN FREEDOM
+----------------------------------------------------------------
+
+AMERICAN FREEDOM
+Campaign Teaser — Full Treatment
+Music: "Good Morning America" — Jesse Welles
+
+FORMAT
+Runtime: approx. 90 seconds
+No dialogue. No HUD. No gameplay footage.
+Aspect ratio: 2.39:1 cinematic widescreen
+Grade: desaturated, cool morning light, high contrast shadows
+
+---
+
+ACT ONE — RECOGNITION
+0:00 — 0:20
+
+Black screen. Silence. Two full beats.
+
+The first guitar notes of Good Morning America come in barely
+audible — like a radio signal finding its frequency from a long
+way away.
+
+Image fades in slowly. Pre-dawn blue light. The camera drifts
+forward at roof height, unhurried, almost floating, down what is
+unmistakably a Main Street in small-town America. Storefronts.
+A diner with its lights still off. A church steeple against a
+pale sky. Fall foliage. It looks almost peaceful.
+
+The camera drifts lower.
+
+A Russian military checkpoint fills the intersection ahead.
+A BTR parked across two lanes. Soldiers in unfamiliar uniforms,
+breath visible in the cold morning air. A Russian flag hanging
+from a telephone pole, completely still.
+
+No dramatic sting. No music swell. Just that image, held long
+enough to land.
+
+---
+
+ACT TWO — WEIGHT
+0:20 — 0:50
+
+The camera keeps moving — slow, documentary, without commentary.
+We see the town in fragments.
+
+A shuttered hardware store, plywood boards spray-painted with a
+message in English. A burned-out house, two or three survivors
+and neighbors quietly picking through the wreckage in the early
+light, shovels moving slowly. A child's face at a curtained
+window watching a patrol pass below. A handwritten sign in a
+shop window in English and Russian. An elderly man sitting on
+his porch steps, hands folded, watching nothing in particular.
+
+Jesse Welles' voice carries the melody. The music still sounds
+like home. The images don't look like home anymore. The contrast
+does the emotional work without comment.
+
+One image held a beat longer than the others: a partially burned
+American flag still hanging from a porch railing, moving almost
+imperceptibly in the morning cold.
+
+No comment. Just that.
+
+---
+
+ACT THREE — CURRENT
+0:50 — 1:10
+
+The music begins to shift — not into anything loud, just a subtle
+change in emotional register underneath the melody, like something
+waking up.
+
+Quick cuts. Still no dialogue.
+
+A hand pressing a magazine into a rifle in near-darkness.
+Mud-caked boots moving along a treeline. A face — Romeo's,
+half-lit by weak morning light — watching a patrol pass from
+cover, completely still. A resistance contact sliding a folded
+paper across a table without making eye contact. A flare climbing
+into a grey sky somewhere in the middle distance. Shadowed figures
+moving with quiet urgency through the back of a barn.
+
+Buried here, in the momentum of the cuts, lasting approximately
+three frames:
+
+THE CODY BEAUMONT IMAGE.
+
+Not dwelt upon. Not explained. Gone before the conscious mind can
+fully form the question. Something is wrong with what you just saw.
+You're not sure what.
+
+The cuts continue. Nothing acknowledges it.
+
+Romeo again — moving now, low and deliberate through undergrowth,
+toward the edge of a tree line.
+
+---
+
+ACT FOUR — RECKONING
+1:10 — 1:28
+
+The quick cuts stop.
+
+One wide, still shot: Romeo at the top of a hill, standing at the
+edge of the tree line. His back is to the camera. He is looking
+down at the town below — the checkpoints, the unfamiliar flags,
+the smoke from a chimney here and there, ordinary life ground down
+to its most essential and most fragile.
+
+He doesn't move.
+
+The guitar melody of Good Morning America begins to fall away —
+and in its place, quietly at first and then with full weight, the
+same melody rises again in unaccompanied human voices. A mixed
+choir, sparse and unhurried, somewhere between a hymn and a
+lament. The tonal reference is the Civil War vocal tradition —
+voices that sound like they belong to the land, not to a recording
+studio. The melody has grown larger than one man with a guitar.
+It belongs to everyone in that town now.
+
+Romeo still doesn't move.
+
+---
+
+CLOSE
+1:28 — 1:35
+
+Hard cut to black.
+
+The choir stops mid-phrase.
+
+Silence. One full beat.
+
+---
+
+White text. Plain. No fanfare. No musical swell beneath it.
+
+WAR HITS HOME.
+
+One beat.
+
+AMERICAN FREEDOM.
+
+One beat.
+
+Coming Q2 2028.
+
+Fade.
+
+---
+Treatment v1.0 — Sidebar Development File
+Main narrative authority: primary project thread
+
+
+----------------------------------------------------------------
+TEASER TWO: AEGIS FALLS
+----------------------------------------------------------------
+
+AEGIS FALLS
+Campaign Teaser — Full Treatment
+Music: "Kyiv" — Apashe ft. Alina Pash
+
+FORMAT
+Runtime: approx. 90 seconds
+No dialogue. No HUD. No gameplay footage.
+Aspect ratio: 2.39:1 cinematic widescreen
+Grade: cold, high contrast, deep shadows — steel blue and amber
+where light exists
+Visual grammar: two modes — cinematic widescreen and raw
+POV/drone footage. POV material is ungraded, aspect ratio native
+to source, audio authentic. The two grammars are kept visually
+distinct at all times.
+
+---
+
+ACT ONE — THE PROMISE
+0:00 — 0:15
+
+Black. Then Alina Pash's voice comes in alone — just the vocal,
+unaccompanied, in Ukrainian. No orchestration yet. The language
+sounds simultaneously foreign and deeply familiar to Western ears.
+Beautiful and melancholy and completely unafraid.
+
+A single image fades in slowly against it.
+
+The AEGIS emblem. Clean and sharp, rendered in the established
+briefing screen aesthetic — dark background, gold and silver
+insignia, the Latin motto beneath it.
+
+Recte Faciendo Neminem Timeas.
+
+It looks authoritative. Trustworthy. Like something that has never
+failed and has no reason to expect that it will.
+
+Hold on it. Let Alina Pash's voice carry it.
+
+Then cut to black.
+
+---
+
+ACT TWO — THE WEIGHT
+0:15 — 0:50
+
+The orchestration begins to build underneath the vocal, slowly,
+with intention.
+
+All footage in this section is cinematic. No POV material yet.
+
+Geography established through feeling rather than labels. The flat
+grey expanse of the North Sea at night, surface broken by wind.
+The massive industrial silhouette of Rotterdam's port infrastructure
+against a low sky. The angular geometry of a communications relay
+station surrounded by deep Arctic snow — we don't name it Svalbard,
+but the cold names it for us. Wet cobblestones in a European city
+at night, boots moving with controlled urgency.
+
+Then the operational texture. AEGIS in environments that should be
+controlled but aren't quite behaving that way. A door that opens
+onto something unexpected, a beat of stillness before the operator
+moves. A contact who isn't where they're supposed to be. A screen
+showing data that contradicts the brief. Frost at a tall window,
+mask on, completely still, watching something below that the camera
+does not show us. Ducky on a radio, expression unreadable,
+listening to something we cannot hear.
+
+Woven between these — brief, almost incidental — the details that
+are wrong underneath the surface. A name visible on a document for
+just long enough to register. A timestamp that doesn't add up if
+you're paying attention. A familiar face in a place it has no
+business being.
+
+Nothing explained. Everything felt.
+
+The music continues to build. Alina Pash's voice rising, the
+orchestration thickening and broadening around it.
+
+We return to the AEGIS emblem.
+
+The same image. But there is a crack running through it now —
+hairline thin, barely visible, easy to dismiss as a trick of the
+light. The motto still perfectly legible beneath it.
+
+Cut away before the viewer has fully decided what they saw.
+
+---
+
+ACT THREE — THE FRACTURE
+0:50 — 1:10
+
+The music hits its first real peak. The teaser shifts register.
+
+This is where the raw POV material enters for the first time —
+and its arrival is felt precisely because the first two acts earned
+it. A burst of helmet-mounted GoPro footage, ungraded, slightly
+blown out, the audio raw and immediate. Combat in a European
+industrial environment, close and fast and without the composed
+geometry of cinematic framing. Then back to cinematic. Then raw
+again, slightly longer this time. Then cinematic. The alternation
+accelerates in sync with the music — the two grammars trading
+places with increasing frequency as the build intensifies, until
+near the peak they are cutting against each other almost measure
+for measure.
+
+The raw footage carries that specific visual grammar of modern
+warfare as people actually know it now. Drone footage, the eerie
+detached silence of it before impact. Night vision green. Thermal
+white-hot signatures of vehicles moving through darkness. A
+handheld shot of a street engagement, audio blown out by nearby
+concussion. The intimacy and inhumanity existing in the same frame
+simultaneously.
+
+Interspersed with both grammars — the operational reality of what
+is going wrong. AEGIS in cover in an environment that was supposed
+to be friendly. Ducky making a decision we don't understand with
+information we don't have. Frost firing from a position that tells
+us the plan has already failed. Switchblade pulling someone out of
+a collapsing space, not looking up, focused entirely on the person
+in her hands.
+
+The question the campaign is actually asking moves underneath all
+of it, never surfaced directly, only accumulated:
+
+Who built this. Who funded it. Who does it actually serve.
+
+The music reaches its peak — and then hollows out. The
+orchestration falls away beneath Alina Pash's voice, leaving her
+exposed and solitary and completely clear.
+
+The raw POV footage recedes with the orchestration. The last few
+cuts are cinematic again — stilled, composed. The visual grammar
+settling back into itself as the music does.
+
+---
+
+ACT FOUR — THE RECKONING
+1:10 — 1:28
+
+One final image, held steady against that lone vocal.
+
+The AEGIS emblem. Third and final time.
+
+It is fractured now. Not destroyed — fractured. The crack from
+before has spread across the face of the shield in a spider web
+pattern, the way safety glass breaks — still holding its shape,
+still recognizable as what it was, the structure intact but
+fundamentally and irreversibly compromised. Every line of the
+insignia still visible. The motto still legible beneath it.
+
+Recte Faciendo Neminem Timeas.
+
+Hold on it. Let Alina Pash carry the silence around it.
+
+Then cut to black. The vocal stops.
+
+Silence. One full beat.
+
+---
+
+White text. Plain. No fanfare.
+
+THE SYSTEM FELL.
+
+One beat.
+
+WE DIDN'T.
+
+One beat.
+
+AEGIS FALLS.
+
+One beat.
+
+Coming Q2 2028.
+
+Fade.
+
+---
+Treatment v1.0 — Sidebar Development File
+Main narrative authority: primary project thread
+NOTE: First-game locations used as placeholder scaffolding.
+Flag for revision when Persistent Threat (Ducky Game 2) mission
+geography is developed in main narrative thread.
+
+
+----------------------------------------------------------------
+TEASER THREE: GODKILLER
+----------------------------------------------------------------
+
+GODKILLER
+Campaign Teaser — Full Treatment
+Music: "King Nothing" — Metallica
+
+FORMAT
+Runtime: approx. 90 seconds
+Minimal dialogue — two lines at close only.
+No HUD. No gameplay footage.
+Aspect ratio: 2.39:1 cinematic widescreen
+Grade: high contrast, deep shadows, warm amber and cold white
+where artificial light exists — the palette of late nights in
+rooms where important things are decided and never recorded
+
+---
+
+ACT ONE — THE FILE
+0:00 — 0:20
+
+Black. Silence.
+
+King Nothing begins — not the opening riff, but the single breath
+of anticipation just before it. One beat of quiet that makes the
+guitar's arrival inevitable.
+
+Then the riff hits and we open on:
+
+A pair of hands — Spook's — laying a photograph face up on a
+table in a dark room. We don't see his face yet. Just the hands,
+and the photograph, and a pool of artificial light falling across
+a surface covered in documents, strings, photographs, case files.
+The architecture of an investigation that has been running for a
+long time and has not yet found its floor.
+
+The photograph is of Goldberg. Composed. Confident. The face of
+a man who has never been held accountable for anything and has no
+expectation that this will change.
+
+Below the photograph, stamped in red:
+
+DECEASED.
+
+Spook's hand rests on the photograph for a moment. Still. Then he
+slides it to one side and keeps working.
+
+He doesn't believe it either.
+
+---
+
+ACT TWO — THE TRAIL
+0:20 — 0:55
+
+King Nothing drives this section. The music has momentum and the
+teaser uses it.
+
+We move through the world of the campaign in quick, kinetic cuts —
+but always refracted through the specific lens of intelligence
+work rather than conventional action. This is not Romeo's war.
+This is not Ducky's institutional crisis. This is the world as
+seen through surveillance, through intercepted documents, through
+the gap between what the official record says and what is actually
+true underneath it.
+
+Fragments. Locations felt rather than named or labeled. Rain-
+slicked streets of a European city at night, headlights smearing
+across wet stone. The interior of a safehouse lived in for too
+long — takeout containers, multiple laptops, a corkboard dense
+with material. An airport concourse, Spook and his team moving
+through the civilian flow like ghosts, unhurried, invisible.
+A skyscraper face at night, a figure rappelling down glass toward
+a lit window below. A tropical compound perimeter at night,
+security lights cutting hard lines through the dark.
+
+Interspersed with the locations — the paper trail. Fragments of
+documents, never held long enough to fully read. Photographs with
+names partially visible. Redacted lines that confirm something is
+present without revealing what. A name appearing across multiple
+separate files in separate contexts, connecting things that should
+have no connection.
+
+And woven through all of it — faces. Goldberg. Stockbridge.
+Macmillan. Crodyn. Each appearing briefly, never labeled, never
+explained. Simply present. Watching from inside their photographs
+and their files with the particular composure of people who have
+never had reason to be afraid of being seen.
+
+Then a cut that lands differently than the ones around it:
+
+A television screen. News broadcast, slightly grainy. A chyron
+running beneath footage of a federal prison facility. We cannot
+read it fully — only fragments. Explosion. Federal facility.
+One confirmed dead.
+
+Then the photograph of Goldberg again. Different photograph.
+Same stamp.
+
+DECEASED.
+
+Spook's face for the first time — lit from below by the cold
+light of a screen, expression unreadable, somewhere between fury
+and something that might almost be recognition. The look of a man
+who has just been told a joke he already knew the punchline to
+and is not remotely amused by it.
+
+---
+
+ACT THREE — THE HUNT
+0:55 — 1:15
+
+The music moves into its harder register and the teaser opens up.
+
+Brief, controlled glimpses of action — not sustained sequences,
+just enough to establish what is at stake and what these men are
+willing to do to reach it. A close quarters engagement in a dark
+interior, fast and without ceremony. Spook moving through a
+burning space with the unhurried focus of a man looking for
+something specific amid the chaos. Tripper at a keyboard inside
+a vehicle moving fast through a city at night. Smoke back against
+a wall beside a doorway, covering the approach, waiting.
+
+But the action is never the point here. Every action beat is
+interrupted by or resolves into another intelligence fragment —
+another piece of the picture assembling itself into something
+larger and more dangerous than any single mission.
+
+Until one cut that arrives without announcement and sits longer
+than everything around it:
+
+East McFarlane Island. Wide aerial shot, golden hour light, the
+water around it the deep blue of somewhere that does not appear
+on maps that ordinary people consult. Isolated. Beautiful.
+Completely self-contained.
+
+Then Goldberg — alive. Standing at the edge of a terrace
+overlooking the water, back partially to camera, unhurried,
+looking at the horizon with the posture of a man who has decided
+he is entirely beyond reach. No urgency. No fear. Just a man
+standing on his island in the golden hour, watching the water.
+
+Then black. Sudden and total.
+
+---
+
+ACT FOUR — THE EXCHANGE
+1:15 — 1:28
+
+The music strips back to almost nothing. Just the guitar, quiet.
+
+Spook's voice — low, flat, certain. The only spoken words in
+the teaser:
+
+"You can't kill a dead man."
+
+A beat of silence.
+
+Then another voice — older, quieter, somewhere in the register
+of a man who finds most things faintly amusing and has learned
+not to show it too obviously:
+
+"No."
+
+Cut to black. Music stops completely.
+
+Silence. One full beat.
+
+---
+
+White text. Plain. No fanfare. No music beneath it.
+
+YOU CAN'T KILL A DEAD MAN.
+
+One beat.
+
+GODKILLER.
+
+One beat.
+
+Coming Q2 2028.
+
+Fade.
+
+---
+Treatment v1.0 — Sidebar Development File
+Main narrative authority: primary project thread
+
+
+================================================================
+END OF FILE
+PW_Teaser_Treatments_Sidebar_v1.0
+================================================================
+
+====================================================================================================
+[file_00000000aa7c7243abb8a81c49d9427e.png]
+Origin: recovered from embedded content in prior consolidated master
+Chars: 543
+SHA-256 prefix: d1f4402447052d23
+====================================================================================================
+
+Source image represented as text description rather than embedded binary.
+
+Description:
+- A black background logo with a strong red neon glow.
+- The central emblem is a symmetrical, angular mark in dark gray and bright red, resembling a stylized monogram or insignia.
+- Beneath the emblem, the visible text reads: "VIRTUAL ENTERTAINMENT SOFTWARE".
+- Overall impression: publisher / studio logo, high-contrast, glossy, synthetic, and dramatic.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+REV4 DELTA INTEGRATION — 2026-04-18
+====================================================================================================
+
+1) Visual-reference source workflow:
+Generated / uploaded Project Warriors reference images should be converted into
+source-controlled prompt packets. Each packet should preserve the prompt,
+locked details, avoid-drift rules, reuse notes, and its relationship to any
+shared family / identity block.
+
+2) Tourist-memory prompt locks:
+The Boston civilian trio now has approved City Hall and Cheers prompt lanes for
+smartphone, Polaroid / instant-film, and slightly awkward passerby / dim-bar
+variants. They should read as warm ordinary pre-occupation memory, not military
+or dystopian staging.
+
+3) Halliday caution:
+Halliday / ORACLE visuals should preserve intelligence-first command-side
+competence and avoid glamor framing, operator posing, glossy sci-fi styling,
+fashion-editorial lighting, or obvious celebrity likeness.
+
+4) DAOG family patch system:
+Where useful, build three versions per unit:
+- full-color presentation
+- subdued embroidered field
+- low-vis / IR / rubberized plate-carrier variant
+DAOG / OLYMPUS / AEGIS / CORYS / SHIELD / asset-flight patches should share
+institutional shield grammar while keeping role-specific motifs.
+
+5) Asset-flight concepts:
+OLYMPUS = command-layer authority.
+KERAUNOS = thunderbolt / precision-strike identity.
+PHAETON = heraldic griffin / guardian-speed air-superiority identity.
+
+6) Fictional brand lock:
+MINOTAUR STEAKHOUSE is a serious local steakhouse brand lane with slightly
+mythic self-image, restrained bovine-head logic inside the U, and an oxblood /
+charcoal / bone / aged-brass / ember palette.
+
+7) Image-governance note:
+The original generated image binaries from prior project threads were not
+available in the repo or accessible packaging workspace during this pass, so
+the durable landing is text prompt packets plus any future checked-in binary
+assets stored together.
+
+================================================================================
+REFRESH LAYER (absorbed from 2026-05-05 rev5)
+================================================================================
+
+PROJECT WARRIORS — WORKING COMPENDIUM
+Compendium: 06 Promotional / Sidebar Development
+Generated: 2026-05-05
+Version: rev5
+
+PURPOSE
+This rev5 refresh updates the repo-facing promotional / sidebar knowledge layer so it reflects the now-stable Game 2 and Game 3 campaign identities, audio anchors, and headline promo handling. It is a source-ready summary layer, not a replacement for deeper promo packets.
+
+================================================================================
+A. GAME 2 PROMOTIONAL NORMALIZATION
+================================================================================
+
+Romeo Game 2 — AMERICAN FREEDOM
+Campaign identity lock to retain:
+- audio anchor: "Good Morning, America"
+- tagline: WAR HITS HOME.
+
+Promo handling rule:
+- American Freedom should sell domestic fracture, endurance, and return of agency rather than clean chest-thumping triumph
+- ANGEL and the Red Dawn callback remain two of its strongest trailer-grade image lanes
+
+
+Ducky Game 2 — PERSISTENT THREAT
+Campaign identity lock to retain:
+- title remains Persistent Threat
+- retired title note: AEGIS Falls is not the campaign title
+- audio anchor: "Kyiv"
+- tagline: THE SYSTEM FELL. WE DIDN'T.
+
+Promo handling rule:
+- the campaign should market as coalition survival and damaged trust under strategic pressure
+- avoid promo language that makes the campaign read like sleek NATO invulnerability
+
+
+Spook Game 2 — GODKILLER
+Campaign identity lock to retain:
+- working campaign title: Godkiller
+- teaser tone-setter: "King Nothing"
+- tagline: YOU CAN'T KILL A DEAD MAN.
+
+Promo handling rule:
+- sell the campaign as accountability, clandestine pressure, and moral continuation after Game 1 rather than as a victory lap
+- preserve the sense that the ending is private readiness, not public closure
+
+================================================================================
+B. GAME 3 PROMOTIONAL NORMALIZATION
+================================================================================
+
+Romeo Game 3 — NO KINGS
+Campaign identity safe to normalize:
+- working campaign title recommendation remains NO KINGS
+- internal progression phrase remains block by block
+- Boston should market as a struggle over what victory means and who defines post-liberation America
+
+Promo handling rule:
+- early materials should foreground lived city pressure, local ownership, and coalition friction / utility rather than generic uprising spectacle
+- BODYWORK, THE RIGHT RIFLE, LIFELINE, and HOLDFAST are now valid source-landed anchor references for internal promo guidance
+
+
+Ducky Game 3 — FAILSAFE
+Campaign identity safe to normalize:
+- FAILSAFE is now the stable working campaign title
+- promo framing should emphasize recovery-state coalition work under damaged trust
+
+Promo handling rule:
+- avoid selling FAILSAFE as a clean post-exposure reboot
+- strongest internal promo read is systems-level survival, verification, and what can still be responsibly rebuilt
+
+
+Spook Game 3 — DARK SKIES
+Campaign identity safe to normalize:
+- DARK SKIES is now the stable working campaign title
+- opening identity should reflect the restored Dawn of Mercy / Mercy Line / Order and Progress / Outer Port block before the later wrong-signature architecture lane
+
+Promo handling rule:
+- do not summarize DARK SKIES as a Yunnan-first Far East access thriller only
+- its promo identity should reflect widened war opportunism, private-power transition, and the strategic unmasking of a much larger storm
+
+================================================================================
+C. CROSS-CAMPAIGN PROMO / STYLE RULES TO RETAIN
+================================================================================
+
+- character promos use the established seven-part structure
+- use silence and restraint as active tools
+- diegetic sound punctuation remains a recurring preferred technique
+- environmental music stays world-texture first, not a replacement for the locked campaign anchor identity tracks
+- productive dissonance remains preferred to literal mood-matching
+
+================================================================================
+D. REV5 REPLACEMENT LANGUAGE
+================================================================================
+
+Replace any repo-facing promotional summary language that still implies:
+- AEGIS Falls remains Ducky Game 2's campaign title
+- FAILSAFE and DARK SKIES remain unnamed or undeveloped Game 3 placeholders
+- Game 3 internal promo handling should still be built around older fragmentary summary blocks
+
+With:
+- the identity / tagline / promo-handling blocks in this file
+
+================================================================================
+END OF FILE
+================================================================================
+
+================================================================================
+LATEST THREAD ADDENDUM LAYER (absorbed from 2026-07-06 rev1)
+================================================================================
+
+PROJECT WARRIORS — WORKING COMPENDIUM LATEST-THREAD ADDENDUM
+Generated: 2026-07-06
+Version: rev1
+Status: compendium-side addendum / not a full compendium replacement
+
+PURPOSE
+This addendum maps the latest visible thread updates onto the six-compendia model without pretending the full compendia have been rewritten. Use it as a bridge until the next milestone compendium refresh.
+
+================================================================================
+01. CORE / TIMELINE — ADDENDUM
+================================================================================
+
+New / updated timeline-pressure items:
+- Game 4 now reads as a restoration-era sequel with Vigilance as the sequel-pressure concept after the trilogy arc Fracture — Resistance — Restoration.
+- Home Defense is now preferred after Game 4, around 2033.
+- The Collapse remains roughly 2–3 years after Game 4.
+- Nightfall remains a later timeline after U.S. federal collapse / continuity-government exile logic.
+
+Important caution:
+Do not hard-lock exact dates where current thread work still uses broad windows.
+
+================================================================================
+02. WORLDBUILDING / STRATEGIC ARCHITECTURE — ADDENDUM
+================================================================================
+
+Game 4 restoration world:
+- Institutions return unevenly; legitimacy is contested.
+- Foreign influence accelerates domestic fracture but does not erase domestic agency.
+- HYPERMNESTRA -> VIGILAN is a trust-architecture and coalition-governance problem, not only a technical rebuild.
+
+Home Defense macro-context:
+- U.S. crisis reduces old deterrence.
+- China proceeds after Taiwan / South Pacific consolidation.
+- Australia conflict emerges from a changed regional order.
+- Europe / UK shoulder more NATO vigilance with reduced U.S. role.
+- Israel survives through anti-Pandora preparation and becomes a major opposing force to China later.
+
+Nightfall world:
+- Deluvia / Damhaven hazardous material is strictly governed.
+- Limited China–Israel nuclear exchange remains a late-timeline macro-event.
+- Dubai / Long Shadows is a human-scale memorial beat, not reusable spectacle.
+
+================================================================================
+03. CHARACTERS / DLC — ADDENDUM
+================================================================================
+
+Romeo Game 4:
+- Sunny final stand-down line locked.
+- Duke Montgomery / Robert Earl Bevins preserved as civilian-media figurehead, not commander.
+- Pacer, River, Static, Sunny, Hazzard remain live NAF senior block.
+
+War Within:
+- Nicholas Wayne Hawthorne is the American Guerrilla protagonist.
+- Parker, Dale Jacobs, Florence, Hannah Rose, Mark “Skidrow” Champlin, and Stanley Abernathy lanes remain live.
+
+Home Defense:
+- Lucas Hill is the emotional protagonist.
+- Switchblade can support but not displace him.
+
+Raúl Díaz:
+- Cuban / Cienfuegos-origin direction.
+- Cuban intelligence and FSB-liaison history.
+- Constructed cover identity for U.S.-side work.
+- Faint early Spook Game 1 document seeding allowed.
+
+Nightfall:
+- Jeroen van Hal is the corrected candidate Deluvia / Upper Amsterdam security-chief name.
+
+================================================================================
+04. GAMEPLAY / WEAPONS / STYLE — ADDENDUM
+================================================================================
+
+BACKUP PLAN:
+- HK MP7A1 contingency PDW for Spook Game 4.
+- One-handed extraction-gone-bad action-shot lock.
+
+DEAD BLOW:
+- Hawthorne / Vanguard MP5SD-style suppressed 9mm build.
+- Not a prototype.
+- Later Romeo G4 locker recovery remains viable.
+
+STAPLER candidate:
+- B&T APC9K Pro retroactive Spook secondary concept remains provisional and needs research/configuration lock.
+
+Home Defense:
+- ADF gear silhouette and J-20 correction should feed visual and equipment references.
+
+================================================================================
+05. MISSIONS / SCENES / CINEMATICS — ADDENDUM
+================================================================================
+
+Romeo Game 4:
+- Act I: DE-ESCALATION, PRESSURE POINT, WATERING HOLE, RIGHT OF WAY.
+- Act II title: AMERICAN WARLORD; missions COUNTY LINE, EMERGENCY POWERS, DEAD SWITCH, NO MARTYRS.
+- Act III: HOME ADVANTAGE, COMMON CAUSE, SECOND LINE / HEARTS AND MINDS.
+- Act IV: Shreveport / Government Plaza endgame; Sunny captured and orders stand-down.
+
+Spook Game 4:
+- Current late stack: ET IN ARCADIA EGO, RECEIVERSHIP, FLOW CONTROL, …AND INTO THE FIRE, JUDGMENT DAY, ONE HEAD OF THE HYDRA.
+- FLOW CONTROL = toll-road / highway pressure mission with La Avispa warning.
+
+Home Defense:
+- Night mangrove / ground-scanner drone beat and dialogue are locked.
+
+The Collapse:
+- AID AND COMFORT and MARKED SAFE are Act IV latest locks.
+
+Nightfall:
+- Long Shadows / ظلال طويلة is a singular Dubai terrace / shadow memorial set piece.
+
+================================================================================
+06. PROMOTIONAL / SIDEBAR DEVELOPMENT — ADDENDUM
+================================================================================
+
+Home Defense trailer:
+- Lucas Hill owns the main trailer.
+- Switchblade remains connective tissue.
+- “Coming Down” remains accepted trailer anchor.
+
+Duke / NAF visual identity:
+- Duke's NAF media persona and clothing marks should remain broad, original, and non-one-to-one.
+
+Named weapon visuals:
+- BACKUP PLAN action-shot should emphasize ugly contingency, not glamour.
+- DEAD BLOW should read as controlled suppressed output, not prototype novelty.
+
+Nightfall / Long Shadows:
+- Treat as a restrained memorial-like image, not a repeated promo motif.
+
+================================================================================
+07. FUTURE REFRESH GUIDANCE
+================================================================================
+
+Next full compendium refresh should:
+1. absorb this addendum into the six domain compendia where appropriate;
+2. preserve source page boundaries for concrete mission / character / weapon material;
+3. cross-check open PR #13 and #14 before saying main is fully reconciled;
+4. keep partial items live until dedicated source pages or intentional-drop decisions exist.
+
+================================================================================
+END
+================================================================================
+
+================================================================================
+CANON DECISIONS LAYER (2026-07-06)
+================================================================================
+
+PROJECT WARRIORS — CANON DECISIONS LOCK
+Decided by project owner: 2026-07-06
+Status: canonical; supersedes conflicting older statements in any layer
+
+DECIDED
+1. TIMELINE (reconfirmed): PANDORA attacks = Thursday, September 7, 2028.
+   U.S. presidential election = Tuesday, November 7, 2028 (statutory election
+   day). Hudson Overlook = September 7, 2028. Glushkin activation / Lebedev
+   Boston staging = June 4, 2028. All September 3 / November 3 / November 6
+   variants are stale — purge on sight. Writer rule: prefer broad windows over
+   derived day-math until every inherited file is refreshed.
+2. AEGIS FALLS: retired as the CAMPAIGN title — the Ducky Game 2 campaign title
+   is Persistent Threat — but RETAINED as the final MISSION title of that
+   campaign (pays off the protected ending pair "AEGIS falls regardless." /
+   "Then we build something better."). Cleanup passes must not delete the
+   mission name.
+3. Y. T. LIN IDENTITY: Y. T. Lin IS the Taiwanese semiconductor engineer of
+   Wei Junlong's fracture line — the same person, no longer unnamed. She is the
+   likely architect of the TETHERBREAK credential kill switch (Game 3) and the
+   consulting engineer hardening HYPERMNESTRA -> VIGILAN (Game 4). Discipline
+   bridge: foundry/firmware background extended into hardware-security /
+   cryptography practice. The Wei-fracture / PANDORA-resolution ARC remains a
+   protected structural asset — identity locked, resolution still reserved for
+   the Game 3 development pass.
+4. TRU/SIGHT: the DAOG counterintelligence detachment formerly named PYTHIA is
+   renamed TRU/SIGHT (also acceptably spelled TRUSIGHT) — Tactical
+   Reconnaissance Unit / Signals Intelligence and Geospatial Heuristics Team.
+   Rationale: ends the Delphic-oracle duplication with ORACLE (Lt. Tara
+   Halliday), which is retained. Jaeger (Karl Alexander Stanzler) is TRU/SIGHT
+   personnel.
+5. MAGS: the SBS operator formerly called Wren (Swansea) is renamed Mags.
+   Rationale: ends the collision with Switchblade's weapon build WREN (which is
+   unchanged). The smallest-bird-in-Britain callsign lore retires with the old
+   name; interim callsign logic — relentless magazine discipline, the operator
+   who never lets the team run dry — may be refined in a character pass.
+6. SOURCE ARCHITECTURE: full rev6 compendia (this consolidation) are the new
+   working set. Each rev6 file is self-contained: corrected rev4 body + rev5
+   refresh layer + 2026-07-06 addendum + this decisions layer. rev4 and rev5
+   files should be moved to archived/ once rev6 is committed.
+
+7. DALE PRUETT SPELLING — DECIDED (owner lock 2026-07-06): canonical spelling
+   is PRUETT (Game 2, Romeo campaign). All "Pruitt" variants are superseded;
+   purge on sight. Applied throughout the rev6 set.
+7b. JACOBS RENAME — PENDING: the War Within buddy "Dale Jacobs" will be renamed
+   to avoid first-name duplication with Dale Pruett; owner proposed "Hale
+   Jacobs"; reviewer flagged Hale/Dale near-homophone in voiced dialogue and a
+   surname overlap with The Collapse "Jacobs & Reed" hardliner faction. Final
+   name awaiting owner decision.
+
+OPEN — CARRIED FROM CROSS-WORKSPACE RECONCILIATION (decide before next
+character/mission passes)
+8. Romeo rank: LT Ramon Alvarez (older canon) vs Sergeant (ChatGPT rank retcon).
+9. Spook title: remove "Captain"; senior CIA paramilitary officer (retcon,
+   realism-correct) vs CPT Trevor Gartner (older canon).
+10. DEADBOLT (SHIELD/Lock HK416) vs DEAD BLOW (Hawthorne MP5SD) — near-identical
+    weapon names; rename one.
+11. La Avispa DLC title: The Wasp vs Plata o Plomo / Money or Lead.
+12. DON'T TREAD retirement timing: mid-Game-2 phase-out vs carried through
+    Game 2 and returned to Dale at the Boston transition (interlocks with the
+    Kearney / THE RIGHT RIFLE / CIVIL DISOBEDIENCE arc).
+
+PROPAGATION CHECKLIST
+- [x] Claude project memory updated (2026-07-06).
+- [ ] Paste items 1-6 into ChatGPT project memory.
+- [ ] Commit rev6 set + this file; move rev4/rev5 to archived/.
+- [ ] Upload rev6 set (or handoff trio) to Claude project knowledge.
+
+END OF REV6 FILE

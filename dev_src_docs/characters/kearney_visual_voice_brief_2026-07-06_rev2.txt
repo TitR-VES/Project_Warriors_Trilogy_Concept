@@ -1,0 +1,59 @@
+PROJECT WARRIORS — EAMONN KEARNEY VISUAL / VOICE BRIEF
+Generated: 2026-07-06
+Version: rev2
+Status: canonical character brief — SUPERSEDES temporary_files/kearney_likeness.txt
+Destination: dev_src_docs/characters/
+
+GOVERNANCE RULE (same standard as the Duke Montgomery brief)
+Broad archetype inspiration only. No exact likeness, copy, caricature, voice
+imitation, or one-to-one reference to any real person, living or dead. Casting,
+modeling, and VO direction must not name or target a specific actor. Any earlier
+note tying Kearney's voice or appearance to a named actor is retired and must not
+be used in production.
+
+CHARACTER (canon, unchanged)
+Eamonn Kearney, 58. Irish-born, Boston-based gunsmith / machinist / repair
+specialist; hidden armorer and small-arms sustainment node for the Boston
+resistance in Romeo Game 3. Buried history of quiet clandestine armorer work
+around republican underground networks in an earlier conflict. Trade-first; not
+operator-coded, not gangster-coded, not ideological in voice; does not
+romanticize insurgency.
+
+VISUAL ARCHETYPE
+- Build: lean, wiry, work-hardened rather than gym-built; strong forearms and
+  hands that read as the most capable part of him; slight forward stoop from
+  decades over a bench.
+- Face: weathered late-50s; deep-set eyes that do the appraising before the
+  mouth says anything; grey-shot stubble or a short, unfussy beard; hair short,
+  practical, self-cut-looking, more grey than not.
+- Hands: the signature detail. Scarred knuckles, one flattened fingernail,
+  permanent graphite-and-oil shading in the creases, a faded burn mark along one
+  thumb. First-person interactions should feature the hands.
+- Wardrobe: shop apron over a plain flannel or chambray work shirt; sleeves
+  rolled exactly twice; canvas work trousers; scuffed leather boots resoled at
+  least once; reading glasses pushed up on the forehead and forgotten there; a
+  worn watch with a scratched acrylic crystal on a leather strap.
+- Anti-direction: no tactical clothing, no gun-culture merchandise, no leather
+  vest / biker coding, no crucifix-and-rosary Irish shorthand, no cigarette prop
+  dependence.
+
+VOICE ARCHETYPE
+- Register: low, dry, economical; gravel from age and shop dust, not from
+  affectation; unhurried even when the city outside is not.
+- Accent: Irish-born, four decades in Boston — a softened Irish underlay with
+  Boston vowels sanded in. Rule: the accent is seasoning, never performance.
+  Under irritation the Irish rhythm surfaces slightly; it never becomes a bit.
+- Delivery: bench-authoritative. He talks to the work as much as to the person.
+  Sentences end early. Praise is rationed ("There. Now it's honest."). Contempt
+  is procedural, not theatrical ("That mag's done." / "Captured doesn't mean
+  usable.").
+- VO anti-direction: no imitation of any recognizable actor or public figure;
+  no whiskey-poet lyricism; no drill-sergeant volume. If a read sounds like a
+  known performer, redirect the take.
+
+CASTING / MODELING NOTE
+Source scan and voice casting should target unknown or character-actor talent
+fitting the archetype above, or original sculpt/voice work. Likeness and voice
+must clear standard legal review as original.
+
+END
