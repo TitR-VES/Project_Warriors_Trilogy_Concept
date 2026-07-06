@@ -1,0 +1,150 @@
+PROJECT WARRIORS — DUPLICATE CONSOLIDATION MANIFEST
+Generated: 2026-07-06
+Version: rev1
+Rule: byte-identical staging copies in incoming_patches_and_updates/ removed when a
+canonical copy exists elsewhere; nested bundle copies removed when a flat canonical
+copy exists. All removals reversible via git history.
+
+REMOVED (71 files):
+- ./incoming_patches_and_updates/PW_CFIM_Closeout_Landing_v1/PW_CFIM_Closeout_Manifest_v1.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_CFIM_Closeout_Manifest_v1.txt)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/README.md
+    (identical copy kept at ./media/README.md)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/docs/ACCESSIBLE_WORKSPACE_AUDIT.md
+    (identical copy kept at ./media/docs/ACCESSIBLE_WORKSPACE_AUDIT.md)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/docs/KNOWN_VISUAL_ASSETS_INDEX.md
+    (identical copy kept at ./media/docs/KNOWN_VISUAL_ASSETS_INDEX.md)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/docs/RECOVERY_CHECKLIST.md
+    (identical copy kept at ./media/docs/RECOVERY_CHECKLIST.md)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/docs/SUGGESTED_REPO_LAYOUT.md
+    (identical copy kept at ./media/docs/SUGGESTED_REPO_LAYOUT.md)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/README_NO_IMAGE_BINARIES_INCLUDED.md
+    (identical copy kept at ./media/images/README_NO_IMAGE_BINARIES_INCLUDED.md)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/brands-and-logos/minotaur-steakhouse/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/characters/aegis/ducky/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/characters/aegis/frost/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/characters/aegis/lupin/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/characters/aegis/switchblade/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/characters/boston-civilians/civilian-female-01/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/characters/boston-civilians/civilian-male-01/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/characters/boston-civilians/civilian-male-02-wheelchair/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/characters/daog-command/tara-halliday-oracle/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/civilian-memory-photos/boston-city-hall-trio/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/civilian-memory-photos/cheers-boston-trio/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/factions-and-patches/daog/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/factions-and-patches/fatin/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/factions-and-patches/olympus/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/factions-and-patches/terranos/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/promo-stills/keraunos-brno-rafale-strike/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/images/promo-stills/switchblade-kaliningrad-harbor/.gitkeep
+    (identical copy kept at ./media/images/.gitkeep)
+- ./incoming_patches_and_updates/PW_Image_Archive_Handoff_2026-04-18_accessible-workspace/pw_image_archive_handoff_2026-04-18/manifests/generated_image_manifest.csv
+    (identical copy kept at ./media/manifests/generated_image_manifest.csv)
+- ./incoming_patches_and_updates/PW_La_Avispa_Manifest_Source_Inserts_2026-04-13.txt
+    (identical copy kept at ./new_src_material/PW_La_Avispa_Manifest_Source_Inserts_2026-04-13.txt)
+- ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Migration_Ledger_2026-04-13_rev2.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Migration_Ledger_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+    (identical copy kept at ./Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Reclaim_Candidates_Checklist_2026-04-13.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_Reclaim_Candidates_Checklist_2026-04-13.txt)
+- ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Source_Manifest_2026-04-13_rev2.csv
+    (identical copy kept at ./dev_src_docs/PW_Source_Manifest_2026-04-13_rev2.csv)
+- ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Repo_Gap_Hunt_Packet_2026-04-13/PW_Thread_Archive_Audit_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Updated_Canon_Overview_2026-04-13_rev1.pdf
+    (identical copy kept at ./dev_src_docs/canon_lore_source_of_truth/PW_Updated_Canon_Overview_2026-04-13_rev1.pdf)
+- ./incoming_patches_and_updates/PW_Resistance_Visual_Identity_Source_2026-04-12.txt
+    (identical copy kept at ./dev_src_docs/diegetics_and_world-building/visual_identity/PW_Resistance_Visual_Identity_Source_2026-04-12.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Main_Thread_Consolidation_Report_2026-04-14_rev1.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Main_Thread_Consolidation_Report_2026-04-14_rev1.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_PR_Packet_2026-04-14_rev1.txt
+    (identical copy kept at ./source_audits_and_reports/PW_PR_Packet_2026-04-14_rev1.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Project_Image_Archive_Handoff_2026-04-14_rev1/PW_Image_Archive_Handoff_2026-04-14_rev1.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Image_Archive_Handoff_2026-04-14_rev1.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/PW_Main_Thread_Consolidation_Report_2026-04-14_rev1.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Main_Thread_Consolidation_Report_2026-04-14_rev1.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/PW_Migration_Ledger_2026-04-14_rev3.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Migration_Ledger_2026-04-14_rev3.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/PW_PR_Packet_2026-04-14_rev1.txt
+    (identical copy kept at ./source_audits_and_reports/PW_PR_Packet_2026-04-14_rev1.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/PW_Package_ChangeLog_2026-04-14_rev3.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Package_ChangeLog_2026-04-14_rev3.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/PW_Project_Memory_Integration_Patch_2026-04-14_rev3.txt
+    (identical copy kept at ./Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-04-14_rev3.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/PW_Recommended_Upload_Order_2026-04-14_rev3.txt
+    (identical copy kept at ./Project_Warriors_Knowledge_Compendia/PW_Recommended_Upload_Order_2026-04-14_rev3.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/PW_Source_Manifest_2026-04-14_rev3.csv
+    (identical copy kept at ./dev_src_docs/PW_Source_Manifest_2026-04-14_rev3.csv)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/PW_Thread_Archive_Audit_2026-04-14_rev3.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Thread_Archive_Audit_2026-04-14_rev3.txt)
+- ./incoming_patches_and_updates/PW_Rev3_Consolidated_Patch/PW_Rev3_Consolidation_Package_2026-04-14/README_PW_Migration_Package_2026-04-14_rev3.txt
+    (identical copy kept at ./source_audits_and_reports/README_PW_Migration_Package_2026-04-14_rev3.txt)
+- ./incoming_patches_and_updates/PW_Source_Insert_03_Characters_La_Avispa_Manifest_2026-04-13.txt
+    (identical copy kept at ./new_src_material/PW_Source_Insert_03_Characters_La_Avispa_Manifest_2026-04-13.txt)
+- ./incoming_patches_and_updates/PW_Source_Insert_05_Missions_La_Avispa_Manifest_2026-04-13.txt
+    (identical copy kept at ./new_src_material/PW_Source_Insert_05_Missions_La_Avispa_Manifest_2026-04-13.txt)
+- ./incoming_patches_and_updates/PW_Timeline_Refresh_Audit_Sheet_2026-04-13_v1.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Timeline_Refresh_Audit_Sheet_2026-04-13_v1.txt)
+- ./incoming_patches_and_updates/PW_Vickers_Character_Profile_Page_2026-04-13_rev1.txt
+    (identical copy kept at ./dev_src_docs/story_campaigns/WhoDaresWinsDLC/PW_Vickers_Character_Profile_Page_2026-04-13_rev1.txt)
+- ./incoming_patches_and_updates/PW_Vickers_Royal_Marines_Boston_Package_Reference_Page_2026-04-13_rev1.txt
+    (identical copy kept at ./dev_src_docs/story_campaigns/WhoDaresWinsDLC/PW_Vickers_Royal_Marines_Boston_Package_Reference_Page_2026-04-13_rev1.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Governance_Header_Template_2026-04-13_rev1.txt
+    (identical copy kept at ./dev_src_docs/templates/PW_Governance_Header_Template_2026-04-13_rev1.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Migration_Ledger_2026-04-13_rev2.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Migration_Ledger_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Package_ChangeLog_2026-04-13_rev2.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Package_ChangeLog_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt
+    (identical copy kept at ./Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Recommended_Upload_Order_2026-04-13_rev2.txt
+    (identical copy kept at ./Project_Warriors_Knowledge_Compendia/PW_Recommended_Upload_Order_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Source_Manifest_2026-04-13_rev2.csv
+    (identical copy kept at ./dev_src_docs/PW_Source_Manifest_2026-04-13_rev2.csv)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Thread_Archive_Audit_2026-04-13_rev2.txt
+    (identical copy kept at ./source_audits_and_reports/PW_Repo_Gap_Hunt_Packet_2026-04-13/PW_Thread_Archive_Audit_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Working_Compendium_01_Core_Timeline_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-13_rev2.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Working_Compendium_03_Characters_DLC_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_Reclaim_Candidates_Only_2026-04-13/PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/PW_workspace_downloadables_inventory_2026-04-13.txt
+    (identical copy kept at ./incoming_patches_and_updates/PW_workspace_downloadables_inventory_2026-04-13.txt)
+- ./incoming_patches_and_updates/PW_workspace_downloadables_2026-04-13/README_PW_Migration_Package_2026-04-13_rev2.txt
+    (identical copy kept at ./source_audits_and_reports/README_PW_Migration_Package_2026-04-13_rev2.txt)
+- ./incoming_patches_and_updates/pat_napier_source_updates_2026-04-12/updated_sources_pat_napier_2026-04-12/PAT_NAPIER_SOURCE_UPDATE_CHANGELOG.txt
+    (identical copy kept at ./dev_src_docs/story_campaigns/Game2/Romeo/PAT_NAPIER_SOURCE_UPDATE_CHANGELOG.txt)
+- ./incoming_patches_and_updates/pat_napier_source_updates_2026-04-12/updated_sources_pat_napier_2026-04-12/PAT_NAPIER_SOURCE_UPDATE_MANIFEST.json
+    (identical copy kept at ./dev_src_docs/story_campaigns/Game2/PAT_NAPIER_SOURCE_UPDATE_MANIFEST.json)
+- ./incoming_patches_and_updates/pat_napier_source_updates_2026-04-12/updated_sources_pat_napier_2026-04-12/character_profile_pat_napier.txt
+    (identical copy kept at ./dev_src_docs/story_campaigns/Game2/Romeo/character_profile_pat_napier.txt)
+- ./source_audits_and_reports/PW_Repo_Gap_Hunt_Packet_2026-04-13/PW_Repo_Gap_Hunt_Acquisition_Checklist_2026-04-13.txt
+    (bundle-nested copy; kept ./source_audits_and_reports/PW_Repo_Gap_Hunt_Acquisition_Checklist_2026-04-13.txt)
+- ./source_audits_and_reports/PW_Repo_Gap_Hunt_Packet_2026-04-13/PW_Repo_Gap_Hunt_Map_2026-04-13.txt
+    (bundle-nested copy; kept ./source_audits_and_reports/PW_Repo_Gap_Hunt_Map_2026-04-13.txt)

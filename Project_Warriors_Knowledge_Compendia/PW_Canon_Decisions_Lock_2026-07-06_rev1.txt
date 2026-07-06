@@ -1,0 +1,66 @@
+PROJECT WARRIORS — CANON DECISIONS LOCK
+Decided by project owner: 2026-07-06
+Status: canonical; supersedes conflicting older statements in any layer
+
+DECIDED
+1. TIMELINE (reconfirmed): PANDORA attacks = Thursday, September 7, 2028.
+   U.S. presidential election = Tuesday, November 7, 2028 (statutory election
+   day). Hudson Overlook = September 7, 2028. Glushkin activation / Lebedev
+   Boston staging = June 4, 2028. All September 3 / November 3 / November 6
+   variants are stale — purge on sight. Writer rule: prefer broad windows over
+   derived day-math until every inherited file is refreshed.
+2. AEGIS FALLS: retired as the CAMPAIGN title — the Ducky Game 2 campaign title
+   is Persistent Threat — but RETAINED as the final MISSION title of that
+   campaign (pays off the protected ending pair "AEGIS falls regardless." /
+   "Then we build something better."). Cleanup passes must not delete the
+   mission name.
+3. Y. T. LIN IDENTITY: Y. T. Lin IS the Taiwanese semiconductor engineer of
+   Wei Junlong's fracture line — the same person, no longer unnamed. She is the
+   likely architect of the TETHERBREAK credential kill switch (Game 3) and the
+   consulting engineer hardening HYPERMNESTRA -> VIGILAN (Game 4). Discipline
+   bridge: foundry/firmware background extended into hardware-security /
+   cryptography practice. The Wei-fracture / PANDORA-resolution ARC remains a
+   protected structural asset — identity locked, resolution still reserved for
+   the Game 3 development pass.
+4. TRU/SIGHT: the DAOG counterintelligence detachment formerly named PYTHIA is
+   renamed TRU/SIGHT (also acceptably spelled TRUSIGHT) — Tactical
+   Reconnaissance Unit / Signals Intelligence and Geospatial Heuristics Team.
+   Rationale: ends the Delphic-oracle duplication with ORACLE (Lt. Tara
+   Halliday), which is retained. Jaeger (Karl Alexander Stanzler) is TRU/SIGHT
+   personnel.
+5. MAGS: the SBS operator formerly called Wren (Swansea) is renamed Mags.
+   Rationale: ends the collision with Switchblade's weapon build WREN (which is
+   unchanged). The smallest-bird-in-Britain callsign lore retires with the old
+   name; interim callsign logic — relentless magazine discipline, the operator
+   who never lets the team run dry — may be refined in a character pass.
+6. SOURCE ARCHITECTURE: full rev6 compendia (this consolidation) are the new
+   working set. Each rev6 file is self-contained: corrected rev4 body + rev5
+   refresh layer + 2026-07-06 addendum + this decisions layer. rev4 and rev5
+   files should be moved to archived/ once rev6 is committed.
+
+7. DALE PRUETT SPELLING — DECIDED (owner lock 2026-07-06): canonical spelling
+   is PRUETT (Game 2, Romeo campaign). All "Pruitt" variants are superseded;
+   purge on sight. Applied throughout the rev6 set.
+7b. JACOBS RENAME — PENDING: the War Within buddy "Dale Jacobs" will be renamed
+   to avoid first-name duplication with Dale Pruett; owner proposed "Hale
+   Jacobs"; reviewer flagged Hale/Dale near-homophone in voiced dialogue and a
+   surname overlap with The Collapse "Jacobs & Reed" hardliner faction. Final
+   name awaiting owner decision.
+
+OPEN — CARRIED FROM CROSS-WORKSPACE RECONCILIATION (decide before next
+character/mission passes)
+8. Romeo rank: LT Ramon Alvarez (older canon) vs Sergeant (ChatGPT rank retcon).
+9. Spook title: remove "Captain"; senior CIA paramilitary officer (retcon,
+   realism-correct) vs CPT Trevor Gartner (older canon).
+10. DEADBOLT (SHIELD/Lock HK416) vs DEAD BLOW (Hawthorne MP5SD) — near-identical
+    weapon names; rename one.
+11. La Avispa DLC title: The Wasp vs Plata o Plomo / Money or Lead.
+12. DON'T TREAD retirement timing: mid-Game-2 phase-out vs carried through
+    Game 2 and returned to Dale at the Boston transition (interlocks with the
+    Kearney / THE RIGHT RIFLE / CIVIL DISOBEDIENCE arc).
+
+PROPAGATION CHECKLIST
+- [x] Claude project memory updated (2026-07-06).
+- [ ] Paste items 1-6 into ChatGPT project memory.
+- [ ] Commit rev6 set + this file; move rev4/rev5 to archived/.
+- [ ] Upload rev6 set (or handoff trio) to Claude project knowledge.

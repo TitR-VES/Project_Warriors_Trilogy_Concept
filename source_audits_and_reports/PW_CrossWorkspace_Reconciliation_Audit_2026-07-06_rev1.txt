@@ -1,0 +1,216 @@
+PROJECT WARRIORS — CROSS-WORKSPACE RECONCILIATION AUDIT (CHATGPT MEMORY LAYER)
+Generated: 2026-07-06
+Version: rev1
+Status: governance / cross-workspace reconciliation audit (external LLM review — Claude)
+Companion to: PW_External_Consistency_Review_Audit_2026-07-06_rev1.txt
+
+PURPOSE
+Reconcile the ChatGPT project memory layer against (a) the repository main branch as
+of 2026-07-06 and (b) the parallel Claude project workspace (project knowledge +
+memory). Identify canon conflicts requiring owner decision, canon present in one
+workspace but absent in the other, and confirmations where all layers now agree.
+
+SOURCES USED
+- temporary_files/chatgpt_project_memory_backup.txt (dated 14-APR-2026) — proxy for
+  the ChatGPT project memory; direct project link is login-gated and inaccessible.
+- Repository main branch, full clone, including the 2026-07-06 handoff layer.
+- Claude workspace project memory and knowledge files (state prior to this pass).
+
+COVERAGE LIMITS
+- The memory backup captures ChatGPT-side state to 14-APR-2026 only.
+- ChatGPT thread outcomes from mid-April to 06-JUL-2026 are assumed represented by
+  the repo's rev5 compendia, Game 4 source pages, and 2026-07-06 handoff layer.
+- ChatGPT threads NEWER than 2026-07-06 are NOT covered; obtain via per-thread share
+  links (chatgpt.com/share/...) or data export, then re-run this reconciliation.
+
+STATUS KEY
+- CONFLICT — DECIDE NOW: workspaces assert incompatible canon; owner call required.
+- SUPERSEDES CLAUDE WS: ChatGPT/repo canon is newer; Claude workspace must be
+  refreshed once owner confirms.
+- ABSENT FROM CLAUDE WS: canon exists only in ChatGPT/repo layer; needs porting.
+- CONFIRMED ALIGNED: all layers agree; no action.
+
+================================================================================
+01. CONFLICTS REQUIRING IMMEDIATE OWNER DECISION
+================================================================================
+
+1.1 ROMEO RANK / IDENTITY — CONFLICT, DECIDE NOW
+- Claude workspace canon: Lt. Ramon "Romeo" Alvarez, 75th Ranger Regiment (officer).
+- ChatGPT rank-retcon set: "Romeo -> Sergeant."
+- These are mutually exclusive. Note realism lean: a Ranger NCO organizing an early
+  Kentucky resistance cell is more organizationally plausible than a lieutenant
+  operating alone; officers are also less likely to be hands-on small-cell leaders.
+- Downstream exposure: every Claude-side character profile, mission doc, and promo
+  treatment that styles him "LT"; any dialogue using "sir"/officer forms of address.
+- DECISION NEEDED: confirm final rank; then clean re-run of affected profiles.
+
+1.2 SPOOK TITLE — CONFLICT, DECIDE NOW (retcon is realism-correct)
+- Claude workspace canon: CPT Trevor Gartner, CIA Ground Branch.
+- ChatGPT retcon: do NOT use Captain; treat as senior CIA paramilitary officer.
+- Realism note: CIA paramilitary officers (SAC/Ground Branch) are civilians and do
+  not carry military rank titles, even when prior-service. The retcon is correct.
+- Surname "Gartner" is CONFIRMED ALIGNED across all layers.
+- DECISION NEEDED: confirm retcon; purge "CPT" from Claude-side profiles.
+
+1.3 DEADBOLT vs DEAD BLOW — NAMING COLLISION, DECIDE NOW
+- DEADBOLT: SHIELD team leader Lock's HK416 A5 11" CQB build (ChatGPT layer).
+- DEAD BLOW: Nicholas Wayne Hawthorne's Vanguard MP5SD-style suppressed 9mm
+  (War Within, repo 2026-07-06 layer).
+- Two near-identical names on two different suppressed compact weapons. Players and
+  writers will confuse them; wiki/marketing-level collision.
+- DECISION NEEDED: rename one. Suggestion: DEADBOLT fits Lock's door/entry identity
+  (breach lane) strongly; if kept, consider renaming Hawthorne's build within its
+  hammer/impact register (e.g., MAUL, PEEN, CLAW HAMMER) — a dead blow hammer is the
+  source metaphor, so nearby tool names preserve intent.
+
+1.4 LA AVISPA DLC TITLE — CONVENTION CONFLICT, DECIDE NOW
+- ChatGPT source-set lock: "Project Warriors: The Wasp = La Avispa DLC title."
+- Claude workspace: title direction open; working idea "Plata o Plomo / Money or
+  Lead."
+- Note: the DLC concept itself has evolved (sole-playable protagonist overlapping
+  Game 2 as hidden parallel layer, selective flashbacks incl. THE GREAT
+  DISAPPEARANCE / MANIFEST) — the title decision should match that framing.
+- DECISION NEEDED: pick one title lane and retire the other explicitly.
+
+1.5 DON'T TREAD RETIREMENT TIMING — CONFLICT, DECIDE NOW
+- Claude workspace: AC-556 "phases out mid-campaign" (mid-Game 2) as a quiet beat.
+- ChatGPT layer: DON'T TREAD remains Romeo's Game 2 place-bound signature, parted
+  with INTENTIONALLY at the Boston transition (preferred: returned to Dale / left
+  with Dale's people), replaced in Game 3 by Kearney-built CIVIL DISOBEDIENCE via
+  the THE RIGHT RIFLE handoff (late Act II, between Missions 07 and 08), with an
+  unnamed Boston-entry transitional carbine bridging early Game 3.
+- The ChatGPT version is the more developed and interlocks with the Kearney arc.
+- DECISION NEEDED: confirm the Boston-transition retirement as canon; amend the
+  Claude-side lock accordingly.
+
+1.6 CARRIED OVER FROM COMPANION AUDIT — STILL OPEN
+- Pruitt vs Pruett spelling (companion audit item 02).
+- AEGIS Falls campaign-title-retired / mission-title-retained lock (item 04).
+- Y. T. Lin vs Taiwanese semiconductor engineer identity (item 05).
+- ORACLE vs PYTHIA naming (item 06.1).
+- WREN weapon vs Wren operator (item 06.2). Note: rank-retcon set confirms operator
+  Wren remains active canon, so the collision is live in both layers.
+
+================================================================================
+02. CHATGPT-LAYER CANON SUPERSEDING OR EXTENDING CLAUDE WORKSPACE
+================================================================================
+(Refresh Claude-side knowledge once section 01 decisions are made.)
+
+2.1 Rank retcon set (beyond Romeo/Spook): Switchblade -> Corporal; Vickers ->
+    Captain if leading a full British reinforcement element; Mace -> Colour
+    Sergeant; Macmillan = Director Robert Macmillan, CIA Director of Operations
+    (non-military). Ducky SFC, Frost SSgt, Lupin Cpl, Halliday Lt, Bridges SSgt
+    unchanged — CONFIRMED ALIGNED.
+2.2 Ducky full legal name: Ferris Michael Ryan (middle name for formal contexts
+    only; do not force into rosters).
+2.3 Cold Frontier 07: anchored early March 2007; lakeshore Peltonen-knife dispatch
+    version supersedes older underwater-kill continuity; Summer Wine (Ville Valo /
+    Natalia Avelon) one-time diegetic beat, FM/MP3 speaker, never reused as trauma
+    callback.
+2.4 Torrejon de Ardoz AEGIS attack: attribution pivots from Russian to unmarked
+    Chinese operators (Game 2 Ducky continuity; load-bearing for the China layer).
+2.5 CFIM / CogniConnect split: CogniConnect = broad implant architecture; CFIM
+    (Counter-Forensic Identification Module) = War Wolves-only postmortem facial-
+    destruction add-on. KYSC / Montoya Farm victims carry baseline CogniConnect,
+    no CFIM effect.
+2.6 Trilogy thematic arc lock: Fracture. Resistance. Restoration. (directional
+    emphases, not one-game compartments; Restoration written as beginning).
+2.7 Radio-comms realism standard (project-wide): "say again" / "I say again";
+    "repeat" reserved for fire support; never "over and out"; no stacked
+    roger+wilco; "correction" for self-fixes. CONFIRMED ALIGNED with repo layer.
+
+================================================================================
+03. CANON ABSENT FROM CLAUDE WORKSPACE — PORT LIST
+================================================================================
+Characters:
+- Elena Maria Costa, SSgt, ex-MA Army National Guard 68-series infantry NCO, 35,
+  Dorchester; district resistance leader; BUILD 08 HELL OR HIGH WATER (iron-sight
+  M4A1, carry handle, taped stock, handguard marker text); full mission-arc
+  integration lock across NO KINGS Acts I-IV; voice-before-face intro rule.
+- Eamonn Kearney, 58, Irish-born Boston armorer; BUILD 10 WORK ORDER (personal) and
+  BUILD 12 CIVIL DISOBEDIENCE (Romeo's Boston rifle); THE RIGHT RIFLE handoff
+  scene; workshop tracks (Rush "Working Man", Thin Lizzy "The Boys Are Back in
+  Town"). NOTE: likeness brief must be rewritten per companion audit item 03.
+- Patrick "Pat" Napier: trans man, former US Army 68W (one enlistment, E-4 exit
+  under Crodyn-era policy), Calloway-area medic/secondary rifleman in Romeo's early
+  cell; full loadout lock (LE6920/Aimpoint PRO; G19 Gen5/TLR-7A); Renata Voss
+  relational-not-genealogical tie; Cody-impulse / Pat-stabilizer squad dynamic.
+- Mitchell Van Hult (canonical spelling), BODYWORK branch owner.
+- SHIELD squad (DAOG hard-entry / SSE / recovery-and-denial; distinct from AEGIS
+  and CORYS): Lock (Kaczmarek, PL), Mallet (Vukovic, HR), Suture (Norgaard, DK),
+  Splice (Vesely, CZ); all-NCO presentation; builds DEADBOLT / HINGE / TRIAGE /
+  GHOST KEY; COLD ROOM template mission with full level-flow and art-direction
+  lock.
+Systems / design:
+- Black market / underground procurement: one shared hidden system, three campaign
+  shells (Romeo physical ledger/barter; Spook typewriter/redacted secure-device;
+  Ducky green-phosphor DAOG requisition hybrid).
+- Animal Calm-State Interaction lock.
+- Civilian/public radio layer: THE RIDGE (Kentucky FM), FIELDHOUSE (Coach Terrell
+  Washington community/pirate), HARBOR (Boston); arc-phase evolution rules; next
+  step = one non-Romeo-region pilot station.
+- Resistance visual identity: Republic Shield (primary AFC), Breach Star (field
+  tag), Union Mark (pre-existing Boston underground); progression and design rules.
+Missions / scenes:
+- BODYWORK 4+1 branch (The Shop / Concrete / Open the Route / Bodywork / concert
+  epilogue) + dozer end-state lock ("breaches as a weapon, reclaimed as
+  infrastructure").
+- ANGEL production package (screenplay pass, trigger sheet, VO sheet, bark matrix,
+  cast script, pronunciation guide); Aldridge spelling canonical; F-150 / M240B /
+  two-cans structure; closing line protected.
+- La Avispa THE GREAT DISAPPEARANCE / MANIFEST flashback (Bruges -> Brussels ->
+  Vienna crash; FSB operatives in responder perimeter; identity-shedding escape).
+- Montoya Farm observation-room beat (Square Hammer one-off diegetic; restrained
+  clinical-wrong tone).
+- Spook Yunnan/Laos traversal shape (compressed crossing; participatory La Avispa
+  border beat; helicopter reveal no-music rule; CCR "Sinister Purpose" partial bed).
+- ARTEMIS placement: Dead Frequency (Estonia break-contact). TYPHON placement:
+  Permafrost (Svalbard shore exfil). Distinct identities preserved.
+Character texture:
+- Spook: KING NOTHING back tattoo; CAN'T TAKE IT WITH YOU forearm; Casio F-91W on
+  opposite wrist; restraint rules.
+- Ducky: Gerber StrongArm coyote fixed blade, tool-first presentation; full voice /
+  leadership / body-language sheet; Boston accent restraint; Rotterdam outburst =
+  special-use only.
+- Bakhmut visual style package (post-Soviet specificity, drift-control rules).
+- Canada posture lock (functioning strained partner; Tremblay as human anchor).
+Music (environmental layer additions beyond Claude-side Music Board):
+- Beyonce "YA YA" (Romeo G1 reception-hold), campaign shortlists (Weezer, AIC,
+  Benatar, Incubus, Foo Fighters, Audioslave, Limp Bizkit, 4 Non Blondes, Megadeth,
+  Em Beihold, Days of the New, New Order, Iron Maiden, Jem, sHEAVY, Anastacia,
+  Valerie Broussard, Blink-182 reserve), Mighty Mighty Bosstones epilogue concept,
+  drop/caution list (Run to the Hills dropped; Hotel California reserve; Psycho
+  Killer special-use; Rooster environmental-only). All require licensing clearance.
+
+================================================================================
+04. CONFIRMED ALIGNED ACROSS ALL THREE LAYERS
+================================================================================
+- Timeline: PANDORA Thu 07-SEP-2028; election Tue 07-NOV-2028; Hudson Overlook
+  07-SEP-2028; Glushkin/Lebedev staging 04-JUN-2028; Cold Frontier 07 = early March
+  2007; broad-windows writer rule. (Claude memory corrected 2026-07-06.)
+- Studio identity TITR / Virtual Entertainment Software; Project Warriors I/II/III.
+- Halliday = ORACLE; Ducky Boston origin via environmental storytelling; Navarre ->
+  Aubert and Budanova -> Reimann relocations to Evora; Persistent Threat as Ducky
+  G2 campaign title; Hull Breach spelling; Godkiller / King Nothing / taglines;
+  productive-dissonance audio principle; KYSC audio identity; perspective
+  transition mechanic (Frost/Lupin); named builds GRAY GHOST / NOTHING / FREYA /
+  DON'T TREAD / TRG M10 / ARGINT; China-as-opportunist architecture; ASML
+  bottleneck; two-layer source model (archival master + six compendia).
+
+================================================================================
+05. ACTION QUEUE
+================================================================================
+1. Owner decides items 1.1-1.5 (rank/identity x2, DEADBOLT/DEAD BLOW, La Avispa
+   title, DON'T TREAD timing) + carried-over 1.6 set.
+2. Log each decision in BOTH memory layers (ChatGPT project memory and Claude
+   project memory) plus a repo source page, in the same pass.
+3. Port section 03 material into Claude workspace knowledge (fastest path: upload
+   chatgpt_project_memory_backup.txt itself + the 2026-07-06 handoff trio).
+4. Re-run this reconciliation against ChatGPT threads newer than 2026-07-06 once
+   share links or an export are available.
+5. Promote chatgpt_project_memory_backup.txt out of temporary_files/ (it is
+   load-bearing canon, not scratch) or absorb it into a dated source page.
+
+================================================================================
+END
+================================================================================
