@@ -1,0 +1,59 @@
+PROJECT WARRIORS — CONSOLIDATED CANON UPDATE
+Date: 2026-07-08 · Scope: everything locked since the 2026-07-06 rev6 consolidation
+Source thread: Claude "Nightfall / Cheyenne Mountain" development thread (2026-07-07/08)
+Companion file: dev_src_docs/story_campaigns/Nightfall/PW_Nightfall_Cheyenne_Mountain_Concept_rev4.md (full mission concept — AUTHORITATIVE for this mission)
+
+=== 1. MISSION POSITIONING (LOCKED) ===
+- The Cheyenne Mountain / NORAD raid is the FINAL mission of Spook's Nightfall campaign and the SHARED CULMINATION EVENT of the whole Nightfall story.
+- Ducky & Lupin's campaign converges on the same operation from its own perspective (their concept pass: NOT YET STARTED).
+- Structure across versions: SIMULTANEOUS SYNCHRONIZED perspectives of one operation — NOT staggered timelines. Order-agnostic; neither version spoils the other.
+
+=== 2. CAST & FATES (LOCKED) ===
+- Spook (Trevor Gartner, no rank ever): intelligence/systems/route/judgment lane.
+- Soraya Probst "Cloudspotter": counter-AI lead; SURVIVES.
+- Denis "Sakhalin" Malinin: route guide (old Soviet/Russian intel + flooded cave/reservoir approach); DIES in exfil — rear-guard at containment choke, ends on wrong side of the final blast door.
+  - FINAL LINE (LOCKED): "We're almost out of time. Move! See you on the other side."
+  - KYSC grammar: no death sound after, only the door seal.
+  - Minor staging OPEN: dies alone vs. with loyalist troops/turned staff (latter pays off witness mechanic).
+- BG Ramón Álvarez (Romeo): the loyalist AUTHORIZING figure, NOT physically present — remote authorization via loyalist channels.
+- Protected planning dialogue (Sakhalin kit beat): "I planned for someone else being careful." — retained verbatim in concept doc.
+
+=== 3. PHALANX (NEW ENTITY — LOCKED) ===
+- The corporate security-AI contractor controlling Cheyenne Mountain's access/surveillance/decision-support layer is PHALANX.
+- Cross-canon origin: introduced in The Collapse DLC as a secure transit company; Chris Haywood (that DLC's protagonist) initially works for them.
+- Nightfall era: grown, government-entangled, holds the facility contract; "employs" the captive skeleton crew of former Air Force staff — the employment IS the captivity; staff sympathies run to the Federal Loyalists.
+- FLAG for The Collapse thread: keep both ends of PHALANX's arc consistent. (NOT YET synced there.)
+
+=== 4. MISSION MECHANICS & STRUCTURE (concept-complete, rev4) ===
+- Infiltration: fictionalized flooded cave / reservoir-adjacent route (Sakhalin's Soviet-era intel). Story-level breaching detail only.
+- Witness mechanic (proposed, in concept): captive staff neither hostile nor allied — coerced reporters; trust gambles.
+- AI escalation ladder replaces alarm meter: observe → restrict → seal → purge.
+- Command restoration: physical/human two-man-rule + credentials + living loyalist officers; Álvarez authorizes remotely.
+- Archive choice (LOCKED, three-way): BURN ALL / SEAL (destroy instruments, preserve evidentiary record under loyalist-Taylor custody) / EXPOSE ALL. Strikes launch regardless; choice governs what is left behind.
+- Tripper thread: MAIN payoff in DAWNSTAR (discovery of who/what accessed the sealed legacy systems = why the signal activated). Possible small echo in finale only.
+
+=== 5. STRIKE PACKAGE (LOCKED) ===
+- Conventional, never nuclear. Rationale (LOCKED): targets are on former-US soil (own-country restraint) + conventional sufficiency (ground-penetrating vs. data centers; structural kills on coastal/shallow nodes; most targets surface, in former US).
+- "Nuclear capability decommissioned" framing is RETIRED — PURGE ON SIGHT.
+- Weapons: MRC (Mid-Range Capability, Typhon-type) conventional missiles from several dispersed pre-collapse emplacement sites; original units defunct.
+- Custodian (LOCKED): the Sovereign Lattice maintains the batteries as assets via its strategic AI systems and integrated government data platforms (inertial upkeep secondary).
+- The launch = SEIZURE of Lattice-controlled assets through restored lawful command authority threaded via Soraya's access path. The Lattice is destroyed with the arsenal it kept.
+- Texture OPEN: partial failure (some batteries not answering).
+- Interpretation to confirm with Stefan: "MRC" = Mid-Range Capability (Typhon-type) reading.
+
+=== 6. EXFIL (LOCKED, revised from earlier draft) ===
+- After launch: PHALANX AI partially regains control through Soraya's countermeasures; containment escalates LOCALIZED cells first → FULL-COMPLEX button-up.
+- Team exfils UPWARD TO THE SURFACE via main complex and access tunnel (NOT back through the water route — that version is superseded).
+- Door control CONTESTED (loyalist partial lawful access from command restoration) = why a countdown exists instead of an instant seal.
+- Synchronization proposal: Ducky & Lupin's element holds the north portal mouth from outside — the two campaign versions' single point of physical contact.
+
+=== 7. SUPERSEDED / PURGE LIST (from this thread) ===
+- Claude concept rev1 (PANDORA-era framing of this mission, staggered RE2-style timelines, loud AEGIS assault): WRONG — superseded.
+- Water-route exfil (rev3): superseded by surface exfil.
+- "Nuclear decommissioned" beat suggestion: retired, purge on sight.
+
+=== 8. STATE OF COMPLETION ===
+- Spook-version mission concept: COMPLETE at outline level (rev4). Remaining: dialogue pass; Sakhalin staging detail; MRC reading confirmation; partial-failure texture decision.
+- Ducky & Lupin version: NOT STARTED (architecture defined in rev4 §8).
+- Dawnstar discovery beat staging: OPEN (other thread).
+- The Collapse ↔ PHALANX continuity: OPEN (other thread).
