@@ -1,0 +1,173 @@
+PROJECT WARRIORS: NIGHTFALL — CHARACTER PROFILE
+SAMUEL JACKSON CHIWA — UK handler, Ducky & Lupin campaign
+rev1 — 2026-07-13 — all core elements LOCKED (Stefan, 2026-07-13); flags listed at end
+===============================================================
+
+RETCON NOTE (2026-07-13): Chiwa's ancestry is ZIMBABWEAN. Purge any
+"Kenyan" reference on sight. Grandfather's unit is THE PARACHUTE
+REGIMENT (no "Royal" prefix).
+
+---------------------------------------------------------------
+1. IDENTITY
+---------------------------------------------------------------
+Full name:      Samuel Jackson Chiwa
+Born:           ~2000, United Kingdom (second-generation British;
+                Shona surname, Zimbabwean ancestry)
+Role:           SIS (MI6) officer; handler for Ducky and Lupin
+                during the Euro-American Summit investigation and
+                recurring liaison figure thereafter
+Framing note:   A London plot is primarily MI5/JTAC turf; Chiwa is
+                MI6 seconded to a joint summit task force — MI6
+                owns the foreign-contractor relationship and the
+                continental (Hamburg) leg. Built-in interservice
+                friction is deliberate character texture.
+                [PROPOSED framing — accepted direction]
+
+---------------------------------------------------------------
+2. FAMILY LINE — FOUR GENERATIONS, ONE QUESTION [LOCKED]
+---------------------------------------------------------------
+Who deserves your rifle? Each generation answered differently.
+
+GREAT-GRANDFATHER — b. ~1940s, from a line of tribal warriors.
+Fought 1964–1979 for ZANLA in the Zimbabwe war of independence.
+His answer: the liberation.
+
+GRANDFATHER — b. ~1958, Rhodesia. Emigrated to Britain within
+months of independence (1980), infant son in arms, and joined THE
+PARACHUTE REGIMENT — the army of the empire his father fought —
+to his anti-imperialist father's lasting disapproval. Fought in
+the Falklands, 1982. The outsider in the Paras who had to be
+twice as good. His answer: the professional army, even the old
+enemy's. Why he left the liberation he was born into, within a
+year of its victory, is the family wound — disillusionment,
+economics, or refusal to live inside his father's war. Never
+fully settled, never fully discussed.
+
+FATHER — b. ~1977, Rhodesia; carried to Britain as a small child,
+1980. Royal Marines: Operation Iraqi Freedom (2003, age 26) and
+multiple coalition missions in Afghanistan. His answer: the
+Western order.
+
+SAMUEL — b. ~2000, UK. His answer: nobody's rifle — the war you
+can't photograph.
+
+---------------------------------------------------------------
+3. CAREER TIMELINE [LOCKED, dates rolled per accuracy pass]
+---------------------------------------------------------------
+~2018        Enlists, British Army. Royal Corps of Signals.
+~2019–2023   Specialty training and operational role: electronic
+             warfare & countermeasures. A listener by training —
+             signals, patterns, the discipline of hearing what
+             people say when they believe no one is listening.
+~2023–2025   Intelligence Corps / military intelligence career.
+~2026        Recruited into SIS on the strength of his
+             technical-intelligence record.
+~2027–2028   UKRAINE ATTACHMENT [LOCKED]: attached SIS operative
+             embedded with volunteer British military personnel —
+             some active, mostly former — on covert operations in
+             the Russo-Ukrainian war. Technical/EW liaison to a
+             deniable formation: counter-drone work, jamming,
+             emissions discipline, SIGINT support. The listener's
+             war.
+Sept 2028    PANDORA. The covert sideshow becomes the opening
+             theater of the world war around him. His formative
+             battlefield is where WWIII begins.
+WWIII years  [LOCKED 2026-07-13]: supported British military
+             operations as a tactical EW countermeasures
+             specialist — most often remotely rather than
+             directly in the field, operating mostly from a
+             forward base, with a handful of field operations.
+             CROSSOVER OPPORTUNITY (flagged, not designed): his
+             forward-base EW support role creates natural
+             touchpoints with the SEA SPEAR and WHO DARES WINS
+             DLC storylines — candidate connective-tissue
+             appearances to be developed in those threads.
+Nightfall    Early-to-mid forties. Senior enough to run
+             contractors, junior enough to still be sent to the
+             airport at 0400.
+
+---------------------------------------------------------------
+4. WHY HE READS THE NIGHTFALL WORLD BETTER THAN HIS COLLEAGUES
+---------------------------------------------------------------
+His family history is a compressed study in state legitimacy: an
+unrecognized settler state, insurgents who became a government,
+exile politics, a liberation that curdled. When the American
+exile government arrives in Britain, Chiwa sees it through his
+great-grandfather's war. He knows governments die and the world
+adjusts. He knows what insurgent movements become.
+
+This is why he takes the NAF seriously when Whitehall files them
+as militia residue: HIS GREAT-GRANDFATHER WAS MILITIA RESIDUE TO
+SALISBURY. He recognizes an armed organization with a genuine
+theory of legitimacy, and he neither romanticizes nor dismisses
+it. That professional clarity is why the Ducky/Lupin contract
+gets stood up at all.
+
+---------------------------------------------------------------
+5. WHY HE CHAMPIONS TWO NON-BRITISH CONTRACTORS
+---------------------------------------------------------------
+- Family precedent: his grandfather was the outsider who had to
+  be twice as good. Chiwa's default respect runs toward
+  capability, not tribe.
+- Prior form: Ukraine taught him to work with deniable,
+  mostly-ex-military irregulars. The contractor model isn't a
+  compromise to him; it's a proven instrument.
+- Cold logic: deniable, capable, American-literate, not British.
+
+---------------------------------------------------------------
+6. POST-SUMMIT SEAM [ACCEPTED DIRECTION]
+---------------------------------------------------------------
+After the foiled bombing, the political-cost consequences (rev2
+§6.2) put Chiwa in institutional crossfire. He argues AGAINST the
+harshest risk-mitigation measures aimed at the exile government —
+not from sympathy for the Americans, but because he understands
+what the signal of abandonment does. His family knows something
+about being useful to Britain right up until Britain
+recalculates.
+
+---------------------------------------------------------------
+7. VOICE & PRESENCE
+---------------------------------------------------------------
+Understated, precise, dry. Institutional patience. Asks short
+questions and lets silence do the interrogating — EW habits
+translated to people. Never raises his voice on the net. Battle-
+field credibility Ducky and Lupin can smell: he is not a desk
+officer, and he never mentions it.
+
+---------------------------------------------------------------
+8. ENVIRONMENTAL BEAT [LOCKED]
+---------------------------------------------------------------
+Three photographs in his office: a ZANLA fighter; a Para in the
+Falklands; a Royal Marine in Helmand. No fourth. His war doesn't
+photograph. Never remarked upon by anyone, ever. Radical
+minimalism discipline applies.
+
+---------------------------------------------------------------
+9. CAMPAIGN-CORE CONNECTIONS [LOCKED 2026-07-13]
+---------------------------------------------------------------
+- DELUVIA / DOUBTER THREAD: Chiwa is part of the intelligence
+  chain that contacts the doubter and helps them defect. The man
+  who argued against abandoning the exiles personally shepherds
+  an NAF defector out — and his hand connects the opening
+  sub-arc to the Deluvia recognition beat.
+- WWIII service record: see §3. Sea Spear / Who Dares Wins
+  crossover touchpoints flagged for those DLC threads.
+
+---------------------------------------------------------------
+10. OPEN FLAGS
+---------------------------------------------------------------
+1. Joint MI5/MI6 task-force framing — FORMALIZED 2026-07-13 as
+   TASK FORCE IRIS; see PW_Nightfall_TaskForce_Iris_rev1.md
+   (designation; reporting line: Chiwa's immediate superior =
+   Diane O'Malley, MI5 — face of interservice friction;
+   contractors' cover = Strategic Systems Application
+   Consultants with classified operational annex; German
+   posture = permissive-minimal, BND liaison Senior officer
+   Max Felber; exile loyalist intelligence = arm's-length MI6
+   collection channel on American persons of interest, same
+   network the doubter may come through).
+2. Sea Spear / Who Dares Wins crossover appearances — design in
+   those DLC threads.
+3. Exact staging of Chiwa's role in the Deluvia recognition
+   scene (his product vs his presence).
+===============================================================
