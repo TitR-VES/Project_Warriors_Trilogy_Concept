@@ -1,0 +1,95 @@
+=================================================================================
+PROJECT WARRIORS — CHARACTER PROFILE: FRANK MANOLA
+rev1 — consolidated from The Collapse DLC handoff (2026-07-18) + Claude
+thread canon (Stefan, 2026-07-18)
+=================================================================================
+Campaign:   The Collapse DLC
+Status:     LOCKED as early-game Phalanx partner (per handoff §3.3);
+            backstory expansion + weapon legacy locked 2026-07-18.
+Usage rule: "Frank Manola" — never "Frankie" as final preferred usage
+            (handoff continuity guardrail).
+
+---------------------------------------------------------------------------------
+1. ROLE
+---------------------------------------------------------------------------------
+- Chris Haywood's friend from their military days (same or adjacent
+  unit/base circle).
+- Secure transit specialist at Phalanx Secure Transit Services.
+- Chris's early-game mission partner during the Phalanx armored-van phase.
+- Dies covering Chris in the bad Phalanx armored run — the clean break
+  that ends Chris's company-security identity and launches the campaign.
+
+---------------------------------------------------------------------------------
+2. BACKSTORY & RECRUITMENT (LOCKED, Stefan 2026-07-18)
+---------------------------------------------------------------------------------
+After Chris quits his fabricator job at Redline Engineering [OPEN FLAG:
+handoff document says "Deadline Engineering" — see Section 6.1], Frank
+reconnects with him. Frank has been working as a secure transit specialist
+for Phalanx — a secure logistics and transit corporation (fictionalized
+G4S / Loomis-type CIT and logistics security provider) — and tells Chris
+the company has openings in the St. Louis, MO area, where Chris lives.
+Frank feels the job is the right fit for someone trusted, skilled, and
+dependable like Chris, and offers to put in a referral with his superiors.
+
+Chris is hired and paired with Frank on shift — same van, many jobs
+scheduled together — most likely because superiors chose to leverage
+rather than discount their shared military service history and
+familiarity-based efficiency and coordination.
+
+---------------------------------------------------------------------------------
+3. CALLSIGNS (LOCKED, handoff §3.3)
+---------------------------------------------------------------------------------
+- Armored vehicle: Rhino 6
+- Frank:  Rhino 6-1
+- Chris:  Rhino 6-2
+
+---------------------------------------------------------------------------------
+4. DEATH (LOCKED, handoff §3.3 / §7.1)
+---------------------------------------------------------------------------------
+Frank is on shift with Chris on the day their armored van is attacked.
+Their failed initial evasion culminates in a daytime firefight with
+several gunmen in a downtown St. Louis intersection. The van is disabled
+and no longer mobile. Frank covers Chris's movement to a better engagement
+position and is shot and killed in the process.
+
+Chris's dispatch call: "This is Rhino 6, dispatch, we got a guy down
+at..." + location. Aftermath: Frank is bagged; a paramedic checks Chris
+with a penlight; Chris — Phalanx uniform, no cap, no weapons — repeatedly
+fails to reach Carrie Nowitzki by phone, and gets up anyway. Frank's death
+triggers Chris's resolve to find Carrie and sets up NO CONTACT.
+
+---------------------------------------------------------------------------------
+5. CHARACTER TEXTURE & WEAPON LEGACY (LOCKED, Stefan 2026-07-18)
+---------------------------------------------------------------------------------
+- Frank was a huge fan of 80s and 90s Hollywood action movies, including
+  the Terminator films.
+- He owned a DynaCal 870 Tac-14 TACS II Custom pump shotgun on which he
+  hand-wrote "¡HASTA LA VISTA!" in white permanent marker — his T2 nod.
+- Some time after his death, someone from Frank's circle (working idea:
+  a shooting-range buddy) contacts Chris and gives him the shotgun to
+  honor Frank's wishes: Frank had wanted Chris to have it at some point,
+  and that time was as good as ever now that he's gone.
+- Full weapon spec + motif notes: HASTA_LA_VISTA_Build_Spec_rev1.txt.
+- Suggested (not locked): seed Frank's marker handwriting once before the
+  handoff (van-cab note, doodled range target collectible) so the player
+  recognizes the hand.
+
+---------------------------------------------------------------------------------
+6. OPEN FLAGS
+---------------------------------------------------------------------------------
+6.1  REDLINE vs DEADLINE ENGINEERING — CONFLICT. Stefan's thread canon
+     (2026-07-18, voice-to-text) says "Redline Engineering"; the ChatGPT
+     handoff (same date) says "Deadline Engineering" with a falling-out
+     with Philip Brand. One is a transcription artifact. ADJUDICATE
+     BEFORE next compendium pass; purge the loser on sight.
+6.2  Range-buddy intermediary: identity/name TBD.
+6.3  Carrie Nowitzki relationship status at campaign start ("former (?)
+     love interest") — open per Stefan's own question mark; handoff
+     defines her as key relational/emotional thread without fixing
+     romantic status.
+6.4  Frank's service branch/unit specifics: undefined beyond "same or
+     adjacent military circle" as Chris.
+
+=================================================================================
+END OF PROFILE — rev1
+=================================================================================

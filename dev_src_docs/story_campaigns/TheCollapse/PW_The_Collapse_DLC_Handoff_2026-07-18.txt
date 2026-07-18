@@ -1,0 +1,1369 @@
+PROJECT WARRIORS: THE COLLAPSE DLC
+PLAIN-TEXT HANDOFF FOR FOLLOW-UP DEVELOPMENT
+Prepared: 2026-07-18
+Status: Working handoff / continuity-preservation packet
+Scope: Consolidates The Collapse DLC plot, character, setting, gameplay, and design decisions developed in the current thread. Includes locked decisions, working locks, provisional material, and open questions so another LLM can continue development without accidental retcons or canon drift.
+
+===============================================================================
+0. HOW TO USE THIS HANDOFF
+===============================================================================
+
+This document is intended as a self-contained context packet for another LLM or writer continuing development of Project Warriors: The Collapse.
+
+Use it to:
+- continue mission-sheet development;
+- preserve character/faction continuity;
+- avoid spelling/name retcons;
+- keep Act II/III/IV escalation coherent;
+- keep radiological/standoff-weapon material story-facing and non-instructional;
+- identify which pieces are locked, working, provisional, or still unresolved.
+
+Important source-governance rule:
+- This is a handoff/intake document, not a permanent canon source page until it is reviewed and landed in the repository source structure.
+- Stable material should eventually be promoted into a dedicated source page under dev_src_docs or equivalent, then reflected in the relevant Project Warriors working compendium.
+- Do not treat this handoff as overriding older canon unless the override is explicitly noted here.
+
+Status labels:
+- LOCKED: accepted in the thread and should be preserved unless intentionally revised.
+- WORKING LOCK: strong current direction, safe to build on, but not fully source-landed.
+- PROVISIONAL: promising but still open to revision.
+- OPEN / VERIFY: do not silently treat as final; confirm before source landing.
+
+Safety / story rule:
+- All radiological weapon, contamination, disposal, and standoff-weapon material must stay non-instructional.
+- Focus on story consequences, human harm, secrecy, logistics, concealment, institutional failure, and moral stakes.
+- Do not write usable technical details about weapon construction, assembly, handling, casing, detonation, shielding, or dispersal.
+
+===============================================================================
+1. PROJECT / DLC IDENTITY
+===============================================================================
+
+Title:
+- Project Warriors: The Collapse
+- Treated as a DLC / standalone campaign thread within the Project Warriors universe.
+
+High-level identity:
+- A post-PANDORA / collapse-era St. Louis campaign centered on Christopher "Chris" Carl Haywood, Dr. Carrie Nowitzki, Rivergate University Hospital, and a hardline FFSM campaign to undermine public trust in aid, medicine, hospital systems, and federal/state relief.
+- The DLC begins in grounded local survival and medical-logistics crisis, then escalates into a hidden radiological plot, false remediation fronts, public aid targeting, and a catastrophic Act IV endgame.
+
+Core theme:
+- "Systems do not fail all at once; they rot link by link."
+- The campaign is not only about violent attacks. It is about how paperwork, routing, fuel, refrigeration, transfer authority, public-health language, and aid-site visibility become weapons.
+- Chris and Carrie repeatedly achieve partial but meaningful survivals, not clean victories.
+
+Primary protagonist:
+- Christopher "Chris" Carl Haywood.
+- Former military / practical mechanical background.
+- Former Deadline Engineering employee; leaves after falling out with Philip Brand.
+- Later joins Phalanx Secure Transit Services through Frank Manola.
+- Gameplay role: practical logistics, movement, secure transit, route reading, evidence preservation, physical intervention, combat under duress.
+- He is not a doctor, CBRN specialist, or omniscient investigator.
+
+Primary medical anchor:
+- Dr. Carrie Nowitzki.
+- Chris's search for Carrie drives the early campaign.
+- Carrie reads the medical truth; Chris reads the movement/logistics truth.
+- Their partnership is strongest when each solves a different half of the same problem.
+
+Primary hospital anchor:
+- In-game fictionalized hospital: Rivergate University Hospital.
+- Real-world geographic/functional model: Saint Louis University Hospital / SLU medical campus around South Grand / Vista.
+- Function: central trauma / academic medical anchor for the mid-campaign medical spine.
+
+Primary geographic spine:
+- St. Louis, Missouri.
+- South Grand / Vista functions as the hospital-side throat of a mid-campaign medical corridor.
+- Later Act III locations widen to Forest Park / Wilson Ave hotel model, Lambert-adjacent / Berkeley freight-industrial areas, and north-county service-yard logistics spaces.
+- Act IV ultimately foreshadows and later pays off the Gateway Arch underground visitor-center / former Museum of Westward Expansion complex.
+
+===============================================================================
+2. CANON / CONTINUITY GUARDRAILS
+===============================================================================
+
+The following details are especially important to avoid accidental retcons:
+
+Names and spellings:
+- Free Frontier State of Missouri, not Misery.
+- FFSM, not FFSN or FSA unless an earlier typo is being quoted.
+- Jacobs & Reed Sanitation Services, not Jacobson Reed.
+- Hazzard, with two z's.
+- Former Staywell Suites Forest Park, no en dash between Suites and Forest Park.
+- Ross Kramer, missing adult/procurement-chain figure.
+- Frank Manola, not Frankie as final preferred usage.
+- Glennford Miles Brunner, title Marshal.
+- Leland Benjamin Turner, rank Lieutenant Marshal.
+- Jonah Mercer Wade is preferred over Vale because of surname overlap with Graham Vale.
+- "Superintendent officer" is the working rank for Turner's key subordinates below lieutenant marshal.
+- Skye Watkins / Sky Watkins spelling remains to be verified; "Skye" is the current cleaner form.
+
+Radiological / weapon content:
+- Keep all technical radiological and weapon material abstract.
+- The story may show sealed rooms, warning signage, contaminated-site anxiety, cleanup/disposal paperwork, protective behavior, and offscreen technical involvement.
+- Do not show or explain construction steps, materials specifications, operational assembly, detonation mechanics, or technical optimization.
+
+Timeline caution:
+- Use broad timing unless the current source package has been refreshed.
+- Current broader Project Warriors canon supersedes older PANDORA dates where conflicts exist.
+- Do not inject exact dates into The Collapse unless deliberately anchored.
+
+Act boundaries:
+- Act III is Invisible Fire.
+- Act IV is They All Fall Down.
+- HOT ZONE / QUARANTINE LINE / DECAY CHAIN / BLACKOUT MEDICINE are Act III escalation and foreshadowing missions.
+- Gateway Arch final van confrontation does not happen until the end of Act IV.
+- Act III should seed the Gateway Arch remediation clue but not resolve it.
+
+Gameplay tone:
+- The Collapse should not become a pure action shooter escalation.
+- Many missions should be investigations, stealth, logistics, or infrastructure survival first, with combat arriving as a consequence or late pressure.
+- Chris often wins by keeping evidence visible, preserving one support link, or buying time.
+
+===============================================================================
+3. MAIN CHARACTER SET
+===============================================================================
+
+3.1 CHRISTOPHER "CHRIS" CARL HAYWOOD
+Status: WORKING LOCK
+
+Role:
+- Sole playable protagonist for The Collapse.
+- Former military / practical mechanic/logistics skill set.
+- Former Deadline Engineering employee.
+- Leaves Deadline after a falling out with Philip Brand.
+- Receives a call from Frank Manola, an old military contact from the same or adjacent unit/base, who is now working for Phalanx Secure Transit Services.
+- Chris joins Phalanx as an armored van driver / secure transit specialist during the company's St. Louis metro expansion.
+
+Early-game Phalanx identity:
+- Black or Multicam Black light tactical outfit.
+- Plate carrier / tactical vest with Phalanx logo on back.
+- Front admin panel may carry SECURITY / TRANSIT / similar role patch.
+- Baseball cap with Phalanx logo.
+- One-ear headset with boom mic.
+- Work weapons: SIG P226 and MCX Rattler.
+- Phalanx-issued radio later turned in; Chris has his own personal radio in his vehicle lockbox.
+
+Post-Phalanx transition:
+- After the armored run goes bad and Frank dies, Chris transitions from company security identity into the collapse-war identity.
+- He may retain partial Phalanx carryover gear, but removes logos/patches to avoid misidentification.
+- Mixed civilian clothing from truck stash + practical armor layer.
+- Weapons are acquired progressively, not all handed to him immediately.
+- Gradual transition into main-game loadout with LAST RESORT and SAVING GRACE is preferred.
+
+Core dramatic identity:
+- Chris is not a superhero or specialist in everything.
+- He is good at movement, route logic, chain of custody, mechanical spaces, vehicle/cargo interpretation, and keeping things moving.
+- He reads when paperwork and physical reality do not match.
+- He is brave but must often choose stealth, evidence, and survival over direct combat.
+
+3.2 DR. CARRIE NOWITZKI
+Status: WORKING LOCK / spelling should be preserved unless later source corrects it
+
+Role:
+- Medical anchor and Chris's key relational/emotional thread.
+- Chris searches for her in early Act I.
+- She begins as a person Chris is trying to find, then becomes the medical truth-reader of the campaign.
+- Carrie's medical authority opens doors Chris cannot open; Chris's logistics/movement instincts reveal lies Carrie cannot see from charts alone.
+
+Functional dynamic:
+- Chris sees movement lies: trucks, manifests, access states, routes, physical custody.
+- Carrie sees medical lies: impossible symptoms, wrong classifications, bad transfers, clinical impossibilities.
+- Their strongest scenes are not speeches but compressed decisions under pressure.
+
+Important line / concept:
+- At the end of TRANSFER AUTHORITY, Carrie sees the pediatric anomaly and says: "This doesn't happen in a house."
+- In ADVERSE EVENT, after confirming the pattern: "This is radiation exposure."
+- Tone should be quiet, devastating, not melodramatic.
+
+3.3 FRANK MANOLA
+Status: LOCKED as early-game Phalanx partner
+
+Role:
+- Former same/adjacent military circle as Chris.
+- Works for Phalanx and brings Chris in.
+- Early mission partner / teammate to Chris.
+- Dies in the bad Phalanx armored run, creating the clean break from Phalanx security phase into Chris's main campaign identity.
+
+Callsign structure:
+- Armored vehicle call sign: Rhino 6.
+- Frank: Rhino 6-1.
+- Chris: Rhino 6-2.
+
+Frank death setup:
+- Van is under attack and no longer mobile.
+- Frank covers Chris so Chris can move into a better position to engage attackers.
+- Frank is killed in the process.
+- Chris calls in: "This is Rhino 6, dispatch, we got a guy down at..." followed by location.
+- Afterward, medical personnel arrive; Frank is bagged; a paramedic checks Chris with a penlight.
+- Chris is sitting in Phalanx uniform, no cap, no weapons, possibly still radio until it is turned in.
+- He has tried and failed to reach Carrie by phone more than once.
+- The run may have originally been headed toward Carrie's hospital, making his next move emotionally and logistically natural.
+- He gets up anyway after the call fails again, setting up NO CONTACT.
+
+3.4 GLENNFORD MILES BRUNNER
+Status: WORKING LOCK
+
+Role:
+- One of the two major contenders at the top of FFSM.
+- Title: Marshal.
+- Former U.S. Army Green Beret.
+- Mature, professional, strategic, leadership-minded.
+- Origin: Madison, Wisconsin or adjacent; Port Washington, Wisconsin is preferred / viable.
+- Represents the more organized, warfare-minded, quasi-legitimate FFSM power-building lane.
+- Wants sustainable FFSM territorial administration under a "new American frontier" logic.
+- Not morally clean; he is more disciplined and strategic than Turner, not a hero.
+
+Relationship to Turner:
+- Rival / counterweight.
+- Brunner does not want rampant destruction, but shares some broader FFSM goals around replacing federal authority and building territorial power.
+- Turner sees his own hardline actions as misunderstood and possibly as a way to create a better strategic field for Brunner's more methodical power structure.
+
+3.5 LELAND BENJAMIN TURNER
+Status: WORKING LOCK
+
+Role:
+- FFSM hardliner / accelerationist leader.
+- Rank: Lieutenant Marshal.
+- Origin: Easton / Eastown, Pennsylvania — spelling/location needs verification before final source landing.
+- Believes the system is beyond saving and that the world must be burned down and remade.
+- Wants to suppress civilian trust in federal/state aid, break the ability of authorities to operate, and convert chaos into FFSM territorial power.
+- Does not necessarily think of himself as a hardliner. He sees himself as doing what Brunner is too restrained to do.
+- Confronted in Act IV finale at the van containing the radiological device.
+
+3.6 TURNER'S SUPERINTENDENT OFFICERS
+Status: PROVISIONAL / names need spelling confirmation
+
+Rank:
+- Superintendent officer.
+- Sits below lieutenant marshal in FFSM internal paramilitary hierarchy.
+- Used for Turner's key subordinates.
+
+Current working members:
+- Shutter / Sutter — spelling and full name need verification.
+- Jonah Mercer Wade — formerly considered Jonah Mercer Vale; Wade preferred due to potential conflict with Graham Vale from Game 3.
+- Skye Watkins / Sky Watkins — spelling needs final confirmation. "Skye" preferred for now.
+
+3.7 SKYE WATKINS
+Status: WORKING LOCK / spelling pending
+
+Role:
+- Former Air Force drone pilot.
+- Lost access to most of the systems/devices she had operated as part of her job due to PANDORA / automated-system collapse.
+- Operator linked to the later standoff-weapon strike against the mobile hospital / aid center.
+- Should not be revealed through a direct boss fight.
+- Reveal should be indirect: Turner has a secure tablet at the van; after he is dealt with, the tablet shows an exchange to Skye:
+  "Main package is conditioned, bravo. Up to you now, Sky."
+- Skye rationalizes the strike as aimed at military/security presence protecting aid, not "directly" at patients, though the destruction and terror are the intended effect.
+
+3.8 ROSS KRAMER
+Status: LOCKED for Act III opener
+
+Role:
+- Adult household/procurement-chain figure tied to the pediatric radiation exposure.
+- Missing by the time Chris begins EXPOSURE WINDOW.
+- Connected to the FFSM hardline procurement chain.
+- Normally uses the disused service garage as a temporary stash/staging point.
+- The one-time move to his own home/garage/shed is an emergency fallback because outside parties had legitimate scheduled access to the disused service garage.
+- Likely exposed himself, but avoids hospital care because treatment would expose his role and trigger questioning.
+- The children are harmed because the dangerous chain enters an ordinary domestic space.
+
+3.9 HAZZARD
+Status: LOCKED spelling / WORKING LOCK role
+
+Spelling:
+- Hazzard, two z's.
+
+Role:
+- Elite consultant/advisor from higher up the NAF chain of command.
+- Not merely a local FFSM asset.
+- Brought into Turner's hardline plot because local FFSM hardliners are ambitious but not first-rate enough to manage the full radiological plot confidently.
+- Appears in HOT ZONE in a non-combat observation/cameo context.
+- Chris should not engage him. Engagement would be unsurvivable and mission-breaking.
+- Hazzard should be observed advising on risk, discipline, feasibility, exposure consequences, containment theater, and operational sloppiness.
+- He must not provide usable technical details about radiological weapon design, casing, assembly, detonation, or optimization.
+
+Possible ambiguity:
+- Hazzard's exact moral/legal status can remain somewhat ambiguous at first: consultant, coercive elite node, compromised advisor, or higher-network overseer.
+- What matters in HOT ZONE is that his presence proves the St. Louis plot is connected to higher NAF architecture, not only local FFSM hardliners.
+
+===============================================================================
+4. FACTIONS / ORGANIZATIONS / FRONTS
+===============================================================================
+
+4.1 PHALANX SECURE TRANSIT SERVICES
+Status: WORKING LOCK
+
+Function:
+- Chris's early-game employer.
+- Armored/security transit company expanding operations in St. Louis.
+- Frank Manola works there and brings Chris in.
+- Provides Chris's initial professional gear identity.
+
+Visual identity:
+- Logo developed from user sketch: minimalist Phalanx mark.
+- Chris's cap, vest back patch, and possibly front admin patch show Phalanx branding.
+- Phalanx property such as radio is returned after the bad run; Chris transitions to personal gear.
+
+4.2 FREE FRONTIER STATE OF MISSOURI / FFSM
+Status: LOCKED core faction
+
+Function:
+- Main local antagonist faction in The Collapse.
+- Built around Missouri territorial power, post-collapse authority struggle, anti-federal ideology, and hardline violence.
+- Contains internal split between Brunner's strategic quasi-administration lane and Turner's accelerationist/hardline lane.
+
+Rationale for targeting aid:
+- FFSM hardliners see federal/state aid as a tool of control.
+- Their ideological claim: aid buys collaboration from vulnerable civilians; aid sites come with military/security presence; the government failed to protect people when they were most vulnerable, then uses relief to reclaim authority.
+- Hardliners aim to make civilians afraid to accept aid or collaborate with relief systems.
+- This logic is crucial to Act IV.
+
+4.3 JACOBS & REED SANITATION SERVICES
+Status: LOCKED front company
+
+Function:
+- FFSM/Jacobs & Reed front for false remediation, fumigation, hazard-control, and access denial.
+- Used in HOT ZONE, QUARANTINE LINE, DECAY CHAIN, and foreshadowed for the final delivery vehicle.
+- Livery appears on vans and cargo vehicles.
+- Should look administratively boring and plausible, not villain-branded.
+
+Cover story:
+- At Former Staywell Suites Forest Park, Jacobs & Reed operates under bedbug epidemic fumigation/remediation cover.
+- Initial public explanation: major bedbug infestation.
+- Extended justification: further infestation discovered, requiring prolonged treatment, sealed rooms, covered windows, repeated crew visits, and denial of entry.
+- Paid for through FFSM-controlled finances via appropriate intermediaries/personnel to avoid suspicion.
+- At warehouse/logistics sites, cover expands to fumigation plus "contamination-risk remediation" or storage-site safety.
+
+Long-game payoff:
+- The same Jacobs & Reed van livery should later reappear on the final delivery vehicle / radiological-device van near the Gateway Arch area.
+- In HOT ZONE, players see Jacobs & Reed as environmental cover.
+- Later, they retroactively realize the delivery system was visible before the plot was fully understood.
+
+4.4 NAF / HIGHER EXTREMIST ARCHITECTURE
+Status: WORKING LOCK
+
+Role in The Collapse:
+- Hazzard represents higher NAF-linked expertise touching Turner's FFSM plot.
+- This expands the plot beyond a purely local hardliner operation.
+- Do not overexplain NAF hierarchy in this DLC unless needed; use Hazzard as a frightening trace of the larger structure.
+
+===============================================================================
+5. EQUIPMENT / WEAPON / INTERACTION DECISIONS
+===============================================================================
+
+5.1 CHRIS EARLY PHALANX WEAPONS
+Status: WORKING LOCK
+
+- SIG P226.
+- MCX Rattler.
+- Used during Phalanx armored-van phase.
+
+5.2 MAIN CHRIS WEAPONS
+Status: WORKING LOCK
+
+LAST RESORT:
+- Chris's main rifle identity after the early campaign transition.
+- Previously treated as an M16A4 / ACOG-style practical rifle.
+- Has key hero use in COLD CHAIN finale: stopping the escaping truck by firing through the rear cab window at the driver.
+- The beat must be framed as urgent interdiction of critical stolen medical supplies/equipment, not a stylish execution.
+
+SAVING GRACE:
+- Chris's pistol / vulnerable sidearm identity.
+- Used in early vulnerable close-range moments, especially in NO CONTACT.
+- The weapon's narrative meaning is survival when Chris is under-equipped.
+
+5.3 MAT-77 TRACKER
+Status: LOCKED visual / WORKING LOCK implementation
+
+Visual:
+- Compact rugged magnetic tracking device.
+- All-metal, military-adjacent, not sci-fi.
+- Silver-gray metal frame with olive-drab central body/plate.
+- Twist-lock style clasp / carabiner-like opening.
+- Lower eyelet/opening for alternate attachment.
+- Magnetic rear disc/pad.
+- Visible fasteners.
+- No consumer branding.
+- Stencil-like code marking: MAT-77 plus a short secondary code such as A3 or K2.
+- This visual was generated and accepted as the correct tracker look.
+
+Gameplay implementation:
+- Treat as equipment, not a weapon.
+- Preferred hybrid:
+  1. Brief first-person inspect when acquired/introduced.
+  2. Contextual PLACE TRACKER prompt at valid vehicle placement points.
+- Avoid putting it into the same weapon wheel as firearms unless the game has a dedicated equipment wheel.
+- QUARANTINE LINE key use: place the tracker on the main Jacobs & Reed cargo vehicle.
+- After placement, confirm signal, then exit stealthily.
+
+5.4 UI / PROMPT NOTES
+Status: WORKING LOCK
+
+Prompt language examples:
+- PLACE TRACKER.
+- TRACKER ACTIVE.
+- EXIT THE WAREHOUSE.
+- OBSERVE HAZZARD.
+- DO NOT ENGAGE.
+- MOVE BEFORE YOU'RE SEEN.
+- BREAK LINE OF SIGHT.
+- SECURE CASE FILES.
+- CONFIRM ORIGIN ADDRESS.
+- BLOCK UNAUTHORIZED TRANSFER.
+
+Prompt style should be restrained and practical. Narrative weight should come from placement, not overwriting.
+
+===============================================================================
+6. CAMPAIGN STRUCTURE OVERVIEW
+===============================================================================
+
+The exact full Act I ladder was developed earlier and may need source verification, but the current thread has heavily developed Act II onward.
+
+Working act structure:
+- Act I: Chris's Phalanx break, search for Carrie, early medical/logistics crisis.
+- Act II: Critical Path.
+- Act III: Invisible Fire.
+- Act IV: They All Fall Down.
+
+Known / developed mission stack:
+Act I / early campaign:
+- Phalanx armored run / Frank death / transition setup.
+- NO CONTACT.
+- CONTROLLED SUBSTANCES.
+- ADMISSION.
+- CRITICAL PATH opening / transition into Act II.
+
+Act II — Critical Path:
+- BOTTLENECK.
+- LIFELINE.
+- COLD CHAIN.
+- TRANSFER AUTHORITY.
+- ADVERSE EVENT.
+
+Act III — Invisible Fire:
+- EXPOSURE WINDOW.
+- HOT ZONE.
+- QUARANTINE LINE.
+- DECAY CHAIN.
+- BLACKOUT MEDICINE.
+
+Act IV — They All Fall Down:
+- AID AND COMFORT.
+- MARKED SAFE.
+- Additional Act IV middle missions TBD.
+- Final Gateway Arch / Jacobs & Reed van / Turner confrontation / standoff-weapon strike endgame.
+
+===============================================================================
+7. ACT I / EARLY CAMPAIGN SUMMARY
+===============================================================================
+
+Status: PARTIAL / earlier full ladder may need retrieval and source landing
+
+7.1 PHALANX ARMORED RUN / FRANK DEATH
+Status: WORKING LOCK
+
+Function:
+- Establish Chris's post-Deadline, pre-main-loadout life.
+- Establish Phalanx, Frank Manola, and Rhino 6 identity.
+- Kill Frank in a grounded way that creates a clean emotional and mechanical break.
+- Push Chris toward Carrie.
+
+Key beats:
+- Frank and Chris are on a Phalanx secure transit run, possibly already headed toward or near Carrie's hospital.
+- Attack disables van / makes it no longer mobile.
+- Frank covers Chris and is killed.
+- Chris calls dispatch using Rhino 6.
+- Aftermath: Frank bagged, paramedic checks Chris, Chris tries to call Carrie and fails.
+- Chris gets up anyway, setting up NO CONTACT.
+
+7.2 NO CONTACT
+Status: WORKING LOCK
+
+Function:
+- Chris, now partially stripped from Phalanx context, heads to Carrie's last known location.
+- He has partial gear, limited weapons, and not full main loadout yet.
+- Player feels vulnerability.
+
+Known beats:
+- Chris moves through unstable urban St. Louis.
+- Close-range pistol-only encounter with SAVING GRACE.
+- Checkpoint can be talked around / avoided / slipped past.
+- A "Saving Grace" vulnerability beat: Chris hides from a heavily armed pickup/gang/white supremacist-type group carrying captives; he cannot engage and must wait them out.
+- Chris reaches hospital and learns Carrie has moved with a response team.
+- Mission end line / card involved "last known location found" for Carrie / Nowitzki; exact phrasing needs cleanup.
+
+7.3 CARRIE SEARCH LOGIC / CONTROLLED SUBSTANCES / ADMISSION
+Status: WORKING LOCK / needs consolidated mission-sheet source
+
+Carrie search logic:
+- Chris first arrives at Carrie's last known hospital location.
+- He learns she moved forward with a response team to a mass-casualty event caused by an active shooter attack at a mall in St. Louis.
+- She then went to a medical center close to the event to help with initial triage.
+- Chris follows that chain.
+
+Controlled Substances:
+- Built around medical supply-chain stress after the mass-casualty event.
+- Responders are short on painkillers, blood products, antibiotics, and sedation stock.
+- "Controlled substances" logic should be practical and medical, not crime-thriller only.
+- Chris becomes involved because his logistics/security skills can help get critical medical materials where they need to go.
+
+Admission:
+- Pronounced and titled as ADMISSION.
+- Should mix opening a bay or transfer corridor, escorting supplies/staff, and facilitating movement/evacuation of wounded or sick people through an unstable urban area.
+- This begins the corridor / hospital movement logic that later evolves into Critical Path.
+
+===============================================================================
+8. ACT II — CRITICAL PATH
+===============================================================================
+
+Act II identity:
+- Hospital corridor and medical logistics act.
+- The story is about routes, transfers, supply corridors, cold chain, and administrative authority.
+- Escalates from physical blockage to paperwork manipulation to an impossible medical anomaly.
+
+8.1 BOTTLENECK
+Status: PARTIAL / needs dedicated writeup from earlier thread
+
+Function:
+- Establish the medical corridor as a vital but fragile route.
+- Identity shift: Chris is no longer just looking for Carrie; he is becoming someone who keeps medical movement alive.
+- Should involve route obstruction, corridor narrowing, convoy pressure, or hospital transfer choke point.
+
+Known design principle:
+- Route opening matters because it creates a usable corridor not only for Carrie/Chris but for other factions and state/federal-adjacent actors.
+- This draws attention and later conflict.
+
+8.2 LIFELINE
+Status: WORKING LOCK
+
+Function:
+- Proves the corridor matters enough that different actors start fighting over it.
+
+Mission logic:
+- Chris and convoy encounter a state authority roadblock / prep point.
+- They negotiate their way around it or gain passage.
+- State personnel warn about a local armed group / FFSM-adjacent threat.
+- Convoy is intercepted by local armed group hostile to the corridor because they see it as collaboration or as a resource route they cannot control.
+- Firefight occurs.
+- Convoy continues with light but meaningful damage: delays, hit tire, shot-out window, slowed movement.
+- The most meaningful damage is time lost for patients and medical supply flow.
+
+8.3 COLD CHAIN
+Status: LOCKED / detailed working mission sheet exists in thread
+
+Setting:
+- Hospital cold-storage annex, likely in or near Rivergate campus.
+- Visually contrasts with the previous louder corridor mission.
+- Cold rooms, storage areas, utility spaces, basement/mechanical areas, loading/service exterior.
+
+Core problem:
+- The cold-chain support system is failing due to sabotage/theft attempt, not random failure.
+- FFSM-adjacent team entered to steal critical refrigerated medical supplies/equipment and possibly lift cold-chain components for their own use.
+- Their tampering causes or worsens the power/cooling problem.
+
+Sabotage signs:
+- Old disused office before basement access.
+- Corporate false ceiling tiles fallen or smashed.
+- Service/roof access hatch recently used.
+- No obvious ladder.
+- Fire door emergency alarm disabled.
+- Fire door wedged open or latch jammed so it does not secure.
+- Refrigeration panel / support equipment tampered with.
+- These details show deliberate access manipulation, not random outage.
+
+Enemy presence:
+- Around six FFSM-adjacent sabotage/theft actors.
+- Not all at once; staged in narrow utility spaces, basement corners, maintenance cages, loading/service areas, emergency-lit corridors.
+
+Gameplay:
+- Chris follows pipes/signs/service logic, locates power/cooling issue, tries to stabilize.
+- Mission is part environmental navigation, part stealth/combat.
+- Chris is isolated and must fight in constrained hospital infrastructure spaces.
+
+Final beat:
+- Final pair realizes full equipment theft plan is blown.
+- They retreat with minimal stolen cold-chain/medical items toward a truck.
+- Objective: STOP THE EXTRACTION.
+- Chris pursues through service/loading exterior.
+- If they reach the cab, Chris has a narrow last-shot opportunity with LAST RESORT through the rear cab window at the driver.
+- Frame as urgent interdiction of critical stolen medical supplies/equipment, not a stylish kill-shot.
+- End state: stock recovered; priority cold chain preserved; losses remain unavoidable.
+
+8.4 TRANSFER AUTHORITY
+Status: LOCKED / detailed working mission sheet exists in thread
+
+Immediate handoff:
+- Follows almost immediately after COLD CHAIN.
+- Same broader hospital campus, not a separate city location.
+- Chris returns with recovered stock.
+- Staff realize the stolen/targeted items were too specific.
+- Carrie compares stock against transfer needs and routing board.
+- Key line: "They didn't guess."
+- Chris follows Carrie to Transfer Authority / patient transfer-control / bed-control / movement-records wing.
+
+Setting:
+- Same Rivergate/SLU-modeled hospital campus.
+- Older admin or records wing.
+- Emergency transfer-control room, bed-control office, ambulance dispatch, paper backup records, pharmacy allocation desk, state/federal liaison table.
+- Visually opposite COLD CHAIN: whiteboards, phones, printers, paper, failing screens, arguments, office fluorescence.
+
+Gameplay structure:
+- Chris and Carrie enter together.
+- Carrie uses medical authority to access the main transfer-control room.
+- They split.
+- Carrie stays in the main medical/admin space, questions staff, reads medical logic.
+- Chris searches back corridors, paper records, dispatch binders, physical logs.
+- They communicate by radio/phone.
+
+Core discovery:
+- Transfer authority layer is compromised:
+  - forged or misused authorizations;
+  - bad routing inserts;
+  - manipulated paper backups;
+  - old credentials;
+  - supplies redirected;
+  - patients marked as moved when they were not;
+  - cold-storage releases linked to pending transfers.
+
+Action beat:
+- Chris sees suspicious person pulling selected hard-copy backups from archive stacks.
+- Person may be fake maintenance / staff / security.
+- Player prompt: CONFRONT.
+- Suspect shoves Chris in scripted beat and runs down a long aisle between tall, deep archive shelves.
+- Chris chases, catches him before he exits, tackles/slams him into end wall or shelf end-cap.
+- Suspect reveals limited information or none; files are the real proof.
+- Avoid major gunfight; this is physical investigative tension.
+
+Ending:
+- Recovered packet leads Carrie to two anomalous pediatric cases.
+- Girl, age 8; boy, age 13.
+- Ordinary suburban home origin.
+- Symptoms/classification wrong.
+- Carrie: "This doesn't happen in a house."
+- Directly hands to ADVERSE EVENT.
+
+8.5 ADVERSE EVENT
+Status: LOCKED / detailed working mission sheet exists in thread
+
+Function:
+- Act II closer.
+- Medical anomaly reveal.
+- Bridge from Critical Path into Invisible Fire.
+
+Opening:
+- Direct continuation from TRANSFER AUTHORITY.
+- Mission card: ADVERSE EVENT.
+- Player control returns as Chris follows Carrie from Transfer Authority to pediatric observation / isolation workaround.
+- Objective: FOLLOW DR. NOWITZKI.
+
+Setting:
+- Pediatric observation / ICU-adjacent overflow / isolation workaround within Rivergate.
+- Intake desk, family waiting alcove, charting room, EMS handoff station.
+- Tone: quieter, worse, less action-oriented.
+
+Core case:
+- Two pediatric patients:
+  - girl, 8;
+  - boy, 13.
+- Origin: ordinary St. Louis-area suburban home.
+- Condition: radiation exposure / poisoning where such exposure should be impossible.
+- Initially flattened/misfiled as generic toxicity or similar.
+- Carrie confirms the body evidence; Chris confirms movement/origin evidence.
+
+Chris's objectives:
+1. Follow Carrie.
+2. Wait and observe outside treatment.
+3. Read/inspect case files.
+4. Secure selected case packet properly.
+5. Confirm origin address through EMS/intake/family/witness.
+6. Identify missing adult household contact.
+7. Block unauthorized transfer / reclassification attempt.
+8. Preserve case visibility.
+
+Securing files:
+- Chris should not casually stuff a chart in his pocket.
+- He secures a case packet in a clear chart envelope / document sleeve / sealed bag / waterproof folder.
+- Carrie or trusted nurse witnesses it.
+- He carries it in plate carrier admin pouch or go-bag.
+- The packet includes intake summaries, transfer printout, EMS handoff, origin address, classification change, suspicious routing note.
+
+Missing adult:
+- Adult household/procurement-chain figure connected to the exposure.
+- Later named Ross Kramer.
+- He likely handled/transported/stored faulty shielded containers or plot-related material.
+- He was likely mildly/moderately exposed but avoids hospital care because he would be questioned.
+- The children suffer more visible harm because the dangerous chain entered their home/garage/shed environment.
+
+End:
+- Carrie confirms radiation exposure.
+- Mission-end tags:
+  CASE FILE SECURED
+  SUBURBAN ORIGIN CONFIRMED
+  RADIATION EXPOSURE IDENTIFIED
+  EXPOSURE WINDOW OPEN
+
+===============================================================================
+9. ACT III — INVISIBLE FIRE
+===============================================================================
+
+Act III identity:
+- Invisible contamination, false hazard-control, access manipulation, and logistics decay.
+- The story widens from one domestic exposure to a city-scale false remediation / public-health / cargo-control architecture.
+- Act III should foreshadow but not resolve the Gateway Arch final confrontation.
+
+9.1 EXPOSURE WINDOW
+Status: LOCKED working structure
+
+Function:
+- Act III opener.
+- Follow the pediatric exposure back to the ordinary suburban home.
+- Prove the home was consequence site, not source.
+- Track Ross Kramer to the normal staging point.
+
+Opening:
+- Chris goes to the suburban Kramer home while Carrie remains at Rivergate.
+- Objective likely: INVESTIGATE ORIGIN ADDRESS / FIND ROSS KRAMER.
+
+First location: Kramer home
+Atmosphere:
+- Ordinary suburban house.
+- Children's toys/bikes/domestic details.
+- Garage/shed space recently disturbed.
+- Rushed cleanup.
+- Missing adult's personal items gone.
+- Domestic wrongness, not technical exposition.
+
+Core logistics refinement:
+- Ross Kramer normally used a disused service garage as the temporary stash/staging point.
+- He moved material to his own garage/shed only because the disused garage had legitimate scheduled access by outsiders.
+- This makes the pediatric exposure a consequence of panic/concealment under pressure, not arbitrary stupidity.
+
+Second location: disused service garage
+Function:
+- Kramer's normal stash/staging site.
+- Small FFSM-associated procurement/staging hideout, not a full base.
+- Contains evidence connecting Kramer to dangerous material chain and hardline logistics.
+- Confirms home = consequence; service garage = system.
+- Evidence points to a further controlled urban site, leading to HOT ZONE.
+
+End:
+- Kramer still missing.
+- Procurement chain identified.
+- Route marker points toward Former Staywell Suites Forest Park / controlled hotel site.
+
+9.2 HOT ZONE
+Status: LOCKED / detailed working mission sheet exists
+
+Setting:
+- Former Staywell Suites Forest Park.
+- No en dash.
+- Fictionalized shuttered hotel modeled on real Forest Park-area hotel site at 5915 Wilson Ave, St. Louis.
+- Close enough to city to count as urban, remote/peripheral enough to hide activity.
+- Near highway/commercial/transit/light-industrial infrastructure.
+- Large parking lot, service access, back-of-house corridors.
+
+Atmosphere:
+- Liminal, uncanny, claustrophobic, winding.
+- Antiquated rooms.
+- Summer heat.
+- Pool-view spaces with jarring industrial gray landscape behind a tall wooden garden fence, around 10 feet.
+- Twin Peaks-like wrongness in a mundane American hotel.
+- Stale air, covered windows, old carpet, dead vending/lobby spaces, shuttered restaurant/cafeteria, weird hotel geometry.
+
+Cover operation:
+- Jacobs & Reed Sanitation Services.
+- Bedbug epidemic / extended infestation remediation cover.
+- Fumigation explains:
+  - sealed rooms;
+  - taped thresholds;
+  - covered windows;
+  - plastic sheeting;
+  - restricted access;
+  - vans/equipment cases;
+  - protective/service attire;
+  - denial of entry.
+- Paid via FFSM-controlled finances/intermediaries.
+
+Mission function:
+- Chris infiltrates/observes, documents the site as a controlled node.
+- The hotel is not only a false exclusion site; it is part of the real device / hazardous payload chain.
+- "Hot zone" ambiguity: real hazard, false theater, or both.
+
+Hazzard cameo:
+- Hazzard observed in sealed-off wing / conference-room area.
+- Non-combat, non-interactable.
+- Objective: OBSERVE HAZZARD / DO NOT ENGAGE.
+- Hazzard is elite consultant from higher NAF chain, advising Turner's people because they lack specialist confidence.
+- He should discuss discipline, sloppiness, risk, exposure consequences, feasibility, and operational survival, not technical assembly.
+
+Specific observation staging:
+- Interior side corridor near reception / restaurant-cafeteria / elevator / multi-story guest-wing junction.
+- Parallel underused hallway connects to two conference rooms.
+- Larger conference room has side-hall access door cracked open but blocked from inside by crates/tables/chairs/heavy obstruction.
+- Gap between sliding/panel doors gives fixed viewport.
+- Player cannot move obstruction.
+- Chris observes through gap.
+
+Exit cue:
+- Nearby keycard/code-only door in adjacent hallway toward smaller conference room/bar area.
+- Card reader beeps as someone opens from other side.
+- Audio-first warning cue.
+- Guard/worker will enter short hallway and round corner.
+- Objective: MOVE BEFORE YOU'RE SEEN / BREAK LINE OF SIGHT.
+
+Evidence / payoff:
+- Document Jacobs & Reed site function.
+- Recover or photograph extended remediation paperwork.
+- Seed Gateway Arch underground museum/visitor-center remediation line item.
+- Do not resolve Arch plot yet.
+
+End:
+- HOT ZONE confirms Jacobs & Reed front, Hazzard's higher-network connection, and planned/possible expansion to civic/symbolic sites.
+
+9.3 QUARANTINE LINE
+Status: LOCKED working structure
+
+Setting:
+- Fictional Lambert-adjacent warehouse / small industrial building.
+- In-game location could be North Lambert Freight Annex / Berkeley Cargo Storage Park.
+- Modeled on small airport-orbit industrial property like 11445 Warnen Rd, Maryland Heights, MO 63043 / approx. 9,504 sq ft.
+- Place in Berkeley / North Lambert airport-adjacent industrial zone, not inside active airport security.
+
+Function:
+- Shows Jacobs & Reed false remediation logic scaling from hidden hotel to logistics perimeter.
+- Proves "quarantine" / remediation line is being used to control cargo movement.
+
+Visual:
+- Warehouse with loading docks, roll-up doors, fenced yard, cargo racks, offices, side rooms, access booth, vans, forklifts, pallet stacks.
+- Jacobs & Reed vans/livery.
+- Warning signage, taped/sealed doors, covered windows.
+- Looks official enough to work.
+
+Gameplay:
+- Chris covertly enters the quarantine building while avoiding detection.
+- This is forbidden-entry stealth infiltration, not assault.
+- Enter via service/emergency access, exterior cover, loading-yard route, side door, or similar.
+
+Stacked breach trigger:
+- Chris enters through access point that leaves subtle detectable irregularity: door ajar, disturbed tape, emergency door wedged, latch state wrong, etc.
+- CCTV/security first spots unidentified movement between pallet stacks in loading bay/cargo staging area.
+- Staff/security later finds physical irregularity and confirms breach risk.
+- Radio chatter sharpens; people become more active.
+- Cargo movement accelerates.
+
+Cargo:
+- Main Jacobs & Reed cargo vehicle carries concealed suspicious cargo.
+- It may later be revealed as the standoff weapon system used in the aid-center/mobile-hospital strike.
+- Chris does not know this at the time.
+- Clues: odd geometry, special handling, heavy security, route avoidance, escort cars, mismatch with remediation paperwork.
+
+Chris's objectives:
+- Document cargo movement with phone/camera.
+- Photograph manifests, line-control paperwork, cargo handling.
+- Optional intel: shipping manifest / route sheet / remediation packet.
+- Plant MAT-77 tracker on main Jacobs & Reed cargo vehicle.
+- Confirm tracker signal.
+- Stealthily exit warehouse.
+
+Combat:
+- Possible if exposed, but discouraged.
+- Opponents have superior numbers and are at least equally well armed.
+- Stealth exit is intended success path.
+- Combat is fail-forward / emergency survival path, not optimal.
+
+End tags:
+- CARGO MOVEMENT DOCUMENTED.
+- JACOBS & REED VEHICLE TAGGED.
+- QUARANTINE LINE BREACHED.
+
+9.4 DECAY CHAIN
+Status: WORKING LOCK / needs revised full sheet after latest change
+
+Important revision:
+- Earlier version had Chris clearing a Rivergate generator-fuel support run.
+- Revised direction: Chris initially appears to face a choice between generator fuel and critical life-saving medication supply, but the generator fuel option becomes non-viable.
+- Fuel truck may have already moved, be too heavily secured, or be unreachable without blowing the mission/tracker trail.
+- Chris's achievable intervention becomes freeing/releasing the critical medication supply.
+- The unresolved diesel/generator-fuel shortage becomes the leading cause of BLACKOUT MEDICINE.
+
+Immediate handoff:
+- Starts after QUARANTINE LINE.
+- Chris follows MAT-77 tracker signal on Jacobs & Reed cargo vehicle.
+- Not a high-speed chase; surveillance/tracker-follow.
+- Goal is preserve tracker trail, document wider chain, and intervene in one medical support link.
+
+Setting:
+- North County Emergency Service Yard / municipal-contractor relay yard / emergency logistics cut-out.
+- St. Louis north county / airport-edge logistics belt.
+- Mixed legitimate emergency support and FFSM/Jacobs & Reed manipulation.
+- Chain-link fence, floodlights, guard shack, utility trucks, generator trailers, service vehicles, storage sheds, office trailers, dispatch board, fuel/service trucks, portable light towers.
+- Jacobs & Reed vehicles blend with legitimate responders.
+
+Core discovery:
+- Jacobs & Reed/FFSM are not just hiding dangerous cargo; they are rotting medical response systems:
+  - fuel delayed;
+  - supplies held;
+  - false remediation holds;
+  - hospital routes manipulated;
+  - transfer access corrupted;
+  - public-health language weaponized.
+
+Objectives:
+1. Follow tracker signal.
+2. Observe relay site.
+3. Identify tagged Jacobs & Reed vehicle.
+4. Document cargo handoff / cargo movement.
+5. Search dispatch trailer / board.
+6. Discover multiple manipulated support holds.
+7. Generator fuel support run becomes non-viable.
+8. Clear / release critical medication supply.
+9. Preserve tracker trail.
+10. Exit relay site.
+
+One achievable intervention:
+- Chris releases critical life-saving medications held under false remediation/authority.
+- He sends proof/vehicle identity to Carrie or hospital logistics.
+- This preserves medical continuity but does not solve the generator fuel shortage.
+
+Suggested dialogue:
+Chris: "Fuel truck's gone."
+Carrie: "Gone where?"
+Chris: "Out of reach."
+Beat.
+Carrie: "Then find me the meds."
+Chris: "That won't keep the lights on."
+Carrie: "No. But it keeps people alive until they go out."
+
+End:
+- Tracker trail preserved.
+- Medication supply freed.
+- Diesel/fuel shortage unresolved.
+- Rivergate blackout pressure becomes inevitable.
+- Leads directly to BLACKOUT MEDICINE.
+
+9.5 BLACKOUT MEDICINE
+Status: LOCKED working direction / Act III finale
+
+Function:
+- Act III finale.
+- Rivergate enters power-shortage crisis due primarily to generator fuel scarcity caused by supply-line disruption.
+- Chris saved medications in DECAY CHAIN, but could not solve fuel.
+- The hospital must survive through blackout pressure.
+
+Atmospheric identity:
+- Brownout becoming blackout, not sudden disaster-movie blackout.
+- Emergency lights, flashlights, battery lamps, monitor glow, red exit signs.
+- Doctors and nurses treating patients by improvised light.
+- Weakening air handling; heat and stale air matter.
+- Cold-storage alarms, pharmacy triage, improvised cold chain.
+- Hospital feels wounded, not haunted.
+
+Mission spine:
+1. Chris arrives at Rivergate under failing power.
+2. Reach Carrie.
+3. Deliver/route medication supply saved in DECAY CHAIN.
+4. Move through dark service/back-of-house quarters.
+5. Locate and interact with physical utility endpoints needed for improvised cold chain:
+   - switchboxes;
+   - breakers;
+   - service panels;
+   - valves;
+   - routing controls;
+   - refrigeration support endpoints.
+6. Early mission is atmospheric and tense but mostly non-combat.
+7. Blackout conditions draw looters/gangs into hospital public/service areas.
+8. Chris is diverted to secure threatened part of complex and/or recover supplies needed for final cold-chain stabilization.
+9. Limited claustrophobic combat in dark hospital spaces/courtyards.
+10. Final endpoint stabilized.
+11. Cold chain holds long enough; hospital survives the night.
+
+Early gameplay:
+- Chris walks through quiet dark quarters that feel unsecure.
+- Secures or checks spaces while locating two or three utility endpoints.
+- Threat implied by darkness, open doors, sounds, not immediate enemies.
+
+Looter escalation:
+- Citywide blackout also affects surrounding area.
+- Hospital food storage, public areas, waiting rooms, long-stay/accommodation areas, service corridors become targets.
+- Looters are mixed:
+  - gang-adjacent;
+  - desperate civilians;
+  - some armed;
+  - some unarmed but dangerous in numbers.
+- Not a horde.
+- Combat should feel kill-house-like in atmosphere but irregular and unpredictable.
+- Spaces: cramped interior corridors, food service area, storage, service courtyard with vehicles/boxes/containers.
+
+Cold-chain continuity:
+- Improvised cold-chain measures are a major objective structure.
+- Visual elements:
+  - repurposed coolers;
+  - insulated carts;
+  - emergency chilled packs;
+  - labels like USE FIRST / TRANSFER NOW / DO NOT WARM;
+  - pharmacy staff triaging viable stock;
+  - one functioning refrigeration point treated like a lifeline.
+
+End:
+- Cold chain and critical hospital function stabilized enough.
+- Possible hint: small diesel/generator-fuel relief may be coming if not intercepted/diverted.
+- Not resolved in this mission.
+- Mission closes Act III by proving Chris and Carrie kept Rivergate alive, not safe.
+- Transition: Act IV moves from hospital survival to aid infrastructure becoming the target.
+
+===============================================================================
+10. ACT IV — THEY ALL FALL DOWN
+===============================================================================
+
+Act IV identity:
+- Public aid returns visibly, and Turner's hardliners convert aid into a target.
+- The story moves from hidden logistics decay to open punishment of relief and collaboration.
+- Final Act should converge Jacobs & Reed, radiological device, standoff weapon strike, Skye Watkins, Turner, and Gateway Arch.
+
+10.1 AID AND COMFORT
+Status: WORKING LOCK / Act IV opener
+
+Function:
+- Act IV opener after BLACKOUT MEDICINE.
+- Chris helps secure a relief convoy carrying limited generator fuel, medical supplies, batteries, and support gear for Rivergate / public aid staging.
+- Convoy gets targeted, revealing the hardliner pattern.
+
+Premise:
+- Rivergate barely survives the night.
+- A small relief convoy is located / rerouted / cleared.
+- It carries limited diesel/generator fuel and support supplies.
+- Chris helps secure / verify / guide it.
+
+Targeting:
+- The convoy is attacked or probed.
+- The attackers' objective is not simply theft:
+  - identify aid vehicles;
+  - photograph plates/faces;
+  - mark route timings;
+  - damage one vehicle;
+  - steal paperwork;
+  - plant marker/tracker;
+  - test response/security posture;
+  - force convoy toward predictable aid staging.
+- This reveals that public aid itself is now being marked as enemy infrastructure.
+
+Theme:
+- "Aid and comfort" double meaning:
+  - actual relief;
+  - ideological/legal accusation of collaboration/betrayal.
+- FFSM hardliners see aid as federal/state control.
+
+End:
+- Convoy survives / partial relief arrives.
+- Chris realizes the real objective was reconnaissance/target marking for a larger strike.
+- Leads into MARKED SAFE.
+
+10.2 MARKED SAFE
+Status: WORKING LOCK / next Act IV mission title accepted
+
+Function:
+- Chris hunts the people who marked/targeted the relief convoy and newly arrived aid infrastructure.
+- "Marked safe" is inverted: safe-status logic becomes target-selection logic.
+
+Mission identity:
+- Hunter/counter-hunt.
+- Chris tracks convoy spotters / marker team / Jacobs & Reed-linked crew / FFSM-adjacent cell.
+- He follows the people preparing to strike aid that has arrived.
+
+Targets Chris follows:
+- spotters who photographed convoy vehicles;
+- person who tagged route signage;
+- driver who tailed convoy;
+- Jacobs & Reed crew member who copied aid-staging info;
+- FFSM-adjacent cell preparing access/timing data;
+- someone moving between aid-site observation and cleanup/disposal location.
+
+Radiological disposal / cleanup trail:
+- This mission should begin surfacing the dirty aftermath of the radiological chain.
+- Keep non-instructional.
+- Use:
+  - disposal manifests;
+  - sealed waste/cleanup evidence;
+  - contaminated-site anxiety;
+  - cleaned van;
+  - suspicious protective gear disposal;
+  - Jacobs & Reed cover movements;
+  - operational panic/discipline failures.
+- Chris realizes aid-targeting and the radiological cleanup chain are converging.
+
+End direction:
+- Aid site has been marked for a larger attack.
+- Actual form of strike still not fully known.
+- Could seed Skye / strike-window language indirectly.
+- Possible line:
+  Chris: "They're not trying to scare people away from aid anymore."
+  Carrie: "Then what are they doing?"
+  Chris: "Marking where it gathers."
+
+10.3 ACT IV ENDGAME / FINAL CONFRONTATION
+Status: WORKING LOCK for broad shape; needs full mission ladder
+
+Gateway Arch / underground visitor-center setup:
+- The Gateway Arch underground museum/visitor-center complex / former Museum of Westward Expansion becomes a major endgame location.
+- In campaign continuity, it was closed during the occupation, used as a civilian shelter, lightly damaged, and not yet reopened.
+- This makes Jacobs & Reed remediation cover plausible.
+- HOT ZONE seeds paperwork for extended remediation operation there.
+- Act IV pays it off.
+
+Final van confrontation:
+- Takes place on the concrete pad that is effectively the roof of the underground visitor center/access point.
+- Staircase nearby.
+- Van parked in a van-accessible spot.
+- The van carries the radiological explosive device.
+- Turner is at or near the van.
+- Lead-up may involve nearby light rail station, adjacent downtown buildings, or park/art-space geography, but exact route remains open.
+
+Hardliner confrontation:
+- There may be three primary hardliner figures in final sequence.
+- Chris may first face two subordinates partway through the final mission.
+- Turner confrontation occurs at the van.
+- This should be morally mixed: Turner articulates points about the system being broken, but his actions are monstrous.
+
+Tablet reveal:
+- After Turner is dealt with, Chris recovers/sees a secure tablet.
+- Message:
+  "Main package is conditioned, bravo. Up to you now, Sky."
+- This reveals that another strike is already in motion.
+- Skye Watkins is not fought here.
+
+Standoff weapon strike:
+- Separate from the stopped radiological device.
+- Target: mobile hospital / aid center complex.
+- Preferred setting: huge mall parking lot rather than stadium, because it has enough space for mobile hospital infrastructure and keeps civilian-aid focus.
+- Weapon: small standoff weapon, not overly specified.
+- The player should not need exact technical identification.
+- Strike is devastating, shock-and-awe, and may be the end-of-campaign gut punch / setup for future story.
+- Carrie's phone call to Chris after van confrontation tells him about the strike.
+- This is not necessarily "second bomb detonates"; refined direction is standoff weapon strike on aid/mobile hospital site.
+
+Skye's rationale:
+- She tells herself she is hitting the military/security presence protecting the aid site, not directly targeting patients.
+- But the destruction and terror are the intended effect.
+- This fits FFSM hardliner logic: make people fear aid, stop showing up, stop collaborating.
+
+Open structural question:
+- Exact number and names of final pre-Turner hardliner combatants.
+- Whether Shutter/Sutter and Wade are both confronted before Turner.
+- How much Brunner appears or is referenced in the finale.
+- Whether Skye is only revealed via tablet or gets later DLC/story presence.
+
+===============================================================================
+11. KEY SETTING DOSSIERS
+===============================================================================
+
+11.1 RIVERGATE UNIVERSITY HOSPITAL
+Status: WORKING LOCK
+
+Model:
+- Fictionalized SLU/SSM hospital campus.
+- South Grand / Vista as medical corridor throat.
+
+Use:
+- Carrie's base / hospital network.
+- ADMISSION, BOTTLENECK, COLD CHAIN, TRANSFER AUTHORITY, ADVERSE EVENT, BLACKOUT MEDICINE.
+- Central Level I trauma / academic medical anchor in function, but fictionalized to avoid exact real-world hospital layout constraints.
+
+Hospital-side corridor:
+- South Grand / Vista works as central hospital-side artery / corridor throat.
+- Ambulance access, supply movement, service entrances, transfer routing, and cold-chain support converge there.
+
+11.2 KRAMER SUBURBAN HOME
+Status: WORKING LOCK
+
+Function:
+- Domestic exposure site.
+- Ordinary home, garage/shed.
+- Emotional horror: radiological plot entered family space.
+- Avoid technical details.
+- The home is consequence, not system.
+
+11.3 DISUSED SERVICE GARAGE
+Status: LOCKED
+
+Function:
+- Kramer's normal staging/stash point.
+- Small, practical, low-level procurement-chain location.
+- Not a full FFSM base.
+- Vehicle access, tool benches, roll-up doors, old lifts/inspection pit, storage cages, back office.
+- Chris can read the space through mechanical/logistics instincts.
+
+11.4 FORMER STAYWELL SUITES FOREST PARK
+Status: LOCKED
+
+Name:
+- Former Staywell Suites Forest Park.
+- No en dash.
+
+Model:
+- Real Forest Park-area hotel site at 5915 Wilson Ave, St. Louis.
+- User has visited and wants the real uncanny feel represented.
+
+Key atmosphere:
+- Liminal, uncanny, dated, winding.
+- Side corridors, restaurant/cafeteria, reception, elevator, conference rooms, bar route.
+- Pool-view rooms with gray industrial backdrop behind tall wooden garden fence.
+- Summer heat and stale hotel air.
+- Jacobs & Reed fumigation/bedbug cover.
+
+11.5 NORTH LAMBERT / BERKELEY FREIGHT ANNEX
+Status: WORKING LOCK
+
+Function:
+- QUARANTINE LINE setting.
+- Small warehouse/logistics site.
+- Airport-adjacent but not active airport security.
+- Jacobs & Reed false remediation line controls cargo movement.
+
+11.6 NORTH COUNTY EMERGENCY SERVICE YARD
+Status: WORKING LOCK / may need naming pass
+
+Function:
+- DECAY CHAIN relay site.
+- Mixed legitimate emergency logistics and FFSM/Jacobs & Reed manipulation.
+- Should not feel like a villain lair.
+- Reveals the decay chain inside real civic survival infrastructure.
+
+11.7 GATEWAY ARCH UNDERGROUND VISITOR CENTER / FORMER MUSEUM OF WESTWARD EXPANSION
+Status: WORKING LOCK for Act IV endgame
+
+Function:
+- Final radiological-device van confrontation location.
+- In continuity: closed during occupation, used as civilian shelter, lightly damaged, not reopened.
+- Jacobs & Reed remediation paperwork seeded in HOT ZONE.
+- Final confrontation occurs at the concrete pad/roof of underground visitor center/access point.
+
+===============================================================================
+12. THEMATIC / DESIGN THROUGH-LINES
+===============================================================================
+
+12.1 PARTIAL VICTORY
+Status: LOCKED tonal rule
+
+Most missions should end with a real but incomplete win:
+- COLD CHAIN: stock recovered, losses remain.
+- TRANSFER AUTHORITY: papers secured, conspiracy grows.
+- ADVERSE EVENT: case visible, exposure confirmed.
+- EXPOSURE WINDOW: home explained, Kramer missing.
+- HOT ZONE: node documented, Hazzard not stopped.
+- QUARANTINE LINE: vehicle tagged, cargo still leaves.
+- DECAY CHAIN: meds released, fuel still lost.
+- BLACKOUT MEDICINE: hospital survives the night, not safe.
+- AID AND COMFORT: convoy survives, aid becomes target.
+- MARKED SAFE: targeters exposed, larger strike still coming.
+
+12.2 PAPERWORK AS VIOLENCE
+Status: LOCKED theme
+
+Transfer orders, remediation notices, fuel holds, manifests, quarantine lines, and dispatch boards are not background flavor.
+They are instruments of violence.
+A patient moved on paper can vanish.
+A fuel truck delayed by paperwork can darken a hospital.
+A "fumigation" line can hide a weapon chain.
+A "marked safe" aid site can become a target list.
+
+12.3 CHRIS / CARRIE COMPLEMENT
+Status: LOCKED character dynamic
+
+Chris:
+- chain of custody;
+- transit and route logic;
+- vehicles/cargo;
+- physical infrastructure;
+- practical movement;
+- security and combat.
+
+Carrie:
+- clinical truth;
+- patient priority;
+- medical plausibility;
+- triage decisions;
+- keeping cases visible inside the system;
+- saying when a medical category is a lie.
+
+Together:
+- They make hidden violence legible.
+
+12.4 NON-INSTRUCTIONAL HAZARD STORYTELLING
+Status: LOCKED safety/story rule
+
+Use:
+- symptoms, medical fear, sealed rooms, overcautious behavior, records, cleanup, false front, missing people, guilt, and concealment.
+
+Do not use:
+- construction steps, device diagrams, weapon optimization, detailed shielding failure mechanics, assembly instructions, or operational detonation sequences.
+
+12.5 COMBAT AS CONSEQUENCE
+Status: LOCKED design principle
+
+Combat should often arrive because:
+- the player stayed too long;
+- the site detected an irregularity;
+- evidence is being removed;
+- looters exploit blackout;
+- a convoy is probed;
+- a stealth objective fails forward.
+
+It should rarely be the initial purpose of a mission.
+
+===============================================================================
+13. OPEN QUESTIONS / FORWARD DEVELOPMENT NEEDS
+===============================================================================
+
+High-priority open items:
+1. Full Act I mission ladder should be reconciled into a durable source page.
+2. NO CONTACT, CONTROLLED SUBSTANCES, ADMISSION, BOTTLENECK need final mission sheets if not already written elsewhere.
+3. DECAY CHAIN full mission sheet must be revised to reflect medication intervention instead of generator-fuel intervention.
+4. BLACKOUT MEDICINE full mission sheet should be written from the latest cold-chain + looter breach structure.
+5. AID AND COMFORT mission sheet needs full playable breakdown.
+6. MARKED SAFE mission sheet needs full playable breakdown.
+7. Full Act IV mission ladder between MARKED SAFE and final Gateway Arch confrontation remains incomplete.
+8. Final hardliner subordinate names and spellings need confirmation:
+   - Shutter vs Sutter;
+   - Skye/Sky;
+   - any missing first names.
+9. Leland Turner origin spelling/location needs verification: Easton vs Eastown, Pennsylvania.
+10. Ross Kramer household relationship to the two children should be chosen:
+   - father;
+   - stepfather;
+   - uncle;
+   - mother's boyfriend/relative;
+   - other household/procurement-chain contact.
+11. Determine how much Brunner appears directly versus indirectly in Act IV.
+12. Decide whether Hazzard's exact status is clarified in this DLC or left as a live thread.
+13. Decide whether MAT-77 tracker enters equipment wheel or only contextual prompt after one intro inspect; current preferred compromise is inspect once + contextual placement.
+14. Decide exact location of mobile hospital / aid center struck by standoff weapon:
+   - current preferred: huge mall parking lot.
+15. Decide exact end-state of the standoff strike:
+   - complete devastation;
+   - partial strike;
+   - sets up future post-apocalyptic/separate DLC thread.
+
+Continuity risks:
+- Do not accidentally move final Gateway Arch confrontation into Act III.
+- Do not make HOT ZONE reveal too much technical detail.
+- Do not make Hazzard a boss fight.
+- Do not make Jacobs & Reed obviously villainous too early.
+- Do not let Chris prevent both meds and fuel failure in DECAY CHAIN; the unresolved fuel shortage is needed for BLACKOUT MEDICINE.
+- Do not turn BLACKOUT MEDICINE into a horde mission; looters are a limited, grounded escalation.
+- Do not make AID AND COMFORT the final attack; it should reveal target logic and lead to MARKED SAFE.
+- Do not let the radiological device and standoff weapon collapse into the same event unless intentionally redesigned. Current structure: Chris stops the radiological van/device attempt, but the standoff weapon strike still occurs elsewhere.
+
+===============================================================================
+14. SHORT CONTINUITY RECAP FOR ANOTHER LLM
+===============================================================================
+
+Chris Haywood begins The Collapse as a Phalanx secure transit specialist in St. Louis. His partner Frank Manola is killed during a bad armored run, breaking Chris out of his company-security identity and sending him searching for Dr. Carrie Nowitzki. Carrie has moved through emergency response and hospital triage work after a mass-casualty event, pulling Chris into a widening medical-logistics crisis.
+
+Act II, Critical Path, centers on Rivergate University Hospital and the medical corridor: Chris helps keep transfers and supplies moving, fights through contested routes, preserves cold-chain supplies after sabotage/theft, and uncovers manipulated transfer authority. The act ends with Carrie finding two pediatric cases that should not exist: an 8-year-old girl and 13-year-old boy from an ordinary suburban home with radiation exposure.
+
+Act III, Invisible Fire, follows that impossible case outward. Ross Kramer, a household/procurement-chain contact, temporarily moved dangerous material into his home because his normal disused service-garage stash point was unavailable. The children were exposed. Chris tracks the chain from Kramer's home to the service garage, then to Former Staywell Suites Forest Park, a shuttered hotel used by Jacobs & Reed Sanitation Services as a bedbug/fumigation front. There Chris observes Hazzard, a higher NAF-linked advisor, but cannot engage. The Jacobs & Reed chain expands through a false quarantine line at a Lambert/Berkeley warehouse, where Chris tags a suspicious cargo vehicle with a MAT-77 tracker. He follows it in DECAY CHAIN, documents a larger logistics-collapse network, saves critical medications, but loses the chance to fix the generator-fuel shortage. BLACKOUT MEDICINE closes Act III with Rivergate in blackout; Chris stabilizes improvised cold-chain measures and fights limited looter incursions, keeping the hospital alive for one more night.
+
+Act IV, They All Fall Down, begins with AID AND COMFORT: relief and generator-fuel support are finally moving, but the convoy is targeted, revealing the hardliner pattern that aid itself is now the target. MARKED SAFE follows Chris hunting the people who marked the aid infrastructure, while radiological cleanup/disposal traces and Jacobs & Reed movements begin converging toward the endgame. The final act should eventually pay off the earlier Gateway Arch remediation clue: a Jacobs & Reed van at the underground visitor-center/concrete pad, Turner's radiological device plot, and a separate standoff-weapon strike against a mobile hospital/aid site initiated by Skye Watkins. Chris may stop one catastrophe, but not all of them.
+
+===============================================================================
+END OF HANDOFF
+===============================================================================
