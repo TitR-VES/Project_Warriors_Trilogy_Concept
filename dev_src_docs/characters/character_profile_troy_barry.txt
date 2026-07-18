@@ -1,0 +1,49 @@
+=================================================================================
+PROJECT WARRIORS — CHARACTER STUB: TROY "STONE" BARRY
+rev1 — created 2026-07-18 (Stefan lock, Claude thread)
+=================================================================================
+Campaign:   The Collapse DLC
+Status:     Identity, business, and function LOCKED (Stefan 2026-07-18).
+            Fuller character pass pending (voice, appearance, scene detail).
+
+---------------------------------------------------------------------------------
+1. IDENTITY
+---------------------------------------------------------------------------------
+- Troy "Stone" Barry.
+- Former military; friend of Frank Manola from that world; Frank's
+  shooting-range buddy.
+- Skilled gunsmith.
+- Operator of Stone Cold Shooter's — fictional firing range and gun shop,
+  1100 Antire Rd, Eureka, MO 63025, United States (real-address model per
+  established series practice; business is fictional).
+
+---------------------------------------------------------------------------------
+2. NARRATIVE FUNCTION
+---------------------------------------------------------------------------------
+- Seeded BEFORE Frank's death via the handwriting-seed note: Frank hands
+  Chris (preferred variant) a hand-written note with Troy's name, the
+  shop address, and phone number, inviting Chris to call Troy and maybe
+  drop by sometime for some range time. (Full mechanics:
+  HASTA_LA_VISTA_Build_Spec_rev1.txt §2.1 / §4.5.)
+- Payoff: some time after Frank's death, Troy contacts Chris and hands
+  over Frank's personal DynaCal 870 Tac-14 TACS II Custom ("¡HASTA LA
+  VISTA!") to honor Frank's wishes — Frank had wanted Chris to have it
+  at some point, and that time was as good as ever now that he's gone.
+- Design payoff: because the note named Troy, the player may already
+  half-know the name when a stranger calls Chris months later. Felt, not
+  stated.
+
+---------------------------------------------------------------------------------
+3. OPEN FLAGS
+---------------------------------------------------------------------------------
+3.1  Full character pass: appearance, voice, register, scene staging of
+     the handoff.
+3.2  Whether Troy has any presence beyond the handoff (gunsmith services,
+     upgrade vendor logic for the shotgun's foregrip upgrade path, later
+     story touchpoints) — TBD.
+3.3  Whether Frank's habitual range time at Stone Cold Shooter's gets any
+     additional environmental seeding (e.g., collectible photo).
+
+=================================================================================
+END OF STUB — rev1
+=================================================================================
