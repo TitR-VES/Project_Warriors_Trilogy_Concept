@@ -22,9 +22,8 @@ Usage rule: "Frank Manola" — never "Frankie" as final preferred usage
 ---------------------------------------------------------------------------------
 2. BACKSTORY & RECRUITMENT (LOCKED, Stefan 2026-07-18)
 ---------------------------------------------------------------------------------
-After Chris quits his fabricator job at Redline Engineering [OPEN FLAG:
-handoff document says "Deadline Engineering" — see Section 6.1], Frank
-reconnects with him. Frank has been working as a secure transit specialist
+After Chris quits his fabricator job at Redline Engineering (LOCKED,
+Stefan 2026-07-18 — see Section 6.1), Frank reconnects with him. Frank has been working as a secure transit specialist
 for Phalanx — a secure logistics and transit corporation (fictionalized
 G4S / Loomis-type CIT and logistics security provider) — and tells Chris
 the company has openings in the St. Louis, MO area, where Chris lives.
@@ -77,11 +76,14 @@ triggers Chris's resolve to find Carrie and sets up NO CONTACT.
 ---------------------------------------------------------------------------------
 6. OPEN FLAGS
 ---------------------------------------------------------------------------------
-6.1  REDLINE vs DEADLINE ENGINEERING — CONFLICT. Stefan's thread canon
-     (2026-07-18, voice-to-text) says "Redline Engineering"; the ChatGPT
-     handoff (same date) says "Deadline Engineering" with a falling-out
-     with Philip Brand. One is a transcription artifact. ADJUDICATE
-     BEFORE next compendium pass; purge the loser on sight.
+6.1  REDLINE vs DEADLINE ENGINEERING — ADJUDICATED & RESOLVED (Stefan,
+     2026-07-18): the correct name is REDLINE ENGINEERING. "Deadline
+     Engineering" (as appears in the ChatGPT handoff packet, incl. the
+     Philip Brand falling-out passage) is a transcription artifact.
+     PURGE "Deadline Engineering" ON SIGHT in all materials. The intake
+     copy of the handoff retains the error verbatim as historical record,
+     with an editor's note at its head. The Philip Brand falling-out
+     itself is unaffected and carries over to Redline.
 6.2  Range-buddy intermediary: identity/name TBD.
 6.3  Carrie Nowitzki relationship status at campaign start ("former (?)
      love interest") — open per Stefan's own question mark; handoff
