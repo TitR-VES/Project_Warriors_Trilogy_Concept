@@ -1,13 +1,15 @@
 =================================================================================
-PROJECT WARRIORS — CHARACTER STUB: TROY "STONE" BARRY
-rev1 — created 2026-07-18 (Stefan lock, Claude thread)
+PROJECT WARRIORS — CHARACTER PROFILE: TROY "STONE" BARRY
+rev2 — 2026-07-18 (adds procurement role + specialty ammo; supersedes rev1)
 =================================================================================
 Campaign:   The Collapse DLC
-Status:     Identity, business, and function LOCKED (Stefan 2026-07-18).
-            Fuller character pass pending (voice, appearance, scene detail).
+Status:     Identity, business, handoff function LOCKED (rev1, Stefan
+            2026-07-18). Procurement role: WORKING LOCK (Stefan
+            2026-07-18, this rev). Dragon's breath ammo: LOCKED concept,
+            implementation flags open. Fuller character pass pending.
 
 ---------------------------------------------------------------------------------
-1. IDENTITY
+1. IDENTITY (LOCKED, rev1)
 ---------------------------------------------------------------------------------
 - Troy "Stone" Barry.
 - Former military; friend of Frank Manola from that world; Frank's
@@ -18,7 +20,7 @@ Status:     Identity, business, and function LOCKED (Stefan 2026-07-18).
   established series practice; business is fictional).
 
 ---------------------------------------------------------------------------------
-2. NARRATIVE FUNCTION
+2. NARRATIVE FUNCTION (LOCKED, rev1)
 ---------------------------------------------------------------------------------
 - Seeded BEFORE Frank's death via the handwriting-seed note: Frank hands
   Chris (preferred variant) a hand-written note with Troy's name, the
@@ -27,23 +29,97 @@ Status:     Identity, business, and function LOCKED (Stefan 2026-07-18).
   HASTA_LA_VISTA_Build_Spec_rev1.txt §2.1 / §4.5.)
 - Payoff: some time after Frank's death, Troy contacts Chris and hands
   over Frank's personal DynaCal 870 Tac-14 TACS II Custom ("¡HASTA LA
-  VISTA!") to honor Frank's wishes — Frank had wanted Chris to have it
-  at some point, and that time was as good as ever now that he's gone.
+  VISTA!") to honor Frank's wishes.
 - Design payoff: because the note named Troy, the player may already
   half-know the name when a stranger calls Chris months later. Felt, not
   stated.
 
 ---------------------------------------------------------------------------------
-3. OPEN FLAGS
+3. RECURRING PROCUREMENT ROLE (WORKING LOCK, Stefan 2026-07-18)
 ---------------------------------------------------------------------------------
-3.1  Full character pass: appearance, voice, register, scene staging of
-     the handoff.
-3.2  Whether Troy has any presence beyond the handoff (gunsmith services,
-     upgrade vendor logic for the shotgun's foregrip upgrade path, later
-     story touchpoints) — TBD.
-3.3  Whether Frank's habitual range time at Stone Cold Shooter's gets any
-     additional environmental seeding (e.g., collectible photo).
+Troy becomes a recurring contact through whom the player can acquire more
+advanced, highly effective weaponry and ammunition — items ranging from
+borderline to fully illegal in most US states — earned as rewards for
+achievements or completion of optional objectives in the preceding or
+upcoming mission.
+
+Design guardrails (adjudicated in thread, 2026-07-18):
+3.1  CURATED, NOT A SHOP. No scrolling inventory, no prices, no loot
+     economy. Each qualifying optional objective / achievement unlocks
+     ONE specific named item at Troy's bench. He built it; he hands it
+     only to someone Frank vouched for. Trust as currency, not scrip.
+     Frank's endorsement extending posthumously IS the characterization.
+3.2  LEGALITY AS QUIET WORLDBUILDING. Troy knows exactly which authority
+     would object to each item and no longer believes that authority
+     exists. At most ONE dry beat of dialogue on this — never a speech.
+     He is not an arms dealer; he is a craftsman whose customer base
+     collapsed along with the state.
+3.3  FOREGRIP UPGRADE PATH: the ¡HASTA LA VISTA! foregrip
+     upgrade/removal path (base spec) is serviced at Troy's bench —
+     mechanic-as-storytelling; no menu abstraction. (Direction agreed;
+     fold into build spec at v2.2 pass.)
+3.4  GEOGRAPHY (OPEN — see 5.2): Eureka is 30+ minutes SW of the
+     campaign's STL corridor spine, and travel plausibility degrades as
+     acts escalate.
+
+---------------------------------------------------------------------------------
+4. SPECIALTY AMMO — 12GA DRAGON'S BREATH (LOCKED concept, Stefan
+   2026-07-18)
+---------------------------------------------------------------------------------
+Among the specialty ammunition Troy can at some point provide: 12ga
+dragon's breath shells (incendiary), for ¡HASTA LA VISTA! — the only
+12ga platform in Chris's roster; the ammo deepens the named build's
+identity rather than diluting the loadout.
+
+Gameplay identity:
+- Devastating at close quarters, especially in tight indoor spaces.
+- HAZARDOUS BY DESIGN: risks igniting flammable or explosive materials
+  and containers downrange from the shooter.
+- This is "combat as consequence" made literal: in collapse-era St.
+  Louis, the spaces Chris fights through are often the spaces he is
+  trying to protect. The most devastating CQB option carries the risk of
+  destroying the supplies, fuel, or structures the mission exists to
+  save. Tactical decision, not power fantasy.
+
+Real-world register note (non-instructional): dragon's breath is the
+type specimen of Troy's procurement lane — federally available but
+banned in multiple US states. Story-facing only; no technical detail.
+
+Naming conventions (LOCKED, Stefan 2026-07-18):
+- Diegetic / spoken: Troy refers to them as "incendiary shells" —
+  craftsman's plain register, no theatrical branding.
+- Weapon inspect UI overlay ammo-type identifier: 12GA DB
+- "Dragon's breath" remains the design-document term; whether it ever
+  appears diegetically (e.g., stenciled box label) is left open.
+
+Implementation dependency (FLAG): the risk mechanic requires ignitable
+environmental objects with fire-propagation logic in the relevant
+levels. This is a level-design/system commitment, not just an ammo
+entry. Scope which missions support it before locking availability
+timing.
+
+---------------------------------------------------------------------------------
+5. OPEN FLAGS
+---------------------------------------------------------------------------------
+5.1  Full character pass: appearance, voice, register, handoff scene
+     staging.
+5.2  Geography model for recurring access (pick one):
+     (a) range visit as early/mid-campaign beat; later procurement via
+         dead-drop or delivery into the corridor; or
+     (b) Troy's reachability degrades act by act as a quiet index of the
+         collapse.
+5.3  Unlock table: which items map to which achievements / optional
+     objectives, and in which missions ("preceding or upcoming" rule).
+5.4  Dragon's breath availability timing + which levels carry the
+     fire-propagation dependency (see Section 4 flag).
+5.5  Whether Frank's range time at Stone Cold Shooter's gets additional
+     environmental seeding (e.g., collectible photo).
+5.6  Naming — RESOLVED (LOCKED, Stefan 2026-07-18): Troy's spoken term =
+     "incendiary shells"; inspect UI overlay ammo type = 12GA DB.
+     Remaining sub-flag: whether "dragon's breath" ever appears
+     diegetically (box stencil, collectible text) or stays
+     design-side only.
 
 =================================================================================
-END OF STUB — rev1
+END OF PROFILE — rev2
 =================================================================================
