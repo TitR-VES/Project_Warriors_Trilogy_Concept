@@ -64,10 +64,13 @@ triggers Chris's resolve to find Carrie and sets up NO CONTACT.
   the Terminator films.
 - He owned a DynaCal 870 Tac-14 TACS II Custom pump shotgun on which he
   hand-wrote "¡HASTA LA VISTA!" in white permanent marker — his T2 nod.
-- Some time after his death, someone from Frank's circle (working idea:
-  a shooting-range buddy) contacts Chris and gives him the shotgun to
-  honor Frank's wishes: Frank had wanted Chris to have it at some point,
-  and that time was as good as ever now that he's gone.
+- Some time after his death, Troy "Stone" Barry — Frank's former
+  military friend and range buddy, gunsmith, operator of Stone Cold
+  Shooter's firing range and gun shop, 1100 Antire Rd, Eureka, MO 63025
+  (LOCKED, Stefan 2026-07-18; see character_profile_troy_barry.txt) —
+  contacts Chris and gives him the shotgun to honor Frank's wishes:
+  Frank had wanted Chris to have it at some point, and that time was as
+  good as ever now that he's gone.
 - Full weapon spec + motif notes: HASTA_LA_VISTA_Build_Spec_rev1.txt.
 - Handwriting seed (WORKING LOCK, Stefan 2026-07-18): a hand-written note
   — name, address, and phone number in Frank's hand — kept in the Rhino 6
@@ -88,7 +91,9 @@ triggers Chris's resolve to find Carrie and sets up NO CONTACT.
      copy of the handoff retains the error verbatim as historical record,
      with an editor's note at its head. The Philip Brand falling-out
      itself is unaffected and carries over to Redline.
-6.2  Range-buddy intermediary: identity/name TBD.
+6.2  Range-buddy intermediary — RESOLVED (LOCKED, Stefan 2026-07-18):
+     Troy "Stone" Barry. The handwriting-seed note (Section 5) names
+     Troy: Frank inviting Chris to call him and drop by for range time.
 6.3  Carrie Nowitzki relationship status at campaign start ("former (?)
      love interest") — open per Stefan's own question mark; handoff
      defines her as key relational/emotional thread without fixing

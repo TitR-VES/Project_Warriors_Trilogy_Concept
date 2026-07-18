@@ -107,9 +107,11 @@ SECTION 2 — NARRATIVE PROVENANCE & DESIGN NOTES
      player to compare the handwriting and recognize that the marker
      inscription on the gun matches Frank's hand. Radical minimalism —
      felt, not stated; no dialogue explains the match.
-     OPEN (suggestion, not Stefan's): the name on the note could be the
-     range-buddy intermediary of Section 4.4 — one artifact seeding both
-     the handwriting and the person who later delivers the gun.
+     NOTE CONTENT (LOCKED, Stefan 2026-07-18): the person on the note IS
+     the intermediary — Troy "Stone" Barry (see Section 4.4 / character
+     stub). Frank is inviting Chris to call Troy and maybe drop by
+     sometime for some range time. One artifact thus seeds both Frank's
+     handwriting and the person who later delivers the gun.
 
 2.2  PRESSURE SWITCH ERGONOMICS (deliberate design, adjudicated):
      On a pump gun the support hand rides the moving shuttle, so the
@@ -151,11 +153,15 @@ SECTION 4 — OPEN FLAGS (Stefan adjudication pending)
 4.3  Handoff mission placement within The Collapse act structure
      (constraint: after Frank's death, mid-campaign; exact mission TBD —
      coordinate with Act I/II ladder consolidation).
-4.4  Identity/name of the range-buddy intermediary (working idea only).
-4.5  Handwriting-seed note (WORKING LOCK per 2.1): variant choice (a)
-     visible-in-van vs (b) handed-during-conversation [preferred]; the
-     name/address/phone content on the note; whether the named person is
-     the 4.4 intermediary.
+4.4  Intermediary — RESOLVED (LOCKED, Stefan 2026-07-18): Troy "Stone"
+     Barry — former military friend of Frank's (range buddy), skilled
+     gunsmith, operator of Stone Cold Shooter's firing range and gun shop
+     (fictional), 1100 Antire Rd, Eureka, MO 63025, United States.
+     Character stub: character_profile_troy_barry.txt.
+4.5  Handwriting-seed note (WORKING LOCK per 2.1): note content and named
+     person LOCKED (Troy "Stone" Barry — invitation to call / drop by for
+     range time). Remaining open: variant choice (a) visible-in-van vs
+     (b) handed-during-conversation [preferred].
 4.6  Possible achievement tied to the build (not yet discussed).
 
 =================================================================================
