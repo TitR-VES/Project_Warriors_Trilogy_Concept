@@ -1,0 +1,145 @@
+=================================================================================
+PROJECT WARRIORS — ¡HASTA LA VISTA! BUILD SPECIFICATION
+rev1 — adjudicated in Claude thread, 2026-07-18
+=================================================================================
+Companion to: named_weapon_builds_v2_1.txt (new build; assign number at v2.2 pass)
+Campaign:     The Collapse DLC (post-Game 4, St. Louis metro)
+Character:    Christopher "Chris" Carl Haywood (received; original owner:
+              Frank Manola — see character_profile_frank_manola.txt)
+Status:       Spec rev1. Core build LOCKED; open flags listed in Section 4.
+
+---------------------------------------------------------------------------------
+SECTION 1 — BUILD SPECIFICATION
+---------------------------------------------------------------------------------
+Build name:     ¡HASTA LA VISTA!
+                (always with Spanish punctuation and all caps when rendered
+                 as the build name)
+Manufacturer:   DynaCal Industries, Vallejo, CA, United States (fictional;
+                fictionalized Remington)
+Model:          DynaCal Remington 870 Tac-14 TACS II Custom
+                (TACS = Tactical Attachment and Configuration System)
+                Fictionalized shortened 870 Tac-14 platform.
+                Visual base / real-world analog: Specna Arms SA-VGS2 gas
+                shotgun replica, Half-Tan colorway, M-LOK fire grip + shuttle.
+Caliber:        12 gauge
+Capacity:       4+1 shells
+Operation:      Pump-action
+Fire mode:      Single
+Color:          Half-Tan
+
+ATTACHMENTS:
+  Foregrip:     Black AFG-style aluminum angled low-profile foregrip with
+                rear hand stop, mounted on the M-LOK along the bottom of the
+                shortened shuttle's grip. Facilitates handling in follow-up
+                shots. Attached by default; can be upgraded, or removed at
+                the cost of some follow-up-shot handling.
+  Iron sights:  Black Daniel Defense-pattern folding iron sights (front and
+                rear), mounted at the ends of the top rail. Absolute
+                co-witness with the XPM-5 RAGE when flipped up.
+  Optic:        XpertMark XPM-5 RAGE — Compact Reflex Sight. (LOCKED)
+                In-universe shorthand / alternate name: RAGE C1.
+                Fictional maker; name derived from "Expert Marksman"
+                (old company name). Rectangular window, reinforced 6061
+                aluminum housing.
+                Real-world analog: Aim-O FRENZY-style compact reflex.
+                NOTE: replaces rejected "X-Mark" (real Remington trigger
+                brand) and "ExMark / XM-5" (Exmark mowers; SIG XM5
+                military designation). PURGE those forms on sight.
+  Light:        SureFire (real brand, per series convention — GRAY GHOST
+                precedent), model TBD (Scout-family candidate). Black,
+                mounted in an offset M-LOK bracket on the right side of the
+                handguard, positioned at 1 o'clock roughly flush with the
+                barrel. Wired pressure switch on the LEFT side of the
+                machined-aluminum M-LOK handguard, directly above the
+                shuttle. See Section 2.2 for the deliberate ergonomics note.
+                NOTE: replaces rejected fictional "AccuShot" (real
+                Leapers/UTG trademark) and "TruAim" (TRU/SIGHT internal
+                echo). PURGE those forms on sight.
+  Hardware:     2x QD sling eyelets — one at the front of the handguard
+                (position under review: 6 o'clock as visualized; 9 o'clock
+                proposed — pending Stefan's physical replica test), one in
+                the left-side QD port above the pistol grip.
+
+PRESENTATION:
+  Sling:        Black quick-adjust 2-point sling.
+
+UNIQUE IDENTIFYING FEATURES:
+  Left receiver:  "¡HASTA LA VISTA!" hand-written in white permanent
+                  marker, all caps, Spanish punctuation included, one word
+                  per line in a roughly centered block angled at ~30
+                  degrees. Written by Frank Manola (see Section 2.1).
+  Right receiver: Factory stencil under the shell ejection port:
+                  "DYNACAL INDUSTRIES" with a smaller, less pronounced
+                  centered line beneath: "VALLEJO, CA, UNITED STATES".
+
+---------------------------------------------------------------------------------
+SECTION 2 — NARRATIVE PROVENANCE & DESIGN NOTES
+---------------------------------------------------------------------------------
+2.1  PROVENANCE (LOCKED, Stefan 2026-07-18):
+     The weapon was Frank Manola's personal shotgun. Frank — a huge fan of
+     80s/90s Hollywood action movies, Terminator included — wrote the motto
+     on the receiver himself; the build name is his T2 nod. After Frank's
+     death in the Phalanx armored run, Chris is contacted by someone from
+     Frank's circle (working idea: a buddy Frank knew from the shooting
+     range) who gives Chris the gun to honor Frank's wishes — Frank had
+     wanted Chris to have it at some point, "and that time was as good as
+     ever now that he's gone."
+
+     Motif note: this is the series' inherited-weapon motif in a second
+     color. DON'T TREAD (Dale Pruett → Romeo) is a LIVING gift — an act of
+     choosing a side. ¡HASTA LA VISTA! is a POSTHUMOUS gift — an act of
+     remembrance. Keep the two emotionally distinct.
+
+     Handwriting seed (suggested, not locked): seed Frank's marker
+     handwriting ONCE before the handoff (note taped in the Rhino 6 van
+     cab, doodled range target in a collectible photo, etc.) so the player
+     recognizes the hand before dialogue explains it. Radical minimalism —
+     felt, not stated.
+
+2.2  PRESSURE SWITCH ERGONOMICS (deliberate design, adjudicated):
+     On a pump gun the support hand rides the moving shuttle, so the
+     switch on the fixed handguard is reachable only when the shuttle is
+     forward — i.e., in battery, ready to fire, which is exactly when
+     illumination is wanted. Spec as intentional: "switch indexed to the
+     support-hand thumb with shuttle forward." Wire routing stays clear of
+     the shuttle stroke. Sling routing keeps clear of pump path and light
+     beam under normal operation.
+
+2.3  PLACEMENT & REWARD LOGIC (LOCKED direction):
+     The Collapse DLC, mid-campaign story/objective completion reward —
+     NOT a menu-ping progression unlock. A weapon carrying a previous
+     owner's handwriting wants a narrative beat (the handoff scene). If
+     the handoff lands while St. Louis's disintegration is accelerating,
+     the ordinariness of the gesture — a man keeping a friend's promise —
+     gains weight against the backdrop.
+
+     Roster note: fills the shotgun gap in The Collapse build roster
+     (LAST RESORT — M16A4+M203; SAVING GRACE — P226; MCX Rattler PDW).
+
+---------------------------------------------------------------------------------
+SECTION 3 — LOCKED DECISIONS SUMMARY (Stefan, 2026-07-18)
+---------------------------------------------------------------------------------
+- Build name, platform, caliber, capacity, colorway, receiver markings: LOCKED
+- Optic: XpertMark XPM-5 RAGE, reflex terminology; RAGE C1 shorthand: LOCKED
+- Light brand: real SureFire (consistency with series convention): LOCKED
+  (model selection deferred — see Section 4)
+- Frank Manola provenance + posthumous handoff mechanism + T2 motto
+  attribution: LOCKED
+- Pressure-switch-on-fixed-handguard as deliberate design: LOCKED
+
+---------------------------------------------------------------------------------
+SECTION 4 — OPEN FLAGS (Stefan adjudication pending)
+---------------------------------------------------------------------------------
+4.1  SureFire model selection (Scout-family candidate; revisit later).
+4.2  Front QD eyelet position: 6 o'clock (as visualized) vs 9 o'clock
+     (proposed) — Stefan to physically test with replica; may change.
+4.3  Handoff mission placement within The Collapse act structure
+     (constraint: after Frank's death, mid-campaign; exact mission TBD —
+     coordinate with Act I/II ladder consolidation).
+4.4  Identity/name of the range-buddy intermediary (working idea only).
+4.5  Handwriting-seed placement (suggested in 2.1; not yet locked).
+4.6  Possible achievement tied to the build (not yet discussed).
+
+=================================================================================
+END OF SPEC — rev1
+=================================================================================
