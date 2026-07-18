@@ -69,9 +69,13 @@ triggers Chris's resolve to find Carrie and sets up NO CONTACT.
   honor Frank's wishes: Frank had wanted Chris to have it at some point,
   and that time was as good as ever now that he's gone.
 - Full weapon spec + motif notes: HASTA_LA_VISTA_Build_Spec_rev1.txt.
-- Suggested (not locked): seed Frank's marker handwriting once before the
-  handoff (van-cab note, doodled range target collectible) so the player
-  recognizes the hand.
+- Handwriting seed (WORKING LOCK, Stefan 2026-07-18): a hand-written note
+  — name, address, and phone number in Frank's hand — kept in the Rhino 6
+  van during the fateful run; preferred variant has Frank handing it to
+  the player in a quieter, personal moment of the run mission. It remains
+  an examinable artifact afterward (Chris still processing the day), and
+  lets the player match Frank's handwriting to the marker inscription on
+  the gun. Full detail: HASTA_LA_VISTA_Build_Spec_rev1.txt §2.1.
 
 ---------------------------------------------------------------------------------
 6. OPEN FLAGS
