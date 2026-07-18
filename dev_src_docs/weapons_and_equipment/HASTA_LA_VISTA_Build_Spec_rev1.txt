@@ -90,11 +90,26 @@ SECTION 2 — NARRATIVE PROVENANCE & DESIGN NOTES
      choosing a side. ¡HASTA LA VISTA! is a POSTHUMOUS gift — an act of
      remembrance. Keep the two emotionally distinct.
 
-     Handwriting seed (suggested, not locked): seed Frank's marker
-     handwriting ONCE before the handoff (note taped in the Rhino 6 van
-     cab, doodled range target in a collectible photo, etc.) so the player
-     recognizes the hand before dialogue explains it. Radical minimalism —
-     felt, not stated.
+     Handwriting seed (WORKING LOCK, Stefan 2026-07-18 — variant choice
+     open): seed Frank's marker handwriting ONCE before the handoff, via a
+     hand-written note kept in the Rhino 6 van during the fateful run.
+     Two variants:
+       (a) a note visible in the van — e.g., a phone number for a
+           technical specialist Frank knows at Phalanx;
+       (b) PREFERRED: a note Frank hands to the player during an informal
+           or personal conversation in a quieter part of the Rhino 6 run
+           mission.
+     The note contains a name, address, and phone number in Frank's
+     handwriting. It persists as an examinable artifact the player can
+     revisit later — visually indicating that Chris is, to some degree,
+     still processing what happened that day with Frank and the attack.
+     Dual function: emotional callback for Chris, AND a means for the
+     player to compare the handwriting and recognize that the marker
+     inscription on the gun matches Frank's hand. Radical minimalism —
+     felt, not stated; no dialogue explains the match.
+     OPEN (suggestion, not Stefan's): the name on the note could be the
+     range-buddy intermediary of Section 4.4 — one artifact seeding both
+     the handwriting and the person who later delivers the gun.
 
 2.2  PRESSURE SWITCH ERGONOMICS (deliberate design, adjudicated):
      On a pump gun the support hand rides the moving shuttle, so the
@@ -137,7 +152,10 @@ SECTION 4 — OPEN FLAGS (Stefan adjudication pending)
      (constraint: after Frank's death, mid-campaign; exact mission TBD —
      coordinate with Act I/II ladder consolidation).
 4.4  Identity/name of the range-buddy intermediary (working idea only).
-4.5  Handwriting-seed placement (suggested in 2.1; not yet locked).
+4.5  Handwriting-seed note (WORKING LOCK per 2.1): variant choice (a)
+     visible-in-van vs (b) handed-during-conversation [preferred]; the
+     name/address/phone content on the note; whether the named person is
+     the 4.4 intermediary.
 4.6  Possible achievement tied to the build (not yet discussed).
 
 =================================================================================
