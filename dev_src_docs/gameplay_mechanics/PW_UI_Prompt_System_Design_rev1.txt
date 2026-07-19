@@ -1,0 +1,237 @@
+================================================================================
+PROJECT WARRIORS — UI PROMPT SYSTEM DESIGN
+Document: PW_UI_Prompt_System_Design_rev1
+Status:   rev1 — consolidates all locks from UI design pass 2026-07-18/19
+Author:   TITR Virtual Entertainment Software — design pass w/ Claude
+Scope:    Inspect-view UI anatomy, universal weapon naming rule, functional
+          attachment prompts, narrative-based action prompt class, STAPLER
+          pool-house beat state flow, WREN exception, typography standard.
+================================================================================
+
+--------------------------------------------------------------------------------
+0. DESIGN PHILOSOPHY (governing principles)
+--------------------------------------------------------------------------------
+Restraint is the engine. The UI layer follows the same radical-minimalism
+doctrine as the narrative: things are felt rather than stated, and absence
+carries meaning. Concretely:
+
+  - No persistent HUD prompts. All prompts are contextual.
+  - No AR-style visual language anywhere: no brackets-and-corners framing,
+    no glow, no holographic chrome, no scan-line effects.
+  - The physical animation carries the weight; the UI only opens the door.
+    (Validated by animation reference Clip 2, 2026-07-17.)
+  - The prompt layer is a characterization channel. Wording differs per
+    protagonist; styling never does.
+  - When the system goes silent about something (a vanished option, an
+    absent label), the silence IS the message. No text announcements of
+    state changes the player can discover environmentally.
+
+--------------------------------------------------------------------------------
+1. INSPECT VIEW — UI ANATOMY (LOCKED 2026-07-18/19)
+--------------------------------------------------------------------------------
+1.1  WORLD-ANCHORED FUNCTIONAL LABELS
+     Attachment prompts anchor world-space to the relevant part of the
+     weapon (muzzle threads, QD mount, light body, etc.) and exist ONLY
+     within the inspect view. They move with the weapon as the character
+     turns it. Labels appear only for field-removable / interactable items
+     per existing overlay canon (suppressors, QD optics, lights, MAWLs,
+     foregrips, ammo type). Non-removable hardware gets no label. Empty
+     rails with nothing available show nothing.
+
+     Because labels are anchored to physical points, only the attachments
+     on the currently visible side of the weapon carry labels. The overlay
+     never becomes a diagram.
+
+1.2  NO BAR CHROME
+     There is no visible bar, strip, panel, or container element anywhere
+     in the inspect view. UI elements sit directly on the frame.
+
+1.3  UNIVERSAL NAMING RULE
+     Every inspectable weapon in the game displays a name in the BOTTOM-LEFT
+     of the inspect view:
+       - Named signature builds display the BUILD NAME
+         (GRAY GHOST, NOTHING, FREYA, ARGINT, TRG M10, DON'T TREAD...).
+       - All other weapons — including generic non-named pickups —
+         display the MODEL NAME.
+     Rendering: small, quiet, signature-like. Reads as texture, not chrome.
+     Exception: see §4 (WREN).
+
+1.4  ADDITIONAL OPTIONS — BOTTOM EDGE, RIGHT-ALIGNED
+     Where a weapon has additional options (reticle cycling, magnifier
+     flip-to-center toggle, ammo-type swap, etc.), these display with their
+     key/button mappings RIGHT-ALIGNED along the bottom edge of the inspect
+     view. Option counts per weapon are deliberately low; no overlap risk
+     with the bottom-left name is expected, and none is permitted.
+
+--------------------------------------------------------------------------------
+2. TYPOGRAPHY STANDARD
+--------------------------------------------------------------------------------
+2.1  FUNCTIONAL LABELS (LOCKED)
+     Condensed sans-serif in the register of equipment engraving and
+     mil-spec data plates. All caps. Small point size. High letter-spacing.
+     No glow, no outline effects, no AR brackets. Input indication is the
+     key/button name or icon only.
+
+2.2  ONE FAMILY GAME-WIDE (LOCKED 2026-07-19)
+     A single typeface family serves both functional labels and the
+     narrative-based action prompt class. The registers differ in LANGUAGE
+     only, never in decoration. If a narrative prompt also received special
+     visual treatment, it would be double-underlined; the words alone must
+     carry the deviation.
+
+     SOLE EXCEPTION — MISSION INTRO TITLE CARDS: mission name titles at
+     mission open use distinct typography PER PLAYABLE CHARACTER. Title
+     typography is campaign-identity territory, part of each protagonist's
+     visual signature, and lives outside the unified prompt/label system.
+     [FLAG: per-character title typography direction = separate visual
+     identity pass, likely alongside key art / promo thread.]
+
+--------------------------------------------------------------------------------
+3. NARRATIVE-BASED ACTION PROMPT CLASS (LOCKED 2026-07-19)
+--------------------------------------------------------------------------------
+This is the standard for narrative/world action prompts throughout all
+three campaigns. PREPARE LOUD (§5) is a member of this class, not a
+one-off.
+
+3.1  ANCHORING
+     World-anchored to the interactable object itself.
+
+3.2  VISIBILITY CONDITIONS (all three required)
+     a) Object is in the player's direct line of sight; AND
+     b) Player is within close physical proximity; AND
+     c) There is NO PHYSICAL OBSTRUCTION between player and object.
+        Glass panes, grates, fences, and similar barriers suppress the
+        prompt even when the object is plainly visible through them.
+
+     Design intent: the prompt's presence literally means "your hands can
+     reach this now." A breaker panel seen through a window does not
+     prompt. This keeps the world honest and eliminates the genre tell of
+     prompts glowing through transparent barriers.
+
+3.3  PRESENTATION
+     Key/button name or icon. No AR-style features. Always accompanied by
+     a text label.
+
+3.4  LABEL WORDING — CHARACTER PROMPT REGISTER
+     Label text is worded consistently with the active protagonist's
+     prompt register. The same interactable can carry different verbs
+     under different protagonists. The prompt layer is therefore a
+     characterization channel in its own right, pressure-tested across
+     all three campaigns per the three-campaign lens.
+
+     Register anchors (non-exhaustive; expand in register table pass):
+       Spook  — clinical intel/operations verbs: ACQUIRE, SECURE,
+                NEUTRALIZE, PREPARE...
+       Frost  — clinical minimal register: DISPATCH...
+       Others — per character voice canon (Ducky dry authority, Romeo
+                bilingual plain-verb register, Switchblade medic
+                vocabulary where applicable, Lupin precise/formal).
+     [FLAG: full per-character register table = dedicated pass, cross-
+     reference Audio thread squad voice canon.]
+
+--------------------------------------------------------------------------------
+4. WREN EXCEPTION (RESOLVED + LOCKED 2026-07-19)
+--------------------------------------------------------------------------------
+Source verified against named_weapon_builds_v2_1.txt, BUILD 08. The v2.1
+"never overlay" rule is narrowly about the BUILD NAME TEXT: WREN's name is
+not displayed in the inspect overlay, unlike the other named builds. It is
+NOT a UI-suppression rule.
+
+  - WREN's inspect UI is FULLY STANDARD: world-anchored functional labels,
+    right-aligned bottom options where applicable.
+  - Bottom-left name per the universal naming rule displays the model
+    name: "F88 AUSTEYR" (Australian license-built AUG designation —
+    Melbourne texture delivered as dry technical fact, no wink).
+  - The name WREN exists in exactly one place: physically on the dust
+    cover, readable only during the bolt-open empty-chamber animation
+    after the last round, while the ejection-port dust cover is open.
+    A detail exclusively for attentive players. Switchblade has never
+    told anyone the name.
+  - The UI treats the rifle as completely ordinary. No flag, no gap, no
+    special styling. The discovery belongs entirely to the weapon.
+
+--------------------------------------------------------------------------------
+5. STAPLER POOL-HOUSE BEAT — "PREPARE LOUD" (ALL LOCKED 2026-07-18)
+--------------------------------------------------------------------------------
+Mission: Man From Medan / Operation DRAGONSLAYER (Game 1, Spook).
+Canonical scripted use of the transition interaction: suppressor removed,
+forward blast deflector attached (STAPLER build spec, locked canon).
+
+5.1  BEAT PARAMETERS (LOCKED)
+     - Prompt text: PREPARE LOUD — single prompt, member of the narrative
+       prompt class (§3), styled to class standard. The words carry the
+       deviation; the styling does not.
+     - One press triggers the FULL SCRIPTED CONSECUTIVE SEQUENCE
+       (suppressor removal → blast deflector attach) with no further
+       player input.
+     - SAFE BEAT: quiet before the breach. No time pressure, no threat
+       telegraphing during the sequence. The quiet does the tension work.
+     - STORY-GATED: the prompt surfaces only at the scripted moment.
+       Inspecting GRAY GHOST earlier in the mission shows only the
+       standard functional overlay. The earlier absence is part of the
+       setup.
+     - LOUD IS COMMITTED: after the swap, the suppressor is gone from the
+       interactable options for the remainder of the mission. No revert.
+
+5.2  STATE FLOW (six steps)
+     1. APPROACH — player reaches the scripted trigger point in the pool
+        house. No prompt exists before this.
+     2. SURFACE — PREPARE LOUD appears, world-anchored, class-standard
+        styling. Because it breaks the functional-prompt grammar the
+        player has internalized, the deviation registers before the
+        phrase is consciously parsed.
+     3. COMMIT — one press. The prompt fades as the character's hands
+        begin moving. No lingering UI. No progress indicator of any kind.
+     4. SEQUENCE — suppressor off (~3 s), deflector on (~3 s), using the
+        established manipulation vocabulary (wrist cycles, muzzle-dip,
+        seat-check). No music. Room tone only, per Medan sound
+        discipline (cf. no-score Skynex rule).
+     5. TERMINAL FRAME — ~1 s static end-pose holding the new
+        configuration. The deflector seating CLICK is the diegetic
+        punctuation. This frame doubles as the inspect rest frame.
+     6. COMMITTED STATE — on any post-swap inspect, the overlay shows the
+        deflector as the muzzle device with no removal prompt; the
+        suppressor is silently absent from options. The commitment is
+        communicated environmentally, never via text. The system does not
+        announce it; it goes quiet about it.
+
+--------------------------------------------------------------------------------
+6. NAMED_WEAPON_BUILDS v2.2 CORRECTION LIST (accumulated)
+--------------------------------------------------------------------------------
+To be applied when v2.1 → v2.2 revision is cut:
+  a) BUILD 02 header "CPT Trevor 'Spook' Gartner" → remove rank (Ground
+     Branch, no rank ever). Confirmed present at v2.1 line 43.
+  b) SOCOM556-RC2 → SureFire SOCOM300-SPS retcon (all games; RC2 bore
+     error; quiet retcon, no diegetic acknowledgment). Per GRAY GHOST
+     Nightfall rev3 Section 0 changelog.
+  c) BUILD 02 suppressor line tightening: "Nielsen-device .45 suppressor,
+     Dead Air Primal-type (fitted)" (optional, per Nightfall rev3).
+  d) BUILD 08 (WREN) inspect note amendment: replace "Build name NOT
+     displayed in inspect overlay" framing with the universal-naming-rule
+     form — inspect displays model name "F88 AUSTEYR" bottom-left; WREN
+     readable only via bolt-open empty-chamber animation (dust cover
+     open). Substance unchanged; form aligned with this document.
+
+--------------------------------------------------------------------------------
+7. OPEN FLAGS
+--------------------------------------------------------------------------------
+  [1] §3.4 — full per-character prompt register table (dedicated pass;
+      cross-reference Audio thread squad voice canon).
+  [2] Typeface selection itself (specific font family / licensed vs
+      custom) — production decision, later pass.
+  [3] Per-character mission intro title typography direction (§2.2
+      exception) — separate visual identity pass, likely alongside
+      key art / promo thread.
+  [4] Mockup pass: apply this spec to a static inspect-view frame
+      (GRAY GHOST) and a PREPARE LOUD frame for visual validation —
+      candidate use of the animation reference pipeline.
+
+--------------------------------------------------------------------------------
+CHANGELOG
+--------------------------------------------------------------------------------
+rev1 (2026-07-19): Initial consolidation of UI design pass 2026-07-18/19.
+All locks per Stefan adjudication; WREN "never overlay" verified against
+v2.1 source and resolved as name-text rule only. Unified typography rule
+LOCKED same day with sole exception: per-character mission intro title
+cards. Zero pending adjudications within scope of this document.
+================================================================================
