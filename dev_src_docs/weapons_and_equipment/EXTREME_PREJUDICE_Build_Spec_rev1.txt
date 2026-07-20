@@ -1,0 +1,89 @@
+================================================================================
+PROJECT WARRIORS — EXTREME PREJUDICE BUILD SPECIFICATION
+rev1 — owner-directed canon landing, 2026-07-20
+================================================================================
+Campaign:     Riptide Red, Game 1
+Placement:    Campaign finale
+Character:    Lawrence "Rip" Mansell
+War Wolf ID:  CRIMSON THREE
+Status:       LOCKED CORE IDENTITY / CONFIGURATION OPEN FOR EXPANSION
+
+--------------------------------------------------------------------------------
+1. BUILD IDENTITY
+--------------------------------------------------------------------------------
+Build name:   EXTREME PREJUDICE
+Platform:     CheyTac M200 Intervention
+Caliber:      .408 CheyTac
+Weapon class: Long-range precision / anti-materiel-capable sniper rifle
+
+EXTREME PREJUDICE is the named CheyTac Intervention carried by CRIMSON THREE,
+Lawrence "Rip" Mansell, during the campaign finale of Riptide Red.
+
+--------------------------------------------------------------------------------
+2. CHARACTER ASSOCIATION
+--------------------------------------------------------------------------------
+Canonical identity:
+- Lawrence "Rip" Mansell
+- War Wolves operator designation: CRIMSON THREE
+
+The build name belongs to Mansell's personal rifle, not to every CheyTac M200
+used by Atlas, the War Wolves or East McFarlane Island security personnel.
+Generic or separately serialized Interventions remain model-name weapons.
+
+--------------------------------------------------------------------------------
+3. FINALE LOADOUT OVERRIDE
+--------------------------------------------------------------------------------
+Older source material describes CRIMSON THREE as a breacher/support operator
+with a suppressed Daniel Defense Mk18, Glock 19 and grenades. That material is
+not silently deleted, but it no longer governs his Riptide Red finale primary.
+
+Locked reconciliation:
+- Earlier/default War Wolf role or prior-contact loadout may retain the compact
+  breacher/support package where useful.
+- In the Riptide Red campaign finale, Mansell carries EXTREME PREJUDICE as his
+  primary named weapon.
+- Any source stating that the Mk18 is CRIMSON THREE's finale primary is
+  superseded and must be corrected on refresh.
+
+This preserves prior encounter-development value while honoring the later,
+specific finale lock.
+
+--------------------------------------------------------------------------------
+4. DISTINCTNESS FROM OTHER INTERVENTIONS
+--------------------------------------------------------------------------------
+EXTREME PREJUDICE is distinct from:
+- the CheyTac M200 hidden in the East McFarlane Island security post;
+- CRIMSON TWO's separately serialized personal M200 from older encounter notes;
+- generic Atlas / War Wolf precision-rifle inventory.
+
+No ammunition count, optic, suppressor, finish, stock treatment, markings or
+pickup behavior is locked by this rev1 source. Those details require a dedicated
+Riptide Red finale encounter pass and must not be invented by downstream files.
+
+--------------------------------------------------------------------------------
+5. INSPECT / NAMING RULE
+--------------------------------------------------------------------------------
+When inspectable, the bottom-left inspect label displays EXTREME PREJUDICE under
+the universal named-build rule. The physical placement or inscription of the
+name remains open; do not assume an engraving or paint-marker treatment until
+specified.
+
+--------------------------------------------------------------------------------
+6. NARRATIVE / PRESENTATION RULE
+--------------------------------------------------------------------------------
+The name should read as institutional and lethal rather than flamboyant. It
+fits a War Wolf operator whose violence is framed as authorized finality.
+Presentation should emphasize disciplined range control, prepared geometry and
+the sensation that Mansell has already judged the player an acceptable target.
+
+--------------------------------------------------------------------------------
+7. SOURCE-GOVERNANCE NOTE
+--------------------------------------------------------------------------------
+Repository and uploaded-source searches performed 2026-07-20 found no prior
+durable landing for the build name, Mansell identity or revised CRIMSON THREE
+finale rifle. This page records the owner's explicit project correction and is
+a later canon override for the stated scope.
+
+================================================================================
+END — EXTREME PREJUDICE BUILD SPECIFICATION rev1
+================================================================================
