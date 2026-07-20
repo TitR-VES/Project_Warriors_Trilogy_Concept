@@ -1,0 +1,184 @@
+================================================================================
+PROJECT WARRIORS — NAMED WEAPON BUILDS v2.1 → v2.2
+CORRECTION CROSS-CHECK DOCUMENT
+Prepared 2026-07-20 — for Stefan side-by-side review BEFORE commit
+================================================================================
+
+PURPOSE: Every change in named_weapon_builds_v2_2_DRAFT.txt listed with
+verbatim OLD (v2.1) and NEW (v2.2) text, source of the lock, and status.
+Review each item; the draft applies all of items 1–7. Item 8 is an open
+flag deliberately NOT applied.
+
+--------------------------------------------------------------------------------
+ITEM 1 — RANK PURGE: SPOOK (BUILD 01 HEADER)                    [ON ORIG. LIST*]
+--------------------------------------------------------------------------------
+Location:  BUILD 01 — GRAY GHOST, character line
+OLD:       Character: CPT Trevor "Spook" Gartner — Signature Primary
+NEW:       Character: Trevor "Spook" Gartner — Signature Primary
+Source:    Standing canon rule — Spook carries no rank ever, purge "CPT/
+           Captain" on sight. Flagged in GRAY GHOST Nightfall rev3 Section 0.
+*Note:     Original v2.2 list cited "line 43" only; BUILD 01 (line 9) had the
+           identical violation. Full-file sweep caught it. Both fixed.
+
+--------------------------------------------------------------------------------
+ITEM 2 — RANK PURGE: SPOOK (BUILD 02 HEADER)                     [ON ORIG. LIST]
+--------------------------------------------------------------------------------
+Location:  BUILD 02 — NOTHING, character line
+OLD:       Character: CPT Trevor "Spook" Gartner — Signature Sidearm
+NEW:       Character: Trevor "Spook" Gartner — Signature Sidearm
+Source:    Same rule as Item 1. This is the occurrence originally flagged.
+
+--------------------------------------------------------------------------------
+ITEM 3 — RANK PURGE: ROMEO (BUILD 05 HEADER)                        [NEW CATCH]
+--------------------------------------------------------------------------------
+Location:  BUILD 05 — DON'T TREAD, character line
+OLD:       Character: LT Ramón "Romeo" Álvarez — Early Game 2 Primary
+NEW:       Character: SSG Ramón "Romeo" Álvarez — Early Game 2 Primary
+Source:    Standing canon rule — purge "LT" on sight, Romeo is SSG in the
+           Game 1/early Game 2 timeframe this build belongs to.
+Status:    NOT on the original v2.2 correction list — caught in this
+           session's full-file rank sweep. Please confirm SSG is the correct
+           rank for the DON'T TREAD (early Game 2) timeframe specifically.
+           (Nightfall-era Romeo is BG, but that is a different build era.)
+
+--------------------------------------------------------------------------------
+ITEM 4 — GRAY GHOST SUPPRESSOR RETCON                            [ON ORIG. LIST]
+--------------------------------------------------------------------------------
+Location:  BUILD 01 — GRAY GHOST, attachments block
+OLD:       Suppressor:   SureFire SOCOM556-RC2 (standard)
+                         [Supersonic mag available from Tripper as
+                         break-glass option]
+NEW:       Suppressor:   SureFire SOCOM300-SPS (standard)
+                         [v2.2 retcon — replaces SOCOM556-RC2 spec error;
+                         a 5.56 bore cannot pass .300 BLK. Retcon applies
+                         from the start, all games. No diegetic
+                         acknowledgment.]
+                         [Supersonic mag available from Tripper as
+                         break-glass option]
+Source:    Locked Stefan 2026-07-13 — GRAY GHOST Nightfall rev3 item (a).
+           Quiet retcon; purge SOCOM556-RC2 on sight.
+Cross-ref: WREN's SOCOM556-Mini2 is UNAFFECTED — WREN is a 5.56 platform,
+           bore compatibility is correct there. Verified in sweep.
+
+--------------------------------------------------------------------------------
+ITEM 5 — NOTHING SUPPRESSOR LINE TIGHTENED                       [ON ORIG. LIST]
+--------------------------------------------------------------------------------
+Location:  BUILD 02 — NOTHING, attachments block
+OLD:       Suppressor:   Nielsen device suppressor (fitted)
+NEW:       Suppressor:   Nielsen-device .45 suppressor, Dead Air
+                         Primal-type (fitted)
+Source:    Locked Stefan 2026-07-13 — GRAY GHOST Nightfall rev3 item (h),
+           optional tightening approved as v2.2 change.
+Note:      The FDE, lightly worn variant is the NIGHTFALL-era config and
+           lives in GRAY_GHOST_Nightfall_Config_rev3_FINAL.txt — the base
+           build here stays era-neutral on finish. Verified consistent.
+
+--------------------------------------------------------------------------------
+ITEM 6 — BUILD 04 NAMED: HUCKLEBERRY                       [NEW — THIS SESSION]
+--------------------------------------------------------------------------------
+Location:  BUILD 04, full entry rewrite
+OLD (verbatim, complete):
+           BUILD 04 — [UNNAMED — CZ P-09 SIGNATURE]
+           Character: SFC Ferris "Ducky" Ryan — Signature Sidearm
+           Platform / Caliber / Finish / Attachments: (see file — unchanged)
+           NOTE: No build name. The pistol is Ducky's; FREYA carries the
+           identity.
+NEW:       BUILD 04 — HUCKLEBERRY
+           Platform / Caliber / Finish / Attachments: UNCHANGED
+           + BUILD NAME NOTE (Tombstone provenance — Doc Holliday's "I'm
+             your huckleberry"; father's favorite film, watched often on
+             TV through Ducky's later childhood and teens; part-inspiration
+             for enlistment → Ireland dual citizenship → NATO rapid
+             reaction → AEGIS; name chosen for "the right one for the
+             job" — the trusty sidearm)
+           + MARKING (inside magwell, white permanent marker, all caps,
+             centered, text parallel to grip's edges; visible only down
+             the magwell with light; incidental beat in field-strip
+             cleaning animation — never framed)
+           + SQUAD KNOWLEDGE (not a secret — mentioned or noticed during
+             shared maintenance and asked about; contrast register vs
+             ARGINT and WREN)
+           + BUILD NAME displayed in inspect overlay: HUCKLEBERRY
+             (replaces "CZ P-09" model-name display per universal rule)
+           + DESIGN NOTE flagging conscious reversal of v2.1 intent;
+             purge old note on sight
+Source:    Adjudicated Stefan 2026-07-20 (this thread) — points 1, 2, 3.
+Status:    ALL THREE ADJUDICATIONS LOCKED. Zero open flags on this item.
+
+--------------------------------------------------------------------------------
+ITEM 7 — WREN / UNIVERSAL NAMING RULE ALIGNMENT                  [ON ORIG. LIST]
+--------------------------------------------------------------------------------
+Location A: BUILD 08 — WREN, INSPECT ANIMATION NOTE
+OLD:       Build name NOT displayed in inspect overlay — unlike FREYA,
+           GRAY GHOST, ARGINT, TRG M10, NOTHING, and DON'T TREAD.
+           WREN is discoverable only via the bolt-open empty-chamber
+           animation. A detail exclusively for attentive players.
+NEW:       Per universal naming rule (UI Prompt System Design rev1),
+           WREN's inspect is fully standard and displays the model name
+           "F88 AUSTEYR" bottom-left — the "never overlay" rule applies
+           ONLY to the build-name text, not to UI suppression.
+           Build name WREN NOT displayed... [list now includes
+           HUCKLEBERRY] ...bolt-open empty-chamber animation. A detail
+           exclusively for attentive players.
+           [+ pointer to Section 0 open flag — see Item 8]
+
+Location B: Global SIGNATURE WEAPON EXTENDED INSPECT section
+OLD:       Build name appears ... for:
+           GRAY GHOST / NOTHING / FREYA / TRG M10 / ARGINT / DON'T TREAD
+           WREN does not appear in overlay — discoverable only via
+           bolt-open empty-chamber animation
+NEW:       Build name appears ... for:
+           GRAY GHOST / NOTHING / FREYA / HUCKLEBERRY / TRG M10 /
+           ARGINT / DON'T TREAD
+           All other weapons display their model name in the same
+           position (universal naming rule — UI Prompt System Design rev1)
+           Build name WREN does not appear in overlay — discoverable only
+           via bolt-open empty-chamber animation; WREN's inspect otherwise
+           standard, displaying model name "F88 AUSTEYR"
+Source:    UI Prompt System Design rev1 — PR #22, merged 2026-07-20.
+           WREN resolution + universal naming rule, both locked.
+
+--------------------------------------------------------------------------------
+ITEM 8 — WREN PLATFORM RETCON: THALES F88 AUSTEYR          [RESOLVED — APPLIED]
+--------------------------------------------------------------------------------
+Location:  BUILD 08 — WREN, platform line
+OLD:       Platform:       Steyr AUG A3
+NEW:       Platform:       Thales F88 Austeyr
+                           (Australian licence-built Steyr AUG A3
+                           derivative)
+                           [v2.2 retcon note — provenance + display
+                           name alignment]
+Source:    Adjudicated Stefan 2026-07-20 (this thread) — option (a).
+Note:      Inspect display TEXT remains "F88 AUSTEYR" exactly as locked
+           in UI Prompt System Design rev1 (PR #22) — the platform line
+           carries the full "Thales F88 Austeyr" designation; the
+           bottom-left display uses the shorter locked form. If Stefan
+           instead intended the DISPLAY text itself to read "THALES F88
+           AUSTEYR", say so and both the UI doc cross-ref and this line
+           will be amended — one-line change.
+Status:    APPLIED in draft. Section 0 changelog updated (item 8);
+           open-flag block removed.
+
+--------------------------------------------------------------------------------
+SWEEP RESULTS — ITEMS CHECKED AND CONFIRMED CLEAN (no change needed)
+--------------------------------------------------------------------------------
+- All other character lines (Ducky SFC, Frost SSGT, Switchblade LCPL,
+  Lupin CPL): consistent with canon, no purge terms present.
+- No other SOCOM556-RC2 occurrences anywhere in file.
+- No "Blomert", "Pruitt", "Dale Jacobs", "PYTHIA", "Wren" (operator),
+  old-date, or other purge-list terms present in file.
+- Rotex family standardization note (FREYA / CZ P-09 / Evo 3 / Nereid
+  Black) unaffected by HUCKLEBERRY naming — the standardization detail
+  survives intact; only the identity note changes.
+- Pistol inspect hammer-check line (CZ P-09, HK45CT, P-99) — unaffected.
+
+================================================================================
+COMMIT PLAN (pending Stefan approval of Items 1–8; Item 3 rank-timeframe
+confirmation still outstanding)
+- Branch: topic/weapon-builds-v2-2-2026-07-20
+- Files:  dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
+          (rename from DRAFT on commit; v2_1 retained in repo history)
+- PR against main; Stefan reviews/merges; replace v2_1 in project knowledge
+  with v2_2 after merge.
+================================================================================
+END OF CROSS-CHECK DOCUMENT
