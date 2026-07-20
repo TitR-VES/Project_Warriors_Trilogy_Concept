@@ -1,7 +1,7 @@
 PROJECT WARRIORS — THE COLLAPSE
 LATEST THREAD UPDATE
 Generated: 2026-07-06
-Version: rev1
+Version: rev1 + 2026-07-20 weapon correction
 Status: source-ready latest-thread update / branch handoff layer
 
 PURPOSE
@@ -41,8 +41,13 @@ Known FFSM / hardliner figures:
 
 Known named builds:
 - LAST RESORT — M16A4 + M203
-- SAVING GRACE — P226
+- SAVING GRACE — M1911A1
 - PDW SIG MCX Rattler 5.56
+
+2026-07-20 correction:
+SAVING GRACE is an M1911A1, not a SIG P226. Purge the P226 association in the
+SAVING GRACE context. Dedicated source stubs live in
+LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt.
 
 ================================================================================
 03. ACT IV OPENER REFINEMENT — AID AND COMFORT
