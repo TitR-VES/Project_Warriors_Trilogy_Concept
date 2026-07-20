@@ -1,0 +1,137 @@
+================================================================================
+PROJECT WARRIORS — ADDITIONAL NAMED WEAPON RECOVERY RECORD
+Generated: 2026-07-20
+Version: rev1
+================================================================================
+Status: durable source/recovery-control page
+
+PURPOSE
+Preserve named weapon identities identified during the July 20 global registry
+audit where the accessible repository, open pull requests, uploaded compendia,
+local canon files, and available project exports did not expose a complete
+platform/owner specification.
+
+This page deliberately separates confirmed facts from unresolved fields. It must
+not be used to invent missing weapon models, attachments, owners, or campaign
+placement merely to make the registry appear complete.
+
+SEARCH SCOPE CHECKED
+- repository main branch
+- all open pull requests
+- current six-compendia layer and archival/recovered source text
+- available project uploads and local canon-decision files
+- exact-name and character-name searches where an association was supplied
+
+--------------------------------------------------------------------------------
+A. USER-CONFIRMED NAMED IDENTITIES — ASSOCIATION NOT RECOVERED
+--------------------------------------------------------------------------------
+
+PW-WPN-UNRESOLVED-HIGHER-STANDARD
+Build name: HIGHER STANDARD
+Owner / character: NOT RECOVERED
+Platform: NOT RECOVERED
+Campaign: NOT RECOVERED
+Status: NAME CONFIRMED; source-detail recovery required
+
+PW-WPN-UNRESOLVED-EVEN-FLOW
+Build name: EVEN FLOW
+Owner / character: NOT RECOVERED
+Platform: NOT RECOVERED
+Campaign: NOT RECOVERED
+Status: NAME CONFIRMED; source-detail recovery required
+
+PW-WPN-UNRESOLVED-HARDWARE-INTERRUPT
+Build name: HARDWARE INTERRUPT
+Owner / character: NOT RECOVERED
+Platform: NOT RECOVERED
+Campaign: NOT RECOVERED
+Status: NAME CONFIRMED; source-detail recovery required
+
+PW-WPN-UNRESOLVED-SILVER-LINING
+Build name: SILVER LINING
+Owner / character: NOT RECOVERED
+Platform: NOT RECOVERED
+Campaign: NOT RECOVERED
+Status: NAME CONFIRMED; source-detail recovery required
+
+PW-WPN-UNRESOLVED-DANGER-CLOSE
+Build name: DANGER CLOSE
+Owner / character: NOT RECOVERED
+Platform: NOT RECOVERED
+Campaign: NOT RECOVERED
+Status: NAME CONFIRMED; source-detail recovery required
+
+PW-WPN-UNRESOLVED-CRISIS-MANAGEMENT
+Build name: CRISIS MANAGEMENT
+Owner / character: NOT RECOVERED
+Platform: NOT RECOVERED
+Campaign: NOT RECOVERED
+Status: NAME CONFIRMED; source-detail recovery required
+
+--------------------------------------------------------------------------------
+B. LEDGER BUILDS
+--------------------------------------------------------------------------------
+
+PW-WPN-LEDGER-KILLING-JOKE
+Build name: KILLING JOKE
+Owner / character: Ledger
+Platform: NOT RECOVERED
+Campaign: Ledger campaign continuity; exact installment/source placement not recovered
+Status: NAME / OWNER CONFIRMED; full specification recovery required
+
+PW-WPN-LEDGER-PUNCHLINE
+Build name: PUNCHLINE
+Owner / character: Ledger
+Platform: NOT RECOVERED
+Campaign: Ledger campaign continuity; exact installment/source placement not recovered
+Status: NAME / OWNER CONFIRMED; full specification recovery required
+
+Pairing caution:
+The names strongly imply a deliberate paired-build relationship, but do not infer
+which is primary or sidearm until the originating source is recovered.
+
+--------------------------------------------------------------------------------
+C. KIRILL AFANASYEV BUILD
+--------------------------------------------------------------------------------
+
+PW-WPN-AFANASYEV-EASTERN-PROMISE
+Build name: EASTERN PROMISE
+Owner / character: Kirill Afanasyev
+Platform: NOT RECOVERED
+Campaign / game: NOT RECOVERED
+Status: NAME / OWNER CONFIRMED; full specification recovery required
+
+Spelling normalization:
+The request supplied "EQSTERN PROMISE," which is treated here as a transcription
+or typing error. The registry form is EASTERN PROMISE. Preserve a provenance note
+until the originating source confirms the exact rendered spelling.
+
+--------------------------------------------------------------------------------
+D. WAR WITHIN BUILD
+--------------------------------------------------------------------------------
+
+PW-WPN-WAR-WITHIN-SUCKER-PUNCH
+Build name: SUCKER PUNCH
+Owner / character: NOT RECOVERED
+Platform: NOT RECOVERED
+Campaign: War Within
+Status: NAME / CAMPAIGN CONFIRMED; owner and full specification recovery required
+
+--------------------------------------------------------------------------------
+E. SOURCE-LANDING RULE
+--------------------------------------------------------------------------------
+
+These entries belong in the global registry because omitting a known identity
+would recreate the loss this audit is intended to prevent. They do not count as
+fully specified builds.
+
+When an originating source is recovered:
+1. create or promote a dedicated source page under dev_src_docs/;
+2. replace NOT RECOVERED fields with exact source-supported facts;
+3. update the registry status and detail-source pointer;
+4. refresh Compendium 04 and governance/audit layers;
+5. do not retain contradictory provisional guesses.
+
+================================================================================
+END — ADDITIONAL NAMED WEAPON RECOVERY RECORD rev1
+================================================================================
