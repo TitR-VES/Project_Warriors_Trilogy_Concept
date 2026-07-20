@@ -1,0 +1,62 @@
+================================================================================
+PROJECT WARRIORS — WORKING COMPENDIUM 04 ADDENDUM
+NAMED WEAPON GLOBAL REGISTRY LANDING
+Generated: 2026-07-20
+Version: rev1
+================================================================================
+Status: compendium bridge; source pages remain authoritative
+
+PURPOSE
+Expose the July 20 named-weapon consolidation to the working knowledge layer
+without rewriting the full inherited Compendium 04 corpus in place.
+
+CONTROLLING INDEX
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_4.txt
+
+NEW / CORRECTED SOURCE PAGES IN THIS PASS
+- STAPLER_Build_Spec_rev1.txt
+- EXTREME_PREJUDICE_Build_Spec_rev1.txt
+- LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt
+- PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+KEY CORRECTIONS
+1. SAVING GRACE is an M1911A1, not a SIG P226.
+2. STAPLER is locked canon for Spook, not a provisional APC9K candidate.
+3. EXTREME PREJUDICE is the CheyTac M200 carried by CRIMSON THREE / Lawrence
+   "Rip" Mansell in the Riptide Red finale.
+4. DEAD BLOW and DEADBOLT are distinct builds.
+5. DON'T TREAD retires after the Game 2 Act II militia-recognition beat.
+6. Stable IDs replace bare global build numbers; old ordinal labels are aliases.
+7. PR #22 remains the UI/prompt-system dependency unless merged first.
+
+REGISTRY SCOPE
+The v2.4 index records 34 named firearm identities:
+- 24 substantially specified or source-associated identities
+- 10 recovery-status identities whose names/known associations are preserved
+  without invented platforms or owners
+
+RECOVERY-STATUS IDENTITIES
+- HIGHER STANDARD
+- EVEN FLOW
+- HARDWARE INTERRUPT
+- SILVER LINING
+- DANGER CLOSE
+- CRISIS MANAGEMENT
+- KILLING JOKE — Ledger
+- PUNCHLINE — Ledger
+- EASTERN PROMISE — Kirill Afanasyev
+- SUCKER PUNCH — War Within
+
+SOURCE-RECOVERY RULE
+Do not silently fill the unresolved fields from naming vibes or analogy. Recover
+the originating conversation/source page or perform a new explicit adjudication,
+then update the dedicated recovery page, registry, and this compendium layer.
+
+SUPERSESSION NOTE
+The old numbered named_weapon_builds_v2_1/v2_2 files remain useful detailed
+specification records for their original entries, but they are no longer a
+complete global inventory. v2.4 controls the project-wide list.
+
+================================================================================
+END — COMPENDIUM 04 NAMED WEAPONS ADDENDUM rev1
+================================================================================
