@@ -1,7 +1,7 @@
 ================================================================================
 PROJECT WARRIORS — ADDITIONAL NAMED WEAPON RECOVERY RECORD
 Generated: 2026-07-20
-Version: rev1
+Version: rev2
 ================================================================================
 Status: durable source/recovery-control page
 
@@ -12,8 +12,8 @@ local canon files, and available project exports did not expose a complete
 platform/owner specification.
 
 This page deliberately separates confirmed facts from unresolved fields. It must
-not be used to invent missing weapon models, attachments, owners, or campaign
-placement merely to make the registry appear complete.
+not be used to invent missing weapon models, attachments, owners, build names, or
+campaign placement merely to make the registry appear complete.
 
 SEARCH SCOPE CHECKED
 - repository main branch
@@ -21,6 +21,8 @@ SEARCH SCOPE CHECKED
 - current six-compendia layer and archival/recovered source text
 - available project uploads and local canon-decision files
 - exact-name and character-name searches where an association was supplied
+- Fire Team Delta / Critter Squad roster references for Romeo, Dingo, Howler,
+  and Beaver
 
 --------------------------------------------------------------------------------
 A. USER-CONFIRMED NAMED IDENTITIES — ASSOCIATION NOT RECOVERED
@@ -118,12 +120,51 @@ Campaign: War Within
 Status: NAME / CAMPAIGN CONFIRMED; owner and full specification recovery required
 
 --------------------------------------------------------------------------------
-E. SOURCE-LANDING RULE
+E. FIRE TEAM DELTA / ROMEO SQUADMATE BUILDS
 --------------------------------------------------------------------------------
 
-These entries belong in the global registry because omitting a known identity
-would recreate the loss this audit is intended to prevent. They do not count as
-fully specified builds.
+Roster control:
+Fire Team Delta / Critter Squad consists of Romeo, Dingo, Howler, and Beaver. The
+roster is confirmed in the core timeline and recovered campaign source. Howler,
+Dingo, and Beaver also rejoin Romeo during the American Freedom campaign.
+
+PW-WPN-HOWLER-LONG-CALL
+Build name: LONG CALL
+Owner / character: Howler
+Platform: NOT RECOVERED
+Campaign: Fire Team Delta continuity; exact first-use game/mission not recovered
+Status: NAME / OWNER CONFIRMED; full specification recovery required
+Provenance: user-confirmed project development identity, 2026-07-20 follow-up
+
+PW-WPN-DINGO-NAME-UNRECOVERED
+Build name: NOT RECOVERED
+Owner / character: Dingo
+Platform: NOT RECOVERED
+Campaign: Fire Team Delta continuity
+Status: NAMED-BUILD EXISTENCE REPORTED; exact name and specification recovery required
+Counting rule: excluded from named-identity count until the exact build name is recovered
+
+PW-WPN-BEAVER-NAME-UNRECOVERED
+Build name: NOT RECOVERED
+Owner / character: Beaver
+Platform: NOT RECOVERED
+Campaign: Fire Team Delta continuity
+Status: NAMED-BUILD EXISTENCE REPORTED; exact name and specification recovery required
+Counting rule: excluded from named-identity count until the exact build name is recovered
+
+Recovery caution:
+Do not assign HIGHER STANDARD, EVEN FLOW, HARDWARE INTERRUPT, SILVER LINING,
+DANGER CLOSE, CRISIS MANAGEMENT, or any other unresolved name to Dingo or Beaver
+without recovering the originating conversation or receiving an explicit canon
+adjudication. Name resemblance or squad-role logic is not evidence.
+
+--------------------------------------------------------------------------------
+F. SOURCE-LANDING RULE
+--------------------------------------------------------------------------------
+
+Named entries belong in the global registry because omitting a known identity would
+recreate the loss this audit is intended to prevent. Unnamed owner-specific recovery
+slots remain in this control page but do not count as named identities.
 
 When an originating source is recovered:
 1. create or promote a dedicated source page under dev_src_docs/;
@@ -133,5 +174,5 @@ When an originating source is recovered:
 5. do not retain contradictory provisional guesses.
 
 ================================================================================
-END — ADDITIONAL NAMED WEAPON RECOVERY RECORD rev1
+END — ADDITIONAL NAMED WEAPON RECOVERY RECORD rev2
 ================================================================================
