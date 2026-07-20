@@ -1,0 +1,84 @@
+================================================================================
+PROJECT WARRIORS — WORKING COMPENDIUM 04 ADDENDUM
+NAMED WEAPON GLOBAL REGISTRY LANDING
+Generated: 2026-07-20
+Version: rev2
+================================================================================
+Status: compendium bridge; source pages remain authoritative
+Supersedes: PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-20_rev1.txt
+
+PURPOSE
+Expose the July 20 named-weapon consolidation and Fire Team Delta recovery pass
+to the working knowledge layer without rewriting the full inherited Compendium 04
+corpus in place.
+
+CONTROLLING INDEX
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_5.txt
+
+NEW / CORRECTED SOURCE PAGES IN THIS PASS
+- STAPLER_Build_Spec_rev1.txt
+- EXTREME_PREJUDICE_Build_Spec_rev1.txt
+- LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt
+- PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt (content rev2)
+
+KEY CORRECTIONS
+1. SAVING GRACE is an M1911A1, not a SIG P226.
+2. STAPLER is locked canon for Spook, not a provisional APC9K candidate.
+3. EXTREME PREJUDICE is the CheyTac M200 carried by CRIMSON THREE / Lawrence
+   "Rip" Mansell in the Riptide Red finale.
+4. DEAD BLOW and DEADBOLT are distinct builds.
+5. DON'T TREAD retires after the Game 2 Act II militia-recognition beat.
+6. Stable IDs replace bare global build numbers; old ordinal labels are aliases.
+7. PR #22 remains the UI/prompt-system dependency unless merged first.
+8. LONG CALL is Howler's named build. Its weapon platform and exact first-use
+   placement remain unrecovered and must not be invented.
+9. Dingo and Beaver each have a reported named-build development history, but
+   their exact build names and platforms are not recovered from the accessible
+   project corpus. They remain owner-specific recovery slots rather than counted
+   named identities.
+
+REGISTRY SCOPE
+The v2.5 index records 35 named firearm identities:
+- 24 substantially specified or source-associated identities
+- 11 recovery-status identities whose names/known associations are preserved
+  without invented platforms or owners
+- 2 additional owner-specific recovery slots whose build names are not recovered
+  and therefore are not included in the named-identity total
+
+RECOVERY-STATUS IDENTITIES
+- HIGHER STANDARD
+- EVEN FLOW
+- HARDWARE INTERRUPT
+- SILVER LINING
+- DANGER CLOSE
+- CRISIS MANAGEMENT
+- KILLING JOKE — Ledger
+- PUNCHLINE — Ledger
+- EASTERN PROMISE — Kirill Afanasyev
+- SUCKER PUNCH — War Within
+- LONG CALL — Howler / Fire Team Delta
+
+OWNER-SPECIFIC NAME-RECOVERY SLOTS
+- Dingo — exact build name/platform not recovered
+- Beaver — exact build name/platform not recovered
+
+FIRE TEAM DELTA CONTROL
+The confirmed squad roster is Romeo, Dingo, Howler, and Beaver. Do not assign any
+of the six ownerless recovery names to Dingo or Beaver through thematic inference.
+The originating project conversation or a new explicit canon adjudication is
+required before promotion into the named registry.
+
+SOURCE-RECOVERY RULE
+Do not silently fill unresolved fields from naming vibes, role assumptions, or
+analogy. Recover the originating conversation/source page or perform a new explicit
+adjudication, then update the dedicated recovery page, registry, and this compendium
+layer.
+
+SUPERSESSION NOTE
+The old numbered named_weapon_builds_v2_1/v2_2 files remain useful detailed
+specification records for their original entries, but they are no longer a complete
+global inventory. v2.5 controls the project-wide list.
+
+================================================================================
+END — COMPENDIUM 04 NAMED WEAPONS ADDENDUM rev2
+================================================================================
