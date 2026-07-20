@@ -1,0 +1,338 @@
+================================================================================
+PROJECT WARRIORS — GLOBAL NAMED WEAPON REGISTRY
+Version 2.4 — Consolidated Recovery and Correction Pass (2026-07-20)
+================================================================================
+Status: AUTHORITATIVE GLOBAL INDEX
+Supersedes: named_weapon_builds_v2_3.txt as the global registry
+Retains: named_weapon_builds_v2_2.txt as the detailed legacy/core-build
+         specification for GRAY GHOST through ARGINT
+
+PURPOSE
+This registry records every currently identified named firearm identity across
+the project, distinguishes fully specified builds from partial/recovery entries,
+and points to the source that controls each specification.
+
+Stable IDs replace bare ordinal build numbers for cross-project use. Historical
+BUILD 01–12 labels remain aliases only.
+
+--------------------------------------------------------------------------------
+0. v2.4 CORRECTIONS / GOVERNANCE
+--------------------------------------------------------------------------------
+1. SAVING GRACE corrected from SIG P226 to M1911A1. Purge P226 references in
+   the SAVING GRACE context on sight.
+2. Added HIGHER STANDARD, EVEN FLOW, HARDWARE INTERRUPT, SILVER LINING,
+   DANGER CLOSE, and CRISIS MANAGEMENT as confirmed named identities with
+   source-detail recovery status; no owner/platform is invented.
+3. Added Ledger's KILLING JOKE and PUNCHLINE. Owner is confirmed; platforms and
+   exact campaign placement remain unrecovered.
+4. Added Kirill Afanasyev's EASTERN PROMISE. "EQSTERN PROMISE" is treated as a
+   transcription/typing error pending recovery of the originating source.
+5. Added SUCKER PUNCH as a War Within named build; owner/platform remain
+   unrecovered.
+6. STAPLER remains locked canon, not a provisional APC9K candidate.
+7. EXTREME PREJUDICE remains CRIMSON THREE / Lawrence "Rip" Mansell's Riptide
+   Red finale CheyTac M200; the older Mk18 entry remains an earlier/default
+   breacher configuration, not the finale primary.
+8. DEAD BLOW and DEADBOLT remain distinct locked builds.
+9. DON'T TREAD retires in Romeo Game 2 Act II after the militia-recognition beat.
+10. PR #22 remains a dependency for the UI/prompt-system implementation unless
+    merged before this registry lands.
+
+STATUS DEFINITIONS
+- LOCKED: core identity and controlling platform are settled.
+- LOCKED CORE / FLAGS REMAIN: identity is stable; lower-level implementation
+  details remain open.
+- NAME / ASSOCIATION CONFIRMED: preserve in registry; source recovery required
+  before assigning missing platform, owner, or campaign details.
+
+--------------------------------------------------------------------------------
+1. FULLY OR SUBSTANTIALLY SPECIFIED BUILDS
+--------------------------------------------------------------------------------
+
+PW-WPN-SPOOK-GRAY-GHOST
+  Build name: GRAY GHOST
+  Platform: Noveske Rifleworks N-4 Gen3, .300 Blackout
+  Character: Trevor "Spook" Gartner
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 01
+  Variant source: GRAY_GHOST_Nightfall_Config_rev3_FINAL.txt
+
+PW-WPN-SPOOK-NOTHING
+  Build name: NOTHING
+  Platform: HK45CT, .45 ACP
+  Character: Trevor "Spook" Gartner
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 02
+  Variant source: GRAY_GHOST_Nightfall_Config_rev3_FINAL.txt
+
+PW-WPN-DUCKY-FREYA
+  Build name: FREYA
+  Platform: Grand Power R-15 Freya GEN 2, 5.56x45mm NATO
+  Character: Ferris "Ducky" Ryan
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 03
+
+PW-WPN-DUCKY-HUCKLEBERRY
+  Build name: HUCKLEBERRY
+  Platform: CZ P-09, 9x19mm
+  Character: Ferris "Ducky" Ryan
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 04
+
+PW-WPN-ROMEO-DONT-TREAD
+  Build name: DON'T TREAD
+  Platform: Ruger AC-556, 5.56x45mm NATO
+  Character: Ramón "Romeo" Álvarez
+  Status: LOCKED; retired Game 2 Act II after recognition beat
+  Detail source: named_weapon_builds_v2_2.txt BUILD 05
+  Correction source: PW_Canon_Decisions_2026-07-06.txt Section 06
+
+PW-WPN-FROST-TRG-M10
+  Build name: TRG M10
+  Platform: Sako TRG M10, .338 Lapua Magnum
+  Character: Aki "Frost" Peltola
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 06
+
+PW-WPN-SWITCHBLADE-WREN
+  Build name: WREN
+  Platform: Thales F88 Austeyr, 5.56x45mm NATO
+  Character: Cassandra "Switchblade" Stewart
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 08
+  UI exception: inspect displays F88 AUSTEYR; WREN is physical-only
+
+PW-WPN-LUPIN-ARGINT
+  Build name: ARGINT
+  Platform: FN SCAR-H DMR, 7.62x51mm NATO
+  Character: Ştefan "Lupin" Dragavei
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 09
+
+PW-WPN-ELENA-HELL-OR-HIGH-WATER
+  Build name: HELL OR HIGH WATER
+  Platform: old-service-pattern Colt M4A1
+  Character: Elena Costa
+  Status: LOCKED CORE
+  Detail source: PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt
+  Historical alias: BUILD 08; do not use as a global ID
+
+PW-WPN-KEARNEY-WORK-ORDER
+  Build name: WORK ORDER
+  Platform: 14.5-inch old-service Colt M4A1
+  Character: Eamonn Kearney
+  Status: LOCKED CORE
+  Detail source: PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt
+  Historical alias: BUILD 10
+
+PW-WPN-ROMEO-CIVIL-DISOBEDIENCE
+  Build name: CIVIL DISOBEDIENCE
+  Platform: 14.5-inch midlength AR-pattern carbine
+  Character: Ramón "Romeo" Álvarez
+  Status: LOCKED CORE
+  Detail source: PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt
+  Historical alias: BUILD 12
+
+PW-WPN-LOCK-DEADBOLT
+  Build name: DEADBOLT
+  Platform: HK416 A5, 11-inch, 5.56x45mm NATO
+  Character: Tomasz "Lock" Kaczmarek
+  Status: LOCKED
+  Detail source: PW_SHIELD_Squad_Development_Packet.txt
+
+PW-WPN-MALLET-HINGE
+  Build name: HINGE
+  Platform: B&T APC223 Pro, 10.3-inch, 5.56x45mm NATO
+  Character: Nadja "Mallet" Vuković
+  Status: LOCKED
+  Detail source: PW_SHIELD_Squad_Development_Packet.txt
+
+PW-WPN-SUTURE-TRIAGE
+  Build name: TRIAGE
+  Platform: HK416 A5, 11-inch, 5.56x45mm NATO
+  Character: Iben "Suture" Nørgaard
+  Status: LOCKED
+  Detail source: PW_SHIELD_Squad_Development_Packet.txt
+
+PW-WPN-SPLICE-GHOST-KEY
+  Build name: GHOST KEY
+  Platform: CZ BREN 2 Ms, 11-inch, 5.56x45mm NATO
+  Character: Marek "Splice" Veselý
+  Status: LOCKED
+  Detail source: PW_SHIELD_Squad_Development_Packet.txt
+
+PW-WPN-LA-AVISPA-CATCH-22
+  Build name: CATCH-22
+  Platform: suppressed Ruger LCP II, .22 LR
+  Character: La Avispa / Yelena Volkova
+  Status: NAMED WEAPON IDENTITY; dedicated full spec pending
+  Detail source: Characters / Gameplay compendium layer
+  Disambiguation: weapon, not the mission/flashback title
+
+PW-WPN-SPOOK-BACKUP-PLAN
+  Build name: BACKUP PLAN
+  Platform: HK MP7A1, 4.6x30mm
+  Character: Trevor "Spook" Gartner
+  Status: WORKING LOCK / SOURCE-READY
+  Detail source: PW_Backup_Plan_Weapon_Presentation_Note_2026-05-07_rev1.txt
+
+PW-WPN-HAWTHORNE-DEAD-BLOW
+  Build name: DEAD BLOW
+  Platform: black HK MP5SD-style suppressed 9x19mm SMG
+  Character: Nicholas Wayne Hawthorne
+  Status: LOCKED
+  Detail source: PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt
+  Correction source: PW_Canon_Decisions_2026-07-06.txt Section 02
+
+PW-WPN-SPOOK-STAPLER
+  Build name: STAPLER
+  Platform: B&T APC9K Pro-style 9x19mm SMG
+  Character: Trevor "Spook" Gartner
+  Status: LOCKED
+  Detail source: STAPLER_Build_Spec_rev1.txt
+
+PW-WPN-STOCKBRIDGE-ENFANT-TERRIBLE
+  Build name: ENFANT TERRIBLE
+  Platform: Glock 26 V MOS, 9x19mm
+  Character: Gillian Stockbridge / Lana Erika Delhardt
+  Status: WORKING LOCK / SOURCE-READY
+  Detail source: PW_Enfant_Terrible_Weapon_Presentation_Note_2026-05-08_rev1.txt
+
+PW-WPN-CHRIS-LAST-RESORT
+  Build name: LAST RESORT
+  Platform: M16A4 with M203
+  Character: Christopher "Chris" Carl Haywood
+  Status: NAME / PLATFORM LOCKED; full configuration pending
+  Detail source: LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt
+
+PW-WPN-CHRIS-SAVING-GRACE
+  Build name: SAVING GRACE
+  Platform: M1911A1, .45 ACP
+  Character: Christopher "Chris" Carl Haywood
+  Status: NAME / PLATFORM LOCKED; full configuration pending
+  Detail source: LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt
+  Correction: replaces erroneous SIG P226 association
+
+PW-WPN-CHRIS-HASTA-LA-VISTA
+  Build name: ¡HASTA LA VISTA!
+  Platform: DynaCal Remington 870 Tac-14 TACS II Custom, 12 gauge
+  Character: Christopher "Chris" Carl Haywood; inherited from Frank Manola
+  Status: CORE BUILD LOCKED; implementation flags remain
+  Detail source: HASTA_LA_VISTA_Build_Spec_rev1.txt
+
+PW-WPN-MANSELL-EXTREME-PREJUDICE
+  Build name: EXTREME PREJUDICE
+  Platform: CheyTac M200 Intervention, .408 CheyTac
+  Character: Lawrence "Rip" Mansell / CRIMSON THREE
+  Status: CORE IDENTITY LOCKED; exact configuration pending
+  Placement: Riptide Red campaign finale
+  Detail source: EXTREME_PREJUDICE_Build_Spec_rev1.txt
+
+--------------------------------------------------------------------------------
+2. RECOVERY-STATUS NAMED IDENTITIES
+--------------------------------------------------------------------------------
+
+PW-WPN-UNRESOLVED-HIGHER-STANDARD
+  Build name: HIGHER STANDARD
+  Character: NOT RECOVERED
+  Platform: NOT RECOVERED
+  Campaign: NOT RECOVERED
+  Status: NAME CONFIRMED; source-detail recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-UNRESOLVED-EVEN-FLOW
+  Build name: EVEN FLOW
+  Character: NOT RECOVERED
+  Platform: NOT RECOVERED
+  Campaign: NOT RECOVERED
+  Status: NAME CONFIRMED; source-detail recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-UNRESOLVED-HARDWARE-INTERRUPT
+  Build name: HARDWARE INTERRUPT
+  Character: NOT RECOVERED
+  Platform: NOT RECOVERED
+  Campaign: NOT RECOVERED
+  Status: NAME CONFIRMED; source-detail recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-UNRESOLVED-SILVER-LINING
+  Build name: SILVER LINING
+  Character: NOT RECOVERED
+  Platform: NOT RECOVERED
+  Campaign: NOT RECOVERED
+  Status: NAME CONFIRMED; source-detail recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-UNRESOLVED-DANGER-CLOSE
+  Build name: DANGER CLOSE
+  Character: NOT RECOVERED
+  Platform: NOT RECOVERED
+  Campaign: NOT RECOVERED
+  Status: NAME CONFIRMED; source-detail recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-UNRESOLVED-CRISIS-MANAGEMENT
+  Build name: CRISIS MANAGEMENT
+  Character: NOT RECOVERED
+  Platform: NOT RECOVERED
+  Campaign: NOT RECOVERED
+  Status: NAME CONFIRMED; source-detail recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-LEDGER-KILLING-JOKE
+  Build name: KILLING JOKE
+  Character: Ledger
+  Platform: NOT RECOVERED
+  Campaign: exact installment/source placement not recovered
+  Status: NAME / OWNER CONFIRMED; full specification recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-LEDGER-PUNCHLINE
+  Build name: PUNCHLINE
+  Character: Ledger
+  Platform: NOT RECOVERED
+  Campaign: exact installment/source placement not recovered
+  Status: NAME / OWNER CONFIRMED; full specification recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-AFANASYEV-EASTERN-PROMISE
+  Build name: EASTERN PROMISE
+  Character: Kirill Afanasyev
+  Platform: NOT RECOVERED
+  Campaign / game: NOT RECOVERED
+  Status: NAME / OWNER CONFIRMED; full specification recovery required
+  Spelling note: normalizes supplied "EQSTERN PROMISE"
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-WAR-WITHIN-SUCKER-PUNCH
+  Build name: SUCKER PUNCH
+  Character: NOT RECOVERED
+  Platform: NOT RECOVERED
+  Campaign: War Within
+  Status: NAME / CAMPAIGN CONFIRMED; owner/specification recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+--------------------------------------------------------------------------------
+3. EXCLUDED FROM NAMED-BUILD COUNT
+--------------------------------------------------------------------------------
+The following remain model-name weapons, generic drops, unnamed personal weapons,
+or mission equipment unless separately named later:
+- Frost's Cold Plunge Tikka T3x TAC A1
+- generic/security-post CheyTac M200 rifles
+- CRIMSON TWO's older personal M200 entry unless separately named
+- generic War Wolf / Atlas weapons
+- Chris's early Phalanx MCX Rattler work weapon
+- supporting-character sidearms whose only label is the model name
+- signature blades unless promoted into the named-firearm registry
+
+--------------------------------------------------------------------------------
+4. CURRENT COUNTS
+--------------------------------------------------------------------------------
+Named weapon identities in registry: 34
+Substantially specified / source-associated identities: 24
+Recovery-status identities with incomplete source details: 10
+
+================================================================================
+END — GLOBAL NAMED WEAPON REGISTRY v2.4
+================================================================================
