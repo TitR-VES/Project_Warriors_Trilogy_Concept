@@ -1,0 +1,55 @@
+================================================================================
+PROJECT WARRIORS — NAMED WEAPON REGISTRY LANDING AUDIT
+Generated: 2026-07-20
+Version: rev1
+================================================================================
+
+SCOPE
+Audit main, open PRs, current project source/compendium corpus, and supplied canon
+corrections for named firearm identities. Land durable source pages before the
+working-knowledge addendum.
+
+LANDING RESULT
+- Global registry advanced to named_weapon_builds_v2_4.txt.
+- Total identities recorded: 34.
+- Substantially specified/source-associated: 24.
+- Recovery-status identities: 10.
+
+FULL SOURCE LANDINGS / CORRECTIONS
+- STAPLER — full locked build source.
+- EXTREME PREJUDICE — finale identity and CRIMSON THREE / Lawrence Mansell lock.
+- LAST RESORT / SAVING GRACE — durable source stubs.
+- SAVING GRACE corrected to M1911A1 in The Collapse latest-thread source.
+- Compendium 04 named-weapons addendum created.
+
+RECOVERY-STATUS LANDINGS
+The following names are now protected against omission but remain incomplete:
+HIGHER STANDARD; EVEN FLOW; HARDWARE INTERRUPT; SILVER LINING; DANGER CLOSE;
+CRISIS MANAGEMENT; Ledger's KILLING JOKE and PUNCHLINE; Kirill Afanasyev's
+EASTERN PROMISE; War Within's SUCKER PUNCH.
+
+SEARCH RESULT FOR RECOVERY ENTRIES
+Exact-name and association searches did not expose complete source-supported
+platform/owner blocks in the accessible main branch, open PRs, compendia,
+recovered source text, uploaded project corpus, or local canon files. The audit
+therefore rejects speculative assignment.
+
+OPEN DEPENDENCIES / RISKS
+1. Recover or re-adjudicate platforms, owners, campaigns, and detailed configs for
+   the ten recovery entries.
+2. Merge or coordinate PR #22 before relying on its UI/prompt-system behavior.
+3. The inherited named_weapon_builds_v2_2 file remains a detailed legacy source,
+   not the global inventory.
+4. Full milestone compendium refresh remains future work; the new addendum is the
+   current bridge layer.
+5. Exact implementation details for LAST RESORT, SAVING GRACE, and EXTREME
+   PREJUDICE remain deliberately open where no source-supported detail exists.
+
+ARCHIVE / RETIREMENT VERDICT
+Do not archive or retire any originating weapon-development thread associated
+with the ten recovery entries. Their names have landed, but their source content
+has not been fully absorbed. This is a partial landing, not a complete migration.
+
+================================================================================
+END — NAMED WEAPON REGISTRY LANDING AUDIT rev1
+================================================================================
