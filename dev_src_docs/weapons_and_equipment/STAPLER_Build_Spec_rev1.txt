@@ -1,0 +1,164 @@
+================================================================================
+PROJECT WARRIORS — STAPLER BUILD SPECIFICATION
+rev1 — consolidated canon landing, 2026-07-20
+================================================================================
+Campaigns:    Spook, Games 1–3 (retroactive continuity)
+Character:    Trevor "Spook" Gartner
+Status:       LOCKED CORE BUILD / SOURCE-LANDED
+Supersedes:   provisional STAPLER / APC9K language in
+              PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt
+Companion:    PW_UI_Prompt_System_Design_rev1.txt, Section 5
+
+--------------------------------------------------------------------------------
+1. BUILD IDENTITY
+--------------------------------------------------------------------------------
+Build name:   STAPLER
+Platform:     B&T APC9K Pro-style compact 9x19mm SMG
+Finish:       Black, low-reflective, practical
+Role:         Compact shoulder weapon between NOTHING and GRAY GHOST.
+
+STAPLER is Spook's Games 1–3 compact secondary / SMG build for vehicle
+interiors, stairwells, hotel corridors, service tunnels, garages, ladders,
+rappels and short break-contact fights. It is not a vanity weapon and does not
+replace his primary rifle or sidearm.
+
+--------------------------------------------------------------------------------
+2. LOCKED PHYSICAL CONFIGURATION
+--------------------------------------------------------------------------------
+- compact telescoping stock
+- 30-round magazines with widened rubberized baseplates
+- retained detachable iron sights
+- flat-dark-earth GBRS Hydra-style optic riser
+- Vortex Crossfire-style micro red dot
+- stock B&T side rails retained on the handguard
+- low-profile forward sling point near the front-sight / top-rail area
+- Nextorch WL10X-style weapon light mounted at 6 o'clock below the front
+  handguard, immediately forward of the magazine well
+- black Steiner Micro DBAL-style night-vision-compatible laser aiming module
+  mounted on the forward rail of the Hydra-style riser
+- laser pressure switch routed to a handguard side rail
+
+Reference-image governance:
+Uploaded reference photographs establish the blast-deflector visual state. The
+Micro DBAL and pressure switch are canon even where a reference photograph does
+not show them.
+
+--------------------------------------------------------------------------------
+3. NAME LOGIC
+--------------------------------------------------------------------------------
+The short body, telescoping stock, straight magazine and widened magazine base
+produce a tool-like silhouette resembling a compact industrial or fencing
+stapler.
+
+Protected deadpan line:
+  "Because it stops things from moving."
+
+Delivery: flat, without a smile or comic pause.
+
+--------------------------------------------------------------------------------
+4. CANON MUZZLE-DEVICE STATES
+--------------------------------------------------------------------------------
+A. SUPPRESSED CONFIGURATION
+- compact B&T tri-lug quick-detach suppressor
+- default for covert entries, low-signature movement and suppressed interior
+  work
+
+B. BLAST-DEFLECTOR CONFIGURATION
+- B&T-style quick-detach forward blast deflector / forward-blast device
+- used when stealth has failed, is no longer useful, or was never the point
+- redirects blast, report and pressure forward into the engagement space while
+  reducing side concussion for Spook and nearby teammates
+- supports loud confined-space exits, vehicle interiors, stairwells, corridors,
+  garages, toll/checkpoint interiors and forced break-contact movement
+
+Technical-writing rule:
+Do not turn the blast deflector into a magical suppressor substitute or make
+unsupported real-world performance claims. The design effect is primarily
+presentation, audio, handling and AI reaction.
+
+--------------------------------------------------------------------------------
+5. ATTACHMENT-SWAP GAMEPLAY RULE
+--------------------------------------------------------------------------------
+The player does not freely swap STAPLER's muzzle devices through a normal
+customization loop. Configuration changes occur through authored preparation or
+inspect animations where the tactical register genuinely changes.
+
+Canonical scripted use:
+Mission: MAN FROM MEDAN / Operation DRAGONSLAYER, Game 1.
+Location: pool-house safe beat before the breach.
+Prompt: PREPARE LOUD.
+
+One input triggers the complete sequence:
+1. suppressor removed;
+2. forward blast deflector attached;
+3. seating click and one-beat terminal frame;
+4. loud state committed for the remainder of the mission.
+
+No music, progress bar, additional input or revert option. Post-swap inspect
+shows the blast deflector and silently omits the suppressor from available
+options. PW_UI_Prompt_System_Design_rev1 governs the exact six-step state flow.
+
+Earlier optional dialogue such as "Loud it is, then" is not canon unless
+separately restored.
+
+--------------------------------------------------------------------------------
+6. BLAST-DEFLECTOR AI / AUDIO EFFECT
+--------------------------------------------------------------------------------
+Represent the effect through animation timing, barks and short reaction windows,
+not a large HUD debuff or supernatural fear mechanic.
+
+Susceptible:
+- low-discipline irregulars, opportunists, cartel lookouts, lightly trained
+  security and lower-tier militia may flinch, duck or hesitate
+
+Partially susceptible:
+- trained regulars may show a fractional startle response but recover rapidly
+
+Resistant / effectively immune:
+- elite operators
+- personnel using effective hearing protection
+- War Wolves
+- KYSC personnel shaped by Montoya Farm conditioning and CogniConnect profile
+- autonomous systems, robots and drones
+
+Robotic systems may register the sound as sensor input but do not experience
+fear, freezing or intimidation.
+
+--------------------------------------------------------------------------------
+7. ONE-HANDED EMERGENCY HANDLING
+--------------------------------------------------------------------------------
+STAPLER permits limited one-handed emergency use while:
+- rappelling;
+- hanging from a ladder;
+- dragging a casualty, defector, VIP or intelligence package;
+- bracing inside a vehicle;
+- opening or holding a door;
+- using the support hand for balance or extraction.
+
+Semi-automatic one-handed fire is difficult but viable at close range.
+Full-automatic one-handed fire is limited to short emergency bursts with severe
+muzzle climb, recoil-control and accuracy penalties. The suppressed state is
+somewhat more manageable; the blast-deflector state is harsher indoors.
+
+This handling grammar retroactively supports Spook's earlier campaigns and
+foreshadows BACKUP PLAN's more specialized Game 4 extraction-failure role.
+
+--------------------------------------------------------------------------------
+8. INSPECT / UI RULE
+--------------------------------------------------------------------------------
+Per the universal naming rule, the inspect view displays STAPLER at bottom-left.
+Functional attachment labels remain world-anchored and appear only for
+field-interactable items. The build receives a slightly extended compact-SMG
+inspect animation appropriate to its two authored muzzle-device states.
+
+--------------------------------------------------------------------------------
+9. CONTINUITY RELATIONSHIP
+--------------------------------------------------------------------------------
+STAPLER establishes Spook's Games 1–3 compact-weapon and emergency one-handed
+handling language. BACKUP PLAN is the Game 4 evolution: an HK MP7A1-based,
+armor-defeating compact PDW optimized for extraction failure and armored contact.
+They are separate builds and may coexist in continuity.
+
+================================================================================
+END — STAPLER BUILD SPECIFICATION rev1
+================================================================================
