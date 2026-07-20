@@ -1,0 +1,74 @@
+================================================================================
+PROJECT WARRIORS — THE COLLAPSE NAMED WEAPON SOURCE STUBS
+LAST RESORT / SAVING GRACE
+rev1 — corrected 2026-07-20
+================================================================================
+Campaign: The Collapse
+Character: Christopher "Chris" Carl Haywood
+Status: name and platform locks; detailed configurations remain open
+
+PURPOSE
+This page gives LAST RESORT and SAVING GRACE durable source homes without
+inventing attachment specifications that have not yet been recovered or locked.
+
+--------------------------------------------------------------------------------
+LAST RESORT
+--------------------------------------------------------------------------------
+Build name: LAST RESORT
+Platform: M16A4 with M203 underbarrel grenade launcher
+Character: Christopher "Chris" Carl Haywood
+Status: NAME / PLATFORM LOCKED; full configuration pending
+
+Known role:
+- principal long-gun identity in The Collapse
+- acquired progressively after Chris's Phalanx phase rather than handed to him
+  as part of a complete hero loadout
+- should read as a practical collapse-war weapon rather than boutique equipment
+
+Open specification fields:
+- exact optic
+- light / laser package
+- sling
+- furniture and finish
+- ammunition carriage
+- acquisition mission and inspect presentation
+
+--------------------------------------------------------------------------------
+SAVING GRACE
+--------------------------------------------------------------------------------
+Build name: SAVING GRACE
+Platform: M1911A1
+Caliber: .45 ACP
+Character: Christopher "Chris" Carl Haywood
+Status: NAME / PLATFORM LOCKED; full configuration pending
+
+CANON CORRECTION — 2026-07-20:
+SAVING GRACE is an M1911A1, not a SIG P226. Purge P226 references in the
+SAVING GRACE context on sight. Chris may encounter or use other pistols during
+his earlier Phalanx work, but they are not SAVING GRACE.
+
+Known role:
+- signature sidearm identity in The Collapse
+- acquired progressively during Chris's transition from company-security work
+  into the collapse-war identity
+- the name should read as hard-earned contingency and survival, not ornament
+
+Open specification fields:
+- manufacturer / provenance
+- finish and wear state
+- sights
+- grips
+- magazine configuration
+- holster
+- acquisition scene and inspect presentation
+
+--------------------------------------------------------------------------------
+SOURCE GOVERNANCE
+--------------------------------------------------------------------------------
+Do not add unverified attachment details merely to make either stub look
+complete. Expand this page when the originating conversation/source packet is
+recovered or when a dedicated build-development pass adjudicates the open fields.
+
+================================================================================
+END — LAST RESORT / SAVING GRACE SOURCE STUBS rev1
+================================================================================
