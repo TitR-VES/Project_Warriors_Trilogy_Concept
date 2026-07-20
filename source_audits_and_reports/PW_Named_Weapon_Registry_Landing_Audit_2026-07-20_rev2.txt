@@ -1,0 +1,77 @@
+================================================================================
+PROJECT WARRIORS — NAMED WEAPON REGISTRY LANDING AUDIT
+Generated: 2026-07-20
+Version: rev2
+================================================================================
+Supersedes: PW_Named_Weapon_Registry_Landing_Audit_2026-07-20_rev1.txt
+
+SCOPE
+Audit main, open PRs, current project source/compendium corpus, supplied canon
+corrections, and Fire Team Delta roster continuity for named firearm identities.
+Land durable source pages before the working-knowledge addendum.
+
+LANDING RESULT
+- Global registry advanced to named_weapon_builds_v2_5.txt.
+- Total named identities recorded: 35.
+- Substantially specified/source-associated: 24.
+- Recovery-status named identities: 11.
+- Additional owner-specific recovery slots with exact name unrecovered: 2.
+
+FULL SOURCE LANDINGS / CORRECTIONS
+- STAPLER — full locked build source.
+- EXTREME PREJUDICE — finale identity and CRIMSON THREE / Lawrence Mansell lock.
+- LAST RESORT / SAVING GRACE — durable source stubs.
+- SAVING GRACE corrected to M1911A1 in The Collapse latest-thread source.
+- Compendium 04 named-weapons addendum created and advanced to rev2.
+
+FIRE TEAM DELTA RECOVERY LANDING
+- The confirmed Fire Team Delta roster is Romeo, Dingo, Howler, and Beaver.
+- LONG CALL is now protected as Howler's named build.
+- LONG CALL's platform and exact first-use campaign/mission were not recovered.
+- Dingo and Beaver each retain owner-specific named-build recovery slots, but the
+  accessible project corpus did not expose their exact build names or platforms.
+- Dingo and Beaver are therefore excluded from the named-identity count until their
+  names are recovered or explicitly re-adjudicated.
+
+RECOVERY-STATUS NAMED IDENTITIES
+The following names are protected against omission but remain incomplete:
+HIGHER STANDARD; EVEN FLOW; HARDWARE INTERRUPT; SILVER LINING; DANGER CLOSE;
+CRISIS MANAGEMENT; Ledger's KILLING JOKE and PUNCHLINE; Kirill Afanasyev's
+EASTERN PROMISE; War Within's SUCKER PUNCH; Howler's LONG CALL.
+
+SEARCH RESULT FOR FIRE TEAM DELTA BUILDS
+Exact-name and association searches across the accessible repository, open PRs,
+current and archival compendia, recovered campaign text, uploaded project corpus,
+and local canon files confirmed the squad roster but did not expose the originating
+LONG CALL configuration or the exact names/platforms of Dingo's and Beaver's builds.
+The audit therefore records only the user-confirmed LONG CALL / Howler association
+and refuses speculative assignment for the remaining two squadmates.
+
+SEARCH RESULT FOR OTHER RECOVERY ENTRIES
+Exact-name and association searches did not expose complete source-supported
+platform/owner blocks in the accessible main branch, open PRs, compendia,
+recovered source text, uploaded project corpus, or local canon files. The audit
+therefore rejects speculative assignment.
+
+OPEN DEPENDENCIES / RISKS
+1. Recover or re-adjudicate platforms, owners, campaigns, and detailed configs for
+   the eleven named recovery entries.
+2. Recover the exact build names and configurations for Dingo and Beaver.
+3. Merge or coordinate PR #22 before relying on its UI/prompt-system behavior.
+4. The inherited named_weapon_builds_v2_2 file remains a detailed legacy source,
+   not the global inventory.
+5. Full milestone compendium refresh remains future work; the new addendum is the
+   current bridge layer.
+6. Exact implementation details for LAST RESORT, SAVING GRACE, EXTREME PREJUDICE,
+   and LONG CALL remain deliberately open where no source-supported detail exists.
+
+ARCHIVE / RETIREMENT VERDICT
+Do not archive or retire any originating weapon-development thread associated
+with the eleven named recovery entries, Dingo's unrecovered build, or Beaver's
+unrecovered build. Their identities or owner slots have landed, but their source
+content has not been fully absorbed. This is a partial landing, not a complete
+migration.
+
+================================================================================
+END — NAMED WEAPON REGISTRY LANDING AUDIT rev2
+================================================================================
