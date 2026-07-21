@@ -1,0 +1,73 @@
+PROJECT WARRIORS — PROCELLA FACTION REFERENCE
+Generated: 2026-07-21
+Version: rev1
+Status: WORKING FACTION SOURCE
+Campaign: Project Warriors: The Storm
+
+SUMMARY
+Procella is a distributed clandestine resistance network active across the
+Russian Far East and adjacent maritime margins. It is a survival network that
+became a resistance network as state machinery increasingly turned distance,
+weather, infrastructure, logistics, and isolation into instruments of coercion.
+
+Procella is not:
+- a clean parallel government
+- a mass public army
+- a polished intelligence service
+- a cinematic brotherhood
+- an anti-Russian abstraction
+
+Likely components:
+- route keepers
+- local technical hands
+- defectors and compromised-state personnel
+- port, transport, salvage, and infrastructure workers
+- maritime smugglers/fixers
+- relay/weather maintainers
+- civilian safe-contact chains
+- selected former military/security professionals
+
+Core functions:
+1. Route survival for defectors, refugees, couriers, intelligence, and equipment.
+2. Infrastructure exploitation: relays, batteries, power, weather, navigation,
+   generators, and dead facilities.
+3. Precision sabotage that changes conditions instead of maximizing spectacle.
+4. Human continuity: routes exist to preserve people, not only operations.
+
+Operating rules:
+- compartmentalization
+- usefulness over ideology
+- continuity over spectacle
+- local knowledge matters
+- fragility is constant
+
+GEOGRAPHY
+Primary lane:
+- Russian Far East
+- coastal towns and port environments
+- remote relay/weather sites
+- shoreline/offshore extraction seams
+- neglected industrial and utility infrastructure
+
+The Pacific is escape space, logistics space, surveillance space, risk space, and
+contact space. It is not automatically a theater-scale naval-war campaign.
+
+ALBATROSS
+Albatross is one of Procella's most valuable continuity minds: strategist, trust
+broker, hidden-route architect, and long-range pattern reader. He should remain
+slightly above the frame and must not be equated with the entire organization.
+
+DENIS / SAKHALIN
+Denis represents Procella at ground level: route validation, extraction, littoral
+movement, dead-system revival, and selective sabotage. If Albatross understands
+the network, Denis tests whether it still exists in physical reality.
+
+TONE
+Cold, practical, restrained, weather-aware, and consequence-driven. Avoid
+theatrical rebellion iconography, revolutionary speechmaking, and tidy political
+simplification.
+
+SOURCE
+Project_Warriors_The_Storm_Thread_Transcript_2026-07-21.txt
+
+END
