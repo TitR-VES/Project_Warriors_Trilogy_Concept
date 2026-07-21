@@ -1,0 +1,43 @@
+PROJECT WARRIORS — ONTOLOGY / CANON COMPENDIUM PATCH
+Generated: 2026-07-21
+Version: rev1
+Status: SOURCE-LANDED SYNTHESIS PATCH
+
+CORE / TIMELINE
+- Ducky Game 1 = DO RIGHT, FEAR NONE.
+- Spook Game 1 = RIPTIDE RED.
+- ZERO HOUR replaces Hudson Overlook as the current title; content and chronology are unchanged.
+- Game 4 is roughly two years after Game 3.
+- War Within is a DLC partly parallel with Game 4.
+- The Collapse is roughly two years after Game 4 and precedes federal collapse.
+- Nightfall is last, roughly 15–20 years after Game 4 and after the limited China–Israel nuclear exchange and Scorched Crescent.
+
+GAME 4
+- COMMAND AUTHORITY — Romeo.
+- COMMON PICTURE — Ducky.
+- PERMANENT RECORD — Spook.
+- Shreveport belongs to COMMAND AUTHORITY.
+- HYPERMNESTRA -> VIGILAN belongs to COMMON PICTURE.
+
+WAR WITHIN
+- Protagonist: Nicholas Wayne Hawthorne / Croatoan.
+- Morehead City marine-diesel mechanic, marksman, militiaman, and former AFC saboteur.
+- The toxic coastal-spill family loss drives disillusionment and NAF recruitment.
+- DEAD BLOW belongs to Hawthorne.
+- SUCKER PUNCH belongs to Mark “Skidrow” Champlin and is available temporarily during the final hotel escape; its platform remains unrecovered.
+
+NIGHTFALL
+- The Scorched Crescent / Middle Eastern Nuclear Strike Zone extends from the Levant across the Arabian Peninsula toward Oman and the UAE.
+- Exact exchange sequence and full fallout map remain open source work.
+
+STORM
+- Preserve as a DLC dependency on Game 3 and Nightfall.
+- No controlling source page was recovered, so all substantive details remain source recovery required.
+
+ONTOLOGY GOVERNANCE
+- Missing world-event schema added.
+- Weapon schema gains campaign references, placement, and player-availability.
+- Named weapon registry advanced to v2.7.
+- Rev1 ontology files are not safe to retire until merge, spot-check, and downstream migration are complete.
+
+END
