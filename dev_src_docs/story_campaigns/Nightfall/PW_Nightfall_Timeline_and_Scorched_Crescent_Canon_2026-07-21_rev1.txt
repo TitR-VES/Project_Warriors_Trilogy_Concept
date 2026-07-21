@@ -1,0 +1,54 @@
+PROJECT WARRIORS — NIGHTFALL TIMELINE AND SCORCHED CRESCENT CANON
+Generated: 2026-07-21
+Version: rev1
+Status: LOCKED BROAD-PLACEMENT / WORLD-STATE CORRECTION
+
+PURPOSE
+This page closes the high-level chronology and geography gap identified in the
+July 6 Nightfall source update without inventing exact strike-by-strike precision.
+
+CHRONOLOGY
+- Nightfall is the last currently known chronological era.
+- Nightfall begins roughly 15–20 years after Game 4.
+- It occurs after the collapse of US federal authority.
+- It occurs after a limited China–Israel nuclear exchange.
+- It occurs after the resulting nuclear devastation has become known in-world as
+  the Scorched Crescent.
+
+NUCLEAR EXCHANGE
+- Belligerents at the locked topline: China and Israel.
+- Scale: limited, not global.
+- Tone: horrifying and strategically specific.
+- Existing supporting context includes major damage in Syria and adjacent regions,
+  limited effects in Iran / Israel and southwest China, fallout reaching Turkey,
+  and Turkish retaliatory escalation.
+- Do not reduce the event to “AI did it.” AI involvement may remain ambiguous
+  unless separately locked.
+
+SCORCHED CRESCENT
+Canonical name: Scorched Crescent
+Alternate descriptive name: Middle Eastern Nuclear Strike Zone
+Geographic topline:
+- begins in the Levant, including Syria and Lebanon;
+- extends across the Arabian Peninsula;
+- reaches toward Oman and the United Arab Emirates.
+
+Use rule:
+The term describes the connected in-world scar / strike-zone geography and its
+long-term human and strategic consequences. It must not become a repeated
+spectacle motif. The established Long Shadows restraint rule still applies.
+
+ONTOLOGY ANCHORS
+- PW-EVT-CHINA-ISRAEL-LIMITED-NUCLEAR-EXCHANGE
+- PW-EVT-SCORCHED-CRESCENT-FORMATION
+- PW-EVT-NIGHTFALL-OPEN
+
+OPEN SOURCE WORK
+Still requires dedicated development:
+- exact exchange sequence and dates;
+- complete target list;
+- scientific fallout and contamination map;
+- political sequence between exchange, Turkish retaliation, and Nightfall;
+- final reconciliation with Storm DLC consequences.
+
+END
