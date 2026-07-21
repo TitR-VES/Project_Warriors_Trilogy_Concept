@@ -12,8 +12,10 @@ LOCKED PLACEMENT
 - Game 4 begins roughly two years after the close of Game 3.
 - Do not hard-code a precise calendar date until the Game 3 close is dated.
 - War Within is a DLC that overlaps part of the Game 4 window.
-- The Collapse DLC begins roughly two years after Game 4 and unfolds in the
-  months preceding the eventual collapse of US federal authority.
+- A post-Game 4 reckoning, restoration election, and long unraveling lead into
+  The Collapse over approximately two to three years.
+- The playable Collapse DLC unfolds in the months preceding the eventual collapse
+  of US federal authority.
 - Nightfall is not before Game 4. Nightfall is the last known era, roughly
   15–20 years after Game 4.
 
@@ -26,6 +28,7 @@ ONTOLOGY ANCHORS
 - PW-EVT-GAME3-CLOSE
 - PW-EVT-GAME4-OPEN
 - PW-EVT-GAME4-CLOSE
+- PW-EVT-POST-G4-RESTORATION-UNRAVELING
 - PW-EVT-THE-COLLAPSE-WINDOW
 
 CAMPAIGN-TRACK IDS
@@ -41,6 +44,18 @@ content in:
 - PW_Command_Authority_Latest_Thread_Update_2026-07-06_rev1.txt
 - PW_HYPERMNESTRA_VIGILAN_Continuity_and_ANTIFRAGILITY_Sub_Arc_Note_2026-05-08_rev1.txt
 - current Permanent Record source pages.
+
+POST-GAME 4 BRIDGE
+- The Crodyn administration falls and Gillian Stockbridge reaches trial.
+- A legitimate but disrupted successor election occurs.
+- The successor administration is legally valid but overwhelmed and partially
+  compromised by surviving influence networks.
+- NAF/local armed governance, kingmaker remnants, and humanitarian need outpace
+  reconstruction.
+- Exact calendar dates remain open.
+
+SOURCE ADDITION
+- dev_src_docs/story_campaigns/TheCollapse/PW_Post_Game4_Political_Transition_and_Collapse_Bridge_2026-07-21_rev1.txt
 
 CONTINUITY CAUTION
 The current source set contains a live Pacer-death continuity conflict between
