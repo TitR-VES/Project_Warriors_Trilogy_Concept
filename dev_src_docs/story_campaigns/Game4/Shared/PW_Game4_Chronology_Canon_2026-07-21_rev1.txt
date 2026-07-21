@@ -1,0 +1,52 @@
+PROJECT WARRIORS — GAME 4 CHRONOLOGY CANON
+Generated: 2026-07-21
+Version: rev1
+Status: LOCKED BROAD-PLACEMENT CORRECTION
+
+PURPOSE
+This page corrects the chronology and ontology treatment of Game 4. It should be
+read with the existing Game 4 campaign source pages; where chronology conflicts,
+this page controls.
+
+LOCKED PLACEMENT
+- Game 4 begins roughly two years after the close of Game 3.
+- Do not hard-code a precise calendar date until the Game 3 close is dated.
+- War Within is a DLC that overlaps part of the Game 4 window.
+- The Collapse DLC begins roughly two years after Game 4 and unfolds in the
+  months preceding the eventual collapse of US federal authority.
+- Nightfall is not before Game 4. Nightfall is the last known era, roughly
+  15–20 years after Game 4.
+
+LOCKED CAMPAIGNS
+1. COMMAND AUTHORITY — Romeo.
+2. COMMON PICTURE — Ducky.
+3. PERMANENT RECORD — Spook.
+
+ONTOLOGY ANCHORS
+- PW-EVT-GAME3-CLOSE
+- PW-EVT-GAME4-OPEN
+- PW-EVT-GAME4-CLOSE
+- PW-EVT-THE-COLLAPSE-WINDOW
+
+CAMPAIGN-TRACK IDS
+- PW-TRK-G4-COMMAND-AUTHORITY
+- PW-TRK-G4-COMMON-PICTURE
+- PW-TRK-G4-PERMANENT-RECORD
+
+SOURCE RELATIONSHIP
+This page refines the prior broad 12–24 month Game 4 guidance into the current
+preferred “roughly two years after Game 3” lock. It does not replace campaign
+content in:
+- PW_Game4_Restoration_Era_Sequel_Direction_and_Seed_Pack_2026-05-05_rev1.txt
+- PW_Command_Authority_Latest_Thread_Update_2026-07-06_rev1.txt
+- PW_HYPERMNESTRA_VIGILAN_Continuity_and_ANTIFRAGILITY_Sub_Arc_Note_2026-05-08_rev1.txt
+- current Permanent Record source pages.
+
+CONTINUITY CAUTION
+The current source set contains a live Pacer-death continuity conflict between
+older Game 4 material and newer Nightfall/fragmentation material. This chronology
+correction does not adjudicate that separate conflict. Preserve the latest locked
+Pacer event in the timeline and flag the older source wording for a dedicated
+character/faction pass.
+
+END
