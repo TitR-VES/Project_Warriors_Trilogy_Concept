@@ -1,0 +1,289 @@
+PROJECT WARRIORS — THE STORM DLC SOURCE LANDING
+Generated: 2026-07-21
+Version: rev1
+Status: WORKING AUTHORITATIVE DEVELOPMENT SOURCE
+Supersedes: PW_Storm_DLC_Source_Recovery_Placeholder_2026-07-21_rev1.txt
+
+PURPOSE
+This page absorbs the recovered 2026-07-21 Storm development transcript into a
+durable source layer. It resolves the prior source-recovery gap without upgrading
+explicitly open details into hard final canon.
+
+================================================================================
+01. IDENTITY AND PLACEMENT
+================================================================================
+- External campaign title: PROJECT WARRIORS: THE STORM.
+- Format: DLC.
+- Central faction: PROCELLA.
+- Primary setting: Russian Far East and adjacent Pacific littoral routes.
+- Primary playable protagonist: Denis Nikolaevich Malinin.
+- Field/network callsign: SAKHALIN.
+- Key supporting figure: Albatross.
+- At least one mission overlaps Spook's Game 3 campaign in Tomakomai, Hokkaido:
+  FURTHER EAST (Sakhalin) synchronizes with OUTER PORT (Spook).
+- The wider Storm opening and closing dates remain open.
+- The pre-existing Nightfall dependency remains valid, but its exact consequence
+  path remains future source work.
+
+Placement rule:
+The Tomakomai overlap proves that part of The Storm occurs during Game 3. Do not
+infer that the entire DLC is coterminous with Game 3 until the complete act
+structure is dated.
+
+================================================================================
+02. CAMPAIGN THESIS
+================================================================================
+The Storm is a clandestine Far East lifeline campaign, not a conventional Pacific
+war campaign. Its core conflict is the survival of routes, people, power, signals,
+and trust under a predatory or hollow state system.
+
+Core player fantasy:
+KEEP THE ROUTE ALIVE.
+
+Core verbs:
+- move
+- guide
+- revive
+- improvise
+- sabotage
+- extract
+- endure
+
+Signature materials:
+- shoreline and small-boat movement
+- defectors and refugee extraction
+- weather and navigation data sabotage
+- batteries, generators, relays, and improvised communications
+- selective denial of regime coastal logistics and surveillance
+- abrupt practical combat subordinate to movement and survival
+
+Scope boundary:
+Japan may appear as a limited contact seam, especially Tomakomai. The campaign
+must not expand into the formal Australia/China-Pacific war lane reserved for
+Home Defense.
+
+================================================================================
+03. PROCELLA
+================================================================================
+Procella is a distributed clandestine resistance ecosystem operating across the
+Russian Far East and Pacific edge. It is not a parallel government, polished
+intelligence service, or romantic mass movement.
+
+Likely network components:
+- route keepers and local technical hands
+- compromised-state defectors
+- port, salvage, transport, and infrastructure workers
+- maritime smugglers and fixers
+- weather/relay maintainers
+- civilian safe-contact chains
+- select former military/security personnel who broke with the regime
+
+Operating principles:
+- compartmentalization
+- usefulness over rhetoric
+- continuity over spectacle
+- local knowledge over central assumptions
+- constant fragility
+
+Albatross is a long-range continuity mind: strategist, trust broker, route
+architect, and pattern reader. He is not the totality of Procella and should not
+be overexposed.
+
+================================================================================
+04. DENIS NIKOLAEVICH MALININ / SAKHALIN
+================================================================================
+Working identity:
+- born in Sovetskaya Gavan; Vanino/Sovetskaya Gavan coastal corridor
+- age 39 in the 2028 development frame
+- younger sister: yes; name/details open
+- Russian Far East regional identity
+- former Pacific-facing maritime reconnaissance / naval-special-operations-
+  adjacent field professional
+- later experience in remote infrastructure, salvage, shipping support, weather/
+  navigation systems, batteries, relays, generators, and coastal logistics
+
+Current Procella role:
+- littoral field operator
+- route validator
+- extraction lead
+- selective sabotage hand
+- dead-system revival specialist
+
+Character rules:
+- quiet, practical, observant, regionally rooted
+- protective through competence, not sentiment performance
+- hates waste more than enemies: wasted people, fuel, routes, time, and chances
+- not a Moscow glamour assassin, speechifying dissident, or generic stoic superman
+- systems competence must come from post-service work, not magical operator skill
+
+Visual lane:
+- lean durable build
+- ash-brown short practical hair
+- rough beard/heavy stubble
+- grey-blue eyes
+- weathered light skin
+- maritime workwear / technical outerwear / low-signature field adaptation
+- charcoal, slate, dark olive-grey, faded black
+- no glossy PMC, cyberpunk, or tacticool overbuild
+
+Relationship split:
+- Albatross sees the map.
+- Denis walks the route.
+
+================================================================================
+05. SIGNATURE BUILD — DEAD RECKONING
+================================================================================
+Stable registry ID:
+PW-WPN-SAKHALIN-DEAD-RECKONING
+
+Working status:
+WORKING LOCK / SOURCE-READY, not a hard final specification.
+
+User:
+Denis Nikolaevich Malinin / Sakhalin.
+
+Platform:
+AK-105, 5.45x39mm.
+
+Role:
+Compact littoral field carbine for shoreline movement, extraction security,
+relay-site work, and selective sabotage.
+
+Working attachment lane:
+- compact weather-tolerant red dot in the Aimpoint Micro T-2 lane
+- compact scout-pattern white light
+- plain adjustable two-point sling
+- side-folding stock
+- restrained practical handguard modernization
+- flash hider by default
+- suppressor-capable mission-state variant
+- no default visible laser
+
+Visual/governance rules:
+- used, maintained, and relied upon
+- no vanity finish or rail-farm overbuild
+- supportability and long-carry practicality over fashion
+- “BUILD 13” may be retained only as a provisional development alias; stable IDs
+  control the global registry and ordinal reuse must not create collisions.
+
+Name rationale:
+DEAD RECKONING is both a maritime navigation term and a character thesis:
+movement through uncertainty when maps, signals, and official systems are wrong
+or lying.
+
+================================================================================
+06. EARLY MISSION SPINE
+================================================================================
+Working mission anchors:
+1. Storm opening route-check mission
+   Transcript working title: SOUTH CULVERT.
+   IMPORTANT: this title conflicts with an existing Spook Game 3 mission in the
+   current Dark Skies ladder. Preserve the mission concept but rename before hard
+   title lock.
+2. FALSE WEATHER.
+3. LAST LIGHT HARBOR.
+4. COLD BATTERY.
+5. DRIFT LINE.
+6. NORTHERN WINDOW.
+7. FURTHER EAST — late Japan/Tomakomai contact route and Game 3 overlap.
+
+Act-shape direction:
+- Act I: The Route Exists.
+- Act II: The Route Is a Weapon.
+- Act III: The Route Costs Blood.
+- Act IV: The Route Must Survive.
+
+Mission-development status:
+The opening route-check and FALSE WEATHER have one-page development blocks.
+FURTHER EAST has a developed Tomakomai handoff seam with OUTER PORT. The remaining
+anchors are working mission directions, not complete locked ladders.
+
+================================================================================
+07. FURTHER EAST / OUTER PORT SYNCHRONIZATION
+================================================================================
+Location:
+Tomakomai outer port, Hokkaido, Japan.
+
+Storm-facing mission:
+FURTHER EAST.
+
+Spook Game 3 mission:
+OUTER PORT.
+
+Characters:
+- Denis “Sakhalin” Malinin.
+- Officer Trevor Gartner / Spook.
+- Albatross in remote support.
+- Tripper and Smoke support Spook's side.
+
+Design rule:
+This is an asymmetrical callback through different pressure and different
+knowledge, not a duplicate mission from another camera.
+
+Storm-side dramatic function:
+- Sakhalin must reach Tomakomai, validate the route, survive surveillance pressure,
+  and decide whether the unfamiliar American contact is real or bait.
+- Objective progression should preserve distrust:
+  REACH THE CONTACT DISTRICT -> CONFIRM THE AMERICAN -> SECURE THE HANDOFF.
+- FURTHER EAST ends at the exact hinge where the meeting becomes Spook's lane.
+
+Spook-side dramatic function:
+- OUTER PORT owns the contact conversation and Spook's assessment of Sakhalin.
+- Spook recognizes route-language competence but does not receive Sakhalin's full
+  preceding burden.
+- Gartner is the correct surname. “Gardner” is an error.
+
+The developed handoff uses:
+- a deliberately killed port lamp
+- a pale-blue chalk “cold” line as route language
+- a waterproof intelligence envelope
+- no instant trust, no speeches, and no duplicated exposition
+- Denis's exit through the lower waterline service seam after the handoff
+
+================================================================================
+08. COLD FRONTIER 07 / PARHELION-53 CONNECTION RULE
+================================================================================
+Sakhalin must not become a direct owner of Frost's intimate Cold Frontier 07
+history.
+
+Frost retains:
+- the wound
+- Jussi Mustonen
+- the lakeshore
+- the face shot
+- the cover-up's personal cost
+
+Permitted later seam:
+Procella, Albatross, or Sakhalin may surface institutional FSB residue connected
+to Mikhail Konstantinovich Kostropov and Parhelion-53:
+- a name
+- document fragment
+- personnel trace
+- logistics or routing residue
+- evidence supporting later accountability
+
+This connection adds institutional depth without shrinking Frost's story.
+Sakhalin may help uncover proof; he does not “already know what happened to
+Frost” in personal terms.
+
+================================================================================
+09. OPEN FLAGS
+================================================================================
+Still open:
+- complete Storm campaign dates and full mission ladder
+- exact former service designation and rank for Denis
+- exact break-event incident
+- younger sister's name/details
+- final attachment manufacturers for DEAD RECKONING
+- exact Nightfall consequence/dependency path
+- exact Northern Window/Japan external-contact design
+- final title replacing the conflicting Storm use of SOUTH CULVERT
+- whether all working mission titles survive later ladder development
+
+================================================================================
+10. SOURCE
+================================================================================
+Controlling transcript:
+Project_Warriors_The_Storm_Thread_Transcript_2026-07-21.txt
+
+END
