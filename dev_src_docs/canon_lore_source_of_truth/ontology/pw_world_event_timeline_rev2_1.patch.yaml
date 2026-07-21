@@ -1,0 +1,393 @@
+meta:
+  patch_id: PW-ONT-TIMELINE-PATCH-2026-07-21-REV2
+  applies_to: pw_world_event_timeline_rev1.yaml
+  produces: pw_world_event_timeline_rev2_1.yaml
+  generated: '2026-07-21'
+  status: locked_and_working_correction_patch
+  sources:
+  - dev_src_docs/canon_lore_source_of_truth/PW_Ontology_Canon_Corrections_2026-07-21_rev1.txt
+  - dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt
+  - dev_src_docs/story_campaigns/TheCollapse/PW_Post_Game4_Political_Transition_and_Collapse_Bridge_2026-07-21_rev1.txt
+operations:
+- op: replace_campaign_track
+  match_id: PW-TRK-G1-RIPTIDE-RED
+  value:
+    id: PW-TRK-G1-DO-RIGHT-FEAR-NONE
+    title: Do Right, Fear None
+    installment: Game 1
+    protagonist: Ducky (SFC Ferris Ryan)
+    historical_aliases:
+    - PW-TRK-G1-RIPTIDE-RED (erroneous rev1 ID; retired)
+    status: confirmed
+- op: update_campaign_track
+  match_id: PW-TRK-G1-RIPTIDE-RED-SPOOK
+  set:
+    title: Riptide Red
+    protagonist: Spook (Trevor Gartner)
+    historical_titles:
+    - Riptide Red (Spook sub-campaign)
+    status: confirmed
+- op: replace_references
+  from: PW-TRK-G1-RIPTIDE-RED
+  to: PW-TRK-G1-DO-RIGHT-FEAR-NONE
+- op: update_event
+  match_id: PW-EVT-HUDSON-OVERLOOK
+  set:
+    name: Zero Hour
+    historical_titles:
+    - Hudson Overlook
+    notes: Name-only change; sequence content and chronology remain unchanged.
+- op: replace_era_order
+  value:
+  - PW-ERA-CONSPIRACY
+  - PW-ERA-ACTIVATION
+  - PW-ERA-WWIII
+  - PW-ERA-G4
+  - PW-ERA-COLLAPSE
+  - PW-ERA-FRAGMENTATION
+  - PW-ERA-NIGHTFALL
+- op: set_era_boundaries
+  values:
+    PW-ERA-WWIII:
+      end: PW-EVT-GAME3-CLOSE
+    PW-ERA-G4:
+      start: PW-EVT-GAME4-OPEN
+      end: PW-EVT-GAME4-CLOSE
+    PW-ERA-COLLAPSE:
+      start: PW-EVT-POST-G4-RESTORATION-UNRAVELING
+      end: PW-EVT-FEDERAL-COLLAPSE
+    PW-ERA-FRAGMENTATION:
+      start: PW-EVT-FEDERAL-COLLAPSE
+      end: PW-EVT-NIGHTFALL-OPEN
+    PW-ERA-NIGHTFALL:
+      start: PW-EVT-NIGHTFALL-OPEN
+- op: add_events
+  values:
+  - id: PW-EVT-GAME3-CLOSE
+    name: Game 3 mainline close / restoration threshold
+    era: PW-ERA-WWIII
+    date:
+      era_only: late WWIII / close of Game 3
+    status: working
+  - id: PW-EVT-GAME4-OPEN
+    name: Game 4 restoration-era campaigns begin
+    era: PW-ERA-G4
+    date:
+      relative: roughly 2 years after PW-EVT-GAME3-CLOSE
+      anchor: PW-EVT-GAME3-CLOSE
+    status: confirmed
+  - id: PW-EVT-WAR-WITHIN-ARC
+    name: War Within DLC campaign arc
+    era: PW-ERA-G4
+    date:
+      relative: partly parallel with Game 4
+      anchor: PW-EVT-GAME4-OPEN
+    status: confirmed
+  - id: PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+    name: Lt. Col. Stanley Abernathy assassinated at VIATECH '31
+    era: PW-ERA-G4
+    date:
+      relative: War Within finale during Game 4 overlap
+      anchor: PW-EVT-WAR-WITHIN-ARC
+    status: confirmed
+  - id: PW-EVT-GAME4-CLOSE
+    name: Game 4 restoration-era campaigns close
+    era: PW-ERA-G4
+    date:
+      era_only: close of Game 4
+    status: confirmed
+  - id: PW-EVT-THE-COLLAPSE-WINDOW
+    name: The Collapse DLC campaign window begins
+    era: PW-ERA-COLLAPSE
+    date:
+      relative: approximately 2–3 years after PW-EVT-GAME4-CLOSE
+      anchor: PW-EVT-GAME4-CLOSE
+    status: working
+    sources:
+    - dev_src_docs/story_campaigns/TheCollapse/PW_Post_Game4_Political_Transition_and_Collapse_Bridge_2026-07-21_rev1.txt
+  - id: PW-EVT-CHINA-ISRAEL-LIMITED-NUCLEAR-EXCHANGE
+    name: Limited China–Israel nuclear exchange
+    era: PW-ERA-FRAGMENTATION
+    date:
+      relative: after Game 4 and before Nightfall
+      anchor: PW-EVT-GAME4-CLOSE
+    status: confirmed
+    notes: Home Defense continuity establishes Israeli strategic autonomy/hardening before this later exchange;
+      exact Home Defense placement remains open.
+    sources:
+    - dev_src_docs/story_campaigns/Nightfall/PW_Nightfall_Timeline_and_Scorched_Crescent_Canon_2026-07-21_rev1.txt
+    - dev_src_docs/story_campaigns/HomeDefense/PW_Home_Defense_Geopolitical_Continuity_2026-07-21_rev1.txt
+  - id: PW-EVT-SCORCHED-CRESCENT-FORMATION
+    name: Scorched Crescent / Middle Eastern Nuclear Strike Zone forms
+    era: PW-ERA-FRAGMENTATION
+    date:
+      relative: aftermath of limited nuclear exchange
+      anchor: PW-EVT-CHINA-ISRAEL-LIMITED-NUCLEAR-EXCHANGE
+    status: confirmed
+  - id: PW-EVT-NIGHTFALL-OPEN
+    name: Nightfall campaigns begin
+    era: PW-ERA-NIGHTFALL
+    date:
+      relative: roughly 15–20 years after PW-EVT-GAME4-CLOSE
+      anchor: PW-EVT-GAME4-CLOSE
+    status: confirmed
+  - id: PW-EVT-DUCKY-G1-RETREAT-HELL
+    name: Retreat, Hell
+    era: PW-ERA-WWIII
+    date:
+      era_only: Ducky Game 1 Maasvlakte approach / campaign pre-finale
+    location: Dutch coast near the Maasvlakte terminal, Rotterdam
+    ordering:
+      before:
+      - PW-EVT-DUCKY-G1-MAASVLAKTE-FINALE
+    depicted_in:
+    - PW-TRK-G1-DO-RIGHT-FEAR-NONE
+    status: locked
+    notes: Mission-title lock including comma punctuation. Name/content placement applies to the approach mission,
+      not the terminal finale.
+    sources:
+    - dev_src_docs/story_campaigns/Game1/Ducky/PW_RETREAT_HELL_Mission_Retitle_2026-07-21_rev1.txt
+  - id: PW-EVT-DUCKY-G1-MAASVLAKTE-FINALE
+    name: Maasvlakte Oil and Gas Terminal defense
+    era: PW-ERA-WWIII
+    date:
+      era_only: Ducky Game 1 campaign finale
+    location: Port of Rotterdam, Netherlands
+    ordering:
+      after:
+      - PW-EVT-DUCKY-G1-RETREAT-HELL
+    depicted_in:
+    - PW-TRK-G1-DO-RIGHT-FEAR-NONE
+    status: confirmed
+    notes: Separate finale anchor retained so RETREAT, HELL is not misrepresented as the final terminal-defense
+      mission.
+    sources:
+    - dev_src_docs/story_campaigns/Game1/Ducky/PW_RETREAT_HELL_Mission_Retitle_2026-07-21_rev1.txt
+    - Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt
+  - id: PW-EVT-STORM-FURTHER-EAST-OUTER-PORT
+    name: Further East / Outer Port Tomakomai handoff
+    era: PW-ERA-WWIII
+    date:
+      era_only: Game 3 / The Storm overlap; exact date TBD
+    location: Tomakomai outer port, Hokkaido, Japan
+    actors:
+    - Denis Nikolaevich Malinin / Sakhalin
+    - Trevor Gartner / Spook
+    - Albatross
+    - Tripper
+    - Smoke
+    ordering:
+      before:
+      - PW-EVT-GAME3-CLOSE
+    relations:
+      synchronizes_missions:
+      - Further East (The Storm)
+      - Outer Port (Spook Game 3)
+    depicted_in:
+    - PW-TRK-DLC-STORM
+    - PW-TRK-G3-DARK-SKIES
+    status: working
+    notes: 'Asymmetrical callback: Further East owns Sakhalin’s route and trust validation; Outer Port owns Spook’s
+      contact exchange. Gartner is the correct surname.'
+    sources:
+    - dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Spook/PW_Spook_Game3_Storm_Synchronization_Addendum_2026-07-21_rev1.txt
+  - id: PW-EVT-POST-G4-RESTORATION-UNRAVELING
+    name: Post-Game 4 reckoning, restoration election, and long unraveling
+    era: PW-ERA-COLLAPSE
+    date:
+      relative: after PW-EVT-GAME4-CLOSE and before PW-EVT-THE-COLLAPSE-WINDOW
+      anchor: PW-EVT-GAME4-CLOSE
+    actors:
+    - Crodyn administration
+    - Gillian Stockbridge
+    - successor US administration
+    - New American Frontier
+    - Hecatite network
+    - Freedom
+    ordering:
+      after:
+      - PW-EVT-GAME4-CLOSE
+      before:
+      - PW-EVT-THE-COLLAPSE-WINDOW
+      - PW-EVT-FEDERAL-COLLAPSE
+    relations:
+      enables:
+      - PW-EVT-THE-COLLAPSE-WINDOW
+    status: working
+    notes: The Crodyn administration falls; prosecutions and institutional purges lead to a legitimate but overwhelmed
+      successor government. NAF/local armed governance and surviving kingmaker networks outpace recovery over an
+      approximately two-to-three-year bridge.
+    sources:
+    - dev_src_docs/story_campaigns/TheCollapse/PW_Post_Game4_Political_Transition_and_Collapse_Bridge_2026-07-21_rev1.txt
+- op: update_event_placements
+  values:
+    PW-EVT-SHREVEPORT-STAND-DOWN:
+      era: PW-ERA-G4
+      depicted_in:
+      - PW-TRK-G4-COMMAND-AUTHORITY
+    PW-EVT-VIGILAN-HARDENING:
+      era: PW-ERA-G4
+      depicted_in:
+      - PW-TRK-G4-COMMON-PICTURE
+    PW-EVT-STL-RADIOLOGICAL-PLOT:
+      era: PW-ERA-COLLAPSE
+      before:
+      - PW-EVT-FEDERAL-COLLAPSE
+    PW-EVT-FEDERAL-COLLAPSE:
+      era: PW-ERA-COLLAPSE
+      after:
+      - PW-EVT-THE-COLLAPSE-WINDOW
+- op: replace_campaign_track
+  match_id: PW-TRK-WAR-WITHIN
+  value:
+    id: PW-TRK-WAR-WITHIN
+    title: War Within
+    installment: DLC
+    protagonist: Nicholas Wayne Hawthorne / Croatoan
+    historical_titles:
+    - American Guerrilla (working/source alias)
+    timeframe:
+      opens: PW-EVT-WAR-WITHIN-ARC
+      closes: PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+      placement_status: confirmed
+    runs_parallel_with:
+    - PW-TRK-G4-COMMAND-AUTHORITY
+    - PW-TRK-G4-COMMON-PICTURE
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: confirmed
+- op: replace_campaign_track
+  match_id: PW-TRK-G4-PERMANENT-RECORD
+  value:
+    id: PW-TRK-G4-PERMANENT-RECORD
+    title: Permanent Record
+    installment: Game 4
+    protagonist: Spook (Trevor Gartner)
+    opens: PW-EVT-GAME4-OPEN
+    closes: PW-EVT-GAME4-CLOSE
+    status: confirmed
+- op: add_campaign_tracks
+  values:
+  - id: PW-TRK-G4-COMMAND-AUTHORITY
+    title: Command Authority
+    installment: Game 4
+    protagonist: Romeo (Ramón Álvarez)
+    opens: PW-EVT-GAME4-OPEN
+    closes: PW-EVT-GAME4-CLOSE
+    status: confirmed
+  - id: PW-TRK-G4-COMMON-PICTURE
+    title: Common Picture
+    installment: Game 4
+    protagonist: Ducky (Ferris Ryan)
+    opens: PW-EVT-GAME4-OPEN
+    closes: PW-EVT-GAME4-CLOSE
+    status: confirmed
+  - id: PW-TRK-DLC-STORM
+    title: The Storm
+    installment: DLC
+    protagonist: Denis Nikolaevich Malinin / Sakhalin
+    timeframe:
+      opens:
+        tbd: broader campaign opening remains open
+      closes:
+        tbd: broader campaign close remains open
+      placement_status: working
+    runs_parallel_with:
+    - PW-TRK-G3-DARK-SKIES
+    status: working
+    notes: Procella-focused Russian Far East lifeline campaign. FURTHER EAST synchronizes with OUTER PORT; wider
+      dates and Nightfall consequences remain open. Storm use of SOUTH CULVERT conflicts with the existing Spook
+      Game 3 title and requires rename.
+    sources:
+    - dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt
+  - id: PW-TRK-G3-DARK-SKIES
+    title: Dark Skies
+    installment: Game 3
+    protagonist: Spook (Trevor Gartner)
+    timeframe:
+      opens:
+        tbd: Spook Game 3 opening event not yet ontology-mapped
+      closes:
+        event: PW-EVT-GAME3-CLOSE
+      placement_status: working
+    runs_parallel_with:
+    - PW-TRK-DLC-STORM
+    status: working
+    notes: Dark Skies is a working campaign-title / major-arc candidate, not a final hard title lock. OUTER PORT
+      is the Tomakomai contact mission.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Spook/PW_Spook_Game3_Campaign_Spine_And_Mission_Ladder_v0_2.txt
+    - dev_src_docs/story_campaigns/Game3/Spook/PW_Spook_Game3_Storm_Synchronization_Addendum_2026-07-21_rev1.txt
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-THE-COLLAPSE
+  set:
+    opens: PW-EVT-THE-COLLAPSE-WINDOW
+    closes: PW-EVT-FEDERAL-COLLAPSE
+    placement_status: working
+    notes: Approximately 2–3 years after Game 4, after the reckoning/restoration-election/long-unraveling bridge
+      and in the months before federal collapse.
+    sources:
+    - dev_src_docs/story_campaigns/TheCollapse/PW_Post_Game4_Political_Transition_and_Collapse_Bridge_2026-07-21_rev1.txt
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-NIGHTFALL
+  set:
+    title: Nightfall
+    protagonist: Older Spook; Ducky and Lupin in parallel perspective
+    opens: PW-EVT-NIGHTFALL-OPEN
+    closes: PW-EVT-CHEYENNE-MOUNTAIN
+    placement_status: confirmed
+- op: add_sync_points
+  values:
+  - id: PW-SYN-G4-WAR-WITHIN
+    kind: parallel_campaign_window
+    event: PW-EVT-WAR-WITHIN-ARC
+    tracks:
+    - PW-TRK-G4-COMMAND-AUTHORITY
+    - PW-TRK-G4-COMMON-PICTURE
+    - PW-TRK-G4-PERMANENT-RECORD
+    - PW-TRK-WAR-WITHIN
+    status: confirmed
+  - id: PW-SYN-NIGHTFALL-NUCLEAR-CONTEXT
+    kind: world_state_dependency
+    event: PW-EVT-NIGHTFALL-OPEN
+    depends_on_events:
+    - PW-EVT-CHINA-ISRAEL-LIMITED-NUCLEAR-EXCHANGE
+    - PW-EVT-SCORCHED-CRESCENT-FORMATION
+    status: confirmed
+  - id: PW-SYN-STORM-CONTINUITY
+    name: The Storm / Game 3 / Nightfall continuity
+    kind: cross_campaign_and_future_dependency
+    tracks:
+    - PW-TRK-DLC-STORM
+    - PW-TRK-G3-DARK-SKIES
+    - PW-TRK-DLC-NIGHTFALL
+    description: Recovered Storm source confirms a direct Game 3 overlap at Tomakomai and preserves a later Nightfall
+      dependency whose exact consequence path remains open.
+    retcon_sensitivity: high
+    status: working
+  - id: PW-SYN-STORM-OUTER-PORT
+    name: Further East / Outer Port perspective handoff
+    kind: asymmetrical_parallel_mission_hinge
+    event: PW-EVT-STORM-FURTHER-EAST-OUTER-PORT
+    tracks:
+    - PW-TRK-DLC-STORM
+    - PW-TRK-G3-DARK-SKIES
+    description: Sakhalin’s FURTHER EAST route-to-contact mission hands off at the exact hinge to Spook’s OUTER
+      PORT mission in Tomakomai. Same seam, different pressure and knowledge; no duplicate replay.
+    retcon_sensitivity: high
+    status: working
+- op: update_event
+  match_id: PW-EVT-GAME4-CLOSE
+  set:
+    relations:
+      enables:
+      - PW-EVT-POST-G4-RESTORATION-UNRAVELING
+- op: update_event
+  match_id: PW-EVT-FEDERAL-COLLAPSE
+  set:
+    ordering:
+      after:
+      - PW-EVT-STL-RADIOLOGICAL-PLOT
+      - PW-EVT-THE-COLLAPSE-WINDOW
+      - PW-EVT-POST-G4-RESTORATION-UNRAVELING
+      - PW-EVT-GAME4-CLOSE
