@@ -1,0 +1,188 @@
+PROJECT WARRIORS — ONTOLOGY CANON CORRECTIONS
+Generated: 2026-07-21
+Version: rev1
+Status: LOCKED CANON CORRECTION / SOURCE-OF-TRUTH OVERRIDE
+
+PURPOSE
+This source page records canon corrections identified during review of
+pw_world_event_timeline_rev1.yaml and pw_weapon_build.schema.yaml. It is the
+controlling correction layer for the ontology rev2 landing and supersedes
+conflicting older source-page wording on the points listed below.
+
+SOURCE PRECEDENCE
+1. This correction page and its domain-specific companion pages.
+2. Current dedicated source pages in dev_src_docs.
+3. Current named-weapon registry.
+4. Working compendia.
+5. Archived, recovered, or intake-layer copies.
+
+================================================================================
+01. GAME 1 CAMPAIGN TRACKS
+================================================================================
+LOCKED:
+- Ducky's Game 1 campaign track is DO RIGHT, FEAR NONE.
+- Spook's Game 1 campaign track is RIPTIDE RED.
+- The rev1 ontology assignment “Riptide Red (Ducky)” is erroneous and retired.
+- Riptide Red must not be represented as a Ducky track or as merely a Spook
+  “sub-campaign.”
+
+Stable ontology handling:
+- PW-TRK-G1-DO-RIGHT-FEAR-NONE is the canonical Ducky track ID.
+- PW-TRK-G1-RIPTIDE-RED-SPOOK remains the stable Spook track ID.
+- The erroneous Ducky ID PW-TRK-G1-RIPTIDE-RED is retained only as a historical
+  alias note and must not be used by live references.
+
+================================================================================
+02. MACRO CHRONOLOGY
+================================================================================
+LOCKED BROAD PLACEMENT:
+- Game 4 occurs roughly two years after the events of Game 3.
+- War Within is a DLC whose events take place partly in parallel with Game 4.
+- The Collapse DLC occurs roughly two years after Game 4.
+- The Collapse campaign unfolds in the months preceding the eventual collapse
+  of US federal authority.
+- Nightfall is the last currently known chronological era.
+- Nightfall begins roughly 15–20 years after Game 4.
+- Nightfall occurs after the limited China–Israel nuclear exchange and after the
+  formation of the Scorched Crescent.
+
+Use rule:
+These are relative chronology locks, not authorization to invent exact calendar
+dates. Exact dates remain TBD unless separately locked.
+
+================================================================================
+03. NIGHTFALL / NUCLEAR WORLD STATE
+================================================================================
+LOCKED:
+- Nightfall follows a limited China–Israel nuclear exchange.
+- The exchange is limited, horrifying, and strategically specific; it is not a
+  generalized global-apocalypse event.
+- The exchange leaves an in-game nuclear destruction scar called the SCORCHED
+  CRESCENT.
+- Alternate in-game descriptive name: MIDDLE EASTERN NUCLEAR STRIKE ZONE.
+- The affected scar extends from the Levant, including Syria and Lebanon, across
+  the Arabian Peninsula toward Oman and the United Arab Emirates.
+
+Source-development boundary:
+Exact strike sequencing, complete target inventory, and the full scientific
+fallout map remain subject to dedicated source development. The ontology should
+record the locked world-state dependency without fabricating precision.
+
+================================================================================
+04. ZERO HOUR
+================================================================================
+LOCKED:
+- HUDSON OVERLOOK is renamed ZERO HOUR.
+- This is a title change only.
+- The interactive narrative sequence, content, chronology, and relationship to
+  PANDORA remain unchanged.
+
+Ontology handling:
+- Preserve the stable event ID PW-EVT-HUDSON-OVERLOOK.
+- Set canonical name to Zero Hour.
+- Retain Hudson Overlook as historical_titles metadata.
+
+================================================================================
+05. GAME 4 CAMPAIGN ARCHITECTURE
+================================================================================
+LOCKED CURRENT CAMPAIGN SET:
+- Romeo: COMMAND AUTHORITY.
+- Ducky: COMMON PICTURE.
+- Spook: PERMANENT RECORD.
+
+Game 4 should no longer be represented by one vague mixed track. Each campaign
+must have its own track, protagonist, and source references.
+
+Known Game 4 touchpoints already source-landed:
+- COMMAND AUTHORITY: restoration-era legitimacy conflict; Shreveport is its Act
+  IV endgame.
+- COMMON PICTURE: coalition restoration, HYPERMNESTRA development effort, VIGILAN
+  replacement architecture, and ANTIFRAGILITY sub-arc.
+- PERMANENT RECORD: witness protection, archives, chain of custody, denied escape,
+  and accountability.
+
+================================================================================
+06. WAR WITHIN DLC
+================================================================================
+LOCKED:
+- WAR WITHIN is a DLC.
+- Central protagonist: Nicholas Wayne Hawthorne, callsign CROATOAN.
+- Origin: Morehead City, North Carolina.
+- Pre-radicalization work: civilian marine-diesel mechanic in the Outer Banks /
+  Beaufort-area coastal economy.
+- Skill background: marksman, militiaman, practical shooter, and former AFC covert
+  saboteur during World War III.
+- Radicalizing wound: his niece dies from the effects of a badly managed toxic
+  coastal spill; his family also suffers the contamination.
+- Hawthorne becomes disillusioned with federal authority, turns toward the New
+  American Frontier, and eventually enters its elite Vanguard force.
+- The campaign reveals that Vanguard operations form part of the NAF's wider
+  anti-federal terror campaign.
+- Hawthorne publicly assassinates Lt. Col. Stanley Abernathy during Abernathy's
+  keynote address at VIATECH '31 in Washington, DC.
+- The ending resolves to Hawthorne dying or being captured, depending on player
+  choice.
+
+Historical-title handling:
+- AMERICAN GUERRILLA is retained as a working/source-page alias, not as a separate
+  campaign and not as the controlling DLC title.
+
+Name-spelling governance:
+The existing repository sources and named-weapon registry consistently use
+NICHOLAS WAYNE HAWTHORNE. The supplied correction note used “Nicolas” once.
+This landing preserves NICHOLAS to avoid an unrequested identity retcon. A future
+explicit spelling adjudication can supersede this rule.
+
+================================================================================
+07. WAR WITHIN NAMED WEAPONS
+================================================================================
+LOCKED:
+- DEAD BLOW belongs to Nicholas Wayne Hawthorne / Croatoan.
+- DEAD BLOW remains distinct from DEADBOLT.
+- SUCKER PUNCH belongs to Mark “Skidrow” Champlin, a fellow Vanguard fighter.
+- SUCKER PUNCH is available to the player only temporarily during the final
+  hotel escape after the VIATECH '31 assassination.
+- SUCKER PUNCH's platform and full configuration remain unrecovered and must not
+  be invented.
+
+Registry handling:
+- Advance the authoritative global named-weapon registry from v2.6 to v2.7.
+- Normalize SUCKER PUNCH to:
+  NAME / OWNER / CAMPAIGN CONFIRMED; platform recovery required.
+- Add explicit placement and temporary player-availability fields to the ontology
+  schema so mission-only weapons do not become falsely represented as persistent
+  player builds.
+
+================================================================================
+08. STORM DLC
+================================================================================
+LOCKED MINIMUM:
+- STORM is a DLC identity that must be preserved in the project ontology.
+- It has narrative dependencies on Game 3 and Nightfall.
+
+SOURCE-RECOVERY RULING:
+No substantive controlling Storm source page was found in the audited repository.
+Therefore protagonist, mission spine, placement window, and exact consequences
+must remain SOURCE RECOVERY REQUIRED. The ontology must record the dependency but
+must not manufacture story details.
+
+================================================================================
+09. SUPERSESSION / PURGE RULES
+================================================================================
+Purge or retire in active ontology projections:
+- “Riptide Red (Ducky)”
+- Game 4 placed after Nightfall
+- War Within protagonist = TBD
+- War Within installment = TBD
+- Hudson Overlook as the current mission title
+- SUCKER PUNCH owner = NOT RECOVERED
+- SUCKER PUNCH treated as a persistent Hawthorne weapon
+- Nightfall chronology lacking the nuclear-exchange / Scorched Crescent dependency
+
+Do not purge:
+- Hudson Overlook as historical title metadata.
+- American Guerrilla as a historical/working alias.
+- Existing source files that remain useful evidence; mark supersession rather
+  than deleting history.
+
+END
