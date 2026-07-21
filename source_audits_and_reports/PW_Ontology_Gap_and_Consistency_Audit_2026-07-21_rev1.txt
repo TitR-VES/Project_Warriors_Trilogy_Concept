@@ -1,106 +1,204 @@
 PROJECT WARRIORS — ONTOLOGY GAP AND CONSISTENCY AUDIT
 Generated: 2026-07-21
-Version: rev1
+Version: rev1 (amended after transcript recovery)
+Scope: uploaded ontology pair, current repository, and four 2026-07-21 thread exports
 Status: COMPLETED PASS / MERGE REVIEW REQUIRED
 
-SCOPE
-- uploaded pw_world_event_timeline_rev1.yaml
-- uploaded pw_weapon_build.schema.yaml
-- current main branch source pages, registries, compendia, and PR state
+================================================================================
+01. EXECUTIVE RESULT
+================================================================================
+The original ontology pair was not safe as a canonical projection. PR #25 first
+corrected the highest-risk chronology, campaign-track, and weapon-registry errors.
+The newly supplied transcripts then resolved the largest remaining source gap:
+The Storm is no longer source-recovery-only.
 
-EXECUTIVE RESULT
-The ontology pair was not safe to treat as current canon. The corrected landing is source-first: durable correction pages and named-weapon registry v2.7 control, while the YAML layer remains a machine projection.
+Current source-first correction set now covers:
+1. Ducky Game 1 = DO RIGHT, FEAR NONE.
+2. Spook Game 1 = RIPTIDE RED.
+3. Ducky Maasvlakte approach/pre-finale mission = RETREAT, HELL.
+4. ZERO HOUR replaces HUDSON OVERLOOK as current title only.
+5. Games 1–3 -> Game 4 -> post-G4 unraveling -> The Collapse -> fragmentation
+   -> Nightfall.
+6. Game 4's three separate campaigns.
+7. War Within/Hawthorne/SUCKER PUNCH corrections.
+8. The Storm / Procella / Denis “Sakhalin” Malinin source landing.
+9. FURTHER EAST / OUTER PORT synchronization at Tomakomai.
+10. Post-Game 4 political transition into The Collapse.
+11. Home Defense European/Israeli strategic-continuity rules.
+12. DEAD RECKONING and named-weapon registry v2.8.
+13. Missing world-event schema and expanded weapon schema.
 
-CRITICAL FINDINGS
-1. Ducky Game 1 was incorrectly assigned RIPTIDE RED.
-2. Game 4 was placed after Nightfall, reversing the macro chronology.
-3. Game 4 was compressed into one vague track despite three source-landed campaign identities.
-4. War Within was falsely marked installment/protagonist TBD.
-5. Nightfall lacked the China–Israel exchange / Scorched Crescent dependency.
-6. ZERO HOUR had not replaced Hudson Overlook as the current title.
-7. Storm was absent rather than represented as a source-recovery dependency.
-8. SUCKER PUNCH ownership and temporary mission availability were missing from the authoritative registry.
-9. The timeline referenced a world-event schema that did not exist.
-10. The weapon schema lacked placement/availability fields and failed to normalize one exact live registry status.
+================================================================================
+02. INPUTS
+================================================================================
+Uploaded ontology:
+- pw_world_event_timeline_rev1.yaml
+- pw_weapon_build.schema.yaml
 
-CORRECTIONS LANDED
-- Ducky Game 1 = DO RIGHT, FEAR NONE.
-- Spook Game 1 = RIPTIDE RED.
-- Stable Zero Hour event ID retained; Hudson Overlook becomes historical title metadata.
-- Era order becomes Games 1–3 -> Game 4 -> The Collapse -> fragmentation -> Nightfall.
-- Game 4 starts roughly two years after Game 3.
-- War Within DLC partly overlaps Game 4.
-- The Collapse is roughly two years after Game 4 and precedes federal collapse by months.
-- Nightfall is last, roughly 15–20 years after Game 4 and after the limited nuclear exchange / Scorched Crescent.
-- Game 4 tracks split into COMMAND AUTHORITY, COMMON PICTURE, and PERMANENT RECORD.
-- Storm is preserved with SOURCE RECOVERY REQUIRED status and explicit Game 3/Nightfall dependencies.
-- War Within protagonist is Nicholas Wayne Hawthorne / Croatoan; American Guerrilla is retained as a working/source alias.
-- DEAD BLOW remains Hawthorne's locked build.
-- SUCKER PUNCH belongs to Mark “Skidrow” Champlin; it is temporarily available during the final hotel escape, while its platform remains unrecovered.
-- named_weapon_builds_v2_7.txt becomes the current registry.
-- weapon schema rev2 adds campaign refs, placement, availability, null/recovery rules, and complete status normalization.
-- missing world-event schema added.
+New transcript sources:
+- Project_Warriors_The_Storm_Thread_Transcript_2026-07-21.txt
+- Project_Warriors_Home_Defense_Thread_Export.txt
+- Project_Warriors_Post_Game4_Transition_Thread.txt
+- Project_Warriors_Dark_Skies_Thread_Transcript_2026-07-21.txt
 
-VALIDATION
-Materialized local timeline rev2:
+Repository layers checked:
+- current source pages and compendia
+- Spook Game 3 campaign spine / mission ladder
+- Game 4 shared and campaign-specific sources
+- Cold Frontier / Parhelion-53 continuity
+- current named-weapon registry
+- PR #25 branch state
+
+================================================================================
+03. NEW FINDINGS FROM TRANSCRIPTS
+================================================================================
+A. STORM SOURCE RECOVERY — RESOLVED
+Recovered:
+- title/format: Project Warriors: The Storm, DLC
+- faction: Procella
+- protagonist: Denis Nikolaevich Malinin / Sakhalin
+- Russian Far East littoral lifeline identity
+- Albatross/Denis functional split
+- working early mission spine
+- DEAD RECKONING AK-105 build
+- direct Spook Game 3 overlap in Tomakomai
+- controlled Cold Frontier institutional-evidence seam
+
+Still open:
+- complete dates and final mission ladder
+- exact Denis service designation/rank/break incident
+- exact Nightfall consequence
+- final title for Storm opening mission
+
+B. SOUTH CULVERT TITLE COLLISION — HIGH
+The current Spook Game 3 source already lists SOUTH CULVERT as Mission 07.
+The Storm transcript independently used SOUTH CULVERT for its opening mission.
+Landing both as hard canon would create a duplicate-title ambiguity.
+
+Resolution:
+- retain the existing Spook Game 3 title
+- preserve the Storm opening mission concept
+- mark the Storm title rename-required
+- do not invent a replacement title
+
+C. DARK SKIES STATUS — MODERATE
+The transcript associates DARK SKIES with Spook Game 3 but explicitly keeps it as
+a candidate. Current repo source already uses it as a working campaign title.
+Resolution: add a working ontology track, not a hard title lock.
+
+D. OUTER PORT / FURTHER EAST — HIGH
+A new synchronization point is source-supported:
+- FURTHER EAST: Sakhalin's route-to-contact mission
+- OUTER PORT: Spook's contact mission
+- Tomakomai, Hokkaido
+- exact hinge handoff, same seam/different pressure and knowledge
+- Gartner spelling corrected; Gardner rejected
+
+E. RETREAT, HELL — MODERATE
+The Ducky Game 1 Maasvlakte approach / campaign pre-finale mission is retitled
+RETREAT, HELL. It remains distinct from the final terminal-defense mission.
+
+F. POST-GAME 4 BRIDGE — HIGH
+New source refines the Game 4-to-Collapse gap:
+- Crodyn falls; Gillian Stockbridge reaches trial
+- legitimate but disrupted restoration election
+- overwhelmed successor administration
+- NAF/local governance and surviving kingmaker influence outpace recovery
+- continuing international humanitarian need
+- approximately two-to-three-year bridge, not a fabricated exact date
+
+G. HOME DEFENSE CONTINUITY — MODERATE
+- NATO survives and becomes increasingly European-led
+- VIGILAN supports autonomous European defense
+- Israel survives through strategic autonomy/hardening and becomes a counterweight
+  to Chinese expansion
+Exact Home Defense event placement remains open.
+
+H. COLD FRONTIER CONNECTION BOUNDARY — HIGH
+Sakhalin/Procella may later surface Kostropov/Parhelion-53 institutional evidence.
+They must not pre-own Frost's personal Cold Frontier 07 story.
+
+================================================================================
+04. WEAPON LAYER
+================================================================================
+Registry v2.8 adds:
+PW-WPN-SAKHALIN-DEAD-RECKONING
+- DEAD RECKONING
+- Denis Malinin / Sakhalin
+- AK-105, 5.45x39mm
+- The Storm DLC
+- WORKING LOCK / SOURCE-READY
+
+Stable-ID rule:
+“BUILD 13” is only a provisional development alias.
+
+Registry validation:
+- named identities: 36
+- duplicate IDs: 0
+- substantially specified/source-associated: 25
+- recovery-status identities: 11
+- exact live status strings unmapped by schema rev3: 0
+
+================================================================================
+05. TIMELINE / GRAPH VALIDATION
+================================================================================
+Materialized timeline rev2.1:
 - YAML parse: PASS
 - eras: 7
-- events: 49
-- campaign tracks: 19
-- sync points: 12
+- events: 53
+- campaign tracks: 20
+- sync points: 13
 - duplicate IDs: 0
-- dangling event refs: 0
-- dangling track refs: 0
-- dangling era refs: 0
+- dangling era/event/track references: 0
 - self references: 0
-- chronology graph edges: 56
-- chronology graph acyclic: PASS
+- ordering graph edges: 76
+- graph acyclic: PASS
 - events without source pointers: 0
 
-Weapon layer:
-- schema YAML parse: PASS
-- registry entries: 35
-- duplicate registry IDs: 0
-- exact registry status strings unmapped by schema rev2: 0
-- SUCKER PUNCH unresolved platform left uninvented: PASS
+Important additional correction:
+The earlier local materialization still contained two nested Ducky references to
+the retired PW-TRK-G1-RIPTIDE-RED ID. Rev2.1 corrects both nested references to
+PW-TRK-G1-DO-RIGHT-FEAR-NONE.
 
-REPOSITORY DELIVERY MODEL
-The branch lands:
-- a deterministic rev1 -> rev2 timeline correction overlay;
-- the missing world-event schema;
-- the revised weapon schema;
-- durable canon correction sources;
-- registry v2.7;
-- a compendium roll-forward patch;
-- this audit.
+================================================================================
+06. FILE / DELIVERY MODEL
+================================================================================
+The branch now carries:
+- full materialized pw_world_event_timeline_rev2_1.yaml
+- deterministic rev1 -> rev2.1 correction patch
+- world-event schema
+- weapon schema rev3
+- named-weapon registry v2.8
+- durable Storm, Procella, Denis, mission, Dead Reckoning, Home Defense,
+  post-Game 4, Dark Skies sync, and RETREAT, HELL source pages
+- updated compendium synthesis and correction pages
 
-A fully materialized single-file pw_world_event_timeline_rev2.yaml was generated and validated during the pass. The correction overlay remains the auditable repo representation until the rev1 source file itself is landed in the repository or the generated rev2 is imported directly.
+This replaces the prior overlay-only review limitation.
 
-ADDITIONAL GOVERNANCE FINDING
-The root README still describes PR #13 and PR #14 as open dependencies. Both are merged, and the repository had no open pull requests at audit start. The README warning is stale and should be removed in a focused documentation cleanup.
+================================================================================
+07. REMAINING LIVE DEPENDENCIES
+================================================================================
+- final Storm opening mission title (SOUTH CULVERT collision)
+- full Storm act/mission ladder and exact dates
+- exact Storm -> Nightfall consequence
+- exact Home Defense timeline placement
+- exact Game 3 close and Game 4 calendar dates
+- complete nuclear-exchange sequence and fallout map
+- Pacer continuity reconciliation
+- SUCKER PUNCH platform/configuration
+- full War Within mission ladder
+- root README stale PR #13/#14 wording
+- formal ontology-promotion policy
 
-REMAINING LIVE DEPENDENCIES
-1. Storm controlling source recovery.
-2. SUCKER PUNCH platform/configuration.
-3. Exact Game 3 close date.
-4. Exact Game 4 calendar window.
-5. Exact The Collapse calendar window.
-6. Full nuclear-exchange sequence, target set, and fallout map.
-7. Pacer continuity reconciliation between older Game 4 and newer fragmentation/Nightfall material.
-8. Full War Within mission ladder beyond the locked protagonist/finale spine.
-9. Root README stale PR warning.
-10. Formal ontology-promotion policy.
-
-ARCHIVE-READINESS RULING
-The uploaded rev1 files are not ready for immediate deletion.
-
+================================================================================
+08. ARCHIVE READINESS
+================================================================================
+The uploaded rev1 timeline/schema and transcript exports should not be deleted yet.
 Safe retirement requires:
-1. merge the ontology reconciliation PR;
-2. spot-check source paths and YAML on main;
-3. update downstream consumers to the rev2 correction set and registry v2.7;
-4. mark rev1 superseded;
-5. retain rev1 for comparison through at least one downstream consistency pass.
-
-Storm and the remaining live dependencies make a “fully absorbed / nothing left to recover” claim unsafe.
+1. merge PR #25
+2. spot-check source paths and YAML on main
+3. update downstream ontology consumers
+4. resolve or explicitly carry the Storm title collision
+5. complete at least one post-merge consistency pass
 
 END
