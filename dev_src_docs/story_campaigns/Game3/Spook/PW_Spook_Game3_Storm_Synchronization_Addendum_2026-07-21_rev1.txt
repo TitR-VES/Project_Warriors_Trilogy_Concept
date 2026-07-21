@@ -1,0 +1,42 @@
+PROJECT WARRIORS — SPOOK GAME 3 / THE STORM SYNCHRONIZATION ADDENDUM
+Generated: 2026-07-21
+Version: rev1
+Status: WORKING SOURCE ADDENDUM
+Applies to: PW_Spook_Game3_Campaign_Spine_And_Mission_Ladder_v0_2.txt
+
+DARK SKIES TITLE STATUS
+- DARK SKIES remains associated with Spook Game 3.
+- It is a working campaign-title / major-arc-title candidate, not a hard final
+  campaign-title lock.
+- Current source use of “Working campaign title: DARK SKIES” remains valid.
+- The 2026-07-21 transcript reaffirms the Spook association and does not promote
+  it to final locked title status.
+
+OUTER PORT
+- OUTER PORT remains the Spook Game 3 Japan contact mission.
+- Location: Tomakomai outer port, Hokkaido, Japan.
+- Contact: Denis “Sakhalin” Malinin of Procella.
+- Gartner is the correct surname. Gardner is an error.
+
+FURTHER EAST SYNCHRONIZATION
+- The Storm mission FURTHER EAST is the Sakhalin-facing route-to-contact mission.
+- It synchronizes with OUTER PORT at the exact handoff hinge.
+- The two missions must present different pressure and different knowledge.
+- FURTHER EAST owns the route, surveillance risk, trust validation, and cost of
+  reaching the meeting.
+- OUTER PORT owns Spook's support picture and the contact exchange.
+- The overlap may include Tripper and Smoke supporting Spook remotely.
+- Neither mission should become incomplete without the other.
+
+MISSION-TITLE COLLISION
+The current Spook Game 3 ladder already contains SOUTH CULVERT as Mission 07.
+The Storm transcript independently used SOUTH CULVERT for its opening mission.
+Do not hard-lock the same title twice. Preserve the Storm mission concept under a
+rename-required flag while retaining the existing Spook Game 3 mission title
+unless later owner adjudication changes it.
+
+SOURCE
+Project_Warriors_Dark_Skies_Thread_Transcript_2026-07-21.txt
+Project_Warriors_The_Storm_Thread_Transcript_2026-07-21.txt
+
+END
