@@ -707,7 +707,367 @@ Excellent. **Denis Nikolaevich Melanin** works well. It sounds credible, regiona
 
 Here is a **v0.1 source-style character sketch** for him.
 
-[The full Denis Nikolaevich Melanin character-sketch text follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — CHARACTER SKETCH v0.1  
+## Denis Nikolaevich Melanin
+
+**Working status:** development front-runner  
+**Campaign lane:** Procella Far East DLC / *Project Warriors: The Storm*  
+**Factional alignment:** Procella  
+**Role:** field operator, extraction lead, coastal sabotage and infrastructure revival  
+**Narrative function:** playable protagonist candidate  
+**Relationship anchor:** Albatross as handler / network architect / long-range trust node
+
+---
+
+## IDENTIFICATION
+
+**Full name:** Denis Nikolaevich Melanin  
+**Common usage:** Denis Melanin  
+**Age in 2028:** 39  
+**Nationality:** Russian  
+**Origin:** Russian Far East, coastal/port-region upbringing  
+**Working home-region direction:** Vanino / Sovetskaya Gavan corridor or nearby littoral settlement  
+**Former background:** Pacific-facing Russian maritime reconnaissance / naval special-operations-adjacent service, later remote infrastructure / shipping-support / salvage work  
+**Current role inside Procella:** littoral field hand, extraction-route operator, dead-system revival specialist
+
+---
+
+## CORE CONCEPT
+
+Denis Melanin is the strongest version of the Procella protagonist because he combines three lanes that your DLC idea needs in one believable person:
+
+- real field competence
+- coastal and maritime survival knowledge
+- practical literacy in broken infrastructure
+
+He is not just a shooter, and not just a technician. He is the kind of man who can move people along a freezing shoreline at night, make a dead relay station function for one more transmission window, identify whether a weather node failed naturally or was tampered with, and then fight when the route collapses and there is no cleaner option left.
+
+That makes him a very good fit for a campaign built around:
+- defectors and refugees,
+- littoral extraction routes,
+- weather-data sabotage,
+- thermal-electric batteries,
+- improvised comms,
+- revived coastal infrastructure,
+- and selective strikes on regime logistics.
+
+---
+
+## BACKGROUND SHAPE
+
+Denis comes from the Russian Far East not as a tourist concept of remoteness, but as someone formed by its actual realities:
+- distance,
+- neglected infrastructure,
+- severe weather,
+- maritime dependence,
+- regional abandonment by the center,
+- and the habit of solving practical problems without expecting institutional rescue.
+
+He entered service young and proved reliable in the kind of work that rewards patience, navigation, cold-water discipline, and calm under compromised conditions. His military life gave him maritime reconnaissance, low-signature coastal movement, insertion and recovery discipline, observation, demolition familiarity, and the ability to operate in small teams where a single bad judgment can kill everyone quietly.
+
+After formal service, he did not become a flashy mercenary or patriotic television ghost. He passed through the half-broken economic skeleton of the region:
+- remote service jobs,
+- coastal facilities,
+- relay sites,
+- weather or navigation support,
+- salvage,
+- generator and battery work,
+- shipping-support margins,
+- the dying connective tissue of places still expected to function after the state stopped caring whether they did.
+
+That second life is what makes him special. It means he knows both the coercive machinery of the region and the neglected civilian skeleton underneath it.
+
+---
+
+## WHY HE JOINS PROCELLA
+
+Denis should not join Procella because of one melodramatic revelation.
+
+Better: he joins because the region’s existing rot becomes impossible to morally compartmentalize.
+
+He sees:
+- people disappeared as examples,
+- coastal settlements starved or cut off,
+- technical systems falsified to serve control rather than safety,
+- weather and shipping data turned into tools of pressure,
+- and ordinary people treated as expendable friction in the regime’s Pacific-edge security logic.
+
+The final break should feel practical before ideological:
+not “I have discovered freedom,” but
+**“This machine is eating people, and I know exactly how it works.”**
+
+That is stronger for him.
+
+---
+
+## FUNCTION INSIDE PROCELLA
+
+Denis is not Procella’s philosopher or public face.
+
+He is useful because he can do the ugly middle work between intelligence and survival:
+- prepare landing or rendezvous sites
+- move people from inland handoff to shoreline extraction
+- test whether a route is still clean
+- restore temporary power to dead coastal nodes
+- recover batteries, fuel, and parts
+- improvise short-lived comms windows
+- corrupt or spoof local weather and navigation data
+- sabotage surveillance or logistics infrastructure without wasting effort
+- decide quickly when an extraction is still possible and when it has become a massacre trap
+
+He is the man you send when the route matters more than the plan.
+
+---
+
+## RELATIONSHIP TO ALBATROSS
+
+This is important: **Denis and Albatross should not do the same job.**
+
+### Albatross
+- network architect
+- long-range pattern reader
+- trust broker
+- mythic courier-master
+- keeper of names, seams, fallback routes, and buried continuity
+
+### Denis
+- field executor
+- route mechanic
+- littoral mover
+- extraction lead
+- sabotage hand
+- the one standing in the freezing surf when the theory becomes real
+
+Albatross trusts Denis not because he is loyal in an abstract sense, but because:
+- he does not posture,
+- he does not confuse violence with effectiveness,
+- he does not romanticize resistance,
+- and he understands that keeping a route alive is often more valuable than winning a fight.
+
+Their dynamic should be spare, unsentimental, and built on tested usefulness.
+
+---
+
+## PERSONALITY / VOICE
+
+Denis should be:
+- quiet
+- practical
+- regionally grounded
+- observant
+- non-performative
+- restrained in speech
+- difficult to impress
+- protective without becoming sentimental
+
+He should not read as:
+- speechifying dissident
+- glamorous ex-assassin
+- bitter edgelord
+- anti-Russia caricature
+- generic taciturn action machine
+
+The key rule:
+**He hates waste more than he hates enemies.**
+
+Waste of people.  
+Waste of time.  
+Waste of fuel.  
+Waste of routes.  
+Waste of chances.
+
+That gives him a very usable moral grammar.
+
+### Speech pattern
+Short, concrete, task-driven.  
+He names the real problem first.  
+He does not decorate.
+
+A good Denis line usually does one of four things:
+- identifies what failed
+- says what still works
+- cuts away illusion
+- tells someone the next move
+
+Examples of his general register:
+- “That station was killed by a liar, not by weather.”
+- “Route’s still usable. Window isn’t.”
+- “If they were hunting us, we’d already hear engines.”
+- “You don’t save people with hope. You save them with timing.”
+- “Take the battery. Leave the casing.”
+- “No heroics. Boats sink the same either way.”
+
+---
+
+## EMOTIONAL SHAPE
+
+Denis should not be emotionally blank. He should be **contained**.
+
+His feeling comes through:
+- triage choices
+- attention to vulnerable people
+- protective competence
+- irritation at preventable failure
+- refusal to waste lives for symbolism
+
+He is not trying to save the world in a grand sense.  
+He is trying to keep a chain of human continuity functioning at the edge of a broken state.
+
+That makes him a very good Project Warriors protagonist.
+
+---
+
+## GAMEPLAY IDENTITY
+
+Denis gives the DLC a distinct gameplay grammar.
+
+### Core verbs
+- move
+- guide
+- revive
+- improvise
+- sabotage
+- extract
+- endure
+
+### Signature mission textures
+- cold littoral infiltration
+- shoreline rendezvous
+- small-boat approaches
+- coastal facility penetration
+- weather node interference
+- relay revival under time pressure
+- battery theft / transfer / installation
+- escorting civilians through exposed transitional terrain
+- selective demolition or denial of regime logistics assets
+
+### Combat lane
+He must absolutely be combat-credible, but combat should feel like:
+- abrupt,
+- ugly,
+- practical,
+- and subordinate to movement and survival.
+
+The campaign should never become “marine commando fantasy with a Russian skin.”
+
+### Distinctive player fantasy
+Not “be unstoppable.”  
+More like:
+
+**Be the man who keeps the route alive.**
+
+That is unusual and strong.
+
+---
+
+## VISUAL / PHYSICAL LANE
+
+Denis should look like a man who has spent years in wind, salt, cold, bad interiors, and neglected facilities.
+
+### General read
+- late 30s
+- lean but durable
+- weathered rather than glamorous
+- practical face
+- watchful eyes
+- contained movement
+- looks like he fixes or carries things as often as he shoots
+
+### Clothing direction
+Civilian-functional / technical-workwear-adjacent with selective field adaptation:
+- dark weather shell or work jacket
+- layered fleece or utility midlayer
+- maritime/work trousers, not tacticool fashion-pants
+- practical gloves
+- worn boots suitable for wet surfaces
+- chest rig or low-profile field load only when needed
+- no parade of patches, no operator cosplay
+
+He should plausibly move between:
+- fishing-port edge,
+- derelict facility,
+- relay shack,
+- shoreline extraction point,
+- and covert field tasking
+without needing a costume change to justify each.
+
+### Gear identity
+His kit should read:
+- modular
+- repaired
+- partially scavenged
+- competence-maintained
+- quiet rather than high-speed
+
+---
+
+## DIFFERENTIATION FROM OTHER LEADS
+
+### Versus Spook
+Denis is not a CIA intelligence operative.  
+He is not dossier-coded, embassy-adjacent, or redaction-language.  
+He is physical infrastructure, coastal movement, and route survival.
+
+### Versus Ducky
+Denis is not formal command, multinational military coherence, or institutional defense.  
+He works from neglect, fracture, and workaround.
+
+### Versus Grim / Sea Spear
+Denis is less overtly elite-maritime assault identity and more littoral resistance continuity.  
+Less polished strike force, more broken-edge field survivability.
+
+### Versus a hypothetical American ex-SEAL version
+Denis keeps the story inside the region and avoids outsider-savior gravity.  
+That is a major strength.
+
+---
+
+## STORY USE STRENGTHS
+
+Denis supports all the best early mission ideas you floated:
+- rise of Procella in the Far East
+- domestic anti-regime operations
+- guiding defectors and refugees away from the coast
+- deliberate weather-data sabotage
+- disrupting regime-aligned shipping and supply confidence
+- thermal-electric battery acquisition
+- revived old infrastructure
+- improvised comms
+- possible limited contact with Japan without shifting the campaign’s center of gravity
+
+He makes all of those feel like one coherent life.
+
+---
+
+## RISKS / WRITING CAUTIONS
+
+1. **Do not make him good at everything by fiat.**  
+His infrastructure competence must come from the years after formal service, not magical operator omniscience.
+
+2. **Do not make him too similar to Albatross.**  
+Albatross sees the map. Denis walks the route.
+
+3. **Do not over-Moscow him.**  
+He should remain Far East-rooted in identity, speech, assumptions, and worldview.
+
+4. **Do not romanticize resistance.**  
+Denis should know too much about cost for that.
+
+5. **Do not turn him into a generic anti-state speech engine.**  
+His politics should show through action, choices, and what he refuses to accept.
+
+---
+
+## WORKING SUMMARY
+
+**Denis Nikolaevich Melanin** is a late-30s Russian Far East maritime field operator whose background combines former naval reconnaissance competence with years spent inside the failing technical and logistical skeleton of the Pacific edge. He now serves Procella as a littoral extraction lead, sabotage specialist, and dead-system revival hand — a man who can keep people, routes, batteries, relays, and fragile chances alive long enough to matter.
+
+---
+
+If you want, I’ll take this one step further and turn it into a **proper full character profile page** with:
+name block, biography, personality, visual lane, gameplay lane, and a short **Albatross–Denis dynamic note** at source-ready length.
 
 USER:
 Not melanin, Malinin
@@ -725,7 +1085,366 @@ Of course.
 
 Here is the same **v0.1 source-style character sketch** with the corrected name:
 
-[The full corrected Denis Nikolaevich Malinin character-sketch text follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — CHARACTER SKETCH v0.1  
+## Denis Nikolaevich Malinin
+
+**Working status:** development front-runner  
+**Campaign lane:** Procella Far East DLC / *Project Warriors: The Storm*  
+**Factional alignment:** Procella  
+**Role:** field operator, extraction lead, coastal sabotage and infrastructure revival  
+**Narrative function:** playable protagonist candidate  
+**Relationship anchor:** Albatross as handler / network architect / long-range trust node
+
+---
+
+## IDENTIFICATION
+
+**Full name:** Denis Nikolaevich Malinin  
+**Common usage:** Denis Malinin  
+**Age in 2028:** 39  
+**Nationality:** Russian  
+**Origin:** Russian Far East, coastal/port-region upbringing  
+**Working home-region direction:** Vanino / Sovetskaya Gavan corridor or nearby littoral settlement  
+**Former background:** Pacific-facing Russian maritime reconnaissance / naval special-operations-adjacent service, later remote infrastructure / shipping-support / salvage work  
+**Current role inside Procella:** littoral field hand, extraction-route operator, dead-system revival specialist
+
+---
+
+## CORE CONCEPT
+
+Denis Malinin is the strongest version of the Procella protagonist because he combines three lanes that your DLC idea needs in one believable person:
+
+- real field competence
+- coastal and maritime survival knowledge
+- practical literacy in broken infrastructure
+
+He is not just a shooter, and not just a technician. He is the kind of man who can move people along a freezing shoreline at night, make a dead relay station function for one more transmission window, identify whether a weather node failed naturally or was tampered with, and then fight when the route collapses and there is no cleaner option left.
+
+That makes him a very good fit for a campaign built around:
+- defectors and refugees,
+- littoral extraction routes,
+- weather-data sabotage,
+- thermal-electric batteries,
+- improvised comms,
+- revived coastal infrastructure,
+- and selective strikes on regime logistics.
+
+---
+
+## BACKGROUND SHAPE
+
+Denis comes from the Russian Far East not as a tourist concept of remoteness, but as someone formed by its actual realities:
+- distance,
+- neglected infrastructure,
+- severe weather,
+- maritime dependence,
+- regional abandonment by the center,
+- and the habit of solving practical problems without expecting institutional rescue.
+
+He entered service young and proved reliable in the kind of work that rewards patience, navigation, cold-water discipline, and calm under compromised conditions. His military life gave him maritime reconnaissance, low-signature coastal movement, insertion and recovery discipline, observation, demolition familiarity, and the ability to operate in small teams where a single bad judgment can kill everyone quietly.
+
+After formal service, he did not become a flashy mercenary or patriotic television ghost. He passed through the half-broken economic skeleton of the region:
+- remote service jobs,
+- coastal facilities,
+- relay sites,
+- weather or navigation support,
+- salvage,
+- generator and battery work,
+- shipping-support margins,
+- the dying connective tissue of places still expected to function after the state stopped caring whether they did.
+
+That second life is what makes him special. It means he knows both the coercive machinery of the region and the neglected civilian skeleton underneath it.
+
+---
+
+## WHY HE JOINS PROCELLA
+
+Denis should not join Procella because of one melodramatic revelation.
+
+Better: he joins because the region’s existing rot becomes impossible to morally compartmentalize.
+
+He sees:
+- people disappeared as examples,
+- coastal settlements starved or cut off,
+- technical systems falsified to serve control rather than safety,
+- weather and shipping data turned into tools of pressure,
+- and ordinary people treated as expendable friction in the regime’s Pacific-edge security logic.
+
+The final break should feel practical before ideological:
+not “I have discovered freedom,” but
+**“This machine is eating people, and I know exactly how it works.”**
+
+That is stronger for him.
+
+---
+
+## FUNCTION INSIDE PROCELLA
+
+Denis is not Procella’s philosopher or public face.
+
+He is useful because he can do the ugly middle work between intelligence and survival:
+- prepare landing or rendezvous sites
+- move people from inland handoff to shoreline extraction
+- test whether a route is still clean
+- restore temporary power to dead coastal nodes
+- recover batteries, fuel, and parts
+- improvise short-lived comms windows
+- corrupt or spoof local weather and navigation data
+- sabotage surveillance or logistics infrastructure without wasting effort
+- decide quickly when an extraction is still possible and when it has become a massacre trap
+
+He is the man you send when the route matters more than the plan.
+
+---
+
+## RELATIONSHIP TO ALBATROSS
+
+This is important: **Denis and Albatross should not do the same job.**
+
+### Albatross
+- network architect
+- long-range pattern reader
+- trust broker
+- mythic courier-master
+- keeper of names, seams, fallback routes, and buried continuity
+
+### Denis
+- field executor
+- route mechanic
+- littoral mover
+- extraction lead
+- sabotage hand
+- the one standing in the freezing surf when the theory becomes real
+
+Albatross trusts Denis not because he is loyal in an abstract sense, but because:
+- he does not posture,
+- he does not confuse violence with effectiveness,
+- he does not romanticize resistance,
+- and he understands that keeping a route alive is often more valuable than winning a fight.
+
+Their dynamic should be spare, unsentimental, and built on tested usefulness.
+
+---
+
+## PERSONALITY / VOICE
+
+Denis should be:
+- quiet
+- practical
+- regionally grounded
+- observant
+- non-performative
+- restrained in speech
+- difficult to impress
+- protective without becoming sentimental
+
+He should not read as:
+- speechifying dissident
+- glamorous ex-assassin
+- bitter edgelord
+- anti-Russia caricature
+- generic taciturn action machine
+
+The key rule:
+**He hates waste more than he hates enemies.**
+
+Waste of people.  
+Waste of time.  
+Waste of fuel.  
+Waste of routes.  
+Waste of chances.
+
+That gives him a very usable moral grammar.
+
+### Speech pattern
+Short, concrete, task-driven.  
+He names the real problem first.  
+He does not decorate.
+
+A good Denis line usually does one of four things:
+- identifies what failed
+- says what still works
+- cuts away illusion
+- tells someone the next move
+
+Examples of his general register:
+- “That station was killed by a liar, not by weather.”
+- “Route’s still usable. Window isn’t.”
+- “If they were hunting us, we’d already hear engines.”
+- “You don’t save people with hope. You save them with timing.”
+- “Take the battery. Leave the casing.”
+- “No heroics. Boats sink the same either way.”
+
+---
+
+## EMOTIONAL SHAPE
+
+Denis should not be emotionally blank. He should be **contained**.
+
+His feeling comes through:
+- triage choices
+- attention to vulnerable people
+- protective competence
+- irritation at preventable failure
+- refusal to waste lives for symbolism
+
+He is not trying to save the world in a grand sense.  
+He is trying to keep a chain of human continuity functioning at the edge of a broken state.
+
+That makes him a very good Project Warriors protagonist.
+
+---
+
+## GAMEPLAY IDENTITY
+
+Denis gives the DLC a distinct gameplay grammar.
+
+### Core verbs
+- move
+- guide
+- revive
+- improvise
+- sabotage
+- extract
+- endure
+
+### Signature mission textures
+- cold littoral infiltration
+- shoreline rendezvous
+- small-boat approaches
+- coastal facility penetration
+- weather node interference
+- relay revival under time pressure
+- battery theft / transfer / installation
+- escorting civilians through exposed transitional terrain
+- selective demolition or denial of regime logistics assets
+
+### Combat lane
+He must absolutely be combat-credible, but combat should feel like:
+- abrupt,
+- ugly,
+- practical,
+- and subordinate to movement and survival.
+
+The campaign should never become “marine commando fantasy with a Russian skin.”
+
+### Distinctive player fantasy
+Not “be unstoppable.”  
+More like:
+
+**Be the man who keeps the route alive.**
+
+That is unusual and strong.
+
+---
+
+## VISUAL / PHYSICAL LANE
+
+Denis should look like a man who has spent years in wind, salt, cold, bad interiors, and neglected facilities.
+
+### General read
+- late 30s
+- lean but durable
+- weathered rather than glamorous
+- practical face
+- watchful eyes
+- contained movement
+- looks like he fixes or carries things as often as he shoots
+
+### Clothing direction
+Civilian-functional / technical-workwear-adjacent with selective field adaptation:
+- dark weather shell or work jacket
+- layered fleece or utility midlayer
+- maritime/work trousers, not tacticool fashion-pants
+- practical gloves
+- worn boots suitable for wet surfaces
+- chest rig or low-profile field load only when needed
+- no parade of patches, no operator cosplay
+
+He should plausibly move between:
+- fishing-port edge,
+- derelict facility,
+- relay shack,
+- shoreline extraction point,
+- and covert field tasking
+without needing a costume change to justify each.
+
+### Gear identity
+His kit should read:
+- modular
+- repaired
+- partially scavenged
+- competence-maintained
+- quiet rather than high-speed
+
+---
+
+## DIFFERENTIATION FROM OTHER LEADS
+
+### Versus Spook
+Denis is not a CIA intelligence operative.  
+He is not dossier-coded, embassy-adjacent, or redaction-language.  
+He is physical infrastructure, coastal movement, and route survival.
+
+### Versus Ducky
+Denis is not formal command, multinational military coherence, or institutional defense.  
+He works from neglect, fracture, and workaround.
+
+### Versus Grim / Sea Spear
+Denis is less overtly elite-maritime assault identity and more littoral resistance continuity.  
+Less polished strike force, more broken-edge field survivability.
+
+### Versus a hypothetical American ex-SEAL version
+Denis keeps the story inside the region and avoids outsider-savior gravity.  
+That is a major strength.
+
+---
+
+## STORY USE STRENGTHS
+
+Denis supports all the best early mission ideas you floated:
+- rise of Procella in the Far East
+- domestic anti-regime operations
+- guiding defectors and refugees away from the coast
+- deliberate weather-data sabotage
+- disrupting regime-aligned shipping and supply confidence
+- thermal-electric battery acquisition
+- revived old infrastructure
+- improvised comms
+- possible limited contact with Japan without shifting the campaign’s center of gravity
+
+He makes all of those feel like one coherent life.
+
+---
+
+## RISKS / WRITING CAUTIONS
+
+1. **Do not make him good at everything by fiat.**  
+His infrastructure competence must come from the years after formal service, not magical operator omniscience.
+
+2. **Do not make him too similar to Albatross.**  
+Albatross sees the map. Denis walks the route.
+
+3. **Do not over-Moscow him.**  
+He should remain Far East-rooted in identity, speech, assumptions, and worldview.
+
+4. **Do not romanticize resistance.**  
+Denis should know too much about cost for that.
+
+5. **Do not turn him into a generic anti-state speech engine.**  
+His politics should show through action, choices, and what he refuses to accept.
+
+---
+
+## WORKING SUMMARY
+
+**Denis Nikolaevich Malinin** is a late-30s Russian Far East maritime field operator whose background combines former naval reconnaissance competence with years spent inside the failing technical and logistical skeleton of the Pacific edge. He now serves Procella as a littoral extraction lead, sabotage specialist, and dead-system revival hand — a man who can keep people, routes, batteries, relays, and fragile chances alive long enough to matter.
+
+---
+
+Next I’d turn this into a full **source-style character profile page** with a tighter biography block, voice notes, visual lane, gameplay lane, and a short **Albatross / Denis dynamic** section.
 
 USER:
 Please go ahead and do exactly as you suggest. Thank you.
@@ -735,7 +1454,430 @@ Absolutely.
 
 Here is a fuller **source-style character profile page** for **Denis Nikolaevich Malinin**, written as a working project source entry rather than just a sketch.
 
-[The full Project Warriors — Character Profile v0.1 for Denis Nikolaevich Malinin follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — CHARACTER PROFILE v0.1  
+## Denis Nikolaevich Malinin
+
+**Status:** working development front-runner, not final lock  
+**Campaign lane:** Procella Far East DLC / *Project Warriors: The Storm*  
+**Factional alignment:** Procella  
+**Narrative role:** playable protagonist candidate  
+**Primary function:** littoral field operator, extraction lead, sabotage and dead-system revival specialist  
+**Relationship anchor:** Albatross
+
+---
+
+## 1. CHARACTER SUMMARY
+
+Denis Nikolaevich Malinin is a Russian Far East field operator whose value to Procella comes from the combination of three things: real maritime field competence, deep familiarity with the Pacific-edge coast and its neglected infrastructure, and a practical moral seriousness that keeps him focused on routes, people, timing, and survivability rather than ideology or spectacle.
+
+He is not a pure direct-action protagonist and not a pure technical specialist. He is the man who can move a family to a cold shoreline pickup, restart a dead relay long enough to get one transmission window, identify whether a weather station failed naturally or was falsified, and then fight only when the route has already begun to collapse.
+
+His campaign identity should remain distinct from the other major playable lanes:
+- not CIA/intelligence-redaction tradecraft like Spook
+- not NATO command-and-coherence like Ducky
+- not polished maritime strike-force identity like Grim
+- but a colder, rougher, more compromised Far East resistance lane built around lifelines, salvage, movement, sabotage, and survival
+
+Core player fantasy:
+**Keep the route alive.**
+
+---
+
+## 2. IDENTIFICATION
+
+**Full name:** Denis Nikolaevich Malinin  
+**Common usage:** Denis Malinin  
+**Age in 2028:** 39  
+**Nationality:** Russian  
+**Regional identity:** Russian Far East  
+**Working origin lane:** Vanino / Sovetskaya Gavan corridor or similar Pacific-edge port environment  
+**Languages:** Russian native; likely competent practical maritime English, enough for navigation, equipment, and selective foreign contact work  
+**Campaign role inside Procella:** field hand for littoral movement, extraction, covert coastal sabotage, and improvised infrastructure restoration
+
+**Rank note:** keep Denis’s former exact Russian-service rank unset for now until his service path is fully locked. The important part at this stage is role credibility rather than prematurely pinning a precise rank title.
+
+---
+
+## 3. SHORT CONCEPT BLOCK
+
+A former Pacific-facing Russian maritime reconnaissance operator who later spent years moving through the Far East’s dying infrastructure economy — relay sites, weather nodes, coastal facilities, salvage, generator work, shipping-support margins — and now serves Procella as a field operator who can move people, revive dead systems, and make the regime’s coastal machinery less reliable than it looks.
+
+---
+
+## 4. BIOGRAPHICAL FOUNDATION
+
+Denis comes from the Russian Far East as a lived reality, not as abstract frontier color. He is shaped by distance, cold, poor connective tissue, maritime dependence, and a long familiarity with the fact that central power expects the edge to function without ever truly caring how.
+
+He grows up in a place where weather is not scenery, boats are not romantic, and infrastructure is never invisible because everyone knows what happens when it fails. A dead relay, a missing generator part, bad harbor timing, incorrect weather information, or a delayed fuel transfer can decide whether people eat, travel, return, disappear, or die.
+
+He enters service young and proves useful in the kind of work that rewards patience, navigation, small-team discipline, coastal movement, and calm under compromised conditions. His military life gives him:
+- littoral reconnaissance
+- small-boat and shoreline movement
+- cold-water competence
+- insertion/recovery discipline
+- practical demolition familiarity
+- observation and concealment habits
+- the ability to operate in quiet professional teams where mistakes do not announce themselves loudly
+
+After leaving formal service, he does not become a patriotic television personality, a loud dissident, or a freelance action cliché. He drifts through the region’s neglected connective skeleton instead:
+- remote service contracts
+- weather or navigation support work
+- coastal facilities
+- generator and battery systems
+- salvage and recovery
+- shipping-support work
+- relay or site maintenance around places the state still depends on but no longer properly sustains
+
+That second life matters as much as the first. It is what makes him more than a former operator. It gives him the practical systems literacy that lets Procella use him not just as a weapon but as a route-preserver.
+
+---
+
+## 5. WHY HE BREAKS WITH THE REGIME
+
+Denis should not break because of one theatrical revelation. His separation from the regime is stronger if it feels cumulative, practical, and morally unavoidable.
+
+He sees too much of the edge machinery from the inside:
+- settlements treated as expendable
+- disappearances used as pressure
+- coastal surveillance used less for security than for control
+- weather and navigation information bent into coercive instruments
+- technical failures concealed because admitting them would embarrass power
+- ordinary people treated as friction in systems built to preserve command optics rather than human survival
+
+The emotional core is not:
+“I have discovered liberty.”
+
+It is closer to:
+**“This machine is eating people, and I know exactly how it hides the teeth.”**
+
+That fits him better.
+
+---
+
+## 6. FUNCTION INSIDE PROCELLA
+
+Denis is not Procella’s public voice, philosopher, or grand strategist. He is what a real resistance network needs when intent has to become reality.
+
+He is used for:
+- coastal route validation
+- shoreline or harbor pickup preparation
+- moving defectors and refugees to extraction points
+- testing whether a route is still clean or already burned
+- recovering batteries, fuel, parts, or power sources
+- restoring relay or weather functionality for short windows
+- falsifying, degrading, or selectively corrupting maritime/weather data
+- sabotaging regime coastal logistics with precision rather than spectacle
+- deciding when a mission is still an extraction and when it has become a kill box
+
+He is valuable because he understands that an escape route is a living system. Boats, timing, weather, fuel, batteries, radio windows, and frightened civilians all have to line up. If any one thing fails, the whole route can die.
+
+---
+
+## 7. PERSONALITY
+
+Denis should read as:
+- quiet
+- competent
+- observant
+- unsentimental
+- practical
+- restrained
+- regionally rooted
+- protective in action rather than words
+
+He should not read as:
+- a speechmaker
+- a glamorous anti-state avenger
+- a nihilist
+- an “operator-poet”
+- a generic taciturn badass
+
+His strongest moral characteristic is not rage. It is **intolerance for waste**.
+
+Waste of:
+- people
+- fuel
+- routes
+- time
+- hard-won windows
+- equipment that still has one more useful life in it
+- symbolic violence that ruins practical outcomes
+
+He is the kind of man who will accept ugly necessity, but not vanity disguised as necessity.
+
+---
+
+## 8. VOICE NOTES
+
+Denis’s speech should be:
+- short
+- concrete
+- functional
+- front-loaded with the real problem
+- nearly free of rhetoric
+- dry rather than witty
+
+He does not talk to sound impressive. He talks to reduce uncertainty.
+
+### Speech habits
+- identifies the true failure point quickly
+- dismisses false hope without theatrical cruelty
+- gives next steps in plain language
+- rarely raises his voice
+- uses silence as working space, not as a dramatic pose
+
+### Voice examples
+- “That station was killed by a liar, not by weather.”
+- “Window’s closing. Route isn’t.”
+- “Take the battery. Leave the mount.”
+- “If they were early, we’d hear engines.”
+- “You move people with timing, not courage.”
+- “No speeches. Get them to the water.”
+- “Hope is fine. Fuel is better.”
+- “We don’t need a miracle. We need ten quiet minutes.”
+
+### Dialogue rule
+When Denis speaks, the line should either:
+- identify the actual problem,
+- identify what still works,
+- cut away illusion,
+- or move the scene forward.
+
+He should not deliver ideological monologues unless the scene is very specifically earned.
+
+---
+
+## 9. EMOTIONAL PROFILE
+
+Denis is contained, not empty.
+
+His emotional life should surface through:
+- triage choices
+- care shown as competence
+- irritation at preventable loss
+- attention to civilians under stress
+- refusal to waste lives for symbolic wins
+- rare flashes of sharper feeling when incompetence or deliberate state cruelty destroys something survivable
+
+He is not trying to save the world in abstract terms. He is trying to preserve human continuity at the edge of a broken state. That smaller scale gives him weight.
+
+---
+
+## 10. VISUAL LANE
+
+Denis should look like a man shaped by:
+- wind
+- salt
+- cold
+- wet surfaces
+- poor interiors
+- neglected technical spaces
+- labor as often as combat
+
+### General appearance
+- late 30s
+- lean, durable build
+- weathered rather than glamorous
+- practical face
+- watchful eyes
+- controlled movement
+- carries himself like someone who is used to lifting, repairing, dragging, and moving equipment as much as fighting
+
+### Clothing direction
+Civilian-functional with field adaptation, not costume-operator:
+- dark shell or weather jacket
+- workwear or technical outer layer
+- layered fleece / grid fleece / thermal midlayer
+- worn maritime or work trousers
+- boots chosen for grip and endurance rather than aesthetic aggression
+- gloves that read as used
+- minimal insignia
+- low-profile field load as needed, not as a permanent silhouette
+- no flashy camouflage dependency unless mission-specific
+
+He should be able to plausibly stand in:
+- a derelict coastal station
+- a fishing-port edge
+- a remote relay shack
+- a shoreline pickup point
+- a safehouse with salvage clutter
+without looking dressed for the wrong story.
+
+### Visual rule
+He should read as **a man who can fix the generator and also shoot you if the route is burned**.
+
+---
+
+## 11. GEAR / EQUIPMENT IDENTITY
+
+Denis’s kit should read as:
+- modular
+- maintained
+- selectively repaired
+- practical
+- partly scavenged or adapted
+- low-signature
+- built around water, cold, and functional endurance
+
+This is not yet the moment to fully lock a weapon build, but his overall equipment lane should emphasize:
+- maritime practicality
+- field repairability
+- low-bulk carry
+- cold-weather reliability
+- battery / comms / tools integration
+- the sense that gear is used for keeping systems and people moving, not for self-image
+
+His tools matter almost as much as his weapon.
+
+---
+
+## 12. GAMEPLAY LANE
+
+Denis gives the Procella DLC its own grammar.
+
+### Core verbs
+- move
+- guide
+- revive
+- improvise
+- sabotage
+- extract
+- endure
+
+### Signature mission textures
+- cold littoral insertion
+- shoreline rendezvous
+- small-boat approach or departure
+- relay restoration under pressure
+- weather-node interference
+- selective denial of surveillance or logistics
+- escorting frightened civilians through exposed transition space
+- battery theft, transfer, or field installation
+- using neglected infrastructure as weapon and lifeline
+
+### Combat philosophy
+Combat should remain fully credible, but it should feel:
+- abrupt
+- ugly
+- practical
+- subordinate to survival, timing, and movement
+
+He is not a protagonist built around domination fantasy. He is built around pressure, choices, and keeping the route usable long enough to matter.
+
+### Distinctive player identity
+Not:
+“Kill everything.”
+
+Closer to:
+**“Make sure these people get out, this signal gets through, and this route still exists tomorrow.”**
+
+---
+
+## 13. DIFFERENTIATION FROM OTHER PLAYABLE LEADS
+
+### Versus Spook
+Denis is not embassy-adjacent, document-coded, or intelligence-bureaucratic.  
+He belongs to coastlines, stations, generators, batteries, weather windows, and extraction seams.
+
+### Versus Ducky
+Denis is not formal military coherence, allied command structure, or institutional defense.  
+He works in fracture, workaround, salvage, and deniable continuity.
+
+### Versus Grim
+Denis is less polished maritime-assault professionalism and more rough-edged resistance-littoral continuity.  
+Less strike force, more survival chain.
+
+### Versus an American outsider version
+Keeping Denis Russian keeps the campaign inside its own world. It avoids outsider-savior gravity and preserves Procella as a local, internal, morally complicated resistance lane.
+
+---
+
+## 14. RELATIONSHIP WITH ALBATROSS
+
+This relationship is load-bearing and should stay clean.
+
+### Albatross
+- strategist
+- pattern reader
+- network weaver
+- trust broker
+- keeper of hidden routes, names, contacts, fallback seams
+
+### Denis
+- field executor
+- route mechanic
+- extraction lead
+- sabotage hand
+- the one who physically gets people and systems through
+
+Albatross trusts Denis because:
+- he does not posture
+- he does not waste people
+- he does not confuse violence with effectiveness
+- he does not romanticize resistance
+- he understands that preserving a route is often worth more than winning a firefight
+
+Denis trusts Albatross because Albatross sees farther than he does, and because the older man’s caution is not cowardice but continuity logic. They do not need speeches to explain their relationship. It should feel like a partnership built through tested usefulness, withheld detail, and earned operational trust.
+
+### Dynamic tone
+- sparse
+- unsentimental
+- professionally intimate without warmth-performance
+- no mentor cliché speeches
+- no surrogate-father melodrama
+
+Best read:
+Two men who rarely explain themselves because each already knows what the other is for.
+
+---
+
+## 15. STORY STRENGTHS
+
+Denis supports the strongest current Procella DLC ideas:
+- rise of Procella in the Far East
+- domestic anti-regime operations
+- defectors and refugee movement
+- littoral extraction routes
+- weather-data sabotage
+- disruption of regime shipping confidence
+- thermal-electric battery acquisition
+- improvised comms
+- reactivation of neglected infrastructure
+- limited, meaningful foreign contact such as Japan without turning the DLC into a broader Pacific-war campaign
+
+He makes these elements feel like one campaign identity instead of separate cool ideas.
+
+---
+
+## 16. WRITING CAUTIONS
+
+1. Do not make him omnicompetent.  
+His systems knowledge must come from the years after formal service, not from magic operator intelligence.
+
+2. Do not blur him with Albatross.  
+Albatross sees the map. Denis walks the route.
+
+3. Do not over-center Moscow or elite-state glamour.  
+He must remain Far East-rooted in assumptions, habits, priorities, and worldview.
+
+4. Do not romanticize resistance.  
+He should know too much about cost for that.
+
+5. Do not turn him into a speech-delivery device.  
+His politics should emerge through choices, refusals, and operational priorities.
+
+---
+
+## 17. WORKING PROFILE SUMMARY
+
+**Denis Nikolaevich Malinin** is a late-30s Russian Far East maritime field operator whose background combines former reconnaissance-grade coastal competence with years spent inside the failing technical and logistical skeleton of the Pacific edge. He now serves Procella as a littoral extraction lead, sabotage specialist, and dead-system revival hand: a man who keeps people, routes, batteries, relays, and fragile chances alive long enough to matter.
+
+---
+
+The clean next move is to give him a **first-pass personal history block** with:
+birthplace, family texture, service path, break point, and first meeting logic with Albatross.
 
 USER:
 Yes. Please, go ahead and do as you proposed.
@@ -745,7 +1887,333 @@ Absolutely.
 
 Here is a **first-pass personal history block** for **Denis Nikolaevich Malinin**, written to sit cleanly underneath the profile you already approved.
 
-[The full Project Warriors — Character Profile Addition v0.1 / Personal History Block follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — CHARACTER PROFILE ADDITION v0.1  
+## Denis Nikolaevich Malinin — Personal History Block
+
+**Status:** working development pass, not final lock  
+**Purpose:** biography foundation, family texture, service path, break point, Albatross meeting logic
+
+---
+
+## BIRTHPLACE / REGIONAL ROOT
+
+**Working birthplace:** Sovetskaya Gavan, Khabarovsk Krai  
+**Working upbringing lane:** Sovetskaya Gavan / Vanino coastal corridor
+
+This is a strong fit because it gives Denis the right kind of regional identity: not a glamorous major-city Russian, not a generic “Siberian tough guy,” but a man from a Pacific-edge port environment where sea, rail, fuel, weather, and infrastructure all matter in immediate practical ways.
+
+He grows up in a place where the center feels far away even when the map insists it is the same country. Cargo moves. Ships come and go. Storms matter. Delays matter. Breakdowns matter. A damaged relay or a late fuel convoy is not an abstraction there. It changes what people can eat, fix, move, or survive.
+
+That should shape his worldview early:
+- systems are physical
+- distance is real
+- weather is real
+- neglect is political, even when nobody calls it politics
+
+---
+
+## FAMILY TEXTURE
+
+Denis should come from a family that is ordinary in a way that makes the region feel lived in rather than narratively designed.
+
+### Father
+**Working direction:** Nikolai Malinin — port electrician, maintenance technician, or shipyard-adjacent electrical hand
+
+His father is a man who kept old things working longer than they were supposed to. Not a philosopher, not a dissident, not a drunk cliché. He understands improvised repair, corrosion, unreliable supply, institutional lying about readiness, and the difference between what paperwork says and what actually functions.
+
+This is useful because Denis’s later relationship with infrastructure then feels inherited, not invented.
+
+### Mother
+**Working direction:** Yelena Malinina — school administrator, nurse, or municipal office worker
+
+His mother should represent a different kind of survival: paperwork, social continuity, practical order, knowing which families are struggling, which old people need help, which official promises are fake, and which shortages are about to become real before anyone admits them.
+
+She does not need to be overtly political. Better if she simply knows how systems fail ordinary people quietly.
+
+### Family emotional register
+The Malinins should not be melodrama machinery. They should feel like people who endured by:
+- fixing what they could
+- saying less than they knew
+- avoiding foolish risk
+- distrusting slogans
+- continuing anyway
+
+That is a good root system for Denis.
+
+### Siblings
+**Working option:** one younger sister, now living farther inland or in Khabarovsk/Vladivostok lane, still in limited contact
+
+A sister is useful if you want Denis to have one surviving civilian relationship that is not romantic and not sentimentalized. She can function later as proof that his loyalties were always to real people, not abstractions.
+
+But this is optional. If you want him cleaner and more self-contained, keep him an only child.
+
+---
+
+## CHILDHOOD / EARLY FORMATION
+
+Denis should grow up with:
+- practical competence
+- mechanical curiosity
+- comfort around docks, cold, and bad weather
+- early understanding that official conditions and actual conditions are not the same thing
+
+He is not a delinquent-genius type. He is more useful if he was always the boy who:
+- noticed what was broken
+- knew when weather was turning before others said so
+- did not panic easily
+- and learned early that things fail in chains, not one part at a time
+
+He should not be especially ideological in youth. Better if he is serious, physically capable, and already suspicious of performance long before he has words for why.
+
+---
+
+## SERVICE PATH
+
+This should remain **plausible but not over-pinned** until you decide how exact you want the Russian military lane to be.
+
+### Best working path
+Denis enters military service young and gravitates toward **Pacific-facing maritime reconnaissance / littoral special operations support work** rather than prestige-parade service or interior security structures.
+
+The key is that his field background should credibly give him:
+- coastal insertion and extraction
+- small-team reconnaissance
+- small-boat competence
+- shoreline movement
+- observation
+- low-signature endurance
+- cold-water functionality
+- demolition literacy
+- navigation under bad conditions
+
+He should not read as former desk intelligence, nor as a pure black-bag urban assassin.
+
+### Rank / seniority logic
+The safest plausible lane is that Denis was a **senior enlisted / NCO-grade professional**, not a commissioned officer.
+
+That fits him much better:
+- practical
+- field-heavy
+- skill respected
+- not politically theatrical
+- not institutionally central
+
+So I would currently keep him in a lane equivalent to:
+**career contract operator who finished service as a seasoned senior enlisted field professional rather than a command-track officer.**
+
+That is probably the right realism call for the kind of man he is.
+
+### Service tone
+His service record should read as competent, not legendary.
+No impossible medal-rack mythology.
+No “best operator in the fleet.”
+He is dangerous because he is reliable, not because the story insists everyone feared him.
+
+---
+
+## POST-SERVICE YEARS
+
+This is one of the most important parts of the character.
+
+After military service, Denis does not go glamorous. He slides into the half-dead connective economy of the Far East:
+- relay maintenance
+- weather or navigational support
+- salvage and recovery work
+- generator support
+- remote-site servicing
+- shipping-support margins
+- coastal logistics jobs no one notices unless they fail
+
+These years are what make him different from a generic former special operator.
+
+This period teaches him:
+- how under-maintained the region really is
+- where the state hides its fragility
+- how many systems survive through unofficial competence
+- which facilities are real, which are hollow, and which are dangerous because they pretend to work
+- who steals
+- who lies
+- who improvises honestly
+- and how easy it is for “administrative decisions” to get people quietly killed
+
+This is where he becomes not just a fighter, but a **systems-maritime field hand**.
+
+---
+
+## BREAK POINT / WHY HE CROSSES THE LINE
+
+Denis’s final break should come from something specific, but not melodramatic.
+
+### Best working version
+A coastal failure is deliberately falsified.
+
+A weather, navigation, relay, or coastal-surveillance situation is knowingly misreported or manipulated for regime purposes. The official version buries responsibility. The human cost is treated as acceptable. Civilians, defectors, conscripts, or local maritime workers pay for it. Denis knows enough to see not only that it happened, but exactly how it was hidden.
+
+That is better than a simple massacre beat, because it ties directly into the campaign’s identity:
+- weather
+- navigation
+- systems sabotage
+- state deceit
+- human beings reduced to acceptable loss
+
+The emotional truth of the break should be:
+he realizes the machinery is no longer merely broken or corrupt.
+It is being used that way on purpose.
+
+### Denis’s internal conclusion
+Not: “Now I am a revolutionary.”
+More like:
+**“If I keep helping this system function, then I am choosing what it does with that function.”**
+
+That is a very Denis sentence, even if he never says it aloud.
+
+---
+
+## FIRST CONTACT WITH PROCELLA
+
+Denis should not join Procella through a recruitment speech.
+
+The better version is that he first intersects with it indirectly, through a practical problem:
+- a route
+- a pickup
+- a missing battery chain
+- a dead weather node
+- a contact who should have been captured but wasn’t
+- a false maintenance order that smells wrong
+- a coastal facility that has become more important than it looks
+
+He solves something small and specific. In doing so, he discovers that someone else has been working the same seam from the opposite side.
+
+That “someone else” is connected to Procella.
+
+This keeps the network feeling real.
+
+---
+
+## FIRST MEETING WITH ALBATROSS
+
+This should be quiet and load-bearing.
+
+### Best working meeting model
+Denis is managing or inspecting a compromised coastal route or technical node after a failure event. He expects either abandonment, a trap, or a frightened amateur contact. Instead, he meets a man who already understands the route’s true value, already knows which part of the failure was false, and is more interested in whether the line can still function than in blame.
+
+That man is Albatross.
+
+### Why it works
+Their first meeting then becomes a recognition scene, not an introduction scene.
+
+Denis sees that Albatross is not:
+- an idealist
+- a fool
+- a slogan merchant
+- or an outsider playing at clandestine romance
+
+Albatross sees that Denis is not:
+- a burned-out brute
+- a compromised ex-uniform
+- or a man who confuses anger with usefulness
+
+They do not bond emotionally.
+They recognize utility, seriousness, and the absence of vanity.
+
+That is enough.
+
+### Tone of the scene
+No speeches.
+No “I’ve heard of you.”
+No myth reveal.
+
+Better:
+- cold air
+- failing light
+- damaged equipment
+- one or two exact observations
+- Denis realizing the stranger understands the system at a depth that should be impossible
+- Albatross realizing Denis is the kind of man who can walk a route rather than merely talk about it
+
+That is the beginning of trust.
+
+---
+
+## WHY ALBATROSS KEEPS HIM
+
+Albatross does not keep Denis around because he is loyal in a sentimental sense.
+
+He keeps him because Denis:
+- understands routes as living systems
+- does not waste people
+- does not speak too much
+- can distinguish a usable compromise from a fatal one
+- can restore function under pressure
+- is willing to sabotage precisely rather than theatrically
+- and knows when extraction matters more than revenge
+
+That makes him invaluable to Procella’s Pacific-edge operations.
+
+---
+
+## EARLY PROCELLA FUNCTION
+
+Once inside the network, Denis should initially handle the work nobody mythologizes:
+- checking routes
+- moving batteries
+- cleaning pickup sites
+- validating comms windows
+- escorting people from inland handoff to shoreline launch
+- degrading the confidence of regime coastal logistics without overexposure
+- teaching others what can and cannot be trusted in bad weather
+
+Only later does he become central enough to carry the campaign.
+
+That progression is important. It makes his authority earned.
+
+---
+
+## EMOTIONAL ANCHORS
+
+Denis should have a few simple anchors rather than one giant trauma engine.
+
+### Good anchor types
+- family still somewhere in the region
+- recurring memory of systems being falsely declared safe
+- strong reaction to preventable maritime death
+- deep dislike of waste disguised as policy
+- attachment to place without attachment to the regime that claims it
+
+That last one matters:
+he should feel like a man who still belongs to the Far East even after he stops belonging to the state.
+
+---
+
+## OPEN FLAGS
+
+### 1. Exact birthplace
+Sovetskaya Gavan is the current best fit, but Vanino remains viable.
+
+### 2. Sister or no sister
+A younger sister could give him a useful civilian tether.
+Still optional.
+
+### 3. Exact service designation
+Keep unset until you decide how granular you want Russian-service realism.
+
+### 4. Nature of the break event
+Best current lane is falsified coastal/weather/navigation failure with human cost.
+Can later be sharpened into a specific incident.
+
+### 5. First Albatross scene
+This is worth eventually writing as a compact screenplay-style or prose scene, because it may become one of the most important invisible foundations of the DLC.
+
+---
+
+## WORKING PERSONAL HISTORY SUMMARY
+
+Denis Nikolaevich Malinin is a Russian Far East coastal-born field professional shaped by port life, failing infrastructure, maritime reality, and a family culture of practical endurance. After service in a Pacific-facing reconnaissance-grade military lane, he spent years inside the neglected technical skeleton of the region, learning how coastal systems actually survive, fail, and lie. His break with the regime comes when he can no longer morally separate his technical usefulness from the human cost of the machine using it. He first intersects with Procella through a practical coastal-system problem, then meets Albatross not through ideology but through mutual recognition: two men who understand that at the edge of a collapsing state, survival belongs to whoever can keep the route alive.
+
+---
+
+The next strong move is to build either his **visual/appearance reference profile** or a **first meeting scene with Albatross**.
 
 USER:
 Birthplace is ok. younger sister I'd say yes. The rest we can keep open for now and revisit later. I was also thinking that Sakhalin might be a good callsign for Denis in game.
@@ -756,7 +2224,479 @@ Absolutely.
 
 I think this is a good place to make a few **working locks** and then build the two pieces you asked for.
 
-[The full visual profile v0.1 and signature weapon build v0.1 for Denis “Sakhalin” Malinin / DEAD RECKONING follow exactly as displayed earlier in this thread.]
+## Quick working locks
+
+- **Birthplace:** **Sovetskaya Gavan** works well; I’d keep that as the current working lock.
+- **Sibling:** **younger sister = yes**. Details can stay open for now.
+- **Callsign:** **SAKHALIN** works well for Denis.
+
+On **Sakhalin** specifically: I like it best if it is treated as a **field / network callsign**, not necessarily a formal old-service nickname from his military career. That makes it feel more organic and less like a too-perfect operator myth. It can read as a name that stuck because of geography, route familiarity, offshore movement, distance, cold, or his habit of working the eastern maritime edge. It feels believable, memorable, and very in-lane for him.
+
+So I would currently treat:
+
+**Denis Nikolaevich Malinin**  
+**Callsign: SAKHALIN**
+
+as the working identity block.
+
+---
+
+# PROJECT WARRIORS — VISUAL PROFILE v0.1  
+## Denis Nikolaevich Malinin / “Sakhalin”
+
+**Status:** working development pass  
+**Purpose:** visual lane, silhouette, appearance rules, drift control  
+**Campaign lane:** Procella Far East DLC / *Project Warriors: The Storm*
+
+---
+
+## 1. VISUAL THESIS
+
+Denis should look like a man shaped by:
+- cold coasts
+- bad weather
+- neglected infrastructure
+- work as much as combat
+- long periods of practical self-sustainment
+
+He should not read as:
+- polished special-forces glamour
+- Moscow black-suit intrigue
+- tacticool fantasy
+- mercenary peacock
+- futuristic resistance icon
+
+The core visual sentence is:
+
+**A weathered Russian Far East littoral field operator who looks equally believable at a shoreline extraction point, inside a dead relay shack, or carrying a rifle through a compromised harbor edge.**
+
+---
+
+## 2. GENERAL PHYSICAL READ
+
+**Age:** 39  
+**Height:** roughly 179–182 cm / about 5'10.5" to 6'0"  
+**Build:** lean, durable, functional — not oversized, not bodybuilder-heavy  
+**Body language:** economical, balanced, little wasted motion  
+**Overall impression:** a man who looks strong because he works, carries, climbs, drags, repairs, and endures — not because he performs toughness
+
+He should read as:
+- physically capable
+- compactly strong
+- accustomed to cold and exposure
+- slightly worn by environment rather than by theatrical suffering
+
+---
+
+## 3. FACE
+
+### Core facial direction
+Denis should have a face that feels:
+- intelligent
+- practical
+- weathered
+- slightly severe at rest
+- more observant than expressive
+
+### Specific lane
+- angular-to-rectangular face shape
+- defined cheek structure without becoming gaunt
+- slightly heavy or tired eye area from field life and poor sleep
+- straight or slightly roughened nose, possibly mildly crooked from an old break
+- mouth set in a neutral, restrained line rather than a dramatic scowl
+
+He should not have a “movie-pretty” face.  
+He should have a **credible, lived-in face**.
+
+---
+
+## 4. EYES
+
+**Best direction:** grey-blue or steel-blue eyes
+
+Why this works:
+- fits the colder maritime lane well
+- gives him watchfulness without prettifying him
+- supports the sense that he reads weather, distance, and risk quickly
+
+His gaze should feel:
+- steady
+- measuring
+- quiet
+- rarely wide or overtly emotional
+
+Not dead-eyed.  
+Not icy-supervillain.  
+Just a man who notices.
+
+---
+
+## 5. HAIR / FACIAL HAIR
+
+### Hair
+**Best direction:** dark ash-brown hair, worn short and practical  
+Optional light recession at the temples is good and age-appropriate.
+
+This helps keep him:
+- mature
+- grounded
+- unglamorous
+- believable in hard conditions
+
+### Facial hair
+Best working lane:
+**short rough beard or heavy stubble**, maintained enough to be practical but not groomed into fashion precision.
+
+That gives him:
+- age
+- fatigue texture
+- non-parade realism
+- slightly civilian / deniable feel compared to active-service neatness
+
+Avoid:
+- big fashionable beard
+- clean influencer stubble
+- heavily styled hair
+
+---
+
+## 6. SKIN / WEATHERING
+
+Denis should have the kind of skin texture that suggests:
+- cold wind
+- salt exposure
+- bad interiors
+- poor sleep
+- outdoor work
+- seasonal dryness and wear
+
+So:
+- fair-to-light skin tone with weathering
+- slight windburn / exposure wear possible
+- roughened hands
+- visible lived-in texture rather than idealized smoothness
+
+He should look **used to the elements**, not cosmetically rugged.
+
+---
+
+## 7. HANDS / MOVEMENT TEXTURE
+
+His hands are important.
+
+They should read as the hands of someone who:
+- works with equipment
+- handles tools
+- lifts batteries and fuel cans
+- deals with cables, crates, and rough surfaces
+- maintains his own field gear
+
+This matters because Denis’s whole identity improves if he does not read like “only a gun man.”  
+He should look like a man who can **repair, carry, rig, and improvise**.
+
+---
+
+## 8. CLOTHING LANE
+
+## Core clothing rule
+Denis should live in the space between:
+- technical workwear
+- maritime functional clothing
+- low-signature field kit
+
+He is **not** full-time overt military-looking unless a specific mission demands it.
+
+### Best default outfit lane
+- dark charcoal or faded black weather shell / field jacket
+- muted slate, grey-green, or dark olive grid fleece / thermal midlayer
+- dark work or maritime utility trousers
+- worn boots designed for grip, wet surfaces, and endurance
+- practical gloves
+- watch cap / beanie in cold-weather variants
+- occasionally a low-profile chest rig or compact harness when on active field tasking
+
+### Color palette
+Best colors:
+- charcoal
+- faded black
+- slate grey
+- blue-grey
+- dark olive-grey
+- weathered brown/black footwear
+
+This helps him feel:
+- coastal
+- cold-weather appropriate
+- subdued
+- deniable
+- visually distinct from cleaner Western SOF styling
+
+### Things to avoid
+- bright fashion contrast
+- excessive multicam
+- high-speed molle overload
+- shiny pristine jackets
+- tactical cosplay silhouettes
+- over-accessorized operator belts and patch culture
+
+---
+
+## 9. SILHOUETTE
+
+Denis’s silhouette should be:
+- narrow-to-medium
+- layered
+- practical
+- low-bulk
+- flexible enough to move between civilian and covert field contexts
+
+If you see him in profile, the silhouette should suggest:
+- weather layer
+- compact pack or field load
+- a tool-and-gear man
+- not a plate-carrier billboard
+
+He should never look like he is dressing to be admired.
+
+---
+
+## 10. FIELD LOADOUT VISUAL LANGUAGE
+
+Even before a specific weapon build is fully locked, his overall loadout should read as:
+
+- maintained rather than pristine
+- selectively repaired
+- modular
+- mixed-origin where necessary
+- chosen for reliability
+- light enough for movement
+- integrated with tools and comms
+
+Important:
+His visual identity should make room for **tools** and **technical kit**, not only magazines and medical pouches.
+
+A Denis loadout should plausibly include:
+- compact radio/comms component
+- battery-related equipment
+- tools or maintenance items
+- cordage / tape / improvised-fix texture
+- simple field sustainment gear
+
+That is part of what makes him Denis.
+
+---
+
+## 11. EXPRESSIVE / PORTRAIT RULES
+
+In portrait or promo art, Denis should not pose theatrically.
+
+Best reads:
+- looking off-frame, assessing
+- half-turned in a compromised coastal or technical environment
+- standing in wind or drizzle
+- holding or checking equipment rather than mugging for camera
+- seated in a boat, shack, or relay room with quiet intensity
+- moving someone or something, not performing heroism
+
+Facial expression range:
+- neutral
+- focused
+- mildly tired
+- faintly skeptical
+- occasionally softer in very rare quiet moments
+
+Avoid:
+- roaring aggression
+- dramatic screaming
+- smugness
+- action-poster over-intensity
+
+---
+
+## 12. ENVIRONMENT PAIRINGS
+
+Denis looks best in:
+- remote coastal infrastructure
+- dead relay sites
+- weather stations
+- fishing-port edges
+- shoreline extraction points
+- cold industrial interiors
+- damp utility rooms
+- rocky or muddy littoral transitional terrain
+- small boats and launch points
+- abandoned or half-functional service buildings
+
+He should feel visually native to those environments.
+
+---
+
+## 13. DRIFT-CONTROL RULES
+
+### Hard avoidances
+Do **not** drift Denis into:
+- cyberpunk resistance aesthetics
+- ultra-clean Western PMC styling
+- glossy black tactical fashion
+- superhero hard-man framing
+- “movie assassin” urban chic
+- oversized armored brute silhouette
+- overdecorated Russian patriot iconography
+
+### Positive north star
+He should always feel like:
+**a Russian Far East field operator who can keep a coastal route alive with a rifle, a battery, a working radio, and ten minutes of bad weather.**
+
+---
+
+## 14. VISUAL PROFILE SUMMARY
+
+**Denis “Sakhalin” Malinin** should read as a late-30s Russian Far East littoral field operator with a lean durable build, ash-brown short hair, grey-blue eyes, short beard/stubble, and a weathered, practical face shaped by cold coastlines, poor sleep, bad weather, and hard technical environments. His clothing should sit between maritime workwear, technical outerwear, and low-profile field gear, with a muted charcoal/slate/olive palette and no operator-cosplay excess. He must look like a man who can repair, carry, improvise, and fight — in that order.
+
+---
+
+# PROJECT WARRIORS — SIGNATURE WEAPON BUILD v0.1  
+## Denis Malinin / “Sakhalin”
+
+I think yes — he should probably have a **named build**, and I think the best current name is:
+
+## **DEAD RECKONING**
+
+That name is very strong for him.
+
+Why it works:
+- it is a real maritime/navigation term
+- it fits the littoral/coastal identity
+- it speaks to movement when systems are degraded or lying
+- it matches Denis’s whole thematic lane: surviving and navigating when the official picture is false
+
+So I would currently recommend:
+
+**Signature build name: DEAD RECKONING**
+
+---
+
+## BUILD CONCEPT
+
+Denis’s signature primary should not be flashy or boutique.  
+It should be grounded in:
+- Russian/Far East plausibility
+- resistance logistics
+- wet/cold/coastal practicality
+- compact maneuverability
+- selective low-signature use
+
+### Best working weapon lane
+**AK-105 carbine in 5.45x39mm**
+
+Why this is the best current fit:
+- regionally plausible
+- compact and maneuverable
+- good for coastal movement, boats, and tight infrastructure spaces
+- 5.45 supply makes sense in a Russian resistance environment
+- rugged and believable for mixed-condition use
+
+This feels more correct for Denis than a hyper-Western rifle as his main signature arm.
+
+---
+
+## DEAD RECKONING — working build summary
+
+**Platform:** AK-105  
+**Caliber:** 5.45x39mm  
+**Role:** compact littoral field carbine  
+**Use case:** shoreline movement, route security, relay-site work, extraction overwatch, coastal sabotage, close-to-mid-range engagements
+
+### Attachment direction
+Keep it practical, restrained, and believable.
+
+**Recommended lane:**
+- compact red dot optic
+- weapon light
+- practical two-point sling
+- folding stock
+- handguard setup simple and durable, not overloaded
+- suppressor available / commonly used, but not necessarily permanent in every state
+- no default visible laser unless a mission-specific setup requires it
+
+### Character logic
+This rifle should feel like:
+- a weapon Denis has adapted over time
+- something maintained, repaired, and trusted
+- not a vanity object
+- not a collector’s piece
+- not a “look at my operator rifle” flex
+
+It should read as:
+**a compact, reliable, weather-tolerant carbine for moving through cold coastal margins and ugly technical spaces.**
+
+---
+
+## VISUAL CHARACTER OF THE BUILD
+
+The rifle should have:
+- visible wear
+- a practical working finish
+- signs of long-term use
+- maybe small field modifications or retention choices
+- no flashy custom paint
+- no hero-gun goldilocks perfection
+
+A little scuffing, tape, or functional adaptation is good — but keep it grounded.
+
+---
+
+## WHY THE NAME FITS
+
+**DEAD RECKONING** says a lot about Denis without sounding melodramatic.
+
+It implies:
+- navigation without a trustworthy full picture
+- movement through uncertainty
+- maintaining course from fragments
+- surviving when systems go dark or lie
+
+That is not just a rifle name.  
+It is basically Denis’s campaign philosophy.
+
+That makes it a very good signature-build title.
+
+---
+
+## OPTIONAL SECONDARY / TOOL IDENTITY
+
+Even if not fully locked yet, Denis’s broader gear identity should probably include:
+- a plain practical sidearm, likely unglamorous
+- a compact fixed blade or working knife
+- a tool load that matters visibly
+- battery / comms / maintenance items as part of his signature silhouette
+
+So his “named build” identity should feel like more than a rifle alone.  
+But the rifle is the clean first anchor.
+
+---
+
+## BUILD SUMMARY
+
+### **DEAD RECKONING**
+A compact, working-grade **AK-105 in 5.45x39mm**, configured for littoral movement, route security, coastal sabotage, and extraction work. Reliable, low-bulk, and adapted for wet cold field use, it reflects Denis Malinin’s core identity: a man who keeps moving and keeps others moving when maps, signals, and systems can no longer be trusted.
+
+---
+
+## My recommendation
+
+I would currently treat these as the best working locks:
+
+- **Callsign:** **SAKHALIN**
+- **Visual lane:** locked in principle
+- **Signature build name:** **DEAD RECKONING**
+- **Signature primary direction:** **AK-105, 5.45x39mm compact carbine**
+
+The next best move would be either:
+1. a **full named-build source page** for **DEAD RECKONING**, with full attachment list and gear logic, or  
+2. a **visual prompt packet** for Denis / Sakhalin so his appearance lane is reusable across threads.
+
+If you want, I can do **both**, starting with the full named-build page.
 
 USER:
 Please go ahead and do both exactly as you propose.
@@ -764,7 +2704,343 @@ Please go ahead and do both exactly as you propose.
 ASSISTANT:
 I’m treating these as **source-first assets**, not compendium-only notes: active authoring belongs in `dev_src_docs/`, compendia are for refreshed synthesis after the source page lands, and Project Warriors now treats text prompt packets as a durable source of truth for image-reference continuity; `dev_src_docs/image_prompts/*` is also explicitly called out in the recommended upload order. fileciteturn5file1 fileciteturn5file2 fileciteturn5file0 fileciteturn5file19
 
-[The full BUILD 13 — DEAD RECKONING named-build page v0.1 and Denis Malinin / Sakhalin image-prompt packet v0.1 follow exactly as displayed earlier in this thread.]
+# PROJECT WARRIORS — NAMED BUILD PAGE v0.1  
+## BUILD 13 — DEAD RECKONING  
+### Denis Nikolaevich Malinin / “Sakhalin”
+
+**Status:** working development pass, not hard final lock  
+**Campaign lane:** Procella Far East DLC / *Project Warriors: The Storm*  
+**User:** Denis Nikolaevich Malinin  
+**Callsign:** SAKHALIN  
+**Role:** compact littoral field carbine for coastal movement, extraction security, relay-site work, and selective sabotage
+
+## Core idea
+
+**DEAD RECKONING** should feel like a weapon built for moving through cold, wet, compromised spaces where the official picture is false and the route may only exist for a few more minutes.
+
+It is not a glamorous hero gun.  
+It is not a boutique collector build.  
+It is not a parade of attachments.
+
+It is a compact working rifle for:
+- shoreline movement
+- small-boat transitions
+- fishing-port edge spaces
+- dead utility interiors
+- relay and weather-node work
+- route security during civilian extraction
+- close-to-mid-range violence when timing fails
+
+The build should imply:
+**keep moving, keep it light, keep it working, and do not trust the map.**
+
+## Platform
+
+**Base platform:** AK-105  
+**Caliber:** 5.45x39mm  
+**Barrel:** standard AK-105 short-carbine lane  
+**Operating logic:** rugged, compact, supportable, regionally credible  
+**Configuration rule:** modernized only to the point of real usefulness; do not drift into tacticool fantasy or over-accessorized Western-operator cosplay
+
+This is the right platform for Denis because it keeps the build:
+- Russian/Far East credible
+- compact for littoral and interior work
+- practical in a resistance logistics environment
+- visually distinct from Romeo, Ducky, Spook, and Kearney lanes
+
+## Configuration
+
+**Optic:** compact red-dot lane  
+Best current direction: practical, low-bulk, enclosed or otherwise weather-tolerant.  
+Keep exact model flexible until the final Russian/covert-procurement pass is locked.
+
+**White light:** yes  
+A compact practical weapon light is essential. Denis works in:
+- bad interiors
+- shoreline dark
+- utility spaces
+- boat transfers
+- coastal weather
+No giant bezel, no oversized “operator” statement.
+
+**Sling:** plain two-point adjustable sling  
+This matters. He carries the rifle while climbing, hauling, guiding civilians, moving batteries, and transitioning in and out of boats and technical spaces.
+
+**Stock:** side-folding practical stock  
+Keep it compact, durable, and believable for vehicle/boat/interior use.
+
+**Handguard:** simple modernized practical handguard lane  
+Enough functionality for optic/light/control and field handling.  
+Not a rail-farm.
+
+**Muzzle:** flash hider by default; suppressor-capable lane approved  
+A suppressor should be available and commonly used in some mission states, but it should not define the weapon’s identity more than the route-work does.
+
+**Laser:** no default visible laser lock at this stage  
+Add only if a later mission-specific package truly earns it.
+
+## Visual character
+
+**DEAD RECKONING** should show:
+- finish wear
+- honest handling marks
+- salt-air and field-use suggestion
+- practical maintenance
+- maybe one or two tiny functional adaptations
+- zero vanity styling
+
+Acceptable texture:
+- scuffed finish
+- worn sling
+- slight tape or retention detail if useful
+- magazine wear consistent with long-term field use
+
+Avoid:
+- flashy custom paint
+- overdone rebel iconography
+- gold/brass/fetish-metal detailing
+- polished “content creator” rifle aesthetics
+- too-clean showroom look
+
+## Thematic rule
+
+The rifle should feel like something Denis trusts because it has kept working, not because it makes a statement.
+
+That is important.
+
+The weapon’s meaning is not “identity performance.”  
+Its meaning is **continuity under false conditions**.
+
+## Why the name works
+
+**DEAD RECKONING** is strong because it does three jobs at once.
+
+It is:
+- a real navigation term
+- a littoral / maritime fit
+- a character thesis
+
+It implies movement without a trustworthy full picture.  
+It implies making course corrections from fragments.  
+It implies survival when the instruments are wrong, dark, compromised, or lying.
+
+That is Denis.
+
+## Combat role
+
+**DEAD RECKONING** is not meant to suggest battlefield dominance.  
+It is meant to support a specific gameplay identity:
+
+- secure the pickup
+- cross the gap
+- keep the route alive
+- break contact when needed
+- kill precisely if the route is burned
+- carry the rifle all day without resenting it
+
+The build should excel in:
+- close and near-mid engagements
+- fast presentation in cramped spaces
+- movement through layered terrain
+- wet/cold field practicality
+- believable resistance sustainment
+
+## Named-build source summary
+
+**BUILD 13 — DEAD RECKONING**  
+A compact 5.45x39mm AK-105 configured for littoral movement, extraction security, relay-site work, and selective sabotage. Worn, practical, and compact rather than flashy, it reflects Denis Malinin’s core identity: a Far East field operator who keeps moving and keeps others moving when routes, signals, and official systems can no longer be trusted.
+
+## Working lock notes
+
+- **Build number 13** is a strong working recommendation, but can remain provisional until the next build-index pass.
+- **AK-105** is the correct current platform recommendation.
+- Keep the exact optic/light manufacturer lane slightly flexible until the broader Procella procurement logic is better pinned.
+- Do not make this rifle feel more expensive or more fashionable than Kearney would respect. The project’s broader gear logic rewards honesty and supportability over vanity. fileciteturn5file99
+
+---
+
+# PROJECT WARRIORS — IMAGE PROMPT PACKET v0.1  
+## Denis Nikolaevich Malinin / “Sakhalin”
+
+**Status:** working reusable reference packet  
+**Purpose:** durable image-reference continuity source  
+**Campaign lane:** Procella Far East DLC / *Project Warriors: The Storm*  
+**Prompt workflow note:** prompt packets are the durable image-reference continuity layer and should live as source-controlled assets rather than only as transient chat text. fileciteturn5file0 fileciteturn5file19
+
+## Recommended source filename
+
+`PW_Denis_Malinin_Sakhalin_Visual_Prompt_Packet_2026-05-01_rev1.txt`
+
+## Identity block
+
+**Name:** Denis Nikolaevich Malinin  
+**Callsign:** SAKHALIN  
+**Age in 2028:** 39  
+**Nationality:** Russian  
+**Origin:** Sovetskaya Gavan, Russian Far East  
+**Campaign role:** Procella littoral field operator, extraction lead, sabotage and dead-system revival specialist
+
+## Visual thesis
+
+Denis should look like a Russian Far East coastal field operator shaped by:
+- wind
+- salt
+- cold
+- neglected infrastructure
+- work as much as combat
+- practical endurance instead of theatrical hardness
+
+He should feel believable in:
+- a shoreline extraction point
+- a dead relay shack
+- a weather station
+- a fishing-port edge
+- a cold utility corridor
+- a small boat
+- a compromised harbor approach
+
+He must not look like:
+- a glossy PMC
+- a cyberpunk rebel
+- a Moscow assassin-fashion fantasy
+- a superhero operator
+- a pristine special-forces poster model
+
+## Locked appearance details
+
+- male, age 39
+- lean durable build, compactly strong rather than bulky
+- weathered fair/light skin with real exposure texture
+- ash-brown hair, short and practical
+- light recession at the temples acceptable
+- short rough beard or heavy practical stubble
+- grey-blue or steel-blue eyes
+- intelligent, practical face
+- slightly severe neutral expression
+- watchful eyes, not dead-eyed
+- hands should read like someone who carries tools, batteries, cables, crates, and rifles
+- body language economical, minimal wasted movement
+
+## Clothing lane
+
+Default Denis clothing should sit between:
+- maritime workwear
+- technical outerwear
+- low-signature field adaptation
+
+Best palette:
+- charcoal
+- faded black
+- slate grey
+- dark olive-grey
+- cold blue-grey
+- worn black/brown boots
+
+Best clothing mix:
+- dark weather shell or field jacket
+- muted grid-fleece or thermal midlayer
+- dark maritime/work trousers
+- worn boots with wet-surface grip
+- practical gloves
+- beanie/watch cap in cold-weather versions
+- low-profile chest rig or compact field harness only when needed
+
+## Avoid-drift rules
+
+Do not drift Denis into:
+- glossy tactical influencer styling
+- multicam overload
+- plate-carrier billboard silhouette
+- celebrity face lookalike rendering
+- fashionable beard grooming
+- clean editorial studio lighting
+- flashy weapon presentation
+- obvious patriotic regime symbolism
+- neon or synthetic sci-fi color logic
+- urban-assassin luxury textures
+
+## Expression / pose rules
+
+Best Denis images show him:
+- half-turned and assessing
+- looking off-frame rather than at camera
+- handling equipment rather than posing
+- standing in wind, drizzle, mist, snow, or cold overcast light
+- seated in a boat or technical interior with restrained focus
+- carrying or checking something practical
+- moving through a compromised space with quiet purpose
+
+Avoid:
+- screaming
+- roaring
+- aggressive hero-poster posing
+- smugness
+- action-trailer overacting
+- deliberate “look how cool he is” framing
+
+## Environment pairings
+
+Strongest Denis environments:
+- remote weather station
+- relay shack
+- fishing-port edge
+- shoreline extraction point
+- rocky cold beach
+- decaying coastal facility
+- utility tunnel or generator room
+- small-boat launch site
+- damp industrial interior
+- snow-dirty Pacific-edge coastal road
+- abandoned radar or signal site
+
+## Reusable master prompt
+
+Generate a grounded, highly realistic cinematic character reference image for a near-future military narrative game.
+
+Subject: **Denis Nikolaevich Malinin**, callsign **Sakhalin**, a 39-year-old Russian Far East littoral field operator aligned with the clandestine resistance network Procella. He is not a glamorous action hero. He is lean, weathered, practical, observant, and shaped by cold coastlines, bad weather, and years spent in neglected technical and maritime environments.
+
+He has a compact durable build, ash-brown short practical hair, heavy stubble or a short rough beard, grey-blue eyes, and a worn intelligent face with subtle exposure texture from wind, salt, and poor sleep. His expression is restrained and serious, more watchful than aggressive.
+
+Clothing should sit between maritime workwear, technical outerwear, and low-signature field gear: dark charcoal or faded black weather shell, muted slate or dark olive-grey thermal/grid-fleece layer, dark work or maritime utility trousers, worn boots with wet-surface grip, practical gloves, minimal visible tactical excess. If mission-equipped, use only a low-profile chest rig or compact field harness, never a plate-carrier-heavy operator silhouette.
+
+The setting should feel like the Russian Far East Pacific edge: cold shoreline, remote relay shack, weather station, fishing-port edge, compromised harbor, small-boat launch point, or damp utility interior. Lighting should be grounded, overcast, cold, misty, drizzling, or low natural light rather than glossy dramatic spotlighting.
+
+Overall tone: documentary realism, quiet competence, no glamour, no cyberpunk, no flashy PMC styling, no hero-poster posing. He should look like a man who can fix a generator, carry a battery, guide civilians to an extraction point, and fight only when the route is burning.
+
+## Portrait prompt variant
+
+Generate a grounded, photoreal cinematic portrait of **Denis “Sakhalin” Malinin**, age 39, Russian Far East clandestine field operator. Tight chest-up or shoulders-up framing. He has ash-brown short hair, rough stubble, grey-blue eyes, weathered light skin, and a practical severe face shaped by wind, salt, and bad sleep. He wears a dark weather jacket over a muted technical midlayer. Background should suggest cold littoral infrastructure out of focus: relay tower steel, harbor clutter, weather station siding, or a dim utility interior. Tone is restrained, documentary, intelligent, unsentimental, and realistic. No glamour lighting, no celebrity look, no tactical cosplay.
+
+## Full-body reference prompt variant
+
+Generate a full-body grounded character reference of **Denis Nikolaevich Malinin / Sakhalin** standing in a cold Russian Far East coastal environment. He is lean, practical, and weathered, not oversized. He wears dark maritime/technical outerwear, layered muted cold-weather clothing, work-capable trousers, worn boots, practical gloves, and only minimal low-profile field load. His silhouette should be narrow-to-medium and functional, not bulky. The environment should be a rocky shoreline, fishing-port edge, remote weather station, or dead relay-site approach. No heroic pose; just quiet readiness and believable movement capability.
+
+## Active mission prompt variant
+
+Generate a realistic mission-still image of **Denis “Sakhalin” Malinin** moving through a compromised coastal technical site at dusk or under cold overcast light. He carries a compact worn AK-105 carbine configured for practical field use, not flashy presentation. His body language is economical and focused. Surroundings should include utility conduits, generator housings, wet concrete, rusted steel, old signage, cable runs, or weather instrumentation. Emphasize quiet urgency, route survival, and practical resistance tradecraft rather than high-action spectacle.
+
+## Weapon-specific prompt add-on
+
+When Denis appears with his signature primary, describe it as:
+
+**BUILD 13 — DEAD RECKONING**  
+A compact worn AK-105 in 5.45x39mm configured for littoral field work, extraction security, relay-site movement, and selective sabotage. Practical red-dot lane, compact white light, plain adjustable sling, folding-stock logic, weathered finish, grounded field-use texture, no flashy custom styling.
+
+## Locked reuse notes
+
+- Denis should always look more like a **systems-maritime field hand** than a parade-operator.
+- His environments should support his identity: routes, relays, weather, batteries, ports, shorelines, utility spaces.
+- Tool-and-carry realism matters. He should look like he handles equipment as often as weapons.
+- Keep the emotional tone quiet and compressed.
+- He is **protective through competence**, not through sentiment performance.
+- He belongs to the Pacific edge, not to Moscow glamour.
+- Sakhalin works best as a field/network callsign rather than a loudly mythic old-service nickname.
+
+## One-line visual checksum
+
+**Denis “Sakhalin” Malinin should always read as a weathered Russian Far East coastal field operator who can keep a route alive with a rifle, a battery, a working radio, and ten minutes of bad weather.**
+
+The clean next move is to turn **BUILD 13 — DEAD RECKONING** into a tighter attachment-by-attachment lock, then mirror Denis into a second prompt packet for a **boat / shoreline extraction state** and a **dead relay / utility interior state**.
 
 USER:
 Please go ahead exactly as you propose 
@@ -779,23 +3055,919 @@ I’ll do both:
    - **boat / shoreline extraction state**
    - **dead relay / utility interior state**
 
-[The full named-build page v0.2 and both state-specific image-prompt packets follow exactly as displayed earlier in this thread.]
+I’m still treating these as **source-page material first**, with compendium refresh later, in line with the repo workflow and the image-prompt continuity rule. fileciteturn5file2 fileciteturn5file19
+
+---
+
+# PROJECT WARRIORS — NAMED BUILD PAGE v0.2  
+## BUILD 13 — DEAD RECKONING  
+### Denis Nikolaevich Malinin / “Sakhalin”
+
+**Status:** working development pass, not hard final lock  
+**Campaign lane:** Procella Far East DLC / *Project Warriors: The Storm*  
+**User:** Denis Nikolaevich Malinin  
+**Callsign:** SAKHALIN  
+**Role:** compact littoral field carbine for shoreline movement, extraction security, relay-site work, and selective sabotage
+
+## Build thesis
+
+**DEAD RECKONING** should feel like a rifle configured by a man who expects:
+- bad weather
+- compromised information
+- hard transitions between boats, rocks, ladders, doors, and cables
+- close-to-mid violence
+- and long hours of carrying the weapon while doing other things
+
+It should not feel:
+- expensive for its own sake
+- over-customized
+- Western-operator fetishized
+- flashy
+- or narratively louder than the character
+
+This is a **working carbine**, not a vanity object.
+
+---
+
+## Platform lock
+
+**Base weapon:** AK-105  
+**Caliber:** 5.45x39mm  
+**Operating logic:** compact, rugged, supportable, regionally credible  
+**Configuration philosophy:** modernized only to the point of real usefulness
+
+This remains the right platform because it keeps the build:
+- Russian/Far East credible
+- compact enough for boats and dead infrastructure interiors
+- believable inside a resistance sustainment chain
+- visually distinct from the Western lanes already in the project
+
+---
+
+## Attachment-by-attachment working lock
+
+### Optic
+**Working lock:** Aimpoint Micro T-2-type compact red-dot lane  
+**Mount:** low-to-moderate practical mount, no exaggerated riser logic
+
+Why this works:
+- compact
+- rugged
+- weather-tolerant
+- credible in mixed-origin covert procurement
+- does not bloat the rifle visually
+
+The optic should support:
+- rapid target acquisition
+- bad-light utility
+- movement-first handling
+- no unnecessary complexity
+
+### White light
+**Working lock:** compact weapon light in the SureFire Scout / M300-size lane
+
+Why:
+- Denis absolutely needs a light for
+  - relay interiors
+  - utility rooms
+  - shoreline dark
+  - boat transfer
+  - weather-stained technical spaces
+
+Keep it compact and believable. No oversized bezel and no “look at my setup” energy.
+
+### Sling
+**Working lock:** plain adjustable two-point sling
+
+This is non-negotiable for Denis’s identity. He is not only shooting. He is:
+- climbing
+- dragging equipment
+- guiding civilians
+- carrying batteries
+- transitioning in and out of small craft
+- moving through broken infrastructure
+
+The sling matters because the rifle must live on him all day.
+
+### Stock
+**Working lock:** standard side-folding AK-105 stock lane
+
+Reason:
+- compact storage and movement
+- vehicle / boat / ladder / confined-space practicality
+- no need to get fancy unless a later visual-reference pass earns a slight modernization
+
+### Handguard
+**Working lock:** restrained practical modernized handguard lane  
+Enough modernization for:
+- optic compatibility
+- light mounting
+- improved handling
+
+Not enough to make the gun feel like a rail-system showcase.
+
+### Muzzle
+**Working lock:** compact flash hider default  
+**Mission-state option:** suppressor-capable setup approved
+
+This is the correct compromise:
+- default state reads compact and practical
+- suppressed state can appear in more covert mission loads
+- the suppressor does not become the whole personality of the gun
+
+### Laser / aiming module
+**Working lock:** none by default
+
+This is important.  
+Do **not** overload the build.
+
+A visible laser/IR unit can be introduced in a specific night-operation variant later if a mission state demands it, but **DEAD RECKONING** should not need it to make visual sense.
+
+### Grip / controls
+**Working lock:** minimal or no overt front-grip statement
+
+If any handstop / control aid is present, it should be subtle and practical.  
+Nothing that turns the rifle into a silhouette exercise.
+
+---
+
+## Magazine / ammunition logic
+
+**Magazine lane:** standard practical 5.45 magazines with real use texture  
+No stylized “special” magazines unless later justified.
+
+The weapon should look like it feeds from what a working resistance field operator would actually trust and maintain, not from curated aesthetic choices.
+
+---
+
+## Finish / wear rules
+
+**DEAD RECKONING** should show:
+- honest finish wear
+- handling marks
+- slight corrosion-awareness / harsh-environment implication
+- maintenance, not neglect
+- maybe a small functional tape or retention detail if grounded
+
+It should not show:
+- decorative rebellion
+- message-scribbling that feels too on-the-nose
+- collector patina
+- polished “hero gun” finish
+
+The rifle should read:
+**used, maintained, relied upon.**
+
+---
+
+## Character read of the build
+
+This rifle says:
+- compact enough to carry all day
+- simple enough to trust
+- rugged enough for bad surfaces
+- modern enough to stay useful
+- not precious
+- not performative
+
+That is exactly right for Denis.
+
+---
+
+## Full working build block
+
+### BUILD 13 — DEAD RECKONING
+**Platform:** AK-105 carbine  
+**Caliber:** 5.45x39mm  
+**Optic:** compact red-dot in the Aimpoint Micro T-2 lane  
+**White light:** compact scout-pattern light  
+**Sling:** plain adjustable two-point sling  
+**Stock:** side-folding AK-105 stock  
+**Handguard:** restrained practical modernization  
+**Muzzle:** flash hider default, suppressor-capable mission-state option  
+**Laser:** none by default  
+**Use profile:** littoral movement, extraction security, relay-site work, coastal sabotage, close-to-mid-range engagements in bad weather and compromised technical spaces
+
+---
+
+## Build summary
+
+**DEAD RECKONING** is a compact 5.45 AK-105 configured for a man who expects wet surfaces, narrow interiors, bad maps, short windows, and long carries. It is practical, worn, and supportable rather than flashy. It reflects Denis Malinin’s identity precisely: keep moving, keep it light, keep it working, and do not trust the picture you were given.
+
+---
+
+# PROJECT WARRIORS — IMAGE PROMPT PACKET v0.2  
+## Denis Malinin / “Sakhalin” — Boat / Shoreline Extraction State
+
+**Recommended filename:**  
+`PW_Denis_Malinin_Sakhalin_Boat_Shoreline_Extraction_Prompt_Packet_2026-05-01_rev1.txt`
+
+## State thesis
+
+This state shows Denis at his most load-bearing:
+- moving people
+- managing timing
+- crossing exposed coastal transition spaces
+- dealing with weather, fear, and equipment at once
+
+The image should feel like:
+**a clandestine extraction at the edge of survivability, not a cool-guy boat poster.**
+
+## Core state details
+
+Denis is in a cold Russian Far East littoral environment during or immediately around a covert shoreline extraction. He may be:
+- stepping out of or into a small boat
+- guiding civilians toward a launch point
+- covering a shoreline pickup
+- crouched near surfline or rocks
+- checking the route in low light before movement
+
+### Clothing state
+- darker weather shell, zipped against wind
+- layered thermal or grid-fleece beneath
+- gloves on
+- wet or salt-marked lower trouser edges acceptable
+- compact field load only
+- beanie/watch cap strongly appropriate in colder versions
+- low-profile chest rig only if mission-equipped
+- rifle slung or carried in a working, non-dramatic manner
+
+### Environmental elements
+Best additions:
+- dark water
+- cold spray
+- rocky shoreline
+- black sand / gravel / mud
+- beached inflatable or low-signature workboat
+- rope, crates, dry bags, tarps
+- dim coastal industrial distance lights
+- mist, drizzle, sleet, or freezing overcast
+- exposed shoreline vegetation or weathered concrete structures
+
+### Mood
+- urgent but quiet
+- no heroics
+- competence under stress
+- civilians or passengers should feel like a real burden of responsibility, not background flavor
+
+## Reusable master prompt
+
+Generate a grounded, highly realistic cinematic mission-still image for a near-future military narrative game.
+
+Subject: **Denis Nikolaevich Malinin**, callsign **Sakhalin**, a 39-year-old Russian Far East Procella field operator during a covert shoreline extraction. He is lean, weathered, practical, and shaped by cold coasts, bad weather, and years of technical and maritime field work. He has ash-brown short hair, rough stubble, grey-blue eyes, and a worn intelligent face with subtle wind and salt exposure.
+
+He is dressed in dark maritime/technical outerwear with muted layered cold-weather clothing, practical gloves, worn boots, and only minimal low-profile field gear. He may carry or have slung his signature AK-105 carbine **BUILD 13 — DEAD RECKONING**, configured as a compact worn littoral field rifle with practical red-dot, compact light, simple sling, and no flashy styling.
+
+The environment is a cold Russian Far East shoreline at dusk, night, or low overcast light: rocky beach, wet gravel, black water, mist, light surf, small boat or inflatable, weathered concrete, rope, dry bags, utility debris, distant harbor glow or dim offshore lights. Denis should be guiding, checking, or securing an extraction route — not posing heroically. The tone is tense, quiet, practical, and human. No cyberpunk, no glossy PMC look, no action-movie glamour.
+
+## Alternate composition prompt — boarding moment
+
+Generate a grounded photoreal image of Denis “Sakhalin” Malinin stepping into or out of a small covert workboat during a cold shoreline extraction in the Russian Far East. Wind, spray, and low light. He is focused, economical, and practical, not dramatic. Show his layered dark weather gear, worn boots, gloves, compact field silhouette, and restrained weapon handling. Emphasize bad weather, urgency, and the feeling that timing matters more than firepower.
+
+## Alternate composition prompt — civilian handoff
+
+Generate a realistic cinematic image of Denis Malinin at a shoreline handoff point helping move frightened civilians or defectors toward a covert extraction boat. He is protective through competence, not sentiment performance. He watches the waterline, route, and timing while managing people under stress. The environment is cold, wet, dim, and physically uncomfortable. Keep the tone restrained, documentary, and unsentimental.
+
+## Boat-state checksum
+
+**Denis in shoreline extraction state should always feel like a man holding together a fragile escape route in bad weather, not a maritime action-poster hero.**
+
+---
+
+# PROJECT WARRIORS — IMAGE PROMPT PACKET v0.2  
+## Denis Malinin / “Sakhalin” — Dead Relay / Utility Interior State
+
+**Recommended filename:**  
+`PW_Denis_Malinin_Sakhalin_Dead_Relay_Utility_Interior_Prompt_Packet_2026-05-01_rev1.txt`
+
+## State thesis
+
+This state shows what makes Denis different from a generic ex-operator:
+he belongs not only to violence, but to **systems**.
+
+The image should feel like:
+**a field operator inside dead infrastructure, making a broken system useful again under pressure.**
+
+## Core state details
+
+Denis is inside a compromised relay site, weather station, generator room, signal hut, or utility interior somewhere on the Russian Far East littoral edge. He may be:
+- checking dead equipment
+- swapping or carrying a battery
+- reconnecting cables
+- examining weather or signal instrumentation
+- using a flashlight in a stained technical room
+- pausing mid-repair because the situation outside is changing
+
+### Clothing state
+- outer shell open or partially open if indoors
+- layered muted technical clothing
+- gloves either on or partly removed depending on the task
+- low-bulk field kit
+- rifle present but secondary to the task
+- tools / cables / batteries / cases should matter visually
+
+### Environment
+Best elements:
+- wet concrete or peeling paint
+- stained walls
+- old panel boxes
+- exposed conduit
+- radio racks
+- dead monitors
+- portable batteries
+- cables and junctions
+- weak emergency light or flashlight spill
+- condensation, damp, grime, salt damage
+- analog and digital equipment mixed together
+- improvised repairs suggesting hard use and neglect
+
+### Tone
+- quiet urgency
+- functional intelligence
+- no sci-fi holograms
+- no clean cyber bunker
+- no dramatic “hacker” clichés
+
+## Reusable master prompt
+
+Generate a grounded, highly realistic cinematic image for a near-future military narrative game.
+
+Subject: **Denis Nikolaevich Malinin**, callsign **Sakhalin**, a 39-year-old Russian Far East Procella field operator inside a dead relay site or compromised utility interior. He is lean, weathered, restrained, and practical, with ash-brown short hair, rough stubble, grey-blue eyes, and a worn face shaped by salt air, bad weather, hard work, and poor sleep.
+
+He wears muted layered technical/workwear-adjacent field clothing: dark weather shell or field jacket, slate or dark olive-grey midlayer, dark work trousers, worn boots, practical gloves, and minimal low-profile gear. His compact worn AK-105 carbine **BUILD 13 — DEAD RECKONING** may be slung or nearby, but it is not the focus of the image.
+
+The environment is a damp, neglected technical space on the Pacific edge: relay shack, signal room, generator room, weather station interior, exposed conduit, old racks, cabling, junction boxes, dead displays, batteries, tools, peeling paint, damp concrete, salt damage, weak utility lighting, flashlight spill, and evidence of improvised repair. Denis should be checking, restoring, or improvising system function under pressure, not posing. Tone is quiet, intelligent, practical, and tense. No cyberpunk UI, no glossy hacker aesthetic, no sci-fi fantasy.
+
+## Alternate composition prompt — battery swap
+
+Generate a realistic mission-still of Denis “Sakhalin” Malinin inside a dead coastal relay site handling a heavy battery or power unit during an improvised restoration attempt. He is focused, practical, slightly tired, and completely unglamorous. Show tools, cables, utility equipment, damp surfaces, and old infrastructure. The mood is pressure, competence, and time running short.
+
+## Alternate composition prompt — flashlight panel check
+
+Generate a grounded photoreal image of Denis Malinin crouched or standing in a dark utility interior illuminating relay panels or weather instrumentation with a compact flashlight. His rifle is slung or nearby, secondary to the task. The room should feel old, compromised, damp, and real. Emphasize practical field intelligence, not theatrical action.
+
+## Interior-state checksum
+
+**Denis in dead relay / utility interior state should always look like a man who can make dead infrastructure speak one more time under hostile conditions.**
+
+---
+
+## Working lock recap
+
+These are the strongest current working locks:
+
+- **Denis callsign:** **SAKHALIN**
+- **Signature build:** **BUILD 13 — DEAD RECKONING**
+- **Primary platform:** **AK-105, 5.45x39mm**
+- **Dead Reckoning attachment lane:** compact red-dot, compact light, simple two-point sling, restrained modernization, flash-hider default, suppressor-capable variant
+- **Prompt packet states now covered:**
+  - master/general
+  - portrait
+  - full-body
+  - active mission
+  - shoreline extraction
+  - dead relay / utility interior
+
+The next most useful step is a **short repo-facing insertion summary pack** for Denis, Sakhalin, and Dead Reckoning so this can land cleanly as source material and later be mirrored into the relevant compendium.
 
 USER:
 Yes, please go ahead with your proposal.
 
 ASSISTANT:
-Absolutely. Here is a **repo-facing insertion summary pack** for **Denis Malinin / Sakhalin / DEAD RECKONING**, written in a shorter changelog / landing-note style so it can slot cleanly into source workflow.
+Absolutely. Here is a **repo-facing insertion summary pack** for **Denis Malinin / Sakhalin / DEAD RECKONING**, written in a shorter changelog / landing-note style so it can slot cleanly into source workflow. New stable authoring should land in `dev_src_docs/`, with compendia refreshed afterward rather than used as the primary first-draft layer; prompt packets are also part of the durable image-reference source workflow. fileciteturn7file0 fileciteturn7file1 fileciteturn7file2
 
-[The full repo-facing insertion summary pack follows exactly as displayed earlier in this thread.]
+## Suggested source landing targets
+
+**Primary source pages**
+- `dev_src_docs/characters_dlc/PW_Denis_Malinin_Sakhalin_Character_Profile_2026-05-01_rev1.txt`
+- `dev_src_docs/weapons/PW_BUILD_13_DEAD_RECKONING_2026-05-01_rev1.txt`
+
+**Prompt packets**
+- `dev_src_docs/image_prompts/PW_Denis_Malinin_Sakhalin_Visual_Prompt_Packet_2026-05-01_rev1.txt`
+- `dev_src_docs/image_prompts/PW_Denis_Malinin_Sakhalin_Boat_Shoreline_Extraction_Prompt_Packet_2026-05-01_rev1.txt`
+- `dev_src_docs/image_prompts/PW_Denis_Malinin_Sakhalin_Dead_Relay_Utility_Interior_Prompt_Packet_2026-05-01_rev1.txt`
+
+**Later compendium refresh targets**
+- `Project_Warriors_Knowledge_Compendia/03_Characters_DLC`
+- `Project_Warriors_Knowledge_Compendia/04_Gameplay_Weapons_Style`
+- possibly `06_Promotional_Sidebar_Development` for the image-workflow mirror only after source landing fileciteturn7file0 fileciteturn7file1
+
+---
+
+# PROJECT WARRIORS — INSERTION SUMMARY PACK  
+## Denis Malinin / Sakhalin / Dead Reckoning  
+**Date:** 2026-05-01  
+**Revision:** rev1  
+**Status:** working development insertion, not final canon lock
+
+### 1) New character-development anchor added
+Added new Procella Far East DLC protagonist front-runner:
+
+**Denis Nikolaevich Malinin**  
+**Callsign:** **SAKHALIN**
+
+Current working role: Russian Far East littoral field operator aligned with Procella, combining former maritime reconnaissance-grade field competence with later technical / infrastructure / salvage experience across the Pacific-edge coastal environment.
+
+Use-case identity:
+- shoreline extraction
+- route validation
+- selective sabotage
+- dead-system revival
+- battery / relay / weather-node practicality
+- human-lifeline continuity under hostile conditions
+
+### 2) Character lane clarified
+Denis is not being built as:
+- a Moscow-glamour assassin
+- a generic ex-operator hard-man
+- an outsider-savior figure
+- or a speech-heavy ideological dissident
+
+He is being built as:
+- Far East-rooted
+- practical
+- weathered
+- maritime
+- systems-literate
+- protective through competence
+- intolerant of waste, especially wasted people and wasted routes
+
+Core player fantasy remains:
+**keep the route alive**
+
+### 3) Personal-history block established
+Working biography foundation added:
+- birthplace: **Sovetskaya Gavan**
+- regional lane: Sovetskaya Gavan / Vanino coastal corridor
+- younger sister: **yes** (details intentionally left open)
+- father/mother texture established in practical working-class / systems-survival lane
+- exact former-service designation and exact break-event specifics intentionally left open for later pass
+- first meeting logic with Albatross established as recognition-through-utility, not ideology-through-speech
+
+### 4) Albatross relationship lane clarified
+Relationship split now cleanly defined:
+
+**Albatross**
+- strategist
+- network architect
+- trust broker
+- long-range pattern reader
+
+**Denis**
+- field executor
+- route mechanic
+- extraction lead
+- sabotage hand
+- littoral mover
+- dead-system restoration under pressure
+
+Rule: do not blur Denis and Albatross into the same type of character.
+
+### 5) Visual lane established
+Denis visual direction now has a stable working identity:
+- age 39
+- lean durable build
+- ash-brown short practical hair
+- rough beard / heavy stubble
+- grey-blue eyes
+- weathered light skin
+- restrained, observant, practical facial read
+- maritime workwear / technical outerwear / low-signature field adaptation mix
+- no glossy PMC styling
+- no tacticool overbuild
+- no cyberpunk or Moscow-assassin drift
+
+Best environmental pairings:
+- cold shoreline
+- fishing-port edge
+- small-boat extraction point
+- relay shack
+- weather station
+- damp utility interior
+- decaying coastal infrastructure
+
+### 6) Image-reference continuity packet added
+A reusable Denis master visual packet is now established as durable prompt-source material, in keeping with the project rule that text prompt packets are the durable continuity layer for image-reference work. fileciteturn7file2
+
+Packet includes:
+- identity block
+- locked appearance details
+- clothing lane
+- avoid-drift rules
+- general master prompt
+- portrait prompt
+- full-body prompt
+- active mission prompt
+- weapon add-on prompt
+
+### 7) State-specific prompt packets added
+Two additional Denis mission-state prompt lanes added:
+
+**Boat / Shoreline Extraction State**
+- covert pickup / handoff logic
+- shoreline movement
+- bad weather
+- small-boat / inflatable transitions
+- civilians or defectors under pressure
+- practical urgency over action-poster heroics
+
+**Dead Relay / Utility Interior State**
+- relay shack / weather station / generator room / signal hut
+- batteries, cables, panel boxes, dead displays
+- improvised technical restoration under pressure
+- rifle secondary to the systems task
+- no sci-fi hacker drift
+
+### 8) Callsign working lock added
+**SAKHALIN** is the current preferred callsign for Denis.
+
+Usage guidance:
+- best treated as a field / network callsign
+- does not need to be framed as a loudly mythic formal military nickname
+- should feel regional, earned, and functional rather than overexplained
+
+### 9) Signature weapon build added
+New named build established:
+
+**BUILD 13 — DEAD RECKONING**
+
+Current working user:
+**Denis Malinin / Sakhalin**
+
+### 10) Dead Reckoning build lane established
+**Base platform:** **AK-105**  
+**Caliber:** **5.45x39mm**
+
+Working attachment lane:
+- compact red-dot in the Aimpoint Micro T-2 lane
+- compact scout-pattern white light
+- plain adjustable two-point sling
+- side-folding stock
+- restrained practical modernized handguard
+- flash hider default
+- suppressor-capable mission-state variant
+- no default visible laser
+
+Build identity:
+- compact
+- supportable
+- worn
+- practical
+- littoral / utility-space credible
+- no vanity styling
+- no overaccessorized rail-farm drift
+
+### 11) Build philosophy clarified
+**DEAD RECKONING** is not a hero-gun flex.
+
+It should read as:
+- a compact working rifle
+- optimized for long carry, bad surfaces, short windows, and close-to-mid engagements
+- useful in boats, ladders, utility interiors, shoreline movement, and route protection
+- maintained and trusted, not fetishized
+
+The name works because it is both a maritime navigation term and a character thesis:
+movement through uncertainty when maps, signals, and official systems are wrong or lying.
+
+### 12) Open flags intentionally preserved
+The following remain open by design:
+- exact former service branch/unit specificity
+- exact former rank
+- exact break-event incident details
+- younger sister name/details
+- exact optic/light model lock if later procurement realism wants refinement
+- full sidearm / knife / tool package for Denis
+- exact placement of Procella DLC within broader campaign chronology
+
+### 13) Compendium refresh note
+After source landing, mirror only the distilled durable outputs into:
+- **03 Characters / DLC** for Denis / Sakhalin profile anchor
+- **04 Gameplay / Weapons / Style** for Build 13 / Dead Reckoning
+- **06 Promotional / Sidebar Development** only if needed for prompt-packet governance / visual continuity reminder
+
+Do not treat the compendium refresh as the primary place for first-draft authorship. fileciteturn7file0 fileciteturn7file1
+
+---
+
+## Compact commit-note version
+
+**Added Procella DLC protagonist front-runner Denis Nikolaevich Malinin (“Sakhalin”) as Far East littoral field operator / extraction lead / dead-system revival specialist; established Sovetskaya Gavan origin, younger-sister flag, Albatross dynamic, stable visual lane, reusable Denis prompt packet plus two state-specific image packets (shoreline extraction / dead relay interior), and new signature weapon BUILD 13 — DEAD RECKONING (AK-105, 5.45 compact littoral field carbine).**
+
+---
+
+## Even shorter changelog version
+
+- Added **Denis Nikolaevich Malinin / “Sakhalin”** as current Procella DLC protagonist front-runner
+- Locked working origin to **Sovetskaya Gavan** and confirmed **younger sister = yes**
+- Added Denis personal-history block and Albatross relationship split
+- Added stable Denis visual lane and reusable master prompt packet
+- Added two state-specific prompt packets: **shoreline extraction** and **dead relay interior**
+- Added **BUILD 13 — DEAD RECKONING** as Denis’s signature AK-105 build
+- Left exact service/rank/break-event specifics intentionally open for later pass
+
+The clean next move is a **source-style DLC lane stub** for *Project Warriors: The Storm* that names Denis, Albatross, the Far East lifeline thesis, and 4–6 early mission anchors.
 
 USER:
 Yes, I agree on all points Please go ahead
 
 ASSISTANT:
-Absolutely. Here is a **source-style DLC lane stub v0.1** for **Project Warriors: The Storm**, built around **Denis Malinin / Sakhalin**, **Albatross**, and the **Far East lifeline** identity.
+Absolutely. Here is a **source-style DLC lane stub v0.1** for **Project Warriors: The Storm**, built around **Denis Malinin / Sakhalin**, **Albatross**, and the **Far East lifeline** identity. I’m keeping it in the same source-first logic as the rest of the recent work: this belongs as an active source-page lane, with compendium refresh later. fileciteturn4file12 fileciteturn4file6
 
-[The full DLC lane stub v0.1, including the six early mission anchors SOUTH CULVERT, FALSE WEATHER, LAST LIGHT HARBOR, COLD BATTERY, DRIFT LINE, and NORTHERN WINDOW, follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — DLC LANE STUB v0.1  
+## Project Warriors: The Storm
+
+**Status:** working development stub, not final lock  
+**DLC lane:** Procella / Russian Far East / Pacific-edge clandestine resistance  
+**Primary protagonist:** Denis Nikolaevich Malinin  
+**Callsign:** SAKHALIN  
+**Key supporting figure:** Albatross  
+**Working identity phrase:** **Keep the route alive**
+
+---
+
+## 1. CORE PREMISE
+
+**Project Warriors: The Storm** is a clandestine Far East resistance campaign centered on **Procella** and the Pacific edge of a collapsing Russian state. The campaign is not about large-scale naval warfare, not about conventional front-line liberation, and not about a glossy espionage fantasy. It is about the mechanics of survival and resistance at the edge: routes, weather, batteries, relays, boats, false data, frightened civilians, and the ugly practical work of getting people and information out alive.
+
+The campaign follows **Denis “Sakhalin” Malinin**, a Russian Far East littoral field operator whose background combines reconnaissance-grade maritime field competence with years spent inside the neglected technical skeleton of the region. He is not a speechmaker or symbol. He is the man who can keep a shoreline extraction route functional for ten more minutes when ten more minutes is the difference between survival and disappearance.
+
+This DLC should read as:
+- coastal
+- cold
+- practical
+- human
+- deniable
+- systems-aware
+- morally pressurized
+- and distinctly regional
+
+---
+
+## 2. PLACE IN THE DLC LATTICE
+
+This DLC should remain clearly separate from the broader **Home Defense** concept, which is already the more conventional Australia / China-Pacific war lane in the project’s wider DLC map. *The Storm* should stay rooted in the **Russian Far East**, with the Pacific functioning as pressure, horizon, and route-space rather than as a full theater-scale naval-war replacement. fileciteturn4file13
+
+The clean distinction is:
+
+**Home Defense**  
+= broader Pacific war / Australian front / formal military response lane
+
+**The Storm**  
+= clandestine Far East resistance / lifeline / extraction / sabotage / systems-failure lane
+
+That distinction should be protected.
+
+---
+
+## 3. CAMPAIGN THESIS
+
+The soul of this DLC is:
+
+**A resistance network is only real if it can move people, power, information, and trust through places the state still claims to control.**
+
+That means the campaign should focus on:
+- defectors and refugee movement
+- offshore and shoreline extraction routes
+- weather-data sabotage
+- maritime misdirection
+- relay and comms restoration
+- battery acquisition and movement
+- selective denial of regime coastal logistics
+- the use of neglected infrastructure as both hiding place and weapon
+
+The campaign should repeatedly return to one underlying truth:
+
+**Violence is not the center of this story. Continuity is.**
+
+---
+
+## 4. PLAYABLE PROTAGONIST
+
+### Denis Nikolaevich Malinin  
+**Callsign:** SAKHALIN
+
+Denis is a Russian Far East field operator with:
+- maritime reconnaissance-grade service background
+- small-boat and shoreline competence
+- cold-weather endurance
+- dead-infrastructure literacy
+- salvage / generator / battery / relay practicality
+- and a moral grammar built around preventing waste rather than performing ideology
+
+He is best used as:
+- extraction lead
+- route validator
+- coastal sabotage hand
+- dead-system revival specialist
+- escort and survival operator under pressure
+
+His core playable identity is not “dominate the battlefield.”  
+It is:
+
+**Make sure the route still exists when the night is over.**
+
+---
+
+## 5. ALBATROSS FUNCTION
+
+Albatross should remain slightly above the frame.
+
+He is not the protagonist.  
+He is the network’s long-range continuity mind:
+- strategist
+- trust broker
+- hidden-route architect
+- pattern reader
+- keeper of names, seams, fallback channels, and buried survivability logic
+
+### Split of function
+**Albatross**
+- sees the route network as a whole
+
+**Denis**
+- walks the route when it starts failing
+
+That division should remain stable. Denis and Albatross should never collapse into the same character type.
+
+---
+
+## 6. GAMEPLAY IDENTITY
+
+### Core verbs
+- move
+- guide
+- revive
+- improvise
+- sabotage
+- extract
+- endure
+
+### Signature mission textures
+- small-boat transitions
+- shoreline movement under low visibility
+- ferrying or guiding civilians/defectors
+- compromised pickup sites
+- weather station / relay node / utility shack access
+- battery theft, swap, or installation
+- maritime route deception
+- precise denial of logistics or surveillance assets
+- abrupt compact firefights in tight ugly spaces
+
+### Tone rule
+Combat should be:
+- sharp
+- ugly
+- practical
+- subordinate to the survival task
+
+This campaign should never become “cool commando fantasy on the Russian coast.”
+
+---
+
+## 7. WORLD RULES FOR THE STORM
+
+### Rule 1
+Weather is not background.  
+It is operational reality, concealment, threat, and leverage.
+
+### Rule 2
+Infrastructure is not set dressing.  
+A relay hut, dead panel, battery chain, harbor light, generator room, weather node, or fuel transfer point can decide the whole mission.
+
+### Rule 3
+Civilians must matter materially.  
+Refugees, defectors, families, technicians, and frightened local contacts are not flavor garnish. They are why the route exists.
+
+### Rule 4
+Procella should feel like a real network.  
+Uneven, stressed, compartmentalized, useful, and fragile.
+
+### Rule 5
+The Far East must feel regionally specific.  
+Distance, sea, industrial fatigue, neglected edge-infrastructure, bad roads, broken lighting, and weather-beaten transitional spaces should dominate the atmosphere.
+
+---
+
+## 8. EARLY MISSION ANCHORS v0.1
+
+Here are **six early mission anchors** that fit the campaign’s identity and give the DLC a real spine.
+
+---
+
+### MISSION 01 — SOUTH CULVERT
+**Function:** introduction to Denis, route logic, and Procella’s real operating language
+
+Denis is sent to verify a rumored extraction seam after a coastal contact chain goes partially dark. The mission is not a large assault. It is a cold approach through neglected shoreline infrastructure, drainage edges, rail-adjacent service cuts, and weather-beaten utility space. The player learns quickly that Denis’s world is built on small practical truths: what still has power, what can still float, what noise carries, what weather hides movement, and what details mean the route is already burned.
+
+This is the right place to establish that **Procella communicates like a survival network, not a cinematic secret society**.
+
+**Primary job:** reach a compromised meeting point and determine whether the route is still usable  
+**Emotional point:** Denis is introduced through competence, not exposition  
+**Possible closing beat:** first indirect confirmation that someone higher in the network is already tracking the same seam — first shadow of Albatross
+
+---
+
+### MISSION 02 — FALSE WEATHER
+**Function:** establish the campaign’s systems-sabotage identity
+
+Procella identifies a coastal weather / navigation data point being deliberately falsified to distort shipping confidence and restrict safe movement for civilian craft while protecting favored regime traffic. Denis infiltrates the site not to blow it theatrically, but to corrupt its output, restore a hidden truthful stream, or create selective uncertainty in the regime’s coastal picture.
+
+This mission should make clear that the campaign’s sabotage lane is about **precision and consequence**, not spectacle.
+
+**Primary job:** access and manipulate a weather / navigation node  
+**Gameplay texture:** relay/utility interior, compact stealth, tool use, low-signature violence if needed  
+**Emotional point:** the regime does not merely neglect systems; it weaponizes them
+
+---
+
+### MISSION 03 — LAST LIGHT HARBOR
+**Function:** first full extraction mission with civilians/defectors
+
+A small group of defectors or escapees must be moved through a harbor-edge environment that is still technically “functional” on paper but effectively dying in practice. Denis has to shepherd them through dark service corridors, wet dock margins, cargo clutter, and a pickup zone that may or may not still be clean.
+
+This is where the player fully feels what makes Denis different from a conventional shooter lead.
+
+**Primary job:** move living people through a fragile route under time pressure  
+**Gameplay texture:** escort without babysitting, route choices, overwatch, close compact contact, exfil by water  
+**Emotional point:** the burden is human, not abstract
+
+---
+
+### MISSION 04 — COLD BATTERY
+**Function:** lock the battery / infrastructure-revival motif into the campaign
+
+Procella needs thermal-electric battery units or a similar power source to restore a dead relay chain that supports both communications and exfil timing windows. Denis leads a theft/recovery mission against a small but meaningful regime-controlled or contractor-held storage node. The point is not big action. The point is that power itself becomes a survival commodity.
+
+This mission should make the player understand that in *The Storm*, a battery can matter as much as a rifle.
+
+**Primary job:** steal, move, and install mission-critical power units  
+**Gameplay texture:** load burden, tool logic, transport risk, selective engagement  
+**Emotional point:** resistance is as much logistics and electricity as ideology
+
+---
+
+### MISSION 05 — DRIFT LINE
+**Function:** first stronger Albatross interaction and route-network widening
+
+A known extraction line is compromised. Denis is redirected onto an alternate maritime seam by Albatross, who has clearly been tracking the route architecture at a scale Denis does not. The mission combines shoreline movement, offshore timing, and a near-failed handoff in worsening weather. This is where Albatross stops feeling like rumor and starts feeling like the hidden structural intelligence of Procella.
+
+**Primary job:** salvage a compromised exfil by shifting to a hidden secondary route  
+**Gameplay texture:** weather pressure, navigation uncertainty, quiet radio discipline, offshore transition  
+**Emotional point:** trust in this world is built on usefulness, not declarations
+
+---
+
+### MISSION 06 — NORTHERN WINDOW
+**Function:** limited external-contact mission, likely Japan-facing if retained
+
+This is the place for the restrained foreign-contact lane you mentioned. Not a whole Japan campaign. One mission. One meaningful seam. Denis either escorts a defector, receives technical support, transfers critical intelligence, or secures specialized equipment through a northern contact point tied to Japan or a Japanese-adjacent maritime interface. The setting should remain quiet, politically tense, and operational rather than glamorous.
+
+The point is not “Japan is now a major theater.”  
+The point is: **Procella’s survival network touches other shores, but only barely, and never cleanly.**
+
+**Primary job:** conduct a fragile external handoff without widening the campaign’s center of gravity  
+**Gameplay texture:** maritime surveillance pressure, trust uncertainty, deniable contact logic  
+**Emotional point:** sanctuary exists only in fragments
+
+---
+
+## 9. CAMPAIGN ARC SHAPE v0.1
+
+A clean early arc for *The Storm* could read:
+
+### Act I — The Route Exists
+Denis is introduced through damaged seams, compromised pickups, route validation, and the first practical signs of Procella’s coastal survival logic.
+
+### Act II — The Route Is a Weapon
+Weather nodes, batteries, relays, and maritime data manipulation become active tools of resistance. Denis begins to understand the network as more than a chain of favors.
+
+### Act III — The Route Costs Blood
+Civilian extraction, burned contacts, narrowed options, and the real human cost of keeping any lifeline open.
+
+### Act IV — The Route Must Survive
+Denis and Albatross are forced into harder choices about what gets saved: people, systems, intelligence, or future continuity.
+
+---
+
+## 10. OPEN FLAGS
+
+Keep these open for now:
+- exact final DLC title lock vs. subtitle treatment
+- exact branch/service designation for Denis’s former military path
+- exact shape of the break-event incident
+- exact external-contact geography for the Japan-adjacent mission
+- whether the DLC ends on endurance, breakthrough, or partial failure
+- whether Procella’s broader organizational structure gets a source-page of its own before full mission development
+
+---
+
+## 11. WORKING SUMMARY
+
+**Project Warriors: The Storm** is a Procella-focused Far East DLC about lifelines, not banners: boats, batteries, relays, bad weather, false data, frightened civilians, and the rough practical work of keeping a clandestine coastal route alive under a regime that still claims to control the map. **Denis “Sakhalin” Malinin** is the right playable center because he connects maritime field competence, infrastructure realism, and human survival pressure into one coherent campaign identity. The result is a DLC lane that stays clearly distinct from *Home Defense* while adding a new and very Project-Warriors kind of war story: not the war of offensives, but the war of fragile continuities.
+
+The next best move is a **short source-style Procella faction page** or a **mission 01 one-page block for SOUTH CULVERT**.
 
 USER:
 Let's do the short source style proselaption page first, and then the mission 11 page block for South Colbert, one after the other.
@@ -803,7 +3975,440 @@ Let's do the short source style proselaption page first, and then the mission 11
 ASSISTANT:
 Absolutely — I’m treating that as the **short source-style Procella faction page**, followed by the **Mission 01 one-page block for SOUTH CULVERT**.
 
-[The full Procella faction page v0.1 and Mission 01 — SOUTH CULVERT one-page block v0.1 follow exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — FACTION PAGE v0.1  
+## PROCELLA
+
+**Status:** working source page, not final lock  
+**Campaign relevance:** *Project Warriors: The Storm* / Russian Far East DLC lane  
+**Primary associated characters:** Albatross, Denis Nikolaevich Malinin / SAKHALIN  
+**Narrative role:** clandestine anti-regime resistance network operating across the Russian Far East and Pacific edge
+
+## SUMMARY
+
+**Procella** is a distributed clandestine resistance network active across the Russian Far East and adjacent maritime margins. It is not a formal army, not a clean intelligence service, and not a romantic underground movement built on slogans. It is a survival network that became a resistance network because the state machinery governing the Pacific edge increasingly turned weather, infrastructure, logistics, and isolation into tools of coercion rather than protection.
+
+Procella exists to preserve continuity where formal institutions have become predatory, hollow, or selectively lethal. It moves people, information, power, batteries, radios, route knowledge, and trust across spaces the regime still claims to control but no longer fully understands. In practical terms, Procella keeps routes alive.
+
+## NAME / IDENTITY
+
+**Procella** should read as:
+- storm
+- disturbance
+- rough weather
+- movement through unstable conditions
+- natural force rather than ideological branding
+
+The name works because it fits both the campaign’s maritime/weather logic and the network’s real operating environment. Procella is not a banner-first movement. It is a system of pressure, motion, and survival at the edge of a failing state.
+
+## WHAT PROCELLA IS
+
+Procella is best understood as a **functional clandestine ecosystem** made up of:
+- route keepers
+- local technical hands
+- compromised-state defectors
+- port and infrastructure workers
+- maritime smugglers and fixers
+- relay and weather-site maintainers
+- transport and salvage personnel
+- hidden civilian safe-contact chains
+- select former military and security professionals who broke with the regime
+
+It is uneven, compartmentalized, and fragile by design. It survives because no single part of it fully explains the whole.
+
+## WHAT PROCELLA IS NOT
+
+Procella is not:
+- a clean parallel government
+- a mass public resistance movement
+- a cinematic brotherhood of cool operatives
+- a democracy-lecture machine
+- a generic anti-Russian abstraction
+
+It should never feel like a polished rebel brand.
+
+Its people are not fighting because they discovered a perfect political vocabulary. They are fighting because the machinery of the state has become a system that eats people, lies about what functions, and weaponizes distance, weather, and dependency.
+
+## GEOGRAPHIC / OPERATIONAL LANE
+
+Procella’s primary lane is the **Russian Far East / Pacific edge**, including:
+- coastal towns
+- port environments
+- weather-beaten service corridors
+- relay and signal sites
+- maritime extraction seams
+- industrial leftovers
+- dead infrastructure with partial hidden value
+- offshore and shoreline movement channels
+
+The Pacific is important to Procella as:
+- escape space
+- logistical space
+- surveillance space
+- risk space
+- contact space
+
+It should not automatically become a full blue-water war story.
+
+## CORE OPERATING FUNCTIONS
+
+Procella’s most important functions are:
+
+### 1. Route survival
+Maintaining clandestine movement corridors for:
+- defectors
+- refugees
+- couriers
+- sensitive technical assets
+- intelligence handoffs
+- offshore exfiltration
+
+### 2. Infrastructure exploitation
+Using neglected or dying technical systems as:
+- hidden support structures
+- communications windows
+- deception points
+- temporary power sources
+- local tactical advantages
+
+### 3. Precision sabotage
+Degrading regime confidence and functionality through selective action against:
+- coastal surveillance
+- weather and navigation data integrity
+- relay continuity
+- light logistics
+- movement timing
+- port-edge predictability
+
+### 4. Human continuity
+Preserving actual people, not just operational abstractions.  
+This matters. Procella should feel like a network that still remembers why routes exist.
+
+## STRUCTURAL PRINCIPLES
+
+Procella should operate by the following rules:
+
+### Compartmentalization
+People know what they need, not what flatters them.
+
+### Usefulness over ideology
+Trust is earned through competence and survivability, not rhetoric.
+
+### Continuity over spectacle
+A route that works again tomorrow is worth more than a dramatic one-night victory.
+
+### Local knowledge matters
+The coast belongs to the people who understand tides, fuel, roads, dead substations, rotten docks, and what the weather is really doing.
+
+### Fragility is constant
+Procella should never feel invulnerable or omniscient.
+
+## RELATIONSHIP TO ALBATROSS
+
+**Albatross** should function as one of Procella’s highest-value continuity minds:
+- strategist
+- trust broker
+- hidden-route architect
+- long-range pattern reader
+
+He is not Procella in total, but he is one of the figures who makes it feel older, deeper, and more durable than any one field cell.
+
+He should not be overexposed.
+
+## RELATIONSHIP TO DENIS MALININ / SAKHALIN
+
+**Denis “Sakhalin” Malinin** represents Procella at ground level:
+- route validation
+- extraction execution
+- dead-system revival
+- littoral movement
+- selective sabotage
+
+If Albatross understands the map, Denis is the man who discovers whether the map is still real.
+
+This split should remain load-bearing.
+
+## NARRATIVE TONE RULES
+
+Procella scenes should feel:
+- cold
+- practical
+- restrained
+- unsentimental
+- weather-aware
+- grounded in consequence
+
+Good Procella scenes are built from:
+- bad light
+- limited windows
+- dead equipment
+- uncertain trust
+- real burdens
+- quiet competence
+
+Avoid:
+- theatrical rebellion iconography
+- speech-heavy revolutionary framing
+- over-mythologized resistance glamour
+- tidy geopolitical messaging
+- clean good-guys-versus-bad-guys simplification
+
+## GAMEPLAY IDENTITY SUPPORT
+
+Procella supports a gameplay lane built around:
+- guiding
+- reviving
+- improvising
+- moving
+- extracting
+- sabotaging
+- enduring
+
+The network should justify why the campaign cares so much about:
+- batteries
+- radios
+- relays
+- route timing
+- weather
+- boats
+- utility spaces
+- compromised pickup points
+
+## STORY FUNCTION IN THE STORM
+
+In *Project Warriors: The Storm*, Procella is the structure that turns isolated survival acts into a real campaign. Without Procella, Denis is just one skilled man moving through a dead coast. With Procella, every boat crossing, battery theft, relay restoration, and civilian exfil becomes part of a larger fight over whether the Pacific edge can still contain human continuity outside regime control.
+
+## WORKING SUMMARY
+
+**Procella** is a distributed clandestine resistance network operating across the Russian Far East and Pacific edge. It survives through compartmentalization, practical trust, local knowledge, and the use of neglected infrastructure as lifeline, cover, and weapon. Its struggle is not defined by banners or speeches but by whether people, signals, power, and routes can still move through spaces the regime claims to own. In *The Storm*, Procella is the hidden structure that makes survival political.
+
+---
+
+# PROJECT WARRIORS — MISSION ONE-PAGE BLOCK v0.1  
+## MISSION 01 — SOUTH CULVERT
+
+**Status:** working mission block, not final lock  
+**Campaign:** *Project Warriors: The Storm*  
+**Playable character:** Denis Nikolaevich Malinin / SAKHALIN  
+**Function:** campaign introduction, route-survival thesis, Procella operating language, first practical shadow of Albatross
+
+## MISSION SUMMARY
+
+**SOUTH CULVERT** introduces Denis not through exposition or spectacle, but through usefulness. A coastal extraction seam has gone partially dark after a contact failure and a suspicious break in the expected signal chain. Denis is sent to verify whether the route is still usable, whether the compromise is real, and whether anyone at the handoff point is still alive.
+
+The mission takes place across a cold neglected shoreline approach zone made up of:
+- drainage edges
+- rail-adjacent service cuts
+- broken perimeter fencing
+- culvert infrastructure
+- dead utility fragments
+- weather-beaten concrete
+- low industrial spill light
+- wind, wet surfaces, and poor visibility
+
+The mission is not a loud assault. It is a tension-and-verification mission. The player learns immediately that Denis’s world is built on practical truths: what still has power, what noise carries, what the weather hides, what details mean a route is burned, and what details mean it might still live.
+
+## NARRATIVE PURPOSE
+
+This mission must establish five things cleanly:
+
+### 1. Denis’s identity
+He is introduced as a man who solves the real problem first, speaks little, and reads routes as living systems.
+
+### 2. The campaign’s gameplay grammar
+Movement, caution, route validation, low-signature handling, compromised infrastructure, and pressure without immediate spectacle.
+
+### 3. Procella’s operating texture
+Not a dramatic secret society. A survival network of coded instructions, partial trust, and practical handoffs.
+
+### 4. The Far East lane
+Cold coast, neglected edge-infrastructure, maritime pressure, and distance should dominate the mission atmosphere.
+
+### 5. The first Albatross shadow
+Not a reveal. Just the first sign that someone else higher in the network is reading the same seam at a deeper level.
+
+## OPENING SITUATION
+
+A scheduled route check has failed.  
+A contact chain that should have produced a narrow confirmation window did not.  
+One small shoreline pickup seam — minor on a map, critical in practice — may already be compromised.
+
+Denis receives the job because he can answer the real question:
+**Is the route dead, or only silent?**
+
+The mission begins before full darkness, in late dusk or cold low-light conditions, with Denis moving alone or near-alone through a service-edge approach toward the southern culvert access that gives the mission its name.
+
+## SETTING / ENVIRONMENT
+
+The environment should feel physically specific and load-bearing.
+
+### Core environment elements
+- shoreline industrial edge
+- storm drainage outflow / culvert lane
+- rusted rail-adjacent service infrastructure
+- wet concrete
+- broken fencing
+- weathered retaining walls
+- pipe runs and dead panel boxes
+- low sodium or industrial spill light in the distance
+- shallow standing water
+- wind, drizzle, mist, or sleet depending on final weather pass
+- occasional harbor or offshore light beyond the black water
+
+This should not look like an action map first.  
+It should look like a place where clandestine movement is possible only because the state stopped caring what still works there.
+
+## GAMEPLAY SHAPE
+
+### Phase 1 — Approach
+Denis moves through neglected coastal service terrain toward the culvert seam.
+
+Gameplay emphasis:
+- movement discipline
+- environmental reading
+- route interpretation
+- limited contact or no contact at first
+- player learning Denis’s attention grammar
+
+Good details here:
+- cut wire that does not match expected wear
+- fresh footprint where there should be none
+- dead lamp housing
+- a service door that should be latched but is not
+- wind carrying wrong metallic noise from the waterline
+
+### Phase 2 — The Culvert
+Denis reaches the actual seam and assesses whether the route is usable.
+
+Possible tasks:
+- inspect dead relay/sign marker
+- recover or check a hidden contact object
+- confirm whether a light/signal cycle was interrupted
+- examine signs of hurried movement
+- decide whether the contact was lifted, fled, or forced to abort
+
+The key here is that Denis reads the space like a working system, not a detective puzzle show.
+
+### Phase 3 — Contact Pressure
+The player encounters the first clear sign that silence is not neutral.
+
+This can take one of several forms:
+- a wounded or hiding contact
+- a delayed survivor who gives only fragmentary information
+- a regime presence arriving slightly too late or slightly too early
+- a partially cleaned scene that suggests someone competent interfered before Denis got there
+
+Combat, if any, should be:
+- short
+- ugly
+- close
+- practical
+- subordinate to Denis getting the answer and preserving the route if possible
+
+### Phase 4 — Extraction of Meaning
+Denis determines the truth:
+the route is not wholly dead, but it is no longer clean.
+
+That is the right ending shape. Not total success. Not total collapse. A usable but damaged seam.
+
+This gives the campaign its first real principle:
+**in this world, survival belongs to those who can tell the difference between broken and burned.**
+
+## MISSION OBJECTIVES
+
+### Primary
+- Reach the south culvert seam
+- Determine whether the route is still usable
+- Identify what interrupted the contact chain
+
+### Secondary
+- Recover any surviving contact material
+- Preserve the seam if possible
+- Avoid unnecessary exposure
+
+### Optional texture goals
+- recover a hidden battery/cache item
+- identify evidence of falsified maintenance activity
+- find proof that someone else touched the route before Denis arrived
+
+## DENIS CHARACTER FUNCTION IN-MISSION
+
+Denis should talk very little.
+
+When he does speak, his lines should:
+- identify what failed
+- identify what still works
+- cut away false hope
+- or move the task forward
+
+Examples of mission-appropriate line register:
+- “Too clean. Someone came back through.”
+- “Route’s damaged. Not dead.”
+- “They missed this.”
+- “No flood did that.”
+- “Move now or don’t move at all.”
+- “Window’s still there. Smaller.”
+
+This is the right mission to teach the player how Denis thinks.
+
+## PROCELLA TEXTURE
+
+This mission should also establish Procella’s communication and trust logic:
+- incomplete instructions
+- phrases that sound like survival shorthand, not movie-code mystique
+- signs that multiple hands have worked the seam
+- evidence of compartmentalization
+- the feeling that nobody in this network gets the whole picture unless they must
+
+The route should feel like it was built over time by necessity, not authored overnight by a screenwriter.
+
+## ALBATROSS SHADOW BEAT
+
+Do not reveal Albatross directly here unless later campaign structure demands it.
+
+Better options:
+- Denis finds evidence that someone already re-routed part of the seam
+- a hidden object or note indicates a higher-level intervention
+- a late radio fragment or passed message suggests someone understood the route’s deeper value and acted before Denis arrived
+- Denis realizes the damage pattern includes one deliberate choice that preserved future usability instead of simply abandoning the route
+
+This is enough to start Albatross as a presence in the campaign.
+
+## TONE RULES
+
+### Do
+- keep it cold
+- keep it damp
+- keep it narrow
+- keep it practical
+- keep tension rooted in uncertainty and physical space
+
+### Do not
+- turn it into an introductory shootout showcase
+- overexplain Procella
+- over-narrate Denis’s backstory
+- make Albatross theatrical
+- make the culvert feel symbolic before it feels real
+
+## WHY THIS MISSION WORKS
+
+**SOUTH CULVERT** is the correct first mission because it introduces the player to the real subject of *The Storm*:
+not conquest, but continuity.
+
+By the end of the mission, the player should understand:
+- Denis is useful because he can read a route
+- Procella is real because it builds survivable seams
+- the coast is both threat and lifeline
+- infrastructure matters
+- weather matters
+- and silence is never just silence
+
+## WORKING SUMMARY
+
+In **SOUTH CULVERT**, Denis Malinin is sent to verify a compromised coastal extraction seam after a contact chain goes partially dark. Moving through a cold neglected service-edge shoreline environment, he determines that the route is damaged but not dead, uncovers signs of interference that suggest a larger hidden hand in the network, and establishes the campaign’s core grammar: read the system, preserve the seam, and keep the route alive if there is anything left to save.
+
+The strongest next move after this is a **compact screenplay/prose beat for the opening approach of SOUTH CULVERT** or a **mission 02 one-page block for FALSE WEATHER**.
 
 USER:
 Let's do the screenplay beat for the opening approach first for South Colvert, and then the one-page block for Mission 2, False Weather.
@@ -816,7 +4421,436 @@ I’ll do them in that order:
 1. a **screenplay beat for the opening approach** of **MISSION 01 — SOUTH CULVERT**  
 2. a **one-page block** for **MISSION 02 — FALSE WEATHER**
 
-[The full SOUTH CULVERT opening-approach screenplay beat and FALSE WEATHER mission one-page block follow exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — SCREENPLAY BEAT v0.1  
+## MISSION 01 — SOUTH CULVERT  
+### Opening Approach
+
+**Status:** working screenplay beat  
+**Campaign:** *Project Warriors: The Storm*  
+**Playable character:** Denis Nikolaevich Malinin / SAKHALIN  
+**Sequence function:** tone-setter, character introduction through competence, route-reading grammar, first campaign atmosphere lock
+
+---
+
+**EXT. COASTAL SERVICE ROAD — DUSK**
+
+A dead stretch of cracked service road above black water.
+
+Not open shoreline.  
+Not clean industrial space.  
+Something between the two.
+
+A wire fence sags toward a drainage cut choked with old reeds and blown trash. Beyond it, the sea is only a darker band inside the dark. Far off, a scatter of harbor lights trembles in mist. One sodium lamp on a leaning pole burns weak and wrong, buzzing in the wind.
+
+Wet asphalt. Standing water in old wheel ruts. Rust on everything that once had corners.
+
+A FIGURE moves up the road without hurry.
+
+DENIS NIKOLAEVICH MALININ, 39. Lean, layered dark weather gear, compact rifle slung close, gloves, beanie, rough stubble, face shaped by cold and bad sleep. Nothing theatrical in him. He walks like a man already sorting the place into useful and not useful.
+
+The wind pushes at him. He does not react to it.
+
+He reaches a concrete barrier half-swallowed by weeds and stops.
+
+Listens.
+
+Not dramatic listening. Calibrated. Working.
+
+Water below. Cable hum somewhere inland. Sheet metal tapping out of rhythm. Then—
+
+A metallic rattle from the culvert line ahead.
+
+Denis looks toward it. Waits.
+
+Nothing follows.
+
+He moves again.
+
+---
+
+**EXT. FENCE GAP / DRAINAGE EDGE — CONTINUOUS**
+
+The road gives way to a narrow descent along a chain-link fence that has been cut once, repaired badly, then cut again more carefully.
+
+Denis crouches by the opening.
+
+Touches the wire.
+
+Fresh scrape on galvanized metal. Not much. Enough.
+
+He looks at the mud below the fence line.
+
+One partial bootprint, half-filled with water.
+
+Not old.
+
+He glances toward the sea, then toward the service corridor inland.
+
+A beat.
+
+He slips through the fence.
+
+---
+
+**EXT. DRAINAGE CUT — CONTINUOUS**
+
+Concrete walls stained black with years of runoff. Water moving shallow and fast through the center trench. Pipe mouths under the road. Broken maintenance steps slick with algae.
+
+Denis moves along the edge, boots finding the dry line without looking like he’s looking.
+
+He passes a dead utility box with its door hanging open.
+
+Stops.
+
+Inside: old junctions, stripped wiring, one newer clamp with clean tool marks.
+
+That does not belong.
+
+He studies it for a second too long for it to be casual, then closes the door without forcing it.
+
+Keeps moving.
+
+A RADIO EARPIECE clicks softly.
+
+Not chatter. A recorded fragment. Short-range dead-drop style.
+
+A woman’s voice, low and flat, not trying to sound mysterious.
+
+**VOICE (COMMS)**  
+South culvert. Then wait.
+
+Static.
+
+Denis says nothing.
+
+He touches the earpiece once, kills the replay, and keeps moving.
+
+---
+
+**EXT. CULVERT APPROACH CHANNEL — MOMENTS LATER**
+
+The drainage cut opens toward a broader concrete throat running under the rail embankment. Water noise deepens. Wind falls off. The place feels suddenly enclosed, sound trapped and redirected.
+
+A faded maintenance stencil on the wall has been painted over, then weathered through again.
+
+Someone has tied a strip of dark electrical tape around a rusted bracket ahead.
+
+A marker.
+
+Denis sees it from twenty meters out.
+
+He slows.
+
+Looks left wall. Right wall. Ceiling seam. Waterline. Gravel shelf. Pipe mouths.
+
+The shelf under the bracket is empty.
+
+Whatever was supposed to be there is gone.
+
+Denis kneels.
+
+On the concrete: a cigarette butt swollen with damp. Recent.
+
+He does not touch it.
+
+Nearby, a tiny crescent of flaked paint, fresh against the older grime.
+
+He follows the line with his eyes.
+
+Bullet graze.
+
+Not random.
+
+He looks deeper into the culvert.
+
+No body. No bag. No waiting contact.
+
+Just darkness and runoff.
+
+Then he spots it—
+
+A small maintenance hatch on the right wall. Not fully shut.
+
+He rises and approaches at an angle.
+
+Rifle comes forward, compact, unshowy.
+
+He opens the hatch with his left hand.
+
+Inside: not much space. Cables, old valves, pooled water, grime.
+
+And tucked behind a conduit clamp—
+
+A cheap waterproof pouch.
+
+Denis takes it out.
+
+Inside: a battery the size of a matchbox, wrapped in black tape, and a folded scrap of paper sealed in plastic.
+
+He opens the note.
+
+Three words.
+
+**LAMP WRONG. DON’T WAIT.**
+
+Denis reads it once.
+
+Looks up toward the weak sodium glow bleeding into the culvert mouth behind him.
+
+The lamp buzzes again. Too steady. Too visible.
+
+Not failed. Forced on.
+
+He folds the note. Pockets it.
+
+A faint engine note carries in from inland. Very far. Or not far enough.
+
+Denis keys his mic once.
+
+**DENIS**  
+Route’s damaged. Not dead.
+
+A beat. No answer yet.
+
+He studies the culvert floor again.
+
+There it is now — once he knows where to look.
+
+A smear where someone was dragged, but only for a meter or two. After that, nothing.
+
+Not a clean snatch.
+
+A struggle interrupted.
+
+A choice made quickly.
+
+Denis’s eyes shift to the water channel, then to a narrow secondary runoff pipe half-hidden by shadow and reeds.
+
+Too small for comfort. Big enough for a desperate adult.
+
+He understands the shape of it.
+
+Not all of it. Enough.
+
+Another click in the earpiece. Different voice. Male. Older. Calm.
+
+Compressed to near nothing by bad transmission.
+
+**MALE VOICE (COMMS)**  
+If usable, mark cold. Not warm.
+
+Static.
+
+Denis freezes for half a second.
+
+Not at the instruction.
+
+At the fact that whoever sent it already knows the route may still be alive.
+
+He looks at the dead lamp again. Then at the hidden runoff pipe.
+
+He answers quietly.
+
+**DENIS**  
+Copy.
+
+He pulls a stub of blue survey chalk from a pouch, reaches low behind the bracket where casual eyes would miss it, and draws a short horizontal line under the rust flange.
+
+Cold.
+
+No theatrics. No symbol.
+
+Just work.
+
+The engine sound comes again. Clearer now.
+
+Denis steps back into shadow, rifle tight in, eyes on the culvert mouth, the hidden pipe, the glow of the false lamp, all of it at once.
+
+The route is not clean.
+
+The route still exists.
+
+For the moment.
+
+**CUT TO BLACK.**
+
+---
+
+# PROJECT WARRIORS — MISSION ONE-PAGE BLOCK v0.1  
+## MISSION 02 — FALSE WEATHER
+
+**Status:** working mission block, not final lock  
+**Campaign:** *Project Warriors: The Storm*  
+**Playable character:** Denis Nikolaevich Malinin / SAKHALIN  
+**Function:** establish the campaign’s systems-sabotage identity; show weather/navigation infrastructure as weapon, not scenery
+
+## MISSION SUMMARY
+
+**FALSE WEATHER** is the campaign’s first true systems-sabotage mission. Procella identifies a coastal weather and navigation node whose output is being deliberately falsified. The manipulated data is doing two jobs at once: protecting favored regime-aligned shipping and patrol movement, while making civilian and deniable maritime movement more dangerous, less predictable, and easier to intercept or erase.
+
+Denis is sent not to destroy the site in a dramatic blaze, but to do something more useful and more dangerous: access it, understand how it has been compromised, and either restore a hidden truthful stream or corrupt the falsified picture in a way that buys real movement windows for Procella’s routes.
+
+The mission should establish that in *The Storm*, weather data, navigation confidence, and technical trust are operational battlegrounds.
+
+## NARRATIVE PURPOSE
+
+This mission must lock in five key truths:
+
+### 1. Systems can be weapons
+The regime does not merely let infrastructure decay. It actively bends technical systems into coercive tools.
+
+### 2. Denis is more than a shooter
+He can read failure, detect false repair, and understand how a node is being lied through.
+
+### 3. Sabotage in this campaign is precise
+The point is not spectacle. The point is altered conditions:
+- delayed patrols
+- misrouted traffic
+- reopened extraction windows
+- less confidence in coastal control
+
+### 4. The world is maritime and technical
+Weather, sea state, route timing, and data integrity are not background flavor. They are the mission.
+
+### 5. Procella’s survival depends on hidden truth
+A single honest stream of weather/navigation data can matter more than a dozen bodies.
+
+## OPENING SITUATION
+
+Following the partial salvage of the south-culvert seam, Procella confirms a wider pattern: several coastal incidents that looked like bad luck or ordinary storm loss were not natural. A small weather and navigation support site on the coast has been altered. Its outputs are being cleaned and redirected upstream, creating a false operational picture that hurts the people the regime wants exposed and protects the vessels it wants moving safely.
+
+Denis gets the job because he can answer three questions:
+- What is false?
+- What still works?
+- Can the node be made useful again without collapsing the whole site?
+
+## SETTING / ENVIRONMENT
+
+The mission should take place at a **remote coastal weather / signal support site** that feels neglected, still partially functional, and easy to underestimate.
+
+### Core environment elements
+- coastal weather station or navigation support annex
+- steel mast or instrument tower
+- service sheds
+- cable trenching
+- backup generator housing
+- corroded stair rails
+- equipment cabinets
+- old and new systems awkwardly layered together
+- wet concrete, salt damage, peeling paint
+- wind exposure and poor visibility
+- distant black water and intermittent harbor light
+- occasional rotating beacon or dead signal light nearby
+
+The site should feel like something the center forgot until it became useful for lying.
+
+## GAMEPLAY SHAPE
+
+### Phase 1 — Approach and reading the site
+Denis infiltrates the site perimeter and immediately begins reading signs of false maintenance, staged neglect, and deliberate technical asymmetry.
+
+Player learns to notice:
+- fresh seals on old cabinets
+- worn paths where no maintenance should be happening
+- lights left on where concealment would be expected
+- instruments functioning too cleanly relative to the rest of the site
+- backup systems prioritized strangely
+
+### Phase 2 — Interior access / technical truth
+Denis reaches the core control or relay room and confirms the node is not simply damaged — it is **curated**. Real weather and navigation inputs are being filtered, delayed, or selectively altered.
+
+This is the heart of the mission.
+
+He must determine what to do:
+- restore a truthful local stream
+- split the output
+- inject false confidence into regime movement
+- degrade the manipulated picture without making the whole site obviously dead
+
+The mission should make technical work feel tense, not gamey.
+
+### Phase 3 — Pressure arrives
+While Denis works, site pressure escalates:
+- patrol vehicle arrival
+- contractor/security presence
+- tightening weather
+- failing backup power
+- or a contact warning that the node is being checked remotely
+
+Combat, if it happens, should remain compact and ugly.
+
+### Phase 4 — Exit with altered conditions
+The mission should end not with an explosion payoff but with a changed operational environment:
+- a route window opened
+- a patrol pattern delayed
+- a shipping corridor misread
+- a hidden truthful stream restored for Procella
+- the regime still believing the node is under control, at least for now
+
+That is the win.
+
+## PRIMARY OBJECTIVES
+
+- Infiltrate the coastal weather/navigation node
+- Confirm the nature of the falsification
+- Restore, split, or corrupt site output in a way that benefits Procella routes
+- Exfiltrate before the site compromise becomes obvious
+
+## SECONDARY OBJECTIVES
+
+- Recover local technical records or maintenance traces
+- Identify who has been servicing the falsified node
+- Preserve the site’s apparent normal function if possible
+- Avoid unnecessary noise or site-wide collapse
+
+## DENIS CHARACTER FUNCTION
+
+This mission is where Denis’s systems-maritime identity fully becomes playable.
+
+He should be the kind of protagonist who can say:
+- “This wasn’t neglected. It was edited.”
+- “The storm’s real. The numbers aren’t.”
+- “They left the backup because they needed the lie alive.”
+- “If I kill the node, we lose the route with it.”
+- “Give me five minutes and quiet.”
+
+He is not there to blow the tower heroically. He is there to make the truth operational again.
+
+## TONE RULES
+
+### Do
+- make weather feel operational
+- make the site feel old, damp, and real
+- keep the technical work grounded
+- make sabotage precise and consequence-driven
+- let tension come from timing and detection as much as from gunfire
+
+### Do not
+- turn it into a generic “hack the terminal” mission
+- make the site sci-fi sleek
+- overexplain the technology
+- reward the player most for destroying everything
+- frame the mission as spectacle-first
+
+## WHY THIS MISSION WORKS
+
+**FALSE WEATHER** is the right Mission 02 because it tells the player exactly what kind of campaign this is.
+
+This is a war where:
+- a generator matters
+- a weather feed matters
+- a bad data stream can kill as efficiently as a gun
+- and sabotage means changing conditions, not just creating ruins
+
+It also deepens Denis immediately. By the end of the mission, he is no longer just “the man who reads routes.” He is also the man who understands why the routes are failing.
+
+## WORKING SUMMARY
+
+In **FALSE WEATHER**, Denis infiltrates a remote coastal weather/navigation support node and discovers that its apparent neglect conceals deliberate falsification. Instead of destroying the site outright, he must manipulate its output to reopen real movement windows for Procella while preserving the illusion of control long enough for the network to use it. The mission locks the DLC’s systems-sabotage identity and proves that in *The Storm*, truth itself is infrastructure.
+
+The best next move after this is either a **screenplay beat for the core interior moment of FALSE WEATHER** or a **Mission 03 one-page block for LAST LIGHT HARBOR**.
 
 USER:
 Before we move on, I have a side question. Does it make sense for somehow Sakhalin having any information about Partium 53 and the attack on Cold Frontier 07, where Frost got shot in the face? Is there any narrative merit to it, or should we just leave them completely separate?
@@ -1039,7 +5073,239 @@ Absolutely.
 
 Here is a **working screenplay-style end-of-mission hinge beat** for **Further East**, written so the mission ends **at the exact handoff point** without stealing **Outer Port** from Spook.
 
-[The full FURTHER EAST end-of-mission hinge beat follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — SCREENPLAY BEAT v0.1  
+## FURTHER EAST  
+### End-of-Mission Hinge Beat
+
+**Status:** working screenplay beat  
+**Campaign:** *Project Warriors: The Storm*  
+**Playable character:** Denis Nikolaevich Malinin / **SAKHALIN**  
+**Sequence function:** end-of-mission hinge into **Outer Port**  
+**Design rule:** asymmetrical callback, not duplicate scene
+
+---
+
+**EXT. TOMAKOMAI — OUTER PORT SERVICE EDGE — NIGHT**
+
+Cold harbor wind.
+
+Not violent. Just steady enough to make every exposed surface feel temporary.
+
+Container stacks rise in dark rows beyond a low service road. Sodium spill light stains wet asphalt in broken patches. Chain-link fencing. Rusted bollards. Old tire marks. Black water moving somewhere just out of sight behind concrete.
+
+A freight horn sounds far off.
+
+DENIS MALININ moves through the service margin with his hood down, beanie dark with mist, rifle hidden under the line of his coat and sling. He is not moving fast. He is moving exactly on time.
+
+He reaches the lee side of a utility shed and stops.
+
+Listens.
+
+The city is not loud here. That is what makes it useful.
+
+He checks the line ahead:
+- one gate
+- one overhead lamp
+- one blind turn between stacked pallets and a dead maintenance cart
+- one clear sightline to the water access
+- one bad place to get pinned if the meeting is wrong
+
+He looks at the lamp.
+
+Still on.
+
+Wrong.
+
+Denis kneels at the base of the shed, opens a weathered service panel with a flat tool, and reaches inside.
+
+A beat.
+
+The lamp over the service gate dies.
+
+Darkness folds over the asphalt. Not total. Enough.
+
+He closes the panel.
+
+Moves.
+
+---
+
+**EXT. OUTER PORT WALKWAY / WATER ACCESS CUT — MOMENTS LATER**
+
+A narrow access lane drops toward the harbor edge between concrete barriers and a low corrugated wall.
+
+At the bottom: a utility platform above black water. Rope coils. A rusted ladder. One chained drum. One yellow line almost gone with age.
+
+Empty.
+
+Denis stops short of the platform.
+
+Not disappointed. Reading.
+
+His eyes move over the space:
+
+A wet footprint on painted steel.  
+Fresh.
+
+A cigarette ember crushed hard into the seam of the railing.  
+American habit? Maybe. Maybe not.
+
+A line of sight from the upper catwalk to the platform.  
+Good overwatch if you trust the man holding it. Bad trap if you do not.
+
+Denis keys his mic once. Very low.
+
+**DENIS**  
+At point.
+
+No answer.
+
+A beat.
+
+Then, in his earpiece, a compressed voice — older, calm, familiar in its restraint.
+
+**ALBATROSS (COMMS)**  
+You have your weather.
+
+That is all.
+
+Denis looks up toward the upper catwalk.
+
+Nothing there.
+
+Then—
+
+Movement.
+
+A man steps briefly through a seam of weak harbor light above and across the access lane.
+
+Not much to see.  
+Enough to know he is wrong for the place.
+
+Not Japanese port labor.  
+Not local police.  
+Not contractor muscle.  
+Too controlled. Too self-contained. Carries himself like someone who expects to be shot and has already made peace with it.
+
+American.
+
+The figure does not wave. Does not call out. Does not descend immediately.
+
+Good.
+
+Denis studies him.
+
+The man studies back.
+
+No hurry from either of them.
+
+The American shifts half a step, just enough to show he sees the dead lamp, the darker access lane, the altered sightline.
+
+He noticed.
+
+Good.
+
+He is real, then. Or good enough to be dangerous in the right way.
+
+Denis glances once to the waterline.
+
+A second shape, lower and farther out — maybe a boat, maybe shadow against the quay. Hard to tell. The route still has exits.
+
+Also good.
+
+A door CLANGS somewhere behind the container rows.
+
+Not close. Closer than before.
+
+Denis turns his head a fraction, listening.
+
+Vehicle idle in the distance. Slow. Not yet committed.
+
+The harbor is starting to narrow.
+
+He keys the mic again.
+
+**DENIS**  
+Contact’s here.
+
+Static.
+
+Then—
+
+**ALBATROSS (COMMS)**  
+Then don’t waste him.
+
+The line dies.
+
+Denis almost smiles. Almost.
+
+He steps onto the platform.
+
+Slowly. Open enough to be seen. Not open enough to be stupid.
+
+The American on the upper catwalk moves at last, beginning his descent by the metal stairs at the far side.
+
+Still no words.
+
+Denis watches the approach and makes one final check of the whole seam:
+- dead lamp
+- dark service lane
+- water exit
+- upper sightline
+- noise behind containers
+- American coming down alone
+
+Usable.
+
+Not clean.  
+Usable.
+
+He reaches into his pocket, takes out a stub of pale blue chalk, and draws a short line on the inner side of the rusted railing where only someone looking for it would ever see it.
+
+Cold.
+
+The handoff is secure.
+
+For now.
+
+He pockets the chalk.
+
+Looks up.
+
+The American is halfway down the stairs now, face still mostly shadow, one hand free, the other low and controlled near his coat line.
+
+Denis squares slightly toward him.
+
+No theatrical stance. Just readiness.
+
+The harbor wind moves across the platform.
+
+The vehicle sound grows faintly clearer beyond the stacks.
+
+This is the seam.
+
+This is where Sakhalin’s mission ends.
+
+**CUT TO BLACK.**
+
+---
+
+## Hinge function note
+
+This ending works because it gives Sakhalin:
+- visual confirmation of the American
+- one last operational judgment
+- one last task that preserves the meeting
+- and a clean stop at the exact moment the handoff becomes real
+
+So **Further East** ends on:
+**Confirm the American** → **Secure the handoff** → cut into **Outer Port**
+
+The best next move is to draft either:
+- the **opening beat of Outer Port from Spook’s side**, calibrated against this hinge, or
+- a **mission 03 one-page block for LAST LIGHT HARBOR**.
 
 USER:
 Let's do the opening beat from Spook's side. Thku slightly out of scope of this thread, I think it is interesting and worthwhile to sketch out now rather than later.
@@ -1049,7 +5315,295 @@ Absolutely — and I agree it is worth sketching now.
 
 Doing it here is useful because **Outer Port** will read better if we already know exactly what **Further East** hands into. This version is calibrated so it echoes the same seam without becoming a duplicate.
 
-[The full OUTER PORT opening beat from Spook’s side follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — SCREENPLAY BEAT v0.1  
+## OUTER PORT  
+### Opening Beat — Spook’s Side
+
+**Status:** working screenplay beat  
+**Campaign:** Spook Game 3  
+**Playable character:** Trevor Albertson Gartner / **SPOOK**  
+**Sequence function:** opening contact beat in Tomakomai, asymmetrical overlap with **Further East**  
+**Design rule:** same seam, different pressure, different knowledge
+
+---
+
+**EXT. TOMAKOMAI — OUTER PORT UPPER SERVICE CATWALK — NIGHT**
+
+Cold air off the harbor.
+
+Not dramatic. Not cinematic in the obvious way. Just enough wind to keep the metal wet and the hands honest.
+
+A long rusted catwalk runs above a service lane between stacked containers and maintenance sheds. Sodium lamps stain the port in patches, leaving the rest to mist and distance. Black water beyond the quay. Cargo cranes farther off, mostly still.
+
+TREVOR GARTNER moves along the upper catwalk in a dark civilian shell over low-profile field kit, compact and self-contained. No visible hurry. Beard dark with damp. Eyes already sorting the place into angles, exits, lies.
+
+A small earpiece in his right ear.
+
+He stops at the bend in the catwalk and looks down over the service access below.
+
+One gate.  
+One lamp.  
+One narrow drop to the waterline platform.  
+One bad funnel if the meeting goes wrong.
+
+His hand rests near his coat line, not touching the pistol under it.
+
+A voice in his ear — low, dry, almost bored because that is how he sounds when he is working hard.
+
+**TRIPPER (COMMS)**  
+Lower lane still clean. No movement on the service road. Two heat signatures in the warehouse shell to your east, static. Could be sleeping. Could be junk.
+
+Spook studies the lane below.
+
+**SPOOK**  
+Copy.
+
+A second voice comes in, quieter, flatter, older than Tripper’s by wear if not age.
+
+**SMOKE (COMMS)**  
+Harbor patrol made the turn north three minutes ago. Window’s still yours.
+
+Spook glances once toward the dark water beyond the concrete.
+
+No visible boat. Good.
+
+**SPOOK**  
+Copy.
+
+He lifts a compact monocular just enough to recheck the access platform below.
+
+Empty.
+
+No contact.
+
+No obvious trap either.
+
+That is worse, sometimes.
+
+He lowers the glass.
+
+A beat.
+
+Then the lamp over the service gate dies.
+
+Not a flicker. Not a brownout. Deliberate.
+
+Tripper is back immediately.
+
+**TRIPPER (COMMS)**  
+That you?
+
+**SPOOK**  
+Negative.
+
+Spook watches the darkness settle over the lower lane.
+
+Not total. Just enough to change the geometry.
+
+He looks at the dead lamp, then at the railings, corners, and shadow pockets that just became useful.
+
+A tiny shift in his face. Not surprise. Recognition.
+
+Whoever is down there understood the same problem he did.
+
+That matters.
+
+**TRIPPER (COMMS)**  
+Could be our guy announcing himself. Could be someone narrowing the box.
+
+**SPOOK**  
+Same skill set either way.
+
+A pause.
+
+Then, from farther down the catwalk, Smoke again.
+
+**SMOKE (COMMS)**  
+You want me closer?
+
+Spook keeps his eyes on the platform.
+
+**SPOOK**  
+Negative. Hold where you are.
+
+He moves forward another three steps, slow enough not to ring the metal underfoot.
+
+Looks down again.
+
+A shape has appeared below at the edge of the platform. Not rushed. Not waving. Just present now, as if it had been allowed to exist.
+
+The man stands with his shoulders turned slightly off-line to the stairs. Not squared to receive. Not squared to flee. A position chosen by someone who expects the meeting to be wrong until proven otherwise.
+
+Spook studies him.
+
+Lean frame. Dark weather gear. Compact silhouette. Hood down. Beanie. Hands quiet. Face mostly shadow from this angle.
+
+Not local port labor.  
+Not police.  
+Not contractor muscle.  
+Too controlled. Too cold-weather practical. Too little wasted motion.
+
+The contact.
+
+Or a very good imitation.
+
+Tripper cuts in.
+
+**TRIPPER (COMMS)**  
+You want the long look?
+
+**SPOOK**  
+No.
+
+Because a scoped confirmation is not what matters now.
+
+The man below reaches into his pocket.
+
+Spook’s right hand shifts lower under the coat.
+
+The man produces—
+
+Chalk.
+
+Pale blue.
+
+Draws a short line on the inner side of the railing where almost nobody would ever think to look.
+
+Then pockets it.
+
+Spook says nothing for a second.
+
+That is not theater.  
+That is route language.
+
+He keys his mic once.
+
+**SPOOK**  
+He’s real enough.
+
+**TRIPPER (COMMS)**  
+That’s not the same thing as real.
+
+**SPOOK**  
+No.
+
+Spook starts down the metal stairs.
+
+Measured. Open enough to be seen. Not open enough to be stupid.
+
+The contact below tracks him all the way down, eyes never fixed in one place too long. Good discipline. No visible panic. No visible attempt to sell trust.
+
+The vehicle noise in the distance grows faintly louder, somewhere behind the container rows.
+
+Smoke hears it too.
+
+**SMOKE (COMMS)**  
+New engine south side. Slow. Could pass. Could turn.
+
+Spook keeps descending.
+
+**SPOOK**  
+Say again distance.
+
+**SMOKE (COMMS)**  
+Far enough if this stays brief. Not far enough if it doesn’t.
+
+That lands.
+
+Spook reaches the last landing above the platform and sees the contact’s face properly for the first time.
+
+Weathered. Tired. Intelligent. Russian, almost certainly. Not trying to hide it. Not trying to advertise it either.
+
+Grey-blue eyes. Heavy stubble. Hard-used face. A man shaped by places that corrode everything soft out of people but leave the useful parts intact.
+
+The contact does not offer a hand.
+
+Good.
+
+Spook steps off the last stair onto the platform.
+
+The harbor wind moves through the gap between them.
+
+No one smiles.
+
+For a second, the whole meeting is just two men measuring whether the other understands the price of being here.
+
+Then Spook speaks first.
+
+**SPOOK**  
+Sakhalin?
+
+The man answers without hurry.
+
+**DENIS**  
+Depends who’s asking.
+
+Spook takes that in.
+
+Not hostile. Not deferential. Correct.
+
+**SPOOK**  
+Officer Gartner.
+
+A beat.
+
+Denis’s eyes move once across Spook’s coat line, shoulders, hands, then briefly past him to the stairs, accounting for angles, backup, distance, exits.
+
+He has already assumed Spook did not come alone.
+
+Also correct.
+
+**DENIS**  
+You took your time.
+
+Spook glances once toward the dead lamp.
+
+**SPOOK**  
+You changed the room.
+
+Denis looks at the darkness around the gate, then back at him.
+
+**DENIS**  
+It needed changing.
+
+Off the platform, somewhere beyond the container rows, the engine note shifts slightly closer.
+
+Not immediate. Not good.
+
+Spook hears it. Denis hears it. Neither turns toward it.
+
+The meeting has begun.
+
+**CUT.**
+
+---
+
+## Why this version works
+
+It keeps the overlap **asymmetrical**:
+
+- From **Sakhalin’s side**, the beat is about preserving the seam and deciding the American is usable.
+- From **Spook’s side**, the beat is about reading the contact’s professionalism, confirming he is not bait in the obvious sense, and entering a meeting that already feels like it has history behind it.
+
+So the same moment does different work.
+
+It also gives Spook-side knowledge that Sakhalin does not have:
+- Tripper and Smoke are live in support
+- Gartner is managing a wider security picture
+- he clocks the chalk mark and immediately understands it as route language
+- the contact is not just “a Russian man at the port,” but someone whose tradecraft reads correctly
+
+And it gives Sakhalin-side value that Spook cannot fully see:
+- what it cost to get the meeting to this point
+- why the lamp matters
+- why the chalk matters
+- why “usable” is enough
+
+The strongest next move is either:
+- a **short continuation beat for the first exchange on the platform**, or
+- a **mission 03 one-page block for LAST LIGHT HARBOR**.
 
 USER:
 Let's have a look at the continuation bit.
@@ -1059,7 +5613,328 @@ Absolutely.
 
 Here is a **working continuation beat** for the first exchange on the platform, picking up directly from the last line of the **Outer Port** opening. I’m keeping it compressed, wary, and operational, so it still feels like two men measuring each other under narrowing time rather than suddenly becoming exposition-friendly.
 
-[The full OUTER PORT continuation beat — first exchange on the platform — follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — SCREENPLAY BEAT v0.1  
+## OUTER PORT  
+### Continuation Beat — First Exchange on the Platform
+
+**Status:** working screenplay beat  
+**Campaign:** Spook Game 3  
+**Playable character:** Trevor Albertson Gartner / **SPOOK**  
+**Sequence function:** establish Sakhalin–Spook contact dynamic without overexplaining either man  
+**Design rule:** no instant trust, no speeches, no duplicate exposition
+
+---
+
+**EXT. TOMAKOMAI — OUTER PORT WATER ACCESS PLATFORM — CONTINUOUS**
+
+The engine note beyond the container rows shifts once, then settles back into distance.
+
+Not gone.  
+Not here yet.
+
+Spook and Denis stand in the wind with black water below and dead light behind them.
+
+No one rushes to fill the silence.
+
+Spook’s eyes move once over Denis’s coat, hands, posture, boots.
+
+Wet at the hem. Salt on the fabric. Not for show.
+
+Denis does the same to Spook.
+
+Different conclusions. Same method.
+
+**SPOOK**  
+You came alone?
+
+Denis watches him for half a beat.
+
+**DENIS**  
+No.
+
+Spook almost smiles.
+
+**SPOOK**  
+Good.
+
+A faint click in Spook’s ear.
+
+**TRIPPER (COMMS)**  
+One heat just moved in the warehouse shell. Still east. Still not committed.
+
+Spook keeps his face still.
+
+**SPOOK**  
+Copy.
+
+Denis hears the cadence if not the content. His eyes flick once to the earpiece, then back.
+
+**DENIS**  
+You brought more than one problem.
+
+**SPOOK**  
+Usually do.
+
+That lands correctly. Not charm. Just admission.
+
+Denis studies him another second.
+
+**DENIS**  
+You’re late.
+
+**SPOOK**  
+I’m breathing. That’s close enough.
+
+Denis accepts that answer more than he likes it.
+
+Wind pushes mist across the platform. The chained drum knocks softly against the railing.
+
+Spook glances once at the chalk mark Denis left.
+
+**SPOOK**  
+Cold line?
+
+**DENIS**  
+Cold enough.
+
+**SPOOK**  
+Meaning?
+
+**DENIS**  
+Meaning it works if nobody gets ambitious.
+
+Spook takes that in.
+
+That is a real answer.
+
+**SPOOK**  
+I can work with that.
+
+Denis looks past him once, up the stairs, judging angles.
+
+**DENIS**  
+Can your people?
+
+**SPOOK**  
+They’re why I’m still here.
+
+A beat.
+
+That is the first answer Denis gets that sounds less like tradecraft and more like truth.
+
+Not much less. Enough.
+
+Another click in the ear.
+
+**SMOKE (COMMS)**  
+South-side vehicle slowed. No turn yet.
+
+Spook gives the smallest nod.
+
+**SPOOK**  
+Window’s narrowing.
+
+Denis answers immediately.
+
+**DENIS**  
+Then don’t waste it.
+
+Spook reaches slowly inside his coat.
+
+Denis’s posture changes by millimeters. Not enough to spook a fool. Enough to survive one.
+
+Spook takes out a small waterproof envelope, weather-sealed, flat.
+
+No weapon.
+
+He holds it but does not hand it over yet.
+
+**SPOOK**  
+I was told you’d know whether this was worth the crossing.
+
+Denis does not reach for it.
+
+**DENIS**  
+I’ll know after I see it.
+
+**SPOOK**  
+That’s the idea.
+
+Spook passes the envelope across.
+
+Denis takes it, feels the weight first, then opens it just enough to check the contents in the weak ambient spill from the harbor beyond.
+
+Paper.  
+A storage card.  
+One coded strip with numbers handwritten, not printed.
+
+Denis’s eyes stop on that last piece for half a second longer than the others.
+
+Not because he understands all of it.
+
+Because he understands enough.
+
+He reseals the envelope.
+
+Looks up.
+
+**DENIS**  
+Who else knows you brought this here?
+
+Spook answers without hesitation.
+
+**SPOOK**  
+Too many.
+
+That answer Denis believes instantly.
+
+A low metallic slam echoes somewhere above the service lane.
+
+Closer now.
+
+Denis turns his head a fraction, listening.
+
+**DENIS**  
+You need to leave.
+
+**SPOOK**  
+You first.
+
+Denis gives him a long look.
+
+Not offended. Measuring whether that was politeness, ego, or method.
+
+Finds method.
+
+**DENIS**  
+No. If they see me leave, I’m local. If they see you leave, you become the story.
+
+Spook says nothing.
+
+Because that is also correct.
+
+**TRIPPER (COMMS)**  
+Movement south edge. Two, maybe three. Still screened by containers.
+
+**SMOKE (COMMS)**  
+They’re turning.
+
+Spook’s eyes shift once toward the stair line.
+
+Then back to Denis.
+
+The meeting has reached its actual point now. No more testing.
+
+**SPOOK**  
+Can you move it?
+
+Denis tucks the envelope inside his jacket.
+
+**DENIS**  
+Yes.
+
+**SPOOK**  
+Can you keep it alive?
+
+Denis looks toward the dead lamp, the dark service lane, the black water beyond the platform.
+
+Then back at Spook.
+
+**DENIS**  
+Depends what it is when it reaches shore.
+
+That is as close to reassurance as Spook is going to get.
+
+He takes it.
+
+**SPOOK**  
+Fair enough.
+
+Denis steps back once, giving angle to the stairs.
+
+Not retreat. Reassignment.
+
+**DENIS**  
+Outer road is wrong now. Take the upper cut, then the second ladder. Don’t use the first gate.
+
+Spook files it instantly.
+
+**SPOOK**  
+Why?
+
+**DENIS**  
+Because if I were waiting for you, I’d wait there.
+
+A beat.
+
+Spook nods once.
+
+That is the second real truth he has gotten.
+
+**SPOOK**  
+Next time pick somewhere warmer.
+
+Denis’s expression almost changes. Almost.
+
+**DENIS**  
+Next time be earlier.
+
+Off the service lane, a headlight glow sweeps briefly across corrugated steel.
+
+Too close.
+
+Spook turns toward the stairs.
+
+Then stops and looks back once.
+
+**SPOOK**  
+Sakhalin.
+
+Denis waits.
+
+**SPOOK**  
+Good lamp.
+
+Denis glances toward the darkness where it used to burn.
+
+**DENIS**  
+Bad lamp.
+
+Spook takes that, then moves up the stairs fast and quiet, disappearing into the upper shadow.
+
+Denis waits three seconds.
+
+Four.
+
+Then turns the opposite way, dropping low off the far side of the platform toward the water access seam, gone almost immediately into black concrete, mist, and noise.
+
+The platform is empty again.
+
+Only the wind remains.
+
+**CUT.**
+
+---
+
+## Why this continuation works
+
+It establishes the relationship cleanly:
+
+- **mutual professionalism**
+- **no instant warmth**
+- **no fake hostility either**
+- **trust built from correct answers**
+- **each man notices the other is competent in ways that matter**
+
+It also gives Denis a very good early read:
+he is not impressed by Spook’s Americanness, but he is willing to work with precision and honesty.
+
+And it gives Spook the right take on Sakhalin:
+not just a contact, but a man who understands route logic well enough to be dangerous and useful in the same breath.
+
+The next natural step would be either a **short exit beat from Denis’s side after the handoff**, or we can jump back to **Mission 03 — LAST LIGHT HARBOR**.
 
 USER:
 Okay, let's do the exit beat from the necessary side, and that's it. Then we'll continue as we decided. I mean, as you suggested.
@@ -1069,7 +5944,174 @@ Absolutely.
 
 Here is the **short exit beat from Denis’s side**, picking up just after Spook breaks away up the stairs. I’m keeping it tight, practical, and in the same pressure register as the hinge.
 
-[The full FURTHER EAST / OUTER PORT SEAM Denis exit beat follows exactly as displayed earlier in this thread.]
+---
+
+# PROJECT WARRIORS — SCREENPLAY BEAT v0.1  
+## FURTHER EAST / OUTER PORT SEAM  
+### Denis Exit Beat — After the Handoff
+
+**Status:** working screenplay beat  
+**Campaign relevance:** *The Storm* / overlap seam with **Outer Port**  
+**Playable character:** Denis Nikolaevich Malinin / **SAKHALIN**  
+**Function:** close Denis’s side of the handoff cleanly, preserve asymmetrical callback logic
+
+---
+
+**EXT. TOMAKOMAI — OUTER PORT WATER ACCESS PLATFORM — CONTINUOUS**
+
+Spook is gone up the stairs.
+
+Denis does not watch him all the way out.
+
+He counts instead.
+
+One.  
+Two.  
+Three.  
+Four.
+
+Headlight glow sweeps once across corrugated steel beyond the container lane.
+
+Too close now.
+
+Denis turns away from the stairs and moves low along the edge of the platform, one hand brushing the cold railing only once for balance. The envelope is already inside his jacket, flat against his chest.
+
+A click in his ear.
+
+Not voice. Just presence.
+
+He drops off the far side of the platform onto a narrow maintenance lip above the black water and disappears under the line of the quay.
+
+---
+
+**EXT. LOWER SERVICE CHANNEL / WATERLINE SEAM — CONTINUOUS**
+
+Concrete. Rusted ladder feet. Tide noise under steel.
+
+Denis moves through the dark by memory and shape more than sight. Above him, tires roll slowly over wet pavement. Doors slam. Muffled voices. Japanese, fast and irritated. Another voice behind it, sharper, procedural.
+
+They are early for a coincidence. Late for a trap.
+
+About right for this city.
+
+Denis reaches a drainage recess half-hidden by hanging conduit and crouches inside it.
+
+Waits.
+
+A flashlight beam cuts across the platform above, white and hard. Misses the lower seam entirely.
+
+One of the voices calls out. Another answers from farther off.
+
+Denis says nothing. Breathes through his nose. Counts again, but slower this time.
+
+The beam passes.
+
+A beat.
+
+Then his earpiece opens.
+
+Older voice. Calm. Compressed by distance and bad transmission.
+
+**ALBATROSS (COMMS)**  
+Still breathing?
+
+Denis keeps his eyes on the thin strip of reflected light moving across the water.
+
+**DENIS**  
+For now.
+
+Static hum.
+
+**ALBATROSS (COMMS)**  
+And the American?
+
+Denis listens to footsteps overhead. One man. Then two. No one looking down where they should.
+
+He answers quietly.
+
+**DENIS**  
+Real enough.
+
+A pause.
+
+Not disagreement from the other end. Consideration.
+
+**ALBATROSS (COMMS)**  
+That’s usually the best you get.
+
+Denis shifts farther into the recess as another light moves over the upper concrete.
+
+In his free hand he still has the chalk. He looks at it once, then closes his fist around it.
+
+**DENIS**  
+He brought weight.
+
+**ALBATROSS (COMMS)**  
+I know.
+
+That lands heavier than it should.
+
+Denis turns his head slightly, listening toward the road above.
+
+Engines idling now. One vehicle, maybe two. No rush. Searching the shape of the place rather than the truth of it.
+
+Bad searchers. Or men told just enough to be dangerous.
+
+**DENIS**  
+Your weather’s changing.
+
+**ALBATROSS (COMMS)**  
+It always does.
+
+A flashlight beam skims the lip of the drainage seam this time — close enough to turn the wet concrete white for half a second.
+
+Denis does not move.
+
+The beam goes on.
+
+The footsteps follow it away.
+
+He waits another three beats, then slips from the recess and starts along the lower runoff channel toward the harbor dark, boots finding the dry edges between algae and standing water.
+
+No wasted motion. No dramatic sprint. Just exit.
+
+**ALBATROSS (COMMS)**  
+Can you carry it?
+
+Denis moves past a rusted pipe mouth and a broken ladder cage, then ducks beneath a sagging cable run.
+
+**DENIS**  
+Yes.
+
+**ALBATROSS (COMMS)**  
+Can you keep it alive?
+
+Denis thinks of the dead lamp. The platform. The American noticing the room change. The way he answered without selling confidence.
+
+Ahead, the channel narrows toward black water and a seam between mooring debris and concrete shadow where a small boat could wait without ever being seen from the road.
+
+Or where nothing could be waiting at all.
+
+He keeps moving.
+
+**DENIS**  
+We’ll see what it is by morning.
+
+The line stays open just long enough for Albatross to hear the truth in that.
+
+Then it clicks dead.
+
+Denis reaches the final break in the concrete, lowers himself into the dark seam by the water, and vanishes from the port the same way he came into it:
+
+not as a ghost,  
+not as a myth,  
+just as a man who knows where the route still exists.
+
+**CUT.**
+
+---
+
+That closes Denis’s side cleanly. Next we continue with **Mission 03 — LAST LIGHT HARBOR**.
 
 USER:
 Can you give me a downloadable olain text document of the entire content of this thread in full?
