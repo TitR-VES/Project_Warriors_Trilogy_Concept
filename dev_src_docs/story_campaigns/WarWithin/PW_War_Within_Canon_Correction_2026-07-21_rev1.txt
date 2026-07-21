@@ -1,0 +1,79 @@
+PROJECT WARRIORS — WAR WITHIN CANON CORRECTION
+Generated: 2026-07-21
+Version: rev1
+Status: LOCKED CORRECTION / SUPERSESSION LAYER
+
+PURPOSE
+This page updates the July 6 American Guerrilla / Hawthorne source layer with the
+current War Within DLC title, chronology, finale, and named-weapon ownership.
+
+CAMPAIGN IDENTITY
+Canonical title: WAR WITHIN
+Format: DLC
+Historical / working alias: AMERICAN GUERRILLA
+Placement: partly parallel with Game 4, which begins roughly two years after Game 3.
+
+PROTAGONIST
+Name: Nicholas Wayne Hawthorne
+Callsign: Croatoan
+Origin: Morehead City, North Carolina
+Civilian background:
+- marine-diesel mechanic in the Outer Banks / Beaufort-area coastal economy
+- practical marksman and militiaman
+- former AFC covert saboteur during World War III
+
+RADICALIZATION
+A badly managed toxic coastal spill kills Hawthorne's niece and harms his family.
+His disillusionment with federal authority combines with grief, practical competence,
+and the appeal of decisive action. He turns toward the New American Frontier and
+eventually joins Vanguard, the NAF's elite deniable sabotage and enforcement force.
+
+CAMPAIGN REVEAL
+The player gradually learns that the high-profile Vanguard operations are not
+isolated resistance actions. They form part of the NAF's broader anti-federal
+terror campaign.
+
+FINALE
+Mission: SIC SEMPER TYRANNIS
+Event: public assassination of Lt. Col. Stanley Abernathy during Abernathy's
+keynote address at VIATECH '31 in Washington, DC.
+Immediate setting: the keynote venue and connected hotel escape route.
+Player ending:
+- Hawthorne dies after firing first; or
+- Hawthorne is captured after surrendering / being contained.
+The exact branch implementation may be refined, but death-or-capture is locked.
+
+NAMED WEAPONS
+DEAD BLOW
+- Owner: Nicholas Wayne Hawthorne / Croatoan.
+- Platform: black HK MP5SD-style suppressed 9x19mm SMG.
+- Status: locked.
+- It is not a prototype.
+- It remains distinct from DEADBOLT.
+
+SUCKER PUNCH
+- Owner: Mark “Skidrow” Champlin.
+- Relationship: fellow Vanguard fighter.
+- Platform/configuration: not recovered.
+- Player availability: temporary mission-only access during the final hotel
+  escape after the assassination.
+- It is not Hawthorne's persistent named build.
+
+SUPERSEDES
+Conflicting wording in:
+- PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt regarding
+  placement “between Game 3 and Game 4.”
+- ontology rev1 fields marking War Within installment/protagonist TBD.
+- named_weapon_builds_v2_6.txt entry marking SUCKER PUNCH owner unrecovered.
+
+PRESERVED FROM THE JULY 6 SOURCE
+- Nicholas Wayne Hawthorne spelling.
+- Morehead City / Beaufort coastal foundation.
+- toxic-tide family wound.
+- NAF recruitment ladder and Vanguard threshold.
+- Mark “Skidrow” Champlin as the senior Vanguard figure.
+- SIC SEMPER TYRANNIS title.
+- DEAD BLOW platform/configuration.
+- Abernathy's corporate-state technology role.
+
+END
