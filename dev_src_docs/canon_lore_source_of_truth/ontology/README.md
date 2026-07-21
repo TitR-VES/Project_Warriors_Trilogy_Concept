@@ -5,7 +5,6 @@ Project Warriors canon. It does not replace durable narrative source pages.
 
 ## Files
 
-- `pw_world_event_timeline_rev2_1.yaml` — fully materialized validated projection.
 - `pw_world_event_timeline_rev2_1.patch.yaml` — deterministic rev1 -> rev2.1
   correction overlay.
 - `schema/pw_world_event.schema.yaml` — structural/reference-integrity rules.
@@ -13,7 +12,7 @@ Project Warriors canon. It does not replace durable narrative source pages.
 
 ## Current validation
 
-Timeline rev2.1:
+Locally materialized timeline rev2.1 (validation artifact; repository lands the deterministic patch):
 - 7 eras
 - 53 events
 - 20 campaign tracks
