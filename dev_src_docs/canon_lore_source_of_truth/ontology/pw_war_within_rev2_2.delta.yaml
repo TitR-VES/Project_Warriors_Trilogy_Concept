@@ -1,0 +1,230 @@
+meta:
+  delta_id: PW-ONT-WAR-WITHIN-2026-07-22-REV1
+  generated: '2026-07-22'
+  timeline_applies_to: pw_world_event_timeline_rev2_1.yaml
+  timeline_produces: pw_world_event_timeline_rev2_2.yaml
+  registry_applies_to: named_weapon_builds_v2_8.txt
+  registry_produces: named_weapon_builds_v2_9.txt
+  status: locked_and_working_delta
+  sources:
+    - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/characters/PW_Zale_Jacobs_Character_Continuity_2026-07-22_rev1.txt
+    - dev_src_docs/weapons_and_equipment/PW_SUCKER_PUNCH_Build_Spec_2026-07-22_rev1.txt
+
+operations:
+  - op: update_event
+    match_id: PW-EVT-WAR-WITHIN-ARC
+    set:
+      date:
+        window: 2031 campaign window, partly parallel with Game 4
+        basis: exact induction and finale anchors
+      actors:
+        - Nicholas Wayne Hawthorne / Croatoan
+        - Zale Jacobs
+        - New American Frontier
+        - Vanguard
+      ordering:
+        after: [PW-EVT-GAME4-OPEN]
+        before:
+          - PW-EVT-WAR-WITHIN-NAF-INDUCTION
+          - PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+      notes: >-
+        The recovered ladder is substantial but incomplete. American Guerrilla remains
+        a historical/working alias.
+      sources:
+        - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+        - dev_src_docs/characters/PW_Zale_Jacobs_Character_Continuity_2026-07-22_rev1.txt
+
+  - op: add_events
+    values:
+      - id: PW-EVT-WAR-WITHIN-KDH-SOUTH-MILLS
+        name: Kill Devil Hills / South Mills formative incident
+        era: PW-ERA-WWIII
+        date: {era_only: 'World War III; exact date TBD'}
+        location: South Mills, North Carolina
+        actors:
+          - Nicholas Wayne Hawthorne
+          - Zale Jacobs
+          - Kill Devil Hills State Defense Militia
+          - Major Cornell Gordon Parker
+          - AFC patrol
+        ordering: {before: [PW-EVT-GAME3-CLOSE]}
+        relations: {forms_background_for: [PW-EVT-WAR-WITHIN-ARC]}
+        depicted_in: [PW-TRK-WAR-WITHIN]
+        status: working
+        notes: >-
+          Wartime/flashback anchor. Zale is Hawthorne's friend and fellow fighter;
+          Dale Jacobs is retired transcription noise.
+        sources:
+          - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+          - dev_src_docs/characters/PW_Zale_Jacobs_Character_Continuity_2026-07-22_rev1.txt
+
+      - id: PW-EVT-WAR-WITHIN-NAF-INDUCTION
+        name: Hawthorne enters the New American Frontier / Ninth Ward induction
+        era: PW-ERA-G4
+        date:
+          exact: '2031-04-18'
+          basis: owner-approved War Within timing anchor
+        location: New Orleans Ninth Ward safe house / Louisiana entry arc
+        actors: [Nicholas Wayne Hawthorne / Croatoan, New American Frontier, Vanguard]
+        ordering:
+          after: [PW-EVT-GAME4-OPEN]
+          before: [PW-EVT-WAR-WITHIN-GROUND-ZERO]
+        relations: {advances: [PW-EVT-WAR-WITHIN-ARC]}
+        depicted_in: [PW-TRK-WAR-WITHIN]
+        status: confirmed
+        notes: >-
+          Current exact induction / Ninth Ward mark anchor. The KDH mark carries
+          Hawthorne's militia identity into the NAF.
+        sources:
+          - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+
+      - id: PW-EVT-WAR-WITHIN-GROUND-ZERO
+        name: GROUND ZERO / Minneapolis aid-center bombing
+        era: PW-ERA-G4
+        date:
+          window: early September 2031, days before VIATECH ’31
+          basis: War Within / Game 4 synchronization
+        location: Minneapolis, Minnesota
+        actors: [Nicholas Wayne Hawthorne / Croatoan, New American Frontier, Vanguard]
+        ordering:
+          after: [PW-EVT-WAR-WITHIN-NAF-INDUCTION]
+          before: [PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION]
+        relations: {advances: [PW-EVT-WAR-WITHIN-ARC]}
+        depicted_in:
+          - PW-TRK-WAR-WITHIN
+          - PW-TRK-G4-COMMAND-AUTHORITY
+          - PW-TRK-G4-PERMANENT-RECORD
+        status: working
+        notes: Shared mission/event anchor; exact day remains open.
+        sources:
+          - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+
+      - id: PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO
+        name: Permanent Record confrontation with Ledger in Chicago
+        era: PW-ERA-G4
+        date:
+          relative: after the VIATECH ’31 assassination; exact date TBD
+          anchor: PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+        location: Chicago, Illinois
+        actors: [Trevor Gartner / Spook, Ledger, Tripper, Smoke]
+        ordering:
+          after: [PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION]
+          before: [PW-EVT-GAME4-CLOSE]
+        relations:
+          continues_investigation_from: [PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION]
+        depicted_in: [PW-TRK-G4-PERMANENT-RECORD]
+        status: working
+        notes: >-
+          Ledger dies; recovered device/pocketbook point toward Hélène Modine and
+          Montreal. Placement after VIATECH prevents accidental prevention of the hit.
+        sources:
+          - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+
+  - op: update_event
+    match_id: PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+    set:
+      date:
+        exact: '2031-09-11'
+        basis: Thursday finale; keynote begins 7:00 p.m. Eastern after 5:42 p.m. staging anchor
+      actors:
+        - Nicholas Wayne Hawthorne / Croatoan
+        - Lt. Col. Stanley Abernathy
+        - Mark Redford “Skidrow” Champlin
+        - Joel David “Taurus” Holmes
+        - Ryan Paul “Bruiser” Skoglund
+        - Theodore Douglas “Ted” Tegel
+      ordering:
+        after:
+          - PW-EVT-WAR-WITHIN-GROUND-ZERO
+          - PW-EVT-WAR-WITHIN-NAF-INDUCTION
+        before:
+          - PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO
+          - PW-EVT-GAME4-CLOSE
+      relations:
+        culminates: [PW-EVT-WAR-WITHIN-ARC]
+        enables: [PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO]
+      status: confirmed
+      notes: >-
+        Crodyn-era National War on Terror Day. Keynote: Lessons in Leadership — What
+        Emerging Strategic Tech Leaders Can Learn from Protecting and Serving the
+        American People. The assassination is canonical; Hawthorne's final status is
+        branch-ambiguous. SUCKER PUNCH is handed to Croatoan temporarily after Skidrow
+        is mortally wounded.
+      sources:
+        - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+
+  - op: update_campaign_track
+    match_id: PW-TRK-WAR-WITHIN
+    set:
+      timeframe:
+        opens: {event: PW-EVT-WAR-WITHIN-ARC}
+        closes: {event: PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION}
+        placement_status: confirmed
+        notes: >-
+          Substantial partial ladder spans wartime foundation, 2031 induction and
+          escalation, and the September 11 finale; full numbering remains open.
+      notes: >-
+        Hawthorne's path includes Kill Devil Hills history with Zale Jacobs, toxic
+        tide, NAF recruitment, NO WITNESSES, Vanguard escalation, GROUND ZERO, and
+        SIC SEMPER TYRANNIS. The assassination is canonical; final status remains
+        branch-ambiguous. DEAD BLOW is Hawthorne's build and SUCKER PUNCH is Skidrow's
+        temporary finale handoff.
+      sources:
+        - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+        - dev_src_docs/characters/PW_Zale_Jacobs_Character_Continuity_2026-07-22_rev1.txt
+
+  - op: add_sync_point
+    value:
+      id: PW-SYN-WAR-WITHIN-PERMANENT-RECORD
+      name: VIATECH ’31 to Ledger / Chicago investigative handoff
+      kind: cross_campaign_consequence_and_investigative_order
+      event: PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+      tracks:
+        - PW-TRK-WAR-WITHIN
+        - PW-TRK-G4-PERMANENT-RECORD
+        - PW-TRK-G4-COMMAND-AUTHORITY
+      depends_on_events: [PW-EVT-WAR-WITHIN-GROUND-ZERO]
+      description: >-
+        GROUND ZERO precedes the September 11 assassination. Permanent Record
+        confronts Ledger in Chicago afterward; later reporting may identify Hawthorne
+        without selecting a canonical finale branch.
+      retcon_sensitivity: critical
+      status: working
+
+registry_operations:
+  - op: update_build
+    match_id: PW-WPN-WAR-WITHIN-SUCKER-PUNCH
+    move_to_section: fully_or_substantially_specified_builds
+    set:
+      build_name: SUCKER PUNCH
+      owner: Mark Redford “Skidrow” Champlin
+      platform: Noveske N4 Ghetto Blaster-style compact 5.56x45mm PDW/SBR
+      campaign: War Within DLC
+      mission: SIC SEMPER TYRANNIS
+      configuration:
+        suppressor: true
+        finish: black
+        magazines: black PMAG-style 5.56 magazines
+        optic: compact reflex/collimator; exact model open
+      placement: temporary secondary after Skidrow's final handoff
+      status: locked_core_flags_remain
+      source: dev_src_docs/weapons_and_equipment/PW_SUCKER_PUNCH_Build_Spec_2026-07-22_rev1.txt
+    clear:
+      - platform_recovery_required
+      - owner_recovery_required
+
+validation_targets:
+  timeline:
+    eras: 7
+    events: 57
+    campaign_tracks: 20
+    sync_points: 14
+    duplicate_ids: 0
+    dangling_references: 0
+    acyclic: true
+  registry:
+    named_identities: 36
+    substantially_specified: 26
+    recovery_status: 10
+    duplicate_ids: 0
