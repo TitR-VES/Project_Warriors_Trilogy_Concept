@@ -38,7 +38,7 @@ Stable ontology handling:
 LOCKED BROAD PLACEMENT:
 - Game 4 occurs roughly two years after the events of Game 3.
 - War Within is a DLC whose events take place partly in parallel with Game 4.
-- The Collapse DLC occurs roughly two years after Game 4.
+- The Collapse DLC occurs approximately two to three years after Game 4.
 - The Collapse campaign unfolds in the months preceding the eventual collapse
   of US federal authority.
 - Nightfall is the last currently known chronological era.
@@ -154,20 +154,98 @@ Registry handling:
   player builds.
 
 ================================================================================
-08. STORM DLC
+08. THE STORM DLC — SOURCE RECOVERED
 ================================================================================
-LOCKED MINIMUM:
-- STORM is a DLC identity that must be preserved in the project ontology.
-- It has narrative dependencies on Game 3 and Nightfall.
+WORKING AUTHORITATIVE DEVELOPMENT:
+- External title: PROJECT WARRIORS: THE STORM.
+- Format: DLC.
+- Central faction: PROCELLA.
+- Primary protagonist: Denis Nikolaevich Malinin / SAKHALIN.
+- Primary lane: Russian Far East clandestine littoral lifeline, extraction,
+  weather/navigation sabotage, batteries, relays, and dead-system revival.
+- Albatross is the network architect / long-range continuity mind; Denis is the
+  field executor.
+- FURTHER EAST synchronizes with Spook Game 3's OUTER PORT in Tomakomai, Hokkaido.
+- Wider campaign dates and exact Nightfall consequences remain open.
+- The transcript's Storm opening title SOUTH CULVERT conflicts with the existing
+  Spook Game 3 mission title and must be renamed before hard title lock.
 
-SOURCE-RECOVERY RULING:
-No substantive controlling Storm source page was found in the audited repository.
-Therefore protagonist, mission spine, placement window, and exact consequences
-must remain SOURCE RECOVERY REQUIRED. The ontology must record the dependency but
-must not manufacture story details.
+Source:
+- dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt
 
 ================================================================================
-09. SUPERSESSION / PURGE RULES
+09. DUCKY GAME 1 — RETREAT, HELL
+================================================================================
+LOCKED:
+- The Maasvlakte approach / campaign pre-finale mission is RETREAT, HELL.
+- The comma is part of the title.
+- It is distinct from the final Maasvlakte terminal defense mission.
+- The retitle does not change the Zubr approach sequence, location, content, or
+  finale chronology.
+
+Ontology IDs:
+- PW-EVT-DUCKY-G1-RETREAT-HELL
+- PW-EVT-DUCKY-G1-MAASVLAKTE-FINALE
+
+================================================================================
+10. POST-GAME 4 / THE COLLAPSE BRIDGE
+================================================================================
+WORKING CHRONOLOGY:
+- The Crodyn administration falls after the Game 4 exposure/reckoning.
+- Gillian Stockbridge recovers sufficiently to stand trial.
+- A legitimate but heavily disrupted restoration election produces an
+  inexperienced and overwhelmed successor administration.
+- NAF and other armed movements expand through local governance, protection,
+  logistics, aid, coercion, and violence while federal practical control erodes.
+- Surviving kingmaker networks and international humanitarian need persist.
+- This long unraveling spans approximately two to three years after Game 4 and
+  leads into The Collapse.
+- The playable Collapse campaign remains in the months preceding federal failure.
+- The successor administration is not secretly villainous; it is overwhelmed.
+
+Name rule:
+GILLIAN STOCKBRIDGE is canonical. Do not create a separate Justine identity from
+transcription noise.
+
+================================================================================
+11. SPOOK GAME 3 / DARK SKIES / OUTER PORT
+================================================================================
+WORKING:
+- DARK SKIES remains Spook Game 3's working campaign-title / major-arc candidate.
+- It is not promoted to a hard final title lock.
+- Add PW-TRK-G3-DARK-SKIES as a working ontology track.
+- OUTER PORT is the Tomakomai contact mission.
+- FURTHER EAST is the Storm-side route-to-contact mission.
+- The handoff is an asymmetrical parallel hinge: same seam, different pressure and
+  knowledge, no duplicate replay.
+- Trevor GARTNER is correct; Gardner is erroneous.
+
+================================================================================
+12. HOME DEFENSE GEOPOLITICAL CONTINUITY
+================================================================================
+WORKING:
+- NATO survives diminished US strategic participation and becomes increasingly
+  European-led.
+- Europe develops VIGILAN and related autonomous defense capacity.
+- Israel survives through strategic autonomy, hardened infrastructure, and
+  PANDORA-oriented continuity planning.
+- Israel is no longer strongly dependent on reliable US strategic backing and
+  becomes a regional counterweight to Chinese expansion.
+- Exact Home Defense event placement remains open and must not be fabricated.
+
+================================================================================
+13. STORM NAMED WEAPON
+================================================================================
+WORKING LOCK / SOURCE-READY:
+- DEAD RECKONING belongs to Denis Malinin / Sakhalin.
+- Platform: AK-105, 5.45x39mm.
+- Campaign: The Storm DLC.
+- Stable ID: PW-WPN-SAKHALIN-DEAD-RECKONING.
+- “BUILD 13” is a provisional development alias only, not a global identifier.
+- Advance the global named-weapon registry to v2.8.
+
+================================================================================
+14. SUPERSESSION / PURGE RULES
 ================================================================================
 Purge or retire in active ontology projections:
 - “Riptide Red (Ducky)”
@@ -178,11 +256,16 @@ Purge or retire in active ontology projections:
 - SUCKER PUNCH owner = NOT RECOVERED
 - SUCKER PUNCH treated as a persistent Hawthorne weapon
 - Nightfall chronology lacking the nuclear-exchange / Scorched Crescent dependency
+- Storm protagonist/source status left as SOURCE RECOVERY REQUIRED
+- Gardner used for Trevor Gartner
+- The Collapse fixed to exactly two years when newer source supports an approximately two-to-three-year bridge
 
 Do not purge:
 - Hudson Overlook as historical title metadata.
 - American Guerrilla as a historical/working alias.
 - Existing source files that remain useful evidence; mark supersession rather
   than deleting history.
+- SOUTH CULVERT as the existing Spook Game 3 mission title until the conflicting
+  Storm opening mission is renamed.
 
 END
