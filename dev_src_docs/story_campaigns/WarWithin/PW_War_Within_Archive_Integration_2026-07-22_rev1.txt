@@ -1,0 +1,120 @@
+PROJECT WARRIORS — WAR WITHIN ARCHIVE INTEGRATION
+Generated: 2026-07-22
+Version: rev1
+Status: SOURCE-LANDED PARTIAL LADDER / LOCKED AND WORKING STATUS MIX
+
+PURPOSE
+Land the recoverable War Within sequence from the July 21 development archive without
+pretending the campaign ladder is complete. This page supersedes conflicting finale,
+date, Zale Jacobs, and SUCKER PUNCH details in earlier War Within source layers.
+
+CAMPAIGN IDENTITY
+- Canonical title: WAR WITHIN.
+- Format: DLC.
+- Historical / working alias: AMERICAN GUERRILLA.
+- Protagonist: Nicholas Wayne Hawthorne / CROATOAN.
+- Placement: partly parallel with Game 4.
+
+PARTIAL CAMPAIGN SPINE — NOT FINAL NUMBERING
+1. KILL DEVIL HILLS / SOUTH MILLS FOUNDATION
+   Hawthorne's World War III State Defense Militia history remains a formative
+   flashback/background block. Zale Jacobs is Nick's friend and fellow fighter from
+   those Kill Devil Hills militia days. The South Mills incident and AFC extraction
+   remain valid background anchors; exact playable format is open.
+
+2. TOXIC TIDE / AFC-ADJACENT BREAKPOINT
+   Morehead City / Beaufort marine-diesel life, Florence's illness, Hannah Rose's
+   death, AFC-adjacent logistics/sabotage work, and Major Cornell Gordon Parker's
+   Potomac conversation establish Hawthorne's grievance and recruitment vulnerability.
+
+3. NAF CONTACT / ENTRY LADDER
+   First low-key contact -> Parker breakpoint -> recovery of a stuck/jackknifed NAF
+   truck -> serious consideration -> Louisiana/Mississippi entry and training ->
+   Ninth Ward safe-house / induction bridge.
+   Current exact induction anchor: April 18, 2031.
+
+4. NO WITNESSES
+   Locked Vanguard threshold mission. Mark Redford “Skidrow” Champlin executes
+   surrendering or cowering staff while evaluating Hawthorne, revealing what Vanguard
+   discipline permits rather than what NAF rhetoric claims to protect.
+
+5. VANGUARD ESCALATION — PARTIAL
+   Late spring through summer 2031. Full mission list and order remain open.
+   DEAD MAN'S SWITCH is a recovered working anchor involving Ledger's release from a
+   prison transport; exact placement remains open but it precedes the finale.
+
+6. GROUND ZERO
+   Minneapolis aid-center bombing setup/detonation in early September 2031, days before
+   VIATECH ’31. Shared continuity with Command Authority and Permanent Record.
+
+7. SIC SEMPER TYRANNIS — FINALE
+   Thursday, September 11, 2031, VIATECH ’31, Washington, DC hotel/conference complex.
+   The date is also the Crodyn-era NATIONAL WAR ON TERROR DAY.
+   - 5:42 p.m. Eastern: staging-room watch anchor.
+   - 6:00 p.m.: doors / reception / security buildup.
+   - 78 MINUTES LATER transition.
+   - 7:00 p.m.: Abernathy keynote begins.
+   Keynote title:
+     LESSONS IN LEADERSHIP
+     What Emerging Strategic Tech Leaders Can Learn from Protecting and Serving
+     the American People.
+
+VIATECH STRIKE TEAM
+Gunmen:
+- Nicholas Wayne “Croatoan” Hawthorne.
+- Mark Redford “Skidrow” Champlin.
+- Joel David “Taurus” Holmes.
+- Ryan Paul “Bruiser” Skoglund.
+Support:
+- Theodore Douglas “Ted” Tegel — getaway driver and service-cover support.
+Cover:
+- Premium Imperial Facilities & Sanitation uniforms, van, access materials, and
+  service-equipment bags.
+- Final staging occurs in an unused breakout room adjacent to the event footprint.
+
+FINALE LOADOUTS
+- Croatoan: DEAD BLOW, black HK MP5SD-style suppressed 9x19mm SMG; sidearm open.
+- Skidrow: SUCKER PUNCH only as long gun; no HK416 carried into the hotel. High-end
+  .45 ACP 2011-style sidearm.
+- Bruiser: KS-12 / Saiga-12K-style box-magazine shotgun, suppressed MP5K-PDW, and
+  preferred large-frame .44 Magnum revolver direction.
+- Taurus: suppressed M4 CQBR with EOTech-style sight; Glock 18L-style machine pistol
+  with tactical light and folding brace, used in controlled bursts.
+
+SUCKER PUNCH HANDOFF
+Skidrow is mortally wounded during the escape. He directs Croatoan to take SUCKER
+PUNCH and the spare-magazine satchel, ending with “Make it count.” The build becomes a
+temporary secondary weapon for the rest of the mission, not Hawthorne's persistent
+personal build.
+
+ENDING GOVERNANCE
+- The assassination event is canonical.
+- RESIST and SURRENDER remain player-facing branches.
+- Later continuity must not select whether Hawthorne died, surrendered, survived,
+  escaped, or remained in custody unless a future owner adjudication chooses a branch.
+- Command Authority / Permanent Record may identify or strongly suspect HAWTHORNE,
+  Nicholas Wayne / alias CROATOAN while preserving final-status ambiguity.
+
+CROSS-CAMPAIGN ORDER
+1. GROUND ZERO occurs shortly before VIATECH ’31.
+2. SIC SEMPER TYRANNIS occurs September 11, 2031.
+3. Permanent Record's Chicago confrontation with Ledger occurs after VIATECH.
+4. Ledger's recovered device and pocketbook lead to Hélène Modine in Montreal.
+5. Hélène sends Kirill Afanasyev rather than attending the compromised meeting.
+6. Later fragmented intelligence points Victor Two Bravo toward MARIETTA (formerly
+   GERHANA) -> Geoffrey-Guy Moffat -> Lana Erika Delhardt.
+The Chicago/Montreal/Marietta material belongs to Permanent Record, not the playable
+War Within mission ladder.
+
+OPEN ITEMS
+- Final mission numbering and unrecovered middle-mission titles.
+- Exact DEAD MAN'S SWITCH placement.
+- Exact playable treatment of South Mills and other wartime flashbacks.
+- Hawthorne finale sidearm and final Bruiser revolver specification.
+- Any future canonical selection between RESIST and SURRENDER.
+
+SOURCE
+- war_within_permanent_record_thread_archive_2026-07-21.txt
+- PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt
+
+END
