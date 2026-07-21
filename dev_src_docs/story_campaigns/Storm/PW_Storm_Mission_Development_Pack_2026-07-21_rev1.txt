@@ -1,0 +1,178 @@
+PROJECT WARRIORS — THE STORM MISSION DEVELOPMENT PACK
+Generated: 2026-07-21
+Version: rev1
+Status: WORKING MISSION SOURCE
+Campaign: Project Warriors: The Storm
+Playable lead: Denis Nikolaevich Malinin / SAKHALIN
+
+================================================================================
+MISSION SPINE — WORKING
+================================================================================
+01. OPENING ROUTE-CHECK MISSION
+    Transcript working title: SOUTH CULVERT.
+    TITLE CONFLICT: Spook Game 3 already contains a mission named SOUTH CULVERT
+    in the current Dark Skies ladder. Preserve this Storm mission concept but
+    rename it before hard title lock.
+02. FALSE WEATHER.
+03. LAST LIGHT HARBOR.
+04. COLD BATTERY.
+05. DRIFT LINE.
+06. NORTHERN WINDOW.
+07. FURTHER EAST.
+
+These anchors are not yet a complete final ladder.
+
+================================================================================
+MISSION 01 CONCEPT — OPENING ROUTE CHECK
+================================================================================
+Function:
+Introduce Denis through competence, establish Procella's route language, and show
+that “broken” and “burned” are not the same condition.
+
+Situation:
+A coastal extraction seam goes partially dark after a contact failure. Denis must
+reach the route, determine whether it remains usable, identify what interrupted
+the chain, recover surviving contact material, and avoid unnecessary exposure.
+
+Environment:
+- Russian Far East coastal service road
+- drainage/culvert infrastructure
+- rail-adjacent cuts
+- broken fencing
+- wet concrete, shallow runoff, dead utility boxes
+- low industrial spill light, wind, mist/drizzle/sleet
+- black water and distant harbor lights
+
+Gameplay:
+- environmental reading
+- route validation
+- hidden contact objects and power/signaling clues
+- short practical contact only if necessary
+- first remote shadow of Albatross
+- pale-blue chalk “cold” route marking may be established here
+
+End-state:
+The route is damaged but not dead. The player learns that Denis reads systems,
+not cinematic clues.
+
+Title governance:
+Do not land SOUTH CULVERT as a second canonical mission title while the Spook
+Game 3 mission of that name remains active. A later title adjudication is required.
+
+================================================================================
+MISSION 02 — FALSE WEATHER
+================================================================================
+Function:
+Establish the systems-sabotage identity of The Storm.
+
+Situation:
+Procella identifies a coastal weather/navigation node whose outputs are being
+deliberately falsified. The false picture protects favored regime traffic while
+making civilian and deniable movement easier to intercept or erase.
+
+Objectives:
+- infiltrate the node
+- confirm the falsification
+- restore, split, or corrupt output to benefit Procella routes
+- preserve the illusion of normal operation if possible
+- exfiltrate before the compromise becomes obvious
+
+Environment:
+- remote coastal weather/navigation station
+- steel mast, service sheds, generator housing
+- layered old/new equipment
+- cable trenches, corroded rails, wet concrete, salt damage
+- black water, poor visibility, dead/rotating signal lights
+
+Gameplay:
+- read staged neglect and false maintenance
+- access damp relay/utility interiors
+- manipulate output under patrol, weather, power, or remote-check pressure
+- avoid generic “hack the terminal” treatment
+- win by altered conditions, not by destroying the site
+
+End-state examples:
+- hidden truthful stream restored
+- patrol or shipping picture delayed/misdirected
+- extraction window reopened
+- regime still believes the node is controlled
+
+================================================================================
+MISSION 03 — LAST LIGHT HARBOR
+================================================================================
+Working direction:
+First full extraction mission with civilians/defectors through a harbor edge that
+is nominally functional but decaying in practice. Emphasize escort as route
+management rather than babysitting, dark service corridors, dock clutter, close
+contact, and water exfiltration.
+
+================================================================================
+MISSION 04 — COLD BATTERY
+================================================================================
+Working direction:
+Recover thermoelectric or comparable power units needed to restore a relay chain.
+Power becomes a survival commodity. Carry burden, transport risk, installation,
+and selective engagement matter as much as shooting.
+
+================================================================================
+MISSION 05 — DRIFT LINE
+================================================================================
+Working direction:
+A known extraction line is compromised. Albatross redirects Denis to a hidden
+secondary seam during worsening weather, turning him from rumor into a visible
+continuity mind without overexposing him.
+
+================================================================================
+MISSION 06 — NORTHERN WINDOW
+================================================================================
+Working direction:
+A restrained external-contact mission, likely Japan-facing. Escort a defector,
+exchange technical intelligence, or receive specialized equipment through a
+fragile northern maritime contact. Sanctuary is partial, political, and deniable.
+This must not turn The Storm into the Home Defense campaign.
+
+================================================================================
+MISSION 07 — FURTHER EAST
+================================================================================
+Function:
+Sakhalin's route-to-contact mission in Tomakomai, Hokkaido, synchronized with
+Spook Game 3's OUTER PORT.
+
+Design:
+- different pressure and different knowledge, not a replay
+- Sakhalin reaches Japan, handles surveillance risk, validates local seams, and
+  determines whether the unfamiliar American is genuine or bait
+- background information exchanged with Spook is taught through what Sakhalin
+  has already experienced and carried
+- end at the exact hinge where the scene transfers into Spook's mission
+
+Objective progression:
+- Reach the contact district.
+- Confirm the American.
+- Secure the handoff.
+
+Contact:
+Officer Trevor Gartner / Spook. “Gardner” is incorrect.
+
+Developed seam:
+- outer-port service edge
+- deliberately killed lamp
+- blue chalk route mark
+- waterproof intelligence envelope
+- Albatross remote guidance
+- Spook supported by Tripper and Smoke
+- mutual professionalism without instant warmth
+- Denis exits by the lower waterline service channel
+
+================================================================================
+CROSS-CAMPAIGN RULE
+================================================================================
+OUTER PORT remains Spook's mission and owns the contact conversation.
+FURTHER EAST owns the cost of making the meeting possible.
+The overlap should reward players who know both campaigns without making either
+campaign narratively incomplete on its own.
+
+SOURCE
+Project_Warriors_The_Storm_Thread_Transcript_2026-07-21.txt
+
+END
