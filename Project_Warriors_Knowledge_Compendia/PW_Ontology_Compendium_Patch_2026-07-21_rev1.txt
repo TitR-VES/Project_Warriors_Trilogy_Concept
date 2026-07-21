@@ -71,7 +71,7 @@ human-readable weapon registry remain controlling.
 - “BUILD 13” is not a global ID.
 
 08. ONTOLOGY GOVERNANCE
-- Materialized timeline rev2.1: 7 eras / 53 events / 20 tracks / 13 sync points.
+- Locally materialized/validated timeline rev2.1: 7 eras / 53 events / 20 tracks / 13 sync points; repository representation is the deterministic patch until rev1 is landed.
 - Missing world-event schema remains supplied.
 - Weapon schema rev3 points to registry v2.8.
 - Old ontology revisions are not safe to retire until merge, source-path
