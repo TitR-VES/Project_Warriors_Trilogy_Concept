@@ -1,0 +1,417 @@
+================================================================================
+PROJECT WARRIORS — GLOBAL NAMED WEAPON REGISTRY
+Version 2.8 — Storm Source Landing and Dead Reckoning Addition (2026-07-21)
+================================================================================
+Status: AUTHORITATIVE GLOBAL INDEX
+Supersedes: named_weapon_builds_v2_7.txt as the global registry
+Retains: named_weapon_builds_v2_2.txt as the detailed legacy/core-build
+         specification for GRAY GHOST through ARGINT
+
+PURPOSE
+This registry records every currently identified named firearm identity across
+the project, distinguishes fully specified builds from partial/recovery entries,
+and points to the source that controls each specification.
+
+Stable IDs replace bare ordinal build numbers for cross-project use. Historical
+BUILD 01–12 labels remain aliases only.
+
+--------------------------------------------------------------------------------
+0. v2.8 CORRECTIONS / GOVERNANCE
+--------------------------------------------------------------------------------
+1. Retains all v2.4 and v2.5 corrections and source landings.
+2. Adds Howler's LONG CALL as a confirmed named identity and owner association.
+   Its platform and exact first-use campaign/mission remain unrecovered.
+3. Records Dingo and Beaver owner-specific named-build recovery slots in the
+   recovery-control page. Their exact build names are not recovered, so they are
+   not counted as named identities and must not be assigned speculative names.
+4. SAVING GRACE is M1911A1, not SIG P226. Purge P226 references in the SAVING
+   GRACE context on sight.
+5. OWNERSHIP RESOLVED (Stefan adjudication, 2026-07-20): HIGHER STANDARD,
+   EVEN FLOW, HARDWARE INTERRUPT, SILVER LINING, DANGER CLOSE, and CRISIS
+   MANAGEMENT are the named builds of the five senior New American Frontier
+   leadership figures (Game 4 continuity). Owner canon per the Senior Figure
+   Recovery Block in PW_Game4_Romeo_Crossover_and_New_American_Frontier_
+   Packet_2026-05-08_rev1.txt:
+     - Gregory David Allen "Pacer"      = HIGHER STANDARD
+     - Dalton Maynard Crane "River"     = EVEN FLOW
+     - Dylan Joseph Peretti "Static"    = HARDWARE INTERRUPT
+     - Cheryl Lynn Vaughn "Sunny"       = SILVER LINING
+     - Jefferson Lee Davis "Hazzard"    = DANGER CLOSE and CRISIS MANAGEMENT
+   Platforms, configurations, and campaign placement remain unrecovered; these
+   entries move to NAME / OWNER CONFIRMED status. Former PW-WPN-UNRESOLVED-*
+   IDs are retired to historical-alias status.
+   Name-canon note: Jefferson Lee Davis's Dixie-coded name is deliberate and
+   backstory-relevant (character is painfully self-aware of it; attributes it
+   to his father). Character detail to land in the dedicated NAF profile pass.
+   Spelling rule reaffirmed: Hazzard, two z's.
+6. Ledger's KILLING JOKE and PUNCHLINE remain owner-confirmed; platforms and
+   exact campaign placement remain unrecovered.
+7. Kirill Afanasyev's EASTERN PROMISE remains owner-confirmed. "EQSTERN PROMISE"
+   is treated as a transcription/typing error pending source recovery.
+8. SUCKER PUNCH ownership and placement are resolved: it belongs to Mark
+   “Skidrow” Champlin, a fellow Vanguard fighter in the War Within DLC.
+   The player can access it only temporarily during the final hotel escape
+   in SIC SEMPER TYRANNIS after the VIATECH ’31 assassination. Its platform
+   and full configuration remain unrecovered.
+8a. DEAD BLOW remains Nicholas Wayne Hawthorne / Croatoan’s named build.
+    War Within is a DLC partly parallel with Game 4; “American Guerrilla”
+    is retained only as a historical/working source-page alias.
+9. STAPLER remains locked canon, not a provisional APC9K candidate.
+10. EXTREME PREJUDICE remains CRIMSON THREE / Lawrence "Rip" Mansell's Riptide
+    Red finale CheyTac M200; the older Mk18 remains an earlier/default breacher
+    configuration, not the finale primary.
+11. DEAD BLOW and DEADBOLT remain distinct locked builds.
+12. DON'T TREAD retires in Romeo Game 2 Act II after the militia-recognition beat.
+13. PR #22 remains a dependency for the UI/prompt-system implementation unless
+    merged before this registry lands.
+14. Adds Denis “Sakhalin” Malinin's DEAD RECKONING as a working source-ready
+    named build for The Storm DLC: AK-105, 5.45x39mm, compact littoral field
+    configuration. Stable ID controls. “BUILD 13” is a provisional development
+    alias only and must not be treated as a global ordinal identifier.
+
+STATUS DEFINITIONS
+- LOCKED: core identity and controlling platform are settled.
+- LOCKED CORE / FLAGS REMAIN: identity is stable; lower-level implementation
+  details remain open.
+- NAME / ASSOCIATION CONFIRMED: preserve in registry; source recovery required
+  before assigning missing platform, owner, or campaign details.
+- NAME / OWNER / CAMPAIGN CONFIRMED: owner and campaign placement are settled;
+  only the explicitly listed lower-level fields remain recoverable.
+
+--------------------------------------------------------------------------------
+1. FULLY OR SUBSTANTIALLY SPECIFIED BUILDS
+--------------------------------------------------------------------------------
+
+PW-WPN-SPOOK-GRAY-GHOST
+  Build name: GRAY GHOST
+  Platform: Noveske Rifleworks N-4 Gen3, .300 Blackout
+  Character: Trevor "Spook" Gartner
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 01
+  Variant source: GRAY_GHOST_Nightfall_Config_rev3_FINAL.txt
+
+PW-WPN-SPOOK-NOTHING
+  Build name: NOTHING
+  Platform: HK45CT, .45 ACP
+  Character: Trevor "Spook" Gartner
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 02
+  Variant source: GRAY_GHOST_Nightfall_Config_rev3_FINAL.txt
+
+PW-WPN-DUCKY-FREYA
+  Build name: FREYA
+  Platform: Grand Power R-15 Freya GEN 2, 5.56x45mm NATO
+  Character: Ferris "Ducky" Ryan
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 03
+
+PW-WPN-DUCKY-HUCKLEBERRY
+  Build name: HUCKLEBERRY
+  Platform: CZ P-09, 9x19mm
+  Character: Ferris "Ducky" Ryan
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 04
+
+PW-WPN-ROMEO-DONT-TREAD
+  Build name: DON'T TREAD
+  Platform: Ruger AC-556, 5.56x45mm NATO
+  Character: Ramón "Romeo" Álvarez
+  Status: LOCKED; retired Game 2 Act II after recognition beat
+  Detail source: named_weapon_builds_v2_2.txt BUILD 05
+  Correction source: PW_Canon_Decisions_2026-07-06.txt Section 06
+
+PW-WPN-FROST-TRG-M10
+  Build name: TRG M10
+  Platform: Sako TRG M10, .338 Lapua Magnum
+  Character: Aki "Frost" Peltola
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 06
+
+PW-WPN-SWITCHBLADE-WREN
+  Build name: WREN
+  Platform: Thales F88 Austeyr, 5.56x45mm NATO
+  Character: Cassandra "Switchblade" Stewart
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 08
+  UI exception: inspect displays F88 AUSTEYR; WREN is physical-only
+
+PW-WPN-LUPIN-ARGINT
+  Build name: ARGINT
+  Platform: FN SCAR-H DMR, 7.62x51mm NATO
+  Character: Ştefan "Lupin" Dragavei
+  Status: LOCKED
+  Detail source: named_weapon_builds_v2_2.txt BUILD 09
+
+PW-WPN-ELENA-HELL-OR-HIGH-WATER
+  Build name: HELL OR HIGH WATER
+  Platform: old-service-pattern Colt M4A1
+  Character: Elena Costa
+  Status: LOCKED CORE
+  Detail source: PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt
+  Historical alias: BUILD 08; do not use as a global ID
+
+PW-WPN-KEARNEY-WORK-ORDER
+  Build name: WORK ORDER
+  Platform: 14.5-inch old-service Colt M4A1
+  Character: Eamonn Kearney
+  Status: LOCKED CORE
+  Detail source: PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt
+  Historical alias: BUILD 10
+
+PW-WPN-ROMEO-CIVIL-DISOBEDIENCE
+  Build name: CIVIL DISOBEDIENCE
+  Platform: 14.5-inch midlength AR-pattern carbine
+  Character: Ramón "Romeo" Álvarez
+  Status: LOCKED CORE
+  Detail source: PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt
+  Historical alias: BUILD 12
+
+PW-WPN-LOCK-DEADBOLT
+  Build name: DEADBOLT
+  Platform: HK416 A5, 11-inch, 5.56x45mm NATO
+  Character: Tomasz "Lock" Kaczmarek
+  Status: LOCKED
+  Detail source: PW_SHIELD_Squad_Development_Packet.txt
+
+PW-WPN-MALLET-HINGE
+  Build name: HINGE
+  Platform: B&T APC223 Pro, 10.3-inch, 5.56x45mm NATO
+  Character: Nadja "Mallet" Vuković
+  Status: LOCKED
+  Detail source: PW_SHIELD_Squad_Development_Packet.txt
+
+PW-WPN-SUTURE-TRIAGE
+  Build name: TRIAGE
+  Platform: HK416 A5, 11-inch, 5.56x45mm NATO
+  Character: Iben "Suture" Nørgaard
+  Status: LOCKED
+  Detail source: PW_SHIELD_Squad_Development_Packet.txt
+
+PW-WPN-SPLICE-GHOST-KEY
+  Build name: GHOST KEY
+  Platform: CZ BREN 2 Ms, 11-inch, 5.56x45mm NATO
+  Character: Marek "Splice" Veselý
+  Status: LOCKED
+  Detail source: PW_SHIELD_Squad_Development_Packet.txt
+
+PW-WPN-LA-AVISPA-CATCH-22
+  Build name: CATCH-22
+  Platform: suppressed Ruger LCP II, .22 LR
+  Character: La Avispa / Yelena Volkova
+  Status: NAMED WEAPON IDENTITY; dedicated full spec pending
+  Detail source: Characters / Gameplay compendium layer
+  Disambiguation: weapon, not the mission/flashback title
+
+PW-WPN-SPOOK-BACKUP-PLAN
+  Build name: BACKUP PLAN
+  Platform: HK MP7A1, 4.6x30mm
+  Character: Trevor "Spook" Gartner
+  Status: WORKING LOCK / SOURCE-READY
+  Detail source: PW_Backup_Plan_Weapon_Presentation_Note_2026-05-07_rev1.txt
+
+PW-WPN-HAWTHORNE-DEAD-BLOW
+  Build name: DEAD BLOW
+  Platform: black HK MP5SD-style suppressed 9x19mm SMG
+  Character: Nicholas Wayne Hawthorne
+  Callsign: Croatoan
+  Campaign: War Within DLC
+  Status: LOCKED
+  Detail source: PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt
+  Correction source: dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Canon_Correction_2026-07-21_rev1.txt
+
+PW-WPN-SAKHALIN-DEAD-RECKONING
+  Build name: DEAD RECKONING
+  Platform: AK-105, 5.45x39mm
+  Character: Denis Nikolaevich Malinin
+  Callsign: Sakhalin
+  Campaign: The Storm DLC
+  Role: compact littoral field carbine for extraction security, relay-site work, and selective sabotage
+  Status: WORKING LOCK / SOURCE-READY
+  Detail source: dev_src_docs/weapons_and_equipment/PW_DEAD_RECKONING_Build_Spec_2026-07-21_rev1.txt
+  Governance: stable ID controls; “BUILD 13” is a provisional development alias only
+
+PW-WPN-SPOOK-STAPLER
+  Build name: STAPLER
+  Platform: B&T APC9K Pro-style 9x19mm SMG
+  Character: Trevor "Spook" Gartner
+  Status: LOCKED
+  Detail source: STAPLER_Build_Spec_rev1.txt
+
+PW-WPN-STOCKBRIDGE-ENFANT-TERRIBLE
+  Build name: ENFANT TERRIBLE
+  Platform: Glock 26 V MOS, 9x19mm
+  Character: Gillian Stockbridge / Lana Erika Delhardt
+  Status: WORKING LOCK / SOURCE-READY
+  Detail source: PW_Enfant_TerrIBLE_Weapon_Presentation_Note_2026-05-08_rev1.txt
+
+PW-WPN-CHRIS-LAST-RESORT
+  Build name: LAST RESORT
+  Platform: M16A4 with M203
+  Character: Christopher "Chris" Carl Haywood
+  Status: NAME / PLATFORM LOCKED; full configuration pending
+  Detail source: LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt
+
+PW-WPN-CHRIS-SAVING-GRACE
+  Build name: SAVING GRACE
+  Platform: M1911A1, .45 ACP
+  Character: Christopher "Chris" Carl Haywood
+  Status: NAME / PLATFORM LOCKED; full configuration pending
+  Detail source: LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt
+  Correction: replaces erroneous SIG P226 association
+
+PW-WPN-CHRIS-HASTA-LA-VISTA
+  Build name: ¡HASTA LA VISTA!
+  Platform: DynaCal Remington 870 Tac-14 TACS II Custom, 12 gauge
+  Character: Christopher "Chris" Carl Haywood; inherited from Frank Manola
+  Status: CORE BUILD LOCKED; implementation flags remain
+  Detail source: HASTA_LA_VISTA_Build_Spec_rev1.txt
+
+PW-WPN-MANSELL-EXTREME-PREJUDICE
+  Build name: EXTREME PREJUDICE
+  Platform: CheyTac M200 Intervention, .408 CheyTac
+  Character: Lawrence "Rip" Mansell / CRIMSON THREE
+  Status: CORE IDENTITY LOCKED; exact configuration pending
+  Placement: Riptide Red campaign finale
+  Detail source: EXTREME_PREJUDICE_Build_Spec_rev1.txt
+
+--------------------------------------------------------------------------------
+2. RECOVERY-STATUS NAMED IDENTITIES
+--------------------------------------------------------------------------------
+
+PW-WPN-PACER-HIGHER-STANDARD
+  Build name: HIGHER STANDARD
+  Character: Gregory David Allen "Pacer" — senior NAF leader
+  Platform: NOT RECOVERED
+  Campaign: Game 4 continuity
+  Status: NAME / OWNER CONFIRMED; platform/placement recovery required
+  Historical alias: PW-WPN-UNRESOLVED-HIGHER-STANDARD (retired)
+  Owner source: PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-RIVER-EVEN-FLOW
+  Build name: EVEN FLOW
+  Character: Dalton Maynard Crane "River" — NAF second-in-command
+  Platform: NOT RECOVERED
+  Campaign: Game 4 continuity
+  Status: NAME / OWNER CONFIRMED; platform/placement recovery required
+  Historical alias: PW-WPN-UNRESOLVED-EVEN-FLOW (retired)
+  Owner source: PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-STATIC-HARDWARE-INTERRUPT
+  Build name: HARDWARE INTERRUPT
+  Character: Dylan Joseph Peretti "Static" — NAF third-in-command
+  Platform: NOT RECOVERED
+  Campaign: Game 4 continuity
+  Status: NAME / OWNER CONFIRMED; platform/placement recovery required
+  Historical alias: PW-WPN-UNRESOLVED-HARDWARE-INTERRUPT (retired)
+  Owner source: PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-SUNNY-SILVER-LINING
+  Build name: SILVER LINING
+  Character: Cheryl Lynn Vaughn "Sunny" — senior NAF intelligence figure
+  Platform: NOT RECOVERED
+  Campaign: Game 4 continuity
+  Status: NAME / OWNER CONFIRMED; platform/placement recovery required
+  Historical alias: PW-WPN-UNRESOLVED-SILVER-LINING (retired)
+  Owner source: PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-HAZZARD-DANGER-CLOSE
+  Build name: DANGER CLOSE
+  Character: Jefferson Lee Davis "Hazzard" — NAF explosives / area-denial specialist
+  Platform: NOT RECOVERED
+  Campaign: Game 4 continuity
+  Status: NAME / OWNER CONFIRMED; platform/placement recovery required
+  Historical alias: PW-WPN-UNRESOLVED-DANGER-CLOSE (retired)
+  Note: one of two Hazzard named builds (see CRISIS MANAGEMENT)
+  Owner source: PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-HAZZARD-CRISIS-MANAGEMENT
+  Build name: CRISIS MANAGEMENT
+  Character: Jefferson Lee Davis "Hazzard" — NAF explosives / area-denial specialist
+  Platform: NOT RECOVERED
+  Campaign: Game 4 continuity
+  Status: NAME / OWNER CONFIRMED; platform/placement recovery required
+  Historical alias: PW-WPN-UNRESOLVED-CRISIS-MANAGEMENT (retired)
+  Note: one of two Hazzard named builds (see DANGER CLOSE)
+  Owner source: PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-LEDGER-KILLING-JOKE
+  Build name: KILLING JOKE
+  Character: Ledger
+  Platform: NOT RECOVERED
+  Campaign: exact installment/source placement not recovered
+  Status: NAME / OWNER CONFIRMED; full specification recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-LEDGER-PUNCHLINE
+  Build name: PUNCHLINE
+  Character: Ledger
+  Platform: NOT RECOVERED
+  Campaign: exact installment/source placement not recovered
+  Status: NAME / OWNER CONFIRMED; full specification recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-AFANASYEV-EASTERN-PROMISE
+  Build name: EASTERN PROMISE
+  Character: Kirill Afanasyev
+  Platform: NOT RECOVERED
+  Campaign / game: NOT RECOVERED
+  Status: NAME / OWNER CONFIRMED; full specification recovery required
+  Spelling note: normalizes supplied "EQSTERN PROMISE"
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-WAR-WITHIN-SUCKER-PUNCH
+  Build name: SUCKER PUNCH
+  Character: Mark “Skidrow” Champlin
+  Platform: NOT RECOVERED
+  Campaign: War Within DLC
+  Placement: final hotel escape in SIC SEMPER TYRANNIS, after the VIATECH ’31 assassination
+  Player availability: temporary mission-only pickup during the final break-contact / escape
+  Status: NAME / OWNER / CAMPAIGN CONFIRMED; platform recovery required
+  Owner/placement source: dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Canon_Correction_2026-07-21_rev1.txt
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+PW-WPN-HOWLER-LONG-CALL
+  Build name: LONG CALL
+  Character: Howler
+  Platform: NOT RECOVERED
+  Campaign: Fire Team Delta continuity; exact first-use game/mission not recovered
+  Status: NAME / OWNER CONFIRMED; full specification recovery required
+  Recovery source: PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt
+
+--------------------------------------------------------------------------------
+3. RECOVERY SLOTS / EXCLUSIONS FROM NAMED-BUILD COUNT
+--------------------------------------------------------------------------------
+Owner-linked named-build recovery slots whose exact names are not yet recovered:
+- Dingo — Fire Team Delta; exact build name/platform not recovered
+- Beaver — Fire Team Delta; exact build name/platform not recovered
+
+The following remain model-name weapons, generic drops, unnamed personal weapons,
+or mission equipment unless separately named later:
+- Frost's Cold Plunge Tikka T3x TAC A1
+- generic/security-post CheyTac M200 rifles
+- CRIMSON TWO's older personal M200 entry unless separately named
+- generic War Wolf / Atlas weapons
+- Chris's early Phalanx MCX Rattler work weapon
+- supporting-character sidearms whose only label is the model name
+- signature blades unless promoted into the named-firearm registry
+
+--------------------------------------------------------------------------------
+4. CURRENT COUNTS
+--------------------------------------------------------------------------------
+Named weapon identities in registry: 36
+Substantially specified / source-associated identities: 25
+Recovery-status identities with incomplete source details: 11
+  - of which owner-confirmed (NAF leadership resolution): 6
+  - of which owner-confirmed (Ledger x2, Afanasyev, Howler, Skidrow): 5
+  - of which owner not recovered: 0
+Uncounted owner-specific recovery slots with name not recovered: 2
+
+================================================================================
+END — GLOBAL NAMED WEAPON REGISTRY v2.8
+================================================================================
