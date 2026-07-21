@@ -1,23 +1,21 @@
 PROJECT WARRIORS — ONTOLOGY / CANON COMPENDIUM PATCH
-Generated: 2026-07-21
-Version: rev1 (amended after transcript recovery)
+Generated: 2026-07-22
+Version: rev1 (amended after War Within archive integration)
 Status: SOURCE-LANDED SYNTHESIS PATCH
 
 PURPOSE
-Compact roll-forward patch for working compendia. Durable source pages and the
-human-readable weapon registry remain controlling.
+Compact roll-forward patch for working compendia. Durable source pages, deltas, and
+the human-readable weapon registry remain controlling.
 
 01. CORE / TIMELINE
 - Ducky Game 1 = DO RIGHT, FEAR NONE.
 - Spook Game 1 = RIPTIDE RED.
 - Ducky's Maasvlakte approach / pre-finale mission = RETREAT, HELL.
-- ZERO HOUR is the current title of the former Hudson Overlook sequence; name
-  only, no chronology/content change.
+- ZERO HOUR is the current title of the former Hudson Overlook sequence; name only.
 - Game 4 begins roughly two years after Game 3.
 - War Within DLC partly overlaps Game 4.
-- A post-Game 4 reckoning, legitimate restoration election, and long unraveling
-  bridge approximately two to three years into The Collapse.
-- The playable Collapse campaign remains in the months before federal failure.
+- A post-Game 4 reckoning, legitimate restoration election, and long unraveling bridge
+  approximately two to three years into The Collapse.
 - Nightfall is last, roughly 15–20 years after Game 4 and after the limited
   China–Israel exchange / Scorched Crescent.
 
@@ -26,30 +24,35 @@ human-readable weapon registry remain controlling.
 - COMMON PICTURE — Ducky.
 - PERMANENT RECORD — Spook.
 - The Crodyn administration falls; Gillian Stockbridge reaches trial.
-- The successor government is legitimate but overwhelmed, not secretly villainous.
-- NAF/local armed governance, kingmaker remnants, and international humanitarian
-  need outpace recovery.
+- The successor government is legitimate but overwhelmed.
+- NAF/local armed governance, kingmaker remnants, and humanitarian need outpace recovery.
 
 03. WAR WITHIN
 - DLC protagonist: Nicholas Wayne Hawthorne / Croatoan.
-- VIATECH '31 assassination and death-or-capture ending remain.
+- Zale Jacobs is Nick's friend and fellow World War III Kill Devil Hills State Defense
+  Militia fighter; Dale Jacobs is retired transcription noise.
+- Recovered partial ladder: Kill Devil Hills/South Mills -> toxic tide/AFC-adjacent
+  work -> NAF contact/Ninth Ward induction -> NO WITNESSES -> Vanguard escalation /
+  DEAD MAN'S SWITCH -> GROUND ZERO -> SIC SEMPER TYRANNIS.
+- April 18, 2031 = current Ninth Ward / NAF induction anchor.
+- GROUND ZERO / Minneapolis occurs days before VIATECH ’31.
+- VIATECH ’31 finale: Thursday, September 11, 2031; 5:42 p.m. staging, 6:00 p.m.
+  doors, 7:00 p.m. Abernathy keynote.
+- The assassination is canonical; Hawthorne's death/capture status remains branch-
+  ambiguous in later campaigns.
 - DEAD BLOW = Hawthorne.
-- SUCKER PUNCH = Mark “Skidrow” Champlin; temporary final-hotel-escape pickup;
-  platform still unrecovered.
+- SUCKER PUNCH = Mark Redford “Skidrow” Champlin; suppressed Noveske N4 Ghetto
+  Blaster-style compact 5.56 PDW/SBR; temporary handoff during the finale.
 
 04. THE STORM / PROCELLA
-- Source recovery is complete enough to replace the prior placeholder.
 - Primary protagonist: Denis Nikolaevich Malinin / SAKHALIN.
 - Central faction: Procella.
-- Core lane: Russian Far East clandestine lifeline, littoral extraction,
-  weather/navigation sabotage, batteries, relays, and dead-system revival.
-- FURTHER EAST synchronizes with Spook Game 3 OUTER PORT in Tomakomai.
-- The overlap is asymmetrical: different pressure and knowledge, no duplicate.
+- Russian Far East clandestine lifeline, littoral extraction, weather/navigation
+  sabotage, batteries, relays, and dead-system revival.
+- FURTHER EAST synchronizes asymmetrically with Spook Game 3 OUTER PORT in Tomakomai.
 - Wider Storm dates and exact Nightfall consequences remain open.
-- Storm's opening mission concept currently uses SOUTH CULVERT, but that title is
-  already present in the Spook Game 3 ladder; rename required before hard lock.
-- Sakhalin may surface Kostropov/Parhelion-53 institutional residue later, but
-  must not own Frost's personal Cold Frontier 07 story.
+- Storm's opening mission concept uses SOUTH CULVERT, which conflicts with Spook Game 3;
+  rename required before hard lock.
 
 05. SPOOK GAME 3
 - DARK SKIES remains a working title candidate, not a final title lock.
@@ -57,24 +60,24 @@ human-readable weapon registry remain controlling.
 - Trevor Gartner spelling is canonical.
 
 06. HOME DEFENSE
-- NATO survives but becomes increasingly European-led as dependable US strategic
-  participation declines.
+- NATO survives but becomes increasingly European-led.
 - Europe develops VIGILAN/autonomous defense capacity.
-- Israel survives through strategic autonomy and hardened PANDORA-oriented
-  continuity planning and becomes a regional counterweight to Chinese expansion.
+- Israel survives through strategic autonomy and hardened continuity planning and
+  becomes a regional counterweight to Chinese expansion.
 - Exact Home Defense placement remains open.
 
 07. NAMED WEAPONS
-- Registry advances to v2.8.
-- Adds PW-WPN-SAKHALIN-DEAD-RECKONING:
-  AK-105, 5.45x39mm, working source-ready Storm build.
+- Registry base v2.8 plus War Within delta projects v2.9.
+- SUCKER PUNCH moves from recovery status to substantially specified.
+- DEAD RECKONING remains Sakhalin's AK-105 Storm build.
 - “BUILD 13” is not a global ID.
 
 08. ONTOLOGY GOVERNANCE
-- Locally materialized/validated timeline rev2.1: 7 eras / 53 events / 20 tracks / 13 sync points; repository representation is the deterministic patch until rev1 is landed.
-- Missing world-event schema remains supplied.
-- Weapon schema rev3 points to registry v2.8.
-- Old ontology revisions are not safe to retire until merge, source-path
-  spot-check, and downstream migration.
+- Base materialized timeline rev2.1 remains represented by the deterministic patch.
+- War Within delta produces validated rev2.2: 7 eras / 57 events / 20 tracks /
+  14 sync points.
+- Weapon schema rev3 recognizes registry base v2.8 plus the v2.9 delta projection.
+- Old ontology revisions are not safe to retire until merge, source-path spot-check,
+  and downstream migration.
 
 END
