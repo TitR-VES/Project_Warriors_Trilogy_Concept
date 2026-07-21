@@ -1,0 +1,106 @@
+PROJECT WARRIORS — ONTOLOGY GAP AND CONSISTENCY AUDIT
+Generated: 2026-07-21
+Version: rev1
+Status: COMPLETED PASS / MERGE REVIEW REQUIRED
+
+SCOPE
+- uploaded pw_world_event_timeline_rev1.yaml
+- uploaded pw_weapon_build.schema.yaml
+- current main branch source pages, registries, compendia, and PR state
+
+EXECUTIVE RESULT
+The ontology pair was not safe to treat as current canon. The corrected landing is source-first: durable correction pages and named-weapon registry v2.7 control, while the YAML layer remains a machine projection.
+
+CRITICAL FINDINGS
+1. Ducky Game 1 was incorrectly assigned RIPTIDE RED.
+2. Game 4 was placed after Nightfall, reversing the macro chronology.
+3. Game 4 was compressed into one vague track despite three source-landed campaign identities.
+4. War Within was falsely marked installment/protagonist TBD.
+5. Nightfall lacked the China–Israel exchange / Scorched Crescent dependency.
+6. ZERO HOUR had not replaced Hudson Overlook as the current title.
+7. Storm was absent rather than represented as a source-recovery dependency.
+8. SUCKER PUNCH ownership and temporary mission availability were missing from the authoritative registry.
+9. The timeline referenced a world-event schema that did not exist.
+10. The weapon schema lacked placement/availability fields and failed to normalize one exact live registry status.
+
+CORRECTIONS LANDED
+- Ducky Game 1 = DO RIGHT, FEAR NONE.
+- Spook Game 1 = RIPTIDE RED.
+- Stable Zero Hour event ID retained; Hudson Overlook becomes historical title metadata.
+- Era order becomes Games 1–3 -> Game 4 -> The Collapse -> fragmentation -> Nightfall.
+- Game 4 starts roughly two years after Game 3.
+- War Within DLC partly overlaps Game 4.
+- The Collapse is roughly two years after Game 4 and precedes federal collapse by months.
+- Nightfall is last, roughly 15–20 years after Game 4 and after the limited nuclear exchange / Scorched Crescent.
+- Game 4 tracks split into COMMAND AUTHORITY, COMMON PICTURE, and PERMANENT RECORD.
+- Storm is preserved with SOURCE RECOVERY REQUIRED status and explicit Game 3/Nightfall dependencies.
+- War Within protagonist is Nicholas Wayne Hawthorne / Croatoan; American Guerrilla is retained as a working/source alias.
+- DEAD BLOW remains Hawthorne's locked build.
+- SUCKER PUNCH belongs to Mark “Skidrow” Champlin; it is temporarily available during the final hotel escape, while its platform remains unrecovered.
+- named_weapon_builds_v2_7.txt becomes the current registry.
+- weapon schema rev2 adds campaign refs, placement, availability, null/recovery rules, and complete status normalization.
+- missing world-event schema added.
+
+VALIDATION
+Materialized local timeline rev2:
+- YAML parse: PASS
+- eras: 7
+- events: 49
+- campaign tracks: 19
+- sync points: 12
+- duplicate IDs: 0
+- dangling event refs: 0
+- dangling track refs: 0
+- dangling era refs: 0
+- self references: 0
+- chronology graph edges: 56
+- chronology graph acyclic: PASS
+- events without source pointers: 0
+
+Weapon layer:
+- schema YAML parse: PASS
+- registry entries: 35
+- duplicate registry IDs: 0
+- exact registry status strings unmapped by schema rev2: 0
+- SUCKER PUNCH unresolved platform left uninvented: PASS
+
+REPOSITORY DELIVERY MODEL
+The branch lands:
+- a deterministic rev1 -> rev2 timeline correction overlay;
+- the missing world-event schema;
+- the revised weapon schema;
+- durable canon correction sources;
+- registry v2.7;
+- a compendium roll-forward patch;
+- this audit.
+
+A fully materialized single-file pw_world_event_timeline_rev2.yaml was generated and validated during the pass. The correction overlay remains the auditable repo representation until the rev1 source file itself is landed in the repository or the generated rev2 is imported directly.
+
+ADDITIONAL GOVERNANCE FINDING
+The root README still describes PR #13 and PR #14 as open dependencies. Both are merged, and the repository had no open pull requests at audit start. The README warning is stale and should be removed in a focused documentation cleanup.
+
+REMAINING LIVE DEPENDENCIES
+1. Storm controlling source recovery.
+2. SUCKER PUNCH platform/configuration.
+3. Exact Game 3 close date.
+4. Exact Game 4 calendar window.
+5. Exact The Collapse calendar window.
+6. Full nuclear-exchange sequence, target set, and fallout map.
+7. Pacer continuity reconciliation between older Game 4 and newer fragmentation/Nightfall material.
+8. Full War Within mission ladder beyond the locked protagonist/finale spine.
+9. Root README stale PR warning.
+10. Formal ontology-promotion policy.
+
+ARCHIVE-READINESS RULING
+The uploaded rev1 files are not ready for immediate deletion.
+
+Safe retirement requires:
+1. merge the ontology reconciliation PR;
+2. spot-check source paths and YAML on main;
+3. update downstream consumers to the rev2 correction set and registry v2.7;
+4. mark rev1 superseded;
+5. retain rev1 for comparison through at least one downstream consistency pass.
+
+Storm and the remaining live dependencies make a “fully absorbed / nothing left to recover” claim unsafe.
+
+END
