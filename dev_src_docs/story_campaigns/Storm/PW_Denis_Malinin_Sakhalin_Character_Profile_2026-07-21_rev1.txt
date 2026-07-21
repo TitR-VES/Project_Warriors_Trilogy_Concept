@@ -1,0 +1,111 @@
+PROJECT WARRIORS — DENIS NIKOLAEVICH MALININ / SAKHALIN
+Generated: 2026-07-21
+Version: rev1
+Status: WORKING CHARACTER SOURCE / DEVELOPMENT FRONT-RUNNER
+Campaign: Project Warriors: The Storm
+
+IDENTITY
+- Full name: Denis Nikolaevich Malinin.
+- Callsign: SAKHALIN.
+- Nationality: Russian.
+- Birthplace: Sovetskaya Gavan, Khabarovsk Krai.
+- Regional lane: Sovetskaya Gavan / Vanino coastal corridor.
+- Age: 39 in the 2028 development frame.
+- Younger sister: confirmed; details open.
+- Alignment: Procella.
+- Narrative role: playable-protagonist front-runner.
+
+CORE CONCEPT
+A Russian Far East littoral field operator whose background combines maritime
+reconnaissance-grade competence with years inside the region's failing technical
+and logistical skeleton. He can move people along freezing shorelines, revive a
+dead relay for one more transmission window, identify falsified weather systems,
+and fight when the route collapses.
+
+BACKGROUND SHAPE
+Denis is formed by distance, severe weather, maritime dependence, neglected
+infrastructure, and the habit of solving practical problems without expecting
+institutional rescue. His former service gives him coastal insertion/extraction,
+small-team reconnaissance, cold-water discipline, observation, navigation, and
+demolition familiarity. His post-service work in remote facilities, salvage,
+weather/navigation support, generators, batteries, relays, and shipping support
+gives him the systems literacy that distinguishes him from a generic operator.
+
+FAMILY TEXTURE
+- Father-direction: Nikolai Malinin, port electrician/maintenance/shipyard-adjacent
+  electrical hand.
+- Mother-direction: Yelena Malinina, school/medical/municipal continuity worker.
+- These parental occupations remain working directions rather than hard locks.
+- The family culture is practical endurance: fixing what can be fixed, distrusting
+  readiness theater, avoiding foolish risk, and continuing anyway.
+
+BREAK WITH THE REGIME
+The preferred break is cumulative rather than melodramatic. Denis sees weather,
+navigation, surveillance, and technical failures knowingly falsified or weaponized
+for state control, with civilians and local workers treated as acceptable loss.
+Exact incident remains open. His moral conclusion is practical: continuing to
+make the machine function means choosing what it does with that function.
+
+PROCELLA FUNCTION
+- validate coastal routes
+- prepare pickup and landing sites
+- escort defectors/refugees from inland handoff to shoreline extraction
+- restore temporary power and communications
+- recover batteries, fuel, and parts
+- corrupt or spoof weather/navigation data
+- sabotage logistics/surveillance precisely
+- decide when an extraction is still viable and when it has become a kill box
+
+PERSONALITY
+- quiet, concrete, restrained, observant
+- difficult to impress
+- protective through competence
+- not emotionally blank; contained
+- intolerant of preventable waste
+- not an ideological speech engine, glamorous assassin, or generic edgelord
+
+Voice rule:
+A Denis line should identify what failed, identify what still works, cut away
+illusion, or state the next move.
+
+Representative register:
+- “That station was killed by a liar, not by weather.”
+- “Route's still usable. Window isn't.”
+- “Take the battery. Leave the casing.”
+- “No heroics. Boats sink the same either way.”
+- “We don't need a miracle. We need ten quiet minutes.”
+
+VISUAL LANE
+- lean, durable, compactly strong
+- ash-brown short practical hair
+- rough stubble/short beard
+- grey-blue or steel-blue eyes
+- weathered light skin and rough working hands
+- dark maritime workwear and technical outerwear
+- muted charcoal/slate/olive-grey palette
+- low-profile field load; tools and comms visible alongside ammunition
+- no glossy PMC styling, cyberpunk resistance aesthetic, or operator cosplay
+
+ALBATROSS DYNAMIC
+Albatross is strategist, trust broker, route architect, and pattern reader.
+Denis is field executor, route mechanic, extraction lead, and sabotage hand.
+
+Rule:
+Albatross sees the map. Denis walks the route.
+
+COLD FRONTIER BOUNDARY
+Denis may later encounter Kostropov/Parhelion-53 institutional residue through
+Procella. He does not know or own Frost's personal Cold Frontier 07 history.
+
+OPEN
+- exact service designation/rank
+- exact break incident
+- sister's name and adult circumstances
+- exact parents' occupations
+- detailed sidearm/tool package
+- final visual reference rendering
+
+SOURCE
+Project_Warriors_The_Storm_Thread_Transcript_2026-07-21.txt
+
+END
