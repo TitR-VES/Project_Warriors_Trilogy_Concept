@@ -1,199 +1,90 @@
 # ==============================================================================
 # PROJECT WARRIORS — ONTOLOGY SCHEMA: NAMED WEAPON BUILD
-# pw_weapon_build.schema.yaml — rev3 (2026-07-21)
+# pw_weapon_build.schema.yaml — rev3 (amended 2026-07-22)
 # ==============================================================================
 # Changes:
-# - Registry authority advanced to named_weapon_builds_v2_8.txt.
+# - Registry base authority remains named_weapon_builds_v2_8.txt.
+# - War Within delta pw_war_within_rev2_2.delta.yaml produces registry v2.9.
 # - Added campaign_refs, placement, and player-availability fields.
-# - Added owner+campaign-confirmed recovery status for SUCKER PUNCH.
 # - Completed normalization for exact registry status strings.
 # - Added explicit null/recovery and cross-ontology validation rules.
-# - Reaffirmed stable-ID governance: provisional BUILD 13 is not a global identifier.
 # ==============================================================================
 meta:
-  generated: '2026-07-21'
+  generated: '2026-07-22'
   revision: rev3
-  supersedes: pw_weapon_build.schema.yaml rev2
-  authoritative_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
-  legacy_detail_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
-  governance: The named-weapon registry remains human-authoritative until the ontology layer is explicitly
-    promoted. Never infer missing owner, platform, placement, or availability values. Preserve exact registry
-    status wording in status_verbatim.
+  supersedes: pw_weapon_build.schema.yaml rev1
+  authority:
+    current_registry_base: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
+    current_registry_delta: dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
+    projected_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+    legacy_detail_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
 schema:
-  entity: weapon_build
-  id_pattern: PW-WPN-{OWNER}-{NAME}
+  entity: named_weapon_build
+  id_pattern: '^PW-WPN-[A-Z0-9-]+$'
   id_rules:
-  - Stable ID; never reuse or renumber.
-  - Historical or provisional BUILD ordinals are aliases only, never global IDs.
-  - Retired IDs are kept as historical_aliases.
-  - A correction to owner association may require a new stable ID plus retention of the retired ID as
-    an alias.
+    - Stable IDs are authoritative; ordinal BUILD labels are historical or provisional aliases only.
+    - A provisional BUILD number must never be promoted into a cross-project identifier.
   fields:
-    id:
-      type: string
-      required: true
-      description: Stable project-wide identifier.
-    build_name:
-      type: string
-      required: true
-      description: Canonical build name, ASCII-normalized, all caps.
-    display_name:
-      type: string
-      required: false
-      description: Rendered name when punctuation or diacritics differ from build_name.
+    id: {type: string, required: true}
+    build_name: {type: string, required: true}
     owner:
-      type: object
+      type: [string, 'null']
       required: true
-      nullable: true
-      description: Owning character. Use null only when owner recovery remains required; do not create
-        a placeholder person.
-      fields:
-        name:
-          type: string
-          required: true
-        callsign:
-          type: string
-          required: false
-        character_id:
-          type: string
-          required: false
-          default: null
-        note:
-          type: string
-          required: false
+    callsign: {type: [string, 'null'], required: false}
     platform:
-      type: object
-      required: false
-      nullable: true
-      description: Use null when the controlling platform has not been recovered.
-      fields:
-        model:
-          type: string
-          required: true
-        caliber:
-          type: string
-          required: false
-        note:
-          type: string
-          required: false
-    status:
-      type: enum
+      type: [string, 'null']
       required: true
-      description: Normalized machine status. This is deliberately lossy; status_verbatim remains controlling.
-      values:
-      - locked
-      - locked_core
-      - working_lock
-      - name_platform_locked
-      - named_identity
-      - name_owner_confirmed
-      - name_campaign_confirmed
-      - name_owner_campaign_confirmed
-      - source_recovery_required
-    status_verbatim:
-      type: string
-      required: true
-      description: Exact status line from the controlling registry version.
+    caliber: {type: [string, 'null'], required: false}
     campaign_refs:
       type: list
       items: string
       required: false
-      description: Stable campaign-track ontology IDs where available.
-    campaign:
-      type: string
+    mission_refs:
+      type: list
+      items: string
       required: false
-      deprecated: true
-      description: Legacy free-text campaign field retained for backward compatibility.
     placement:
-      type: object
+      type: [string, object, 'null']
       required: false
-      description: Mission/act/scene placement when explicitly recovered.
-      fields:
-        mission:
-          type: string
-          required: false
-        act:
-          type: string
-          required: false
-        sequence:
-          type: string
-          required: false
-        note:
-          type: string
-          required: false
-    availability:
-      type: object
+    player_availability:
+      type: [string, object, 'null']
       required: false
-      description: How and when the player can access the build.
-      fields:
-        mode:
-          type: enum
-          values:
-          - persistent
-          - mission_only
-          - temporary_pickup
-          - npc_only
-          - unknown
-        window:
-          type: string
-          required: false
-        note:
-          type: string
-          required: false
-    retirement:
-      type: string
-      required: false
-      description: In-fiction retirement point, if any.
-    historical_aliases:
+    status:
+      type: enum
+      values:
+        - locked
+        - locked_core
+        - working_lock
+        - name_platform_locked
+        - named_identity
+        - name_owner_confirmed
+        - name_campaign_confirmed
+        - name_owner_campaign_confirmed
+        - source_recovery_required
+      required: true
+    unresolved_fields:
       type: list
       items: string
       required: false
     sources:
-      type: object
+      type: list
+      items: string
       required: true
-      description: Per-entry source pointers, using durable repository paths where possible.
-      fields:
-        detail:
-          type: string
-          required: false
-        variant:
-          type: string
-          required: false
-        correction:
-          type: string
-          required: false
-        owner:
-          type: string
-          required: false
-        placement:
-          type: string
-          required: false
-        recovery:
-          type: string
-          required: false
-    recovery_required:
+    historical_aliases:
       type: list
       items: string
       required: false
-      description: Fields awaiting source recovery. Must be absent or empty for locked entries unless
-        a lower-level implementation flag remains.
-    ui_exceptions:
-      type: string
-      required: false
-    notes:
-      type: string
-      required: false
-    purge_on_sight:
-      type: list
-      items: string
-      required: false
+    notes: {type: string, required: false}
   validation_rules:
-  - owner=null requires owner in recovery_required.
-  - platform=null requires platform in recovery_required unless status is named_identity.
-  - mission_only or temporary_pickup availability requires an explicit window or note.
-  - locked status requires owner and platform to be non-null.
-  - campaign_refs must resolve against the world-event timeline campaign_tracks set.
-  - status_verbatim must exactly match a normalization-map key or be explicitly flagged for review.
+    - IDs must be unique in the authoritative registry projection.
+    - build_name, owner, platform, and campaign may be null only when status explicitly permits recovery.
+    - Null values must be paired with unresolved_fields or an explanatory note.
+    - Temporary mission pickups must declare player_availability and must not be inferred as persistent inventory.
+    - Named builds with the same or similar wording remain separate unless a source explicitly merges them.
+    - DEAD BLOW and DEADBOLT are distinct identities.
+    - A stable owner correction supersedes unresolved-owner placeholders without changing the build ID unless migration is explicitly authorized.
+    - Exact status strings in the human-readable registry must map through status_normalization.
+    - Registry deltas supersede conflicting base-registry fields only for the explicitly matched stable ID.
 status_normalization:
   LOCKED: locked
   LOCKED; retired Game 2 Act II after recognition beat: locked
