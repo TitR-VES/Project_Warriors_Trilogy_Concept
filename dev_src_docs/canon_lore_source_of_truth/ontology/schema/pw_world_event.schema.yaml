@@ -1,0 +1,111 @@
+# ==============================================================================
+# PROJECT WARRIORS — ONTOLOGY SCHEMA: WORLD EVENT TIMELINE
+# pw_world_event.schema.yaml — rev1 (2026-07-21)
+# ==============================================================================
+# This missing companion schema is added because the rev1 timeline declared it
+# as a dependency, but neither the uploaded ontology pair nor the audited repo
+# contained the file.
+# ==============================================================================
+meta:
+  generated: '2026-07-21'
+  revision: rev1
+  governance: This schema validates the Project Warriors event timeline as a graph of eras, events, campaign
+    tracks, and synchronization dependencies. Relative chronology is preferred over invented absolute
+    dates.
+schema:
+  document: world_event_timeline
+  top_level_required:
+  - meta
+  - eras
+  - events
+  - campaign_tracks
+  - sync_points
+  status_values:
+  - locked
+  - confirmed
+  - working
+  - provisional
+  - flagged
+  - sidebar_confirmed
+  - superseded
+  - source_recovery_required
+  id_patterns:
+    era: PW-ERA-{NAME}
+    event: PW-EVT-{NAME}
+    campaign_track: PW-TRK-{NAME}
+    sync_point: PW-SYN-{NAME}
+  era_fields:
+    id: {type: string, required: true}
+    name: {type: string, required: true}
+    sequence: {type: integer, required: true, minimum: 1}
+    boundary_start: {type: date_anchor, required: true}
+    boundary_end: {type: date_anchor, required: true}
+    status: {type: status, required: true}
+    notes: {type: string, required: false}
+  event_fields:
+    id: {type: string, required: true}
+    name: {type: string, required: true}
+    historical_titles: {type: list, items: string, required: false}
+    era: {type: era_ref, required: true}
+    date: {type: date_anchor, required: true}
+    location: {type: string, required: false}
+    actors: {type: list, items: string, required: false}
+    ordering: {type: ordering_constraints, required: false}
+    relations: {type: relation_map, required: false}
+    depicted_in: {type: list, items: campaign_track_ref, required: false}
+    status: {type: status, required: true}
+    notes: {type: string, required: false}
+    sources: {type: list, items: string, required: true}
+  campaign_track_fields:
+    id: {type: string, required: true}
+    title: {type: string, required: true}
+    historical_titles: {type: list, items: string, required: false}
+    historical_aliases: {type: list, items: string, required: false}
+    installment: {type: string, required: true}
+    protagonist:
+      type: [string, 'null']
+      required: true
+    timeframe: {type: object, required: true}
+    runs_parallel_with: {type: list, items: campaign_track_ref, required: false}
+    status: {type: status, required: true}
+    recovery_required: {type: list, items: string, required: false}
+    notes: {type: string, required: false}
+    sources: {type: list, items: string, required: false}
+  sync_point_fields:
+    id: {type: string, required: true}
+    name: {type: string, required: true}
+    kind: {type: string, required: true}
+    event: {type: event_ref, required: false}
+    tracks: {type: list, items: campaign_track_ref, required: true}
+    depends_on_events: {type: list, items: event_ref, required: false}
+    description: {type: string, required: true}
+    retcon_sensitivity:
+      type: enum
+      values: [low, moderate, high, critical]
+      required: true
+    status: {type: status, required: true}
+  date_anchor:
+    one_of:
+    - {exact: ISO-8601 date or year, basis: optional string}
+    - {window: string, basis: optional string}
+    - {relative: string, anchor: event_ref, constraints: optional list}
+    - {era_only: string, basis: optional string}
+    - {event: event_ref}
+    - {tbd: string or null}
+    rule: Do not pre-compute a relative date into an absolute date unless explicitly locked.
+  ordering_constraints:
+    fields:
+      after: {type: list, items: event_ref}
+      before: {type: list, items: event_ref}
+      concurrent_with: {type: list, items: event_ref}
+  validation_rules:
+  - All IDs must be unique within their entity set.
+  - Era sequence values must be unique and strictly increasing.
+  - Every era, event, track, and sync-point reference must resolve.
+  - No campaign track may run parallel with itself.
+  - No event may be ordered before or after itself.
+  - Historical titles and aliases never replace the canonical title or stable ID.
+  - source_recovery_required entries must list recovery_required fields or explain the missing source in notes.
+  - A name-only mission retitle preserves chronology and event identity unless an explicit ID migration is authorized.
+  - The graph must remain acyclic when only after/before edges are considered.
+  - Absolute dates are permitted only when a lock source exists or the date is otherwise explicitly canonized.
