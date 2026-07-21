@@ -242,7 +242,7 @@ PW-WPN-STOCKBRIDGE-ENFANT-TERRIBLE
   Platform: Glock 26 V MOS, 9x19mm
   Character: Gillian Stockbridge / Lana Erika Delhardt
   Status: WORKING LOCK / SOURCE-READY
-  Detail source: PW_Enfant_TerrIBLE_Weapon_Presentation_Note_2026-05-08_rev1.txt
+  Detail source: PW_Enfant_Terrible_Weapon_Presentation_Note_2026-05-08_rev1.txt
 
 PW-WPN-CHRIS-LAST-RESORT
   Build name: LAST RESORT
