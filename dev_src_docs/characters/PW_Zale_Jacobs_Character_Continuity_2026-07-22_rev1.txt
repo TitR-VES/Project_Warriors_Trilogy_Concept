@@ -1,0 +1,33 @@
+PROJECT WARRIORS — ZALE JACOBS CHARACTER CONTINUITY
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED NAME / RELATIONSHIP CORRECTION
+
+LOCKED
+- Canonical name: ZALE JACOBS.
+- Zale is Nicholas “Nick” Hawthorne's friend.
+- Zale and Nick fought together during World War III in the Kill Devil Hills State
+  Defense Militia.
+- Their shared service predates Hawthorne's AFC-adjacent work and NAF turn.
+
+PRESERVED EARLIER ATTRIBUTES
+Unless separately revised, attributes previously attached to the erroneous Dale entry
+remain attached to Zale:
+- Triangle, North Carolina connection.
+- Former Army National Guard background.
+- Tracker / hunter field competence.
+
+SUPERSESSION
+- “Dale Jacobs” in PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt is
+  a transcription/name error.
+- Do not create separate Dale and Zale characters.
+
+OPEN
+- Zale's exact role and survival status in the 2031 campaign present.
+- Whether Zale appears directly, in flashback, by file, or through dialogue.
+
+SOURCE
+- Owner adjudication, 2026-07-22.
+- PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt.
+
+END
