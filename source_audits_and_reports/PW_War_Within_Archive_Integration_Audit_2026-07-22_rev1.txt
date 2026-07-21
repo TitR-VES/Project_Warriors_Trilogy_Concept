@@ -1,0 +1,88 @@
+PROJECT WARRIORS — WAR WITHIN ARCHIVE INTEGRATION AUDIT
+Generated: 2026-07-22
+Version: rev1
+Status: COMPLETED DELTA PASS / MERGE REVIEW REQUIRED
+
+SCOPE
+- war_within_permanent_record_thread_archive_2026-07-21.txt
+- existing War Within / American Guerrilla source page
+- PR #25 ontology and named-weapon layer
+- Game 4 / Permanent Record synchronization dependencies
+
+RESULT
+The archive does not provide a complete numbered mission ladder, but it resolves enough
+of the campaign spine to retire “full War Within mission ladder” as an undifferentiated
+source-recovery gap. The remaining gap is narrower: final numbering, several middle
+mission titles, and exact DEAD MAN'S SWITCH placement.
+
+RECOVERED PARTIAL LADDER
+- Kill Devil Hills / South Mills wartime foundation
+- toxic-tide / AFC-adjacent breakpoint
+- NAF contact and Ninth Ward induction ladder
+- NO WITNESSES Vanguard threshold
+- late-spring/summer 2031 escalation
+- DEAD MAN'S SWITCH working anchor
+- GROUND ZERO / Minneapolis shortly before VIATECH
+- SIC SEMPER TYRANNIS finale
+
+HIGH-IMPORTANCE CORRECTIONS
+1. ZALE JACOBS
+   Zale, not Dale, is Nick Hawthorne's friend and fellow Kill Devil Hills State
+   Defense Militia fighter. Do not split the identity.
+
+2. VIATECH ’31
+   - conference window: September 8–11, 2031
+   - finale: Thursday, September 11, 2031
+   - 5:42 p.m. staging anchor
+   - 6:00 p.m. doors/reception/security buildup
+   - 7:00 p.m. Abernathy keynote
+   - Crodyn-era National War on Terror Day context
+
+3. SUCKER PUNCH
+   Platform gap resolved: Mark Redford “Skidrow” Champlin's suppressed Noveske N4
+   Ghetto Blaster-style compact 5.56 PDW/SBR. It is temporarily handed to Croatoan
+   after Skidrow is mortally wounded. Exact minor configuration remains open.
+
+4. ENDING GOVERNANCE
+   The assassination is canonical. Later continuity must not select whether Hawthorne
+   died or was captured unless a future owner adjudication selects a branch.
+
+5. CROSS-CAMPAIGN ORDER
+   GROUND ZERO -> VIATECH ’31 -> Permanent Record Chicago/Ledger. This permits Command
+   Authority and Permanent Record to reference the attack while preserving finale
+   ambiguity.
+
+DELIVERY MODEL
+PR #25 retains its existing rev2.1 base projection and named-weapon registry v2.8, then
+lands pw_war_within_rev2_2.delta.yaml as the auditable incremental correction. The full
+rev2.2 timeline and fully rolled registry v2.9 were materialized and validated locally
+as handoff artifacts.
+
+LOCAL VALIDATION
+Timeline rev2.2:
+- YAML parse: PASS
+- eras: 7
+- events: 57
+- campaign tracks: 20
+- sync points: 14
+- duplicate IDs: 0
+- dangling references: 0
+- graph acyclic: PASS
+- events without source pointers: 0
+
+Registry v2.9:
+- named identities: 36
+- duplicate stable IDs: 0
+- substantially specified/source-associated: 26
+- recovery-status identities: 10
+- unmapped live status strings: 0
+
+REMAINING WAR WITHIN DEPENDENCIES
+- final mission numbering and unrecovered middle titles
+- exact DEAD MAN'S SWITCH placement/treatment
+- exact playable format of South Mills and other wartime recollections
+- Hawthorne finale sidearm
+- final Bruiser revolver specification
+- any future canonical ending selection
+
+END
