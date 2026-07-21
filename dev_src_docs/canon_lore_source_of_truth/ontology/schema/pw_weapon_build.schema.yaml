@@ -1,49 +1,85 @@
 # ==============================================================================
 # PROJECT WARRIORS — ONTOLOGY SCHEMA: NAMED WEAPON BUILD
-# pw_weapon_build.schema.yaml — rev2 (2026-07-21)
+# pw_weapon_build.schema.yaml — rev3 (2026-07-21)
+# ==============================================================================
+# Changes:
+# - Registry authority advanced to named_weapon_builds_v2_8.txt.
+# - Added campaign_refs, placement, and player-availability fields.
+# - Added owner+campaign-confirmed recovery status for SUCKER PUNCH.
+# - Completed normalization for exact registry status strings.
+# - Added explicit null/recovery and cross-ontology validation rules.
+# - Reaffirmed stable-ID governance: provisional BUILD 13 is not a global identifier.
 # ==============================================================================
 meta:
   generated: '2026-07-21'
-  revision: rev2
-  supersedes: pw_weapon_build.schema.yaml rev1
-  authoritative_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_7.txt
+  revision: rev3
+  supersedes: pw_weapon_build.schema.yaml rev2
+  authoritative_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
   legacy_detail_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
-  governance: The named-weapon registry remains human-authoritative until the ontology layer is explicitly promoted. Never infer missing owner, platform, placement, or availability values. Preserve exact registry status wording in status_verbatim.
+  governance: The named-weapon registry remains human-authoritative until the ontology layer is explicitly
+    promoted. Never infer missing owner, platform, placement, or availability values. Preserve exact registry
+    status wording in status_verbatim.
 schema:
   entity: weapon_build
   id_pattern: PW-WPN-{OWNER}-{NAME}
   id_rules:
   - Stable ID; never reuse or renumber.
-  - Historical BUILD 01-12 ordinals are aliases only, never global IDs.
+  - Historical or provisional BUILD ordinals are aliases only, never global IDs.
   - Retired IDs are kept as historical_aliases.
-  - A correction to owner association may require a new stable ID plus retention of the retired ID as an alias.
+  - A correction to owner association may require a new stable ID plus retention of the retired ID as
+    an alias.
   fields:
-    id: {type: string, required: true, description: Stable project-wide identifier.}
-    build_name: {type: string, required: true, description: Canonical build name, ASCII-normalized, all caps.}
-    display_name: {type: string, required: false, description: Rendered name when punctuation or diacritics differ from build_name.}
+    id:
+      type: string
+      required: true
+      description: Stable project-wide identifier.
+    build_name:
+      type: string
+      required: true
+      description: Canonical build name, ASCII-normalized, all caps.
+    display_name:
+      type: string
+      required: false
+      description: Rendered name when punctuation or diacritics differ from build_name.
     owner:
       type: object
       required: true
       nullable: true
-      description: Use null only when owner recovery remains required; do not create a placeholder person.
+      description: Owning character. Use null only when owner recovery remains required; do not create
+        a placeholder person.
       fields:
-        name: {type: string, required: true}
-        callsign: {type: string, required: false}
-        character_id: {type: string, required: false, default: null}
-        note: {type: string, required: false}
+        name:
+          type: string
+          required: true
+        callsign:
+          type: string
+          required: false
+        character_id:
+          type: string
+          required: false
+          default: null
+        note:
+          type: string
+          required: false
     platform:
       type: object
       required: false
       nullable: true
       description: Use null when the controlling platform has not been recovered.
       fields:
-        model: {type: string, required: true}
-        caliber: {type: string, required: false}
-        note: {type: string, required: false}
+        model:
+          type: string
+          required: true
+        caliber:
+          type: string
+          required: false
+        note:
+          type: string
+          required: false
     status:
       type: enum
       required: true
-      description: Normalized machine status. status_verbatim remains controlling.
+      description: Normalized machine status. This is deliberately lossy; status_verbatim remains controlling.
       values:
       - locked
       - locked_core
@@ -54,42 +90,103 @@ schema:
       - name_campaign_confirmed
       - name_owner_campaign_confirmed
       - source_recovery_required
-    status_verbatim: {type: string, required: true, description: Exact status line from the controlling registry.}
-    campaign_refs: {type: list, items: string, required: false, description: Stable campaign-track ontology IDs.}
-    campaign: {type: string, required: false, deprecated: true, description: Legacy free-text campaign field.}
+    status_verbatim:
+      type: string
+      required: true
+      description: Exact status line from the controlling registry version.
+    campaign_refs:
+      type: list
+      items: string
+      required: false
+      description: Stable campaign-track ontology IDs where available.
+    campaign:
+      type: string
+      required: false
+      deprecated: true
+      description: Legacy free-text campaign field retained for backward compatibility.
     placement:
       type: object
       required: false
+      description: Mission/act/scene placement when explicitly recovered.
       fields:
-        mission: {type: string, required: false}
-        act: {type: string, required: false}
-        sequence: {type: string, required: false}
-        note: {type: string, required: false}
+        mission:
+          type: string
+          required: false
+        act:
+          type: string
+          required: false
+        sequence:
+          type: string
+          required: false
+        note:
+          type: string
+          required: false
     availability:
       type: object
       required: false
+      description: How and when the player can access the build.
       fields:
         mode:
           type: enum
-          values: [persistent, mission_only, temporary_pickup, npc_only, unknown]
-        window: {type: string, required: false}
-        note: {type: string, required: false}
-    retirement: {type: string, required: false}
-    historical_aliases: {type: list, items: string, required: false}
+          values:
+          - persistent
+          - mission_only
+          - temporary_pickup
+          - npc_only
+          - unknown
+        window:
+          type: string
+          required: false
+        note:
+          type: string
+          required: false
+    retirement:
+      type: string
+      required: false
+      description: In-fiction retirement point, if any.
+    historical_aliases:
+      type: list
+      items: string
+      required: false
     sources:
       type: object
       required: true
+      description: Per-entry source pointers, using durable repository paths where possible.
       fields:
-        detail: {type: string, required: false}
-        variant: {type: string, required: false}
-        correction: {type: string, required: false}
-        owner: {type: string, required: false}
-        placement: {type: string, required: false}
-        recovery: {type: string, required: false}
-    recovery_required: {type: list, items: string, required: false}
-    ui_exceptions: {type: string, required: false}
-    notes: {type: string, required: false}
-    purge_on_sight: {type: list, items: string, required: false}
+        detail:
+          type: string
+          required: false
+        variant:
+          type: string
+          required: false
+        correction:
+          type: string
+          required: false
+        owner:
+          type: string
+          required: false
+        placement:
+          type: string
+          required: false
+        recovery:
+          type: string
+          required: false
+    recovery_required:
+      type: list
+      items: string
+      required: false
+      description: Fields awaiting source recovery. Must be absent or empty for locked entries unless
+        a lower-level implementation flag remains.
+    ui_exceptions:
+      type: string
+      required: false
+    notes:
+      type: string
+      required: false
+    purge_on_sight:
+      type: list
+      items: string
+      required: false
   validation_rules:
   - owner=null requires owner in recovery_required.
   - platform=null requires platform in recovery_required unless status is named_identity.
