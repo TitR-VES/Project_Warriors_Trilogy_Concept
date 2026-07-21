@@ -1,0 +1,60 @@
+PROJECT WARRIORS — NAMED WEAPON BUILD
+BUILD NAME: DEAD RECKONING
+Stable ID: PW-WPN-SAKHALIN-DEAD-RECKONING
+Generated: 2026-07-21
+Version: rev1
+Status: WORKING LOCK / SOURCE-READY
+Campaign: Project Warriors: The Storm
+User: Denis Nikolaevich Malinin / SAKHALIN
+
+PLATFORM
+AK-105 carbine, 5.45x39mm.
+
+ROLE
+Compact littoral field carbine for shoreline movement, extraction security,
+relay-site work, selective sabotage, boats, ladders, narrow utility interiors,
+and close-to-mid-range engagements in wet/cold conditions.
+
+CONFIGURATION — WORKING
+- compact weather-tolerant red-dot lane; Aimpoint Micro T-2-type direction
+- compact scout-pattern white light
+- plain adjustable two-point sling
+- standard practical side-folding stock
+- restrained modernized handguard
+- compact flash hider default
+- suppressor-capable mission-state option
+- no default visible laser/IR box
+- standard practical 5.45 magazines with real use texture
+
+VISUAL RULES
+- worn, maintained, and relied upon
+- honest finish wear and handling marks
+- minor functional retention/tape details permitted
+- no flashy paint, decorative rebellion, or rail-farm styling
+- the rifle must leave room for Denis's tools, batteries, and comms identity
+
+CHARACTER LOGIC
+The build is compact enough to carry while climbing, moving civilians, handling
+equipment, and transitioning in/out of small craft. It is a working carbine, not
+a vanity object.
+
+NAME LOGIC
+Dead reckoning is navigation without a trustworthy full picture. The name
+expresses Denis's campaign philosophy: keep course from fragments when official
+systems are dark, compromised, or lying.
+
+GOVERNANCE
+Stable ID controls. “BUILD 13” is only a provisional development alias and must
+not be used as a global identifier or allowed to collide with other ordinal
+labels.
+
+OPEN
+- exact optic/light manufacturer
+- exact suppressor
+- sidearm, knife, and full tool package
+- final art reference
+
+SOURCE
+Project_Warriors_The_Storm_Thread_Transcript_2026-07-21.txt
+
+END
