@@ -164,7 +164,6 @@ PW-TRK-G1-DO-RIGHT-FEAR-NONE.
 06. FILE / DELIVERY MODEL
 ================================================================================
 The branch now carries:
-- full materialized pw_world_event_timeline_rev2_1.yaml
 - deterministic rev1 -> rev2.1 correction patch
 - world-event schema
 - weapon schema rev3
@@ -173,7 +172,10 @@ The branch now carries:
   post-Game 4, Dark Skies sync, and RETREAT, HELL source pages
 - updated compendium synthesis and correction pages
 
-This replaces the prior overlay-only review limitation.
+The full rev2.1 projection was materialized and validated locally; because the
+original rev1 input is still not repository-landed, the branch retains the
+deterministic patch as the auditable repository representation and the full YAML
+as a separate handoff artifact.
 
 ================================================================================
 07. REMAINING LIVE DEPENDENCIES
