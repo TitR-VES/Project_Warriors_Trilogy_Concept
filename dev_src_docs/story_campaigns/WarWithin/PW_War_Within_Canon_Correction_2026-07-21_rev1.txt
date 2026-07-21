@@ -1,79 +1,99 @@
 PROJECT WARRIORS — WAR WITHIN CANON CORRECTION
-Generated: 2026-07-21
-Version: rev1
-Status: LOCKED CORRECTION / SUPERSESSION LAYER
+Generated: 2026-07-22
+Version: rev1 (amended from archive integration)
+Status: LOCKED CORRECTION / PARTIAL-LADDER SOURCE LANDING
 
 PURPOSE
-This page updates the July 6 American Guerrilla / Hawthorne source layer with the
-current War Within DLC title, chronology, finale, and named-weapon ownership.
+Update the July 21 correction with the recovered mission-development archive, exact
+VIATECH ’31 timing, Zale Jacobs correction, and SUCKER PUNCH platform.
 
 CAMPAIGN IDENTITY
 Canonical title: WAR WITHIN
 Format: DLC
 Historical / working alias: AMERICAN GUERRILLA
-Placement: partly parallel with Game 4, which begins roughly two years after Game 3.
+Placement: partly parallel with Game 4.
 
 PROTAGONIST
-Name: Nicholas Wayne Hawthorne
-Callsign: Croatoan
-Origin: Morehead City, North Carolina
-Civilian background:
-- marine-diesel mechanic in the Outer Banks / Beaufort-area coastal economy
-- practical marksman and militiaman
-- former AFC covert saboteur during World War III
+- Nicholas Wayne Hawthorne / CROATOAN.
+- Morehead City, North Carolina.
+- Marine-diesel mechanic; practical marksman and militiaman; former AFC covert
+  saboteur during World War III.
+- The toxic coastal spill kills his niece and harms his family, contributing to his
+  turn toward the New American Frontier and Vanguard.
 
-RADICALIZATION
-A badly managed toxic coastal spill kills Hawthorne's niece and harms his family.
-His disillusionment with federal authority combines with grief, practical competence,
-and the appeal of decisive action. He turns toward the New American Frontier and
-eventually joins Vanguard, the NAF's elite deniable sabotage and enforcement force.
+ZALE JACOBS CORRECTION
+- Zale Jacobs is Nick Hawthorne's friend and fellow Kill Devil Hills State Defense
+  Militia fighter from World War III.
+- “Dale Jacobs” in the July 6 source is transcription noise.
+- Do not create separate Dale and Zale characters.
 
-CAMPAIGN REVEAL
-The player gradually learns that the high-profile Vanguard operations are not
-isolated resistance actions. They form part of the NAF's broader anti-federal
-terror campaign.
+PARTIAL CAMPAIGN LADDER
+Recovered anchors, not final numbering:
+1. Kill Devil Hills / South Mills wartime foundation.
+2. toxic-tide civilian wound and AFC-adjacent work.
+3. Parker breakpoint and NAF contact ladder.
+4. Louisiana / Mississippi entry and Ninth Ward induction.
+5. NO WITNESSES Vanguard threshold.
+6. late-spring/summer 2031 Vanguard escalation.
+7. DEAD MAN'S SWITCH working anchor.
+8. GROUND ZERO / Minneapolis, early September 2031.
+9. SIC SEMPER TYRANNIS finale, September 11, 2031.
 
-FINALE
-Mission: SIC SEMPER TYRANNIS
-Event: public assassination of Lt. Col. Stanley Abernathy during Abernathy's
-keynote address at VIATECH '31 in Washington, DC.
-Immediate setting: the keynote venue and connected hotel escape route.
-Player ending:
-- Hawthorne dies after firing first; or
-- Hawthorne is captured after surrendering / being contained.
-The exact branch implementation may be refined, but death-or-capture is locked.
+The complete list, final numbering, and several middle-mission titles remain open.
+
+VIATECH ’31 / SIC SEMPER TYRANNIS
+- Event window: Monday, September 8 through Thursday, September 11, 2031.
+- Finale: Thursday, September 11, 2031.
+- Crodyn-era NATIONAL WAR ON TERROR DAY context.
+- 5:42 p.m. Eastern staging-room watch anchor.
+- 6:00 p.m. doors / reception / security buildup.
+- 78 MINUTES LATER transition.
+- 7:00 p.m. Abernathy keynote begins.
+- Keynote title:
+    LESSONS IN LEADERSHIP
+    What Emerging Strategic Tech Leaders Can Learn from Protecting and Serving
+    the American People.
+- Hawthorne and the Vanguard team publicly assassinate Lt. Col. Stanley Abernathy.
+
+STRIKE TEAM
+- Nicholas Wayne “Croatoan” Hawthorne.
+- Mark Redford “Skidrow” Champlin.
+- Joel David “Taurus” Holmes.
+- Ryan Paul “Bruiser” Skoglund.
+Support:
+- Theodore Douglas “Ted” Tegel — driver and service-cover support.
+
+ENDING GOVERNANCE
+- The assassination is canonical.
+- Player branches resolve to resistance/death or surrender/capture presentations.
+- Later continuity must not select Hawthorne's final status unless a future owner
+  decision canonizes one branch.
 
 NAMED WEAPONS
 DEAD BLOW
 - Owner: Nicholas Wayne Hawthorne / Croatoan.
 - Platform: black HK MP5SD-style suppressed 9x19mm SMG.
-- Status: locked.
-- It is not a prototype.
-- It remains distinct from DEADBOLT.
+- Locked; distinct from DEADBOLT.
 
 SUCKER PUNCH
-- Owner: Mark “Skidrow” Champlin.
-- Relationship: fellow Vanguard fighter.
-- Platform/configuration: not recovered.
-- Player availability: temporary mission-only access during the final hotel
-  escape after the assassination.
-- It is not Hawthorne's persistent named build.
+- Owner: Mark Redford “Skidrow” Champlin.
+- Platform: suppressed Noveske N4 Ghetto Blaster-style compact 5.56x45mm PDW/SBR.
+- Black finish, black PMAG-style magazines, compact reflex/collimator.
+- Skidrow does not carry his broader HK416 work rifle into the hotel.
+- Croatoan receives the weapon and magazine satchel after Skidrow is mortally wounded.
+- Temporary mission-only access; not Hawthorne's persistent named build.
+- Exact barrel length, suppressor model, optic model, and minor accessory details remain open.
 
-SUPERSEDES
-Conflicting wording in:
-- PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt regarding
-  placement “between Game 3 and Game 4.”
-- ontology rev1 fields marking War Within installment/protagonist TBD.
-- named_weapon_builds_v2_6.txt entry marking SUCKER PUNCH owner unrecovered.
+CROSS-CAMPAIGN ORDER
+- GROUND ZERO precedes VIATECH ’31 by days.
+- VIATECH ’31 precedes Permanent Record's Ledger confrontation in Chicago.
+- Chicago recovery leads toward Hélène Modine / Montreal and the later Marietta /
+  Geoffrey-Guy Moffat / Lana Erika Delhardt chain.
 
-PRESERVED FROM THE JULY 6 SOURCE
-- Nicholas Wayne Hawthorne spelling.
-- Morehead City / Beaufort coastal foundation.
-- toxic-tide family wound.
-- NAF recruitment ladder and Vanguard threshold.
-- Mark “Skidrow” Champlin as the senior Vanguard figure.
-- SIC SEMPER TYRANNIS title.
-- DEAD BLOW platform/configuration.
-- Abernathy's corporate-state technology role.
+CONTROLLING COMPANION SOURCES
+- PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+- dev_src_docs/characters/PW_Zale_Jacobs_Character_Continuity_2026-07-22_rev1.txt
+- dev_src_docs/weapons_and_equipment/PW_SUCKER_PUNCH_Build_Spec_2026-07-22_rev1.txt
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
 
 END
