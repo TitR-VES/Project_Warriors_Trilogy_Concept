@@ -1,0 +1,61 @@
+PROJECT WARRIORS — POST-GAME 4 POLITICAL TRANSITION / THE COLLAPSE BRIDGE
+Generated: 2026-07-21
+Version: rev1
+Status: WORKING CHRONOLOGY AND STORY SOURCE
+
+PURPOSE
+Define the political and institutional bridge from Game 4's ending into The
+Collapse without turning the successor administration into a hidden villain or
+inventing exact calendar dates.
+
+PHASE I — THE RECKONING
+- After Sunny's capture and the outcome of Spook's Game 4 campaign, the Hecatite
+  network moves against Freedom and attempts to silence opposition.
+- Gillian Stockbridge recovers sufficiently to stand trial.
+- The Crodyn administration falls.
+- Impeachment/trial and broader investigations reach corrupt officials and
+  ideological appointees.
+- Institutional purges are necessary but deepen public distrust and reduce
+  administrative capacity.
+
+PHASE II — RESTORATION ELECTION
+- A legitimate election still occurs despite insurgent violence, propaganda,
+  disrupted regions, and severe instability.
+- The new administration has legal authority but inherits an impossible position.
+- It is inexperienced and partially compromised by surviving influence networks.
+- It is not secretly villainous; it is overwhelmed.
+
+PHASE III — LONG UNRAVELING
+- Federal practical control becomes increasingly uneven by region.
+- NAF and other armed movements expand through governance, protection, logistics,
+  aid, local influence, coercion, and violence rather than only open conquest.
+- Recovery cannot keep pace with destruction.
+
+PHASE IV — KINGMAKER AFTERMATH
+- Goldberg may be defeated, but the wider kingmaker ecosystem persists in
+  fragmented form through dark money, shell organizations, compromised actors,
+  and surviving influence channels.
+
+PHASE V — CONTINUED HUMANITARIAN MISSION
+- International relief remains necessary because domestic reconstruction cannot
+  meet nationwide need.
+- America survives, but restoration remains incomplete.
+
+PHASE VI — THE COLLAPSE
+- The cumulative effects of PANDORA, World War III, corruption, economic
+  disruption, insurgency, and institutional decay create the DLC's conditions.
+- The Collapse campaign still occurs during the months before federal authority
+  finally fails.
+
+TIMEFRAME
+The newer source refines the Game 4-to-Collapse bridge to approximately two to
+three years. Treat this as a broad relative window, not an exact date.
+
+NAME GOVERNANCE
+Gillian Stockbridge is the repository-canonical name. Do not create a separate
+“Justine Stockbridge” identity from conversational transcription.
+
+SOURCE
+Project_Warriors_Post_Game4_Transition_Thread.txt
+
+END
