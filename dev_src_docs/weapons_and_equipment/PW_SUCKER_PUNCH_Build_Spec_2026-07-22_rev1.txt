@@ -1,0 +1,42 @@
+PROJECT WARRIORS — SUCKER PUNCH NAMED WEAPON BUILD
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED CORE / FLAGS REMAIN
+
+IDENTITY
+Stable ID: PW-WPN-WAR-WITHIN-SUCKER-PUNCH
+Build name: SUCKER PUNCH
+Owner: Mark Redford “Skidrow” Champlin
+Campaign: War Within DLC
+Mission: SIC SEMPER TYRANNIS
+
+PLATFORM
+Noveske N4 Ghetto Blaster-style compact 5.56x45mm PDW/SBR.
+
+LOCKED PRESENTATION
+- Suppressed for the VIATECH ’31 assassination.
+- Black finish.
+- Black PMAG-style magazines.
+- Compact RMR / Holosun-style reflex or collimator sight.
+- Skidrow does not carry his broader HK416 work rifle into the hotel; concealment and
+  personal trust make SUCKER PUNCH his sole long gun for the hit.
+- Skidrow also carries a high-end .45 ACP 2011-style sidearm.
+
+PLAYER AVAILABILITY
+- Temporary mission-only secondary weapon.
+- Recovered after Skidrow is mortally wounded during the hotel escape.
+- Skidrow directs Croatoan to take the gun and spare-magazine satchel, ending with:
+  “Make it count.”
+- The build does not become Hawthorne's persistent personal weapon.
+
+OPEN IMPLEMENTATION FIELDS
+- exact barrel length
+- exact suppressor model
+- exact optic model
+- lower-level handguard/accessory details
+
+SOURCE
+- war_within_permanent_record_thread_archive_2026-07-21.txt
+- PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+
+END
