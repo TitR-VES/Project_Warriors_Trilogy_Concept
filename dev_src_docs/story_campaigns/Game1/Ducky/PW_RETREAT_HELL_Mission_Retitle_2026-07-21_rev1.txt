@@ -1,0 +1,36 @@
+PROJECT WARRIORS — DUCKY GAME 1 MISSION RETITLE
+Generated: 2026-07-21
+Version: rev1
+Status: LOCKED TITLE CORRECTION
+Campaign: DO RIGHT, FEAR NONE
+Playable character: Ferris “Ducky” Ryan
+
+LOCK
+The Ducky Game 1 Maasvlakte approach / campaign pre-finale mission is titled:
+
+RETREAT, HELL
+
+Punctuation is part of the title: RETREAT comma HELL.
+
+PLACEMENT
+- Immediately before the Maasvlakte Oil and Gas Terminal campaign finale.
+- Contains or owns the pre-finale approach/escalation lane in which AEGIS observes
+  the Russian amphibious force, including the developed Zubr-class LCAC landing
+  sequence.
+- It is distinct from the final Maasvlakte terminal defense mission.
+
+RETITLE RULE
+This is a mission-title lock. It does not change the scene content, sequence
+function, location, or finale continuity.
+
+ONTOLOGY
+Use stable event ID:
+PW-EVT-DUCKY-G1-RETREAT-HELL
+
+Add separate finale anchor:
+PW-EVT-DUCKY-G1-MAASVLAKTE-FINALE
+
+SOURCE
+Owner adjudication supplied 2026-07-21.
+
+END
