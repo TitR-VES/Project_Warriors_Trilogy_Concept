@@ -1,0 +1,80 @@
+PROJECT WARRIORS — DARK SKIES / NO KINGS BRIDGE LANDING AUDIT
+Generated: 2026-07-22
+Version: rev1
+Status: VALIDATED PR #26 EXPANSION PASS
+
+SCOPE
+- Project_Warriors_Dark_Skies_Thread_Transcript_2026-07-21.txt
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+- open PR #26 branch, including all earlier unmerged Blommaert / Game 3 title /
+  ontology / schema / registry revisions
+
+BRANCH STRATEGY
+The user directed that the new work be added to the still-open PR rather than published
+as a stacked PR. All additions therefore land directly on:
+agent/blommaert-game3-canon-2026-07-22
+
+DARK SKIES RESULT
+- Title provenance landed.
+- DOG SKIES retired as scratch wording.
+- DARK SKIES remains Spook's locked Game 3 title.
+- The transcript is correctly scoped as title/thematic provenance, not as a replacement
+  for the existing campaign ladder and four-act source.
+
+NO KINGS BRIDGE RESULT
+- Kentucky-to-Boston gap is no longer an undifferentiated source-recovery item.
+- Political/logistical bridge direction is locked.
+- AFC spread/distortion and Boston strategic necessity are source-landed.
+- Boston local authorship and Elena Costa's authority are protected.
+- Exact dates and EASTBOUND companion identities remain open.
+
+EARLY ACT I RESULT
+Source-landed sequence:
+- EASTBOUND
+- WEST SEAM
+- HINGE
+- OPEN THE FACE
+- DAY WINDOW
+- ROLL CALL
+- THE POCKET
+
+DAY WINDOW CORRECTION
+The locked line:
+“Controller’s got it. Hold west. Window’s yours.”
+confirms an offscreen qualified JTAC/FAC(A) control function. Romeo is not silently
+promoted into a JTAC role.
+
+LOCAL VALIDATION
+Timeline rev2.4:
+- YAML parse: PASS
+- eras: 7
+- events: 66
+- campaign tracks: 21
+- synchronization points: 16
+- duplicate IDs: 0
+- dangling references: 0
+- self references: 0
+- ordering graph acyclic: PASS
+- events without source pointers: 0
+
+Named-weapon registry:
+- unchanged from projected v3.0
+- stable identities: 37
+- duplicate stable IDs: 0
+
+REMAINING LIVE DEPENDENCIES
+- PR #26 must merge before this source layer is considered mainline-landed.
+- Exact Game 3 dates and cross-campaign day-level synchronization.
+- Full later NO KINGS mission ladder after THE POCKET.
+- Transition from THE POCKET toward Van Hult / civic-reclamation material.
+- Exact EASTBOUND companion identities.
+- Final encounter tuning, incidental NPC names, and detailed map geography.
+- Exact DUE DILIGENCE caliber and player-acquisition decision.
+- Any later global selection of Blommaert death/survival.
+
+ARCHIVE READINESS
+The supplied transcripts are now substantially absorbed into durable source pages, but
+they should not be retired until PR #26 merges, paths are checked on main, the rev2.4
+projection is revalidated against main, and one downstream consistency pass succeeds.
+
+END
