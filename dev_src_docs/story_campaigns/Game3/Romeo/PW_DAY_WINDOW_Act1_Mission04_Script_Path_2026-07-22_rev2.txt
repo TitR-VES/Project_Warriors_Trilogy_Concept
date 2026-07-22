@@ -1,0 +1,172 @@
+PROJECT WARRIORS — NO KINGS ACT I MISSION SOURCE
+Mission 04: DAY WINDOW
+Generated: 2026-07-22
+Version: rev2
+Status: LOCKED MISSION IDENTITY / SOURCE-LANDED WORKING SCRIPT
+
+MISSION PURPOSE
+First widened surge-of-hope mission after OPEN THE FACE.
+A brief loyalist A-10 pass opens a visible daylight corridor across a suburban
+avenue/school-edge battlespace. The strike does not win the district; it creates a
+window that the resistance must spend immediately.
+
+TARGET BAND
+- broad residential avenue;
+- school parking/service edge;
+- low shops or civic services;
+- detached/semi-detached homes;
+- roadblock;
+- jammer/repeater van;
+- light armored/technical presence;
+- civilians still sheltering near the kill box.
+
+BRIEFING CORE
+Protected dialogue:
+ELENA: “If they settle on that line, hinge and face both go back to being temporary.”
+ROMEO: “So we break the line.”
+ELENA: “We crack it. Different thing.”
+ELENA: “There’s a loyalist frequency still talking. Barely. They’ll give us one pass if
+we make the ground worth the fuel.”
+ROMEO: “What kind of pass.”
+ELENA: “The loud kind.”
+ELENA: “If the pass lands right, we get a window. Daylight, visible, real.”
+ROMEO: “And if it lands wrong.”
+ELENA: “Then we become a story people tell about why they stopped trying.”
+ELENA: “You shape the lane. You do not admire the sky. You do not stand in the street
+when the world starts arriving sideways.”
+ELENA: “You open me a day window. Nothing bigger than that.”
+
+MISSION FLOW
+Phase 1 — From the face to the avenue
+- show previous gains carrying forward;
+- movement shifts into recognizable residential/suburban texture.
+
+Protected dialogue:
+LOCAL GUIDE: “Face held.”
+ROMEO: “For now.”
+LOCAL GUIDE: “That’s all anything does here.”
+LOCAL FIGHTER: “Feels different out here.”
+LOCAL GUIDE: “Because people used to think streets like this were safe by default.”
+
+Phase 2 — Read the kill box
+- identify roadblock, jammer van, truck, bus-stop gun, and two house watchers;
+- identify civilians inside target-band homes.
+
+Protected dialogue:
+LOCAL GUIDE: “There.”
+ROMEO: “Roadblock. Jammer van. Truck on the inside lane.”
+LOOKOUT: “Watchers second floor blue house. Rear room red brick. One gun low by the bus
+stop shell.”
+LOCAL FIGHTER: “That’s a lot of open.”
+LOCAL GUIDE: “Yeah. That’s why they like it.”
+ROMEO: “That’s your window.”
+ELENA (radio): “No. That’s the wall. Window comes after.”
+
+Phase 3 — Pull the houses back
+- quietly evacuate elderly residents/families from near houses before strike shaping;
+- keep human stakes ahead of spectacle.
+
+Protected dialogue:
+LOCAL GUIDE at door: “City. Move now.”
+ELDERLY WOMAN: “We can’t carry both bags.”
+ROMEO: “Then pick one.”
+PARENT: “What’s happening.”
+LOCAL GUIDE: “You don’t want to be here when the answer gets loud.”
+
+Phase 4 — Darken the line
+- eliminate watchers;
+- destroy jammer van;
+- occupation force begins acting on memory.
+
+Protected dialogue:
+LOCAL GUIDE: “Kill that van, they stop feeling smart.”
+ROMEO: “For how long.”
+LOCAL GUIDE: “Long enough to make somebody else feel stupid.”
+LOCAL FIGHTER: “Van’s burning!”
+LOCAL GUIDE: “Good. Now they start driving on memory.”
+
+Phase 5 — Build the pass
+- close side escape;
+- force truck/roadblock support into the open lane;
+- Romeo marks target band and provides ground readback.
+
+CAS control governance:
+Romeo is not a JTAC by implication. A qualified JTAC or FAC(A) exists elsewhere in the
+control chain. Romeo's element provides local observation and mark; Elena's network or
+a remote/airborne controller owns formal terminal control.
+
+Protected radio exchange:
+ROMEO: “AXEMAN 21, this is Romeo. Mark is live. North lane, school edge, danger close.”
+AXEMAN 21: “Romeo, AXEMAN 21. Tally smoke. One pass north to south. Danger close
+confirmed. Keep your people west and heads down.”
+ROMEO: “Copy north to south. Friendlies west.”
+ELENA: “Controller’s got it. Hold west. Window’s yours.”
+
+The Elena line above is locked and controls over the earlier draft omission.
+
+Phase 6 — The A-10 pass
+- street-level perspective only;
+- sound and pressure precede visual comprehension;
+- low, fast, terrifying relief rather than aviation-poster heroism;
+- strike destroys roadblock/vehicle cluster.
+
+Protected radio after pass:
+AXEMAN 21: “Good hit. Window’s yours.”
+
+Phase 7 — Surge the window
+- resistance crosses through smoke and shock;
+- clear surviving roadblock crew and recovery shooters;
+- multiple local elements move together for first time.
+
+Protected dialogue:
+LOCAL GUIDE: “Move move move!”
+ROMEO: “Across!”
+LOOKOUT: “I can see clear to the next block!”
+
+Phase 8 — Open the day window
+- move water, plasma, optics, batteries, stretcher teams, and civilians in daylight;
+- Elena enters and prevents stacking/exposure;
+- locals briefly use the short way.
+
+Protected dialogue:
+LOCAL FIGHTER: “They’re moving in daylight.”
+LOCAL GUIDE: “Yeah.”
+ROMEO: “Feels wrong.”
+LOCAL GUIDE: “That’s because you’re used to losing.”
+SHOPKEEPER WOMAN: “You made the short way short again.”
+
+Phase 9 — Window closing
+- heavier response forms beyond district edge;
+- Elena refuses to turn a window into a fantasy breakthrough.
+
+Protected dialogue:
+ROMEO: “We push again?”
+ELENA: “No.”
+ELENA: “We spend the window. Then we close it before it closes on us.”
+
+Phase 10 — Mission end
+Protected closing dialogue:
+ROMEO: “That was bigger.”
+ELENA: “Yeah.”
+ROMEO: “Could feel the city move.”
+ELENA: “Good.”
+ELENA: “Don’t mistake a day window for weather.”
+
+MISSION END STATE
+- first real public surge of hope;
+- exact limits of military support established;
+- occupiers now see the district as a larger problem;
+- ROLL CALL follows as administrative/political backlash.
+
+OPEN FIELDS
+- exact A-10 model/flight provenance and airbase;
+- exact JTAC/FAC(A) identity and location;
+- exact avenue/school geography;
+- final marking technology and danger-close procedure detail;
+- encounter tuning.
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+- locked JTAC/controller single-line edit from the same thread
+
+END
