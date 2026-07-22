@@ -1,0 +1,100 @@
+PROJECT WARRIORS — NO KINGS ACT I: EASTBOUND WAR EARLY MISSION LADDER
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED EARLY SEQUENCE / WORKING SCRIPT IMPLEMENTATION
+
+PURPOSE
+This page records the Kentucky-to-Boston transition and the source-landed early Act I
+mission sequence for Romeo's Game 3 campaign, NO KINGS. It prevents the opening from
+being reduced to an undeveloped gap while preserving implementation fields that remain
+open.
+
+LOCKED CONTINUITY DIRECTION
+- American Freedom / Calloway is the seed of the AFC, not a disposable prior chapter.
+- The AFC spreads beyond Romeo's face-to-face control and begins to be copied, distorted,
+  and claimed by actors whose idea of victory differs from his.
+- Boston is strategically relevant because occupation logistics, civic symbolism,
+  infrastructure compromise, and the future meaning of the AFC converge there.
+- Boston already has an organized local resistance. Elena Costa is local operational
+  authority; Romeo arrives as a necessary outsider and earns entry.
+- The bridge spans a meaningful inter-campaign interval. Exact dates remain open.
+- The player's playable bridge is the final leg, EASTBOUND.
+
+EARLY ACT I SEQUENCE
+Prologue — EASTBOUND
+- final relay leg into greater Boston;
+- compromised intelligence handoff;
+- local-guided entry through service and utility routes;
+- narrow foothold fight;
+- first contact with Elena Costa;
+- exact eastbound companion identities remain open.
+
+Mission 01 — WEST SEAM
+- restore a living route connecting clinic, water, plasma, observers, and local movement;
+- teaches that Boston is fought through seams and civic function.
+
+Mission 02 — HINGE
+- seize a municipal maintenance annex / public-works garage acting as a district joint;
+- converts a route into the first kept forward civic space.
+
+Mission 03 — OPEN THE FACE
+- force occupation elements off a visible neighborhood frontage;
+- lets the block face outward again and makes resistance presence publicly legible.
+
+Mission 04 — DAY WINDOW
+- shape a suburban avenue target for one loyalist A-10 pass;
+- use the brief daylight opening to move people, supplies, and observers;
+- offscreen qualified JTAC/FAC(A) control is implicit and confirmed by Elena's locked line:
+  "Controller’s got it. Hold west. Window’s yours."
+- the pass creates a window, not lasting control.
+
+Mission 05 — ROLL CALL
+- absorb administrative/political backlash after daylight visibility;
+- disrupt screening, identity collection, records, flagged lists, and detainee transfer;
+- protects the district's names and patterns, not merely its ground.
+
+Mission 06 — THE POCKET
+- first deliberate neighborhood counteroffensive intended to take and keep a connected
+  interior pocket;
+- clears three perimeter teeth, builds civic sustainment, survives the first night answer,
+  and locks the pocket for morning;
+- marks the turn from Act I survival toward Act II's Neighborhood War.
+
+SEQUENCE LOGIC
+entry -> seam -> joint -> visible face -> daylight window -> backlash -> first kept pocket
+
+STATUS BOUNDARY
+Locked:
+- mission titles and order through THE POCKET;
+- central purpose and mission identity of each entry;
+- Elena's local-authority role;
+- the AFC spread/distortion bridge;
+- the background controller realism cue in DAY WINDOW.
+
+Working / not yet final:
+- exact calendar dates;
+- exact Boston neighborhood geography and final map layout;
+- exact companion identities for EASTBOUND;
+- final incidental NPC names;
+- final combat encounter counts, difficulty tuning, and screenplay polish;
+- exact transition after THE POCKET into the Van Hult / civic-reclamation lane.
+
+PARKED
+"What Victory Is For" remains the locked Act IV title and a serious Romeo Game 3
+campaign-slogan/tagline candidate. Tagline use is not separately locked.
+
+SOURCE PAGES
+- PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+- PW_EASTBOUND_Prologue_Script_Path_2026-07-22_rev2.txt
+- PW_WEST_SEAM_Act1_Mission01_Script_Path_2026-07-22_rev1.txt
+- PW_HINGE_Act1_Mission02_Script_Path_2026-07-22_rev1.txt
+- PW_OPEN_THE_FACE_Act1_Mission03_Script_Path_2026-07-22_rev1.txt
+- PW_DAY_WINDOW_Act1_Mission04_Script_Path_2026-07-22_rev2.txt
+- PW_ROLL_CALL_Act1_Mission05_Script_Path_2026-07-22_rev1.txt
+- PW_THE_POCKET_Act1_Mission06_Script_Path_2026-07-22_rev1.txt
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+- explicit owner lock at thread close
+
+END
