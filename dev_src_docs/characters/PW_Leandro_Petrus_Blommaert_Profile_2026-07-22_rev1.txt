@@ -1,0 +1,171 @@
+PROJECT WARRIORS — LEANDRO PETRUS BLOMMAERT
+CHARACTER PROFILE / CONTINUITY SOURCE
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED CORE / LOWER-LEVEL IMPLEMENTATION FLAGS REMAIN
+
+PURPOSE
+This page lands the controlling character identity, professional background, GenCorp
+role, Lloyd Aymes association, Infrastructure Day branch behavior, and future-use
+rules for Leandro Petrus Blommaert.
+
+NAME GOVERNANCE
+Canonical full name: Leandro Petrus Blommaert
+
+Retire as transcription or spelling noise in this character context:
+- Blomart
+- Bloomert / Plummert and similar speech-to-text variants
+- Pechus
+- Beaumont
+
+Do not split those variants into separate characters.
+
+CORE IDENTITY
+- South African.
+- Afrikaans-speaking background.
+- Approximately 46 years old during Infrastructure Day in 2028.
+- Professionally controlled, physically credible, and experienced in high-risk
+  protective operations.
+- Loosely informed by the grounded composure, driving competence, and protective-
+  security realism associated with the Leo Prinsloo visual/behavioral reference;
+  not a copied biography or likeness.
+
+BACKGROUND LANE
+Accepted broad career spine:
+1. French Foreign Legion service in early adulthood.
+2. Later South African military / security-service experience.
+3. Later South African high-risk tactical-police / counterterrorism-equivalent work.
+4. Private security, executive protection, convoy hardening, hard-site security,
+   and facility-risk consultancy.
+5. By 2028, senior GenCorp protective-operations executive for the Middle East and
+   Africa footprint.
+
+Exact units, service dates, ranks, deployments, and transitions remain available for
+a dedicated plausibility pass. Do not overstack the résumé by inventing additional
+elite-unit credentials.
+
+GENCORP ROLE
+Controlling role:
+- GenCorp Director of Physical Security / Protective Operations.
+
+Acceptable corporate display title:
+- Senior Director, Protective Operations — Middle East & Africa.
+
+This supersedes older wording that treated Blommaert as Head of Data Security.
+He is not the cyber/data executive. He is the person responsible for making GenCorp's
+people, buildings, routes, sensitive shipments, and escape architecture physically
+survivable.
+
+Operational responsibilities include:
+- hard-site security;
+- executive movement and evacuation;
+- convoy planning and route security;
+- sensitive-facility response;
+- exterior-access denial;
+- panic-room and protected-elevator routing;
+- emergency extraction architecture;
+- coordination of guards, shutters, access control, and counter-breach response.
+
+CHARACTER LANE
+Blommaert is a professional antagonist, not a supervillain or ideological zealot.
+He should not be written as a mastermind.
+
+He is dangerous because he stays calm:
+- reads the breach;
+- seals routes;
+- moves the protected principal;
+- burns compromised access;
+- accepts casualties elsewhere if that preserves the protected asset;
+- adapts after surviving contact.
+
+He understands enough to know that GenCorp is dirty, but he does not necessarily know
+the whole PANDORA / RIPTIDE RED architecture. His self-justification is professional,
+contractual, and morally compromised rather than doctrinal.
+
+Voice anchor, not mandatory final dialogue:
+“I protect what I’m paid to protect. I don’t write policy.”
+
+LLOYD AYMES ASSOCIATION
+Blommaert has an indirect prior professional association with Lloyd Aymes-linked
+assets. This is not friendship, personal loyalty, family connection, or inner-circle
+conspiracy membership.
+
+Accepted relationship lane:
+- previous route-security, convoy-hardening, executive-movement, facility-risk, or
+  protective-security work around Aymes-linked companies/assets;
+- plausible geographies include South Africa, the Gulf, or StarLift / SkyConnect /
+  logistics-adjacent operations;
+- Blommaert has worked inside the Aymes-adjacent contractor ecosystem without being
+  “Aymes’s man.”
+
+Relationship asymmetry:
+- Aymes may barely remember Blommaert.
+- Blommaert remembers Aymes clearly.
+
+Optional private assessment / voice anchor:
+“That man makes weather. Other people get rained on.”
+
+Use sparingly; it is not mandatory spoken dialogue.
+
+INFRASTRUCTURE DAY ROLE
+Campaign: Spook Game 1 — RIPTIDE RED
+Mission: Infrastructure Day
+Location: Abu Dhabi, United Arab Emirates
+
+Blommaert is the building's physical-security brain and an optional target of
+opportunity. He is not a default boss encounter.
+
+His presence can affect:
+- security-response timing;
+- route denial and lockdown behavior;
+- exterior shutters;
+- executive elevator access;
+- balcony/terrace surveillance;
+- panic-room routing;
+- exfiltration difficulty;
+- later continuity if he survives.
+
+BRANCH GOVERNANCE
+The player may earn an exterior-rappel opportunity to kill Blommaert. His death is
+optional. The campaign must preserve both outcomes unless a later source explicitly
+selects one.
+
+If killed:
+- Spook removes a dangerous GenCorp protective-operations node;
+- the optional achievement JUDGE ME NOT may unlock;
+- later stories must not also use a living Blommaert without an explicit branch rule.
+
+If spared, bypassed, missed, or only wounded:
+- Blommaert survives;
+- he learns from Spook's vertical-access, route-manipulation, camera, and timing methods;
+- he remains available for later Spook material.
+
+FUTURE-USE RULE
+A surviving Blommaert may return as:
+- recurring professional antagonist;
+- GenCorp / Atlas / Aymes-adjacent contractor liaison;
+- designer of security intended specifically to defeat Spook's established playbook.
+
+Possible adaptations include:
+- fewer clean rappel routes;
+- false rappel points;
+- hardened balcony doors;
+- mirrored or decoy panic rooms;
+- camera blind spots that are actually kill boxes;
+- deliberate dead zones and false extraction geometry.
+
+He remains a force multiplier for masterminds, not a mastermind himself.
+
+NAMED BUILD
+Blommaert's personal named build is DUE DILIGENCE.
+Controlling build page:
+- dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+
+MISSION / ACHIEVEMENT PAGE
+- dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+
+SOURCE BASIS
+- Owner-supplied thread export: PW_Blommaert_Thread_Export.txt
+- Existing Infrastructure Day / GenCorp mission source footprint
+
+END
