@@ -1,0 +1,108 @@
+PROJECT WARRIORS — BLOMMAERT / GAME 3 CANON LANDING AUDIT
+Generated: 2026-07-22
+Version: rev1
+Status: COMPLETED PASS / MERGE REVIEW REQUIRED
+
+SCOPE
+- owner-supplied PW_Blommaert_Thread_Export.txt
+- current Infrastructure Day / GenCorp mission footprint
+- current Game 3 compendium and source-landing reports
+- merged ontology rev2.2 and registry v2.9 projection
+
+RESULT
+The source gap was real but narrower than a full Game 3 recovery problem.
+
+The repository already contained substantial NO KINGS, FAILSAFE, and DARK SKIES story
+material. The inconsistency was status/governance:
+- NO KINGS remained a recommendation/provisional Boston identity in controlling layers;
+- FAILSAFE was source-landed but described as stable working rather than title-locked;
+- DARK SKIES remained a candidate/working title in the ontology.
+
+This pass locks the three titles without falsely claiming all mission/date details are
+complete.
+
+BLOMMAERT FINDINGS
+1. Canonical identity is Leandro Petrus Blommaert.
+2. Existing data-security wording is superseded by Director of Physical Security /
+   Protective Operations.
+3. Infrastructure Day uses an optional earned exterior-rappel kill branch, not a
+   default boss fight.
+4. Death and survival remain valid branches.
+5. Lloyd Aymes link is indirect contractor/protective-security association only.
+6. DUE DILIGENCE is Blommaert's named compact suppressed protective-operations carbine.
+7. JUDGE ME NOT is the achievement record if achievements are implemented.
+
+GAME 3 TITLE FINDINGS
+- Romeo: NO KINGS — locked.
+- Ducky: FAILSAFE — locked.
+- Spook: DARK SKIES — locked.
+
+Preserved status boundaries:
+- exact campaign openings remain unmapped;
+- exact day-level synchronization remains open;
+- NO KINGS full mission ladder remains incomplete;
+- individual FAILSAFE/DARK SKIES mission implementation flags remain where previously
+  documented;
+- the Storm-side SOUTH CULVERT title collision remains unresolved and does not affect
+  Spook's Game 3 mission.
+
+ONTOLOGY MIGRATION
+- PW-TRK-G3-BOSTON is replaced by PW-TRK-G3-NO-KINGS.
+- References migrate to the new stable track ID.
+- PW-TRK-G3-FAILSAFE is added.
+- PW-TRK-G3-DARK-SKIES is promoted from working candidate to confirmed title.
+- Infrastructure Day / Blommaert optional-branch event is added.
+- Game 3 campaign-title synchronization record is added.
+
+REGISTRY MIGRATION
+- Adds PW-WPN-BLOMMAERT-DUE-DILIGENCE.
+- Registry projection advances from v2.9 to v3.0.
+- Exact DUE DILIGENCE caliber remains an explicit 5.56x45mm / .300 BLK choice.
+- Player acquisition remains unselected.
+
+LOCAL VALIDATION
+Timeline rev2.3:
+- YAML parse: PASS
+- eras: 7
+- events: 58
+- campaign tracks: 21
+- synchronization points: 15
+- duplicate era/event/track/sync IDs: 0
+- dangling era/event/track references: 0
+- ordering edges: 71
+- acyclic chronology graph: PASS
+- events without source pointers: 0
+
+Registry v3.0 projection:
+- named identities: 37
+- duplicate stable IDs: 0
+- substantially specified/source-associated identities: 27
+- recovery-status identities: 10
+- DUE DILIGENCE stable ID present exactly once
+
+SOURCE PATH CHECK
+The branch lands all controlling paths referenced by the new delta:
+- Blommaert character profile
+- Infrastructure Day / JUDGE ME NOT page
+- DUE DILIGENCE build specification
+- Game 3 campaign-title canon page
+- post-merge source-of-truth addendum
+- knowledge-compendium addendum
+
+ARCHIVE / SUPERSESSION NOTE
+Do not delete the owner-supplied thread export solely because this pass is merged. The
+new source pages absorb the accepted canon decisions, but the raw transcript remains
+useful provenance for icon iteration history and rejected/generated-text corrections.
+It may be archived as non-controlling provenance after merge and one downstream
+consistency pass.
+
+REMAINING DEPENDENCIES
+- exact Game 3 opening events and date synchronization;
+- full NO KINGS mission ladder parity;
+- remaining scene-level implementation gaps in FAILSAFE and DARK SKIES;
+- exact DUE DILIGENCE caliber;
+- whether Blommaert's weapon can be acquired by the player;
+- any later branch selection for Blommaert death/survival;
+- final achievement-system implementation and UI asset.
+
+END
