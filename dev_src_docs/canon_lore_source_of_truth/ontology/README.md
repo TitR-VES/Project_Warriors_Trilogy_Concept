@@ -43,17 +43,27 @@ so the ontology is represented through deterministic, auditable transformation l
      four-act or mission structure
    - leaves the named-weapon registry unchanged at projected v3.0
 
-The full materialized `pw_world_event_timeline_rev2_4.yaml` is maintained as a handoff
+5. `pw_permanent_record_rev2_5.delta.yaml`
+   - applies to materialized rev2.4
+   - produces the validated rev2.5 timeline projection
+   - maps the Permanent Record chronology from Minneapolis through ONE HEAD OF THE HYDRA
+   - preserves the nonlinear …AND INTO THE FIRE cold-open presentation
+   - adds the Gerhana / Marietta / Keter investigative chain
+   - adds the HOME ADVANTAGE cross-campaign intelligence consequence
+   - records the final-run ordering and Stockbridge capture / aftermath sequence
+   - leaves the named-weapon registry unchanged at projected v3.0
+
+The full materialized `pw_world_event_timeline_rev2_5.yaml` is maintained as a handoff
 artifact until the repository receives either the original rev1 input or an explicitly
 approved full-projection import.
 
 ## Current validated projection
 
-Timeline rev2.4:
+Timeline rev2.5:
 - 7 eras
-- 66 events
+- 78 events
 - 21 campaign tracks
-- 16 synchronization points
+- 17 synchronization points
 - zero duplicate IDs
 - zero dangling references
 - acyclic chronology graph
@@ -64,6 +74,7 @@ Named-weapon layer:
 - War Within delta projection: `named_weapon_builds_v2_9.txt`
 - Blommaert delta projection: `named_weapon_builds_v3_0.txt`
 - NO KINGS bridge delta: no weapon-registry change
+- Permanent Record delta: no weapon-registry change
 - 37 unique stable identities
 - 27 substantially specified/source-associated identities
 - 10 recovery-status identities
@@ -81,6 +92,22 @@ Named-weapon layer:
 
 Campaign titles and the early NO KINGS sequence can be locked while exact dates,
 encounter tuning, and later campaign implementation remain working.
+
+## Current Game 4 Permanent Record governance
+
+- Track: `PW-TRK-G4-PERMANENT-RECORD` — PERMANENT RECORD
+- Chronological opening: Minneapolis bombing investigation
+- Nonlinear cold open: …AND INTO THE FIRE
+- Current sequence:
+  - Minneapolis -> Twin Cities -> Chicago -> Montreal
+  - Paris -> ET IN ARCADIA EGO -> RECEIVERSHIP -> DPRK safe-passage lane
+  - FLOW CONTROL -> …AND INTO THE FIRE -> JUDGMENT DAY -> ONE HEAD OF THE HYDRA
+- Cross-campaign consequence:
+  - Twin Cities intelligence feeds COMMAND AUTHORITY / HOME ADVANTAGE
+- Stockbridge is captured alive; the final aftermath reveals surviving network overlap
+  with parts of the rebuilding order.
+- Exact dates, several early/mid mission titles, and deeper Keter/Atlas/Yadat corporate
+  linkage remain open.
 
 ## Schemas
 
