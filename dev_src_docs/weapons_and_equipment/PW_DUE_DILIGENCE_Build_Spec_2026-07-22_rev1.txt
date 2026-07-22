@@ -1,0 +1,73 @@
+PROJECT WARRIORS — NAMED WEAPON BUILD
+DUE DILIGENCE
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED IDENTITY / PLATFORM LANE LOCKED / CALIBER FLAG REMAINS
+
+STABLE ID
+PW-WPN-BLOMMAERT-DUE-DILIGENCE
+
+BUILD NAME
+DUE DILIGENCE
+
+OWNER
+Leandro Petrus Blommaert
+
+CAMPAIGN / MISSION ASSOCIATION
+- Spook Game 1 — RIPTIDE RED
+- Infrastructure Day
+- GenCorp Abu Dhabi physical-security response
+
+ROLE
+Personal compact protective-operations carbine for:
+- executive protection;
+- office-tower and data-center response;
+- vehicle work;
+- hard-site breach containment;
+- emergency movement and evacuation.
+
+PLATFORM LANE
+SIG MCX Spear-LT / MCX Virtus-type compact carbine.
+
+Do not silently convert this into an unrelated AR-pattern or conventional service rifle.
+Exact commercial/model nomenclature can be fictionalized during weapon-branding review.
+
+CONFIGURATION
+- approximately 11.5-inch compact barrel lane;
+- suppressed by default;
+- low-profile red-dot or compact holographic optic;
+- practical white light;
+- IR laser/illuminator where mission context supports it;
+- two-point sling;
+- black or dark-grey finish;
+- worn but carefully maintained.
+
+CALIBER
+Open final implementation choice:
+- 5.56x45mm; or
+- .300 BLK.
+
+Do not mark either caliber final until the gameplay/balance pass resolves the intended
+suppressed-carbine role.
+
+AESTHETIC RULE
+No vanity markings, skulls, slogan paint, bright accent colors, or operator-fashion
+excess. Blommaert chooses reliable equipment, not a weapon designed for photographs.
+
+NAME LOGIC
+DUE DILIGENCE sounds like paperwork until Blommaert draws it. The name is corporate,
+cold, procedural, and faintly ugly, matching his role as GenCorp's professional
+protective-operations executive.
+
+OWNERSHIP / RECOVERY
+- Personal build associated with Blommaert.
+- Player acquisition is not currently locked.
+- If Blommaert is killed during Infrastructure Day, do not automatically represent
+  the build as a persistent player reward unless a later gameplay source authorizes it.
+
+RELATED SOURCES
+- dev_src_docs/characters/PW_Leandro_Petrus_Blommaert_Profile_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+- Owner-supplied thread export: PW_Blommaert_Thread_Export.txt
+
+END
