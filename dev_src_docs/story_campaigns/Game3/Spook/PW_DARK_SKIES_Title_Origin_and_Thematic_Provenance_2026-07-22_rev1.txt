@@ -1,0 +1,49 @@
+PROJECT WARRIORS — DARK SKIES TITLE ORIGIN AND THEMATIC PROVENANCE
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED TITLE PROVENANCE / STRUCTURE CONTROLLED ELSEWHERE
+
+PURPOSE
+This page records the title-origin thread for Spook's Game 3 campaign and prevents the
+earlier candidate language from being mistaken for current status.
+
+ORIGIN
+- The initial scratch phrase was "Dog Skies."
+- The owner immediately corrected it to "Dark Skies."
+- The owner then clarified "Spook it is," associating DARK SKIES specifically with
+  Spook's Game 3 lane rather than Ducky's.
+- Later owner adjudication locks DARK SKIES as the campaign title.
+
+LOCKED CURRENT USE
+Spook Game 3 campaign title: DARK SKIES.
+Stable ontology ID: PW-TRK-G3-DARK-SKIES.
+
+THEMATIC FIT FROM THE ORIGIN THREAD
+The title carries:
+- hostile or compromised airspace;
+- overhead surveillance;
+- drones, satellites, SIGINT, and aircraft as pressure;
+- denied movement and communications;
+- the feeling that the sky itself is no longer neutral.
+
+SCOPE WALL
+The supplied title-origin transcript does not define the complete DARK SKIES mission
+ladder or campaign architecture. Those are controlled by the existing source-landed
+Game 3 refresh pack and campaign pages:
+- four acts: Bad Omens / Private Route / Wrong Signature / Dark Skies;
+- mission ladder from DAWN OF MERCY through DARK SKIES;
+- OUTER PORT / FURTHER EAST asymmetric synchronization with The Storm.
+
+SUPERSESSION
+Retire on sight:
+- DOG SKIES as anything other than discarded scratch wording;
+- DARK SKIES as merely a title candidate;
+- any implication that the title belongs to Ducky.
+
+SOURCE BASIS
+- Project_Warriors_Dark_Skies_Thread_Transcript_2026-07-21.txt
+- PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+- PW_Compendium_Refresh_Pack_DuckyG3_FAILSAFE_and_SpookG3_DARK_SKIES_v0_1.txt
+- explicit owner title lock, 2026-07-22
+
+END
