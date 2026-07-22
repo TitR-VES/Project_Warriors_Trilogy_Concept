@@ -1,0 +1,59 @@
+PROJECT WARRIORS — PERMANENT RECORD PRESENTATION / MUSIC / ENDING NOTE
+Generated: 2026-07-22
+Version: rev1
+Status: CREATIVE DIRECTION LOCK / PRODUCTION AND LICENSING DEPENDENT
+
+PURPOSE
+This page preserves the intended trailer and ending music direction for Spook's Game 4
+campaign without implying that music rights have been secured.
+
+CAMPAIGN
+PERMANENT RECORD.
+
+PREFERRED TRACK
+The Smashing Pumpkins — "Bullet with Butterfly Wings."
+
+TRAILER DIRECTION
+Preferred use:
+- campaign trailer track;
+- emphasizes entrapment, rage, institutional pressure, and a protagonist fighting a
+  structure larger than the immediate target;
+- should support Permanent Record's evidence/accountability thesis rather than turn the
+  trailer into a generic action montage.
+
+ENDING / PLAYOUT DIRECTION
+Preferred use:
+- end-credit or playout track beginning after ONE HEAD OF THE HYDRA;
+- not at the JUDGMENT DAY crash site;
+- the final device-data reveal provides the correct emotional launch point.
+
+ENDING TONE LOCK
+- Stockbridge is captured alive.
+- One immediate powerful branch is stopped.
+- The network and its inherited/patronage-based continuation survive.
+- Some names or family/succession lines already touch the rebuilding order.
+- Progress is real; triumph is refused.
+- The player should leave angry, unsettled, and aware that accountability must continue.
+
+USE RULE
+Do not shape the finale into "Kingmaker defeated." Stockbridge is one surviving branch,
+not the whole organism. The final track should reinforce this double truth:
+1. the operation mattered;
+2. the struggle remains structurally larger.
+
+PRODUCTION GOVERNANCE
+- Track choice is preferred creative direction, not a licensing claim.
+- If licensing is unavailable, preserve the same emotional and structural function with
+  an approved replacement rather than changing the ending into a triumphal cue.
+- No lyric quotation is required in source materials.
+
+RELATED DIEGETIC MUSIC
+ET IN ARCADIA EGO separately uses Teddybears — "Cobra Style" as accidental diegetic
+yacht-PA playback during the exfil/galley collapse. That cue has a different function and
+must not be conflated with the trailer/credits direction.
+
+SOURCES
+- dev_src_docs/story_campaigns/Game4/Spook/PW_One_Head_of_the_Hydra_Aftermath_Reference_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+
+END OF FILE
