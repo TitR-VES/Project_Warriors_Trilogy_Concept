@@ -1,0 +1,325 @@
+meta:
+  delta_id: PW-ONT-NO-KINGS-BRIDGE-2026-07-22-REV1
+  generated: '2026-07-22'
+  timeline_applies_to: pw_world_event_timeline_rev2_3.yaml
+  timeline_produces: pw_world_event_timeline_rev2_4.yaml
+  registry_applies_to: named_weapon_builds_v3_0.txt
+  registry_produces: named_weapon_builds_v3_0.txt
+  status: locked_and_working_delta
+  sources:
+  - dev_src_docs/story_campaigns/Game3/Romeo/PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+  - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+  - dev_src_docs/story_campaigns/Game3/Spook/PW_DARK_SKIES_Title_Origin_and_Thematic_Provenance_2026-07-22_rev1.txt
+operations:
+- op: update_campaign_track
+  match_id: PW-TRK-G3-NO-KINGS
+  set:
+    timeframe:
+      opens:
+        event: PW-EVT-G3-NO-KINGS-EASTBOUND
+      closes:
+        event: PW-EVT-GAME3-CLOSE
+      placement_status: confirmed
+      notes: Kentucky-to-Boston bridge spans a meaningful inter-campaign interval; exact dates remain
+        open.
+    notes: Locked Romeo Game 3 title and four-act spine. Early Act I source-landed sequence is EASTBOUND,
+      WEST SEAM, HINGE, OPEN THE FACE, DAY WINDOW, ROLL CALL, and THE POCKET. Full later ladder remains
+      incomplete.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+- op: update_campaign_track
+  match_id: PW-TRK-G3-DARK-SKIES
+  set:
+    notes: Locked Spook Game 3 campaign title. Title-origin thread associates the phrase with hostile
+      surveillance, compromised airspace, drones/satellites, denied movement, and a sky that is no longer
+      neutral. Existing campaign refresh pack controls the four-act and mission structure.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Spook/PW_DARK_SKIES_Title_Origin_and_Thematic_Provenance_2026-07-22_rev1.txt
+    - source_audits_and_reports/PW_Compendium_Refresh_Pack_DuckyG3_FAILSAFE_and_SpookG3_DARK_SKIES_v0_1.txt
+- op: add_events
+  values:
+  - id: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    name: Romeo's Kentucky-to-Boston political and logistical bridge
+    era: PW-ERA-WWIII
+    date:
+      window: after the American Freedom Kentucky liberation arc and before the NO KINGS Boston opening;
+        meaningful inter-campaign span, exact dates TBD
+      basis: owner-locked bridge direction; broader window preferred over false precision
+    location: Calloway / Kentucky through fractured eastbound relay routes to greater Boston
+    actors:
+    - Romeo (LT Ramón Álvarez)
+    - American Freedom Coalition
+    - copied and distorted AFC-aligned cells
+    - Boston local resistance network
+    ordering:
+      after:
+      - PW-EVT-CALLOWAY-OCCUPATION-BEGINS
+      before:
+      - PW-EVT-G3-NO-KINGS-EASTBOUND
+    relations:
+      bridges_campaigns:
+      - PW-TRK-G2-AMERICAN-FREEDOM
+      - PW-TRK-G3-NO-KINGS
+      establishes:
+      - AFC spread beyond face-to-face control
+      - ideological distortion / New America contamination
+      - Boston strategic and political necessity
+    depicted_in:
+    - PW-TRK-G2-AMERICAN-FREEDOM
+    - PW-TRK-G3-NO-KINGS
+    status: confirmed
+    notes: Kentucky remains the seed. Romeo moves east because Boston concentrates occupation logistics,
+      civic symbolism, infrastructure compromise, and the struggle over what the AFC becomes. Boston already
+      has an organized local resistance; Romeo arrives as a useful outsider, not a savior. Semper Fi /
+      loyalist channels may enable movement indirectly but are not the narrative motor.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+  - id: PW-EVT-G3-NO-KINGS-EASTBOUND
+    name: EASTBOUND — Boston threshold entry / Elena first contact
+    era: PW-ERA-WWIII
+    date:
+      relative: early NO KINGS / Act I Eastbound War; exact date TBD
+      anchor: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    location: Greater Boston outer industrial/service approach
+    actors:
+    - Romeo (LT Ramón Álvarez)
+    - Elena Costa
+    - Boston local resistance
+    - Local Guide
+    - unselected eastbound companions
+    ordering:
+      after:
+      - PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+      - PW-EVT-BOSTON-OCCUPATION
+      before:
+      - PW-EVT-G3-NO-KINGS-WEST-SEAM
+    relations:
+      advances:
+      - PW-TRK-G3-NO-KINGS
+      follows_mission:
+      - PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    depicted_in:
+    - PW-TRK-G3-NO-KINGS
+    status: confirmed
+    notes: Playable prologue and final leg of the Kentucky-to-Boston bridge. A compromised relay handoff
+      forces locally guided entry. Exact companion identities and exact date remain open.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_EASTBOUND_Prologue_Script_Path_2026-07-22_rev2.txt
+  - id: PW-EVT-G3-NO-KINGS-WEST-SEAM
+    name: WEST SEAM — reopen the first living Boston corridor
+    era: PW-ERA-WWIII
+    date:
+      relative: early NO KINGS / Act I Eastbound War; exact date TBD
+      anchor: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    location: Western Boston district seam / clinic and supply corridor
+    actors:
+    - Romeo (LT Ramón Álvarez)
+    - Elena Costa
+    - Boston local resistance
+    - Local Guide
+    ordering:
+      after:
+      - PW-EVT-G3-NO-KINGS-EASTBOUND
+      before:
+      - PW-EVT-G3-NO-KINGS-HINGE
+    relations:
+      advances:
+      - PW-TRK-G3-NO-KINGS
+      follows_mission:
+      - PW-EVT-G3-NO-KINGS-EASTBOUND
+    depicted_in:
+    - PW-TRK-G3-NO-KINGS
+    status: confirmed
+    notes: Act I Mission 01. Reopens a route linking clinic, water, plasma, observers, and local movement;
+      teaches seam warfare and civic function.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_WEST_SEAM_Act1_Mission01_Script_Path_2026-07-22_rev1.txt
+  - id: PW-EVT-G3-NO-KINGS-HINGE
+    name: HINGE — seize the municipal maintenance joint
+    era: PW-ERA-WWIII
+    date:
+      relative: early NO KINGS / Act I Eastbound War; exact date TBD
+      anchor: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    location: Western Boston municipal maintenance annex / public-works garage
+    actors:
+    - Romeo (LT Ramón Álvarez)
+    - Elena Costa
+    - Boston local resistance
+    - Municipal Foreman
+    ordering:
+      after:
+      - PW-EVT-G3-NO-KINGS-WEST-SEAM
+      before:
+      - PW-EVT-G3-NO-KINGS-OPEN-THE-FACE
+    relations:
+      advances:
+      - PW-TRK-G3-NO-KINGS
+      follows_mission:
+      - PW-EVT-G3-NO-KINGS-WEST-SEAM
+    depicted_in:
+    - PW-TRK-G3-NO-KINGS
+    status: confirmed
+    notes: Act I Mission 02. Seizes a district joint and converts a route into the first kept forward
+      civic space.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_HINGE_Act1_Mission02_Script_Path_2026-07-22_rev1.txt
+  - id: PW-EVT-G3-NO-KINGS-OPEN-THE-FACE
+    name: OPEN THE FACE — reclaim a visible neighborhood frontage
+    era: PW-ERA-WWIII
+    date:
+      relative: early NO KINGS / Act I Eastbound War; exact date TBD
+      anchor: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    location: Western Boston storefront and civic-corner frontage
+    actors:
+    - Romeo (LT Ramón Álvarez)
+    - Elena Costa
+    - Boston local resistance
+    - district civilians
+    ordering:
+      after:
+      - PW-EVT-G3-NO-KINGS-HINGE
+      before:
+      - PW-EVT-G3-NO-KINGS-DAY-WINDOW
+    relations:
+      advances:
+      - PW-TRK-G3-NO-KINGS
+      follows_mission:
+      - PW-EVT-G3-NO-KINGS-HINGE
+    depicted_in:
+    - PW-TRK-G3-NO-KINGS
+    status: confirmed
+    notes: Act I Mission 03. Forces occupation elements off a visible neighborhood face and makes local
+      resistance publicly legible.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_OPEN_THE_FACE_Act1_Mission03_Script_Path_2026-07-22_rev1.txt
+  - id: PW-EVT-G3-NO-KINGS-DAY-WINDOW
+    name: DAY WINDOW — loyalist A-10 pass opens a daylight corridor
+    era: PW-ERA-WWIII
+    date:
+      relative: early NO KINGS / Act I Eastbound War; exact date TBD
+      anchor: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    location: Greater Boston suburban avenue / school-edge corridor
+    actors:
+    - Romeo (LT Ramón Álvarez)
+    - Elena Costa
+    - Boston local resistance
+    - AXEMAN 21
+    - offscreen JTAC/FAC(A) control chain
+    ordering:
+      after:
+      - PW-EVT-G3-NO-KINGS-OPEN-THE-FACE
+      before:
+      - PW-EVT-G3-NO-KINGS-ROLL-CALL
+    relations:
+      advances:
+      - PW-TRK-G3-NO-KINGS
+      follows_mission:
+      - PW-EVT-G3-NO-KINGS-OPEN-THE-FACE
+    depicted_in:
+    - PW-TRK-G3-NO-KINGS
+    status: confirmed
+    notes: 'Act I Mission 04. A single loyalist A-10 pass creates a brief daylight movement window. Elena''s
+      locked realism cue is: “Controller’s got it. Hold west. Window’s yours.” The strike creates a window,
+      not durable control.'
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_DAY_WINDOW_Act1_Mission04_Script_Path_2026-07-22_rev2.txt
+  - id: PW-EVT-G3-NO-KINGS-ROLL-CALL
+    name: ROLL CALL — destroy screening records and break detainee transfer
+    era: PW-ERA-WWIII
+    date:
+      relative: early NO KINGS / Act I Eastbound War; exact date TBD
+      anchor: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    location: Boston school-side screening annex / district processing corridor
+    actors:
+    - Romeo (LT Ramón Álvarez)
+    - Elena Costa
+    - Boston local resistance
+    - district residents
+    ordering:
+      after:
+      - PW-EVT-G3-NO-KINGS-DAY-WINDOW
+      before:
+      - PW-EVT-G3-NO-KINGS-THE-POCKET
+    relations:
+      advances:
+      - PW-TRK-G3-NO-KINGS
+      follows_mission:
+      - PW-EVT-G3-NO-KINGS-DAY-WINDOW
+    depicted_in:
+    - PW-TRK-G3-NO-KINGS
+    status: confirmed
+    notes: Act I Mission 05. Absorbs the political and administrative backlash after DAY WINDOW by protecting
+      names, records, routes, and detainees.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_ROLL_CALL_Act1_Mission05_Script_Path_2026-07-22_rev1.txt
+  - id: PW-EVT-G3-NO-KINGS-THE-POCKET
+    name: THE POCKET — establish the first kept neighborhood interior
+    era: PW-ERA-WWIII
+    date:
+      relative: early NO KINGS / Act I Eastbound War; exact date TBD
+      anchor: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    location: Western Boston connected neighborhood interior pocket
+    actors:
+    - Romeo (LT Ramón Álvarez)
+    - Elena Costa
+    - Boston local resistance
+    - district civilians and skilled locals
+    ordering:
+      after:
+      - PW-EVT-G3-NO-KINGS-ROLL-CALL
+      before:
+      - PW-EVT-GAME3-CLOSE
+    relations:
+      advances:
+      - PW-TRK-G3-NO-KINGS
+      follows_mission:
+      - PW-EVT-G3-NO-KINGS-ROLL-CALL
+    depicted_in:
+    - PW-TRK-G3-NO-KINGS
+    status: confirmed
+    notes: Act I Mission 06. Clears three perimeter teeth, builds sustainment, survives the first night
+      answer, and locks the first contiguous protected pocket. This turns Act I survival toward Act II
+      Neighborhood War.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Romeo/PW_THE_POCKET_Act1_Mission06_Script_Path_2026-07-22_rev1.txt
+- op: add_sync_point
+  value:
+    id: PW-SYN-AMERICAN-FREEDOM-NO-KINGS-BRIDGE
+    name: American Freedom to NO KINGS / Kentucky-to-Boston continuity bridge
+    kind: cross_installment_character_and_movement_bridge
+    event: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+    tracks:
+    - PW-TRK-G2-AMERICAN-FREEDOM
+    - PW-TRK-G3-NO-KINGS
+    depends_on_events:
+    - PW-EVT-CALLOWAY-OCCUPATION-BEGINS
+    - PW-EVT-BOSTON-OCCUPATION
+    description: Calloway proves the AFC can exist; its name spreads faster than its ethics. Romeo moves
+      east through fractured relay networks and enters an already-resisting Boston, where liberation becomes
+      a struggle over who defines America afterward.
+    retcon_sensitivity: critical
+    status: confirmed
+validation_targets:
+  timeline:
+    eras: 7
+    events: 66
+    campaign_tracks: 21
+    sync_points: 16
+    duplicate_ids: 0
+    dangling_references: 0
+    acyclic: true
+  registry:
+    named_identities: 37
+    duplicate_ids: 0
+    unchanged_from: v3.0
