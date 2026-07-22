@@ -1,0 +1,126 @@
+PROJECT WARRIORS — INFRASTRUCTURE DAY
+BLOMMAERT OPTIONAL TARGET / JUDGE ME NOT ACHIEVEMENT
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED OPTIONAL-BRANCH STRUCTURE
+
+MISSION CONTEXT
+Campaign: Spook Game 1 — RIPTIDE RED
+Mission: Infrastructure Day
+Location: GenCorp skyscraper, Abu Dhabi, United Arab Emirates
+Playable character: Trevor “Spook” Gartner
+Optional target: Leandro Petrus Blommaert
+
+FUNCTION
+This page replaces the older reading of Blommaert as a data-security executive with
+the controlling physical-security / protective-operations role and defines the earned
+exterior-rappel target-of-opportunity sequence.
+
+Blommaert is not a mandatory boss. The player must create and recognize the opportunity.
+His death or survival is a branch outcome with later continuity consequences.
+
+OPTIONAL-KILL SETUP
+Preferred scene:
+- During the exterior-rappel phase, Blommaert steps onto a private exterior service
+  balcony or recessed maintenance terrace outside the executive security suite.
+- He is taking a secure phone call because internal rooms and channels may be compromised.
+- Spook reaches the correct exterior position, inverts on the rappel line, and can take
+  one clean suppressed shot from outside the tower.
+- The beat may evoke an inverted tactical-rappel engagement, but must remain grounded,
+  restrained, and short.
+
+EARN CONDITIONS
+The opportunity requires all or most of the following mission work:
+1. Recover Blommaert's movement schedule, live camera feed, or security routing clue.
+2. Disable, loop, or bypass the exterior camera covering the balcony/terrace.
+3. Reach the correct rappel position before full-alarm or data-center escalation.
+4. Wait for the narrow movement window instead of rushing.
+5. Take a single clean suppressed shot.
+
+PROMPT
+ELIMINATE
+
+“Take the shot” is an acceptable discarded alternative, but ELIMINATE is the controlling
+prompt because it matches Spook's clinical operational vocabulary.
+
+FAILURE / SURVIVAL STATES
+Blommaert survives if:
+- the player arrives too late;
+- the player alarms the building early;
+- exterior shutters deploy;
+- the player misses;
+- the player wounds but does not kill him;
+- the player bypasses the opportunity;
+- the player deliberately leaves him alive.
+
+A surviving Blommaert learns from the encounter. Later security designed by him may
+specifically counter vertical access, camera-loop expectations, false-route logic,
+and clean balcony approaches.
+
+MISSION CONSEQUENCES
+If Blommaert is eliminated:
+- GenCorp loses a high-value physical-security coordinator;
+- the immediate response/exfil route may become cleaner or less adaptive;
+- the player may recover optional intelligence from his security lane;
+- JUDGE ME NOT unlocks if achievements are implemented.
+
+If he survives:
+- the mission remains completable;
+- response pressure may remain higher;
+- Blommaert is available for future Spook-campaign continuity.
+
+No branch is globally canonical unless a later owner decision explicitly selects it.
+
+ACHIEVEMENT RECORD
+Achievement ID: PW-ACH-G1-SPOOK-JUDGE-ME-NOT
+Display title: JUDGE ME NOT
+Unlock condition: Eliminate Leandro Petrus Blommaert from the earned exterior-rappel
+position during Infrastructure Day.
+
+Display description — controlling clean version:
+Neutralize Leandro Petrus Blommaert during Infrastructure Day.
+
+Do not replace the description with unrelated generated text.
+Avoid “assassinate” or “murder”; the achievement leaves the moral judgment with the
+player.
+
+ACHIEVEMENT THEMATIC FUNCTION
+The title works as:
+- a judgment-call reference for an optional kill;
+- a restrained tactical-police / SWAT-adjacent nod;
+- moral irony, because Blommaert is dangerous and compromised but not the mandatory
+  ideological monster of the mission.
+
+ICON LOCK
+The icon is a minimal high-contrast reticle/scope graphic.
+
+Required visual elements:
+- one single upside-down silhouette of Blommaert;
+- back turned;
+- holding a phone to his ear;
+- viewed from Spook's inverted rappel perspective;
+- the reticle center dot aligned on Blommaert's head, not the center of his back;
+- an optional faint balcony rail / ledge that follows the same inverted perspective;
+- no duplicate right-side-up silhouette;
+- no gore, facial detail, muzzle flash, or cluttered full-scene illustration.
+
+Readability requirement:
+The figure, phone pose, inverted orientation, and head-centered reticle must remain
+legible at small achievement-list size.
+
+UI PRESENTATION
+Recommended achievement-list treatment:
+- horizontal tab/card;
+- compact square icon on the left;
+- title and exact clean description on the right;
+- dark charcoal / near-black modern military-thriller interface;
+- restrained grey-blue accents;
+- subtle unlocked/completion marker;
+- no real-world game branding.
+
+RELATED SOURCES
+- dev_src_docs/characters/PW_Leandro_Petrus_Blommaert_Profile_2026-07-22_rev1.txt
+- dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+- Owner-supplied thread export: PW_Blommaert_Thread_Export.txt
+
+END
