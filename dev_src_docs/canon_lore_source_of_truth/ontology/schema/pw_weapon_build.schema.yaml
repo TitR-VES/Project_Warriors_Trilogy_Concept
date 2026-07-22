@@ -5,6 +5,7 @@
 # Changes:
 # - Registry base authority remains named_weapon_builds_v2_8.txt.
 # - War Within delta pw_war_within_rev2_2.delta.yaml produces registry v2.9.
+# - Blommaert/Game 3 delta pw_blommaert_game3_rev2_3.delta.yaml produces v3.0.
 # - Added campaign_refs, placement, and player-availability fields.
 # - Completed normalization for exact registry status strings.
 # - Added explicit null/recovery and cross-ontology validation rules.
@@ -15,8 +16,10 @@ meta:
   supersedes: pw_weapon_build.schema.yaml rev1
   authority:
     current_registry_base: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
-    current_registry_delta: dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
-    projected_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+    current_registry_deltas:
+      - dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
+      - dev_src_docs/canon_lore_source_of_truth/ontology/pw_blommaert_game3_rev2_3.delta.yaml
+    projected_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v3_0.txt
     legacy_detail_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
 schema:
   entity: named_weapon_build
@@ -34,7 +37,7 @@ schema:
     platform:
       type: [string, 'null']
       required: true
-    caliber: {type: [string, 'null'], required: false}
+    caliber: {type: [string, object, 'null'], required: false}
     campaign_refs:
       type: list
       items: string
@@ -78,25 +81,6 @@ schema:
   validation_rules:
     - IDs must be unique in the authoritative registry projection.
     - build_name, owner, platform, and campaign may be null only when status explicitly permits recovery.
-    - Null values must be paired with unresolved_fields or an explanatory note.
-    - Temporary mission pickups must declare player_availability and must not be inferred as persistent inventory.
-    - Named builds with the same or similar wording remain separate unless a source explicitly merges them.
-    - DEAD BLOW and DEADBOLT are distinct identities.
-    - A stable owner correction supersedes unresolved-owner placeholders without changing the build ID unless migration is explicitly authorized.
-    - Exact status strings in the human-readable registry must map through status_normalization.
-    - Registry deltas supersede conflicting base-registry fields only for the explicitly matched stable ID.
-status_normalization:
-  LOCKED: locked
-  LOCKED; retired Game 2 Act II after recognition beat: locked
-  LOCKED CORE: locked_core
-  LOCKED CORE / FLAGS REMAIN: locked_core
-  CORE BUILD LOCKED; implementation flags remain: locked_core
-  CORE IDENTITY LOCKED; exact configuration pending: locked_core
-  WORKING LOCK / SOURCE-READY: working_lock
-  NAME / PLATFORM LOCKED; full configuration pending: name_platform_locked
-  NAMED WEAPON IDENTITY; dedicated full spec pending: named_identity
-  NAME / OWNER CONFIRMED; platform/placement recovery required: name_owner_confirmed
-  NAME / OWNER CONFIRMED; full specification recovery required: name_owner_confirmed
-  NAME / CAMPAIGN CONFIRMED; owner/specification recovery required: name_campaign_confirmed
-  NAME / OWNER / CAMPAIGN CONFIRMED; platform recovery required: name_owner_campaign_confirmed
-  SOURCE RECOVERY REQUIRED: source_recovery_required
+    - registry deltas must identify the base/projection pair they transform.
+    - mission-only availability must not be represented as persistent player ownership.
+    - unresolved choices must remain explicit rather than being silently selected.
