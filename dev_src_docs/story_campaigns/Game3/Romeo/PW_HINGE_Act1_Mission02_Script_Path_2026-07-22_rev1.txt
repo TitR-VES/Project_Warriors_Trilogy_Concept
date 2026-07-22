@@ -1,0 +1,150 @@
+PROJECT WARRIORS — NO KINGS ACT I MISSION SOURCE
+Mission 02: HINGE
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED MISSION IDENTITY / SOURCE-LANDED WORKING SCRIPT
+
+MISSION PURPOSE
+First selective outward push after WEST SEAM.
+The resistance seizes a municipal maintenance annex / public-works garage that acts as
+a district joint connecting three short lanes. The mission turns a surviving route into
+the first kept forward civic space.
+
+TARGET VALUE
+The Hinge provides:
+- roof and upper-floor observation;
+- workshop and vehicle-bay space;
+- covered supply and casualty staging;
+- a route from west foothold into a deeper neighborhood pocket;
+- local patrol/repeater disruption.
+
+BRIEFING CORE
+The occupiers use the building as a knot, not a fortress.
+Protected dialogue:
+ELENA: “That’s the hinge.”
+ELENA: “West seam bought us a day. If we don’t take this, tomorrow that seam goes back
+to being a breath.”
+ELENA: “They’re not holding it like a fortress. They’re using it like a knot. That makes
+it worse.”
+ROMEO: “Because knots pull tight.”
+ELENA: “Good.”
+ELENA: “This is the first one that counts.”
+ELENA: “No. Not all right. Precise.”
+ELENA: “Street gets loud, you lose the block. Roof stays live, you lose the push.
+Garage burns, you win nothing.”
+ELENA: “Take the hinge.”
+
+MISSION FLOW
+Phase 1 — Through the breath
+- use WEST SEAM as a functioning route;
+- show water runners and changed ground;
+- explain the local title.
+
+Protected dialogue:
+LOCAL GUIDE: “West seam’s still breathing.”
+ROMEO: “For now.”
+LOCAL GUIDE: “That’s why we’re moving.”
+ROMEO: “Why do locals call it the hinge.”
+LOCAL GUIDE: “Because if it swings our way, three blocks start talking to each other
+again.”
+ROMEO: “And if it doesn’t.”
+LOCAL GUIDE: “Then they keep dying separate.”
+
+Phase 2 — Read the knot
+- identify roof watcher, upper-office repeater, courtyard gun, patrol truck, and a
+  Municipal Foreman held for breaker/utility knowledge;
+- truck being inside signals enemy confidence.
+
+Protected dialogue:
+LOCAL GUIDE: “Truck’s inside. Good.”
+ROMEO: “Why good.”
+LOCAL GUIDE: “Means they still think it’s theirs.”
+
+Phase 3 — Kill the roof eyes
+- move through an abandoned rowhouse;
+- neutralize watcher and repeater before exposing street.
+
+Protected dialogue:
+LOCAL FIGHTER: “Roof’s dark.”
+LOCAL GUIDE: “Good. Office next.”
+LOCAL GUIDE after repeater loss: “There. Now the knot loosens.”
+ROMEO: “Not enough.”
+LOCAL GUIDE: “No. But enough to enter.”
+
+Phase 4 — Service wall entry
+- breach laterally through the building's dead side;
+- close-quarters push through office, workshop corridor, stair, and mezzanine.
+
+Protected dialogue:
+LOCAL GUIDE: “Once this goes, no street heroics.”
+ROMEO: “Not planning any.”
+LOCAL GUIDE: “Good. Keep disappointing me like that.”
+
+Phase 5 — Free the Foreman / take the floor
+- release the Municipal Foreman from breaker room;
+- his local skill governs which controls can be damaged or used.
+
+Protected dialogue:
+MUNICIPAL FOREMAN: “If that’s you idiots, pick a side of the handle and commit!”
+MUNICIPAL FOREMAN: “Took you long enough.”
+ROMEO: “You walk.”
+MUNICIPAL FOREMAN: “I run better than you shoot. Get me downstairs.”
+MUNICIPAL FOREMAN: “Not that box. You kill that, the bay door locks and the drains back
+up. You want the red lever. Only the red lever.”
+LOCAL GUIDE after controlled bay change: “What’d that do.”
+MUNICIPAL FOREMAN: “Made it harder for stupid men to enter in a straight line.”
+
+Phase 6 — Take the garage
+- secure garage and courtyard without chasing street kills;
+- preserve the intact truck as an unclaimed future asset, not an instant reward.
+
+Protected dialogue:
+LOCAL FIGHTER: “Truck’s intact!”
+ROMEO: “Leave it.”
+LOCAL GUIDE: “Good answer.”
+LOCAL FIGHTER: “Floor’s ours!”
+LOCAL GUIDE: “No. Floor’s empty. Make it ours.”
+
+Phase 7 — Counterpush / first true hold
+- Elena's move team brings water, batteries, optics, radios, and medical stores;
+- building transforms during the defense;
+- Foreman continues to manipulate the space.
+
+Protected dialogue:
+ELENA: “Water to the rear. Optics upstairs. No one stacks by the bay door.”
+ELENA: “Status.”
+LOCAL GUIDE: “Hinge is holding.”
+ELENA: “For now.”
+MUNICIPAL FOREMAN: “Kill that switch! Third box left!”
+LOCAL FIGHTER: “Which left!”
+MUNICIPAL FOREMAN: “The intelligent one!”
+LOCAL GUIDE: “Hold the hinge!”
+
+Phase 8 — The block turns
+- battery, radio, water, aid, route markings, and Union Mark reappear;
+- upper view shows changed movement, not a romantic skyline.
+
+Protected dialogue:
+ELENA: “Look.”
+ROMEO: “One building.”
+ELENA: “No. One joint.”
+ELENA: “Take a joint, the limb moves different.”
+ROMEO: “And if they hit back hard.”
+ELENA: “They will. That’s how you know it mattered.”
+ELENA: “All right. Now we have somewhere to stand.”
+
+MISSION END STATE
+- first kept forward civic space;
+- Municipal Foreman becomes a recurring skilled-local possibility;
+- HINGE supports OPEN THE FACE.
+
+OPEN FIELDS
+- exact public-works facility and district location;
+- final Foreman name;
+- exact vehicle/platform details;
+- encounter tuning and hold duration.
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+
+END
