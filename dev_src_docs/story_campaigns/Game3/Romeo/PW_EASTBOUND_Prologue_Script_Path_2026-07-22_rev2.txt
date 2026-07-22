@@ -1,0 +1,199 @@
+PROJECT WARRIORS — NO KINGS PROLOGUE MISSION SOURCE
+Mission: EASTBOUND
+Generated: 2026-07-22
+Version: rev2
+Status: LOCKED PROLOGUE IDENTITY / SOURCE-LANDED WORKING SCRIPT
+
+CAMPAIGN POSITION
+Romeo Game 3 / NO KINGS prologue.
+Playable final leg of the months-spanning Kentucky-to-Boston bridge.
+
+MISSION PURPOSE
+- move Romeo physically and politically from Calloway into occupied Boston;
+- show the AFC name spreading beyond his face-to-face control;
+- introduce ideological distortion through wrong-hand AFC marks and reports of abuse;
+- establish Boston as a prepared occupation environment with service, utility, port,
+  and civic-administration seams;
+- establish Boston's local resistance as already active;
+- introduce Elena Costa as local operational authority;
+- let Romeo earn entry rather than arrive as a savior.
+
+CAST GOVERNANCE
+Locked:
+- Romeo;
+- Relay Contact;
+- Local Guide;
+- Elena Costa;
+- Boston local resistance.
+Open:
+- exact identities of Romeo's two trusted eastbound companions. Use COMPANION 1 and
+  COMPANION 2 until separately adjudicated.
+
+SETTING
+Outer industrial/service belt west or southwest of greater Boston, under low overcast
+or pre-dawn light. Approach Boston through working understructure rather than skyline:
+service tracks, drainage cuts, maintenance lots, utility corridors, rowhouse backlines,
+and narrow district seams.
+
+OPENING BRIEFING
+Kentucky aftermath:
+- copied AFC shield appears in a wrong hand;
+- a report shows fighters invoking the AFC while searching a clinic and taking civilians;
+- Romeo recognizes that the name travels faster than its ethics;
+- a Boston packet contains service seams, utility access, port timings, municipal notes,
+  and evidence that someone mapped the city for occupation before the occupation was
+  overt;
+- Romeo moves east because Boston matters strategically and politically.
+
+Controlling polished dialogue:
+COMPANION 2: “Ohio packet. Two days old.”
+ROMEO: “Clinic search.”
+COMPANION 1: “Two men taken.”
+ROMEO: “That ours.”
+COMPANION 1: “No.”
+COMPANION 2: “They said it was.”
+ROMEO: “That’s the problem.”
+COMPANION 1: “Not rumor. Routes.”
+COMPANION 2: “Service seams. Utility access. Port timings. Somebody gave them the city
+in pieces before they took it whole.”
+COMPANION 1: “Boston’s already fighting.”
+ROMEO: “Good.”
+COMPANION 2: “That wasn’t reassurance.”
+ROMEO: “Didn’t take it that way.”
+ROMEO: “Let’s go.”
+
+MISSION FLOW
+Phase 1 — Outer approach
+- move through service track, fence breach, drainage line, and maintenance lot;
+- optional observation of a copied, proportionally wrong AFC shield;
+- city pressure is implied through distant lights, radio hiss, and checkpoint audio.
+
+Protected dialogue:
+COMPANION 2: “Shield’s wrong.”
+ROMEO: “Close enough to spread.”
+COMPANION 1: “Still turns my stomach.”
+ROMEO: “Keep moving.”
+
+Phase 2 — Relay handoff
+- challenge/response verifies Romeo using Calloway and Tennessee;
+- the relay contact remains suspicious;
+- handoff confirms thin west seams, watched freight, quieter utility access, continued
+  port relevance, and prior civic-side compromise.
+
+Protected dialogue:
+RELAY CONTACT: “Stop. County.”
+ROMEO: “Calloway.”
+RELAY CONTACT: “River.”
+ROMEO: “Tennessee.”
+RELAY CONTACT: “You’re late.”
+ROMEO: “Still here.”
+RELAY CONTACT: “What made it this far made it dirty.”
+COMPANION 2: “Dirty’s workable.”
+RELAY CONTACT: “No. Dirty means hands.”
+RELAY CONTACT: “West seams are thin. Freight’s watched. Utility’s quieter. Port still
+matters. City Hall side was soft before uniforms showed up.”
+ROMEO: “Meaning.”
+RELAY CONTACT: “Meaning somebody helped.”
+
+Phase 3 — Relay collapse
+- informer-led or sweep-team contact burns the handoff;
+- Relay Contact is hit and cannot fully exfiltrate;
+- Romeo secures the package under close industrial combat;
+- a suppressed local intervention opens an unexpected utility exit.
+
+Protected dialogue:
+RELAY CONTACT: “Yeah. We’re burned.”
+ROMEO: “Take the packet. Move.”
+LOCAL GUIDE (O.S.): “Wrong door. Move.”
+
+Phase 4 — Local extraction
+- the Local Guide takes control of movement;
+- Romeo follows Boston route discipline through service corridors, pipe chases,
+  drainage cuts, ladders, and urban backlines;
+- the city teaches itself through movement rather than exposition.
+
+Protected dialogue:
+COMPANION 1: “You with the relay.”
+LOCAL GUIDE: “I’m with the city.”
+ROMEO: “You been watching us.”
+LOCAL GUIDE: “Long enough.”
+LOCAL GUIDE: “You step into that mouth, you die in public.”
+COMPANION 2: “Friendly.”
+LOCAL GUIDE: “Not for you.”
+
+Phase 5 — First observation seam
+- first true read on occupied Boston;
+- show checkpoint geometry, civilian adaptation, local scars, and an early Union Mark;
+- Boston is not Calloway scaled up.
+
+Protected dialogue:
+LOCAL GUIDE: “There. Boston.”
+ROMEO: “Who holds what.”
+LOCAL GUIDE: “Nobody holds Boston. We hold pieces. For an hour. For a night. For as
+long as we can keep them expensive.”
+COMPANION 1: “And after that.”
+LOCAL GUIDE: “Then we take another piece.”
+At Union Mark:
+LOCAL GUIDE: “Older than this war. Means the block remembers.”
+
+Phase 6 — Foothold fight
+- route partially burns;
+- Romeo helps secure one alley/workshop/basement access pocket;
+- practical cooperation, casualty movement, and sector sharing earn entry;
+- keep the fight intimate; do not spend the A-10 beat here.
+
+Protected dialogue:
+LOCAL GUIDE: “Window. Second floor. Left.”
+ROMEO: “Seen.”
+COMPANION 1: “Stair’s blocked.”
+ROMEO: “Then break it.”
+LOCAL GUIDE: “You wanted in. Earn it.”
+COMPANION 1: “Rear room clear.”
+LOCAL GUIDE: “No. Better.”
+
+Phase 7 — Elena first contact
+- resistance space is already functioning before Romeo arrives;
+- Elena enters while managing routes and casualties, not as a staged reveal;
+- she corrects Romeo's framing and conditionally admits him.
+
+Controlling polished dialogue:
+ELENA: “Status.”
+LOCAL GUIDE: “West seam burned. Package is live. Route held.”
+ELENA: “You Romeo Calloway.”
+ROMEO: “Depends.”
+ELENA: “Not really.”
+ELENA: “You brought heat to my edge.”
+ROMEO: “Wasn’t the plan.”
+ELENA: “Never is.”
+ELENA: “You kept this on you.”
+ROMEO: “Till I got it somewhere useful.”
+ELENA: “Maybe you did.”
+ROMEO: “Your people pulled us out.”
+ELENA: “No. My people saved a route. You were on it.”
+ELENA: “You need this straight now. Boston was fighting before you crossed state line.”
+ROMEO: “I know.”
+ELENA: “No. You hoped. Different thing.”
+ROMEO: “All right. Where do you need me.”
+ELENA: “Better.”
+ELENA: “Get water. Ten minutes, you tell me what Kentucky learned. Then I tell you what
+Boston costs.”
+
+MISSION END STATE
+- Romeo is inside the Boston network but not above it;
+- Elena is established as local armed authority;
+- Union Mark/local identity predates AFC dominance;
+- the AFC-future conflict is seeded;
+- WEST SEAM follows directly.
+
+OPEN FIELDS
+- exact date;
+- exact outer-Boston geography;
+- exact companion identities;
+- final encounter counts and Relay Contact branch treatment;
+- final incidental voice names.
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+- later dialogue-polish pass in the same thread
+
+END
