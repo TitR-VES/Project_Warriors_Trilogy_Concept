@@ -1,0 +1,214 @@
+meta:
+  delta_id: PW-ONT-BLOMMAERT-GAME3-2026-07-22-REV1
+  generated: '2026-07-22'
+  timeline_applies_to: pw_world_event_timeline_rev2_2.yaml
+  timeline_produces: pw_world_event_timeline_rev2_3.yaml
+  registry_applies_to: named_weapon_builds_v2_9.txt
+  registry_produces: named_weapon_builds_v3_0.txt
+  status: locked_delta
+  sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_PostMerge_Canon_Addendum_Blommaert_Game3_2026-07-22_rev1.txt
+    - dev_src_docs/characters/PW_Leandro_Petrus_Blommaert_Profile_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+    - dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+
+operations:
+  - op: replace_campaign_track
+    match_id: PW-TRK-G3-BOSTON
+    value:
+      id: PW-TRK-G3-NO-KINGS
+      title: No Kings
+      installment: Game 3
+      protagonist: Romeo (LT Ramón Álvarez)
+      timeframe:
+        opens:
+          tbd: Romeo Game 3 opening event not yet ontology-mapped
+        closes:
+          event: PW-EVT-GAME3-CLOSE
+        placement_status: confirmed
+      act_structure:
+        - Eastbound War
+        - Neighborhood War
+        - Harbor and the Shadow Government
+        - What Victory Is For
+      status: confirmed
+      notes: >-
+        Locked Romeo Game 3 campaign title. Occupied Boston / liberation / legitimacy
+        campaign. Full mission ladder remains incomplete; title status is independent.
+      historical_ids:
+        - PW-TRK-G3-BOSTON
+      sources:
+        - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+
+  - op: replace_references
+    from: PW-TRK-G3-BOSTON
+    to: PW-TRK-G3-NO-KINGS
+
+  - op: add_campaign_track
+    value:
+      id: PW-TRK-G3-FAILSAFE
+      title: Failsafe
+      installment: Game 3
+      protagonist: Ducky (SFC Ferris Ryan)
+      timeframe:
+        opens:
+          tbd: Ducky Game 3 opening event not yet ontology-mapped
+        closes:
+          event: PW-EVT-GAME3-CLOSE
+        placement_status: confirmed
+      act_structure:
+        - Broken Picture
+        - The Verification War
+        - Selective Restoration
+        - Failsafe
+      status: confirmed
+      notes: >-
+        Locked Ducky Game 3 campaign title. Coalition recovery under damaged trust.
+        Individual implementation flags remain controlled by the campaign source pack.
+      sources:
+        - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+        - source_audits_and_reports/PW_Compendium_Refresh_Pack_DuckyG3_FAILSAFE_and_SpookG3_DARK_SKIES_v0_1.txt
+
+  - op: update_campaign_track
+    match_id: PW-TRK-G3-DARK-SKIES
+    set:
+      title: Dark Skies
+      protagonist: Spook (CPT Trevor Gartner)
+      timeframe:
+        opens:
+          tbd: Spook Game 3 opening event not yet ontology-mapped
+        closes:
+          event: PW-EVT-GAME3-CLOSE
+        placement_status: confirmed
+      act_structure:
+        - Bad Omens
+        - Private Route
+        - Wrong Signature
+        - Dark Skies
+      status: confirmed
+      notes: >-
+        Locked Spook Game 3 campaign title. OUTER PORT remains the Tomakomai contact
+        mission and synchronizes with The Storm's FURTHER EAST. The Storm-side SOUTH
+        CULVERT title collision remains a separate rename dependency.
+      sources:
+        - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+        - source_audits_and_reports/PW_Compendium_Refresh_Pack_DuckyG3_FAILSAFE_and_SpookG3_DARK_SKIES_v0_1.txt
+
+  - op: update_event
+    match_id: PW-EVT-BOSTON-OCCUPATION
+    set:
+      depicted_in:
+        - track: PW-TRK-G3-NO-KINGS
+          note: Romeo Game 3 — NO KINGS
+      status: confirmed
+      sources:
+        - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+        - PW_Game3_Lab_Session_Summary.txt
+
+  - op: update_event
+    match_id: PW-EVT-GAME3-CLOSE
+    set:
+      depicted_in:
+        - PW-TRK-G3-NO-KINGS
+        - PW-TRK-G3-FAILSAFE
+        - PW-TRK-G3-DARK-SKIES
+      sources:
+        - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+        - dev_src_docs/story_campaigns/Game4/Shared/PW_Game4_Chronology_Canon_2026-07-21_rev1.txt
+
+  - op: add_event
+    value:
+      id: PW-EVT-G1-SPOOK-INFRASTRUCTURE-DAY-BLOMMAERT
+      name: Infrastructure Day — Blommaert exterior-rappel target opportunity
+      era: PW-ERA-WWIII
+      date:
+        era_only: Spook Game 1 campaign; exact mission date not locked
+      location: GenCorp skyscraper, Abu Dhabi, United Arab Emirates
+      actors:
+        - Trevor “Spook” Gartner
+        - Leandro Petrus Blommaert
+      ordering:
+        before:
+          - PW-EVT-GAME3-CLOSE
+      relations:
+        optional_branch_outcomes:
+          - Blommaert eliminated
+          - Blommaert survives / is bypassed / is wounded
+      depicted_in:
+        - PW-TRK-G1-RIPTIDE-RED-SPOOK
+      status: confirmed
+      notes: >-
+        Optional earned exterior-rappel shot. Prompt: ELIMINATE. The mission does not
+        globally select death or survival. JUDGE ME NOT unlocks for the elimination
+        branch if achievements are implemented.
+      sources:
+        - dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+        - dev_src_docs/characters/PW_Leandro_Petrus_Blommaert_Profile_2026-07-22_rev1.txt
+
+  - op: add_sync_point
+    value:
+      id: PW-SYN-G3-CAMPAIGN-TITLES
+      name: Game 3 three-campaign title and close governance
+      kind: shared_installment_window
+      event: PW-EVT-GAME3-CLOSE
+      tracks:
+        - PW-TRK-G3-NO-KINGS
+        - PW-TRK-G3-FAILSAFE
+        - PW-TRK-G3-DARK-SKIES
+      description: >-
+        NO KINGS, FAILSAFE, and DARK SKIES are the locked Romeo, Ducky, and Spook
+        Game 3 campaign titles. Exact openings and day-level synchronization remain open.
+      retcon_sensitivity: high
+      status: confirmed
+
+registry_operations:
+  - op: add_build
+    value:
+      stable_id: PW-WPN-BLOMMAERT-DUE-DILIGENCE
+      build_name: DUE DILIGENCE
+      owner: Leandro Petrus Blommaert
+      platform: SIG MCX Spear-LT / MCX Virtus-type compact carbine
+      campaign: Spook Game 1 — RIPTIDE RED
+      mission: Infrastructure Day
+      caliber:
+        status: unresolved_choice
+        options:
+          - 5.56x45mm
+          - .300 BLK
+      configuration:
+        barrel: approximately 11.5-inch compact lane
+        suppressor: true
+        optic: low-profile red dot or compact holographic optic
+        light: practical white light
+        ir_laser_illuminator: mission-context dependent
+        sling: two-point
+        finish: black or dark grey, worn but maintained
+      placement: owner-associated protective-operations carbine; player acquisition not locked
+      status: locked_core_flags_remain
+      source: dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+
+achievement_records:
+  - id: PW-ACH-G1-SPOOK-JUDGE-ME-NOT
+    title: JUDGE ME NOT
+    campaign: Spook Game 1 — RIPTIDE RED
+    mission: Infrastructure Day
+    unlock_condition: eliminate Blommaert from the earned exterior-rappel position
+    display_description: Neutralize Leandro Petrus Blommaert during Infrastructure Day.
+    status: confirmed_if_achievements_implemented
+    source: dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+
+validation_targets:
+  timeline:
+    eras: 7
+    events: 58
+    campaign_tracks: 21
+    sync_points: 15
+    duplicate_ids: 0
+    dangling_references: 0
+    acyclic: true
+  registry:
+    named_identities: 37
+    substantially_specified: 27
+    recovery_status: 10
+    duplicate_ids: 0
