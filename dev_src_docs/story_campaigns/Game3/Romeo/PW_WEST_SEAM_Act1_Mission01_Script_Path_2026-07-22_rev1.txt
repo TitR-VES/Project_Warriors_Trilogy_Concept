@@ -1,0 +1,157 @@
+PROJECT WARRIORS — NO KINGS ACT I MISSION SOURCE
+Mission 01: WEST SEAM
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED MISSION IDENTITY / SOURCE-LANDED WORKING SCRIPT
+
+MISSION PURPOSE
+EASTBOUND gets Romeo into Boston. WEST SEAM teaches how Boston stays alive.
+The player reopens a narrow living corridor connecting:
+- the entry foothold;
+- a basement clinic;
+- water and plasma stores;
+- a local observation route;
+- civilian and resistance movement.
+
+The mission establishes that holding three blocks for another day may matter more than
+a high body count.
+
+BRIEFING CORE
+The route used during EASTBOUND was a breath, not a foothold. Morning occupation
+pressure adds:
+- daylight checkpoint;
+- camera/repeater mast;
+- fast-response truck loop;
+- upper-window watcher.
+
+Elena's governing distinction:
+ROMEO: “So we open it.”
+ELENA: “No. We make it usable. Different thing.”
+
+Crossing load:
+- water;
+- plasma;
+- two runners;
+- one older machinist who refuses to abandon critical shop hardware.
+
+Protected briefing lines:
+ELENA: “That wasn’t a foothold. That was a breath.”
+ELENA: “This city stays alive on breaths.”
+ELENA: “You kill their eyes, slow their loop, hit the checkpoint when it matters, and
+move our people before they can make the math work again.”
+ELENA: “After that the seam breathes another day.”
+ELENA: “In my city? Me. On the line? You listen first, then decide fast.”
+ELENA: “Do not win me a speech. Win me a crossing.”
+
+MISSION FLOW
+Phase 1 — Dead route walk
+- basement exit, shared walls, service stairs, alley slit, shuttered rear businesses;
+- teach civilian-protection and sightline rules.
+
+Protected dialogue:
+LOCAL GUIDE: “That door? Family inside. Don’t touch it unless we’re dying.”
+ROMEO: “How long’s this route been dead.”
+LOCAL GUIDE: “Since breakfast.”
+
+Phase 2 — Read the pressure
+- observe camera/repeater mast, checkpoint, truck loop, pharmacy watcher, and civilian
+  detours;
+- teach pattern-reading before combat.
+
+Protected dialogue:
+LOCAL GUIDE: “Eyes first. Then guns.”
+ROMEO: “Mast, barrier, truck loop.”
+LOCAL GUIDE: “And the window above the pharmacy.”
+ROMEO: “Marksman?”
+LOCAL GUIDE: “Worse. Patient.”
+
+Phase 3 — Take their eyes
+- disable the camera/repeater through utility or rooftop service access;
+- loss of vision creates uncertainty, not total blindness.
+
+Protected dialogue:
+LOCAL GUIDE: “You kill that mast, they lose ten blocks of confidence.”
+ROMEO: “Only ten.”
+LOCAL GUIDE: “Today, I’ll take ten.”
+LOCAL FIGHTER: “Mast is dark.”
+LOCAL GUIDE: “Good. Now they guess.”
+
+Phase 4 — Break the loop
+- wait for the response truck to commit;
+- ambush it at the correct moment;
+- keep violence under a short local threshold.
+
+Protected dialogue:
+LOCAL GUIDE: “Wait.”
+ROMEO: “Truck’s here.”
+LOCAL GUIDE: “Not yet.”
+LOCAL GUIDE: “Now.”
+LOCAL GUIDE: “Good. They’re blind and late.”
+ROMEO: “For how long.”
+LOCAL GUIDE: “Long enough if you stop asking.”
+
+Phase 5 — Checkpoint hit
+- clear the upper watcher and barrier gun;
+- do not dismantle every visible enemy object;
+- preserve the roadblock as deception where useful.
+
+Protected dialogue:
+ROMEO: “Push the barrier.”
+LOCAL GUIDE: “No. Leave it.”
+ROMEO: “Why.”
+LOCAL GUIDE: “Makes them think it still works.”
+ROMEO: “Then open me a lane.”
+LOCAL GUIDE: “Already on it.”
+
+Phase 6 — The crossing
+- move water, plasma, runners, observer rotation, and machinist hardware;
+- protect movement rather than chase kills.
+
+Protected machinist beat:
+OLD MAN: “I’m not leaving the chuck.”
+LOCAL GUIDE: “You’re not carrying that and making the lane.”
+ROMEO takes the weight: “Move.”
+OLD MAN: “Careful with it.”
+ROMEO: “Then walk faster.”
+
+Phase 7 — Hold the far edge
+- defend a machine-shop/service-court pocket long enough to absorb the crossing;
+- skilled work space becomes resistance infrastructure.
+
+Protected dialogue:
+LOCAL GUIDE: “This is the job.”
+ROMEO: “Holding three blocks?”
+LOCAL GUIDE: “Holding the part that lets the rest pretend to be a city.”
+
+Phase 8 — Elena debrief
+- the seam is usable, not permanently safe;
+- water, plasma, treatment, and charged radios are the visible win;
+- occupation pressure suggests someone understands the city's joints.
+
+Protected dialogue:
+ELENA: “Status.”
+LOCAL GUIDE: “Seam’s breathing.”
+ELENA: “For how long.”
+LOCAL GUIDE: “Today.”
+ELENA: “You listened.”
+ROMEO: “Enough to be useful.”
+ELENA: “Keep doing that.”
+ELENA: “People who understand a city hit the joints first.”
+ELENA: “Get cleaned up. Tomorrow we do it again somewhere worse.”
+
+MISSION END STATE
+- WEST SEAM becomes a living route;
+- Elena/Romeo working balance is established;
+- Boston route warfare and civic sustainment are taught;
+- HINGE follows directly.
+
+OPEN FIELDS
+- exact neighborhood and map layout;
+- final crossing NPC names;
+- exact truck type and checkpoint composition;
+- encounter tuning.
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+
+END
