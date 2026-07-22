@@ -1,0 +1,74 @@
+PROJECT WARRIORS — KNOWLEDGE COMPENDIUM ADDENDUM
+Title: PW_Dark_Skies_NO_KINGS_Bridge_Addendum_2026-07-22_rev1
+Generated: 2026-07-22
+Status: SOURCE-LANDED CANON / WORKING IMPLEMENTATION BOUNDARIES PRESERVED
+
+PURPOSE
+This addendum records two newly supplied thread exports and integrates them with the
+still-open PR #26 source layer. It is cumulative with the Blommaert, DUE DILIGENCE,
+JUDGE ME NOT, and Game 3 title work already on the branch.
+
+DARK SKIES
+- DARK SKIES is Spook's locked Game 3 campaign title.
+- DOG SKIES is discarded scratch wording.
+- The title-origin thread supports hostile-airspace, surveillance, denied-movement,
+  drone/satellite, and “sky no longer neutral” thematic language.
+- The title-origin transcript does not replace the existing DARK SKIES campaign refresh
+  pack, four-act spine, or 13-mission ladder.
+
+NO KINGS — KENTUCKY TO BOSTON
+- Calloway / American Freedom remains the seed of the AFC.
+- The AFC spreads faster than Romeo can control its ethics, creating imitation,
+  opportunism, and New America / accelerationist contamination.
+- Boston is a strategic, civic, infrastructure, and legitimacy convergence point.
+- Boston already has an organized local resistance.
+- Elena Costa is local operational authority.
+- Romeo arrives as a useful outsider and earns entry.
+- The bridge spans a meaningful inter-campaign period; exact dates remain open.
+- Semper Fi / loyalist channels may enable travel indirectly but do not become the
+  central bridge narrative.
+
+SOURCE-LANDED EARLY ACT I
+Prologue — EASTBOUND
+Mission 01 — WEST SEAM
+Mission 02 — HINGE
+Mission 03 — OPEN THE FACE
+Mission 04 — DAY WINDOW
+Mission 05 — ROLL CALL
+Mission 06 — THE POCKET
+
+CONTROLLING DAY WINDOW REALISM CUE
+Elena: “Controller’s got it. Hold west. Window’s yours.”
+This confirms an offscreen qualified JTAC/FAC(A) function in the control chain without
+creating an on-screen controller subplot.
+
+STATUS BOUNDARY
+Locked:
+- bridge thesis and direction;
+- mission titles/order through THE POCKET;
+- central mission identities;
+- Elena's local-authority role;
+- Dark Skies title provenance;
+- DAY WINDOW controller cue.
+
+Open:
+- exact bridge and Boston dates;
+- exact eastbound companion identities;
+- final map geography;
+- final encounter tuning and incidental NPC names;
+- full later NO KINGS ladder;
+- tagline use of “What Victory Is For.”
+
+ONTOLOGY EFFECT
+- adds `pw_no_kings_bridge_rev2_4.delta.yaml`;
+- timeline projection advances from rev2.3 to rev2.4;
+- 66 events / 21 tracks / 16 sync points;
+- named-weapon registry remains projected v3.0.
+
+SOURCE INPUTS
+- Project_Warriors_Dark_Skies_Thread_Transcript_2026-07-21.txt
+  sha256: b2ad7ce37976972b9af496c61d835f03727e9060d260e78d8513e1b17a3d9b15
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+  sha256: 08dea16ad8ecf32a5cc791b7d44398890359a3ea25667be3385bef5419f25204
+
+END
