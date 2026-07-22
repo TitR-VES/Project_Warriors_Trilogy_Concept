@@ -1,0 +1,119 @@
+PROJECT WARRIORS — NO KINGS ACT I MISSION SOURCE
+Mission 05: ROLL CALL
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED MISSION IDENTITY / SOURCE-LANDED WORKING SCRIPT
+
+MISSION PURPOSE
+Backlash mission after DAY WINDOW.
+The occupiers stop treating the district war as a nuisance and begin treating it as a
+public-order and identity-control problem.
+
+ENEMY POSTURE
+- seal district;
+- pull residents into screening lines;
+- check identities and faces;
+- map house-by-house patterns;
+- mark suspected helpers;
+- remove selected residents;
+- rebuild control through records, cameras, aid-table theater, and exemplary punishment.
+
+RESISTANCE OBJECTIVES
+1. pull the most exposed locals off the public face;
+2. infiltrate school-side processing annex/archive node;
+3. destroy screening records and seize/kill any live flagged list;
+4. break detainee transfer if it begins.
+
+BRIEFING CORE
+Protected dialogue:
+ELENA: “Yesterday they saw us. Today they want names.”
+LOCAL GUIDE: “Aid tables too. Water, maybe blankets. They’ll make it look tidy while
+they count who still lives here.”
+ELENA: “They’re not retaking the district. They’re reading it.”
+ELENA: “Nobody disappears because they stood in the short route yesterday.”
+ROMEO: “And if we just hit the line hard.”
+ELENA: “No. That’s what they want.”
+ELENA: “A city can live through gunfire. Lists are harder.”
+LOCAL GUIDE: “They don’t need to kill the block if they can learn it.”
+
+MISSION FLOW
+Phase 1 — Read the sweep
+- observe school lot, screening lanes, archive/records position, propaganda cameras,
+  aid-table presentation, door-to-door teams, and transfer vehicles;
+- show administrative violence before open combat.
+
+Core point:
+The occupiers are converting visibility into data.
+
+Phase 2 — Pull the exposed
+- quietly move Shopkeeper Woman, families, known route helpers, and exposed observers;
+- use back rooms, shared walls, service cuts, and local cover identities;
+- not everyone can leave at once.
+
+Protected dialogue direction:
+- locals resist abandoning homes/businesses;
+- Romeo remains task-first;
+- Elena prioritizes people most exposed by DAY WINDOW.
+
+Phase 3 — Into the annex
+- infiltrate through service, boiler, utility, or school maintenance route;
+- avoid triggering the public screening line prematurely;
+- encounter data technicians, records handlers, and security rather than only combat troops.
+
+Phase 4 — Burn the lists
+- destroy paper rosters, captured images, house maps, biometric/ID caches, and marked
+  route associations;
+- seize any list that reveals compromised locals or a deeper occupation source;
+- do not romanticize data destruction: it is immediate life protection.
+
+Protected thematic line:
+ELENA/LOCAL GUIDE logic: a block is harder to break when it can return to being unknown.
+
+Phase 5 — Break the transfer
+- detainee vehicles begin moving;
+- resistance ambushes transfer route rather than assaulting screening crowd;
+- free selected residents before they disappear into wider system;
+- keep civilian lines from becoming the firefight's center.
+
+Phase 6 — The street chooses you
+- operation becomes public despite efforts;
+- residents may create noise, block sightlines, misdirect occupiers, or refuse orderly
+  compliance;
+- resistance must adapt without turning civilians into disposable cover.
+
+Phase 7 — Give the district back its unknowns
+- destroy remaining records;
+- remove cameras or storage;
+- scatter or change route markers;
+- move freed detainees into multiple local paths;
+- deliberately prevent a single obvious resistance exfiltration pattern.
+
+Phase 8 — Elena debrief
+Core outcome:
+- ground is not newly captured;
+- the enemy's district picture is damaged;
+- local names and relationships regain uncertainty;
+- resistance learns public momentum creates administrative retaliation.
+
+Protected conceptual close:
+The occupiers now understand Boston's district war is organized. Elena understands that
+future victories must account for what the enemy learns from them.
+
+MISSION END STATE
+- flagged residents survive;
+- screening archive is destroyed or compromised;
+- detainees are freed;
+- the district regains partial anonymity;
+- the resistance chooses a deliberate kept-ground counteroffensive next: THE POCKET.
+
+OPEN FIELDS
+- exact screening authority/faction;
+- exact school/annex geography;
+- number and identity of detainees;
+- exact data technology;
+- any recovered lead that points toward later Lebedev/City Hall architecture.
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+
+END
