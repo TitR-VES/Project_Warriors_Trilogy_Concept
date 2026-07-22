@@ -1,0 +1,153 @@
+PROJECT WARRIORS — NO KINGS ACT I MISSION SOURCE
+Mission 03: OPEN THE FACE
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED MISSION IDENTITY / SOURCE-LANDED WORKING SCRIPT
+
+MISSION PURPOSE
+First neighborhood-face test after HINGE.
+The resistance clears and holds a visible run of storefronts, upper apartments, side
+courtyard, and civic corner long enough for the block to face outward again.
+
+THEMATIC FUNCTION
+- hidden routes become visible civic ground;
+- visibility itself becomes political and dangerous;
+- civilians use the short way instead of the scared way;
+- the neighborhood begins to re-inhabit its public surface.
+
+BRIEFING CORE
+The occupiers use the frontage as a pressure shelf with:
+- corner hardpoint;
+- two upper positions;
+- courtyard feed;
+- street response loop.
+
+Protected dialogue:
+ELENA: “That’s the face.”
+LOCAL GUIDE: “Storefronts. Apartments. Side court. One old civic corner. Used to be the
+front of the block.”
+ELENA: “Now it’s the shelf they lean on.”
+ELENA: “Hinge gave us a joint. Now we find out if the joint can move the limb.”
+ELENA: “Clear the shelf. Kill the hardpoint. Push them off the windows. Open the block
+long enough for the face to turn back outward.”
+ROMEO: “For how long.”
+ELENA: “Long enough to matter. Short enough we can still survive it.”
+ELENA: “You’re not taking a building today. You’re changing what a block looks like
+when people risk looking at it.”
+ELENA: “Open the face.”
+
+MISSION FLOW
+Phase 1 — From joint to front
+- start in a functioning HINGE;
+- show one building enabling the next move;
+- pass civilians testing newly opened routes.
+
+Protected dialogue:
+LOCAL GUIDE: “Feels different already.”
+ROMEO: “Because of one building.”
+LOCAL GUIDE: “Because one building lets people imagine the next one.”
+
+Phase 2 — Read the face
+- identify hardpoint, upper pair, courtyard feed, and street team;
+- show shutters and curtains responding to possibility.
+
+Protected dialogue:
+ROMEO: “That’s what you call the face.”
+LOCAL GUIDE: “Because everybody used to see it.”
+ROMEO: “And now.”
+LOCAL GUIDE: “Now they make the block look down.”
+LOCAL FIGHTER: “They know something’s coming.”
+LOCAL GUIDE: “No. They know something might.”
+
+Phase 3 — Darken the windows
+- move through abandoned rowhouse/attic seams;
+- neutralize both upper positions;
+- civilians begin to test the change.
+
+Protected dialogue:
+LOCAL FIGHTER: “People still slept here.”
+LOCAL GUIDE: “Till the windows started killing them.”
+LOCAL GUIDE after second position: “Good. Now the face can breathe a second before it
+screams.”
+ROMEO: “They felt that.”
+LOCAL GUIDE: “Good. Let them.”
+
+Phase 4 — Break the shelf
+- attack hardpoint obliquely through side/court routes;
+- do not assault from center street.
+
+Protected dialogue:
+LOCAL GUIDE: “Hardpoint dies fast or we do.”
+ROMEO: “Then fast.”
+LOCAL FIGHTER: “Corner’s open!”
+LOCAL GUIDE: “No. Corner’s hurting. Make it open.”
+ELENA (radio): “Then spend the block. Move.”
+
+Phase 5 — Push the frontage
+- clear storefronts, courtyard, upper stair, and side-lane rifleman;
+- first public-facing Boston combat.
+
+Shopkeeper beat:
+SHOPKEEPER WOMAN: “If you’re taking this side, take it all the way. I am not doing
+another half-day of hope.”
+ROMEO: “Stay down.”
+SHOPKEEPER WOMAN: “I own the floor you’re bleeding on.”
+LOCAL FIGHTER: “Face is clear!”
+LOCAL GUIDE: “No. Face is ours if we can keep it looking that way.”
+
+Phase 6 — Turn the block outward
+- hold while shutters lift, civilians cross, lookout takes better angle, wounded move,
+  route marks and Union Mark become visible.
+
+Protected dialogue:
+LOCAL FIGHTER: “They’re crossing.”
+LOCAL GUIDE: “Good.”
+ROMEO: “Feels early.”
+LOCAL GUIDE: “Everything here is early till it lasts.”
+LOOKOUT: “I can see two streets from here.”
+LOCAL GUIDE: “Then use both.”
+SHOPKEEPER WOMAN: “If you lose this in five minutes, I’m blaming all of you personally.”
+
+Phase 7 — Hold public ground
+- stronger counterpush because the gain can be seen;
+- Elena arrives and governs the visible space.
+
+Protected dialogue:
+LOOKOUT: “Street team! Left side! More than before!”
+LOCAL GUIDE: “Because they can see this one!”
+LOCAL GUIDE: “Hold the face!”
+ELENA: “Keep that shutter half-open. Not full. Half. Water stays inside. Eyes on the
+far corner.”
+ELENA: “Do not chase. Hold what changed!”
+
+Phase 8 — First visible piece of Boston
+- one shutter remains open;
+- one corner gains optics;
+- local route is visibly reused;
+- Elena and Romeo stand on public ground rather than a roof.
+
+Protected dialogue:
+ROMEO: “This is different.”
+ELENA: “Yeah.”
+ELENA: “Routes matter because nobody sees them. This matters because everybody does.”
+ROMEO: “You think they’ll test it again today.”
+ELENA: “They already are. Good. Means they know the block moved.”
+SHOPKEEPER WOMAN: “You keep this till dark, I’ll make coffee for fighters who don’t
+deserve it.”
+ELENA: “All right. Now they can see us.”
+
+MISSION END STATE
+- resistance presence becomes publicly legible;
+- civilian ownership and local authorship remain central;
+- the visible frontage enables DAY WINDOW.
+
+OPEN FIELDS
+- exact storefront/civic-corner geography;
+- final Shopkeeper and Lookout names;
+- final length of public hold;
+- encounter tuning.
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+
+END
