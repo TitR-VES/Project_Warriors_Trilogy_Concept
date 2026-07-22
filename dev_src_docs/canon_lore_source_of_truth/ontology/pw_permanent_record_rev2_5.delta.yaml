@@ -1,0 +1,428 @@
+meta:
+  delta_id: PW-ONT-PERMANENT-RECORD-2026-07-22-REV1
+  generated: '2026-07-22'
+  timeline_applies_to: pw_world_event_timeline_rev2_4.yaml
+  timeline_produces: pw_world_event_timeline_rev2_5.yaml
+  registry_applies_to: named_weapon_builds_v3_0.txt
+  registry_produces: named_weapon_builds_v3_0.txt
+  status: locked_and_working_delta
+  sources:
+  - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+  - dev_src_docs/story_campaigns/Game4/Spook/PW_Gerhana_Marietta_Keter_Continuity_2026-07-22_rev1.txt
+  - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+  - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Presentation_Music_and_Ending_2026-07-22_rev1.txt
+operations:
+- op: update_campaign_track
+  match_id: PW-TRK-G4-PERMANENT-RECORD
+  set:
+    timeframe:
+      opens:
+        event: PW-EVT-PERMANENT-RECORD-MINNEAPOLIS-INVESTIGATION
+      closes:
+        event: PW-EVT-PERMANENT-RECORD-ONE-HEAD-HYDRA
+      placement_status: confirmed
+      notes: Chronological campaign spine; nonlinear cold open presents …AND INTO THE FIRE before returning
+        to Minneapolis.
+    notes: Accountability campaign spanning domestic investigation, international cover collapse, denied
+      escape, capture, and the surviving-network reveal.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Campaign_Architecture_Recovery_Packet_2026-05-08_rev1.txt
+- op: add_events
+  values:
+  - id: PW-EVT-PERMANENT-RECORD-MINNEAPOLIS-INVESTIGATION
+    name: Permanent Record investigates the Minneapolis aid-center bombing
+    era: PW-ERA-G4
+    date:
+      relative: after GROUND ZERO; exact day and relation to VIATECH ’31 TBD
+      anchor: PW-EVT-WAR-WITHIN-GROUND-ZERO
+    location: Minneapolis / Twin Cities, Minnesota
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Victor Two Bravo
+    ordering:
+      after:
+      - PW-EVT-WAR-WITHIN-GROUND-ZERO
+      - PW-EVT-GAME4-OPEN
+      before:
+      - PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+    relations:
+      investigates:
+      - PW-EVT-WAR-WITHIN-GROUND-ZERO
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: confirmed
+    notes: Main chronological opening after the nonlinear …AND INTO THE FIRE cold-open fragment.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+    name: Twin Cities safe-house / staging-area exploitation
+    era: PW-ERA-G4
+    date:
+      relative: after Minneapolis bombing investigation; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-MINNEAPOLIS-INVESTIGATION
+    location: Twin Cities area, Minnesota
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Victor Two Bravo
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-MINNEAPOLIS-INVESTIGATION
+      before:
+      - PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO
+    relations:
+      produces_intelligence_for:
+      - PW-EVT-COMMAND-AUTHORITY-HOME-ADVANTAGE
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: working
+    notes: Yields the Lower Ninth Ward intelligence handoff and the urgent path toward Chicago. Exact
+      mission title remains open.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+  - id: PW-EVT-COMMAND-AUTHORITY-HOME-ADVANTAGE
+    name: HOME ADVANTAGE / Lower Ninth Ward safe-house raid
+    era: PW-ERA-G4
+    date:
+      relative: after the Twin Cities intelligence handoff; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+    location: Lower Ninth Ward, New Orleans, Louisiana
+    actors:
+    - Ramón Álvarez / Romeo
+    - Andre Bridges
+    - attached USMC support
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+      before:
+      - PW-EVT-GAME4-CLOSE
+    relations:
+      acts_on_intelligence_from:
+      - PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+    depicted_in:
+    - PW-TRK-G4-COMMAND-AUTHORITY
+    status: working
+    notes: Subtle cross-campaign intelligence consequence; Bridges' local knowledge is useful but not
+      omniscient.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Romeo/PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-MONTREAL-BRIDGE
+    name: Permanent Record Montreal investigative bridge
+    era: PW-ERA-G4
+    date:
+      relative: after the Ledger confrontation in Chicago; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO
+    location: Montreal, Quebec, Canada
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Hélène Modine
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO
+      before:
+      - PW-EVT-PERMANENT-RECORD-PARIS-MOFFAT-TRAIL
+    relations:
+      advances:
+      - PW-EVT-PERMANENT-RECORD-PARIS-MOFFAT-TRAIL
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: working
+    notes: Carries the domestic case into the Delhardt / Moffat international pursuit. Exact mission title
+      remains open.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-PARIS-MOFFAT-TRAIL
+    name: Paris trailwork through Geoffrey-Guy Moffat and the resurfaced yacht history
+    era: PW-ERA-G4
+    date:
+      relative: after Montreal; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-MONTREAL-BRIDGE
+    location: Paris, France
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Geoffrey-Guy Moffat
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-MONTREAL-BRIDGE
+      before:
+      - PW-EVT-PERMANENT-RECORD-ET-IN-ARCADIA-EGO
+    relations:
+      reveals_asset_path:
+      - PW-EVT-PERMANENT-RECORD-ET-IN-ARCADIA-EGO
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: working
+    notes: Dead-network residue and respectable social access expose the Gerhana / Marietta trail. Exact
+      mission title remains open.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Gerhana_Marietta_Keter_Continuity_2026-07-22_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-ET-IN-ARCADIA-EGO
+    name: ET IN ARCADIA EGO / Marietta infiltration
+    era: PW-ERA-G4
+    date:
+      relative: after Paris trailwork; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-PARIS-MOFFAT-TRAIL
+    location: Monaco marina, Monaco
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-PARIS-MOFFAT-TRAIL
+      before:
+      - PW-EVT-PERMANENT-RECORD-RECEIVERSHIP
+    relations:
+      produces_evidence_for:
+      - PW-EVT-PERMANENT-RECORD-RECEIVERSHIP
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: confirmed
+    notes: Former Gerhana, now Marietta, is exploited as a shadow asset. Delhardt is not aboard. Exfil
+      includes the confined galley fight.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Gerhana_Marietta_Keter_Continuity_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Et_In_Arcadia_Ego_Mission_Reference_2026-05-07_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-RECEIVERSHIP
+    name: RECEIVERSHIP / Keter Maritime identity confirmation
+    era: PW-ERA-G4
+    date:
+      relative: after ET IN ARCADIA EGO; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-ET-IN-ARCADIA-EGO
+    location: Port-adjacent Haifa, Israel
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Lana Erika Delhardt / Gillian Stockbridge
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-ET-IN-ARCADIA-EGO
+      before:
+      - PW-EVT-PERMANENT-RECORD-DPRK-SAFE-PASSAGE
+    relations:
+      confirms_identity_of:
+      - Lana Erika Delhardt / Gillian Stockbridge
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: confirmed
+    notes: Layered maritime records and metadata collapse the Delhardt alias into Gillian Stockbridge.
+      Deeper Atlas/Yadat linkage remains working.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Gerhana_Marietta_Keter_Continuity_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Receivership_Mission_Reference_2026-05-07_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-DPRK-SAFE-PASSAGE
+    name: DPRK Defector Safe-Passage Mini-Arc
+    era: PW-ERA-G4
+    date:
+      relative: after RECEIVERSHIP and before the Argentina final run; exact placement TBD
+      anchor: PW-EVT-PERMANENT-RECORD-RECEIVERSHIP
+    location: Seoul and South Korean-side border / tunnel reception
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - two DPRK defectors
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-RECEIVERSHIP
+      before:
+      - PW-EVT-PERMANENT-RECORD-FLOW-CONTROL
+    relations:
+      expands_evidence_on:
+      - covert shipping
+      - sanctions evasion
+      - foreign foreknowledge
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: working
+    notes: 'Aggregated mini-arc: Seoul intermediary, South-side reception, compromised extraction, one
+      source dies after crossing and one survives.'
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_DPRK_Defector_Safe_Passage_Mini_Arc_2026-05-07_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-FLOW-CONTROL
+    name: FLOW CONTROL / toll-corridor interdiction
+    era: PW-ERA-G4
+    date:
+      relative: before the final approach in Argentina; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-DPRK-SAFE-PASSAGE
+    location: Argentina or adjacent South American transit corridor
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - La Avispa
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-DPRK-SAFE-PASSAGE
+      before:
+      - PW-EVT-PERMANENT-RECORD-INTO-THE-FIRE
+    relations:
+      escalates_into:
+      - PW-EVT-PERMANENT-RECORD-INTO-THE-FIRE
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: confirmed
+    notes: La Avispa warning, civilian-exposed toll/highway ambush, rear-hatch break-contact with GRAY
+      GHOST and BACKUP PLAN.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Flow_Control_Mission_Reference_2026-05-08_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-INTO-THE-FIRE
+    name: …AND INTO THE FIRE / cold-open return and sand-barge EVADE
+    era: PW-ERA-G4
+    date:
+      relative: after FLOW CONTROL; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-FLOW-CONTROL
+    location: Buenos Aires approach / industrial waterfront service channel
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-FLOW-CONTROL
+      before:
+      - PW-EVT-PERMANENT-RECORD-JUDGMENT-DAY
+    relations:
+      presented_as_cold_open_before:
+      - PW-EVT-PERMANENT-RECORD-MINNEAPOLIS-INVESTIGATION
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: confirmed
+    notes: Chronologically late but shown first as an interrupted cold open. Barge horn cues the EVADE
+      jump into a passing sand barge.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_And_Into_The_Fire_Mission_Reference_2026-05-08_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-JUDGMENT-DAY
+    name: JUDGMENT DAY / Torres Mulieres breach, pursuit, crash and capture
+    era: PW-ERA-G4
+    date:
+      relative: after …AND INTO THE FIRE; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-INTO-THE-FIRE
+    location: Torres Mulieres, Puerto Madero, Buenos Aires, Argentina
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Lana Erika Delhardt / Gillian Stockbridge
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-INTO-THE-FIRE
+      before:
+      - PW-EVT-PERMANENT-RECORD-ONE-HEAD-HYDRA
+    relations:
+      captures:
+      - Lana Erika Delhardt / Gillian Stockbridge
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: confirmed
+    notes: Stealth-led breach ends in pencil ambush, Smoke's nonfatal wound, motorcycle flight, delivery-van
+      crash, survival and medical custody.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Judgment_Day_Mission_Reference_2026-05-08_rev1.txt
+  - id: PW-EVT-PERMANENT-RECORD-ONE-HEAD-HYDRA
+    name: ONE HEAD OF THE HYDRA / Stockbridge device-data aftermath
+    era: PW-ERA-G4
+    date:
+      relative: immediately after JUDGMENT DAY; exact date TBD
+      anchor: PW-EVT-PERMANENT-RECORD-JUDGMENT-DAY
+    location: secure evidence-exploitation space, Argentina
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Gillian Stockbridge
+    ordering:
+      after:
+      - PW-EVT-PERMANENT-RECORD-JUDGMENT-DAY
+      before:
+      - PW-EVT-GAME4-CLOSE
+    relations:
+      reveals_continuation_of:
+      - Kingmaker / Delta Society successor network
+    depicted_in:
+    - PW-TRK-G4-PERMANENT-RECORD
+    status: confirmed
+    notes: Device exploitation reveals selective overlap with reconstruction structures and inherited/patronage-based
+      continuation. Correct credits/playout handoff.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_One_Head_of_the_Hydra_Aftermath_Reference_2026-05-08_rev1.txt
+- op: update_event
+  match_id: PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO
+  set:
+    ordering:
+      after:
+      - PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+      - PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+      before:
+      - PW-EVT-PERMANENT-RECORD-MONTREAL-BRIDGE
+      - PW-EVT-GAME4-CLOSE
+    relations:
+      continues_investigation_from:
+      - PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+      enables:
+      - PW-EVT-PERMANENT-RECORD-MONTREAL-BRIDGE
+    notes: Ledger dies; recovered device/pocketbook point toward Hélène Modine and Montreal. Placement
+      remains after VIATECH '31.
+    sources:
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+- op: add_sync_point
+  value:
+    id: PW-SYN-PERMANENT-RECORD-HOME-ADVANTAGE
+    name: Twin Cities intelligence handoff to HOME ADVANTAGE
+    kind: cross_campaign_intelligence_consequence
+    event: PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+    tracks:
+    - PW-TRK-G4-PERMANENT-RECORD
+    - PW-TRK-G4-COMMAND-AUTHORITY
+    depends_on_events:
+    - PW-EVT-PERMANENT-RECORD-MINNEAPOLIS-INVESTIGATION
+    description: Victor Two Bravo passes the Lower Ninth Ward safe-house lead up the chain; Romeo, Andre
+      Bridges and USMC support act on it later in HOME ADVANTAGE.
+    retcon_sensitivity: high
+    status: working
+validation_targets:
+  timeline:
+    eras: 7
+    events: 78
+    campaign_tracks: 21
+    sync_points: 17
+    duplicate_ids: 0
+    dangling_references: 0
+    self_references: 0
+    acyclic: true
+  registry:
+    named_identities: 37
+    duplicate_ids: 0
+    projection_unchanged: true
