@@ -1,0 +1,85 @@
+PROJECT WARRIORS — GERHANA / MARIETTA / KETER CONTINUITY
+Generated: 2026-07-22
+Version: rev1
+Status: SOURCE-READY CONTINUITY LOCK WITH EXPLICIT OPEN FIELDS
+
+PURPOSE
+This page controls the vessel and shell-company continuity that links Game 1 residue,
+Paris trailwork, ET IN ARCADIA EGO in Monaco, and RECEIVERSHIP in Haifa.
+
+CANONICAL NAMES
+- Original vessel name: Gerhana.
+- Current vessel name: Marietta.
+- Current management/compliance shell: Keter Maritime.
+- Registration: Cayman Islands.
+- Paris continuity figure: Geoffrey-Guy Moffat.
+- Fugitive user: Lana Erika Delhardt / Gillian Stockbridge.
+- Possible deeper port/security connection: Eliezer Baruch Yadat.
+
+LOCKED HISTORY
+1. Gerhana exists in the Game 1 continuity as the yacht associated with the earlier
+   network.
+2. After its former owner's death, authorities seize the vessel.
+3. The vessel disappears from straightforward public visibility for a substantial period.
+4. Near the Game 4 period, roughly two years after Game 3, it resurfaces under the name
+   Marietta.
+5. Public history and registration traces have been scrubbed, but not perfectly and not
+   from every record system.
+6. Cayman Islands registration and Keter Maritime administration help make the new
+   identity commercially plausible.
+7. Geoffrey-Guy Moffat's records/access history provides a Paris-side trail into the
+   resurfaced asset.
+8. Delhardt uses or leases Marietta through cover arrangements as a discreet movement,
+   meeting, or transport asset.
+9. Delhardt is not physically aboard during ET IN ARCADIA EGO.
+10. The Monaco exploitation produces the physical/administrative lead into Haifa.
+
+PARIS FUNCTION
+Paris is not the yacht location. It is trailwork:
+- Moffat's culture-facing/modeling profession creates respectable access and social cover;
+- dead-network residue, archival traces, ownership/charter contacts, and service records
+  reveal the vessel's reappearance;
+- the city shows how elite social presentation and covert mobility infrastructure can
+  overlap without announcing the connection.
+
+MONACO FUNCTION
+Marietta is encountered in Monaco's marina environment:
+- luxury and curated safety on the surface;
+- dense surveillance, finance, intelligence, organized crime, and private security below;
+- ET IN ARCADIA EGO uses the classical phrase to imply death/rot without naming it.
+
+HAIFA FUNCTION
+Keter Maritime is pursued in a practical port-facing commercial environment:
+- registry/document handling;
+- charter and watercraft administration;
+- customs or clearing support;
+- private storage/cargo logistics;
+- fuel or marine-service records;
+- compliance and beneficial-owner residue.
+
+The proof package must be cumulative. It collapses Delhardt into Stockbridge through
+cross-reference, not one miraculous database hit.
+
+WORKING / NOT YET LOCKED
+- exact legal owner at each historical transfer;
+- exact seizure authority and disposal mechanism;
+- precise date of the Marietta renaming;
+- exact Moffat ownership versus beneficial-control versus charter relationship;
+- exact Atlas / Nexus Meridian / Yadat corporate path;
+- exact marina berth and service providers;
+- whether Keter knowingly serves Stockbridge or operates through compartmented clients.
+
+SUPERSESSION
+- "Keta Maritime" is a transcription error; use Keter Maritime.
+- "Gahana" and other archive transcription variants do not replace Gerhana.
+- "Meriotta" and similar variants do not replace Marietta.
+- Haifa mission title is RECEIVERSHIP, not CHAIN OF CUSTODY.
+- The vessel is Marietta; Keter is the company, not the yacht.
+
+SOURCES
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Et_In_Arcadia_Ego_Mission_Reference_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Receivership_Mission_Reference_2026-05-07_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Campaign_Architecture_Recovery_Packet_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+
+END OF FILE
