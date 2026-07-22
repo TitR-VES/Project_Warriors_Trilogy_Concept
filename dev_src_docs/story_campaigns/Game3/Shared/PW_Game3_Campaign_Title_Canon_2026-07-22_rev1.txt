@@ -1,0 +1,143 @@
+PROJECT WARRIORS — GAME 3 CAMPAIGN TITLE CANON
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED TITLE GOVERNANCE / EXISTING STORY STRUCTURES PRESERVED
+
+PURPOSE
+This page makes the three Project Warriors Game 3 playable campaign titles explicit
+and authoritative. It closes inconsistent repository language that treated NO KINGS
+and DARK SKIES as recommendations/candidates despite the titles having already been
+selected, while preserving the source-landed campaign structures.
+
+LOCKED GAME 3 CAMPAIGNS
+1. Romeo — NO KINGS
+2. Ducky — FAILSAFE
+3. Spook — DARK SKIES
+
+Capitalization is presentation styling; the words and singular/plural forms are locked.
+
+STABLE ONTOLOGY IDS
+- PW-TRK-G3-NO-KINGS
+- PW-TRK-G3-FAILSAFE
+- PW-TRK-G3-DARK-SKIES
+
+ROMEO GAME 3 — NO KINGS
+Protagonist: LT Ramón “Romeo” Álvarez
+Primary campaign lane: occupied Boston / liberation / post-liberation legitimacy
+
+Title status:
+LOCKED.
+
+Supersedes:
+- wording that called NO KINGS only a working-title recommendation;
+- the provisional ontology identity PW-TRK-G3-BOSTON;
+- protagonist-TBD language for the Boston campaign.
+
+Preserved four-act spine:
+- Act I: Eastbound War
+- Act II: Neighborhood War
+- Act III: Harbor and the Shadow Government
+- Act IV: What Victory Is For
+
+Preserved thesis:
+Romeo comes to Boston to help free a city and discovers he is also fighting over who
+gets to define America after liberation.
+
+Existing mission/source anchors such as THE RIGHT RIFLE, LIFELINE, HOLDFAST, and
+BODYWORK remain in force. This title lock does not imply that the full mission ladder
+is complete.
+
+DUCKY GAME 3 — FAILSAFE
+Protagonist: SFC Ferris “Ducky” Ryan
+Primary campaign lane: coalition recovery under damaged trust after the Game 2
+Tremblay confrontation and wider institutional breach
+
+Title status:
+LOCKED.
+
+Preserved four-act spine:
+- Broken Picture
+- The Verification War
+- Selective Restoration
+- Failsafe
+
+Preserved source-landed mission ladder:
+1. Cold Start
+2. Ghost Map
+3. Narrow Band
+4. Clean Room
+5. Handshake
+6. Cutout
+7. Load Bearing
+8. Human Factor / Dusan insertion point
+9. Second Order
+10. No Defaults
+11. Failsafe
+12. Built to Hold
+
+The Human Factor / Dusan placement remains subject to its existing implementation
+flag. The campaign title itself is not provisional.
+
+SPOOK GAME 3 — DARK SKIES
+Protagonist: CPT Trevor “Spook” Gartner
+Primary campaign lane: restored opening act, private-access route, wrong-signature
+investigation, and expansion into the Yunnan / Wei architecture
+
+Title status:
+LOCKED.
+
+Supersedes:
+- language treating DARK SKIES only as a working campaign-title or major-arc candidate;
+- Yunnan-first placeholder summaries that omit the restored opening act.
+
+Preserved four-act spine:
+- Bad Omens
+- Private Route
+- Wrong Signature
+- Dark Skies
+
+Preserved source-landed mission ladder:
+1. Dawn of Mercy
+2. Mercy Line
+3. Order and Progress
+4. Outer Port
+5. Cephaly Splice
+6. Manifest Line
+7. South Culvert
+8. Crosswind
+9. False Color
+10. Quiet Response
+11. Fracture Map
+12. Specification
+13. Dark Skies
+
+OUTER PORT remains the Tomakomai contact mission and synchronizes asymmetrically with
+The Storm DLC's FURTHER EAST. The separate Storm opening-title collision with SOUTH
+CULVERT remains a Storm-side rename dependency; it does not rename Spook's Game 3
+mission.
+
+TIMELINE GOVERNANCE
+All three campaigns belong to Game 3 and close no later than the shared Game 3 close /
+restoration-threshold anchor. Exact opening events and exact day-level synchronization
+remain open unless controlled by a more specific source.
+
+Do not invent exact campaign dates from the title lock.
+
+SUPERSESSION RULES
+On sight, update or qualify these older formulations:
+- “NO KINGS — working title recommendation” -> NO KINGS, locked campaign title.
+- “Occupied Boston campaign, protagonist TBD” -> NO KINGS, Romeo.
+- “FAILSAFE — stable working campaign” -> FAILSAFE, locked campaign title; story
+  structure remains working/source-landed where explicitly marked.
+- “DARK SKIES — working candidate” -> DARK SKIES, locked campaign title.
+
+A campaign title may be locked while individual missions, dates, or scene treatments
+remain incomplete. Do not collapse those different status levels.
+
+SOURCE BASIS
+- PW_Compendium_Refresh_Pack_Game2_and_Game3_Campaigns_rev5_2026-05-05.txt
+- PW_Compendium_Refresh_Pack_DuckyG3_FAILSAFE_and_SpookG3_DARK_SKIES_v0_1.txt
+- current Game 3 Romeo, Ducky, and Spook source pages
+- explicit owner adjudication, 2026-07-22
+
+END
