@@ -1,0 +1,34 @@
+PROJECT WARRIORS — CANON RELEASE NOTE
+BLOMMAERT / INFRASTRUCTURE DAY / GAME 3 CAMPAIGN TITLES
+Generated: 2026-07-22
+Version: rev1
+Status: REVIEW-READY SOURCE LANDING
+
+This follow-up pass lands two owner-supplied canon corrections after the ontology
+reconciliation merge.
+
+LEANDRO PETRUS BLOMMAERT
+- Locks the correct identity and GenCorp physical-security role.
+- Replaces Head of Data Security wording.
+- Defines the earned Infrastructure Day exterior-rappel optional kill.
+- Preserves death/survival as a branch rather than selecting one global outcome.
+- Records indirect Lloyd Aymes contractor association.
+- Adds DUE DILIGENCE as Blommaert's named suppressed compact carbine.
+- Adds JUDGE ME NOT as the conditional achievement record and locks its clean display
+  description/icon requirements.
+
+GAME 3
+- Locks NO KINGS as Romeo's campaign.
+- Locks FAILSAFE as Ducky's campaign.
+- Locks DARK SKIES as Spook's campaign.
+- Replaces the provisional Boston track and adds the missing FAILSAFE ontology track.
+- Preserves existing act structures, mission ladders, and open implementation flags.
+
+VALIDATED PROJECTION
+- timeline rev2.3: 7 eras / 58 events / 21 tracks / 15 sync points
+- duplicate IDs: 0
+- dangling references: 0
+- chronology cycle: none
+- registry v3.0 projection: 37 stable named identities
+
+END
