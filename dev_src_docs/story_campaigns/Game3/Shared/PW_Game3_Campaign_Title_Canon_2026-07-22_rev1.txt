@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 3 CAMPAIGN TITLE CANON
 Generated: 2026-07-22
-Version: rev1
+Version: rev1 (amended after transcript source landing)
 Status: LOCKED TITLE GOVERNANCE / EXISTING STORY STRUCTURES PRESERVED
 
 PURPOSE
@@ -43,9 +43,32 @@ Preserved thesis:
 Romeo comes to Boston to help free a city and discovers he is also fighting over who
 gets to define America after liberation.
 
+Kentucky-to-Boston bridge lock:
+- Calloway / American Freedom remains the seed of the AFC.
+- The AFC spreads beyond Romeo's face-to-face control and begins to be copied,
+  distorted, and claimed by actors whose ethics do not match his.
+- Boston is strategically necessary because occupation logistics, civic symbolism,
+  infrastructure compromise, and the future meaning of the AFC converge there.
+- Boston already has an organized local resistance. Elena Costa is local operational
+  authority; Romeo arrives as a useful outsider, not a savior.
+- The bridge spans a meaningful inter-campaign interval; exact dates remain open.
+
+Source-landed early Act I sequence:
+- Prologue: EASTBOUND
+- Mission 01: WEST SEAM
+- Mission 02: HINGE
+- Mission 03: OPEN THE FACE
+- Mission 04: DAY WINDOW
+- Mission 05: ROLL CALL
+- Mission 06: THE POCKET
+
+DAY WINDOW includes one loyalist A-10 pass. A qualified JTAC/FAC(A) control function
+exists in the background chain and is confirmed without an on-screen controller subplot
+by Elena's locked line: “Controller’s got it. Hold west. Window’s yours.”
+
 Existing mission/source anchors such as THE RIGHT RIFLE, LIFELINE, HOLDFAST, and
-BODYWORK remain in force. This title lock does not imply that the full mission ladder
-is complete.
+BODYWORK remain in force. The early Act I ladder above is source-landed, but the full
+later mission ladder remains incomplete.
 
 DUCKY GAME 3 — FAILSAFE
 Protagonist: SFC Ferris “Ducky” Ryan
@@ -86,9 +109,17 @@ investigation, and expansion into the Yunnan / Wei architecture
 Title status:
 LOCKED.
 
+Title-origin provenance:
+- initial scratch wording “Dog Skies” is discarded;
+- the owner corrected it to DARK SKIES;
+- the owner clarified “Spook it is,” assigning the title to Spook's Game 3 lane;
+- the originating thread associates the phrase with hostile surveillance, compromised
+  airspace, drones/satellites, denied movement, and a sky that is no longer neutral.
+
 Supersedes:
 - language treating DARK SKIES only as a working campaign-title or major-arc candidate;
-- Yunnan-first placeholder summaries that omit the restored opening act.
+- Yunnan-first placeholder summaries that omit the restored opening act;
+- any implication that DARK SKIES belongs to Ducky.
 
 Preserved four-act spine:
 - Bad Omens
@@ -116,28 +147,40 @@ The Storm DLC's FURTHER EAST. The separate Storm opening-title collision with SO
 CULVERT remains a Storm-side rename dependency; it does not rename Spook's Game 3
 mission.
 
+The title-origin transcript controls title provenance and thematic fit only. The
+existing campaign refresh pack and dedicated campaign pages control the four-act and
+mission structure.
+
 TIMELINE GOVERNANCE
 All three campaigns belong to Game 3 and close no later than the shared Game 3 close /
-restoration-threshold anchor. Exact opening events and exact day-level synchronization
-remain open unless controlled by a more specific source.
+restoration-threshold anchor. NO KINGS now opens at the source-landed EASTBOUND
+prologue. Exact bridge months, exact dates for the early Boston missions, and exact
+day-level synchronization among the three Game 3 campaigns remain open unless
+controlled by a more specific source.
 
-Do not invent exact campaign dates from the title lock.
+Do not invent exact campaign dates from the title lock or the bridge sequence.
 
 SUPERSESSION RULES
 On sight, update or qualify these older formulations:
 - “NO KINGS — working title recommendation” -> NO KINGS, locked campaign title.
 - “Occupied Boston campaign, protagonist TBD” -> NO KINGS, Romeo.
+- “NO KINGS opening undeveloped” -> early Act I sequence source-landed through THE
+  POCKET; later ladder remains incomplete.
 - “FAILSAFE — stable working campaign” -> FAILSAFE, locked campaign title; story
   structure remains working/source-landed where explicitly marked.
 - “DARK SKIES — working candidate” -> DARK SKIES, locked campaign title.
+- “DOG SKIES” -> discarded scratch wording only.
 
-A campaign title may be locked while individual missions, dates, or scene treatments
-remain incomplete. Do not collapse those different status levels.
+A campaign title may be locked while individual dates, encounter tuning, or scene
+treatments remain incomplete. Do not collapse those different status levels.
 
 SOURCE BASIS
 - PW_Compendium_Refresh_Pack_Game2_and_Game3_Campaigns_rev5_2026-05-05.txt
 - PW_Compendium_Refresh_Pack_DuckyG3_FAILSAFE_and_SpookG3_DARK_SKIES_v0_1.txt
+- dev_src_docs/story_campaigns/Game3/Spook/PW_DARK_SKIES_Title_Origin_and_Thematic_Provenance_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game3/Romeo/PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game3/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
 - current Game 3 Romeo, Ducky, and Spook source pages
-- explicit owner adjudication, 2026-07-22
+- explicit owner adjudication and thread lock, 2026-07-22
 
 END
