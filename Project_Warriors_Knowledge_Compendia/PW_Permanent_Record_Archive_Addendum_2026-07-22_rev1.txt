@@ -1,0 +1,62 @@
+PROJECT WARRIORS — PERMANENT RECORD ARCHIVE ADDENDUM
+Generated: 2026-07-22
+Version: rev1
+Status: COMPENDIUM-SIDE SYNTHESIS / SOURCE PAGES CONTROL DETAIL
+
+PURPOSE
+This addendum records the 2026-07-22 Permanent Record archive reconciliation for future
+full compendium refreshes.
+
+NEW CONTROLLING SOURCE PAGES
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Gerhana_Marietta_Keter_Continuity_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Presentation_Music_and_Ending_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Full_Current_Mission_Ladder_2026-07-22_rev1.txt
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_permanent_record_rev2_5.delta.yaml
+
+CORE TIMELINE READ
+- Nonlinear cold open uses …AND INTO THE FIRE.
+- Main chronological start is the Minneapolis bombing investigation.
+- LINE OF FIRE: Minneapolis -> Twin Cities -> Chicago -> Montreal.
+- NO SHELTER: Montreal -> Paris -> Monaco -> Haifa -> DPRK safe-passage lane.
+- Final run: FLOW CONTROL -> …AND INTO THE FIRE -> JUDGMENT DAY ->
+  ONE HEAD OF THE HYDRA.
+- HOME ADVANTAGE is the Command Authority consequence of the Lower Ninth Ward lead.
+
+KEY CONTINUITY
+- Gerhana -> seizure/disappearance -> Marietta.
+- Cayman Islands registration.
+- Geoffrey-Guy Moffat Paris trail.
+- Keter Maritime Haifa administration/compliance shell.
+- Delhardt uses/leases Marietta but is not aboard during ET IN ARCADIA EGO.
+- RECEIVERSHIP collapses Lana Erika Delhardt into Gillian Stockbridge.
+
+PRESENTATION
+- Preferred trailer and final playout direction: The Smashing Pumpkins —
+  "Bullet with Butterfly Wings."
+- Credits/playout begins after ONE HEAD OF THE HYDRA, not at the crash site.
+- Music use remains production/licensing dependent.
+- Ending is consequential but non-triumphant.
+
+FINALE
+- Current tower spelling: Torres Mulieres.
+- Stockbridge uses ENFANT TERRIBLE during the breakout.
+- Stockbridge survives the motorcycle/delivery-van crash and is captured alive.
+- ONE HEAD OF THE HYDRA reveals selective reconstruction-order contamination and
+  succession planning, not universal corruption.
+
+CROSS-CAMPAIGN
+- Spook's Twin Cities work feeds Romeo's HOME ADVANTAGE.
+- Existing New American Frontier source packet controls Pacer, River, Static, Sunny,
+  Hazzard, and faction structure.
+- Y. T. Lin / Lin Yueh-Ting has a separate Common Picture advisory seed; exact mission
+  placement remains open.
+
+DO NOT COLLAPSE
+- locked mission titles versus working arc labels;
+- chronological order versus nonlinear presentation order;
+- hard evidence versus possible Atlas/Nexus Meridian/Yadat corporate linkage;
+- capture of Stockbridge versus defeat of the whole network;
+- preferred music direction versus secured licensing.
+
+END OF FILE
