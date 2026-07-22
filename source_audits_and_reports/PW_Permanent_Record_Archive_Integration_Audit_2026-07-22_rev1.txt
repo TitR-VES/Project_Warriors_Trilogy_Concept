@@ -1,0 +1,69 @@
+PROJECT WARRIORS — PERMANENT RECORD ARCHIVE INTEGRATION AUDIT
+Generated: 2026-07-22
+Version: rev1
+Status: VALIDATED SOURCE RECONCILIATION
+
+INPUT
+- Project_Warriors_Permanent_Record_Thread_Archive_2026-07-22-3.txt
+- existing main/PR-branch Permanent Record and Command Authority source pages
+
+ARCHIVE LIMITATION
+The archive contains skipped-message markers. No absent verbatim content was invented.
+
+ALREADY PRESENT — RETAINED
+- ET IN ARCADIA EGO core mission.
+- RECEIVERSHIP core mission.
+- DPRK defector safe-passage mini-arc.
+- FLOW CONTROL core mission and lanyard / GRAY GHOST / BACKUP PLAN logic.
+- …AND INTO THE FIRE sand-barge EVADE.
+- JUDGMENT DAY confrontation, chase, crash, capture.
+- ONE HEAD OF THE HYDRA device-data aftermath.
+- HOME ADVANTAGE and New American Frontier senior roster.
+- Lana Erika Delhardt / Gillian Stockbridge identity.
+- ENFANT TERRIBLE.
+
+NEW OR EXPLICITLY COMPLETED
+1. Full current Permanent Record chronology from Minneapolis through the final aftermath.
+2. Machine-readable mission-event projection and cross-campaign sync.
+3. Gerhana -> Marietta -> Keter lineage in one controlling source.
+4. Paris/Moffat function and Delhardt's shadow-use relationship to Marietta.
+5. Preferred trailer/credits music direction and correct credits handoff point.
+6. Exact separation of locked titles, working arc labels, implementation candidates,
+   and production-dependent music.
+7. Current tower spelling correction: Torres Mulieres.
+8. Explicit cross-campaign boundary for the Y. T. Lin/Common Picture seed.
+
+CORRECTIONS / SUPERSESSION
+- Torres Mulieris -> Torres Mulieres.
+- Keta Maritime -> Keter Maritime.
+- Gahana / Meriotta transcription variants -> Gerhana / Marietta.
+- Elizar Baruchadad / Yadad -> Eliezer Baruch Yadat.
+- CHAIN OF CUSTODY -> RECEIVERSHIP as active Haifa title.
+- FLOW CONTROL remains active over discarded highway-title candidates.
+
+NOT PROMOTED
+- exact dates;
+- exact corporate path from Keter to Atlas/Nexus Meridian/Yadat;
+- exact QTE count or prompt wording in the galley;
+- optional mission between Twin Cities and Chicago;
+- exact DPRK mini-arc mission split;
+- exact licensed-music implementation.
+
+ONTOLOGY VALIDATION TARGETS
+Timeline rev2.5:
+- 7 eras
+- 78 events
+- 21 campaign tracks
+- 17 synchronization points
+- zero duplicate IDs
+- zero dangling references
+- zero self references
+- acyclic ordering graph
+- zero events without source pointers
+
+Registry:
+- unchanged at projected v3.0
+- 37 stable named identities
+- zero duplicate stable IDs
+
+END OF FILE
