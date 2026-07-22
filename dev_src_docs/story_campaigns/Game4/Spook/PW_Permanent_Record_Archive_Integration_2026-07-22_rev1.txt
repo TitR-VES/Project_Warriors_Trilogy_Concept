@@ -1,0 +1,275 @@
+PROJECT WARRIORS — PERMANENT RECORD ARCHIVE INTEGRATION
+Generated: 2026-07-22
+Version: rev1
+Status: SOURCE-READY RECONCILIATION / CANON AND WORKING-LOCK GOVERNANCE
+
+PURPOSE
+This page reconciles the accessible Permanent Record thread archive exported on
+2026-07-22 against the Permanent Record source pages already landed in May and July
+2026. It records only material that is missing, under-specified, or in need of explicit
+status governance. It does not replace the dedicated mission reference pages.
+
+SOURCE LIMITATION
+The supplied archive contains visible user/assistant text plus several "Skipped ..."
+markers. Missing verbatim spans are not reconstructed. Where a later assistant summary
+reports that a source-style page was delivered and accepted, that summary is used only
+to confirm the already-landed source-page direction, not to invent absent dialogue.
+
+CONTROLLING EXISTING SOURCES
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Investigative_Mission_Pack_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Campaign_Architecture_Recovery_Packet_2026-05-08_rev1.txt
+- dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Latest_Thread_Update_2026-07-06_rev1.txt
+- dedicated mission references for FLOW CONTROL, …AND INTO THE FIRE, JUDGMENT DAY,
+  ONE HEAD OF THE HYDRA, ET IN ARCADIA EGO, RECEIVERSHIP, and the DPRK safe-passage arc
+- dev_src_docs/story_campaigns/Game4/Romeo/PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+
+================================================================================
+01. CAMPAIGN IDENTITY AND END-STATE
+================================================================================
+
+Campaign title:
+PERMANENT RECORD.
+
+Core thesis:
+Justice is a field operation. Spook and Victor Two Bravo must keep truth, witnesses,
+evidence, chain of custody, and accountability alive while surviving networks try to
+launder themselves into the postwar restoration order.
+
+Locked end-state:
+- Gillian Stockbridge survives JUDGMENT DAY, catastrophically injured, and is captured.
+- ONE HEAD OF THE HYDRA follows as the device-exploitation aftermath.
+- Stockbridge's capture removes one powerful surviving branch; it does not end the
+  distributed organism.
+- The ending is satisfactory and consequential, but deliberately non-triumphant.
+- The devices reveal that names, relatives, heirs, protégés, patronage lines, or protected
+  successors connected to the old network already overlap with parts of the rebuilding
+  order.
+- Do not turn the reveal into "everyone rebuilding is compromised." The horror is
+  selective, inherited, distributed contamination and survivability.
+
+================================================================================
+02. NAME AND ORTHOGRAPHY LOCKS
+================================================================================
+
+Canonical:
+- Lana Erika Delhardt — Stockbridge's active public-facing alias.
+- Gillian Stockbridge — buried real identity.
+- Lin Yueh-Ting — full name; Lin is the family name.
+- Y. T. Lin — accepted short form.
+- Torres Mulieres — current tower-name spelling for the Buenos Aires endgame location.
+  Any "Torres Mulieris" occurrence is typographic drift and should be corrected on sight.
+- Geoffrey-Guy Moffat — Paris / dead-network continuity figure.
+- Eliezer Baruch Yadat — correct spelling for the earlier Atlas / port-infrastructure figure.
+
+================================================================================
+03. NONLINEAR OPENING AND CHRONOLOGICAL SPINE
+================================================================================
+
+Presentation lock:
+PERMANENT RECORD may open on the late-campaign …AND INTO THE FIRE crisis frame. Spook
+appears trapped above a waterfront/service channel. The scene cuts away before resolution.
+
+Main chronological opening:
+After the cold-open interruption, the campaign transitions to the Minneapolis State
+Center / UNHMNA aid-center bombing aftermath and investigation. A breaking-news/loading
+screen presentation may establish the event before Spook and Victor Two Bravo arrive.
+
+Cold-open return:
+Later, …AND INTO THE FIRE resumes at the exact interrupted moment. Spook hears the
+service-barge horn, recognizes the passing barge carrying a sand container below, receives
+the EVADE prompt, and jumps into it. Do not replace this with a generic drop into lower
+industrial cover.
+
+Chronological mission/arc chain currently supported:
+LINE OF FIRE
+1. Minneapolis bombing aftermath / investigation.
+2. Twin Cities safe-house or staging-area exploitation.
+3. Actionable New Orleans / Lower Ninth Ward intelligence passed up the chain.
+4. Chicago follow-on, including the Ledger confrontation after VIATECH '31.
+5. Montreal bridge.
+
+NO SHELTER
+6. Paris trailwork through Geoffrey-Guy Moffat and the resurfaced yacht history.
+7. ET IN ARCADIA EGO — Monaco / Marietta.
+8. RECEIVERSHIP — Haifa / Keter Maritime.
+9. DPRK Defector Safe-Passage Mini-Arc — Seoul intermediary and South-side reception /
+   compromised extraction.
+
+FINAL RUN
+10. FLOW CONTROL.
+11. …AND INTO THE FIRE.
+12. JUDGMENT DAY.
+13. ONE HEAD OF THE HYDRA.
+
+Elasticity rule:
+No mandatory mission is currently locked between the Twin Cities exploitation and
+Chicago. A future insertion remains possible, but must not be treated as an existing
+mission until separately developed.
+
+================================================================================
+04. GERHANA -> MARIETTA -> KETER CONTINUITY
+================================================================================
+
+See the dedicated continuity page:
+dev_src_docs/story_campaigns/Game4/Spook/PW_Gerhana_Marietta_Keter_Continuity_2026-07-22_rev1.txt
+
+High-level lock:
+- The Game 1 yacht Gerhana survives its former owner's death.
+- Authorities seize it; it disappears from clear public view.
+- Around the Game 4 approach, roughly two years after Game 3, the vessel resurfaces as
+  Marietta under Cayman Islands registration and a scrubbed but imperfect history.
+- Geoffrey-Guy Moffat is part of the recovered ownership / access trail.
+- Lana Erika Delhardt uses or leases the vessel as a shadow movement asset; she is not
+  aboard during ET IN ARCADIA EGO.
+- Keter Maritime in Haifa is the ordinary-looking management/compliance shell that helps
+  collapse the Delhardt identity into Gillian Stockbridge.
+
+================================================================================
+05. ET IN ARCADIA EGO — IMPLEMENTATION GOVERNANCE
+================================================================================
+
+Already locked:
+- Monaco marina / luxury-surveillance environment.
+- Marietta infiltration goes bad on exfil.
+- Diegetic Teddybears "Cobra Style" resumes mid-track over the yacht PA as an accidental,
+  wrong-context reactivation.
+- Galley fight is short, brutal, confined, and survival-driven.
+- Spook finishes the hostile with NOTHING in a rapid last-inch reversal.
+
+Additional working implementation:
+- Approximately three pressure/QTE beats plus a final reversal is an acceptable current
+  rhythm, but exact QTE count remains implementation-level.
+- The large hostile is deceptively skilled with knives and improvised kitchen tools.
+- The finishing gunshot is fast and not staged as gore spectacle.
+- The PA mix should become muffled inside the galley and may cut/drop immediately after
+  the final shot.
+- Exact prompt text remains open; NEUTRALIZE / FINISH / BREAK CONTACT were discussed but
+  not adjudicated into one locked prompt.
+
+================================================================================
+06. RECEIVERSHIP — IDENTITY PROOF GOVERNANCE
+================================================================================
+
+Locked:
+- Mission title RECEIVERSHIP supersedes CHAIN OF CUSTODY as active title.
+- Port-adjacent Haifa contractor/records/compliance environment.
+- Keter Maritime is practical, ordinary, records-heavy, and commercially plausible.
+- Proof emerges through layered maritime administration, registry residue, service
+  history, shell routing, and buried metadata, not one magic file.
+- After Haifa, Delhardt and Stockbridge are conclusively the same person for the campaign.
+
+Working deeper ecosystem:
+- Keter may connect indirectly to Nexus Meridian, Atlas, and Eliezer Baruch Yadat through
+  port services, infrastructure protection, discreet transactions, charter/registry work,
+  storage, customs, fuel, or maritime logistics.
+- Exact corporate/legal linkage is not yet locked. Do not promote the possible
+  Atlas/Yadat connection into a fully proven chain without a dedicated adjudication.
+
+================================================================================
+07. FLOW CONTROL — PRESSURE-BEAT LOCKS
+================================================================================
+
+Locked:
+- La Avispa returns voice-only to warn Victor Two Bravo about a dangerous tail.
+- She breaks professional separation because her channels indicate the mission may be cut
+  off before it begins; she is not checking in emotionally.
+- The call stays compressed, urgent, tradecraft-clean, and ends quickly.
+- Civilian highway/toll-lane constriction in Argentina or adjacent South American transit
+  space.
+- Deniable contractors, sicarios, or equivalent intermediaries attack through
+  Stockbridge-aligned backchannels.
+- Victor Two Bravo breaks contact rather than "winning" a long chase.
+- Smoke drives; Tripper reads traffic/targets/routes; Spook becomes rear security.
+- Spook clips into a retention lanyard, opens the SUV rear hatch/tailgate, and uses
+  GRAY GHOST for the larger geometry before BACKUP PLAN appears when the fight compresses.
+- Controlled fire and target verification are essential because stalled civilian traffic
+  fills the kill box.
+- The scene may echo the Vienna beltway pressure of GARDEN PATH without requiring the
+  player to recognize the callback.
+
+================================================================================
+08. JUDGMENT DAY — FINALE GOVERNANCE
+================================================================================
+
+Locked:
+- Quiet stealth-led Torres Mulieres infiltration.
+- Controlled suppression, selective elimination, camera-angle avoidance, and optional
+  surveillance degradation through a reachable control/security room.
+- Stockbridge is caught late because the breach stays quiet.
+- She is already in partial flight state: light riding/protective trousers, pale shirt;
+  jacket and helmet staged with the motorcycle.
+- Half-open office door with OPEN prompt.
+- Pencil/pen ambush caught by vest/webbing/soft-armor line.
+- Brief involuntary first-person camera dip.
+- Spook says one dry "Really?"
+- Stockbridge draws ENFANT TERRIBLE, her compact concealed sidearm.
+- Smoke is wounded non-fatally; Tripper remains with him; Spook continues alone.
+- Compact tower/service/parking pursuit rather than a giant siege.
+- Stockbridge reaches the staged motorcycle.
+- She overcommits into an intersection and is struck by an ordinary delivery van.
+- Helmet prevents death but not catastrophic, life-altering injury.
+- She is captured alive and enters secured medical custody.
+- The roadside exchange remains lean; deeper structural meaning belongs to the aftermath.
+
+Current roadside dialogue:
+Stockbridge: You can't prove anything.
+Spook: There's enough on file already. And more people are talking.
+Stockbridge: We haven't lost yet.
+Spook: No. Not yet. They're going to keep you alive. Then you're going into custody.
+       And then you stand trial with the rest of the bastards.
+
+================================================================================
+09. ONE HEAD OF THE HYDRA — AFTERMATH GOVERNANCE
+================================================================================
+
+Locked:
+- Immediate post-JUDGMENT DAY device exploitation.
+- Ordinary actionable findings first, then the reconstruction-overlap recognition.
+- Sparse dialogue, procedural environment, no omniscient miracle archive.
+- Smoke remains wounded but recoverable; Tripper works the cross-references.
+- The reveal concerns succession, patronage, relatives, protégés, protected networks,
+  reconstruction committees/contractors, and institutional survivability.
+- Correct playout/credits handoff occurs here, not at the crash site.
+
+================================================================================
+10. CROSS-CAMPAIGN BOUNDARIES
+================================================================================
+
+Romeo / COMMAND AUTHORITY:
+- The Twin Cities investigation yields the Lower Ninth Ward lead.
+- Spook passes it up the chain.
+- Romeo, Andre Bridges, and attached USMC support later act on it in HOME ADVANTAGE.
+- This is an intelligence handoff, not a crossover spectacle.
+- The existing New American Frontier packet controls Pacer, River, Static, Sunny, Hazzard,
+  faction structure, and the Sunny/Romeo bar encounter. Do not duplicate or rename them.
+
+Ducky / COMMON PICTURE:
+- The archive preserves a separate Game 4 seed in which Y. T. Lin becomes a key technical
+  adviser to Ducky/AEGIS on cryptographic kill-switch work, reconstruction, hardening,
+  and closure of known PANDORA-class vulnerabilities.
+- This is a cross-campaign seed, not a Permanent Record mission event.
+- It should be read with the existing HYPERMNESTRA/VIGILAN/Common Picture sources.
+- Exact mission placement and technical implementation remain open.
+
+================================================================================
+11. SUPERSESSION AND STATUS RULES
+================================================================================
+
+- RECEIVERSHIP is active; CHAIN OF CUSTODY and HOSTILE TAKEOVER are historical candidates.
+- FLOW CONTROL is active; CROSSTOWN TRAFFIC, NO EXIT, ROUGH ROAD AHEAD, and HARD SHOULDER
+  are historical candidates.
+- ET IN ARCADIA EGO is active for Monaco / Marietta.
+- JUDGMENT DAY and ONE HEAD OF THE HYDRA are the locked final pair.
+- NO SHELTER remains a working arc title, not a numbered-act lock.
+- "Bullet with Butterfly Wings" is a preferred presentation/music direction subject to
+  licensing and production approval; it is not a claim that music rights are secured.
+- Any exact Game 4 day/date not separately locked remains open.
+- Any absent skipped-thread material remains absent; do not reverse-engineer it from
+  summaries.
+
+SOURCE BASIS
+- Project_Warriors_Permanent_Record_Thread_Archive_2026-07-22-3.txt
+- existing Permanent Record and Command Authority source pages listed above
+- owner approvals contained in the visible archive
+
+END OF FILE
