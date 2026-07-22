@@ -1,0 +1,123 @@
+PROJECT WARRIORS — NO KINGS ACT I MISSION SOURCE
+Mission 06: THE POCKET
+Generated: 2026-07-22
+Version: rev1
+Status: LOCKED MISSION IDENTITY / SOURCE-LANDED WORKING SCRIPT
+
+MISSION PURPOSE
+First deliberate neighborhood counteroffensive after ROLL CALL.
+Boston decides what it intends to take back and keep. The target is not a symbolic
+building but a connected interior pocket built around survival infrastructure.
+
+POCKET COMPOSITION
+- protected residential interiors;
+- service courtyard;
+- clinic access;
+- workshop/repair capacity;
+- observation routes;
+- water and limited power;
+- multiple exits;
+- three perimeter “teeth” that must be cleared.
+
+Core distinction:
+Earlier missions created breathing spaces. THE POCKET creates the first place intended
+to remain theirs in the morning.
+
+BRIEFING CORE
+Elena selects ground based on sustainment, not symbolism.
+The resistance must:
+- walk the inside;
+- clear three teeth;
+- move civilians and functional locals;
+- build barricades, aid, water, communications, and observation;
+- survive the first night answer;
+- lock the pocket for morning.
+
+Protected conceptual dialogue:
+ROMEO asks what makes the target different.
+ELENA's answer is that it is not just something they can enter; it is something they can
+feed, treat, repair, watch, and leave from.
+The mission is a choice to keep ground, accepting that the enemy will answer.
+
+MISSION FLOW
+Phase 1 — Walk the inside
+- move through candidate pocket with residents still present;
+- inventory clinic, water, workshop, rooftops, blind courtyards, and escape seams;
+- local knowledge determines what is viable.
+
+Protected local logic:
+- a pocket without water is a trap;
+- a pocket without exits is a grave;
+- a pocket without skilled people is only empty buildings.
+
+Phase 2 — First tooth: corner post
+- remove a local post controlling the most public entry;
+- use interior approach rather than frontal street assault;
+- preserve structures needed for later defense.
+
+Phase 3 — Second tooth: courtyard eyes
+- clear observation/fire position overlooking inner service court;
+- control vertical sightlines;
+- convert the courtyard into protected movement space.
+
+Phase 4 — Third tooth: rear utility choke
+- secure the rear service/utility route;
+- protect water/power access and secondary exfiltration;
+- prevent the enemy from folding the pocket from behind.
+
+Phase 5 — Build the pocket
+- civilians, fighters, medics, machinist/Foreman-type skilled locals, water, batteries,
+  radios, optics, and tools move in;
+- player helps place practical defenses;
+- no flag-planting spectacle;
+- the neighborhood becomes functional under pressure.
+
+Phase 6 — First night answer
+- occupiers probe from multiple teeth;
+- resistance must rotate sectors rather than chase;
+- use HINGE and earlier route knowledge;
+- civilians and skilled locals continue working during attack;
+- the point is to survive a coordinated answer, not destroy an army.
+
+Phase 7 — Lock for night
+- close false routes;
+- maintain real exits;
+- establish watch rotations;
+- distribute water/ammunition/medical stock;
+- mark sectors and casualty points;
+- leave deceptive signs outside;
+- preserve the ability to abandon the pocket if later necessary.
+
+Phase 8 — First thing kept
+At morning/late-night quiet:
+- clinic works;
+- radios charge;
+- workshop repairs begin;
+- residents sleep inside connected ground;
+- observation is continuous;
+- the pocket is still theirs.
+
+Protected thematic close:
+entry -> seam -> joint -> face -> daylight window -> backlash -> first kept pocket.
+THE POCKET is the turn from Act I survival toward Act II NEIGHBORHOOD WAR.
+
+MISSION END STATE
+- first contiguous protected neighborhood interior;
+- Elena and Romeo have a base for outward civic reclamation;
+- Van Hult / skilled-labor / workshop / neighborhood-front material can now grow
+  organically;
+- the next mission must choose between expanding the pocket into a block front or using
+  it as cover for a more ambitious civic-reclamation target.
+
+OPEN FIELDS
+- exact neighborhood map;
+- exact three teeth;
+- final local NPC identities;
+- exact night counterattack composition;
+- exact transition mission after THE POCKET.
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+- explicit thread close lock
+
+END
