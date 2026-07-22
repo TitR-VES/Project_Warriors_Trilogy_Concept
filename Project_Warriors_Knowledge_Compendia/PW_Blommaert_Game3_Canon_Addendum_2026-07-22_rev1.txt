@@ -1,0 +1,75 @@
+PROJECT WARRIORS — KNOWLEDGE COMPENDIUM ADDENDUM
+BLOMMAERT / INFRASTRUCTURE DAY / GAME 3 CAMPAIGN TITLES
+Generated: 2026-07-22
+Version: rev1
+Status: CURRENT ADDITIVE CANON LAYER
+
+APPLICATION RULE
+Read this addendum after the rev6 working compendia and the 2026-07-21/22 ontology
+reconciliation sources. Where status wording conflicts, this page controls only the
+explicit fields below.
+
+GAME 3 CAMPAIGN TITLE LOCK
+- Romeo Game 3: NO KINGS.
+- Ducky Game 3: FAILSAFE.
+- Spook Game 3: DARK SKIES.
+
+These are locked campaign titles, not recommendations or candidates.
+
+Supersede in current compendia:
+- “NO KINGS working title recommendation” -> NO KINGS, locked.
+- “Occupied Boston campaign, protagonist TBD” -> NO KINGS, Romeo.
+- “FAILSAFE stable working campaign” -> FAILSAFE title locked; individual content may
+  remain working where marked.
+- “DARK SKIES working campaign-title / major-arc candidate” -> DARK SKIES, locked.
+
+Preserve existing story structures:
+- NO KINGS: Eastbound War / Neighborhood War / Harbor and the Shadow Government /
+  What Victory Is For.
+- FAILSAFE: Broken Picture / The Verification War / Selective Restoration / Failsafe.
+- DARK SKIES: Bad Omens / Private Route / Wrong Signature / Dark Skies.
+
+Do not infer exact Game 3 dates or complete mission/source parity from the title lock.
+
+LEANDRO PETRUS BLOMMAERT
+- Canonical name: Leandro Petrus Blommaert.
+- GenCorp Director of Physical Security / Protective Operations, not Head of Data
+  Security.
+- South African, Afrikaans-speaking, approximately 46 in 2028.
+- Broad background: early Foreign Legion service; later South African military/security
+  and high-risk tactical-police work; private executive protection and hard-site
+  security.
+- Professional, non-ideological antagonist; not a mastermind.
+- Indirect prior protective-security association with Lloyd Aymes-linked assets.
+
+INFRASTRUCTURE DAY
+- Spook Game 1 / RIPTIDE RED, Abu Dhabi.
+- Blommaert is an optional target of opportunity.
+- Earned kill: inverted exterior-rappel position, secure-call balcony/terrace window,
+  camera/routing setup, one clean suppressed shot.
+- Prompt: ELIMINATE.
+- Death and survival remain valid branches.
+- A surviving Blommaert can return having adapted to Spook's playbook.
+
+JUDGE ME NOT
+Achievement, if the achievement layer is implemented:
+- Unlock: eliminate Blommaert from the earned exterior-rappel position.
+- Description: Neutralize Leandro Petrus Blommaert during Infrastructure Day.
+- Icon: single upside-down phone-holding silhouette; reticle point on the head; no
+  duplicate right-side-up outline; railing/ledge follows the inverted perspective.
+
+DUE DILIGENCE
+- Blommaert's named compact protective-operations carbine.
+- Stable ID: PW-WPN-BLOMMAERT-DUE-DILIGENCE.
+- SIG MCX Spear-LT / Virtus-type suppressed compact platform lane.
+- Exact 5.56x45mm versus .300 BLK choice remains open.
+- Not automatically a persistent player pickup.
+
+CONTROLLING SOURCES
+- dev_src_docs/canon_lore_source_of_truth/PW_PostMerge_Canon_Addendum_Blommaert_Game3_2026-07-22_rev1.txt
+- dev_src_docs/characters/PW_Leandro_Petrus_Blommaert_Profile_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+- dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+
+END
