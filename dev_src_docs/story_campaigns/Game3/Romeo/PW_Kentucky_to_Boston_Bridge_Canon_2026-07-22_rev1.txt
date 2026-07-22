@@ -1,0 +1,302 @@
+# PROJECT WARRIORS — INTERNAL REFERENCE PAGE  
+## ROMEO GAME 2 → GAME 3 BRIDGE PACKET  
+### Working title: **EASTBOUND / THE NAME LEAVES HOME**  
+**Status:** LOCKED DIRECTION / SOURCE-LANDED WORKING IMPLEMENTATION  
+**Use:** Narrative development, mission planning, timeline integration, campaign architecture  
+**Scope:** Bridge between Romeo’s Game 2 Kentucky campaign and Romeo’s Game 3 Boston campaign  
+**Current fit:** Aligned to current Boston spine and AFC-future thematic direction
+
+**Controlling governance:**
+- The months-spanning political/logistical bridge is locked as the continuity direction.
+- Exact bridge dates remain open; do not compress this into a same-week jump.
+- Boston already has an organized local resistance before Romeo arrives.
+- Elena Costa is Boston's local operational authority; Romeo enters as a useful outsider, not a savior.
+- EASTBOUND is the playable final leg of the bridge.
+- Exact identities of Romeo's two eastbound companions remain unselected.
+- Semper Fi / surviving loyalist military channels may enable movement indirectly but do not become the bridge's central narrative motor.
+- AFC spread, imitation, and ideological distortion are load-bearing setup for NO KINGS.
+
+---
+
+## 1. Purpose
+
+This bridge exists to solve the known gap between **Calloway/Kentucky** and **occupied Boston** in Romeo’s campaign path.
+
+It must not function as a simple travel explanation. Its actual job is to connect two different scales of story:
+
+- **Game 2:** local armed resistance, liberation under occupation, the AFC as something built face-to-face
+- **Game 3:** wider political struggle, the AFC as a movement larger than any one town, and the question of who gets to define liberation once it begins to succeed
+
+The bridge therefore needs to connect **place**, **movement**, and **meaning**.
+
+---
+
+## 2. Core thesis
+
+**Calloway proves the AFC can exist. Boston is where Romeo learns that creating a movement and controlling what it becomes are not the same thing.**
+
+This is the clean thematic handoff into the current Game 3 thesis:
+
+**Romeo comes to Boston to help free a city and discovers he is really fighting over who gets to define America after liberation.**
+
+---
+
+## 3. Relationship to existing campaign structure
+
+This bridge should be treated as a **pre-Act-I connective layer**, not a missing full campaign.
+
+It feeds directly into the already established Game 3 Boston structure:
+
+- **Act I — Eastbound War**  
+  transition into Boston, fractured contact, first foothold, early surge-of-hope military beat
+- **Act II — Neighborhood War**  
+  block-by-block reclamation feeling, Van Hult branch, local resistance density, retained ground
+- **Act III — Harbor and the Shadow Government**  
+  British covert contact, harbor recon/sabotage, widening theater logic
+- **Act IV — What Victory Is For**  
+  Lebedev, City Hall, infrastructure compromise, AFC future, post-liberation meaning
+
+The bridge is what makes Act IV feel earned instead of sudden.
+
+---
+
+## 4. Core development rules
+
+### 4.1 Kentucky must remain the seed
+Romeo cannot simply leave Kentucky behind as if it were a disposable chapter. Calloway must feel like the place where something real was born.
+
+### 4.2 The AFC must scale believably
+It begins as a local resistance identity rooted in trust, loss, and practical cooperation. By the bridge period, it starts becoming larger, copied, and less governable.
+
+### 4.3 Spread must include distortion
+The bridge is where the first serious ideological contamination begins. The AFC name starts being used by people Romeo would not trust to define the country afterward.
+
+### 4.4 Boston must keep its own authorship
+Romeo must not arrive as the man who teaches Boston how to resist. Boston was already fighting. Elena Costa and the existing underground are load-bearing here.
+
+### 4.5 Romeo needs a concrete eastbound reason
+He should move east because Boston matters strategically and politically, not because the next campaign is set there.
+
+### 4.6 British presence must not be the launch motor
+British support complicates and enlarges the Boston theater later. It should not be the primary reason Romeo goes to Boston in the first place.
+
+---
+
+## 5. Narrative function of the bridge
+
+The bridge must perform six linked tasks.
+
+### A. Preserve Kentucky’s weight
+The player must feel that what happened in Calloway changed the wider American resistance picture.
+
+### B. Expand the AFC beyond face-to-face control
+Romeo starts to understand that symbols spread faster than personal trust.
+
+### C. Introduce the wrong people using the right language
+Not everyone fighting occupation wants the same country afterward.
+
+### D. Establish Boston as a strategic node
+Boston must matter for occupation logistics, administrative compromise, infrastructure vulnerability, and symbolic American meaning.
+
+### E. Reposition Romeo
+He stops being only a local resistance leader and becomes a man carrying a growing movement into a city that does not belong to him.
+
+### F. Prepare the “future of the AFC” conflict
+The Game 3 question is not only whether Boston can be freed. It is who gets to inherit that victory.
+
+---
+
+## 6. Recommended bridge structure
+
+The bridge should exist in three layers.
+
+### Layer 1 — Kentucky aftermath
+The AFC spreads outward from Calloway through rumor, graffiti, copied insignia, shared tactics, and word-of-mouth legitimacy.
+
+Romeo feels pride first, then concern. The name is leaving home.
+
+### Layer 2 — spread and distortion
+The AFC begins being invoked by fighters, cells, and local strongmen outside Romeo’s direct orbit. Some are sincere. Some are opportunists. Some are already drifting toward a harder, uglier post-liberation politics.
+
+This is where the first New America / accelerationist contamination should appear at the edges.
+
+### Layer 3 — eastbound concentration
+Recovered intelligence and surviving relay networks indicate that Boston is more than another occupied city. It is a logistics node, a civic-symbolic node, and a preconditioned occupation environment shaped by prior compromise.
+
+Romeo moves east because Boston is too important to ignore.
+
+---
+
+## 7. Recommended 6-beat bridge outline
+
+### Beat 1 — The Name Leaves Home
+In Kentucky, Romeo sees proof that the AFC identity has spread beyond Calloway.
+
+This should not be speech-heavy. Better expressions:
+- copied resistance marks
+- improvised patches
+- local militia claims
+- civilians using the name secondhand
+- fighters who have never met Romeo invoking the AFC as if it is already a national thing
+
+**Function:** Kentucky mattered enough to create momentum.
+
+---
+
+### Beat 2 — Wrong Men Saying the Right Words
+Romeo encounters evidence that some people using AFC language are not fighting for the same future he is.
+
+They sound patriotic. They may even be tactically useful against the occupiers. But their version of victory is exclusionary, possessive, and corrosive.
+
+**Function:** introduce the “future of the AFC” threat before Boston.
+
+---
+
+### Beat 3 — What Boston Actually Is
+A recovered file, courier packet, municipal archive fragment, or surviving contact chain points toward Boston as a prepared occupation environment.
+
+This is the correct place to begin threading in the Lebedev / City Hall / infrastructure documentation layer, lightly and without full reveal.
+
+**Function:** give Romeo a real strategic reason to move east.
+
+---
+
+### Beat 4 — The Relay State
+Romeo moves east through a damaged American relay network:
+- safehouses
+- industrial handoff points
+- broken freight corridors
+- partial military channels
+- local guides who trust nobody fully
+- infrastructure that still functions just enough to matter
+
+Semper Fi can assist here as a background enabling device through surviving military-adjacent routing or intelligence chains, but should not overtake the bridge.
+
+**Function:** show national scale without making the bridge a road-trip campaign.
+
+---
+
+### Beat 5 — Boston Was Already Fighting
+Romeo reaches the Boston edge and learns immediately that the city’s underground predates him. It has its own dead, routes, rules, scars, and symbols.
+
+Elena Costa or her district network provides the necessary first corrective:
+he is not arriving to start Boston’s resistance.
+
+**Function:** preserve Boston’s local armed legitimacy.
+
+---
+
+### Beat 6 — From Liberation to Definition
+By the time Romeo enters Boston, he understands three things:
+- the AFC is larger than Kentucky now
+- people are already trying to define it in his place
+- Boston is where that struggle becomes unavoidable
+
+**Function:** direct thematic handoff into Game 3 Act I.
+
+---
+
+## 8. Recommended playable expression
+
+### Use a compact final-leg prologue, not a full bridge campaign
+The months-long bridge exists in narrative terms, but the player only fully plays the final operational segment that matters most.
+
+**Recommended playable prologue title:** **EASTBOUND**
+
+This prologue should dramatize the final approach into the Boston theater and end with Romeo’s first substantive local contact.
+
+---
+
+## 9. EASTBOUND prologue — mission-level purpose
+
+The prologue must do four things:
+
+- physically place Romeo at Boston’s threshold
+- show the relay-state condition of America
+- establish that Boston’s local resistance already exists
+- hand the player directly into Act I without stealing the A-10 mission’s place
+
+---
+
+## 10. Recommended prologue shape
+
+### Opening cinematic
+Kentucky aftermath. AFC spread. Evidence of distortion. Recovered intelligence pointing to Boston. Romeo moves east with a small trusted element.
+
+### Play Phase 1
+A relay handoff at an outer industrial approach point goes wrong.
+
+### Play Phase 2
+Romeo is forced to move under local guidance through service and utility routes.
+
+### Play Phase 3
+The player gets a first observational read on occupied Boston and sees that it is already an active resistance city.
+
+### Play Phase 4
+Romeo helps secure a temporary foothold after the route partially burns.
+
+### End beat
+Elena Costa enters the story as Boston’s local combat center of gravity. Romeo is identified, assessed, and conditionally admitted, not celebrated.
+
+---
+
+## 11. Design rules for EASTBOUND
+
+### Keep the scale intimate
+No giant front-line battle. This is entry, not liberation.
+
+### Keep Boston layered and lived-in
+Show adaptation, scars, and existing local resistance texture.
+
+### Keep Romeo useful but not dominant
+He earns his way into the city.
+
+### Do not spend the A-10 here
+The A-10 should remain an early-Act-I hope-and-momentum escalation beat after first foothold and contact work begin.
+
+### Seed the Union Mark early
+The local Boston resistance identity should appear before AFC iconography becomes more dominant later.
+
+---
+
+## 12. Consequences for later campaign beats
+
+If this bridge works, later Boston material becomes stronger:
+
+- Elena feels legitimate immediately
+- Van Hult and neighborhood reclamation feel like joining an existing civic struggle, not inventing one
+- British contact feels like a later widening of the theater, not a substitute for local resistance
+- Lebedev / City Hall / infrastructure compromise lands as the deep structure beneath the occupation
+- “What Victory Is For” becomes the climax of an already running argument, not a late added theme
+
+---
+
+## 13. Current recommendation
+
+**Lock direction:**  
+Use a **months-spanning narrative bridge** with a **compact playable final-leg prologue** titled **EASTBOUND**.
+
+Do not make the bridge:
+- a montage only
+- a same-week jump
+- a travel campaign
+- a savior-arrives-in-Boston story
+
+Make it:
+- a spread-of-symbols story
+- a first-signs-of-distortion story
+- a relay-state America story
+- a threshold-entry story into a city already fighting
+
+---
+
+## 14. Parked related note
+**“What Victory Is For”** is strong enough to remain parked as a serious Romeo Game 3 slogan candidate and thematic line for later title-card/tagline discussion.
+
+---
+
+SOURCE BASIS
+- Project_Warriors_Kentucky_to_Boston_Bridge_Thread_Transcript_2026-07-22.txt
+- explicit owner lock at thread close
+
+END
