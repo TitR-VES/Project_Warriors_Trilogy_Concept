@@ -1,0 +1,35 @@
+PROJECT WARRIORS — SUPPLEMENTAL TRANSCRIPT RECOVERY AUDIT
+Generated: 2026-07-23
+Version: rev1
+
+ARCHIVE
+4 text files; no exact duplicates inside this supplemental ZIP.
+
+CLASSIFICATION
+- Australian Front / Pine Gap: new full source landing.
+- Bakhmut: materially expands the earlier compact packet and corrects placement from
+  “before AEGIS FALLS / exact slot open” to the locked HARD WINTER -> arc -> PERMAFROST slot.
+- Diegetic Music Placement Network: new durable audio-governance landing with explicit
+  licensing and character-supersession controls.
+- Hudson Overlook: fully absorbed by existing screenplay/mission-scripting authority; no
+  duplicate narrative page. Airstream is recorded only as an aspirational audio companion.
+
+HIGH-RISK CONFLICTS RESOLVED
+1. DEAD RECKONING duplicate name:
+   Sakhalin's stable build controls. Lucas Hill's loadout remains, name rename-required.
+2. WREN platform drift:
+   existing Switchblade stable ID/source controls; Australian transcript does not create a
+   new build or silently replace the platform.
+3. Pat Voss / Renata-son draft:
+   rejected. Patrick Napier remains current canon.
+4. CHAIN OF CUSTODY:
+   Home Defense mission title retained as working with final-title review because the same
+   phrase exists as a superseded Permanent Record title.
+5. Hudson music:
+   no-score/no-music structure remains controlling; Airstream can enter only during the
+   already-authorized return-to-car phase if licensed.
+
+VALIDATION TARGET
+Timeline rev2.8: 7 eras / 121 events / 21 tracks / 19 sync points; zero duplicate IDs,
+dangling references, self references, source-less events, or ordering cycles.
+Registry v3.3: 42 identities / 33 substantially specified / 9 recovery-status / zero duplicate IDs.
