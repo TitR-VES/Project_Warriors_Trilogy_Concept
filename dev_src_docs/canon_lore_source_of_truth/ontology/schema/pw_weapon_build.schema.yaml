@@ -1,29 +1,26 @@
 # ==============================================================================
 # PROJECT WARRIORS — ONTOLOGY SCHEMA: NAMED WEAPON BUILD
-# pw_weapon_build.schema.yaml — rev4 (amended 2026-07-23)
+# pw_weapon_build.schema.yaml — rev5 (amended 2026-07-23)
 # ==============================================================================
 # Changes:
 # - Registry base authority remains named_weapon_builds_v2_8.txt.
-# - War Within delta pw_war_within_rev2_2.delta.yaml produces registry v2.9.
-# - Blommaert/Game 3 delta pw_blommaert_game3_rev2_3.delta.yaml produces v3.0.
-# - Transcript batch delta pw_transcript_batch_rev2_6.delta.yaml produces v3.1.
-# - DEAD BLOW receives a complete locked-core specification.
-# - EASTERN PROMISE moves from recovery status to substantially specified.
-# - Added campaign_refs, placement, player-availability, configuration, and
-#   associated-weapons fields.
-# - Retains explicit null/recovery and cross-ontology validation rules.
+# - Cumulative registry deltas now project through v3.2.
+# - Full transcript recovery adds MOR HO! and LAST KNOWN GOOD.
+# - Retains campaign, placement, availability, configuration, associated-weapon,
+#   recovery, and unresolved-field governance.
 # ==============================================================================
 meta:
   generated: '2026-07-23'
-  revision: rev4
-  supersedes: pw_weapon_build.schema.yaml rev3
+  revision: rev5
+  supersedes: pw_weapon_build.schema.yaml rev4
   authority:
     current_registry_base: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
     current_registry_deltas:
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_blommaert_game3_rev2_3.delta.yaml
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_transcript_batch_rev2_6.delta.yaml
-    projected_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v3_1.txt
+      - dev_src_docs/canon_lore_source_of_truth/ontology/pw_full_transcript_recovery_rev2_7b.delta.yaml
+    projected_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v3_2.txt
     legacy_detail_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
 schema:
   entity: named_weapon_build
@@ -96,3 +93,4 @@ schema:
     - mission-only availability must not be represented as persistent player ownership.
     - unresolved choices must remain explicit rather than being silently selected.
     - Associated weapons do not become separate named builds unless they receive their own stable IDs and source authority.
+    - Transcript-era ordinal labels do not override stable IDs or create new identities.
