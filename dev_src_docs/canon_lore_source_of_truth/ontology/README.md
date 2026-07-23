@@ -46,10 +46,15 @@ so the ontology is represented through deterministic, auditable transformation l
    - expands Bakhmut into DEAD GROUND / DARK FIBER / ASH RELAY at its locked slot
    - lands the nine-mission HOME DEFENSE / Pine Gap working spine
    - advances the named-weapon projection with NOISE FLOOR, SECOND HORIZON, and HARD STAND
-   - records the DEAD RECKONING collision without creating a duplicate identity
+   - records the initial DEAD RECKONING collision without creating a duplicate identity
+9. `pw_true_blue_registry_v3_4.delta.yaml`
+   - leaves timeline rev2.8 unchanged
+   - advances registry v3.3 -> v3.4
+   - resolves Lucas Hill's placeholder as TRUE BLUE under PW-WPN-HILL-TRUE-BLUE
+   - preserves Sakhalin's separate DEAD RECKONING stable identity
 
 The full materialized `pw_world_event_timeline_rev2_8.yaml` and projected
-`named_weapon_builds_v3_3.txt` remain handoff artifacts until a full-projection
+`named_weapon_builds_v3_4.txt` remain handoff artifacts until a full-projection
 import is explicitly approved.
 
 ## Current validated projection
@@ -67,9 +72,9 @@ Timeline rev2.8:
 
 Named-weapon layer:
 - base registry: `named_weapon_builds_v2_8.txt`
-- projected registry after cumulative deltas: `named_weapon_builds_v3_3.txt`
-- 42 unique stable identities
-- 33 substantially specified/source-associated identities
+- projected registry after cumulative deltas: `named_weapon_builds_v3_4.txt`
+- 43 unique stable identities
+- 34 substantially specified/source-associated identities
 - 9 recovery-status identities
 - zero duplicate stable IDs
 
@@ -83,7 +88,7 @@ Named-weapon layer:
 - Working choices and open flags remain working/open after source promotion.
 - No missing mission, date, platform, or character detail may be invented merely to complete a projection.
 
-## Current campaign notes affected through rev2.8
+## Current campaign notes affected through rev2.8 / registry v3.4
 
 - Game 1 campaign labels are source-landed as CRITTER SQUAD: LEAD THE WAY,
   DO RIGHT, FEAR NONE, and RIPTIDE RED.
@@ -99,6 +104,7 @@ Named-weapon layer:
 - Bakhmut is locked after HARD WINTER and before PERMAFROST.
 - HOME DEFENSE is Australian-led with Lucas Hill as the baseline working protagonist;
   exact title and Game 3 synchronization remain open.
+- Lucas Hill's named build is TRUE BLUE; DEAD RECKONING remains Sakhalin's build.
 
 ## Schemas
 
