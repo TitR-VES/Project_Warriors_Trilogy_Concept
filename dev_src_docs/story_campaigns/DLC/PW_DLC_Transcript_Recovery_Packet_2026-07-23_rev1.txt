@@ -1,0 +1,69 @@
+PROJECT WARRIORS — DLC TRANSCRIPT RECOVERY PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: SOURCE-LANDED MIXED WORKING AUTHORITY
+
+01. WHO DARES WINS — REVISED BRITISH CAMPAIGN
+External title: PROJECT WARRIORS: WHO DARES WINS.
+Primary POV remains MACE as the current front-runner, not an irreversible final lock.
+
+Force architecture:
+- SAS: covert sabotage, infiltration, hostage/HVP recovery, and precise land operations.
+- SBS: maritime access, blockade shaping, insertion, and littoral sabotage.
+- Royal Marines and Royal Navy under Lt. Dorothy Anne Vickers: later widening, practical
+  support, and the point where covert competence becomes visible allied capacity.
+- British CASEVAC in Boston is late-arriving. Early help is small, deniable, and exact.
+
+Revised current ladder, superseding the April title sequence:
+1 BLACK START — PANDORA-day domestic rupture and continuity under stress.
+2 QUIET COAST — covert coastal counter-sabotage and invisible UKSF competence.
+3 TIDEWIRE — cable/port/maritime infrastructure fight.
+4 FIRST GRIP — first firm outward operational leverage.
+5 OPEN THE ROUTE — prepare the Atlantic lane.
+6 HOLDFAST — preserve/hold a load-bearing node as capability widens.
+7 BROKEN HARBOR — blockade/harbor shaping and Boston-facing consequence.
+8 FAR SHORE — establish the covert New England foothold inherited by NO KINGS.
+
+Progression rule:
+Capability revelation matters more than raw scale: hurt-but-functioning Britain ->
+shadow competence -> maritime reach -> route opening -> support/holding -> far-shore
+commitment. The DLC makes Boston possible without consuming Romeo's Boston payoffs.
+
+02. THE WASP
+Playable lead: La Avispa / Yelena Volkova, sole playable protagonist.
+Placement: main narrative overlaps Game 2; selective flashbacks reveal earlier survival,
+identity, and intelligence history.
+
+Core functions:
+- Connect criminal, intelligence, cartel, FSB, and resistance layers without turning La
+  Avispa into an all-knowing lore courier.
+- Preserve her tension between Russian origin, cartel-facing identity, and chosen loyalties.
+- Use verticality, ambush mechanics, and special traversal only where strategically useful;
+  levels are not obstacle courses.
+
+MANIFEST flashback:
+Bruges burn -> Brussels departure -> Vienna-bound commercial flight sabotage/crash ->
+concussion-haze muddy airport-edge aftermath -> FSB retrieval operatives mixed with first
+responders -> drainage/flood-control escape. Aftermath-first, short fragmented crash phase,
+no extended disaster spectacle.
+
+03. THE COLLAPSE — MISSIONS 14–17
+Placement remains controlled by the post-Game-4 political transition / federal-collapse
+bridge. The recovered late sequence is:
+14 DECAY CHAIN — relay-site and cold-chain precursor.
+15 BLACKOUT MEDICINE — medical distribution under power/communications failure.
+16 AID AND COMFORT — relief legitimacy, coercion, and armed governance pressure.
+17 MARKED SAFE — false safety, mapping, and the political cost of labels.
+These missions form a deterioration chain; they are not isolated disaster vignettes.
+
+04. HOME DEFENSE PROMOTIONAL RECOVERY
+The main-trailer image list is retained as promotional direction rather than chronology.
+It should communicate Australian home-front scale, Chinese pressure, ordinary military and
+civilian endurance, and the campaign's distinct visual identity. Trailer imagery does not
+hard-lock mission order or exact playable events.
+
+05. EXISTING DLC SOURCE BOUNDARIES
+- The Storm / VOICE IN THE DARK remains governed by the PR's existing source landing.
+- SEMPER FI, SEA SPEAR, Nightfall, and other DLCs keep their newer durable pages.
+- Visual/reference transcripts already absorbed by image-prompt or campaign packets are
+  not duplicated here.
