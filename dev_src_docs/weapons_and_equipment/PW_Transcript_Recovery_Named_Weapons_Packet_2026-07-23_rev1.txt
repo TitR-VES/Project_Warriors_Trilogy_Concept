@@ -1,0 +1,55 @@
+PROJECT WARRIORS — TRANSCRIPT RECOVERY NAMED-WEAPONS PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING LOCKS / REGISTRY v3.2 INPUT
+
+PW-WPN-LISKO-MOR-HO
+Build name: MOR HO!
+Owner: Captain Vladimír Liško.
+Platform: CSA Sa vz. 58 Expert Carbine, 300 mm barrel.
+Caliber: 5.56x45mm NATO / .223 Remington.
+Campaign lane: Ducky Game 2 / Persistent Threat continuity.
+Role: practical regional resistance carbine.
+Working configuration:
+- six-position CTR-type collapsible stock
+- compact red-dot lane; exact model open
+- practical white light; exact model open
+- practical sling; exact model open
+- dark, used, maintained finish
+Status: WORKING LOCK / LOWER-LEVEL FLAGS REMAIN.
+Open: exact accessory models and first-use mission.
+Governance: transcript-era “BUILD 13” is only an ordinal alias; stable ID controls.
+
+PW-WPN-JAEGER-LAST-KNOWN-GOOD
+Build name: LAST KNOWN GOOD.
+Owner: Karl Alexander “Jaeger” Stanzler.
+Platform: HK416A7 / G95A1 lane, 14.5-inch carbine.
+Caliber: 5.56x45mm NATO.
+Campaign lane: Game 4 COMMON PICTURE / VIGILAN continuity.
+Role: discrimination-first protection and controlled overwatch for PYTHIA/DAOG field-
+intelligence work.
+Working configuration:
+- 1–6x LPVO lane
+- offset or piggyback dot acceptable
+- practical white light
+- plain two-point sling
+- suppressor mission-optional, not identity-defining
+- no default visible-laser emphasis
+- dark professional non-vanity finish
+Status: WORKING LOCK / LOWER-LEVEL FLAGS REMAIN.
+Open: exact optic/accessories and first-use mission.
+
+REGISTRY RESULT
+The cumulative projection advances from v3.1 to v3.2:
+- 39 unique named identities
+- 30 substantially specified/source-associated identities
+- 9 recovery-status identities
+- zero duplicate stable IDs
+
+NO DUPLICATE PROMOTION
+- STAPLER remains governed by STAPLER_Build_Spec_rev1.txt.
+- ENFANT TERRIBLE remains governed by its dedicated Permanent Record page.
+- DEAD BLOW, EASTERN PROMISE, DUE DILIGENCE, and SUCKER PUNCH remain controlled by the
+  earlier PR sources/deltas.
+- Pat Napier does not name his weapons.
+- Dingo and Beaver retain uncounted owner-linked recovery slots; no names are invented.
