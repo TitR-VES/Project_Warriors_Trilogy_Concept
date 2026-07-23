@@ -1,7 +1,7 @@
 PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
 Package: War Within / Permanent Record / The Storm Transcript Canon Recovery
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 Status: COMPENDIUM-SIDE SYNTHESIS / SOURCE PAGES CONTROL
 
 PURPOSE
@@ -10,13 +10,18 @@ This page is not the preferred editing layer. Durable narrative meaning remains 
 new source landing under dev_src_docs/.
 
 ================================================================================
-WAR WITHIN
+PROJECT WARRIORS: WAR WITHIN / AMERICAN GUERILLA
 ================================================================================
 
-CAMPAIGN
-- Canonical title: WAR WITHIN.
-- AMERICAN GUERRILLA remains a historical/working alias.
-- Nicholas Wayne Hawthorne / CROATOAN is the protagonist.
+TITLE HIERARCHY
+- Installment / DLC title: PROJECT WARRIORS: WAR WITHIN.
+- Alternative numbered styling: PROJECT WARRIORS III: WAR WITHIN.
+- Campaign title: AMERICAN GUERILLA.
+- Fully expanded technical title: PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERILLA.
+- Conversational shorthand may use PROJECT WARRIORS: AMERICAN GUERILLA when the installment
+  context is already clear.
+- WAR WITHIN alone refers to the installment, not the campaign.
+- Nicholas Wayne Hawthorne / CROATOAN is the campaign protagonist.
 - The campaign ladder is substantial but incomplete.
 
 CURRENT PARTIAL LADDER
@@ -52,7 +57,7 @@ DEAD BLOW
 PERMANENT RECORD
 ================================================================================
 
-WAR WITHIN HANDOFF
+WAR WITHIN / AMERICAN GUERILLA HANDOFF
 - GROUND ZERO precedes VIATECH ’31.
 - VIATECH precedes Ledger / Chicago.
 - Chicago RECOVER INTEL yields Ledger's secure device and pocketbook.
@@ -132,7 +137,7 @@ OPEN
 - final VOICE IN THE DARK owner adjudication
 - exact Storm dates/full ladder
 - exact DEAD BLOW burst count
-- several middle War Within mission titles and numbering
+- several middle AMERICAN GUERILLA mission titles and numbering
 - Hawthorne ending canon selection, if ever desired
 - exact Kirill accessory models and player acquisition
 - deeper Permanent Record scene/mission implementation fields
