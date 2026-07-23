@@ -1,0 +1,46 @@
+PROJECT WARRIORS — SHIELD SQUAD DEVELOPMENT PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: LOCKED TEAM / LOADOUT / VOICE SOURCE
+Recovered from: PW_Thread_Archive_SHIELD_COLD_ROOM_2026-07-23.txt
+
+AUTHORITY RULE
+Later explicit owner adjudications and later source-landed campaign structures supersede any conflicting transcript-era wording. This page promotes only accepted decisions that remain compatible with current canon.
+
+UNIT ROLE
+SHIELD is DAOG's hard-entry, sensitive-site exploitation, emergency recovery, and denial squad under Walker. Use SHIELD when the objective is a person, archive, relay, detainee, prototype, or other sensitive asset that must be recovered before sanitization, destruction, or overrun. If recovery fails, SHIELD is credible for controlled denial.
+
+ORGANIZATION / DISPLAY RANKS
+Project-facing anglicized ranks are controlling for clarity and multinational plausibility:
+- SSgt Tomasz “Lock” Kaczmarek — Polish, former GROM; team leader, CQB planner, primary assaulter.
+- Sgt Nadja “Mallet” Vuković — Croatian; breacher, assault engineer, heavy-entry specialist.
+- Sgt Iben “Suture” Nørgaard — Danish; combat medic, close-quarter stabilizer, casualty recovery.
+- Sgt Marek “Splice” Veselý — Czech; technical exploitation, access, signal/device recovery.
+
+TEAM VOICE
+SHIELD is compressed, procedural, unsentimental, low-drama, role-aware, and colder/tighter than AEGIS without becoming inhuman. They sound like people solving a deteriorating problem inside a building. Speech should occur only when it changes the outcome.
+- Lock: command compression, route decisions, status traffic.
+- Mallet: physical reality, entry, structure, rear hold.
+- Suture: casualty state, survivability, team pace.
+- Splice: objective discrimination, access, hidden-system reading.
+The standing military-radio standard controls: say again / I say again; repeat reserved for fire support; no over and out; no stacked roger-wilco.
+
+LOGISTICS RULE
+All primaries use 5.56x45mm NATO; sidearms use 9x19mm. Suppressors, white lights, and mission-normal IR/laser capability are standard. Individual identity comes mainly from primary builds, not vanity sidearms.
+
+SIGNATURE BUILDS
+
+PW-WPN-LOCK-DEADBOLT — DEADBOLT
+HK416 A5, 11-inch, 5.56x45mm; Aimpoint Micro T-2, 3x magnifier, MAWL-C1+, SureFire Scout Turbo, B&T Rotex-V. Glock 17 Gen5 MOS / ACRO P-2 / X300U. Threshold control, entry sequencing, compact breach tools.
+
+PW-WPN-MALLET-HINGE — HINGE
+B&T APC223 Pro, 10.3-inch, 5.56x45mm; EOTech EXPS3-0, MAWL-C1+, SureFire Mini Scout Pro, B&T Rotex-V. Glock 45 MOS / X300 Turbo. Mission-dependent Benelli M4 Entry. Charge carriage, forced access, shortest handling envelope.
+
+PW-WPN-SUTURE-TRIAGE — TRIAGE
+HK416 A5, 11-inch, 5.56x45mm; Aimpoint CompM5, compact light/IR setup, B&T Rotex-V. Glock 19 Gen5 MOS / RMR / TLR-7A. Configured for one-handed emergency use while stabilizing or moving a casualty.
+
+PW-WPN-SPLICE-GHOST-KEY — GHOST KEY
+CZ BREN 2 Ms, 11-inch, 5.56x45mm; Aimpoint Micro T-2, 3x magnifier, MAWL-C1+, SureFire Mini Scout, B&T Rotex-V. CZ P-10 C OR / RMR / TLR-7A. Understated access/exploitation build that can be repeatedly slung and recovered while working systems.
+
+VISUAL RULE
+SHIELD is compact, interior-focused, and professional. Lock reads neutral and command-clean; Mallet carries the heaviest structural wear and breach burden; Suture has the most function-dense medical front profile; Splice has the cleanest silhouette and protected technical/admin storage.
