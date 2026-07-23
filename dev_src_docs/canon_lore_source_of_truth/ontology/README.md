@@ -15,8 +15,8 @@ so the ontology is represented through deterministic, auditable transformation l
      RETREAT, HELL, and the post-Game-4 bridge
 2. `pw_war_within_rev2_2.delta.yaml`
    - rev2.1 -> rev2.2
-   - War Within partial ladder, Zale correction, VIATECH ’31, GROUND ZERO,
-     Chicago ordering, and SUCKER PUNCH
+   - War Within installment / American Guerilla campaign partial ladder, Zale correction,
+     VIATECH ’31, GROUND ZERO, Chicago ordering, and SUCKER PUNCH
 3. `pw_blommaert_game3_rev2_3.delta.yaml`
    - rev2.2 -> rev2.3
    - locks NO KINGS / FAILSAFE / DARK SKIES, adds Blommaert, DUE DILIGENCE,
@@ -29,7 +29,7 @@ so the ontology is represented through deterministic, auditable transformation l
    - Permanent Record chronology through ONE HEAD OF THE HYDRA
 6. `pw_transcript_batch_rev2_6.delta.yaml`
    - rev2.5 -> rev2.6
-   - War Within finale detail, Permanent Record handoffs, The Storm / VOICE IN THE DARK,
+   - American Guerilla finale detail, Permanent Record handoffs, The Storm / VOICE IN THE DARK,
      DEAD BLOW, and EASTERN PROMISE
 7. `pw_full_transcript_recovery_rev2_7a.delta.yaml` + `pw_full_transcript_recovery_rev2_7b.delta.yaml`
    - rev2.6 -> rev2.7a -> rev2.7
@@ -52,14 +52,21 @@ so the ontology is represented through deterministic, auditable transformation l
    - advances registry v3.3 -> v3.4
    - resolves Lucas Hill's placeholder as TRUE BLUE under PW-WPN-HILL-TRUE-BLUE
    - preserves Sakhalin's separate DEAD RECKONING stable identity
+10. `pw_war_within_title_hierarchy_rev2_9.delta.yaml`
+   - rev2.8 -> rev2.9; registry remains v3.4
+   - corrects the title hierarchy without changing stable event or track IDs
+   - PROJECT WARRIORS: WAR WITHIN is the installment / DLC title
+   - PROJECT WARRIORS III: WAR WITHIN is the alternative numbered styling
+   - AMERICAN GUERILLA is the campaign title
+   - conversational shorthand may use PROJECT WARRIORS: AMERICAN GUERILLA
 
-The full materialized `pw_world_event_timeline_rev2_8.yaml` and projected
+The full materialized `pw_world_event_timeline_rev2_9.yaml` and projected
 `named_weapon_builds_v3_4.txt` remain handoff artifacts until a full-projection
 import is explicitly approved.
 
 ## Current validated projection
 
-Timeline rev2.8:
+Timeline rev2.9:
 - 7 eras
 - 121 events
 - 21 campaign tracks
@@ -88,8 +95,15 @@ Named-weapon layer:
 - Working choices and open flags remain working/open after source promotion.
 - No missing mission, date, platform, or character detail may be invented merely to complete a projection.
 
-## Current campaign notes affected through rev2.8 / registry v3.4
+## Current campaign notes affected through rev2.9 / registry v3.4
 
+- PROJECT WARRIORS: WAR WITHIN is an installment / DLC title, alternatively styled
+  PROJECT WARRIORS III: WAR WITHIN.
+- AMERICAN GUERILLA is the Hawthorne campaign within that installment. The fully expanded
+  technical title is PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERILLA; conversational use
+  may shorten this to PROJECT WARRIORS: AMERICAN GUERILLA.
+- Stable IDs containing `WAR-WITHIN` remain unchanged for compatibility and do not imply
+  that War Within is the campaign title.
 - Game 1 campaign labels are source-landed as CRITTER SQUAD: LEAD THE WAY,
   DO RIGHT, FEAR NONE, and RIPTIDE RED.
 - Who Dares Wins uses the revised working ladder BLACK START through FAR SHORE;
