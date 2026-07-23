@@ -1,0 +1,95 @@
+PROJECT WARRIORS — GAME 1 TRANSCRIPT RECOVERY PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: SOURCE-LANDED CAMPAIGN-SPINE AUTHORITY / IMPLEMENTATION WORKING
+
+01. ROMEO — CRITTER SQUAD: LEAD THE WAY
+Playable lead: LT Ramón “Romeo” Álvarez. Unit: Fire Team Delta, 75th Ranger
+Regiment. Squad: Dingo, Howler, Beaver.
+
+Campaign thesis:
+A Ranger-forward movement story that begins on NATO's eastern flank, survives the
+PANDORA rupture, keeps opening routes across Europe, and returns through the Pacific
+to a United States that has become battlefield terrain. “Lead the Way” begins proud
+and motto-adjacent, then gains weight through retreat, degraded command, and the
+obligation to keep other people moving.
+
+Working mission sequence:
+Act I — The Line Breaks
+1. EASTERN WATCH — eastern Poland; normal Ranger grammar fractures under bad IFF and
+   autonomous-system anomalies.
+2. BREAK CONTACT — preserve a convoy and alternate route during sector collapse.
+3. NO BLUE SKY — Czech/Austrian westbound corridor; airspace can no longer be trusted.
+Act II — Infrastructure War
+4. RAMSTEIN GLASS — brittle functioning command hub and AEGIS retasking.
+5. WHITE NODE / SVALBARD — physical defense of the corrected AEGIS primary datacenter.
+   ICARUS Zeven's A400M passage is a Game 1 Svalbard cross-campaign beat, not the older
+   tentative Game 2/Permafrost placement.
+6. STONE LINE / FRENCH ALPS — vertical relay-line defense.
+7. AEGEAN BLIND / LEMNOS — coastal relay, harbor, battery, and spoofing fight.
+8. HINDELOOPEN — standardized spelling; low-profile civilian shell-company environment;
+   Shibboleth device/core recovery seeds the communications compromise.
+Act III — No Clean Route Home
+9. ÎLE LONGUE — defend support systems for Le Terrible and Le Vigilant; AEGIS separates
+   toward Rotterdam and Romeo boards USS District of Columbia.
+10. BLACK WATER — claustrophobic submarine transition and small-craft transfer off Ventura.
+Act IV — Home Is the Front
+11. DOWN RODEO — North Hollywood / Los Angeles ground war and K Lounge choice space.
+12. SIGNAL HILL — Long Beach Airport defense and Marines/Rangers consolidation tension.
+13. SOUTHBOUND — convoy toward San Diego, mounted-M2 road-war texture.
+14. NORTH ISLAND / CORONADO — finale protecting North Island Naval Air Station.
+
+Romeo ends Game 1 still a Ranger. The resistance-leader transformation belongs to
+Game 2 and the Coronado-to-Calloway bridge.
+
+02. DUCKY — DO RIGHT, FEAR NONE
+Playable lead: SFC Ferris Ryan / Ducky. Team: AEGIS Squad.
+
+Campaign thesis:
+Collective will, infrastructure survival, and multinational competence. The player
+protects the systems that let Europe see, coordinate, and remain politically capable.
+The campaign must not turn Ducky into a generic action hero; pressure makes him quieter,
+more exact, and more morally stubborn.
+
+Controlling anchors:
+- WIRECUTTER opens before PANDORA with AEGIS / Nereid Black on Sea Lion 7.
+- Innsworth / STANDING WATCH establishes command, ORACLE, and anomaly governance.
+- The AEGIS infrastructure chain includes Svalbard, French Alps, Lemnos, and Hindeloopen.
+- RETREAT, HELL is the approach mission and not the terminal finale.
+- The Maasvlakte Oil and Gas Terminal defense is the separate campaign finale.
+- Frost and Lupin perspective transitions remain valid mission-specific capability shifts.
+- The NSM/NMESIS strike against Severomorsk and the post-launch survival pressure remain
+  core finale elements.
+
+Recovered working mission directions include QUIET WATER / WHITE BLIND, but exact final
+numbering and titles outside already locked anchors remain subject to the dedicated
+Ducky campaign source hierarchy.
+
+03. SPOOK — RIPTIDE RED
+Playable lead: Trevor Albertson Gartner / Spook. Team: Reid Franklin Bartlett / Tripper
+and Daniel Benjamin Oakenfold / Smoke.
+
+Campaign thesis:
+A covert investigation that begins as shipment and contractor work, reveals a state-
+corporate conspiracy, and ends with Victor Two Bravo declared rogue while Goldberg and
+Stockbridge escape. The campaign's physical action and institutional betrayal must remain
+one story rather than separate thriller lanes.
+
+Core sequence:
+- Amsterdam / Frankfurt opening and Emperor briefing.
+- GARDEN PATH — locked mission title for Vienna/Hernals safehouse, rooftop pursuit,
+  motorcycle/beltway escape, and recovered tablet.
+- ABOVE MY PAY GRADE — Navarre house and Warehouse 46.
+- INFRASTRUCTURE DAY — Abu Dhabi / GenCorp; Blommaert optional branch remains governed
+  by its dedicated later source.
+- MAN FROM MEDAN / DRAGONSLAYER — Berkhan, Lestari House, and the “malfunctioning” air
+  defense kill.
+- PANDORA'S BOX — Miami / Desautels Hotel / KYSC and Los Sietes.
+- BURNING DAYLIGHT — Montoya Farm infiltration and underground archive.
+- COME FLY WITH ME / SINS OF OUR FATHERS — East McFarlane approach and confrontation.
+
+Protected continuity:
+- Regent's cut transmission, manual redaction, and Macmillan verbal slip seed Game 2.
+- Spook's correct surname is Gartner; current-facing material does not use Captain as a
+  default contemporary title.
+- STAPLER is already governed by its dedicated source and is not duplicated here.
