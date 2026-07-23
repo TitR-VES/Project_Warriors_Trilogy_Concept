@@ -1,0 +1,53 @@
+PROJECT WARRIORS — BAKHMUT / ROMEO VISUAL-REFERENCE SOURCE PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: CANONICAL BAKHMUT VISUAL REFERENCE / WORKING ROMEO PROMPT SOURCE
+Recovered from: Bakhmut visual-style and AEGIS/Romeo visual-reference threads
+
+AUTHORITY RULE
+Later campaign, weapon, rank, and equipment sources control. Do not reproduce a recognizable real person’s face. Current Romeo rank canon is SSG Ramón Álvarez; older LT references are superseded.
+
+01. BAKHMUT CANONICAL VISUAL REFERENCE
+This section is the canonical visual-reference packet for `dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt`. The parent source controls mission architecture; this section controls environmental look and visual drift prevention.
+
+Correction: an opening transcript error said Baltimore. Bakhmut, eastern Ukraine, is controlling.
+
+Shared visual DNA:
+post-Soviet eastern-Ukrainian urban fabric; damaged apartment slabs and civic buildings; exposed concrete frames; broken balcony grids; shattered glazing; soot-blackened facades; shell scarring; collapsed floor plates; torn insulation and sheet metal; muddy/frozen courtyards; leafless trees; dead grass; warped railings; exposed rebar; dirty snow; flat overcast or cold pale light; documentary realism; believable structural damage and scale.
+
+Mission-ready categories:
+- residential approach: apartment slabs, courtyard lanes, broken balcony grids, watched geometry;
+- civic/commercial frontage: exposed galleries, torn cladding, damaged stairs, legible prewar function;
+- low-rise utility/industrial ruin: punctured roofs, buried services, plausible technical routes;
+- winter courtyard: dirty snow, ice, mud, damaged fencing, limited sightlines;
+- interior/exterior transition: open stairwells, cut-away rooms, shell-damaged thresholds;
+- aerial establishing view: specific district density and planning rather than generic ruin.
+
+Prompt seeds:
+A. Two shelled Soviet-era apartment towers separated by a collapse channel, exposed rooms and balconies, dead winter trees, muddy ground, gray sky, quiet documentary realism.
+B. Ruined low-rise municipal utility building with punctured roof, fractured masonry, exposed service routes, cold natural light, playable but believable combat geometry.
+C. Narrow residential canyon after snowfall, skeletal concrete frames, rubble-choked center, accurate construction detail, no people, no spectacle.
+D. Pockmarked apartment block with one limited interior fire, soot streaking upward, snapped trees and courtyard fencing, cold dusk, restrained color.
+E. High oblique district view showing damaged blocks, courtyards, industrial edges, haze, and readable eastern-Ukrainian urban planning.
+
+Negative guardrail:
+generic apocalypse, cyberpunk, futuristic vehicles, glossy glass skyline, Hollywood fireballs, orange-and-teal grading, fantasy ruins, tropical vegetation, American suburbia, heroic posing, misery-tourism framing.
+
+Use this language across DEAD GROUND, DARK FIBER, and ASH RELAY.
+
+02. ROMEO GAME 1 MASTER REFERENCE
+Create one full-body reference image of SSG Ramón “Romeo” Álvarez in his Game 1 Ranger baseline. Male, late 20s to early 30s, first-generation American of Guatemalan descent, lean athletic Ranger build, original fictional Latino face, dark slightly wavy hair, strong jaw, thick brows, steady eyes, clean-shaven or very light stubble. He should read as disciplined, direct-action oriented, and self-contained rather than glamorous.
+
+Gear: public-facing high-authenticity modern Ranger-derived OCP kit, practical plate carrier, realistic magazine/medical/radio routing, restrained high-cut helmet and hearing protection, gloves, boots, and belt kit. Primary M4A1 with believable optic, light, laser/illuminator, sling, and mission-appropriate suppressor state; SIG P320-M17 in proper holster. Neutral full-body reference pose, low ready, plain muted backdrop, no team, no text, no action spectacle.
+
+03. ROMEO GAME 2 MASTER REFERENCE — DON’T TREAD
+Create one full-body reference image of SSG Ramón “Romeo” Álvarez during the Game 2 AMERICAN FREEDOM campaign. Preserve the same fictional face/body as the Game 1 reference, now roughened by field conditions, sleep loss, stress, and improvised logistics. Short rough beard or heavy stubble may be used as a stable continuity reference, even though DON’T TREAD is primarily the early-campaign rifle and the beard is explicitly established by Act II.
+
+Gear: Ranger-derived combat equipment kept alive under occupation—worn OCP/mixed earth-tone fieldwear, practical plate carrier, radio, IFAK, restrained pouches, belt kit, dust/mud/weathering, professional rather than militia-costume silhouette.
+
+Weapon: PW-WPN-ROMEO-DONT-TREAD, Ruger AC-556, 5.56 NATO, folding stock, 20-round magazines, worn functional finish, hand-done left-receiver eagle/banner engraving reading “DON’T TREAD.” The weapon should feel like a meaningful resistance handoff, not a showroom build.
+
+Pose: calm low ready or natural front carry; neutral uncluttered environment or faint overcast rural-America suggestion; full body visible; no recognizably copied face, airsoft look, superhero proportions, fantasy armor, giant beard, random patches, or patriotic costume excess.
+
+CONTINUITY USE
+Use the Game 1 prompt as the clean Ranger baseline and the Game 2 prompt as the occupied-America consistency anchor. Production may derive early-, mid-, and late-campaign variants from the same face and body while following the current weapon-retirement and mission sources.
