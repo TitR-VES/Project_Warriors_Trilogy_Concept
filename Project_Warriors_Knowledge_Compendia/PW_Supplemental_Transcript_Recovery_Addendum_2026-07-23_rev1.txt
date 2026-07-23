@@ -1,19 +1,20 @@
 PROJECT WARRIORS — SUPPLEMENTAL TRANSCRIPT RECOVERY ADDENDUM
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 
 FAST ORIENTATION
 - HOME DEFENSE now has a working full campaign source: Lucas Hill / 2 RAR, Major Imogen
   Shaw, Park, Brodie, Reed, Switchblade adjacent squad, ORACLE connectivity, and nine missions.
+- Lucas Hill's named build is TRUE BLUE under stable ID PW-WPN-HILL-TRUE-BLUE.
 - Bakhmut is locked between HARD WINTER and PERMAFROST with five named Ukrainian allies.
 - The diegetic-music network now has source-level placement governance.
 - Hudson Overlook receives no narrative rewrite; existing production pages still control.
 
-IMPORTANT CONFLICT FLAGS
-- Lucas Hill's DEAD RECKONING name must change; Sakhalin owns it.
+IMPORTANT CONTINUITY CONTROLS
+- DEAD RECKONING remains Sakhalin's named build; Hill's earlier candidate is rejected.
 - HOME DEFENSE CHAIN OF CUSTODY remains working/title-review.
 - Patrick Napier is not Renata Voss's son.
 
 CURRENT PROJECTIONS
 - timeline rev2.8: 121 events / 21 tracks / 19 sync points
-- named weapons v3.3: 42 identities / 33 specified / 9 recovery
+- named weapons v3.4: 43 identities / 34 specified / 9 recovery
