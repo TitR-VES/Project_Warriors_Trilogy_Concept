@@ -1,6 +1,6 @@
 PROJECT WARRIORS — SUPPLEMENTAL TRANSCRIPT RECOVERY AUDIT
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 
 ARCHIVE
 4 text files; no exact duplicates inside this supplemental ZIP.
@@ -15,8 +15,10 @@ CLASSIFICATION
   duplicate narrative page. Airstream is recorded only as an aspirational audio companion.
 
 HIGH-RISK CONFLICTS RESOLVED
-1. DEAD RECKONING duplicate name:
-   Sakhalin's stable build controls. Lucas Hill's loadout remains, name rename-required.
+1. Lucas Hill / DEAD RECKONING collision:
+   Sakhalin's stable DEAD RECKONING build remains unchanged. A later owner adjudication
+   assigns Lucas Hill the non-colliding stable identity TRUE BLUE under
+   PW-WPN-HILL-TRUE-BLUE. Hill's F90-family route-lead configuration is preserved.
 2. WREN platform drift:
    existing Switchblade stable ID/source controls; Australian transcript does not create a
    new build or silently replace the platform.
@@ -29,7 +31,11 @@ HIGH-RISK CONFLICTS RESOLVED
    no-score/no-music structure remains controlling; Airstream can enter only during the
    already-authorized return-to-car phase if licensed.
 
+POST-RECOVERY ADJUDICATION ARTIFACTS
+- dev_src_docs/weapons_and_equipment/PW_TRUE_BLUE_Build_Spec_2026-07-23_rev1.txt
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_true_blue_registry_v3_4.delta.yaml
+
 VALIDATION TARGET
 Timeline rev2.8: 7 eras / 121 events / 21 tracks / 19 sync points; zero duplicate IDs,
 dangling references, self references, source-less events, or ordering cycles.
-Registry v3.3: 42 identities / 33 substantially specified / 9 recovery-status / zero duplicate IDs.
+Registry v3.4: 43 identities / 34 substantially specified / 9 recovery-status / zero duplicate IDs.
