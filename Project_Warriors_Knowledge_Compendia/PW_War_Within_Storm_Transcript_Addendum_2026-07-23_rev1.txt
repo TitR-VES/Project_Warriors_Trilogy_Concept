@@ -1,0 +1,140 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+Package: War Within / Permanent Record / The Storm Transcript Canon Recovery
+Generated: 2026-07-23
+Version: rev1
+Status: COMPENDIUM-SIDE SYNTHESIS / SOURCE PAGES CONTROL
+
+PURPOSE
+Provide a compact working-knowledge layer for the five supplied transcript archives.
+This page is not the preferred editing layer. Durable narrative meaning remains in the
+new source landing under dev_src_docs/.
+
+================================================================================
+WAR WITHIN
+================================================================================
+
+CAMPAIGN
+- Canonical title: WAR WITHIN.
+- AMERICAN GUERRILLA remains a historical/working alias.
+- Nicholas Wayne Hawthorne / CROATOAN is the protagonist.
+- The campaign ladder is substantial but incomplete.
+
+CURRENT PARTIAL LADDER
+1. Kill Devil Hills / South Mills foundation.
+2. Toxic Tide / Morehead City civilian wound.
+3. Parker contact and NAF recruitment.
+4. April 18, 2031 Ninth Ward induction.
+5. NO WITNESSES.
+6. Vanguard escalation.
+7. DEAD MAN’S SWITCH.
+8. GROUND ZERO.
+9. SIC SEMPER TYRANNIS — September 11, 2031.
+
+FINALE
+- VIATECH ’31 runs September 8–11, 2031.
+- 5:42 p.m. staging anchor.
+- 6:00 p.m. doors / reception.
+- 78 MINUTES LATER transition.
+- 7:00 p.m. Abernathy keynote.
+- The assassination is canonical.
+- RESIST / SURRENDER final status remains unresolved.
+
+DEAD BLOW
+- Hawthorne's locked-core suppressed MP5SD-family 9x19mm build.
+- FDE EOTech XPS3-0-style optic.
+- M300-style light on suppressor ring mount.
+- paired magazines.
+- safe / semi / burst / full selector.
+- exact two- versus three-round burst remains open.
+- identity metaphor: bullet hose, not prototype.
+
+================================================================================
+PERMANENT RECORD
+================================================================================
+
+WAR WITHIN HANDOFF
+- GROUND ZERO precedes VIATECH ’31.
+- VIATECH precedes Ledger / Chicago.
+- Chicago RECOVER INTEL yields Ledger's secure device and pocketbook.
+- Those records point to Hélène Modine / Montreal.
+- Hélène sends Kirill Afanasyev instead of attending.
+- EASTERN PROMISE is Kirill's modified suppressed AKM build.
+- A later Paris contact gives Victor Two Bravo enough fragmented information to assemble:
+  Marietta / former Gerhana -> Geoffrey-Guy Moffat -> Lana Erika Delhardt.
+
+JUDGMENT DAY
+- ENFANT TERRIBLE remains chest-holstered after Stockbridge's crash.
+- Prompt: SECURE WEAPON.
+- Spook removes and stows the pistol without added dialogue.
+- Stockbridge's visor and facial expression remain visible during the lean-in.
+
+ONE HEAD OF THE HYDRA
+- Younger-generation guilt is based on consent, not blood.
+- Inheritance provides proximity, protection and permission.
+- Choice creates culpability.
+- Use more managers than maniacs.
+- A refusing minority matters because it proves continuation was not inevitable.
+- Goldberg's “sins of our fathers” line is diagnosis, not vindication.
+
+================================================================================
+THE STORM / VOICE IN THE DARK
+================================================================================
+
+TITLE STACK
+- External DLC title: PROJECT WARRIORS: THE STORM.
+- Working internal campaign/story title: VOICE IN THE DARK.
+- No exact active-source title collision was found.
+- VOICE IN THE DARK remains working, not hard final.
+- DARK SKIES remains Spook's locked Game 3 title.
+
+CURRENT PARTIAL LADDER
+1. Opening route check — title rename required.
+2. FALSE WEATHER.
+3. LAST LIGHT HARBOR.
+4. COLD BATTERY.
+5. DRIFT LINE.
+6. NORTHERN WINDOW.
+7. FURTHER EAST.
+
+TITLE CONFLICT
+- SOUTH CULVERT remains a DARK SKIES mission.
+- The Storm opening concept must receive a different title.
+
+TOMAKOMAI
+- FURTHER EAST owns Sakhalin's route and cost.
+- OUTER PORT owns Spook's contact exchange.
+- Same hinge, different knowledge and pressure.
+- Protected details: killed lamp, pale-blue chalk line, waterproof envelope, waterline exit.
+
+================================================================================
+ONTOLOGY / REGISTRY
+================================================================================
+
+Timeline rev2.6 projection:
+- 7 eras
+- 86 events
+- 21 campaign tracks
+- 17 synchronization points
+- zero duplicate IDs
+- zero dangling references
+- zero self references
+- acyclic ordering graph
+- zero events without source pointers
+
+Named-weapon registry v3.1:
+- 37 unique named identities
+- 28 substantially specified identities
+- 9 recovery-status identities
+- zero duplicate stable IDs
+
+OPEN
+- final Storm opening mission title
+- final VOICE IN THE DARK owner adjudication
+- exact Storm dates/full ladder
+- exact DEAD BLOW burst count
+- several middle War Within mission titles and numbering
+- Hawthorne ending canon selection, if ever desired
+- exact Kirill accessory models and player acquisition
+- deeper Permanent Record scene/mission implementation fields
+
+END
