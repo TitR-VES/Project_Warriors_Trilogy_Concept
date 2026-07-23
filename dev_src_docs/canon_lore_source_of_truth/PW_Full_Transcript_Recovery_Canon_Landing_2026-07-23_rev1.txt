@@ -1,0 +1,71 @@
+PROJECT WARRIORS — FULL EXTRACTED-THREAD CANON LANDING
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING AUTHORITATIVE RECOVERY / SUPERSESSION CONTROL
+
+PURPOSE
+Normalize the recoverable decisions from the 65-member extracted-thread archive into
+the durable source layer without treating old discussion as automatically current.
+The archive contains 59 unique contents and six exact duplicate copies.
+
+AUTHORITY ORDER
+1. Later explicit owner adjudication.
+2. Later source-landed canon/correction pages.
+3. Accepted source-ready blocks in the recovered transcript.
+4. Exploratory discussion and rejected alternatives.
+
+A transcript is evidence. It becomes authority only through this landing or an existing
+newer durable page. Working choices remain working. Open flags remain open. Missing
+facts are not invented to make a ladder, registry, or chronology look complete.
+
+MAJOR PROMOTIONS
+- Three Game 1 campaign spines and their stable campaign labels.
+- Game 2 campaign bridges and mission packages not represented by durable pages.
+- Reconciled FAILSAFE and DARK SKIES campaign structures.
+- BODYWORK, NARROW WATER, Bakhmut, and revised Who Dares Wins mission architecture.
+- The Wasp, The Collapse Missions 14–17, and VIGILAN trust-chain development.
+- Character packets for Fire Team Delta, Victor Two Bravo, Pat Napier, Honcharenko,
+  Liško, Diego de Casas, Spook identity, and Dawn of Mercy pillars.
+- Procurement, UI, brand, music, and promotional governance.
+- Named builds MOR HO! and LAST KNOWN GOOD.
+
+MATERIAL ALREADY CONTROLLED ELSEWHERE
+No duplicate source is created for material already fully governed by later durable
+pages, including STAPLER, ANGEL production files, ENFANT TERRIBLE, DAOG patch identity,
+Hudson Overlook, the military-radio style standard, AEGIS visual references, Yunnan
+crossing implementation, the current NO KINGS Act I package, and the existing world-
+event ontology stack. Their transcripts remain recovery evidence only.
+
+CORRECTIONS / SUPERSESSIONS
+- PANDORA date remains September 7, 2028; older September 3 references are superseded.
+- CRITTER SQUAD: LEAD THE WAY is Romeo Game 1's current full campaign label.
+- DO RIGHT, FEAR NONE remains Ducky Game 1's title.
+- RIPTIDE RED remains Spook Game 1's title; GARDEN PATH is the Vienna/Hernals mission.
+- FAILSAFE begins after Tremblay's Game 2 confrontation has been resolved. Game 3 does
+  not reopen his loyalty as an active mystery.
+- DARK SKIES keeps OUTER PORT as the Japan contact mission; FRACTURE MAP replaces the
+  discarded ORDER OF WEATHER direction.
+- Who Dares Wins uses the revised eight-rung ladder BLACK START through FAR SHORE,
+  superseding the earlier April title ladder for current development.
+- SOUTH CULVERT remains assigned to DARK SKIES; The Storm opening remains rename-pending.
+
+OPEN FLAGS PRESERVED
+- Exact dates for many campaign missions and cross-campaign day-level synchronization.
+- Full later NO KINGS ladder and exact placement of optional branches.
+- Final Storm opening title and complete Storm ladder.
+- Exact attachment models and first-use placement for MOR HO! and LAST KNOWN GOOD.
+- Gulf energy-war and South America/Colombia concepts beyond what the transcripts
+  explicitly preserve.
+- Several visual-reference and promo implementation details.
+
+CONTROLLING COMPANION PAGES
+- PW_Game1_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- PW_Game3_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- PW_Game4_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- PW_Transcript_Recovery_Character_Packet_2026-07-23_rev1.txt
+- PW_Transcript_Recovery_Systems_UI_Diegetics_Packet_2026-07-23_rev1.txt
+- PW_Transcript_Recovery_Named_Weapons_Packet_2026-07-23_rev1.txt
+- PW_Full_Extracted_Transcript_Recovery_Audit_2026-07-23_rev1.txt
+- pw_full_transcript_recovery_rev2_7.delta.yaml
