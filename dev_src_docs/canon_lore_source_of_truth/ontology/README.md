@@ -53,15 +53,26 @@ so the ontology is represented through deterministic, auditable transformation l
    - records the final-run ordering and Stockbridge capture / aftermath sequence
    - leaves the named-weapon registry unchanged at projected v3.0
 
-The full materialized `pw_world_event_timeline_rev2_5.yaml` is maintained as a handoff
+6. `pw_transcript_batch_rev2_6.delta.yaml`
+   - applies to materialized rev2.5
+   - produces the validated rev2.6 timeline projection
+   - adds NO WITNESSES and DEAD MAN’S SWITCH to the War Within partial ladder
+   - lands the authored SIC SEMPER TYRANNIS finale and preserves branch ambiguity
+   - expands the Chicago / Montreal / Paris Permanent Record handoff
+   - adds SECURE WEAPON and the inheritance-plus-choice Hydra governance
+   - records VOICE IN THE DARK as The Storm’s working internal campaign/story title
+   - adds the current Storm partial ladder and authored Tomakomai handoff details
+   - projects DEAD BLOW and EASTERN PROMISE into named-weapon registry v3.1
+
+The full materialized `pw_world_event_timeline_rev2_6.yaml` is maintained as a handoff
 artifact until the repository receives either the original rev1 input or an explicitly
 approved full-projection import.
 
 ## Current validated projection
 
-Timeline rev2.5:
+Timeline rev2.6:
 - 7 eras
-- 78 events
+- 86 events
 - 21 campaign tracks
 - 17 synchronization points
 - zero duplicate IDs
@@ -75,9 +86,10 @@ Named-weapon layer:
 - Blommaert delta projection: `named_weapon_builds_v3_0.txt`
 - NO KINGS bridge delta: no weapon-registry change
 - Permanent Record delta: no weapon-registry change
+- Transcript batch delta: projected `named_weapon_builds_v3_1.txt`
 - 37 unique stable identities
-- 27 substantially specified/source-associated identities
-- 10 recovery-status identities
+- 28 substantially specified/source-associated identities
+- 9 recovery-status identities
 
 ## Current Game 3 governance
 
@@ -108,6 +120,31 @@ encounter tuning, and later campaign implementation remain working.
   with parts of the rebuilding order.
 - Exact dates, several early/mid mission titles, and deeper Keter/Atlas/Yadat corporate
   linkage remain open.
+
+## Current War Within transcript governance
+
+- Canonical campaign title: WAR WITHIN; AMERICAN GUERRILLA remains a historical/working alias.
+- Partial ladder now includes NO WITNESSES and DEAD MAN’S SWITCH between the April 18 induction and GROUND ZERO.
+- SIC SEMPER TYRANNIS remains the September 11, 2031 finale.
+- The Abernathy assassination is canonical; RESIST / SURRENDER final status is not globally selected.
+- DEAD BLOW is Hawthorne’s locked-core build. Exact two- versus three-round burst remains open.
+- VIATECH ’31 precedes Permanent Record’s Ledger / Chicago confrontation.
+
+## Current The Storm governance
+
+- External DLC title: THE STORM.
+- Working internal campaign/story title: VOICE IN THE DARK.
+- Exact-title audit found no active-source collision for VOICE IN THE DARK.
+- SOUTH CULVERT remains unavailable for the Storm opening because DARK SKIES already owns that mission title.
+- Current partial sequence:
+  - rename-pending opening route check
+  - FALSE WEATHER
+  - LAST LIGHT HARBOR
+  - COLD BATTERY
+  - DRIFT LINE
+  - NORTHERN WINDOW
+  - FURTHER EAST
+- FURTHER EAST and OUTER PORT remain an asymmetrical Tomakomai handoff, not a replay.
 
 ## Schemas
 
