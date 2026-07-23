@@ -1,19 +1,19 @@
 # ==============================================================================
 # PROJECT WARRIORS — ONTOLOGY SCHEMA: NAMED WEAPON BUILD
-# pw_weapon_build.schema.yaml — rev6 (amended 2026-07-23)
+# pw_weapon_build.schema.yaml — rev7 (amended 2026-07-23)
 # ==============================================================================
 # Changes:
 # - Registry base authority remains named_weapon_builds_v2_8.txt.
-# - Cumulative registry deltas now project through v3.3.
+# - Cumulative registry deltas now project through v3.4.
 # - Supplemental recovery adds NOISE FLOOR, SECOND HORIZON, and HARD STAND.
-# - Explicitly prevents duplicate-name promotion when an existing stable build controls.
+# - Owner adjudication adds TRUE BLUE and preserves Sakhalin's DEAD RECKONING.
 # - Retains campaign, placement, availability, configuration, associated-weapon,
-#   recovery, and unresolved-field governance.
+#   recovery, collision, and unresolved-field governance.
 # ==============================================================================
 meta:
   generated: '2026-07-23'
-  revision: rev6
-  supersedes: pw_weapon_build.schema.yaml rev5
+  revision: rev7
+  supersedes: pw_weapon_build.schema.yaml rev6
   authority:
     current_registry_base: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
     current_registry_deltas:
@@ -22,7 +22,8 @@ meta:
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_transcript_batch_rev2_6.delta.yaml
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_full_transcript_recovery_rev2_7b.delta.yaml
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_supplemental_transcripts_rev2_8.delta.yaml
-    projected_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v3_3.txt
+      - dev_src_docs/canon_lore_source_of_truth/ontology/pw_true_blue_registry_v3_4.delta.yaml
+    projected_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v3_4.txt
     legacy_detail_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
 schema:
   entity: named_weapon_build
@@ -96,4 +97,5 @@ schema:
     - unresolved choices must remain explicit rather than being silently selected.
     - Associated weapons do not become separate named builds unless they receive their own stable IDs and source authority.
     - Transcript-era ordinal labels do not override stable IDs or create new identities.
-    - A transcript candidate name that collides with an existing stable build must remain rename-required; it cannot be added as a second identity.
+    - A transcript candidate name that collides with an existing stable build must remain rename-required until owner adjudication supplies a non-colliding identity.
+    - Owner adjudication may resolve a collision through a new stable ID while preserving the rejected candidate as a historical alias only.
