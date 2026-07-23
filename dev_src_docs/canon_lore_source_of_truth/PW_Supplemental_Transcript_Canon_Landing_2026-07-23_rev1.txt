@@ -1,6 +1,6 @@
 PROJECT WARRIORS — SUPPLEMENTAL TRANSCRIPT CANON LANDING
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 Status: WORKING AUTHORITATIVE SUPPLEMENT / SUPERSESSION CONTROL
 
 SCOPE
@@ -22,8 +22,15 @@ RESULT
    The supplemental archive confirms them; only the separate licensing-dependent Airstream
    placement note is added.
 
+POST-RECOVERY OWNER ADJUDICATION
+- Lucas Hill's named build is TRUE BLUE.
+- Stable ID: PW-WPN-HILL-TRUE-BLUE.
+- Platform family: F90-family 5.56x45mm route-lead service carbine.
+- The earlier DEAD RECKONING candidate is rejected for Hill because Sakhalin retains the
+  existing stable build identity under PW-WPN-SAKHALIN-DEAD-RECKONING.
+
 SUPERSESSION / COLLISION CONTROLS
-- Sakhalin retains DEAD RECKONING. Lucas Hill's transcript candidate is rename-required.
+- TRUE BLUE resolves the Lucas Hill placeholder without disturbing Sakhalin's build.
 - Switchblade's WREN stable identity and current F88/AUG-lineage source remain controlling.
 - HOME DEFENSE's CHAIN OF CUSTODY mission title remains working because Permanent Record
   previously used the same title before adopting RECEIVERSHIP.
@@ -31,9 +38,11 @@ SUPERSESSION / COLLISION CONTROLS
 - No Hudson character, screenplay, prompt, or trigger is replaced by the audio candidate.
 
 ONTOLOGY / REGISTRY
-- rev2.7 -> rev2.8
-- 109 -> 121 events
+- timeline remains rev2.8
+- 121 events
 - tracks remain 21
 - synchronization points remain 19
-- registry v3.2 -> v3.3
-- 39 -> 42 named identities
+- registry v3.3 -> v3.4
+- 42 -> 43 named identities
+- 33 -> 34 substantially specified/source-associated identities
+- recovery-status identities remain 9
