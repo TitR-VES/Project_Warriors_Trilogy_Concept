@@ -1,6 +1,6 @@
 PROJECT WARRIORS — DLC TRANSCRIPT RECOVERY PACKET
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 Status: SOURCE-LANDED MIXED WORKING AUTHORITY
 
 01. WHO DARES WINS — REVISED BRITISH CAMPAIGN
@@ -56,11 +56,31 @@ bridge. The recovered late sequence is:
 17 MARKED SAFE — false safety, mapping, and the political cost of labels.
 These missions form a deterioration chain; they are not isolated disaster vignettes.
 
-04. HOME DEFENSE PROMOTIONAL RECOVERY
-The main-trailer image list is retained as promotional direction rather than chronology.
-It should communicate Australian home-front scale, Chinese pressure, ordinary military and
-civilian endurance, and the campaign's distinct visual identity. Trailer imagery does not
-hard-lock mission order or exact playable events.
+04. HOME DEFENSE / AUSTRALIAN FRONT
+Working title: HOME DEFENSE; final campaign title remains open.
+Baseline working lead: Corporal Lucas Hill, 2 RAR.
+
+Campaign rule:
+- Australian protagonist, command, geography, logistics, civilians, and agency
+- AEGIS as damaged intelligence/technical/special-missions connectivity
+- Pine Gap as strategic center of gravity, not the only location
+- Switchblade as adjacent recurring squad lead and possible selective-playability lane
+
+Current nine-mission spine:
+SOUNDING LINE -> BREAKWATER -> ASH REEF -> CHAIN OF CUSTODY -> TWO SQUADS ->
+LONG WIRE -> NULL TRACK -> DEAD CENTRE -> WHAT STAYS ONLINE.
+
+Title/build conflict controls:
+- CHAIN OF CUSTODY remains working and requires final title review because it was previously
+  a superseded Permanent Record working title.
+- Lucas's transcript build name DEAD RECKONING is rename-required because Sakhalin already
+  owns the locked identity.
+- WREN remains Switchblade's existing stable build, not a new Australian-front identity.
+
+Detailed source:
+dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt
+
+Promotional imagery remains direction rather than chronology.
 
 05. EXISTING DLC SOURCE BOUNDARIES
 - The Storm / VOICE IN THE DARK remains governed by the PR's existing source landing.
