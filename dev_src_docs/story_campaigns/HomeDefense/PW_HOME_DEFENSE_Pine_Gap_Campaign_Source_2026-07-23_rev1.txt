@@ -1,0 +1,134 @@
+PROJECT WARRIORS — HOME DEFENSE / AUSTRALIAN FRONT SOURCE LANDING
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING CAMPAIGN AUTHORITY / TITLE AND LOWER-LEVEL FLAGS REMAIN
+Transcript authority: PW_Thread_Archive_Australian_Front_Pine_Gap_DLC_2026-07-23.txt
+
+PURPOSE
+Promote the developed Australian-front / Pine Gap campaign architecture into durable
+source while applying later project-wide title and named-weapon governance.
+
+01. CAMPAIGN IDENTITY
+Working external title: PROJECT WARRIORS: HOME DEFENSE.
+Final campaign title remains open.
+
+The campaign is Australian-led:
+- Australian protagonist, command, geography, logistics, civilians, and operational agency.
+- AEGIS is a damaged intelligence / technical / special-missions connectivity layer.
+- Pine Gap is the strategic center of gravity, not the only location or a perpetual map.
+- The dramatic question is what infrastructure remains usable, what must be denied, and
+  who has legitimate control after the old alliance architecture fractures.
+
+Do not write the campaign as AEGIS saving Australia or as Ducky Game 2.5.
+
+02. WORKING PLAYABLE LEAD
+Corporal Lucas Hill, 2 RAR, is the baseline working protagonist.
+
+Role:
+- patrol leader / reconnaissance-focused infantry NCO / littoral operations lead
+- practical Queensland-rooted soldier
+- measured, observant, plainspoken, dry, and increasingly exact under pressure
+- capable without being written as an over-elite operator surrogate
+
+Open:
+- middle name
+- exact age
+- exact birthplace and family history
+- final protagonist lock if later campaign architecture produces a stronger option
+
+03. CORE CAST
+Hill squad:
+- Corporal Lucas Hill — judgment, route choice, tempo control
+- Lance Corporal Daniel Min-jae Park — squad 2IC, signals/systems, small UAS, sensor picture
+- Private Alana Brodie — Bindal woman with Townsville-region grounding; point scout,
+  observation, and designated-marksman lane; never a mystical-tracker stereotype
+- Private Hamish Reed — grenadier, breaching support, heavy practical load, pre-Army trade
+  background; never a caricatured loud-Australian sidekick
+
+Command and connective cast:
+- Major Imogen Shaw — primary Australian operational-command voice
+- Corporal Cassandra “Switchblade” Stewart — adjacent recurring squad leader, combat medic,
+  close-action intersect character, and possible selective-playability lane
+- Lieutenant Tara Halliday / ORACLE — bounded AEGIS intelligence and technical connectivity
+
+Switchblade remains a parallel lead, not a permanent member of Hill's squad and not a
+replacement protagonist by default. Ducky crossover remains possible but uncommitted.
+
+04. NINE-MISSION WORKING SPINE
+ACT I — NORTHERN SHOCK
+1. SOUNDING LINE
+   Northern-coast reconnaissance, lost relay contact, missing patrol, and proof that the
+   front is wider than the initial brief.
+2. BREAKWATER
+   Coastal relay/fuel/logistics site under pressure. Identify what matters, move it, and
+   leave before the site becomes a trap.
+
+ACT II — FRACTURED APPROACHES
+3. ASH REEF
+   Small-boat raid against a coastal/island relay node; defining 2 RAR littoral mission.
+4. CHAIN OF CUSTODY
+   Recover, classify, and deny material tied to the systems war around Pine Gap.
+   Title status: working. Review before final lock because Permanent Record previously used
+   CHAIN OF CUSTODY as a superseded Haifa working title.
+5. TWO SQUADS
+   Hill and Switchblade run split, interdependent objectives without collapsing into one
+   interchangeable team.
+
+ACT III — DEAD CENTRE
+6. LONG WIRE
+   Inland pivot through corridors feeding the Pine Gap battlespace.
+7. NULL TRACK
+   Reconnaissance and sabotage along outer Pine Gap approach corridors.
+
+ACT IV — WHAT STAYS ONLINE
+8. DEAD CENTRE
+   Main outer Pine Gap convergence operation.
+9. WHAT STAYS ONLINE
+   Final sovereignty-and-systems mission: what survives, what is denied, and who decides.
+   The exact player-facing decision architecture remains open.
+
+Optional development lanes:
+- OUTER CHAIN — Oceania / maritime-extension seed
+- SECOND VOICE — limited Switchblade-playability prototype
+
+05. EQUIPMENT / NAMED-BUILD GOVERNANCE
+General rule: service-grounded, weathered, practical, littoral-capable, and low on
+operator vanity. No default sidearms merely to complete a videogame slot.
+
+Substantially specified new identities:
+- Daniel Park — NOISE FLOOR — F90-family 5.56 carbine, compact optic, light, optional
+  mission IR/laser, integrated with his UAS/signal burden.
+- Alana Brodie — SECOND HORIZON — F90-family observation/DM configuration, magnified
+  optic or LPVO, compact light, mission-specific suppressor, minimal-snag setup.
+- Hamish Reed — HARD STAND — F90-family 5.56 rifle with underbarrel 40 mm launcher,
+  breaching/entry burden, and heavier practical handling.
+
+Conflict and continuity controls:
+- Lucas's transcript candidate name DEAD RECKONING is rename-required. The exact name is
+  already controlled by Denis “Sakhalin” Malinin's locked AK-105 build. Preserve Lucas's
+  F90 route-lead configuration, but do not create a second named identity.
+- Switchblade's WREN is not a new build. Existing stable ID PW-WPN-SWITCHBLADE-WREN and
+  the current F88 Austeyr/AUG-lineage source control. The Australian-front transcript is
+  a campaign-state use note, not authority to replace the locked platform.
+- Shaw's HOLDFAST is a command-use identifier, not a frontline named weapon and is not
+  promoted into the registry.
+
+06. PLAYABLE / SCRIPTING STATUS
+Source-developed material includes:
+- mission briefs for all nine missions
+- cinematic briefing scenes for all nine
+- Mission 1 full playable dialogue and scripting path
+- Mission 2 full playable dialogue and scripting path
+- Mission 3 full playable dialogue
+
+Still open:
+- Mission 3 scripting path
+- Mission 4–9 full playable dialogue and implementation packets
+- enemy order of battle and command echelon above Shaw
+- Switchblade's adjacent-squad names/profiles
+- exact Pine Gap geopolitical sequence and timing
+- final WHAT STAYS ONLINE decision architecture
+
+07. CONTINUITY RULE
+HOME DEFENSE must remain distinct from The Storm and broader Oceania concepts. Pine Gap
+organizes the strategic problem; Australian home-defense agency controls the viewpoint.
