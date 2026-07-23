@@ -1,0 +1,71 @@
+PROJECT WARRIORS — ROMEO / KEARNEY / BOSTON WEAPONS REFERENCE
+Generated: 2026-07-23
+Version: rev1
+Status: LOCKED WEAPON-PROGRESSION SOURCE
+Recovered from: PW_Thread_Archive_Boston_Gunsmith_Kearney_2026-07-23.txt
+
+AUTHORITY RULE
+Later explicit owner adjudications and later campaign sources supersede conflicting transcript-era wording. Stable weapon IDs control over historical BUILD ordinals.
+
+EAMONN KEARNEY
+Kearney is Boston's hidden armorer, repair specialist, and sustainment node. He is not a vendor-first character or a magical custom-gun dispenser. His narrative value is professional continuity: repair, parts commonality, magazine discipline, supportability, honest evaluation of worn weapons, and the material work required to hold liberated ground.
+
+Kearney's shop should feel like a real repair/sustainment space with layered geography, local relationships, salvaged inventory, tools, gauges, parts bins, work orders, and weapons in different states of serviceability. His voice is practical, dry, and exact. He does not flatter Romeo or romanticize a rifle.
+
+CAMPAIGN PROGRESSION
+1. Kentucky / Game 2: Romeo carries PW-WPN-ROMEO-DONT-TREAD, the Ruger AC-556 resistance handoff rifle.
+2. Boston arrival: Romeo uses an unnamed transitional Boston-entry carbine. It is useful, supportable, and intentionally not a named identity.
+3. Early Kearney access: Kearney assesses Romeo, his habits, and the practical problems of keeping him supplied. This is relationship and sustainment groundwork, not the final handoff.
+4. Late Act II / THE RIGHT RIFLE: Kearney gives Romeo PW-WPN-ROMEO-CIVIL-DISOBEDIENCE.
+5. Act III onward: CIVIL DISOBEDIENCE becomes Romeo's Boston rifle and campaign-facing signature primary.
+
+Protected handoff line:
+"That one was a rifle you carried in Boston. This one's a Boston rifle."
+
+The first "that one" refers to the transitional Boston-entry carbine, not DON’T TREAD. The line distinguishes a weapon used in a city from a weapon built out of the city's requirements, people, and sustainment reality.
+
+PW-WPN-ROMEO-DONT-TREAD — DON’T TREAD
+- Platform: Ruger AC-556, 5.56x45mm NATO.
+- Ownership: Romeo, early Game 2.
+- Identity: civilian-resistance handoff weapon with hand-done eagle/banner engraving.
+- Rule: Kearney did not build it and should not retroactively author its identity.
+- Current retirement timing follows the global registry/canon decision stack.
+
+UNNAMED BOSTON-ENTRY CARBINE
+- Platform lane: practical AR-pattern transitional carbine.
+- Ownership: Romeo during Boston entry/foothold phase.
+- Identity: intentionally unnamed.
+- Function: demonstrates that Romeo can operate effectively without every weapon becoming a collectible identity.
+- Rule: do not turn it into a missing BUILD number or stealth-named rifle.
+
+PW-WPN-ROMEO-CIVIL-DISOBEDIENCE — CIVIL DISOBEDIENCE
+- Platform: 14.5-inch midlength AR-pattern carbine, 5.56x45mm NATO.
+- Builder/provider: Eamonn Kearney.
+- Ownership: Romeo, late Act II onward.
+- Identity: supportable Boston fighting rifle built for repeated urban use, repair, magazine commonality, and the widening campaign.
+- Visual/technical direction: mature, practical, modern fighting configuration; no ornamental rebellion aesthetic; wear and modifications should read as used and maintained rather than curated.
+- Narrative rule: Kearney authors this rifle after observing what Romeo and Boston actually need.
+
+PW-WPN-KEARNEY-WORK-ORDER — WORK ORDER
+- Platform: 14.5-inch old-service Colt M4A1, 5.56x45mm NATO.
+- Ownership: Eamonn Kearney.
+- Identity: Kearney's personal benchmark rifle and working standard.
+- Function: demonstrates his preferences—known parts, honest wear, serviceability, and a rifle configured around work rather than display.
+- Rule: Romeo does not inherit or author WORK ORDER. It remains Kearney's.
+
+PW-WPN-ELENA-HELL-OR-HIGH-WATER — HELL OR HIGH WATER
+- Platform: old-service-pattern Colt M4A1 with detachable carry handle retained.
+- Ownership: Elena Costa.
+- Visual identity: carry-handle/iron-sight configuration, visible wear, tan rubber bands on the stock, green tape on top of the stock, handguard text reading "…HELL OR HIGH WATER…".
+- Function: local authority, long service, and maintained resistance continuity.
+- Rule: it is Elena's rifle, not a temporary Romeo pickup.
+
+COMPARISON RULES
+- DON’T TREAD = inherited resistance history and Romeo's Kentucky/Game 2 lane.
+- Boston-entry carbine = transitional utility without named identity.
+- CIVIL DISOBEDIENCE = Kearney-authored Boston solution and Romeo's later signature.
+- WORK ORDER = Kearney's benchmark and personal work rifle.
+- HELL OR HIGH WATER = Elena's long-service local-authority rifle.
+
+USE CAUTIONS
+Do not make Kearney a vendor menu, make every firearm named, give Romeo WORK ORDER, assign HELL OR HIGH WATER to Romeo, or treat CIVIL DISOBEDIENCE as a cosmetic upgrade with no relationship/mission meaning. Source pages and the global named-weapon registry should use stable IDs rather than bare BUILD ordinals.
