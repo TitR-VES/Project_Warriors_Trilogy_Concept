@@ -1,0 +1,30 @@
+PROJECT WARRIORS — FULL TRANSCRIPT RECOVERY COMPENDIUM ADDENDUM
+Generated: 2026-07-23
+Version: rev1
+Status: SYNTHESIS / WORKING KNOWLEDGE UPDATE
+
+PURPOSE
+Summarize the durable source updates recovered from the 65-file extracted-thread archive without replacing the underlying source pages.
+
+MAJOR SOURCE LANDINGS
+- Game 1 campaign spines: CRITTER SQUAD: LEAD THE WAY; DO RIGHT, FEAR NONE; RIPTIDE RED.
+- Game 3 campaign recovery: FAILSAFE corrected cast/systems/timeline/spine/ladder; DARK SKIES reconciled full spine.
+- DLC and optional branches: Who Dares Wins revised ladder and full mission pack; The Wasp master; BODYWORK; NARROW WATER; The Collapse Missions 14–17.
+- Game 2 Ducky development: Bakhmut mini-arc and Honcharenko; Torrejón/Julian Alps cast; ASML/Lupin transition.
+- Characters: Fire Team Delta; Victor Two Bravo; Pat Napier rev2; Trevor Gartner identity; Diego de Casas; Vladimír Liško; Dawn of Mercy pillars.
+- Procella / Albatross: faction/character, Blackout Crossing, contact chain, fracture/repair/governance.
+- Systems and diegetics: black-market procurement, fictional civilian brands, Shibboleth/PlainSite, music placement network, campaign cards/loading screens.
+- Game 4: VIGILAN/CHAIN OF TRUST/HYPERMNESTRA; LAST KNOWN GOOD; Permanent Record trailer.
+- Promotional/open development: Home Defense trailer; Gulf energy war and South America/Colombia kept explicitly open.
+
+NOT DUPLICATED
+STAPLER, ANGEL core production files, ENFANT TERRIBLE, DAOG patch system, Hudson Overlook, Yunnan crossing, world-event timeline work, and newer NO KINGS source remain governed by their existing durable pages.
+
+OPEN-FLAG RULE
+Promotion into dev_src_docs does not convert a working choice into a final lock. Every source page retains its original maturity and supersession language.
+
+New or revised repo files in this compact landing batch: 18
+
+ONTOLOGY / REGISTRY PROJECTION
+- Timeline rev2.7 validates at 7 eras / 109 events / 21 tracks / 19 sync points.
+- Named-weapon registry v3.2 validates at 39 identities / 30 substantially specified / 9 recovery-status.
