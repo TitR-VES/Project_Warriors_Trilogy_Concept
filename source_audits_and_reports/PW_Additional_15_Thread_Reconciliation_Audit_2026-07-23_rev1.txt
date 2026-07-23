@@ -1,0 +1,53 @@
+PROJECT WARRIORS — ADDITIONAL 15-THREAD RECONCILIATION AUDIT
+Generated: 2026-07-23
+Version: rev1
+Status: GOVERNANCE / SOURCE-RECOVERY AUDIT
+
+SCOPE
+Fifteen extracted transcript/source files from `pw_unarchived_threads_transcripts.zip` were inspected against current `main`, including the merged July 23 full-transcript recovery work.
+
+METHOD
+1. identify accepted decisions and source-ready blocks;
+2. compare them against current durable pages, compendia, registry references, and later owner corrections;
+3. classify each transcript as landed/updated, partially promoted with supersession, or absorbed/superseded;
+4. promote only missing current material;
+5. retain open placement and production flags;
+6. avoid inventing chronology, mission slots, or equipment details.
+
+RESULT
+- 11 archive items produce or share durable source updates.
+- 2 are absorbed by current durable authority: BODYWORK/Van Hult and Pat Napier.
+- 2 are partially promoted with explicit supersession boundaries: Elena/FIRST CONTACT and the mixed AEGIS/Romeo visual-reference thread.
+
+KEY NEW DURABLE LANDINGS
+- civilian/public radio subsystem;
+- registry-referenced Kearney/Boston weapon source;
+- registry-referenced SHIELD source;
+- COLD ROOM representative mission;
+- ARTEMIS/TYPHON source separation and placement;
+- PANDORA/Canada/CFIM/AFC worldbuilding packet;
+- Ducky/Elena continuity packet;
+- Bakhmut/Romeo visual-reference packet.
+
+KEY SUPERSESSIONS
+- PANDORA = September 7, 2028.
+- Romeo current rank = SSG, not LT.
+- NO KINGS Mission 02 = HINGE, not FIRST CONTACT.
+- BODYWORK and Pat Napier remain controlled by newer existing pages.
+- AEGIS facial-reference material remains controlled by existing prompt/reference sources.
+
+OPEN FLAGS PRESERVED
+- exact COLD ROOM campaign/mission slot;
+- non-Romeo-region pilot station;
+- lower-level production, voice-casting, licensing, and implementation details;
+- exact Canadian force packages and mission uses;
+- exact campaign-state variants for Romeo reference art.
+
+ONTOLOGY
+No new date-locked event or stable ontology entity is required by this pass. Existing stable weapon IDs and campaign events remain unchanged.
+
+VALIDATION
+- all promoted files are UTF-8 text;
+- no raw USER/ASSISTANT wrappers or local sandbox paths remain;
+- no unqualified stale activation date remains in the promoted PANDORA summary;
+- registry-referenced source filenames for Kearney/Boston and SHIELD now resolve in the durable source tree.
