@@ -1,0 +1,407 @@
+PROJECT WARRIORS — TRANSCRIPT CANON LANDING
+WAR WITHIN / PERMANENT RECORD / THE STORM
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING AUTHORITATIVE DEVELOPMENT SOURCE / LOCKED AND WORKING STATUS MIX
+
+PURPOSE
+Land accepted canon and authored details from five supplied thread exports against main
+after PR #26. Earlier source pages remain valid except where this later landing explicitly
+corrects or expands them. Transcript noise, abandoned options, and unaccepted assistant
+suggestions are not promoted.
+
+SOURCE TRANSCRIPTS
+- Project_Warriors_DEAD_BLOW_Thread_Full_Export_2026-07-22-1.txt
+- Project_Warriors_Thread_Export_2026-07-22_Hydra_Inheritance_Choice.txt
+- project_warriors_spook_game4_secure_weapon_thread_export.txt
+- war_within_permanent_record_thread_archive_2026-07-21-2.txt
+- PW_The_Storm_Full_Visible_Thread_Transcript_2026-07-21.txt
+
+================================================================================
+01. DEAD BLOW
+================================================================================
+Stable ID: PW-WPN-HAWTHORNE-DEAD-BLOW
+Owner: Nicholas Wayne Hawthorne / CROATOAN
+Campaign: WAR WITHIN
+Mission: SIC SEMPER TYRANNIS
+Status: LOCKED CORE / BURST-COUNT FLAG REMAINS
+
+Platform and configuration:
+- black HK MP5SD / MP5SD-N-style suppressed 9x19mm SMG
+- standard integrated suppressor profile
+- flat dark earth EOTech XPS3-0-style holographic sight
+- black M300-style compact light on a ring mount around the suppressor
+- pressure switch on the top cocking-tube lane, ending before the charging-handle track
+- Navy-style four selector positions: safe / semi / burst / full
+- exact burst count remains open between two and three rounds
+- paired/clamped 30-round magazines
+- first magazine-to-magazine transition is fast; replacing the full pair is longer
+- low-profile two-point sling; exact attachment geometry must not obstruct reloads
+
+Identity:
+DEAD BLOW is a quiet, accurate, low-recoil “bullet hose.” It is not a prototype.
+The FDE optic is the single controlled contrast against the otherwise black weapon.
+
+Later continuity:
+DEAD BLOW may return to NAF custody and later be recovered by Romeo without selecting
+whether Hawthorne died, surrendered, survived, escaped, or remained in custody.
+
+================================================================================
+02. WAR WITHIN
+================================================================================
+Campaign:
+- canonical title: WAR WITHIN
+- AMERICAN GUERRILLA remains a historical/working alias
+- protagonist: Nicholas Wayne Hawthorne / CROATOAN
+- placement: partly parallel with Game 4
+- the ladder is substantial but incomplete
+
+Character corrections:
+- Odell Tyler Holmes is correct; Tylder is transcription noise.
+- Dahlia Nicole Holmes is the correct spelling for his wife.
+- Joel David “Taurus” Holmes and Ryan Paul “Bruiser” Skoglund complete the VIATECH
+  four-man gun team with Croatoan and Mark Redford “Skidrow” Champlin.
+- Theodore Douglas “Ted” Tegel is driver and service-cover support, not a gunman.
+
+Current partial ladder:
+1. Kill Devil Hills / South Mills wartime foundation.
+2. Toxic Tide / Morehead City civilian wound and AFC-adjacent breakpoint.
+3. Parker contact ladder and NAF recruitment.
+4. Louisiana / Mississippi entry and April 18, 2031 Ninth Ward induction.
+5. NO WITNESSES — Vanguard threshold.
+6. Late-spring/summer Vanguard escalation.
+7. DEAD MAN’S SWITCH — Ledger prison-transport release; exact placement remains working.
+8. GROUND ZERO — Minneapolis, early September 2031.
+9. SIC SEMPER TYRANNIS — September 11, 2031 finale.
+
+NO WITNESSES:
+Skidrow executes surrendering or cowering staff while evaluating Hawthorne. The mission
+reveals what Vanguard discipline permits rather than what NAF rhetoric claims to protect.
+
+DEAD MAN’S SWITCH:
+Recovered working anchor involving Ledger's release from a prison transport. It restores
+his contacts and weapons before the later Game 4 consequences. Final numbering remains open.
+
+GROUND ZERO / ideological background:
+The UNHMNA cargo-plane attack is not a false flag. It is NAF stochastic-terror /
+deterrence violence intended to chill foreign humanitarian and stabilization support.
+Ledger weaponizes logistics and compromised access chains. Source treatment must remain
+consequence-facing and must not become a procedural attack guide.
+
+VIATECH ’31:
+- event: Monday, September 8 through Thursday, September 11, 2031
+- finale: Thursday, September 11
+- Crodyn-era NATIONAL WAR ON TERROR DAY
+- 5:42 p.m. Eastern staging-room watch anchor
+- 6:00 p.m. doors / reception / security buildup
+- 78 MINUTES LATER transition
+- 7:00 p.m. Abernathy keynote begins
+
+Keynote:
+LESSONS IN LEADERSHIP
+What Emerging Strategic Tech Leaders Can Learn from Protecting and Serving
+the American People.
+
+Operation:
+The strike team enters under compromised Premium Imperial Facilities & Sanitation service
+cover and stages in an unused breakout room adjacent to the event footprint. The criminal
+cover acquisition should appear through later investigative reconstruction, not playable
+step-by-step preparation.
+
+Finale loadouts:
+- Croatoan: DEAD BLOW.
+- Skidrow: SUCKER PUNCH and a high-end .45 ACP 2011-style sidearm; no HK416 in the hotel.
+- Bruiser: KS-12 / Saiga-12K-style shotgun, suppressed MP5K-PDW, and working .44 Magnum
+  large-frame revolver direction.
+- Taurus: suppressed M4 CQBR with EOTech-style sight; Glock 18L-style select-fire pistol
+  with light and folding brace, fired in controlled bursts.
+
+Protected pre-hit / approach beats:
+- limited control before the hit; no premature shooting
+- long hotel corridor, one or two corners, scripted lean/peek
+- late conference attendees rush toward the auditorium
+- faint applause and Abernathy audio confirm the keynote is underway
+- western-side entry, second closest to the stage, partly screened by tall promo displays
+- quick final stack before entry
+
+Protected escape / handoff:
+Skidrow is mortally wounded and directs Croatoan:
+“Take the gun.”
+“Grab this.”
+“Make it count.”
+Croatoan receives SUCKER PUNCH and the magazine satchel temporarily.
+
+Protected power-cut beat:
+Bruiser: “I think we’re clear. For now.”
+Taurus: “This is not looking good.”
+Croatoan: “Stairs. Move.”
+Taurus: “Good call. Ted should be right on the floor below us.”
+
+SURRENDER branch:
+Taurus: “Croatoan…”
+Croatoan: “I’m sorry. There’s no other way we’re making it out alive.”
+Croatoan places the weapon down rather than throwing it.
+
+An officer shines a light into Hawthorne's face:
+“Secure this one first.”
+The officer then moves behind the player's view:
+“Secure this one next.”
+The player hears restraint commands and commotion without knowing which teammate is
+receiving them. When Croatoan turns during movement toward the prisoner van, he sees
+Bruiser being beaten with boots and rifle butts. His involuntary resistance is answered
+with a rifle butt to the face and a hard cut to black.
+
+Ending governance:
+- Stanley Abernathy's assassination is canonical.
+- RESIST and SURRENDER remain player-facing branches.
+- No later source may select Hawthorne's final status without explicit owner adjudication.
+
+Arsenal identity:
+War Within should combine civilian, militia, collector, black-market, captured military,
+foreign-surplus and limited true military weapons. This is a fractured arsenal, not a
+clean military armory. Specific weapon availability remains mission/faction dependent.
+
+================================================================================
+03. PERMANENT RECORD / WAR WITHIN CONTINUITY
+================================================================================
+Chronology:
+1. GROUND ZERO occurs in early September 2031.
+2. SIC SEMPER TYRANNIS occurs September 11.
+3. Permanent Record reaches Ledger in Chicago afterward.
+4. Chicago exploitation points to Montreal.
+5. Montreal pressure leads to a controlled Hélène Modine contact in Paris.
+6. Victor Two Bravo reconstructs the Marietta / Moffat / Delhardt trail.
+7. ET IN ARCADIA EGO and RECEIVERSHIP remain controlling later missions.
+
+Later references:
+Permanent Record and Command Authority may identify or strongly suspect HAWTHORNE,
+Nicholas Wayne / alias CROATOAN and may call him an Abernathy gunman / VIATECH gunman.
+They must not disclose which finale branch occurred.
+
+Chicago / Ledger:
+Ledger opens:
+“Hey, fuckface, you’re on private property. Read the sign, punk.”
+
+Ledger / Rayburn kills himself.
+Spook: “He shot himself.”
+Tripper or Smoke: “Say again?”
+Spook: “Rayburn. He’s dead. Killed himself.”
+
+Prompt:
+RECOVER INTEL
+
+Spook searches Ledger and sweeps the office. The recovered secure device and pocketbook
+show a newly added Montreal meeting with Hélène Modine.
+
+Hélène Modine:
+- logistics executive whose company also shields substance-smuggling and NAF funding flows
+- does not attend the compromised Montreal meeting after Ledger's death
+- sends Kirill Afanasyev
+- later meets Victor Two Bravo in a busy public place in Paris
+- gives fragmented, evasive information rather than a neat briefing
+- Victor Two Bravo assembles:
+  Marietta / former Gerhana -> legal owner Geoffrey-Guy Moffat -> Lana Erika Delhardt
+
+Discard Lodin / Demonsville variants as transcription noise.
+
+EASTERN PROMISE:
+Stable ID: PW-WPN-AFANASYEV-EASTERN-PROMISE
+Owner: Kirill Afanasyev
+Status: LOCKED CORE / LOWER-LEVEL FLAGS REMAIN
+- modified full-length AKM-pattern rifle, 7.62x39mm
+- CNC-machined aluminum fore-end
+- black polymer pistol grip
+- buffer-tube adapter and black multi-position collapsible stock
+- ELCAN-style magnified optic with piggyback RMR-style reflex sight
+- compact side-mounted light/laser with pressure-switch access
+- vertical grip with angled lower profile
+- PBS-style suppressor
+- classic steel AK magazines
+Associated weapons:
+- silver suppressed PM Makarov, 9x18mm
+- SR-2M / 9x21mm secondary direction
+Exact optic/suppressor models, magazine capacity and SR-2M mission state remain open.
+
+================================================================================
+04. JUDGMENT DAY — SECURE WEAPON
+================================================================================
+After Stockbridge's motorcycle / delivery-van crash:
+- ENFANT TERRIBLE remains retained in her chest holster.
+- Stockbridge does not reach for it.
+- Do not stage it loose on the road.
+
+Prompt:
+SECURE WEAPON
+
+Action:
+- Spook leans over Stockbridge.
+- first-person camera compresses downward
+- her visor and facial expression remain readable
+- Spook clears the chest holster, removes the pistol and stows/secures it
+- no extra dialogue
+- the existing roadside exchange then continues unchanged
+
+This is a procedural disarm, not a dominance beat or sentimental gesture.
+
+================================================================================
+05. ONE HEAD OF THE HYDRA — INHERITANCE AND CHOICE
+================================================================================
+Core lock:
+The younger generation is not condemned by blood.
+It is condemned by consent.
+
+Inheritance may provide:
+- shelter
+- access
+- language
+- patronage
+- introductions
+- protection
+- excuses
+- a map of the system
+
+Choice creates culpability.
+
+Use a mixed inheritor population:
+- conditioned heirs
+- ambitious opportunists
+- polished managers who call continuity stability
+- people claiming to reform the machine while living from it
+- a smaller number of genuine predators / sociopaths
+- a small refusing minority who walk away or pay a cost
+
+The refusing minority matters because it proves continuation was not inevitable.
+The younger generation should contain more managers than maniacs.
+
+Goldberg callback:
+His “sins of our fathers” line becomes a diagnosis of the architecture he helped preserve,
+not vindication and not a claim that children inherit guilt automatically.
+
+Protected formulation:
+“They did not inherit guilt.
+They inherited proximity, protection, and permission.
+Then they chose what to do with them.”
+
+The device package remains partial and procedural. Selective overlap with rebuilding
+structures must not become universal-corruption shorthand.
+
+================================================================================
+06. THE STORM / VOICE IN THE DARK
+================================================================================
+Title stack:
+- external DLC / product title: PROJECT WARRIORS: THE STORM
+- working internal campaign/story title: VOICE IN THE DARK
+- no exact active-source collision was found for VOICE IN THE DARK
+- DARK SKIES is a separate locked Spook Game 3 title
+- VOICE IN THE DARK remains working, not hard final
+
+Campaign thesis:
+A clandestine Russian Far East lifeline campaign, not a conventional Pacific war campaign.
+Core player fantasy: KEEP THE ROUTE ALIVE.
+
+Acts:
+I. THE ROUTE EXISTS
+II. THE ROUTE IS A WEAPON
+III. THE ROUTE COSTS BLOOD
+IV. THE ROUTE MUST SURVIVE
+
+Current partial ladder:
+1. Opening route-check mission.
+   Transcript title SOUTH CULVERT conflicts with DARK SKIES and must be replaced.
+2. FALSE WEATHER.
+3. LAST LIGHT HARBOR.
+4. COLD BATTERY.
+5. DRIFT LINE.
+6. NORTHERN WINDOW.
+7. FURTHER EAST.
+
+Opening route check:
+- introduces Denis through competence
+- establishes Procella route language
+- teaches broken versus burned
+- coastal service road, culvert/drainage, rail cuts, dead utility boxes, wet concrete
+- pale-blue chalk “cold” route marking may be introduced
+- route is damaged but not dead
+- no final title selected
+
+FALSE WEATHER:
+- infiltrate a coastal weather/navigation node
+- confirm deliberate falsification
+- restore, split or corrupt output to benefit Procella routes
+- preserve the illusion of normal operation when possible
+- avoid generic “hack the terminal” treatment
+- win through altered conditions rather than site destruction
+
+Remaining mission directions:
+- LAST LIGHT HARBOR: first full civilian/defector extraction; escort as route management.
+- COLD BATTERY: recover and install power units; burden and transport risk matter.
+- DRIFT LINE: compromised extraction line; Albatross redirects Denis to a secondary seam.
+- NORTHERN WINDOW: restrained external-contact lane; likely Japan-facing, deniable and
+  politically limited.
+- FURTHER EAST: Tomakomai route-to-contact mission.
+
+Tomakomai / DARK SKIES intersection:
+Location: Tomakomai outer port, Hokkaido.
+Storm mission: FURTHER EAST.
+DARK SKIES mission: OUTER PORT.
+
+Design rule:
+Same seam.
+Different pressure.
+Different knowledge.
+Not a replay.
+
+FURTHER EAST owns:
+- route to the contact
+- surveillance pressure
+- validation of the unfamiliar American
+- cost of making the meeting possible
+- objective progression:
+  REACH THE CONTACT DISTRICT
+  CONFIRM THE AMERICAN
+  SECURE THE HANDOFF
+
+OUTER PORT owns:
+- Spook's support picture
+- the contact conversation
+- Spook's assessment of Sakhalin
+- Tripper and Smoke remote support
+
+Protected authored details:
+- deliberately killed port lamp
+- pale-blue chalk “cold” line
+- waterproof intelligence envelope
+- Albatross: “You have your weather.” / “Then don’t waste him.”
+- Spook: “Sakhalin?”
+- Denis: “Depends who’s asking.”
+- Spook: “Officer Gartner.”
+- no instant trust, no speeches, no duplicate exposition
+- Denis exits through the lower waterline service seam
+- Gartner is correct; Gardner is an error
+
+Cold Frontier boundary:
+Procella/Sakhalin may surface institutional FSB residue related to Kostropov / Parhelion-53.
+Frost retains the personal wound and intimate Cold Frontier 07 history.
+
+================================================================================
+07. STATUS / OPEN FIELDS
+================================================================================
+Locked or locked-core:
+- DEAD BLOW owner, platform and core configuration
+- EASTERN PROMISE owner, platform and core configuration
+- VIATECH date and assassination event
+- DARK SKIES title
+- SECURE WEAPON scene detail
+- inheritance-plus-choice thematic governance
+- FURTHER EAST / OUTER PORT asymmetrical identity
+
+Working:
+- VOICE IN THE DARK
+- full Storm ladder and exact dates
+- final Storm opening title
+- exact DEAD BLOW burst count
+- exact Kirill accessory models / SR-2M state
+- unrecovered War Within middle titles / final numbering
+- Hawthorne final branch outcome
+
+END
