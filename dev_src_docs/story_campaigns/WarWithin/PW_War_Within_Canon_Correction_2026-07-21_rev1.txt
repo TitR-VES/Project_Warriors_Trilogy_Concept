@@ -4,14 +4,21 @@ Version: rev1 (amended from archive integration)
 Status: LOCKED CORRECTION / PARTIAL-LADDER SOURCE LANDING
 
 PURPOSE
-Update the July 21 correction with the recovered mission-development archive, exact
-VIATECH ’31 timing, Zale Jacobs correction, and SUCKER PUNCH platform.
+Update the July 21 correction with the recovered AMERICAN GUERRILLA mission-development
+archive, exact VIATECH ’31 timing, Zale Jacobs correction, and SUCKER PUNCH platform.
 
-CAMPAIGN IDENTITY
-Canonical title: WAR WITHIN
-Format: DLC
-Historical / working alias: AMERICAN GUERRILLA
+INSTALLMENT / CAMPAIGN IDENTITY
+Installment / DLC title: PROJECT WARRIORS: WAR WITHIN.
+Alternative franchise-numbered title: PROJECT WARRIORS III: WAR WITHIN.
+Campaign title: AMERICAN GUERRILLA.
+Fully expanded technical title: PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERRILLA.
+Preferred conversational reference: PROJECT WARRIORS: AMERICAN GUERRILLA.
+Format: DLC installment.
 Placement: partly parallel with Game 4.
+
+WAR WITHIN is the title of the installment, not the campaign. AMERICAN GUERRILLA is the
+campaign title, following the same title hierarchy used by entries such as PROJECT WARRIORS:
+RIPTIDE RED and PROJECT WARRIORS IV: COMMAND AUTHORITY.
 
 PROTAGONIST
 - Nicholas Wayne Hawthorne / CROATOAN.
