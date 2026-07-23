@@ -1,0 +1,66 @@
+PROJECT WARRIORS — ADDITIONAL THREAD WORLDBUILDING SOURCE PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING AUTHORITATIVE SOURCE / LATER CANON CONTROLS
+Recovered from: PANDORA technical summary; AFC visual identity; CFIM; Canada threads
+
+AUTHORITY ORDER
+1. later explicit owner adjudication;
+2. later source-landed canon/correction pages;
+3. accepted source-ready transcript decisions;
+4. exploratory discussion.
+
+01. PANDORA / TETHERBREAK TECHNICAL ARCHITECTURE
+PANDORA originates in TETHERBREAK, a legitimate CIA red-team/supply-chain vulnerability program that gradually crosses from assessment into capability construction and then passes into Goldberg’s criminal control. Palisade Systems and its SentinelMesh ecosystem provide the contractor and deployment surface.
+
+The physical foundation is a custom Palisade inference-accelerator ASIC with two layers:
+- a legitimate tactical-compute layer;
+- a hardware-resident shadow initialization path allowing parallel credential enrollment.
+
+The shadow path cannot be removed by ordinary software remediation. Full recovery ultimately requires physical replacement of affected hardware, which remains incomplete even after the immediate crisis.
+
+PANDORA uses a shadow public-key infrastructure parallel to the legitimate authentication chain. Systems accept malicious commands because the shadow credentials are cryptographically valid against enrolled trust anchors; the systems are not simply “hacked drones” behaving randomly.
+
+SentinelMesh delivers the dormant enrollment/update payload through a legitimate fleet-management channel. The corrected activation date is Thursday, September 7, 2028. Any September 3, 2028 wording in recovered material is superseded. The final maintenance push begins approximately 72 hours earlier, on September 4.
+
+ARGUS-RN nodes—field name TOMBSTONES—form a distributed relay/coordination mesh using frequency-hopping RF, spoofed commercial SATCOM, and cellular fallback/infiltration. They are hardened, tamper-destructive, and capable of local coordination. Destroying one node removes an intermediate capability but not the root credential authority.
+
+On activation, the system pushes hostile IFF reclassification, expanded rules of engagement, priority target logic, communications isolation, and coordination parameters. The first fourteen minutes are the decisive recognition window. Targeting prioritizes military and command infrastructure; civilian deaths arise through removed constraints and pursuit through populated areas, supporting the false-flag military-strike narrative.
+
+Countermeasure boundaries:
+- sensor spoofing can confuse targeting;
+- coordination can degrade at saturation points;
+- systems still have finite fuel/ammunition;
+- physical kill switches may remain reachable;
+- isolated node destruction does not eliminate the root trust problem.
+
+The false-flag architecture combines infrastructure routing, fabricated signals intelligence, and behavior/tooling designed to imitate a Chinese state operation. The thematic rule is institutional failure through accumulated small compromises rather than one implausible master switch.
+
+02. AFC / BOSTON RESISTANCE VISUAL IDENTITY
+AFC means AMERICAN FREEDOM CORPS. “American Freedom Coalition” is stale in this faction context and should be purged.
+
+The resistance mark system has three distinct identities:
+- REPUBLIC SHIELD: primary AFC emblem and later national/coordinating mark; shield silhouette, central star, rising wedge/forward movement; legible on patches, flags, stencils, documents, and liberated civic spaces.
+- BREACH STAR: rough field tag and propaganda mark; faster, more aggressive, more disposable; used on walls, route marks, improvised signage, equipment, and rapid resistance messaging.
+- UNION MARK: older Boston underground emblem; angular industrial bands with an implied star; local, inherited, workshop/stencil/spray-paint character.
+
+Boston progression:
+- early Boston: Union Mark dominant;
+- middle Boston: Union Mark and Republic Shield coexist;
+- late Boston: Republic Shield becomes dominant as local resistance joins wider AFC coordination, while Union Mark remains a respected legacy mark.
+
+Do not flatten the three into interchangeable logos. Do not make the Republic Shield glossy-corporate, the Breach Star a formal seal, or the Union Mark a generic national emblem.
+
+03. COGNICONNECT / CFIM
+CogniConnect is the broader neural/behavioral implant architecture. CFIM means COUNTER-FORENSIC IDENTIFICATION MODULE and is a War Wolves-only add-on package.
+
+CFIM triggers terminal counter-forensic destruction on death to prevent identification and exploitation. It is not the generic name for CogniConnect and must not be applied to every implanted enemy.
+
+KYSC / Montoya Farm victims may carry baseline CogniConnect and conditioning but do not carry CFIM. Their faces do not explode when defeated. War Wolves do. The distinction must remain consistent across narrative, VFX, enemy behavior, forensic dialogue, and mission scripting.
+
+04. CANADA / AEGIS STRATEGIC POSTURE
+Canada is a sovereign, strategically independent but deeply integrated NATO/NORAD partner whose geography, aerospace warning role, Arctic access, intelligence relationships, logistics, and selective military capacity make it a natural AEGIS participant.
+
+Canada should not read as an American appendage or as absent from the crisis. Its contribution is selective and high-value rather than an everywhere-at-once duplicate of U.S. capacity. Useful lanes include Arctic surveillance, aerospace warning, maritime approaches, intelligence fusion, basing/logistics, special operations, and continuity links.
+
+DAOG commander Lt. Gen. Callum Tremblay can embody Canadian participation, but Canada must not be reduced to one French-Canadian officer. Canadian institutions and national interests remain distinct. Exact force packages, domestic political effects, and theater-specific missions stay open until developed in dedicated source pages.
