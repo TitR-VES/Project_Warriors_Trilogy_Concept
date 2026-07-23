@@ -1,0 +1,64 @@
+PROJECT WARRIORS — TRANSCRIPT RECOVERY CHARACTER PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: SOURCE-LANDED CHARACTER CONTINUITY / MIXED LOCKED AND WORKING
+
+TREVOR ALBERTSON GARTNER / SPOOK
+- Full legal name: Trevor Albertson Gartner.
+- Born February 13, 1983, Gary, Indiana, USA.
+- Correct surname: Gartner, never Gardner.
+- Seasoned mid-40s CIA Ground Branch officer in 2028; not a young action-hero profile.
+- Current-facing material should not default to Captain.
+
+VICTOR TWO BRAVO / THE TOURISTS
+- Trevor Gartner / Spook: team lead, judgment and mission ownership.
+- Reid Franklin Bartlett / Tripper: technical exploitation, devices, access, and quiet
+  competence. Do not reduce him to a quippy hacker.
+- Daniel Benjamin Oakenfold / Smoke: mobility, protection, practical violence, and team
+  continuity. Do not write him as muscle without judgment.
+- Their dynamic is experienced professional familiarity, compressed language, and trust
+  earned through repeated bad exits rather than constant banter.
+
+FIRE TEAM DELTA / CRITTER SQUAD
+- Romeo: leader and route-opener; campaign remains Ranger-forward in Game 1.
+- Dingo: aggression/movement function; exact named build remains unrecovered.
+- Howler: observation/long-range voice and owner of LONG CALL; platform remains recovery.
+- Beaver: practical sustainment/engineering lane; exact named build remains unrecovered.
+- Do not invent Dingo or Beaver build names from ordinal slots.
+
+PATRICK “PAT” NAPIER
+- Trans man, former U.S. Army 68W, Specialist at exit.
+- Calloway resistance medic/sustainment hand/secondary rifleman.
+- Parents supportive; institutional betrayal is the load-bearing wound.
+- Renata Voss's support is relational and natural, not genealogical or speech-driven.
+- Calm, dry, exact voice; practical loadout; no named weapon.
+
+CAPTAIN OLEKSANDR HONCHARENKO
+- Ukrainian local operational authority for the Bakhmut mini-arc.
+- Competence comes from people, terrain, infrastructure, and memory of repeated fighting.
+- Dry, direct, and unwilling to let foreign operators mistake access for ownership.
+
+CAPTAIN VLADIMÍR LIŠKO
+- Czech/Slovak regional military/resistance character tied to Ducky's Game 2 lane.
+- Practical leadership and local legitimacy; not a caricatured nationalist.
+- Owner of MOR HO!; exact campaign placement remains working.
+
+DIEGO DE CASAS
+- South America/Colombia-facing character packet remains working.
+- Use as a person with specific loyalties and logistics knowledge, not a generic cartel
+  exposition device. Exact faction alignment and later mission ownership remain open where
+  the transcript did not adjudicate them.
+
+DAWN OF MERCY PILLARS
+- Seattle already possesses local resistance, relief, port, and civic expertise before
+  Spook arrives.
+- Pillar characters should own their domains and challenge external assumptions.
+- Graham Vale remains a working identity whose exact FSB/direct-compromise relationship
+  is intentionally open.
+- The relief ship is genuine capacity exploited through compromised logistics.
+
+VISUAL REFERENCE BOUNDARY
+AEGIS facial references, ORACLE image prompts, Boston wheelchair prompt packets, and other
+visual workflows already have existing durable prompt/reference sources. This packet does
+not replace those images or prompts; it records only character-continuity decisions not
+safely left in transcript form.
