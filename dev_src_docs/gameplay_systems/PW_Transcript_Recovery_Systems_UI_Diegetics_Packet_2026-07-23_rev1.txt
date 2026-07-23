@@ -1,6 +1,6 @@
 PROJECT WARRIORS — TRANSCRIPT RECOVERY SYSTEMS / UI / DIEGETICS PACKET
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 Status: SOURCE-LANDED SYSTEM GOVERNANCE
 
 01. UNDERGROUND PROCUREMENT / BLACK MARKET
@@ -54,6 +54,14 @@ Use productive dissonance and restraint. Famous songs require precise placement.
   local speaker source, not the official base PA.
 - Rush “Working Man” and Thin Lizzy “The Boys Are Back in Town” belong to Kearney's workshop
   lane; Thin Lizzy is a specific revisit-state cue, not a victory montage.
+- “Airstream” is a high-value Hudson Overlook cassette candidate entering only after the
+  run back to Louis's analog Suburban; it does not change the no-score-before-run rule.
+- “The Impression That I Get” is the working live BODYWORK/body-shop social-victory cue.
+- Kelsey's ordered pair is “Never Change For A Man” first, then “THREAT LEVEL ORANGE.”
+- “Asking For a Friend” remains a Spook safehouse-aftermath candidate.
+- “Keep Your Rifle by Your Side” remains a Cody/Calloway acoustic-community candidate.
+- The obsolete Pat Voss/Renata-son draft is rejected. Patrick Napier remains current canon.
+Detailed placement authority: dev_src_docs/audio/PW_Diegetic_Music_Placement_Network_2026-07-23_rev1.txt
 
 06. MILITARY COMMS
 The dedicated style standard remains controlling:
