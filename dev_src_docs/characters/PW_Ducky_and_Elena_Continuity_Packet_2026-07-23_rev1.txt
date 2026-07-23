@@ -1,0 +1,58 @@
+PROJECT WARRIORS — DUCKY / ELENA CHARACTER AND EQUIPMENT CONTINUITY PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: LOCKED CHARACTER CORE / MISSION-LADDER SUPERSESSION NOTED
+Recovered from: Building Ducky; Ducky knife; Elena Costa threads
+
+01. FERRIS “DUCKY” RYAN
+Full legal name: Ferris Michael Ryan.
+
+Middle-name scope rule:
+- use Michael in full legal-name, formal biography, records, or scenes where peers receive matching full-name treatment;
+- omit it from ordinary rosters, squad callouts, mission headers, and lists where other characters are not given middle names.
+
+Voice and behavior:
+- calm, exact, dry, methodical, pressure-flattening, morally stubborn;
+- becomes quieter and more precise under pressure, not louder;
+- warmth appears through practical concern, competent intervention, and remembering what people need;
+- avoids speeches, theatrical menace, and constant quips;
+- command language is concise but not dehumanized.
+
+Knife canon:
+- Gerber StrongArm fixed blade;
+- plain edge;
+- coyote brown;
+- factory coyote multi-mount polymer sheath;
+- treated as field tool first and weapon second;
+- default mounting: vertical MOLLE on support-side kit;
+- horizontal belt carry acceptable in lighter setup states.
+
+Do not turn Ducky into “the knife guy.” The blade supports cutting, prying, emergency access, equipment work, and rare authored close-contact moments.
+
+02. STAFF SERGEANT ELENA MARIA COSTA
+Elena is a mission-facing Boston resistance leader and district-level local authority, not background flavor. She is the local armed center of gravity whose presence proves Boston already had an organized struggle before Romeo arrived.
+
+Character read:
+- practical, locally accountable, direct, and operationally literate;
+- suspicious of outsiders who confuse capability with authority;
+- willing to use Romeo, challenge him, and gradually trust him when his actions respect local ownership;
+- not a generic fiery partisan, exposition guide, or romantic-accessory character.
+
+Operational function:
+- district security and route authority;
+- resistance coordination and local legitimacy;
+- connector between neighborhood cells, Kearney’s sustainment lane, and wider AFC coordination;
+- recurring proof that liberation depends on people who intend to remain after the player leaves.
+
+Signature primary:
+PW-WPN-ELENA-HELL-OR-HIGH-WATER — HELL OR HIGH WATER.
+Old-service-pattern Colt M4A1 with detachable carry handle retained; iron-sight/carry-handle configuration; visible long-term wear; tan rubber bands on the stock; green tape along the stock; handguard text reading “…HELL OR HIGH WATER…”. The rifle is maintained, supportable, and locally meaningful rather than cosmetically “operator.”
+
+First-contact design principles:
+- Elena should be encountered while exercising real authority, not waiting to be introduced;
+- Romeo must read the existing local chain rather than automatically taking command;
+- cooperation emerges from practical mutual need and demonstrated judgment;
+- the scene should establish tension without manufacturing hostility for drama.
+
+MISSION-LADDER SUPERSESSION
+The transcript-era title FIRST CONTACT does not control the current NO KINGS ladder. Mission 02 remains HINGE. Elena’s profile, weapon, and first-contact principles can be adapted into HINGE or another later-approved slot; do not restore FIRST CONTACT by default.
