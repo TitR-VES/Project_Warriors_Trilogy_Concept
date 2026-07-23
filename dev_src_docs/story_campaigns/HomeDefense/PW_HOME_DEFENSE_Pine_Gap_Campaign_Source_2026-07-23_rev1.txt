@@ -1,6 +1,6 @@
 PROJECT WARRIORS — HOME DEFENSE / AUSTRALIAN FRONT SOURCE LANDING
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 Status: WORKING CAMPAIGN AUTHORITY / TITLE AND LOWER-LEVEL FLAGS REMAIN
 Transcript authority: PW_Thread_Archive_Australian_Front_Pine_Gap_DLC_2026-07-23.txt
 
@@ -96,6 +96,8 @@ General rule: service-grounded, weathered, practical, littoral-capable, and low 
 operator vanity. No default sidearms merely to complete a videogame slot.
 
 Substantially specified new identities:
+- Lucas Hill — TRUE BLUE — F90-family 5.56 route-lead service carbine for patrol command,
+  reconnaissance, and littoral movement. Exact variant and accessory models remain open.
 - Daniel Park — NOISE FLOOR — F90-family 5.56 carbine, compact optic, light, optional
   mission IR/laser, integrated with his UAS/signal burden.
 - Alana Brodie — SECOND HORIZON — F90-family observation/DM configuration, magnified
@@ -104,9 +106,11 @@ Substantially specified new identities:
   breaching/entry burden, and heavier practical handling.
 
 Conflict and continuity controls:
-- Lucas's transcript candidate name DEAD RECKONING is rename-required. The exact name is
-  already controlled by Denis “Sakhalin” Malinin's locked AK-105 build. Preserve Lucas's
-  F90 route-lead configuration, but do not create a second named identity.
+- TRUE BLUE is Lucas Hill's controlling named-build identity under stable ID
+  PW-WPN-HILL-TRUE-BLUE.
+- The transcript-era candidate DEAD RECKONING is rejected for Hill because the exact name
+  already belongs to Denis “Sakhalin” Malinin's locked AK-105 build. The rejected name does
+  not alter Hill's preserved F90-family route-lead configuration.
 - Switchblade's WREN is not a new build. Existing stable ID PW-WPN-SWITCHBLADE-WREN and
   the current F88 Austeyr/AUG-lineage source control. The Australian-front transcript is
   a campaign-state use note, not authority to replace the locked platform.
