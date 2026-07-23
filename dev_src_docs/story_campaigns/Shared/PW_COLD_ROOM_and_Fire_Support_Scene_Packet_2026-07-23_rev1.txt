@@ -1,0 +1,76 @@
+PROJECT WARRIORS — COLD ROOM / TYPHON / ARTEMIS SOURCE PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: LOCKED REPRESENTATIVE MISSION MODEL AND FIRE-SUPPORT PLACEMENTS
+Recovered from: SHIELD COLD ROOM; Epic TYPHON and ARTEMIS threads
+
+01. COLD ROOM — SHIELD REPRESENTATIVE MISSION
+COLD ROOM is the template-grade SHIELD mission: deceptive entry, controlled interior movement, sensitive-site exploitation, rising route pressure, one authored casualty event, partial denial, and compressed exfil. Its exact campaign and mission-number placement remain open.
+
+Objective:
+a real archive/relay core concealed behind a staged false archive inside an older commercial/service building retrofitted into a hidden technical-security annex. Success is partial but real retained value, not total clean victory.
+
+Core flow:
+1. rear-lane approach and external-shell read;
+2. reject a suspiciously clean south-entry cue;
+3. breach east utility access;
+4. move through maintenance corridor, stair, and antechamber;
+5. enter the conventional, legible false archive;
+6. Splice identifies the deception and locates the smaller real cold room;
+7. exploit the real core while layered pressure closes;
+8. Splice receives a controlled mobility-altering wound;
+9. Suture stabilizes, Lock compresses priorities, Mallet holds structure, Splice completes the pull;
+10. conduct internal partial denial and break out through service stair/loading lane.
+
+Design rule:
+use staggered layers, tight thresholds, short sightlines, two-lane pressure, architectural cover, and objective-preservation tension. Do not build a wave arena, turret gallery, glossy server room, or blue-freezer cliché.
+
+Art direction:
+older urban commercial/service shell; painted concrete block, patched drywall, steel fire doors, conduit, dead office layers, and selective newer reinforcement. The false archive is roomier and conventionally labeled. The real cold room is smaller, denser, cooler, selectively lit, coded, necessity-maintained, and materially consequential.
+
+Success rule:
+Splice remains useful after the wound. Denial is deliberate and non-spectacular. The team leaves with incomplete but meaningful retained value.
+
+02. ARTEMIS — DEAD FREQUENCY
+ARTEMIS is a Swedish Archer gun-artillery asset, not a rocket system. Placement is Ducky Game 2 / PERSISTENT THREAT, mission DEAD FREQUENCY, during post-objective break-contact from the converted NATO facility in northern Estonia.
+
+Scene function:
+precision gun artillery shapes pursuit routes and buys the squad an exit after the objective is complete. The effect should feel like disciplined allied fires integrated into a larger war, not miraculous rescue.
+
+Trigger architecture:
+- objective complete;
+- enemy reaction begins to close withdrawal lanes;
+- AEGIS requests or receives a pre-coordinated fire window;
+- ARTEMIS confirms restricted target geometry and timing;
+- Archer rounds land in sequenced route-blocking/area-denial patterns behind and beside the withdrawing team;
+- squad movement resumes through a narrow surviving lane;
+- radio closes professionally and returns the player to ground-level pressure.
+
+Visual identity:
+indirect gun-artillery effects, measured cadence, discrete impact sequence, route shaping, no rocket-pod visual language.
+
+03. TYPHON — PERMAFROST
+TYPHON is a Norwegian K239 Chunmoo rocket-artillery asset, distinct from ARTEMIS in system, battlefield role, comms, and visual signature. Placement is Ducky Game 2 / PERSISTENT THREAT, mission PERMAFROST, after node destruction during Svalbard shore exfil before rigid-inflatable extraction.
+
+Scene function:
+collapse inland pursuit routes and create a temporary coastal extraction window. The effect is larger and more area-shaping than ARTEMIS, but it remains controlled fire support rather than spectacle for its own sake.
+
+Trigger architecture:
+- node destruction confirmed;
+- inland reaction elements converge on the shore route;
+- extraction craft is committed but not yet alongside;
+- TYPHON receives final safety/geometry confirmation;
+- rocket impacts collapse or deny inland approach corridors in sequenced belts;
+- AEGIS moves across the remaining shore lane;
+- rigid-inflatable reaches pickup;
+- final impacts and receding comms emphasize that the fire mission bought time, not victory.
+
+Visual identity:
+rocket-artillery salvo architecture, larger-area route collapse, distinct launch/impact cadence, no Archer/gun-artillery substitution.
+
+SHARED RULES
+- Preserve competent multilingual allied-radio texture without overexplaining.
+- Do not make fire support infallible, omniscient, or consequence-free.
+- Keep safety geometry, timing, and ground-force movement legible.
+- ARTEMIS = Swedish Archer / DEAD FREQUENCY.
+- TYPHON = Norwegian K239 Chunmoo / PERMAFROST.
