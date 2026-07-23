@@ -1,7 +1,7 @@
 PROJECT WARRIORS — TRANSCRIPT RECOVERY NAMED-WEAPONS PACKET
 Generated: 2026-07-23
-Version: rev1
-Status: WORKING LOCKS / REGISTRY v3.2 INPUT
+Version: rev2
+Status: WORKING LOCKS / REGISTRY v3.3 INPUT
 
 PW-WPN-LISKO-MOR-HO
 Build name: MOR HO!
@@ -39,10 +39,46 @@ Working configuration:
 Status: WORKING LOCK / LOWER-LEVEL FLAGS REMAIN.
 Open: exact optic/accessories and first-use mission.
 
+PW-WPN-PARK-NOISE-FLOOR
+Build name: NOISE FLOOR.
+Owner: Lance Corporal Daniel Min-jae Park.
+Platform: F90-family 5.56x45mm service carbine.
+Campaign lane: HOME DEFENSE / Australian front.
+Role: systems/signal/UAS infantry carbine.
+Working configuration: compact combat optic, white light, mission-specific IR/laser;
+practical setup integrated with batteries, antenna, UAS, and rugged-display burden.
+Status: WORKING LOCK / LOWER-LEVEL FLAGS REMAIN.
+Open: exact F90 variant and accessory models.
+
+PW-WPN-BRODIE-SECOND-HORIZON
+Build name: SECOND HORIZON.
+Owner: Private Alana Brodie.
+Platform: F90-family 5.56x45mm observation/designated-marksman configuration.
+Campaign lane: HOME DEFENSE / Australian front.
+Working configuration: magnified optic or LPVO, compact light, mission-specific suppressor,
+minimal-snag field setup.
+Status: WORKING LOCK / LOWER-LEVEL FLAGS REMAIN.
+Open: exact F90 variant, optic, light, and suppressor.
+
+PW-WPN-REED-HARD-STAND
+Build name: HARD STAND.
+Owner: Private Hamish Reed.
+Platform: F90-family 5.56x45mm rifle with underbarrel 40 mm grenade launcher.
+Campaign lane: HOME DEFENSE / Australian front.
+Role: grenadier, breaching support, and practical heavy-load rifle.
+Status: WORKING LOCK / LOWER-LEVEL FLAGS REMAIN.
+Open: exact F90 and launcher variants, optic, light, and first-use mission.
+
+HOME DEFENSE COLLISION CONTROL
+- Lucas Hill's F90 route-lead configuration is source-landed, but the transcript name
+  DEAD RECKONING is rename-required because PW-WPN-SAKHALIN-DEAD-RECKONING already controls.
+- WREN remains PW-WPN-SWITCHBLADE-WREN; no duplicate identity is created.
+- HOLDFAST is Shaw's command-use identifier, not a named firearm.
+
 REGISTRY RESULT
-The cumulative projection advances from v3.1 to v3.2:
-- 39 unique named identities
-- 30 substantially specified/source-associated identities
+The cumulative projection advances through v3.3:
+- 42 unique named identities
+- 33 substantially specified/source-associated identities
 - 9 recovery-status identities
 - zero duplicate stable IDs
 
