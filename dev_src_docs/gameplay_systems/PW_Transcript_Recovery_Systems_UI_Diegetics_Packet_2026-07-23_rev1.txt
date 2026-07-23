@@ -1,0 +1,69 @@
+PROJECT WARRIORS — TRANSCRIPT RECOVERY SYSTEMS / UI / DIEGETICS PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: SOURCE-LANDED SYSTEM GOVERNANCE
+
+01. UNDERGROUND PROCUREMENT / BLACK MARKET
+One shared hidden procurement system supports three campaign-specific shells:
+- Romeo: physical resistance board, caches, favors, route contacts, and material scarcity.
+- Spook: secure-device interface, deniable brokers, controlled requests, and tradecraft.
+- Ducky: DAOG/AEGIS tactical requisition and off-book allied sourcing.
+
+Shared rules:
+- The shells feel different but use one underlying economy/governance model.
+- Access follows relationships, mission consequences, regional availability, and political
+  cost—not a frictionless global gun store.
+- Named weapons do not become ordinary vendor stock.
+- Items can be unavailable, delayed, substituted, compromised, or tied to favors.
+- UI should show provenance and risk without overexplaining the entire network.
+
+02. CAMPAIGN SELECTION CARDS / LOADING SCREENS
+Campaign visual lanes remain distinct:
+- Romeo: physical, field-made, map/board/document language.
+- Ducky: green-phosphor / tactical-display / DAOG systems language.
+- Spook: typewritten intelligence text with selective redaction/classification behavior.
+
+Loading screens should extend campaign identity rather than use one generic military UI.
+Mission cards may show local time, date, location, operation, and team designation, but
+exact-date display must follow timeline authority and avoid false precision.
+
+03. FICTIONAL CIVILIAN BRAND BIBLE
+Brands should make the world legible, reusable, and commercially plausible without every
+logo becoming a joke or lore clue. Categories include logistics, food/beverage, retail,
+industrial services, telecom, medical, hotels, and local/regional products.
+- BOSTON BUBBLE is a restrained local beer/product identity used in BODYWORK.
+- Repetition across locations builds world texture; conspiratorial significance is rare.
+- Real brands can coexist where appropriate, but fictional brands protect art direction and
+  allow controlled narrative placement.
+
+04. SHIBBOLETH SYSTEMS / PLAINSITE
+Shibboleth is a serious defense/secure-communications brand, not cyberpunk villain dressing.
+PlainSite and related products should use credible enterprise/defense naming, restrained
+industrial design, and documentation that can appear in benign and compromised contexts.
+The Hindeloopen device/core recovery seeds a communications-trust problem; it does not by
+itself prove every Shibboleth employee or product is malicious.
+
+05. DIEGETIC MUSIC PLACEMENT NETWORK
+Music is environmental/world texture first, not a replacement for campaign anchor tracks.
+Use productive dissonance and restraint. Famous songs require precise placement.
+- “Run to the Hills” is dropped from the active shortlist.
+- “For the Damaged Coda” is dropped completely.
+- “Hotel California” remains reserve-only.
+- “Square Hammer” is approved as a one-off low-volume Montoya Farm observation-space cue.
+- Beyoncé “YA YA” is approved for a pre-fracture Romeo Game 1 troop-reception space from a
+  local speaker source, not the official base PA.
+- Rush “Working Man” and Thin Lizzy “The Boys Are Back in Town” belong to Kearney's workshop
+  lane; Thin Lizzy is a specific revisit-state cue, not a victory montage.
+
+06. MILITARY COMMS
+The dedicated style standard remains controlling:
+- “say again” requests repetition; “I say again” introduces repetition.
+- “repeat” is reserved for fire-support contexts.
+- avoid “over and out”; do not stack “roger” and “wilco.”
+No duplicate replacement standard is created from the transcript.
+
+07. PROMOTIONAL / IMAGE-WORKFLOW BOUNDARY
+KERAUNOS/Brno, ANGEL, DAOG patches, AEGIS facial references, ORACLE prompts, Home Defense
+trailer imagery, and Permanent Record trailer art retain their dedicated current pages or
+recovered promotional packet. Image prompts are visual references, not automatic story or
+chronology locks.
