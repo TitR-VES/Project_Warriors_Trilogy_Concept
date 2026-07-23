@@ -1,0 +1,44 @@
+PROJECT WARRIORS — TRUE BLUE BUILD SPECIFICATION
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING LOCK / NAME, OWNER, CAMPAIGN, AND PLATFORM FAMILY CONFIRMED
+
+IDENTITY
+Stable ID: PW-WPN-HILL-TRUE-BLUE
+Build name: TRUE BLUE
+Owner: Corporal Lucas Hill
+Campaign: PROJECT WARRIORS: HOME DEFENSE / Australian front
+Platform: F90-family 5.56x45mm route-lead service carbine
+
+ROLE
+TRUE BLUE is Hill's practical patrol-lead and reconnaissance carbine. It supports route
+choice, littoral movement, observation, and ordinary infantry command rather than an
+operator-vanity or specialist-prototype identity. The build must remain service-grounded,
+weathered, maintainable, and credible beside the rest of the 2 RAR squad.
+
+CONFIGURATION GOVERNANCE
+The source-preserved core is an F90-family 5.56x45mm route-lead configuration. Exact F90
+variant, optic, light, sling, laser/illuminator use, suppressor availability, and first-use
+mission remain open until a dedicated lower-level equipment pass adjudicates them.
+
+NAME GOVERNANCE
+TRUE BLUE is the controlling name for Lucas Hill's build.
+
+The transcript-era candidate DEAD RECKONING is rejected for Hill because the stable identity
+PW-WPN-SAKHALIN-DEAD-RECKONING already belongs to Denis “Sakhalin” Malinin's AK-105 build.
+This is a supersession of the placeholder name only; it does not alter Hill's preserved
+F90-family route-lead configuration.
+
+CONTINUITY
+- TRUE BLUE is a separate identity from Switchblade's WREN.
+- WREN retains its existing stable ID and F88 Austeyr/AUG-lineage authority.
+- Major Imogen Shaw's HOLDFAST remains a command-use identifier, not a named firearm.
+
+OPEN FIELDS
+- exact F90 variant
+- exact optic and mounting
+- exact white light
+- sling model and mounting
+- mission-specific laser/illuminator state
+- suppressor state
+- first-use mission and presentation beat
