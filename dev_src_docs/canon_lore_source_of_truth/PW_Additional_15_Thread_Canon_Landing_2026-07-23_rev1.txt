@@ -1,0 +1,53 @@
+PROJECT WARRIORS — ADDITIONAL 15-THREAD CANON LANDING
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING AUTHORITATIVE RECOVERY / SUPERSESSION CONTROL
+Recovered from: pw_unarchived_threads_transcripts.zip
+
+PURPOSE
+Reconcile the additional fifteen extracted threads against current `main`, promote missing accepted decisions into durable source pages, and avoid duplicating or restoring material already superseded by later canon.
+
+AUTHORITY ORDER
+1. later explicit owner adjudication;
+2. later source-landed canon/correction pages;
+3. accepted source-ready transcript decisions;
+4. exploratory discussion and rejected alternatives.
+
+PROMOTED OR SOURCE-RESOLVED
+- civilian/public radio framework plus The Ridge, FIELDHOUSE, and HARBOR 97.3 station lanes;
+- standalone Kearney/Boston weapons source matching the global registry reference;
+- standalone SHIELD squad source matching the global registry reference;
+- COLD ROOM representative mission model;
+- ARTEMIS / TYPHON separation and placements;
+- AFC visual-identity hierarchy;
+- CogniConnect / CFIM distinction;
+- Canada / AEGIS strategic baseline;
+- PANDORA technical architecture with September 7, 2028 correction;
+- Ducky name/voice/knife continuity;
+- Elena Costa and HELL OR HIGH WATER continuity;
+- Bakhmut canonical visual language;
+- Romeo Game 1 / Game 2 visual-reference prompts with current SSG rank.
+
+ABSORBED / NO DUPLICATE SOURCE
+- BODYWORK / Van Hult is already controlled by `dev_src_docs/story_campaigns/Game3/Romeo/PW_BODYWORK_Mitchell_Van_Hult_Branch_Reference_2026-04-12.txt` and the July Game 3 recovery packet.
+- Pat Napier is already controlled by the July Game 2 and character recovery packets.
+- AEGIS facial-reference workflows remain controlled by existing durable prompt/reference sources.
+
+SUPERSESSION CONTROLS
+- PANDORA activates Thursday, September 7, 2028; September 3 is stale.
+- Romeo is SSG Ramón Álvarez in current-facing material; older LT labels are stale.
+- NO KINGS Mission 02 is HINGE; transcript-era FIRST CONTACT does not replace it.
+- ARTEMIS is Swedish Archer gun artillery in DEAD FREQUENCY.
+- TYPHON is Norwegian K239 Chunmoo rocket artillery in PERMAFROST.
+- COLD ROOM’s exact campaign/mission-number placement remains open.
+- The non-Romeo-region civilian-radio pilot station remains future development.
+
+CONTROLLING COMPANION SOURCES
+- `dev_src_docs/audio/radio/PW_Civilian_Public_Radio_System_Source_Packet_2026-07-23_rev1.txt`
+- `dev_src_docs/worldbuilding/PW_Additional_Thread_Worldbuilding_Source_Packet_2026-07-23_rev1.txt`
+- `dev_src_docs/characters/PW_Ducky_and_Elena_Continuity_Packet_2026-07-23_rev1.txt`
+- `dev_src_docs/weapons_and_equipment/PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt`
+- `dev_src_docs/teams/PW_SHIELD_Squad_Development_Packet.txt`
+- `dev_src_docs/story_campaigns/Shared/PW_COLD_ROOM_and_Fire_Support_Scene_Packet_2026-07-23_rev1.txt`
+- `dev_src_docs/image_prompts/PW_Bakhmut_and_Romeo_Visual_Reference_Packet_2026-07-23_rev1.txt`
+- `source_audits_and_reports/PW_Additional_15_Thread_Reconciliation_Audit_2026-07-23_rev1.txt`
