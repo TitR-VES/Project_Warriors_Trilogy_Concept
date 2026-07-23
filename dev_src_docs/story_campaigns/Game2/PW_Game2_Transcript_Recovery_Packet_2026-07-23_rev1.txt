@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 2 TRANSCRIPT RECOVERY PACKET
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 Status: SOURCE-LANDED RECOVERY / MIXED LOCKED AND WORKING
 
 01. ROMEO — CORONADO TO CALLOWAY BRIDGE
@@ -20,28 +20,39 @@ Pat Napier:
 - Rifle exists to create treatment space, not project operator identity.
 
 02. DUCKY — BAKHMUT MINI-ARC
-Placement: during PERSISTENT THREAT, before the AEGIS FALLS finale; exact slot open.
-Local anchor: Captain Oleksandr Honcharenko.
+Locked placement: DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND / DARK FIBER /
+ASH RELAY -> PERMAFROST.
 
-Three-mission identity:
-- DEAD GROUND — enter a city whose surface is observed, mined, and politically loaded;
-  establish Honcharenko and the rule that local knowledge outranks imported assumptions.
-- DARK FIBER — exploit buried communications/service infrastructure rather than treating
-  the metro as a generic tunnel-shooter level.
-- ASH RELAY — restore or deny a relay under collapsing physical and electronic conditions;
-  success is a partial, usable communications window rather than total control.
+Narrative function:
+Bakhmut changes suspicion into physical proof of a repeatable relay-and-deception kill
+chain using compromised AEGIS-adjacent architectural knowledge. Its recovered packet lets
+Halliday identify Svalbard as the likely northern target.
+
+Mission/transitions:
+- DEAD GROUND — link-up, route discipline, first pattern recognition; Frost transition for
+  precision clearance of overwatch/controller positions.
+- DARK FIBER — cut an outer dependency and recover timing/certification material; Lupin
+  transition for fast interdiction and approach control.
+- ASH RELAY — Ducky-led assault/denial and technical-packet recovery; no transition.
+
+Target:
+A forward relay-certification site inside a ruined municipal communications/utilities
+complex with attached industrial service wing—not a generic cache or command post.
+
+Ukrainian attached cell:
+- Captain Oleksandr Honcharenko — ground commander / route owner
+- Senior Lieutenant Kateryna Melnyk — signals/EW technical interpretation
+- Senior Sergeant Mykhailo Vorobei — reconnaissance/UAS NCO
+- Chief Sergeant Taras Savchuk — engineer/breacher/structural access
+- Staff Sergeant Olena Kysil — medic/casualty movement/CASEVAC
 
 Design rules:
-- Bakhmut is not a theme-park ruin or obstacle-course map.
-- Verticality and underground movement are strategically placed, not constant gimmicks.
-- Ukrainian resistance and military personnel remain competent owners of local context.
-- Environmental history, burial, infrastructure, and the cost of repeated occupation are
-  felt without turning the mission into exposition tourism.
+- local knowledge outranks imported assumptions
+- competence is shown through timing, route, technical reading, structure, and casualty logic
+- documentary ruined-city realism; no generic apocalypse, spectacle, or misery tourism
 
-Honcharenko:
-Ukrainian officer and mission-facing local authority; practical, dry, disciplined, and
-unimpressed by imported hero narratives. His competence is route knowledge, people,
-terrain memory, and judgment about what can still be held.
+Detailed source:
+dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
 
 03. ASML / LUPIN OVERWATCH TRANSITION
 An ASML-campus or adjacent high-value industrial defense mission can use a scripted
