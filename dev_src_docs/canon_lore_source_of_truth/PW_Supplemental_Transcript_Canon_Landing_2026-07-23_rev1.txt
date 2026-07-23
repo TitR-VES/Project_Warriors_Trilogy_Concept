@@ -1,0 +1,39 @@
+PROJECT WARRIORS — SUPPLEMENTAL TRANSCRIPT CANON LANDING
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING AUTHORITATIVE SUPPLEMENT / SUPERSESSION CONTROL
+
+SCOPE
+Four late-generated transcript archives:
+- Australian Front / Pine Gap / HOME DEFENSE
+- Diegetic Music Placement Network
+- Hudson Overlook
+- Ducky Game 2 / Bakhmut mini-arc
+
+RESULT
+1. HOME DEFENSE receives its first durable full campaign source: Australian-led Pine Gap
+   architecture, Lucas Hill working lead, core cast, nine-mission ladder, and equipment rules.
+2. Bakhmut expands from a compact recovery mention into a locked three-mission source with
+   exact HARD WINTER -> Bakhmut -> PERMAFROST placement, Ukrainian cell, OOB, transition
+   logic, and technical narrative function.
+3. The audio network lands controlled scene placements and corrects the obsolete Pat Voss /
+   Renata-son draft back to Patrick Napier continuity.
+4. Hudson Overlook is already controlled by its screenplay and mission-scripting sources.
+   The supplemental archive confirms them; only the separate licensing-dependent Airstream
+   placement note is added.
+
+SUPERSESSION / COLLISION CONTROLS
+- Sakhalin retains DEAD RECKONING. Lucas Hill's transcript candidate is rename-required.
+- Switchblade's WREN stable identity and current F88/AUG-lineage source remain controlling.
+- HOME DEFENSE's CHAIN OF CUSTODY mission title remains working because Permanent Record
+  previously used the same title before adopting RECEIVERSHIP.
+- Pat Napier is not Pat Voss and is not Renata Voss's son.
+- No Hudson character, screenplay, prompt, or trigger is replaced by the audio candidate.
+
+ONTOLOGY / REGISTRY
+- rev2.7 -> rev2.8
+- 109 -> 121 events
+- tracks remain 21
+- synchronization points remain 19
+- registry v3.2 -> v3.3
+- 39 -> 42 named identities
