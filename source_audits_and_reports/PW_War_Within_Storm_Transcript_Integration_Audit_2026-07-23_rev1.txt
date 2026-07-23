@@ -1,0 +1,102 @@
+PROJECT WARRIORS — WAR WITHIN / PERMANENT RECORD / THE STORM
+TRANSCRIPT INTEGRATION AUDIT
+Generated: 2026-07-23
+Version: rev1
+Status: RELEASE AUDIT / PR HANDOFF
+
+SCOPE
+Five supplied thread exports were compared against current main after PR #26:
+1. DEAD BLOW development.
+2. Hydra inheritance-and-choice lock.
+3. JUDGMENT DAY secure-weapon detail.
+4. War Within / Permanent Record archive.
+5. The Storm full visible transcript.
+
+RECONCILIATION RESULT
+
+Already present on main:
+- War Within title, protagonist and broad partial ladder.
+- exact September 11, 2031 VIATECH finale.
+- GROUND ZERO -> VIATECH -> Chicago order.
+- The Storm external title, Procella, Denis Malinin, DEAD RECKONING.
+- broad seven-anchor Storm ladder.
+- FURTHER EAST / OUTER PORT synchronization.
+- Permanent Record full broad chronology through ONE HEAD OF THE HYDRA.
+
+Missing or materially incomplete before this batch:
+- complete DEAD BLOW configuration and burst-count governance.
+- EASTERN PROMISE platform/configuration recovery.
+- authored SIC SEMPER TYRANNIS staging, transition, handoff and SURRENDER choreography.
+- NO WITNESSES and DEAD MAN’S SWITCH as separate ontology events.
+- Ledger's authored Chicago dialogue and RECOVER INTEL exploitation.
+- Hélène Modine / Kirill Afanasyev Montreal logic and Paris contact function.
+- JUDGMENT DAY SECURE WEAPON interaction.
+- ONE HEAD OF THE HYDRA inheritance-plus-choice moral governance.
+- VOICE IN THE DARK title stack.
+- authored opening / FALSE WEATHER and Tomakomai sequence details.
+- correction of the stale July 21 DARK SKIES title status.
+
+TITLE AUDIT
+VOICE IN THE DARK:
+- no exact current-main active-source collision found.
+- accepted as working internal campaign/story title inside The Storm.
+- not promoted to final hard canon.
+
+SOUTH CULVERT:
+- confirmed collision.
+- DARK SKIES retains the active mission title.
+- The Storm opening concept remains rename-required.
+
+CANON / WORKING BOUNDARIES
+Hard or locked-core:
+- DEAD BLOW owner/platform/core configuration.
+- EASTERN PROMISE owner/platform/core configuration.
+- VIATECH date and assassination event.
+- SECURE WEAPON scene detail.
+- inheritance-plus-choice thematic rule.
+- DARK SKIES title and Tomakomai mission identity.
+
+Working:
+- VOICE IN THE DARK.
+- Storm full ladder and dates.
+- Storm opening title.
+- DEAD BLOW exact burst count.
+- exact accessory models where explicitly flagged.
+- Hawthorne final branch outcome.
+- exact Montreal/Paris mission titles.
+
+ONTOLOGY VALIDATION
+Materialized rev2.6:
+- 7 eras
+- 86 events
+- 21 campaign tracks
+- 17 sync points
+- duplicate IDs: 0
+- dangling references: 0
+- self references: 0
+- ordering graph acyclic: yes
+- events without source pointers: 0
+
+REGISTRY VALIDATION
+Projected v3.1:
+- named identities: 37
+- substantially specified: 28
+- recovery status: 9
+- duplicate stable IDs: 0
+
+FILES ADDED
+- master transcript canon landing
+- ontology rev2.6 delta
+- compendium addendum
+- this integration audit
+
+FILES UPDATED
+- ontology README
+- named-weapon schema authority chain
+
+SOURCE-PRESERVATION RULE
+Transcript text was normalized into source pages. Transcription noise, abandoned options,
+and assistant suggestions not accepted by the user were not promoted. Explicit open
+fields remain open.
+
+END
