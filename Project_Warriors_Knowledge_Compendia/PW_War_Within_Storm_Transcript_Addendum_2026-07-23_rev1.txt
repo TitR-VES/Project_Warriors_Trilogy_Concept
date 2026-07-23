@@ -10,15 +10,15 @@ This page is not the preferred editing layer. Durable narrative meaning remains 
 new source landing under dev_src_docs/.
 
 ================================================================================
-PROJECT WARRIORS: WAR WITHIN / AMERICAN GUERILLA
+PROJECT WARRIORS: WAR WITHIN / AMERICAN GUERRILLA
 ================================================================================
 
 TITLE HIERARCHY
 - Installment / DLC title: PROJECT WARRIORS: WAR WITHIN.
 - Alternative numbered styling: PROJECT WARRIORS III: WAR WITHIN.
-- Campaign title: AMERICAN GUERILLA.
-- Fully expanded technical title: PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERILLA.
-- Conversational shorthand may use PROJECT WARRIORS: AMERICAN GUERILLA when the installment
+- Campaign title: AMERICAN GUERRILLA.
+- Fully expanded technical title: PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERRILLA.
+- Conversational shorthand may use PROJECT WARRIORS: AMERICAN GUERRILLA when the installment
   context is already clear.
 - WAR WITHIN alone refers to the installment, not the campaign.
 - Nicholas Wayne Hawthorne / CROATOAN is the campaign protagonist.
@@ -57,7 +57,7 @@ DEAD BLOW
 PERMANENT RECORD
 ================================================================================
 
-WAR WITHIN / AMERICAN GUERILLA HANDOFF
+WAR WITHIN / AMERICAN GUERRILLA HANDOFF
 - GROUND ZERO precedes VIATECH ’31.
 - VIATECH precedes Ledger / Chicago.
 - Chicago RECOVER INTEL yields Ledger's secure device and pocketbook.
@@ -137,7 +137,7 @@ OPEN
 - final VOICE IN THE DARK owner adjudication
 - exact Storm dates/full ladder
 - exact DEAD BLOW burst count
-- several middle AMERICAN GUERILLA mission titles and numbering
+- several middle AMERICAN GUERRILLA mission titles and numbering
 - Hawthorne ending canon selection, if ever desired
 - exact Kirill accessory models and player acquisition
 - deeper Permanent Record scene/mission implementation fields
