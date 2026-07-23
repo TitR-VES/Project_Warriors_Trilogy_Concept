@@ -41,16 +41,22 @@ so the ontology is represented through deterministic, auditable transformation l
    - maps the reconciled FAILSAFE and DARK SKIES openings/closures
    - adds The Collapse Missions 14–17 and the VIGILAN trust-chain arc
    - adds MOR HO! and LAST KNOWN GOOD to projected registry v3.2
+8. `pw_supplemental_transcripts_rev2_8.delta.yaml`
+   - rev2.7 -> rev2.8
+   - expands Bakhmut into DEAD GROUND / DARK FIBER / ASH RELAY at its locked slot
+   - lands the nine-mission HOME DEFENSE / Pine Gap working spine
+   - advances the named-weapon projection with NOISE FLOOR, SECOND HORIZON, and HARD STAND
+   - records the DEAD RECKONING collision without creating a duplicate identity
 
-The full materialized `pw_world_event_timeline_rev2_7.yaml` and projected
-`named_weapon_builds_v3_2.txt` remain handoff artifacts until a full-projection
+The full materialized `pw_world_event_timeline_rev2_8.yaml` and projected
+`named_weapon_builds_v3_3.txt` remain handoff artifacts until a full-projection
 import is explicitly approved.
 
 ## Current validated projection
 
-Timeline rev2.7:
+Timeline rev2.8:
 - 7 eras
-- 109 events
+- 121 events
 - 21 campaign tracks
 - 19 synchronization points
 - zero duplicate IDs
@@ -61,9 +67,9 @@ Timeline rev2.7:
 
 Named-weapon layer:
 - base registry: `named_weapon_builds_v2_8.txt`
-- projected registry after cumulative deltas: `named_weapon_builds_v3_2.txt`
-- 39 unique stable identities
-- 30 substantially specified/source-associated identities
+- projected registry after cumulative deltas: `named_weapon_builds_v3_3.txt`
+- 42 unique stable identities
+- 33 substantially specified/source-associated identities
 - 9 recovery-status identities
 - zero duplicate stable IDs
 
@@ -77,7 +83,7 @@ Named-weapon layer:
 - Working choices and open flags remain working/open after source promotion.
 - No missing mission, date, platform, or character detail may be invented merely to complete a projection.
 
-## Current campaign notes affected by rev2.7
+## Current campaign notes affected through rev2.8
 
 - Game 1 campaign labels are source-landed as CRITTER SQUAD: LEAD THE WAY,
   DO RIGHT, FEAR NONE, and RIPTIDE RED.
@@ -90,6 +96,9 @@ Named-weapon layer:
 - BODYWORK and NARROW WATER are optional NO KINGS branches and do not renumber the
   controlling early main ladder.
 - The Wasp remains a Game-2-overlap campaign with selective flashbacks.
+- Bakhmut is locked after HARD WINTER and before PERMAFROST.
+- HOME DEFENSE is Australian-led with Lucas Hill as the baseline working protagonist;
+  exact title and Game 3 synchronization remain open.
 
 ## Schemas
 
