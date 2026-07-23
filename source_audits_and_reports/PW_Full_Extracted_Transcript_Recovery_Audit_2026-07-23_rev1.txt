@@ -1,0 +1,64 @@
+PROJECT WARRIORS — FULL EXTRACTED TRANSCRIPT RECOVERY AUDIT
+Generated: 2026-07-23
+Version: rev1
+Status: GOVERNANCE / SOURCE-RECOVERY AUDIT
+
+SCOPE
+- 65 archive members reviewed.
+- 59 unique SHA-256 contents.
+- 6 byte-identical duplicate copies.
+- Complete member-level result table: PW_Full_Extracted_Transcript_Inventory_2026-07-23_rev1.csv.
+
+METHOD
+1. Deduplicate exact copies.
+2. Identify explicit accepted decisions and source-ready blocks.
+3. Compare against current durable repo pages and later owner corrections.
+4. Preserve newer authority and classify old material as absorbed/superseded.
+5. Promote missing decisions through compact domain packets.
+6. Preserve working/open status; do not invent absent source text.
+
+RESULT CLASSES
+- LANDED_OR_UPDATED: missing or materially newer decision promoted into a recovery packet.
+- ABSORBED_OR_SUPERSEDED: current durable source already controls.
+- AUDITED_NO_DIRECT_LANDING: no safe delta or only unresolved/source-missing material.
+- EXACT_DUPLICATE: no second source action.
+
+DURABLE LANDING PACKETS
+- canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt
+- story_campaigns/Game1/PW_Game1_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- story_campaigns/Game2/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- story_campaigns/Game3/PW_Game3_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- story_campaigns/Game4/PW_Game4_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- characters/PW_Transcript_Recovery_Character_Packet_2026-07-23_rev1.txt
+- gameplay_systems/PW_Transcript_Recovery_Systems_UI_Diegetics_Packet_2026-07-23_rev1.txt
+- weapons_and_equipment/PW_Transcript_Recovery_Named_Weapons_Packet_2026-07-23_rev1.txt
+
+KEY SUPERSESSIONS
+- September 7, 2028 controls PANDORA over older September 3 text.
+- Current NO KINGS source controls older Romeo Game 3 discussion.
+- Current STAPLER, ANGEL, ENFANT TERRIBLE, DAOG patch, Hudson Overlook, radio-comms,
+  AEGIS visual, and Yunnan pages control their corresponding transcripts.
+- Revised Who Dares Wins ladder supersedes the April mission-title ladder.
+- FAILSAFE inherits resolved Game 2 Tremblay consequences.
+- DARK SKIES retains OUTER PORT as Japan contact and FRACTURE MAP over ORDER OF WEATHER.
+
+VALIDATION
+Timeline rev2.7:
+- 7 eras / 109 events / 21 tracks / 19 sync points.
+- zero duplicate IDs, dangling references, self references, source-less events, or cycles.
+Registry v3.2:
+- 39 identities / 30 substantially specified / 9 recovery-status.
+- zero duplicate stable IDs.
+
+OPEN FLAGS PRESERVED
+- final Storm opening title and complete ladder;
+- exact dates/placements for working campaign events;
+- later NO KINGS ladder and optional-branch placement;
+- exact MOR HO! / LAST KNOWN GOOD accessories and first use;
+- Gulf and South America concepts where the archive lacks complete controlling text;
+- final production clearance for music, UI, visual, and promotional directions.
+
+RETIREMENT RULE
+Do not retire the archive or older pages solely because this PR exists. Wait for merge,
+main-branch path verification, downstream migration, and a post-merge consistency pass.
