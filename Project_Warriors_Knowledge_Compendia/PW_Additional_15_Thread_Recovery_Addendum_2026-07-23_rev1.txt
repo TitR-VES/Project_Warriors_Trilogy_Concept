@@ -1,0 +1,34 @@
+PROJECT WARRIORS — ADDITIONAL 15-THREAD RECOVERY ADDENDUM
+Generated: 2026-07-23
+Version: rev1
+Status: SYNTHESIS / SOURCE POINTER ADDENDUM
+
+SOURCE-FIRST RULE
+Use the durable source pages listed below for editing. This addendum is an orientation layer, not a replacement for them.
+
+CORE DELTAS
+1. Civilian/public radio is now a separate governed subsystem from military tactical comms. The Ridge, FIELDHOUSE, and HARBOR 97.3 have distinct identities, state models, and truth rules.
+2. The global named-weapon registry’s Kearney/Boston and SHIELD source references now have matching durable pages.
+3. Republic Shield / Breach Star / Union Mark remain separate AFC/Boston resistance marks; AFC means American Freedom Corps.
+4. CogniConnect is the broad architecture; CFIM is the War Wolves-only Counter-Forensic Identification Module. KYSC do not use CFIM.
+5. Canada is a sovereign, selective high-value AEGIS/NATO participant rather than an American appendage or an absent actor.
+6. PANDORA’s technical architecture is promoted with the September 7, 2028 activation correction.
+7. Ducky’s middle-name scope, pressure-flattening voice, and Gerber StrongArm configuration are consolidated.
+8. Elena Costa / HELL OR HIGH WATER are consolidated; HINGE remains current NO KINGS Mission 02.
+9. COLD ROOM remains SHIELD’s representative mission model with exact placement open.
+10. ARTEMIS = Archer / DEAD FREQUENCY; TYPHON = K239 Chunmoo / PERMAFROST.
+11. The Bakhmut packet is explicitly canonical for environmental look across DEAD GROUND, DARK FIBER, and ASH RELAY.
+12. Romeo visual-reference prompts use current SSG rank and preserve Game 1/Game 2 continuity boundaries.
+
+ABSORBED
+BODYWORK/Van Hult and Pat Napier already have current durable authority and receive no duplicate source page in this pass.
+
+SOURCE POINTERS
+- `dev_src_docs/canon_lore_source_of_truth/PW_Additional_15_Thread_Canon_Landing_2026-07-23_rev1.txt`
+- `dev_src_docs/audio/radio/PW_Civilian_Public_Radio_System_Source_Packet_2026-07-23_rev1.txt`
+- `dev_src_docs/worldbuilding/PW_Additional_Thread_Worldbuilding_Source_Packet_2026-07-23_rev1.txt`
+- `dev_src_docs/characters/PW_Ducky_and_Elena_Continuity_Packet_2026-07-23_rev1.txt`
+- `dev_src_docs/weapons_and_equipment/PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt`
+- `dev_src_docs/teams/PW_SHIELD_Squad_Development_Packet.txt`
+- `dev_src_docs/story_campaigns/Shared/PW_COLD_ROOM_and_Fire_Support_Scene_Packet_2026-07-23_rev1.txt`
+- `dev_src_docs/image_prompts/PW_Bakhmut_and_Romeo_Visual_Reference_Packet_2026-07-23_rev1.txt`
