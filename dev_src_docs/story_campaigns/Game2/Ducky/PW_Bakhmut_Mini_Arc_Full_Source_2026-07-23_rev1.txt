@@ -1,0 +1,91 @@
+PROJECT WARRIORS — PERSISTENT THREAT / BAKHMUT MINI-ARC SOURCE LANDING
+Generated: 2026-07-23
+Version: rev1
+Status: LOCKED WORKING ARC / PRODUCTION POLISH FLAGS REMAIN
+Transcript authority: Project_Warriors_Thread_Archive_Ducky_Game2_Bakhmut_MiniArc-1.txt
+
+01. CAMPAIGN PLACEMENT
+Locked slot:
+DEAD FREQUENCY -> HARD WINTER -> BAKHMUT MINI-ARC -> PERMAFROST
+
+Bakhmut is where Ducky's investigation moves from suspicion to physical proof. The
+enemy is certifying a repeatable relay-and-deception kill chain using compromised
+AEGIS-adjacent architectural knowledge. The recovered packet enables Halliday to identify
+Svalbard as the probable northern target in PERMAFROST.
+
+02. THREE-MISSION ARC
+1. DEAD GROUND
+   Link-up, route discipline, and first-pattern recognition. Bakhmut is watched geometry,
+   not a generic ruined combat sandbox. Includes a Frost transition for precision clearance
+   of overwatch/controller positions.
+2. DARK FIBER
+   Shaping mission. Strip an outer dependency, exploit buried service/communications
+   infrastructure, and recover timing/relay/certification material. Includes a Lupin
+   transition for fast interdiction and approach control.
+3. ASH RELAY
+   Ducky-led decisive assault and denial. Destroy the relay architecture in the correct
+   order, seize the surviving technical packet, and exfil before the outer screen closes.
+   No perspective transition; the arc closes on Ducky.
+
+03. TARGET-SITE FUNCTION
+Forward relay-certification site inside a ruined municipal communications-and-utilities
+complex with an attached industrial service wing. It is not a generic cache or command post.
+
+Functions:
+- validate attack logic using compromised AEGIS-adjacent knowledge
+- rehearse a relay chain designed to survive contested spectrum
+- tune a deception envelope against AEGIS-shaped defensive interpretation
+- certify the later northern strike package
+
+04. UKRAINIAN ATTACHED CELL
+A joint veteran cell built by necessity, not a mythic super-squad or symbolic cast.
+Competence is shown through timing, route choice, structural judgment, technical reading,
+overhead awareness, casualty management, and survival logic.
+
+- Captain Oleksandr Honcharenko — ground commander, route owner, outer-ground lead
+- Senior Lieutenant Kateryna Melnyk — signals/EW-adjacent technical officer; relay and
+  cable-route interpretation
+- Senior Sergeant Mykhailo Vorobei — reconnaissance/UAS NCO; overhead survival picture
+- Chief Sergeant Taras Savchuk — engineer, breacher, structural-access specialist
+- Staff Sergeant Olena Kysil — medic, casualty movement, practical CASEVAC and human grounding
+
+05. ENEMY ORDER OF BATTLE
+Compact Russian-led technical-security detachment:
+- inner technical cell
+- site-security element
+- outer screening force
+- support enablers / local reaction group
+
+Role families:
+- relay-security troops
+- observation/drone spotters
+- technical operators
+- local reaction group
+- engineering/breach pair
+
+Enemy dialogue protects process and infrastructure. Avoid theatrical villain chatter.
+
+06. ENVIRONMENT / TONE
+Use documentary eastern-Ukrainian post-Soviet urban texture: exposed concrete frames,
+broken balcony grids, shell-pocked and soot-blackened facades, muddy/frozen courtyards,
+leafless trees, dirty snow, cold pale daylight, and overcast visibility.
+
+Avoid generic apocalypse, cyberpunk spillover, blockbuster ruin spectacle, and misery tourism.
+
+07. SCRIPTING STATUS
+Completed in source:
+- mission-by-mission beat spine
+- full mission scripting pass
+- Frost and Lupin transition triggers
+- evidence-pickup logic
+- squad-chatter register
+- post-mission Ducky/Halliday investigative beats
+- working enemy OOB
+- Savchuk and Kysil profiles
+
+Open polish:
+- granular enemy unit naming
+- encounter-density and combat-space tuning
+- production line-by-line dialogue expansion
+- complete Ukrainian loadout sheets
+- whether any cell member recurs later in Persistent Threat
