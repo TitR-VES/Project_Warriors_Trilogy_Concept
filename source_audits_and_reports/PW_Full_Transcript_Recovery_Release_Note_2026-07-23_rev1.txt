@@ -1,0 +1,21 @@
+PROJECT WARRIORS — FULL TRANSCRIPT RECOVERY RELEASE NOTE
+Generated: 2026-07-23
+Version: rev1
+Status: PR RELEASE NOTE
+
+Archive reviewed: 65 files / 59 unique contents.
+Approach: source-first promotion, later-canon supersession, explicit preservation of open flags.
+
+Change classes
+- campaign and mission source recovery
+- character/profile recovery
+- systems/UI/diegetic recovery
+- promotional reference recovery
+- governance audit and compendium addendum
+
+No merge performed.
+
+Projection results
+- timeline rev2.7: 7 eras, 109 events, 21 tracks, 19 sync points
+- registry v3.2: 39 named identities, 30 substantially specified, 9 recovery-status
+- zero duplicate stable IDs, dangling references, self references, or chronology cycles
