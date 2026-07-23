@@ -68,4 +68,5 @@ CONTROLLING COMPANION PAGES
 - PW_Transcript_Recovery_Systems_UI_Diegetics_Packet_2026-07-23_rev1.txt
 - PW_Transcript_Recovery_Named_Weapons_Packet_2026-07-23_rev1.txt
 - PW_Full_Extracted_Transcript_Recovery_Audit_2026-07-23_rev1.txt
-- pw_full_transcript_recovery_rev2_7.delta.yaml
+- pw_full_transcript_recovery_rev2_7a.delta.yaml
+- pw_full_transcript_recovery_rev2_7b.delta.yaml
