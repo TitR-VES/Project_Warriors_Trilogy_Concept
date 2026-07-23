@@ -1,0 +1,405 @@
+meta:
+  delta_id: PW-ONT-TRANSCRIPT-BATCH-2026-07-23-REV1
+  generated: '2026-07-23'
+  timeline_applies_to: pw_world_event_timeline_rev2_5.yaml
+  timeline_produces: pw_world_event_timeline_rev2_6.yaml
+  registry_applies_to: named_weapon_builds_v3_0.txt
+  registry_produces: named_weapon_builds_v3_1.txt
+  status: locked_and_working_delta
+  sources:
+  - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+operations:
+- op: add_events
+  values:
+  - id: PW-EVT-WAR-WITHIN-NO-WITNESSES
+    name: NO WITNESSES / Hawthorne crosses the Vanguard threshold
+    era: PW-ERA-G4
+    date:
+      relative: after the April 18, 2031 NAF induction and before DEAD MAN’S SWITCH; exact date TBD
+      anchor: PW-EVT-WAR-WITHIN-NAF-INDUCTION
+    actors:
+    - Nicholas Wayne Hawthorne / Croatoan
+    - Mark Redford “Skidrow” Champlin
+    - Vanguard
+    ordering:
+      after:
+      - PW-EVT-WAR-WITHIN-NAF-INDUCTION
+      before:
+      - PW-EVT-WAR-WITHIN-DEAD-MANS-SWITCH
+      - PW-EVT-WAR-WITHIN-GROUND-ZERO
+    relations:
+      advances:
+      - PW-EVT-WAR-WITHIN-ARC
+    depicted_in:
+    - PW-TRK-WAR-WITHIN
+    status: confirmed
+    notes: Skidrow executes surrendering/cowering staff while evaluating Hawthorne. The mission reveals what Vanguard discipline permits rather than what NAF rhetoric claims to protect.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+  - id: PW-EVT-WAR-WITHIN-DEAD-MANS-SWITCH
+    name: DEAD MAN’S SWITCH / Ledger prison-transport release
+    era: PW-ERA-G4
+    date:
+      relative: after NO WITNESSES and before GROUND ZERO; exact date TBD
+      anchor: PW-EVT-WAR-WITHIN-NO-WITNESSES
+    actors:
+    - Nicholas Wayne Hawthorne / Croatoan
+    - Ledger / Rayburn
+    - New American Frontier
+    - Vanguard
+    ordering:
+      after:
+      - PW-EVT-WAR-WITHIN-NO-WITNESSES
+      before:
+      - PW-EVT-WAR-WITHIN-GROUND-ZERO
+      - PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+    relations:
+      restores_actor_to_network:
+      - Ledger / Rayburn
+      advances:
+      - PW-EVT-WAR-WITHIN-ARC
+    depicted_in:
+    - PW-TRK-WAR-WITHIN
+    status: working
+    notes: Recovered mission anchor involving Ledger’s release from a prison transport. It restores access to his contacts and weapons before later Game 4 consequences; exact mission placement and treatment remain open.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+  - id: PW-EVT-STORM-ROUTE-CHECK
+    name: The Storm opening route-check mission
+    historical_titles:
+    - SOUTH CULVERT (discarded/conflicted working title)
+    era: PW-ERA-WWIII
+    date:
+      era_only: The Storm campaign opening; exact date TBD
+    location: Russian Far East coastal service / drainage corridor
+    actors:
+    - Denis Nikolaevich Malinin / Sakhalin
+    - Albatross
+    - Procella
+    ordering:
+      before:
+      - PW-EVT-STORM-FALSE-WEATHER
+      - PW-EVT-STORM-FURTHER-EAST-OUTER-PORT
+      - PW-EVT-GAME3-CLOSE
+    relations:
+      opens_track:
+      - PW-TRK-DLC-STORM
+    depicted_in:
+    - PW-TRK-DLC-STORM
+    status: working
+    notes: Introduces route language and the distinction between broken and burned. SOUTH CULVERT cannot be retained because DARK SKIES already owns that mission title; final title remains open.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+  - id: PW-EVT-STORM-FALSE-WEATHER
+    name: FALSE WEATHER
+    era: PW-ERA-WWIII
+    date:
+      relative: after the opening route check; exact date TBD
+      anchor: PW-EVT-STORM-ROUTE-CHECK
+    location: Russian Far East coastal weather / navigation node
+    actors:
+    - Denis Nikolaevich Malinin / Sakhalin
+    - Procella
+    ordering:
+      after:
+      - PW-EVT-STORM-ROUTE-CHECK
+      before:
+      - PW-EVT-STORM-LAST-LIGHT-HARBOR
+      - PW-EVT-GAME3-CLOSE
+    relations:
+      advances:
+      - PW-TRK-DLC-STORM
+    depicted_in:
+    - PW-TRK-DLC-STORM
+    status: working
+    notes: Denis confirms deliberate output falsification and alters conditions without reducing the mission to a generic terminal hack or destroying the site.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+  - id: PW-EVT-STORM-LAST-LIGHT-HARBOR
+    name: LAST LIGHT HARBOR
+    era: PW-ERA-WWIII
+    date:
+      relative: after FALSE WEATHER; exact date TBD
+      anchor: PW-EVT-STORM-FALSE-WEATHER
+    location: Russian Far East harbor edge
+    actors:
+    - Denis Nikolaevich Malinin / Sakhalin
+    - Procella
+    - civilian evacuees / defectors
+    ordering:
+      after:
+      - PW-EVT-STORM-FALSE-WEATHER
+      before:
+      - PW-EVT-STORM-COLD-BATTERY
+      - PW-EVT-GAME3-CLOSE
+    relations:
+      advances:
+      - PW-TRK-DLC-STORM
+    depicted_in:
+    - PW-TRK-DLC-STORM
+    status: working
+    notes: First full extraction direction. Escort is route management rather than babysitting; dark service corridors, dock clutter, contact pressure and water exfiltration define the lane.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+  - id: PW-EVT-STORM-COLD-BATTERY
+    name: COLD BATTERY
+    era: PW-ERA-WWIII
+    date:
+      relative: after LAST LIGHT HARBOR; exact date TBD
+      anchor: PW-EVT-STORM-LAST-LIGHT-HARBOR
+    actors:
+    - Denis Nikolaevich Malinin / Sakhalin
+    - Procella
+    ordering:
+      after:
+      - PW-EVT-STORM-LAST-LIGHT-HARBOR
+      before:
+      - PW-EVT-STORM-DRIFT-LINE
+      - PW-EVT-GAME3-CLOSE
+    relations:
+      advances:
+      - PW-TRK-DLC-STORM
+    depicted_in:
+    - PW-TRK-DLC-STORM
+    status: working
+    notes: Power units become a survival commodity. Carry burden, transport risk, installation and selective engagement matter as much as shooting.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+  - id: PW-EVT-STORM-DRIFT-LINE
+    name: DRIFT LINE
+    era: PW-ERA-WWIII
+    date:
+      relative: after COLD BATTERY; exact date TBD
+      anchor: PW-EVT-STORM-COLD-BATTERY
+    actors:
+    - Denis Nikolaevich Malinin / Sakhalin
+    - Albatross
+    - Procella
+    ordering:
+      after:
+      - PW-EVT-STORM-COLD-BATTERY
+      before:
+      - PW-EVT-STORM-NORTHERN-WINDOW
+      - PW-EVT-GAME3-CLOSE
+    relations:
+      advances:
+      - PW-TRK-DLC-STORM
+    depicted_in:
+    - PW-TRK-DLC-STORM
+    status: working
+    notes: A known extraction line is compromised. Albatross redirects Denis toward a secondary seam during worsening weather, becoming more visible without being overexposed.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+  - id: PW-EVT-STORM-NORTHERN-WINDOW
+    name: NORTHERN WINDOW
+    era: PW-ERA-WWIII
+    date:
+      relative: after DRIFT LINE and before FURTHER EAST; exact date TBD
+      anchor: PW-EVT-STORM-DRIFT-LINE
+    location: northern maritime contact seam, likely Japan-facing
+    actors:
+    - Denis Nikolaevich Malinin / Sakhalin
+    - Procella
+    - external contact
+    ordering:
+      after:
+      - PW-EVT-STORM-DRIFT-LINE
+      before:
+      - PW-EVT-STORM-FURTHER-EAST-OUTER-PORT
+      - PW-EVT-GAME3-CLOSE
+    relations:
+      advances:
+      - PW-TRK-DLC-STORM
+    depicted_in:
+    - PW-TRK-DLC-STORM
+    status: working
+    notes: Restrained external-contact mission direction. Sanctuary is partial, political and deniable; it must not expand The Storm into the Home Defense war lane.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_event
+  match_id: PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+  set:
+    ordering:
+      after:
+      - PW-EVT-WAR-WITHIN-GROUND-ZERO
+      - PW-EVT-WAR-WITHIN-NAF-INDUCTION
+      - PW-EVT-WAR-WITHIN-NO-WITNESSES
+      - PW-EVT-WAR-WITHIN-DEAD-MANS-SWITCH
+      before:
+      - PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO
+      - PW-EVT-GAME4-CLOSE
+    notes: National War on Terror Day finale. At 5:42 p.m. the team stages under service cover; a 78 MINUTES LATER card carries the scene to the 7:00 p.m. keynote. The assassination is canonical. Skidrow’s SUCKER PUNCH handoff and the authored SURRENDER choreography are source-landed; Hawthorne’s final status remains branch-ambiguous.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_event
+  match_id: PW-EVT-PERMANENT-RECORD-LEDGER-CHICAGO
+  set:
+    actors:
+    - Trevor Gartner / Spook
+    - Ledger / Rayburn
+    - Tripper
+    - Smoke
+    relations:
+      continues_investigation_from:
+      - PW-EVT-PERMANENT-RECORD-TWIN-CITIES-SAFEHOUSE
+      follows_consequence_of:
+      - PW-EVT-VIATECH31-ABERNATHY-ASSASSINATION
+      enables:
+      - PW-EVT-PERMANENT-RECORD-MONTREAL-BRIDGE
+    notes: Ledger opens with a private-property taunt, then kills himself. RECOVER INTEL yields his secure device and pocketbook, which identify Hélène Modine and the Montreal meeting. Placement remains after VIATECH ’31.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_event
+  match_id: PW-EVT-PERMANENT-RECORD-MONTREAL-BRIDGE
+  set:
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Hélène Modine
+    - Kirill Afanasyev
+    relations:
+      advances:
+      - PW-EVT-PERMANENT-RECORD-PARIS-MOFFAT-TRAIL
+      introduces_named_build:
+      - PW-WPN-AFANASYEV-EASTERN-PROMISE
+    notes: Hélène Modine does not attend the compromised meeting after Ledger’s death. She sends Kirill Afanasyev, whose named AKM build is EASTERN PROMISE. Hélène remains available for a later controlled Paris contact.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_event
+  match_id: PW-EVT-PERMANENT-RECORD-PARIS-MOFFAT-TRAIL
+  set:
+    actors:
+    - Trevor Gartner / Spook
+    - Tripper
+    - Smoke
+    - Hélène Modine
+    - Geoffrey-Guy Moffat
+    relations:
+      reveals_asset_path:
+      - PW-EVT-PERMANENT-RECORD-ET-IN-ARCADIA-EGO
+    notes: In a busy public setting Hélène gives fragmented, evasive information rather than a briefing packet. Victor Two Bravo pieces together Marietta / former Gerhana -> legal owner Geoffrey-Guy Moffat -> Lana Erika Delhardt.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_event
+  match_id: PW-EVT-PERMANENT-RECORD-JUDGMENT-DAY
+  set:
+    notes: Stealth-led breach ends in pencil ambush, Smoke’s nonfatal wound, motorcycle flight, delivery-van crash, survival and medical custody. At the crash site ENFANT TERRIBLE remains chest-holstered; Spook receives SECURE WEAPON, removes and stows it without extra dialogue while Stockbridge’s visor/expression remain visible.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_event
+  match_id: PW-EVT-PERMANENT-RECORD-ONE-HEAD-HYDRA
+  set:
+    notes: 'Device exploitation reveals selective overlap with reconstruction structures. Younger inheritors are not guilty by blood but culpable through consent: they inherit proximity, protection and permission, then choose whether to continue. More managers than maniacs; a small refusing minority proves continuation was not inevitable. Goldberg’s earlier “sins of our fathers” line functions as diagnosis, not vindication.'
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-STORM
+  set:
+    historical_titles:
+    - VOICE IN THE DARK (working internal campaign/story title)
+    timeframe:
+      opens:
+        event: PW-EVT-STORM-ROUTE-CHECK
+      closes:
+        tbd: broader campaign close remains open
+      placement_status: working
+    notes: External DLC title is The Storm. VOICE IN THE DARK is the non-conflicting working internal campaign/story title. Current partial ladder runs from the rename-pending opening route check through FURTHER EAST; exact full dates and final ladder remain open.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_event
+  match_id: PW-EVT-STORM-FURTHER-EAST-OUTER-PORT
+  set:
+    ordering:
+      after:
+      - PW-EVT-STORM-NORTHERN-WINDOW
+      before:
+      - PW-EVT-GAME3-CLOSE
+    notes: Authored asymmetrical handoff. FURTHER EAST owns Sakhalin’s route, surveillance pressure and trust validation; OUTER PORT owns Spook’s support picture and contact exchange. Killed lamp, pale-blue chalk cold line and waterproof envelope are protected seam details. Denis exits through the lower waterline service route.
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_sync_point
+  match_id: PW-SYN-STORM-OUTER-PORT
+  set:
+    description: Sakhalin’s FURTHER EAST route-to-contact mission hands off at the exact hinge to Spook’s OUTER PORT mission in Tomakomai. The authored seam uses a killed lamp, pale-blue chalk route language and waterproof envelope; same meeting, different pressure and knowledge, no duplicate replay.
+    status: working
+- op: update_sync_point
+  match_id: PW-SYN-WAR-WITHIN-PERMANENT-RECORD
+  set:
+    description: GROUND ZERO precedes the September 11 assassination. Permanent Record confronts Ledger in Chicago afterward, recovers the Hélène Modine / Montreal lead, and later reconstructs the Marietta / Moffat / Delhardt trail. Later reporting may identify Hawthorne without selecting a canonical finale branch.
+    status: working
+registry_operations:
+- op: update_build
+  match_id: PW-WPN-HAWTHORNE-DEAD-BLOW
+  set:
+    build_name: DEAD BLOW
+    owner: Nicholas Wayne Hawthorne / Croatoan
+    platform: HK MP5SD / MP5SD-N-style suppressed SMG
+    caliber: 9x19mm
+    campaign_refs:
+    - PW-TRK-WAR-WITHIN
+    mission_refs:
+    - SIC SEMPER TYRANNIS
+    status: locked_core
+    configuration:
+      finish: black weapon and suppressor; FDE optic
+      optic: EOTech XPS3-0-style holographic sight, flat dark earth
+      light: M300-style compact light on suppressor ring mount
+      pressure_switch: top cocking-tube lane before charging-handle track; unobstructed
+      selector: safe / semi / burst / full; exact two- versus three-round burst remains open
+      magazines: paired/clamped 30-round magazines with alternating fast transition and full-pair reload
+      sling: low-profile two-point sling; exact routing remains animation-dependent
+    unresolved_fields:
+    - exact burst count
+    - exact ring-mount hardware
+    - final sling attachment geometry
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+- op: update_build
+  match_id: PW-WPN-AFANASYEV-EASTERN-PROMISE
+  move_to_section: fully_or_substantially_specified_builds
+  set:
+    build_name: EASTERN PROMISE
+    owner: Kirill Afanasyev
+    platform: modified full-length AKM-pattern rifle
+    caliber: 7.62x39mm
+    campaign_refs:
+    - PW-TRK-G4-PERMANENT-RECORD
+    placement: Montreal investigative bridge
+    status: locked_core
+    configuration:
+      handguard: CNC-machined aluminum fore-end
+      stock: buffer-tube adapter with black multi-position collapsible stock
+      optic: ELCAN-style magnified optic with piggyback RMR-style reflex sight
+      light_laser: compact side-mounted light/laser module with ambidextrous pressure-switch access
+      foregrip: vertical grip with angled lower profile
+      suppressor: PBS-style suppressor
+      magazines: classic steel AK magazines
+    associated_weapons:
+    - silver suppressed PM Makarov, 9x18mm
+    - SR-2M / 9x21mm secondary direction
+    unresolved_fields:
+    - exact optic model
+    - exact suppressor model
+    - exact magazine capacity
+    - exact SR-2M deployment state
+    sources:
+    - dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt
+  clear:
+  - platform_recovery_required
+  - campaign_recovery_required
+validation_targets:
+  timeline:
+    eras: 7
+    events: 86
+    campaign_tracks: 21
+    sync_points: 17
+    duplicate_ids: 0
+    dangling_references: 0
+    self_references: 0
+    acyclic: true
+  registry:
+    named_identities: 37
+    substantially_specified: 28
+    recovery_status: 9
+    duplicate_ids: 0
