@@ -1,0 +1,89 @@
+PROJECT WARRIORS — DIEGETIC MUSIC PLACEMENT NETWORK
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING AUDIO AUTHORITY / LICENSING-DEPENDENT
+Transcript authority: PW_Thread_Archive_Diegetic_Music_Placement_Network_2026-07-23-1.txt
+
+PURPOSE
+Track licensed-song candidates as believable world sound with narrative value. This page
+controls placement intent, not license clearance or guaranteed final soundtrack inclusion.
+
+01. SYSTEM RULES
+Every placement requires:
+- a believable in-world source
+- a clear narrative function beyond taste or lyric matching
+- restrained mix/intensity
+- explicit trigger and exit logic
+- licensing or replacement status
+
+Most cues should be partial, muffled, interrupted, or displaced by action/dialogue. Music is
+world texture first and never replaces campaign score identity.
+
+02. SOURCE / FUNCTION TAXONOMY
+Sources include vehicle audio, room stereo, portable speaker, bar/jukebox, store/PA,
+workshop, camp, hostile office, live performance, and accidental overhearing.
+
+Functions include false normalcy, character trace, cultural grounding, ironic counterpoint,
+foreshadowing, memory anchor, civic identity, and post-action residue.
+
+03. SOURCE-LANDED PLACEMENTS
+PW-DM-001 — “Airstream” / Fastball
+- Scene: HUDSON OVERLOOK cold open
+- Source: cassette deck in Louis's late-1990s analog full-size Suburban-type SUV
+- Trigger: engine catches immediately during the run-back-to-car phase; tape resumes mid-song
+- Exit: lowered/cut or submerged by panic and road dialogue before the autonomous-car impact
+- Status: high-value aspirational licensed candidate, not guaranteed final track
+- Continuity: no score before the run back to the car; analog vehicle functionality remains
+  controlling. Do not alter the existing Hudson screenplay or scripting logic.
+
+PW-DM-005 — “The Impression That I Get” / The Mighty Mighty Bosstones
+- Scene: post-BODYWORK celebration in Mitchell Van Hult's reclaimed body shop
+- Source: live, improvised performance; muffled on approach, scene-active inside
+- Function: socially legible district victory, reclaimed civic life, and the body shop becoming
+  a persistent repair/vehicle-support node
+- Status: strong working placement; cameo/licensing and exact trigger remain production-dependent
+
+PW-DM-004 — “Asking For a Friend” / Foo Fighters
+- Scene lane: Spook safehouse free-movement aftermath after BURNING DAYLIGHT or another
+  major intelligence discovery
+- Source: small stereo/laptop/radio already playing quietly after Tripper leaves
+- Function: private aftermath and emotional residue, not a debrief needle drop
+- Status: strong working candidate; exact mission selection remains open
+
+PW-DM-006 — “Keep Your Rifle by Your Side” / Far Cry 5 soundtrack
+- Scene: Cody Beaumont acoustic performance with the Calloway legacy cell, preferably a
+  backyard rather than a polished staged concert
+- Function: fragile communal continuity before Cody's death
+- Status: working candidate; rights-holder complexity and exact scene treatment remain open
+
+PW-DM-007 / PW-DM-008 — Kelsey sequence
+1. “Never Change For A Man” / Earth to Eve — first, private room or sleeping-area source;
+   character self-definition before outward defiance.
+2. “THREAT LEVEL ORANGE” / Earth to Eve — later, active/work/vehicle source; sharper public
+   anti-occupation register.
+- Kelsey remains separate from the project’s other queer character development.
+- Status: ordered working pair; exact missions and sources remain implementation-open.
+
+“First-Generation Degenerate” / Earth to Eve
+- Preserve as a working private-room character-reveal candidate for Pat Napier or another
+  separately adjudicated queer resistance character.
+- Supersession: do not use the transcript's abandoned “Pat Voss / Renata Voss's son” draft.
+  Current canon is Patrick Napier, a trans man, with supportive parents and no genealogical
+  relationship to Renata Voss.
+- Exact owner and scene placement require a later explicit music/character pass.
+
+04. EXISTING APPROVED / RESERVE / DROP CONTROLS
+Approved/special-use controls retained from newer source:
+- “Square Hammer” — one-off low-volume Montoya Farm observation-space cue
+- “YA YA” — pre-fracture Romeo Game 1 troop-reception space, local speaker not official PA
+- “Working Man” and “The Boys Are Back in Town” — Kearney workshop lane; the latter is a
+  specific revisit-state cue, not a victory montage
+
+Reserve/caution/drop:
+- “Hotel California” — reserve only
+- “Run to the Hills” — dropped from active shortlist
+- “For the Damaged Coda” — dropped completely
+
+05. RIGHTS GOVERNANCE
+All commercial tracks are aspirational until licensed. A replacement should preserve source,
+scene function, intensity, and exit logic rather than merely matching genre.
