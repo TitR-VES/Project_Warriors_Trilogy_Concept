@@ -4,21 +4,21 @@ Version: rev1
 Status: SOURCE-LANDED PARTIAL LADDER / LOCKED AND WORKING STATUS MIX
 
 PURPOSE
-Land the recoverable AMERICAN GUERILLA campaign sequence from the WAR WITHIN installment
+Land the recoverable AMERICAN GUERRILLA campaign sequence from the WAR WITHIN installment
 without pretending the campaign ladder is complete. This page supersedes conflicting finale,
 date, Zale Jacobs, and SUCKER PUNCH details in earlier War Within source layers.
 
 INSTALLMENT / CAMPAIGN IDENTITY
 - Installment / DLC title: PROJECT WARRIORS: WAR WITHIN.
 - Alternative franchise-numbered title: PROJECT WARRIORS III: WAR WITHIN.
-- Campaign title: AMERICAN GUERILLA.
-- Fully expanded technical title: PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERILLA.
-- Preferred conversational reference: PROJECT WARRIORS: AMERICAN GUERILLA.
+- Campaign title: AMERICAN GUERRILLA.
+- Fully expanded technical title: PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERRILLA.
+- Preferred conversational reference: PROJECT WARRIORS: AMERICAN GUERRILLA.
 - Format: DLC installment.
 - Protagonist: Nicholas Wayne Hawthorne / CROATOAN.
 - Placement: partly parallel with Game 4.
 
-WAR WITHIN is the title of the installment, not the campaign. AMERICAN GUERILLA is the
+WAR WITHIN is the title of the installment, not the campaign. AMERICAN GUERRILLA is the
 campaign title, following the same title hierarchy used by entries such as PROJECT WARRIORS:
 RIPTIDE RED and PROJECT WARRIORS IV: COMMAND AUTHORITY.
 
@@ -111,7 +111,7 @@ CROSS-CAMPAIGN ORDER
 6. Later fragmented intelligence points Victor Two Bravo toward MARIETTA (formerly
    GERHANA) -> Geoffrey-Guy Moffat -> Lana Erika Delhardt.
 The Chicago/Montreal/Marietta material belongs to Permanent Record, not the playable
-AMERICAN GUERILLA campaign ladder.
+AMERICAN GUERRILLA campaign ladder.
 
 OPEN ITEMS
 - Final mission numbering and unrecovered middle-mission titles.

@@ -24,7 +24,7 @@ Stable ID: PW-WPN-HAWTHORNE-DEAD-BLOW
 Owner: Nicholas Wayne Hawthorne / CROATOAN
 Installment: PROJECT WARRIORS: WAR WITHIN
 Alternative installment styling: PROJECT WARRIORS III: WAR WITHIN
-Campaign: AMERICAN GUERILLA
+Campaign: AMERICAN GUERRILLA
 Mission: SIC SEMPER TYRANNIS
 Status: LOCKED CORE / BURST-COUNT FLAG REMAINS
 
@@ -49,19 +49,19 @@ DEAD BLOW may return to NAF custody and later be recovered by Romeo without sele
 whether Hawthorne died, surrendered, survived, escaped, or remained in custody.
 
 ================================================================================
-02. PROJECT WARRIORS: WAR WITHIN / AMERICAN GUERILLA
+02. PROJECT WARRIORS: WAR WITHIN / AMERICAN GUERRILLA
 ================================================================================
 Title hierarchy:
 - installment / DLC title: PROJECT WARRIORS: WAR WITHIN
 - alternative numbered styling: PROJECT WARRIORS III: WAR WITHIN
-- campaign title: AMERICAN GUERILLA
-- fully expanded technical title: PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERILLA
-- conversational shorthand may use PROJECT WARRIORS: AMERICAN GUERILLA when the installment
+- campaign title: AMERICAN GUERRILLA
+- fully expanded technical title: PROJECT WARRIORS: WAR WITHIN: AMERICAN GUERRILLA
+- conversational shorthand may use PROJECT WARRIORS: AMERICAN GUERRILLA when the installment
   context is already clear
 - WAR WITHIN alone refers to the installment, not the campaign
 - protagonist: Nicholas Wayne Hawthorne / CROATOAN
 - placement: partly parallel with Game 4
-- the AMERICAN GUERILLA ladder is substantial but incomplete
+- the AMERICAN GUERRILLA ladder is substantial but incomplete
 
 Character corrections:
 - Odell Tyler Holmes is correct; Tylder is transcription noise.
@@ -164,13 +164,13 @@ Ending governance:
 - No later source may select Hawthorne's final status without explicit owner adjudication.
 
 Arsenal identity:
-The PROJECT WARRIORS: WAR WITHIN installment, specifically the AMERICAN GUERILLA campaign,
+The PROJECT WARRIORS: WAR WITHIN installment, specifically the AMERICAN GUERRILLA campaign,
 should combine civilian, militia, collector, black-market, captured military, foreign-surplus
 and limited true military weapons. This is a fractured arsenal, not a clean military armory.
 Specific weapon availability remains mission/faction dependent.
 
 ================================================================================
-03. PERMANENT RECORD / AMERICAN GUERILLA CONTINUITY
+03. PERMANENT RECORD / AMERICAN GUERRILLA CONTINUITY
 ================================================================================
 Chronology:
 1. GROUND ZERO occurs in early September 2031.
@@ -396,7 +396,7 @@ Frost retains the personal wound and intimate Cold Frontier 07 history.
 ================================================================================
 Locked or locked-core:
 - PROJECT WARRIORS: WAR WITHIN as installment title
-- AMERICAN GUERILLA as campaign title
+- AMERICAN GUERRILLA as campaign title
 - DEAD BLOW owner, platform and core configuration
 - EASTERN PROMISE owner, platform and core configuration
 - VIATECH date and assassination event
@@ -411,7 +411,7 @@ Working:
 - final Storm opening title
 - exact DEAD BLOW burst count
 - exact Kirill accessory models / SR-2M state
-- unrecovered AMERICAN GUERILLA middle titles / final numbering
+- unrecovered AMERICAN GUERRILLA middle titles / final numbering
 - Hawthorne final branch outcome
 
 END

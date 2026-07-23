@@ -17,11 +17,11 @@
       "op": "update_campaign_track",
       "match_id": "PW-TRK-WAR-WITHIN",
       "set": {
-        "title": "American Guerilla",
+        "title": "American Guerrilla",
         "installment": "Project Warriors: War Within (alternative styling: Project Warriors III: War Within)",
         "historical_titles": [],
         "status": "confirmed",
-        "notes": "War Within is the installment/DLC title, not the campaign title. The campaign is American Guerilla. Fully expanded technical title: Project Warriors: War Within: American Guerilla. Conversational shorthand may use Project Warriors: American Guerilla when the installment context is clear.",
+        "notes": "War Within is the installment/DLC title, not the campaign title. The campaign is American Guerrilla. Fully expanded technical title: Project Warriors: War Within: American Guerrilla. Conversational shorthand may use Project Warriors: American Guerrilla when the installment context is clear.",
         "sources": [
           "dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt"
         ]
@@ -31,8 +31,8 @@
       "op": "update_event",
       "match_id": "PW-EVT-WAR-WITHIN-ARC",
       "set": {
-        "name": "American Guerilla campaign arc within Project Warriors: War Within",
-        "notes": "Stable event and track IDs retain WAR-WITHIN for compatibility, but narrative display must distinguish the Project Warriors: War Within installment from its American Guerilla campaign.",
+        "name": "American Guerrilla campaign arc within Project Warriors: War Within",
+        "notes": "Stable event and track IDs retain WAR-WITHIN for compatibility, but narrative display must distinguish the Project Warriors: War Within installment from its American Guerrilla campaign.",
         "sources": [
           "dev_src_docs/canon_lore_source_of_truth/PW_Transcript_Canon_Landing_War_Within_Permanent_Record_Storm_2026-07-23_rev1.txt"
         ]
@@ -42,8 +42,8 @@
       "op": "update_sync_point",
       "match_id": "PW-SYN-WAR-WITHIN-PERMANENT-RECORD",
       "set": {
-        "name": "American Guerilla / VIATECH ’31 to Permanent Record handoff",
-        "description": "The American Guerilla campaign within Project Warriors: War Within culminates in the September 11 VIATECH ’31 assassination. Permanent Record confronts Ledger in Chicago afterward and follows the resulting investigative trail without selecting Hawthorne's final branch.",
+        "name": "American Guerrilla / VIATECH ’31 to Permanent Record handoff",
+        "description": "The American Guerrilla campaign within Project Warriors: War Within culminates in the September 11 VIATECH ’31 assassination. Permanent Record confronts Ledger in Chicago afterward and follows the resulting investigative trail without selecting Hawthorne's final branch.",
         "status": "working"
       }
     }
