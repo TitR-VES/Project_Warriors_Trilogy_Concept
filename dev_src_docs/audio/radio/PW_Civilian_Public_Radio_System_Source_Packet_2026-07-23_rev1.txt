@@ -1,0 +1,116 @@
+PROJECT WARRIORS — CIVILIAN / PUBLIC RADIO SYSTEM SOURCE PACKET
+Generated: 2026-07-23
+Version: rev1
+Status: WORKING AUTHORITATIVE AUDIO / WORLDBUILDING SOURCE
+Recovered from: Project_Warriors_Radio_Worldbuilding_Thread_Archive_2026-07-23-1.txt
+
+AUTHORITY RULE
+This page governs civilian/public radio and does not replace the military-radio style standard. Tactical comms continue to use “say again” / “I say again,” reserve “repeat” for fire support, avoid “over and out,” and avoid stacked “roger/wilco.”
+
+SYSTEM PURPOSE
+Civilian radio makes each theater feel inhabited before, during, and after combat. It should communicate that ordinary people, local institutions, emergency workers, businesses, musicians, callers, and civic voices continue trying to live while the war changes what can be said and what listeners need.
+
+The radio layer is not a lore dump, mission narrator, omniscient intelligence feed, or constant tragedy machine. Most material should remain locally useful or ordinary: music, traffic, weather, community notices, lost-and-found information, public-service messages, advertisements, call-ins, sports residue, local humor, and restrained news.
+
+TRUTH MODEL
+Every broadcast item belongs to one of five truth classes:
+1. verified local fact;
+2. credible but incomplete report;
+3. rumor identified as rumor;
+4. official claim with visible source attribution;
+5. emergency guidance whose practical value matters more than complete context.
+
+Presenters must not know more than their sources plausibly allow. The player may know that a claim is incomplete or false; the station does not automatically know that.
+
+CORE CONTENT CLASSES
+- music and presenter links;
+- local headlines and public information;
+- traffic, road, bridge, fuel, power, water, and weather notices;
+- missing-person, shelter, medical, blood-drive, and supply messages;
+- local advertisements and sponsor residue;
+- call-ins, dedications, requests, and community arguments;
+- occupation or resistance interference;
+- dead air, signal loss, transmitter moves, and improvised relays.
+
+WRITING RULES
+- Keep most links short enough to survive repeat listening.
+- Use local nouns, routes, institutions, neighborhoods, businesses, and habits.
+- Let pressure change cadence before it changes the station’s entire identity.
+- Avoid turning every presenter into a resistance propagandist.
+- Avoid constant exposition, heroic speeches, comedy-bark loops, and perfect chronology recaps.
+- Repetition is acceptable only for genuinely repeated public information; vary lead-ins and tails.
+- Music should remain diegetic world texture, not replace campaign identity tracks.
+
+STATE MODEL
+Stations can move through these states without becoming entirely new stations:
+A. normal civic residue;
+B. disruption and uncertainty;
+C. occupied, censored, or constrained operation;
+D. improvised emergency/community operation;
+E. contested or liberated return.
+
+A state change can alter transmitter quality, sign-on language, presenter availability, sponsor inventory, headline confidence, call screening, curfew language, and the amount of dead air. It should not erase the station’s accumulated personality.
+
+IMPLEMENTATION MODEL
+Each station packet should contain:
+- identity and coverage area;
+- format and music lane;
+- presenter roster and voice rules;
+- truth model and source access;
+- state ladder;
+- content pools by category;
+- mission/event triggers;
+- repetition rules and cooldowns;
+- continuity ledger entries;
+- licensing/replacement flags for commercial music.
+
+Use deterministic gates for major state changes and weighted pools for ordinary links. Never let a random line contradict a locked mission outcome. Major event packets should have pre-event, active-event, and aftermath variants.
+
+STATION 1 — THE RIDGE
+The Ridge is the pre-occupation or early-disruption Kentucky local station. It carries country/roots/rock texture, farm and road information, school and church notices, local sports residue, weather, sponsor reads, and familiar presenter habits. Its value is normalcy with enough specificity to make later disruption hurt.
+
+Voice: familiar, locally rooted, mildly opinionated, never cartoon-rural. Presenters know roads, counties, local institutions, and who usually calls. They do not possess resistance intelligence.
+
+Useful pools:
+- weather and road closures;
+- livestock, farm, and supply notices;
+- county sports and school cancellations;
+- community events and dedications;
+- small-business sponsor reads;
+- uncertain reports about checkpoints, fuel, and outages.
+
+STATION 2 — FIELDHOUSE
+FIELDHOUSE is the occupied-America emergency/community successor lane. It can emerge from a gym, fieldhouse, school, church, volunteer fire station, or similarly defensible civic site using patched equipment and local relays. It is not a polished resistance command station. Its authority comes from being useful and repeatedly correct about practical matters.
+
+Voice: compressed, tired, specific, service-oriented. It verifies before escalating. It distinguishes “we have confirmed,” “we have two reports,” and “we cannot verify.” It can carry warnings, medical needs, route information, family messages, supply coordination, and brief morale-preserving music.
+
+FIELDHOUSE must not announce tactical plans, expose cells, or turn into a heroic monologue channel. When resistance activity affects civilians, it reports consequences and instructions rather than operational detail.
+
+STATION 3 — HARBOR 97.3
+HARBOR 97.3 is the Boston civilian/community station lane for NO KINGS. It should feel unmistakably Boston without becoming a pile of accents and slogans. Its identity is civic memory, neighborhood knowledge, transit/harbor/weather utility, local music and sponsor residue, and a city arguing with itself while under occupation and during liberation.
+
+Voice: dry, fast when necessary, locally literate, resistant to melodrama. Different presenters can represent older broadcast professionalism, younger community-radio improvisation, and technical/harbor knowledge.
+
+Useful pools:
+- MBTA, tunnel, bridge, ferry, harbor, and neighborhood route information;
+- power, heat, water, shelter, clinic, and food-distribution notices;
+- missing-person and family-message segments;
+- local business remnants and sponsor reads;
+- sports and music residue;
+- occupation announcements with source attribution;
+- community corrections when official information proves false;
+- liberation-state return without triumphalist omniscience.
+
+NO KINGS BOUNDARY
+Transcript-era radio packet labels such as FIRST CONTACT do not control the current mission ladder. Mission 02 remains HINGE. Radio assets may be adapted to HINGE or another approved placement, but this packet does not restore an obsolete mission title.
+
+CROSS-STATION CONTRAST
+- The Ridge: ordinary local continuity before the system breaks.
+- FIELDHOUSE: practical survival and community verification under occupation.
+- HARBOR 97.3: dense civic memory, neighborhood-scale information, and contested public truth in Boston.
+
+CONTINUITY LEDGER
+Record each locked use with station, campaign, mission/event, state, presenter, truth class, trigger, cooldown, and downstream consequence. Do not rely on memory for whether a station has already reported a death, route closure, liberation, or institutional collapse.
+
+OPEN DEVELOPMENT
+The first non-Romeo-region pilot station remains future work. It should test whether the framework scales into another language, institutional culture, and theater without copying FIELDHOUSE or HARBOR.
