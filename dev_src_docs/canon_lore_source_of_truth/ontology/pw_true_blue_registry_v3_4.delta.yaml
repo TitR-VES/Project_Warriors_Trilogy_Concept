@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "delta_id": "PW-ONT-TRUE-BLUE-2026-07-23-REV1",
+    "generated": "2026-07-23",
+    "timeline_applies_to": "pw_world_event_timeline_rev2_8.yaml",
+    "timeline_produces": "pw_world_event_timeline_rev2_8.yaml",
+    "registry_applies_to": "named_weapon_builds_v3_3.txt",
+    "registry_produces": "named_weapon_builds_v3_4.txt",
+    "status": "locked_name_registry_delta",
+    "sources": [
+      "dev_src_docs/weapons_and_equipment/PW_TRUE_BLUE_Build_Spec_2026-07-23_rev1.txt",
+      "dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"
+    ]
+  },
+  "operations": [],
+  "registry_operations": [
+    {
+      "op": "add_build",
+      "section": "fully_or_substantially_specified_builds",
+      "value": {
+        "id": "PW-WPN-HILL-TRUE-BLUE",
+        "build_name": "TRUE BLUE",
+        "owner": "Corporal Lucas Hill",
+        "platform": "F90-family route-lead service carbine",
+        "caliber": "5.56x45mm NATO",
+        "campaign_refs": ["PW-TRK-DLC-HOME-DEFENSE"],
+        "status": "working_lock",
+        "configuration": {
+          "role": "patrol-lead / reconnaissance / littoral infantry carbine",
+          "platform_family": "F90-family",
+          "lower_level_configuration": "open pending dedicated equipment pass"
+        },
+        "historical_aliases": [
+          "DEAD RECKONING (rejected transcript-era candidate; collides with PW-WPN-SAKHALIN-DEAD-RECKONING)"
+        ],
+        "unresolved_fields": [
+          "exact F90 variant",
+          "exact optic",
+          "exact white light",
+          "sling model and mounting",
+          "laser/illuminator state",
+          "suppressor state",
+          "first-use mission"
+        ],
+        "sources": [
+          "dev_src_docs/weapons_and_equipment/PW_TRUE_BLUE_Build_Spec_2026-07-23_rev1.txt",
+          "dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"
+        ],
+        "notes": "Owner adjudication resolves the prior collision flag. Sakhalin retains DEAD RECKONING; Lucas Hill receives TRUE BLUE."
+      }
+    }
+  ],
+  "validation_targets": {
+    "timeline": {
+      "eras": 7,
+      "events": 121,
+      "campaign_tracks": 21,
+      "sync_points": 19,
+      "duplicate_ids": 0,
+      "dangling_references": 0,
+      "self_references": 0,
+      "events_without_sources": 0,
+      "acyclic": true
+    },
+    "registry": {
+      "named_identities": 43,
+      "substantially_specified": 34,
+      "recovery_status": 9,
+      "duplicate_ids": 0
+    }
+  }
+}
