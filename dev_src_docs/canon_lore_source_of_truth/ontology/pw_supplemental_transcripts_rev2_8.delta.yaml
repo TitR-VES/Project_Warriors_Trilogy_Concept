@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "delta_id": "PW-ONT-SUPPLEMENTAL-TRANSCRIPTS-2026-07-23-REV1",
+    "generated": "2026-07-23",
+    "timeline_applies_to": "pw_world_event_timeline_rev2_7.yaml",
+    "timeline_produces": "pw_world_event_timeline_rev2_8.yaml",
+    "registry_applies_to": "named_weapon_builds_v3_2.txt",
+    "registry_produces": "named_weapon_builds_v3_3.txt",
+    "status": "locked_and_working_delta",
+    "sources": [
+      "dev_src_docs/canon_lore_source_of_truth/PW_Supplemental_Transcript_Canon_Landing_2026-07-23_rev1.txt",
+      "source_audits_and_reports/PW_Supplemental_Transcript_Recovery_Audit_2026-07-23_rev1.txt"
+    ]
+  },
+  "operations": [
+    {
+      "op": "add_events",
+      "values": [
+        {
+          "id": "PW-EVT-HD-SOUNDING-LINE",
+          "name": "SOUNDING LINE",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"before": ["PW-EVT-HD-BREAKWATER"]},
+          "location": "Northern Australian coast",
+          "actors": ["Corporal Lucas Hill", "Daniel Min-jae Park", "Alana Brodie", "Hamish Reed"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "opening reconnaissance; lost relay and missing patrol",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-HD-BREAKWATER",
+          "name": "BREAKWATER",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"after": ["PW-EVT-HD-SOUNDING-LINE"], "before": ["PW-EVT-HD-ASH-REEF"]},
+          "location": "Northern Australian coastal relay/logistics site",
+          "actors": ["Corporal Lucas Hill", "Hill squad", "Major Imogen Shaw"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "triage and movement of load-bearing material before the site closes",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-HD-ASH-REEF",
+          "name": "ASH REEF",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"after": ["PW-EVT-HD-BREAKWATER"], "before": ["PW-EVT-HD-CHAIN-OF-CUSTODY"]},
+          "location": "Australian coastal/island approach",
+          "actors": ["Corporal Lucas Hill", "Hill squad"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "2 RAR small-boat relay-node raid",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-HD-CHAIN-OF-CUSTODY",
+          "name": "CHAIN OF CUSTODY",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"after": ["PW-EVT-HD-ASH-REEF"], "before": ["PW-EVT-HD-TWO-SQUADS"]},
+          "location": "Damaged Australian technical site",
+          "actors": ["Corporal Lucas Hill", "Daniel Min-jae Park", "Tara Halliday / ORACLE"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "recover/classify/deny systems-war material; title remains working due historical reuse",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-HD-TWO-SQUADS",
+          "name": "TWO SQUADS",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"after": ["PW-EVT-HD-CHAIN-OF-CUSTODY"], "before": ["PW-EVT-HD-LONG-WIRE"]},
+          "location": "Australian northern front",
+          "actors": ["Corporal Lucas Hill", "Cassandra Stewart / Switchblade", "two Australian squads"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "split but interdependent Hill/Switchblade objectives",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-HD-LONG-WIRE",
+          "name": "LONG WIRE",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"after": ["PW-EVT-HD-TWO-SQUADS"], "before": ["PW-EVT-HD-NULL-TRACK"]},
+          "location": "Inland Australian approach corridor",
+          "actors": ["Corporal Lucas Hill", "Major Imogen Shaw"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "pivot toward corridors feeding the Pine Gap battlespace",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-HD-NULL-TRACK",
+          "name": "NULL TRACK",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"after": ["PW-EVT-HD-LONG-WIRE"], "before": ["PW-EVT-HD-DEAD-CENTRE"]},
+          "location": "Outer Pine Gap approach corridor",
+          "actors": ["Corporal Lucas Hill", "Alana Brodie", "Hamish Reed"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "reconnaissance and sabotage on the outer approach",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-HD-DEAD-CENTRE",
+          "name": "DEAD CENTRE",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"after": ["PW-EVT-HD-NULL-TRACK"], "before": ["PW-EVT-HD-WHAT-STAYS-ONLINE"]},
+          "location": "Outer Pine Gap battlespace",
+          "actors": ["Corporal Lucas Hill", "Major Imogen Shaw", "Daniel Min-jae Park", "Cassandra Stewart / Switchblade"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "main outer convergence operation",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-HD-WHAT-STAYS-ONLINE",
+          "name": "WHAT STAYS ONLINE",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "within HOME DEFENSE; exact date and Game 3 synchronization TBD"},
+          "ordering": {"after": ["PW-EVT-HD-DEAD-CENTRE"]},
+          "location": "Pine Gap strategic battlespace",
+          "actors": ["Corporal Lucas Hill", "Tara Halliday / ORACLE", "Cassandra Stewart / Switchblade"],
+          "depicted_in": ["PW-TRK-DLC-HOME-DEFENSE"],
+          "status": "working",
+          "notes": "final sovereignty-and-systems decision; exact player architecture remains open",
+          "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-G2-DUCKY-DEAD-GROUND",
+          "name": "DEAD GROUND",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "after HARD WINTER and before DARK FIBER / PERMAFROST; exact date TBD"},
+          "ordering": {"before": ["PW-EVT-G2-DUCKY-DARK-FIBER", "PW-EVT-AEGIS-FALLS"]},
+          "location": "Bakhmut, Ukraine",
+          "actors": ["Ferris Ryan / Ducky", "Captain Oleksandr Honcharenko", "Senior Lieutenant Kateryna Melnyk", "Senior Sergeant Mykhailo Vorobei", "Chief Sergeant Taras Savchuk", "Staff Sergeant Olena Kysil", "Aki Peltola / Frost"],
+          "depicted_in": ["PW-TRK-G2-PERSISTENT-THREAT"],
+          "status": "confirmed",
+          "notes": "link-up and first pattern recognition; Frost precision transition",
+          "sources": ["dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-G2-DUCKY-DARK-FIBER",
+          "name": "DARK FIBER",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "after DEAD GROUND and before ASH RELAY / PERMAFROST; exact date TBD"},
+          "ordering": {"after": ["PW-EVT-G2-DUCKY-DEAD-GROUND"], "before": ["PW-EVT-G2-DUCKY-ASH-RELAY", "PW-EVT-AEGIS-FALLS"]},
+          "location": "Bakhmut, Ukraine",
+          "actors": ["Ferris Ryan / Ducky", "Captain Oleksandr Honcharenko", "Senior Lieutenant Kateryna Melnyk", "Senior Sergeant Mykhailo Vorobei", "Chief Sergeant Taras Savchuk", "Staff Sergeant Olena Kysil", "Ştefan Dragavei / Lupin"],
+          "depicted_in": ["PW-TRK-G2-PERSISTENT-THREAT"],
+          "status": "confirmed",
+          "notes": "outer-dependency exploitation; Lupin interdiction transition",
+          "sources": ["dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt"]
+        },
+        {
+          "id": "PW-EVT-G2-DUCKY-ASH-RELAY",
+          "name": "ASH RELAY",
+          "era": "PW-ERA-WWIII",
+          "date": {"relative": "after DARK FIBER and before PERMAFROST; exact date TBD"},
+          "ordering": {"after": ["PW-EVT-G2-DUCKY-DARK-FIBER"], "before": ["PW-EVT-AEGIS-FALLS"]},
+          "location": "Bakhmut, Ukraine",
+          "actors": ["Ferris Ryan / Ducky", "Captain Oleksandr Honcharenko", "Senior Lieutenant Kateryna Melnyk", "Senior Sergeant Mykhailo Vorobei", "Chief Sergeant Taras Savchuk", "Staff Sergeant Olena Kysil"],
+          "depicted_in": ["PW-TRK-G2-PERSISTENT-THREAT"],
+          "status": "confirmed",
+          "notes": "Ducky-led relay denial and recovery of the northern-target packet",
+          "sources": ["dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt"]
+        }
+      ]
+    },
+    {
+      "op": "update_event",
+      "match_id": "PW-EVT-G2-DUCKY-BAKHMUT-MINIARC",
+      "set": {
+        "date": {"relative": "after HARD WINTER and before PERMAFROST; exact dates TBD"},
+        "actors": ["Ferris Ryan / Ducky", "Captain Oleksandr Honcharenko", "Senior Lieutenant Kateryna Melnyk", "Senior Sergeant Mykhailo Vorobei", "Chief Sergeant Taras Savchuk", "Staff Sergeant Olena Kysil"],
+        "ordering": {"before": ["PW-EVT-AEGIS-FALLS"]},
+        "relations": {"contains_events": ["PW-EVT-G2-DUCKY-DEAD-GROUND", "PW-EVT-G2-DUCKY-DARK-FIBER", "PW-EVT-G2-DUCKY-ASH-RELAY"]},
+        "status": "confirmed",
+        "notes": "Locked three-mission arc. The recovered technical packet identifies the later northern/Svalbard strike lane for PERMAFROST.",
+        "sources": ["dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt"]
+      }
+    },
+    {
+      "op": "update_campaign_track",
+      "match_id": "PW-TRK-DLC-HOME-DEFENSE",
+      "set": {
+        "title": "HOME DEFENSE (working title)",
+        "protagonist": "Corporal Lucas Hill, 2 RAR (baseline working lead)",
+        "timeframe": {"opens": {"event": "PW-EVT-HD-SOUNDING-LINE"}, "closes": {"event": "PW-EVT-HD-WHAT-STAYS-ONLINE"}, "placement_status": "working; exact Game 3 synchronization TBD"},
+        "status": "working",
+        "sources": ["dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"],
+        "notes": "Australian-led Pine Gap campaign. AEGIS is a damaged intelligence/technical connective layer; Switchblade leads an adjacent recurring squad."
+      }
+    },
+    {
+      "op": "update_campaign_track",
+      "match_id": "PW-TRK-G2-PERSISTENT-THREAT",
+      "set": {
+        "sources": ["dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt", "dev_src_docs/story_campaigns/Game2/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt"],
+        "notes": "Bakhmut is locked after HARD WINTER and before PERMAFROST: DEAD GROUND / DARK FIBER / ASH RELAY. ASML and other recovered packages remain working in their prior source positions."
+      }
+    }
+  ],
+  "registry_operations": [
+    {
+      "op": "add_build",
+      "section": "fully_or_substantially_specified_builds",
+      "value": {
+        "id": "PW-WPN-PARK-NOISE-FLOOR",
+        "build_name": "NOISE FLOOR",
+        "owner": "Lance Corporal Daniel Min-jae Park",
+        "platform": "F90-family service carbine",
+        "caliber": "5.56x45mm NATO",
+        "campaign_refs": ["PW-TRK-DLC-HOME-DEFENSE"],
+        "status": "working_lock",
+        "configuration": {"optic": "compact combat optic; exact model open", "light": "white light; exact model open", "laser": "mission-specific IR/laser", "role": "systems/signal/UAS infantry carbine"},
+        "unresolved_fields": ["exact F90 variant", "exact optic", "exact light", "exact laser"],
+        "sources": ["dev_src_docs/weapons_and_equipment/PW_Transcript_Recovery_Named_Weapons_Packet_2026-07-23_rev1.txt", "dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+      }
+    },
+    {
+      "op": "add_build",
+      "section": "fully_or_substantially_specified_builds",
+      "value": {
+        "id": "PW-WPN-BRODIE-SECOND-HORIZON",
+        "build_name": "SECOND HORIZON",
+        "owner": "Private Alana Brodie",
+        "platform": "F90-family observation/designated-marksman configuration",
+        "caliber": "5.56x45mm NATO",
+        "campaign_refs": ["PW-TRK-DLC-HOME-DEFENSE"],
+        "status": "working_lock",
+        "configuration": {"optic": "magnified optic or LPVO; exact model open", "light": "compact white light", "suppressor": "mission-specific", "handling": "minimal-snag observation setup"},
+        "unresolved_fields": ["exact F90 variant", "exact optic", "exact light", "exact suppressor"],
+        "sources": ["dev_src_docs/weapons_and_equipment/PW_Transcript_Recovery_Named_Weapons_Packet_2026-07-23_rev1.txt", "dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+      }
+    },
+    {
+      "op": "add_build",
+      "section": "fully_or_substantially_specified_builds",
+      "value": {
+        "id": "PW-WPN-REED-HARD-STAND",
+        "build_name": "HARD STAND",
+        "owner": "Private Hamish Reed",
+        "platform": "F90-family rifle with underbarrel 40 mm grenade launcher",
+        "caliber": "5.56x45mm NATO",
+        "campaign_refs": ["PW-TRK-DLC-HOME-DEFENSE"],
+        "status": "working_lock",
+        "configuration": {"optic": "practical combat optic; exact model open", "light": "white light; exact model open", "launcher": "underbarrel 40 mm; exact variant open", "role": "grenadier/breaching/heavy practical load"},
+        "unresolved_fields": ["exact F90 variant", "exact launcher", "exact optic", "exact light", "first-use mission"],
+        "sources": ["dev_src_docs/weapons_and_equipment/PW_Transcript_Recovery_Named_Weapons_Packet_2026-07-23_rev1.txt", "dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt"]
+      }
+    }
+  ],
+  "validation_targets": {
+    "timeline": {"eras": 7, "events": 121, "campaign_tracks": 21, "sync_points": 19, "duplicate_ids": 0, "dangling_references": 0, "self_references": 0, "events_without_sources": 0, "acyclic": true},
+    "registry": {"named_identities": 42, "substantially_specified": 33, "recovery_status": 9, "duplicate_ids": 0}
+  }
+}
