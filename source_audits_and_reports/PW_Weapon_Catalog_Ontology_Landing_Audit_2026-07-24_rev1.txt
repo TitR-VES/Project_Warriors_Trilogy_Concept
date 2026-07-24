@@ -1,0 +1,205 @@
+PROJECT WARRIORS — WEAPON CATALOG ONTOLOGY LANDING AUDIT
+Generated: 2026-07-24
+Version: rev1
+Status: SOURCE-BACKED ADDITIVE PROJECTION / REVIEW REQUIRED
+
+================================================================================
+01. PURPOSE
+================================================================================
+
+Create a stable, machine-readable and human-friendly catalog for portable weapons
+and ammunition occurring in Project Warriors, including:
+
+- player-issued and signature weapons;
+- mission-only and scripted-perspective weapons;
+- allied NPC equipment;
+- standard, elite, support, and named-enemy weapons;
+- hidden caches and fixed world finds;
+- optional or conditional pickups;
+- temporary handoffs;
+- collectible-only equipment;
+- equipment that occurs in the game but is not player-accessible;
+- optional-objective / achievement reward lanes where source-landed.
+
+The catalog is additive to the named-weapon registry. It does not replace named
+build ownership, configuration, narrative placement, or source authority.
+
+================================================================================
+02. SOURCE BASIS
+================================================================================
+
+Primary inventory and gameplay sources:
+
+- dev_src_docs/gameplay_mechanics/PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt
+- Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-07-06_rev6.txt
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_transcript_batch_rev2_6.delta.yaml
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_full_transcript_recovery_rev2_7b.delta.yaml
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_supplemental_transcripts_rev2_8.delta.yaml
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_true_blue_registry_v3_4.delta.yaml
+- dev_src_docs/characters/character_profile_troy_barry.txt
+- dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+- dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev2.txt
+- dev_src_docs/weapons_and_equipment/PW_DEAD_RECKONING_Build_Spec_2026-07-21_rev1.txt
+
+The large gameplay/weapons compendium provides faction rosters, named and generic
+equipment, mission tables, rare finds, conditional spawns, NPC loadouts, and
+melee equipment. Later durable weapon and ontology pages control corrections and
+newer campaign mappings.
+
+================================================================================
+03. FILES LANDED
+================================================================================
+
+- schema/pw_weapon_catalog.schema.yaml
+- pw_weapon_catalog_rev1.yaml bundle manifest and source index
+- four segmented firearm-platform files
+- one support/launcher/throwable/melee platform file
+- two ammunition segments
+- four Game 1 occurrence segments
+- two later-main-game occurrence segments
+- two extended-installment occurrence segments
+- two named-build binding segments
+- schema/pw_weapon_build.schema.yaml rev8
+- ontology/README.md update
+
+================================================================================
+04. CURRENT COUNTS
+================================================================================
+
+Weapons/platforms: 111
+- firearms and firearm-like portable weapons: 88
+- launchers, throwables, melee weapons, and support tools: 23
+
+Ammunition identities: 35
+Occurrence/access records: 128
+- main-game or mapping-open records: 95
+- DLC/extended-installment records: 33
+
+Named-build bindings: 43
+- resolved platform bindings: 34
+- platform-recovery-required bindings: 9
+
+================================================================================
+05. DATA MODEL
+================================================================================
+
+A. Base weapon
+Stable PW-WEP-* identity for a portable weapon/platform family or an explicitly
+source-preserved generic family.
+
+B. Ammunition
+Stable PW-AMM-* identity for a cartridge, shell, dart, grenade, rocket, missile,
+or thrown munition. Ammunition economy is recorded separately from the weapon.
+
+C. Occurrence
+Stable PW-WOC-* identity recording:
+- installment and campaign placement;
+- mission labels where known;
+- presence mode;
+- player access;
+- acquisition method;
+- retention;
+- drop policy;
+- faction/carrier labels;
+- ammunition overrides;
+- unresolved fields.
+
+D. Named-build binding
+Crosswalk from PW-WPN-* named identities to PW-WEP-* base platforms.
+Named build configuration and identity remain controlled by the named-build
+registry.
+
+================================================================================
+06. IMPORTANT AVAILABILITY DISTINCTIONS
+================================================================================
+
+The projection does not treat occurrence as access.
+
+Examples preserved:
+
+- SR-3M in Hull Breach is conditional on raising the alarm.
+- SR-1 Vektor in Low Ground is available only through the failed-observation branch.
+- CMMG Mk47 and Five-seveN in Down Rodeo are missable if the elite target escapes.
+- APS and SPP-1M in Wirecutter are collectible/limited specialist finds.
+- Tikka T3x TAC A1 in Cold Plunge is scripted and explicitly not recoverable.
+- War Within SUCKER PUNCH is a temporary handoff, not persistent ownership.
+- Blommaert's DUE DILIGENCE occurs as named NPC equipment but player acquisition
+  remains open.
+- RPG-7 in the Rotterdam finale occurs as enemy equipment but does not become a
+  player pickup in the locked sequence.
+- allied NPC weapons remain present even where the player cannot directly access them.
+- Troy Barry's reward lane exists, but the exact item/objective table remains open.
+
+================================================================================
+07. AMMUNITION / ECONOMY NOTES
+================================================================================
+
+The catalog preserves the source-landed economy:
+
+- 5.56x45mm NATO is the broad baseline.
+- 7.62x39mm is a rich cross-faction scavenge pool.
+- 9x39mm forms a self-contained specialist pool.
+- .300 BLK is deliberately premium and scarce.
+- 12GA DB is a locked specialty-ammunition concept with open timing and
+  fire-propagation implementation dependencies.
+
+No complete projectile-stat table, damage table, or real-world instruction set is
+introduced.
+
+================================================================================
+08. OPEN FLAGS
+================================================================================
+
+1. Campaigns with incomplete weapon-development passes may add weapons and
+   occurrences through additive deltas.
+2. Who Dares Wins has no newly invented arsenal; its weapon pass remains open.
+3. Exact Troy Barry achievement/optional-objective reward mapping remains open.
+4. Dragon's Breath availability timing and compatible level list remain open.
+5. Enemy-type carry, drop, ammo, and encounter mappings are reserved for the next pass.
+6. Nine named weapon identities retain platform-recovery-required bindings.
+7. Some roster-level/prototype weapons retain caliber and placement flags.
+8. Equipment listed only as an attachment remains outside the base weapon catalog
+   unless it functions as a separately usable weapon.
+9. Vehicle-mounted, aircraft, artillery, and off-map fire-support weapons are outside
+   this portable-arsenal pass.
+
+================================================================================
+09. VALIDATION
+================================================================================
+
+PASS:
+- all YAML files parse;
+- weapon IDs unique;
+- ammunition IDs unique;
+- occurrence IDs unique;
+- named-build bindings unique;
+- all weapon references resolve;
+- all ammunition references resolve;
+- all occurrence references resolve;
+- all installment and campaign references resolve against narrative structure;
+- campaign/installment pairing is consistent;
+- every cataloged weapon has at least one occurrence;
+- every ammunition compatibility reference is reciprocal;
+- 34 resolved named-build bindings point to cataloged weapons;
+- 9 recovery bindings keep weapon_ref null;
+- no persistent ownership is inferred from NPC/enemy occurrence alone.
+
+================================================================================
+10. NEXT-PASS CONTRACT
+================================================================================
+
+The enemy-type ontology should add stable enemy identities and map:
+
+enemy type -> games/installments -> campaigns/missions -> carried weapon refs
+-> ammunition refs -> drop policy -> player pickup state.
+
+The existing occurrence schema already reserves enemy_type_refs for this join.
+The next pass should enrich records additively and should not rename or duplicate
+PW-WEP-* or PW-AMM-* identities.
+
+END
