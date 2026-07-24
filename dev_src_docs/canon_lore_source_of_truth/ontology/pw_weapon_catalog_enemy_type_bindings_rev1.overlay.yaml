@@ -1,0 +1,57 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-ENEMY-BINDINGS-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: compatibility_overlay
+  applies_to: pw_weapon_catalog_rev1.yaml
+  requires: pw_enemy_weapon_mapping_rev1.yaml
+  status: additive
+operations:
+- {op: add_enemy_type_refs, match_id: PW-WOC-BISUTRI-SCALPEL, add: [PW-ENM-BISUTRI]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-ATLAS-AXSR, add: [PW-ENM-ATLAS-PMC-ELITE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-CORONADO-KH2002, add: [PW-ENM-IRGC-INFANTRY]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-CORONADO-ORSIS, add: [PW-ENM-RUS-VDV-ELITE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-CORONADO-PKP, add: [PW-ENM-RUS-NAVAL-INFANTRY-HEAVY]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-DOWN-RODEO-AKM, add: [PW-ENM-LOS-SIETES-SICARIO]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-DOWN-RODEO-FIVESEVEN, add: [PW-ENM-LOS-SIETES-K-LOUNGE-LIEUTENANT]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-DOWN-RODEO-KPA-BULLPUP, add: [PW-ENM-KPA-ELITE-SOF]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-DOWN-RODEO-MK47, add: [PW-ENM-LOS-SIETES-K-LOUNGE-LIEUTENANT]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-DOWN-RODEO-SMOKE, add: [PW-ENM-LOS-SIETES-K-LOUNGE-LIEUTENANT]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-DOWN-RODEO-TYPE58, add: [PW-ENM-KPA-LINE-INFANTRY]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-DOWN-RODEO-TYPE98, add: [PW-ENM-KPA-ELITE-SOF]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-G2-LOS-SIETES-MP5, add: [PW-ENM-LOS-SIETES-ELITE-SICARIO]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-G2-LOS-SIETES-WASR, add: [PW-ENM-LOS-SIETES-SICARIO]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-HULL-BREACH-SR3M, add: [PW-ENM-FSB-SPETSNAZ-ALARM-RESPONSE, PW-ENM-FSB-VYMPEL-SHIPBOARD]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-INFRASTRUCTURE-DUE-DILIGENCE, add: [PW-ENM-BLOMMAERT]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-KPA-BULSAE3, add: [PW-ENM-KPA-ANTI-ARMOR]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-KPA-F7, add: [PW-ENM-KPA-ANTI-ARMOR]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-KPA-TYPE73, add: [PW-ENM-KPA-SUPPORT-GUNNER]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-KPA-TYPE88, add: [PW-ENM-KPA-LINE-INFANTRY]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-LOS-SIETES-SCARL, add: [PW-ENM-LOS-SIETES-ELITE-SICARIO]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-PANDORA-DESERT-EAGLE, add: [PW-ENM-LOS-SIETES-MEZZANINE-AMBUSH-LEADER]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-PANDORA-VECTOR, add: [PW-ENM-LOS-SIETES-ELITE-SICARIO]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-ROTTERDAM-GROZA, add: [PW-ENM-RUS-SPETSNAZ-DEMOLITIONS]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-ROTTERDAM-RPG7, add: [PW-ENM-RUS-RPG-OPERATOR]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-ROTTERDAM-SR3M, add: [PW-ENM-KAPITAN]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-RUSSIAN-AK12, add: [PW-ENM-RUS-VDV-ELITE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-RUSSIAN-AK15, add: [PW-ENM-RUS-VDV-ELITE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-RUSSIAN-AK74M, add: [PW-ENM-RUS-LINE-INFANTRY]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-RUSSIAN-PKM, add: [PW-ENM-RUS-MACHINE-GUNNER]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-VYMPEL-9A91, add: [PW-ENM-FSB-VYMPEL-SHIPBOARD]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-VYMPEL-ASVAL, add: [PW-ENM-FSB-VYMPEL-SHIPBOARD]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WARWOLF-FLASH, add: [PW-ENM-WAR-WOLF-CRIMSON-THREE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WARWOLF-GLOCK19, add: [PW-ENM-WAR-WOLF-CRIMSON-THREE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WARWOLF-GLOCK34, add: [PW-ENM-WAR-WOLF-CRIMSON-TWO]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WARWOLF-M200-CACHE, add: [PW-ENM-ATLAS-PMC-ELITE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WARWOLF-M200-MANSELL, add: [PW-ENM-WAR-WOLF-CRIMSON-TWO]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WARWOLF-M67, add: [PW-ENM-WAR-WOLF-CRIMSON-THREE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WARWOLF-MCXI, add: [PW-ENM-WAR-WOLF-CRIMSON-ONE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WARWOLF-MK18, add: [PW-ENM-WAR-WOLF-CRIMSON-THREE]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WIRECUTTER-APS, add: [PW-ENM-FSB-VYMPEL-COMBAT-DIVER]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WIRECUTTER-GROZA, add: [PW-ENM-FSB-VYMPEL-DIVE-COMMANDER]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WIRECUTTER-PSS2, add: [PW-ENM-FSB-FIELD-OFFICER, PW-ENM-FSB-VYMPEL-DIVE-COMMANDER, PW-ENM-FSB-VYMPEL-SHIPBOARD]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G1-WIRECUTTER-SPP1M, add: [PW-ENM-FSB-VYMPEL-COMBAT-DIVER]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G2-BISUTRI-FIVESEVEN, add: [PW-ENM-BISUTRI]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G2-BISUTRI-HK416, add: [PW-ENM-BISUTRI]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G2-DEAD-AIR-SVD, add: [PW-ENM-RUS-OCCUPATION-MARKSMAN]}
+- {op: add_enemy_type_refs, match_id: PW-WOC-G2-LOW-GROUND-SR1, add: [PW-ENM-FSB-CLOSE-PROTECTION]}
