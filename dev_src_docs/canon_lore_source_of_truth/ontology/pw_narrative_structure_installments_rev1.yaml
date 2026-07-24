@@ -16,6 +16,7 @@ installments:
   installment_type: main_game
   series_order: 2
   campaign_refs: [PW-CMP-G2-AMERICAN-FREEDOM, PW-CMP-G2-PERSISTENT-THREAT, PW-CMP-G2-GODKILLER]
+  unresolved_fields: [Godkiller repository-verifiable timeline track stable ID]
   status: locked
   sources: [Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt, dev_src_docs/canon_lore_source_of_truth/PW_Legacy_Thread_Canon_Landing_2026-07-24_rev1.txt]
 - id: PW-INS-GAME-3
