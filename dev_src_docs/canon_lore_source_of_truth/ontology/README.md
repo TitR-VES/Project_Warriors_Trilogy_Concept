@@ -64,11 +64,11 @@ transformation layers:
     - AMERICAN GUERRILLA is the campaign title
 11. `pw_narrative_structure_timeline_rev2_10.delta.yaml`
     - rev2.9 -> rev2.10; no chronology or registry change
-    - links 19 repo-supported campaign tracks to stable `PW-CMP-*` identities
+    - links 18 repository-verifiable campaign tracks to stable `PW-CMP-*` identities
     - enriches selected synchronization points with campaign references and
       controlled touchpoint types
-    - defers Sea Spear and Semper Fi track bindings rather than guessing
-      identifiers that are visible only in the missing external base
+    - defers Godkiller, Sea Spear, and Semper Fi track bindings rather than guessing
+      identifiers that are not present in the repository-landed auditable chain
 
 The full materialized `pw_world_event_timeline_rev2_10.yaml` and projected
 `named_weapon_builds_v3_4.txt` remain handoff artifacts until a full-projection
@@ -81,8 +81,8 @@ import is explicitly approved.
 - 1 series root
 - 13 installments
 - 21 campaigns
-- 19 resolved timeline-track bindings
-- 2 explicit recovery-required bindings
+- 18 resolved timeline-track bindings
+- 3 explicit recovery-required bindings
 - 7 controlled cross-story touchpoint types
 
 `schema/pw_narrative_structure.schema.yaml` controls identity, containment,
@@ -95,15 +95,16 @@ Bundle parts:
 - `pw_narrative_structure_campaigns_extended_rev1.yaml`
 - `pw_narrative_structure_bindings_rev1.yaml`
 
-The two deferred bindings are:
+The three deferred bindings are:
 
+- Godkiller
 - Project Warriors: Sea Spear
 - Project Warriors: Semper Fi
 
 Their campaigns and installments are present, but their timeline-track fields remain
-null until the authoritative stable IDs are recovered from the external rev1
-materialization. Do not invent replacement IDs or add tracks that may duplicate the
-external base.
+null until authoritative stable IDs are recovered or explicitly source-locked.
+Do not infer replacement IDs from naming convention or add tracks that may duplicate
+the external base.
 
 ## Current validated projection
 
@@ -125,8 +126,8 @@ Its independent narrative-structure validation target is:
 - 1 series
 - 13 installments
 - 21 campaigns
-- 19 resolved track bindings
-- 2 deferred track bindings
+- 18 resolved track bindings
+- 3 deferred track bindings
 - zero duplicate new IDs
 
 Named-weapon layer:
