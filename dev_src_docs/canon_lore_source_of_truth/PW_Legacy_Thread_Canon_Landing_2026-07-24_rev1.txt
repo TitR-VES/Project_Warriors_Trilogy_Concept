@@ -1,0 +1,60 @@
+PROJECT WARRIORS — LEGACY THREAD CANON LANDING
+Generated: 2026-07-24
+Version: rev1
+Status: WORKING AUTHORITATIVE RECOVERY / SUPERSESSION CONTROL
+Recovered from: nine early-development summaries/transcripts supplied 2026-07-24
+
+PURPOSE
+Reconcile early weapons, gameplay, timeline, character, audio, promotional, and scene-development records against the current rev6 working set and later owner locks. Preserve load-bearing design intent without reactivating stale dates, ranks, campaign labels, names, or unapproved proposals.
+
+AUTHORITY ORDER
+1. later explicit owner adjudication;
+2. later source-landed canon and correction pages;
+3. accepted, source-ready decisions in the recovered records;
+4. provisional proposals, unresolved flags, and exploratory discussion.
+
+RECOVERY RESULT
+- The rev6 compendia already retain the full or near-full bodies of eight supplied legacy summaries: weapons, gameplay mechanics, sidebar, character backstories, timeline, audio/music, teaser treatments, and the seven aircraft/vehicle scenes.
+- The advanced gameplay-mechanics transcript was not part of the rev6 source inventory. It is preserved as recovery evidence, but only its confirmed state is promoted.
+- The main loss was not wholesale factual deletion. It was source-layer compression: several load-bearing systems remained trapped inside giant compendium bodies or staging copies rather than durable topic source pages.
+
+PROMOTED
+- faction weapon-language and ammunition-economy rules;
+- weapon-inspect, field-removal, signature-overlay, and gunsmith identity boundaries;
+- the shared hidden procurement system with three campaign shells;
+- explicit separation between confirmed procurement canon and unresolved advanced-mechanics proposals;
+- Game 2 teaser/audio editorial architecture, including micro-beat protections and licensing status;
+- multi-service US radio-chatter framework as an open writing brief, not a completed library;
+- Lupin/Switchblade, Andre Bridges, and Spook/La Avispa continuity anchors that were easy to lose inside older summaries.
+
+SUPERSESSION CONTROLS
+- PANDORA = Thursday, September 7, 2028. U.S. election = Tuesday, November 7, 2028. Older September 3 / November 3 / November 6 variants are stale.
+- Romeo = SSG Ramon Alvarez. Purge LT/Lieutenant as his actual grade; civilian misidentification remains background texture only.
+- Spook carries no military rank. Canonical surname is Gartner.
+- Dale PRUETT spelling controls.
+- Ducky Game 2 campaign = Persistent Threat. AEGIS Falls survives only as the final mission title.
+- Project Warriors: Wasp is the La Avispa DLC title.
+- TRU/SIGHT replaces PYTHIA. SBS operator Mags replaces operator Wren; weapon build WREN remains.
+- Cold Frontier uses the merged continuity: plunge, underwater fight, final knife dispatch concluding at the shore/waterline.
+- Current named-weapon source pages control exact build specifications; legacy v2.1 build data is historical unless reaffirmed later.
+
+OPEN / NOT PROMOTED AS CANON
+The advanced mechanics transcript contains useful proposals that the owner did not explicitly approve in that exchange. Preserve them as development questions only:
+- procurement as supplementary versus separate from mission-issued loadouts;
+- currency versus barter/favors/performance as acquisition logic;
+- device/inventory support model versus scripted zones;
+- exact per-character CAS call procedures;
+- artillery delay/standoff implementation;
+- laser-versus-grid designation split;
+- Romeo support progression as story-gated rather than resource-gated.
+
+NO ONTOLOGY DELTA
+This recovery adds no new exact date, settled mission-ladder position, stable character identity, or weapon-build identity requiring an ontology patch.
+
+CONTROLLING SOURCES
+- `dev_src_docs/gameplay_mechanics/PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt`
+- `dev_src_docs/music_and_sound_design/PW_Audio_Promotional_Recovery_Standard_2026-07-24_rev1.txt`
+- `dev_src_docs/characters/PW_Character_Continuity_Recovery_Anchors_2026-07-24_rev1.txt`
+- `Recovered_Sources/PW_Advanced_Gameplay_Mechanics_Thread_Transcript_2026-07-24.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Legacy_Thread_Recovery_Addendum_2026-07-24_rev1.txt`
+- `source_audits_and_reports/PW_Legacy_Thread_Reconciliation_Audit_2026-07-24_rev1.txt`
