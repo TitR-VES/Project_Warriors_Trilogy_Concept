@@ -1,6 +1,6 @@
 PROJECT WARRIORS — AUDIO / PROMOTIONAL RECOVERY STANDARD
 Generated: 2026-07-24
-Version: rev1
+Version: rev2
 Status: DURABLE EDITORIAL AND SOUND-DESIGN SOURCE
 
 PURPOSE
@@ -49,6 +49,10 @@ Godkiller
 - Investigative evidence and official-story contradiction lead the edit.
 - East McFarlane Island remains a key evidentiary image/locale in the treatment.
 - The close permits exactly the authored two-line dialogue exchange; restraint is the point.
+
+Full treatment companion source:
+- `dev_src_docs/music_and_sound_design/PW_Game2_Campaign_Teaser_Full_Treatments_2026-07-24_rev1.txt`
+The companion page controls shot-level architecture; this compact standard controls shared format and editorial rules.
 
 4. CHARACTER PROMO FORMAT
 Default seven-part structure:
