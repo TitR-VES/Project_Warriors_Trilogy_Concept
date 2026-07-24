@@ -1,0 +1,56 @@
+meta:
+  document_id: PW-ONT-ENEMY-NAMED-NPC-BINDINGS-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: additive_compatibility_overlay
+  target: pw_enemy_weapon_mapping_rev1.yaml
+  governance: Adds named_npc_ref bindings only; changes no enemy tactical, loadout, encounter, weapon, ammunition, drop, or
+    pickup state.
+enemy_named_npc_bindings:
+- enemy_type_ref: PW-ENM-BISUTRI
+  named_npc_ref: PW-NPC-EDGAR-BISUTRI-LOZADA-ARIAS
+  binding_status: resolved
+  sources:
+  - CHARCOMP
+  - ENEMYMAP
+- enemy_type_ref: PW-ENM-BLOMMAERT
+  named_npc_ref: PW-NPC-LEANDRO-BLOMMAERT
+  binding_status: resolved
+  sources:
+  - BLOM
+  - ENEMYMAP
+  - REG
+- enemy_type_ref: PW-ENM-GLUSHKIN
+  named_npc_ref: PW-NPC-VYACHESLAV-GLUSHKIN
+  binding_status: resolved
+  sources:
+  - AF
+  - ENEMYMAP
+  - SLEEPER
+- enemy_type_ref: PW-ENM-KAPITAN
+  named_npc_ref: PW-NPC-KAPITAN
+  binding_status: resolved
+  sources:
+  - CHARCOMP
+  - ENEMYMAP
+- enemy_type_ref: PW-ENM-WAR-WOLF-CRIMSON-ONE
+  named_npc_ref: PW-NPC-RICHARD-DIGGER-GRAVES
+  binding_status: resolved
+  sources:
+  - ENEMYMAP
+  - REG9
+  - WARWOLF
+- enemy_type_ref: PW-ENM-WAR-WOLF-CRIMSON-THREE
+  named_npc_ref: PW-NPC-DERMOT-LUCKY-UNDERWOOD
+  binding_status: resolved
+  sources:
+  - ENEMYMAP
+  - REG9
+  - WARWOLF
+- enemy_type_ref: PW-ENM-WAR-WOLF-CRIMSON-TWO
+  named_npc_ref: PW-NPC-LAWRENCE-RIP-MANSELL
+  binding_status: resolved
+  sources:
+  - ENEMYMAP
+  - REG9
+  - WARWOLF
