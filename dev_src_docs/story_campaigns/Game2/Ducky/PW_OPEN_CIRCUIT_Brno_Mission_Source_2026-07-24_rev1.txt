@@ -1,0 +1,163 @@
+PROJECT WARRIORS — PERSISTENT THREAT / OPEN CIRCUIT — BRNO MISSION SOURCE
+Generated: 2026-07-24
+Version: rev1
+Status: LOCKED WORKING MISSION / PRODUCTION POLISH FLAGS REMAIN
+Recovered from: Brno / OPEN CIRCUIT Mission Development thread
+
+CAMPAIGN
+Ducky Game 2 — PERSISTENT THREAT.
+
+MISSION IDENTITY
+OPEN CIRCUIT is an urban infrastructure interdiction, technical recovery, and emergency exfil mission set in the back-of-house Brno Exhibition Centre / Výstaviště district.
+It is not a downtown sightseeing battle, Prague-lite city-center mission, or generic airport raid.
+
+NARRATIVE FUNCTION
+The mission proves that the hostile European technical layer is embedded inside ordinary civilian systems: trade-fair logistics, contractor access, cargo handling, temporary installs, protected commercial movement, power, cooling, and service routes.
+Core thesis:
+The enemy is not just moving through Europe. They are hiding inside how Europe already works.
+
+PLACEMENT
+Mid-campaign in PERSISTENT THREAT, after the player understands the continental systems-war layer and before the campaign fully hardens into deeper winter attrition.
+Exact mission number and the final relation to DEAD FREQUENCY / HARD WINTER remain open for campaign-ladder integration.
+Do not displace the locked Bakhmut mini-arc:
+DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND / DARK FIBER / ASH RELAY -> PERMAFROST.
+
+FRIENDLY STRUCTURE
+AEGIS is the playable and emotional spine, led by Ducky.
+SHIELD is the attached recovery/exploitation element.
+SHIELD’s role is mission-critical and specific:
+- image the technical floor;
+- classify and seize the routing core;
+- capture media and labels;
+- flag what cannot be left;
+- move the package under pressure.
+SHIELD is not extra rifle mass and does not steal mission authorship from AEGIS.
+
+LOCATION PACKAGE
+Primary:
+- Brno Exhibition Centre / Výstaviště older and mixed-era service side;
+- loading bays, freight doors, maintenance corridors, plant rooms, congress/service crossover spaces, internal roads, utility fencing, and the Velodrom-facing east/south-east edge.
+
+Secondary texture:
+- south-of-centre rail/service connective tissue and older mixed urban-industrial fabric.
+
+Reserve/future use:
+- Maloměřice freight yard as intel prelude, support objective, or linked mission;
+- Brno Airport as implied onward cargo destination, alternate exfil threat, or later callback;
+- airport and MotoGP circuit are not the primary identity of OPEN CIRCUIT.
+
+MISSION FLOW
+1. COLD APPROACH
+Enter during partial civic normality. Closed tram stops, parked contractor vehicles, intermittent work lights, and a dormant-looking district.
+Confirm cameras, power, movement, and candidate halls without broad compromise.
+
+2. FALSE SITE / REAL PATTERN
+The obvious floor contains staged technical clutter.
+Ducky identifies that the service route is protected more heavily than the visible hardware.
+The mission pivots from the decoy to the east-side service artery.
+
+3. SERVICE-SIDE INGRESS
+Move through loading access, utility alleys, freight doors, plant rooms, cable routes, and temporary walling.
+Combat begins as short, selective contact against deniable contractor-cover security.
+
+4. LIVE RELAY FLOOR
+Breach a repurposed hall/conference interface containing portable racks, cooling, hardened power management, fiber, cased components, workstations, and wipe preparation.
+AEGIS secures the perimeter.
+SHIELD enters, exploits, and removes the routing core.
+Reveal: Brno is one node in a larger continental chain.
+
+5. HARD LOCKDOWN / SPLIT
+Shutters drop, section lights fail, vehicle barriers rise, and deniable security becomes overt military reaction.
+SHIELD takes a parallel lower route with the package.
+AEGIS is forced onto a mirrored eastward route.
+The building, not melodrama, causes the split.
+
+6. VELODROM-SIDE CHOKE / KERAUNOS
+Both elements are pinned on parallel lines at the east/south-east service-road choke.
+Enemy trucks, barriers, and elevated firing positions seal the only viable corridor.
+The player confirms friendly geometry and designates the roadblock.
+
+7. STRIKE / RECOMBINATION / EXFIL
+KERAUNOS breaks the roadblock and strips overwatch.
+AEGIS moves immediately through the breach.
+SHIELD emerges with the package and any wounded.
+Both elements recombine and escape through the short corridor before the second ring closes.
+
+KERAUNOS LOCK
+KERAUNOS is French Rafale precision air support.
+It is a surgical urban pressure-break, not an air-show hero moment, broad bombardment, or miraculous rescue.
+
+Exact insertion:
+KERAUNOS fires on the Velodrom-facing eastern/south-eastern service choke after the relay seizure and site lockdown. Enemy forces use vehicle barriers, hard cover, and elevated positions to pin AEGIS and the attached SHIELD exploitation element on parallel routes. The strike breaks the corridor, strips overwatch, and enables emergency recombination and exfil.
+
+Ground rule:
+hear the aircraft before reading them clearly; permit one or two brutally fast readable Rafale glimpses; focus on impact geometry and immediate ground movement.
+The strike destroys the lead vehicle/barrier mass and upper firing line without annihilating the district.
+Ducky’s post-strike rule:
+Move. Move. Do not admire it.
+
+MISSION VOICE / PERFORMANCE
+Ducky is quiet, exact, and less verbal under pressure.
+He identifies what is over-protected, treats lockdown as a problem rather than a surprise, and uses KERAUNOS as a necessary tool rather than spectacle.
+Halliday manages a deteriorating equation with calm, sharper diction during danger-close confirmation.
+SHIELD remains procedural and package-focused even while pinned.
+
+Protected dialogue directions:
+- “They’re guarding movement, not hardware.”
+- “Dress set. Not the stage.”
+- “May is not has.”
+- “Move. Move. Do not admire it.”
+- “Package.” / “Still with us.” / “Good. Then run.”
+- “Then it was a door, not the room.” / “Queue the next door.”
+
+SHIELD VISIBILITY
+Directly visible:
+- entry and exploitation on relay floor;
+- recombination after strike;
+- joint exfil.
+
+Heard primarily on net:
+- forced split through KERAUNOS designation.
+
+Optional glimpses:
+- silhouettes through adjacent glazing;
+- distant muzzle flashes/tracer cue from lower lane;
+- brief sight of package movement.
+
+PRODUCTION TONE
+Visual progression:
+public-facing normality -> service-side ambiguity -> technical revelation -> hard lockdown -> compressed urban pin -> precise violent release -> narrow exfil.
+
+Use:
+- damp night;
+- sodium-vapor amber, hard white industrial floods, selective red warnings;
+- older mixed-era expo/service architecture;
+- conference leftovers, stacked furniture, contractor signage, portable cooling, taped cable runs, temporary readers, and civilian infrastructure under covert use.
+
+Avoid:
+- tourist Brno;
+- glossy server rooms;
+- underground superfacility;
+- cyberpunk or futuristic command-center language;
+- huge fantasy fireballs;
+- generic Middle Eastern warzone styling;
+- a major post-strike second battle.
+
+GAMEPLAY / FAILURE
+Hard failure:
+Ducky killed, full team wipe, routing core destroyed, or protected strike geometry violated.
+
+Soft-fail opportunities:
+- partial data loss from slow exploitation;
+- SHIELD technical casualty reducing later yield;
+- missed decoy-floor intel;
+- early compromise increasing lockdown density.
+
+OPEN FLAGS
+- exact mission number and final campaign slot;
+- final enemy organization/unit naming;
+- encounter-density tuning;
+- complete line-by-line screenplay implementation;
+- final map abstraction versus real-site fidelity;
+- exact air-tasking and ordnance production detail;
+- whether Maloměřice or airport material becomes a linked mission.
