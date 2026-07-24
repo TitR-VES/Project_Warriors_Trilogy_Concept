@@ -1,0 +1,29 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-NAMED-BUILD-BINDINGS-2-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_weapon_catalog_rev1.yaml
+  segment: 2 of 2
+named_build_bindings:
+- {named_build_ref: PW-WPN-CHRIS-SAVING-GRACE, weapon_ref: PW-WEP-M1911A1, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-CHRIS-HASTA-LA-VISTA, weapon_ref: PW-WEP-REM870-TAC14, binding_status: resolved, sources: [REGBASE, HASTA]}
+- {named_build_ref: PW-WPN-MANSELL-EXTREME-PREJUDICE, weapon_ref: PW-WEP-CHEYTAC-M200, binding_status: resolved, sources: [REG9, EXTREME]}
+- {named_build_ref: PW-WPN-BLOMMAERT-DUE-DILIGENCE, weapon_ref: PW-WEP-SIG-MCX-SPEAR-LT-VIRTUS, binding_status: resolved_caliber_open, sources: [DUE]}
+- {named_build_ref: PW-WPN-WAR-WITHIN-SUCKER-PUNCH, weapon_ref: PW-WEP-NOVESKE-N4-COMPACT-556, binding_status: resolved, sources: [WARWITHIN2]}
+- {named_build_ref: PW-WPN-AFANASYEV-EASTERN-PROMISE, weapon_ref: PW-WEP-AKM, binding_status: resolved, sources: [BATCH6]}
+- {named_build_ref: PW-WPN-LISKO-MOR-HO, weapon_ref: PW-WEP-VZ58-EXPERT, binding_status: resolved, sources: [FULL7B]}
+- {named_build_ref: PW-WPN-JAEGER-LAST-KNOWN-GOOD, weapon_ref: PW-WEP-HK416-A7-G95A1, binding_status: resolved, sources: [FULL7B]}
+- {named_build_ref: PW-WPN-PARK-NOISE-FLOOR, weapon_ref: PW-WEP-F90-FAMILY, binding_status: resolved, sources: [SUPP8]}
+- {named_build_ref: PW-WPN-BRODIE-SECOND-HORIZON, weapon_ref: PW-WEP-F90-FAMILY, binding_status: resolved, sources: [SUPP8]}
+- {named_build_ref: PW-WPN-REED-HARD-STAND, weapon_ref: PW-WEP-F90-FAMILY, binding_status: resolved, sources: [SUPP8]}
+- {named_build_ref: PW-WPN-HILL-TRUE-BLUE, weapon_ref: PW-WEP-F90-FAMILY, binding_status: resolved, sources: [TRUEBLUE]}
+- {named_build_ref: PW-WPN-PACER-HIGHER-STANDARD, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
+- {named_build_ref: PW-WPN-RIVER-EVEN-FLOW, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
+- {named_build_ref: PW-WPN-STATIC-HARDWARE-INTERRUPT, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
+- {named_build_ref: PW-WPN-SUNNY-SILVER-LINING, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
+- {named_build_ref: PW-WPN-HAZZARD-DANGER-CLOSE, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
+- {named_build_ref: PW-WPN-HAZZARD-CRISIS-MANAGEMENT, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
+- {named_build_ref: PW-WPN-LEDGER-KILLING-JOKE, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
+- {named_build_ref: PW-WPN-LEDGER-PUNCHLINE, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
+- {named_build_ref: PW-WPN-HOWLER-LONG-CALL, weapon_ref: null, binding_status: platform_recovery_required, sources: [REGBASE], recovery_note: 'Named identity is preserved, but no base platform may be asserted until the controlling platform source is recovered or newly adjudicated.'}
