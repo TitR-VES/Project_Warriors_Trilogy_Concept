@@ -1,0 +1,113 @@
+================================================================================
+PROJECT WARRIORS — GLOBAL NAMED WEAPON REGISTRY
+Version 2.9 — War Wolves / Oscar Four Delta Identity Reconciliation (2026-07-24)
+================================================================================
+Status: AUTHORITATIVE GLOBAL INDEX CORRECTION LAYER
+Supersedes: named_weapon_builds_v2_8.txt for all conflicts
+Inherits: all v2.8 entries and governance not explicitly amended below
+Retains: named_weapon_builds_v2_2.txt as the detailed legacy/core-build
+         specification for GRAY GHOST through ARGINT
+
+PURPOSE
+Correct the final owner/designation mapping for EXTREME PREJUDICE after the July 22
+War Wolves / Oscar Four Delta canon adjudication without duplicating or silently
+rewriting unrelated registry entries.
+
+AUTHORITY RULE
+Read v2.9 together with v2.8. For every entry not named in this correction layer,
+v2.8 remains unchanged. For EXTREME PREJUDICE, War Wolves designations and any
+related exclusion language, v2.9 controls.
+
+--------------------------------------------------------------------------------
+0. v2.9 CORRECTIONS / GOVERNANCE
+--------------------------------------------------------------------------------
+
+1. WAR WOLVES FINAL IDENTITY MAP
+   - CRIMSON ONE   = Richard "Digger" Graves
+   - CRIMSON TWO   = Lawrence "Rip" Mansell
+   - CRIMSON THREE = Dermot "Lucky" Underwood
+
+2. EXTREME PREJUDICE remains Lawrence "Rip" Mansell's CheyTac M200 named build,
+   but Mansell is CRIMSON TWO, not CRIMSON THREE.
+
+3. The correction preserves encounter roles rather than moving the rifle between
+   role slots:
+   - CRIMSON TWO remains overwatch / precision and carries the personal M200.
+   - CRIMSON THREE remains breacher / support under the existing source baseline.
+   - Mansell moves into CRIMSON TWO; Underwood moves into CRIMSON THREE.
+
+4. EXTREME_PREJUDICE_Build_Spec_rev2.txt supersedes rev1 where designation,
+   encounter-role reconciliation or source authority conflicts.
+
+5. PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt controls the legal
+   identities, service nicknames, Oscar Four Delta origin, wrist marks and buried
+   KINGMAKER-linked institutional-horror lore.
+
+6. Registry counts do not change. This is an identity/designation correction, not
+   the addition or retirement of a named weapon.
+
+--------------------------------------------------------------------------------
+1. CORRECTED AUTHORITATIVE ENTRY
+--------------------------------------------------------------------------------
+
+PW-WPN-MANSELL-EXTREME-PREJUDICE
+  Build name: EXTREME PREJUDICE
+  Platform: CheyTac M200 Intervention, .408 CheyTac
+  Character: Lawrence "Rip" Mansell / CRIMSON TWO
+  Former unit: Oscar Four Delta
+  Encounter role: overwatch / precision
+  Status: CORE IDENTITY LOCKED; exact configuration pending
+  Placement: Riptide Red campaign finale / SINS OF OUR FATHERS
+  Detail source: EXTREME_PREJUDICE_Build_Spec_rev2.txt
+  Character/lore source: PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+  Supersedes: v2.8 and rev1 references assigning Mansell to CRIMSON THREE
+
+--------------------------------------------------------------------------------
+2. CORRECTED EXCLUSION / GENERIC-WEAPON LANGUAGE
+--------------------------------------------------------------------------------
+
+The following remain model-name weapons, generic drops, unnamed personal weapons
+or mission equipment unless separately named later:
+
+- Frost's Cold Plunge Tikka T3x TAC A1
+- generic/security-post CheyTac M200 rifles
+- generic War Wolf / Atlas weapons
+- Dermot "Lucky" Underwood / CRIMSON THREE's current suppressed Mk18 support
+  package unless separately named later
+- Chris's early Phalanx MCX Rattler work weapon
+- supporting-character sidearms whose only label is the model name
+- signature blades unless promoted into the named-firearm registry
+
+The v2.8 exclusion line describing "CRIMSON TWO's older personal M200 entry unless
+separately named" is retired. CRIMSON TWO's personal M200 is now explicitly
+identified as Mansell's EXTREME PREJUDICE.
+
+--------------------------------------------------------------------------------
+3. CURRENT COUNTS
+--------------------------------------------------------------------------------
+
+Named weapon identities in registry: 36
+Substantially specified / source-associated identities: 25
+Recovery-status identities with incomplete source details: 11
+Uncounted owner-specific recovery slots with name not recovered: 2
+
+No count changes result from this reconciliation.
+
+--------------------------------------------------------------------------------
+4. SUPERSESSION QUICK CHECK
+--------------------------------------------------------------------------------
+
+CURRENT
+- Mansell = CRIMSON TWO = EXTREME PREJUDICE = CheyTac M200 = precision slot
+- Underwood = CRIMSON THREE = breacher/support slot
+- Graves = CRIMSON ONE = close-quarters/point slot
+
+SUPERSEDED
+- Mansell = CRIMSON THREE
+- Underwood = CRIMSON TWO
+- treating EXTREME PREJUDICE as a CRIMSON THREE finale-primary override
+- treating CRIMSON TWO's personal M200 as unnamed after the identity adjudication
+
+================================================================================
+END — GLOBAL NAMED WEAPON REGISTRY v2.9
+================================================================================
