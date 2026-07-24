@@ -1,257 +1,101 @@
 # Project Warriors Trilogy Concept
 
-This repository is the working source home for **Project Warriors**: a grounded near-future military thriller / tactical shooter narrative-development project spanning three main games, multiple overlapping protagonist campaigns, and several DLC workstreams.
+This repository is the working source home for **Project Warriors**, a grounded near-future military-thriller / tactical-shooter narrative-development project spanning the main trilogy, overlapping protagonist campaigns, and multiple DLC/side-story workstreams.
 
-It is primarily a **source-development repo**, not a software build repo. Its job is to keep narrative, worldbuilding, gameplay, audio, promotional, and migration/governance materials organized, recoverable, and easy to refresh.
+It is a docs-as-code content repository, not a software build repository. Its purpose is to keep canon, narrative, gameplay, audio, promotional, visual, and governance material organized, recoverable, and source-controlled.
 
-For repo-organization and intake rules, also see:
+## Start here
 
-- `CONTENT_LIFECYCLE.md`
-- the `README.md` files inside the major content directories
+For current orientation, read:
 
----
+1. `CONTENT_LIFECYCLE.md`
+2. `source_audits_and_reports/PW_LLM_Handoff_Rev6_Consolidation_2026-07-06_rev1.txt`
+3. `Project_Warriors_Knowledge_Compendia/PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt`
+4. the six rev6 working compendia
+5. `Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt`
+6. dated supplemental recovery addenda newer than rev6
 
-## What lives here
+There are currently no open pull requests that must be reconciled before using `main`.
 
-This repo currently holds:
+## Current working knowledge set
 
-- active development source pages
-- working compendia used as the day-to-day synthesis layer
-- incoming patch and update packages awaiting merge or cleanup
-- recovered legacy source extracts kept for verification and reclamation
-- audit, manifest, and migration-control documents
-- archived bundles from earlier package drops
+The canonical day-to-day synthesis layer is:
 
-The current project source model is:
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-07-06_rev6.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-07-06_rev6.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-07-06_rev6.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-07-06_rev6.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-07-06_rev6.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Archival_Master_2026-07-06_rev6.txt`
 
-- **one archival master** for milestone-refresh consolidation
-- **six working compendia** for everyday use
+Rev6 supersedes rev4/rev5 synthesis files. Older files remain useful as recovery evidence only.
 
-The six working compendia are:
+### Supplemental addenda
 
-1. Core / Timeline
-2. Worldbuilding / Strategic Architecture
-3. Characters / DLC
-4. Gameplay / Weapons / Style
-5. Missions / Scenes / Cinematics
-6. Promotional / Sidebar Development
+Source-first addenda capture material landed after the rev6 consolidation without pretending the archival master has been milestone-refreshed after every small pass. Read the newest relevant addenda alongside rev6, including:
 
----
+- `Project_Warriors_Knowledge_Compendia/PW_Supplemental_4_Thread_Recovery_Addendum_2026-07-24_rev1.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Legacy_Thread_Recovery_Addendum_2026-07-24_rev1.txt`
 
-## July 2026 LLM handoff note
-
-The branch `topic/pw-llm-handoff-2026-07-06` adds a handoff-oriented update set for comparing current project state with another LLM.
-
-Start with:
-
-1. `Project_Warriors_Knowledge_Compendia/PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt`
-2. `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt`
-3. `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt`
-4. the July 2026 source pages under `dev_src_docs/`
-5. `source_audits_and_reports/PW_Open_PR_and_Repo_Reconciliation_Audit_2026-07-06_rev1.txt`
-6. `source_audits_and_reports/PW_Thread_Archive_Audit_2026-07-06_rev1.txt`
-
-Important: open PR #13 and PR #14 contain relevant Game 4 source material and should be checked before claiming `main` is fully reconciled with all current Game 4 updates.
-
----
-
-## Repo layout
+## Repository layout
 
 ```text
 ROOT_DIR/
-├── README.md
-├── dev_src_docs/
-│   ├── canon_lore_source_of_truth/
-│   ├── characters/
-│   ├── diegetics_and_world-building/
-│   ├── gameplay_mechanics/
-│   ├── image_prompts/
-│   ├── music_and_sound_design/
-│   ├── story_campaigns/
-│   │   ├── Game1/
-│   │   ├── Game2/
-│   │   ├── Game3/
-│   │   ├── Game4/
-│   │   ├── HomeDefenseDLC/
-│   │   ├── Nightfall/
-│   │   ├── SemperFiDLC/
-│   │   ├── TheCollapse/
-│   │   ├── TheWaspDLC/
-│   │   ├── WarWithin/
-│   │   └── WhoDaresWinsDLC/
-│   ├── templates/
-│   ├── weapons_and_equipment/
-│   └── PW_Source_Manifest_2026-04-13_rev2.csv
-├── Project_Warriors_Knowledge_Compendia/
-├── incoming_patches_and_updates/
-├── new_src_material/
-├── source_audits_and_reports/
-├── Recovered_Sources/
-├── archived/
-└── temporary_files/
+├── dev_src_docs/                         durable active source pages
+├── Project_Warriors_Knowledge_Compendia/ synthesis / working knowledge
+├── incoming_patches_and_updates/         package staging
+├── new_src_material/                     loose intake
+├── source_audits_and_reports/            governance, manifests, audits
+├── Recovered_Sources/                    legacy evidence / verification
+├── archived/                             historical snapshots and bundles
+└── temporary_files/                      disposable scratch
 ```
 
-### Directory intent
+## Source model
 
-#### `dev_src_docs/`
-Primary authoring and landing area for current source-of-truth documents. This is the best first stop for live development work.
+- **Active authoring:** `dev_src_docs/`
+- **Synthesis:** six working compendia plus dated addenda
+- **Milestone ballast:** archival master
+- **Governance:** audits, manifests, ledgers, changelogs
+- **Recovery evidence:** `Recovered_Sources/` and `archived/`
 
-#### `Project_Warriors_Knowledge_Compendia/`
-The normalized working knowledge layer. Use these when you need a compact but current view of the project without opening every underlying source page.
+## Preferred editing order
 
-#### `incoming_patches_and_updates/`
-Staging area for source inserts, patch bundles, closeout packets, and other materials that still need to be landed, merged forward, or checked.
+1. Create or update the durable topic source in `dev_src_docs/`.
+2. Validate supersessions against later canon decisions.
+3. Refresh or add the relevant compendium/addendum layer.
+4. Update manifests/audits when source inventory or retirement state changes.
+5. Refresh the archival master only at a meaningful milestone.
 
-#### `new_src_material/`
-Loose or recently prepared source pages that are ready to be sorted into the proper long-term location.
+## Authority and supersession
 
-#### `source_audits_and_reports/`
-Governance layer: manifests, ledgers, audits, package changelogs, gap-hunt notes, and migration reports.
+When sources conflict, use this order:
 
-#### `Recovered_Sources/`
-Legacy source material recovered from older consolidated packages. Keep for cross-checking and reclamation, not as the preferred everyday working layer.
+1. later explicit owner adjudication;
+2. later source-landed canon/correction pages;
+3. current dedicated topic sources;
+4. rev6 compendia and newer addenda;
+5. older summaries, staging packages, and recovered evidence.
 
-#### `archived/`
-Historical zip bundles and prior package drops. Useful for recovery and comparison, but not the default place to edit from.
+Promotional/sidebar material cannot silently override narrative or gameplay canon. Early summaries frequently contain stale dates, ranks, names, or campaign labels; always load the July 2026 canon decisions and later recovery landings.
 
-#### `temporary_files/`
-Scratch area. Treat as disposable unless an item is intentionally promoted elsewhere.
+## High-priority current controls
 
----
+- PANDORA: **September 7, 2028**; U.S. election: **November 7, 2028**.
+- Romeo: **SSG Ramon Alvarez**.
+- Spook: **Trevor Albertson Gartner**, no military rank.
+- Ducky Game 2 campaign: **Persistent Threat**; **AEGIS Falls** is the final mission title only.
+- Dale spelling: **PRUETT**.
+- La Avispa DLC title: **Project Warriors: Wasp**.
+- TRU/SIGHT replaces PYTHIA; SBS operator Mags replaces operator Wren; weapon build WREN remains.
 
-## Working conventions
+## Current recovery / governance references
 
-### Content lifecycle
+- `dev_src_docs/canon_lore_source_of_truth/PW_Legacy_Thread_Canon_Landing_2026-07-24_rev1.txt`
+- `source_audits_and_reports/PW_Legacy_Thread_Reconciliation_Audit_2026-07-24_rev1.txt`
+- `source_audits_and_reports/PW_Source_Manifest_Addendum_2026-07-24_rev1.csv`
 
-Use the repo as a layered system, not one flat document dump:
+## Working rule
 
-- `dev_src_docs/` is the durable authoring layer
-- `Project_Warriors_Knowledge_Compendia/` is the synthesized reference layer
-- `incoming_patches_and_updates/` and `new_src_material/` are intake layers
-- `source_audits_and_reports/` is the governance layer
-- `Recovered_Sources/` and `archived/` are recovery and history layers
-- `temporary_files/` is scratch space
-
-The full operating rule set lives in `CONTENT_LIFECYCLE.md`.
-
-### Preferred editing order
-
-1. Edit or create the relevant source page in `dev_src_docs/`.
-2. Land any validated inserts from `incoming_patches_and_updates/` or `new_src_material/`.
-3. Refresh the relevant working compendium(s).
-4. Update manifests, ledgers, or audits if the source inventory or retirement state changed materially.
-5. Refresh the archival master at milestones rather than after every minor change.
-
-### Source-governance rules
-
-- Preserve original filenames, stable document IDs, manifests, and clear source boundaries where practical.
-- Treat the **archival master** as a milestone reference, not the everyday working ballast.
-- Avoid treating original sources, working compendia, and the archival master as equally active authoring layers at the same time.
-- If older files conflict with newer locked canon or newer integration patches, prefer the newer locked material.
-- Promotional/sidebar material is useful creative reference, but it should not silently override main narrative or gameplay canon without cross-checking.
-
----
-
-## Key reference files
-
-### Current handoff / latest-thread bridge
-
-- `Project_Warriors_Knowledge_Compendia/PW_LLM_Handoff_Current_Project_State_2026-07-06_rev1.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-07-06_rev6.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_Latest_Thread_Addendum_2026-07-06_rev1.txt`
-- `source_audits_and_reports/PW_Open_PR_and_Repo_Reconciliation_Audit_2026-07-06_rev1.txt`
-- `source_audits_and_reports/PW_Thread_Archive_Audit_2026-07-06_rev1.txt`
-- `source_audits_and_reports/PW_Source_Manifest_Addendum_2026-07-06_rev1.csv`
-
-### Core working set
-
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-04-18_rev4.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-18_rev4.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-04-18_rev4.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-04-18_rev4.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_05_Missions_Scenes_Cinematics_2026-04-18_rev4.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-18_rev4.txt`
-
-### Governance / migration layer
-
-- `Project_Warriors_Knowledge_Compendia/PW_Archival_Master_2026-04-18_rev4.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Project_Memory_Integration_Patch_2026-04-18_rev4.txt`
-- `Project_Warriors_Knowledge_Compendia/PW_Recommended_Upload_Order_2026-04-18_rev4.txt`
-- `source_audits_and_reports/PW_Migration_Ledger_2026-04-13_rev3.txt`
-- `source_audits_and_reports/PW_Thread_Archive_Audit_2026-04-13_rev3.txt`
-- `source_audits_and_reports/PW_Package_ChangeLog_2026-04-13_rev3.txt`
-
-### Canon overview
-
-- `dev_src_docs/canon_lore_source_of_truth/PW_Updated_Canon_Overview_2026-04-13_rev1.docx`
-- `dev_src_docs/canon_lore_source_of_truth/PW_Updated_Canon_Overview_2026-04-13_rev1.pdf`
-
----
-
-## Suggested use pattern
-
-### If you need the fastest project orientation
-
-Read, in this order:
-
-1. `README.md`
-2. the July 2026 handoff files listed above
-3. the six working compendia
-4. the migration ledger and thread archive audit if you are checking source coverage or retirement safety
-
-### If you are landing new material
-
-Start in `dev_src_docs/` or `incoming_patches_and_updates/`, then move changes forward into the compendia and governance layer as needed.
-
-### If source-count pressure matters in ChatGPT or other constrained contexts
-
-Use the six working compendia first, then pull in the memory integration patch, ledger, and audit only when needed.
-
----
-
-## Current open development / revisit items
-
-This section is intentionally selective: it lists the live items that appear most relevant for repo users and future cleanup, rather than every small parked note in the project.
-
-### Source-integration and migration closeout
-
-- Merge and verify the **Bakhmut visual reference packet** in final source-ready form.
-- Merge and verify the dedicated **BODYWORK / Van Hult** source page.
-- Merge and verify the consolidated **Boston weapons / Kearney armorer** packet.
-- Merge and verify the **trilogy slogan / promo style** page.
-- Land a stable source page for the **non-Romeo pilot radio-station follow-up**.
-- Keep the **South Africa campaign viability** workstream live until it lands in source-ready form.
-
-### Narrative structure and campaign gaps
-
-- **Ducky Game 3** remains largely undeveloped.
-- **Ducky Game 1** still needs a fully mapped mission arc between **Wirecutter** and the **Rotterdam** finale.
-- The **time gap between Game 1 and Game 2** still needs cleaner determination.
-- The **Romeo bridge from Kentucky to Boston** remains an active construction zone.
-- Some broader **Game 3 campaign structure** work remains fragmentary outside the best-developed current lanes.
-- **Romeo Game 4 / Command Authority** now has a latest-thread handoff page, but still needs a full mission bible after open PR reconciliation.
-- **Ducky Game 4 / Common Picture** has HYPERMNESTRA / VIGILAN / Lin / Jaeger source material, but open PR #14 should be resolved or reconciled.
-
-### Mission / scene development still worth revisiting
-
-- **A-10 suburban attack-run scene** still needs a full development pass.
-- **Red Dawn paratrooper callback** still needs final mission placement / execution.
-- Additional aircraft-scene placements still merit final assignment cleanup where not already fixed.
-- **Tea Party / Boston harbor** mission work remains a live revisit space.
-- The **Boston foreign-civilian / wheelchair side quest** remains parked but still live.
-- **Home Defense** has updated trailer/visual/dialogue locks but still needs a fuller campaign and mission source package.
-- **The Collapse** has updated AID AND COMFORT / MARKED SAFE Act IV material but still needs a fuller Act IV ladder.
-- **Nightfall** has updated Deluvia / Dubai / Long Shadows notes but still needs a full sequel source package.
-
-### Design / presentation items still open
-
-- Final visual execution of the **TITR studio logo**.
-- Final visual execution of the **studio splash sequence**.
-- Final decision / execution pass for the **campaign mission timestamp card** style system.
-- Final lock for Spook's provisional **STAPLER / B&T APC9K Pro** retroactive secondary weapon concept.
-
-### DLC / theater-level items still parked for later
-
-- **Home Defense DLC** protagonist/title/final shape are more developed than before but still not fully source-bibled.
-- **Middle Eastern theater** development remains parked for later Game 3 work.
-- **India's geopolitical role** remains a pinned later-development item.
+Compendia are orientation tools. When making the project more correct, edit or create the source page first.
