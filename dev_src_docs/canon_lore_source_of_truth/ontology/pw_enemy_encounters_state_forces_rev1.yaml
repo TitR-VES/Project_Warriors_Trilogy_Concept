@@ -1,0 +1,36 @@
+meta:
+  document_id: PW-ONT-PW-ENEMY-ENCOUNTERS-STATE-FORCES-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_enemy_weapon_mapping_rev1.yaml
+encounters:
+- {id: PW-EEN-RUS-LINE-G1, enemy_type_ref: PW-ENM-RUS-LINE-INFANTRY, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY, PW-CMP-G1-DO-RIGHT-FEAR-NONE, PW-CMP-G1-RIPTIDE-RED], mission_labels: [], weapon_occurrence_refs: [PW-WOC-G1-RUSSIAN-AK74M], status: working, sources: [WCOMP]}
+- id: PW-EEN-RUS-OCCUPATION-G2-G3
+  enemy_type_ref: PW-ENM-RUS-LINE-INFANTRY
+  installment_refs: [PW-INS-GAME-2, PW-INS-GAME-3]
+  campaign_refs: [PW-CMP-G2-AMERICAN-FREEDOM, PW-CMP-G2-PERSISTENT-THREAT, PW-CMP-G3-NO-KINGS]
+  mission_labels: []
+  weapon_occurrence_refs: []
+  status: mapping_open
+  sources: [CORE, WCOMP]
+  unresolved_fields: [exact mission roster, exact weapon distribution]
+- {id: PW-EEN-RUS-VDV-G1, enemy_type_ref: PW-ENM-RUS-VDV-ELITE, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY, PW-CMP-G1-DO-RIGHT-FEAR-NONE, PW-CMP-G1-RIPTIDE-RED], mission_labels: [], weapon_occurrence_refs: [PW-WOC-G1-RUSSIAN-AK12, PW-WOC-G1-RUSSIAN-AK15, PW-WOC-G1-CORONADO-ORSIS], status: working, sources: [WCOMP]}
+- {id: PW-EEN-RUS-MG-G1, enemy_type_ref: PW-ENM-RUS-MACHINE-GUNNER, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY, PW-CMP-G1-DO-RIGHT-FEAR-NONE, PW-CMP-G1-RIPTIDE-RED], mission_labels: [], weapon_occurrence_refs: [PW-WOC-G1-RUSSIAN-PKM], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-RUS-RPG-ROTTERDAM, enemy_type_ref: PW-ENM-RUS-RPG-OPERATOR, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-DO-RIGHT-FEAR-NONE], mission_labels: [Rotterdam finale], weapon_occurrence_refs: [PW-WOC-G1-ROTTERDAM-RPG7], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-RUS-NAVAL-CORONADO, enemy_type_ref: PW-ENM-RUS-NAVAL-INFANTRY-HEAVY, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY], mission_labels: [Battle of Coronado], weapon_occurrence_refs: [PW-WOC-G1-CORONADO-PKP], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-RUS-MARKSMAN-DEAD-AIR, enemy_type_ref: PW-ENM-RUS-OCCUPATION-MARKSMAN, installment_refs: [PW-INS-GAME-2], campaign_refs: [PW-CMP-G2-AMERICAN-FREEDOM], mission_labels: [Dead Air], weapon_occurrence_refs: [PW-WOC-G2-DEAD-AIR-SVD], status: working, sources: [WCOMP]}
+- {id: PW-EEN-RUS-SPETSNAZ-ROTTERDAM, enemy_type_ref: PW-ENM-RUS-SPETSNAZ-DEMOLITIONS, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-DO-RIGHT-FEAR-NONE], mission_labels: [Rotterdam finale], weapon_occurrence_refs: [PW-WOC-G1-ROTTERDAM-GROZA], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-KAPITAN-ROTTERDAM, enemy_type_ref: PW-ENM-KAPITAN, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-DO-RIGHT-FEAR-NONE], mission_labels: [Rotterdam finale], weapon_occurrence_refs: [PW-WOC-G1-ROTTERDAM-SR3M], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-VYMPEL-WIRECUTTER-HULL, enemy_type_ref: PW-ENM-FSB-VYMPEL-SHIPBOARD, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-DO-RIGHT-FEAR-NONE], mission_labels: [Wirecutter, Hull Breach], weapon_occurrence_refs: [PW-WOC-G1-VYMPEL-9A91, PW-WOC-G1-VYMPEL-ASVAL, PW-WOC-G1-HULL-BREACH-SR3M, PW-WOC-G1-WIRECUTTER-PSS2], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-VYMPEL-DIVERS-WIRECUTTER, enemy_type_ref: PW-ENM-FSB-VYMPEL-COMBAT-DIVER, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-DO-RIGHT-FEAR-NONE], mission_labels: [Wirecutter], weapon_occurrence_refs: [PW-WOC-G1-WIRECUTTER-APS, PW-WOC-G1-WIRECUTTER-SPP1M], status: working, sources: [WCOMP]}
+- {id: PW-EEN-VYMPEL-COMMANDER-WIRECUTTER, enemy_type_ref: PW-ENM-FSB-VYMPEL-DIVE-COMMANDER, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-DO-RIGHT-FEAR-NONE], mission_labels: [Wirecutter], weapon_occurrence_refs: [PW-WOC-G1-WIRECUTTER-GROZA, PW-WOC-G1-WIRECUTTER-PSS2], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-FSB-ALARM-HULL, enemy_type_ref: PW-ENM-FSB-SPETSNAZ-ALARM-RESPONSE, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-DO-RIGHT-FEAR-NONE], mission_labels: [Hull Breach], weapon_occurrence_refs: [PW-WOC-G1-HULL-BREACH-SR3M], status: confirmed, sources: [WCOMP], spawn_conditions: [alarm_raised]}
+- {id: PW-EEN-FSB-CLOSE-PROTECTION-G2, enemy_type_ref: PW-ENM-FSB-CLOSE-PROTECTION, installment_refs: [PW-INS-GAME-2], campaign_refs: [PW-CMP-G2-AMERICAN-FREEDOM], mission_labels: [Low Ground, later Glushkin protection encounters], weapon_occurrence_refs: [PW-WOC-G2-LOW-GROUND-SR1], status: working, sources: [WCOMP]}
+- {id: PW-EEN-FSB-OFFICER-BURNING-DAYLIGHT, enemy_type_ref: PW-ENM-FSB-FIELD-OFFICER, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-RIPTIDE-RED], mission_labels: [Burning Daylight], weapon_occurrence_refs: [PW-WOC-G1-WIRECUTTER-PSS2], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-GLUSHKIN-G2, enemy_type_ref: PW-ENM-GLUSHKIN, installment_refs: [PW-INS-GAME-2], campaign_refs: [PW-CMP-G2-AMERICAN-FREEDOM], mission_labels: [final confrontation; exact mission label not fixed in catalog], weapon_occurrence_refs: [], status: working, sources: [WCOMP]}
+- {id: PW-EEN-KPA-LINE-G1, enemy_type_ref: PW-ENM-KPA-LINE-INFANTRY, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY], mission_labels: [Down Rodeo, Battle of Coronado and other KPA encounters], weapon_occurrence_refs: [PW-WOC-G1-DOWN-RODEO-TYPE58, PW-WOC-G1-KPA-TYPE88], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-KPA-ELITE-DOWN-RODEO, enemy_type_ref: PW-ENM-KPA-ELITE-SOF, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY], mission_labels: [Down Rodeo], weapon_occurrence_refs: [PW-WOC-G1-DOWN-RODEO-TYPE98, PW-WOC-G1-DOWN-RODEO-KPA-BULLPUP], status: confirmed, sources: [WCOMP]}
+- {id: PW-EEN-KPA-SUPPORT-G1, enemy_type_ref: PW-ENM-KPA-SUPPORT-GUNNER, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY], mission_labels: [], weapon_occurrence_refs: [PW-WOC-G1-KPA-TYPE73], status: working, sources: [WCOMP]}
+- {id: PW-EEN-KPA-ANTI-ARMOR-G1, enemy_type_ref: PW-ENM-KPA-ANTI-ARMOR, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY], mission_labels: [], weapon_occurrence_refs: [PW-WOC-G1-KPA-F7, PW-WOC-G1-KPA-BULSAE3], status: working, sources: [WCOMP]}
+- {id: PW-EEN-IRGC-CORONADO, enemy_type_ref: PW-ENM-IRGC-INFANTRY, installment_refs: [PW-INS-GAME-1], campaign_refs: [PW-CMP-G1-LEAD-THE-WAY], mission_labels: [Battle of Coronado], weapon_occurrence_refs: [PW-WOC-G1-CORONADO-KH2002], status: confirmed, sources: [WCOMP]}
