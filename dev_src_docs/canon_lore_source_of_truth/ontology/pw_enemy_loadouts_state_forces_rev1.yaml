@@ -1,0 +1,273 @@
+meta:
+  document_id: PW-ONT-PW-ENEMY-LOADOUTS-STATE-FORCES-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_enemy_weapon_mapping_rev1.yaml
+loadouts:
+- id: PW-ELD-RUS-LINE-INFANTRY
+  enemy_type_ref: PW-ENM-RUS-LINE-INFANTRY
+  canonical_name: Russian line infantry rifle pool
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-AK74M, carry_role: primary_rifle, carry_state: standard, drop_policy: drops, player_pickup_state: mission_only, ammunition_refs: [PW-AMM-545X39], status: confirmed}
+  - weapon_ref: PW-WEP-AKM
+    carry_role: alternate_primary
+    carry_state: possible
+    drop_policy: drops
+    player_pickup_state: mission_only
+    ammunition_refs: [PW-AMM-762X39]
+    status: working
+    notes: Source-listed faction pool; exact later-game distribution open.
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-RUS-VDV-ELITE
+  enemy_type_ref: PW-ENM-RUS-VDV-ELITE
+  canonical_name: Russian VDV elite pool
+  selection_mode: role_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-AK12, carry_role: primary_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [], status: confirmed}
+  - {weapon_ref: PW-WEP-AK15, carry_role: primary_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-762X39], status: confirmed}
+  - weapon_ref: PW-WEP-ORSIS-T5000
+    carry_role: marksman_option
+    carry_state: rare
+    drop_policy: fixed_world
+    player_pickup_state: conditional
+    ammunition_refs: []
+    status: confirmed
+    conditions: [Battle of Coronado control-tower placement; only Game 1 appearance currently mapped]
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-RUS-MACHINE-GUNNER
+  enemy_type_ref: PW-ENM-RUS-MACHINE-GUNNER
+  canonical_name: Russian line machine-gunner pool
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-PKM, carry_role: primary_support_weapon, carry_state: standard, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-762X54R], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-RUS-RPG-OPERATOR
+  enemy_type_ref: PW-ENM-RUS-RPG-OPERATOR
+  canonical_name: Russian RPG operator loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - weapon_ref: PW-WEP-RPG7
+    carry_role: primary_support_weapon
+    carry_state: fixed
+    drop_policy: never_drops
+    player_pickup_state: not_accessible
+    ammunition_refs: [PW-AMM-RPG7-ROCKET]
+    status: confirmed
+    conditions: [Rotterdam drain-hole operator weapon is scripted into harbor if neutralized]
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-RUS-NAVAL-INFANTRY-HEAVY
+  enemy_type_ref: PW-ENM-RUS-NAVAL-INFANTRY-HEAVY
+  canonical_name: Russian Naval Infantry heavy-gunner emplacement
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - weapon_ref: PW-WEP-PKP
+    carry_role: mounted_primary
+    carry_state: fixed
+    drop_policy: fixed_world
+    player_pickup_state: mission_only
+    ammunition_refs: [PW-AMM-762X54R]
+    status: confirmed
+    conditions: [Player may unbolt and carry the weapon with movement penalty]
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-RUS-OCCUPATION-MARKSMAN
+  enemy_type_ref: PW-ENM-RUS-OCCUPATION-MARKSMAN
+  canonical_name: Russian occupation marksman rifle
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - weapon_ref: PW-WEP-SVD
+    carry_role: primary_precision_weapon
+    carry_state: possible
+    drop_policy: fixed_world
+    player_pickup_state: conditional
+    ammunition_refs: [PW-AMM-762X54R]
+    status: confirmed
+    conditions: [Dead Air water-tower detour]
+  status: working
+  sources: [WCOMP]
+- id: PW-ELD-RUS-SPETSNAZ-DEMOLITIONS
+  enemy_type_ref: PW-ENM-RUS-SPETSNAZ-DEMOLITIONS
+  canonical_name: Spetsnaz demolitions operator loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-OTS14, carry_role: primary_specialist_rifle, carry_state: fixed, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X39, PW-AMM-40MM-GRENADE], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-KAPITAN
+  enemy_type_ref: PW-ENM-KAPITAN
+  canonical_name: KAPITAN loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-SR3M, carry_role: primary_compact_rifle, carry_state: fixed, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X39], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-FSB-VYMPEL-SHIPBOARD
+  enemy_type_ref: PW-ENM-FSB-VYMPEL-SHIPBOARD
+  canonical_name: Vympel confined-space weapon pool
+  selection_mode: role_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-9A91, carry_role: primary_compact_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X39], status: confirmed}
+  - {weapon_ref: PW-WEP-AS-VAL, carry_role: primary_suppressed_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X39], status: confirmed}
+  - {weapon_ref: PW-WEP-SR3M, carry_role: primary_compact_rifle, carry_state: possible, drop_policy: conditional, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X39], status: confirmed}
+  - {weapon_ref: PW-WEP-OTS14, carry_role: specialist_primary, carry_state: rare, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X39, PW-AMM-40MM-GRENADE], status: confirmed}
+  - {weapon_ref: PW-WEP-PSS2, carry_role: silent_sidearm, carry_state: rare, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-762X41-PSS2], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-FSB-VYMPEL-COMBAT-DIVER
+  enemy_type_ref: PW-ENM-FSB-VYMPEL-COMBAT-DIVER
+  canonical_name: Vympel combat-diver equipment pool
+  selection_mode: mission_role_pool
+  weapon_rules:
+  - weapon_ref: PW-WEP-APS-UNDERWATER
+    carry_role: underwater_primary
+    carry_state: mission_defined
+    drop_policy: fixed_world
+    player_pickup_state: collectible_only
+    ammunition_refs: [PW-AMM-APS-DART]
+    status: confirmed
+    conditions: [Dive-prep station; loaded magazine only; poor above-water utility]
+  - weapon_ref: PW-WEP-SPP1M
+    carry_role: underwater_sidearm
+    carry_state: mission_defined
+    drop_policy: fixed_world
+    player_pickup_state: collectible_only
+    ammunition_refs: [PW-AMM-SPP1M-DART]
+    status: confirmed
+    conditions: [Dive-prep station; four shots then collectible]
+  - {weapon_ref: PW-WEP-OTS14, carry_role: above_water_primary, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X39, PW-AMM-40MM-GRENADE], status: confirmed}
+  - {weapon_ref: PW-WEP-PSS2, carry_role: silent_sidearm, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-762X41-PSS2], status: confirmed}
+  status: working
+  sources: [WCOMP]
+- id: PW-ELD-FSB-VYMPEL-DIVE-COMMANDER
+  enemy_type_ref: PW-ENM-FSB-VYMPEL-DIVE-COMMANDER
+  canonical_name: Vympel Dive Team Commander loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-OTS14, carry_role: primary_specialist_rifle, carry_state: fixed, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X39, PW-AMM-40MM-GRENADE], status: confirmed}
+  - {weapon_ref: PW-WEP-PSS2, carry_role: secondary_silent_pistol, carry_state: fixed, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-762X41-PSS2], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-FSB-SPETSNAZ-ALARM-RESPONSE
+  enemy_type_ref: PW-ENM-FSB-SPETSNAZ-ALARM-RESPONSE
+  canonical_name: Hull Breach alarm-response loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - weapon_ref: PW-WEP-SR3M
+    carry_role: primary_compact_rifle
+    carry_state: fixed
+    drop_policy: conditional
+    player_pickup_state: conditional
+    ammunition_refs: [PW-AMM-9X39]
+    status: confirmed
+    conditions: [Spawns only if the alarm is raised; stealth completion prevents both enemy and weapon spawn]
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-FSB-CLOSE-PROTECTION
+  enemy_type_ref: PW-ENM-FSB-CLOSE-PROTECTION
+  canonical_name: FSB close-protection pool
+  selection_mode: mission_state_pool
+  weapon_rules:
+  - weapon_ref: PW-WEP-SR1-VEKTOR
+    carry_role: sidearm
+    carry_state: conditional
+    drop_policy: conditional
+    player_pickup_state: conditional
+    ammunition_refs: [PW-AMM-9X21]
+    status: confirmed
+    conditions: ['Low Ground: available only if Romeo breaks cover, failing the covert-observation objective']
+  - weapon_ref: PW-WEP-SR3M
+    carry_role: primary_compact_rifle
+    carry_state: possible
+    drop_policy: drops
+    player_pickup_state: conditional
+    ammunition_refs: [PW-AMM-9X39]
+    status: confirmed
+    conditions: [Glushkin close-protection detail in later Game 2 material]
+  status: working
+  sources: [WCOMP]
+- id: PW-ELD-FSB-FIELD-OFFICER
+  enemy_type_ref: PW-ENM-FSB-FIELD-OFFICER
+  canonical_name: FSB field-officer covert sidearm
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - weapon_ref: PW-WEP-PSS2
+    carry_role: silent_sidearm
+    carry_state: possible
+    drop_policy: drops
+    player_pickup_state: conditional
+    ammunition_refs: [PW-AMM-762X41-PSS2]
+    status: confirmed
+    conditions: [Burning Daylight tunnel officer; second opportunity if missed in Wirecutter]
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-GLUSHKIN
+  enemy_type_ref: PW-ENM-GLUSHKIN
+  canonical_name: Glushkin personal weapon
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - weapon_ref: PW-WEP-SR1-VEKTOR
+    carry_role: personal_sidearm
+    carry_state: fixed
+    drop_policy: drops
+    player_pickup_state: not_accessible
+    ammunition_refs: [PW-AMM-9X21]
+    status: confirmed
+    conditions: [Inspect-only after the final confrontation; Romeo never fires it]
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-KPA-LINE-INFANTRY
+  enemy_type_ref: PW-ENM-KPA-LINE-INFANTRY
+  canonical_name: KPA line rifle pool
+  selection_mode: role_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-TYPE58-68, carry_role: primary_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: mission_only, ammunition_refs: [PW-AMM-762X39], status: confirmed}
+  - {weapon_ref: PW-WEP-TYPE88, carry_role: primary_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: mission_only, ammunition_refs: [], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-KPA-ELITE-SOF
+  enemy_type_ref: PW-ENM-KPA-ELITE-SOF
+  canonical_name: KPA elite SOF weapon pool
+  selection_mode: role_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-TYPE98, carry_role: primary_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-556-NATO], status: confirmed}
+  - weapon_ref: PW-WEP-KPA-BULLPUP
+    carry_role: rare_primary
+    carry_state: rare
+    drop_policy: drops
+    player_pickup_state: conditional
+    ammunition_refs: []
+    status: confirmed
+    conditions: [One elite rifle with one magazine and no resupply in Down Rodeo]
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-KPA-SUPPORT-GUNNER
+  enemy_type_ref: PW-ENM-KPA-SUPPORT-GUNNER
+  canonical_name: KPA support-gunner loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-TYPE73-LMG, carry_role: primary_support_weapon, carry_state: fixed, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-KPA-ANTI-ARMOR
+  enemy_type_ref: PW-ENM-KPA-ANTI-ARMOR
+  canonical_name: KPA anti-armor pool
+  selection_mode: role_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-F7-RPG, carry_role: shoulder_launcher, carry_state: possible, drop_policy: unknown, player_pickup_state: not_accessible, ammunition_refs: [PW-AMM-RPG7-ROCKET], status: confirmed}
+  - {weapon_ref: PW-WEP-BULSAE3, carry_role: guided_launcher, carry_state: possible, drop_policy: never_drops, player_pickup_state: not_accessible, ammunition_refs: [PW-AMM-BULSAE3-MISSILE], status: confirmed}
+  status: working
+  sources: [WCOMP]
+- id: PW-ELD-IRGC-INFANTRY
+  enemy_type_ref: PW-ENM-IRGC-INFANTRY
+  canonical_name: IRGC Coronado rifle loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-KH2002, carry_role: primary_rifle, carry_state: fixed, drop_policy: drops, player_pickup_state: mission_only, ammunition_refs: [PW-AMM-556-NATO], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
