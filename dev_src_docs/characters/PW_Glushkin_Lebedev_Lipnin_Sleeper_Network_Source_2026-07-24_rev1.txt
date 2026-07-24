@@ -1,0 +1,182 @@
+PROJECT WARRIORS — GLUSHKIN / LEBEDEV / LIPNIN SLEEPER-NETWORK SOURCE
+Generated: 2026-07-24
+Version: rev1
+Status: CORE OPERATIONAL ARC LOCKED / BIOGRAPHICAL ARITHMETIC FLAGGED
+Recovered from: full verbatim legacy archive, principally the March 30 worldbuilding sidebar
+
+PURPOSE
+Consolidate the Game 2–3 Russian illegal/sleeper-agent subplot around Vyacheslav Glushkin, Douglas Nasmith / Grigoryi Lebedev, and Gennadiy Lipnin. Preserve the personal and operational detail that was compressed in rev6 while respecting all later campaign, date, and title corrections.
+
+AUTHORITY RULE
+Later source pages and owner decisions control. This page promotes only decisions explicitly accepted in the legacy thread or already retained in current compendia. It does not resolve the one internal chronology contradiction by invention.
+
+01. VYACHESLAV “SLAVA” GLUSHKIN
+Full working name: Vyacheslav Timofeevich Glushkin.
+Operational role: FSB field officer attached to the occupation/counter-resistance structure in Calloway, Redbud, and the wider Harlan County lane.
+Narrative role: principal professional antagonist of Romeo’s AMERICAN FREEDOM local-resistance arc.
+
+COVER IDENTITY
+Name: Brent Henry Tibbets.
+Profession: aerospace electrical engineer.
+Employer: Specter Aerospace, Peabody, Massachusetts.
+Home/identity origin: Haverhill, Massachusetts.
+Education cover: MIT electrical-engineering/aeronautics pathway.
+
+The cover is not a superficial alias. Glushkin has lived inside it long enough to attend block parties, maintain workplace rhythms, understand regional American speech, and appear ordinary to people who have known him for years.
+
+STOLEN-IDENTITY FOUNDATION
+The real Brent Tibbets was a vulnerable young man with no close family safety net whose disappearance did not produce a clean institutional alarm. The illegal program’s cruelty is shown through administrative absence: the real person can vanish, while the operative wearing his life becomes documented and socially legible.
+
+Do not overdefine the real Tibbets’s final fate without a dedicated scene. The important current truth is that Glushkin’s cover depends on another man being erased.
+
+EDUCATION / TRAINING DIRECTION
+The legacy material consistently establishes:
+- Russian linguistic/foreign-service education;
+- intensive clandestine language and cultural training;
+- FSB officer training;
+- native Russian and exceptionally convincing American English;
+- broad multilingual capability appropriate to a long-prepared illegal;
+- conventional infantry/weapons familiarity and strong chess ability.
+
+BIOGRAPHICAL CONFLICT — OWNER ADJUDICATION REQUIRED
+One recovered profile gives Glushkin a 1982 birth year. Another says Lipnin recruited him in 1995 at age twenty-three after MGIMO graduation. Both cannot be true. Do not repeat the age/year combination as locked canon. Until adjudicated:
+- keep birthplace/education/training as working biography;
+- keep Lipnin as the recruiter/program architect;
+- leave Glushkin’s exact birth year and recruitment year open.
+
+CHARACTER REGISTER
+Glushkin is sophisticated, composed, observant, and capable of sudden decisive violence. The Christoph Waltz/Hans Landa comparison is an archetype note, not a likeness or imitation instruction. His distinguishing feature is an internal professional belief system: he respects competence, understands the human appeal of the country he infiltrated, and still chooses his assigned position until the institution burns him.
+
+GAME 1 SEEDING
+Use only as subtle continuity:
+- Brent Tibbets / Specter Aerospace on a Frankfurt conference or attendee list;
+- Tibbets in Bastion/Navarre corporate-contact material;
+- unresolved encrypted Massachusetts-origin traffic in the WIRECUTTER intelligence layer.
+
+These are replay rewards, not foreground exposition.
+
+02. ACTIVATION — JUNE 4, 2028
+The activation scene occurs at Specter Aerospace in Peabody on June 4, 2028.
+Corrected relation: ninety-five days before PANDORA on September 7, not ninety-one days before a stale September 3 date.
+
+ACTIVATOR
+Cover name: Douglas Paul Nasmith.
+Real name: Grigoryi Pavlovich Lebedev.
+
+SCENE GRAMMAR
+- ordinary Massachusetts workday;
+- Nasmith arrives as a credible visitor, not a stereotypical spy;
+- administrative normality and professional small talk carry the threat;
+- the activation material is passed as copies/documents, not “cookies” or another transcription error;
+- a Sara Teasdale Redbirds postcard/poem object carries the word Redbud as a deliberate connection to Glushkin’s future operating area;
+- the authentication phrase is delivered upon departure.
+
+AUTHENTICATION PHRASE — LOCKED
+“Have a good one.”
+
+Why it works:
+- ordinary American vernacular;
+- usable almost anywhere without attracting attention;
+- invisible to bystanders;
+- emotionally uncanny for the player after the reveal;
+- confirms the visitor is genuine rather than an enemy attempting to expose the illegal.
+
+The phrase should not be overused as a franchise catchphrase. Its power depends on apparent meaninglessness.
+
+03. DOUGLAS NASMITH / GRIGORYI LEBEDEV
+Working biography:
+- born March 11, 1970, Nizhny Novgorod, USSR;
+- long-duration U.S. cover as Douglas Paul Nasmith;
+- approximately thirty-three years embedded in the Boston area by 2028;
+- senior finance/administrative function inside Boston City Hall;
+- activated roughly three months before PANDORA;
+- collects infrastructure, service-access, contract, structural, route, and chokepoint information useful to later invasion/occupation planning;
+- tasked to activate Glushkin.
+
+CHARACTER FUNCTION
+Lebedev is not primarily a field-action antagonist. He represents the institutionally embedded illegal who has become part of the machinery of a city. Removing him is politically and evidentially harder than defeating a uniformed operative.
+
+GAME 3 POTENTIAL
+Lebedev may become an institutional antagonist or evidence node in later Boston/restoration-era material, but survival, exposure, mission placement, and final disposition remain open.
+
+04. GENNADIY FYODOROVICH LIPNIN
+Role:
+- senior KGB officer who continues into the FSB after the Soviet collapse;
+- strategist/architect of the long-duration illegal program that produced assets such as Glushkin and Lebedev;
+- Moscow-based institutional operator with close oversight of subordinate officers and deep-cover assets;
+- known for burning liabilities rather than compassionately reassigning them.
+
+Keep Lipnin deliberately incomplete. His power comes from being the institutional shape behind the program, not from appearing in every field scene.
+
+KOROLYOV IMPLICATION
+A senior man associated with Glushkin’s clandestine preparation may be implied as Lipnin without Glushkin necessarily being given a transparent personal relationship or full program picture. Do not force an explicit reveal earlier than the story needs.
+
+05. FACE TO FACE — OPTIONAL PLAYER REVEAL
+FACE TO FACE is an optional/conditional AMERICAN FREEDOM mission asset.
+
+Setup:
+- Glushkin arranges a meeting through a channel Romeo trusts enough to verify;
+- location: the grain-elevator pull-off associated with earlier contact history;
+- Glushkin requests Romeo alone; Aldridge may remain unseen in overwatch as insurance;
+- civilian clothing and reduced cover-performance allow Romeo to see something closer to the real man.
+
+Conversation function:
+- not negotiation, surrender, or melodramatic confession;
+- two professionals recognize each other across an irreconcilable line;
+- Glushkin argues that the occupation can slowly compress the resistance without a decisive battle;
+- Romeo confronts him with the fact that Brent Tibbets lived among Americans long enough to understand what is worth defending;
+- Glushkin quietly admits that he understands the value without changing sides in that moment;
+- both leave with better reconnaissance on the other.
+
+OPTION D — LOCKED REVEAL ARCHITECTURE
+Completing/triggering FACE TO FACE unlocks the activation flashback or recovered intelligence reconstruction. The player sees the ordinary Specter Aerospace man after meeting the antagonist he became. The sequence is optional character depth, not mandatory exposition required to understand the main plot.
+
+06. BURN NOTICE / NUMBER STATION
+Late in the campaign, after the AFC survives and Glushkin’s assignment is failing, a number-station message informs him that the institution has burned him.
+
+Protected details:
+- sequence: 8-3-1-6-5-0-2-7-4-1;
+- Glushkin writes “Понятно” (“Understood”) in a notebook;
+- he folds and keeps the page instead of destroying it;
+- the retained page is a small act of private ownership after a life built around instructions and disposable identities.
+
+The burn scene should be staged before the final confrontation, not treated as a posthumous lore dump.
+
+PERSONAL CHOICE
+After the burn notice, Glushkin’s final actions are his own. Lipnin has discarded him. The story must not reduce the confrontation to “he was only following orders.” He knows the cost of what he did and does not ask Romeo to absolve him.
+
+FINAL-CONFRONTATION REGISTER
+- Glushkin’s American cover accent falls away enough for his natural Russian speech pattern to become perceptible;
+- he acknowledges that he did what he believed he had to do and would have repeated it;
+- he recognizes that the end has arrived and that Romeo must act;
+- no operatic begging, ideological speech, or sudden sentimental redemption.
+
+Exact dialogue remains screenplay-level and should be rewritten from the protected intent rather than copied mechanically from an old draft.
+
+07. TEASER / PROMO USE
+A sleeper-network teaser may use:
+- Specter Aerospace ordinary-office imagery;
+- Nasmith’s departure and “Have a good one”;
+- Redbud on the postcard;
+- number-station audio;
+- a brief connection to the AMERICAN FREEDOM teaser’s final choir decay.
+
+Do not use PERSISTENT THREAT as the Glushkin teaser’s campaign title. PERSISTENT THREAT belongs to Ducky’s Game 2 campaign. Any dedicated Glushkin promo should be framed as a Project Warriors II / AMERICAN FREEDOM-adjacent sleeper-network teaser, with its end card separately approved.
+
+08. THEMATIC FUNCTION
+This subplot demonstrates:
+- invasion as a decades-long administrative preparation, not only a military landing;
+- identity theft and institutional neglect as operational infrastructure;
+- the difference between understanding a society and belonging to it;
+- intelligence institutions treating even their most capable people as disposable;
+- a professional antagonist whose final moral agency becomes clearer only after his chain of command abandons him.
+
+OPEN FLAGS
+- Glushkin exact birth year/recruitment year;
+- exact MGIMO/training chronology after arithmetic repair;
+- final FACE TO FACE mission numbering and unlock method;
+- final activation-scene screenplay and intelligence-file presentation;
+- Lebedev Game 3 use, exposure, and survival;
+- Lipnin’s complete Game 3 role;
+- final Glushkin confrontation location, player-control structure, and outcome implementation;
+- whether the number-station sequence remains exactly as drafted after audio/cipher review.
