@@ -1,0 +1,53 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  status: locked_and_working_projection
+  schema: schema/pw_weapon_catalog.schema.yaml
+  authority:
+    platform_and_occurrence_sources: Durable gameplay, weapon, character, campaign, and named-build sources.
+    named_build_registry: Named build registry remains authoritative for named identities, owners, and configurations.
+    this_projection: Controls base weapon, ammunition, occurrence, acquisition, retention, and crosswalk identities.
+  scope: Current source-backed portable weapons, launchers, throwables, and melee weapons that can appear as player equipment,
+    NPC equipment, enemy equipment, world finds, conditional drops, rewards, or collectible-only items. Vehicle weapons,
+    artillery, CAS assets, and attachment-only unlocks are excluded.
+  counts:
+    weapons: 111
+    ammunition_types: 35
+    occurrences: 128
+    named_build_bindings: 43
+    resolved_named_build_bindings: 34
+    deferred_named_build_bindings: 9
+  next_pass_contract: Enemy-type entries may reference weapon_ref and ammunition_ref directly and may populate occurrence.enemy_type_refs
+    without changing stable weapon or ammunition identities.
+parts:
+- path: pw_weapon_catalog_platforms_firearms_rev1.yaml
+  contains:
+  - weapons
+- path: pw_weapon_catalog_platforms_support_melee_rev1.yaml
+  contains:
+  - weapons
+- path: pw_weapon_catalog_ammunition_rev1.yaml
+  contains:
+  - ammunition
+- path: pw_weapon_catalog_occurrences_main_rev1.yaml
+  contains:
+  - occurrences
+- path: pw_weapon_catalog_occurrences_extended_rev1.yaml
+  contains:
+  - occurrences
+- path: pw_weapon_catalog_named_build_bindings_rev1.yaml
+  contains:
+  - named_build_bindings
+open_flags:
+- id: PW-WCAT-OPEN-ROSTER-COMPLETENESS
+  description: Campaigns with incomplete or not-yet-developed weapon passes may add platforms and occurrences through
+    additive deltas.
+- id: PW-WCAT-OPEN-REWARD-TABLE
+  description: Troy Barry optional-objective/achievement unlock table and exact Dragon’s Breath timing remain open.
+- id: PW-WCAT-OPEN-ENEMY-DROP-MATRIX
+  description: Enemy-type carry/drop probabilities and encounter-game mappings are reserved for the next ontology pass.
+- id: PW-WCAT-OPEN-NAMED-PLATFORMS
+  description: Nine named weapon identities retain platform-recovery-required bindings.
+- id: PW-WCAT-OPEN-CALIBER-LANES
+  description: Several roster-level or prototype platforms retain explicit caliber implementation flags.
