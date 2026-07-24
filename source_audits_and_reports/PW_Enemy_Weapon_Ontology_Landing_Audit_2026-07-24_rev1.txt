@@ -1,0 +1,99 @@
+PROJECT WARRIORS — ENEMY / WEAPON ONTOLOGY LANDING AUDIT
+Generated: 2026-07-24
+Version: rev1
+Status: IMPLEMENTATION COMPLETE / DRAFT PR REVIEW REQUIRED
+
+================================================================================
+01. PURPOSE
+================================================================================
+Extend the merged portable-weapon ontology with stable enemy-type, loadout, encounter,
+and compatibility-binding identities. The layer maps source-backed enemies to carried
+weapons, compatible ammunition, drop/pickup behavior, and game/campaign/mission occurrence.
+
+================================================================================
+02. DELIVERED INVENTORY
+================================================================================
+- Enemy types: 33
+- Resolved or working enemy types: 31
+- Mapping-open enemy types: 2
+- Loadout records: 33
+- Encounter records: 34
+- Weapon occurrence compatibility operations: 48
+- Deferred campaign/opposition slots: 7
+
+Stable prefixes:
+- PW-ENM-* enemy types
+- PW-ELD-* enemy loadouts
+- PW-EEN-* enemy encounters
+- PW-EDF-* deferred opposition slots
+
+================================================================================
+03. COVERAGE
+================================================================================
+Resolved/source-backed mapping includes:
+- Russian line infantry, VDV elite, machine gunners, RPG operators, Naval Infantry,
+  occupation marksmen, Spetsnaz demolitions, and KAPITAN;
+- FSB/Vympel shipboard operators, combat divers, dive commander, alarm-response
+  Spetsnaz, close protection, field officers, and Glushkin;
+- KPA line infantry, elite SOF, support gunners, and anti-armor operators;
+- Iranian IRGC infantry at Coronado;
+- Los Sietes standard and elite sicarios, K Lounge lieutenant, Bisutri,
+  mezzanine ambush leader, cartel general, and KYSC conditioned operatives;
+- Atlas standard/elite operators;
+- all three War Wolves with corrected identities and fixed personal loadouts;
+- Leandro Blommaert as an optional GenCorp protective-operations target.
+
+================================================================================
+04. ACCESS / DROP GOVERNANCE
+================================================================================
+Carried weapon, drop behavior, and player pickup state are represented independently.
+The ontology preserves:
+- conditional alarm spawns;
+- failed-objective pickups;
+- named-enemy drops;
+- fixed-world or unbolted emplacements;
+- collectible-only underwater equipment;
+- scripted non-accessible weapons;
+- missable escape-timer rewards;
+- carried equipment whose drop state is not source-locked.
+
+No enemy equipment is promoted to persistent ownership merely because an enemy carries it.
+
+================================================================================
+05. DEFERRED SLOTS
+================================================================================
+No speculative generic enemy loadouts were created for:
+- undeveloped Game 3 PLA/player-facing opposition;
+- generic NAF/Vanguard hostile forces across Game 4 / War Within;
+- Who Dares Wins opposition;
+- Sea Spear opposition;
+- Home Defense opposition (source explicitly leaves order of battle open);
+- The Storm opposition;
+- The Collapse opposition.
+
+================================================================================
+06. VALIDATION
+================================================================================
+- YAML parsing: PASS.
+- Unique PW-ENM IDs: PASS.
+- Unique PW-ELD IDs: PASS.
+- Unique PW-EEN IDs: PASS.
+- Unique PW-EDF IDs: PASS.
+- Reciprocal enemy/loadout references: PASS.
+- Reciprocal enemy/encounter references: PASS.
+- Weapon references resolve against merged weapon catalog: PASS.
+- Ammunition references resolve and are weapon-compatible: PASS.
+- Weapon occurrence references resolve: PASS.
+- Campaign/installment containment: PASS.
+- Mapping-open loadouts remain empty and explicitly unresolved: PASS.
+- Overlay only adds enemy_type_refs and changes no access/drop/retention fields: PASS.
+
+================================================================================
+07. NEXT SAFE EXTENSIONS
+================================================================================
+- Add exact AI behavior libraries and armor geometry per enemy type.
+- Add spawn weights and mission-specific weapon probabilities when source-authorized.
+- Resolve later-game and DLC order-of-battle slots through dedicated campaign passes.
+- Add faction ontology IDs later without changing PW-ENM stable identities.
+
+END
