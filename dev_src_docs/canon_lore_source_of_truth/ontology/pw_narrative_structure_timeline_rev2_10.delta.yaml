@@ -8,9 +8,9 @@ meta:
   chronology_changes: false
   workaround:
     reason: The original rev1 materialized timeline is not repository-landed.
-    method: Enrich only repo-supported stable tracks. Keep Sea Spear and Semper Fi bindings deferred until their external-base track IDs are recovered.
-    resolved_bindings: 19
-    deferred_bindings: 2
+    method: Enrich only repository-verifiable stable tracks. Keep Godkiller, Sea Spear, and Semper Fi bindings deferred until their authoritative track IDs are recovered.
+    resolved_bindings: 18
+    deferred_bindings: 3
   sources:
   - dev_src_docs/canon_lore_source_of_truth/ontology/README.md
   - dev_src_docs/canon_lore_source_of_truth/PW_Ontology_Canon_Corrections_2026-07-21_rev1.txt
@@ -32,9 +32,6 @@ operations:
 - op: update_campaign_track
   match_id: PW-TRK-G2-PERSISTENT-THREAT
   set: {campaign_ref: PW-CMP-G2-PERSISTENT-THREAT, track_role: primary}
-- op: update_campaign_track
-  match_id: PW-TRK-G2-GODKILLER
-  set: {campaign_ref: PW-CMP-G2-GODKILLER, track_role: primary}
 - op: update_campaign_track
   match_id: PW-TRK-G3-NO-KINGS
   set: {campaign_ref: PW-CMP-G3-NO-KINGS, track_role: primary}
@@ -105,12 +102,14 @@ operations:
     campaign_refs: [PW-CMP-WHO-DARES-WINS, PW-CMP-G3-NO-KINGS]
     touchpoint_type: causal_handoff
 deferred_bindings:
+- campaign_ref: PW-CMP-G2-GODKILLER
+  reason: The exact stable track ID is not present in the repository-landed auditable chain; do not infer it from naming convention alone.
 - campaign_ref: PW-CMP-SEA-SPEAR
   reason: Timeline track stable ID is not repository-verifiable without the external rev1 materialization.
 - campaign_ref: PW-CMP-SEMPER-FI
   reason: Timeline track stable ID is not repository-verifiable without the external rev1 materialization.
 validation_targets:
   timeline_counts_unchanged: {eras: 7, events: 121, campaign_tracks: 21, sync_points: 19}
-  narrative_structure: {series: 1, installments: 13, campaigns: 21, resolved_track_bindings: 19, deferred_track_bindings: 2}
+  narrative_structure: {series: 1, installments: 13, campaigns: 21, resolved_track_bindings: 18, deferred_track_bindings: 3}
   duplicate_new_ids: 0
   chronology_edges_changed: 0
