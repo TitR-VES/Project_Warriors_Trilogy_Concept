@@ -1,0 +1,125 @@
+meta:
+  document_id: PW-ONT-PW-ENEMY-LOADOUTS-NONSTATE-NAMED-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_enemy_weapon_mapping_rev1.yaml
+loadouts:
+- id: PW-ELD-LOS-SIETES-SICARIO
+  enemy_type_ref: PW-ENM-LOS-SIETES-SICARIO
+  canonical_name: Los Sietes standard weapon pool
+  selection_mode: weighted_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-AKM, carry_role: primary_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: mission_only, ammunition_refs: [PW-AMM-762X39], status: confirmed}
+  - {weapon_ref: PW-WEP-WASR10, carry_role: primary_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: mission_only, ammunition_refs: [PW-AMM-762X39], status: confirmed}
+  - {weapon_ref: PW-WEP-AR15-FAMILY, carry_role: stolen_law_enforcement_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: mission_only, ammunition_refs: [PW-AMM-556-NATO], status: working}
+  - {weapon_ref: PW-WEP-GLOCK17, carry_role: sidearm, carry_state: possible, drop_policy: drops, player_pickup_state: unknown, ammunition_refs: [PW-AMM-9X19], status: working}
+  - {weapon_ref: PW-WEP-GLOCK19, carry_role: sidearm, carry_state: possible, drop_policy: drops, player_pickup_state: unknown, ammunition_refs: [PW-AMM-9X19], status: working}
+  - {weapon_ref: PW-WEP-MOSSBERG500, carry_role: shotgun, carry_state: possible, drop_policy: drops, player_pickup_state: unknown, ammunition_refs: [PW-AMM-12GA-GENERIC, PW-AMM-12GA-00-BUCK, PW-AMM-12GA-BIRDSHOT], status: working}
+  - weapon_ref: PW-WEP-SAIGA12
+    carry_role: shotgun
+    carry_state: possible
+    drop_policy: fixed_world
+    player_pickup_state: conditional
+    ammunition_refs: [PW-AMM-12GA-GENERIC]
+    status: confirmed
+    conditions: [Down Rodeo rooftop cache is a world find rather than a standard carried drop]
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-LOS-SIETES-ELITE-SICARIO
+  enemy_type_ref: PW-ENM-LOS-SIETES-ELITE-SICARIO
+  canonical_name: Los Sietes elite weapon pool
+  selection_mode: weighted_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-FN-SCAR-L, carry_role: primary_rifle, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-556-NATO], status: confirmed}
+  - {weapon_ref: PW-WEP-HK-MP5, carry_role: primary_smg, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-9X19], status: confirmed}
+  - {weapon_ref: PW-WEP-FN-FIVESEVEN, carry_role: sidearm, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-57X28], status: confirmed}
+  - {weapon_ref: PW-WEP-KRISS-VECTOR, carry_role: close_quarters_primary, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-45-ACP], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-K-LOUNGE-LIEUTENANT
+  enemy_type_ref: PW-ENM-LOS-SIETES-K-LOUNGE-LIEUTENANT
+  canonical_name: K Lounge lieutenant fixed loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-CMMG-MK47, carry_role: primary_rifle, carry_state: fixed, drop_policy: conditional, player_pickup_state: conditional, ammunition_refs: [PW-AMM-762X39], status: confirmed, conditions: [Lost if player fails to close before the lieutenant escapes]}
+  - {weapon_ref: PW-WEP-FN-FIVESEVEN, carry_role: secondary_pistol, carry_state: fixed, drop_policy: conditional, player_pickup_state: conditional, ammunition_refs: [PW-AMM-57X28], status: confirmed, conditions: [Lost with primary if the lieutenant escapes]}
+  - {weapon_ref: PW-WEP-SMOKE-GRENADE, carry_role: tactical_throwable, carry_state: conditional, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-SMOKE-GRENADE], status: confirmed, conditions: [Uses smoke if pinned]}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-BISUTRI
+  enemy_type_ref: PW-ENM-BISUTRI
+  canonical_name: Bisutri personal loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-HK416-A5, carry_role: primary_rifle, carry_state: fixed, drop_policy: conditional, player_pickup_state: unknown, ammunition_refs: [PW-AMM-556-NATO], status: confirmed}
+  - {weapon_ref: PW-WEP-FN-FIVESEVEN, carry_role: personal_sidearm, carry_state: fixed, drop_policy: conditional, player_pickup_state: conditional, ammunition_refs: [PW-AMM-57X28], status: confirmed, conditions: [Only obtainable if player defeats Bisutri directly in the later confrontation]}
+  - {weapon_ref: PW-WEP-BISUTRI-SCALPEL-BLADE, carry_role: melee_weapon, carry_state: fixed, drop_policy: conditional, player_pickup_state: unknown, ammunition_refs: [], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-MEZZANINE-AMBUSH-LEADER
+  enemy_type_ref: PW-ENM-LOS-SIETES-MEZZANINE-AMBUSH-LEADER
+  canonical_name: Mezzanine ambush leader loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-DESERT-EAGLE-MK19, carry_role: primary_or_sidearm, carry_state: fixed, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-50-AE], status: confirmed, conditions: [Seven rounds total; non-replenishable]}
+  status: confirmed
+  sources: [WCOMP]
+- {id: PW-ELD-CARTEL-GENERAL, enemy_type_ref: PW-ENM-LOS-SIETES-CARTEL-GENERAL, canonical_name: Cartel general loadout, selection_mode: fixed_or_role_defined, weapon_rules: [], status: mapping_open, sources: [WCOMP], unresolved_fields: [all weapon rules]}
+- {id: PW-ELD-KYSC-CONDITIONED-OPERATIVE, enemy_type_ref: PW-ENM-KYSC-CONDITIONED-OPERATIVE, canonical_name: KYSC conditioned-operative loadout, selection_mode: fixed_or_role_defined, weapon_rules: [], status: mapping_open, sources: [WCOMP], unresolved_fields: [all weapon rules, drop behavior]}
+- id: PW-ELD-ATLAS-PMC-OPERATOR
+  enemy_type_ref: PW-ENM-ATLAS-PMC-OPERATOR
+  canonical_name: Atlas standard operator pool
+  selection_mode: role_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-HK416-A5, carry_role: primary_rifle, carry_state: possible, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-556-NATO], status: confirmed}
+  - {weapon_ref: PW-WEP-DD-MK18, carry_role: primary_carbine, carry_state: possible, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-556-NATO], status: confirmed}
+  status: confirmed
+  sources: [WCOMP]
+- id: PW-ELD-ATLAS-PMC-ELITE
+  enemy_type_ref: PW-ENM-ATLAS-PMC-ELITE
+  canonical_name: Atlas elite operator pool
+  selection_mode: role_pool
+  weapon_rules:
+  - {weapon_ref: PW-WEP-SIG-MCX-RATTLER, carry_role: suppressed_primary, carry_state: possible, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-300-BLK-SUB, PW-AMM-300-BLK-SUPER], status: confirmed}
+  - {weapon_ref: PW-WEP-ACCURACY-AXSR, carry_role: precision_primary, carry_state: possible, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [], status: confirmed}
+  - {weapon_ref: PW-WEP-CHEYTAC-M200, carry_role: precision_primary, carry_state: rare, drop_policy: fixed_world, player_pickup_state: conditional, ammunition_refs: [PW-AMM-408-CHEYTAC], status: confirmed, conditions: [Generic security-post rifle remains unnamed and distinct from EXTREME PREJUDICE]}
+  status: working
+  sources: [WCOMP]
+- id: PW-ELD-WAR-WOLF-CRIMSON-ONE
+  enemy_type_ref: PW-ENM-WAR-WOLF-CRIMSON-ONE
+  canonical_name: CRIMSON ONE loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-SIG-MCX-I, carry_role: primary_prototype, carry_state: fixed, drop_policy: drops, player_pickup_state: conditional, ammunition_refs: [PW-AMM-556-NATO], status: confirmed}
+  - {weapon_ref: PW-WEP-HK45CT, carry_role: secondary_pistol, carry_state: fixed, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-45-ACP], status: confirmed}
+  status: confirmed
+  sources: [WCOMP, WARWOLF, REG9]
+- id: PW-ELD-WAR-WOLF-CRIMSON-TWO
+  enemy_type_ref: PW-ENM-WAR-WOLF-CRIMSON-TWO
+  canonical_name: CRIMSON TWO loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-CHEYTAC-M200, carry_role: primary_precision_rifle, carry_state: fixed, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-408-CHEYTAC], status: confirmed}
+  - {weapon_ref: PW-WEP-GLOCK34-MOS, carry_role: secondary_pistol, carry_state: fixed, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-9X19], status: confirmed}
+  status: confirmed
+  sources: [WCOMP, WARWOLF, REG9]
+- id: PW-ELD-WAR-WOLF-CRIMSON-THREE
+  enemy_type_ref: PW-ENM-WAR-WOLF-CRIMSON-THREE
+  canonical_name: CRIMSON THREE loadout
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-DD-MK18, carry_role: primary_carbine, carry_state: fixed, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-556-NATO], status: confirmed}
+  - {weapon_ref: PW-WEP-GLOCK19, carry_role: secondary_pistol, carry_state: fixed, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-9X19], status: confirmed}
+  - {weapon_ref: PW-WEP-M67, carry_role: frag_grenade, carry_state: fixed, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-M67-FRAG], status: confirmed}
+  - {weapon_ref: PW-WEP-FLASHBANG, carry_role: flash_grenade, carry_state: fixed, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [PW-AMM-FLASHBANG], status: confirmed}
+  status: confirmed
+  sources: [WCOMP, WARWOLF, REG9]
+- id: PW-ELD-BLOMMAERT
+  enemy_type_ref: PW-ENM-BLOMMAERT
+  canonical_name: Blommaert personal protective-operations carbine
+  selection_mode: fixed_or_role_defined
+  weapon_rules:
+  - {weapon_ref: PW-WEP-SIG-MCX-SPEAR-LT-VIRTUS, carry_role: personal_primary, carry_state: fixed, drop_policy: unknown, player_pickup_state: unknown, ammunition_refs: [], status: confirmed, conditions: [Final caliber remains 5.56x45mm or .300 BLK; player acquisition not locked]}
+  status: working
+  sources: [DUE, BLOM]
