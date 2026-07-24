@@ -1,0 +1,30 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-NAMED-BUILD-BINDINGS-1-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_weapon_catalog_rev1.yaml
+  segment: 1 of 2
+named_build_bindings:
+- {named_build_ref: PW-WPN-SPOOK-GRAY-GHOST, weapon_ref: PW-WEP-NOVESKE-N4-GEN3-300, binding_status: resolved, sources: [REGBASE, REGDETAIL]}
+- {named_build_ref: PW-WPN-SPOOK-NOTHING, weapon_ref: PW-WEP-HK45CT, binding_status: resolved, sources: [REGBASE, REGDETAIL]}
+- {named_build_ref: PW-WPN-DUCKY-FREYA, weapon_ref: PW-WEP-R15-FREYA-GEN2, binding_status: resolved, sources: [REGBASE, REGDETAIL]}
+- {named_build_ref: PW-WPN-DUCKY-HUCKLEBERRY, weapon_ref: PW-WEP-CZ-P09, binding_status: resolved, sources: [REGBASE, REGDETAIL]}
+- {named_build_ref: PW-WPN-ROMEO-DONT-TREAD, weapon_ref: PW-WEP-RUGER-AC556, binding_status: resolved, sources: [REGBASE, REGDETAIL]}
+- {named_build_ref: PW-WPN-FROST-TRG-M10, weapon_ref: PW-WEP-SAKO-TRGM10, binding_status: resolved, sources: [REGBASE, REGDETAIL]}
+- {named_build_ref: PW-WPN-SWITCHBLADE-WREN, weapon_ref: PW-WEP-F88-AUSTEYR, binding_status: resolved, sources: [REGBASE, REGDETAIL]}
+- {named_build_ref: PW-WPN-LUPIN-ARGINT, weapon_ref: PW-WEP-FN-SCAR-H, binding_status: resolved, sources: [REGBASE, REGDETAIL]}
+- {named_build_ref: PW-WPN-ELENA-HELL-OR-HIGH-WATER, weapon_ref: PW-WEP-M4A1, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-KEARNEY-WORK-ORDER, weapon_ref: PW-WEP-M4A1, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-ROMEO-CIVIL-DISOBEDIENCE, weapon_ref: PW-WEP-AR15-FAMILY, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-LOCK-DEADBOLT, weapon_ref: PW-WEP-HK416-A5, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-MALLET-HINGE, weapon_ref: PW-WEP-BT-APC223-PRO, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-SUTURE-TRIAGE, weapon_ref: PW-WEP-HK416-A5, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-SPLICE-GHOST-KEY, weapon_ref: PW-WEP-CZ-BREN2-MS, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-LA-AVISPA-CATCH-22, weapon_ref: PW-WEP-RUGER-LCP2, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-SPOOK-BACKUP-PLAN, weapon_ref: PW-WEP-HK-MP7A1, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-HAWTHORNE-DEAD-BLOW, weapon_ref: PW-WEP-HK-MP5SD, binding_status: resolved, sources: [BATCH6]}
+- {named_build_ref: PW-WPN-SAKHALIN-DEAD-RECKONING, weapon_ref: PW-WEP-AK105, binding_status: resolved, sources: [DEADREC]}
+- {named_build_ref: PW-WPN-SPOOK-STAPLER, weapon_ref: PW-WEP-BT-APC9K, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-STOCKBRIDGE-ENFANT-TERRIBLE, weapon_ref: PW-WEP-GLOCK26-MOS, binding_status: resolved, sources: [REGBASE]}
+- {named_build_ref: PW-WPN-CHRIS-LAST-RESORT, weapon_ref: PW-WEP-M16A4, binding_status: resolved, sources: [REGBASE]}
