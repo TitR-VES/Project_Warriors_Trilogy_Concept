@@ -1,0 +1,107 @@
+PROJECT WARRIORS — FIRST-PERSON WEAPON ANIMATION REFERENCE STANDARD
+Generated: 2026-07-24
+Version: rev1
+Status: APPROVED REFERENCE WORKFLOW / PRODUCTION SPECIFICATIONS OPEN
+Recovered from: July 16–17 live-action NOTHING reload and suppressor-reference threads
+
+PURPOSE
+Establish how live-action replica footage may be used to guide first-person weapon animation, inspect behavior, configuration actions, and internal presentation reels without confusing reference footage with final game animation or canon audiovisual assets.
+
+REFERENCE-MATERIAL RULE
+- Use high-accuracy airsoft/replica platforms only in owner-produced reference footage unless a separately governed professional production authorizes otherwise.
+- Reference footage records manipulation rhythm, hand path, weight response, occlusion, camera relation, and character register.
+- It is not a frame-for-frame animation mandate.
+- No original uploaded video is repository-landed in this pass; the archive preserves only the approved direction and metadata.
+
+FIRST APPROVED REFERENCE
+Weapon/build: NOTHING.
+Platform: H&K HK45C representation.
+Character: Trevor Albertson Gartner / Spook.
+Reference scope:
+- first-person reload/manipulation cycle;
+- press-check / readiness handling;
+- inspect-view transition;
+- suppressor attachment in first person;
+- temporary configuration-prompt mockup during inspect.
+
+CHARACTER HANDLING REGISTER
+Spook's handling should read as deliberate, economical, and professionally unhurried:
+- no flourish for its own sake;
+- every movement has a reason;
+- speed comes from preparation and path economy, not frantic motion;
+- readiness checks should feel habitual rather than performative.
+
+REFERENCE-CAPTURE PRIORITIES
+Future captures should distinguish:
+- empty/emergency reload;
+- tactical reload with partial-magazine retention;
+- chamber/press check;
+- draw and return-to-ready;
+- inspect entry/exit;
+- suppressed and unsuppressed weight states;
+- attachment/removal sequence where gameplay permits it;
+- dominant/support-hand visibility and wrist limits;
+- movement while standing, crouched, and behind cover where needed.
+
+QUALITY TARGETS
+Working recommendations, not immutable specifications:
+- record at 60 fps or higher where possible;
+- use a clean camera application without unwanted processing/overlay artifacts;
+- preserve enough shutter clarity to read finger and magazine path;
+- capture at least one natural-speed take and one slower clean take;
+- keep the camera relation close to the intended in-game eye/weapon axis;
+- record clean mechanical/handling audio when practical;
+- identify replica, configuration, and safety state in accompanying notes.
+
+SUPPRESSED-WEIGHT RULE
+NOTHING's canonical suppressor changes front weight and manipulation dynamics. An unsuppressed take remains valid for base handling, but production should obtain a suppressed-configuration take before finalizing attachment, inspect, and sustained-ready animation. Current named-weapon sources control the exact suppressor specification.
+
+INSPECT / CONFIGURATION UI BOUNDARY
+- The weapon inspect view may briefly expose configuration actions and their keys/buttons.
+- Prompts are contextual to inspect, not persistent combat HUD chrome.
+- Current UI Prompt System Design controls typography, placement, naming, and action-prompt behavior.
+- The mockup in the reference clip is directional evidence, not the final UI asset.
+- Attachment actions should have physical time and authored state change rather than instant menu substitution.
+
+ANIMATION DIRECTION
+Animators should extract:
+- believable hand-path arcs;
+- realistic moments where the weapon occludes the view;
+- inertia and settle after magazine insertion or attachment torque;
+- support-hand repositioning;
+- the difference between a check and a reload;
+- character-specific pace.
+
+Do not copy:
+- accidental hesitation caused by reference-performer practice level;
+- camera shake unrelated to desired player movement;
+- replica-specific limitations that contradict the fictional weapon configuration;
+- unsafe or implausible handling;
+- presentation-edit timing as if it were gameplay timing.
+
+REFERENCE-VIDEO PRESENTATION MUSIC
+Approved standard practice:
+- internal/reference edits may use unobtrusive backing music when it helps cover ambient hum and makes review more watchable without masking weapon sounds;
+- mechanical sounds must remain clean and legible above the music;
+- Benjamin Tissot's MOOSE was the accepted reference-track example for the NOTHING suppressor clip;
+- any external/presentation use requires a valid license and attribution/license-ID record;
+- when clearance is absent, keep the music-bearing edit internal, secure a license, replace the track, or deliver a clean no-music version;
+- reference-video backing music is not automatically game soundtrack canon.
+
+DELIVERY PACKAGE FOR EACH FUTURE CLIP
+- clear clip name and date;
+- represented character/build/platform;
+- replica/configuration disclosure;
+- action list and intended animation use;
+- known inaccuracies or missing configuration weight;
+- clean/no-music version where available;
+- music credit/license note for any presentation edit;
+- selected frame/contact sheet only if useful for review.
+
+OPEN FLAGS
+- final capture resolution, shutter, lens/FOV, and camera-rig standard;
+- final in-engine playback timing targets;
+- full character handling-register library;
+- whether an external presentation reel is produced;
+- archival location for future video masters and licenses;
+- exact inspect animation durations per weapon family.
