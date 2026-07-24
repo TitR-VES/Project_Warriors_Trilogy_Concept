@@ -1,0 +1,111 @@
+================================================================================
+PROJECT WARRIORS — WORKING COMPENDIUM 04 ADDENDUM
+NAMED WEAPON GLOBAL REGISTRY LANDING
+Generated: 2026-07-24
+Version: rev3
+================================================================================
+Status: compendium bridge; source pages remain authoritative
+Supersedes: PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-20_rev2.txt
+
+PURPOSE
+Carry the current global named-weapon authority chain into the working knowledge
+layer and correct the War Wolves identity mapping without rewriting the inherited
+Compendium 04 corpus in place.
+
+CONTROLLING INDEX
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+- v2.9 inherits all unchanged v2.8 entries and controls all conflicts
+
+CURRENT EXTREME PREJUDICE SOURCE
+- dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev2.txt
+- character/lore authority:
+  dev_src_docs/worldbuilding/PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+
+--------------------------------------------------------------------------------
+KEY CORRECTION — WAR WOLVES
+--------------------------------------------------------------------------------
+
+Final identity/role map:
+- CRIMSON ONE   = Richard "Digger" Graves — close quarters / point
+- CRIMSON TWO   = Lawrence "Rip" Mansell — overwatch / precision
+- CRIMSON THREE = Dermot "Lucky" Underwood — breacher / support
+
+EXTREME PREJUDICE is Mansell's personal CheyTac M200 Intervention named build.
+Mansell is CRIMSON TWO, not CRIMSON THREE.
+
+This is an identity remap into the pre-existing precision slot:
+- the CheyTac M200 remains with CRIMSON TWO;
+- the suppressed Mk18 support package remains with CRIMSON THREE;
+- Mansell and Underwood exchange the earlier provisional designations;
+- Graves remains CRIMSON ONE.
+
+The July 20 rev2 addendum statement assigning EXTREME PREJUDICE to CRIMSON THREE is
+superseded.
+
+--------------------------------------------------------------------------------
+OTHER RETAINED REGISTRY CORRECTIONS
+--------------------------------------------------------------------------------
+
+1. SAVING GRACE is an M1911A1, not a SIG P226.
+2. STAPLER is locked canon for Spook, not a provisional APC9K candidate.
+3. DEAD BLOW and DEADBOLT are distinct builds.
+4. DON'T TREAD retires after the Game 2 Act II militia-recognition beat.
+5. Stable IDs replace bare global build numbers; old ordinal labels are aliases.
+6. LONG CALL is Howler's named build. Its platform and exact first-use placement
+   remain unrecovered and must not be invented.
+7. Dingo and Beaver retain owner-specific named-build recovery slots, but their exact
+   names and platforms remain unrecovered.
+8. DEAD RECKONING remains Denis "Sakhalin" Malinin's working source-ready AK-105
+   build for The Storm DLC.
+
+--------------------------------------------------------------------------------
+REGISTRY SCOPE
+--------------------------------------------------------------------------------
+
+The v2.9 authority chain records 36 named firearm identities:
+- 25 substantially specified or source-associated identities;
+- 11 recovery-status identities with incomplete source details;
+- 2 additional owner-specific recovery slots whose build names are not recovered
+  and therefore are not included in the named-identity total.
+
+The War Wolves correction changes no counts.
+
+--------------------------------------------------------------------------------
+EXTREME PREJUDICE QUICK REFERENCE
+--------------------------------------------------------------------------------
+
+Stable ID: PW-WPN-MANSELL-EXTREME-PREJUDICE
+Build: EXTREME PREJUDICE
+Platform: CheyTac M200 Intervention, .408 CheyTac
+Owner: Lawrence "Rip" Mansell
+Designation: CRIMSON TWO
+Role: overwatch / precision
+Placement: Riptide Red finale / SINS OF OUR FATHERS
+Status: core identity locked; exact configuration pending
+
+Generic/security-post CheyTac M200 rifles remain unnamed. Underwood's current
+CRIMSON THREE support package also remains unnamed unless a later source promotes it.
+
+--------------------------------------------------------------------------------
+SOURCE-RECOVERY RULE
+--------------------------------------------------------------------------------
+
+Do not silently fill unresolved fields from naming vibes, role assumptions or
+analogy. Recover the originating source or perform a new explicit canon adjudication,
+then update the dedicated source page, registry and working-knowledge layer.
+
+--------------------------------------------------------------------------------
+SUPERSESSION NOTE
+--------------------------------------------------------------------------------
+
+- v2.9 controls the project-wide registry for all conflicts and inherits unchanged
+  v2.8 entries.
+- EXTREME_PREJUDICE_Build_Spec_rev2.txt controls over rev1.
+- The July 24 War Wolves / Oscar Four Delta source controls legal identities,
+  service nicknames, wrist marks and buried origin lore.
+- Older numbered named_weapon_builds_v2_1/v2_2 files remain useful detailed records
+  for their original entries but are not a complete global inventory.
+
+================================================================================
+END — COMPENDIUM 04 NAMED WEAPONS ADDENDUM rev3
+================================================================================
