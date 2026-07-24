@@ -1,17 +1,9 @@
-# ==============================================================================
-# PROJECT WARRIORS — ONTOLOGY SCHEMA: WORLD EVENT TIMELINE
-# pw_world_event.schema.yaml — rev1 (2026-07-21)
-# ==============================================================================
-# This missing companion schema is added because the rev1 timeline declared it
-# as a dependency, but neither the uploaded ontology pair nor the audited repo
-# contained the file.
-# ==============================================================================
 meta:
-  generated: '2026-07-21'
-  revision: rev1
-  governance: This schema validates the Project Warriors event timeline as a graph of eras, events, campaign
-    tracks, and synchronization dependencies. Relative chronology is preferred over invented absolute
-    dates.
+  generated: '2026-07-24'
+  revision: rev2
+  supersedes: pw_world_event.schema.yaml rev1
+  governance: Validates the Project Warriors event timeline as a graph of eras, events, campaign tracks, synchronization
+    dependencies, and narrative-structure references. Relative chronology is preferred over invented absolute dates.
 schema:
   document: world_event_timeline
   top_level_required:
@@ -34,6 +26,7 @@ schema:
     event: PW-EVT-{NAME}
     campaign_track: PW-TRK-{NAME}
     sync_point: PW-SYN-{NAME}
+    campaign: PW-CMP-{NAME}
   era_fields:
     id: {type: string, required: true}
     name: {type: string, required: true}
@@ -61,7 +54,18 @@ schema:
     title: {type: string, required: true}
     historical_titles: {type: list, items: string, required: false}
     historical_aliases: {type: list, items: string, required: false}
-    installment: {type: string, required: true}
+    installment:
+      type: string
+      required: true
+      deprecated_after: rev2.10; compatibility display only
+    campaign_ref:
+      type: campaign_ref
+      required: false
+      required_from: rev2.10 when binding is resolved
+    track_role:
+      type: enum
+      values: [primary, primary_non_contiguous, selective_flashback, prologue, epilogue, parallel_subtrack]
+      required: false
     protagonist:
       type: [string, 'null']
       required: true
@@ -77,6 +81,11 @@ schema:
     kind: {type: string, required: true}
     event: {type: event_ref, required: false}
     tracks: {type: list, items: campaign_track_ref, required: true}
+    campaign_refs: {type: list, items: campaign_ref, required: false}
+    touchpoint_type:
+      type: enum
+      values: [intersection, overlap, parallelism, shared_event, causal_handoff, information_handoff, branch_dependent_convergence]
+      required: false
     depends_on_events: {type: list, items: event_ref, required: false}
     description: {type: string, required: true}
     retcon_sensitivity:
@@ -102,6 +111,7 @@ schema:
   - All IDs must be unique within their entity set.
   - Era sequence values must be unique and strictly increasing.
   - Every era, event, track, and sync-point reference must resolve.
+  - From rev2.10 onward, every non-deferred campaign_ref must resolve in the pw_narrative_structure_rev1.yaml bundle or its explicit successor.
   - No campaign track may run parallel with itself.
   - No event may be ordered before or after itself.
   - Historical titles and aliases never replace the canonical title or stable ID.
@@ -109,3 +119,5 @@ schema:
   - A name-only mission retitle preserves chronology and event identity unless an explicit ID migration is authorized.
   - The graph must remain acyclic when only after/before edges are considered.
   - Absolute dates are permitted only when a lock source exists or the date is otherwise explicitly canonized.
+  - The legacy installment string is compatibility display metadata after rev2.10; installment membership is derived through campaign_ref.
+  - Deferred Sea Spear and Semper Fi bindings must not be guessed or materialized until their external-base track IDs are recovered.
