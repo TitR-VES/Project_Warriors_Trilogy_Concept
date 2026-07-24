@@ -1,0 +1,129 @@
+meta:
+  generated: '2026-07-24'
+  revision: rev1
+  document: narrative_structure
+  governance: Validates Project Warriors series, installment, campaign, timeline-track binding, and cross-story
+    touchpoint vocabulary. Narrative source pages control story meaning; this ontology projects identity and containment
+    without duplicating event chronology.
+schema:
+  top_level_required:
+  - meta
+  - series
+  - installments
+  - campaigns
+  - track_bindings
+  - touchpoint_types
+  status_values:
+  - locked
+  - confirmed
+  - working
+  - provisional
+  - flagged
+  - source_recovery_required
+  - superseded
+  title_status_values:
+  - locked
+  - confirmed
+  - working
+  - provisional
+  - source_recovery_required
+  installment_type_values:
+  - main_game
+  - dlc
+  - standalone_expansion
+  campaign_type_values:
+  - main_campaign
+  - dlc_campaign
+  binding_status_values:
+  - resolved
+  - external_base_identifier_recovery_required
+  - superseded
+  track_role_values:
+  - primary
+  - primary_non_contiguous
+  - selective_flashback
+  - prologue
+  - epilogue
+  - parallel_subtrack
+  id_patterns:
+    series: ^PW-SER-[A-Z0-9-]+$
+    installment: ^PW-INS-[A-Z0-9-]+$
+    campaign: ^PW-CMP-[A-Z0-9-]+$
+    timeline_track: ^PW-TRK-[A-Z0-9-]+$
+  series_fields:
+    id: {type: string, required: true}
+    canonical_title: {type: string, required: true}
+    installment_refs: {type: list, items: installment_ref, required: true}
+    status: {type: status, required: true}
+    sources: {type: list, items: string, required: true}
+  installment_fields:
+    id: {type: string, required: true}
+    series_ref: {type: series_ref, required: true}
+    canonical_title: {type: string, required: true}
+    title_status: {type: title_status, required: true}
+    installment_type:
+      type: enum
+      values: [main_game, dlc, standalone_expansion]
+      required: true
+    series_order:
+      type: [integer, 'null']
+      required: true
+    campaign_refs: {type: list, items: campaign_ref, required: true}
+    brand_parent_installment_ref:
+      type: [installment_ref, 'null']
+      required: false
+    chronology_overlap_installment_refs: {type: list, items: installment_ref, required: false}
+    historical_titles: {type: list, items: string, required: false}
+    alternative_stylings: {type: list, items: string, required: false}
+    unresolved_fields: {type: list, items: string, required: false}
+    status: {type: status, required: true}
+    sources: {type: list, items: string, required: true}
+    notes: {type: string, required: false}
+  campaign_fields:
+    id: {type: string, required: true}
+    installment_ref: {type: installment_ref, required: true}
+    canonical_title: {type: string, required: true}
+    title_status: {type: title_status, required: true}
+    campaign_type:
+      type: enum
+      values: [main_campaign, dlc_campaign]
+      required: true
+    campaign_order_within_installment:
+      type: [integer, 'null']
+      required: true
+    protagonists: {type: list, items: protagonist_object, required: true}
+    temporal_modes: {type: list, items: string, required: true}
+    timeline_track_refs: {type: list, items: timeline_track_ref, required: false}
+    binding_status: {type: binding_status, required: true}
+    historical_titles: {type: list, items: string, required: false}
+    historical_aliases: {type: list, items: string, required: false}
+    unresolved_fields: {type: list, items: string, required: false}
+    status: {type: status, required: true}
+    sources: {type: list, items: string, required: true}
+    notes: {type: string, required: false}
+  track_binding_fields:
+    campaign_ref: {type: campaign_ref, required: true}
+    timeline_track_ref:
+      type: [timeline_track_ref, 'null']
+      required: true
+    track_role: {type: track_role, required: true}
+    binding_status: {type: binding_status, required: true}
+    sources: {type: list, items: string, required: true}
+    recovery_note: {type: string, required: false}
+  touchpoint_type_fields:
+    id: {type: string, required: true}
+    definition: {type: string, required: true}
+    direct_interaction_required: {type: boolean, required: true}
+  validation_rules:
+  - All series, installment, campaign, and resolved timeline-track IDs must be unique.
+  - Every installment_ref and campaign_ref must resolve inside the narrative-structure document.
+  - Every campaign must belong to exactly one installment.
+  - Every installment campaign_refs list must exactly match campaigns that point back to that installment.
+  - A resolved track binding must contain a non-null timeline_track_ref.
+  - An external_base_identifier_recovery_required binding must keep timeline_track_ref null and explain recovery in recovery_note.
+  - No exact dates or event ordering may be duplicated here; chronology belongs to the world-event timeline.
+  - Series order describes release/numbered structure only and must not be used as fictional chronology.
+  - Historical titles and aliases never replace stable IDs or canonical titles.
+  - War Within branding parentage and its Game 4 chronology overlap must remain separate concepts.
+  - A timeline materialization at rev2.10 or later must resolve campaign_ref values against this ontology.
+  - Cross-story touchpoint classification enriches sync points but does not replace their event/track dependency graph.
