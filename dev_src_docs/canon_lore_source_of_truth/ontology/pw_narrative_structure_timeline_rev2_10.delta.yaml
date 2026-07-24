@@ -1,0 +1,116 @@
+meta:
+  delta_id: PW-ONT-NARRATIVE-STRUCTURE-TIMELINE-2026-07-24-REV1
+  generated: '2026-07-24'
+  timeline_applies_to: pw_world_event_timeline_rev2_9.yaml
+  timeline_produces: pw_world_event_timeline_rev2_10.yaml
+  narrative_structure_requires: pw_narrative_structure_rev1.yaml
+  status: additive_compatibility_delta
+  chronology_changes: false
+  workaround:
+    reason: The original rev1 materialized timeline is not repository-landed.
+    method: Enrich only repo-supported stable tracks. Keep Sea Spear and Semper Fi bindings deferred until their external-base track IDs are recovered.
+    resolved_bindings: 19
+    deferred_bindings: 2
+  sources:
+  - dev_src_docs/canon_lore_source_of_truth/ontology/README.md
+  - dev_src_docs/canon_lore_source_of_truth/PW_Ontology_Canon_Corrections_2026-07-21_rev1.txt
+  - dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt
+  - dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt
+operations:
+- op: update_campaign_track
+  match_id: PW-TRK-G1-LEAD-THE-WAY
+  set: {campaign_ref: PW-CMP-G1-LEAD-THE-WAY, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G1-DO-RIGHT-FEAR-NONE
+  set: {campaign_ref: PW-CMP-G1-DO-RIGHT-FEAR-NONE, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G1-RIPTIDE-RED-SPOOK
+  set: {campaign_ref: PW-CMP-G1-RIPTIDE-RED, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G2-AMERICAN-FREEDOM
+  set: {campaign_ref: PW-CMP-G2-AMERICAN-FREEDOM, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G2-PERSISTENT-THREAT
+  set: {campaign_ref: PW-CMP-G2-PERSISTENT-THREAT, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G2-GODKILLER
+  set: {campaign_ref: PW-CMP-G2-GODKILLER, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G3-NO-KINGS
+  set: {campaign_ref: PW-CMP-G3-NO-KINGS, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G3-FAILSAFE
+  set: {campaign_ref: PW-CMP-G3-FAILSAFE, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G3-DARK-SKIES
+  set: {campaign_ref: PW-CMP-G3-DARK-SKIES, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G4-COMMAND-AUTHORITY
+  set: {campaign_ref: PW-CMP-G4-COMMAND-AUTHORITY, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G4-COMMON-PICTURE
+  set: {campaign_ref: PW-CMP-G4-COMMON-PICTURE, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-G4-PERMANENT-RECORD
+  set: {campaign_ref: PW-CMP-G4-PERMANENT-RECORD, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-WHO-DARES-WINS
+  set: {campaign_ref: PW-CMP-WHO-DARES-WINS, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-WASP
+  set: {campaign_ref: PW-CMP-THE-WASP, track_role: primary_non_contiguous}
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-STORM
+  set: {campaign_ref: PW-CMP-THE-STORM, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-HOME-DEFENSE
+  set: {campaign_ref: PW-CMP-HOME-DEFENSE, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-WAR-WITHIN
+  set: {campaign_ref: PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-THE-COLLAPSE
+  set: {campaign_ref: PW-CMP-THE-COLLAPSE, track_role: primary}
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-NIGHTFALL
+  set: {campaign_ref: PW-CMP-NIGHTFALL, track_role: primary}
+- op: update_sync_point
+  match_id: PW-SYN-G1-THREE-CAMPAIGN-SPINES
+  set:
+    campaign_refs: [PW-CMP-G1-LEAD-THE-WAY, PW-CMP-G1-DO-RIGHT-FEAR-NONE, PW-CMP-G1-RIPTIDE-RED]
+    touchpoint_type: shared_event
+- op: update_sync_point
+  match_id: PW-SYN-G4-WAR-WITHIN
+  set:
+    campaign_refs: [PW-CMP-G4-COMMAND-AUTHORITY, PW-CMP-G4-COMMON-PICTURE, PW-CMP-G4-PERMANENT-RECORD, PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA]
+    touchpoint_type: parallelism
+- op: update_sync_point
+  match_id: PW-SYN-WAR-WITHIN-PERMANENT-RECORD
+  set:
+    campaign_refs: [PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA, PW-CMP-G4-PERMANENT-RECORD, PW-CMP-G4-COMMAND-AUTHORITY]
+    touchpoint_type: causal_handoff
+- op: update_sync_point
+  match_id: PW-SYN-STORM-OUTER-PORT
+  set:
+    campaign_refs: [PW-CMP-THE-STORM, PW-CMP-G3-DARK-SKIES]
+    touchpoint_type: intersection
+- op: update_sync_point
+  match_id: PW-SYN-STORM-CONTINUITY
+  set:
+    campaign_refs: [PW-CMP-THE-STORM, PW-CMP-G3-DARK-SKIES, PW-CMP-NIGHTFALL]
+    touchpoint_type: causal_handoff
+- op: update_sync_point
+  match_id: PW-SYN-WDW-NO-KINGS-BOSTON-HANDOFF
+  set:
+    campaign_refs: [PW-CMP-WHO-DARES-WINS, PW-CMP-G3-NO-KINGS]
+    touchpoint_type: causal_handoff
+deferred_bindings:
+- campaign_ref: PW-CMP-SEA-SPEAR
+  reason: Timeline track stable ID is not repository-verifiable without the external rev1 materialization.
+- campaign_ref: PW-CMP-SEMPER-FI
+  reason: Timeline track stable ID is not repository-verifiable without the external rev1 materialization.
+validation_targets:
+  timeline_counts_unchanged: {eras: 7, events: 121, campaign_tracks: 21, sync_points: 19}
+  narrative_structure: {series: 1, installments: 13, campaigns: 21, resolved_track_bindings: 19, deferred_track_bindings: 2}
+  duplicate_new_ids: 0
+  chronology_edges_changed: 0
