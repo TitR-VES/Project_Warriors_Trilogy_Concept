@@ -1,10 +1,10 @@
 PROJECT WARRIORS — GAME 1 TRANSCRIPT RECOVERY PACKET
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 Status: SOURCE-LANDED CAMPAIGN-SPINE AUTHORITY / IMPLEMENTATION WORKING
 
 01. ROMEO — CRITTER SQUAD: LEAD THE WAY
-Playable lead: LT Ramón “Romeo” Álvarez. Unit: Fire Team Delta, 75th Ranger
+Playable lead: SSG Ramón “Romeo” Álvarez. Unit: Fire Team Delta, 75th Ranger
 Regiment. Squad: Dingo, Howler, Beaver.
 
 Campaign thesis:
@@ -65,6 +65,9 @@ Recovered working mission directions include QUIET WATER / WHITE BLIND, but exac
 numbering and titles outside already locked anchors remain subject to the dedicated
 Ducky campaign source hierarchy.
 
+Focused opening/infrastructure companion source:
+dev_src_docs/story_campaigns/Game1/Ducky/PW_Do_Right_Fear_None_Opening_Infrastructure_Source_2026-07-24_rev1.txt
+
 03. SPOOK — RIPTIDE RED
 Playable lead: Trevor Albertson Gartner / Spook. Team: Reid Franklin Bartlett / Tripper
 and Daniel Benjamin Oakenfold / Smoke.
@@ -93,3 +96,6 @@ Protected continuity:
 - Spook's correct surname is Gartner; current-facing material does not use Captain as a
   default contemporary title.
 - STAPLER is already governed by its dedicated source and is not duplicated here.
+
+Focused mission-burst companion source:
+dev_src_docs/story_campaigns/Game1/Spook/PW_Riptide_Red_Mission_Burst_Source_2026-07-24_rev1.txt
