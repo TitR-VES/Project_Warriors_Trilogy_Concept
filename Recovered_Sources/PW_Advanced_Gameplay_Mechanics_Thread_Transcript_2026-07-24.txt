@@ -1,0 +1,68 @@
+PROJECT WARRIORS — ADVANCED GAMEPLAY MECHANICS THREAD
+Normalized Recovery Record
+Original export date: 2026-07-24
+Repository landing: 2026-07-24
+Status: RECOVERY EVIDENCE / NOT A CURRENT-AUTHORITY SOURCE
+
+PROVENANCE NOTE
+This file preserves the complete decision state and message sequence of the owner-supplied advanced-gameplay transcript in normalized form. The original owner-supplied export is the verbatim evidence. Use the durable topic source and canon landing for current development.
+
+MESSAGE 01 — OWNER / THREAD OPEN
+- Requested warnings when a development thread exceeds approximately 20 messages.
+- Requested regular propagation of decisions, completion state, and detail into shared project memory during heavy development.
+- Opened a new advanced mechanics thread after the prior mechanics thread became long.
+- Supplied a handoff identifying:
+  * fully developed: camera/perspective, narrative prompts, perspective transition, body carrying/disposal, casualty extraction/lanyard, CASEVAC, level-design principles;
+  * pinned/partial: injury, armor/hit zones, enemy sophistication, ammo management, rangefinder, black market, support calls, stealth, faction AI, vehicles, allied NPCs, intelligence, moral choices, weapon handling;
+  * black market/acquisition interface as the requested starting topic.
+
+MESSAGE 02 — ASSISTANT / BLACK-MARKET PROPOSAL
+- Interpreted the request as the acquisition/supply interface.
+- Proposed one mechanical system expressed through character-specific UX:
+  * Romeo: physical resistance board/ledger whose density and quality visibly grow with AFC capacity;
+  * Spook: cold secure terminal/device with model designations, availability windows, and minimal paper trail;
+  * Ducky: formal DAOG logistics/requisition screen, better supplied but institutional.
+- Asked whether procurement supplements mission-issued loadouts or stands separately.
+- Asked whether acquisition uses cash, barter, favors, mission performance, or another model.
+- Suggested Romeo's occupied-Kentucky lane points toward scarcity/barter rather than a clean cash shop.
+
+MESSAGE 03 — OWNER / CONFIRMED STATE
+- Approved the black-market direction at concept level by instructing that it be pinned to the board for later return.
+- Redirected active discussion to close air support and related support mechanics such as artillery/intercept.
+
+MESSAGE 04 — ASSISTANT / SUPPORT-MECHANIC PROPOSALS
+- Restated the existing support-asset register: support should feel like an event, not a spammed tool.
+- Identified Ducky's support suite and contrasted Romeo's improvised access with Spook's covert/off-book access.
+- Proposed, but did not receive owner confirmation for:
+  * locking a device/inventory model over scripted support zones;
+  * Ducky using formal radio/grid procedure;
+  * Romeo using unreliable plain-language resistance contacts;
+  * Spook pre-arranging or activating pre-positioned assets;
+  * artillery as mechanically distinct from CAS through delay, invisible flight, broad impact area, and standoff management;
+  * laser designation for close-contact PHAETON support and grid coordinates for KERAUNOS precision support;
+  * story-gated rather than resource-purchased growth of Romeo's support access.
+- Offered the next decision point: call procedure/player-hands view, delay/feedback model, or per-character differentiation.
+
+MESSAGE 05 — OWNER / EXPORT REQUEST
+- Requested the entire thread as a downloadable plain-text file.
+- No further mechanics proposal was approved in this exchange.
+
+DECISION STATE AT EXPORT
+CONFIRMED / SAFE TO PROMOTE
+- Black-market/procurement topic pinned for development.
+- Character-specific presentation direction accepted at concept level and later independently reaffirmed in project canon as one shared hidden system with three campaign shells.
+
+OPEN / NOT CANONIZED BY THIS THREAD
+- procurement relationship to mission-issued loadouts;
+- currency/barter/favor/performance equation;
+- exact DAOG/Agency/resistance resource rules;
+- device-versus-zone support implementation;
+- exact per-character call procedure;
+- artillery timing/standoff model;
+- laser-versus-grid designation split;
+- story-gated Romeo support progression.
+
+CURRENT SOURCE POINTERS
+- `dev_src_docs/gameplay_mechanics/PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt`
+- `dev_src_docs/canon_lore_source_of_truth/PW_Legacy_Thread_Canon_Landing_2026-07-24_rev1.txt`
+- `Project_Warriors_Knowledge_Compendia/PW_Legacy_Thread_Recovery_Addendum_2026-07-24_rev1.txt`
