@@ -1,0 +1,122 @@
+PROJECT WARRIORS — NARRATIVE STRUCTURE ONTOLOGY LANDING AUDIT
+Generated: 2026-07-24
+Version: rev1
+Status: IMPLEMENTATION COMPLETE / DRAFT PR REVIEW REQUIRED
+
+================================================================================
+01. PURPOSE
+================================================================================
+Create a machine-readable, human-friendly ontology for the Project Warriors series,
+its main installments and DLC/expansion installments, their constituent campaigns,
+and the bindings between campaigns and the world-event timeline.
+
+================================================================================
+02. DELIVERED LAYER
+================================================================================
+- schema/pw_narrative_structure.schema.yaml
+- pw_narrative_structure_rev1.yaml bundle manifest
+- pw_narrative_structure_installments_rev1.yaml
+- pw_narrative_structure_campaigns_main_rev1.yaml
+- pw_narrative_structure_campaigns_extended_rev1.yaml
+- pw_narrative_structure_bindings_rev1.yaml
+- pw_narrative_structure_timeline_rev2_10.delta.yaml
+- world-event schema rev2 with campaign/touchpoint extension fields
+- ontology README refresh
+
+Projection inventory:
+- 1 series
+- 13 installments
+- 21 campaigns
+- 18 repository-verifiable resolved timeline-track bindings
+- 3 deliberately deferred bindings
+- 7 controlled cross-story touchpoint types
+
+================================================================================
+03. WORKAROUND FOR THE MISSING MATERIALIZED TIMELINE BASE
+================================================================================
+The repository does not contain the original pw_world_event_timeline_rev1.yaml or a
+fully materialized current timeline. The existing ontology is represented through an
+auditable patch-and-delta chain.
+
+This landing therefore does not attempt to reconstruct the absent base. It:
+1. creates a standalone modular narrative-structure bundle that validates independently;
+2. enriches only stable track IDs present in the repository-landed auditable chain;
+3. targets the current rev2.9 projection with an additive rev2.10 delta;
+4. makes no chronology, event-order, era, or count changes;
+5. leaves GODKILLER, SEA SPEAR, and SEMPER FI track bindings null and explicitly recovery-required.
+
+This is safer than guessing three non-verifiable track IDs or adding duplicate tracks
+that may already exist in the absent materialization.
+
+================================================================================
+04. TITLE / CONTAINMENT DECISIONS
+================================================================================
+- Series root: PROJECT WARRIORS.
+- Main installments: Games 1–4.
+- Each main installment contains its three protagonist campaigns.
+- WAR WITHIN is the installment/DLC title.
+- AMERICAN GUERRILLA is the campaign inside WAR WITHIN.
+- PROJECT WARRIORS III: WAR WITHIN is retained as alternative numbered styling.
+- War Within brand parentage (Game 3) is separate from chronology overlap (Game 4).
+- THE WASP is non-contiguous: a Game 2-overlap primary spine plus selective flashbacks.
+- HOME DEFENSE and Game 4 external titles remain working where source authority remains working.
+
+================================================================================
+05. TOUCHPOINT VOCABULARY
+================================================================================
+Controlled values:
+- intersection
+- overlap
+- parallelism
+- shared_event
+- causal_handoff
+- information_handoff
+- branch_dependent_convergence
+
+Six existing synchronization points receive source-supported campaign-level enrichment:
+- Game 1 / PANDORA: shared_event
+- Game 4 / War Within: parallelism
+- War Within -> Permanent Record/Command Authority: causal_handoff
+- The Storm / Dark Skies at Tomakomai: intersection
+- The Storm / Dark Skies / Nightfall continuity: causal_handoff
+- Who Dares Wins -> No Kings Boston foothold: causal_handoff
+
+================================================================================
+06. VALIDATION PERFORMED
+================================================================================
+- YAML parse: PASS for all new/replaced YAML documents.
+- Narrative-structure ID uniqueness: PASS.
+- Installment <-> campaign containment symmetry: PASS.
+- Resolved track-binding uniqueness: PASS.
+- Null track IDs limited to recovery-required bindings: PASS.
+- Manifest part declarations match entity collections: PASS.
+- Timeline delta chronology operations: ZERO.
+- New chronology edges: ZERO.
+
+Full end-to-end application against a materialized rev2.9 timeline remains impossible
+inside the repository until that materialization or a deterministic materializer is
+available. The delta is therefore reviewable and auditable, but its final projection
+application should be included in the normal post-merge ontology consistency pass.
+
+================================================================================
+07. LIVE DEPENDENCIES
+================================================================================
+- Recover or explicitly source-lock the authoritative GODKILLER timeline-track stable ID.
+- Recover the authoritative SEA SPEAR timeline-track stable ID from the external rev1 base.
+- Recover the authoritative SEMPER FI timeline-track stable ID from the external rev1 base.
+- Import or generate a materialized rev2.9/rev2.10 timeline for full cross-file validation.
+- Decide Game 4's final external installment title/styling.
+- Preserve working/open statuses for Home Defense, Storm dates, and other incomplete ladders.
+
+================================================================================
+08. RETIREMENT / MIGRATION CAUTION
+================================================================================
+No earlier timeline patch, delta, transcript source, or external rev1 ontology artifact
+is safe to retire because of this landing alone. Retirement still requires:
+- PR merge;
+- main-branch path/YAML spot-check;
+- full materialization or deterministic projection test;
+- downstream consumer migration;
+- recovery or explicit continued deferral of the three unresolved track IDs.
+
+END
