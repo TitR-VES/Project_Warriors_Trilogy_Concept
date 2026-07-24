@@ -153,11 +153,21 @@ Soft-fail opportunities:
 - missed decoy-floor intel;
 - early compromise increasing lockdown density.
 
+SCRIPTING / PRODUCTION MATERIAL COMPLETED IN THREAD
+The recovered transcript contains:
+- a full mission scripting path with triggers, visibility states, fail gates, and comms;
+- a screenplay-format briefing and playable dialogue pass;
+- a director’s production pass covering camera, control, audio, lighting, music restraint, and KERAUNOS staging;
+- a cinematic shot list / beat board;
+- keyframe and model-tuned visual prompt packs.
+
+This source page is the compact controlling mission reference. The transcript remains recovery evidence for the longer authored passes until any of them are promoted into dedicated production scripts.
+
 OPEN FLAGS
 - exact mission number and final campaign slot;
 - final enemy organization/unit naming;
-- encounter-density tuning;
-- complete line-by-line screenplay implementation;
+- encounter-density tuning and final production line edit;
+- assignment of named SHIELD members versus role-based placeholders;
 - final map abstraction versus real-site fidelity;
 - exact air-tasking and ordnance production detail;
 - whether Maloměřice or airport material becomes a linked mission.
