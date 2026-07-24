@@ -1,0 +1,25 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-AMMUNITION-2-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_weapon_catalog_rev1.yaml
+  segment: 2 of 2
+ammunition:
+- {id: PW-AMM-46X30, designation: 4.6x30mm, ammunition_type: cartridge, economy_role: specialist_pdw, status: confirmed, sources: [REGBASE], compatible_weapon_refs: [PW-WEP-HK-MP7A1]}
+- {id: PW-AMM-57X28, designation: 5.7x28mm, ammunition_type: cartridge, economy_role: specialist_pdw_and_sidearm, status: working, sources: [WCOMP], notes: Standard family mapping for source-listed P90/Five-seveN; project-specific balance remains open., compatible_weapon_refs: [PW-WEP-FN-FIVESEVEN, PW-WEP-FN-P90]}
+- {id: PW-AMM-762X41-PSS2, designation: 7.62x41mm captive-piston PSS-2 ammunition, ammunition_type: cartridge, economy_role: rare_silent_specialist, status: locked, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-PSS2]}
+- {id: PW-AMM-12GA-GENERIC, designation: 12 gauge shotshell, ammunition_type: shell, economy_role: shotgun_baseline, status: confirmed, sources: [REGBASE, WCOMP], compatible_weapon_refs: [PW-WEP-BENELLI-M4-M1014, PW-WEP-BREACHING-SHOTGUN-GENERIC, PW-WEP-MOSSBERG500, PW-WEP-MOSSBERG590M, PW-WEP-REM870-TAC14, PW-WEP-SAIGA12]}
+- {id: PW-AMM-12GA-00-BUCK, designation: 12 gauge 00 buckshot, ammunition_type: shell, economy_role: close_quarters_baseline, status: confirmed, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-MOSSBERG500, PW-WEP-REM870-TAC14]}
+- {id: PW-AMM-12GA-BIRDSHOT, designation: 12 gauge birdshot, ammunition_type: shell, economy_role: civilian_improvised_low_armor_effect, status: confirmed, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-MOSSBERG500]}
+- {id: PW-AMM-12GA-DB, designation: 12GA DB / dragon's breath incendiary shell, ammunition_type: shell, economy_role: optional_objective_or_achievement_reward_specialty, status: locked_concept, special_behavior: [incendiary, environmental ignition risk, close-quarters high consequence], unresolved_fields: [exact unlock objective or achievement, availability timing, supported fire-propagation missions], sources: [STONE], compatible_weapon_refs: [PW-WEP-REM870-TAC14]}
+- {id: PW-AMM-40MM-GRENADE, designation: 40mm grenade, ammunition_type: grenade, economy_role: launcher_specialist, status: working, sources: [WCOMP], unresolved_fields: [project-wide grenade subtype table], compatible_weapon_refs: [PW-WEP-M203, PW-WEP-M320, PW-WEP-OTS14]}
+- {id: PW-AMM-SPP1M-DART, designation: SPP-1M underwater dart ammunition, ammunition_type: dart, economy_role: loaded_find_collectible_limited, status: confirmed, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-SPP1M]}
+- {id: PW-AMM-APS-DART, designation: APS underwater rifle dart ammunition, ammunition_type: dart, economy_role: loaded_mag_collectible_limited, status: confirmed, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-APS-UNDERWATER]}
+- {id: PW-AMM-RPG7-ROCKET, designation: RPG-7-family rocket, ammunition_type: rocket, economy_role: enemy_support_weapon, status: working, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-F7-RPG, PW-WEP-RPG7]}
+- {id: PW-AMM-AT4-ROUND, designation: AT4 disposable launcher round, ammunition_type: rocket, economy_role: player_support_weapon, status: working, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-AT4]}
+- {id: PW-AMM-84MM-CARL-GUSTAF, designation: 84mm Carl Gustaf round, ammunition_type: rocket, economy_role: player_support_weapon, status: working, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-CARL-GUSTAF-M4]}
+- {id: PW-AMM-BULSAE3-MISSILE, designation: Bulsae-3 anti-tank guided missile, ammunition_type: missile, economy_role: enemy_heavy_support, status: working, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-BULSAE3]}
+- {id: PW-AMM-M67-FRAG, designation: M67 fragmentation grenade, ammunition_type: thrown_explosive, economy_role: elite_enemy_throwable, status: confirmed, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-M67]}
+- {id: PW-AMM-FLASHBANG, designation: flashbang grenade, ammunition_type: thrown_nonlethal, economy_role: elite_enemy_throwable, status: confirmed, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-FLASHBANG]}
+- {id: PW-AMM-SMOKE-GRENADE, designation: smoke grenade, ammunition_type: thrown_obscurant, economy_role: elite_enemy_tactical_throwable, status: confirmed, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-SMOKE-GRENADE]}
