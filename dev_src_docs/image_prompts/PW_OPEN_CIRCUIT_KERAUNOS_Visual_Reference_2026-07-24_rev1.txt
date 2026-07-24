@@ -1,0 +1,112 @@
+PROJECT WARRIORS — OPEN CIRCUIT / KERAUNOS VISUAL REFERENCE
+Generated: 2026-07-24
+Version: rev1
+Status: LOCKED VISUAL LANGUAGE / PROMPT CORRECTION FLAGS REMAIN
+Recovered from: Brno / OPEN CIRCUIT Mission Development thread
+
+PURPOSE
+Provide the canonical visual and cinematic language for OPEN CIRCUIT, especially the Velodrom-side choke, Rafale pass, impact, and AEGIS/SHIELD recombination.
+This page controls future concept art and prompt work; individual generated previews remain non-canon until selected.
+
+ENVIRONMENT IDENTITY
+Brno Exhibition Centre / Výstaviště back-of-house service edge:
+- older and mixed-era expo hall facades;
+- loading bays, freight gates, utility fencing, contractor vans, cargo pallets, barriers, industrial lighting, wet pavement;
+- recognizably Central European civic/industrial infrastructure;
+- older city fabric beyond the perimeter without postcard landmarks.
+
+Do not use:
+downtown Brno, cathedral/old-centre hero skyline, tourist imagery, generic clean convention-center architecture, or unrelated warzone geography.
+
+KEYFRAME 1 — OUTER APPROACH
+Damp after-hours service district, closed tram stop, parked vans, partial civic normality.
+Purpose: ordinary infrastructure feels quietly wrong.
+
+KEYFRAME 2 — OBSERVATION / ROUTE READ
+Candidate halls and service lanes seen from constrained rooftop/maintenance angle.
+Purpose: security pattern reveals the route, not the obvious room.
+
+KEYFRAME 3 — DECOY FLOOR
+Convincing-at-first staged racks/cases with too-clean casters, weak wear, and presented cabling.
+Purpose: anticlimax and Ducky’s pattern recognition.
+
+KEYFRAME 4 — SERVICE INGRESS
+Concrete, conduit, freight doors, plant rooms, loading spine, partial hard contact.
+Purpose: enter the building’s bloodstream.
+
+KEYFRAME 5 — LIVE RELAY FLOOR / SHIELD EXPLOITATION
+Repurposed hall-conference crossover with portable racks, fiber, cooling, UPS blocks, civilian furniture moved aside, hard cases, and improvised workstations.
+AEGIS holds security; SHIELD photographs, scans, opens cases, and pulls the routing core.
+Purpose: technical seizure under pressure.
+
+KEYFRAME 6 — LOCKDOWN SPLIT
+Corridor junction with one route slammed shut and lower route barely viable.
+SHIELD breaks away with hard case; AEGIS pivots to the east push.
+Purpose: success becomes a trap; architecture forces separation.
+
+KEYFRAME 7 — FIRST VIEW OF THE CHOKE
+Street-level partial cover looking into a Y-shaped or compressed service-road kill corridor.
+Lead truck angled across lane, barriers shaping movement, elevated firing positions, wet pavement, industrial light, no fantasy flank.
+Purpose: make KERAUNOS necessary.
+
+KEYFRAME 8 — KERAUNOS PASS
+Grounded Ducky-adjacent perspective.
+Two Rafales cut low across the opening.
+The first is briefly readable: delta-canard shape, loaded wings, targeting-pod detail.
+The second is offset and partly masked by roof edge, smoke, or facade.
+Rule:
+Readable enough to identify, brief enough to feel dangerous.
+The frame belongs to the trapped street and strike geometry, not aircraft hero worship.
+
+KEYFRAME 9 — IMPACT
+Lead truck/barrier mass is destroyed.
+Concrete and metal kick upward.
+Upper firing positions disappear into dust, sparks, and shattered masonry.
+Violent but contained.
+Purpose: precision, not excess; the lane becomes passable rather than fantastically erased.
+
+KEYFRAME 10 — RECOMBINATION THROUGH DUST
+AEGIS pushes through debris.
+SHIELD emerges from lower lane: one covering, one moving the hard case, one helping wounded/carrying extra load.
+Ducky closes distance.
+Purpose: show what the strike saved; functional, exhausted, immediate.
+
+KEYFRAME 11 — EXFIL SIDE STREET
+Both elements leave the fairground perimeter through damaged fence/gate into darker industrial street with friendly pickup ahead.
+Purpose: city still looks like itself; the window is short.
+
+KEYFRAME 12 — RIDE-OUT
+Dim vehicle interior, hard case braced between knees, silent tired operators, Brno sliding past through dirty glass, Ducky already thinking forward.
+Purpose: one door into a larger machine.
+
+WEAPON / CHARACTER READABILITY
+Ducky’s primary must read as FREYA, not a generic AR-15:
+Grand Power R-15 Freya GEN 2, correct project configuration and current source details.
+Do not omit or recolor identity-defining attachments in weapon-accurate prompt variants.
+SHIELD kit should match the dedicated squad source: compact, professional, recovery/exploitation burden visible, no sci-fi armor or vanity styling.
+
+CINEMATIC RULES
+- grounded camera dominates;
+- aircraft are heard before clearly seen;
+- no long external jet glamour shot;
+- no heroic pause after impact;
+- post-strike movement begins immediately;
+- no overt heroic musical swell;
+- sound design carries the setpiece: air tear, impact, metal deformation, glass/masonry breakup, dust hiss, brief ear suppression, practical sound return.
+
+PROMPT CORRECTION TARGETS
+Future prompt pass should explicitly guard against:
+- wrong Rafale planform or generic fighter substitution;
+- aircraft too high, too distant, or presented as static hero objects;
+- too-clean / too-modern architecture;
+- downtown/postcard Brno drift;
+- generic assault rifle substituted for FREYA;
+- omitted FDE optic or other locked weapon cues;
+- giant blockbuster fireball or district-scale destruction;
+- SHIELD omitted or presented as undifferentiated extra riflemen;
+- generic Middle Eastern warzone aesthetics;
+- cyberpunk color grading, HUD overlays, or sci-fi gear.
+
+OPEN FLAGS
+Final prompt corrections and selected image canon remain future work in a separate thread.
+Exact shot lens, aircraft altitude, ordnance depiction, and real-site abstraction remain production decisions.
