@@ -1,0 +1,133 @@
+================================================================================
+PROJECT WARRIORS — EXTREME PREJUDICE BUILD SPECIFICATION
+rev2 — War Wolves identity reconciliation, 2026-07-24
+================================================================================
+Campaign:      Riptide Red, Game 1
+Placement:     Campaign finale / SINS OF OUR FATHERS
+Character:     Lawrence "Rip" Mansell
+War Wolf ID:   CRIMSON TWO
+Encounter role: Overwatch / precision
+Status:        LOCKED CORE IDENTITY / CONFIGURATION OPEN FOR EXPANSION
+Supersedes:    EXTREME_PREJUDICE_Build_Spec_rev1.txt where designation or role conflicts
+
+--------------------------------------------------------------------------------
+1. BUILD IDENTITY
+--------------------------------------------------------------------------------
+Build name:   EXTREME PREJUDICE
+Platform:     CheyTac M200 Intervention
+Caliber:      .408 CheyTac
+Weapon class: Long-range precision / anti-materiel-capable sniper rifle
+
+EXTREME PREJUDICE is the named CheyTac Intervention carried by CRIMSON TWO,
+Lawrence "Rip" Mansell, during the Riptide Red campaign finale.
+
+The July 22 owner-directed reconciliation preserves the existing CRIMSON TWO
+precision encounter slot and moves Mansell into it. It does not convert CRIMSON
+THREE's support slot into a sniper role.
+
+--------------------------------------------------------------------------------
+2. CHARACTER / DESIGNATION ASSOCIATION
+--------------------------------------------------------------------------------
+Canonical identity:
+- Lawrence "Rip" Mansell
+- former Oscar Four Delta core operator
+- War Wolves designation: CRIMSON TWO
+- inside-left-wrist mark: II
+
+The build name belongs to Mansell's personal rifle, not to every CheyTac M200 used
+by Atlas, the War Wolves or East McFarlane Island security personnel. Generic or
+separately serialized Interventions remain model-name weapons.
+
+SUPERSESSION
+- Lawrence Mansell / CRIMSON THREE is superseded.
+- Dermot "Lucky" Underwood now occupies CRIMSON THREE's existing breacher/support
+  slot.
+- Richard "Digger" Graves remains CRIMSON ONE.
+
+--------------------------------------------------------------------------------
+3. ENCOUNTER-SLOT CONTINUITY
+--------------------------------------------------------------------------------
+The established War Wolves encounter architecture remains:
+
+CRIMSON ONE
+- close quarters / point
+
+CRIMSON TWO
+- overwatch / precision
+- elevated ridgeline above the helipad approach
+- personal CheyTac M200
+
+CRIMSON THREE
+- breacher / support
+- suppressed compact 5.56 package under the existing source baseline
+
+This rev2 corrects which man occupies CRIMSON TWO. Earlier material that placed
+Mansell in CRIMSON THREE and then treated his M200 as a finale-primary override is
+superseded by the cleaner identity remap.
+
+--------------------------------------------------------------------------------
+4. DISTINCTNESS FROM OTHER INTERVENTIONS
+--------------------------------------------------------------------------------
+EXTREME PREJUDICE is distinct from:
+- the CheyTac M200 hidden in the East McFarlane Island security post;
+- generic Atlas / War Wolf precision-rifle inventory;
+- any separately serialized security or recovery weapon.
+
+The older phrase "CRIMSON TWO's separately serialized personal M200" now refers to
+this weapon because Mansell is CRIMSON TWO.
+
+No ammunition count, optic, suppressor, finish, stock treatment, markings or pickup
+behavior beyond the inherited encounter baseline is newly locked by this rev2.
+Those details require a dedicated finale encounter/build pass and must not be
+invented by downstream files.
+
+--------------------------------------------------------------------------------
+5. NAME LOGIC
+--------------------------------------------------------------------------------
+EXTREME PREJUDICE points backward to Mansell's CIA / Oscar Four Delta history rather
+than forward to the War Wolves' masks.
+
+The phrase should read as old clandestine-action language: cold, deniable and
+bureaucratically violent. It is not wolf branding and should not be paired with
+wolf-head engraving, claw marks, occult decoration or theatrical trophy treatment.
+
+--------------------------------------------------------------------------------
+6. INSPECT / NAMING RULE
+--------------------------------------------------------------------------------
+When inspectable, the bottom-left inspect label displays EXTREME PREJUDICE under the
+universal named-build rule.
+
+The physical placement or inscription of the name remains open. Do not assume an
+engraving, paint-marker treatment or receiver marking until specified by a later
+visual/build source.
+
+--------------------------------------------------------------------------------
+7. NARRATIVE / PRESENTATION RULE
+--------------------------------------------------------------------------------
+Presentation should emphasize disciplined range control, prepared geometry and the
+sensation that Mansell has already judged the player an acceptable target.
+
+The rifle should support the later realization that the War Wolves were not generic
+masked elite enemies. Mansell was a former Oscar Four Delta operator whose violence
+was shaped by institutional authorization, impunity and eventual service to
+Goldberg's KINGMAKER structure.
+
+Game 1 does not explain Mansell's legal identity or Oscar Four Delta history during
+the fight.
+
+--------------------------------------------------------------------------------
+8. SOURCE GOVERNANCE
+--------------------------------------------------------------------------------
+Controlling companion source:
+- dev_src_docs/worldbuilding/PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+
+Registry authority:
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+
+The rev1 source remains historical evidence of the July 20 landing but no longer
+controls the CRIMSON designation, encounter-role reconciliation or source-governance
+explanation.
+
+================================================================================
+END — EXTREME PREJUDICE BUILD SPECIFICATION rev2
+================================================================================
