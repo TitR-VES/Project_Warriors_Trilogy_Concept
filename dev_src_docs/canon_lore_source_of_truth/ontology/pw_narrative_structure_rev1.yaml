@@ -7,9 +7,9 @@ meta:
   authority: {narrative_sources: Durable source pages control story meaning and title/status locks., this_projection: Controls stable series/installment/campaign
       identities and containment., timeline: 'World-event ontology controls dates, ordering, concurrency, and synchronization dependencies.'}
   timeline_compatibility: {current_repo_projection: pw_world_event_timeline_rev2_9.yaml, integration_delta: pw_narrative_structure_timeline_rev2_10.delta.yaml,
-    workaround: The missing rev1 materialization is not imported. Repo-verifiable track IDs are enriched additively; unresolved base-only bindings
+    workaround: The missing rev1 materialization is not imported. Repository-verifiable track IDs are enriched additively; unresolved base-only bindings
       remain explicit and null.}
-  counts: {series: 1, installments: 13, campaigns: 21, resolved_track_bindings: 19, deferred_track_bindings: 2}
+  counts: {series: 1, installments: 13, campaigns: 21, resolved_track_bindings: 18, deferred_track_bindings: 3}
   document_mode: bundle_manifest
 series:
 - id: PW-SER-PROJECT-WARRIORS
