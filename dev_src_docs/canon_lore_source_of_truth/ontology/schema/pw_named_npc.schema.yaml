@@ -1,0 +1,175 @@
+meta:
+  generated: '2026-07-24'
+  revision: rev1
+  document: named_npc_catalog
+schema:
+  entity_id_patterns:
+    named_npc: ^PW-NPC-[A-Z0-9-]+$
+    appearance: ^PW-NPA-[A-Z0-9-]+$
+    named_weapon: ^PW-WPN-[A-Z0-9-]+$
+    enemy_type: ^PW-ENM-[A-Z0-9-]+$
+    installment: ^PW-INS-[A-Z0-9-]+$
+    campaign: ^PW-CMP-[A-Z0-9-]+$
+  named_npc_fields:
+    id:
+      type: string
+      required: true
+    canonical_name:
+      type: string
+      required: true
+    aliases:
+      type: list
+      items: string
+      required: false
+    npc_class:
+      type: enum
+      values:
+      - allied_combatant
+      - allied_command
+      - allied_support
+      - community_ally
+      - hostile_combatant
+      - hostile_command
+      - hostile_support
+      - hostile_power_broker
+      - ambiguous_contact
+      - branch_dependent
+      - posthumous_ally
+      required: true
+    alignment_states:
+      type: list
+      items: string
+      required: true
+    faction_affiliations:
+      type: list
+      items: string
+      required: true
+    narrative_roles:
+      type: list
+      items: string
+      required: true
+    playable_campaign_refs:
+      type: list
+      items: campaign_ref
+      required: false
+    enemy_type_refs:
+      type: list
+      items: enemy_type_ref
+      required: false
+    named_weapon_relationships:
+      type: list
+      items:
+        named_weapon_ref: named_weapon_ref
+        relationship: string
+      required: false
+    world_role:
+      type: object
+      required: true
+      fields:
+      - storytelling
+      - environmental
+      - community
+    appearance_refs:
+      type: list
+      items: appearance_ref
+      required: true
+    status:
+      type: enum
+      values:
+      - locked
+      - confirmed
+      - working
+      required: true
+    unresolved_fields:
+      type: list
+      items: string
+      required: false
+    sources:
+      type: list
+      items: source_ref
+      required: true
+  appearance_fields:
+    id:
+      type: string
+      required: true
+    npc_ref:
+      type: named_npc_ref
+      required: true
+    installment_refs:
+      type: list
+      items: installment_ref
+      required: true
+    campaign_refs:
+      type: list
+      items: campaign_ref
+      required: true
+    mission_labels:
+      type: list
+      items: string
+      required: true
+    encounter_modes:
+      type: list
+      items:
+        enum:
+        - in_person
+        - radio
+        - cinematic
+        - briefing
+        - public_broadcast
+        - environmental_trace
+        - archival_intel
+        - voice_only
+        - posthumous_artifact
+        - branch_dependent
+        - remote_contact
+        - scripted_perspective
+      required: true
+    relationship_state:
+      type: string
+      required: true
+    participation_modes:
+      type: list
+      items: string
+      required: true
+    role_functions:
+      type: object
+      required: true
+      fields:
+      - storytelling
+      - environmental
+      - community
+    named_weapon_build_refs:
+      type: list
+      items: named_weapon_ref
+      required: false
+    branch_conditions:
+      type: list
+      items: string
+      required: false
+    status:
+      type: enum
+      values:
+      - locked
+      - confirmed
+      - working
+      required: true
+    unresolved_fields:
+      type: list
+      items: string
+      required: false
+    sources:
+      type: list
+      items: source_ref
+      required: true
+  validation_rules:
+  - Named NPC and appearance IDs must be unique.
+  - Every appearance npc_ref and every entity appearance_ref must resolve reciprocally.
+  - Every installment, campaign, named-weapon, and enemy-type reference must resolve against its controlling ontology.
+  - Every campaign reference must be paired with its owning installment reference.
+  - An entity may have playable_campaign_refs only when at least one separate NPC-state appearance exists.
+  - Narrative, environmental, and community functions are independent and must not be collapsed into one generic role description.
+  - Named-weapon relationships distinguish owner/carrier, former owner, provider, builder, and temporary handoff roles.
+  - Branch-dependent survival, hostility, alliance, capture, and optional-target states must remain explicit rather than globally
+    selected.
+  - Callsign-only or incomplete identities remain working with unresolved fields; legal names must not be invented.
+  - The enemy compatibility overlay adds named_npc_ref only and changes no enemy or weapon gameplay state.
