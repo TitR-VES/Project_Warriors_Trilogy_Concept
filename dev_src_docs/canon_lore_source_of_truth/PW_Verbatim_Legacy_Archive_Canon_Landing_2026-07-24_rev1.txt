@@ -1,0 +1,104 @@
+PROJECT WARRIORS — VERBATIM LEGACY ARCHIVE CANON LANDING
+Generated: 2026-07-24
+Version: rev1
+Status: WORKING AUTHORITATIVE RECOVERY / SUPERSESSION CONTROL
+Recovered from: PW_project_thread_VERBATIM_2026-07-24.zip
+Baseline: main after merged PR #30, commit 5946c5215e40bbd39fe05bea849b9692d9bcc5ff
+
+PURPOSE
+Reconcile thirty full verbatim legacy-development transcripts against the current source tree, rev6 synthesis layer, ontology/registry work, and all later owner adjudications. Preserve detail that summary-based recovery could not safely carry while preventing old dates, grades, titles, callsigns, names, or exploratory branches from re-entering current canon.
+
+PROVENANCE RULE
+This verbatim archive supersedes the earlier summary-based upload as evidence of what was actually discussed and approved in the legacy workspace. It does not automatically supersede current repository canon. Current source pages and later explicit owner decisions remain controlling.
+
+SECURITY / PRIVACY RULE
+The raw archive is not repository-landed. Several transcripts contain historical access-token strings, hidden model-reasoning blocks, tool telemetry, local paths, and uploaded-media references. No credential strings, hidden reasoning, or raw tool payloads are promoted. The archive is recovery evidence only and should remain quarantined from the public source tree.
+
+AUTHORITY ORDER
+1. later explicit owner adjudication;
+2. later merged source/correction pages and current ontology/registry projections;
+3. explicit owner-approved decisions in the verbatim transcripts;
+4. assistant proposals accepted in context;
+5. exploratory discussion, abandoned variants, and incomplete drafts.
+
+DURABLE EXPANSIONS IN THIS LANDING
+1. AMERICAN FREEDOM / Calloway source page
+   - restores the approved campaign introduction, first five missions, resistance-cell architecture, Cody consequence, two overlapping middle-development clusters, presidential-address hinge, and the Glushkin opposition lane;
+   - keeps the middle ladder explicitly partial until a later campaign-ladder adjudication resolves ordering and consolidation.
+
+2. Glushkin / Lebedev / Lipnin sleeper-network source
+   - consolidates Brent Tibbets, Douglas Nasmith, Specter Aerospace, the June 4 activation scene, Have a good one authentication, Redbirds/Redbud motif, optional FACE TO FACE unlock, number-station burn notice, Понятно note, and Lipnin’s institutional role;
+   - protects Glushkin’s personal choice after being burned;
+   - flags the contradictory birth/recruitment arithmetic instead of inventing a repair.
+
+3. Full Game 2 teaser treatments
+   - restores the approved shot architecture for AMERICAN FREEDOM, PERSISTENT THREAT, and GODKILLER;
+   - corrects transcript-era AEGIS FALLS campaign-title use to PERSISTENT THREAT while preserving AEGIS FALLS as the finale title;
+   - treats all commercial music as licensing-dependent and the Q2 2028 card as fictional flavor, not an external release commitment.
+
+4. Full PANDORA / TETHERBREAK technical architecture
+   - expands the compact July source into the complete origin, hardware, shadow-PKI, delivery, relay, coordination, false-attribution, persistence, remediation, and engineer-dependency model;
+   - corrects activation to Thursday, September 7, 2028 and the final maintenance push to September 4;
+   - treats early node counts, dimensions, ranges, and remediation-fleet estimates as working engineering values unless separately locked.
+
+5. RIPTIDE RED mission-burst source
+   - source-lands MAN FROM MEDAN / DRAGONSLAYER, PANDORA’S BOX, and BURNING DAYLIGHT at compact mission-reference depth;
+   - points INFRASTRUCTURE DAY to its already controlling Blommaert/JUDGE ME NOT source rather than duplicating it;
+   - locks Jack PRATT and purges Pruett/Pruitt for that antagonist.
+
+6. DO RIGHT, FEAR NONE opening/infrastructure source
+   - preserves INNSWORTH as the free-roam decompression/hub arrival and STANDING WATCH as the infrastructure assignment briefing after WIRECUTTER;
+   - protects Walker, Halliday, Tremblay, CORYS/SHIELD visibility, and the quiet anomaly-seeding function.
+
+7. First-person weapon-animation reference standard
+   - preserves the accepted live-action replica-footage workflow for NOTHING reload/inspect/suppressor handling;
+   - separates animation direction, inspect UI, reference-video presentation music, and licensing requirements.
+
+8. Epic-aircraft provenance addendum
+   - confirms the old Gripen, A400M, AC-130, and A-10 drafts as provenance/evidence while deferring current placement and production detail to later dedicated sources;
+   - prevents a raw early draft from displacing ARTEMIS, TYPHON, KERAUNOS, ANGEL, or other later fire-support locks.
+
+CURRENT SUPERSESSIONS APPLIED
+- PANDORA: Thursday, September 7, 2028. September 3 is stale.
+- Final maintenance push: September 4, 2028. August 31 / 72-hours-before-September-3 wording is stale.
+- U.S. election: Tuesday, November 7, 2028. November 3/6 variants are stale.
+- Romeo: SSG Ramón “Romeo” Álvarez. LT and intermediate SGT wording do not control current-facing material.
+- Spook: Trevor Albertson Gartner, senior CIA paramilitary operations officer; no current military rank.
+- Dale PRUETT controls. Jack PRATT is the separate Burning Daylight antagonist.
+- Ducky Game 2: PERSISTENT THREAT. AEGIS FALLS is the final mission only.
+- Game 3 titles: NO KINGS / FAILSAFE / DARK SKIES.
+- Project Warriors: Wasp controls over Money or Lead / Plata o Plomo title exploration.
+- TRU/SIGHT controls over PYTHIA.
+- SBS operator Mags controls over operator Wren; weapon build WREN remains.
+- Current named-weapon sources and registry control over legacy build-number/spec text.
+- Current Nightfall, Game 4, War Within, Home Defense, UI, HASTA LA VISTA, HUCKLEBERRY, and ontology pages control their corresponding July transcript discussions.
+
+OPEN FLAGS PRESERVED
+- final AMERICAN FREEDOM middle-ladder order and consolidation of overlapping development clusters;
+- exact placement/status of FACE TO FACE inside the playable ladder;
+- Glushkin birth year versus recruitment-year/age arithmetic;
+- final Glushkin Game 2 death/confrontation mission placement and complete screenplay;
+- whether Lebedev survives into Game 3 and his exact antagonist use;
+- Lipnin’s full Game 3 role;
+- PANDORA working engineering values and exact remediation scale;
+- exact Taiwanese engineer identity/relationship choices beyond later Y. T. Lin authority;
+- final licensing, replacement tracks, and release-card wording for teaser production;
+- final current placement/production passes for legacy aircraft scenes;
+- final implementation capture standards for first-person reference footage.
+
+ONTOLOGY / REGISTRY
+No registry delta is required. No new named weapon identity is introduced.
+No ontology delta is introduced in this pass: the recovered missions, characters, and June 4 activation date already exist in the standing narrative corpus, while the newly source-landed AMERICAN FREEDOM middle ladder remains explicitly partial. A later ontology uplift may add event-level entries after the ladder and Glushkin chronology conflict are adjudicated.
+
+CONTROLLING COMPANION SOURCES
+- dev_src_docs/story_campaigns/Game2/Romeo/PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt
+- dev_src_docs/characters/PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt
+- dev_src_docs/music_and_sound_design/PW_Game2_Campaign_Teaser_Full_Treatments_2026-07-24_rev1.txt
+- dev_src_docs/worldbuilding/PW_PANDORA_TETHERBREAK_Full_Technical_Architecture_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Spook/PW_Riptide_Red_Mission_Burst_Source_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Ducky/PW_Do_Right_Fear_None_Opening_Infrastructure_Source_2026-07-24_rev1.txt
+- dev_src_docs/gameplay_mechanics/PW_First_Person_Weapon_Animation_Reference_Standard_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Shared/PW_Legacy_Epic_Aircraft_Scene_Provenance_Addendum_2026-07-24_rev1.txt
+- Project_Warriors_Knowledge_Compendia/PW_Verbatim_Legacy_Archive_Recovery_Addendum_2026-07-24_rev1.txt
+- source_audits_and_reports/PW_Verbatim_Legacy_Archive_Reconciliation_Audit_2026-07-24_rev1.txt
+- source_audits_and_reports/PW_Verbatim_Legacy_Archive_Inventory_2026-07-24_rev1.csv
