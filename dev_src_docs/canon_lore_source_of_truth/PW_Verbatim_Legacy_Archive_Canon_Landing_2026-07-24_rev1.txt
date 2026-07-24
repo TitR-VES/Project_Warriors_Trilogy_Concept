@@ -1,6 +1,6 @@
 PROJECT WARRIORS — VERBATIM LEGACY ARCHIVE CANON LANDING
 Generated: 2026-07-24
-Version: rev1
+Version: rev2
 Status: WORKING AUTHORITATIVE RECOVERY / SUPERSESSION CONTROL
 Recovered from: PW_project_thread_VERBATIM_2026-07-24.zip
 Baseline: main after merged PR #30, commit 5946c5215e40bbd39fe05bea849b9692d9bcc5ff
@@ -29,7 +29,7 @@ DURABLE EXPANSIONS IN THIS LANDING
 2. Glushkin / Lebedev / Lipnin sleeper-network source
    - consolidates Brent Tibbets, Douglas Nasmith, Specter Aerospace, the June 4 activation scene, Have a good one authentication, Redbirds/Redbud motif, optional FACE TO FACE unlock, number-station burn notice, Понятно note, and Lipnin’s institutional role;
    - protects Glushkin’s personal choice after being burned;
-   - flags the contradictory birth/recruitment arithmetic instead of inventing a repair.
+   - records the owner-adjudicated chronology: Glushkin was born in 1972 and recruited by Lipnin in 1995 at age twenty-three; the old 1982 birth year is superseded.
 
 3. Full Game 2 teaser treatments
    - restores the approved shot architecture for AMERICAN FREEDOM, PERSISTENT THREAT, and GODKILLER;
@@ -64,6 +64,7 @@ CURRENT SUPERSESSIONS APPLIED
 - U.S. election: Tuesday, November 7, 2028. November 3/6 variants are stale.
 - Romeo: SSG Ramón “Romeo” Álvarez. LT and intermediate SGT wording do not control current-facing material.
 - Spook: Trevor Albertson Gartner, senior CIA paramilitary operations officer; no current military rank.
+- Glushkin: born in 1972; recruited by Lipnin in 1995 at age twenty-three. The transcript-era 1982 birth year is stale.
 - Dale PRUETT controls. Jack PRATT is the separate Burning Daylight antagonist.
 - Ducky Game 2: PERSISTENT THREAT. AEGIS FALLS is the final mission only.
 - Game 3 titles: NO KINGS / FAILSAFE / DARK SKIES.
@@ -76,7 +77,7 @@ CURRENT SUPERSESSIONS APPLIED
 OPEN FLAGS PRESERVED
 - final AMERICAN FREEDOM middle-ladder order and consolidation of overlapping development clusters;
 - exact placement/status of FACE TO FACE inside the playable ladder;
-- Glushkin birth year versus recruitment-year/age arithmetic;
+- Glushkin’s exact birth date, exact 1995 recruitment date, and detailed MGIMO/training chronology;
 - final Glushkin Game 2 death/confrontation mission placement and complete screenplay;
 - whether Lebedev survives into Game 3 and his exact antagonist use;
 - Lipnin’s full Game 3 role;
@@ -88,7 +89,7 @@ OPEN FLAGS PRESERVED
 
 ONTOLOGY / REGISTRY
 No registry delta is required. No new named weapon identity is introduced.
-No ontology delta is introduced in this pass: the recovered missions, characters, and June 4 activation date already exist in the standing narrative corpus, while the newly source-landed AMERICAN FREEDOM middle ladder remains explicitly partial. A later ontology uplift may add event-level entries after the ladder and Glushkin chronology conflict are adjudicated.
+No ontology delta is introduced in this pass. The owner retcon is source-landed as stable character biography, while the current ontology layer is campaign/event focused and the newly source-landed AMERICAN FREEDOM middle ladder remains explicitly partial. A later ontology uplift may add event-level entries after the ladder is adjudicated.
 
 CONTROLLING COMPANION SOURCES
 - dev_src_docs/story_campaigns/Game2/Romeo/PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt
