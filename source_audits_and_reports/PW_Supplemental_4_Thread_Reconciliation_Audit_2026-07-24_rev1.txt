@@ -34,12 +34,14 @@ KEY RECONCILIATIONS
 - OPEN CIRCUIT is placed in Ducky Game 2 with exact mission number open.
 - Bakhmut placement remains untouched.
 - KERAUNOS is French Rafale precision support at the Velodrom-side choke.
+- The transcript’s full scripting, screenplay, director, beat-board, keyframe, and prompt passes are preserved as recovery evidence; the compact mission source controls current development.
 - Generated visual previews are evidence/reference only, not selected canon assets.
 
 OPEN FLAGS
 - final OPEN CIRCUIT mission number and ladder slot;
 - exact enemy unit and contractor identities;
-- detailed encounter balance and final screenplay implementation;
+- detailed encounter balance and final production line edit;
+- assignment of named SHIELD members versus role-based script placeholders;
 - final real-site abstraction and air-tasking/ordnance detail;
 - final vector/logo construction and production color values for Kentucky AFC;
 - final prompt corrections and selection of any Brno image as canon;
