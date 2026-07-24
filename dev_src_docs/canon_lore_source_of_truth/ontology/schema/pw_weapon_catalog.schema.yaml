@@ -1,317 +1,102 @@
 meta:
   generated: '2026-07-24'
-  revision: rev1
+  revision: rev2
   document: weapon_catalog
-  governance: Controls stable base-weapon, ammunition, occurrence, access, retention, and named-build binding identities.
-    Named build sources continue to control configuration and ownership; narrative sources control story meaning.
+  governance: Controls stable base-weapon, ammunition, occurrence, access, retention, named-build binding, and compatible enemy-type reference identities. Named build sources continue to control configuration and ownership; narrative sources control story meaning.
+  supersedes: schema/pw_weapon_catalog.schema.yaml rev1
 schema:
-  top_level_required:
-  - meta
+  top_level_required: [meta]
   entity_id_patterns:
     weapon: ^PW-WEP-[A-Z0-9-]+$
     ammunition: ^PW-AMM-[A-Z0-9-]+$
     occurrence: ^PW-WOC-[A-Z0-9-]+$
+    enemy_type: ^PW-ENM-[A-Z0-9-]+$
     named_build: ^PW-WPN-[A-Z0-9-]+$
     installment: ^PW-INS-[A-Z0-9-]+$
     campaign: ^PW-CMP-[A-Z0-9-]+$
   weapon_fields:
-    id:
-      type: string
-      required: true
-    canonical_name:
-      type: string
-      required: true
+    id: {type: string, required: true}
+    canonical_name: {type: string, required: true}
     category:
       type: enum
-      values:
-      - assault_rifle
-      - automatic_rifle
-      - battle_rifle
-      - bayonet
-      - bullpup_rifle
-      - carbine
-      - disposable_anti_armor_launcher
-      - dmr
-      - grenade_launcher
-      - guided_missile_launcher
-      - knife
-      - machine_gun
-      - pdw
-      - pistol
-      - precision_rifle
-      - recoilless_rifle
-      - rescue_knife
-      - rifle
-      - rocket_launcher
-      - shotgun
-      - smg
-      - special_purpose_rifle
-      - thrown_weapon
-      - underwater_pistol
-      - underwater_rifle
+      values: [assault_rifle, automatic_rifle, battle_rifle, bayonet, bullpup_rifle, carbine, disposable_anti_armor_launcher, dmr, grenade_launcher, guided_missile_launcher, knife, machine_gun, pdw, pistol, precision_rifle, recoilless_rifle, rescue_knife, rifle, rocket_launcher, shotgun, smg, special_purpose_rifle, thrown_weapon, underwater_pistol, underwater_rifle]
       required: true
-    weapon_scope:
-      type: enum
-      values:
-      - melee_weapon
-      - portable_weapon
-      required: true
-    platform_family:
-      type: string
-      required: false
-    known_variants:
-      type: list
-      items: string
-      required: false
-    ammunition_refs:
-      type: list
-      items: ammunition_ref
-      required: true
-    named_build_refs:
-      type: list
-      items: named_build_ref
-      required: false
-    occurrence_refs:
-      type: list
-      items: occurrence_ref
-      required: true
-    near_future_prototype:
-      type: boolean
-      required: false
+    weapon_scope: {type: enum, values: [melee_weapon, portable_weapon], required: true}
+    platform_family: {type: string, required: false}
+    known_variants: {type: list, items: string, required: false}
+    ammunition_refs: {type: list, items: ammunition_ref, required: true}
+    named_build_refs: {type: list, items: named_build_ref, required: false}
+    occurrence_refs: {type: list, items: occurrence_ref, required: true}
+    near_future_prototype: {type: boolean, required: false}
     status:
       type: enum
-      values: &id001
-      - caliber_open
-      - confirmed
-      - generic_family
-      - locked
-      - locked_concept
-      - mapping_open
-      - provisional_generic
-      - working
+      values: &catalog_status [caliber_open, confirmed, generic_family, locked, locked_concept, mapping_open, provisional_generic, working]
       required: true
-    unresolved_fields:
-      type: list
-      items: string
-      required: false
-    sources:
-      type: list
-      items: string
-      required: true
-    notes:
-      type: string
-      required: false
+    unresolved_fields: {type: list, items: string, required: false}
+    sources: {type: list, items: string, required: true}
+    notes: {type: string, required: false}
   ammunition_fields:
-    id:
-      type: string
-      required: true
-    designation:
-      type: string
-      required: true
-    ammunition_type:
-      type: enum
-      values:
-      - cartridge
-      - dart
-      - grenade
-      - missile
-      - rocket
-      - shell
-      - thrown_explosive
-      - thrown_nonlethal
-      - thrown_obscurant
-      required: true
-    economy_role:
-      type: string
-      required: true
-    compatible_weapon_refs:
-      type: list
-      items: weapon_ref
-      required: true
-    special_behavior:
-      type: list
-      items: string
-      required: false
-    status:
-      type: enum
-      values: *id001
-      required: true
-    unresolved_fields:
-      type: list
-      items: string
-      required: false
-    sources:
-      type: list
-      items: string
-      required: true
-    notes:
-      type: string
-      required: false
+    id: {type: string, required: true}
+    designation: {type: string, required: true}
+    ammunition_type: {type: enum, values: [cartridge, dart, grenade, missile, rocket, shell, thrown_explosive, thrown_nonlethal, thrown_obscurant], required: true}
+    economy_role: {type: string, required: true}
+    compatible_weapon_refs: {type: list, items: weapon_ref, required: true}
+    special_behavior: {type: list, items: string, required: false}
+    status: {type: enum, values: *catalog_status, required: true}
+    unresolved_fields: {type: list, items: string, required: false}
+    sources: {type: list, items: string, required: true}
+    notes: {type: string, required: false}
   occurrence_fields:
-    id:
-      type: string
-      required: true
-    weapon_ref:
-      type: weapon_ref
-      required: true
-    installment_refs:
-      type: list
-      items: installment_ref
-      required: true
-    campaign_refs:
-      type: list
-      items: campaign_ref
-      required: true
-    mission_labels:
-      type: list
-      items: string
-      required: true
+    id: {type: string, required: true}
+    weapon_ref: {type: weapon_ref, required: true}
+    installment_refs: {type: list, items: installment_ref, required: true}
+    campaign_refs: {type: list, items: campaign_ref, required: true}
+    mission_labels: {type: list, items: string, required: true}
     presence_modes:
       type: list
       items:
-        enum:
-        - allied_npc
-        - collectible_only
-        - conditional_spawn
-        - enemy_elite
-        - enemy_standard
-        - enemy_support
-        - handoff
-        - hidden_cache
-        - mounted_weapon
-        - named_character
-        - named_enemy
-        - player_melee_weapon
-        - player_support_weapon
-        - player_weapon
-        - scripted_player_weapon
-        - world_find
+        enum: [allied_npc, collectible_only, conditional_spawn, enemy_elite, enemy_standard, enemy_support, handoff, hidden_cache, mounted_weapon, named_character, named_enemy, player_melee_weapon, player_support_weapon, player_weapon, scripted_player_weapon, world_find]
       required: true
-    presence_tags:
-      type: list
-      items: string
-      required: false
-    player_access:
-      type: enum
-      values:
-      - collectible_only
-      - conditional
-      - mission_only
-      - not_accessible
-      - persistent
-      - temporary
-      - unknown
-      required: true
+    presence_tags: {type: list, items: string, required: false}
+    player_access: {type: enum, values: [collectible_only, conditional, mission_only, not_accessible, persistent, temporary, unknown], required: true}
     acquisition_modes:
       type: list
       items:
-        enum:
-        - character_loadout
-        - conditional_enemy_spawn
-        - enemy_drop
-        - handoff
-        - hidden_cache
-        - issued
-        - loadout
-        - mission_loadout
-        - named_enemy_drop
-        - perspective_transition
-        - secure_weapon_action
-        - unbolt_emplacement
-        - world_pickup
+        enum: [character_loadout, conditional_enemy_spawn, enemy_drop, handoff, hidden_cache, issued, loadout, mission_loadout, named_enemy_drop, perspective_transition, secure_weapon_action, unbolt_emplacement, world_pickup]
       required: true
-    retention:
-      type: enum
-      values:
-      - collectible_only
-      - encounter_only
-      - mission_only
-      - not_applicable
-      - persistent
-      - unknown
-      required: true
-    drop_policy:
-      type: enum
-      values:
-      - conditional
-      - drops
-      - fixed_world
-      - never_drops
-      - not_applicable
-      - reward
-      - unknown
-      required: true
-    faction_labels:
-      type: list
-      items: string
-      required: false
-    carrier_labels:
-      type: list
-      items: string
-      required: false
-    ammunition_availability_overrides:
-      type: list
-      items: ammunition_ref
-      required: false
-    enemy_type_refs:
-      type: list
-      items: enemy_type_ref
-      required: false
-    status:
-      type: enum
-      values: *id001
-      required: true
-    unresolved_fields:
-      type: list
-      items: string
-      required: false
-    sources:
-      type: list
-      items: string
-      required: true
-    notes:
-      type: string
-      required: false
+    retention: {type: enum, values: [collectible_only, encounter_only, mission_only, not_applicable, persistent, unknown], required: true}
+    drop_policy: {type: enum, values: [conditional, drops, fixed_world, never_drops, not_applicable, reward, unknown], required: true}
+    faction_labels: {type: list, items: string, required: false}
+    carrier_labels: {type: list, items: string, required: false}
+    ammunition_availability_overrides: {type: list, items: ammunition_ref, required: false}
+    enemy_type_refs: {type: list, items: enemy_type_ref, required: false}
+    status: {type: enum, values: *catalog_status, required: true}
+    unresolved_fields: {type: list, items: string, required: false}
+    sources: {type: list, items: string, required: true}
+    notes: {type: string, required: false}
   named_build_binding_fields:
-    named_build_ref:
-      type: named_build_ref
-      required: true
-    weapon_ref:
-      type:
-      - weapon_ref
-      - 'null'
-      required: true
-    binding_status:
-      type: enum
-      values:
-      - platform_recovery_required
-      - resolved
-      - resolved_caliber_open
-      required: true
-    recovery_note:
-      type: string
-      required: false
-    sources:
-      type: list
-      items: string
-      required: true
+    named_build_ref: {type: named_build_ref, required: true}
+    weapon_ref: {type: [weapon_ref, 'null'], required: true}
+    binding_status: {type: enum, values: [platform_recovery_required, resolved, resolved_caliber_open], required: true}
+    recovery_note: {type: string, required: false}
+    sources: {type: list, items: string, required: true}
+  manifest_fields:
+    parts: {type: list, items: part_object, required: true}
+    source_index: {type: object, required: true, notes: Maps compact source aliases used by entity parts to durable repository paths.}
   validation_rules:
+  - Source aliases used in entity-part sources lists must resolve through manifest meta.source_index; direct durable repository paths remain valid.
+  - Every manifest part path must exist and contain only the entity collections it declares.
   - Weapon, ammunition, occurrence, and named-build binding identities must be unique.
-  - Every weapon_ref, ammunition_ref, occurrence_ref, installment_ref, and campaign_ref must resolve against its controlling
-    ontology.
+  - Every weapon_ref, ammunition_ref, occurrence_ref, installment_ref, and campaign_ref must resolve against its controlling ontology.
   - Every campaign reference in an occurrence must be paired with its owning installment reference.
-  - Every cataloged weapon must have at least one occurrence record, including a mapping-open occurrence when exact game
-    placement is not source-landed.
-  - Player access, acquisition, retention, and drop policy are independent fields and must not be collapsed into one
-    availability flag.
-  - An NPC-equipped or enemy-equipped weapon may remain not_accessible or unknown; equipment presence never implies a
-    player drop.
+  - Every cataloged weapon must have at least one occurrence record, including a mapping-open occurrence when exact game placement is not source-landed.
+  - Player access, acquisition, retention, and drop policy are independent fields and must not be collapsed into one availability flag.
+  - An NPC-equipped or enemy-equipped weapon may remain not_accessible or unknown; equipment presence never implies a player drop.
   - Mission-only, temporary, collectible-only, and non-retained weapons must not be represented as persistent ownership.
   - Optional-objective and achievement rewards require an explicit source; an open reward table remains open.
-  - Named-build bindings identify base platforms only. Named-build configuration, owner, title, and placement remain
-    controlled by the named-build registry.
+  - Named-build bindings identify base platforms only. Named-build configuration, owner, title, and placement remain controlled by the named-build registry.
   - A platform_recovery_required binding must keep weapon_ref null and explain the recovery dependency.
-  - Attachments, optics, lights, and support assets are outside this catalog unless they operate as a separately usable
-    weapon.
-  - Future enemy-type ontology entries should reference stable weapon_ref and ammunition_ref values rather than duplicating
-    platform strings.
+  - Attachments, optics, lights, and support assets are outside this catalog unless they operate as a separately usable weapon.
+  - Future enemy-type ontology entries should reference stable weapon_ref and ammunition_ref values rather than duplicating platform strings.
+  - Every enemy_type_ref must resolve against pw_enemy_weapon_mapping_rev1.yaml or an explicitly compatible later enemy ontology.
+  - Adding enemy_type_refs to an occurrence must not alter its player access, acquisition, retention, ammunition override, or drop-policy fields.
