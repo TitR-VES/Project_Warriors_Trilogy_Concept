@@ -78,8 +78,8 @@ campaigns:
   protagonists:
   - {name: Trevor Gartner / Spook, role: sole primary playable protagonist}
   temporal_modes: [continuous_primary]
-  timeline_track_refs: [PW-TRK-G2-GODKILLER]
-  binding_status: resolved
+  binding_status: external_base_identifier_recovery_required
+  unresolved_fields: [repository-verifiable timeline track stable ID]
   status: confirmed
   sources: [dev_src_docs/music_and_sound_design/PW_Game2_Campaign_Teaser_Full_Treatments_2026-07-24_rev1.txt, Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt]
 - id: PW-CMP-G3-NO-KINGS
