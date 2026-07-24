@@ -1,0 +1,123 @@
+================================================================================
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+WAR WOLVES / OSCAR FOUR DELTA
+Generated: 2026-07-24
+Version: rev1
+================================================================================
+Status: cross-domain compendium bridge; durable source pages remain authoritative
+
+PURPOSE
+Expose the July 22 War Wolves identity and origin adjudication to the working
+knowledge layer without rewriting the inherited Core, Worldbuilding, Characters,
+Gameplay and Missions compendia in place.
+
+CONTROLLING SOURCES
+- dev_src_docs/worldbuilding/PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+- dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev2.txt
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+
+--------------------------------------------------------------------------------
+1. CORE LORE DELTA
+--------------------------------------------------------------------------------
+
+The War Wolves are the three surviving core members of Oscar Four Delta, a highly
+compartmentalized mid-2000s CIA Global Response Staff / Ground Branch-adjacent
+action cell.
+
+Oscar Four Delta was operationally elite and morally rotten. Its members crossed
+from unauthorized clandestine violence into atrocity and criminal service work,
+then accepted protection and continued employment from Goldberg's KINGMAKER /
+Shadow Underground structure when exposure became likely.
+
+The War Wolves are therefore not clean operators whom Goldberg corrupted. They are
+men who had already demonstrated what they were willing to do and found a power
+structure willing to protect and keep using them.
+
+--------------------------------------------------------------------------------
+2. FINAL IDENTITY / ROLE MAP
+--------------------------------------------------------------------------------
+
+CRIMSON ONE
+- Richard "Digger" Graves
+- close quarters / point; cell lead / senior operator
+- inside-left-wrist mark I
+
+CRIMSON TWO
+- Lawrence "Rip" Mansell
+- overwatch / precision
+- CheyTac M200 Intervention, .408 CheyTac
+- named build: EXTREME PREJUDICE
+- inside-left-wrist mark II
+
+CRIMSON THREE
+- Dermot "Lucky" Underwood
+- breacher / support / cleaner
+- existing suppressed Mk18 support-slot baseline remains current
+- no named build assigned by this pass
+- inside-left-wrist mark III
+
+Earlier mappings that place Underwood in CRIMSON TWO or Mansell in CRIMSON THREE
+are superseded. Encounter roles remain where they were; the men occupying the
+CRIMSON TWO and THREE slots are remapped.
+
+--------------------------------------------------------------------------------
+3. NICKNAME / PACT GOVERNANCE
+--------------------------------------------------------------------------------
+
+Digger, Lucky and Rip predate the War Wolves identity and come from earlier service
+history. They are not wolf-mask branding and should surface only through buried
+records, old witnesses or later intelligence cross-references.
+
+The small Roman numeral wrist tattoos originate in the men's private pact with
+Goldberg's power structure. They are plain inventory/ownership marks willingly
+accepted in exchange for impunity, not occult or theatrical symbols.
+
+--------------------------------------------------------------------------------
+4. "ORGANS FOR DOLLARS" BURIED-LORE RULE
+--------------------------------------------------------------------------------
+
+A tiny circle inside the Agency carried a black joke that Oscar Four Delta meant
+"organs for dollars."
+
+The rumor points toward the cell's likely support for a domestic body-exploitation,
+organ-harvesting, trafficking and abduction pipeline tied to KINGMAKER. Oscar Four
+Delta may have provided cover, movement, site security, witness removal or direct
+action support.
+
+Do not fully proceduralize the network. The intended effect is institutional horror:
+people knew enough to make the joke, while the institution still failed to stop the
+men or the system protecting them.
+
+--------------------------------------------------------------------------------
+5. GAME 1 PRESENTATION
+--------------------------------------------------------------------------------
+
+SINS OF OUR FATHERS remains restrained:
+- use CRIMSON ONE / TWO / THREE in the active encounter;
+- do not identify Graves, Mansell or Underwood by name during the fight;
+- CFIM still prevents facial confirmation after death;
+- the wrist marks may appear without explanation;
+- Oscar Four Delta and the KINGMAKER history are later-file revelations.
+
+The reveal should reframe the encounter as institutional failure rather than turn it
+into front-facing villain exposition.
+
+--------------------------------------------------------------------------------
+6. TECHNOLOGY CONTINUITY
+--------------------------------------------------------------------------------
+
+CogniConnect remains the broad implant architecture. CFIM remains the War Wolves-
+only Counter-Forensic Identification Module. KYSC / Montoya Farm victims do not use
+CFIM. This addendum changes identity and history, not implant behavior.
+
+--------------------------------------------------------------------------------
+7. OPEN FIELDS
+--------------------------------------------------------------------------------
+
+Do not infer birth dates, national origins, exact Agency ranks, nickname-origin
+incidents, the precise pact date, the complete trafficking pipeline, Underwood's
+named-build status or the exact later reveal mission.
+
+================================================================================
+END — WAR WOLVES / OSCAR FOUR DELTA WORKING KNOWLEDGE ADDENDUM rev1
+================================================================================
