@@ -1,0 +1,94 @@
+meta:
+  document_id: PW-ONT-NAMED-NPC-CATALOG-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  status: locked_and_working_projection
+  schema: schema/pw_named_npc.schema.yaml
+  authority:
+    narrative_sources: Durable character, campaign, mission, and worldbuilding pages control story meaning.
+    named_weapon_registry: Named weapon registry and weapon catalog control stable PW-WPN identities.
+    enemy_mapping: Enemy ontology controls generic/named enemy tactical and loadout identities.
+    this_projection: Controls stable named NPC identity, NPC-state appearances, role functions, and additive cross-domain
+      bindings.
+  scope: Named allied, hostile, ambiguous, community, command, support, and branch-dependent non-player characters with source-backed
+    game-world presence. Primary playable protagonists are excluded unless the same person has a separately meaningful NPC-state
+    appearance in another campaign.
+  counts:
+    named_npcs: 88
+    appearances: 116
+    enemy_named_npc_bindings: 7
+    named_weapon_relationships: 30
+    characters_with_playable_elsewhere_refs: 7
+parts:
+- path: pw_named_npc_entities_allied_main_rev1.yaml
+  contains:
+  - named_npcs
+- path: pw_named_npc_entities_community_main_rev1.yaml
+  contains:
+  - named_npcs
+- path: pw_named_npc_entities_hostile_ambiguous_main_rev1.yaml
+  contains:
+  - named_npcs
+- path: pw_named_npc_entities_extended_rev1.yaml
+  contains:
+  - named_npcs
+- path: pw_named_npc_appearances_allied_main_rev1.yaml
+  contains:
+  - appearances
+- path: pw_named_npc_appearances_community_main_rev1.yaml
+  contains:
+  - appearances
+- path: pw_named_npc_appearances_hostile_ambiguous_main_rev1.yaml
+  contains:
+  - appearances
+- path: pw_named_npc_appearances_extended_rev1.yaml
+  contains:
+  - appearances
+- path: pw_enemy_named_npc_bindings_rev1.overlay.yaml
+  contains:
+  - enemy_named_npc_bindings
+source_aliases:
+  CHARCOMP: Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-07-06_rev6.txt
+  AF: dev_src_docs/story_campaigns/Game2/Romeo/PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt
+  SHIELD: dev_src_docs/story_campaigns/Game2/Ducky/PW_SHIELD_Squad_Development_Packet.txt
+  BKH: dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+  BOSTON: dev_src_docs/weapons_and_equipment/PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt
+  HOMEDEF: dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt
+  PERM: dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt
+  NAF: dev_src_docs/story_campaigns/Game4/Romeo/PW_Game4_Romeo_Crossover_and_New_American_Frontier_Packet_2026-05-08_rev1.txt
+  SLEEPER: dev_src_docs/characters/PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt
+  FRANK: dev_src_docs/characters/character_profile_frank_manola.txt
+  TROY: dev_src_docs/characters/character_profile_troy_barry.txt
+  COLLAPSE: dev_src_docs/story_campaigns/TheCollapse/PW_The_Collapse_DLC_Handoff_2026-07-18.txt
+  ENEMYMAP: dev_src_docs/canon_lore_source_of_truth/ontology/pw_enemy_weapon_mapping_rev1.yaml
+  NARRMAIN: dev_src_docs/canon_lore_source_of_truth/ontology/pw_narrative_structure_campaigns_main_rev1.yaml
+  NARREXT: dev_src_docs/canon_lore_source_of_truth/ontology/pw_narrative_structure_campaigns_extended_rev1.yaml
+  WEAPONCAT: dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_rev1.yaml
+  REG: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
+  REG9: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+  WARWITHIN: dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Canon_Correction_2026-07-21_rev1.txt
+  WHO: dev_src_docs/story_campaigns/WhoDaresWinsDLC/PW_Who_Dares_Wins_Campaign_Structure_Page_2026-04-13_rev1.txt
+  VICKERS: dev_src_docs/story_campaigns/WhoDaresWinsDLC/PW_Vickers_Character_Profile_Page_2026-04-13_rev1.txt
+  BODY: dev_src_docs/story_campaigns/Game3/Romeo/PW_BODYWORK_Mitchell_Van_Hult_Branch_Reference_2026-04-12.txt
+  BLOM: dev_src_docs/characters/PW_Leandro_Petrus_Blommaert_Profile_2026-07-22_rev1.txt
+  WARWOLF: Project_Warriors_Knowledge_Compendia/PW_War_Wolves_Oscar_Four_Delta_Addendum_2026-07-24_rev1.txt
+  RIPBURST: dev_src_docs/story_campaigns/Game1/Spook/PW_Riptide_Red_Mission_Burst_Source_2026-07-24_rev1.txt
+  STORM: dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt
+  PAT: dev_src_docs/story_campaigns/Game2/Romeo/character_profile_pat_napier.txt
+  WASP: dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt
+  FULLREC: dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt
+open_flags:
+- id: PW-NPC-OPEN-COMPLETE-ROSTER
+  description: Campaigns and missions still under development may add named NPCs and appearances through additive deltas.
+- id: PW-NPC-OPEN-EXACT-MISSION-PLACEMENT
+  description: Several recurring squad, command, and faction figures are source-backed at campaign level but lack a complete
+    mission-by-mission placement list.
+- id: PW-NPC-OPEN-PLAYER-CHARACTER-CROSSOVER
+  description: Primary playable protagonists are outside this NPC catalog unless a separate NPC-state appearance is source-backed.
+    A future character ontology may unify player and non-player states.
+- id: PW-NPC-OPEN-ALIGNMENT-BRANCHES
+  description: Branch-dependent survival, alliance, betrayal, capture, and optional-target outcomes remain explicit and globally
+    unselected.
+- id: PW-NPC-OPEN-PROFILE-DETAILS
+  description: Callsign-only characters and recovery-status figures retain open legal names, biographies, exact mission sequences,
+    or named-build platforms.
