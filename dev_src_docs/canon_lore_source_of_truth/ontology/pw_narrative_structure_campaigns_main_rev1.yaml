@@ -1,0 +1,162 @@
+meta: {document_id: PW-ONT-NARRATIVE-STRUCTURE-CAMPAIGNS-MAIN-REV1, generated: '2026-07-24', revision: rev1, document_mode: entity_part, manifest: pw_narrative_structure_rev1.yaml}
+campaigns:
+- id: PW-CMP-G1-LEAD-THE-WAY
+  installment_ref: PW-INS-GAME-1
+  canonical_title: 'Critter Squad: Lead the Way'
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Ramón Álvarez / Romeo, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G1-LEAD-THE-WAY]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+- id: PW-CMP-G1-DO-RIGHT-FEAR-NONE
+  installment_ref: PW-INS-GAME-1
+  canonical_title: Do Right, Fear None
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 2
+  protagonists:
+  - {name: Ferris Ryan / Ducky, role: primary playable protagonist}
+  - {name: Aki Peltola / Frost, role: scripted perspective sections}
+  - {name: Ştefan Dragavei / Lupin, role: scripted perspective sections}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G1-DO-RIGHT-FEAR-NONE]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+- id: PW-CMP-G1-RIPTIDE-RED
+  installment_ref: PW-INS-GAME-1
+  canonical_title: Riptide Red
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 3
+  protagonists:
+  - {name: Trevor Gartner / Spook, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G1-RIPTIDE-RED-SPOOK]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+- id: PW-CMP-G2-AMERICAN-FREEDOM
+  installment_ref: PW-INS-GAME-2
+  canonical_title: American Freedom
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Ramón Álvarez / Romeo, role: primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G2-AMERICAN-FREEDOM]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/story_campaigns/Game2/Romeo/PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt, dev_src_docs/canon_lore_source_of_truth/PW_Legacy_Thread_Canon_Landing_2026-07-24_rev1.txt]
+- id: PW-CMP-G2-PERSISTENT-THREAT
+  installment_ref: PW-INS-GAME-2
+  canonical_title: Persistent Threat
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 2
+  protagonists:
+  - {name: Ferris Ryan / Ducky, role: primary playable protagonist}
+  - {name: Aki Peltola / Frost, role: scripted perspective sections}
+  - {name: Ştefan Dragavei / Lupin, role: scripted perspective sections}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G2-PERSISTENT-THREAT]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/story_campaigns/Game2/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt, dev_src_docs/story_campaigns/Game2/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt]
+- id: PW-CMP-G2-GODKILLER
+  installment_ref: PW-INS-GAME-2
+  canonical_title: Godkiller
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 3
+  protagonists:
+  - {name: Trevor Gartner / Spook, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G2-GODKILLER]
+  binding_status: resolved
+  status: confirmed
+  sources: [dev_src_docs/music_and_sound_design/PW_Game2_Campaign_Teaser_Full_Treatments_2026-07-24_rev1.txt, Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt]
+- id: PW-CMP-G3-NO-KINGS
+  installment_ref: PW-INS-GAME-3
+  canonical_title: No Kings
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Ramón Álvarez / Romeo, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G3-NO-KINGS]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt]
+- id: PW-CMP-G3-FAILSAFE
+  installment_ref: PW-INS-GAME-3
+  canonical_title: Failsafe
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 2
+  protagonists:
+  - {name: Ferris Ryan / Ducky, role: primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G3-FAILSAFE]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt]
+- id: PW-CMP-G3-DARK-SKIES
+  installment_ref: PW-INS-GAME-3
+  canonical_title: Dark Skies
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 3
+  protagonists:
+  - {name: Trevor Gartner / Spook, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G3-DARK-SKIES]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt]
+- id: PW-CMP-G4-COMMAND-AUTHORITY
+  installment_ref: PW-INS-GAME-4
+  canonical_title: Command Authority
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Ramón Álvarez / Romeo, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G4-COMMAND-AUTHORITY]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Ontology_Canon_Corrections_2026-07-21_rev1.txt]
+- id: PW-CMP-G4-COMMON-PICTURE
+  installment_ref: PW-INS-GAME-4
+  canonical_title: Common Picture
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 2
+  protagonists:
+  - {name: Ferris Ryan / Ducky, role: primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G4-COMMON-PICTURE]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Ontology_Canon_Corrections_2026-07-21_rev1.txt, dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+- id: PW-CMP-G4-PERMANENT-RECORD
+  installment_ref: PW-INS-GAME-4
+  canonical_title: Permanent Record
+  title_status: locked
+  campaign_type: main_campaign
+  campaign_order_within_installment: 3
+  protagonists:
+  - {name: Trevor Gartner / Spook, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-G4-PERMANENT-RECORD]
+  binding_status: resolved
+  status: locked
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Ontology_Canon_Corrections_2026-07-21_rev1.txt, dev_src_docs/story_campaigns/Game4/Spook/PW_Permanent_Record_Archive_Integration_2026-07-22_rev1.txt]
