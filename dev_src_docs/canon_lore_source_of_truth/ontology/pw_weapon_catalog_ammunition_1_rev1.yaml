@@ -1,0 +1,26 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-AMMUNITION-1-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_weapon_catalog_rev1.yaml
+  segment: 1 of 2
+ammunition:
+- {id: PW-AMM-556-NATO, designation: 5.56x45mm NATO, ammunition_type: cartridge, economy_role: universal_baseline, status: confirmed, sources: [ECON, WCOMP], compatible_weapon_refs: [PW-WEP-AR15-FAMILY, PW-WEP-BT-APC223-PRO, PW-WEP-CZ-BREN2-MS, PW-WEP-DD-MK18, PW-WEP-F88-AUSTEYR, PW-WEP-F90-FAMILY, PW-WEP-FN-SCAR-L, PW-WEP-HK416-A5, PW-WEP-HK416-A7-G95A1, PW-WEP-HK433, PW-WEP-KH2002, PW-WEP-M16A4, PW-WEP-M249, PW-WEP-M27-IAR, PW-WEP-M4A1, PW-WEP-NOVESKE-N4-COMPACT-556, PW-WEP-R15-FREYA-GEN2, PW-WEP-RUGER-AC556, PW-WEP-SIG-MCX-I, PW-WEP-TYPE98, PW-WEP-VZ58-EXPERT]}
+- {id: PW-AMM-545X39, designation: 5.45x39mm, ammunition_type: cartridge, economy_role: eastern_bloc_specialist, status: confirmed, sources: [DEADREC], compatible_weapon_refs: [PW-WEP-AK105, PW-WEP-AK74M]}
+- {id: PW-AMM-762X39, designation: 7.62x39mm, ammunition_type: cartridge, economy_role: rich_scavenge_pool, status: locked, sources: [ECON, WCOMP], compatible_weapon_refs: [PW-WEP-AK15, PW-WEP-AKM, PW-WEP-CMMG-MK47, PW-WEP-TYPE58-68, PW-WEP-WASR10]}
+- {id: PW-AMM-762-NATO, designation: 7.62x51mm NATO, ammunition_type: cartridge, economy_role: battle_rifle_and_dmr, status: confirmed, sources: [REGBASE, WCOMP], compatible_weapon_refs: [PW-WEP-FN-SCAR-H]}
+- {id: PW-AMM-308-WIN, designation: .308 Winchester, ammunition_type: cartridge, economy_role: precision_rifle, status: confirmed, sources: [REGDETAIL, WCOMP], compatible_weapon_refs: [PW-WEP-TIKKA-T3X-TAC-A1]}
+- {id: PW-AMM-762X54R, designation: 7.62x54mmR, ammunition_type: cartridge, economy_role: eastern_precision_and_machine_gun, status: working, sources: [WCOMP], notes: Caliber-family mapping is standard to the source-listed SVD/PK-family platforms; exact per-weapon implementation should remain source-checked., compatible_weapon_refs: [PW-WEP-PKM, PW-WEP-PKP, PW-WEP-SVD]}
+- {id: PW-AMM-9X19, designation: 9x19mm, ammunition_type: cartridge, economy_role: common_pistol_and_smg, status: confirmed, sources: [REGBASE, WCOMP], compatible_weapon_refs: [PW-WEP-BT-APC9K, PW-WEP-CZ-P09, PW-WEP-GLOCK17, PW-WEP-GLOCK19, PW-WEP-GLOCK19M, PW-WEP-GLOCK26-MOS, PW-WEP-GLOCK34-MOS, PW-WEP-HK-MP5, PW-WEP-HK-MP5SD, PW-WEP-HK-SP5K, PW-WEP-MP-SHIELD, PW-WEP-SIG-MPX-K, PW-WEP-SIG-P226-MK25, PW-WEP-SIG-P320-M17, PW-WEP-SIG-P365XL, PW-WEP-WALTHER-P99]}
+- {id: PW-AMM-9X18, designation: 9x18mm, ammunition_type: cartridge, economy_role: specialist_sidearm, status: confirmed, sources: [BATCH6], compatible_weapon_refs: [PW-WEP-PM-MAKAROV]}
+- {id: PW-AMM-9X21, designation: 9x21mm, ammunition_type: cartridge, economy_role: specialist_sidearm_and_pdw, status: confirmed, sources: [WCOMP, BATCH6], compatible_weapon_refs: [PW-WEP-SR1-VEKTOR, PW-WEP-SR2M]}
+- {id: PW-AMM-9X39, designation: 9x39mm, ammunition_type: cartridge, economy_role: self_contained_specialist_scavenge_pool, status: locked, sources: [ECON, WCOMP], compatible_weapon_refs: [PW-WEP-9A91, PW-WEP-AS-VAL, PW-WEP-OTS14, PW-WEP-SR3M, PW-WEP-VSS-VINTOREZ]}
+- {id: PW-AMM-10MM-AUTO, designation: 10mm Auto, ammunition_type: cartridge, economy_role: mission_specific_scarce, status: confirmed, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-STRIBOG-SP10-A3]}
+- {id: PW-AMM-22-LR, designation: .22 LR, ammunition_type: cartridge, economy_role: low_power_civilian_and_covert, status: confirmed, sources: [REGBASE, WCOMP], compatible_weapon_refs: [PW-WEP-RUGER-1022, PW-WEP-RUGER-LCP2]}
+- {id: PW-AMM-45-ACP, designation: .45 ACP, ammunition_type: cartridge, economy_role: sidearm_and_exotic_smg_shared_pool, status: confirmed, sources: [REGBASE, WCOMP], compatible_weapon_refs: [PW-WEP-HK45CT, PW-WEP-KRISS-VECTOR, PW-WEP-M1911A1]}
+- {id: PW-AMM-50-AE, designation: .50 AE, ammunition_type: cartridge, economy_role: single_find_non_replenishable, status: locked, sources: [WCOMP], compatible_weapon_refs: [PW-WEP-DESERT-EAGLE-MK19]}
+- {id: PW-AMM-300-BLK-SUB, designation: .300 BLK subsonic, ammunition_type: cartridge, economy_role: premium_scarce_suppressed, status: locked, sources: [ECON, REGDETAIL], compatible_weapon_refs: [PW-WEP-NOVESKE-N4-GEN3-300, PW-WEP-SIG-MCX-RATTLER]}
+- {id: PW-AMM-300-BLK-SUPER, designation: .300 BLK supersonic, ammunition_type: cartridge, economy_role: premium_scarce_break_glass, status: locked, sources: [ECON, REGDETAIL], compatible_weapon_refs: [PW-WEP-NOVESKE-N4-GEN3-300, PW-WEP-SIG-MCX-RATTLER]}
+- {id: PW-AMM-338-LAPUA, designation: .338 Lapua Magnum, ammunition_type: cartridge, economy_role: precision_specialist, status: locked, sources: [REGBASE, WCOMP], compatible_weapon_refs: [PW-WEP-SAKO-TRGM10]}
+- {id: PW-AMM-408-CHEYTAC, designation: .408 CheyTac, ammunition_type: cartridge, economy_role: rare_precision_specialist, status: locked, sources: [REG9, WCOMP], compatible_weapon_refs: [PW-WEP-CHEYTAC-M200]}
