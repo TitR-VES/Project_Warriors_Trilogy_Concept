@@ -1,0 +1,103 @@
+PROJECT WARRIORS — DO RIGHT, FEAR NONE OPENING / INFRASTRUCTURE SOURCE
+Generated: 2026-07-24
+Version: rev1
+Status: WORKING OPENING AUTHORITY / LATER CAMPAIGN SOURCES CONTROL
+Campaign: Ducky Game 1 — DO RIGHT, FEAR NONE
+Recovered from: full verbatim legacy archive, principally the March 28–29 campaign-overview thread
+
+PURPOSE
+Preserve the accepted post-WIRECUTTER arrival, decompression, character-hub, and infrastructure-assignment block at Innsworth. This material establishes AEGIS before the campaign expands into the infrastructure-defense chain.
+
+CONTINUITY POSITION
+WIRECUTTER precedes this block.
+The accepted two-part structure is:
+1. INNSWORTH — return, debrief, decompression, optional character interaction;
+2. STANDING WATCH — formal infrastructure assignment and anomaly-seeding briefing.
+
+The detailed later campaign hierarchy controls subsequent mission naming and placement. This page does not replace the current Game 1 recovery packet.
+
+===============================================================================
+01. INNSWORTH
+===============================================================================
+
+SETTING
+DAOG Command's European forward base at Innsworth, Gloucestershire, United Kingdom. The base must feel lived-in, functional, and institutionally ordinary rather than like a glamorous command bunker. DAOG occupies a secured element inside a working military installation whose wider population has learned not to ask questions.
+
+ARRIVAL FUNCTION
+The squad returns from Sea Lion 7 carrying physical fatigue and unresolved anomalies. The sequence lets the player understand AEGIS as people before the infrastructure campaign accelerates.
+
+ARRIVAL BEATS
+- transport/decompression after WIRECUTTER;
+- Ducky gives a preliminary sitrep including four confirmed Vympel and a possible fifth operator unaccounted for;
+- the official explanation trends toward "went overboard"; Ducky does not fully accept it;
+- Frost sits apart, mask restored, briefly handling the private object associated with Jussi before putting it away;
+- Lupin cleans his weapon as an order-restoring decompression habit;
+- Switchblade and Lupin retain a low-level professional disagreement from the operation;
+- CORYS Squad and Valkyrie are already at Innsworth and greet AEGIS as known professional peers, not strangers;
+- Brick's introduction remains understated and gesture-led.
+
+FORMAL DEBRIEF
+Colonel Walker conducts the WIRECUTTER debrief.
+- He names the staging/diving-equipment anomaly rather than dismissing it.
+- He directs Halliday to continue the analysis.
+- The Sea Lion 7 manifest contains route/port irregularities inconsistent with its declared voyage.
+- The missing fifth operator remains officially unresolved.
+- Walker is direct, trusted, and not universally agreed with; disagreement is professional rather than generic insubordination.
+
+FREE-ROAM / OPTIONAL CHARACTER LAYER
+After the formal debrief, INNSWORTH opens into a bounded semi-free-roam section. Optional conversations provide character depth but do not gate the main plot.
+
+Protected interaction directions:
+- Ducky / Valkyrie: dispersed infrastructure remit, strain on protection coverage, and unease about Sea Lion 7 operational security;
+- Frost: minimal acknowledgment in a quiet space; observation, not forced confession;
+- Switchblade / Lupin: tactically serious disagreement where neither is reduced to being wrong;
+- environmental quarters/seating/work areas that establish recurring habits and relationships;
+- CORYS/AEGIS professional familiarity without instant found-family sentimentality.
+
+HUB RULE
+The space is not a permanent RPG headquarters loop. It is a quiet campaign movement used to make later damage, mistrust, and institutional pressure matter.
+
+===============================================================================
+02. STANDING WATCH
+===============================================================================
+
+FUNCTION
+STANDING WATCH is the assignment/briefing movement that reframes the Sea Lion 7 incident as the first visible anomaly inside a larger infrastructure-security problem.
+
+BRIEFING ROLES
+Walker
+- presents the operational picture and assigns the infrastructure-protection mission set;
+- identifies uncertainty plainly and continues to make decisions under incomplete information.
+
+Tara Halliday / ORACLE
+- runs the intelligence/infrastructure presentation;
+- precise, layered, and professionally restrained;
+- has already cross-referenced the Sea Lion 7 anomaly against at least two other incidents with comparable pattern elements;
+- mentions this as a concise analytical footnote, not a dramatic revelation;
+- records dissent/uncertainty accurately so the institutional record can matter later.
+
+Callum Tremblay
+- does not appear in the recovered version of this mission.
+- His absence is texture, not proof of compromise. Do not overread it before later campaign authority.
+
+ASSIGNMENT CONTENT
+The infrastructure chain is introduced as a multinational defense problem involving geographically dispersed nodes, civilian shells, terrestrial relays, processing sites, and access-control vulnerabilities. The player must understand that the threat is architectural and patient: hostile operatives can already be partly inside the systems and environments AEGIS is tasked to defend.
+
+CAMPAIGN DESIGN FUNCTION
+- establishes protection/intelligence/direct-action as Ducky's distinct operational grammar;
+- provides a calm baseline before later institutional rupture;
+- seeds the first anomaly without solving it;
+- establishes Walker/Halliday/Ducky trust and interpretive tension;
+- makes CORYS and other allied units visible as a wider DAOG ecosystem.
+
+VOICE RULES
+Ducky becomes quieter and more exact under pressure.
+Halliday does not editorialize for drama.
+Walker delivers bad news directly.
+No character explains the conspiracy before evidence supports it.
+
+OPEN FLAGS
+- final free-roam interaction count and order;
+- exact map footprint of Innsworth;
+- whether INNSWORTH and STANDING WATCH render as two mission cards, two chapters inside one mission, or location/operation title layers;
+- exact subsequent mission handoff under the current campaign ladder.
