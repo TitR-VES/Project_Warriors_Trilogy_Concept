@@ -1,17 +1,18 @@
 PROJECT WARRIORS — GLUSHKIN / LEBEDEV / LIPNIN SLEEPER-NETWORK SOURCE
 Generated: 2026-07-24
-Version: rev1
-Status: CORE OPERATIONAL ARC LOCKED / BIOGRAPHICAL ARITHMETIC FLAGGED
+Version: rev2
+Status: CORE OPERATIONAL ARC AND BIRTH/RECRUITMENT CHRONOLOGY LOCKED
 Recovered from: full verbatim legacy archive, principally the March 30 worldbuilding sidebar
 
 PURPOSE
 Consolidate the Game 2–3 Russian illegal/sleeper-agent subplot around Vyacheslav Glushkin, Douglas Nasmith / Grigoryi Lebedev, and Gennadiy Lipnin. Preserve the personal and operational detail that was compressed in rev6 while respecting all later campaign, date, and title corrections.
 
 AUTHORITY RULE
-Later source pages and owner decisions control. This page promotes only decisions explicitly accepted in the legacy thread or already retained in current compendia. It does not resolve the one internal chronology contradiction by invention.
+Later source pages and owner decisions control. This page promotes only decisions explicitly accepted in the legacy thread or already retained in current compendia. Owner adjudication on 2026-07-24 resolves the recovered birth-year/recruitment arithmetic: Glushkin was born in 1972 and recruited by Lipnin in 1995 at age twenty-three. The transcript-era 1982 birth year is superseded.
 
 01. VYACHESLAV “SLAVA” GLUSHKIN
 Full working name: Vyacheslav Timofeevich Glushkin.
+Birth year: 1972 — LOCKED.
 Operational role: FSB field officer attached to the occupation/counter-resistance structure in Calloway, Redbud, and the wider Harlan County lane.
 Narrative role: principal professional antagonist of Romeo’s AMERICAN FREEDOM local-resistance arc.
 
@@ -38,11 +39,12 @@ The legacy material consistently establishes:
 - broad multilingual capability appropriate to a long-prepared illegal;
 - conventional infantry/weapons familiarity and strong chess ability.
 
-BIOGRAPHICAL CONFLICT — OWNER ADJUDICATION REQUIRED
-One recovered profile gives Glushkin a 1982 birth year. Another says Lipnin recruited him in 1995 at age twenty-three after MGIMO graduation. Both cannot be true. Do not repeat the age/year combination as locked canon. Until adjudicated:
-- keep birthplace/education/training as working biography;
-- keep Lipnin as the recruiter/program architect;
-- leave Glushkin’s exact birth year and recruitment year open.
+BIOGRAPHICAL CHRONOLOGY — LOCKED CORE
+- Glushkin was born in 1972.
+- He completed the relevant MGIMO education pathway before recruitment.
+- Gennadiy Lipnin recruited him in 1995 at age twenty-three.
+- The old 1982 birth year is superseded and must not be used in current-facing material.
+- Exact birth date, exact 1995 recruitment date, and the month-by-month MGIMO/training sequence remain open until a dedicated biography pass.
 
 CHARACTER REGISTER
 Glushkin is sophisticated, composed, observant, and capable of sudden decisive violence. The Christoph Waltz/Hans Landa comparison is an archetype note, not a likeness or imitation instruction. His distinguishing feature is an internal professional belief system: he respects competence, understands the human appeal of the country he infiltrated, and still chooses his assigned position until the institution burns him.
@@ -103,6 +105,7 @@ Lebedev may become an institutional antagonist or evidence node in later Boston/
 Role:
 - senior KGB officer who continues into the FSB after the Soviet collapse;
 - strategist/architect of the long-duration illegal program that produced assets such as Glushkin and Lebedev;
+- recruited Glushkin in 1995, when Glushkin was twenty-three;
 - Moscow-based institutional operator with close oversight of subordinate officers and deep-cover assets;
 - known for burning liabilities rather than compassionately reassigning them.
 
@@ -172,8 +175,8 @@ This subplot demonstrates:
 - a professional antagonist whose final moral agency becomes clearer only after his chain of command abandons him.
 
 OPEN FLAGS
-- Glushkin exact birth year/recruitment year;
-- exact MGIMO/training chronology after arithmetic repair;
+- exact birth date and exact 1995 recruitment date;
+- detailed MGIMO and clandestine-training chronology;
 - final FACE TO FACE mission numbering and unlock method;
 - final activation-scene screenplay and intelligence-file presentation;
 - Lebedev Game 3 use, exposure, and survival;
