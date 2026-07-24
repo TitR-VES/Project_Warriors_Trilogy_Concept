@@ -1,6 +1,6 @@
 PROJECT WARRIORS — VERBATIM LEGACY ARCHIVE RECONCILIATION AUDIT
 Generated: 2026-07-24
-Version: rev1
+Version: rev2
 Status: GOVERNANCE / SOURCE-RECOVERY AUDIT
 Baseline: main after merged PR #30, commit 5946c5215e40bbd39fe05bea849b9692d9bcc5ff
 
@@ -22,7 +22,7 @@ METHOD
 4. identify explicit owner approvals and accepted assistant proposals;
 5. promote only missing durable detail;
 6. apply later-canon supersessions before drafting;
-7. preserve unresolved contradictions and placement questions rather than inventing fixes;
+7. preserve unresolved placement questions and contradictions until explicit owner adjudication rather than inventing fixes;
 8. validate the branch as a documentation-only source landing.
 
 RESULT CLASS COUNTS
@@ -56,17 +56,18 @@ KEY SUPERSESSIONS APPLIED
 - U.S. election = Tuesday, November 7, 2028.
 - Romeo = SSG Ramón Álvarez; LT and intermediate SGT do not control current-facing material.
 - Spook = Trevor Albertson Gartner, senior CIA paramilitary operations officer; no current military rank.
+- Glushkin = born in 1972 and recruited by Lipnin in 1995 at age twenty-three; the old 1982 birth year is superseded.
 - Ducky Game 2 = PERSISTENT THREAT; AEGIS FALLS remains the finale title only.
 - current NO KINGS / FAILSAFE / DARK SKIES, Nightfall, Game 4, War Within, Home Defense, UI, named-weapon, and ontology sources control over transcript-era variants.
 - Project Warriors: Wasp controls over cartel-DLC title exploration.
 - TRU/SIGHT controls over PYTHIA; Mags controls over SBS operator Wren; weapon WREN remains.
 - Jack PRATT is distinct from Dale PRUETT.
 
-MATERIAL CONTRADICTION PRESERVED
-The Glushkin thread gives both a 1982 birth year and recruitment by Lipnin in 1995 at age twenty-three after MGIMO. Those statements cannot coexist. The new source preserves the operational biography and flags the date/age arithmetic for owner adjudication. No guessed correction is introduced.
+GLUSHKIN CHRONOLOGY — OWNER RESOLUTION
+The verbatim archive contained a contradiction between a 1982 birth year and recruitment in 1995 at age twenty-three after MGIMO. Owner adjudication on 2026-07-24 resolves the conflict by retconning Glushkin’s birth year to 1972. The recruitment year and age remain 1995 and twenty-three. Exact birth date, recruitment date, and detailed education/training chronology remain open.
 
 ONTOLOGY / REGISTRY
-No ontology delta is delivered in this pass. The promoted mission assets are either already represented by current campaign tracks/events or remain too partially ordered for a safe chronology mutation.
+No ontology delta is delivered in this pass. The Glushkin retcon is source-landed as stable character biography; the current ontology layer is campaign/event focused, and the promoted AMERICAN FREEDOM mission assets remain too partially ordered for a safe chronology mutation.
 No named-weapon registry delta is required. Current weapon sources control all exact builds discussed in the July transcripts.
 
 FILE-BY-FILE RESULT
@@ -74,7 +75,7 @@ The complete 30-row disposition is in `PW_Verbatim_Legacy_Archive_Inventory_2026
 
 OPEN FLAGS
 - final AMERICAN FREEDOM middle-ladder ordering and campaign continuation;
-- Glushkin birth/recruitment arithmetic, FACE TO FACE placement, final confrontation, and Lebedev/Lipnin later use;
+- Glushkin exact birth date, exact 1995 recruitment date, detailed MGIMO/training chronology, FACE TO FACE placement, final confrontation, and Lebedev/Lipnin later use;
 - final teaser music licensing and replacement tracks;
 - final PANDORA engineering values, root-custodian implementation, and kill-switch mission detail;
 - exact mission implementation for the RIPTIDE RED burst;
