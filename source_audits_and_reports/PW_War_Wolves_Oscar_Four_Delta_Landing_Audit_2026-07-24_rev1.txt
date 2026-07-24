@@ -1,0 +1,171 @@
+================================================================================
+PROJECT WARRIORS — WAR WOLVES / OSCAR FOUR DELTA
+TRANSCRIPT CANON LANDING AUDIT
+Generated: 2026-07-24
+Version: rev1
+Status: RELEASE AUDIT / PR HANDOFF
+================================================================================
+
+SCOPE
+The supplied transcript `war_wolves_oscar_four_delta_thread_export_2026-07-22.txt`
+was compared against current main at commit:
+
+df46d69d4fcb23d6013f3f52b03cad3ccb82b203
+
+Audit topics:
+- Oscar Four Delta origin and KINGMAKER relationship;
+- War Wolves legal identities and old-service nicknames;
+- Roman-numeral wrist-mark meaning;
+- "organs for dollars" institutional rumor and buried truth;
+- final CRIMSON identity map;
+- EXTREME PREJUDICE owner/designation and encounter-role reconciliation.
+
+--------------------------------------------------------------------------------
+1. RECONCILIATION RESULT
+--------------------------------------------------------------------------------
+
+ALREADY PRESENT ON MAIN
+- The War Wolves exist as CRIMSON ONE, TWO and THREE.
+- CRIMSON TWO is the established overwatch / precision encounter slot with a
+  personal CheyTac M200 Intervention.
+- CRIMSON THREE is the established breacher / support slot with a suppressed Mk18
+  package.
+- All three carry unexplained inside-wrist Roman-numeral marks I, II and III.
+- CogniConnect is the broad implant architecture; CFIM is the War Wolves-only
+  counter-forensic add-on.
+- EXTREME PREJUDICE already exists as Lawrence "Rip" Mansell's named CheyTac M200.
+
+PRESENT BUT INCORRECT / SUPERSEDED
+- EXTREME_PREJUDICE_Build_Spec_rev1.txt maps Mansell to CRIMSON THREE and treats
+  his rifle as an override of that slot's older Mk18 finale primary.
+- named_weapon_builds_v2_8.txt and the July 20 Compendium 04 named-weapons addendum
+  repeat the CRIMSON THREE mapping.
+
+MISSING BEFORE THIS LANDING
+- Oscar Four Delta as the War Wolves' former mid-2000s CIA Global Response Staff /
+  Ground Branch-adjacent action cell.
+- Richard "Digger" Graves, Lawrence "Rip" Mansell and Dermot "Lucky" Underwood as
+  the three legal identities.
+- Final map: Graves = CRIMSON ONE; Mansell = CRIMSON TWO; Underwood = CRIMSON THREE.
+- The rule that Digger, Rip and Lucky predate the War Wolves identity.
+- The wrist marks as plain pact/ownership marks accepted in exchange for impunity.
+- The insider "organs for dollars" joke.
+- The buried implication that Oscar Four Delta supported a domestic body-
+  exploitation, organ-harvesting, trafficking and abduction pipeline connected to
+  Goldberg's KINGMAKER / Shadow Underground architecture.
+- Reveal restraint: names and full history remain out of the active Game 1 fight and
+  surface later through Regent/PYTHIA/KINGMAKER evidence.
+
+CONCLUSION
+The transcript was only partially recorded in canon. The named rifle and encounter
+slots existed, but the latest identity adjudication was absent and the durable
+weapon source carried a now-superseded mapping. The deeper Oscar Four Delta lore was
+not durably represented.
+
+--------------------------------------------------------------------------------
+2. CANON LANDING
+--------------------------------------------------------------------------------
+
+LOCKED CORE
+- War Wolves = former Oscar Four Delta core members.
+- Graves = CRIMSON ONE.
+- Mansell = CRIMSON TWO and owner of EXTREME PREJUDICE.
+- Underwood = CRIMSON THREE.
+- Digger / Rip / Lucky are pre-War Wolves service nicknames.
+- Roman numerals I / II / III mark the pact with Goldberg's power structure.
+- Oscar Four Delta's buried history includes support for KINGMAKER-linked domestic
+  body exploitation / trafficking / abduction infrastructure.
+- "Organs for dollars" remains a restricted insider rumor, not official terminology.
+- Game 1 preserves anonymity and later-reveal discipline.
+
+RETAINED BASELINE
+- CRIMSON TWO remains the CheyTac precision slot.
+- CRIMSON THREE remains the suppressed Mk18 support slot.
+- CFIM / CogniConnect distinction remains unchanged.
+- Generic/security-post M200 rifles remain distinct from EXTREME PREJUDICE.
+
+OPEN
+- exact birthplaces, birth dates, ranks and service-entry dates;
+- literal nickname-origin incidents;
+- exact pact operation/date;
+- procedural details of the trafficking/body-exploitation pipeline;
+- Underwood named-build status;
+- exact later reveal mission and evidence chain;
+- full EXTREME PREJUDICE accessory/configuration pass.
+
+--------------------------------------------------------------------------------
+3. FILES ADDED
+--------------------------------------------------------------------------------
+
+DURABLE SOURCE
+- dev_src_docs/worldbuilding/
+  PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+
+WEAPON SOURCE / REGISTRY
+- dev_src_docs/weapons_and_equipment/
+  EXTREME_PREJUDICE_Build_Spec_rev2.txt
+- dev_src_docs/weapons_and_equipment/
+  named_weapon_builds_v2_9.txt
+
+WORKING KNOWLEDGE
+- Project_Warriors_Knowledge_Compendia/
+  PW_War_Wolves_Oscar_Four_Delta_Addendum_2026-07-24_rev1.txt
+- Project_Warriors_Knowledge_Compendia/
+  PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-24_rev3.txt
+
+GOVERNANCE
+- source_audits_and_reports/
+  PW_War_Wolves_Oscar_Four_Delta_Landing_Audit_2026-07-24_rev1.txt
+
+--------------------------------------------------------------------------------
+4. SUPERSESSION CHAIN
+--------------------------------------------------------------------------------
+
+CURRENT
+1. Later explicit owner adjudication in the July 22 transcript.
+2. PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt.
+3. EXTREME_PREJUDICE_Build_Spec_rev2.txt.
+4. named_weapon_builds_v2_9.txt.
+5. July 24 working-knowledge addenda.
+
+HISTORICAL / SUPERSEDED FOR CONFLICTS
+- EXTREME_PREJUDICE_Build_Spec_rev1.txt.
+- named_weapon_builds_v2_8.txt EXTREME PREJUDICE designation language.
+- PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-20_rev2.txt War Wolves
+  designation language.
+- any provisional mapping of Underwood to CRIMSON TWO or Mansell to CRIMSON THREE.
+
+--------------------------------------------------------------------------------
+5. VALIDATION
+--------------------------------------------------------------------------------
+
+Consistency checks performed:
+- final identity map uses each legal identity exactly once;
+- CRIMSON slots I, II and III remain unique;
+- Mansell's M200 remains in the established CRIMSON TWO precision slot;
+- Underwood inherits the established CRIMSON THREE support slot;
+- no named-weapon count changes;
+- EXTREME PREJUDICE remains distinct from generic/security-post M200 rifles;
+- no change to CFIM / CogniConnect behavior;
+- no new chronology event or ontology node is required;
+- no unsupported birth, rank, nationality or exact pipeline detail was invented;
+- Game 1 reveal restraint remains intact.
+
+Named-weapon projected state:
+- named identities: 36
+- duplicate stable IDs introduced: 0
+- added named identities: 0
+- corrected owner/designation entries: 1
+
+--------------------------------------------------------------------------------
+6. SOURCE-PRESERVATION RULE
+--------------------------------------------------------------------------------
+
+The transcript was normalized rather than copied wholesale into active authoring.
+Transcription noise, exploratory options and assistant suggestions not accepted by
+the user were not promoted. Explicitly accepted decisions were landed, and open
+fields remain open.
+
+================================================================================
+END — WAR WOLVES / OSCAR FOUR DELTA TRANSCRIPT CANON LANDING AUDIT rev1
+================================================================================
