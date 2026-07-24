@@ -1,6 +1,6 @@
 PROJECT WARRIORS — VERBATIM LEGACY ARCHIVE RECOVERY ADDENDUM
 Generated: 2026-07-24
-Version: rev1
+Version: rev2
 Status: SYNTHESIS / SOURCE POINTER ADDENDUM
 
 SOURCE-FIRST RULE
@@ -8,7 +8,7 @@ Use the compact durable pages below for current editing. The thirty raw transcri
 
 CORE DELTAS
 1. AMERICAN FREEDOM now has a focused Calloway campaign source rather than depending on large rev6 compendium sections.
-2. The Glushkin / Lebedev / Lipnin sleeper network now has a dedicated continuity source with activation, authentication, optional reveal, burn notice, and personal-choice architecture.
+2. The Glushkin / Lebedev / Lipnin sleeper network now has a dedicated continuity source with activation, authentication, optional reveal, burn notice, personal-choice architecture, and the locked 1972 birth / 1995 recruitment chronology.
 3. The three Game 2 campaign teasers now have full treatment-level authority beneath the compact PR #30 promo standard.
 4. PANDORA / TETHERBREAK now has a detailed technical architecture source beneath the compact July worldbuilding page.
 5. MAN FROM MEDAN, PANDORA’S BOX, and BURNING DAYLIGHT now have a compact mission-burst source; INFRASTRUCTURE DAY remains governed by its later dedicated page.
@@ -19,13 +19,14 @@ CORE DELTAS
 CRITICAL SUPERSESSIONS
 - PANDORA = September 7, 2028; final maintenance push begins September 4.
 - Romeo = SSG, not LT.
+- Glushkin = born in 1972; recruited by Lipnin in 1995 at age twenty-three. The old 1982 birth year is superseded.
 - Ducky Game 2 = PERSISTENT THREAT; AEGIS FALLS = finale mission.
 - Jack PRATT is distinct from Dale PRUETT.
 - Current Game 3, Game 4, Nightfall, War Within, named-weapon, UI, and ontology sources control over transcript-era versions.
 
 OPEN ITEMS
 - AMERICAN FREEDOM middle-ladder ordering;
-- Glushkin birth/recruitment arithmetic and final confrontation placement;
+- Glushkin exact birth date, exact 1995 recruitment date, detailed training chronology, and final confrontation placement;
 - Lebedev/Lipnin Game 3 use;
 - final teaser licensing and replacement music;
 - working PANDORA engineering values;
