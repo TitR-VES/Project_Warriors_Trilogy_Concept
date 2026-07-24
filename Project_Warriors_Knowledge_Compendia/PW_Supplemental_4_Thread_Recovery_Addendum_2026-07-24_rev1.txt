@@ -1,0 +1,28 @@
+PROJECT WARRIORS — SUPPLEMENTAL FOUR-THREAD RECOVERY ADDENDUM
+Generated: 2026-07-24
+Version: rev1
+Status: SYNTHESIS / SOURCE POINTER ADDENDUM
+
+SOURCE-FIRST RULE
+Use the durable pages listed below for editing. This file is an orientation layer, not a substitute for the sources.
+
+CORE DELTAS
+1. Trilogy thematic arc is locked as FRACTURE. RESISTANCE. RESTORATION.
+2. Restoration means the credible reopening of possibility, legitimacy, continuity, civic life, and hope—not total recovery or return to the old order unchanged.
+3. Current-facing rank controls include Romeo as SSG, Spook as a senior CIA paramilitary operations officer with surname Gartner, Switchblade as CPL, Vickers as Capt., Mace as Colour Sergeant, and Macmillan without a current military rank.
+4. Kentucky AFC identity uses muted goldenrod as the field/base and cardinal red as the interrupt/action color: YELLOW OWNS SPACE. RED INTERRUPTS IT.
+5. Kentucky’s Cardinal Slash, Goldenrod Home, AFC Block Mark, Redbud Arrow, Broken County Ring, Boone Tab, Pharmacy Cross-Out, and Names Wall Mark form a local Game 2 visual ecosystem.
+6. Republic Shield / Breach Star / Union Mark remain the later wider-AFC/Boston hierarchy; Kentucky visual language is lineage, regional identity, and local operational grammar rather than a replacement.
+7. OPEN CIRCUIT is a Ducky Game 2 Brno Exhibition Centre / Výstaviště infrastructure-recovery mission with AEGIS as playable spine and SHIELD as attached exploitation element.
+8. KERAUNOS is the precision French Rafale strike that breaks the Velodrom-side service choke after site lockdown, enabling AEGIS/SHIELD recombination and exfil.
+9. OPEN CIRCUIT exact mission number remains open and may not displace the locked Bakhmut sequence.
+10. Generated Brno promo previews remain non-canon; the visual-reference source controls the environment, keyframes, aircraft readability, destruction scale, and prompt-correction targets.
+
+SOURCE POINTERS
+- `dev_src_docs/canon_lore_source_of_truth/PW_Supplemental_4_Thread_Canon_Landing_2026-07-24_rev1.txt`
+- `dev_src_docs/story_standards/Project_Warriors_Trilogy_Thematic_Arc_Standard.txt`
+- `dev_src_docs/characters/PW_Character_Rank_and_Title_Realism_Standard_2026-07-24_rev1.txt`
+- `dev_src_docs/worldbuilding/PW_AFC_Kentucky_Visual_Identity_Source_2026-07-24_rev1.txt`
+- `dev_src_docs/story_campaigns/Game2/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt`
+- `dev_src_docs/image_prompts/PW_OPEN_CIRCUIT_KERAUNOS_Visual_Reference_2026-07-24_rev1.txt`
+- `source_audits_and_reports/PW_Supplemental_4_Thread_Reconciliation_Audit_2026-07-24_rev1.txt`
