@@ -1,0 +1,69 @@
+PROJECT WARRIORS — NAMED NPC ONTOLOGY LANDING AUDIT
+Generated: 2026-07-24
+Version: rev1
+Status: IMPLEMENTATION COMPLETE / DRAFT PR REVIEW REQUIRED
+
+PURPOSE
+Catalog source-backed named allied, hostile, ambiguous, command, support, community, and branch-dependent non-player characters; map their NPC-state appearances to installments, campaigns, missions, named weapons, enemy identities, and world roles.
+
+INVENTORY
+- Named NPC identities: 88
+- Appearance records: 116
+- Enemy named-NPC bindings: 7
+- Named-weapon relationships: 30
+- Characters with playable-elsewhere references: 7
+
+CLASS COUNTS
+- allied_combatant: 37
+- allied_command: 3
+- allied_support: 6
+- ambiguous_contact: 12
+- branch_dependent: 2
+- community_ally: 10
+- hostile_combatant: 6
+- hostile_command: 5
+- hostile_power_broker: 5
+- hostile_support: 1
+- posthumous_ally: 1
+
+DELIVERED FILES
+- schema/pw_named_npc.schema.yaml
+- pw_named_npc_catalog_rev1.yaml
+- pw_named_npc_entities_allied_main_rev1.yaml
+- pw_named_npc_entities_community_main_rev1.yaml
+- pw_named_npc_entities_hostile_ambiguous_main_rev1.yaml
+- pw_named_npc_entities_extended_rev1.yaml
+- pw_named_npc_appearances_allied_main_rev1.yaml
+- pw_named_npc_appearances_community_main_rev1.yaml
+- pw_named_npc_appearances_hostile_ambiguous_main_rev1.yaml
+- pw_named_npc_appearances_extended_rev1.yaml
+- pw_enemy_named_npc_bindings_rev1.overlay.yaml
+- PW_Named_NPC_Catalog_README_rev1.md
+
+VALIDATION
+- YAML parse: PASS for every generated YAML file.
+- Stable NPC IDs unique: PASS.
+- Appearance IDs unique: PASS.
+- NPC <-> appearance reciprocity: PASS.
+- Campaign/installment containment: PASS.
+- Named-weapon references used by this projection: PASS against the current cataloged stable-ID set.
+- Named enemy-type references: PASS against the merged enemy ontology.
+- Source-alias resolution: PASS.
+- Characters playable elsewhere retain at least one separately meaningful NPC-state appearance: PASS.
+
+GOVERNANCE
+- Primary playable protagonists are not duplicated solely because they exist.
+- Playable-elsewhere characters enter only through a source-backed NPC-state appearance.
+- Storytelling, environmental, and community roles remain separate fields.
+- Named-weapon relationships distinguish carrier, former owner, builder, provider, and temporary handoff.
+- Branch outcomes and optional-target survival remain globally unselected.
+- Callsign-only identities and incomplete mission placement remain explicit working fields.
+
+OPEN FLAGS
+- PW-NPC-OPEN-COMPLETE-ROSTER: Campaigns and missions still under development may add named NPCs and appearances through additive deltas.
+- PW-NPC-OPEN-EXACT-MISSION-PLACEMENT: Several recurring squad, command, and faction figures are source-backed at campaign level but lack a complete mission-by-mission placement list.
+- PW-NPC-OPEN-PLAYER-CHARACTER-CROSSOVER: Primary playable protagonists are outside this NPC catalog unless a separate NPC-state appearance is source-backed. A future character ontology may unify player and non-player states.
+- PW-NPC-OPEN-ALIGNMENT-BRANCHES: Branch-dependent survival, alliance, betrayal, capture, and optional-target outcomes remain explicit and globally unselected.
+- PW-NPC-OPEN-PROFILE-DETAILS: Callsign-only characters and recovery-status figures retain open legal names, biographies, exact mission sequences, or named-build platforms.
+
+END
