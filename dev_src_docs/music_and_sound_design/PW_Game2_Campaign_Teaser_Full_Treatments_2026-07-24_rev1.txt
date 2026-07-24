@@ -1,0 +1,255 @@
+PROJECT WARRIORS — GAME 2 CAMPAIGN TEASER FULL TREATMENTS
+Generated: 2026-07-24
+Version: rev1
+Status: APPROVED CREATIVE TREATMENTS / LICENSING AND PRODUCTION OPEN
+Recovered from: full verbatim March 31 promotional-development thread
+Companion standard: PW_Audio_Promotional_Recovery_Standard_2026-07-24_rev1.txt
+
+PURPOSE
+Preserve the complete treatment-level architecture for the three principal Game 2 campaign teasers. The compact promotional standard controls shared editorial rules; this page controls the detailed campaign-specific sequence.
+
+SHARED FORMAT
+- target length: approximately ninety seconds;
+- aspect: widescreen cinematic presentation, approximately 2.39:1;
+- no gameplay HUD;
+- no fake menu/UI framing;
+- campaign teasers are mood/narrative pieces, not feature lists;
+- Romeo and Ducky teasers contain no spoken dialogue;
+- GODKILLER receives a deliberate two-line dialogue exception;
+- title cards are plain, restrained, and separated by full beats of silence;
+- commercial music is licensing-dependent and may require replacement tracks preserving the same dramatic architecture;
+- “Coming Q2 2028” is fictional in-world flavor from the legacy treatment, not a real development or release commitment.
+
+===============================================================================
+01. AMERICAN FREEDOM — WAR HITS HOME
+===============================================================================
+
+Music candidate
+Jesse Welles — Good Morning America.
+Final passage may transform the melody into an unaccompanied or near-unaccompanied mixed choir treatment. The reference is communal/congregational weight, not a direct imitation of another soundtrack arrangement.
+
+Tone
+Restrained, elegiac, intimate, and gradually defiant. The campaign is introduced through grief and occupied normality before action.
+
+ACT ONE — RECOGNITION / ORDINARY AMERICA MADE WRONG
+Approx. 0:00–0:25.
+
+- cold early-morning light over Calloway/Main Street;
+- familiar storefronts, pharmacy, civic buildings, porches, road markings;
+- foreign checkpoint and occupation vehicles embedded in those familiar spaces;
+- civilians carrying bags, waiting, searching damaged homes, avoiding eye contact;
+- Russian flags or occupation signage present without a giant villain tableau;
+- no overt resistance hero shot yet;
+- the camera moves like a documentary observer rather than a commercial action reel.
+
+ACT TWO — WEIGHT
+Approx. 0:25–0:50.
+
+- occupation searches and roadside stops;
+- a shuttered school or church/community space;
+- Dale’s pharmacy/civic network implied through medicine boxes, notes, deliveries, or a quiet back room;
+- Cody moving through a workshop/vehicle space, impatient energy visible without dialogue;
+- Romeo watching patrol movement from concealment;
+- the campaign’s human cost is shown through objects and routines rather than graphic violence.
+
+PROTECTED THREE-FRAME INSERT
+During the accelerating quick-cut build, insert approximately three frames of the Cody consequence photograph/loading-screen image. It must be too brief to explain itself on first viewing but readable on pause/rewatch. The insert functions as dread and future recognition, not shock advertising. Final image/rating approval remains required.
+
+ACT THREE — THE CURRENT / RESISTANCE FORMING
+Approx. 0:50–1:10.
+
+- boots moving through mud and grass;
+- a folded paper/map exchanged without eye contact;
+- yellow/red local resistance marks only if compatible with the later AFC visual source;
+- radios, medicine, crates, culvert/farm-road movement, improvised preparation;
+- Romeo and locals moving with shared purpose but not yet a polished army;
+- cuts accelerate with the song but avoid a conventional kill montage.
+
+ACT FOUR — RECKONING
+Approx. 1:10–1:28.
+
+- Romeo stands at the edge of a tree line or ridge, back or partial profile to camera, looking down at occupied Calloway;
+- the town is unmistakably American; the flags controlling it are not;
+- the guitar/original arrangement gives way to the mixed choir carrying the melody;
+- the choir reframes Romeo as one person inside something larger than himself;
+- hard cut to black while the choir is still emotionally rising rather than after it resolves;
+- complete silence for one beat.
+
+TITLE CARDS
+WAR HITS HOME.
+AMERICAN FREEDOM.
+Coming Q2 2028. [fictional flavor only]
+
+Optional cross-promo seed
+A two-second or shorter Russian number-station fragment may be buried under the final choir decay as an extremely subtle Glushkin/sleeper-network connection. It must remain below the threshold of explanatory foreground audio.
+
+Avoid
+- heroic flag-waving montage;
+- generic patriotic advertising;
+- clean esports/faction graphics;
+- graphic exploitation of Cody’s death;
+- dialogue explaining occupation or resistance.
+
+===============================================================================
+02. PERSISTENT THREAT — THE SYSTEM FELL. WE DIDN’T.
+===============================================================================
+
+Title correction
+The legacy treatment used AEGIS FALLS as a working campaign title. Current canon:
+- campaign: PERSISTENT THREAT;
+- AEGIS FALLS: final mission title.
+All teaser end cards must use PERSISTENT THREAT unless a specific finale promo is being made.
+
+Music candidate
+Apashe and Alina Pash — Kyiv.
+
+Tone
+Institutional collapse, European systems war, professional endurance, and increasing visual instability.
+
+VISUAL GRAMMAR
+The teaser uses two image systems:
+1. composed cinematic footage;
+2. raw first-person/drone/body-camera-adjacent footage.
+
+The raw footage does not appear immediately. It intrudes progressively as the campaign’s systems and certainty degrade. Its frequency rises with musical intensity, approaches near-alternation at the peak, then recedes for the final emblem image.
+
+ACT ONE — THE INSTITUTION
+Approx. 0:00–0:25.
+
+- entirely cinematic;
+- European coastline/industrial infrastructure in cold weather;
+- AEGIS operators moving through transport, operations rooms, maritime or urban service spaces;
+- pristine AEGIS emblem shown clearly for the first time;
+- Halliday/Walker/command architecture may appear as glimpsed operational presence, not expository character introductions;
+- no raw POV yet.
+
+ACT TWO — HAIRLINE FRACTURE
+Approx. 0:25–0:50.
+
+- first raw-footage intrusion during an operational movement or contact beat;
+- cinematic shots of EW hardware, convoy movement, damaged civilian infrastructure, frozen terrain, rail/industrial nodes;
+- raw fragments from close movement, drone angle, helmet-level entry, or casualty handling;
+- pristine emblem returns with one hairline crack or subtle material fault;
+- the effect should be readable but not loudly symbolic.
+
+ACT THREE — THE SYSTEM CANNOT HOLD
+Approx. 0:50–1:10.
+
+- faster alternation between cinematic and raw grammars;
+- crossing water/ice, close urban movement, CORYS/AEGIS parallel operations, technical-site destruction, hurried exfiltration;
+- cracked command displays, severed links, documents photographed before destruction, wounded operator moved under fire;
+- no single mission must be copied literally if later campaign placement changes; the treatment expresses campaign identity rather than a locked montage chronology;
+- at the musical peak, raw and cinematic shots can alternate cut for cut;
+- as the track hollows out, the raw footage recedes.
+
+ACT FOUR — THE EMBLEM
+Approx. 1:10–1:28.
+
+- final steady cinematic image: the AEGIS emblem shown for the third time;
+- now fractured in a safety-glass/spider-web pattern but still holding its recognizable form;
+- motto remains readable;
+- the image communicates a system fundamentally compromised but not erased;
+- hold against the exposed vocal/quiet end of the music;
+- cut to black and full silence.
+
+TITLE CARDS
+THE SYSTEM FELL.
+WE DIDN’T.
+PERSISTENT THREAT.
+Coming Q2 2028. [fictional flavor only]
+
+Avoid
+- using first-game mission footage as literal Game 2 continuity after current campaign assets exist;
+- ending on AEGIS FALLS as campaign title;
+- making the emblem explode or disappear entirely;
+- raw footage from the first frame;
+- undifferentiated “war footage” without technical/institutional identity.
+
+===============================================================================
+03. GODKILLER — YOU CAN’T KILL A DEAD MAN
+===============================================================================
+
+Music candidate
+Metallica — King Nothing.
+
+Tone
+Investigative pressure, compromised institutions, Goldberg’s false death, and the realization that the conspiracy survived its apparent exposure.
+
+Dialogue exception
+This is the only one of the three teasers with spoken dialogue. The exception is intentional because the tagline is a character exchange and Goldberg’s voice is more unsettling than a clear hero/villain reveal.
+
+ACT ONE — OFFICIAL DEATH
+Approx. 0:00–0:25.
+
+- Goldberg photograph or case image stamped/marked DECEASED;
+- official records, closed case files, memorial/news language, institutional certainty;
+- Spook receives or studies material that should end the question;
+- the montage feels procedural and final.
+
+ACT TWO — THE RECORD DOES NOT CLOSE
+Approx. 0:25–0:50.
+
+- inconsistencies accumulate: mismatched dates, shell-company links, financial routing, surveillance stills, a face half-seen, an old access record still active;
+- Tripper/Smoke may appear in investigation texture without becoming trailer narrators;
+- Spook follows a chain through offices, vehicles, waterfront/airport/corporate spaces;
+- the official story begins to feel manufactured.
+
+ACT THREE — DEAD MAN WALKING
+Approx. 0:50–1:15.
+
+- compressed investigation/action build;
+- Goldberg’s influence visible through other people, protected spaces, and erased records;
+- East McFarlane or related island/waterfront imagery may appear as a visual rhyme rather than a full replay of the Game 1 finale;
+- final reveal: Goldberg alive, shown from behind or partial angle on a terrace/waterfront, completely unhurried;
+- do not give a clean glamour close-up. His calm certainty is the reveal.
+
+ACT FOUR — THE EXCHANGE
+Approx. 1:15–1:28.
+
+Music strips to near silence.
+
+Spook, low and flat:
+“You can’t kill a dead man.”
+
+One beat.
+
+Goldberg, older and quietly amused:
+“No.”
+
+Cut to black. Music stops. Full beat of silence.
+
+TITLE CARDS
+YOU CAN’T KILL A DEAD MAN.
+GODKILLER.
+Coming Q2 2028. [fictional flavor only]
+
+Avoid
+- explaining Goldberg’s escape mechanism;
+- showing a full conspiracy board long enough to become exposition;
+- turning Goldberg into a jump-scare reveal;
+- adding additional dialogue;
+- presenting Spook as a conventional action hero rather than an investigator entering a deeper system.
+
+===============================================================================
+04. OPTIONAL SLEEPER-NETWORK TEASER LANE
+===============================================================================
+
+The Glushkin activation material may support a separate campaign-adjacent teaser, but it is not one of the three primary treatments and must not be titled PERSISTENT THREAT.
+
+Possible protected elements:
+- ordinary Specter Aerospace morning;
+- Douglas Nasmith’s visit;
+- “Have a good one” authentication;
+- the word Redbud on the Redbirds postcard;
+- a later number-station fragment;
+- one cross-cut to occupied Kentucky.
+
+End-card title and relation to AMERICAN FREEDOM require separate approval.
+
+PRODUCTION OPEN FLAGS
+- commercial music licensing and replacement-track architecture;
+- exact runtime after editorial test;
+- final ratings treatment of Cody insert;
+- final current-game footage/assets replacing legacy placeholders;
+- exact wording/removal of fictional Q2 2028 cards;
+- whether the Glushkin cross-teaser connection is audible on first viewing or only detectable in analysis.
