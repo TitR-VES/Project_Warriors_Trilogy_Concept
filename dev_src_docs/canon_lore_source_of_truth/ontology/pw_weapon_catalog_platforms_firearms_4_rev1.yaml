@@ -1,0 +1,30 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-PLATFORMS-FIREARMS-4-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_weapon_catalog_rev1.yaml
+  segment: 4 of 4
+weapons:
+- {id: PW-WEP-RUGER-LCP2, canonical_name: Ruger LCP II, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-22-LR], sources: [REGBASE, WCOMP], named_build_refs: [PW-WPN-LA-AVISPA-CATCH-22], occurrence_refs: [PW-WOC-G2-GODKILLER-LCP2, PW-WOC-THE-WASP-LCP2]}
+- {id: PW-WEP-SIG-P365XL, canonical_name: SIG P365 XL, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-G2-GODKILLER-P365, PW-WOC-THE-WASP-P365]}
+- {id: PW-WEP-DESERT-EAGLE-MK19, canonical_name: Desert Eagle Mk XIX, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-50-AE], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-PANDORA-DESERT-EAGLE]}
+- {id: PW-WEP-M1911A1, canonical_name: M1911A1, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-45-ACP], sources: [REGBASE], named_build_refs: [PW-WPN-CHRIS-SAVING-GRACE], occurrence_refs: [PW-WOC-COLLAPSE-M1911]}
+- {id: PW-WEP-PM-MAKAROV, canonical_name: PM Makarov, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X18], sources: [BATCH6], occurrence_refs: [PW-WOC-G4-PERMANENT-MAKAROV]}
+- {id: PW-WEP-MOSSBERG500, canonical_name: Mossberg 500, category: shotgun, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-12GA-GENERIC, PW-AMM-12GA-00-BUCK, PW-AMM-12GA-BIRDSHOT], sources: [WCOMP], occurrence_refs: [PW-WOC-G2-DEAD-AIR-MOSSBERG500]}
+- {id: PW-WEP-SAIGA12, canonical_name: Saiga-12, category: shotgun, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-12GA-GENERIC], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-DOWN-RODEO-SAIGA12]}
+- {id: PW-WEP-BENELLI-M4-M1014, canonical_name: Benelli M4 / M1014, category: shotgun, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-12GA-GENERIC], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-CORONADO-M1014, PW-WOC-G1-WIRECUTTER-BENELLI]}
+- {id: PW-WEP-MOSSBERG590M, canonical_name: Mossberg 590M, category: shotgun, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-12GA-GENERIC], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-PANDORA-M590M]}
+- {id: PW-WEP-REM870-TAC14, canonical_name: DynaCal Remington 870 Tac-14 TACS II Custom lane, category: shotgun, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-12GA-GENERIC, PW-AMM-12GA-00-BUCK, PW-AMM-12GA-DB], sources: [REGBASE, HASTA, STONE], named_build_refs: [PW-WPN-CHRIS-HASTA-LA-VISTA], occurrence_refs: [PW-WOC-COLLAPSE-HASTA]}
+- {id: PW-WEP-BREACHING-SHOTGUN-GENERIC, canonical_name: compact breaching shotgun / breaching shotgun attachment, category: shotgun, weapon_scope: portable_weapon, status: generic_family, ammunition_refs: [PW-AMM-12GA-GENERIC], sources: [WCOMP], unresolved_fields: [exact platform variants, breaching-shell type table], notes: Covers source-listed breaching shotgun attachment and short breacher platforms until exact model-specific identities are source-landed., occurrence_refs: [PW-WOC-SEA-SPEAR-BREACH-SHOTGUN]}
+- {id: PW-WEP-SVD, canonical_name: SVD Dragunov, category: dmr, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-762X54R], sources: [WCOMP], occurrence_refs: [PW-WOC-G2-DEAD-AIR-SVD]}
+- {id: PW-WEP-PKM, canonical_name: PKM, category: machine_gun, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-762X54R], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-RUSSIAN-PKM]}
+- {id: PW-WEP-PKP, canonical_name: PKP Pecheneg, category: machine_gun, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-762X54R], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-CORONADO-PKP]}
+- {id: PW-WEP-ORSIS-T5000, canonical_name: ORSIS T-5000, category: precision_rifle, weapon_scope: portable_weapon, status: working, ammunition_refs: [], sources: [WCOMP], unresolved_fields: [project implementation caliber], occurrence_refs: [PW-WOC-G1-CORONADO-ORSIS]}
+- {id: PW-WEP-ACCURACY-AXSR, canonical_name: Accuracy International AXSR, category: precision_rifle, weapon_scope: portable_weapon, status: working, ammunition_refs: [], sources: [WCOMP], unresolved_fields: [project implementation caliber], occurrence_refs: [PW-WOC-G1-ATLAS-AXSR]}
+- {id: PW-WEP-CHEYTAC-M200, canonical_name: CheyTac M200 Intervention, category: precision_rifle, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-408-CHEYTAC], sources: [REG9, WCOMP, EXTREME], named_build_refs: [PW-WPN-MANSELL-EXTREME-PREJUDICE], occurrence_refs: [PW-WOC-G1-WARWOLF-M200-CACHE, PW-WOC-G1-WARWOLF-M200-MANSELL]}
+- {id: PW-WEP-SAKO-TRGM10, canonical_name: Sako TRG M10, category: precision_rifle, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-338-LAPUA], sources: [REGBASE, WCOMP], named_build_refs: [PW-WPN-FROST-TRG-M10], occurrence_refs: [PW-WOC-G3-FAILSAFE-TRGM10]}
+- {id: PW-WEP-TIKKA-T3X-TAC-A1, canonical_name: Tikka T3x TAC A1, category: precision_rifle, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-308-WIN], sources: [REGDETAIL, WCOMP], occurrence_refs: [PW-WOC-G1-COLD-FRONTIER-TIKKA]}
+- {id: PW-WEP-RUGER-1022, canonical_name: Ruger 10/22, category: rifle, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-22-LR], sources: [WCOMP], occurrence_refs: [PW-WOC-G2-DEAD-AIR-1022]}
+- {id: PW-WEP-M249, canonical_name: M249 SAW, category: machine_gun, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-556-NATO], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-ROMEO-M249]}
+- {id: PW-WEP-TYPE73-LMG, canonical_name: Type 73 LMG, category: machine_gun, weapon_scope: portable_weapon, status: working, ammunition_refs: [], sources: [WCOMP], unresolved_fields: [project implementation caliber], occurrence_refs: [PW-WOC-G1-KPA-TYPE73]}
