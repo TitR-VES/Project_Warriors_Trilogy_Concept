@@ -1,0 +1,43 @@
+PROJECT WARRIORS — SUPPLEMENTAL FOUR-THREAD CANON LANDING
+Generated: 2026-07-24
+Version: rev1
+Status: WORKING AUTHORITATIVE RECOVERY / SUPERSESSION CONTROL
+Recovered from: four supplemental extracted transcripts supplied after PR #28 opened
+
+PURPOSE
+Reconcile the trilogy slogan, rank-audit, Kentucky AFC visual-identity, and Brno/OPEN CIRCUIT threads against the current branch and later canon.
+
+AUTHORITY ORDER
+1. later explicit owner adjudication;
+2. later source-landed canon/correction pages;
+3. accepted source-ready transcript decisions;
+4. exploratory discussion, superseded grades/titles, and prompt iterations.
+
+PROMOTED
+- locked trilogy thematic signature: FRACTURE. RESISTANCE. RESTORATION.;
+- current-facing rank/title realism standard and stale-rank purge controls;
+- dedicated Kentucky AFC goldenrod/cardinal visual language and its migration into the later national/Boston emblem system;
+- OPEN CIRCUIT as a Ducky Game 2 Brno infrastructure-recovery mission;
+- SHIELD as OPEN CIRCUIT’s attached exploitation/recovery element;
+- KERAUNOS as the danger-close French Rafale strike at the Velodrom-side service choke;
+- OPEN CIRCUIT visual/keyframe and prompt-correction boundaries.
+
+SUPERSESSION CONTROLS
+- Romeo current grade is SSG. The transcript-era SGT correction fixed the officer/NCO mismatch but does not displace the later SSG lock.
+- Spook has no current Captain title. Use senior CIA paramilitary operations officer. Surname is Gartner.
+- Switchblade is Corporal.
+- Mags is the current SBS callsign; the transcript-era Wren callsign is retired, while Switchblade’s weapon build WREN remains.
+- Kentucky’s AFC block/slash/goldenrod system is a local origin layer. Republic Shield / Breach Star / Union Mark remain the wider later emblem hierarchy.
+- OPEN CIRCUIT exact mission number remains open and must not displace the locked Bakhmut mini-arc or other settled PERSISTENT THREAT placements.
+- Generated promo images remain non-canon until selected; the source controls visual language, not any one preview.
+
+NO ONTOLOGY DELTA
+This pass adds no exact date, new stable weapon identity, or settled campaign-ladder position requiring an ontology delta.
+
+CONTROLLING SOURCES
+- `dev_src_docs/story_standards/Project_Warriors_Trilogy_Thematic_Arc_Standard.txt`
+- `dev_src_docs/characters/PW_Character_Rank_and_Title_Realism_Standard_2026-07-24_rev1.txt`
+- `dev_src_docs/worldbuilding/PW_AFC_Kentucky_Visual_Identity_Source_2026-07-24_rev1.txt`
+- `dev_src_docs/story_campaigns/Game2/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt`
+- `dev_src_docs/image_prompts/PW_OPEN_CIRCUIT_KERAUNOS_Visual_Reference_2026-07-24_rev1.txt`
+- `source_audits_and_reports/PW_Supplemental_4_Thread_Reconciliation_Audit_2026-07-24_rev1.txt`
