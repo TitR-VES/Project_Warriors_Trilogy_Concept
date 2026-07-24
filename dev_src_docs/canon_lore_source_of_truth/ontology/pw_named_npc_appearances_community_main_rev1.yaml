@@ -1,0 +1,195 @@
+meta:
+  document_id: PW-ONT-PW-NAMED-NPC-APPEARANCES-COMMUNITY-MAIN-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_named_npc_catalog_rev1.yaml
+appearances:
+- id: PW-NPA-DALE-PRUETT-AF
+  npc_ref: PW-NPC-DALE-PRUETT
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - SECOND LEVEL
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: A third-generation pharmacist who turns ordinary civic infrastructure into resistance sustainment.
+    environmental: Pruett Family Pharmacy makes medicine, records, and supply limits visible.
+    community: A civic/logistics backbone and father protecting a damaged community.
+  status: confirmed
+  sources:
+  - AF
+- id: PW-NPA-FRANK-KOWALSKI-AF
+  npc_ref: PW-NPC-FRANK-KOWALSKI
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - SECOND LEVEL aftermath
+  - 'AMBITIOUS — PART THREE: COST'
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: Offers practical counsel and asks whether sacrifice produced a real result.
+    environmental: His hardware-store background makes ordinary tools and stock part of the war.
+    community: A quiet intergenerational bridge between military experience and local survival.
+  status: confirmed
+  sources:
+  - AF
+- id: PW-NPA-GENE-MARLOW-AF
+  npc_ref: PW-NPC-GENE-MARLOW
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - LOW GROUND
+  - FARM ROAD
+  - HARGROVE’S RECORD
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: Turns farm roads, delivery rhythms, and checkpoint timing into strategic infrastructure.
+    environmental: His feed truck and route knowledge make logistics physical.
+    community: Represents ordinary labor networks becoming resistance lifelines.
+  status: confirmed
+  sources:
+  - AF
+- id: PW-NPA-JUDGE-HARGROVE-AF
+  npc_ref: PW-NPC-JUDGE-HARGROVE
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - OTHER TOWNS
+  - HARGROVE’S RECORD
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: Insists the movement remain something a person could defend in court.
+    environmental: Records, testimony, and documentation become part of level and mission objectives.
+    community: Protects the resistance from becoming answerable only to itself.
+  status: confirmed
+  sources:
+  - AF
+- id: PW-NPA-KELSEY-PRUETT-AF
+  npc_ref: PW-NPC-KELSEY-PRUETT
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - THE REDBUD VEHICLES
+  - SECOND LEVEL
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: Personalizes the detainee crisis and Dale’s stake without becoming a plot device only.
+    environmental: Her presence inside the Redbud vehicles makes occupation harm immediate.
+    community: Represents the people the resistance exists to recover rather than merely mobilize.
+  status: confirmed
+  sources:
+  - AF
+- id: PW-NPA-PATRICE-ODOM-AF
+  npc_ref: PW-NPC-PATRICE-ODOM
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - NEIGHBOR
+  - FREE GROUND
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: Preserves continuity across towns and carries the folded flag used in FREE GROUND.
+    environmental: Emergency-management habits make distributed coordination legible.
+    community: Represents civic preparedness surviving state collapse.
+  status: confirmed
+  sources:
+  - AF
+- id: PW-NPA-RAY-BRADDOCK-AF
+  npc_ref: PW-NPC-RAY-BRADDOCK
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - THREE COUNTIES
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: A burned but surviving network contact who demonstrates that damaged cells are not necessarily erased.
+    environmental: His suspended network makes occupation pressure visible through absence and caution.
+    community: Represents persistence after operational compromise.
+  status: confirmed
+  sources:
+  - AF
+- id: PW-NPA-RENATA-VOSS-AF
+  npc_ref: PW-NPC-RENATA-VOSS
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - SECOND LEVEL
+  - HARD GROUND
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: Challenges Romeo through precise accounting and becomes the room’s operational memory.
+    environmental: Lists, maps, and communication discipline make civilian organization visible.
+    community: Turns school-system and civic administrative skill into resistance governance.
+  status: confirmed
+  sources:
+  - AF
+- id: PW-NPA-TERRELL-WASHINGTON-AF
+  npc_ref: PW-NPC-TERRELL-WASHINGTON
+  installment_refs:
+  - PW-INS-GAME-2
+  campaign_refs:
+  - PW-CMP-G2-AMERICAN-FREEDOM
+  mission_labels:
+  - FREQUENCY
+  - WASHINGTON’S WALL
+  encounter_modes:
+  - in_person
+  relationship_state: allied
+  participation_modes:
+  - community_contact
+  role_functions:
+    storytelling: Helps name the American Freedom Corps and gives the network a community-rooted public identity.
+    environmental: The school/community lane shows institutions becoming survival infrastructure.
+    community: Connects identity, youth/community trust, and operational shelter.
+  status: confirmed
+  sources:
+  - AF
