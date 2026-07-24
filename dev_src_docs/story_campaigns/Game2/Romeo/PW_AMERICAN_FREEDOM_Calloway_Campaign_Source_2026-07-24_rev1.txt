@@ -1,0 +1,253 @@
+PROJECT WARRIORS — AMERICAN FREEDOM / CALLOWAY CAMPAIGN SOURCE
+Generated: 2026-07-24
+Version: rev1
+Status: OPENING LOCKED / MIDDLE LADDER PARTIAL / LATER CANON CONTROLS
+Campaign: Romeo Game 2 — AMERICAN FREEDOM
+Recovered from: full verbatim legacy archive, principally the March 30 worldbuilding sidebar and March–April timeline/promo threads
+
+PURPOSE
+Give Romeo’s Game 2 campaign a focused source-first page for the Calloway/Harlan County resistance material that previously survived mainly inside large compendia and summary files.
+
+AUTHORITY / SCOPE
+- Campaign title: AMERICAN FREEDOM.
+- Playable lead: SSG Ramón “Romeo” Álvarez.
+- The campaign’s broad post-Coronado bridge remains controlled by the July Game 2 recovery packet and later NO KINGS bridge sources.
+- This page controls the recovered Calloway opening, local resistance architecture, approved mission concepts, and Glushkin-facing campaign logic.
+- It does not claim a fully finalized end-to-end Game 2 ladder. Two legacy middle-development clusters overlap and require later consolidation.
+
+CAMPAIGN THESIS
+Romeo reaches an occupied American community after the Game 1 collapse and becomes responsible for turning local survival networks into a resistance capable of coordinated action. The story is not merely about retaking ground. It is about whether a force built under occupation can remain answerable to the people whose lives make it possible.
+
+The campaign should feel:
+- local before national;
+- handmade before formal;
+- civic as well as military;
+- defined by routes, trust, medicine, food, records, radio discipline, and accumulated consequences;
+- increasingly visible as the American Freedom Corps forms.
+
+SETTING / OPENING STATE
+Primary setting: Calloway, Kentucky, with Redbud and the wider Harlan County/Cumberland-area network.
+Opening state: approximately Day 31 of local occupation. Exact calendar placement remains subordinate to the current world-event timeline.
+
+OPENING CINEMATIC DIRECTION
+- roof-height or elevated drift over Calloway Main Street in cold early-morning light;
+- familiar American civic architecture under foreign occupation: flags, roadblocks, armored vehicles, burned homes, civilians sorting wreckage;
+- Jesse Welles’s Good Morning America is the licensing-dependent music candidate;
+- the sequence must feel surreal through restraint, not action spectacle;
+- no clean heroic entrance for Romeo. He is initially an observer at the edge of a damaged community.
+
+CORE LOCAL CHARACTERS
+Dale Pruett
+- third-generation pharmacist and owner of Pruett Family Pharmacy;
+- civic/logistics backbone of the early resistance;
+- father of Kelsey Pruett;
+- surname lock: PRUETT.
+
+Renata Voss
+- former county school superintendent;
+- methodical civilian organizer, communications and information-management authority;
+- carries a handwritten list of unaccounted-for children;
+- challenges Romeo through precise accounting rather than sentimentality.
+
+Cody Beaumont
+- young former volunteer firefighter and mechanic;
+- field guide, route knowledge, urgency, and emotional volatility;
+- dies as a tragic resistance figure during SECOND LEVEL after enabling the detainee escape;
+- the campaign never turns his death into triumphant martyr spectacle.
+
+Frank Kowalski
+- older former 82nd Airborne staff sergeant and hardware-store owner;
+- practical military adviser and quiet counsel;
+- later captured during the AMBITIOUS operation and recovered from an informal FSB processing site.
+
+Gene Marlow
+- Redbud feed-delivery driver and route/logistics asset;
+- knows local farm roads and checkpoint rhythms;
+- first interrogated by Glushkin in LOW GROUND;
+- eventually burned as a route asset after occupation pressure increases.
+
+Aldridge
+- former county sheriff’s deputy, recovered in SECOND LEVEL;
+- develops into a major local operational asset.
+
+Network contacts
+- Patrice Odom — former emergency-management coordinator, Barbourville; preserves the folded American flag later raised at Elks Lodge.
+- Terrell Washington — Cumberland high-school football coach; contributes the “American Freedom” naming direction.
+- Ray Braddock — former state trooper, Evarts; network is burned/suspended but survives.
+- Judge Hargrove — documentation and legitimacy lane; insists the movement remain something a person could defend in court.
+- Priya Okonkwo — former Kentucky National Guard staff sergeant leading an eleven-person forest-based unit; strongest independent military element encountered in the local arc.
+- Dills — wary member of Priya’s unit who responds to Romeo’s honest risk assessment.
+
+ACT I — GOOD MORNING, AMERICA
+The first five missions are the strongest recovered ordered sequence and should be treated as locked working order unless a later dedicated campaign source changes it.
+
+01. LOW GROUND
+Purpose:
+- establish occupied Calloway through reconnaissance rather than immediate assault;
+- introduce Cody, Gene Marlow, Glushkin, and the occupation’s surveillance footprint.
+
+Playable shape:
+- pre-dawn movement with Romeo and Cody;
+- water-tower or elevated observation;
+- identify BTR/garrison positions, patrol staggering, the agricultural-office signals vehicle, and covered Redbud detainee vehicles at the medical-clinic parking structure;
+- observe Glushkin’s unmarked officer presence during Marlow’s checkpoint interrogation;
+- identify the culvert route.
+
+02. DEAD AIR
+Purpose:
+Create a temporary communications window without announcing a full resistance offensive.
+
+Player choice:
+- disable the signals vehicle so the failure reads as equipment trouble; or
+- remove a crew member during rotation, causing a shorter disruption window and higher suspicion.
+
+Result:
+Romeo reaches command and learns Calloway is a priority insurgency-support zone. A pre-positioned weapons cache exists southeast of town. Calloway is not meant to remain an isolated cell; it must become the first node of a network.
+
+03. THE REDBUD VEHICLES
+- Romeo and Cody reconnoiter the medical-clinic parking structure;
+- fourteen or more civilian detainees are held behind temporary barriers;
+- Cody recognizes Kelsey Pruett and restrains himself rather than compromising the operation;
+- the mission ends on the knowledge that the cell cannot wait indefinitely.
+
+04. FARM ROAD
+- establish contact with Gene Marlow at the grain-elevator pull-off;
+- reach and recover the Henderson-farm cache;
+- move weapons, medical supplies, night-vision devices, and encrypted radios through the checkpoint in Marlow’s truck;
+- preserve the handwritten note: “For whoever finds this — you’re not alone. Get to work.”
+
+Exact cache inventory should remain compatible with current weapon/procurement sources; the legacy list is a mission-prop working set, not an override of named-build authority.
+
+05. SECOND LEVEL
+- detainee rescue from the medical-clinic parking structure;
+- Romeo handles the lower level while Cody holds the stair/withdrawal line;
+- civilians, including Kelsey, reach the culvert and Marlow’s truck;
+- Cody holds too long, is wounded/captured, and does not return;
+- Romeo’s fourteen-second inability to reach him is a protected emotional timing idea, not a mandatory literal production timer until scripted;
+- Kelsey and Dale’s reunion is nearly wordless.
+
+AFTERMATH
+Renata confronts Romeo with the question of whether a version of the operation existed in which Cody came home. Romeo does not receive easy absolution. Frank’s response is practical: make sure the cost means something.
+
+CODY CONSEQUENCE IMAGE
+A single loading-screen image may imply Cody’s fate through an occupation-made warning display. It appears once, is not explicitly labeled as Cody, and is never reused as spectacle. Final image-content and ratings review remain production dependencies.
+
+AFC FORMATION
+The American Freedom Corps name emerges from coordinated network use rather than a predesigned institution. During the FREQUENCY-era coordination, Terrell Washington proposes “American Freedom something”; Romeo completes it as American Freedom Corps.
+
+MIDDLE CAMPAIGN — PARTIAL LADDER GOVERNANCE
+The legacy workspace produced two substantial middle-development clusters. Both contain approved material, but the transcripts do not establish one clean, contradiction-free order. Preserve all missions as working source assets; do not publish a definitive numbered ladder until they are consolidated.
+
+CLUSTER A — SQUAD REUNION / COUNTER-MAPPING / AMBITIOUS
+LONG VIEW
+- Fire Team Delta reunion on a ridge near Cumberland Gap;
+- restrained beard exchange and restoration of squad rhythm;
+- identify a patrol gap and rejoin Romeo’s Ranger team with the local resistance lane.
+
+SUPPLY AND DEMAND
+- three-element corridor interdiction;
+- Romeo/Howler, Dingo with local fighters, Beaver coordinating;
+- result creates an extended logistics disruption;
+- Aldridge recognizes that Glushkin is mapping the network rather than merely chasing attacks.
+
+OTHER TOWNS
+- contact vignettes with Hargrove, Priya, and a rejected Middlesboro group;
+- rejecting the Middlesboro group for poor security/misaligned agenda later creates a Glushkin exploitation seam.
+
+GLUSHKIN’S MAP
+- Glushkin uses the Middlesboro thread to probe the resistance picture;
+- AFC conducts counter-intelligence, closes the leak, and accepts that the exposed group cannot be saved cleanly.
+
+PRIYA’S GROUND
+- Romeo and Howler work with Priya’s unit;
+- Dills tests Romeo’s leadership and risk honesty;
+- the mission establishes a peer relationship, not automatic absorption.
+
+BREAKING SIGNAL
+- planning mission for Operation AMBITIOUS;
+- five cells, Priya’s unit, and Fire Team Delta build a multi-day Russian C2 disruption.
+
+AMBITIOUS — PART ONE: DARK
+- simultaneous communications interdiction;
+- the operation works almost too cleanly, creating unease.
+
+AMBITIOUS — PART TWO: SIGNAL
+- Priya attacks the courthouse/data node;
+- recovered material places Frank inside Glushkin’s intelligence picture.
+
+AMBITIOUS — PART THREE: COST
+- Frank is captured;
+- Romeo and Priya recover him from an informal FSB processing site;
+- Frank’s concern is whether the operation worked, not whether he was personally spared.
+
+CLUSTER B — NETWORK FORMATION / PUBLIC LEGITIMACY / PRESIDENTIAL HINGE
+NEIGHBOR
+- first major contact outside Calloway;
+- dialogue/movement-led meeting with Patrice Odom.
+
+THREE COUNTIES
+- montage/vignette structure across ten days and multiple communities;
+- six cells assessed and connected;
+- emphasizes ordinary institutions becoming infrastructure for survival.
+
+FREQUENCY
+- first coordinated multi-cell operation;
+- intercept signals-monitoring equipment before it extends Glushkin’s reach;
+- AFC name emerges.
+
+AMERICAN FREEDOM
+- largest local offensive yet;
+- target is the occupation’s primary county logistics hub at the fairgrounds;
+- five cells act in a synchronized window;
+- Romeo commands from a mobile radio position while participating in direct action.
+
+HARGROVE’S RECORD
+- documentary evidence of occupation abuses moves through Marlow’s route to external media;
+- AFC is named publicly for the first time.
+
+WASHINGTON’S WALL
+- occupation pressure reaches Cumberland’s school/community network;
+- AFC moves toward distributed/mobile command architecture;
+- Terrell’s departure beat emphasizes what must be left behind to keep the network alive.
+
+HIGH GROUND
+- first substantial contact with conventional U.S. forces, represented by a 101st Airborne element under Captain Lassiter;
+- a garrison falls;
+- the resulting report reaches Crodyn and helps trigger the wartime presidential address.
+
+PRESIDENTIAL-ADDRESS HINGE
+Romeo’s perspective occurs around a battery-powered television in a civilian space. Crodyn names the AFC and Romeo as enemies of wartime order. The cell’s answer is not an ecstatic rally. “American Freedom” is repeated as a statement of identity and fact.
+
+LATE LOCAL CLIMAX ASSETS
+HARD GROUND
+- relocate/rebuild the resistance command space;
+- Renata quietly takes operational ownership of the room and information architecture.
+
+FREE GROUND
+- simultaneous action against multiple garrison positions;
+- Elks Lodge is retaken and held temporarily;
+- Patrice Odom’s folded American flag is raised by Aldridge;
+- the occupation retakes the building, but the public has seen the flag fly.
+
+Do not assume FREE GROUND is the entire Game 2 campaign finale without later campaign-ladder review. It is the climax of the recovered Calloway formation arc.
+
+GLUSHKIN FUNCTION
+Glushkin begins as a nearly invisible professional observer and becomes the occupation’s counter-network antagonist. He respects Romeo’s capability, maps relationships rather than only attacks, and applies pressure designed to turn local trust into an operational liability.
+
+FACE TO FACE remains an optional/conditional mission asset. Its activation-flashback unlock and conversation architecture are controlled by the dedicated sleeper-network source.
+
+VISUAL / AUDIO IDENTITY
+- muted Kentucky rural and small-town realism;
+- AFC goldenrod/cardinal visual language governed by the dedicated July visual-identity source;
+- civilian spaces, route marks, pharmacy logistics, church/school/hardware-store networks;
+- no glossy insurgent branding;
+- music candidates are licensing-dependent and do not replace score design.
+
+OPEN FLAGS
+- final middle-ladder order and mission numbering;
+- whether the two clusters interleave, merge, or contain replaced alternatives;
+- precise relation of LONG VIEW/squad reunion to FREE GROUND and the broader post-Calloway campaign;
+- final placement and implementation of FACE TO FACE;
+- exact presidential-address calendar placement under the corrected November 7 election anchor;
+- final Cody image/rating treatment;
+- exact conventional-force handoff and campaign continuation beyond the local arc.
