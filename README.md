@@ -15,7 +15,7 @@ For current orientation, read:
 5. `Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt`
 6. dated supplemental recovery addenda newer than rev6
 
-There are currently no open pull requests that must be reconciled before using `main`.
+At this recovery pass's baseline, no pre-existing open-PR dependencies remained. Always check the current pull-request list before making a new full-reconciliation claim.
 
 ## Current working knowledge set
 
