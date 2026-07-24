@@ -29,14 +29,21 @@ CLASS COUNTS
 DELIVERED FILES
 - schema/pw_named_npc.schema.yaml
 - pw_named_npc_catalog_rev1.yaml
-- pw_named_npc_entities_allied_main_rev1.yaml
+- pw_named_npc_entities_allied_main_1_rev1.yaml
+- pw_named_npc_entities_allied_main_2_rev1.yaml
 - pw_named_npc_entities_community_main_rev1.yaml
-- pw_named_npc_entities_hostile_ambiguous_main_rev1.yaml
-- pw_named_npc_entities_extended_rev1.yaml
-- pw_named_npc_appearances_allied_main_rev1.yaml
+- pw_named_npc_entities_hostile_ambiguous_main_1_rev1.yaml
+- pw_named_npc_entities_hostile_ambiguous_main_2_rev1.yaml
+- pw_named_npc_entities_extended_1_rev1.yaml
+- pw_named_npc_entities_extended_2_rev1.yaml
+- pw_named_npc_appearances_allied_main_1_rev1.yaml
+- pw_named_npc_appearances_allied_main_2_rev1.yaml
+- pw_named_npc_appearances_allied_main_3_rev1.yaml
 - pw_named_npc_appearances_community_main_rev1.yaml
-- pw_named_npc_appearances_hostile_ambiguous_main_rev1.yaml
-- pw_named_npc_appearances_extended_rev1.yaml
+- pw_named_npc_appearances_hostile_ambiguous_main_1_rev1.yaml
+- pw_named_npc_appearances_hostile_ambiguous_main_2_rev1.yaml
+- pw_named_npc_appearances_extended_1_rev1.yaml
+- pw_named_npc_appearances_extended_2_rev1.yaml
 - pw_enemy_named_npc_bindings_rev1.overlay.yaml
 - PW_Named_NPC_Catalog_README_rev1.md
 
