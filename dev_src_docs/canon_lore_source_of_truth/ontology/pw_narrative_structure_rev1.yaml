@@ -22,9 +22,9 @@ parts:
 - path: pw_narrative_structure_installments_rev1.yaml
   contains: [installments]
 - path: pw_narrative_structure_campaigns_main_rev1.yaml
-  contains: [campaigns_main]
+  contains: [campaigns]
 - path: pw_narrative_structure_campaigns_extended_rev1.yaml
-  contains: [campaigns_extended]
+  contains: [campaigns]
 - path: pw_narrative_structure_bindings_rev1.yaml
   contains: [track_bindings]
 touchpoint_types:
