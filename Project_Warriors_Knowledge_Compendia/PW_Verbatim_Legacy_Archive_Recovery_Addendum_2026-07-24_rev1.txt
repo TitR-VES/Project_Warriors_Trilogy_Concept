@@ -1,0 +1,45 @@
+PROJECT WARRIORS — VERBATIM LEGACY ARCHIVE RECOVERY ADDENDUM
+Generated: 2026-07-24
+Version: rev1
+Status: SYNTHESIS / SOURCE POINTER ADDENDUM
+
+SOURCE-FIRST RULE
+Use the compact durable pages below for current editing. The thirty raw transcripts are provenance/evidence and are not safe current-authority files because they contain stale canon, hidden model/tool content, historical credential strings, and contradictory intermediate drafts.
+
+CORE DELTAS
+1. AMERICAN FREEDOM now has a focused Calloway campaign source rather than depending on large rev6 compendium sections.
+2. The Glushkin / Lebedev / Lipnin sleeper network now has a dedicated continuity source with activation, authentication, optional reveal, burn notice, and personal-choice architecture.
+3. The three Game 2 campaign teasers now have full treatment-level authority beneath the compact PR #30 promo standard.
+4. PANDORA / TETHERBREAK now has a detailed technical architecture source beneath the compact July worldbuilding page.
+5. MAN FROM MEDAN, PANDORA’S BOX, and BURNING DAYLIGHT now have a compact mission-burst source; INFRASTRUCTURE DAY remains governed by its later dedicated page.
+6. INNSWORTH / STANDING WATCH are source-landed as Ducky Game 1’s post-WIRECUTTER decompression and assignment block.
+7. First-person replica-footage reference practice is source-landed without storing the original videos or treating presentation music as game soundtrack canon.
+8. Legacy aircraft-scene drafts are provenance-controlled and cannot override later mission/fire-support sources.
+
+CRITICAL SUPERSESSIONS
+- PANDORA = September 7, 2028; final maintenance push begins September 4.
+- Romeo = SSG, not LT.
+- Ducky Game 2 = PERSISTENT THREAT; AEGIS FALLS = finale mission.
+- Jack PRATT is distinct from Dale PRUETT.
+- Current Game 3, Game 4, Nightfall, War Within, named-weapon, UI, and ontology sources control over transcript-era versions.
+
+OPEN ITEMS
+- AMERICAN FREEDOM middle-ladder ordering;
+- Glushkin birth/recruitment arithmetic and final confrontation placement;
+- Lebedev/Lipnin Game 3 use;
+- final teaser licensing and replacement music;
+- working PANDORA engineering values;
+- aircraft-scene current placement/production review;
+- first-person reference capture/playback specifications.
+
+SOURCE POINTERS
+- dev_src_docs/canon_lore_source_of_truth/PW_Verbatim_Legacy_Archive_Canon_Landing_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Romeo/PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt
+- dev_src_docs/characters/PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt
+- dev_src_docs/music_and_sound_design/PW_Game2_Campaign_Teaser_Full_Treatments_2026-07-24_rev1.txt
+- dev_src_docs/worldbuilding/PW_PANDORA_TETHERBREAK_Full_Technical_Architecture_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Spook/PW_Riptide_Red_Mission_Burst_Source_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Ducky/PW_Do_Right_Fear_None_Opening_Infrastructure_Source_2026-07-24_rev1.txt
+- dev_src_docs/gameplay_mechanics/PW_First_Person_Weapon_Animation_Reference_Standard_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Shared/PW_Legacy_Epic_Aircraft_Scene_Provenance_Addendum_2026-07-24_rev1.txt
+- source_audits_and_reports/PW_Verbatim_Legacy_Archive_Reconciliation_Audit_2026-07-24_rev1.txt
