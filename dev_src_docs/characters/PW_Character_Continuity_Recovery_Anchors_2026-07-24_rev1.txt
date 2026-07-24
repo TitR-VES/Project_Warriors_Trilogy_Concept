@@ -1,0 +1,40 @@
+PROJECT WARRIORS — CHARACTER CONTINUITY RECOVERY ANCHORS
+Generated: 2026-07-24
+Version: rev1
+Status: DURABLE CHARACTER / RELATIONSHIP CONTINUITY SOURCE
+
+PURPOSE
+Preserve subtle character and downstream-continuity anchors that were present in early thread summaries but easy to lose during compendium compression. This page does not force unresolved scenes into canon; it distinguishes locked texture from live development assets.
+
+1. LUPIN / SWITCHBLADE — LIVE DRAMATIC ASSET
+- Lupin quietly redirected his own early-life trajectory and military income toward family stability and his younger sister's future.
+- Switchblade severed herself from an abusive father and walked away from a burning home.
+- Their shared thematic question is what a person owes the people they came from.
+- The contrast is a live relationship asset, not a mandate for overt conflict or exposition.
+- Develop only when both characters' scene arcs can support restraint; do not reduce it to trauma comparison dialogue.
+
+2. ANDRE BRIDGES — VOICE AND CONSEQUENCE ANCHORS
+- Current identity: Staff Sergeant Andre Nathaniel Bridges, USMC.
+- "Copy" is a consistent verbal signature across his dialogue. It should read as economical professional acknowledgement, not a catchphrase called out by others.
+- Signal Hill establishes productive Romeo/Andre friction: two competent professionals with different reads, never ego-driven insubordination.
+- Their relationship should progress from disagreement, through execution without resentment, toward compressed trust by Coronado.
+- The Signal Hill communications-vehicle loss must create at least one downstream degraded-comms consequence in the West Coast/Semper Fi lane. Exact mission placement remains open unless a later Semper Fi source settles it.
+- A second Coronado friction/resolution beat remained open in the early source. Do not invent it merely to close the flag.
+
+3. SEMPER FI THEMATIC CONTROL
+- Project Warriors: Semper Fi is not only branch branding. "Always Faithful" is the DLC's pressure question: faithful to whom, to what institution, and under what conditions after PANDORA.
+- Andre's lane should preserve Marine infantry texture, severely degraded support, exposed movement corridors, and isolation from the technological/logistical assumptions of the main campaigns.
+- Later dedicated Semper Fi pages supersede early geography or overlap guesses where they conflict.
+
+4. SPOOK / LA AVISPA — RELATIONSHIP REGISTER
+- Foundation: forced mutual dependence -> quiet trust -> unique bond.
+- Any romantic charge is fleeting, unnamed, and structurally subordinate to tradecraft, danger, and incompatible trajectories.
+- La Avispa's combat control should be capable of unsettling even Spook because it mirrors and exceeds his own restraint in a different register.
+- The PSS-2 recognition beat remains a useful candidate for making her FSB past present in gameplay, but the recovered summary did not complete the scene. Treat it as open unless a later mission source locks it.
+
+5. PROTECTED PRESENTATION RULES
+- Do not convert subtle relationship architecture into explanatory speeches.
+- Do not use old ranks/titles: Romeo is SSG; Spook has no rank; Switchblade is Corporal.
+- Dale spelling is PRUETT.
+- Mags is the SBS operator; WREN is a weapon build only.
+- Current dedicated character and campaign pages control exact biographies, scene order, and mission placement.
