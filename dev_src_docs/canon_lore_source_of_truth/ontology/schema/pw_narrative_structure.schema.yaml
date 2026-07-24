@@ -6,6 +6,16 @@ meta:
     touchpoint vocabulary. Narrative source pages control story meaning; this ontology projects identity and containment
     without duplicating event chronology.
 schema:
+  document_modes:
+  - materialized
+  - bundle_manifest
+  - entity_part
+  bundle_manifest_required:
+  - meta
+  - series
+  - parts
+  - touchpoint_types
+  entity_part_rule: Each part must declare meta.document_mode = entity_part and contain one or more entity collections named by the manifest.
   top_level_required:
   - meta
   - series
@@ -50,6 +60,9 @@ schema:
     installment: ^PW-INS-[A-Z0-9-]+$
     campaign: ^PW-CMP-[A-Z0-9-]+$
     timeline_track: ^PW-TRK-[A-Z0-9-]+$
+  part_fields:
+    path: {type: string, required: true}
+    contains: {type: list, items: string, required: true}
   series_fields:
     id: {type: string, required: true}
     canonical_title: {type: string, required: true}
@@ -115,8 +128,9 @@ schema:
     definition: {type: string, required: true}
     direct_interaction_required: {type: boolean, required: true}
   validation_rules:
-  - All series, installment, campaign, and resolved timeline-track IDs must be unique.
-  - Every installment_ref and campaign_ref must resolve inside the narrative-structure document.
+  - All series, installment, campaign, and resolved timeline-track IDs must be unique across all manifest parts.
+  - Every manifest part path must exist and its contains declaration must match the entity collections in that file.
+  - Every installment_ref and campaign_ref must resolve inside the narrative-structure bundle.
   - Every campaign must belong to exactly one installment.
   - Every installment campaign_refs list must exactly match campaigns that point back to that installment.
   - A resolved track binding must contain a non-null timeline_track_ref.
