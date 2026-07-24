@@ -1,0 +1,129 @@
+meta: {document_id: PW-ONT-NARRATIVE-STRUCTURE-CAMPAIGNS-EXTENDED-REV1, generated: '2026-07-24', revision: rev1, document_mode: entity_part, manifest: pw_narrative_structure_rev1.yaml}
+campaigns:
+- id: PW-CMP-SEA-SPEAR
+  installment_ref: PW-INS-SEA-SPEAR
+  canonical_title: Sea Spear
+  title_status: locked
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Grim, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  binding_status: external_base_identifier_recovery_required
+  unresolved_fields: [exact timeline position, repository-verifiable timeline track stable ID]
+  status: working
+  sources: [Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt]
+  notes: The campaign is cataloged without asserting a track ID that is visible only in the unavailable external rev1 materialization.
+- id: PW-CMP-SEMPER-FI
+  installment_ref: PW-INS-SEMPER-FI
+  canonical_title: Semper Fi
+  title_status: locked
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: André Nathaniel Bridges, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  binding_status: external_base_identifier_recovery_required
+  unresolved_fields: [exact overlap boundaries, repository-verifiable timeline track stable ID]
+  status: confirmed
+  sources: [Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-07-06_rev6.txt]
+  notes: Game 1/Game 2 overlap is retained broadly; no candidate track ID is invented.
+- id: PW-CMP-WHO-DARES-WINS
+  installment_ref: PW-INS-WHO-DARES-WINS
+  canonical_title: Who Dares Wins
+  title_status: locked
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Mace, role: recommended working primary POV; final lock open}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-DLC-WHO-DARES-WINS]
+  binding_status: resolved
+  unresolved_fields: [final protagonist lock, exact mission dates]
+  status: working
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+- id: PW-CMP-THE-WASP
+  installment_ref: PW-INS-THE-WASP
+  canonical_title: The Wasp
+  title_status: locked
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: La Avispa / Yelena Volkova, role: sole primary playable protagonist}
+  temporal_modes: [game_2_overlap_primary, selective_flashbacks]
+  timeline_track_refs: [PW-TRK-DLC-WASP]
+  binding_status: resolved
+  status: confirmed
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+- id: PW-CMP-THE-STORM
+  installment_ref: PW-INS-THE-STORM
+  canonical_title: The Storm
+  title_status: locked
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Denis Nikolaevich Malinin / Sakhalin, role: primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-DLC-STORM]
+  binding_status: resolved
+  unresolved_fields: [full ladder, exact dates, opening mission rename]
+  status: working
+  sources: [dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt]
+- id: PW-CMP-HOME-DEFENSE
+  installment_ref: PW-INS-HOME-DEFENSE
+  canonical_title: Home Defense
+  title_status: working
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Corporal Lucas Hill, role: baseline working primary protagonist}
+  - {name: Cassandra Stewart / Switchblade, role: adjacent recurring squad lead}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-DLC-HOME-DEFENSE]
+  binding_status: resolved
+  unresolved_fields: [final title, exact Game 3 synchronization]
+  status: working
+  sources: [dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt]
+- id: PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA
+  installment_ref: PW-INS-WAR-WITHIN
+  canonical_title: American Guerrilla
+  title_status: locked
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Nicholas Wayne Hawthorne / Croatoan, role: sole primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-WAR-WITHIN]
+  binding_status: resolved
+  historical_aliases: ['Project Warriors: American Guerrilla']
+  status: locked
+  sources: [dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_title_hierarchy_rev2_9.delta.yaml, dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt]
+  notes: War Within is the installment/DLC title. American Guerrilla is the campaign title.
+- id: PW-CMP-THE-COLLAPSE
+  installment_ref: PW-INS-THE-COLLAPSE
+  canonical_title: The Collapse
+  title_status: locked
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Christopher Haywood / Chris, role: primary playable protagonist}
+  temporal_modes: [continuous_primary]
+  timeline_track_refs: [PW-TRK-DLC-THE-COLLAPSE]
+  binding_status: resolved
+  status: working
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt, dev_src_docs/story_campaigns/TheCollapse/PW_Post_Game4_Political_Transition_and_Collapse_Bridge_2026-07-21_rev1.txt]
+- id: PW-CMP-NIGHTFALL
+  installment_ref: PW-INS-NIGHTFALL
+  canonical_title: Nightfall
+  title_status: locked
+  campaign_type: dlc_campaign
+  campaign_order_within_installment: 1
+  protagonists:
+  - {name: Older Trevor Gartner / Spook, role: primary playable protagonist}
+  - {name: Ferris Ryan / Ducky, role: parallel playable perspective}
+  - {name: Ştefan Dragavei / Lupin, role: parallel playable perspective}
+  temporal_modes: [far_future_primary, parallel_perspectives]
+  timeline_track_refs: [PW-TRK-DLC-NIGHTFALL]
+  binding_status: resolved
+  status: confirmed
+  sources: [dev_src_docs/story_campaigns/Nightfall/PW_Nightfall_Timeline_and_Scorched_Crescent_Canon_2026-07-21_rev1.txt]
