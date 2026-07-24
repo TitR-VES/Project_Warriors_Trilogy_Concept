@@ -1,0 +1,120 @@
+PROJECT WARRIORS — LEGACY EPIC AIRCRAFT SCENE PROVENANCE ADDENDUM
+Generated: 2026-07-24
+Version: rev1
+Status: PROVENANCE / CURRENT DEDICATED SOURCES CONTROL
+Recovered from: March 30 verbatim worldbuilding thread and related early scene-development discussion
+
+PURPOSE
+Record the original dramatic intent behind the early Gripen, A400M, AC-130, and A-10 scene drafts while preventing obsolete placements, callsigns, or speculative production detail from overriding later mission sources.
+
+SHARED SCENE THESIS
+The aircraft scenes exist to make the war briefly become much larger than the playable squad and then return the player to ground scale. They are not detached air-show cinematics. Each scene must:
+- arise from a real tactical or logistical need;
+- be perceived primarily from the ground/player position;
+- use radio and sound to establish allied competence and multinational scale;
+- give the player enough control to feel present without allowing the moment to be easily missed;
+- resolve pressure or reveal scale, then return immediately to the mission.
+
+PLAYER-ATTENTION RULE
+Use authored gaze guidance sparingly:
+- sound arrives first;
+- squad body language, shadow, radio, or a light focus prompt can pull attention;
+- never lock the camera for a long hero shot when a grounded glance can carry the same effect.
+
+===============================================================================
+01. PHAETON — SWEDISH JAS 39 GRIPEN TWO-SHIP
+===============================================================================
+
+Original identity
+- Swedish allied fighter element;
+- native-language chatter layered with English ground coordination;
+- two Gripens arrive low and fast from behind or outside the player's current focus;
+- engine sound and pressure precede the visual crossing;
+- the two-ship performs a readable split/peel into separate vectors;
+- the scene communicates that AEGIS is nested inside a functioning coalition air war.
+
+Protected visual/audio grammar
+- low clearing/tree-line emergence;
+- sound before sight;
+- under-three-second high-speed exposure;
+- one clean two-ship split silhouette;
+- no prolonged orbiting glamour pass.
+
+Placement rule
+Early HARD WINTER placement was exploratory. Current mission/aircraft sources control the final placement and callsign. The old "PHAETON missing" flag is closed by the merged PR #30 audio standard.
+
+===============================================================================
+02. ICARUS — BELGIAN A400M PASSAGE
+===============================================================================
+
+Original identity
+- Belgian airlift element using multilingual French/Dutch/English texture;
+- Airbus A400M passage is slow, heavy, and impossible to hurry;
+- turboprop sound builds long before visual arrival and lingers afterward;
+- the aircraft carries resupply/medical/ammunition or another mission-valid logistical load;
+- brief accidental/ambient ramp/loadmaster noise may enter the coordination frequency.
+
+Protected contrast
+Where the Gripen scene is speed, the A400M is weight and duration. Do not edit the A400M like a fighter pass.
+
+Placement rule
+Current Game 1 Svalbard cross-campaign authority controls ICARUS Zeven and supersedes older tentative Game 2/PERMAFROST placement.
+
+===============================================================================
+03. AC-130 GUNSHIP RESCUE / PURSUIT-BREAK
+===============================================================================
+
+Original identity
+- night pursuit pressure;
+- aircraft presence revealed through orbiting engine/turboprop sound, sensor/radio awareness, flares, and precise impacts;
+- the gunship destroys or disables pursuing vehicles to buy an escape window;
+- the player experiences the support from the threatened ground element rather than from a detached aerial camera.
+
+Protected image
+Illumination/flares and measured gunship fire transform a dark pursuit corridor without turning the sequence into indiscriminate devastation.
+
+Placement rule
+Current ANGEL and other dedicated mission sources control exact vehicle, target, ammunition, callsigns, and story placement. This addendum does not duplicate them.
+
+===============================================================================
+04. A-10 / THUNDERBOLT RESTORED-CAPABILITY SCENE
+===============================================================================
+
+Original identity
+- Romeo-side Game 3 resistance force encounters an enemy armor/IFV column on a suburban/peripheral entry road rather than in dense urban core;
+- the player has fought without reliable air support long enough for its return to matter;
+- initial perception may be from inside/opening an APC or IFV hatch;
+- engine whine and impacts precede full visual recognition;
+- GAU-8 passes break the armor problem after ground forces have earned and held the strike window;
+- ordinary American commercial/suburban architecture makes the restored allied capability feel uncanny and specific.
+
+Protected dramatic rule
+The A-10 strike is the resolution to a ground problem, not the whole mission. The player fights through escalating vehicle pressure and holds the line before the aircraft can work.
+
+Technology/worldbuilding direction
+The early draft used the A-10's relative mechanical simplicity and reduced dependence on fragile networked systems as an advantage in a PANDORA-degraded battlespace. Treat this as plausible thematic direction, not an absolute claim that the aircraft is electronics-free or invulnerable.
+
+Placement rule
+Current NO KINGS, BODYWORK, DAY WINDOW, and later A-10 sources control final placement. Do not automatically attach the scene to Van Hult/BODYWORK or another mission merely because that was explored in the early thread.
+
+CURRENT FIRE-SUPPORT SUPERSESSIONS
+This provenance page cannot override:
+- ARTEMIS = Swedish Archer gun artillery / DEAD FREQUENCY;
+- TYPHON = Norwegian K239 Chunmoo rocket artillery / PERMAFROST;
+- KERAUNOS = French Rafale precision support / OPEN CIRCUIT;
+- ANGEL's current mission/vehicle/ammunition source;
+- DAY WINDOW's current A-10/JTAC authority;
+- any later dedicated aircraft scene page.
+
+PRODUCTION RULES
+- native-language chatter must be professionally reviewed;
+- callsigns are not interchangeable across assets;
+- aircraft geometry, sound delay, altitude, attack direction, safety separation, and target effects require technical review;
+- do not use a huge spectacle beat where a precise tactical intervention is the story;
+- commercial/stock footage and real insignia clearance remain production concerns.
+
+OPEN FLAGS
+- final current placement of PHAETON and any remaining unplaced early aircraft beat;
+- final callsign and nationality review for legacy drafts;
+- technical aviation review and mission-safe geometry;
+- whether any early line is retained verbatim in current radio scripts.
