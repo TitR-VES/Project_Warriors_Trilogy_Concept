@@ -1,0 +1,131 @@
+PROJECT WARRIORS — AFC KENTUCKY VISUAL IDENTITY SOURCE
+Generated: 2026-07-24
+Version: rev1
+Status: LOCKED GAME 2 LOCAL-IDENTITY / ART-DIRECTION SOURCE
+Recovered from: AFC Kentucky Visual Identity thread
+
+SCOPE
+This page governs the Kentucky-born visual language of the American Freedom Corps during Romeo Game 2.
+It supplements, and does not replace, the later wider-AFC / Boston emblem hierarchy:
+- Republic Shield — national/coordinating AFC emblem;
+- Breach Star — rough field/propaganda mark;
+- Union Mark — inherited Boston underground emblem.
+
+DESIGN THESIS
+The Kentucky movement grows from occupied local life: pharmacy back rooms, feed stores, school gyms, church basements, barns, road signs, survey paint, stitched fabric, marker labels, and scavenged stencil plates.
+It is civilian-born, practical before ideological, handmade before standardized, and emotionally American without becoming generic flag merchandise or polished insurgent branding.
+
+SIGNATURE PALETTE
+Goldenrod field:
+- primary/base identity color;
+- muted, dusty, sun-faded yellow rather than bright lemon;
+- evokes Kentucky goldenrod, field grass, old roadside paint, feed-sack ink, shelter, support, wayfinding, persistence, and home soil.
+
+Cardinal red:
+- sharp accent/action color;
+- barn/cardinal/flare/sign-enamel red rather than glossy fire-engine red;
+- evokes defiance, warning, sacrifice, retaliation, rallying, and memory.
+
+Supporting neutrals:
+weathered off-white, charcoal, rust brown, oxidized steel gray, and ordinary faded denim in clothing only.
+
+CORE COLOR RULE
+YELLOW OWNS SPACE. RED INTERRUPTS IT.
+
+Working meanings:
+- yellow cloth/mark = support, shelter, route, supply, friendly contact;
+- red interruption = danger, attack, compromise, reprisal, or active cell;
+- red over yellow = watched, burned, or no longer safe;
+- red and yellow together = active AFC presence, jointly held ground, rally point, or organized operation.
+
+MATERIAL RULE
+Use house paint, spray paint, fabric dye, thread, marker, chalk, old sign enamel, cardboard, plywood, reused labels, and field-cut stencils.
+Avoid clean vector perfection, glossy esports/PMC identity, neon, skull-heavy cliché, giant eagles, pristine uniforms, or corporate-patriot branding.
+
+SYMBOL FAMILY
+
+1. CARDINAL SLASH
+Fast cardinal-red diagonal brushstroke with a slight hooked wing gesture.
+Not a literal bird.
+Meaning: presence, refusal, “we are still here.”
+Uses: walls, underpasses, culverts, fuel pumps, barn doors, crates, magazines, propaganda overstrike.
+
+2. GOLDENROD HOME
+Minimal yellow goldenrod stem/spray.
+Meaning: shelter, medicine, food, mutual aid, memory, civilian support.
+Uses: pharmacies, churches, pantries, aid bags, cache boxes, cloth tabs, memorial sites.
+
+3. AFC BLOCK MARK
+Rough goldenrod AFC letters crossed or backed by a cardinal-red slash.
+Meaning: the network has a shared name and visible movement identity.
+Uses: plywood, rally walls, truck doors, banners, ammo crates, reclaimed civic spaces.
+Variation between locally copied versions is intentional.
+
+4. REDBUD ARROW
+Narrow yellow route arrow with red notch/dot/slash modifiers.
+Meaning: courier/logistics code.
+Uses: fence posts, culverts, mailboxes, grain structures, gate hinges, tractors, road-sign backs.
+Red modifiers can mark danger, checkpoint, watched route, or burned route.
+
+5. BROKEN COUNTY RING
+Rough yellow ring broken by a gap and interrupted by red.
+Meaning: contested, not conquered; occupation has failed to close control.
+Uses: larger walls, silos, barricades, vehicle hoods, rally points.
+
+6. BOONE TAB
+Subdued workshop-made combat tab/shield with dull yellow field/stripe and red diagonal wing motif; tiny AFC letters optional.
+Meaning: disciplined Boone-linked / National Guard-adjacent organized element.
+Uses: Priya’s unit, selected armbands, chest rigs, helmets, vehicles, command/security elements.
+
+7. PHARMACY CROSS-OUT
+Faded neutral medical cross crossed by goldenrod stem and small red wing mark.
+Meaning: medicine, triage, and civic care as resistance.
+Uses: Dale-side clinics, aid bags, volunteer jackets, manifests, supply boxes.
+
+8. NAMES WALL MARK
+Goldenrod sprig plus short red wing stroke beside names, dates, initials, or missing-person notices.
+Meaning: remembered, not erased, belonged to this place.
+Use without skulls or macho memorial language.
+
+CAMPAIGN EVOLUTION
+Phase 1 — deniable local network:
+yellow chalk, thread, label reuse, fence/gate marks; no clean central logo.
+
+Phase 2 — named AFC network:
+rough AFC initials and shared red/yellow grammar appear across counties; imperfect copies remain authentic.
+
+Phase 3 — open identity under pressure:
+reclaimed vehicles, armbands, tabs, banners, memorial walls, and overpainted occupation signage become more consistent.
+
+LATER-AFC MIGRATION
+Kentucky’s red/yellow grammar is the lived regional origin layer, not the permanent totality of the national mark system.
+As the AFC widens:
+- the Republic Shield becomes the national/coordinating emblem;
+- the Breach Star inherits the rough field-tag / direct-action function;
+- Kentucky goldenrod/cardinal colors remain a respected regional lineage and can persist in local tabs, memorials, unit accents, route marks, and heritage variants.
+Do not flatten Kentucky marks, Republic Shield, Breach Star, and Boston Union Mark into interchangeable logos.
+
+CHARACTER / NETWORK FIT
+- Dale Pruett: goldenrod, aid, ledger, pharmacy, civic reliability.
+- Cody Beaumont: rougher red, fast arrows, angry field marks, memorial spillover.
+- Gene Marlow: discreet route codes hidden in agricultural clutter.
+- Priya Okonkwo: cleanest Boone-tab / proto-military standardization.
+- Romeo: increasing visibility of a movement that begins locally and becomes larger than one leader.
+
+PROPAGANDA / PUBLIC-LANGUAGE RULE
+Messaging should sound local, useful, and earned rather than like a professional campaign agency.
+Strong approved directions include:
+STILL HERE.
+NOT CONQUERED.
+THEY LEFT. WE STAYED.
+YOU CAN HOLD THE ROAD, NOT THE HOME.
+IF YOU CAN CARRY, CARRY.
+MEDICINE / WATER / SHELTER.
+NO ONE WALKS ALONE.
+THEY WERE OURS.
+
+Tone reference:
+AFC should look like the American countryside decided it would rather bleed than submit.
+
+OPEN PRODUCTION FLAGS
+Exact final vector construction, embroidery specifications, color values, stencil plates, typeface choices, and asset-library implementation remain production work.
