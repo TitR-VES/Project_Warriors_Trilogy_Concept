@@ -108,7 +108,7 @@ schema:
       required: true
     track_role: {type: track_role, required: true}
     binding_status: {type: binding_status, required: true}
-    sources: {type: list, items: string, required: true}
+    sources: {type: list, items: string, required: false}
     recovery_note: {type: string, required: false}
   touchpoint_type_fields:
     id: {type: string, required: true}
@@ -120,6 +120,7 @@ schema:
   - Every campaign must belong to exactly one installment.
   - Every installment campaign_refs list must exactly match campaigns that point back to that installment.
   - A resolved track binding must contain a non-null timeline_track_ref.
+  - A track binding may inherit source authority from its referenced campaign when sources are omitted.
   - An external_base_identifier_recovery_required binding must keep timeline_track_ref null and explain recovery in recovery_note.
   - No exact dates or event ordering may be duplicated here; chronology belongs to the world-event timeline.
   - Series order describes release/numbered structure only and must not be used as fictional chronology.
