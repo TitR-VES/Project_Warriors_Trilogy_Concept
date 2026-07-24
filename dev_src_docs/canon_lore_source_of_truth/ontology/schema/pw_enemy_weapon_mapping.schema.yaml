@@ -1,0 +1,84 @@
+meta:
+  generated: '2026-07-24'
+  revision: rev1
+  document: enemy_weapon_mapping
+  governance: Controls stable enemy-type, loadout, encounter, and weapon-catalog binding identities. Narrative sources control story meaning; weapon catalog controls weapon/ammunition identity and occurrence access state.
+schema:
+  entity_id_patterns:
+    enemy_type: ^PW-ENM-[A-Z0-9-]+$
+    enemy_loadout: ^PW-ELD-[A-Z0-9-]+$
+    enemy_encounter: ^PW-EEN-[A-Z0-9-]+$
+    deferred_slot: ^PW-EDF-[A-Z0-9-]+$
+    weapon: ^PW-WEP-[A-Z0-9-]+$
+    ammunition: ^PW-AMM-[A-Z0-9-]+$
+    weapon_occurrence: ^PW-WOC-[A-Z0-9-]+$
+  enemy_type_fields:
+    id: {type: string, required: true}
+    canonical_name: {type: string, required: true}
+    faction_label: {type: string, required: true}
+    entity_scope:
+      type: enum
+      values: [archetype, conditioned_unit, named_enemy, named_optional_target, named_role]
+      required: true
+    tactical_tier:
+      type: enum
+      values: [atypical_conditioned, tier_1_basic_irregular, tier_2_trained_military, tier_2_trained_paramilitary, tier_3_special_operations_elite, tier_unknown]
+      required: true
+    combat_roles: {type: list, items: string, required: true}
+    loadout_refs: {type: list, items: enemy_loadout_ref, required: true}
+    encounter_refs: {type: list, items: enemy_encounter_ref, required: true}
+    status: {type: enum, values: [confirmed, locked, mapping_open, working], required: true}
+    unresolved_fields: {type: list, items: string, required: false}
+    sources: {type: list, items: string, required: true}
+    notes: {type: string, required: false}
+  loadout_fields:
+    id: {type: string, required: true}
+    enemy_type_ref: {type: enemy_type_ref, required: true}
+    canonical_name: {type: string, required: true}
+    selection_mode:
+      type: enum
+      values: [fixed_or_role_defined, fixed, mission_role_pool, mission_state_pool, role_pool, weighted_pool]
+      required: true
+    weapon_rules: {type: list, items: weapon_rule, required: true}
+    status: {type: enum, values: [confirmed, locked, mapping_open, working], required: true}
+    unresolved_fields: {type: list, items: string, required: false}
+    sources: {type: list, items: string, required: true}
+  weapon_rule_fields:
+    weapon_ref: {type: weapon_ref, required: true}
+    carry_role: {type: string, required: true}
+    carry_state: {type: string, required: true}
+    drop_policy: {type: enum, values: [conditional, drops, fixed_world, never_drops, unknown], required: true}
+    player_pickup_state: {type: enum, values: [collectible_only, conditional, mission_only, not_accessible, unknown], required: true}
+    ammunition_refs: {type: list, items: ammunition_ref, required: true}
+    conditions: {type: list, items: string, required: false}
+    status: {type: enum, values: [confirmed, working], required: true}
+    notes: {type: string, required: false}
+  encounter_fields:
+    id: {type: string, required: true}
+    enemy_type_ref: {type: enemy_type_ref, required: true}
+    installment_refs: {type: list, items: installment_ref, required: true}
+    campaign_refs: {type: list, items: campaign_ref, required: true}
+    mission_labels: {type: list, items: string, required: true}
+    weapon_occurrence_refs: {type: list, items: weapon_occurrence_ref, required: true}
+    spawn_conditions: {type: list, items: string, required: false}
+    status: {type: enum, values: [confirmed, locked, mapping_open, working], required: true}
+    unresolved_fields: {type: list, items: string, required: false}
+    sources: {type: list, items: string, required: true}
+  deferred_slot_fields:
+    id: {type: string, required: true}
+    installment_refs: {type: list, items: installment_ref, required: true}
+    campaign_refs: {type: list, items: campaign_ref, required: true}
+    reason: {type: string, required: true}
+    sources: {type: list, items: string, required: true}
+  validation_rules:
+  - Enemy type, loadout, encounter, and deferred-slot IDs must be unique.
+  - Every enemy loadout must resolve to exactly one enemy type; every enemy type loadout_ref must resolve reciprocally.
+  - Every encounter must resolve to exactly one enemy type; every enemy type encounter_ref must resolve reciprocally.
+  - Every weapon_ref, ammunition_ref, and weapon_occurrence_ref must resolve against the merged weapon catalog.
+  - Ammunition references in a weapon rule must be compatible with the referenced weapon in the weapon catalog.
+  - Campaign and installment references must preserve narrative-structure containment.
+  - Drop policy and player pickup state are independent; a carried weapon must never be assumed to drop or persist.
+  - Empty weapon_rules are permitted only for mapping_open enemy types and must include unresolved fields.
+  - Named enemies do not create new base-weapon identities; they reference existing PW-WEP identities and named-build identities remain governed separately.
+  - Generic NAF/Vanguard, Home Defense, Who Dares Wins, Sea Spear, The Storm, The Collapse, and undeveloped Game 3 opposition must remain deferred until source-landed.
+  - Compatibility overlays may only add enemy_type_refs to existing PW-WOC records and must not alter access, retention, or drop fields.
