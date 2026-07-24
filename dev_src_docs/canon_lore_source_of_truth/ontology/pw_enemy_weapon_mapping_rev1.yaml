@@ -1,0 +1,62 @@
+meta:
+  document_id: PW-ONT-ENEMY-WEAPON-MAPPING-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  status: locked_and_working_projection
+  schema: schema/pw_enemy_weapon_mapping.schema.yaml
+  authority:
+    narrative_sources: Control enemy identity, behavior, faction, mission meaning, and unresolved status.
+    weapon_catalog: pw_weapon_catalog_rev1.yaml controls PW-WEP, PW-AMM, PW-WOC identity and access/drop state.
+    this_projection: Controls PW-ENM enemy types, PW-ELD loadout mappings, PW-EEN encounter mappings, and compatibility bindings.
+  counts:
+    enemy_types: 33
+    resolved_or_working_enemy_types: 31
+    mapping_open_enemy_types: 2
+    loadouts: 33
+    encounters: 34
+    weapon_catalog_binding_operations: 48
+    deferred_campaign_slots: 7
+  scope: Source-backed hostile enemy archetypes, named enemy roles, carried weapons, ammunition, drop/pickup behavior, and
+    installment/campaign/mission encounters. Allied-only and protagonist loadouts remain outside this layer.
+parts:
+- path: pw_enemy_types_state_forces_rev1.yaml
+  contains: [enemy_types]
+- path: pw_enemy_types_nonstate_named_rev1.yaml
+  contains: [enemy_types]
+- path: pw_enemy_loadouts_state_forces_rev1.yaml
+  contains: [loadouts]
+- path: pw_enemy_loadouts_nonstate_named_rev1.yaml
+  contains: [loadouts]
+- path: pw_enemy_encounters_state_forces_rev1.yaml
+  contains: [encounters]
+- path: pw_enemy_encounters_nonstate_named_rev1.yaml
+  contains: [encounters]
+- path: pw_enemy_mapping_deferred_slots_rev1.yaml
+  contains: [deferred_slots]
+- path: pw_weapon_catalog_enemy_type_bindings_rev1.overlay.yaml
+  contains: [operations]
+controlled_vocabularies:
+  tactical_tiers: [tier_1_basic_irregular, tier_2_trained_military, tier_2_trained_paramilitary, tier_3_special_operations_elite, atypical_conditioned, tier_unknown]
+  drop_policy: [drops, conditional, fixed_world, never_drops, unknown]
+  player_pickup_state: [mission_only, conditional, collectible_only, not_accessible, unknown]
+source_aliases:
+  WCOMP: Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-07-06_rev6.txt
+  CORE: Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt
+  ECON: dev_src_docs/gameplay_mechanics/PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt
+  REG9: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+  WARWOLF: dev_src_docs/worldbuilding/PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+  DUE: dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+  BLOM: dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+  HOME: dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt
+  WDW: dev_src_docs/story_campaigns/WhoDaresWinsDLC/PW_Who_Dares_Wins_Campaign_Structure_Page_2026-04-13_rev1.txt
+  WARWITHIN: dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt
+  STORM: dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt
+  COLLAPSE: dev_src_docs/story_campaigns/TheCollapse/PW_Post_Game4_Political_Transition_and_Collapse_Bridge_2026-07-21_rev1.txt
+  SEASPEAR: Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-07-06_rev6.txt
+open_flags:
+- {id: PW-ENM-OPEN-LATER-RUSSIAN-DISTRIBUTION, description: Russian occupation is source-backed across later games but exact per-mission weapon distribution remains open.}
+- {id: PW-ENM-OPEN-KYSC-LOADOUT, description: KYSC behavior and encounter are source-backed; weapon and drop identities are not.}
+- {id: PW-ENM-OPEN-CARTEL-GENERAL-LOADOUT, description: The Pandora’s Box cartel general is source-backed; exact weapon loadout is not.}
+- {id: PW-ENM-OPEN-ATLAS-DROP-RULES, description: Atlas platform pool is source-backed; generic standard/elite drop behavior is not fully locked.}
+- {id: PW-ENM-OPEN-BLOMMAERT-ACQUISITION, description: DUE DILIGENCE is source-backed; killing Blommaert does not automatically authorize persistent player acquisition.}
+- {id: PW-ENM-OPEN-LATER-CAMPAIGN-OOB, description: Seven campaign/opposition slots remain deferred rather than guessed.}
