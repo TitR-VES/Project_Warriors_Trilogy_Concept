@@ -1,0 +1,91 @@
+PROJECT WARRIORS — VERBATIM LEGACY ARCHIVE RECONCILIATION AUDIT
+Generated: 2026-07-24
+Version: rev1
+Status: GOVERNANCE / SOURCE-RECOVERY AUDIT
+Baseline: main after merged PR #30, commit 5946c5215e40bbd39fe05bea849b9692d9bcc5ff
+
+SCOPE
+- 30 verbatim transcript files reviewed.
+- 1,150 visible human/assistant messages represented in the parsed archive.
+- approximately 9.69 MB of transcript text.
+- date span: March 28 through July 20, 2026.
+- member-level hashes, sizes, message counts, classifications, and actions: PW_Verbatim_Legacy_Archive_Inventory_2026-07-24_rev1.csv.
+
+PROVENANCE / SECURITY
+The ZIP README states that this full verbatim export supersedes the earlier summary bundle as evidence. It does not supersede later merged canon.
+The raw archive is not repository-landed because it contains historical credential strings, hidden model reasoning, tool telemetry, local filesystem paths, and uploaded-media references. No such material is promoted.
+
+METHOD
+1. extract and parse all archive members;
+2. inventory message counts and SHA-256 identities;
+3. compare each transcript against main after PR #30 and against later campaign, character, weapon, UI, ontology, and governance sources;
+4. identify explicit owner approvals and accepted assistant proposals;
+5. promote only missing durable detail;
+6. apply later-canon supersessions before drafting;
+7. preserve unresolved contradictions and placement questions rather than inventing fixes;
+8. validate the branch as a documentation-only source landing.
+
+RESULT CLASS COUNTS
+- ABSORBED_BY_LATER_SOURCE: 12
+- ABSORBED_BY_PR30: 2
+- ABSORBED_SUPERSEDED: 5
+- AUDITED_NO_DIRECT_LANDING: 1
+- AUDITED_OPEN_EVIDENCE: 1
+- MAJOR_PROMOTION: 6
+- PARTIAL_PROMOTION: 3
+
+DURABLE NEW SOURCE LANDINGS
+- AMERICAN FREEDOM / Calloway focused campaign source;
+- Glushkin / Lebedev / Lipnin sleeper-network source;
+- full Game 2 campaign teaser treatments;
+- full PANDORA / TETHERBREAK technical architecture;
+- RIPTIDE RED mission-burst source for MAN FROM MEDAN, PANDORA’S BOX, and BURNING DAYLIGHT;
+- DO RIGHT, FEAR NONE Innsworth / Standing Watch opening source;
+- first-person weapon-animation reference standard;
+- legacy epic-aircraft scene provenance addendum;
+- canon landing and compendium recovery addendum.
+
+EXISTING SOURCE UPDATES
+- Game 1 recovery packet: Romeo rank corrected from LT to current SSG; companion Ducky/Spook source pointers added.
+- Game 2 recovery packet: AMERICAN FREEDOM and sleeper-network companion pointers added.
+- PR #30 audio/promotional standard: full-treatment companion pointer added.
+- compact July PANDORA worldbuilding packet: full-architecture companion pointer added.
+
+KEY SUPERSESSIONS APPLIED
+- PANDORA activation = Thursday, September 7, 2028; final maintenance push = September 4.
+- U.S. election = Tuesday, November 7, 2028.
+- Romeo = SSG Ramón Álvarez; LT and intermediate SGT do not control current-facing material.
+- Spook = Trevor Albertson Gartner, senior CIA paramilitary operations officer; no current military rank.
+- Ducky Game 2 = PERSISTENT THREAT; AEGIS FALLS remains the finale title only.
+- current NO KINGS / FAILSAFE / DARK SKIES, Nightfall, Game 4, War Within, Home Defense, UI, named-weapon, and ontology sources control over transcript-era variants.
+- Project Warriors: Wasp controls over cartel-DLC title exploration.
+- TRU/SIGHT controls over PYTHIA; Mags controls over SBS operator Wren; weapon WREN remains.
+- Jack PRATT is distinct from Dale PRUETT.
+
+MATERIAL CONTRADICTION PRESERVED
+The Glushkin thread gives both a 1982 birth year and recruitment by Lipnin in 1995 at age twenty-three after MGIMO. Those statements cannot coexist. The new source preserves the operational biography and flags the date/age arithmetic for owner adjudication. No guessed correction is introduced.
+
+ONTOLOGY / REGISTRY
+No ontology delta is delivered in this pass. The promoted mission assets are either already represented by current campaign tracks/events or remain too partially ordered for a safe chronology mutation.
+No named-weapon registry delta is required. Current weapon sources control all exact builds discussed in the July transcripts.
+
+FILE-BY-FILE RESULT
+The complete 30-row disposition is in `PW_Verbatim_Legacy_Archive_Inventory_2026-07-24_rev1.csv`. Each transcript appears exactly once with SHA-256, byte size, message counts, classification, durable action, and supersession note.
+
+OPEN FLAGS
+- final AMERICAN FREEDOM middle-ladder ordering and campaign continuation;
+- Glushkin birth/recruitment arithmetic, FACE TO FACE placement, final confrontation, and Lebedev/Lipnin later use;
+- final teaser music licensing and replacement tracks;
+- final PANDORA engineering values, root-custodian implementation, and kill-switch mission detail;
+- exact mission implementation for the RIPTIDE RED burst;
+- final Innsworth/Standing Watch mission-card structure;
+- production capture specifications for first-person reference videos;
+- final placement/callsigns/technical review for any unplaced aircraft scene;
+- downstream compendium/archival-master refresh after merge.
+
+VALIDATION
+- all promoted source files are UTF-8 text;
+- no raw transcript wrappers, hidden reasoning, access tokens, uploaded videos, or local paths are included;
+- later-canon corrections are stated in controlling source pages;
+- inventory covers all 30 transcript files exactly once;
+- branch mutation target is a fresh topic branch based on merged PR #30 main.
