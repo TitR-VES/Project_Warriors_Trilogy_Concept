@@ -1,0 +1,135 @@
+PROJECT WARRIORS — RIPTIDE RED MISSION-BURST SOURCE
+Generated: 2026-07-24
+Version: rev1
+Status: WORKING MISSION AUTHORITY / LATER DEDICATED SOURCES CONTROL
+Campaign: Spook Game 1 — RIPTIDE RED
+Recovered from: full verbatim legacy archive, principally the July 8 mission-development thread
+
+PURPOSE
+Preserve the accepted mission-level architecture for MAN FROM MEDAN / DRAGONSLAYER, PANDORA'S BOX, and BURNING DAYLIGHT without duplicating later dedicated INFRASTRUCTURE DAY, STAPLER, UI, CFIM, or Blommaert sources.
+
+AUTHORITY RULE
+- The July Game 1 recovery packet controls the broad RIPTIDE RED campaign spine.
+- Current STAPLER and UI sources control the suppressor-to-blast-deflector PREPARE LOUD interaction.
+- The 2026-07-22 Blommaert / JUDGE ME NOT sources control INFRASTRUCTURE DAY.
+- The current CogniConnect/CFIM source controls implanted-enemy effects.
+- This page controls the compact mission flow and connective evidence recovered from the verbatim thread.
+
+===============================================================================
+01. MAN FROM MEDAN / OPERATION DRAGONSLAYER
+===============================================================================
+
+MISSION FUNCTION
+Victor Two Bravo is sent to Indonesia to apprehend Agarwal Berkhan, a logistics/procurement intermediary whose testimony could expose the wider contractor-state architecture. The mission demonstrates that the conspiracy is already willing to destroy its own human links rather than permit interrogation.
+
+CORE FLOW
+1. approach the Lestari House / Medan-area target space under controlled covert posture;
+2. identify Berkhan and penetrate the protected interior;
+3. recover or copy useful procurement/route material;
+4. grapple with Berkhan during his escape and steal his access credential/ID;
+5. use that credential to override the lockdown he triggers behind him;
+6. pursue toward the helicopter extraction point;
+7. witness the local Skynex/RADS/SAM defense system "malfunction" and destroy Berkhan's helicopter;
+8. break contact before Indonesian security forces close the area.
+
+DRAMATIC RULE
+Berkhan's death must read as deliberate remote sanitation disguised as technical failure. The team reaches him and still loses the interrogation because someone with deeper access can close the trail faster than they can exploit it.
+
+COMMAND / COMMS
+- BLACK KNIGHT and BLACK KING are recovered callsign directions for the command/mission-control layer; final assignment remains a production pass.
+- After the loss, Macmillan/Bishop tells the team Regent has been urgently reassigned and places Victor Two Bravo under direct authority.
+- That command move initiates WHITEOUT and the Miami chain.
+
+LOCAL-FORCE RULE
+Indonesian security forces are not a disposable enemy faction. Their arrival creates an exfiltration clock and sovereignty pressure. Avoid broad engagement; contact is failure pressure, not the mission's intended combat identity.
+
+OPEN / PROVENANCE ONLY
+- Gerhana/Eclipse yacht or shell-asset connections may be seeded only where compatible with later Game 4 Marietta continuity.
+- Exact location geometry, command callsign assignments, and Berkhan's complete dossier remain open.
+
+===============================================================================
+02. INFRASTRUCTURE DAY — POINTER ONLY
+===============================================================================
+
+INFRASTRUCTURE DAY is not rewritten here.
+Controlling sources:
+- dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+- dev_src_docs/characters/PW_Leandro_Petrus_Blommaert_Profile_2026-07-22_rev1.txt
+- dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+
+Legacy mission-burst material remains useful only as provenance for the broader GenCorp transition and the decision to keep Blommaert a professional, optional, branch-sensitive target.
+
+===============================================================================
+03. PANDORA'S BOX
+===============================================================================
+
+MISSION FUNCTION
+The team follows the sanitized Berkhan/GenCorp trail through Frankfurt and Orlando into the Miami/Doral/Medley corridor, where a resort-side surveillance operation becomes the discovery of conditioned KYSC assets and the first physical lead toward Montoya Farm.
+
+CORE FLOW
+1. WHITEOUT transition and travel through Frankfurt/Orlando into South Florida;
+2. surveil the Desautels resort and identify Simmons/Lynch-linked activity;
+3. use thermal-drone or equivalent overwatch to map the protected room and movement pattern;
+4. breach and confront five KYSC subjects/operatives;
+5. recover the device/records that link tattoos, conditioning, and the Montoya/MKULTRA lane;
+6. survive a compressed exfil chain through helicopter movement, structural damage/crash entry, sicario pressure, improvised explosive obstruction, cable/elevator movement, garage escape, and dawn separation.
+
+STORY RULES
+- The five KYSC are evidence of a conditioning pipeline, not generic elite enemies.
+- Current canon controls: baseline CogniConnect may be present; CFIM is War Wolves-only. KYSC faces do not detonate on death.
+- Baltano or shell-company ownership may be seeded visually, but the complete financial interpretation belongs to later Montoya decrypt work.
+- Protected direction after the discovery: the team moves before Bishop can contain or reframe the evidence. Compact intent line: "We move before Bishop asks why."
+
+PACING RULE
+The final exfil may be highly kinetic, but the mission's center is the discovery. Do not let the escape machinery erase the horror and investigative meaning of the room.
+
+OPEN FLAGS
+- final identities and exact state of Simmons/Lynch;
+- exact resort/Medley map split;
+- final number and staging of sicario encounters;
+- how much of the ownership trail is readable before BURNING DAYLIGHT.
+
+===============================================================================
+04. BURNING DAYLIGHT
+===============================================================================
+
+MISSION FUNCTION
+Victor Two Bravo infiltrates Montoya Farm during a gala and discovers the complete hidden conditioning facility beneath an affluent social surface. The mission converts the Miami clue into hard institutional evidence and propels the campaign toward East McFarlane Island.
+
+CORE FLOW
+1. enter or observe the Montoya Farm gala under covert constraints;
+2. use a directional microphone to collect Stockbridge-linked conversation/evidence;
+3. obtain the cloakroom/security keycard and manipulate or avoid CCTV;
+4. locate the pool-house/pool-area hatch and descend beneath the estate;
+5. move through prison, medical, dormitory, simulated-sky, and production/training spaces;
+6. plant the server implant and begin the layered decrypt/exfil process;
+7. escape through the service/laundry architecture rather than retracing the gala route;
+8. carry forward the recovered network, procurement, personnel, and conditioning evidence.
+
+ENVIRONMENTAL / COLLECTIBLE ANCHORS
+- vent-cleaning or maintenance evidence that reveals how long the underground site has operated;
+- a Ludovico-style conditioning room presented clinically, not as horror-theme scenery;
+- MAWL-DA or related equipment provenance that ties legitimate procurement to the covert program;
+- records that distinguish prisoners, conditioned assets, handlers, and production/logistics functions.
+
+ANTAGONIST NAME LOCK
+The relevant antagonist is JACK PRATT.
+- PRATT is distinct from Dale PRUETT.
+- Purge Pruett/Pruitt variants when they refer to Jack Pratt.
+
+DESIGN RULES
+- The gala and underground facility must feel like two layers of the same institution, not two unrelated levels.
+- Covert observation, access theft, surveillance control, and evidence collection carry equal weight with combat.
+- The facility should be operationally plausible and materially ugly, not a theatrical supervillain dungeon.
+- The mission's success is evidence implantation/recovery and escape, not killing everyone present.
+
+OPEN FLAGS
+- final gala guest/handler roster;
+- Jack Pratt's exact encounter state and survival;
+- exact decrypt timeline and which evidence becomes immediately readable;
+- final link into COME FLY WITH ME / SINS OF OUR FATHERS.
+
+CONTINUITY LOCKS
+- Trevor Albertson Gartner is the current-facing Spook identity; no current Captain title.
+- STAPLER's exact build and PREPARE LOUD implementation remain governed elsewhere.
+- Current PANDORA/TETHERBREAK and CFIM pages control technical terms.
