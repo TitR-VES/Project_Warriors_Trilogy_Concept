@@ -20,29 +20,61 @@ meta:
     deferred_named_build_bindings: 9
   next_pass_contract: Enemy-type entries may reference weapon_ref and ammunition_ref directly and may populate occurrence.enemy_type_refs
     without changing stable weapon or ammunition identities.
+  source_index:
+    WCOMP: Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-07-06_rev6.txt
+    FULL7B: dev_src_docs/canon_lore_source_of_truth/ontology/pw_full_transcript_recovery_rev2_7b.delta.yaml
+    SUPP8: dev_src_docs/canon_lore_source_of_truth/ontology/pw_supplemental_transcripts_rev2_8.delta.yaml
+    BATCH6: dev_src_docs/canon_lore_source_of_truth/ontology/pw_transcript_batch_rev2_6.delta.yaml
+    TRUEBLUE: dev_src_docs/canon_lore_source_of_truth/ontology/pw_true_blue_registry_v3_4.delta.yaml
+    WARWITHIN2: dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
+    STONE: dev_src_docs/characters/character_profile_troy_barry.txt
+    ECON: dev_src_docs/gameplay_mechanics/PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt
+    BLOM: dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+    EXTREME: dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev2.txt
+    HASTA: dev_src_docs/weapons_and_equipment/HASTA_LA_VISTA_Build_Spec_rev1.txt
+    DEADREC: dev_src_docs/weapons_and_equipment/PW_DEAD_RECKONING_Build_Spec_2026-07-21_rev1.txt
+    DUE: dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+    REGDETAIL: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
+    REGBASE: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
+    REG9: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
 parts:
-- path: pw_weapon_catalog_platforms_firearms_rev1.yaml
-  contains:
-  - weapons
+- path: pw_weapon_catalog_platforms_firearms_1_rev1.yaml
+  contains: [weapons]
+- path: pw_weapon_catalog_platforms_firearms_2_rev1.yaml
+  contains: [weapons]
+- path: pw_weapon_catalog_platforms_firearms_3_rev1.yaml
+  contains: [weapons]
+- path: pw_weapon_catalog_platforms_firearms_4_rev1.yaml
+  contains: [weapons]
 - path: pw_weapon_catalog_platforms_support_melee_rev1.yaml
-  contains:
-  - weapons
-- path: pw_weapon_catalog_ammunition_rev1.yaml
-  contains:
-  - ammunition
-- path: pw_weapon_catalog_occurrences_main_rev1.yaml
-  contains:
-  - occurrences
-- path: pw_weapon_catalog_occurrences_extended_rev1.yaml
-  contains:
-  - occurrences
-- path: pw_weapon_catalog_named_build_bindings_rev1.yaml
-  contains:
-  - named_build_bindings
+  contains: [weapons]
+- path: pw_weapon_catalog_ammunition_1_rev1.yaml
+  contains: [ammunition]
+- path: pw_weapon_catalog_ammunition_2_rev1.yaml
+  contains: [ammunition]
+- path: pw_weapon_catalog_occurrences_game1_romeo_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_game1_ducky_spook_1_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_game1_ducky_spook_2_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_game1_shared_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_main_later_1_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_main_later_2_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_extended_1_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_extended_2_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_named_build_bindings_1_rev1.yaml
+  contains: [named_build_bindings]
+- path: pw_weapon_catalog_named_build_bindings_2_rev1.yaml
+  contains: [named_build_bindings]
 open_flags:
 - id: PW-WCAT-OPEN-ROSTER-COMPLETENESS
-  description: Campaigns with incomplete or not-yet-developed weapon passes may add platforms and occurrences through
-    additive deltas.
+  description: Campaigns with incomplete or not-yet-developed weapon passes may add platforms and occurrences through additive deltas.
 - id: PW-WCAT-OPEN-REWARD-TABLE
   description: Troy Barry optional-objective/achievement unlock table and exact Dragon’s Breath timing remain open.
 - id: PW-WCAT-OPEN-ENEMY-DROP-MATRIX
