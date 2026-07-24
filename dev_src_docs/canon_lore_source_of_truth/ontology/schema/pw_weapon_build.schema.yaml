@@ -1,21 +1,19 @@
 # ==============================================================================
 # PROJECT WARRIORS — ONTOLOGY SCHEMA: NAMED WEAPON BUILD
-# pw_weapon_build.schema.yaml — rev7 (amended 2026-07-23)
+# pw_weapon_build.schema.yaml — rev8 (amended 2026-07-24)
 # ==============================================================================
 # Changes:
-# - Registry base authority remains named_weapon_builds_v2_8.txt.
-# - Cumulative registry deltas now project through v3.4.
-# - Supplemental recovery adds NOISE FLOOR, SECOND HORIZON, and HARD STAND.
-# - Owner adjudication adds TRUE BLUE and preserves Sakhalin's DEAD RECKONING.
-# - Retains campaign, placement, availability, configuration, associated-weapon,
-#   recovery, collision, and unresolved-field governance.
+# - Retains named-build registry authority and recovery governance.
+# - Adds optional base-weapon and ammunition references into the additive weapon catalog.
+# - Named build identity/configuration remains separate from base platform identity.
 # ==============================================================================
 meta:
-  generated: '2026-07-23'
-  revision: rev7
-  supersedes: pw_weapon_build.schema.yaml rev6
+  generated: '2026-07-24'
+  revision: rev8
+  supersedes: pw_weapon_build.schema.yaml rev7
   authority:
     current_registry_base: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
+    current_registry_correction_layer: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
     current_registry_deltas:
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_blommaert_game3_rev2_3.delta.yaml
@@ -24,6 +22,7 @@ meta:
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_supplemental_transcripts_rev2_8.delta.yaml
       - dev_src_docs/canon_lore_source_of_truth/ontology/pw_true_blue_registry_v3_4.delta.yaml
     projected_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v3_4.txt
+    base_weapon_catalog: dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_rev1.yaml
     legacy_detail_registry: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
 schema:
   entity: named_weapon_build
@@ -41,7 +40,17 @@ schema:
     platform:
       type: [string, 'null']
       required: true
+    base_weapon_ref:
+      type: [string, 'null']
+      pattern: '^PW-WEP-[A-Z0-9-]+$'
+      required: false
     caliber: {type: [string, object, 'null'], required: false}
+    ammunition_refs:
+      type: list
+      items:
+        type: string
+        pattern: '^PW-AMM-[A-Z0-9-]+$'
+      required: false
     campaign_refs:
       type: list
       items: string
@@ -99,3 +108,5 @@ schema:
     - Transcript-era ordinal labels do not override stable IDs or create new identities.
     - A transcript candidate name that collides with an existing stable build must remain rename-required until owner adjudication supplies a non-colliding identity.
     - Owner adjudication may resolve a collision through a new stable ID while preserving the rejected candidate as a historical alias only.
+    - base_weapon_ref and ammunition_refs are additive catalog links; they do not replace the controlling platform/caliber text in the named-build registry.
+    - A null base-weapon binding must remain explicit in the segmented pw_weapon_catalog_named_build_bindings_*_rev1.yaml files until the platform is recovered.
