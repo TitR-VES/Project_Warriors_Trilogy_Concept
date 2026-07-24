@@ -1,0 +1,30 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-PLATFORMS-FIREARMS-3-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_weapon_catalog_rev1.yaml
+  segment: 3 of 4
+weapons:
+- {id: PW-WEP-OTS14, canonical_name: OTs-14 Groza, category: bullpup_rifle, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X39, PW-AMM-40MM-GRENADE], sources: [WCOMP], known_variants: [9x39 rifle, 40mm underbarrel grenade launcher configuration], occurrence_refs: [PW-WOC-G1-WIRECUTTER-GROZA, PW-WOC-G1-ROTTERDAM-GROZA]}
+- {id: PW-WEP-HK-MP7A1, canonical_name: HK MP7A1, category: pdw, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-46X30], sources: [REGBASE], named_build_refs: [PW-WPN-SPOOK-BACKUP-PLAN], occurrence_refs: [PW-WOC-SPOOK-MP7]}
+- {id: PW-WEP-HK-SP5K, canonical_name: HK SP5K, category: smg, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-G2-GODKILLER-SP5K]}
+- {id: PW-WEP-STRIBOG-SP10-A3, canonical_name: Grand Power Stribog SP10 A3, category: smg, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-10MM-AUTO], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-VIENNA-STRIBOG]}
+- {id: PW-WEP-SR2M, canonical_name: SR-2M, category: smg, weapon_scope: portable_weapon, status: working, ammunition_refs: [PW-AMM-9X21], sources: [BATCH6], unresolved_fields: [deployment state], occurrence_refs: [PW-WOC-G4-PERMANENT-SR2M]}
+- {id: PW-WEP-KRISS-VECTOR, canonical_name: KRISS Vector / Vector KRISS V, category: smg, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-45-ACP], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-PANDORA-VECTOR]}
+- {id: PW-WEP-GLOCK17, canonical_name: Glock 17 Gen5 / Glock 17 family, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-G2-DEAD-AIR-GLOCK17]}
+- {id: PW-WEP-GLOCK19, canonical_name: Glock 19 Gen5 / Glock 19 family, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-WARWOLF-GLOCK19]}
+- {id: PW-WEP-GLOCK19M, canonical_name: Glock 19M, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-SEMPER-FI-GLOCK19M]}
+- {id: PW-WEP-GLOCK34-MOS, canonical_name: Glock 34 Gen5 MOS, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-WARWOLF-GLOCK34]}
+- {id: PW-WEP-GLOCK26-MOS, canonical_name: Glock 26 V MOS, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [REGBASE], named_build_refs: [PW-WPN-STOCKBRIDGE-ENFANT-TERRIBLE], occurrence_refs: [PW-WOC-G4-ENFANT-GLOCK26]}
+- {id: PW-WEP-SIG-P320-M17, canonical_name: SIG P320-M17, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-ROMEO-P320]}
+- {id: PW-WEP-SIG-P226-MK25, canonical_name: SIG P226 MK25, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-SEA-SPEAR-P226]}
+- {id: PW-WEP-HK45CT, canonical_name: HK45CT, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-45-ACP], sources: [REGBASE, WCOMP], named_build_refs: [PW-WPN-SPOOK-NOTHING], occurrence_refs: [PW-WOC-G1-SPOOK-HK45CT]}
+- {id: PW-WEP-CZ-P09, canonical_name: CZ P-09, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [REGBASE, WCOMP], named_build_refs: [PW-WPN-DUCKY-HUCKLEBERRY], occurrence_refs: [PW-WOC-DUCKY-CZP09]}
+- {id: PW-WEP-FN-FIVESEVEN, canonical_name: FN Five-seveN, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-57X28], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-DOWN-RODEO-FIVESEVEN, PW-WOC-G2-BISUTRI-FIVESEVEN]}
+- {id: PW-WEP-PSS2, canonical_name: PSS-2 silent pistol, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-762X41-PSS2], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-WIRECUTTER-PSS2]}
+- {id: PW-WEP-SPP1M, canonical_name: SPP-1M underwater pistol, category: underwater_pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-SPP1M-DART], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-WIRECUTTER-SPP1M]}
+- {id: PW-WEP-APS-UNDERWATER, canonical_name: APS underwater rifle, category: underwater_rifle, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-APS-DART], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-WIRECUTTER-APS]}
+- {id: PW-WEP-SR1-VEKTOR, canonical_name: SR-1 Vektor, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X21], sources: [WCOMP], occurrence_refs: [PW-WOC-G2-LOW-GROUND-SR1]}
+- {id: PW-WEP-WALTHER-P99, canonical_name: Walther P-99 / P99 AS, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-BURNING-P99, PW-WOC-G1-ROTTERDAM-P99]}
+- {id: PW-WEP-MP-SHIELD, canonical_name: Smith & Wesson M&P Shield, category: pistol, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-9X19], sources: [WCOMP], occurrence_refs: [PW-WOC-G2-DEAD-AIR-MP-SHIELD]}
