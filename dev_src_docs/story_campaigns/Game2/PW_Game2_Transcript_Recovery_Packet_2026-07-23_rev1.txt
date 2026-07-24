@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 2 TRANSCRIPT RECOVERY PACKET
 Generated: 2026-07-23
-Version: rev2
+Version: rev3
 Status: SOURCE-LANDED RECOVERY / MIXED LOCKED AND WORKING
 
 01. ROMEO — CORONADO TO CALLOWAY BRIDGE
@@ -9,6 +9,12 @@ must carry him through demobilization/dislocation, the collapsing legitimacy pic
 and the route to Kentucky. Calloway is where soldiering becomes local responsibility.
 The bridge precedes the Calloway occupation and the AMERICAN FREEDOM campaign.
 Exact duration and intermediate stops remain open.
+
+Focused AMERICAN FREEDOM / Calloway companion source:
+dev_src_docs/story_campaigns/Game2/Romeo/PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt
+
+Focused sleeper-network companion source:
+dev_src_docs/characters/PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt
 
 Pat Napier:
 - Patrick “Pat” Napier; trans man; former U.S. Army 68W, Specialist at exit.
