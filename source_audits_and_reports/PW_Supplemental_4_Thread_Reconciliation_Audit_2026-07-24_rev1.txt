@@ -1,0 +1,59 @@
+PROJECT WARRIORS — SUPPLEMENTAL FOUR-THREAD RECONCILIATION AUDIT
+Generated: 2026-07-24
+Version: rev1
+Status: GOVERNANCE / SOURCE-RECOVERY AUDIT
+
+SCOPE
+Four additional extracted transcripts were reviewed against current `main`, the merged July 23 recovery work, and PR #28’s existing branch sources:
+1. Game Trilogy Slogan Help;
+2. Character Rank Audit and Retcons;
+3. AFC Kentucky Visual Identity;
+4. Brno / OPEN CIRCUIT Mission Development.
+
+METHOD
+1. identify explicit owner approvals, source-ready blocks, and final handoff statements;
+2. separate accepted narrative/design decisions from exploratory prompt variants;
+3. preserve later canon where the transcript contains an older grade, title, callsign, or campaign state;
+4. create compact domain sources rather than copying transcript wrappers;
+5. retain genuine placement and production flags.
+
+RESULT
+All four transcripts produce durable source additions:
+- franchise story/promo standard;
+- character rank/title continuity standard;
+- Kentucky AFC visual-identity source;
+- OPEN CIRCUIT mission source plus dedicated KERAUNOS visual reference.
+
+KEY RECONCILIATIONS
+- FRACTURE. RESISTANCE. RESTORATION. is fully promoted.
+- Restoration is beginning/possibility, not total victory.
+- Romeo SSG controls over transcript-era LT and intermediate SGT wording.
+- Gartner spelling and no-current-Captain rule are preserved for Spook.
+- Mags supersedes transcript-era SBS callsign Wren; weapon build WREN remains.
+- Kentucky goldenrod/cardinal identity is preserved as AFC local lineage without displacing Republic Shield / Breach Star / Union Mark.
+- OPEN CIRCUIT is placed in Ducky Game 2 with exact mission number open.
+- Bakhmut placement remains untouched.
+- KERAUNOS is French Rafale precision support at the Velodrom-side choke.
+- Generated visual previews are evidence/reference only, not selected canon assets.
+
+OPEN FLAGS
+- final OPEN CIRCUIT mission number and ladder slot;
+- exact enemy unit and contractor identities;
+- detailed encounter balance and final screenplay implementation;
+- final real-site abstraction and air-tasking/ordnance detail;
+- final vector/logo construction and production color values for Kentucky AFC;
+- final prompt corrections and selection of any Brno image as canon;
+- downstream refresh of monolithic compendia/archival master after PR merge.
+
+ONTOLOGY / REGISTRY
+No ontology or named-weapon registry delta is required.
+No new exact date or stable identity is introduced.
+FREYA and SHIELD weapon identities remain controlled by existing dedicated sources.
+
+VALIDATION
+- eight new UTF-8 source/governance files;
+- no raw transcript wrappers;
+- no sandbox paths;
+- no web citations or provisional URLs embedded in promoted sources;
+- supersession language added wherever transcript-era wording conflicts with current canon;
+- PR branch remains the only mutation target.
