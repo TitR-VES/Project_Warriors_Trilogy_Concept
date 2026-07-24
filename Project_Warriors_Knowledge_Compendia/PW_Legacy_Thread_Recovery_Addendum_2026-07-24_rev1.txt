@@ -1,0 +1,36 @@
+PROJECT WARRIORS — LEGACY THREAD RECOVERY ADDENDUM
+Generated: 2026-07-24
+Version: rev1
+Status: SYNTHESIS / SOURCE POINTER ADDENDUM
+
+SOURCE-FIRST RULE
+Use the durable pages listed below for editing. This file orients the six-compendia working set; it does not replace topic sources.
+
+CORE DELTAS
+1. The supplied legacy summaries were not broadly lost: eight are embedded in the rev6 compendia. The advanced gameplay transcript was the only supplied record absent from the rev6 inventory.
+2. The recovery pass promotes system-level weapon roster language, ammunition economies, inspect/gunsmith grammar, and hidden-procurement shell design into a dedicated gameplay source.
+3. Exact named weapon specifications continue to defer to the newest active named-build and dedicated weapon pages.
+4. The advanced transcript's procurement and support implementation proposals remain open unless later explicitly locked. They are preserved as questions, not silently canonized.
+5. Game 2 campaign teaser identity remains: American Freedom / Good Morning, America / WAR HITS HOME; Persistent Threat / Kyiv / THE SYSTEM FELL. WE DIDN'T.; Godkiller / King Nothing / YOU CAN'T KILL A DEAD MAN.
+6. AEGIS FALLS is final-mission title only, not Ducky's campaign title.
+7. Protected teaser micro-beats include the interrupted choir and three-frame Cody image, the AEGIS emblem fracture spine, and Godkiller's tightly limited spoken close.
+8. The multi-service US radio framework is retained as an open writing brief. The PHAETON flyover's old "missing" flag is closed.
+9. Character continuity anchors promoted: Lupin/Switchblade family-obligation contrast; Andre's "Copy" signature and degraded-comms consequence; restrained Spook/La Avispa bond and open PSS-2 recognition beat.
+10. Later canon controls all dates, ranks, names, titles, Cold Frontier continuity, and current weapon-build details.
+
+COMPENDIUM MAPPING
+- Compendium 01 Core / Timeline: no new event/date delta; supersession controls only.
+- Compendium 02 Worldbuilding / Strategic Architecture: hidden procurement shells reaffirmed; no new economy formula.
+- Compendium 03 Characters / DLC: continuity anchors promoted.
+- Compendium 04 Gameplay / Weapons / Style: primary recovery domain; weapon economy, inspect, procurement, support-state boundaries.
+- Compendium 05 Missions / Scenes / Cinematics: PHAETON missing-source flag closed; no aircraft-scene rewrite required.
+- Compendium 06 Promotional / Sidebar: teaser/audio editorial source promoted.
+
+SOURCE POINTERS
+- `dev_src_docs/canon_lore_source_of_truth/PW_Legacy_Thread_Canon_Landing_2026-07-24_rev1.txt`
+- `dev_src_docs/gameplay_mechanics/PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt`
+- `dev_src_docs/music_and_sound_design/PW_Audio_Promotional_Recovery_Standard_2026-07-24_rev1.txt`
+- `dev_src_docs/characters/PW_Character_Continuity_Recovery_Anchors_2026-07-24_rev1.txt`
+- `Recovered_Sources/PW_Advanced_Gameplay_Mechanics_Thread_Transcript_2026-07-24.txt`
+- `source_audits_and_reports/PW_Legacy_Thread_Reconciliation_Audit_2026-07-24_rev1.txt`
+- `source_audits_and_reports/PW_Source_Manifest_Addendum_2026-07-24_rev1.csv`
