@@ -1,0 +1,101 @@
+PROJECT WARRIORS — WEAPON ECONOMY, INSPECT, AND PROCUREMENT RECOVERY SOURCE
+Generated: 2026-07-24
+Version: rev1
+Status: DURABLE SYSTEM SOURCE / LEGACY CANON RECOVERY
+
+SCOPE
+This page promotes stable system-level decisions from the early weapons and gameplay threads. It does not replace current named-weapon build files. Exact specifications, names, and character assignments defer to the newest active source under `dev_src_docs/weapons_and_equipment/`.
+
+1. WEAPON-SYSTEM NORTH STAR
+- Mostly realistic real-world weapons appropriate to the 2028 setting, with a small, clearly bounded near-future prototype layer.
+- Rarity uses both exploration/side-objective discovery and named/elite-enemy drops.
+- Faction rosters must communicate training, procurement culture, and battlefield role before exposition does.
+
+2. FACTION WEAPON LANGUAGE
+US / NATO / DAOG
+- Broad 5.56 NATO availability is the baseline.
+- AEGIS/DAOG should visibly carry a multinational European procurement character rather than reading as a reskinned U.S. unit.
+- Ground Branch favors compact, suppressed, deniable platforms.
+
+Russian forces
+- Line units retain recognizable AK-family, PK-family, SVD, and RPG texture.
+- Elite VDV/FSB/Vympel encounters step into newer or specialized platforms.
+- AS Val/VSS/SR-3M/9A-91 presence is a readable escalation signal: the player is no longer fighting ordinary line troops.
+- Shipboard Vympel kit should be compact, suppressed/subsonic, and optimized for confined steel spaces.
+
+KPA / DPRK
+- Older and indigenous designs should make KPA formations feel materially different from Russian formations.
+- Type 58/68-family weapons support the 7.62x39 scavenge economy.
+- Elite indigenous systems should feel unfamiliar and unsettling rather than merely exotic.
+
+Los Sietes
+- Standard forces mix cartel-accessible AK/AR/shotgun/handgun stock.
+- Elite sicarios use professionally sourced military-grade hardware.
+- K Lounge and Bisutri-aligned teams must read as capable paramilitary professionals, not costume-gangsters.
+
+Atlas / War Wolves
+- Platform overlap with AEGIS and Ground Branch is deliberate. Shared procurement creates an uncomfortable institutional mirror.
+- War Wolves remain among the most individually dangerous human enemies in Game 1.
+
+3. AMMUNITION ECONOMY
+- 5.56 NATO: universal baseline; most reliable resupply across campaigns.
+- 7.62x39: richest scavenge pool. Russian, KPA, and Los Sietes drops make the CMMG Mk47 reward from DOWN RODEO a campaign-spanning infrastructure choice rather than a one-level novelty.
+- 9x39: self-contained specialist economy introduced with Vympel/FSB platforms; sustained through enemy drops when those forces are present.
+- .300 BLK: premium and scarce. GRAY GHOST should feel expensive to feed. Limited Atlas MCX Rattler drops may provide rare battlefield resupply; it is not a normal common-enemy caliber.
+- Ammo availability should reinforce faction geography and mission progression, not behave as a universal abstract pool.
+
+4. INSPECT WEAPON MECHANIC
+Purpose
+- Inspection is tactile characterization, readable weapon information, and field-modification access.
+- It must feel like the playable character handling a physical object, not opening a floating inventory page.
+
+Class grammar
+- Rifles/carbines/DMRs/LMGs: arms-length rotation, natural support-hand repositioning.
+- Pistols/compact SMGs: strong-side hand profile; weapon-specific checks where mechanically appropriate.
+- Shotguns: controlled rack-and-check motion.
+
+Signature behavior
+- Signature builds may receive longer, more specific animations.
+- Build-name overlays are selective. Absence can be a character statement; do not force every weapon into the same presentation rule.
+- Current named-build sources decide which weapons display a name and how.
+
+Field modification
+- Semi-transparent attachment labels appear only at relevant points.
+- Field-removable items may include QD suppressors/optics, lights, laser/IR modules, foregrips, and ammunition type where supported.
+- Fixed or permanently mounted hardware receives no false interaction prompt.
+- Physical removal and ammunition changes take real time and are not instant/skippable tactical menu actions.
+- GRAY GHOST subsonic/supersonic switching requires a magazine change and should carry contact risk.
+
+Gunsmith boundary
+- Full between-mission workbench supports broader categories, including internal performance parts.
+- Signature weapons can be tuned, but their core identity cannot be cosmetically erased.
+- Character cleaning grammar remains: Romeo fast/functional; Ducky methodical/checking; Spook slow/meditative. Other characters require authored treatment before use.
+
+5. HIDDEN PROCUREMENT SYSTEM — CURRENT LOCK
+One shared underlying procurement system uses three campaign-specific shells:
+- Romeo: physical resistance ledger/board, condition notes, barter/favor texture, scarcity visible in the density and quality of available stock.
+- Spook: secure deniable device/terminal, redaction/typewriter intelligence texture, availability windows and minimal paper trail.
+- Ducky: DAOG tactical requisition / allied off-book sourcing hybrid, formal and better supplied but still constrained by operational access.
+
+The shells must do narrative work. Romeo's board filling over time can show resistance capacity growing; Spook's interface should feel cold and deniable; Ducky's should feel institutional and multinational.
+
+6. PROCUREMENT QUESTIONS STILL OPEN
+The recovered advanced-mechanics exchange pinned the topic but did not lock:
+- whether the system supplements or replaces mission-issued loadouts;
+- whether acquisition uses currency, barter, favors, mission performance, or a hybrid;
+- exact campaign-specific resource equations.
+Do not resolve these without an owner decision or a dedicated mechanics pass.
+
+7. SUPPORT-MECHANIC STATE CONTROL
+Confirmed baseline from the mechanics overview:
+- external support is available only in authored mission contexts;
+- support can include CAS, fire missions, and extraction;
+- HOPLON/comms disruption may remove access and should produce a synchronized UI/gameplay consequence;
+- Ducky has the richest formal support network; Romeo the most limited/improvised; Spook uses covert/Agency channels.
+
+The advanced transcript proposed, but did not lock, a device-first support model, exact call procedures, artillery standoff/delay rules, laser-versus-grid distinctions, and story-gated Romeo support progression. Preserve these as design candidates, not canon.
+
+8. CURRENT SOURCE CONTROLS
+- Exact named builds: newest active `named_weapon_builds` file and later dedicated weapon pages.
+- ARTEMIS/TYPHON identities and placements: current source pages and rev6/addenda.
+- Rank/name/date/title corrections: 2026-07-06 and later canon decisions.
