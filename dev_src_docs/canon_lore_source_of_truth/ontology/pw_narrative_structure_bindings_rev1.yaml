@@ -5,7 +5,11 @@ track_bindings:
 - {campaign_ref: PW-CMP-G1-RIPTIDE-RED, timeline_track_ref: PW-TRK-G1-RIPTIDE-RED-SPOOK, track_role: primary, binding_status: resolved}
 - {campaign_ref: PW-CMP-G2-AMERICAN-FREEDOM, timeline_track_ref: PW-TRK-G2-AMERICAN-FREEDOM, track_role: primary, binding_status: resolved}
 - {campaign_ref: PW-CMP-G2-PERSISTENT-THREAT, timeline_track_ref: PW-TRK-G2-PERSISTENT-THREAT, track_role: primary, binding_status: resolved}
-- {campaign_ref: PW-CMP-G2-GODKILLER, timeline_track_ref: PW-TRK-G2-GODKILLER, track_role: primary, binding_status: resolved}
+- campaign_ref: PW-CMP-G2-GODKILLER
+  timeline_track_ref: null
+  track_role: primary
+  binding_status: external_base_identifier_recovery_required
+  recovery_note: Recover or explicitly source-lock the authoritative track ID before timeline enrichment.
 - {campaign_ref: PW-CMP-G3-NO-KINGS, timeline_track_ref: PW-TRK-G3-NO-KINGS, track_role: primary, binding_status: resolved}
 - {campaign_ref: PW-CMP-G3-FAILSAFE, timeline_track_ref: PW-TRK-G3-FAILSAFE, track_role: primary, binding_status: resolved}
 - {campaign_ref: PW-CMP-G3-DARK-SKIES, timeline_track_ref: PW-TRK-G3-DARK-SKIES, track_role: primary, binding_status: resolved}
