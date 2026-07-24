@@ -1,0 +1,93 @@
+PROJECT WARRIORS — LEGACY THREAD RECONCILIATION AUDIT
+Generated: 2026-07-24
+Version: rev1
+Status: GOVERNANCE / RECOVERY AUDIT
+Scope: nine early-development summaries/transcripts supplied by project owner
+Baseline: main at e83b9e24d7efb34052c514a60d6329f872b013f0
+
+METHOD
+- Compared supplied files against the rev6 working compendia, current source tree, July canon decisions, and the latest supplemental recovery pattern.
+- Applied later owner decisions before promoting any early statement.
+- Searched for durable topic sources, not merely keyword presence in compendium or staging copies.
+
+STATUS KEY
+- RETAINED IN REV6: full/near-full body remains in current synthesis.
+- PROMOTED TO DURABLE SOURCE: load-bearing material existed but lacked a proper active topic page.
+- SUPERSEDED: old statement conflicts with later canon.
+- OPEN / EVIDENCE ONLY: useful proposal or transcript record, not approved canon.
+
+FILE-BY-FILE RESULT
+
+1. PW_Weapons_Dev_Thread_Full_Summary.txt
+Status: RETAINED IN REV6 + PROMOTED TO DURABLE SOURCE
+- Full summary is embedded in Compendium 04.
+- Gap: faction weapon-language, ammo economy, inspect, and gunsmith rules had no focused active source page.
+- Action: promoted system rules; exact v2.1 named-build specs remain historical and defer to current weapon sources.
+
+2. PW_Teaser_Treatments_Sidebar_v1.txt
+Status: RETAINED IN REV6 + PROMOTED TO DURABLE SOURCE
+- Treatment is embedded in Compendium 06 and survives in staging.
+- Gap: no current durable editorial standard in `dev_src_docs/music_and_sound_design/`.
+- Action: promoted campaign identities, shared format, emotional architecture, and protected micro-beats.
+- Supersession: AEGIS Falls cannot be used as the campaign title.
+
+3. PW_Gameplay_Mechanics_Overview.txt
+Status: RETAINED IN REV6 + PROMOTED PARTIALLY
+- Full mechanics body is embedded in Compendium 04.
+- Action: promoted weapon/inspect/procurement boundaries where source-layer compression was risky.
+- No attempt made to declare all 21 pinned sections complete.
+
+4. PW_Sidebar_Development_Summary.txt
+Status: RETAINED IN REV6; MANY OLD LABELS SUPERSEDED
+- Broad content remains in Compendia 01/03/06.
+- Old September 3 / November 3 dates, LT Romeo, ranked Spook, and campaign-title AEGIS Falls are stale.
+- No raw re-import performed.
+
+5. PW_Character_Backstories_Thread_Summary.txt
+Status: RETAINED IN REV6 + PROMOTED SELECTIVE ANCHORS
+- Full body remains in Compendium 03.
+- Action: promoted subtle relationship/voice/downstream-consequence notes lacking focused source control.
+- British-force early flags are now substantially superseded by later Who Dares Wins/Boston source pages and were not re-imported.
+
+6. PW_Timeline_Thread_Summary.txt
+Status: RETAINED IN REV6; DATE CORRECTIONS SUPERSEDE EARLY LOCKS
+- Timeline body remains in Compendium 01.
+- No new event was found that is absent from rev6 and safe to promote.
+- September 3/November 3 corrections are explicitly blocked.
+
+7. PW_Audio_Music_Thread_Summary.txt
+Status: RETAINED IN REV6 + PROMOTED TO DURABLE SOURCE
+- Full body remains in Compendium 06.
+- Action: promoted sound principles, voice anchors, promo format, and the open US multi-service radio brief.
+- Old PHAETON "not located" flag closed because the scene is present in current sources.
+
+8. ProjectWarriors_AllSevenScenes_Master.txt
+Status: RETAINED IN REV6; NO NEW LANDING REQUIRED
+- Full scene master is embedded in Compendium 05.
+- Later mission-placement and production sources control where available.
+- A-10 and Red Dawn open-state notes remain development flags, not missing canon.
+
+9. PW_Advanced_Gameplay_Mechanics_Thread_Transcript.txt
+Status: OPEN / EVIDENCE ONLY + PARTIAL PROMOTION
+- Not present in rev6 source inventory; added to `Recovered_Sources/` as a normalized recovery record.
+- Confirmed state: black-market topic pinned; later canon independently locks the three campaign shells.
+- Unapproved proposals remain open: resource model, support call procedure, device-vs-zone choice, artillery implementation, designation method, and Romeo progression gating.
+
+MATERIAL GAPS FIXED
+- durable source page for weapon economy / inspect / procurement boundaries;
+- durable audio/promotional standard;
+- durable character continuity anchor page;
+- preserved advanced mechanics decision state as recovery evidence;
+- synthesis addendum and manifest entry;
+- README pointers corrected from stale rev4/open-PR language to the actual rev6 + supplemental-addenda workflow.
+
+MIGRATION RISK AFTER THIS PASS
+LOW for the nine supplied files, provided later canon decisions and current dedicated sources remain loaded. The remaining risk is development incompleteness, not recovery loss:
+- procurement resource equations remain open;
+- CAS/artillery implementation remains open;
+- US multi-service radio library remains unwritten;
+- PSS-2 recognition scene remains open;
+- A-10/Red Dawn scene completion remains open.
+
+ARCHIVE / RETIREMENT NOTE
+These supplied files may be treated as recovery evidence after this landing, not as current-authority sources. Do not delete the advanced mechanics recovery record. Do not use the early summaries without the supersession controls in the canon landing.
