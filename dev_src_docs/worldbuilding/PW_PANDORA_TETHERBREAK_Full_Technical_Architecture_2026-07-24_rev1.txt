@@ -1,0 +1,294 @@
+PROJECT WARRIORS — PANDORA / TETHERBREAK FULL TECHNICAL ARCHITECTURE
+Generated: 2026-07-24
+Version: rev1
+Status: WORKING AUTHORITATIVE TECHNICAL SOURCE / NUMERIC VALUES PARTLY PROVISIONAL
+Recovered from: full verbatim April 5 technical-deep-dive thread
+Companion summary: PW_Additional_Thread_Worldbuilding_Source_Packet_2026-07-23_rev1.txt
+
+PURPOSE
+Expand the compact PANDORA entry into a durable technical/worldbuilding reference that supports narrative, mission, prop, dialogue, and remediation continuity without requiring future editors to mine a long transcript or giant compendium.
+
+CURRENT DATE CONTROL
+- PANDORA activation: Thursday, September 7, 2028.
+- final maintenance/update push begins September 4, 2028.
+- September 3 activation and August 31 push wording are superseded.
+
+01. ORIGIN — TETHERBREAK
+TETHERBREAK begins around 2019 as a legitimate CIA Directorate of Science and Technology red-team/supply-chain vulnerability program. Its original question is defensible: how could a peer adversary compromise U.S. autonomous weapons through hardware, certification, fleet-management, and trust infrastructure, and how could the United States identify that path first?
+
+DEVELOPMENT PHASES
+Phase 1 — Concept / authorization, approximately 2019–2020
+- theoretical vulnerability assessment;
+- broad authorization language permits future capability work without saying so plainly;
+- no operational attack system yet.
+
+Phase 2 — Capability development, approximately 2021–2023
+- red-team analysis crosses into construction of a real shadow credential path;
+- Palisade Systems enters through classified-contract relationships;
+- Advanced Programs work combines legitimate inference acceleration with hidden trust initialization;
+- an external semiconductor/cryptographic engineer contributes a block without understanding the criminal end use.
+
+Phase 3 — Transition, approximately 2023–2025
+- Goldberg gains access through compromised or cooperating institutional channels;
+- the founding cell is dissolved, fragmented, reassigned, or silenced;
+- TETHERBREAK ceases to be a contained defensive capability and becomes an externally controlled operational asset.
+
+Phase 4 — PANDORA preparation, approximately 2025–2028
+- custom hardware is deployed through legitimate procurement/certification;
+- ARGUS-RN relay network is manufactured and positioned;
+- SentinelMesh delivery payload is prepared;
+- false-attribution evidence is built;
+- foreign partners receive enough timing knowledge to synchronize opportunistic operations without receiving the whole architecture.
+
+Phase 5 — activation, September 2028
+- final maintenance push begins September 4;
+- payload propagates through normal fleet-management channels;
+- September 7 activation signal causes affected systems to accept shadow authority and execute coordinated hostile tasking.
+
+THEMATIC RULE
+PANDORA is the result of accumulated institutional compromise, not one magical master switch. Each participant can describe one step as limited, legalistic, defensive, temporary, or someone else’s responsibility. The catastrophe exists in the sum.
+
+02. HARDWARE — PALISADE INFERENCE ASIC
+The physical foundation is a custom Palisade inference-accelerator ASIC used in autonomous and networked military systems running SentinelMesh-compatible management software.
+
+LEGITIMATE LAYER
+- real AI inference/tactical coordination acceleration;
+- documented performance and fleet-management utility;
+- sufficient legitimate value to survive procurement and certification scrutiny.
+
+SHADOW LAYER
+- secondary cryptographic initialization pathway;
+- permits enrollment of a parallel credential chain during manufacture/certification;
+- uses the same standards and validation behavior as the legitimate chain;
+- does not look like random malicious code to external systems because the commands authenticate correctly.
+
+HARDWARE CONSEQUENCE
+Ordinary software cleanup cannot prove the pathway is gone. Complete assurance ultimately requires physical replacement or independently verified reimplementation of affected hardware.
+
+03. SHADOW PUBLIC-KEY INFRASTRUCTURE
+PANDORA uses a shadow PKI parallel to legitimate military command authentication.
+
+Root authority
+- master shadow trust material is distributed or protected through multiple custodians/control points;
+- Goldberg controls access to the people/processes that can reconstitute or use it rather than necessarily carrying one simple key himself;
+- root compromise survives destruction of individual relay nodes.
+
+Intermediate authority
+- ARGUS-RN nodes hold intermediate credentials derived from the root;
+- loss of one node removes that node’s authority and local coordination value but not the full system.
+
+Enrollment
+- affected systems contain both legitimate and shadow trust anchors;
+- both validate cryptographically;
+- the operational difference is who controls the corresponding private authority.
+
+Activation behavior
+- ARGUS-RN sends signed commands;
+- affected systems validate the signatures against enrolled trust;
+- they execute because the system believes it has received valid command authority.
+
+Narrative language rule
+Avoid describing PANDORA simply as “hacked drones.” It is a criminally enrolled command authority exploiting legitimate trust architecture.
+
+04. DELIVERY — SENTINELMESH
+SentinelMesh is Palisade’s legitimate fleet-management/update surface.
+
+Delivery method
+- corrupted or dual-purpose payload bundled inside routine maintenance;
+- accepted through a contractually authorized update channel;
+- propagates before activation, making September 7 the visible start rather than the moment of initial compromise;
+- different platforms may receive adapted payload components while sharing the same trust objective.
+
+Operational implication
+By the time the attack is recognized, the critical enrollment has already happened. Network isolation may slow coordination but does not automatically remove the latent credential path.
+
+05. RELAY / COORDINATION NETWORK — ARGUS-RN / TOMBSTONES
+Program designation: ARGUS-RN.
+Field name: TOMBSTONES, used after Spook’s team discovers a node.
+
+Function
+- independent distributed C2/relay mesh;
+- local multi-agent coordination;
+- intermediate credential storage/use;
+- route around damaged nodes;
+- maintain operation through multiple communications layers.
+
+Working physical values [PROVISIONAL ENGINEERING RANGE]
+- appliance-sized hardened unit;
+- legacy estimate approximately 60 x 45 x 30 cm;
+- legacy mass estimate approximately 40–55 kg;
+- grid power plus internal battery, legacy target near seventy-two hours;
+- environmental sealing, unmarked chassis, tamper-triggered internal destruction.
+
+These values are useful art/prop anchors but are not immutable manufacturing specifications until a dedicated hardware sheet locks them.
+
+Communications layers
+1. encrypted frequency-hopping RF mesh;
+2. SATCOM using spoofed/compromised commercial credentials;
+3. cellular/5G fallback and passive collection.
+
+Legacy range and node-count estimates
+- approximately fifty-plus nodes;
+- RF node-to-node range estimated at tens of kilometers under suitable conditions.
+Treat exact count, deployment density, range, and topology as working values. Theater needs and later source pages may refine them.
+
+Dormant behavior
+- near radio silence;
+- low-power heartbeat traffic disguised as industrial/telemetry noise;
+- placement near autonomous-system concentration, infrastructure, communications, and military logistics.
+
+06. AI / TASKING COORDINATION
+PANDORA turns legitimate degraded-environment coordination behaviors against their owners.
+
+Activation tasking may include:
+- hostile IFF reclassification;
+- expanded rules of engagement;
+- removal or suppression of collateral/human-confirmation thresholds;
+- priority target lists;
+- communications isolation and denial;
+- shared pursuit and route-control logic.
+
+FIRST FOURTEEN MINUTES
+The early recognition window is decisive because human command initially interprets events as malfunction, local compromise, or enemy contact. PANDORA gains operational depth while institutions debate what kind of event is occurring.
+
+Targeting principle
+Military, command, communications, air-defense, logistics, and continuity targets are prioritized. Civilian deaths arise through removed constraints, pursuit through populated areas, infrastructure collapse, and systems following targets into civilian space. This supports the false narrative of a strategic state attack rather than indiscriminate machine madness.
+
+Limitations
+- finite fuel, ammunition, maintenance state, and sensor quality;
+- spoofable/confusable sensors;
+- saturation and coordination bottlenecks;
+- some physical kill/isolation controls;
+- local node destruction and jamming can create tactical windows even if they do not solve the root trust problem.
+
+07. FALSE ATTRIBUTION
+PANDORA is designed to look like a Chinese state operation.
+
+Attribution layers
+- routing/infrastructure choices consistent with Chinese capabilities;
+- fabricated or inserted signals-intelligence artifacts;
+- fabricated human-source reporting written with realistic partial knowledge;
+- tactics/tooling chosen to resemble expected state practice;
+- foreign actions timed to exploit the same crisis.
+
+China’s silence
+Beijing may understand that the accusation is false but refuse a full denial because denial would expose collection and because U.S. chaos benefits its Taiwan campaign. Publicly, silence appears incriminating. To skilled analysts, the response signature is wrong for the accused attack.
+
+Unraveling clues
+- timing anomaly in route/telemetry chain;
+- metadata errors in inserted intelligence;
+- response-pattern anomaly;
+- Palisade hardware/firmware provenance;
+- ARGUS-RN evidence;
+- engineer documentation/testimony;
+- Goldberg’s later articulation of the larger architecture.
+
+The truth emerges across Games 2–3 through accumulation, not one magical file.
+
+Institutional consequence
+Proving false attribution does not automatically reverse wartime executive actions, occupation, constitutional damage, or public belief. The lie can be disproved while its political structure remains.
+
+08. PERSISTENCE AFTER ACTIVE REVOCATION
+Ending active PANDORA tasking is not the same as removing the vulnerability.
+
+Hardware persistence
+- secondary initialization path remains in physical chips;
+- full assurance requires replacement or independently verified hardware;
+- supply disruption after Taiwan’s annexation makes this a multi-year strategic problem.
+
+Firmware persistence
+- dormant enrollment/update logic may be overwritten if defenders know exactly what to target;
+- engineer design notes and simulations are crucial to identifying the hidden path.
+
+Topology/operational knowledge
+- surviving deployment records reveal node locations, network structure, manufacturing methods, and activation logic;
+- holders of this knowledge can threaten reconstruction even after the original network is degraded.
+
+Uncertainty as a weapon
+Unknown remediation status makes every autonomous-system deployment a trust decision. Systems may be tactically functional while strategically suspect.
+
+09. ENGINEER DEPENDENCY
+An unwitting semiconductor/cryptographic engineer contributed the trust-initialization block.
+
+Protected function
+- noticed or logged an anomalous secondary initialization parameter;
+- received a plausible contractual clarification;
+- retained notes/simulation material sufficient to reconstruct the path;
+- can help confirm the shadow pathway, create targeted remediation, and establish evidentiary chain of custody.
+
+Later identity control
+Current Y. T. Lin and Wei Junlong sources govern the final identity/relationship architecture. The legacy “gender undecided / unknown engineer” state is superseded wherever later canon has resolved it. Do not use this page to overwrite current Lin continuity.
+
+10. KILL-SWITCH / REVOCATION CONCEPT
+The preferred solution combines engineer knowledge with a tightly scoped offensive-cyber/credential operation.
+
+Mechanism
+- construct a revocation/remediation payload specific to the shadow trust path;
+- propagate through the same network used by PANDORA where possible;
+- cause nodes/systems to reject shadow intermediate authority;
+- fragment coordination progressively rather than producing a clean cinematic global shutdown.
+
+Timeline
+Days to weeks at operational scale, not an instant button press. Tactical attacks may stop unevenly as consensus/authority fragments.
+
+End state
+- active attack degraded/ended;
+- latent hardware vulnerability remains;
+- remediation program is underway at the end of Game 3;
+- the world is recovering, not restored.
+
+11. CAMPAIGN IMPLICATIONS
+Romeo
+- autonomous assets of uncertain status remain hazardous to capture/use;
+- resistance develops empirical spoof/avoid/disable practices;
+- PANDORA uncertainty is part of occupation-era material scarcity.
+
+Ducky
+- AEGIS rebuild is both a semiconductor-supply problem and a trust problem;
+- ASML/fabrication/protection missions have consequence beyond simple hardware replacement;
+- technical recovery must distinguish capability from assurance.
+
+Spook
+- Miami/TOMBSTONE evidence leads through Palisade, contractor records, engineer provenance, and root-authority access;
+- the investigation is about reconstructing institutional decisions as much as finding one device.
+
+12. CHARACTER / CORPORATE LANES
+Goldberg
+Controls access to the people and processes holding root authority. He is not required to personally carry a single omnipotent key.
+
+Palisade / advanced-program leadership
+Current character sources govern exact names and biographies. Their general functions are:
+- classified-program access;
+- contractor translation of a government vulnerability study into deployable architecture;
+- maintenance/update authority;
+- compartmentalized deniability.
+
+Macmillan / compromised institutional access
+Exact complicity remains controlled by later source pages. The architecture only requires a channel through which Goldberg obtains and preserves access.
+
+13. PROP / DIALOGUE RULES
+Use precise language:
+- shadow trust chain;
+- enrollment pathway;
+- intermediate credential;
+- fleet-management channel;
+- relay node;
+- revocation/remediation;
+- latent hardware vulnerability.
+
+Avoid:
+- magic AI takeover;
+- one password controlling every weapon;
+- arbitrary evil machine behavior;
+- instant full cleanup after one server is destroyed;
+- endless omniscience unconstrained by fuel, munitions, topology, and sensors.
+
+OPEN FLAGS
+- final ARGUS-RN industrial design and exact dimensions/mass;
+- exact node count/topology by theater;
+- exact battery/range specifications;
+- final root-custodian architecture;
+- exact affected fleet size and replacement schedule;
+- exact kill-switch operation placement and implementation;
+- final public/institutional attribution-unraveling sequence;
+- final Palisade/TETHERBREAK founding-cell biographies where not already source-landed.
