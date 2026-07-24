@@ -1,0 +1,30 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-PLATFORMS-SUPPORT-MELEE-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_weapon_catalog_rev1.yaml
+weapons:
+- {id: PW-WEP-M320, canonical_name: M320 grenade launcher module, category: grenade_launcher, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-40MM-GRENADE], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-ROMEO-M320]}
+- {id: PW-WEP-M203, canonical_name: M203 grenade launcher, category: grenade_launcher, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-40MM-GRENADE], sources: [REGBASE], occurrence_refs: [PW-WOC-COLLAPSE-M203]}
+- {id: PW-WEP-AT4, canonical_name: AT4, category: disposable_anti_armor_launcher, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-AT4-ROUND], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-ROMEO-AT4]}
+- {id: PW-WEP-CARL-GUSTAF-M4, canonical_name: MAAWS / Carl Gustaf M4, category: recoilless_rifle, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-84MM-CARL-GUSTAF], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-ROMEO-CARL-GUSTAF]}
+- {id: PW-WEP-RPG7, canonical_name: RPG-7, category: rocket_launcher, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-RPG7-ROCKET], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-ROTTERDAM-RPG7]}
+- {id: PW-WEP-F7-RPG, canonical_name: F-7 RPG clone, category: rocket_launcher, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-RPG7-ROCKET], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-KPA-F7]}
+- {id: PW-WEP-BULSAE3, canonical_name: Bulsae-3 ATGM, category: guided_missile_launcher, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-BULSAE3-MISSILE], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-KPA-BULSAE3]}
+- {id: PW-WEP-M67, canonical_name: M67 fragmentation grenade, category: thrown_weapon, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-M67-FRAG], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-WARWOLF-M67]}
+- {id: PW-WEP-FLASHBANG, canonical_name: flashbang grenade, category: thrown_weapon, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-FLASHBANG], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-WARWOLF-FLASH]}
+- {id: PW-WEP-SMOKE-GRENADE, canonical_name: smoke grenade, category: thrown_weapon, weapon_scope: portable_weapon, status: confirmed, ammunition_refs: [PW-AMM-SMOKE-GRENADE], sources: [WCOMP], occurrence_refs: [PW-WOC-G1-DOWN-RODEO-SMOKE]}
+- {id: PW-WEP-GERBER-STRONGARM, canonical_name: Gerber StrongArm fixed blade, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-DUCKY-STRONGARM]}
+- {id: PW-WEP-BENCHMADE-INFIDEL, canonical_name: Benchmade 3300BK Infidel, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-SWITCHBLADE-INFIDEL]}
+- {id: PW-WEP-ROMANIAN-M1974-BAYONET, canonical_name: Romanian Army M1974 bayonet, category: bayonet, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-LUPIN-BAYONET]}
+- {id: PW-WEP-PELTONEN-M95, canonical_name: Peltonen Ranger M95, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-FROST-PELTONEN]}
+- {id: PW-WEP-BUCK110, canonical_name: Buck 110 Folding Hunter, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-CODY-BUCK110]}
+- {id: PW-WEP-EXTREMA-HF3, canonical_name: Extrema Ratio HF3, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-LA-AVISPA-HF3]}
+- {id: PW-WEP-BOKER-MAGNUM-BOWIE, canonical_name: Boker Magnum Bowie, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-LA-AVISPA-BOWIE]}
+- {id: PW-WEP-SPYDERCO-CIVILIAN, canonical_name: Spyderco Civilian, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-LA-AVISPA-CIVILIAN]}
+- {id: PW-WEP-BISUTRI-SCALPEL-BLADE, canonical_name: Bisutri modified scalpel-handle fighting blade, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-BISUTRI-SCALPEL]}
+- {id: PW-WEP-EXTREMA-MF2, canonical_name: Extrema Ratio MF2, category: knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-SEA-SPEAR-MF2]}
+- {id: PW-WEP-DIVE-KNIFE-GENERIC, canonical_name: blunt-tip dive knife, category: knife, weapon_scope: melee_weapon, status: generic_family, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-SEA-SPEAR-DIVE-KNIFE]}
+- {id: PW-WEP-BOKER-DELTA, canonical_name: Böker Plus Delta rescue knife, category: rescue_knife, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-SEA-SPEAR-DELTA]}
+- {id: PW-WEP-OKC3S, canonical_name: OKC-3S bayonet, category: bayonet, weapon_scope: melee_weapon, status: confirmed, ammunition_refs: [], sources: [WCOMP], occurrence_refs: [PW-WOC-SEMPER-FI-OKC3S]}
