@@ -1,0 +1,212 @@
+meta:
+  document_id: PW-ONT-PW-ENEMY-TYPES-NONSTATE-NAMED-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_enemy_weapon_mapping_rev1.yaml
+enemy_types:
+- id: PW-ENM-LOS-SIETES-SICARIO
+  canonical_name: Los Sietes sicario / cartel enforcer
+  faction_label: Los Sietes
+  entity_scope: archetype
+  tactical_tier: tier_1_basic_irregular
+  combat_roles:
+  - rifleman
+  - shotgunner
+  loadout_refs:
+  - PW-ELD-LOS-SIETES-SICARIO
+  encounter_refs:
+  - PW-EEN-LOS-SIETES-G1-G2
+  status: confirmed
+  sources:
+  - WCOMP
+- id: PW-ENM-LOS-SIETES-ELITE-SICARIO
+  canonical_name: Los Sietes elite sicario
+  faction_label: Los Sietes
+  entity_scope: archetype
+  tactical_tier: tier_2_trained_paramilitary
+  combat_roles:
+  - assault
+  - close_quarters
+  loadout_refs:
+  - PW-ELD-LOS-SIETES-ELITE-SICARIO
+  encounter_refs:
+  - PW-EEN-LOS-SIETES-ELITE-G1-G2
+  status: confirmed
+  sources:
+  - WCOMP
+- id: PW-ENM-LOS-SIETES-K-LOUNGE-LIEUTENANT
+  canonical_name: K Lounge Sicario Lieutenant
+  faction_label: Los Sietes
+  entity_scope: named_role
+  tactical_tier: tier_2_trained_paramilitary
+  combat_roles:
+  - elite_assault
+  - smoke_use
+  loadout_refs:
+  - PW-ELD-K-LOUNGE-LIEUTENANT
+  encounter_refs:
+  - PW-EEN-K-LOUNGE-LIEUTENANT-DOWN-RODEO
+  status: confirmed
+  sources:
+  - WCOMP
+- id: PW-ENM-BISUTRI
+  canonical_name: Bisutri
+  faction_label: Los Sietes
+  entity_scope: named_enemy
+  tactical_tier: tier_3_special_operations_elite
+  combat_roles:
+  - command
+  - close_quarters
+  - protective_operations
+  loadout_refs:
+  - PW-ELD-BISUTRI
+  encounter_refs:
+  - PW-EEN-BISUTRI-G2
+  status: confirmed
+  sources:
+  - WCOMP
+- id: PW-ENM-LOS-SIETES-MEZZANINE-AMBUSH-LEADER
+  canonical_name: Mezzanine ambush leader
+  faction_label: Los Sietes
+  entity_scope: named_role
+  tactical_tier: tier_2_trained_paramilitary
+  combat_roles:
+  - ambush_leader
+  loadout_refs:
+  - PW-ELD-MEZZANINE-AMBUSH-LEADER
+  encounter_refs:
+  - PW-EEN-MEZZANINE-LEADER-PANDORA
+  status: confirmed
+  sources:
+  - WCOMP
+- id: PW-ENM-LOS-SIETES-CARTEL-GENERAL
+  canonical_name: Los Sietes cartel general
+  faction_label: Los Sietes
+  entity_scope: named_role
+  tactical_tier: tier_unknown
+  combat_roles:
+  - command
+  loadout_refs:
+  - PW-ELD-CARTEL-GENERAL
+  encounter_refs:
+  - PW-EEN-CARTEL-GENERAL-PANDORA
+  status: mapping_open
+  sources:
+  - WCOMP
+  unresolved_fields:
+  - weapon loadout
+  - drop behavior
+- id: PW-ENM-KYSC-CONDITIONED-OPERATIVE
+  canonical_name: KYSC conditioned operative
+  faction_label: KYSC
+  entity_scope: conditioned_unit
+  tactical_tier: atypical_conditioned
+  combat_roles:
+  - irregular_assault
+  loadout_refs:
+  - PW-ELD-KYSC-CONDITIONED-OPERATIVE
+  encounter_refs:
+  - PW-EEN-KYSC-PANDORA
+  status: mapping_open
+  sources:
+  - WCOMP
+  notes: Five conditioned operatives exhibit irregular movement, strange vocalizations, and abnormal response to suppression. Weapon identities are not source-landed.
+- id: PW-ENM-ATLAS-PMC-OPERATOR
+  canonical_name: Atlas PMC standard operator
+  faction_label: Atlas Solutions
+  entity_scope: archetype
+  tactical_tier: tier_2_trained_paramilitary
+  combat_roles:
+  - assault
+  - security
+  loadout_refs:
+  - PW-ELD-ATLAS-PMC-OPERATOR
+  encounter_refs:
+  - PW-EEN-ATLAS-G1
+  status: working
+  sources:
+  - WCOMP
+- id: PW-ENM-ATLAS-PMC-ELITE
+  canonical_name: Atlas PMC elite operator
+  faction_label: Atlas Solutions
+  entity_scope: archetype
+  tactical_tier: tier_3_special_operations_elite
+  combat_roles:
+  - precision
+  - suppressed_assault
+  loadout_refs:
+  - PW-ELD-ATLAS-PMC-ELITE
+  encounter_refs:
+  - PW-EEN-ATLAS-ELITE-G1
+  status: working
+  sources:
+  - WCOMP
+- id: PW-ENM-WAR-WOLF-CRIMSON-ONE
+  canonical_name: CRIMSON ONE / Richard “Digger” Graves
+  faction_label: War Wolves
+  entity_scope: named_enemy
+  tactical_tier: tier_3_special_operations_elite
+  combat_roles:
+  - close_quarters
+  - point
+  loadout_refs:
+  - PW-ELD-WAR-WOLF-CRIMSON-ONE
+  encounter_refs:
+  - PW-EEN-WAR-WOLF-CRIMSON-ONE-FINALE
+  status: locked
+  sources:
+  - WCOMP
+  - WARWOLF
+  - REG9
+- id: PW-ENM-WAR-WOLF-CRIMSON-TWO
+  canonical_name: CRIMSON TWO / Lawrence “Rip” Mansell
+  faction_label: War Wolves
+  entity_scope: named_enemy
+  tactical_tier: tier_3_special_operations_elite
+  combat_roles:
+  - overwatch
+  - precision
+  loadout_refs:
+  - PW-ELD-WAR-WOLF-CRIMSON-TWO
+  encounter_refs:
+  - PW-EEN-WAR-WOLF-CRIMSON-TWO-FINALE
+  status: locked
+  sources:
+  - WCOMP
+  - WARWOLF
+  - REG9
+- id: PW-ENM-WAR-WOLF-CRIMSON-THREE
+  canonical_name: CRIMSON THREE / Dermot “Lucky” Underwood
+  faction_label: War Wolves
+  entity_scope: named_enemy
+  tactical_tier: tier_3_special_operations_elite
+  combat_roles:
+  - breacher
+  - support
+  loadout_refs:
+  - PW-ELD-WAR-WOLF-CRIMSON-THREE
+  encounter_refs:
+  - PW-EEN-WAR-WOLF-CRIMSON-THREE-FINALE
+  status: locked
+  sources:
+  - WCOMP
+  - WARWOLF
+  - REG9
+- id: PW-ENM-BLOMMAERT
+  canonical_name: Leandro Petrus Blommaert
+  faction_label: GenCorp protective operations
+  entity_scope: named_optional_target
+  tactical_tier: tier_3_special_operations_elite
+  combat_roles:
+  - protective_operations
+  - command
+  loadout_refs:
+  - PW-ELD-BLOMMAERT
+  encounter_refs:
+  - PW-EEN-BLOMMAERT-INFRASTRUCTURE-DAY
+  status: working
+  sources:
+  - DUE
+  - BLOM
+  notes: Blommaert is an optional target, not a mandatory boss. Player acquisition of his weapon is not locked.
