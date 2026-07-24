@@ -120,4 +120,4 @@ schema:
   - The graph must remain acyclic when only after/before edges are considered.
   - Absolute dates are permitted only when a lock source exists or the date is otherwise explicitly canonized.
   - The legacy installment string is compatibility display metadata after rev2.10; installment membership is derived through campaign_ref.
-  - Deferred Sea Spear and Semper Fi bindings must not be guessed or materialized until their external-base track IDs are recovered.
+  - Deferred Godkiller, Sea Spear, and Semper Fi bindings must not be guessed or materialized until their authoritative track IDs are recovered or explicitly source-locked.
