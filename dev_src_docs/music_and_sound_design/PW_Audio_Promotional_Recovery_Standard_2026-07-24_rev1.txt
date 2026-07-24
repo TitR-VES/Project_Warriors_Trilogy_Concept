@@ -1,0 +1,94 @@
+PROJECT WARRIORS — AUDIO / PROMOTIONAL RECOVERY STANDARD
+Generated: 2026-07-24
+Version: rev1
+Status: DURABLE EDITORIAL AND SOUND-DESIGN SOURCE
+
+PURPOSE
+Promote high-value audio and Game 2 teaser architecture that previously survived mainly inside compendium bodies and staging copies. This page controls editorial intent, not commercial music clearance or final production timing.
+
+1. GAME 2 CAMPAIGN IDENTITY
+Romeo — AMERICAN FREEDOM
+- Track: "Good Morning, America" — Jesse Welles.
+- Tagline: WAR HITS HOME.
+- Register: elegiac/documentary; grief -> weight -> quiet defiance -> reckoning.
+
+Ducky — PERSISTENT THREAT
+- Track: "Kyiv" — Apashe ft. Alina Pash.
+- Tagline: THE SYSTEM FELL. WE DIDN'T.
+- Register: trust -> creeping wrongness -> operational chaos -> broken institutional promise.
+- AEGIS FALLS is not the campaign title. It remains the final mission title only.
+
+Spook — GODKILLER
+- Track: "King Nothing" — Metallica.
+- Tagline: YOU CAN'T KILL A DEAD MAN.
+- Register: institutional certainty -> evidence of deception -> hunt -> confrontation.
+
+All commercial tracks remain licensing-dependent. Creative approval is not clearance.
+
+2. SHARED TEASER FORM
+- Approximate runtime: 90 seconds.
+- 2.39:1 cinematic widescreen.
+- No HUD and no conventional gameplay-footage grammar.
+- Romeo and Ducky teasers use no dialogue.
+- Godkiller may use only the two-line spoken close defined by its treatment.
+- Plain white title cards; no fanfare; no music beneath them; one beat between cards.
+- "Coming Q2 2028" in the old treatment is fictional flavor, not a real project schedule.
+
+3. PROTECTED EDITORIAL DEVICES
+American Freedom
+- Final movement transitions to sparse unaccompanied mixed choir rather than a conventional swell.
+- Hard cut interrupts the choir mid-phrase; silence is the landing.
+- A roughly three-frame Cody Beaumont death image may appear inside the build section: subliminal on first viewing, legible only in retrospect. Do not lengthen it into explanatory foreshadowing.
+
+Persistent Threat
+- Returning AEGIS emblem provides the visual spine: pristine -> cracked -> fractured.
+- Raw POV/drone/evidence grammar should feel operational and uncontrolled, not like generic action montage coverage.
+- The fracture is institutional and procedural, not simply explosive spectacle.
+
+Godkiller
+- Investigative evidence and official-story contradiction lead the edit.
+- East McFarlane Island remains a key evidentiary image/locale in the treatment.
+- The close permits exactly the authored two-line dialogue exchange; restraint is the point.
+
+4. CHARACTER PROMO FORMAT
+Default seven-part structure:
+1. origin;
+2. first detonation/weapon moment;
+3. character-specific tool or weapon moment;
+4. deeper action;
+5. quieter squad-relationship passage;
+6. final build;
+7. private character detail/title card.
+
+Use four diegetic sound punctuations as a recurring series technique: music partially drops, a real-world sound cuts through, music returns. Each punctuation must reveal character rather than merely add impact.
+
+Private weapon names may function as close-inspection Easter eggs, but current weapon sources control which names remain active and how they are presented.
+
+5. SOUND-DESIGN PRINCIPLES
+- Productive dissonance over literal mood matching. Warmth against wrongness is the established model.
+- Silence is an authored asset. KYSC's missing normal chatter is part of their identity.
+- Audio, HUD, and mechanics must agree: a HOPLON blackout should change player information access at the same moment it is announced.
+- Shoot-and-scoot fire-support language must preserve displacement urgency.
+- APOLLO-style monitoring gains force through long calm stretches followed by sudden escalation.
+- Rare or culturally specific chatter loses power when spammed; pool management is part of writing.
+
+Voice anchors
+- Frost: sincere zero-inflection deadpan; no self-aware wink.
+- Switchblade medic calls: specific location/injury/need, never generic "he's hit" filler.
+- Romeo: warmer downtime voice; lower, slower contact register.
+- Tripper's "Spook, I have found something and you are not going to like it" is semi-scripted and gains callback weight through limited reuse.
+- Smoke's single-word "Spook" callout is calm and present; team response supplies the alarm.
+
+6. US MULTI-SERVICE RADIO LIBRARY — OPEN WRITING BRIEF
+The framework is retained, but the full library is not complete:
+- Rangers: tight, intense, Regiment culture.
+- conventional Army: solid standard procedure.
+- Marines: branch-proud and aggressive without becoming unprofessional; use "Marines," not "soldiers."
+- Navy/Coronado: shipboard vocabulary and appropriate naval register.
+- USAF/JTAC: codified targeting language and fast-jet culture.
+- Guard/Reserve: variable polish as characterization, never contempt.
+- LAPD/emergency services: civilian radio bleed in the Los Angeles soundscape.
+- Army/Marine friction may be audible in word choice but never compromises contact discipline.
+
+7. CLOSED LEGACY GAP
+The old audio summary marked the PHAETON two-ship Gripen flyover as missing. It is now preserved in the aircraft/vehicle scene source and the current missions compendium. Do not carry that old "not located" flag forward.
