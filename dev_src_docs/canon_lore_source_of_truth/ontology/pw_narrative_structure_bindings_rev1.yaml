@@ -1,0 +1,31 @@
+meta: {document_id: PW-ONT-NARRATIVE-STRUCTURE-BINDINGS-REV1, generated: '2026-07-24', revision: rev1, document_mode: entity_part, manifest: pw_narrative_structure_rev1.yaml}
+track_bindings:
+- {campaign_ref: PW-CMP-G1-LEAD-THE-WAY, timeline_track_ref: PW-TRK-G1-LEAD-THE-WAY, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G1-DO-RIGHT-FEAR-NONE, timeline_track_ref: PW-TRK-G1-DO-RIGHT-FEAR-NONE, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G1-RIPTIDE-RED, timeline_track_ref: PW-TRK-G1-RIPTIDE-RED-SPOOK, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G2-AMERICAN-FREEDOM, timeline_track_ref: PW-TRK-G2-AMERICAN-FREEDOM, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G2-PERSISTENT-THREAT, timeline_track_ref: PW-TRK-G2-PERSISTENT-THREAT, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G2-GODKILLER, timeline_track_ref: PW-TRK-G2-GODKILLER, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G3-NO-KINGS, timeline_track_ref: PW-TRK-G3-NO-KINGS, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G3-FAILSAFE, timeline_track_ref: PW-TRK-G3-FAILSAFE, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G3-DARK-SKIES, timeline_track_ref: PW-TRK-G3-DARK-SKIES, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G4-COMMAND-AUTHORITY, timeline_track_ref: PW-TRK-G4-COMMAND-AUTHORITY, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G4-COMMON-PICTURE, timeline_track_ref: PW-TRK-G4-COMMON-PICTURE, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-G4-PERMANENT-RECORD, timeline_track_ref: PW-TRK-G4-PERMANENT-RECORD, track_role: primary, binding_status: resolved}
+- campaign_ref: PW-CMP-SEA-SPEAR
+  timeline_track_ref: null
+  track_role: primary
+  binding_status: external_base_identifier_recovery_required
+  recovery_note: Recover the authoritative stable track ID from the unavailable external rev1 materialization before timeline enrichment.
+- campaign_ref: PW-CMP-SEMPER-FI
+  timeline_track_ref: null
+  track_role: primary
+  binding_status: external_base_identifier_recovery_required
+  recovery_note: Recover the authoritative stable track ID from the unavailable external rev1 materialization before timeline enrichment.
+- {campaign_ref: PW-CMP-WHO-DARES-WINS, timeline_track_ref: PW-TRK-DLC-WHO-DARES-WINS, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-THE-WASP, timeline_track_ref: PW-TRK-DLC-WASP, track_role: primary_non_contiguous, binding_status: resolved}
+- {campaign_ref: PW-CMP-THE-STORM, timeline_track_ref: PW-TRK-DLC-STORM, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-HOME-DEFENSE, timeline_track_ref: PW-TRK-DLC-HOME-DEFENSE, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA, timeline_track_ref: PW-TRK-WAR-WITHIN, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-THE-COLLAPSE, timeline_track_ref: PW-TRK-DLC-THE-COLLAPSE, track_role: primary, binding_status: resolved}
+- {campaign_ref: PW-CMP-NIGHTFALL, timeline_track_ref: PW-TRK-DLC-NIGHTFALL, track_role: primary, binding_status: resolved}
