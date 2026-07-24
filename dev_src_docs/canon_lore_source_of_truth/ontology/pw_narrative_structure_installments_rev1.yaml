@@ -1,0 +1,140 @@
+meta: {document_id: PW-ONT-NARRATIVE-STRUCTURE-INSTALLMENTS-REV1, generated: '2026-07-24', revision: rev1, document_mode: entity_part, manifest: pw_narrative_structure_rev1.yaml}
+installments:
+- id: PW-INS-GAME-1
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: Project Warriors I
+  title_status: locked
+  installment_type: main_game
+  series_order: 1
+  campaign_refs: [PW-CMP-G1-LEAD-THE-WAY, PW-CMP-G1-DO-RIGHT-FEAR-NONE, PW-CMP-G1-RIPTIDE-RED]
+  status: locked
+  sources: [Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt, dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+- id: PW-INS-GAME-2
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: Project Warriors II
+  title_status: locked
+  installment_type: main_game
+  series_order: 2
+  campaign_refs: [PW-CMP-G2-AMERICAN-FREEDOM, PW-CMP-G2-PERSISTENT-THREAT, PW-CMP-G2-GODKILLER]
+  status: locked
+  sources: [Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt, dev_src_docs/canon_lore_source_of_truth/PW_Legacy_Thread_Canon_Landing_2026-07-24_rev1.txt]
+- id: PW-INS-GAME-3
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: Project Warriors III
+  title_status: locked
+  installment_type: main_game
+  series_order: 3
+  campaign_refs: [PW-CMP-G3-NO-KINGS, PW-CMP-G3-FAILSAFE, PW-CMP-G3-DARK-SKIES]
+  status: locked
+  sources: [Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt, dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Campaign_Title_Canon_2026-07-22_rev1.txt]
+- id: PW-INS-GAME-4
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: Game 4
+  title_status: working
+  installment_type: main_game
+  series_order: 4
+  campaign_refs: [PW-CMP-G4-COMMAND-AUTHORITY, PW-CMP-G4-COMMON-PICTURE, PW-CMP-G4-PERMANENT-RECORD]
+  unresolved_fields: [final external installment title/styling]
+  status: working
+  sources: [dev_src_docs/story_campaigns/Game4/Shared/PW_Game4_Chronology_Canon_2026-07-21_rev1.txt, dev_src_docs/canon_lore_source_of_truth/PW_Ontology_Canon_Corrections_2026-07-21_rev1.txt]
+- id: PW-INS-SEA-SPEAR
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: Sea Spear'
+  title_status: locked
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-SEA-SPEAR]
+  brand_parent_installment_ref: null
+  chronology_overlap_installment_refs: []
+  unresolved_fields: [exact timeline position, repository-verifiable timeline track stable ID]
+  status: working
+  sources: [Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt]
+- id: PW-INS-SEMPER-FI
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: Semper Fi'
+  title_status: locked
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-SEMPER-FI]
+  brand_parent_installment_ref: PW-INS-GAME-1
+  chronology_overlap_installment_refs: [PW-INS-GAME-1, PW-INS-GAME-2]
+  unresolved_fields: [exact overlap boundaries, repository-verifiable timeline track stable ID]
+  status: confirmed
+  sources: [Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_01_Core_Timeline_2026-07-06_rev6.txt, Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-07-06_rev6.txt]
+- id: PW-INS-WHO-DARES-WINS
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: Who Dares Wins'
+  title_status: locked
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-WHO-DARES-WINS]
+  chronology_overlap_installment_refs: [PW-INS-GAME-1, PW-INS-GAME-2, PW-INS-GAME-3]
+  status: working
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt, dev_src_docs/story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt]
+- id: PW-INS-THE-WASP
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: The Wasp'
+  title_status: locked
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-THE-WASP]
+  brand_parent_installment_ref: PW-INS-GAME-2
+  chronology_overlap_installment_refs: [PW-INS-GAME-2]
+  status: confirmed
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt, Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_03_Characters_DLC_2026-07-06_rev6.txt]
+- id: PW-INS-THE-STORM
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: The Storm'
+  title_status: confirmed
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-THE-STORM]
+  brand_parent_installment_ref: PW-INS-GAME-3
+  chronology_overlap_installment_refs: [PW-INS-GAME-3]
+  unresolved_fields: [full mission ladder, exact dates, exact Nightfall consequence]
+  status: working
+  sources: [dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt]
+- id: PW-INS-HOME-DEFENSE
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: Home Defense'
+  title_status: working
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-HOME-DEFENSE]
+  brand_parent_installment_ref: PW-INS-GAME-3
+  chronology_overlap_installment_refs: [PW-INS-GAME-3]
+  unresolved_fields: [final title, exact Game 3 synchronization]
+  status: working
+  sources: [dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt]
+- id: PW-INS-WAR-WITHIN
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: War Within'
+  title_status: locked
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA]
+  brand_parent_installment_ref: PW-INS-GAME-3
+  chronology_overlap_installment_refs: [PW-INS-GAME-4]
+  alternative_stylings: ['Project Warriors III: War Within']
+  status: locked
+  sources: [dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_title_hierarchy_rev2_9.delta.yaml, dev_src_docs/story_campaigns/WarWithin/PW_War_Within_Canon_Correction_2026-07-21_rev1.txt]
+- id: PW-INS-THE-COLLAPSE
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: The Collapse'
+  title_status: confirmed
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-THE-COLLAPSE]
+  chronology_overlap_installment_refs: []
+  status: working
+  sources: [dev_src_docs/story_campaigns/TheCollapse/PW_Post_Game4_Political_Transition_and_Collapse_Bridge_2026-07-21_rev1.txt, dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+- id: PW-INS-NIGHTFALL
+  series_ref: PW-SER-PROJECT-WARRIORS
+  canonical_title: 'Project Warriors: Nightfall'
+  title_status: confirmed
+  installment_type: dlc
+  series_order: null
+  campaign_refs: [PW-CMP-NIGHTFALL]
+  chronology_overlap_installment_refs: []
+  status: confirmed
+  sources: [dev_src_docs/story_campaigns/Nightfall/PW_Nightfall_Timeline_and_Scorched_Crescent_Canon_2026-07-21_rev1.txt]
