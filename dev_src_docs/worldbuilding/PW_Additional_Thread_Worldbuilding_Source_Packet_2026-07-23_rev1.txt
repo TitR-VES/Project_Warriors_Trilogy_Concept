@@ -1,6 +1,6 @@
 PROJECT WARRIORS — ADDITIONAL THREAD WORLDBUILDING SOURCE PACKET
 Generated: 2026-07-23
-Version: rev1
+Version: rev2
 Status: WORKING AUTHORITATIVE SOURCE / LATER CANON CONTROLS
 Recovered from: PANDORA technical summary; AFC visual identity; CFIM; Canada threads
 
@@ -35,6 +35,10 @@ Countermeasure boundaries:
 - isolated node destruction does not eliminate the root trust problem.
 
 The false-flag architecture combines infrastructure routing, fabricated signals intelligence, and behavior/tooling designed to imitate a Chinese state operation. The thematic rule is institutional failure through accumulated small compromises rather than one implausible master switch.
+
+Detailed companion source:
+- `dev_src_docs/worldbuilding/PW_PANDORA_TETHERBREAK_Full_Technical_Architecture_2026-07-24_rev1.txt`
+The companion source controls full technical provenance, working engineering values, remediation architecture, and engineer dependency. This compact section remains the synthesis-level summary.
 
 02. AFC / BOSTON RESISTANCE VISUAL IDENTITY
 AFC means AMERICAN FREEDOM CORPS. “American Freedom Coalition” is stale in this faction context and should be purged.
