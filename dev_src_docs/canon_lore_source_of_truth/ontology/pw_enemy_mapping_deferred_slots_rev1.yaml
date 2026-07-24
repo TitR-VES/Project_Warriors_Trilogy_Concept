@@ -1,0 +1,14 @@
+meta:
+  document_id: PW-ONT-PW-ENEMY-MAPPING-DEFERRED-SLOTS-REV1
+  generated: '2026-07-24'
+  revision: rev1
+  document_mode: entity_part
+  manifest: pw_enemy_weapon_mapping_rev1.yaml
+deferred_slots:
+- {id: PW-EDF-GAME3-PLA-ORDER-OF-BATTLE, installment_refs: [PW-INS-GAME-3], campaign_refs: [PW-CMP-G3-NO-KINGS, PW-CMP-G3-FAILSAFE, PW-CMP-G3-DARK-SKIES], reason: Chinese force involvement exists strategically but player-facing enemy archetypes and weapon tables are not source-landed., sources: [CORE]}
+- {id: PW-EDF-GAME4-NAF-VANGUARD-GENERIC, installment_refs: [PW-INS-GAME-4, PW-INS-WAR-WITHIN], campaign_refs: [PW-CMP-G4-COMMAND-AUTHORITY, PW-CMP-G4-COMMON-PICTURE, PW-CMP-G4-PERMANENT-RECORD, PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA], reason: Named NAF/Vanguard weapons exist but generic hostile alignment archetypes and drop pools are not locked and must not be inferred from protagonist/allied equipment., sources: [WARWITHIN]}
+- {id: PW-EDF-WHO-DARES-WINS-OPPOSITION, installment_refs: [PW-INS-WHO-DARES-WINS], campaign_refs: [PW-CMP-WHO-DARES-WINS], reason: Mission threat lanes are developed but the opposition roster and arsenal pass are not., sources: [WDW]}
+- {id: PW-EDF-SEA-SPEAR-OPPOSITION, installment_refs: [PW-INS-SEA-SPEAR], campaign_refs: [PW-CMP-SEA-SPEAR], reason: Nereid Black player/allied loadouts are source-landed; enemy types and weapon drops are not., sources: [SEASPEAR]}
+- {id: PW-EDF-HOME-DEFENSE-OPPOSITION, installment_refs: [PW-INS-HOME-DEFENSE], campaign_refs: [PW-CMP-HOME-DEFENSE], reason: The durable campaign source explicitly leaves the enemy order of battle open., sources: [HOME]}
+- {id: PW-EDF-STORM-OPPOSITION, installment_refs: [PW-INS-THE-STORM], campaign_refs: [PW-CMP-THE-STORM], reason: Sakhalin/Procella player equipment is source-landed; hostile-force archetypes and loadouts remain open., sources: [STORM]}
+- {id: PW-EDF-COLLAPSE-OPPOSITION, installment_refs: [PW-INS-THE-COLLAPSE], campaign_refs: [PW-CMP-THE-COLLAPSE], reason: Chris’s player arsenal is source-landed; recurring hostile archetypes carry pools and drop rules remain undeveloped., sources: [COLLAPSE]}
