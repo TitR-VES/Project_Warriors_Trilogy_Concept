@@ -1,0 +1,83 @@
+PROJECT WARRIORS — CHARACTER RANK AND TITLE REALISM STANDARD
+Generated: 2026-07-24
+Version: rev1
+Status: LOCKED CONTINUITY / RETCON CONTROL
+Recovered from: Character Rank Realism Audit and Canon Retcons thread
+
+PURPOSE
+Normalize current-facing ranks and titles around believable billets and prevent older aggregate sources from reintroducing stale assignments.
+
+AUTHORITY RULE
+Later explicit owner adjudication and later source-landed corrections control over transcript-era grade wording.
+The rank-audit thread established the realism direction; where the repository later refined the exact grade, the later repository lock controls.
+
+LOCKED CURRENT-FACING CORRECTIONS
+
+ROMEO
+Current display: SSG Ramón “Romeo” Álvarez.
+Rule: Romeo is an enlisted Ranger small-unit leader, not a lieutenant leading a literal fire team.
+The transcript-era SGT correction fixed the officer/NCO mismatch; later SSG canon controls the exact grade.
+Purge LT, Lieutenant, “rogue officer,” and other officer-facing wording from current-facing Romeo material unless explicitly historical and separately justified.
+
+SPOOK
+Current display: Trevor Albertson “Spook” Gartner — senior CIA paramilitary operations officer.
+Acceptable compact form: senior CIA paramilitary officer.
+Rule: no current military rank. “Captain” may exist only as clearly historical military background, never as his present CIA title.
+Surname lock: GARTNER, never Gardner.
+
+SWITCHBLADE
+Current display: CPL Cassandra “Switchblade” Stewart.
+Rule: Corporal, not Lance Corporal, in current-facing material.
+
+VICKERS
+Current display: Capt. Vickers for the visible commander of the broader British reinforcement element.
+Rule: do not revert to Lieutenant where she carries package-level authority beyond a young troop-command framing.
+
+MACE
+Current display: Colour Sergeant Mace.
+Rule: Colour Sergeant, not WO2, for the active senior-NCO / field-lead function.
+
+MACMILLAN
+Current display: Director Robert Macmillan or Robert Macmillan, CIA Director of Operations.
+Rule: remove “Major General” as a current CIA title. Any military grade belongs only in clearly separated biography/history.
+
+STANDING ASSIGNMENTS
+Keep unless later source explicitly changes them:
+- Ducky — SFC;
+- Frost — SSGT;
+- Lupin — CPL;
+- Halliday — LT;
+- Walker — Colonel;
+- Tremblay — Lieutenant General;
+- André Bridges — Staff Sergeant;
+- Valkyrie — SSGT;
+- Patch — Sergeant;
+- Ghost — Corporal;
+- Depth — Petty Officer;
+- Cutter — Sergeant;
+- Mags — Corporal. “Wren” is the retired transcript-era SBS callsign; Switchblade’s weapon build WREN is unchanged.
+
+AUTHORING RULE
+Before assigning or changing a rank, verify:
+1. service and nation;
+2. unit type and scale;
+3. actual billet/function;
+4. whether the character is military, intelligence, police, paramilitary, or civilian;
+5. whether the project-facing title is a rank, appointment, job title, callsign, or historical honorific.
+
+Do not use rank as generic prestige.
+Do not place commissioned officers in enlisted fire-team billets without an explicit unusual structure.
+Do not carry former military ranks into current intelligence titles by default.
+For multinational units, project-facing anglicized ranks may be used where already established, but they must remain billet-plausible.
+
+MIGRATION RULE
+Patch source-of-truth character/campaign pages first.
+Then refresh aggregate compendia and consolidated masters so stale mirrored text cannot re-enter the active layer.
+Search-and-purge targets include:
+- LT Ramón Álvarez / Lieutenant Ramón Álvarez;
+- CPT Trevor Gartner / Captain Trevor Gartner;
+- LCPL Cassandra Stewart;
+- Lt. Vickers;
+- WO2 Mace;
+- Major General Robert Macmillan in a current CIA context;
+- Trevor Gardner.
