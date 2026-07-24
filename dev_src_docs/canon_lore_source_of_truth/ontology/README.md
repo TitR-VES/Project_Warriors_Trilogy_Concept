@@ -132,10 +132,38 @@ and drop policy. A weapon may therefore occur as NPC or enemy equipment while re
 
 Open flags remain explicit for incomplete campaign rosters, Troy Barry's exact reward
 table, Dragon's Breath timing and fire-propagation support, nine unrecovered named-build
-platforms, prototype/caliber lanes, and the future enemy carry/drop matrix.
+platforms, prototype/caliber lanes, and unresolved enemy carry/drop probabilities.
 
-The next enemy-type ontology should reference stable `PW-WEP-*` and `PW-AMM-*` values
-and populate occurrence `enemy_type_refs` rather than duplicating platform strings.
+Enemy mappings reference stable `PW-WEP-*` and `PW-AMM-*` values and populate occurrence
+`enemy_type_refs` rather than duplicating platform strings.
+
+## Enemy / weapon mapping projection
+
+`pw_enemy_weapon_mapping_rev1.yaml` extends the merged portable-weapon catalog with
+stable enemy-type, loadout, encounter, and compatibility-binding identities. It does
+not replace narrative enemy descriptions or the weapon catalog.
+
+Current mapping:
+
+- 33 enemy-type identities (`PW-ENM-*`)
+- 33 enemy-loadout identities (`PW-ELD-*`)
+- 34 enemy-encounter identities (`PW-EEN-*`)
+- 48 additive weapon-occurrence bindings
+- 7 deferred campaign/opposition slots (`PW-EDF-*`)
+
+The mapping covers the current source-backed Russian, FSB/Vympel, KPA, IRGC,
+Los Sietes, KYSC, Atlas, War Wolves, and named/conditional enemy roster. Weapon
+rules retain separate carry, drop, and player-pickup fields. A weapon carried by an
+enemy is therefore not assumed to drop, remain usable, or become persistent.
+
+Campaign opposition whose order of battle or arsenal is not source-landed remains
+deferred rather than guessed. This currently includes generic Game 3 PLA opposition,
+NAF/Vanguard hostile forces, Who Dares Wins, Sea Spear, Home Defense, The Storm,
+and The Collapse.
+
+`pw_weapon_catalog_enemy_type_bindings_rev1.overlay.yaml` only adds `PW-ENM-*`
+references to existing `PW-WOC-*` records. It changes no weapon access, acquisition,
+retention, ammunition, or drop state.
 
 ## Current validated projection
 
@@ -178,7 +206,7 @@ Named-weapon layer:
 - Existing durable pages remain controlling when they already absorb the transcript.
 - Revised source pages explicitly state what earlier page, ladder, title, or ambiguity they supersede.
 - Working choices and open flags remain working/open after source promotion.
-- No missing mission, date, platform, character detail, stable ontology ID, weapon ID, or ammunition mapping may be
+- No missing mission, date, platform, character detail, stable ontology ID, weapon ID, ammunition mapping, enemy type, or drop rule may be
   invented merely to complete a projection.
 
 ## Current campaign notes
@@ -206,7 +234,11 @@ Named-weapon layer:
 - `schema/pw_narrative_structure.schema.yaml` controls series/installment/campaign
   identity, containment, timeline bindings, and touchpoint vocabulary.
 - `schema/pw_weapon_catalog.schema.yaml` controls base-weapon identity, ammunition,
-  occurrences, acquisition/retention/drop state, and named-build platform bindings.
+  occurrences, acquisition/retention/drop state, named-build platform bindings, and
+  compatible `PW-ENM-*` references.
+- `schema/pw_enemy_weapon_mapping.schema.yaml` controls enemy types, tactical tiers,
+  loadout rules, encounter placement, deferred opposition slots, and weapon-catalog
+  compatibility bindings.
 
 ## Governance rules
 
@@ -216,10 +248,11 @@ Named-weapon layer:
 - Stable IDs survive title changes unless an ID migration is separately authorized.
 - Historical titles and aliases do not replace canonical names.
 - Player branches must not be collapsed into one outcome without owner adjudication.
-- Partial ladders remain partial; missing titles and incomplete weapon rosters are not invented.
+- Partial ladders remain partial; missing titles, incomplete weapon rosters, and undeveloped enemy orders of battle are not invented.
 - Release/numbered series order is not fictional chronology.
 - Installment membership is derived through `campaign_ref`, not the legacy free-text
   track `installment` field.
 - Base-platform presence never automatically implies player access, retention, or enemy drop.
+- Enemy carriage never automatically implies a drop, player pickup, or persistent ownership.
 - Old revisions are not retired until the PR merges, paths are checked on `main`,
   downstream consumers migrate, and a post-merge consistency pass succeeds.
