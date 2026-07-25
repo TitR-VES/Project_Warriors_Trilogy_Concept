@@ -1,0 +1,198 @@
+PROJECT WARRIORS — RECOVERED VISUAL / MECHANICS / LORE TRANSCRIPT AUDIT
+Generated: 2026-07-25
+Version: rev1
+Status: LANDING / RECONCILIATION AUDIT
+
+BUNDLE
+pw_recoverd_visual_assets_new_mechamics_old_lore.zip
+
+SCOPE
+13 extracted text files covering recovered brand/logo prompts, TITR identity, RIPTIDE RED promotion, Nightfall/Damhaven worldbuilding, gameplay mechanics, character-specific handling, a named-weapon revision, diegetic music, and storyline-relationship terminology.
+
+GOVERNING METHOD
+1. Treat transcript content as recovery evidence, not automatic canon.
+2. Apply later explicit owner approvals.
+3. Compare against current main and later July 2026 canon/source landings.
+4. Promote stable material into dedicated topic sources.
+5. Add a cross-domain working-knowledge addendum.
+6. Record every input by SHA-256 and landing outcome.
+7. Do not repository-land raw chat archives when normalized source pages preserve the useful material.
+
+================================================================================
+01. BASELINE / REPOSITORY STATE
+================================================================================
+
+Repository:
+TitR-VES/Project_Warriors_Trilogy_Concept
+
+Baseline branch:
+main
+
+Current source model:
+- durable authoring in dev_src_docs/
+- synthesis in the six rev6 compendia plus dated addenda
+- governance in source_audits_and_reports/
+- archival master refreshed only at milestones
+
+The bundle was reconciled after the merge of the July 24 ontology/recovery stack and after the July 25 repository landing of the Project Warriors I–IV logo PNGs. No pre-existing open PR dependency was found at branch creation.
+
+================================================================================
+02. MATERIAL PROMOTED
+================================================================================
+
+GAMEPLAY
+One consolidated source lands:
+- persistent mechanical reload state
+- shotgun door breaching
+- physical shotgun ammunition order
+- Dragon's Breath sourcing and timing distinction
+- acoustic stealth / environmental masking
+- contextual CQC and environmental eliminations
+- Dead-Gunner Drill
+
+A separate character-handling source lands Nick Hawthorne's competition-derived pump-shotgun reload.
+
+WEAPONS
+A focused ¡HASTA LA VISTA! amendment replaces the earlier one-piece foregrip/integrated hand stop with a rear 8-degree angled grip plus separate forward hand stop. All unaffected rev1 fields remain authoritative.
+
+AUDIO
+The diegetic music network advances to rev2 with the licensed-song candidate "Sunroof" for the last ordinary phase of the Rhino 6 armored-truck job before the ambush.
+
+BRANDING / PROMOTION
+- TITR studio-name rationale and external-use guardrails
+- clean Project Warriors I–IV logo-family rules and links to the already-landed PNGs
+- RIPTIDE RED Game 1 teaser/key-art direction, standalone campaign title, closing line, and licensing-dependent track candidate
+
+NARRATIVE STRUCTURE
+A prose taxonomy now supports and expands the existing ontology touchpoint terms without changing stable IDs or chronology.
+
+NIGHTFALL / WORLD
+Three sources land:
+- Deluvia/Damhaven legal, infrastructure, heat, water, energy, and public-space systems
+- Freeport of Los Angeles
+- Sakhalin's Deluvia introduction order, Sazan/Dubai/finale rhythm, North American route, Maine departure, and fictionalized route-planning continuity
+
+================================================================================
+03. DUPLICATES / SUPERSESSIONS
+================================================================================
+
+JULY 6 CANON LOCK DUPLICATE
+PW_Canon_Decisions_Lock_2026-07-06_rev1-2.txt is byte-distinct only as a duplicate package copy of an old governance snapshot. It still marks items as provisional/open that were later resolved on main, including Romeo rank, Spook title, Dale PRUETT spelling, La Avispa title, and other July decisions.
+
+Action:
+- evidence only
+- not copied into the repository
+- not allowed to reopen resolved decisions
+
+GAMEPLAY ARCHIVE OVERLAP
+The two gameplay files overlap. The -3 archive explicitly reconstructs its compacted opening and is not verbatim for that portion. The -1 archive preserves the fuller original opening. Later approvals and Dead-Gunner Drill content in -3 remain valuable.
+
+Action:
+- reconcile both into one durable source
+- use -1 for the opening detail
+- use -3 for explicit owner approvals and later content
+- do not preserve duplicate raw chat copies
+
+RIPTIDE RED GOVERNANCE OUTPUTS
+The transcript describes generated April rev3 compendium/changelog/archival files. Those historical artifacts are already superseded by rev6 and later addenda.
+
+Action:
+- promote the durable teaser/key-art decisions into a current topic source
+- do not resurrect April rev3 as current synthesis
+
+CHEYENNE MOUNTAIN
+The Nightfall transcript contains a handoff summary and route-development discussion. The later dedicated Cheyenne Mountain rev4 source and canon update remain authoritative.
+
+Action:
+- land only missing Sakhalin continuity and fictionalized route-planning context
+- do not replace the rev4 mission source
+
+================================================================================
+04. INTENTIONAL NON-LANDING
+================================================================================
+
+DANISH FROGMEN IMAGE REQUEST
+The archive records an unsuccessful image-generation request and explicitly states that no Project Warriors lore, canon, design decision, or source material was developed.
+
+Outcome:
+INTENTIONALLY DROPPED
+
+RAW TRANSCRIPTS / ZIP
+The raw ZIP and transcript wrappers are not added to the repository. They contain chat framing, generated-image descriptions, sandbox paths, external-link remnants, duplicated material, and obsolete governance statements. The normalized sources and SHA-256 manifest preserve the useful provenance without creating a second chat-archive source tree.
+
+================================================================================
+05. MACHINE-LAYER / ONTOLOGY RESULT
+================================================================================
+
+No new stable installment, campaign, character, weapon-platform, ammunition, or named-build identity is required.
+
+Existing identities remain:
+- PW-AMM-12GA-DB for Dragon's Breath
+- existing HASTA / Hawthorne / campaign identities
+- existing narrative-structure touchpoint values
+
+This pass improves source authority and resolves the Dragon's Breath source and broad timing narrative. An additive weapon-catalog metadata delta updates PW-AMM-12GA-DB without creating or renaming a stable identity. It leaves exact first mission, quantity, price, fire-propagation support, and complete compatible-shotgun occurrences open.
+
+================================================================================
+06. VISUAL-ASSET RESULT
+================================================================================
+
+The logo transcript material is source-landed as design rules. The current PNGs were already added to main before this branch:
+- project-warriors-logo-2.png
+- project-warriors-ii-logo-2.png
+- project-warriors-iii-logo.png
+- project-warriors-iv-logo.png
+
+The ¡HASTA LA VISTA! transcript references three owner-supplied photographs, but the ZIP contains only the text archive. Their file IDs are preserved in the amendment. No image bytes are invented or copied.
+
+================================================================================
+07. VALIDATION
+================================================================================
+
+Performed:
+- all 13 input files hashed
+- duplicate/stale governance isolated
+- all promoted source files written as UTF-8 text
+- current names/titles applied: Hawthorne, SSG Ramon Alvarez, unranked Spook, PRUETT, Project Warriors: Wasp, TRU/SIGHT, Mags
+- no April rev3 synthesis file restored as current
+- no raw copyrighted audio or lyrics included
+- no raw transcript wrappers included
+- no real Cheyenne Mountain exploit detail claimed
+- no new stable IDs invented
+
+================================================================================
+08. LANDING INVENTORY
+================================================================================
+
+DURABLE SOURCES
+- dev_src_docs/gameplay_mechanics/PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+- dev_src_docs/gameplay_mechanics/PW_Nick_Hawthorne_Competition_Shotgun_Handling_2026-07-25_rev1.txt
+- dev_src_docs/canon_lore_source_of_truth/PW_Character_Storyline_Relationship_Taxonomy_2026-07-25_rev1.txt
+- dev_src_docs/weapons_and_equipment/HASTA_LA_VISTA_Fore_End_Revision_2026-07-25_rev1.txt
+- dev_src_docs/audio/PW_Diegetic_Music_Placement_Network_2026-07-25_rev2.txt
+- dev_src_docs/branding/PW_TITR_Studio_and_Project_Warriors_Logo_Family_2026-07-25_rev1.txt
+- dev_src_docs/promotion/PW_RIPTIDE_RED_Game1_Teaser_and_Key_Art_2026-07-25_rev1.txt
+- dev_src_docs/story_campaigns/Nightfall/PW_Nightfall_Sakhalin_Transit_and_Deluvia_Continuity_2026-07-25_rev1.txt
+- dev_src_docs/worldbuilding/PW_Deluvia_Damhaven_Civic_Infrastructure_and_Public_Space_2026-07-25_rev1.txt
+- dev_src_docs/worldbuilding/PW_Freeport_of_Los_Angeles_2026-07-25_rev1.txt
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_recovered_visual_mechanics_lore_weapon_catalog_rev1.delta.yaml
+
+SYNTHESIS
+- Project_Warriors_Knowledge_Compendia/PW_Recovered_Visual_Mechanics_Lore_Addendum_2026-07-25_rev1.txt
+
+GOVERNANCE
+- source_audits_and_reports/PW_Recovered_Visual_Mechanics_Lore_Transcript_Audit_2026-07-25_rev1.txt
+- source_audits_and_reports/PW_Recovered_Visual_Mechanics_Lore_Manifest_2026-07-25_rev1.csv
+
+================================================================================
+09. RETIREMENT ASSESSMENT
+================================================================================
+
+The supplied ZIP is safe to retire from active staging after this PR is merged and spot-checked because:
+- every file has an explicit outcome
+- all durable content has a source landing
+- duplicate/stale governance is isolated
+- the no-content image thread is intentionally dropped
+- raw transcript preservation is not required for active authoring
+
+The underlying Nightfall, gameplay implementation, logo production, licensed music, and animation workstreams remain live. Retiring the ZIP does not mean those broader topics are finished.

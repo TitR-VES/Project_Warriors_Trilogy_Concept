@@ -1,0 +1,135 @@
+PROJECT WARRIORS — PLAYABLE-CHARACTER STORYLINE RELATIONSHIP TAXONOMY
+Generated: 2026-07-25
+Version: rev1
+Status: SOURCE-READY NARRATIVE-STRUCTURE STANDARD
+
+PURPOSE
+Define reusable terms for describing how playable-character storylines relate across campaigns, missions, locations, events, and consequences. This page is the prose authority behind the additive narrative-structure ontology's touchpoint classifications.
+
+SOURCE
+Project_Warriors_Thread_Archive_Character_Storyline_Types_2026-07-25.txt
+
+CORE DISTINCTION
+Classify the relationship by causal, relational, spatial, temporal, and structural significance rather than by physical proximity alone.
+
+================================================================================
+01. CORE TAXONOMY
+================================================================================
+
+INTERSECTION
+Two or more playable-character storylines become directly connected through a narratively meaningful interaction, exchange, confrontation, collaboration, or dependency.
+
+The characters may meet in person, communicate remotely, act through intermediaries, or operate as allies or enemies. The defining feature is that each storyline meaningfully enters the other.
+
+Example:
+Spook meets Sakhalin at Tomakomai Harbor and receives intelligence required to enter China through Yunnan and pursue the extraction of Y. T. Lin.
+
+OVERLAP
+Two or more playable-character storylines occupy the same physical or virtual space, operational window, or local event without necessarily interacting or becoming causally dependent.
+
+Example:
+Nick Hawthorne and Romeo are both present at Rollin' Good Times during separate assignments. Hawthorne is part of Sunny's security detail; Romeo is gathering intelligence on NAF capacity. Their presence overlaps even if they do not directly engage.
+
+PARALLELISM
+Two or more playable storylines run alongside one another as separate perspectives on the same broader operation, campaign phase, or event structure.
+
+Example:
+Ducky/AEGIS and Romeo/Fire Team Delta execute separate playable arms of the Hindeloopen operation. Each mission is independently meaningful and contributes to the shared result.
+
+================================================================================
+02. ADDITIONAL TERMS
+================================================================================
+
+CONVERGENCE
+Previously distinct storyline paths are brought into sustained common purpose, shared conflict, or one combined end state. Convergence is stronger and more durable than a single intersection.
+
+HANDOFF
+One storyline passes information, an asset, responsibility, access, or consequence into another storyline. The characters may or may not meet.
+
+CAUSAL LINKAGE
+An action in one storyline directly creates, changes, enables, blocks, or escalates conditions in another storyline.
+
+AFTERMATH ENCOUNTER
+A later playable character enters the physical or narrative aftermath of another protagonist's earlier actions, recognizing or discovering the residue without necessarily meeting that protagonist.
+
+COUNTERPOINT
+Two storylines are deliberately juxtaposed to create thematic contrast, moral comparison, or different interpretations of similar circumstances. They need not share a place or direct causal link.
+
+COLLISION
+Two storylines meet through direct conflict, incompatible objectives, or adversarial action. Collision is a hostile or destabilizing form of intersection.
+
+NEAR MISS
+Two protagonists pass close to one another in place, time, or information space without recognizing the significance or making contact. A near miss can be a specialized overlap.
+
+SYNCHRONIZATION POINT
+A major shared event anchors multiple campaigns relative to one another in chronology. The protagonists do not need to interact or be co-located.
+
+Example:
+Crodyn's wartime address is experienced from different locations across campaigns and fixes their relative timeline positions.
+
+SHARED EVENT
+Two or more campaigns experience the same event, but the event may not be strong enough to function as the primary chronological anchor.
+
+BRANCH-DEPENDENT CONVERGENCE
+Storylines converge only if a prior player choice, survival state, optional discovery, or campaign flag is satisfied. The project should preserve the conditional state rather than silently selecting one global branch.
+
+================================================================================
+03. RECOMMENDED HIERARCHY
+================================================================================
+
+Umbrella category:
+STORYLINE RELATIONSHIP / TOUCHPOINT
+
+Spatial or temporal relationship:
+- Overlap
+- Near Miss
+- Synchronization Point
+- Shared Event
+
+Event or structural relationship:
+- Parallelism
+- Counterpoint
+- Causal Linkage
+- Aftermath Encounter
+
+Direct narrative connection:
+- Intersection
+- Handoff
+- Collision
+
+Sustained unification:
+- Convergence
+- Branch-Dependent Convergence
+
+Useful increasing-connection shorthand:
+PARALLELISM -> OVERLAP -> INTERSECTION -> CONVERGENCE
+
+This shorthand is not a strict sequence every storyline must follow. Handoff, collision, causal linkage, counterpoint, and aftermath encounter describe specific shapes that may occur at any stage.
+
+================================================================================
+04. ANNOTATION RULES
+================================================================================
+
+- A single touchpoint may carry more than one classification when each adds distinct information.
+- Prefer the most specific term that explains why the relationship matters.
+- Do not label simple chronology adjacency as an intersection.
+- Do not label co-location as convergence unless the storylines actually unify.
+- Use synchronization point for chronology control, not merely because two missions occur on the same date.
+- Preserve branch conditions explicitly.
+- Record campaign and installment references separately from the relationship term.
+- Physical meeting is neither necessary nor sufficient for intersection.
+
+================================================================================
+05. ONTOLOGY COMPATIBILITY
+================================================================================
+
+The current narrative-structure ontology may continue using stable controlled values including:
+- intersection
+- overlap
+- parallelism
+- shared_event
+- causal_handoff
+- information_handoff
+- branch_dependent_convergence
+
+This prose source expands their definitions and supplies adjacent terms. It does not require stable-ID changes or a chronology rewrite.

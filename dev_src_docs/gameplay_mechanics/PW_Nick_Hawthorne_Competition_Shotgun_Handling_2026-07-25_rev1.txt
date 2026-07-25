@@ -1,0 +1,97 @@
+PROJECT WARRIORS — NICK HAWTHORNE COMPETITION SHOTGUN HANDLING
+Generated: 2026-07-25
+Version: rev1
+Status: CHARACTER-SPECIFIC HANDLING LOCK
+
+CHARACTER
+Nicholas "Nick" Wayne Hawthorne / CROATOAN.
+
+SOURCE
+PW_Thread_Archive_Nick_Hawthorne_Signature_Shotgun_Reload_Animations_2026-07-25.txt
+
+CORRECTION
+"Nick Halforn" in the transcript is a transcription error. Current canon is Nicholas "Nick" Wayne Hawthorne.
+
+PURPOSE
+Give Nick a visible weapon-handling signature grounded in his established professional-marksmanship and practical-shooting background. The animation should read as trained path economy, not flourish.
+
+================================================================================
+01. COMPATIBLE WEAPONS
+================================================================================
+
+The unique animation applies to compatible pump-action shotguns with:
+- a conventional tubular magazine
+- a loading port and ejection port that support the motion
+- capacity for at least four shells in the tube
+- sufficient receiver/forend geometry for a competition-derived quad-load grip
+
+It does not automatically apply to:
+- detachable-box-magazine shotguns
+- semiautomatic shotguns whose action sequence differs materially
+- compact or obstructed receiver layouts that cannot support the hand path
+- weapons whose current damage or obstruction state makes the sequence impossible
+
+================================================================================
+02. EMPTY-RELOAD SEQUENCE
+================================================================================
+
+When the shotgun is empty, Nick:
+1. brings the weapon inward and rolls it so the loading port faces upward and slightly right in first-person view;
+2. opens the action, or begins with it already open after the final shot;
+3. places one emergency shell directly through the ejection port;
+4. drives the fore-end forward, closing the action and chambering that shell;
+5. keeps the weapon inverted and acquires four shells in a competition-derived loading grip;
+6. performs a fast two-plus-two sweep into the magazine tube;
+7. returns the weapon to a firing-ready orientation.
+
+MECHANICAL CORRECTION
+A pump-action shotgun does not "drop the bolt" like a semiautomatic. After the ejection-port load, Nick closes/chambers the action by driving the fore-end forward before loading the tube.
+
+================================================================================
+03. VISUAL CHARACTER
+================================================================================
+
+The sequence should be:
+- fast but legible
+- compact and close to the body
+- practiced rather than frantic
+- free of unnecessary spins or display gestures
+- slightly faster than the baseline compatible-shotgun reload used by less competition-experienced protagonists
+
+The speed comes from prepared shell indexing, consistent weapon roll, minimal hand travel, and confident fore-end control.
+
+================================================================================
+04. PARTIAL RELOADS
+================================================================================
+
+For a non-empty tube, Nick uses a competition-influenced load appropriate to the number of shells needed. He should not force a four-shell flourish when only one or two shells are required.
+
+The persistent mechanical reload-state system controls interruption:
+- inserted shells stay inserted;
+- a chambered emergency shell remains chambered;
+- loose shells may be retained or dropped depending on the interruption;
+- re-equipping resumes from the actual weapon state rather than replaying the full sequence.
+
+================================================================================
+05. CHARACTER EXCLUSIVITY
+================================================================================
+
+This exact animation is currently unique to Nick. Other characters may have competent or character-specific shotgun handling, but they should not share the same competition-derived emergency-shell-plus-quad-load signature by default.
+
+Nick's distinction is not a damage buff. It is a handling advantage expressed through:
+- faster compatible reload time
+- cleaner interruption recovery
+- efficient visual identity
+- consistent practical-shooting posture
+
+================================================================================
+06. PRODUCTION FLAGS
+================================================================================
+
+Open for animation capture / implementation:
+- exact first-person camera roll
+- shell-carrier location and acquisition path
+- left-handed adaptation
+- weapon-specific compatibility list
+- timing difference by injury/fatigue state
+- whether the player may begin firing the chambered emergency shell before completing the tube load under the optional emergency-readiness rule

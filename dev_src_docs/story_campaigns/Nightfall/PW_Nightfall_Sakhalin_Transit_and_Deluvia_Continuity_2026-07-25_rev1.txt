@@ -1,0 +1,117 @@
+PROJECT WARRIORS: NIGHTFALL — SAKHALIN TRANSIT AND DELUVIA CONTINUITY
+Generated: 2026-07-25
+Version: rev1
+Status: WORKING CANON / SOURCE-READY CONTINUITY
+
+CHARACTER
+Denis Nikolaevich Malinin / SAKHALIN.
+
+SOURCE
+Project_Warriors_Nightfall_Damhaven_Thread_Transcript_2026-07-22.txt
+
+RELATIONSHIP TO CURRENT SOURCES
+- The authoritative Cheyenne Mountain mission concept remains PW_Nightfall_Cheyenne_Mountain_Concept_rev4.md and later canon updates.
+- This page lands the recovered introduction order, North American transit, Maine departure, Deluvia/Sazan use, and story-level route-planning details that were not durable in the accessible source layer.
+- Real-world hardened-site details must remain fictionalized. No real access route or exploitable infrastructure claim is intended.
+
+================================================================================
+01. DELUVIA INTRODUCTION ORDER
+================================================================================
+
+Ducky and Lupin meet Soraya Probst in Deluvia before Sakhalin is formally introduced.
+
+Sakhalin is known to Soraya and trusted through Procella/AEGIS-era contacts, but he is not presented as a member of her entourage. He should feel like an independent veteran operator embedded in Deluvia's wider maritime and security ecosystem.
+
+Spook later encounters Sakhalin during a separate local activity after earning deeper trust in Deluvia. Suitable activities include route security, harbor defense, counter-sabotage, vetting a suspicious vessel, checking a submerged access point, or recovering something from a flooded lower level.
+
+The introduction should occur through competent action rather than a briefing-room biography.
+
+================================================================================
+02. SAZAN ISLAND / DUBAI / FINALE RHYTHM
+================================================================================
+
+Working sequence:
+1. Ducky and Lupin meet Soraya in Deluvia.
+2. Spook later reaches Deluvia and meets Sakhalin during a local task.
+3. Sakhalin may accompany Spook on the Sazan Island mission as a maritime, route, island, and old-infrastructure specialist.
+4. Sakhalin declines the Dubai expedition because of a prior deniable commitment elsewhere in Europe.
+5. He returns for the Cheyenne Mountain / NORAD finale, where his route knowledge becomes essential.
+
+Sakhalin does not explain the European obligation in detail. A line such as "I gave my word to someone else" or another restrained equivalent fits him better than an expository explanation.
+
+Keeping him out of Dubai prevents the mission from becoming overcrowded and preserves the impact of his return for the finale.
+
+================================================================================
+03. NORTH AMERICAN TRANSIT AND MAINE DEPARTURE
+================================================================================
+
+Working geographic route:
+Far Eastern Russia -> Alaskan Free State -> lower 48 / post-federal North America -> Maine -> Europe -> Deluvia.
+
+After reaching the Alaskan Free State, Sakhalin performs deniable intelligence, route-verification, contact-validation, maritime, and border-linked work for Federal Loyalist remnants and, where interests overlap, one or more lower-48 territorial blocs or neutral authorities.
+
+He is not ideologically absorbed into any faction. He sees the post-federal United States as a professional outsider and trades competence for movement, information, supplies, and onward access.
+
+Maine is the preferred departure point for his voyage to Europe:
+- cold Atlantic edge
+- small fishing harbors and remote coves
+- fog, weather, and commercial/fishing cover
+- distance from major political centers
+- credible quiet maritime passage without making a major public port the focus
+
+Exact harbor and date remain open.
+
+================================================================================
+04. CHEYENNE MOUNTAIN ROUTE KNOWLEDGE
+================================================================================
+
+Sakhalin's value in the finale comes from inherited Soviet/Russian intelligence assessment plus his own route experience.
+
+The route is a fictionalized old cave/service-adjacent geological approach connected indirectly to a protected underground freshwater-reservoir system. By the Nightfall era it is partially flooded, obstructed, and officially considered impassable.
+
+It is not a known open back door. The team is gambling that "impassable" means impractical for conventional entry, not impossible for a prepared infiltration team.
+
+The defenders regard it as secure because of water, constriction, damage, and obstruction. Sakhalin disagrees with the certainty of that assessment.
+
+================================================================================
+05. ROUTE-CLEARANCE CONTINGENCY
+================================================================================
+
+During planning, Sakhalin brings a compact underwater route-clearance kit because the old records cannot confirm whether later defenders added a submerged grate, mesh, or other barrier.
+
+Story-level contents:
+- waterproof low-light marker / gel lights
+- sealed specialist breaching equipment
+- cutting and prying tools
+- route-marking equipment
+- compact bundle suitable for low-visibility movement
+
+Do not proceduralize charge design, wiring, quantity, or placement. The narrative point is that Sakhalin planned for a blocked underwater route before the team saw it.
+
+Preferred dialogue register:
+Spook asks what the equipment is for. Sakhalin answers that it is insurance in case someone decided a flooded cave still needed a gate. The line should be dry and practical.
+
+================================================================================
+06. CHARACTER FUNCTION
+================================================================================
+
+This continuity gives Sakhalin a coherent Nightfall arc:
+- independent Deluvia professional rather than a convenient briefing attachment
+- useful before the finale without becoming a permanent companion
+- firsthand knowledge of post-federal America
+- credible maritime and harsh-route expertise
+- a pattern of planning for the worst credible version of an approach
+- earned mutual respect with Spook
+
+His presence in the finale should feel inevitable in retrospect, not newly invented for the mission.
+
+================================================================================
+07. OPEN FLAGS
+================================================================================
+
+- exact Deluvia local task where Spook first encounters him
+- final decision on Sazan Island participation
+- identity and nature of the European obligation that keeps him out of Dubai
+- exact Maine departure harbor and transit chronology
+- final dialogue pass
+- route implementation remains subordinate to the authoritative Cheyenne Mountain source and fictionalization guardrail

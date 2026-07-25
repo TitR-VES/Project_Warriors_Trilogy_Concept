@@ -1,0 +1,151 @@
+PROJECT WARRIORS — RECOVERED VISUAL / MECHANICS / LORE ADDENDUM
+Generated: 2026-07-25
+Version: rev1
+Status: CROSS-DOMAIN WORKING-KNOWLEDGE ADDENDUM
+
+PURPOSE
+Provide a compact orientation layer for the July 25 recovered-thread landing without pretending the rev6 monolithic compendia or archival master have been milestone-refreshed.
+
+READ WITH
+- the six rev6 working compendia
+- PW_Canon_Decisions_Lock_2026-07-06_rev1.txt and later canon landings
+- PW_Supplemental_4_Thread_Recovery_Addendum_2026-07-24_rev1.txt
+- PW_Legacy_Thread_Recovery_Addendum_2026-07-24_rev1.txt
+
+SOURCE-FIRST RULE
+The dedicated topic sources listed below control. This addendum is orientation and cross-domain synthesis.
+
+================================================================================
+01. CORE / NARRATIVE STRUCTURE
+================================================================================
+
+PLAYABLE-CHARACTER STORYLINE TAXONOMY
+A durable prose taxonomy now defines:
+- Intersection
+- Overlap
+- Parallelism
+- Convergence
+- Handoff
+- Causal Linkage
+- Aftermath Encounter
+- Counterpoint
+- Collision
+- Near Miss
+- Synchronization Point
+- Shared Event
+- Branch-Dependent Convergence
+
+Key rule: physical proximity alone does not create intersection or convergence. The most specific causal/relational classification should be used, and branch conditions remain explicit.
+
+Source:
+dev_src_docs/canon_lore_source_of_truth/PW_Character_Storyline_Relationship_Taxonomy_2026-07-25_rev1.txt
+
+================================================================================
+02. GAMEPLAY / WEAPONS
+================================================================================
+
+APPROVED MECHANICS
+- Persistent Mechanical Reload State: interrupted weapon actions preserve real state and resume credibly.
+- Shotgun Door Breaching: authored eligible doors, dedicated shells, physical load order, platform/logistics tradeoffs.
+- Dragon's Breath: scarce specialist incendiary load; Chris receives it through Stone partway through The Collapse, while Nick accesses it through NAF supply channels.
+- Acoustic Stealth: suppressor/ammunition/action/impact/movement noise evaluated against each listener's local environmental noise floor.
+- Contextual CQC and Environmental Elimination System: unaware-target takedowns, resisted close engagements, and rare authored environmental eliminations; explicitly approved.
+- Dead-Gunner Drill: rare prone casualty-clearance and weapon-assumption interaction; Romeo/Howler is the primary authored use; explicitly approved.
+
+Source:
+dev_src_docs/gameplay_mechanics/PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+
+Ontology metadata delta:
+dev_src_docs/canon_lore_source_of_truth/ontology/pw_recovered_visual_mechanics_lore_weapon_catalog_rev1.delta.yaml
+
+NICK HAWTHORNE SHOTGUN HANDLING
+Nick receives a unique competition-derived pump-shotgun empty reload: emergency shell through the ejection port, fore-end driven closed to chamber, then a fast two-plus-two/quad-load into the tube. The animation is compatible-platform-limited and character-specific.
+
+Source:
+dev_src_docs/gameplay_mechanics/PW_Nick_Hawthorne_Competition_Shotgun_Handling_2026-07-25_rev1.txt
+
+¡HASTA LA VISTA! FORE-END REVISION
+Only the foregrip arrangement changes. The previous one-piece angled grip/integrated hand stop is replaced by:
+- compact CNC-machined approximately 8-degree rear angled grip
+- separate forward hand stop supporting conventional and partial C-clamp indexing
+All other build and inheritance details remain unchanged.
+
+Source:
+dev_src_docs/weapons_and_equipment/HASTA_LA_VISTA_Fore_End_Revision_2026-07-25_rev1.txt
+
+================================================================================
+03. WORLD / NIGHTFALL
+================================================================================
+
+DELUVIA / DAMHAVEN
+New durable coverage includes:
+- Harbor Council / Harbor Magistrates / Tribunal Council structure
+- existential-threat justice philosophy
+- Ophangingskade as the remote execution district
+- mixed solar, wind, tidal/current, storage, and microgrid power
+- filtered-water buffer and floating wheat installations
+- tugboat diesel emergency generators and finite protected fuel reserve
+- DTT / Damhaven thermische terugwinningsinstallatie / the Fire Pit / de Vuurplaats
+- I [PROPELLER] DAM civic sign
+- restrained Dutch-masters/window environmental joke
+
+Source:
+dev_src_docs/worldbuilding/PW_Deluvia_Damhaven_Civic_Infrastructure_and_Public_Space_2026-07-25_rev1.txt
+
+FREEPORT OF LOS ANGELES
+The former Port of Los Angeles becomes a fortified semi-autonomous Pacific trade/transit colony. It enforces internal factional neutrality, severely prohibits human trafficking, and permits registered adult voluntary sex work under a protection/traceability regime intended to reduce coercion, assault, murder, and disappearance.
+
+Source:
+dev_src_docs/worldbuilding/PW_Freeport_of_Los_Angeles_2026-07-25_rev1.txt
+
+SAKHALIN / NIGHTFALL CONTINUITY
+- Ducky and Lupin meet Soraya before Sakhalin is formally introduced.
+- Spook later meets Sakhalin through a Deluvia local task.
+- Sakhalin may assist on Sazan Island, declines Dubai due to another commitment, and returns for the Cheyenne Mountain finale.
+- His route to Europe runs Far Eastern Russia -> Alaskan Free State -> lower 48 -> Maine -> Europe -> Deluvia.
+- He has deniable post-federal intelligence/route experience and brings story-level underwater route-clearance contingency planning.
+
+Source:
+dev_src_docs/story_campaigns/Nightfall/PW_Nightfall_Sakhalin_Transit_and_Deluvia_Continuity_2026-07-25_rev1.txt
+
+================================================================================
+04. AUDIO / PROMOTION / BRANDING
+================================================================================
+
+DIEGETIC MUSIC
+"Sunroof" by Nick Youre & dazy is a locked placement-intent candidate for the Rhino 6 armored-truck job with Chris and Frank immediately before the ambush. It plays at moderate radio volume under conversation and is broken by the attack rather than used as a scored editorial cue. Licensing remains required.
+
+Source:
+dev_src_docs/audio/PW_Diegetic_Music_Placement_Network_2026-07-25_rev2.txt
+
+RIPTIDE RED TEASER / KEY ART
+- campaign title stands alone as RIPTIDE RED
+- closing line: THE LIE STARTED LONG BEFORE THE WAR.
+- preferred track candidate: "Adolescents" by Incubus, licensing-dependent
+- mystery-first intelligence-thriller structure, restrained sound/dialogue, international/institutional imagery
+- key art uses layered reflection/evidence/architecture and a dark-red accent without HUD or action-hero posing
+
+Source:
+dev_src_docs/promotion/PW_RIPTIDE_RED_Game1_Teaser_and_Key_Art_2026-07-25_rev1.txt
+
+TITR / SERIES LOGOS
+- studio name: Tears in the Rain, abbreviation TITR
+- thematic reference is acknowledged but does not imply affiliation or visual imitation
+- Project Warriors clean logo family uses common distressed silver-gray wordmark, stars, bars, chevrons, transparent masters
+- II = gold numeral; III = red numeral; IV = glossy near-black dark navy numeral
+- actual PNG assets are already repository-landed under media/images/brands-and-logos/minotaur-steakhouse/
+
+Source:
+dev_src_docs/branding/PW_TITR_Studio_and_Project_Warriors_Logo_Family_2026-07-25_rev1.txt
+
+================================================================================
+05. GOVERNANCE / SUPERSESSION
+================================================================================
+
+- The bundled July 6 canon-lock duplicate is recovery evidence only. Its open/provisional items were later resolved on main and must not be reintroduced.
+- Duplicate/overlapping gameplay archives were reconciled into one source; the reconstructed opening in one archive is not treated as verbatim evidence where the full companion archive exists.
+- The Danish Frogmen image-request archive is intentionally not promoted because it contains no Project Warriors lore, canon, or design outcome.
+- Raw chat transcripts are not repository-landed. The manifest records hashes and landing decisions.
+- Existing Cheyenne Mountain rev4 mission authority remains controlling; the new Sakhalin page adds continuity and fictionalized route-planning context only.
+- Existing HASTA_LA_VISTA_Build_Spec_rev1.txt remains authoritative for unaffected fields; the July 25 fore-end amendment controls the grip arrangement.
+- Commercial music and generated visual previews remain licensing/selection-dependent.

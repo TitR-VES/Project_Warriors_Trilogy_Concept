@@ -1,0 +1,304 @@
+PROJECT WARRIORS — GAMEPLAY MECHANICS REFINEMENT LANDING
+Generated: 2026-07-25
+Version: rev1
+Status: APPROVED DESIGN SOURCE
+
+PURPOSE
+Land the approved July 25 gameplay-mechanics refinements as one durable source-first design page. This source supplements the existing Gameplay Mechanics Overview, UI Prompt System Design, weapon-economy sources, and first-person animation reference standard.
+
+SOURCE TRANSCRIPTS
+- Project_Warriors_Gameplay_Mechanics_Thread_Archive_2026-07-25-1.txt
+- Project_Warriors_Gameplay_Mechanics_Thread_Archive_2026-07-25-3.txt
+
+AUTHORITY / SUPERSESSION
+- Later explicit owner approvals in the source transcripts control.
+- Current character names, ranks, campaign titles, weapon builds, and source lifecycle rules control over transcript-era slips.
+- "PBS-1 silent pistol" is treated as a transcription error for the source-backed PSS-2 captive-piston pistol.
+- Stone belongs to Chris Haywood's The Collapse campaign. Nick Hawthorne's Dragon's Breath access comes through NAF channels, not Stone.
+
+================================================================================
+01. PERSISTENT MECHANICAL RELOAD STATE
+================================================================================
+
+LOCK
+Interrupted reloads preserve the weapon's actual physical and mechanical condition. The system resumes from the nearest credible recovery action; it does not restart a canned reload from frame one and does not silently restore a ready weapon.
+
+TRACKED STATE EXAMPLES
+- magazine present, released, removed, retained, dropped, or partially seated
+- replacement magazine acquired or not acquired
+- chambered-round state
+- action open, closed, locked, or requiring charging
+- individual shells already inserted into a tube or cylinder
+- belt or box state on support weapons
+- bolt position and remaining loose ammunition on bolt-action weapons
+- underbarrel or auxiliary weapon state
+
+INTERRUPTION RULE
+Before a physical state change, the player may cancel cleanly. After a physical state change, the resulting state persists through sprinting, climbing, weapon switching, injury reactions, melee, or other interruptions.
+
+Re-equipping the weapon triggers an authored recovery animation appropriate to the stored state. A hurried interruption may leave a magazine on the ground; a deliberate switch may allow the character to retain it. Completed actions are never repeated merely for animation continuity.
+
+UI
+Keep the interface restrained:
+- incomplete-action icon or weapon-state silhouette where needed
+- COMPLETE RELOAD or equivalent contextual prompt only when the weapon cannot be used
+- strong mechanical audio and animation readability
+- no full-screen progress bar
+
+NPC PARITY
+Allied and enemy NPCs should obey the same persistence logic where simulation scope permits. An NPC interrupted after removing a magazine should not instantly return with a fully ready weapon.
+
+================================================================================
+02. SHOTGUN DOOR BREACHING
+================================================================================
+
+LOCK
+Dedicated breaching shells and suitable short-barreled shotguns can defeat authored eligible doors. Breaching is a loadout, ammunition-order, geometry, and logistics decision rather than a universal door-delete action.
+
+ELIGIBLE TARGETS
+- ordinary interior doors and conventional locksets
+- selected light commercial doors
+- some padlocked gates or shutters
+- already damaged doors and authored access panels
+
+INELIGIBLE TARGETS
+- blast or vault doors
+- heavy hatches and multipoint security doors
+- barred, chained, or strongly barricaded doors
+- selected electrically held or puzzle-critical doors
+- any surface whose construction makes the shot implausible
+
+SEQUENCE
+The player or squad breacher engages the lock or hinge region with the correct shell, then kicks, shoulders, pulls, or otherwise opens the compromised door. Doors do not explode theatrically. The breach produces a strong directional sound cue and only a short surprise window.
+
+COMMANDS / PROMPTS
+- BREACH — SHOTGUN
+- ORDER BREACH
+- STACK
+- HOLD
+- BREACH AND CLEAR
+
+PLATFORM TRADEOFFS
+MasterKey-style underbarrel breacher:
+- quick transition and remains attached to the primary
+- adds weight and handling cost
+- limited ammunition and less independent control
+
+Standalone compact shotgun:
+- better control and emergency combat utility
+- costs a weapon slot and takes longer to transition to
+
+AMMUNITION ORDER
+Breaching shells are physically loaded and retain their true place in the weapon's sequence. Example: BREACH / BUCK / SLUG / DB. There is no instant ammunition toggle. The HUD may identify the next shell without reordering the tube.
+
+LOGISTICS
+- Ducky / DAOG: planned issue through AEGIS, CORYS, SHIELD, or allied logistics
+- Romeo: U.S. military access in Game 1; later resistance access depends on caches, allied handoffs, captured stores, British support, or mission preparation
+- Spook: agency, mission-support, or off-book preparation
+- Nick Hawthorne: NAF supply channels and associated procurement
+- Chris Haywood: sourced, captured, bartered, or acquired through Stone
+
+================================================================================
+03. DRAGON'S BREATH / DB AVAILABILITY
+================================================================================
+
+LOCK
+12-gauge Dragon's Breath, abbreviated DB, is a scarce incendiary specialist load. It is not superior buckshot and does not replace dedicated breaching ammunition.
+
+DESIGN ROLE
+- force enemies from combustible cover
+- create brief local area denial
+- ignite vulnerable authored materials
+- disrupt poorly disciplined attackers
+- introduce severe visibility, collateral, structure, and fire-propagation risk
+
+LIMITS
+- bright signature and obvious origin
+- poor choice around civilians, allies, fuel, supplies, vehicles, or fragile structures
+- limited value against protected enemies and autonomous systems
+- campaign- and mission-dependent fire support
+- scarcity and high acquisition cost
+
+CHRIS HAYWOOD / THE COLLAPSE
+Stone introduces DB partway through The Collapse as dangerous black-market specialist ammunition. Initial access is a small quantity or repacked box; later availability remains intermittent and expensive. Chris may use it in ¡HASTA LA VISTA! when the shell is actually present in the weapon's tracked load order.
+
+NICK HAWTHORNE / WAR WITHIN
+Nick may obtain DB through NAF quartermasters, captured or diverted stores, sympathetic military/police contacts, donor networks, or other organized NAF procurement. His access can be more repeatable than Chris's, while remaining constrained by campaign logistics.
+
+DISTINCTION
+Chris receives DB as dangerous contraband through Stone. Nick receives it as a scarce but deliberately procured NAF tactical resource.
+
+================================================================================
+04. ACOUSTIC STEALTH SYSTEM
+================================================================================
+
+LOCK
+Suppressors, ammunition, action noise, player movement, impact noise, and the local environmental noise floor are evaluated as one acoustic stealth system.
+
+SUPPRESSOR RULE
+Suppressors reduce muzzle blast and flash. They do not make ordinary firearms silent. Supersonic ammunition retains a ballistic crack; subsonic ammunition removes that crack but not action, impact, casing, target, or environmental noise.
+
+LOW-SIGNATURE HIERARCHY
+- PSS-2 and OTs-38: extremely low-signature specialist weapons
+- MP5SD: integrated suppression and ammunition management create a notably low report, but action and impact remain audible
+- suppressed MK23: especially quiet when a supported slide-lock state prevents cycling; slower follow-up and manual action are the tradeoff
+- GRAY GHOST: very low signature with subsonic .300 BLK, but never inaudible
+- NOTHING: highly subdued with its appropriate suppressed load, but cycling, cases, impacts, target collapse, and protection limits remain meaningful
+
+AMBIENT NOISE FLOOR
+Each area has authored and dynamically modified local noise:
+- traffic, rain, wind, surf, crowds, music
+- generators, ventilation, machinery, trains, aircraft
+- alarms, sirens, nearby combat, loudspeaker announcements
+
+Noise is spatial, directional, occluded, frequency-dependent, continuous or transient, and variable over time. The same event may be masked for one listener and clear to another.
+
+PER-LISTENER EVALUATION
+Conceptually:
+propagated event signature minus local environmental masking equals perceived anomaly.
+
+AWARENESS LADDER
+- below recognition: no response
+- barely perceptible: pause, turn, or glance
+- suspicious: investigate or quietly alert a nearby ally
+- identified threat: recognize hostile gunfire or action
+- localized threat: estimate direction or shooter position
+
+Higher-tier enemies are better at interpreting weak signals, not supernaturally better at hearing.
+
+TRANSIENT MASKING WINDOWS
+Passing trucks, thunder, aircraft, trains, artillery, machinery cycles, or announcements can briefly mask movement, glass breakage, weapon cycling, or a shot. The player reads and times the environment naturally; maximum realism has no rhythm-game prompt.
+
+PLAYER NOISE
+Movement signature depends on speed, stance, surface, water/mud/snow/debris, loose gear, weapon size, doors, vaulting, climbing, injury, collisions, and local masking. Crouching is not magical silence.
+
+FEEDBACK
+Standard difficulty may use restrained SELF and WORLD indicators. They compare player output to local masking but never guarantee success. Maximum realism relies on audio and observation. Accessibility options may expose the comparison more clearly.
+
+CONSEQUENCE RULE
+A quiet discharge does not guarantee a quiet elimination. Armor strikes, misses, hard surfaces, vocalization, falling bodies, dropped weapons, visible bodies, and accumulated anomalies remain separate detection events.
+
+================================================================================
+05. CONTEXTUAL CQC AND ENVIRONMENTAL ELIMINATION SYSTEM
+================================================================================
+
+STATUS
+Explicitly owner-approved in the transcript.
+
+LOCK
+First-person CQC is divided into three states:
+1. unaware-target takedown
+2. resisted close engagement
+3. authored environmental elimination
+
+UNAWARE TARGET
+A deliberate prompt appears only from valid position/angle and below the target's active-alert threshold. The takedown is functionally silent only when the player controls vocalization, gear, impact, and body placement.
+
+BODY-CONTROL TRANSITION
+A successful takedown can flow directly into:
+- controlled lowering
+- dragging
+- retention-lanyard attachment
+- direct concealment in a nearby valid space
+- release in the current position
+
+The player does not need to finish an animation and then perform a separate full pickup merely to begin relocation.
+
+LETHAL / RESTRAINED OUTCOMES
+Where mission context supports capture, a subdual or restraint option may replace the lethal finish. The game must not imply every close-range interaction is automatically fatal.
+
+AWARE TARGET
+An aware opponent triggers a short branching multi-prompt engagement. Difficulty depends on enemy tier, player condition, positioning, weapon retention, surprise, and available space. Failure branches into disadvantage, injury, disarm, separation, or forced disengagement rather than always producing instant death.
+
+ENVIRONMENTAL ELIMINATIONS
+Rare, location-bound authored opportunities may use credible geometry or sabotage. They are not universal sandbox recipes and must retain noise, evidence, collateral, missing-person, and detection consequences. High-consequence sabotage remains story-level and authored rather than freely procedural.
+
+CHARACTER IDENTITY
+- Romeo: direct, forceful, soldierly; prompts such as HIT, PUSH, TAKE HIM, MOVE HIM
+- Ducky: controlled and methodical; knife remains a field tool first
+- Spook: clinical, efficient, evidence-conscious; NEUTRALIZE, SECURE, DISPOSE
+- Frost: detached and final; DISPATCH remains the defining prompt
+- Lupin: aggressive, protective, urgent
+- La Avispa: widest credible positional options, shortest elimination-to-concealment transition, and strongest geometry reading; no artificial melee-damage bonus
+
+RESTRAINT RULES
+- no score bonuses for gore
+- no long spectacle-first execution catalog
+- no universal animation invulnerability
+- no superhero kill chains
+- no instant-kill button against aware targets
+- no repeated environmental puzzle gimmick
+- knives are not quiet magic
+
+================================================================================
+06. DEAD-GUNNER DRILL / PRONE GUNNER-REPLACEMENT INTERACTION
+================================================================================
+
+STATUS
+Explicitly owner-approved in the transcript.
+
+INTERNAL NAME
+Dead-Gunner Drill.
+
+LOCK
+A rare contextual prone interaction allows the player to clear an incapacitated allied or hostile gunner and immediately assume control of a deployed machine gun or bipod-supported automatic weapon without standing.
+
+PRIMARY AUTHORED USE
+Romeo reaches an incapacitated Howler while Howler is operating a support weapon. From a valid prone position beside him, the prompt appears:
+RELIEVE GUNNER
+
+Romeo pulls Howler laterally or rearward by the drag handle or equipment, clears the firing controls and recoil path, and slides into the weapon position. Another squadmate can then treat or move Howler while Romeo restores covering fire.
+
+TRIGGER GEOMETRY
+- player prone or entering prone
+- gunner incapacitated
+- weapon deployed and usable
+- player beside, not in front of, the muzzle
+- approximately parallel alignment
+- enough ground space to move the casualty
+- no blocking object
+- weapon not destroyed or overturned
+
+Lower difficulties may allow modest alignment correction. Maximum realism requires correct positioning.
+
+WEAPON-STATE CONTINUITY
+The replacement inherits exactly what the previous gunner left:
+- remaining belt, box, or magazine ammunition
+- chamber/action state and stoppages
+- barrel heat
+- damage and sight condition
+- existing orientation and traverse/elevation limits
+- ammunition feed and mount state
+
+No free reload, cooling, repair, arc reset, or ammunition grant occurs.
+
+MOUNT TYPES
+Tripod/fixed gun: fastest takeover; limited by the existing arc and exposed position.
+Bipod-supported weapon: slower; may require clearing sling/limbs and re-settling the stock/bipod. Where geometry does not support direct takeover, the interaction may only CLEAR CASUALTY and leave the weapon for manual pickup.
+
+VULNERABILITY
+No animation invulnerability. Fire can wound the player, interrupt movement, damage the weapon, or force abandonment. Cancellation preserves the resulting partial physical state rather than resetting everyone.
+
+MEDICAL TRANSITION
+Clearing an allied gunner produces a readable state such as HOWLER — ACCESSIBLE FOR TREATMENT. The player cannot operate the gun and treat the casualty simultaneously.
+
+HOSTILE GUNNER
+The prompt becomes CLEAR GUNNER. Moving a living incapacitated enemy does not silently kill them; they may recover, call out, resist, or require restraint. The captured emplacement may already be watched, damaged, trapped, or targeted by its former owners.
+
+RARITY
+Use only in authored defensive positions, desperate holds, fortified-site attacks, temporary nests, or emergent situations where casualty position, deployed weapon, and geometry genuinely align.
+
+================================================================================
+07. IMPLEMENTATION / SOURCE BOUNDARY
+================================================================================
+
+This page controls approved design direction. It does not finalize:
+- exact animation durations
+- complete door eligibility list per level
+- full fire-propagation support matrix
+- final AI acoustic coefficients
+- final CQC prompt strings per character and mission
+- final injury/CASEVAC implementation
+- final NPC simulation budget
+
+Those fields remain production or dedicated-system work.

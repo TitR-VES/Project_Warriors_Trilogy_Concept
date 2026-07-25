@@ -1,0 +1,86 @@
+PROJECT WARRIORS — ¡HASTA LA VISTA! FORE-END REVISION
+Generated: 2026-07-25
+Version: rev1
+Status: CANON VISUAL / CONFIGURATION AMENDMENT
+
+APPLIES TO
+dev_src_docs/weapons_and_equipment/HASTA_LA_VISTA_Build_Spec_rev1.txt
+
+SOURCE
+Project_Warriors_Thread_Archive_Hasta_La_Vista_Foregrip_Revision_2026-07-25.txt
+
+AUTHORITY
+This amendment supersedes only the foregrip arrangement in the earlier build specification. Every other locked platform, attachment, provenance, marking, ammunition, gameplay, and presentation detail remains in force unless a later dedicated source changes it.
+
+REFERENCE PROVENANCE
+The originating thread included three owner-supplied visual-reference photographs. Their archive identifiers were:
+- file_00000000c63881f4a9471ce3557f9fc1
+- file_00000000fb7081f4942f0acdf37f3183
+- file_00000000dfec81f48661ad56a9f5255a
+
+The photographs are not embedded in the transcript ZIP. This page preserves the approved textual interpretation. Any later media landing should retain these identifiers in its provenance note.
+
+================================================================================
+01. SUPERSEDED CONFIGURATION
+================================================================================
+
+Remove the earlier single longer M-LOK angled foregrip with an integrated rear hand stop.
+
+In the rev1 build spec, the affected description is the black AFG-style aluminum angled low-profile foregrip with integrated rear hand stop mounted along the bottom of the shortened forend.
+
+================================================================================
+02. CANON REPLACEMENT
+================================================================================
+
+The shortened pump/forend now carries two separate components:
+
+A. REAR ANGLED GRIP
+- compact CNC-machined aluminum grip
+- approximately 8-degree angle
+- mounted on the rear portion of the shortened M-LOK forend, closer to the shooter
+- near-vertical visual read with a slight rearward cant
+- optimized for positive pump manipulation and stable shouldered control
+
+B. FORWARD HAND STOP
+- separate compact hand stop
+- mounted farther forward on the underside of the shortened forend
+- positioned to index between or against the support-hand index and middle fingers during a conventional or partial C-clamp-style hold
+- provides forward retention and repeatable hand placement during cycling
+
+The hand stop is not integrated into the rear grip.
+
+================================================================================
+03. HANDLING FUNCTION
+================================================================================
+
+REAR-GRIP HOLD
+Chris wraps the support hand around the compact 8-degree grip. This gives strong leverage for pump manipulation, stable aiming, and positive control during rapid follow-up shots.
+
+PARTIAL C-CLAMP HOLD
+Chris may grip the shortened forend more conventionally and use the separate forward hand stop as an indexing/retention point. This improves access to the already established momentary and constant-on light controls positioned along the upper/fixed handguard area.
+
+The two-component arrangement supports quicker re-indexing and better switch access than the previous one-piece angled foregrip while preserving the shotgun's compact visual identity.
+
+================================================================================
+04. CONTINUITY PRESERVED
+================================================================================
+
+Unchanged:
+- DynaCal 870 Tac-14 TACS II Custom platform
+- 12-gauge, 4+1, pump-action configuration
+- Half-Tan finish and color distribution
+- stock, pistol grip, shortened forend, handguard, and upper-handle structure
+- XpertMark XPM-5 RAGE / RAGE C1 optic
+- folding iron sights
+- SureFire light and existing switching logic
+- sling and QD arrangement except where a later physical-replica test resolves the open front-QD position
+- receiver markings and handwritten ¡HASTA LA VISTA! inscription
+- Frank Manola origin and posthumous handoff to Chris through Troy "Stone" Barry
+- Stone's later weapons, ordnance, ammunition, and special-ammunition procurement role
+- ammunition compatibility and all other gameplay/narrative properties
+
+================================================================================
+05. SOURCE / REGISTRY RULE
+================================================================================
+
+For exact fore-end depiction, this amendment controls over HASTA_LA_VISTA_Build_Spec_rev1.txt. The original build spec remains authoritative for all unaffected fields. Future full-spec refreshes should fold this amendment into a clean rev2 rather than retaining two conflicting grip descriptions.
