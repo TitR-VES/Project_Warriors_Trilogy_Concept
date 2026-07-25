@@ -1,0 +1,224 @@
+PROJECT WARRIORS: NIGHTFALL — DELUVIA / DAMHAVEN CIVIC SYSTEMS
+Generated: 2026-07-25
+Version: rev1
+Status: WORKING CANON / SOURCE-READY WORLDBUILDING
+
+SOURCE
+Project_Warriors_Nightfall_Damhaven_Thread_Transcript_2026-07-22.txt
+
+SCOPE
+Land the recovered civic-law, infrastructure, public-space, and environmental-storytelling material for Deluvia / Damhaven. This page supplements the earlier hazardous-trade rule and Long Shadows note. It does not close the still-live full Nightfall campaign, nuclear-geography, or character-status workstreams.
+
+================================================================================
+01. CIVIC PREMISE
+================================================================================
+
+Deluvia is permissive in trade and personal conduct but severe about threats to collective survival. Its residents do not see a contradiction between broad freedom and narrow, ruthlessly enforced existential rules.
+
+Core principle:
+Freedom in Deluvia exists because certain acts are treated as attacks on the continued existence of the city.
+
+Protected interests include:
+- physical integrity of the Damhaven structure
+- digital/control-system integrity
+- water, power, heat, food, and buoyancy systems
+- freedom from human trafficking and coercive ownership
+- internal security against treason, sabotage, murder, and deliberate catastrophic endangerment
+- the platform city's ability to remain a neutral commercial and refuge space
+
+================================================================================
+02. GOVERNING LEGAL STRUCTURE
+================================================================================
+
+HARBOR COUNCIL
+The principal civic/executive leadership body. It sets high-level rules, emergency restrictions, trade controls, and collective-security policy.
+
+HARBOR MAGISTRATES
+Handle ordinary criminal, civil, commercial, and port disputes. Their authority is practical and records-driven rather than ceremonial.
+
+TRIBUNAL COUNCIL
+Convenes for the gravest cases, especially treason, human trafficking, murder, deliberate sabotage, or actions that knowingly endanger Damhaven's population, freedom, or physical/electronic integrity.
+
+Capital punishment is rare and reserved for the most severe proven offenses. Deluvia's justice system should feel harsh, procedural, and survival-oriented rather than sadistic or arbitrary.
+
+================================================================================
+03. OPHANGINGSKADE
+================================================================================
+
+NAME
+Ophangingskade — "Hanging Quay."
+
+LOCATION
+Remote northwestern industrial edge of Damhaven. Sparse, wind-beaten, and largely uninhabited outside guards, maintenance personnel, officials, and occasional spectators.
+
+FUNCTION
+The district contains the facilities used for the rare administration of capital sentences:
+- a harbor-crane hanging site associated especially with trafficking and predatory offenses
+- a separate open firing-squad structure with a substantial backstop, associated especially with treason, armed sabotage, security betrayal, and attacks on critical infrastructure
+
+PUNISHMENT PHILOSOPHY
+Deluvia does not celebrate execution as civic entertainment, but it does not hide sovereign punishment. The remote location keeps it out of ordinary public life while preserving its function as a visible boundary of the social order.
+
+The source thread establishes that bodies from major public hanging sentences may remain displayed for twenty-four hours before disposal at sea, with denial of burial treated as part of the sentence. Use this detail sparingly. It is a worldbuilding marker of Deluvia's severity, not a repeated spectacle or collectible set piece.
+
+================================================================================
+04. POWER SYSTEM
+================================================================================
+
+Damhaven uses a redundant mixed-energy ecology rather than one miracle source.
+
+PRIMARY / ROUTINE GENERATION
+- extensive solar-panel fields across sun-exposed upper surfaces
+- multiple wind-turbine installations integrated into upper decks and exposed edges
+- tidal/current generation where local marine conditions support it
+- distributed battery/storage systems and local microgrids
+- prioritized load shedding for critical systems during shortages
+
+The visible result is an engineered survival city: cables, inverters, maintenance catwalks, replacement panels, patched turbine housings, and constant repair activity.
+
+RELIABILITY RULE
+No source is perfectly reliable. Weather, salt, corrosion, battle damage, seasonal demand, and spare-part scarcity require redundancy and disciplined energy accounting.
+
+================================================================================
+05. WATER AND FLOATING AGRICULTURE
+================================================================================
+
+Damhaven's freshwater system includes a small isolated near-shore/off-platform tank installation holding filtered water. The stored volume is gradually replaced and cycled rather than treated as an untouched reserve.
+
+Functions:
+- emergency buffer against treatment or intake disruption
+- physical separation from the main platform's contamination risks
+- visible proof that water security is a permanent civic concern
+
+Floating or semi-floating wheat-growing installations supplement food supply. They should read as expensive, limited, engineered production rather than utopian self-sufficiency.
+
+The city still depends on trade. Local agriculture improves resilience and reduces immediate famine risk; it does not eliminate import dependence.
+
+================================================================================
+06. EMERGENCY BACKUP POWER
+================================================================================
+
+Several modified decommissioned tugboats are permanently anchored near the core and wired into Damhaven as diesel backup generators.
+
+Visual identity:
+- old workboats converted into emergency power stations
+- heavy cable runs and shore connections
+- maintenance scaffolds and exhaust stacks
+- engines kept serviceable for rare full-grid emergencies
+
+Fuel is finite. A large underwater or submerged-protected concrete storage silo holds a meaningful diesel reserve, but the city cannot run indefinitely on it.
+
+Narrative rule:
+Once the tugboat generators start, every hour matters. Fuel accounting becomes crisis-command pressure rather than a magic fallback.
+
+================================================================================
+07. HEAT / WASTE SYSTEM
+================================================================================
+
+OFFICIAL ENGLISH NAME
+Damhaven Thermal Recovery Plant
+
+OFFICIAL DUTCH NAME
+Damhaven thermische terugwinningsinstallatie
+
+ABBREVIATION
+DTT
+
+COLLOQUIAL NAMES
+- the Fire Pit
+- de Vuurplaats
+
+The DTT is a reinforced lower-level waste-to-heat incinerator operated as critical infrastructure. It burns sorted general refuse to produce usable heat for:
+- winter district heating
+- communal cooking infrastructure
+- workshops and drying rooms
+- sanitation support
+- emergency shelters
+
+The plant is not environmentally clean. Its large smokestack is one of Damhaven's most visible industrial scars. That ugliness is accepted because the plant reduces solid-waste buildup, limits overboard dumping, lowers electric-heating demand, and keeps the city habitable in cold conditions.
+
+Wastewater and human waste are handled through separate rudimentary treatment and controlled-discharge systems. Limited sanitary solids may enter the incineration stream where appropriate, but general refuse is the primary feedstock.
+
+================================================================================
+08. PUBLIC-SPACE PHILOSOPHY
+================================================================================
+
+Damhaven's accessible public areas should combine:
+- inherited maritime-industrial structure
+- improvised additions and repairs
+- multilingual civic markings
+- resident humor and irreverence
+- memorial restraint
+- practical landmarks that double as navigation and meeting points
+
+Public space should prove that Deluvia is a lived city, not only a strategic platform or criminal market.
+
+================================================================================
+09. I [PROPELLER] DAMHAVEN CIVIC SIGN
+================================================================================
+
+COMMON NAME
+The Damhaven sign / the propeller sign.
+
+CONCEPT
+A public sculpture echoes the real-world tourist-sign grammar of Amsterdam while becoming its own Deluvian object.
+
+Reading:
+I [SHIP PROPELLER] DAM
+
+The surviving/reconstructed letters and inserted propeller visually imply "I love Damhaven" without using a heart.
+
+PREFERRED CONSTRUCTION
+- large freestanding I
+- full-scale salvaged ship propeller in the heart position
+- surviving or reconstructed letters DAM
+- robust materials suitable for salt, wind, climbing, photographs, and repeated repair
+
+COLOR / FINISH
+- letters may be white or blue
+- propeller may be gold, brass, bronze, or silver-toned
+- visible wear, patching, and repainting are desirable
+
+FUNCTION
+- public meeting point
+- player navigation landmark
+- tourist/resident photo spot
+- civic joke and genuine affection at once
+- visual statement that Damhaven's identity comes from maritime salvage and adaptation
+
+Avoid presenting it as pristine corporate placemaking. It should feel adopted by residents.
+
+================================================================================
+10. DUTCH-MASTERS WINDOW EASTER EGG
+================================================================================
+
+A small environmental joke references the recurring art-historical motif of street/window scenes and the irreverent reality of dense civic life.
+
+Best use:
+A discreet upper-window incident or aftermath detail that players may notice while moving through a public lane. It should be brief, non-interactive, and not framed as a mission objective.
+
+The humor should feel local, rude, and plausible rather than become a repeated gross-out gag. No collectible or explanatory dialogue is required.
+
+================================================================================
+11. CONTINUITY / RESTRAINT RULES
+================================================================================
+
+- Do not turn Damhaven into a clean eco-utopia.
+- Do not turn it into an anything-goes pirate market; existential hazards and coercive ownership are tightly governed.
+- Infrastructure should show maintenance burden and finite reserves.
+- Ophangingskade is singular and remote, not a recurring execution attraction.
+- Public landmarks should humanize the city and support navigation.
+- The city remains dependent on trade, engineering labor, and political compromise.
+- Later dedicated governance, infrastructure, and visual-layout pages may split this source, but must preserve these decisions.
+
+================================================================================
+12. OPEN FLAGS
+================================================================================
+
+- final Harbor Council / magistrate membership and appointment process
+- exact evidentiary and appeal procedure
+- final map placement of Ophangingskade, DTT, water tank, farms, tugboats, and propeller sign
+- exact generation/storage capacity and population demand
+- final Dutch-language copy edit
+- final public-landmark plaque language
+- final environmental implementation of the window Easter egg

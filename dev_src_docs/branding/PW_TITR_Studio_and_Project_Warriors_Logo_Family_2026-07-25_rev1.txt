@@ -1,0 +1,149 @@
+PROJECT WARRIORS — TITR STUDIO IDENTITY AND SERIES LOGO FAMILY
+Generated: 2026-07-25
+Version: rev1
+Status: BRAND / VISUAL IDENTITY SOURCE
+
+PURPOSE
+Land the recovered studio-name rationale and the current Project Warriors I–IV logo-family rules as durable source guidance. This page governs identity and presentation; the repository-landed PNGs remain visual reference assets rather than substitutes for the written rules.
+
+SOURCE TRANSCRIPTS
+- PW_Thread_Archive_Tears_in_the_Rain_TITR_2026-07-24-1.txt
+- Project_Warriors_Logo_Design_Thread_Archive_2026-07-24-1.txt
+- Project_Warriors_IV_Logo_Thread_Archive_2026-07-25.txt
+
+CURRENT LOGO ASSETS
+- media/images/brands-and-logos/minotaur-steakhouse/project-warriors-logo-2.png
+- media/images/brands-and-logos/minotaur-steakhouse/project-warriors-ii-logo-2.png
+- media/images/brands-and-logos/minotaur-steakhouse/project-warriors-iii-logo.png
+- media/images/brands-and-logos/minotaur-steakhouse/project-warriors-iv-logo.png
+
+The existing folder name is historical/media organization only and does not redefine the brand.
+
+================================================================================
+01. STUDIO NAME
+================================================================================
+
+NAME
+Tears in the Rain
+
+ABBREVIATION
+TITR
+
+STATUS
+Locked studio-name direction.
+
+REFERENCE
+The name is a deliberate reference to the closing phrase of Roy Batty's final monologue in Blade Runner (1982).
+
+RATIONALE
+The reference is used because it aligns with the project's intended emotional register:
+- human-scale witness inside events of overwhelming size
+- fleeting moments whose meaning may be understood only later
+- beauty, violence, memory, distance, and loss existing together
+- extraordinary images grounded through vulnerable, specific people
+- war presented as more than combat or spectacle
+
+The player repeatedly sees events that no one protagonist can fully contain: aircraft overhead, distant fires, amphibious landings, broken cities, ordinary spaces changing in seconds, and people making irreversible choices inside those events. The studio name frames a creative interest in preserving those moments through interactive narrative.
+
+The name is not intended to promise imitation of Blade Runner's visual style or story. It is an acknowledged thematic reference, not a franchise or licensing affiliation.
+
+================================================================================
+02. INTERNAL USAGE GUIDANCE
+================================================================================
+
+Use Tears in the Rain / TITR in:
+- studio identity and design documentation
+- internal philosophy / values pages
+- presentation decks and pitch material
+- studio splash and logo-system development
+- outward-facing "why the name" explanations where the reference is properly attributed
+
+Tone:
+- controlled and sincere
+- human-centered
+- not self-mythologizing
+- no claim that the project will reproduce the cultural status of the referenced film
+- no excessive quotation from the film
+
+NATO phonetic reading:
+Tango India Tango Romeo may be used informally or as an internal mnemonic. It is not a separate expansion of the studio name.
+
+================================================================================
+03. EXTERNAL-FACING GUIDANCE
+================================================================================
+
+Preferred explanation:
+Tears in the Rain was selected because the studio is interested in human stories set inside events too large for any one person to understand completely. The Blade Runner reference is acknowledged openly, but the focus should remain on the studio's own creative philosophy: fleeting witness, memory, consequence, and the dignity of individual experience.
+
+Avoid:
+- presenting the name as an official Blade Runner association
+- using long direct quotations from the film
+- treating the reference as a novelty or fan-brand gimmick
+- implying that every TITR project must share Project Warriors' military setting
+
+================================================================================
+04. PROJECT WARRIORS LOGO FAMILY — COMMON SYSTEM
+================================================================================
+
+All numbered-installment logos share one family:
+- uppercase PROJECT above larger WARRIORS
+- bold condensed military/industrial display lettering
+- distressed silver-gray metallic surface for the common wordmark
+- centered row of three stars
+- restrained horizontal side bars
+- double-chevron emblem below
+- no skull, wings, rifles, flag coloring, or other large emblematic backdrop in the current clean wordmark version
+- transparent alpha background
+- separate standalone files with consistent canvas, scale, margins, and optical centering
+- the installment numeral is the principal color distinction
+
+The logos should look like successive members of one series, not four unrelated redesigns.
+
+================================================================================
+05. INSTALLMENT DIFFERENTIATION
+================================================================================
+
+PROJECT WARRIORS I
+- base silver-gray distressed metallic treatment
+- numeral may remain integrated into the neutral family finish
+- establishes the unaccented baseline
+
+PROJECT WARRIORS II
+- Roman numeral II in gold
+- the rest of the logo remains silver-gray
+- gold should feel metallic and integrated, not bright yellow or ornamental fantasy gold
+
+PROJECT WARRIORS III
+- Roman numeral III in red
+- the rest of the logo remains silver-gray
+- red should remain deep and controlled rather than neon
+
+PROJECT WARRIORS IV
+- Roman numeral IV in very dark navy blue
+- surface may be slightly glossier than the prior numerals
+- color should read almost black in low or neutral light, with navy becoming visible through highlights
+- the numeral remains distinct without breaking family consistency
+- no additional composition changes are required merely because IV has two letterforms
+
+================================================================================
+06. PRODUCTION RULES
+================================================================================
+
+- Preserve transparent backgrounds for master exports.
+- Maintain a common master canvas and consistent optical size across I–IV.
+- Keep edge wear and metallic distress at comparable density.
+- Numeral color must not bleed into PROJECT, WARRIORS, stars, bars, or chevrons unless a later full-family redesign explicitly changes the rule.
+- Avoid black backgrounds baked into master assets.
+- Create flattened preview versions only as derivatives.
+- Store prompt/source notes beside the visual identity source, not only in chat transcripts.
+- Any future V or DLC treatment should begin from this family system and justify deviations explicitly.
+
+================================================================================
+07. OPEN FLAGS
+================================================================================
+
+- final vector recreation / typeface licensing
+- exact master dimensions and safe-area specification
+- print/embroidery/monochrome variants
+- accessibility and small-size legibility pass
+- formal TITR studio-logo treatment remains separate from the Project Warriors game-logo family

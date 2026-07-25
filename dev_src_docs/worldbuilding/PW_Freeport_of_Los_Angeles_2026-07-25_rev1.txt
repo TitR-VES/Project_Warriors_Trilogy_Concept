@@ -1,0 +1,160 @@
+PROJECT WARRIORS: NIGHTFALL — FREEPORT OF LOS ANGELES
+Generated: 2026-07-25
+Version: rev1
+Status: WORKING CANON / SOURCE-READY WORLDBUILDING
+
+SOURCE
+Project_Warriors_Nightfall_Damhaven_Thread_Transcript_2026-07-22.txt
+
+PREMISE
+By the Nightfall era, the former Port of Los Angeles has become the Freeport of Los Angeles: a fortified, semi-autonomous traveler, merchant, and transit colony built into and around the old port infrastructure first visited by Romeo in Game 1.
+
+It is not fully integrated into the California Republic, a Federal Loyalist enclave, or the neighborhood crime-lord territories around greater Los Angeles. It survives because every major actor benefits from a neutral Pacific gate that can move people, information, goods, and services.
+
+================================================================================
+01. PHYSICAL IDENTITY
+================================================================================
+
+Core fabric:
+- surviving terminals, warehouses, cranes, yards, and service roads
+- stacked shipping containers used as walls, buildings, and elevated platforms
+- abandoned adjacent structures converted into housing, barracks, administration, workshops, and security posts
+- scaffolded additions built above usable port infrastructure
+- fortified gates and inspection lanes
+- lookout towers, elevated walkways, and controlled approaches
+- improvised utilities, markets, drinking spaces, lodging, repair shops, and storage
+
+Outer defenses may include:
+- containers stacked in reinforced patterns
+- wrecked vehicles integrated into barriers
+- concertina or razor wire
+- controlled firing positions and observation points
+- layered entry checks rather than one theatrical front gate
+
+The Freeport should look heavily defended but commercially active, with constant evidence that security and trade are inseparable.
+
+================================================================================
+02. POLITICAL STATUS
+================================================================================
+
+The Freeport is a collective self-governing authority whose legitimacy comes from neutrality, throughput, and enforcement rather than national sovereignty.
+
+It is tolerated by surrounding powers because it:
+- connects Pacific trade routes to the former U.S. mainland
+- handles travelers, couriers, and deniable transit
+- provides fuel, repair, storage, information, and brokerage
+- gives factions a place to trade without formally recognizing one another
+- reduces pressure on neighboring territories that cannot independently maintain the same port capacity
+
+No faction-based violence is tolerated inside. Political enemies may trade or pass through under Freeport rules, but cannot openly settle their conflict within the port.
+
+================================================================================
+03. ECONOMY
+================================================================================
+
+Common trade:
+- information and route access
+- fuel, batteries, medicine, parts, and food
+- weapons, ammunition, and restricted equipment
+- salvage and industrial services
+- identity, transport, communication, and accommodation services
+- regulated dangerous goods where containment rules are met
+
+Payment may use cryptocurrency, commodity exchange, service credit, or other mutually accepted instruments because no single post-federal legal tender is universally trusted.
+
+The port is not lawless. It is a rules-heavy market whose rules are designed to keep trade moving.
+
+================================================================================
+04. ANTI-TRAFFICKING RULE
+================================================================================
+
+Human trafficking is one of the Freeport's clearest absolute prohibitions.
+
+Covered offenses include:
+- forced labor
+- debt-bondage transport
+- coerced recruitment
+- abduction and sale
+- sex trafficking
+- treating any person as cargo or transferable property
+
+The policy is moral and practical. A port that permits people to be bought and sold cannot remain a trusted neutral market; it becomes a predatory zone that serious traders and travelers avoid.
+
+Punishment is severe and may reach the highest level available under Freeport law. Exact sentencing procedure remains open for a dedicated legal-system pass.
+
+================================================================================
+05. REGISTERED ADULT SEX WORK
+================================================================================
+
+The Freeport permits adult voluntary sex work under registration and oversight.
+
+Registration is intended to establish recognized status and a traceable protection chain, not ownership by the authorities.
+
+The system may record:
+- chosen/legal working identity
+- workplace or operating zone
+- emergency contact or advocate
+- health-service access
+- reporting route for coercion, assault, disappearance, or exploitation
+- voluntary entry and ability to leave
+
+The Freeport authority monitors patterns of violence and disappearance because rape, murder, coercion, and predation would otherwise become common in the port's environment and destroy its claim to neutrality.
+
+Protection rationale:
+- safeguard workers' lives and health
+- distinguish voluntary adult work from trafficking
+- create evidence when someone disappears or is moved under coercion
+- make abusive clients, managers, or gangs visible to enforcement
+- preserve the port's business legitimacy
+
+The system should not be portrayed as perfectly benevolent. It is bureaucratic, self-interested, and capable of corruption, but its controlling principle is that voluntary adult workers are recognized persons under Freeport protection, not untracked disposable bodies.
+
+================================================================================
+06. SECURITY / ENFORCEMENT
+================================================================================
+
+Security is a hybrid port authority rather than a conventional police department.
+
+Functions:
+- gate and cargo inspection
+- mediation and rapid suppression of factional violence
+- anti-trafficking investigation
+- protection of registered workers and vulnerable travelers
+- enforcement of containment rules for hazardous goods
+- defense of port infrastructure and neutral status
+- intelligence collection sufficient to identify predatory networks
+
+The authority should feel capable enough to sustain the Freeport's existence but not omniscient. Smuggling, bribery, and covert activity remain possible; blatant violations of the few existential rules provoke concentrated response.
+
+================================================================================
+07. NARRATIVE USE
+================================================================================
+
+The Freeport can function as:
+- a late-timeline hub or transit point
+- a place where Spook, Ducky/Lupin, or other protagonists can enter/exit the former United States
+- a visual callback to Romeo's Game 1 Port of Los Angeles missions
+- a neutral intelligence exchange
+- a location where incompatible factions coexist under enforced restraint
+- a way to show how ordinary commerce reconstitutes itself after federal collapse
+
+The strongest emotional effect comes from continuity: the player recognizes the bones of a place once fought over in Game 1, now transformed into a new political organism.
+
+================================================================================
+08. RESTRAINT / OPEN FLAGS
+================================================================================
+
+Do not depict the Freeport as:
+- a consequence-free pirate carnival
+- a utopian sanctuary
+- a single crime lord's personal kingdom
+- an excuse for repetitive vice-district spectacle
+
+Open:
+- collective-leadership roster and titles
+- exact relationship to the California Republic and loyalist strongholds
+- map extent beyond the former port
+- currency/credit system
+- exact anti-trafficking investigative and sentencing process
+- health-service model and privacy rules for registered workers
+- campaign and mission placement

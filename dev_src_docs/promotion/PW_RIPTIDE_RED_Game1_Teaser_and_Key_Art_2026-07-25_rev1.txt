@@ -1,0 +1,150 @@
+PROJECT WARRIORS — RIPTIDE RED GAME 1 TEASER AND KEY ART
+Generated: 2026-07-25
+Version: rev1
+Status: APPROVED PROMOTIONAL DIRECTION / LICENSING-DEPENDENT
+
+CAMPAIGN
+RIPTIDE RED — Spook's Game 1 campaign.
+
+SOURCE
+PW_Thread_Archive_RIPTIDE_RED_Teaser_Key_Art_Compendium_Governance_2026-07-24.txt
+
+PURPOSE
+Land the recovered teaser and companion key-art direction as a current durable promotional source. This is campaign marketing language and visual guidance; it does not silently change narrative canon.
+
+================================================================================
+01. BRANDING LOCK
+================================================================================
+
+Campaign display name:
+RIPTIDE RED
+
+Do not display "Spook — Riptide Red" on the principal teaser or key-art title card. The campaign name stands alone; the character remains unrevealed or only partially legible to the audience.
+
+Closing line:
+THE LIE STARTED LONG BEFORE THE WAR.
+
+This exact wording is the preferred lock. It frames the campaign as an investigation into pre-existing institutional corruption rather than a story whose conspiracy began with PANDORA or the open war.
+
+================================================================================
+02. MUSIC DIRECTION
+================================================================================
+
+Preferred licensed candidate:
+"Adolescents" — Incubus
+
+Use rationale:
+- motion, alienation, wrongness, and accelerating discovery
+- less declarative and revenge-driven than the Game 2 GODKILLER / "King Nothing" identity
+- supports an investigation whose floor gradually disappears beneath the protagonist
+- distinguishes Game 1 Spook from his later campaign without turning the trailer into generic action aggression
+
+The track remains aspirational until licensed. A replacement should preserve the trailer's gradual build, uneasy momentum, and emotional ambiguity rather than imitate genre alone.
+
+No lyrics should be printed or used as source-text authority.
+
+================================================================================
+03. TEASER STRUCTURE
+================================================================================
+
+The teaser follows the established restrained campaign-promo grammar: mystery first, action in controlled escalation, minimal explanatory dialogue, and a final card that recontextualizes the montage.
+
+ACT I — THE COVER STORY
+- ordinary international movement and professional tradecraft
+- airports, hotel corridors, terminals, vehicle interiors, surveillance fragments
+- Spook is capable and controlled; the audience is not yet told who he is
+- early anomalies appear without explanation
+
+ACT II — THE TRAIL
+- Amsterdam, Vienna, Frankfurt, Abu Dhabi, and related investigative spaces
+- manifests, cargo, terminals, compromised facilities, fleeting target images
+- each answer broadens the problem rather than closing it
+
+ACT III — THE WRONG FLOOR
+- Montoya Farm and concealed infrastructure imagery
+- surveillance monitors, clinical spaces, partial records, redaction, and evidence of a system much larger than the mission
+- avoid exploitation imagery; imply institutional horror through environment and reaction
+
+ACT IV — THE CONVERGENCE
+- action tempo rises: pursuit, rappel, vehicles, confined firefights, water/air movement, and the approach to East McFarlane
+- visual fragments suggest that the investigation is colliding with the same global rupture seen by the other campaigns
+- do not explain the full conspiracy
+
+ACT V — THE CARD
+- hard visual/audio contraction after the final escalation
+- campaign title: RIPTIDE RED
+- closing line: THE LIE STARTED LONG BEFORE THE WAR.
+- no character-name subtitle required
+
+================================================================================
+04. SOUND / EDITING RULES
+================================================================================
+
+- silence and environmental sound are active tools, not empty space
+- mechanical, room-tone, radio, rotor, traffic, and document-handling sounds should carry transitions
+- do not overcut every beat to percussion
+- no omniscient explanatory voiceover
+- dialogue, if used, should be fragmentary and operational rather than expository
+- preserve uncertainty about Spook's identity and the real scale of the operation
+- the final line should land after the audience has enough evidence to feel its truth but not enough to understand the whole plot
+
+================================================================================
+05. KEY ART — CORE CONCEPT
+================================================================================
+
+Core image:
+A grounded, high-end cinematic intelligence-thriller composition centered on a partially obscured senior covert operator associated with RIPTIDE RED. The figure is present but not posed as a conventional action hero.
+
+Preferred visual read:
+- Spook in partial profile, reflection, layered glass, surveillance surface, or divided architectural frame
+- international transit / institutional environment rather than battlefield spectacle
+- red evidence thread, light, document marking, or reflected contamination used sparingly
+- the image suggests that the visible operation is only one layer of a much older structure
+
+Composition:
+- vertical or key-art poster framing
+- clean negative space for title and line
+- controlled asymmetry
+- foreground obstruction or reflection creates uncertainty without making the subject unreadable
+- no HUD, reticle, button prompt, or gameplay screenshot treatment
+
+Color / finish:
+- cold steel, concrete, glass, desaturated institutional neutrals
+- restrained dark red accent associated with the campaign name and evidence trail
+- physically plausible light and surface texture
+- premium photographic realism, not comic-book collage
+
+Weapon presence:
+A weapon may be present as part of Spook's professional silhouette, but it must not dominate the image or turn the art into a gun beauty shot.
+
+Typography:
+RIPTIDE RED
+THE LIE STARTED LONG BEFORE THE WAR.
+
+The campaign name stands alone. Use the established Project Warriors promotional typography system where available.
+
+================================================================================
+06. IMAGE-PROMPT CONTROL
+================================================================================
+
+The prompt should request:
+- grounded, highly realistic near-future military/intelligence thriller key art
+- mature senior CIA paramilitary officer, rugged and controlled
+- mystery-first composition with layered glass/reflections/redacted evidence
+- international institutional setting
+- subtle dark-red campaign accent
+- no logos from real agencies or brands unless separately cleared
+- no visible HUD, game UI, crosshair, or splash-screen chrome
+- no exaggerated explosions, superhero stance, or glossy sci-fi armor
+- no title spelling other than RIPTIDE RED
+- closing line exactly THE LIE STARTED LONG BEFORE THE WAR.
+
+Generated previews remain non-canon until selected. The source controls intent, not a particular generative artifact.
+
+================================================================================
+07. RELATIONSHIP TO OTHER PROMOS
+================================================================================
+
+- Game 1 RIPTIDE RED is the pre-collapse conspiracy / investigation teaser.
+- Game 2 GODKILLER remains the later accountability/revenge-facing Spook campaign identity with its separate music and line.
+- The two should feel related through restraint, operational sound, and Spook's visual language, but should not share the same emotional thesis.

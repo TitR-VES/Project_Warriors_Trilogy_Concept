@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "delta_id": "PW-ONT-RECOVERED-VISUAL-MECHANICS-LORE-WEAPON-CATALOG-2026-07-25-REV1",
+    "generated": "2026-07-25",
+    "catalog_applies_to": "pw_weapon_catalog_rev1.yaml",
+    "catalog_produces": "pw_weapon_catalog_rev1.1.yaml",
+    "status": "source_backed_ammunition_metadata_delta",
+    "sources": [
+      "dev_src_docs/gameplay_mechanics/PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt",
+      "dev_src_docs/weapons_and_equipment/HASTA_LA_VISTA_Fore_End_Revision_2026-07-25_rev1.txt"
+    ]
+  },
+  "ammunition_operations": [
+    {
+      "op": "update_ammunition",
+      "id": "PW-AMM-12GA-DB",
+      "set": {
+        "designation": "12GA DB / Dragon's Breath incendiary shell",
+        "economy_role": "campaign_specific_scarce_incendiary_specialist",
+        "status": "locked",
+        "special_behavior": [
+          "incendiary",
+          "environmental ignition risk",
+          "high visible signature",
+          "collateral and structure risk",
+          "authored fire propagation only"
+        ],
+        "availability": [
+          {
+            "campaign": "The Collapse",
+            "character": "Christopher Haywood",
+            "source": "Troy Stone Barry",
+            "timing": "partway through campaign",
+            "supply_mode": "small-quantity black-market specialist ammunition"
+          },
+          {
+            "campaign": "American Guerrilla / War Within",
+            "character": "Nicholas Wayne Hawthorne",
+            "source": "NAF supply channels",
+            "timing": "campaign-logistics dependent",
+            "supply_mode": "scarce organized procurement or captured/diverted stock"
+          }
+        ],
+        "resolved_fields": [
+          "Chris source",
+          "Chris availability timing",
+          "Nick source distinction"
+        ],
+        "unresolved_fields": [
+          "exact first mission",
+          "exact quantities and price",
+          "supported fire-propagation missions",
+          "complete compatible-shotgun occurrence list"
+        ]
+      }
+    }
+  ],
+  "catalog_open_flag_operations": [
+    {
+      "op": "replace_open_flag",
+      "id": "PW-WCAT-OPEN-REWARD-TABLE",
+      "value": {
+        "id": "PW-WCAT-OPEN-REWARD-TABLE",
+        "description": "Troy Barry's broader optional-objective/achievement reward table remains open. Dragon's Breath source and broad timing are resolved; exact first mission, quantities, pricing, and fire-propagation support remain open."
+      }
+    }
+  ],
+  "identity_changes": {
+    "weapons_added": 0,
+    "ammunition_added": 0,
+    "occurrences_added": 0,
+    "named_builds_added": 0,
+    "stable_ids_changed": 0
+  }
+}
