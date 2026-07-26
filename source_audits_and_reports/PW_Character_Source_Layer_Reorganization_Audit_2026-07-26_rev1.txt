@@ -1,0 +1,76 @@
+PROJECT WARRIORS — CHARACTER SOURCE LAYER REORGANIZATION AUDIT
+Generated: 2026-07-26
+Version: rev1
+Scope: dev_src_docs/story_campaigns and affected source-path governance
+Policy: preservation first; ontology-backed character homes; no semantic canon changes
+
+1. PURPOSE
+
+Add an explicit character-state layer to the campaign source tree so playable-character authoring and named-NPC authoring no longer occupy the same directory level.
+
+2. RESULTING STRUCTURE
+
+Main installments:
+- story_campaigns/GameN/Playable_Characters/<PlayableCharacter>/
+- story_campaigns/GameN/Named_NPCs/<PW-NPC-ID>__<PortableName>/
+- story_campaigns/GameN/Shared/
+
+DLC installments:
+- story_campaigns/DLC/<DLC>/Playable_Characters/<PlayableCharacter>/
+- story_campaigns/DLC/<DLC>/Named_NPCs/<PW-NPC-ID>__<PortableName>/
+- story_campaigns/DLC/<DLC>/Shared/
+
+3. COVERAGE
+
+- source scopes with both character-state roots: 13
+- unique named-NPC ontology identities represented: 88
+- installment/DLC-specific named-NPC source homes: 121
+- existing source files moved with retained blob identity: 97
+- standard playable-layer moves: 84
+- exact placement overrides: 13
+- playable-character source directory prefixes normalized: 27
+
+All 88 stable named-NPC identities in the current catalog have at least one source home across their source-backed installment or DLC appearances. Repeated characters receive separate installment/DLC homes without receiving duplicate stable ontology identities.
+
+4. PLACEMENT DECISIONS
+
+Dedicated NPC sources moved to named-NPC homes:
+- Leandro Petrus Blommaert / Infrastructure Day optional-target reference
+- Patrick “Pat” Napier profile plus its source landing manifest and changelog
+- Mitchell Van Hult / BODYWORK branch reference
+- Gregory David Allen “Pacer” character profile
+- Dalton Maynard Crane “River” character profile
+- Dorothy Anne Vickers profile, first-contact scene, and Royal Marines Boston package
+- Denis “Sakhalin” Malinin Nightfall transit and Deluvia continuity page
+
+Multi-NPC material moved to Shared:
+- SHIELD squad development packet
+- COLD ROOM mission reference packet
+
+Campaign architecture, mission scripts, playable-character presentation, and POV-bound source pages remain with their playable character.
+
+5. PLAYABLE/NPC BOUNDARY
+
+A character is not duplicated into Named_NPCs merely because another campaign records that person in an NPC state. The same stable person can therefore have:
+- a playable source home in one installment or DLC;
+- a named-NPC source home in another installment;
+- one stable ontology identity across both.
+
+6. PATH GOVERNANCE
+
+- `pw_story_campaign_source_paths_rev2.delta.yaml` records the new patterns, playable-prefix redirects, and exact override redirects.
+- Exact redirects take precedence over prefix redirects.
+- Pre-reorganization references can be resolved by applying rev1 and then rev2.
+- Each named-NPC directory embeds its stable `PW-NPC-*` identity in the path; the catalog remains authoritative for identity and campaign references.
+
+7. PRESERVATION RESULT
+
+Unique-content deletions: 0
+Uncertain duplicate deletions: 0
+Moved files rewritten: 0
+Moved files retaining prior Git blob SHA: 97
+Canon-semantic changes: 0
+
+8. OPEN FOLLOW-UP
+
+The July 25 Nightfall continuity page source-backs Sakhalin as a named NPC in Nightfall after the rev1 named-NPC ontology landing. This reorganization gives that source a stable home but does not silently alter the ontology. Add a Nightfall NPC-state appearance through a future additive ontology delta.

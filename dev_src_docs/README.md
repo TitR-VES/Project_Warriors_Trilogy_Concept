@@ -2,9 +2,7 @@
 
 This is the primary authoring layer for the repository.
 
-Use this directory for stable source pages that should be treated as the current
-working version of project material. If a document is meant to be edited,
-cross-referenced, and kept alive, it usually belongs here.
+Use this directory for stable source pages that should be treated as the current working version of project material. If a document is meant to be edited, cross-referenced, and kept alive, it usually belongs here.
 
 ## What Belongs Here
 
@@ -25,10 +23,13 @@ cross-referenced, and kept alive, it usually belongs here.
 ## Placement Rules
 
 - Put campaign-specific material under `story_campaigns/`.
-- Organize main-installment story material as `story_campaigns/GameN/<PlayableCharacter>/`, with `Shared/` reserved for installment-wide or genuinely multi-character material.
-- Organize all DLC story material as `story_campaigns/DLC/<DLC>/<PlayableCharacter>/`, again using `Shared/` only for campaign-wide or multi-character material.
+- Organize main-installment story material as `story_campaigns/GameN/Playable_Characters/<PlayableCharacter>/`, `story_campaigns/GameN/Named_NPCs/<PW-NPC-ID>__<PortableName>/`, or `story_campaigns/GameN/Shared/`.
+- Organize DLC story material using the same three layers under `story_campaigns/DLC/<DLC>/`.
 - Every playable character listed by the narrative ontology must have a named source directory in every campaign where that character is playable, even when a dedicated source page has not yet landed.
-- Keep global, cross-game character profiles in `characters/`; do not duplicate them into every campaign directory unless a campaign-specific profile or scene treatment exists.
+- Every source-backed named NPC appearance must have an ontology-bound source home in the relevant installment or DLC. The named-NPC ontology controls identity and story meaning.
+- Keep a playable character in `Playable_Characters/` for installments where that character is playable. Do not duplicate the same source into `Named_NPCs/`.
+- Keep global, cross-game character profiles in `characters/`; use the campaign tree for installment-specific profiles, scenes, mission presence, branch state, equipment continuity, voice, or presentation material.
+- Keep team-wide and multi-character packets in the relevant `Shared/` directory rather than copying them into every character home.
 - Put cross-cutting worldbuilding under `diegetics_and_world-building/`.
 - Put mechanics and systems under `gameplay_mechanics/`.
 - Keep templates in `templates/`.
