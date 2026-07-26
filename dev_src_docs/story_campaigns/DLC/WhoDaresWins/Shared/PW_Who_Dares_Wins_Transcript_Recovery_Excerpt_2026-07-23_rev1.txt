@@ -1,0 +1,32 @@
+PROJECT WARRIORS — DLC TRANSCRIPT RECOVERY PACKET
+Generated: 2026-07-23
+Original packet version: rev2
+Split landing: 2026-07-26 rev1
+Status: SOURCE-LANDED MIXED WORKING AUTHORITY
+Provenance: verbatim Section 01 extracted from dev_src_docs/story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt during preservation-first source-tree normalization.
+
+01. WHO DARES WINS — REVISED BRITISH CAMPAIGN
+External title: PROJECT WARRIORS: WHO DARES WINS.
+Primary POV remains MACE as the current front-runner, not an irreversible final lock.
+
+Force architecture:
+- SAS: covert sabotage, infiltration, hostage/HVP recovery, and precise land operations.
+- SBS: maritime access, blockade shaping, insertion, and littoral sabotage.
+- Royal Marines and Royal Navy under Lt. Dorothy Anne Vickers: later widening, practical
+  support, and the point where covert competence becomes visible allied capacity.
+- British CASEVAC in Boston is late-arriving. Early help is small, deniable, and exact.
+
+Revised current ladder, superseding the April title sequence:
+1 BLACK START — PANDORA-day domestic rupture and continuity under stress.
+2 QUIET COAST — covert coastal counter-sabotage and invisible UKSF competence.
+3 TIDEWIRE — cable/port/maritime infrastructure fight.
+4 FIRST GRIP — first firm outward operational leverage.
+5 OPEN THE ROUTE — prepare the Atlantic lane.
+6 HOLDFAST — preserve/hold a load-bearing node as capability widens.
+7 BROKEN HARBOR — blockade/harbor shaping and Boston-facing consequence.
+8 FAR SHORE — establish the covert New England foothold inherited by NO KINGS.
+
+Progression rule:
+Capability revelation matters more than raw scale: hurt-but-functioning Britain ->
+shadow competence -> maritime reach -> route opening -> support/holding -> far-shore
+commitment. The DLC makes Boston possible without consuming Romeo's Boston payoffs.

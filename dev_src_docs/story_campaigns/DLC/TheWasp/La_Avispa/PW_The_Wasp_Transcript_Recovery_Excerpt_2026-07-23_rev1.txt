@@ -1,0 +1,24 @@
+PROJECT WARRIORS — DLC TRANSCRIPT RECOVERY PACKET
+Generated: 2026-07-23
+Original packet version: rev2
+Split landing: 2026-07-26 rev1
+Status: SOURCE-LANDED MIXED WORKING AUTHORITY
+Provenance: verbatim Section 02 extracted from dev_src_docs/story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt during preservation-first source-tree normalization.
+
+02. THE WASP
+Playable lead: La Avispa / Yelena Volkova, sole playable protagonist.
+Placement: main narrative overlaps Game 2; selective flashbacks reveal earlier survival,
+identity, and intelligence history.
+
+Core functions:
+- Connect criminal, intelligence, cartel, FSB, and resistance layers without turning La
+  Avispa into an all-knowing lore courier.
+- Preserve her tension between Russian origin, cartel-facing identity, and chosen loyalties.
+- Use verticality, ambush mechanics, and special traversal only where strategically useful;
+  levels are not obstacle courses.
+
+MANIFEST flashback:
+Bruges burn -> Brussels departure -> Vienna-bound commercial flight sabotage/crash ->
+concussion-haze muddy airport-edge aftermath -> FSB retrieval operatives mixed with first
+responders -> drainage/flood-control escape. Aftermath-first, short fragmented crash phase,
+no extended disaster spectacle.

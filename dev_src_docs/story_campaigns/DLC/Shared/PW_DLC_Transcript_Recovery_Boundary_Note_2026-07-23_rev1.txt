@@ -1,0 +1,12 @@
+PROJECT WARRIORS — DLC TRANSCRIPT RECOVERY PACKET
+Generated: 2026-07-23
+Original packet version: rev2
+Split landing: 2026-07-26 rev1
+Status: SOURCE-LANDED MIXED WORKING AUTHORITY
+Provenance: verbatim Section 05 extracted from dev_src_docs/story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt during preservation-first source-tree normalization.
+
+05. EXISTING DLC SOURCE BOUNDARIES
+- The Storm / VOICE IN THE DARK remains governed by the PR's existing source landing.
+- SEMPER FI, SEA SPEAR, Nightfall, and other DLCs keep their newer durable pages.
+- Visual/reference transcripts already absorbed by image-prompt or campaign packets are
+  not duplicated here.

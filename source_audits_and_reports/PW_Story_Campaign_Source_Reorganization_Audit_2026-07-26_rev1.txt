@@ -1,0 +1,105 @@
+PROJECT WARRIORS — STORY CAMPAIGN SOURCE REORGANIZATION AUDIT
+Generated: 2026-07-26
+Version: rev1
+Scope: dev_src_docs/story_campaigns and directly affected source-governance references
+Policy: preservation first; remove only proven duplicates; retain and mark uncertain matches
+
+1. PURPOSE
+
+Normalize campaign-source placement against the narrative ontology while preserving every unique source byte or source section. The change establishes stable named source homes for all ontology-listed playable points of view and consolidates DLC campaigns beneath one DLC parent.
+
+2. TARGET STRUCTURE
+
+Main installments:
+- story_campaigns/Game1/<PlayableCharacter>/
+- story_campaigns/Game2/<PlayableCharacter>/
+- story_campaigns/Game3/<PlayableCharacter>/
+- story_campaigns/Game4/<PlayableCharacter>/
+
+DLC installments:
+- story_campaigns/DLC/<DLC>/<PlayableCharacter>/
+
+Each installment or DLC may use Shared/ for material that is genuinely installment-wide, multi-character, chronological, governance-oriented, or provenance-oriented. Top-level story_campaigns/Shared remains reserved for cross-installment material.
+
+3. ONTOLOGY COVERAGE
+
+Main-game playable source homes:
+- Game 1: Romeo; Ducky; Frost; Lupin; Spook
+- Game 2: Romeo; Ducky; Frost; Lupin; Spook
+- Game 3: Romeo; Ducky; Spook
+- Game 4: Romeo; Ducky; Spook
+
+DLC playable source homes:
+- Sea Spear: Grim
+- Semper Fi: Andre Bridges
+- Who Dares Wins: Mace
+- The Wasp: La Avispa
+- The Storm: Sakhalin
+- Home Defense: Lucas Hill
+- War Within / American Guerrilla: Croatoan
+- The Collapse: Chris
+- Nightfall: Spook; Ducky; Lupin
+
+A README is landed in every named playable-character source directory. A directory with no other source page is intentionally empty of landed character-specific content, not missing from the campaign model.
+
+4. LOSSLESS MOVES
+
+The following classes of files are moved by reusing their existing Git blob SHA, so their contents are unchanged:
+- Game 1–4 mixed transcript recovery packets -> the matching installment Shared/ directory
+- Game 2 Pat Napier update manifest -> Game2/Romeo/
+- WhoDaresWinsDLC/* -> DLC/WhoDaresWins/Shared/
+- Storm campaign-wide files -> DLC/TheStorm/Shared/
+- Storm Sakhalin profile -> DLC/TheStorm/Sakhalin/
+- TheCollapse/* -> DLC/TheCollapse/Shared/
+- WarWithin/* -> DLC/WarWithin/Shared/
+- HomeDefense campaign-wide continuity -> DLC/HomeDefense/Shared/
+- HomeDefense Pine Gap campaign source -> DLC/HomeDefense/Lucas_Hill/
+- HomeDefenseDLC latest-thread source -> DLC/HomeDefense/Shared/
+- Nightfall/* -> DLC/Nightfall/Shared/
+
+5. MIXED DLC PACKET SPLIT
+
+The former unsorted file:
+dev_src_docs/story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+
+is split into five provenance-labeled files. Sections 01–05 are preserved verbatim and distributed as follows:
+- Who Dares Wins section -> DLC/WhoDaresWins/Shared/
+- The Wasp section -> DLC/TheWasp/La_Avispa/
+- The Collapse section -> DLC/TheCollapse/Shared/
+- Home Defense section -> DLC/HomeDefense/Lucas_Hill/
+- existing-DLC-boundaries section -> DLC/Shared/
+
+No source section is omitted. The original mixed packet is removed only after all five sections are represented in the new tree.
+
+6. DUPLICATE CONTROL
+
+No uncertain duplicate is deleted.
+
+Four Permanent Record date-variant pairs are marked in Game4/Spook/POSSIBLE_DUPLICATES.md:
+- FLOW CONTROL, 2026-05-07 vs 2026-05-08
+- JUDGMENT DAY, 2026-05-07 vs 2026-05-08
+- ONE HEAD OF THE HYDRA aftermath, 2026-05-07 vs 2026-05-08
+- AND INTO THE FIRE, 2026-05-07 vs 2026-05-08
+
+Both members of every pair remain. Later retirement requires a dedicated content comparison proving full identity or safe supersession with no unique text.
+
+7. MATERIAL INTENTIONALLY LEFT IN PLACE
+
+- Existing files already located in the correct GameN/<PlayableCharacter>/ directory.
+- Top-level story_campaigns/Shared files that genuinely cross campaigns or have unresolved placement.
+- Global cross-game character profiles in dev_src_docs/characters/.
+- Historical, recovered, staging, and archived copies outside dev_src_docs/story_campaigns/.
+
+8. GOVERNANCE UPDATES
+
+- dev_src_docs/README.md now states the placement and duplicate-safety rules.
+- dev_src_docs/story_campaigns/README.md maps ontology campaigns to source directories.
+- ontology/pw_story_campaign_source_paths_rev1.delta.yaml records path redirects and the mixed-packet split without changing canon semantics.
+
+9. PRESERVATION RESULT
+
+Unique-content deletions: 0
+Uncertain duplicate deletions: 0
+Mixed-packet sections dropped: 0
+Legacy source moves performed with unchanged blob identity: yes
+Playable ontology points of view with named source homes after change: all currently cataloged main-game and DLC playable perspectives

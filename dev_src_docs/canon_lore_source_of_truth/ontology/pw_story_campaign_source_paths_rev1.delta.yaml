@@ -1,0 +1,57 @@
+meta:
+  document_id: PW-ONT-STORY-CAMPAIGN-SOURCE-PATHS-REV1
+  generated: '2026-07-26'
+  revision: rev1
+  status: migration_redirect_delta
+  authority_note: This delta changes source locations only. It does not change campaign, installment, protagonist, title, chronology, or canon semantics.
+
+layout:
+  main_installments: dev_src_docs/story_campaigns/GameN/<PlayableCharacter>/
+  dlc_installments: dev_src_docs/story_campaigns/DLC/<DLC>/<PlayableCharacter>/
+  shared_rule: Use Shared only for installment-wide, multi-character, chronology, governance, or provenance material.
+
+prefix_redirects:
+- from_prefix: dev_src_docs/story_campaigns/WhoDaresWinsDLC/
+  to_prefix: dev_src_docs/story_campaigns/DLC/WhoDaresWins/Shared/
+- from_prefix: dev_src_docs/story_campaigns/TheCollapse/
+  to_prefix: dev_src_docs/story_campaigns/DLC/TheCollapse/Shared/
+- from_prefix: dev_src_docs/story_campaigns/WarWithin/
+  to_prefix: dev_src_docs/story_campaigns/DLC/WarWithin/Shared/
+- from_prefix: dev_src_docs/story_campaigns/Nightfall/
+  to_prefix: dev_src_docs/story_campaigns/DLC/Nightfall/Shared/
+- from_prefix: dev_src_docs/story_campaigns/HomeDefenseDLC/
+  to_prefix: dev_src_docs/story_campaigns/DLC/HomeDefense/Shared/
+
+exact_redirects:
+- from: dev_src_docs/story_campaigns/Game1/PW_Game1_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+  to: dev_src_docs/story_campaigns/Game1/Shared/PW_Game1_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- from: dev_src_docs/story_campaigns/Game2/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+  to: dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- from: dev_src_docs/story_campaigns/Game2/PAT_NAPIER_SOURCE_UPDATE_MANIFEST.json
+  to: dev_src_docs/story_campaigns/Game2/Romeo/PAT_NAPIER_SOURCE_UPDATE_MANIFEST.json
+- from: dev_src_docs/story_campaigns/Game3/PW_Game3_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+  to: dev_src_docs/story_campaigns/Game3/Shared/PW_Game3_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- from: dev_src_docs/story_campaigns/Game4/PW_Game4_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+  to: dev_src_docs/story_campaigns/Game4/Shared/PW_Game4_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+- from: dev_src_docs/story_campaigns/Storm/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt
+  to: dev_src_docs/story_campaigns/DLC/TheStorm/Shared/PW_Storm_DLC_Source_Landing_2026-07-21_rev1.txt
+- from: dev_src_docs/story_campaigns/Storm/PW_Procella_Faction_Reference_2026-07-21_rev1.txt
+  to: dev_src_docs/story_campaigns/DLC/TheStorm/Shared/PW_Procella_Faction_Reference_2026-07-21_rev1.txt
+- from: dev_src_docs/story_campaigns/Storm/PW_Storm_Mission_Development_Pack_2026-07-21_rev1.txt
+  to: dev_src_docs/story_campaigns/DLC/TheStorm/Shared/PW_Storm_Mission_Development_Pack_2026-07-21_rev1.txt
+- from: dev_src_docs/story_campaigns/Storm/PW_Denis_Malinin_Sakhalin_Character_Profile_2026-07-21_rev1.txt
+  to: dev_src_docs/story_campaigns/DLC/TheStorm/Sakhalin/PW_Denis_Malinin_Sakhalin_Character_Profile_2026-07-21_rev1.txt
+- from: dev_src_docs/story_campaigns/HomeDefense/PW_Home_Defense_Geopolitical_Continuity_2026-07-21_rev1.txt
+  to: dev_src_docs/story_campaigns/DLC/HomeDefense/Shared/PW_Home_Defense_Geopolitical_Continuity_2026-07-21_rev1.txt
+- from: dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt
+  to: dev_src_docs/story_campaigns/DLC/HomeDefense/Lucas_Hill/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt
+
+split_redirect:
+  from: dev_src_docs/story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+  preservation_rule: Every original section is preserved verbatim in one destination file; no section is discarded.
+  to:
+  - dev_src_docs/story_campaigns/DLC/WhoDaresWins/Shared/PW_Who_Dares_Wins_Transcript_Recovery_Excerpt_2026-07-23_rev1.txt
+  - dev_src_docs/story_campaigns/DLC/TheWasp/La_Avispa/PW_The_Wasp_Transcript_Recovery_Excerpt_2026-07-23_rev1.txt
+  - dev_src_docs/story_campaigns/DLC/TheCollapse/Shared/PW_The_Collapse_Transcript_Recovery_Excerpt_2026-07-23_rev1.txt
+  - dev_src_docs/story_campaigns/DLC/HomeDefense/Lucas_Hill/PW_Home_Defense_Transcript_Recovery_Excerpt_2026-07-23_rev1.txt
+  - dev_src_docs/story_campaigns/DLC/Shared/PW_DLC_Transcript_Recovery_Boundary_Note_2026-07-23_rev1.txt
