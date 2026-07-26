@@ -1,0 +1,15 @@
+PROJECT WARRIORS — DLC TRANSCRIPT RECOVERY PACKET
+Generated: 2026-07-23
+Original packet version: rev2
+Split landing: 2026-07-26 rev1
+Status: SOURCE-LANDED MIXED WORKING AUTHORITY
+Provenance: verbatim Section 03 extracted from dev_src_docs/story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt during preservation-first source-tree normalization.
+
+03. THE COLLAPSE — MISSIONS 14–17
+Placement remains controlled by the post-Game-4 political transition / federal-collapse
+bridge. The recovered late sequence is:
+14 DECAY CHAIN — relay-site and cold-chain precursor.
+15 BLACKOUT MEDICINE — medical distribution under power/communications failure.
+16 AID AND COMFORT — relief legitimacy, coercion, and armed governance pressure.
+17 MARKED SAFE — false safety, mapping, and the political cost of labels.
+These missions form a deterioration chain; they are not isolated disaster vignettes.

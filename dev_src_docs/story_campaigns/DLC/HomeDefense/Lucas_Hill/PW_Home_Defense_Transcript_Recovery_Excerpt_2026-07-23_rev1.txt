@@ -1,0 +1,32 @@
+PROJECT WARRIORS — DLC TRANSCRIPT RECOVERY PACKET
+Generated: 2026-07-23
+Original packet version: rev2
+Split landing: 2026-07-26 rev1
+Status: SOURCE-LANDED MIXED WORKING AUTHORITY
+Provenance: verbatim Section 04 extracted from dev_src_docs/story_campaigns/DLC/PW_DLC_Transcript_Recovery_Packet_2026-07-23_rev1.txt during preservation-first source-tree normalization.
+
+04. HOME DEFENSE / AUSTRALIAN FRONT
+Working title: HOME DEFENSE; final campaign title remains open.
+Baseline working lead: Corporal Lucas Hill, 2 RAR.
+
+Campaign rule:
+- Australian protagonist, command, geography, logistics, civilians, and agency
+- AEGIS as damaged intelligence/technical/special-missions connectivity
+- Pine Gap as strategic center of gravity, not the only location
+- Switchblade as adjacent recurring squad lead and possible selective-playability lane
+
+Current nine-mission spine:
+SOUNDING LINE -> BREAKWATER -> ASH REEF -> CHAIN OF CUSTODY -> TWO SQUADS ->
+LONG WIRE -> NULL TRACK -> DEAD CENTRE -> WHAT STAYS ONLINE.
+
+Title/build conflict controls:
+- CHAIN OF CUSTODY remains working and requires final title review because it was previously
+  a superseded Permanent Record working title.
+- Lucas's transcript build name DEAD RECKONING is rename-required because Sakhalin already
+  owns the locked identity.
+- WREN remains Switchblade's existing stable build, not a new Australian-front identity.
+
+Detailed source:
+dev_src_docs/story_campaigns/HomeDefense/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt
+
+Promotional imagery remains direction rather than chronology.
