@@ -1,0 +1,508 @@
+PROJECT WARRIORS — FIRST-PERSON SHOULDER SWITCHING, AIMING, AND WEAPON MALFUNCTIONS
+Generated: 2026-07-27
+Version: rev1
+Status: PROPOSED DESIGN SOURCE — OWNER REVIEW REQUIRED
+
+PURPOSE
+Develop the next first-person weapon-handling layer for Project Warriors:
+- tactical shoulder switching for all shoulderable weapons
+- freeform aiming and corner-peeking behavior that works with ADS, stance, and movement
+- field-clearable weapon malfunctions integrated with the existing reload input and persistent mechanical weapon state
+
+This page is source-first design work. It supplements, but does not silently replace:
+- PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+- PW_UI_Prompt_System_Design_rev1.txt
+- the current Gameplay / Weapons / Style compendium and later addenda
+- current weapon-build and first-person animation sources
+
+AUTHORITY / CONTINUITY
+- Later explicit owner adjudication controls.
+- The persistent mechanical reload-state lock remains controlling: completed physical actions persist through interruption and recovery resumes from the actual stored state.
+- The prompt/UI system remains restrained, contextual, world-honest, and animation-led.
+- The first-person camera remains tied to the character rather than functioning as a free-floating tactical camera.
+- Exact input mapping, animation timing, balance values, and platform-specific implementation remain production work unless explicitly locked later.
+
+================================================================================
+01. SHARED STATE ARCHITECTURE
+================================================================================
+
+RECOMMENDED LOCK
+Shoulder side, aim state, stance/movement state, cover geometry, and weapon mechanical state are separate but interacting systems. None of them should reset another merely because an animation was interrupted.
+
+PRIMARY STATE LAYERS
+1. Shoulder state
+   - dominant-side shoulder
+   - support-side shoulder
+   - temporarily centered / compressed handling during a transition or obstruction
+
+2. Aim state
+   - low ready / movement-ready
+   - shouldered ready
+   - aiming down sights
+   - optic-specific alternate state where equipped: magnifier, canted sight, variable magnification, laser/NVG point shooting
+
+3. Body state
+   - standing
+   - crouched
+   - prone
+   - slow walk / lateral movement
+   - sprint, vault, climb, drag, carry, mounted-weapon, and other constrained states
+
+4. Mechanical state
+   - ready
+   - empty
+   - incomplete reload
+   - simple stoppage
+   - complex stoppage
+   - hard-disabled weapon
+
+PERSISTENCE RULE
+A shoulder choice remains selected until the player changes it or enters a state where the chosen presentation is physically impossible. Temporary centering during a reload, malfunction clear, vault, climb, or collision does not erase the selected shoulder. When the weapon returns to a usable state, it returns to the prior valid shoulder unless geometry prevents it.
+
+NO CAMERA-ONLY EXPLOIT
+The weapon, head, shoulders, torso exposure, muzzle position, and collision pose must agree. Switching shoulders cannot move the player's viewpoint around cover while leaving the body safely behind it.
+
+PROJECTILE / MUZZLE RULE
+Shots originate from the weapon's actual muzzle solution, not from the center of the screen. A visible target through the optic is not a valid shot if the muzzle is still blocked by the cover edge.
+
+================================================================================
+02. TACTICAL SHOULDER SWITCHING
+================================================================================
+
+RECOMMENDED LOCK
+Every weapon that can credibly be shouldered supports tactical shoulder switching unless the current weapon configuration or body state makes it impossible.
+
+IN SCOPE
+- rifles
+- carbines
+- DMRs
+- stocked SMGs and PDWs
+- stocked shotguns
+- shoulder-fired support weapons when not fixed, mounted, or locked into a deployed bipod state
+- precision rifles when being carried or fired from a shoulder-supported position
+
+OUT OF SCOPE / TEMPORARILY UNAVAILABLE
+- pistols and other non-shouldered weapons
+- fixed or vehicle-mounted weapons
+- tripod weapons
+- a bipod weapon while the bipod is locked into a firing position
+- ladders, certain climbs, over-shoulder casualty carries, and other states that occupy or constrain both arms
+- configurations with no usable stock or shoulder interface
+- authored one-handed emergency states unless a specific animation supports the transition
+
+SHOULDER, NOT UNIVERSAL HANDEDNESS MIRRORING
+The system represents which shoulder and eye line the weapon is being presented from. It does not require every character to become perfectly ambidextrous or every reload animation to be mirrored.
+
+Exact hand transfer varies by:
+- weapon class
+- control layout
+- stock geometry
+- protagonist training
+- current stance
+- whether the transition occurs at low ready, shouldered ready, or ADS
+
+Some transitions may use a full firing-hand transfer. Others may use a compressed near-side transition while retaining the dominant firing hand. The result must look physically credible for the platform rather than forcing one universal animation onto every weapon.
+
+INPUT AND PERSISTENCE
+- Shoulder switching is a deliberate player input.
+- Default behavior is toggle: one press changes the selected shoulder.
+- Hold/toggle behavior should be user-configurable.
+- Automatic shoulder selection may exist only as an optional accessibility assist and should be off by default.
+- The game should never repeatedly auto-swap shoulders during ordinary movement.
+
+TRANSITION COST
+Switching is quick but not instantaneous:
+- the sight picture is briefly lost
+- the stock clears the current shoulder
+- the weapon passes through a centered or compressed state
+- the support hand and firing hand re-index as required
+- the new cheek weld / sight line is established
+
+The player may cancel or interrupt the transition, but the animation must resolve into a credible partial state. No teleporting stock, optic, or hands.
+
+FIRING DURING TRANSITION
+The weapon should not retain normal ADS precision while moving between shoulders. Emergency fire may be possible on selected compact weapons or lower difficulties, but it uses a degraded point-shooting solution rather than a perfectly stable sight picture.
+
+DOMINANT VS SUPPORT SIDE
+Support-side use remains tactically valid. It should not carry a large arcade accuracy penalty.
+
+Possible high-realism differences:
+- slightly slower transition into a settled sight picture
+- modestly increased sway or recoil-recovery time
+- slower manipulation on platforms with strongly one-sided controls
+- character- and familiarity-dependent animation speed
+
+These differences should remain subtle for trained protagonists. The mechanic exists to reward correct geometry, not punish the player for using it.
+
+COVER VALUE
+Correct shoulder selection reduces unnecessary exposure:
+- right-side cover generally favors the right shoulder
+- left-side cover generally favors the left shoulder
+
+The wrong shoulder remains usable, but more of the head, chest, arms, and weapon must clear the edge. The difference is produced by actual pose and collision geometry, not a hidden defense modifier.
+
+WEAPON-LENGTH CONSEQUENCE
+Compact weapons clear corners and door frames faster. Long rifles, shotguns, suppressors, and support weapons require more setback from the edge and are more likely to enter a compressed or obstructed state.
+
+No weapon may clip through cover merely because the player switched shoulders.
+
+CHARACTER TEXTURE
+All protagonists can perform the mechanic. Animation character may differ:
+- Romeo: fast, direct, combat-practical
+- Ducky: compact and methodical
+- Spook: economical, close to the cover, minimal excess movement
+- Frost: deliberate with long weapons, especially when preserving optic alignment
+- Lupin: decisive and aggressive
+- other playable characters: follow established training, equipment, injury, and characterization
+
+These differences are presentation and modest timing texture, not unrelated character-stat bonuses.
+
+================================================================================
+03. AIMING, LEANING, AND CORNER PEEKING
+================================================================================
+
+RECOMMENDED LOCK
+Project Warriors uses freeform tactical movement rather than a sticky cover mode. Shoulder choice, lean, stance, slow movement, and ADS combine to let the player slice corners and expose only what the geometry requires.
+
+NO SEPARATE COVER SNAP
+The player is not locked to a cover rail or forced into a canned corner animation. Cover-aware animation and collision assistance may solve the pose, but control remains continuous.
+
+CORE INPUT RELATIONSHIP
+- ADS controls sighted presentation.
+- Lean left/right controls lateral upper-body exposure.
+- Shoulder switch controls which side of the body carries the weapon.
+- Movement controls distance from the edge and the rate at which the angle opens.
+- Stance changes the height and available lean range.
+
+Together these create the peek. No dedicated "peek QTE" is required.
+
+PIEING A CORNER
+Corner slicing should emerge from:
+1. selecting the appropriate shoulder
+2. approaching at low or shouldered ready
+3. using slow lateral movement
+4. adding only as much lean as required
+5. entering ADS when the optic and muzzle can both clear the edge
+
+The mechanic should reward patience and geometry without forcing the player to perform an exaggerated sequence every time.
+
+STANCE SUPPORT
+Standing:
+- widest vertical field of view
+- greatest visible silhouette
+- full normal lean range
+
+Crouched:
+- lower exposure
+- slower lateral movement
+- useful for windows, furniture, vehicle cover, and low barricades
+
+Prone:
+- shoulder switching remains available where the weapon can physically move
+- vertical-corner leaning is sharply limited
+- the player may use small lateral body shifts, low-angle peeks, or edge exposure around ground-level cover
+- long weapons are more constrained by terrain and nearby objects
+
+MOVEMENT SUPPORT
+- leaning while stationary or moving slowly is permitted
+- lateral movement while ADS is permitted at a controlled pace
+- sprinting cancels ADS and normal lean
+- vaulting, sliding, climbing, and other high-mobility actions force an appropriate ready/compressed state
+- the selected shoulder persists where possible after the movement completes
+
+COLLISION / OBSTRUCTION RESPONSE
+When the weapon or body contacts nearby geometry:
+- the muzzle is pushed inward or upward/downward according to the surface
+- the weapon may enter a compressed-ready state
+- ADS is blocked if the optic cannot reach a usable eye line
+- firing is blocked or redirected only according to the actual muzzle solution
+- the player receives animation and mechanical-audio feedback before any optional UI cue
+
+Standard difficulty may use a restrained obstruction indicator. Maximum realism should rely primarily on visible weapon compression, sight occlusion, and the failure of the muzzle to clear.
+
+OPTIC AND MUZZLE CLEARANCE ARE SEPARATE
+The player may sometimes see past an edge before the muzzle is clear, or clear the muzzle before a magnified optic has a usable eye box. The game should model both rather than assuming the camera view guarantees a valid shot.
+
+BLIND FIRE
+Blind fire is not a default universal mechanic. The player should normally expose enough of the weapon and sight line to aim. Rare authored one-handed or vehicle states may permit unsighted emergency fire, but these are exceptions with reduced control and no false precision.
+
+DOORWAYS AND TIGHT INTERIORS
+The system should support:
+- slicing door frames
+- checking opposing corners
+- changing shoulders before crossing a fatal funnel
+- keeping a compact weapon shouldered in narrow corridors
+- compressing a long weapon rather than clipping it through the frame
+- re-extending automatically only when there is space
+
+AIM-STATE CONTINUITY
+Switching shoulders while ADS:
+- briefly breaks the sight picture
+- transitions through center/compressed presentation
+- reacquires the optic on the new side
+- does not reset magnification, reticle, laser, fire selector, or other weapon settings
+
+Leaning while ADS:
+- preserves the selected shoulder
+- preserves the sight setting
+- remains limited by eye box, stock, helmet/gear, and cover collision
+
+NPC PARITY
+Allied and enemy NPCs should use the same broad geometry:
+- lower-tier enemies overexpose, fail to switch shoulders, or stay on a poor side
+- trained regulars use basic near-side cover presentation
+- elite enemies deliberately change shoulders, minimize exposure, and break contact before clearing a weapon malfunction
+
+They should not shoot accurately through cover simply because their animation has not caught up.
+
+================================================================================
+04. WEAPON MALFUNCTION AND FIELD-CLEARING SYSTEM
+================================================================================
+
+RECOMMENDED LOCK
+Clearable weapon malfunctions are uncommon but meaningful field states. The reload input doubles as the universal "restore this weapon to a firing condition" input, and the resulting animation is selected from the weapon's actual stored mechanical state.
+
+CORE PRINCIPLE
+The malfunction system must create tactical decisions, not arbitrary punishment.
+
+A maintained issued weapon with appropriate ammunition and an undamaged magazine should have a very low base malfunction rate. Malfunctions become materially more likely when the fiction gives the player a reason to expect them.
+
+RISK SOURCES
+- damaged, dirty, corroded, captured, or neglected weapons
+- damaged or low-quality magazines, belts, links, or feed devices
+- poor, contaminated, mismatched, or improvised ammunition
+- sand, mud, ice, water, debris, and extreme environmental exposure
+- high heat and sustained fire
+- suppressor backpressure or unsuitable ammunition/platform combinations
+- severe impact, blast damage, or partial mechanical damage
+- an interrupted or incorrectly completed reload
+- authored weapon-specific vulnerabilities
+
+NO PURE PER-SHOT LOTTERY
+A pristine weapon should not roll an equal random failure chance on every shot. Risk should accumulate from condition, environment, heat, ammunition, and handling, with bounded randomness used only inside a plausible risk state.
+
+The player should usually be able to infer why the stoppage occurred, even when the exact cause is not named on screen.
+
+CLEARABLE FIELD STATES
+The exact taxonomy varies by weapon family, but the common gameplay states include:
+- failure to fire / dud or light-strike event
+- magazine not fully seated
+- failure to feed / bolt or slide not fully in battery
+- ejection-port obstruction / stovepipe-type casing trap
+- failure to extract or casing retained in the chamber
+- double feed
+- belt, link, box, or feed-cover stoppage on support weapons
+- shotgun shell-feed or cycling stoppage
+- bolt-action feeding, extraction, or ejection stoppage
+
+The animation must match the platform. The player does not perform an AR-style clearing routine on every firearm.
+
+RELOAD / CLEAR INPUT
+The reload key or button is contextual:
+- ready weapon with available replacement ammunition: normal reload
+- incomplete reload: resume the stored reload recovery
+- simple stoppage: immediate-action clear
+- complex stoppage: longer remedial clear
+- hard-disabled weapon: no false clearing animation; the system communicates that field restoration is unavailable
+
+One press begins the appropriate recovery action. The player is not required to identify an invisible internal state through a menu before acting.
+
+MAXIMUM-REALISM OPTION
+Maximum realism may withhold the textual malfunction label and rely on:
+- trigger response
+- action/bolt/slide position
+- visible casing or feed condition
+- mechanical sound
+- recoil impulse or lack of cycling
+- inspect view when time permits
+
+Input simplicity remains the same. Realism comes from diagnosis, timing, vulnerability, and physical persistence, not from an arbitrary button-combination minigame.
+
+IMMEDIATE VS REMEDIAL ACTION
+Simple stoppages use a short immediate-action sequence appropriate to the weapon.
+
+Complex states such as a double feed, retained casing, or belt-feed problem require a longer sequence that may include:
+- locking or opening the action
+- removing or reseating the feed source
+- cycling or manually clearing the obstruction
+- reloading or re-feeding
+- chambering and confirming readiness
+
+The exact motion remains weapon-specific and should be authored in animation families.
+
+PERSISTENT INTERRUPTION
+All malfunction clearing inherits the persistent mechanical-state system:
+- if the magazine has been removed, it stays removed
+- if a live round or casing has been ejected, it remains lost/ejected
+- if the action is locked open, it remains open
+- if the player switches weapons, sprints, is hit, vaults, or abandons the clear, the partial state persists
+- reselecting the weapon and pressing reload resumes from the nearest credible recovery action
+
+Nothing resets to a ready weapon merely because the animation stopped.
+
+CLEAR OR TRANSITION
+The player always has a tactical choice:
+- clear the malfunction now
+- transition to a sidearm or secondary weapon
+- move to better cover first
+- abandon or replace the weapon if the situation allows
+
+A simple stoppage may be faster to clear than changing weapons. A double feed or extraction problem may make an emergency transition the better close-range choice.
+
+MOVEMENT DURING CLEARING
+- simple clears may be performed while walking or crouched
+- complex clears reduce movement and break ADS
+- sprinting, climbing, vaulting, melee, and some injury reactions interrupt the action
+- prone clearing is supported when physically credible but may be slower for long or support weapons
+- no animation invulnerability
+
+SHOULDER-STATE INTERACTION
+A clear animation may temporarily center or compress the weapon. When complete, it returns to the previously selected valid shoulder. A malfunction does not silently reset the weapon to the dominant side.
+
+LEARNED / CHARACTER-SPECIFIC HANDLING
+Protagonists use professionally credible clearing behavior. Differences should follow:
+- familiarity with the platform
+- weapon class
+- training and role
+- current injury state
+- available space
+
+The game should avoid large invisible character bonuses. Competence is shown through animation economy, reaction speed, and reduced unnecessary motion.
+
+AUDIO / VISUAL READABILITY
+The malfunction should be readable through physical cues:
+- dead trigger or click
+- abnormal bolt/slide position
+- visible trapped casing or feed condition
+- incomplete return to battery
+- unusual recoil/cycle sound
+- repeated action noise without discharge
+- character hand movement toward the affected control
+
+Standard difficulty may surface a small contextual CLEAR MALFUNCTION or COMPLETE ACTION prompt when needed. No full-screen warning or arcade status banner is required.
+
+INSPECT VIEW
+When safe, inspect may expose:
+- visible obstruction
+- magazine/feed state
+- action position
+- heat/condition cues
+- whether a field clear is still possible
+
+The inspect overlay should not reveal inaccessible hidden internals as an x-ray diagram.
+
+NPC PARITY
+NPC weapons may malfunction under the same broad conditions.
+- irregular enemies may hesitate, stare at the weapon, repeat an ineffective action, or expose themselves
+- trained troops seek cover and perform a basic clear
+- elite enemies immediately decide between transition, movement, and remedial action
+- NPCs cannot instantly recover a fully ready weapon after a visible stoppage
+
+The rate must remain low enough that combat outcomes do not feel decided by invisible dice.
+
+================================================================================
+05. HARD / DISABLING FAILURES
+================================================================================
+
+RECOMMENDED LOCK
+Non-scripted fully disabling failures are exceptional. They should not be a common ambient outcome for normal weapons and should never randomly erase a signature weapon from the campaign.
+
+POSSIBLE HARD-DISABLED STATES
+- broken critical component
+- severe receiver, barrel, stock, optic, or feed-system damage
+- catastrophic magazine/feed-device damage with no replacement
+- ruptured or firmly stuck case that cannot be cleared in contact
+- bore obstruction or other condition that makes firing unsafe
+- weapon destroyed by blast, vehicle impact, crushing, fire, or authored damage
+
+USAGE RULE
+Hard failures should be:
+- scripted for story or mission purposes; or
+- condition-gated behind severe neglect, extreme contamination, major damage, or knowingly unsuitable ammunition; and
+- telegraphed through prior condition, impact, or visible damage wherever possible
+
+SIGNATURE WEAPON PROTECTION
+Named/signature weapons may be temporarily disabled by authored events, but routine background randomness should not permanently remove them. Restoration, replacement, or narrative handling must be deliberate.
+
+PLAYER RESPONSE
+A hard-disabled weapon can be:
+- retained for later repair
+- abandoned
+- replaced with a field pickup
+- restored only at an appropriate safe area, armorer, workbench, or mission-support node
+- recovered through an authored repair interaction where the fiction supports it
+
+The reload input must not play a dishonest "clear" animation when the weapon is mechanically beyond field recovery.
+
+================================================================================
+06. DIFFICULTY, ACCESSIBILITY, AND FAIRNESS
+================================================================================
+
+STANDARD / LOWER DIFFICULTY
+- normal maintained weapons rarely malfunction outside authored or extreme-condition cases
+- clear action is automatically selected from the stored state
+- restrained prompt may identify that the reload input will clear the weapon
+- modest cover/shoulder alignment assistance
+- optional auto-near-shoulder suggestion or auto-selection
+- reduced camera motion and switch-animation intensity options
+
+REALISM / MAXIMUM REALISM
+- condition- and environment-driven stoppages enabled at intended frequency
+- reduced or absent textual diagnosis
+- stricter muzzle/optic/cover geometry
+- less alignment correction
+- more meaningful support-side settling and weapon-length constraints
+- full persistent interruption and ammunition/feed consequences
+
+FAIRNESS PROTECTIONS
+- no immediate repeat-malfunction streak after a successful clear unless the underlying damage/feed source remains unresolved
+- no unexplained high malfunction rate on pristine signature weapons
+- no hidden accuracy bonus for exposing more of the body
+- no camera shift without matching body exposure
+- no AI immunity to obstruction or malfunction state
+- no compulsory shoulder automation that fights player intent
+
+ACCESSIBILITY / CONTROL OPTIONS
+- shoulder switch toggle or hold
+- lean toggle or hold
+- rebindable shoulder and lean inputs
+- optional near-cover shoulder suggestion
+- optional auto-near-shoulder behavior
+- reduced weapon/camera translation
+- clearer obstruction and malfunction prompts
+- simplified malfunction frequency without removing authored story events
+
+================================================================================
+07. IMPLEMENTATION BOUNDARY / OPEN OWNER ADJUDICATION
+================================================================================
+
+THIS PAGE PROPOSES
+- all shoulderable weapons support tactical shoulder switching
+- freeform lean + stance + movement + ADS replaces sticky cover snapping
+- cover benefit is produced through actual pose and muzzle geometry
+- reload input becomes the universal contextual reload/clear/recovery input
+- clearable stoppages use weapon-specific immediate or remedial animation families
+- all clearing actions preserve physical state when interrupted
+- hard failures remain exceptional and condition- or story-gated
+- NPCs follow the same broad rules
+
+OWNER REVIEW QUESTIONS
+1. Should support-side shoulder use carry any measurable handling penalty on the default difficulty, or only on realism settings?
+2. Should optional auto-near-shoulder behavior exist, or should the mechanic remain fully manual at every difficulty?
+3. On maximum realism, should the first reload press always select the correct clear automatically, or should repeated input distinguish immediate action from a longer remedial clear?
+4. Should field maintenance / cleaning be expanded now as the main prevention mechanic, or remain a later linked system?
+5. Should hard-disabled non-signature weapons remain recoverable for later repair, or default to discard/replacement unless the mission explicitly supports recovery?
+
+PRODUCTION WORK NOT FINALIZED HERE
+- exact input map by platform
+- exact transition and clear timings
+- complete animation matrix by weapon family
+- protagonist handedness table
+- final pose/collision solver
+- final AI use rates
+- final malfunction probability model
+- final weapon-condition and maintenance UI
+- final per-difficulty coefficients
+- exact list of scripted hard-failure moments
+
+END OF DOCUMENT
