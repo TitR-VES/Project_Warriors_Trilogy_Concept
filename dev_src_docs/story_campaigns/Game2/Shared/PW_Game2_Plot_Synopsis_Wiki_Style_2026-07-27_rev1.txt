@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 2 PLOT SYNOPSIS RECAPITULATION
 Generated: 2026-07-27
-Version: rev1
+Version: rev2
 Status: DERIVATIVE REFERENCE / WIKI-STYLE NARRATIVE SYNTHESIS WITH DEVELOPMENT-GAP FLAGS
 Scope: Project Warriors, Game 2 — all three main story campaigns
 
@@ -8,7 +8,7 @@ AUTHORITY NOTE
 
 This document recapitulates the currently landed Game 2 campaign ontology and source hierarchy in readable community-wiki prose. It is a derivative narrative reference, not a substitute for the campaign ontology, mission source pages, timeline authority, character sources, technical canon, or later dedicated campaign ladders.
 
-Game 2 is less evenly developed than Game 1. AMERICAN FREEDOM has a strongly landed Calloway opening and resistance-formation arc, but its bridge from Coronado and its continuation beyond the local Kentucky climax remain incomplete. PERSISTENT THREAT contains several locked mission blocks and a clear institutional-investigation spine, but does not yet have one reconciled end-to-end mission ladder. GODKILLER has a locked campaign identity, thematic architecture, and several sequel-continuity assets, but lacks a repository-verifiable timeline-track binding and a full source-ready campaign ladder.
+All three Game 2 campaigns are source-ready at compendium level, but their dedicated mission-page coverage remains uneven. AMERICAN FREEDOM has a strongly landed Calloway opening and resistance-formation arc, while its bridge from Coronado and continuation beyond the local Kentucky climax remain incomplete. PERSISTENT THREAT has a stable core ladder plus several later source-landed mission blocks whose final integration remains unresolved. GODKILLER has a structured three-track campaign identity and source-ready mission anchors, but lacks a repository-verifiable timeline-track binding and still needs fuller connective plotting, chronology, and dedicated mission-source parity.
 
 Statements marked [DEVELOPMENT GAP] identify missing or unreconciled development. They do not create new canon or imply that an unresolved option has been selected.
 
@@ -69,13 +69,15 @@ The second campaign follows Sergeant First Class Ferris “Ducky” Ryan and AEG
 
 Persistent Threat is built around the discovery that the enemy is not simply attacking European infrastructure from outside. Russian technical and intelligence elements are using knowledge of AEGIS-adjacent architecture to hide relay, certification, deception, and access systems inside the ordinary mechanisms through which Europe already functions. Commercial logistics, temporary installations, contractor credentials, exhibition facilities, industrial service routes, power, cooling, fiber, and protected civilian movement become part of the battlefield.
 
-AEGIS therefore begins conducting reconnaissance, sabotage, technical recovery, and denial operations across degraded NATO territory and Russian-controlled spaces. The campaign's military action is inseparable from evidence preservation. Destroying an active relay may prevent an immediate attack, but recovering its labels, timing data, certification records, or routing core may expose the next site in the chain. Ducky repeatedly has to decide what can be destroyed, what must be carried out, and how many people can be risked to preserve proof.
+The compendium layer preserves a stable core sequence running through “Cold Open,” “Dead Frequency,” “Hard Winter,” “Permafrost,” “Hull Breach,” and the finale “AEGIS Falls.” Later source work substantially expands the middle of that structure with Brno, Bakhmut, resistance-facing operations, and additional industrial and NATO-space material. These additions strengthen the campaign but require a fresh ladder reconciliation rather than being treated as if the earlier core sequence never existed.
+
+AEGIS conducts reconnaissance, sabotage, technical recovery, and denial operations across degraded NATO territory and Russian-controlled spaces. The campaign's military action is inseparable from evidence preservation. Destroying an active relay may prevent an immediate attack, but recovering its labels, timing data, certification records, or routing core may expose the next site in the chain. Ducky repeatedly has to decide what can be destroyed, what must be carried out, and how many people can be risked to preserve proof.
 
 One mid-campaign operation, “Open Circuit,” brings AEGIS and the attached SHIELD exploitation team into the service side of the Brno Exhibition Centre. The visible technical floor is a decoy; the real site is hidden along a more heavily protected service artery. AEGIS secures a repurposed relay floor while SHIELD images and removes its routing core, proving that Brno is one node in a larger continental system. When the site locks down and the two teams are forced onto parallel routes, French Rafale support under the KERAUNOS callsign breaks a vehicle-and-overwatch choke point long enough for them to recombine and escape with the package.
 
 [DEVELOPMENT GAP — OPEN CIRCUIT PLACEMENT] “Open Circuit” is locked as a mid-campaign mission, but its exact number and its relationship to “Dead Frequency” and “Hard Winter” remain open. The mission cannot displace the locked sequence that leads from those operations into Bakhmut and then Svalbard.
 
-The strongest currently ordered block begins with “Dead Frequency” at a converted NATO facility in northern Estonia. After completing the primary objective, AEGIS withdraws under closing pursuit while Swedish Archer artillery under the ARTEMIS callsign shapes the enemy's approach routes. The fire mission is presented as disciplined allied support integrated into a wider war, not as a miraculous rescue.
+“Dead Frequency” takes place at a converted NATO facility in northern Estonia. After completing the primary objective, AEGIS withdraws under closing pursuit while Swedish Archer artillery under the ARTEMIS callsign shapes the enemy's approach routes. The fire mission is presented as disciplined allied support integrated into a wider war, not as a miraculous rescue.
 
 “Hard Winter” carries the investigation into a harsher phase of the European campaign and leads into a three-mission Bakhmut mini-arc. In “Dead Ground,” AEGIS links up with a Ukrainian veteran cell led by Captain Oleksandr Honcharenko and begins recognizing the geometry of a protected technical site inside the ruined city. Frost temporarily becomes playable to clear controller and overwatch positions whose survival would compromise the route.
 
@@ -85,41 +87,49 @@ The arc concludes with “Ash Relay,” a Ducky-led assault on the municipal com
 
 AEGIS returns to Svalbard in “Permafrost,” where the northern strike package threatens the infrastructure that survived the first game's opening crisis. After the relevant node is destroyed, Norwegian K239 Chunmoo rocket artillery under the TYPHON callsign collapses inland pursuit routes and creates a temporary coastal extraction window. The team reaches a rigid-inflatable craft under fire, but the operation again buys time rather than ending the campaign's larger systems war.
 
-Persistent Threat also includes source-backed material for operations around Torrejón Air Base, the Julian Alps, an ASML-related high-value industrial defense mission, and other resistance or degraded-NATO environments. These belong to Game 2 rather than Ducky's first-game ladder, but their chronology and exact narrative function have not yet been reconciled into the campaign spine.
+Persistent Threat also includes source-backed material for operations around Torrejón Air Base, the Julian Alps, an ASML-related high-value industrial defense mission, and other resistance or degraded-NATO environments. These belong to Game 2 rather than Ducky's first-game ladder, but their chronology and exact narrative function have not yet been reconciled into the expanded campaign spine.
 
-[DEVELOPMENT GAP — FULL CAMPAIGN LADDER] The repo does not yet contain one authoritative end-to-end Persistent Threat mission ladder. The opening bridge from the Rotterdam finale, the order of the Torrejón, Julian Alps, ASML, Brno, Estonia, and deeper-winter material, and the transitions between the major operation blocks require a dedicated consolidation pass.
+[DEVELOPMENT GAP — EXPANDED CAMPAIGN-LADDER RECONCILIATION] The repo contains a source-ready core ladder and multiple later mission blocks, but not yet one current ladder that integrates all of them without contradiction. The opening bridge from the Rotterdam finale, the placement of Torrejón, the Julian Alps, ASML, Brno, Estonia, Bakhmut, Svalbard, and the movement into the late strategic endgame require a dedicated consolidation pass.
 
-The campaign is intended to resolve the long-running ambiguity surrounding Lieutenant General Callum Tremblay rather than carry the question unchanged into the next installment. Its final mission title is “AEGIS Falls,” while Persistent Threat remains the campaign title. The legacy strategic spine also points toward AEGIS preventing a Russian undersea strategic attack against northeastern France after operating deeper inside Russian-controlled territory.
+The campaign resolves the long-running ambiguity surrounding Lieutenant General Callum Tremblay rather than carrying the question unchanged into the next installment. Its final mission title is “AEGIS Falls,” while Persistent Threat remains the campaign title. The strategic spine points toward AEGIS preventing a Russian undersea attack against northeastern France after operating deeper inside Russian-controlled territory.
 
-[DEVELOPMENT GAP — AEGIS FALLS AND LATE CLIMAX] The precise target architecture, route into the finale, status of the legacy “salted” undersea weapon concept, Tremblay's exact conduct and fate, the squad's casualties or institutional consequences, and the final playable sequence have not yet been landed in a focused current source. The only locked bridge into Game 3 is that the Tremblay confrontation and active ambiguity are resolved by the end of Game 2, leaving Failsafe to inherit the consequences rather than repeat the mystery.
+[DEVELOPMENT GAP — AEGIS FALLS AND LATE CLIMAX] The precise target architecture, route into the finale, status of the legacy “salted” undersea weapon concept, Tremblay's exact conduct and fate, the squad's casualties or institutional consequences, and the final playable sequence have not yet been landed in a focused current source. The locked bridge into Game 3 is that the Tremblay confrontation and active ambiguity are resolved by the end of Game 2, leaving Failsafe to inherit the consequences rather than repeat the mystery.
 
 -------------------------------------------------------------------------------
 GODKILLER
 -------------------------------------------------------------------------------
 
-The third campaign follows Trevor “Spook” Gartner and the remaining Victor Two Bravo operators after CIA Director of Operations Robert Macmillan declares the team rogue at East McFarlane Island. The public and institutional record treats Edward Goldberg's story as closed, but Spook begins finding inconsistencies that should not exist if the architect of Riptide Red is truly dead. Active shell companies, financial movement, old access records, protected witnesses, surveillance traces, and the continuing behavior of the network all point toward the same conclusion: Goldberg survived the first game's confrontation and has used the war to disappear behind an official death.
+The third campaign follows Trevor “Spook” Gartner and Victor Two Bravo after CIA Director of Operations Robert Macmillan declares the team rogue at East McFarlane Island. The public and institutional record treats Edward Goldberg's story as closed, but Spook begins finding inconsistencies that should not exist if the architect of Riptide Red is truly dead. Active shell companies, financial movement, old access records, protected witnesses, surveillance traces, and the continuing behavior of the network all point toward the same conclusion: Goldberg survived the first game's confrontation and has used the war to disappear behind an official death.
 
 Godkiller is therefore less a conventional pursuit than an investigation into whether an individual can be meaningfully removed while the system that protected him remains intact. The campaign's title refers not only to hunting a man with a self-created myth of untouchability, but to destroying the institutional certainty that allows powerful conspirators to declare themselves beyond consequence.
 
+The current compendium layer records Godkiller as a structured three-track campaign with a source-ready set of mission anchors. Spook owns the Katja Budanova and Goldberg pursuit lane; Tripper follows Hartwell, Vela 2, and the buried strategic architecture; Smoke sustains clandestine resistance networks and covert movement. The synopsis remains thematic where dedicated mission pages and exact connective chronology have not yet caught up with that compendium-level structure.
+
 A hidden cache on East McFarlane Island provides one possible bridge into the campaign. Players who discovered the cache in the first game possess a symbol and coordinates that can unlock an otherwise concealed Game 2 location. Inside is an unredacted Riptide Red report written by Matthew Mullen, formerly Victor Two Bravo's handler under the callsign Regent. The report reveals deeper FSB and CIA penetration, evidence that the conspiracy predates PANDORA by decades, and material implicating institutions far beyond the figures exposed at Montoya Farm.
 
-The discovery triggers the “Find Regent” storyline and reframes Mullen's disappearance. The interrupted transmission in Frankfurt, the manually redacted Montoya file, and Macmillan's slip at the East McFarlane helipad become evidence that Regent was attempting to expose the conspiracy and was removed before he could reach Spook directly. His decision to hide the report rather than publish it creates the campaign's central moral problem: the truth is so broad, destabilizing, and institutionally implicating that releasing it during a world war could cause damage on a scale that no surviving authority can control.
+The discovery reframes Mullen's disappearance. The interrupted transmission in Frankfurt, the manually redacted Montoya file, and Macmillan's slip at the East McFarlane helipad become evidence that Regent was attempting to expose the conspiracy and was removed before he could reach Spook directly. His decision to hide the report rather than publish it creates the campaign's central moral problem: the truth is so broad, destabilizing, and institutionally implicating that releasing it during a world war could cause damage on a scale that no surviving authority can control.
 
-[DEVELOPMENT GAP — FIND REGENT IMPLEMENTATION] The hidden-report mechanic and Regent's role as a major Game 2 whistleblower are locked, but the report's physical location, the route by which non-cache players enter the storyline, Regent's survival status, the number and order of related missions, and the ultimate outcome of the search remain undeveloped.
+[DEVELOPMENT GAP — REGENT ACCESS, REUNION, AND OUTCOME] “Regent” exists as a source-ready mission anchor and Mullen's reappearance is part of the campaign structure. What remains open is the exact period between his disappearance and resurfacing, the cache's role in the main versus hidden route, the access path for players without the Game 1 discovery, and the detailed outcome and consequences of the reunion.
 
 Spook also returns to the consequences of a humane choice made in the first game. Simenon Navarre and Karyna Budanova, now living as Simon-Pierre Aubert and Katja Reimann in Évora, were given new identities through the CIA. Their apparent protection fails when the GenCorp, Palisade Systems, and Bastion Infotech surveillance architecture identifies them again. Katja's insider knowledge makes her one of the most valuable living witnesses against the corporate layer of the conspiracy, while Navarre's belief that official protection could give them a new life becomes another quiet indictment of the institutions that failed them.
 
 Victor Two Bravo must decide how much operational risk to accept in order to preserve Katja, her knowledge, and the evidence surrounding her exposure. The campaign does not treat witness protection as a detached side objective. Keeping people alive is part of the same accountability mission as recovering files. A conspiracy cannot be prosecuted or publicly understood if every witness is allowed to disappear while operators concentrate only on killing its armed personnel.
 
-[DEVELOPMENT GAP — ÉVORA / WITNESS-PROTECTION ARC] The return of Navarre and Budanova is canonical, as is Katja's importance as a witness. It remains unresolved whether their exposure came primarily from a compromised CIA contact or from the reach of the surveillance system itself, and the repo does not yet contain a complete mission chain or fixed outcome for their protection.
+[DEVELOPMENT GAP — ÉVORA / WITNESS-PROTECTION ARC] The return of Navarre and Budanova is canonical, as is Katja's importance as a witness. It remains unresolved whether their exposure came primarily from a compromised CIA contact or from the reach of the surveillance system itself, and the repo does not yet contain a complete dedicated mission chain or fixed outcome for their protection.
 
-The broad Godkiller architecture follows three connected tracks. Spook protects witnesses and searches for Regent; Victor Two Bravo conducts intelligence operations designed to fracture the alliance between conspirators, corporations, and foreign partners; and the team covertly arms resistance movements operating inside enemy-controlled territories. These actions are unified by accountability rather than immediate battlefield victory. Every operation is intended to make it harder for the people who engineered the war to survive its end with their money, records, and influence intact.
+La Avispa becomes a structurally important adjacent figure rather than detached sequel bait. Several operations force her and Spook to work together despite mutual suspicion, with each learning parts of the other's history as necessity turns into professional trust. Her underworld knowledge connects the witness-protection, buried-architecture, and resistance-support lanes without replacing Victor Two Bravo as the campaign's principal team.
 
 Goldberg's survival becomes increasingly visible through protected spaces and intermediaries rather than through a simple sequence of direct confrontations. The campaign's promotional architecture culminates in Spook seeing Goldberg alive and unhurried after the official record has already declared him dead. Spook's statement—“You can't kill a dead man”—captures the problem facing the campaign: Goldberg's public death has become another layer of protection, because institutions no longer have to search for, charge, or explain the actions of a man they insist no longer exists.
 
-The intended campaign arc moves Spook from exposing one conspiracy to preserving an actionable record of a wider system. By its end, he should understand that killing Goldberg alone would not dismantle the architecture that created PANDORA, compromised multiple governments, and adapted to the world war. This widening perspective provides the thematic bridge into Dark Skies, where Spook's investigation expands beyond the domestic-coup frame into the larger global order that exploited the collapse.
+The campaign closes on private readiness rather than public resolution. The protected exchange—“Ask me again.” / “Give me a minute... Okay. I'm ready.”—frames its end state as the decision to continue after the scale of the surviving architecture has become undeniable.
 
-[DEVELOPMENT GAP — FULL GODKILLER SPINE AND ENDING] Godkiller currently has no repository-verifiable stable timeline-track ID and no complete source-ready campaign ladder. The locations and order of the destabilization and resistance-support operations, the exact role of Tripper and Smoke after Victor Two Bravo is declared rogue, the relationship between the Regent and Katja arcs, the campaign's intersection with Crodyn's address, the final confrontation or non-confrontation with Goldberg, and the precise handoff into Dark Skies remain open. Goldberg's escape mechanism may remain intentionally undisclosed, but the campaign still requires a defined playable ending and consequence state.
+DOWNSTREAM CONTINUITY — DARK SKIES
+
+Spook's Game 3 campaign is not an undeveloped destination. Dark Skies is source-landed as a four-act, thirteen-mission working campaign: Bad Omens, Private Route, Wrong Signature, and Dark Skies. Its opening block runs through “Dawn of Mercy,” “Mercy Line,” “Order and Progress,” and “Outer Port.” “Dawn of Mercy” is the Seattle relief-ship and civic-logistics opening. The source hierarchy places “Order and Progress” inside the Brazil opening block. “Outer Port” is the Tomakomai, Hokkaido contact mission in which Spook meets Denis “Sakhalin” Malinin of Procella.
+
+The campaign then shifts through the private-route phase into the older La Avispa / Laos-to-Yunnan material. The Yunnan crossing is retained as an interactive, low-input, high-tension sequence rather than a passive cinematic, and the later wrong-signature and strategic-architecture phase brings Lin Yueh-ting, also known as Y. T. Lin, from a theoretical objective into an active campaign figure. Wei Junlong, the Bastion–Atlas–GenCorp overlap, and Goldberg's wider-war articulation complete the expansion beyond the domestic-coup frame.
+
+[DEVELOPMENT GAP — GODKILLER ENDING AND INTER-GAME TRANSFER] The missing development is not the Dark Skies campaign structure. It is the exact Godkiller ending operation, Goldberg consequence state, team status, chronology, and narrative handoff that carry Spook from the end of Game 2 into the already established Seattle–Brazil–Tomakomai–Yunnan Game 3 spine. Godkiller also still lacks a repository-verifiable stable timeline-track ID.
 
 ===============================================================================
 CONSOLIDATED DEVELOPMENT-GAP REGISTER
@@ -135,23 +145,21 @@ AMERICAN FREEDOM
 - create the campaign's final operation and ending state.
 
 PERSISTENT THREAT
-- create one authoritative full campaign ladder;
-- place “Open Circuit” relative to “Dead Frequency” and “Hard Winter”;
-- integrate Torrejón, the Julian Alps, the ASML operation, and other degraded-NATO material;
+- reconcile the stable core ladder with Brno, Bakhmut, Torrejón, the Julian Alps, ASML, and other later mission blocks;
 - define the opening bridge from Rotterdam and the movement into the continental systems war;
+- place “Open Circuit” relative to “Dead Frequency” and “Hard Winter”;
 - determine whether the Ukrainian Bakhmut cell recurs;
 - source-land the late strategic target and the complete “AEGIS Falls” finale;
 - resolve Tremblay's exact actions, fate, and institutional consequences.
 
 GODKILLER
 - recover or source-lock the campaign's stable timeline-track ID;
-- develop an end-to-end campaign ladder and chronology;
-- define the “Find Regent” access path, mission chain, and outcome;
+- reconcile the compendium-level mission anchors with dedicated mission pages and exact chronology;
+- define the Regent access route, reunion sequence, and outcome;
 - complete the Évora witness-protection arc and decide how Katja and Navarre were re-exposed;
-- locate and order the intelligence-destabilization and resistance-support missions;
-- define the operational status of Tripper and Smoke after East McFarlane;
+- fully connect the Spook, Tripper, and Smoke tracks mission by mission;
 - determine the campaign's synchronization with Crodyn's address;
-- write the final playable operation, Goldberg consequence state, and bridge into Dark Skies.
+- write the final playable operation, Goldberg consequence state, and exact transfer into the established Dark Skies spine.
 
 CROSS-CAMPAIGN
 - source-land the exact shared chronology around Crodyn's wartime address;
