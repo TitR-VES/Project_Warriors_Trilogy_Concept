@@ -1,0 +1,418 @@
+================================================================================
+PROJECT WARRIORS — WEAPONS WIKI-STYLE ENTRY
+GRAY GHOST
+Version: 2026-07-27 rev1
+Status: SOURCE-READY DERIVATIVE ENTRY
+================================================================================
+
+SOURCE AUTHORITY
+- Core build specification: named_weapon_builds_v2_2.txt — BUILD 01
+- Registry identity: named_weapon_builds_v2_8.txt plus v2.9 correction layer
+- Nightfall variant source: GRAY_GHOST_Nightfall_Config_rev3_FINAL.txt
+
+EDITORIAL NOTE
+This is a Fandom/community-wiki-style presentation page derived from the controlling
+weapon sources. Where gameplay values extend beyond real-world performance, the text
+labels them as game abstractions rather than presenting them as real firearm claims.
+
+================================================================================
+GRAY GHOST
+================================================================================
+
+GRAY GHOST is a named assault carbine and the signature primary weapon of Trevor
+“Spook” Gartner in the Project Warriors series. It is based on a select-fire Noveske
+Rifleworks N-4 Gen3 chambered in .300 AAC Blackout and combines the accuracy of a
+high-quality AR-pattern rifle with the compact dimensions of a close-quarters carbine.
+
+The weapon is distinguished by its 10.5-inch barrel, solid dark-gray finish,
+suppressor-ready configuration, and combined red-dot and flip-to-side 3x magnifier.
+Although designed primarily for covert operations and close-to-intermediate-range
+engagements, it can function as a lightweight marksman’s weapon in the hands of a
+skilled player.
+
+--------------------------------------------------------------------------------
+SPECIFICATIONS
+--------------------------------------------------------------------------------
+
+Weapon class:      Assault carbine / compact marksman carbine
+Platform:          Noveske Rifleworks N-4 Gen3
+Caliber:           .300 AAC Blackout
+Barrel length:     10.5 inches
+Feed system:       30-round detachable STANAG magazine
+Fire modes:        Semi-automatic and fully automatic
+Primary user:      Trevor “Spook” Gartner
+Primary optic:     Aimpoint Micro T-2 1x22 red-dot sight
+Magnifier:         Flip-to-side Aimpoint 3x magnifier
+Backup sights:     45-degree offset MBUS Pro iron sights
+Suppressor:        SureFire SOCOM300-SPS
+Standard finish:   Solid dark-gray Cerakote
+Default ammunition:.300 BLK subsonic
+Alternatives:      .300 BLK supersonic and specialized penetration loads
+
+--------------------------------------------------------------------------------
+OVERVIEW
+--------------------------------------------------------------------------------
+
+GRAY GHOST occupies the middle ground between a suppressed close-quarters weapon and
+a conventional precision rifle. Its short barrel and relatively low overall weight
+make it highly maneuverable inside buildings, vehicles, stairwells, and other confined
+environments. Its high-quality barrel and magnifier also allow accurate fire well
+beyond the distances normally associated with compact carbines.
+
+The weapon is especially effective from point-blank range to approximately 300 yards.
+Within this envelope, it combines high damage, rapid target acquisition, exceptional
+accuracy, and little unnecessary bulk. Spook can engage multiple close targets through
+the unmagnified red-dot sight and flip the 3x magnifier into place when a more distant
+or partially exposed target appears.
+
+At longer ranges, GRAY GHOST remains capable but becomes increasingly dependent on
+player skill. Its projectiles follow a noticeably arcing trajectory, particularly when
+subsonic ammunition is loaded. Accurate hits beyond 300 yards require the player to
+judge distance and compensate for bullet drop rather than placing the reticle directly
+over the target.
+
+Around 600 yards, the weapon reaches the practical outer edge of its gameplay role. A
+sufficiently skilled player can still engage exposed personnel at this distance with
+supersonic ammunition, but GRAY GHOST is not a replacement for a dedicated sniper or
+precision rifle. Its low magnification, pronounced trajectory, and declining projectile
+velocity make long-range hits difficult and situational.
+
+--------------------------------------------------------------------------------
+DESIGN
+--------------------------------------------------------------------------------
+
+GRAY GHOST uses a select-fire Noveske N-4 Gen3 receiver set with a 10.5-inch .300
+Blackout barrel and an NWS-9 M-LOK handguard. Its compact dimensions make it easy to
+shoulder rapidly and prevent the muzzle from becoming obstructive when moving through
+doorways or working around vehicle interiors.
+
+The weapon is finished almost entirely in solid dark-gray Cerakote and carries no
+decorative pattern or prominently displayed personal markings. During the weapon-
+inspection animation, the player can see a faint factory marking reading “300 BLK” on
+the dust cover. The marking has been nearly erased by years of handling rather than
+intentionally removed.
+
+Its standard attachments include:
+- Aimpoint Micro T-2 red-dot sight on a 0.8-inch riser;
+- flip-to-side Aimpoint 3x magnifier;
+- 45-degree offset MBUS Pro backup sights;
+- SureFire Scout weapon light with extended momentary pressure switch;
+- milled aluminum low-profile angled skeleton grip with an integrated barrier stop;
+- SureFire SOCOM300-SPS suppressor; and
+- BE Meyers MAWL-DA laser aiming module once unlocked.
+
+The MAWL-DA becomes available after the events of BURNING DAYLIGHT. Once installed,
+it receives a unique inspection animation in which Spook briefly manipulates its
+activation dial and pulses the infrared aiming laser.
+
+Earlier development material incorrectly listed a 5.56 mm SureFire SOCOM556-RC2 as
+the weapon’s suppressor. The canonical suppressor is the .30-caliber SOCOM300-SPS,
+with the correction applying retroactively to every appearance of the weapon.
+
+--------------------------------------------------------------------------------
+GAMEPLAY
+--------------------------------------------------------------------------------
+
+HANDLING
+
+GRAY GHOST has one of the shortest aim-down-sight times among the game’s full shoulder
+weapons when the player uses the red dot alone. Its light receiver group, short barrel,
+and compact handguard allow Spook to bring it onto target quickly, including after
+sprinting, climbing, or transitioning out of another interaction.
+
+Its ADS performance is state-dependent:
+
+- Red dot only: VERY FAST
+- 3x magnifier engaged: FAST
+
+Engaging the magnifier therefore carries a small but deliberate handling penalty. Spook
+must establish a more precise eye position behind the magnified optic, and the reduced
+field of view makes rapid close-range target acquisition less forgiving. The magnifier
+is a situational tool for identification and precision at intermediate distance, not a
+catch-all upgrade that should remain deployed in every engagement.
+
+Switching between GRAY GHOST and Spook’s sidearm is similarly fast. This makes the
+carbine especially useful in missions where the player alternates between deliberate
+suppressed shooting and sudden close-range combat.
+
+Its reload is relatively quick, although reload and weapon-transition animations
+become marginally slower as heavier accessories are added. The suppressor, magnifier,
+weapon light, and laser module collectively make the final configuration more front-
+heavy than the base weapon. The penalty remains minor, and GRAY GHOST stays compact
+and responsive even when fully equipped.
+
+ACCURACY
+
+GRAY GHOST is one of the most accurate automatic weapons available in Spook’s
+campaigns. Semi-automatic fire produces extremely tight groups, while short automatic
+bursts remain controllable at close range.
+
+Its accuracy is most noticeable between 50 and 300 yards. At these distances, the
+player can move between rapid close-range aiming through the bare red dot and more
+deliberate precision fire through the magnifier without changing weapons.
+
+Automatic fire becomes progressively less useful beyond intermediate range. Although
+the rifle remains mechanically accurate, projectile drop and limited 3x magnification
+make carefully paced semi-automatic fire more effective.
+
+DAMAGE
+
+The weapon inflicts very high damage at close and moderate range. A small number of
+well-placed hits can incapacitate most unarmored enemies, while head, neck, and exposed
+pelvic shots remain effective against opponents wearing hard body armor.
+
+Supersonic ammunition retains damage more effectively over distance and gives GRAY
+GHOST its strongest extended-range performance. Subsonic ammunition carries greater
+projectile mass but loses velocity and trajectory rapidly, making it most effective
+inside the weapon’s intended close-to-intermediate engagement envelope.
+
+At approximately 600 yards, GRAY GHOST can still inflict lethal damage against exposed
+personnel, but shot placement becomes considerably more important. Poorly placed hits
+may wound rather than immediately incapacitate, especially against heavily equipped
+enemies.
+
+PENETRATION
+
+GRAY GHOST possesses a high penetration rating when loaded with the correct ammunition.
+Supersonic and specialized penetration loads can defeat helmets, light protective
+plates, vehicle bodywork, wooden cover, and some thin structural materials.
+
+Its armor performance is ammunition-dependent. The standard projectile does not
+automatically defeat every armor type, and the weapon cannot reliably penetrate heavy
+rifle plates or reinforced structural cover simply because it is chambered in .300
+Blackout.
+
+Within the game’s damage model, heavy subsonic ammunition retains unusually strong
+close-range barrier performance despite reduced velocity. This allows suppressed shots
+to remain dangerous against helmets, light armor, and intermediate cover without making
+stealth ammunition ineffective. Its penetration and damage fall off more quickly at
+extended range than those of the supersonic load.
+
+The weapon’s strongest armor-piercing behavior at long range is a gameplay abstraction
+associated with specialized in-universe ammunition rather than an inherent property of
+all real .300 BLK cartridges.
+
+--------------------------------------------------------------------------------
+AMMUNITION
+--------------------------------------------------------------------------------
+
+GRAY GHOST can use multiple .300 Blackout ammunition types. Changing ammunition
+requires replacing the complete magazine through the weapon-inspection interface; the
+player cannot convert a partially loaded magazine from one ammunition state to another.
+
+SUBSONIC AMMUNITION
+
+Subsonic ammunition is GRAY GHOST’s default covert load. It offers:
+- the lowest possible sound signature;
+- no supersonic ballistic crack;
+- reduced muzzle flash;
+- high close-range damage;
+- strong close-range barrier performance; and
+- easier recoil control during rapid fire.
+
+Its primary disadvantage is its curved trajectory. Bullet drop becomes significant
+beyond ordinary intermediate range and severe at longer distances. The player must
+apply substantial holdover well before reaching the weapon’s theoretical maximum range.
+
+Subsonic ammunition is best suited to interiors, urban infiltration, guarded compounds,
+and engagements inside approximately 200 to 300 yards.
+
+SUPERSONIC AMMUNITION
+
+Supersonic ammunition gives GRAY GHOST:
+- a flatter trajectory;
+- greater retained velocity;
+- improved damage at extended range;
+- stronger long-range penetration; and
+- a more forgiving point of aim between approximately 200 and 600 yards.
+
+It is considerably louder than subsonic ammunition. Even with the suppressor installed,
+the projectile creates a distinctive sonic crack as it passes through the air. Enemies
+may not immediately identify Spook’s exact firing position, but nearby personnel are
+more likely to recognize that suppressed rifle fire is occurring.
+
+In several missions, Tripper carries a limited supersonic magazine as a “break glass”
+option. Loading it represents a change in tactical posture: the operation may remain
+suppressed, but it is no longer truly quiet.
+
+--------------------------------------------------------------------------------
+SOUND PROFILE
+--------------------------------------------------------------------------------
+
+UNSUPPRESSED
+
+When fired without its suppressor, GRAY GHOST is punishingly loud. Its short barrel
+produces an abrupt muzzle blast and strong concussion, particularly inside rooms,
+tunnels, and vehicles.
+
+Unsuppressed fire immediately compromises stealth and may temporarily obscure nearby
+dialogue or environmental audio. The effect is most pronounced in enclosed spaces,
+where the report reflects from surrounding surfaces and makes the weapon feel more
+violent than its compact dimensions suggest.
+
+SUPPRESSED WITH SUPERSONIC AMMUNITION
+
+The SOCOM300-SPS substantially reduces muzzle blast, flash, and the apparent location
+of the shooter. It does not remove the supersonic crack created by the projectile.
+
+The result is quieter and less disorienting than unsuppressed fire, but still
+recognizable as rifle fire to enemies near the projectile’s flight path or impact point.
+This configuration is intended for controlled combat rather than complete concealment.
+
+SUPPRESSED WITH SUBSONIC AMMUNITION
+
+Combining the suppressor with subsonic ammunition produces GRAY GHOST’s lowest sound
+profile. The player primarily hears the weapon’s mechanical action, a moderated muzzle
+report, and the projectile’s impact.
+
+The weapon is not literally silent. Enemies standing near Spook, near the target, or
+inside the same enclosed room may still hear the shot. More distant enemies are much
+less likely to identify the shooter’s position, allowing the player to eliminate
+isolated targets without automatically alerting an entire area.
+
+--------------------------------------------------------------------------------
+OPTICS
+--------------------------------------------------------------------------------
+
+GRAY GHOST uses a hybrid optical arrangement consisting of a non-magnified red-dot
+sight and a hinged 3x magnifier.
+
+With the magnifier folded aside, the Aimpoint T-2 provides a wide field of view and
+extremely rapid target acquisition. This is the default configuration during room
+clearing, movement through narrow spaces, and engagements against multiple close
+targets. It also preserves the weapon’s VERY FAST ADS rating.
+
+The magnifier can be moved behind the red dot without opening a customization menu.
+When deployed, it provides enough magnification to identify partially exposed targets
+and place precise shots at intermediate range. Its ADS rating becomes FAST, its field
+of view narrows, and close-range target transitions become slightly less forgiving.
+
+The transition does not change the weapon’s point of impact or reticle. Instead, it
+allows the player to choose between two engagement priorities while retaining the same
+aiming reference:
+
+- red dot folded clear of the magnifier: speed, awareness, and close-range flexibility;
+- magnifier engaged: target identification, precision, and intermediate-range control.
+
+Offset iron sights provide an emergency backup if the primary optic is damaged or
+temporarily obstructed.
+
+--------------------------------------------------------------------------------
+AVAILABILITY
+--------------------------------------------------------------------------------
+
+GRAY GHOST is Spook’s signature primary and is normally available from the beginning
+of his campaign. It cannot be permanently discarded, although mission scripting may
+temporarily replace it when Spook must use a locally acquired or cover-appropriate
+weapon.
+
+Unlike 5.56x45 mm ammunition, .300 Blackout is deliberately scarce. Most hostile
+factions do not carry it, preventing the player from treating GRAY GHOST as a weapon
+with unlimited battlefield resupply.
+
+Limited compatible ammunition can occasionally be recovered from Atlas personnel
+equipped with .300 BLK MCX Rattler-type weapons. Mission caches, Victor Two Bravo
+supply cases, and ammunition provided by Tripper remain its most reliable sources.
+
+This limited ammunition economy offsets the weapon’s otherwise exceptional combination
+of damage, stealth, accuracy, and handling.
+
+--------------------------------------------------------------------------------
+STATISTICS
+--------------------------------------------------------------------------------
+
+Close-range damage:         VERY HIGH
+Intermediate damage:        VERY HIGH
+Long-range damage:          HIGH with supersonic ammunition
+Accuracy:                   EXCEPTIONAL
+ADS speed — red dot:        VERY FAST
+ADS speed — 3x magnifier:   FAST
+Reload speed:               FAST
+Weapon-transition speed:    VERY FAST
+Mobility:                   VERY HIGH
+Recoil:                     LOW TO MODERATE
+Penetration:                HIGH; AMMUNITION-DEPENDENT
+Suppression capability:     EXCEPTIONAL
+Ammunition availability:    LOW
+
+--------------------------------------------------------------------------------
+STRENGTHS
+--------------------------------------------------------------------------------
+
+- Exceptional accuracy for a compact automatic carbine.
+- Very high close-to-intermediate-range damage.
+- Very fast ADS with the bare red dot.
+- Fast ADS with the magnifier engaged.
+- Rapid weapon-transition time.
+- Highly maneuverable inside buildings and vehicles.
+- Red dot and 3x magnifier support rapid tactical range changes.
+- Excellent performance with a suppressor.
+- Subsonic and supersonic ammunition provide distinct tactical roles.
+- Capable of precision hits well beyond its normal engagement range.
+- Strong barrier and light-armor penetration with appropriate ammunition.
+
+--------------------------------------------------------------------------------
+WEAKNESSES
+--------------------------------------------------------------------------------
+
+- .300 Blackout ammunition is comparatively scarce.
+- Subsonic ammunition has severe bullet drop.
+- Supersonic ammunition retains an audible ballistic crack when suppressed.
+- Unsuppressed fire is extremely loud and concussive.
+- Fully equipped configuration is slightly slower to reload and transition.
+- Engaging the magnifier reduces ADS speed from VERY FAST to FAST.
+- Magnification narrows peripheral awareness and is less forgiving at close range.
+- The 3x magnifier is limited compared with a dedicated marksman optic.
+- Extended-range performance depends heavily on player skill.
+- Cannot reliably defeat heavy armor without appropriate ammunition and shot placement.
+
+--------------------------------------------------------------------------------
+REAL-WORLD BASIS
+--------------------------------------------------------------------------------
+
+The real Noveske N4 is an AR-pattern platform associated with compact configurations,
+high-quality barrels, and strong mechanical accuracy. Noveske describes its .300
+Blackout systems as suited to both subsonic suppressed and supersonic operation.
+
+The SureFire SOCOM300-SPS is a real .30-caliber suppressor designed for .300 BLK and
+optimized particularly for short-barreled, subsonic use while remaining compatible
+with supersonic ammunition.
+
+Real magnifiers introduce practical trade-offs similar to those represented in the
+game. They improve identification and precision at distance but narrow the sight picture
+and generally require more deliberate eye alignment than an unmagnified red dot. The
+state-dependent ADS rating is therefore intentional: the magnifier expands capability,
+but it does not improve every handling characteristic.
+
+The game exaggerates the weapon’s effectiveness against armor at extreme range. Real
+.300 BLK performance depends heavily on projectile construction and velocity; heavy
+subsonic bullets do not become armor-piercing merely because of their mass. The
+fictional weapon’s extended-range armor performance is a characteristic of specialized
+in-universe ammunition and the game’s damage model.
+
+Research references:
+- Noveske FAQ and product documentation: https://noveske.com/faq
+- SureFire SOCOM300-SPS product documentation: https://www.surefire.com/socom300-sps/
+- Hornady .300 Blackout 190 gr Sub-X trajectory reference:
+  https://www.hornady.com/ammunition/rifle/300-blackout-190-gr-sub-x-subsonic
+
+--------------------------------------------------------------------------------
+TRIVIA
+--------------------------------------------------------------------------------
+
+- GRAY GHOST and Spook’s HK45CT, NOTHING, share a matching dark-gray finish.
+- The build name appears in the lower portion of the weapon-inspection interface.
+- The faded “300 BLK” marking on the dust cover is visible only during inspection.
+- Subsonic ammunition is the default load, while supersonic magazines are commonly
+  treated as an emergency escalation option.
+- The MAWL-DA is not initially available and must be acquired after BURNING DAYLIGHT.
+- Switching from subsonic to supersonic ammunition often serves as an auditory signal
+  that a stealth operation has changed into a direct engagement.
+- Despite its long-range capability, GRAY GHOST is classified as a carbine rather
+  than a designated marksman rifle.
+- The 3x magnifier deliberately lowers ADS speed by one tier, reinforcing that it is
+  used when additional identification and precision are worth sacrificing some speed.
+
+================================================================================
+END — GRAY GHOST WEAPONS WIKI-STYLE ENTRY
+================================================================================
