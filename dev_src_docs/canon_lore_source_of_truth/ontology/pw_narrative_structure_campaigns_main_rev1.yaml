@@ -2,7 +2,7 @@ meta: {document_id: PW-ONT-NARRATIVE-STRUCTURE-CAMPAIGNS-MAIN-REV1, generated: '
 campaigns:
 - id: PW-CMP-G1-LEAD-THE-WAY
   installment_ref: PW-INS-GAME-1
-  canonical_title: 'Critter Squad: Lead the Way'
+  canonical_title: Lead the Way
   title_status: locked
   campaign_type: main_campaign
   campaign_order_within_installment: 1
@@ -12,7 +12,7 @@ campaigns:
   timeline_track_refs: [PW-TRK-G1-LEAD-THE-WAY]
   binding_status: resolved
   status: locked
-  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt]
+  sources: [dev_src_docs/canon_lore_source_of_truth/PW_Full_Transcript_Recovery_Canon_Landing_2026-07-23_rev1.txt, dev_src_docs/story_campaigns/Game1/Shared/PW_Lead_the_Way_Campaign_Title_Canon_2026-07-27_rev1.txt]
 - id: PW-CMP-G1-DO-RIGHT-FEAR-NONE
   installment_ref: PW-INS-GAME-1
   canonical_title: Do Right, Fear None
