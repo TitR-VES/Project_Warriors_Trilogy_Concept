@@ -35,6 +35,7 @@ Rev6 supersedes rev4/rev5 synthesis files. Older files remain useful as recovery
 
 Source-first addenda capture material landed after the rev6 consolidation without pretending the archival master has been milestone-refreshed after every small pass. Read the newest relevant addenda alongside rev6, including:
 
+- `Project_Warriors_Knowledge_Compendia/PW_First_Person_Weapon_Handling_Addendum_2026-07-27_rev1.txt`
 - `Project_Warriors_Knowledge_Compendia/PW_Recovered_Visual_Mechanics_Lore_Addendum_2026-07-25_rev1.txt`
 - `Project_Warriors_Knowledge_Compendia/PW_Supplemental_4_Thread_Recovery_Addendum_2026-07-24_rev1.txt`
 - `Project_Warriors_Knowledge_Compendia/PW_Legacy_Thread_Recovery_Addendum_2026-07-24_rev1.txt`
@@ -98,6 +99,7 @@ Promotional/sidebar material cannot silently override narrative or gameplay cano
 - `source_audits_and_reports/PW_Source_Manifest_Addendum_2026-07-24_rev1.csv`
 - `source_audits_and_reports/PW_Recovered_Visual_Mechanics_Lore_Transcript_Audit_2026-07-25_rev1.txt`
 - `source_audits_and_reports/PW_Recovered_Visual_Mechanics_Lore_Manifest_2026-07-25_rev1.csv`
+- `source_audits_and_reports/PW_First_Person_Weapon_Handling_Manifest_2026-07-27_rev1.csv`
 
 ## Working rule
 
