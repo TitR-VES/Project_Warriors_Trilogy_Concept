@@ -140,20 +140,17 @@ retasking and prepares the squad for a new kind of infrastructure war.
 
 5. WHITE NODE / SVALBARD
 
-Delta deploys to Svalbard to help defend the primary AEGIS datacenter. The
-facility's remote Arctic location was intended to provide physical security and
-operational separation, but the same isolation makes reinforcement and repair
-difficult once the enemy begins a coordinated attack. Romeo's squad joins the
-local defense while technicians attempt to preserve the node's processing and
-communications functions.
+Delta is flown to Svalbard aboard ICARUS Zeven, a Belgian A400M carrying the
+Rangers as reinforcements alongside supplies and support materiel for the
+primary AEGIS datacenter. Because Romeo and his teammates are passengers on the
+aircraft, the arrival is not presented to the player as an external overhead
+pass during Romeo's version of the mission. After landing, Delta joins AEGIS
+and the local defense while technicians attempt to preserve the node's
+processing and communications functions.
 
 The battle combines direct assault with attempts to disrupt access, power, and
 facility control. Delta must prevent attackers from reaching critical interiors
-without turning the datacenter itself into collateral damage. The mission also
-shows the wider multinational effort supporting AEGIS. ICARUS Zeven, a Belgian
-A400M, passes through the Svalbard battlespace carrying supply and support
-materiel, momentarily expanding the player's view from the squad-level fight to
-the larger coalition operation.
+without turning the datacenter itself into collateral damage.
 
 The datacenter remains active, but the attack demonstrates that the enemy knows
 which parts of AEGIS matter most. The precision of the assault suggests prior
@@ -452,9 +449,13 @@ or communications faster than reinforcements can arrive.
 AEGIS fights to keep attackers out of the technical core while local personnel
 maintain the system under emergency conditions. The mission emphasizes Frost's
 Arctic competence and Ducky's insistence that the node be defended without
-treating its staff as expendable. A Belgian A400M, ICARUS Zeven, passes through
-the area carrying supplies, creating a large-scale allied moment shared with
-Romeo's campaign.
+treating its staff as expendable. From their ground position, Ducky and his team
+see ICARUS Zeven, a Belgian A400M, pass overhead on approach and land with Fire
+Team Delta, supplies, and support materiel aboard. The aircraft's arrival
+expands the player's view from the squad-level defense to the larger coalition
+operation. It is the same flight carrying Romeo and his teammates into the
+mission, making the shared event visible only from Ducky's ground-level
+perspective.
 
 The datacenter remains operational, but evidence from the assault again suggests
 that the attackers understood the site's internal priorities. AEGIS leaves
