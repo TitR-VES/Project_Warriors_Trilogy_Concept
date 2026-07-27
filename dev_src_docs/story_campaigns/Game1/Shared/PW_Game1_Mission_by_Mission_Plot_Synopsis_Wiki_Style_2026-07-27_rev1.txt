@@ -1,0 +1,861 @@
+PROJECT WARRIORS — GAME 1 MISSION-BY-MISSION PLOT SYNOPSIS
+Generated: 2026-07-27
+Version: rev1
+Status: DERIVATIVE REFERENCE / WIKI-STYLE MISSION SYNTHESIS
+Scope: Project Warriors, Game 1 — all three main story campaigns
+Spoiler scope: FULL PLOT DISCLOSURE
+
+AUTHORITY NOTE
+
+This document expands the shorter Game 1 plot-synopsis recapitulation into a
+mission-by-mission narrative summary written in the style of a detailed
+community gaming-wiki plot page. It freely describes major revelations, optional
+branches, mission endings, and the three campaign conclusions.
+
+This is a derivative reference rather than a replacement for the campaign
+ontology, timeline authority, mission sources, character pages, or technical
+canon. Romeo's fourteen-mission working spine and Spook's core mission chain are
+landed clearly enough to summarize in sequence. Ducky's opening, major
+infrastructure operations, Île Longue transition, RETREAT, HELL approach, and
+Maasvlakte finale are source-backed, but the exact titles and order of parts of
+the middle infrastructure run remain an implementation-working layer. This
+article therefore identifies working titles where useful without promoting every
+middle-ladder label to permanent canon.
+
+Controlling campaign entities:
+- PW-CMP-G1-LEAD-THE-WAY — Lead the Way
+- PW-CMP-G1-DO-RIGHT-FEAR-NONE — Do Right, Fear None
+- PW-CMP-G1-RIPTIDE-RED — Riptide Red
+
+Related readable overview:
+- PW_Game1_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt
+
+===============================================================================
+MISSION-BY-MISSION PLOT
+===============================================================================
+
+-------------------------------------------------------------------------------
+LEAD THE WAY
+-------------------------------------------------------------------------------
+
+Lead the Way follows Staff Sergeant Ramón “Romeo” Álvarez and Fire Team Delta
+of the 75th Ranger Regiment. The campaign begins on NATO's eastern flank and
+turns into a westward fighting withdrawal after PANDORA compromises American
+autonomous systems. Romeo's team later joins the defense of the AEGIS
+infrastructure chain, crosses the Atlantic aboard a ballistic-missile submarine,
+and returns to a United States already under invasion.
+
+The sequence below follows the landed fourteen-mission working spine.
+
+1. EASTERN WATCH
+
+Fire Team Delta begins the campaign in eastern Poland as part of a NATO
+reinforcement deployment intended to deter a wider Russian offensive. Romeo,
+Dingo, Howler, and Beaver operate within a recognizable Ranger routine: checking
+positions, coordinating with nearby allied elements, and preparing for a
+conventional escalation that everyone expects to understand if it comes. The
+mission establishes Romeo as the team leader and presents “Lead the Way” first
+as an inherited Ranger ideal rather than a personal declaration.
+
+The routine collapses on September 7, 2028, when PANDORA activates. American
+autonomous systems begin reporting contradictory identification data and
+engaging legitimate allied positions. What initially looks like isolated
+friendly-fire or a local network fault spreads too quickly to contain. Radio
+traffic fills with incompatible orders, air-defense warnings, and units trying
+to determine whether nearby drones and vehicles are still under friendly
+control. Delta survives the first attacks, but the eastern line loses the
+command coherence required to hold its prepared positions.
+
+By the mission's end, the Rangers understand that they are not facing only the
+Russian force in front of them. The systems expected to support the defense have
+become an unpredictable second threat, and the operational picture on which
+their orders depend can no longer be trusted.
+
+2. BREAK CONTACT
+
+As the sector begins to collapse, Fire Team Delta is ordered to help preserve a
+withdrawal corridor for a damaged allied convoy and the personnel moving behind
+it. Romeo is no longer asked to hold ground for its own sake. His task is to
+keep an alternate route open long enough for other soldiers and support
+vehicles to escape the failing line.
+
+The mission follows Delta through a series of delaying positions as conventional
+Russian pressure combines with PANDORA-related confusion. Units arrive with
+incomplete maps, damaged communications, and conflicting assumptions about
+which roads remain passable. Romeo repeatedly has to choose movement over a
+clean tactical victory, covering withdrawals and abandoning positions once
+their purpose has been served. The campaign title begins to acquire a harsher
+meaning: leading now means accepting responsibility for the people following
+through a route that may fail at any moment.
+
+Delta succeeds in getting the convoy out of immediate encirclement, but the
+withdrawal confirms that the breakdown is theater-wide. The team receives only
+fragmentary guidance for the next stage and continues west with the surviving
+column.
+
+3. NO BLUE SKY
+
+The withdrawal carries Delta through the Czech–Austrian corridor, where the
+airspace itself has become a source of danger. Aircraft, drones, air-defense
+systems, and identification networks are operating with degraded or
+contradictory data. Friendly forces cannot assume that air support will arrive,
+that an approaching aircraft is friendly, or that a defensive system will
+recognize its intended target.
+
+Romeo's team escorts fragmented allied personnel through the westbound route
+while avoiding exposed movement and responding to attacks from Russian forces
+attempting to exploit the confusion. The mission emphasizes the absence of a
+reliable “blue sky”: even when the Rangers are not under direct fire, every
+engine sound and distant aircraft track may indicate another PANDORA-driven
+engagement. Delta also encounters the human consequences of the retreat,
+including units separated from command and personnel attempting to move
+equipment that no longer fits any coherent operational plan.
+
+The Rangers eventually reach the German rear area, but the journey has stripped
+away any expectation that the crisis will be resolved by restoring one command
+link or defeating one enemy formation. PANDORA has damaged the assumptions on
+which the entire allied defense was built.
+
+4. RAMSTEIN GLASS
+
+Fire Team Delta reaches Ramstein Air Base, which remains functional but only
+through emergency procedures, improvised verification, and overworked personnel.
+The base acts as a brittle command hub for forces arriving from the broken
+eastern front. Its runways, operations rooms, shelters, and communications
+spaces still resemble the infrastructure of a major NATO installation, but
+every process now depends on manual confirmation and local trust.
+
+Romeo reports the loss of the eastern positions and learns that returning
+directly to the United States is impossible. With air travel compromised and
+the American command picture deteriorating, Delta is reassigned to help protect
+AEGIS, a multinational distributed system preserving European geospatial
+intelligence, communications, and operational coordination independently of
+the damaged American network.
+
+The briefing reframes the campaign. Delta has survived the opening collapse,
+but its next objective is not a conventional front line. The Rangers must move
+between remote facilities whose continued operation allows allied governments
+and military commands to see what is happening at all. Romeo accepts the
+retasking and prepares the squad for a new kind of infrastructure war.
+
+5. WHITE NODE / SVALBARD
+
+Delta deploys to Svalbard to help defend the primary AEGIS datacenter. The
+facility's remote Arctic location was intended to provide physical security and
+operational separation, but the same isolation makes reinforcement and repair
+difficult once the enemy begins a coordinated attack. Romeo's squad joins the
+local defense while technicians attempt to preserve the node's processing and
+communications functions.
+
+The battle combines direct assault with attempts to disrupt access, power, and
+facility control. Delta must prevent attackers from reaching critical interiors
+without turning the datacenter itself into collateral damage. The mission also
+shows the wider multinational effort supporting AEGIS. ICARUS Zeven, a Belgian
+A400M, passes through the Svalbard battlespace carrying supply and support
+materiel, momentarily expanding the player's view from the squad-level fight to
+the larger coalition operation.
+
+The datacenter remains active, but the attack demonstrates that the enemy knows
+which parts of AEGIS matter most. The precision of the assault suggests prior
+knowledge rather than opportunistic targeting, a suspicion that becomes more
+important in Ducky's parallel campaign.
+
+6. STONE LINE / FRENCH ALPS
+
+The Rangers move to a high-altitude AEGIS relay in the French Alps, where the
+terrain turns infrastructure defense into a vertical fight. The relay depends
+on exposed connections and access routes that cannot simply be sealed without
+interrupting the system it supports. By the time Delta arrives, a sabotage
+attempt is already underway.
+
+Romeo leads the team through steep approaches and confined technical spaces,
+clearing attackers while preventing damage to the relay line. The mission's
+combat is shaped by height, limited movement, and the need to distinguish
+between positions that can be destroyed and equipment that must survive. The
+enemy does not need to occupy the site permanently; it only needs to break the
+right connection at the right time.
+
+Delta prevents the relay from being severed and helps restore the node's link to
+the wider network. The operation reinforces the campaign's emerging pattern:
+each victory keeps a route or system open, but none of them repairs the larger
+political and military collapse.
+
+7. AEGEAN BLIND / LEMNOS
+
+On Lemnos, the infrastructure war reaches a coastal and maritime setting. The
+AEGIS node is tied to a harbor, coastal relay functions, and defensive systems
+whose data can be manipulated as effectively as their physical hardware can be
+attacked. Russian forces attempt to blind the site through a combination of
+assault, spoofing, and pressure on the surrounding battery and access points.
+
+Romeo's squad fights across the coastal installation while allied personnel try
+to determine which tracks, warnings, and command inputs are genuine. The player
+is repeatedly placed in situations where restoring trustworthy information is
+as important as defeating the attackers. Delta secures the relevant relay and
+prevents the harbor defenses from being turned into another source of false
+engagements.
+
+The Lemnos operation makes clear that the attacks on AEGIS are coordinated
+across very different environments. The same enemy architecture can use direct
+force in one location, compromised access in another, and manipulated
+information in a third.
+
+8. HINDELOOPEN
+
+Delta reaches Hindeloopen on the Dutch IJsselmeer, where an AEGIS relay is hidden
+inside a low-profile civilian shell. The location is deliberately unlike a
+fortified military base: historic waterfront buildings, tourist spaces, local
+businesses, and ordinary movement provide the cover that keeps the node from
+appearing strategically important.
+
+The threat initially presents itself as civilian activity. Surveillance teams
+and technical personnel use plausible covers around the waterfront while a
+communications or maintenance element prepares to move against the relay.
+Romeo's team works alongside Ducky and AEGIS Squad as the hostile operation
+activates. The joint fight is contained within narrow streets and waterfront
+approaches, forcing the two units to reconcile different tactics without
+exposing civilians or damaging the node they are protecting.
+
+After the attackers are stopped, the allied teams recover a Shibboleth-linked
+device or core and contractor-pattern communications equipment inconsistent
+with ordinary Russian state issue. The evidence indicates that the compromise
+is connected to a private technical network rather than only to uniformed
+Russian forces. The finding is recorded but not fully explained, becoming one
+of the campaign's early links between conventional war and the covert system
+investigated by Spook.
+
+9. ÎLE LONGUE
+
+With reliable air movement still unavailable, Delta travels west through France
+and reaches the French naval base at Île Longue. Russian-linked saboteurs are
+attempting to cripple the support architecture for the ballistic-missile
+submarines Le Terrible and Le Vigilant. The attack threatens more than the
+submarines themselves: damage to maintenance, access, command, or harbor systems
+could remove a major component of the French strategic deterrent during the
+opening of a world war.
+
+Romeo and Ducky's units conduct a final joint defense of the base, clearing
+sabotage teams and securing the systems needed to keep the submarines
+operational. The mission brings the two military campaigns together before
+their routes separate. AEGIS is redirected toward the rapidly deteriorating
+situation around Rotterdam, while Delta is assigned passage aboard the USS
+District of Columbia.
+
+The farewell is practical rather than ceremonial. Both squads are moving toward
+different emergencies, and neither knows when the other will be available
+again. Romeo boards the American submarine with the knowledge that it may be
+the only viable route home.
+
+10. BLACK WATER
+
+Black Water is a transitional mission set largely aboard the USS District of
+Columbia and during the transfer off the California coast. The submarine moves
+through a contested Atlantic and Pacific environment while avoiding the naval
+forces attempting to isolate the United States. Inside the vessel, the campaign
+contracts from open battlefields to claustrophobic passageways, restricted
+information, and the waiting inherent in submerged transit.
+
+News from the United States arrives in fragments. PANDORA has been followed by
+a coordinated West Coast assault, American ports are contested, and no secure
+destination can be guaranteed. The submarine is unable to deliver Delta to a
+normal naval facility and instead surfaces off Ventura for a small-craft
+transfer.
+
+Romeo and his team leave the relative protection of the submarine and approach a
+country that is physically familiar but operationally transformed. The mission
+ends as the Rangers make contact with surviving American forces attempting to
+hold the Southern California corridor.
+
+11. DOWN RODEO
+
+Delta joins Army and Marine elements advancing into Los Angeles through North
+Hollywood. The city is divided among American defenders, North Korean invasion
+forces, frightened civilians, and armed criminal groups exploiting or resisting
+the occupation according to their own interests. The mission abandons any clean
+front line and presents the player with overlapping local conflicts.
+
+A major encounter occurs around K Lounge, where members of the Los Sietes cartel
+are engaged with a larger North Korean force. The player can ignore the cartel,
+attack the North Koreans first, turn on Los Sietes, or wait for the two groups
+to weaken each other before intervening. A heavily armed sicario lieutenant can
+drop a rare CMMG Mk47 if defeated, but the more important narrative detail is an
+unsubtitled Spanish telephone call referring to “Bisutri” and a package in
+Miami. Romeo understands the exchange even though the game does not translate
+it for the player.
+
+Delta clears the route through the district and continues toward the Long Beach
+area. The K Lounge encounter appears local during Romeo's campaign, but its
+reference to Miami later connects Los Sietes activity to Victor Two Bravo's
+PANDORA investigation.
+
+12. SIGNAL HILL
+
+At Long Beach Airport and Signal Hill, Delta links up with a Marine contingent
+led by Staff Sergeant André Bridges. The defenders must prevent the airport from
+falling while enemy forces attempt to exploit the disorganized American
+response. The location is strategically important as a movement, reinforcement,
+and logistics point, making consolidation as important as the immediate
+firefight.
+
+Romeo and Bridges approach the battle from different responsibilities. Romeo's
+Rangers are oriented toward maintaining momentum and pushing the counterattack
+forward, while Bridges is responsible for holding ground that cannot be lost
+again once cleared. Their disagreement remains professional: both positions are
+tactically valid, and the mission forces the units to coordinate rather than
+reduce one commander to an obstacle.
+
+The combined force secures the airport and prevents an immediate breakthrough.
+The victory provides the surviving American units with a staging point for the
+southbound movement toward San Diego and establishes Bridges as a recurring ally
+whose own West Coast story continues beyond the main campaign.
+
+13. SOUTHBOUND
+
+The American force forms a convoy and pushes south through the contested coastal
+corridor toward San Diego. Romeo mans a mounted M2, giving the mission a
+vehicle-centered perspective on the invasion. The convoy passes through damaged
+infrastructure, abandoned traffic, and positions that have changed hands too
+quickly to be treated as secure.
+
+Enemy attacks attempt to stop or fragment the column rather than simply destroy
+its lead vehicle. Delta must protect transports and keep the formation moving
+while responding to threats along the road. The mission continues the campaign's
+central emphasis on movement: a convoy that stops becomes vulnerable, and a
+route that closes can isolate the remaining defenders from the coming battle at
+Coronado.
+
+The column reaches the San Diego area with enough personnel and equipment to
+reinforce North Island. Reports indicate that Russian, North Korean, and Iranian
+forces are preparing a major amphibious assault against the surviving American
+naval presence.
+
+14. NORTH ISLAND / CORONADO
+
+Lead the Way culminates at North Island Naval Air Station on Coronado. The
+coalition assault is intended to destroy or capture the remaining naval and air
+capability in the area and to consolidate the invasion of Southern California.
+Romeo and Fire Team Delta fight alongside Rangers, Marines, sailors, and other
+surviving American elements as the campaign expands into its largest
+conventional battle.
+
+The defenders face amphibious landings, sustained ground pressure, and attacks
+on the installation's operational infrastructure. Delta moves between threatened
+positions rather than remaining at a single defensive line, preserving access
+and preventing the assault force from isolating sections of the base. The
+battle reflects everything the campaign has taught the player: command is
+degraded, support cannot be assumed, and survival depends on small units keeping
+routes open for one another.
+
+The assault is repelled sufficiently to prevent the immediate loss of North
+Island, but the ending is not a restoration of the prewar order. The West Coast
+remains contested and the United States is still fractured. Romeo ends Game 1
+as a Ranger operating inside the remnants of the military chain of command. His
+later transformation into a resistance leader occurs after Coronado and belongs
+to the opening situation of Game 2.
+
+-------------------------------------------------------------------------------
+DO RIGHT, FEAR NONE
+-------------------------------------------------------------------------------
+
+Do Right, Fear None follows Sergeant First Class Ferris “Ducky” Ryan and AEGIS
+Squad: Ducky, Aki “Frost” Peltola, Ştefan “Lupin” Dragavei, and Cassandra
+“Switchblade” Stewart. Their campaign protects the distributed AEGIS system,
+which allows European governments and military commands to retain independent
+geospatial awareness and coordination after PANDORA compromises American
+systems.
+
+The opening, major mission anchors, and finale are locked. The sequence below
+uses the current source-led working order for the middle infrastructure run.
+Several location labels remain working mission titles rather than final menu
+names.
+
+1. WIRECUTTER
+
+Before PANDORA, AEGIS Squad joins the maritime special-operations team Nereid
+Black aboard the Sea Lion 7 in the North Sea. The mission initially appears to
+be an infrastructure-security operation connected to an undersea cable
+terminal. Nereid Black descends to the subsea objective while AEGIS secures the
+ship and investigates irregularities in its hold.
+
+The teams discover Russian Vympel naval Spetsnaz aboard the vessel. A close-
+quarters fight erupts below deck, followed by further attacks as additional
+Russian elements attempt to reach or retake the ship. AEGIS holds the deck and
+interior while Nereid completes the underwater task. The Danish vessel HDMS
+Freja, callsign TRIDENT SIX, arrives to secure the scene, and AEGIS is extracted
+by PEGASUS TWO.
+
+The operation ends with several anomalies unresolved. Ducky confirms four
+Vympel operators and suspects a fifth may be missing. Diving equipment appears
+to have been staged before the allied arrival, and the Sea Lion 7 manifest does
+not match its route or declared purpose. Grim also reveals that he recognizes
+Frost's connection to the classified Cold Frontier 07 incident, addressing him
+once by surname and later invoking Jussi Mustonen's name in Swedish. Frost does
+not explain the exchange.
+
+2. INNSWORTH / STANDING WATCH
+
+AEGIS returns to DAOG's European forward base at Innsworth in Gloucestershire.
+The first half of the mission is a decompression and character section rather
+than a conventional combat level. Ducky submits a preliminary report, Frost
+withdraws into his usual quiet routine, Lupin restores order by cleaning and
+checking his weapon, and Switchblade carries forward a professional disagreement
+from Sea Lion 7. The squad also interacts with CORYS personnel, including
+Valkyrie and Brick, establishing that AEGIS is one part of a wider DAOG
+ecosystem.
+
+Colonel Mark Walker conducts the formal WIRECUTTER debrief. He does not dismiss
+the Vympel staging and manifest anomalies, but there is not enough evidence to
+identify their cause. Walker directs intelligence analyst Tara Halliday,
+callsign ORACLE, to continue the comparison. The player can then explore a
+bounded section of the base and engage in optional conversations that reveal
+the squad's habits and professional relationships.
+
+During STANDING WATCH, Halliday briefs AEGIS on the infrastructure-protection
+campaign. She explains that AEGIS consists of distributed processing sites,
+terrestrial relays, civilian shells, access systems, and multinational command
+links. She has already found comparable features in other incidents, but
+presents the observation as an analytical warning rather than a conspiracy
+reveal. Lupin asks who has oversight of the raw AEGIS data and appears
+unsatisfied by the official answer. The squad is assigned to the threatened
+node chain.
+
+3. QUIET WATER / HINDELOOPEN
+
+AEGIS deploys to Hindeloopen on the Dutch IJsselmeer, where an AEGIS relay is
+concealed inside a waterfront civilian environment. The squad initially works
+in low-profile cover, observing a maritime supplier, visitors posing as cycling
+tourists, and a telecommunications vehicle whose behavior suggests coordinated
+surveillance rather than ordinary local activity.
+
+The hostile team activates before it can be fully identified. AEGIS contains
+the firefight within the waterfront streets and relay approaches, using
+suppressed weapons and controlled movement to avoid civilian exposure. Frost
+holds longer sight lines while Lupin and Switchblade work the closer spaces.
+Romeo's Fire Team Delta arrives during the operation, producing the first
+substantial joint action between the two protagonists' units. Ducky and Romeo
+disagree over the immediate tactical approach, but the pressure of the attack
+forces them into an effective division of responsibility.
+
+The attackers are stopped before they can reach the relay or escape by boat.
+Recovered equipment includes a Shibboleth-linked device and communications
+hardware carrying a private-contractor signature rather than a normal Russian
+state pattern. Halliday records the discrepancy. Walker acknowledges it, but
+the campaign moves on before its implications can be resolved.
+
+4. WHITE BLIND / SVALBARD
+
+The squad is sent to Svalbard, where the primary AEGIS datacenter is under
+threat. The facility's Arctic isolation makes it defensible against ordinary
+intrusion but vulnerable to a prepared assault that can disrupt power, access,
+or communications faster than reinforcements can arrive.
+
+AEGIS fights to keep attackers out of the technical core while local personnel
+maintain the system under emergency conditions. The mission emphasizes Frost's
+Arctic competence and Ducky's insistence that the node be defended without
+treating its staff as expendable. A Belgian A400M, ICARUS Zeven, passes through
+the area carrying supplies, creating a large-scale allied moment shared with
+Romeo's campaign.
+
+The datacenter remains operational, but evidence from the assault again suggests
+that the attackers understood the site's internal priorities. AEGIS leaves
+Svalbard with the growing suspicion that the enemy's access to the system is
+architectural rather than merely tactical.
+
+5. STONE LINE / FRENCH ALPS
+
+At the French Alps relay, AEGIS arrives during an active sabotage attempt. The
+site's exposed vertical routes and technical connections force the squad to
+fight across steep terrain while preserving components that cannot be replaced
+quickly under wartime conditions.
+
+The mission uses the team's complementary abilities. Frost covers long
+approaches and identifies threats attempting to reach the exposed relay line,
+while Lupin handles a shorter, more pressurized defensive movement when the
+attack closes on the technical position. Ducky and Switchblade remain with the
+main element, securing personnel and preventing the sabotage team from turning
+the defenders' own access routes against them.
+
+AEGIS prevents the line from being severed and restores the relay to the wider
+network. The victory is operationally important but reinforces Halliday's
+warning: the attacks are occurring in patterns too consistent to be explained
+by independent battlefield improvisation.
+
+6. TORREJÓN AIR BASE
+
+Russian operators infiltrate Torrejón Air Base in Spain and attempt to use its
+access to issue a deorbit command against the AEGIS satellite constellation.
+A friendly specialist element cuts network access to the relevant command
+center, interrupting the sequence before the entire constellation can be lost.
+
+AEGIS enters a confused base environment in which the central problem is not
+only the hostile team but the fact that it reached a protected NATO facility at
+all. Ducky's squad fights through the compromised section and helps prevent the
+operators from reestablishing control. The deorbit command is stopped, but not
+before one AEGIS satellite leaves orbit.
+
+The satellite falls toward the Julian Alps in Slovenia. No one is held
+immediately accountable for the infiltration, creating the campaign's clearest
+inside-access anomaly. Ducky files the question away as the squad redeploys to
+recover the fallen hardware.
+
+7. JULIAN ALPS
+
+AEGIS joins Slovenian special-operations personnel in the Julian Alps to locate
+the crashed satellite before unmarked Russian teams can recover it. The debris
+field extends across difficult mountain terrain, with the main wreckage still
+containing security-sensitive hardware and data.
+
+The allied force follows the debris trail while Russian recovery elements close
+from multiple directions. The mission is less about restoring the destroyed
+satellite than denying the enemy access to the constellation's architecture.
+Local Slovenian knowledge proves essential in reaching the wreck and predicting
+the hostile teams' movement through the mountains.
+
+AEGIS secures the surviving components and prevents their extraction. The
+mission contains the material consequence of the Torrejón breach, but it cannot
+answer how the original infiltrators acquired the access required to issue the
+command.
+
+INTERLUDE — COLD FRONTIER 07
+
+At a later point in the campaign, evidence connected to Cold Frontier 07 causes
+Frost's suppressed history to resurface. The exact placement of the playable
+flashback remains a mission-implementation decision, but its narrative content
+is part of Ducky's campaign.
+
+The flashback returns to the Finnish–Russian border in early March 2007. A young
+Frost and Jussi Mustonen are attacked by a Vympel-linked team. Jussi is fatally
+wounded while protecting Frost. During the struggle, Frost and another attacker
+plunge into the lake. Frost reaches the shallow lakeshore and kills the
+surviving attacker with his Peltonen knife. His first concern after regaining
+awareness is finding Jussi.
+
+Finnish and allied authorities conceal the incursion to avoid escalation,
+officially recording Jussi's death as an accident. The cover-up explains
+Frost's distrust of institutions that replace dangerous truths with convenient
+ones. In the present, he reveals his scarred face without theatricality,
+allowing the squad and player to understand that his wound is tied as much to
+Jussi's erased sacrifice as to the physical injury itself.
+
+8. AEGEAN BLIND / LEMNOS
+
+The Lemnos operation is the most openly escalated of the infrastructure-defense
+missions. The enemy combines direct pressure on the coastal node with spoofing
+and attacks on harbor and defensive systems, attempting to create a local
+information collapse similar to the broader PANDORA effect.
+
+AEGIS fights to preserve the node while determining which tracks and warnings
+can be trusted. Romeo's unit converges on the location, and the two squads again
+divide the defense according to their strengths. Ducky's team focuses on the
+system's access and technical survival while Delta holds the more conventional
+approaches.
+
+The allied force prevents the site from being blinded and keeps the AEGIS chain
+functional. By the end of the mission, the repeated mixture of Russian action,
+contractor-pattern technology, and compromised access has become impossible for
+Ducky and Halliday to dismiss as coincidence, even though they still lack proof
+of the larger conspiracy.
+
+9. ÎLE LONGUE
+
+AEGIS and Fire Team Delta move across France to Île Longue, where saboteurs are
+targeting the systems supporting Le Terrible and Le Vigilant. The mission
+requires both direct defense and careful protection of strategically sensitive
+naval infrastructure.
+
+The teams stop the sabotage attempt and keep the submarines operational. Once
+the base is secure, their campaigns split. Romeo boards the USS District of
+Columbia for the passage back to the United States, while AEGIS receives orders
+to reinforce the Dutch defense around Rotterdam.
+
+The separation marks the end of the shared European route. Ducky does not know
+that Romeo is heading toward the West Coast invasion, and Romeo does not see the
+full scale of the amphibious pressure developing around Maasvlakte.
+
+10. RETREAT, HELL
+
+RETREAT, HELL is the Maasvlakte approach mission rather than the campaign
+finale. AEGIS enters a coastal battlespace in which allied forces are being
+compressed toward the Port of Rotterdam while Russian amphibious units attempt
+to establish a decisive foothold.
+
+The squad observes and fights through the landing of a Zubr-class air-cushion
+assault craft. The vehicle's scale and speed make the landing feel less like a
+single enemy arrival than the opening of a new front. AEGIS works through the
+damaged coastal route, helping Dutch and allied defenders keep an approach open
+toward the oil and gas terminal.
+
+The mission ends with AEGIS reaching the terminal battlespace as the Russian
+destroyer Severomorsk begins using offshore fire to isolate the position.
+RETREAT, HELL therefore functions as escalation and approach: the amphibious
+force has landed, the defenders are close to encirclement, and the terminal
+must be held in a separate final mission.
+
+11. MAASVLAKTE OIL AND GAS TERMINAL
+
+The campaign finale places AEGIS alongside the Dutch Marine Corps at the
+Maasvlakte Oil and Gas Terminal. Russian ground forces attack the complex while
+Severomorsk fires from offshore and blocks reinforcement. Ducky's immediate
+objective is to reach a NATO mobile missile command post containing an
+NMESIS-type launcher.
+
+The battle uses temporary perspective shifts to show AEGIS functioning as a
+team. Frost engages long-range threats that would prevent the main element from
+moving, while Lupin later handles a close defensive surge. Ducky reaches the
+launcher, manually prepares a Naval Strike Missile, switches to the Russian
+ship's frequency, and answers its demand that NATO forces surrender with,
+“Hey, Russian warship! Go fuck yourself!” He then launches the missile at
+Severomorsk.
+
+The strike forces the destroyer to withdraw in flames, but the launch reveals
+the command post. A Russian RPG hits the vehicle and knocks it from its
+outriggers. Ducky escapes through the hatch as the ground assault intensifies.
+AEGIS and the Dutch Marines survive the post-launch attack and prevent the
+terminal from falling.
+
+The campaign ends with the node preserved but the conspiracy unresolved.
+Halliday's anomaly record now includes Sea Lion 7 staging, contractor-pattern
+equipment at Hindeloopen, and the Torrejón infiltration. Ducky's victory
+demonstrates that Europe remains operational because multinational institutions
+and individuals continue choosing to hold together even while compromised
+actors attack them from within.
+
+-------------------------------------------------------------------------------
+RIPTIDE RED
+-------------------------------------------------------------------------------
+
+Riptide Red follows Trevor “Spook” Gartner, Reid “Tripper” Bartlett, and Daniel
+“Smoke” Oakenfold, the CIA Ground Branch team Victor Two Bravo, informally known
+as “the Tourists.” Their investigation begins with a restricted shipment and
+ends with evidence that PANDORA is protected by a conspiracy reaching into the
+CIA's senior leadership.
+
+PROLOGUE — AMSTERDAM
+
+Spook arrives in Amsterdam under covert cover and meets CIA officer Cameron
+Steele, callsign Emperor. Steele briefs Victor Two Bravo on a restricted
+technology shipment that originated through a Turkmenistan-linked route and may
+be connected to PANDORA. The cargo is moving through European commercial and
+contractor channels rather than an openly military network.
+
+The briefing gives the team a limited objective: identify the shipment's route,
+the people moving it, and its intended destination. At this stage, neither
+Spook nor the player is told that the investigation touches a domestic
+conspiracy. The evidence points toward Vienna, where a Lebanese-linked cell may
+hold the first usable record of the logistics chain.
+
+1. GARDEN PATH
+
+Victor Two Bravo reports to embassy officer Kathy Hughes, callsign Archduke, and
+moves against a suspected safehouse in Vienna's Hernals district. The team
+infiltrates the apartment and recovers a tablet and other intelligence, but the
+occupants return unexpectedly and summon an armed security element positioned
+nearby.
+
+The mission shifts from covert entry to pursuit. Spook chases one of the
+suspects across rooftops, service spaces, and a rail-adjacent route, but the
+target escapes the immediate foot pursuit. Spook reunites with Tripper and
+Smoke, and the team uses motorcycles to break away toward the Port of Vienna.
+Gunmen pursue on motorcycles and in a van, turning the exfiltration into a
+high-speed firefight.
+
+Victor Two Bravo destroys or defeats the pursuing security detail and reaches
+the port. The recovered tablet links the cell to Betta Logistics GmbH and
+identifies Simenon Christophe Navarre and Karyna Budanova as possible access
+points into the shipment chain.
+
+2. ABOVE MY PAY GRADE
+
+The team travels to the Frankfurt area and infiltrates Navarre's residence.
+Navarre is not presented as the conspiracy's architect; he is a frightened
+logistics intermediary whose records can identify where the shipment passed.
+Spook obtains access to his laptop and finds manifests pointing to Warehouse 46
+at Frankfurt Airport.
+
+The player may choose to help Navarre and Budanova disappear under new
+identities. The humane branch later becomes the continuity used for their
+possible return, but the mission itself preserves the choice. Victor Two Bravo
+takes Navarre's vehicle and heads to the airport.
+
+Warehouse 46 is occupied by Atlas personnel, but the shipment has already been
+removed. The timing indicates that someone warned the security force before the
+CIA team arrived. During the firefight, Spook may briefly intercept Regent's
+voice on an unassigned frequency saying that he has “copies of everything”
+before the transmission cuts out. Tripper recovers a hard drive and the team
+destroys the warehouse.
+
+The drive contains partial TETHERBREAK references and an incomplete schedule of
+chartered flights. DAOG contact Karl “Jaeger” Stanzler helps match the surviving
+data to GenCorp infrastructure in Abu Dhabi.
+
+3. INFRASTRUCTURE DAY
+
+Victor Two Bravo enters Abu Dhabi and targets GenCorp's regional headquarters.
+Spook rappels down the exterior of the skyscraper to reach restricted data
+infrastructure while Tripper and Smoke support the intrusion and exfiltration.
+The mission's vertical entry gives the team access to records that would be
+difficult to reach through the building's normal security architecture.
+
+The building's physical-security response is directed by Leandro Petrus
+Blommaert, GenCorp's senior protective-operations executive for the region.
+Blommaert is an optional target rather than a mandatory boss. The player may
+earn an exterior-rappel opportunity to kill him, bypass him, wound him, or leave
+without encountering him directly. If he survives, he learns from Spook's
+methods and remains available for later continuity.
+
+The recovered data identifies Agarwal Berkhan, a billionaire logistics and
+procurement intermediary connected to the shipment. The evidence places him at
+the Lestari House compound near Medan, Indonesia. Victor Two Bravo leaves Abu
+Dhabi with the first clear human target capable of explaining how the
+contractor and state channels fit together.
+
+4. MAN FROM MEDAN / OPERATION DRAGONSLAYER
+
+Victor Two Bravo infiltrates the Medan-area Lestari House compound to capture
+Berkhan alive. The team penetrates the protected interior, copies procurement
+and route data, and closes on Berkhan before he can escape.
+
+Berkhan triggers a lockdown and attempts to reach a helicopter. During the
+struggle, Spook steals his access credential and uses it to override the
+security barriers sealing the team inside. Victor Two Bravo pursues him toward
+the extraction point, expecting that the helicopter will provide the final
+chance to take him alive.
+
+A local Skynex/RADS air-defense system suddenly engages the helicopter and
+destroys it. The event is presented publicly as a malfunction, but its timing
+makes the truth clear to Spook: someone with remote access has killed Berkhan
+before he can be interrogated. Indonesian security forces begin closing the
+area, forcing the team to withdraw without turning the mission into a fight
+against the host nation's responders.
+
+After the loss, CIA Director of Operations Robert Macmillan, callsign Bishop,
+informs the team that Regent has been “urgently reassigned.” Bishop assumes
+direct authority over Victor Two Bravo and initiates the WHITEOUT chain leading
+to Miami.
+
+5. PANDORA'S BOX
+
+The surviving Berkhan and GenCorp trail carries the team through Frankfurt and
+Orlando into South Florida. Victor Two Bravo surveils the abandoned Desautels
+resort, where Los Sietes personnel are protecting five members of the Kali Yuga
+Surf Club. Thermal or equivalent overwatch reveals a heavily controlled room and
+movement pattern inconsistent with an ordinary cartel safehouse.
+
+The team breaches the resort and confronts the five KYSC operatives. Their
+behavior, repeated markings, and medical profile indicate conditioning rather
+than normal mercenary recruitment. They may carry baseline CogniConnect
+technology, but they do not possess the War Wolves-only CFIM package and their
+faces do not detonate after death. The distinction later helps Spook understand
+that the conspiracy uses different levels of control and counter-forensic
+protection for different human assets.
+
+Victor Two Bravo recovers a PANDORA-linked device and records connecting the
+KYSC subjects to Montoya Farm and an older MKULTRA-adjacent conditioning lane.
+The discovery triggers a violent containment effort. The team's exfiltration
+runs through damaged hotel interiors, vertical access, sicario pressure, and a
+garage escape before the group separates from the area at dawn.
+
+Spook decides to move on the Montoya lead before Bishop can contain or reframe
+the evidence. The mission reveals that the Miami cell is not an isolated
+extremist plot but part of a system that manufactures and deploys controlled
+people.
+
+6. BURNING DAYLIGHT
+
+Victor Two Bravo reaches Montoya Farm in New Mexico during an elite gala. Above
+ground, the estate appears to be an affluent and highly protected social venue.
+Spook enters under covert constraints and uses a directional microphone to
+collect Stockbridge-linked conversations while the team searches for access to
+the security system.
+
+A stolen keycard and manipulated surveillance route lead Spook toward a hidden
+entrance beneath the pool area. The team descends into a large underground
+facility containing prison cells, medical and conditioning spaces, dormitories,
+simulated environments, and production areas used to create coercive or
+compromising material. The site is operationally maintained rather than
+presented as an abandoned horror set, making the discovery evidence of an
+institution rather than the eccentricity of one criminal.
+
+Tripper plants an implant in the server architecture and begins extracting the
+archive. Records distinguish prisoners, conditioned assets, handlers,
+procurement personnel, and logistics functions. They also connect legitimate
+equipment channels to the covert program and identify relationships among
+private contractors, intelligence services, criminal organizations, and senior
+American figures.
+
+The team escapes through service and laundry architecture rather than returning
+through the gala. Once decrypted, the archive reveals the Shadow Underground
+and provides the first substantial references to Riptide Red. A PANDORA-related
+report in the data has its author's identity manually redacted, suggesting that
+someone inside the system attempted to preserve evidence while hiding the
+source. The trail points toward East McFarlane Island in the Caribbean.
+
+7. COME FLY WITH ME
+
+Victor Two Bravo stages from the northeastern Caribbean and steals a BFA-2
+floatplane from a guarded fishing-company compound. The theft provides a
+low-profile way to approach East McFarlane Island without using an official CIA
+route.
+
+The team flies toward the island in darkness, cuts the engine during the final
+approach, and lands in a small cove. The mission acts as the physical transition
+from investigation to direct confrontation. Spook, Tripper, and Smoke are now
+moving without confidence that their own command structure supports the
+operation.
+
+An optional hidden cache associated with the island approach can contain an
+encrypted drive, a symbol, and coordinates that do not correspond to any Game 1
+objective. The material becomes a cross-game lead associated with Regent's
+unredacted Riptide Red report.
+
+8. SINS OF OUR FATHERS
+
+Victor Two Bravo infiltrates East McFarlane Island and fights through its
+security force. Among the defenders are the War Wolves, former elite operators
+protected by CFIM counter-forensic implants. When killed, the devices destroy
+identifying facial evidence, preventing the team from easily proving who the
+operators were or which institutions once employed them.
+
+Spook reaches Edward Goldberg and Gillian Stockbridge at the island's helipad.
+The confrontation confirms that the people behind the shipment, Montoya Farm,
+and the Shadow Underground are also tied to PANDORA and the wider collapse.
+Goldberg explains enough of the architecture to reveal that the foreign war and
+the domestic conspiracy are not separate crises.
+
+Before Victor Two Bravo can arrest or kill the pair, Bishop orders Spook to
+stand down and grant Goldberg safe passage. Macmillan refers to the situation
+as being “bigger than Mullen told you,” a verbal slip showing that he knows what
+Regent attempted to communicate. When Spook refuses the order, Bishop declares
+the entire team rogue.
+
+Goldberg and Stockbridge escape, and Victor Two Bravo is left outside the
+protection of its own agency. At the same time, the coordinated assault on the
+American West Coast begins. The campaign ends on the revelation that PANDORA
+was not merely the opening move of a foreign invasion. It was a deliberately
+engineered collapse protected by senior figures inside the institutions tasked
+with preventing it.
+
+===============================================================================
+CROSS-CAMPAIGN CONCLUSION
+===============================================================================
+
+The three endings occur against the same widening war. Romeo prevents the
+immediate loss of North Island but returns to a country that remains invaded and
+fragmented. Ducky holds Maasvlakte and preserves part of Europe's ability to
+coordinate, while retaining evidence that AEGIS and NATO were penetrated before
+the open conflict. Spook discovers the conspiracy linking PANDORA, contractors,
+criminal networks, and senior intelligence officials, but is declared rogue
+before he can stop its principal architects.
+
+Together, the campaigns reframe the game's opening catastrophe. The foreign
+offensives succeed as far as they do because PANDORA has already damaged
+American command and created the appearance of a hostile external cyberattack.
+The military characters experience the consequences from the battlefield and
+infrastructure layers, while Spook uncovers the protected human network that
+made the collapse possible. None of the protagonists ends Game 1 with the war
+resolved; each ends with a different part of the truth and a different reason
+to continue fighting.
+
+===============================================================================
+END OF MISSION-BY-MISSION SYNOPSIS
+===============================================================================
