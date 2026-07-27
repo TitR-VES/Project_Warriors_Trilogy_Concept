@@ -3,9 +3,14 @@ Generated: 2026-07-23
 Version: rev2
 Status: SOURCE-LANDED CAMPAIGN-SPINE AUTHORITY / IMPLEMENTATION WORKING
 
-01. ROMEO — CRITTER SQUAD: LEAD THE WAY
+01. ROMEO — LEAD THE WAY
 Playable lead: SSG Ramón “Romeo” Álvarez. Unit: Fire Team Delta, 75th Ranger
 Regiment. Squad: Dingo, Howler, Beaver.
+
+Campaign-title lock:
+The formal campaign title is LEAD THE WAY. “Critter Squad” may remain an informal
+in-world reference in dialogue, collectibles, unit humor, or environmental text, but
+it is not part of the campaign title or campaign-menu label.
 
 Campaign thesis:
 A Ranger-forward movement story that begins on NATO's eastern flank, survives the
