@@ -1,10 +1,10 @@
 PROJECT WARRIORS — FIRST-PERSON WEAPON-HANDLING ADDENDUM
 Generated: 2026-07-27
 Version: rev1
-Status: GAMEPLAY / WEAPONS WORKING-KNOWLEDGE ADDENDUM — PROPOSED OWNER REVIEW
+Status: GAMEPLAY / WEAPONS WORKING-KNOWLEDGE ADDENDUM — MIXED APPROVED / PROPOSED OWNER REVIEW
 
 PURPOSE
-Provide a compact orientation layer for the July 27 shoulder-switching, aiming/peeking, and weapon-malfunction development pass without pretending the rev6 monolithic compendia or archival master have been milestone-refreshed.
+Provide a compact orientation layer for the July 27 shoulder-switching, aiming/peeking, rifle-to-pistol transition, and weapon-malfunction development pass without pretending the rev6 monolithic compendia or archival master have been milestone-refreshed.
 
 READ WITH
 - the six rev6 working compendia
@@ -13,10 +13,11 @@ READ WITH
 - dev_src_docs/gameplay_mechanics/PW_UI_Prompt_System_Design_rev1.txt
 
 SOURCE-FIRST RULE
-The dedicated topic source controls this proposal:
-dev_src_docs/gameplay_mechanics/PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+The dedicated topic sources control:
+- dev_src_docs/gameplay_mechanics/PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+- dev_src_docs/gameplay_mechanics/PW_Rifle_to_Pistol_Transition_Mechanic_2026-07-27_rev1.txt
 
-This addendum is orientation only. The new page remains proposed until owner adjudication.
+This addendum is orientation only. The shoulder/aiming/malfunction page remains proposed until owner adjudication. The rifle-to-pistol transition core concept is owner-directed and approved; exact implementation details remain production work.
 
 ================================================================================
 01. SHOULDER SWITCHING
@@ -87,7 +88,35 @@ All clearing actions inherit the July 25 persistent mechanical-state lock. If a 
 The player retains a tactical choice between clearing, transitioning to a secondary, moving to cover, or replacing/abandoning the weapon.
 
 ================================================================================
-04. FREQUENCY / FAIRNESS / HARD FAILURES
+04. RIFLE-TO-PISTOL TRANSITION
+================================================================================
+
+APPROVED CORE DIRECTION
+A player carrying an accessible pistol may deliberately transition from a rifle, carbine, stocked SMG/PDW, or shotgun instead of reloading or clearing a malfunction while exposed. The transition is also available proactively while the long gun remains functional.
+
+Key rules:
+- the pistol is a separate physical weapon with its own ammunition, condition, and state
+- the long gun remains visibly retained by sling, hand, or an explicit emergency drop rather than disappearing into inventory
+- the primary retains its exact empty, reload, malfunction, heat, damage, magazine, and action state
+- returning to the primary requires the appropriate reload, recovery, or malfunction clear
+- an early close-range firing window may exist before a full two-handed pistol presentation, but it uses real muzzle geometry and degraded point-shooting precision
+- no animation invulnerability or instant inventory swap applies
+- shoulder selection for the long gun remains stored while the pistol is active
+- long-gun length, sling setup, stance, injury, occupied hands, local collision, and holster accessibility affect the animation
+- unslung weapons may require one-handed retention, a slower draw, or an explicit emergency drop that leaves the weapon in the world
+
+Character-specific animation texture is part of the approved concept:
+- Romeo: fast, direct, aggressive early presentation
+- Ducky: compact, methodical, controlled retention
+- Spook: economical, confined-space conscious, early close-retention pistol solution
+- Frost: deliberate clearance of a long precision weapon before a stable draw
+- Lupin: decisive and forceful presentation
+- Switchblade: compact, support-aware handling compatible with medical kit and occupied-hand demands
+
+Differences should remain modest and visible through cadence, posture, and animation economy. Equipment, weapon length, injury, stance, and geometry may matter more than character identity; the system must not create large opaque character bonuses.
+
+================================================================================
+05. FREQUENCY / FAIRNESS / HARD FAILURES
 ================================================================================
 
 PROPOSED DIRECTION
@@ -110,43 +139,47 @@ Fully disabling failures remain exceptional:
 Routine randomness must not permanently erase a named/signature weapon. Hard-disabled weapons may require safe-zone repair, armorer/workbench support, replacement, or authored recovery.
 
 ================================================================================
-05. DIFFICULTY / ACCESSIBILITY / NPC PARITY
+06. DIFFICULTY / ACCESSIBILITY / NPC PARITY
 ================================================================================
 
 Standard or lower difficulty may:
 - restrict malfunctions largely to authored/extreme-condition cases
-- identify the clear input with a restrained prompt
+- identify the clear or transition input with a restrained prompt
 - provide modest shoulder/cover alignment assistance
 - offer optional near-cover shoulder suggestion or auto-selection
+- offer an optional sidearm suggestion or automatic transition after an empty trigger/stoppage
 
 Maximum realism may:
 - use condition-driven stoppages at intended frequency
-- remove textual diagnosis
+- remove textual diagnosis and repeated transition prompting after tutorialization
 - enforce stricter body/muzzle/optic geometry
 - retain full interrupted-state and ammunition/feed consequences
 
 Accessibility options proposed:
 - shoulder switch toggle/hold
 - lean toggle/hold
-- rebindable inputs
+- rebindable shoulder, lean, and quick-transition inputs
 - optional near-cover shoulder suggestion or automatic selection
+- optional automatic rifle-to-pistol transition
 - reduced camera/weapon translation
-- clearer obstruction and malfunction prompts
+- clearer obstruction, malfunction, and sidearm-availability prompts
 - simplified malfunction frequency
 
-NPCs follow the same broad state rules. Irregulars may fumble or overexpose; trained troops seek cover and clear; elite enemies decide quickly between clearing, transition, and movement. NPCs do not instantly reset to ready weapons.
+NPCs follow the same broad state rules. Irregulars may fumble or overexpose; trained troops seek cover and clear or transition; elite enemies decide quickly between clearing, transition, and movement. NPCs do not instantly reset to ready weapons or receive instant sidearm swaps.
 
 ================================================================================
-06. OWNER ADJUDICATION STILL REQUIRED
+07. OWNER ADJUDICATION STILL REQUIRED
 ================================================================================
 
-Open questions:
+Open questions for the shoulder/aiming/malfunction proposal:
 1. support-side handling penalty on default difficulty versus realism only
 2. fully manual shoulder switching versus optional auto-near-shoulder behavior
 3. automatic state-correct clearing on maximum realism versus repeated input separating immediate and remedial action
 4. whether field maintenance/cleaning should be developed immediately as the principal prevention system
 5. whether hard-disabled non-signature weapons are generally recoverable for later repair or normally discarded/replaced
 
-Until those questions are resolved, this addendum records a proposed development direction rather than a final canon/mechanics lock.
+The rifle-to-pistol transition core concept does not require further approval. Its exact timings, platform input map, holster/sling compatibility, early-fire coefficients, and complete character/weapon animation matrix remain production details rather than unresolved concept decisions.
+
+Until the five listed questions are resolved, this addendum records a mixed state: approved transition concept plus proposed shoulder, aiming, and malfunction development direction.
 
 END OF DOCUMENT
