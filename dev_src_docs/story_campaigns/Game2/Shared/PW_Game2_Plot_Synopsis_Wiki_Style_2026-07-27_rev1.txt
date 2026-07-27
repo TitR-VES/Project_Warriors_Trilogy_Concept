@@ -1,0 +1,164 @@
+PROJECT WARRIORS — GAME 2 PLOT SYNOPSIS RECAPITULATION
+Generated: 2026-07-27
+Version: rev1
+Status: DERIVATIVE REFERENCE / WIKI-STYLE NARRATIVE SYNTHESIS WITH DEVELOPMENT-GAP FLAGS
+Scope: Project Warriors, Game 2 — all three main story campaigns
+
+AUTHORITY NOTE
+
+This document recapitulates the currently landed Game 2 campaign ontology and source hierarchy in readable community-wiki prose. It is a derivative narrative reference, not a substitute for the campaign ontology, mission source pages, timeline authority, character sources, technical canon, or later dedicated campaign ladders.
+
+Game 2 is less evenly developed than Game 1. AMERICAN FREEDOM has a strongly landed Calloway opening and resistance-formation arc, but its bridge from Coronado and its continuation beyond the local Kentucky climax remain incomplete. PERSISTENT THREAT contains several locked mission blocks and a clear institutional-investigation spine, but does not yet have one reconciled end-to-end mission ladder. GODKILLER has a locked campaign identity, thematic architecture, and several sequel-continuity assets, but lacks a repository-verifiable timeline-track binding and a full source-ready campaign ladder.
+
+Statements marked [DEVELOPMENT GAP] identify missing or unreconciled development. They do not create new canon or imply that an unresolved option has been selected.
+
+Controlling campaign entities:
+- PW-CMP-G2-AMERICAN-FREEDOM — American Freedom
+- PW-CMP-G2-PERSISTENT-THREAT — Persistent Threat
+- PW-CMP-G2-GODKILLER — Godkiller
+
+===============================================================================
+PLOT
+===============================================================================
+
+Project Warriors II follows the war after the immediate PANDORA crisis has hardened into occupation, counteroffensive, and institutional fracture. The United States remains divided between surviving military authorities, occupied territories, local resistance networks, and the wartime government of President Barry James Crodyn. Europe is still fighting a conventional Russian offensive while also confronting a covert technical campaign that has penetrated civilian infrastructure and allied command systems. At the same time, the conspiracy uncovered by Victor Two Bravo in the first game has survived exposure by destroying evidence, manipulating the official record, and allowing its principal architects to disappear behind the larger war.
+
+The three campaigns again depict different layers of the same conflict. Ramón “Romeo” Álvarez enters an occupied American community and helps transform local survival networks into the American Freedom Corps. Ferris “Ducky” Ryan and AEGIS Squad move from defending allied infrastructure to identifying and dismantling a repeatable Russian relay-and-deception architecture built with compromised knowledge of the system they protect. Trevor “Spook” Gartner, operating outside a trustworthy chain of command, follows evidence that Edward Goldberg is still alive while trying to preserve witnesses and records that powerful institutions want erased.
+
+Crodyn's wartime presidential address serves as the principal synchronization point between the campaigns. In Kentucky, the speech publicly designates Romeo and the American Freedom Corps as enemies of wartime order. In the wider military and intelligence stories, it demonstrates that the political system created by PANDORA is no longer merely failing to respond to the crisis; it is actively defining resistance, disclosure, and independent action as threats to its own authority.
+
+-------------------------------------------------------------------------------
+AMERICAN FREEDOM
+-------------------------------------------------------------------------------
+
+The first campaign follows Staff Sergeant Ramón “Romeo” Álvarez after the Battle of Coronado. Although Romeo ends the first game as a Ranger still operating inside the remnants of the American military chain of command, he does not immediately become a resistance leader. His route from Southern California to Kentucky is intended to show the gradual collapse of institutional legitimacy and the personal dislocation that separates him from the force structure in which he began the war.
+
+[DEVELOPMENT GAP — POST-CORONADO BRIDGE] The exact duration, route, intermediate locations, unit status, and circumstances that carry Romeo from Coronado to Calloway have not yet been fully developed. The landed source establishes the function of the bridge—soldiering becoming local responsibility—but not a complete playable sequence.
+
+Romeo reaches Calloway, Kentucky, approximately one month into the local occupation. The campaign opens on a familiar American town made wrong through restraint rather than spectacle: foreign checkpoints stand among pharmacies, civic buildings, damaged houses, churches, schools, and ordinary roads. Romeo initially observes the community from its edge instead of arriving as a liberating hero. He is introduced to a loose resistance network whose strength comes less from weapons than from routes, medicine, records, radios, local knowledge, and people willing to keep one another alive.
+
+The early network is anchored by pharmacist Dale Pruett, former school superintendent Renata Voss, volunteer firefighter and mechanic Cody Beaumont, former 82nd Airborne staff sergeant Frank Kowalski, and delivery driver Gene Marlow. Each represents a different kind of authority that survived the occupation. Dale provides civic and medical logistics, Renata maintains information and communications, Cody supplies route knowledge and urgency, Frank gives the cell practical military counsel, and Marlow uses his work and familiarity with checkpoints to move people and supplies.
+
+Romeo's first operations are reconnaissance and preparation rather than open revolt. With Cody, he surveys the occupation from elevated ground, identifies garrison positions, signals equipment, detainee transports, and a concealed culvert route, and observes the unmarked Russian intelligence officer Glushkin interrogating Marlow. Romeo then disrupts the occupation's communications long enough to contact surviving command personnel and learn that Calloway is expected to become more than an isolated cell. A pre-positioned cache southeast of town is meant to help establish the first node of a wider insurgent network.
+
+The discovery of civilians detained inside the medical-clinic parking structure turns preparation into an immediate moral problem. Cody recognizes Dale's daughter Kelsey among the prisoners but does not compromise the reconnaissance. Romeo and the cell recover the hidden weapons and medical cache through Marlow's farm-road route, then launch the rescue operation known as “Second Level.” Romeo clears the lower structure while Cody holds the withdrawal route long enough for the detainees to escape through the culvert.
+
+Cody remains behind too long and is wounded and captured after securing the civilians' escape. His loss is not treated as a triumphant martyrdom. In the aftermath, Renata asks Romeo whether another version of the plan existed in which Cody came home. Romeo receives no easy absolution, and Frank's answer is that the cost must be made to mean something. The exchange establishes the campaign's central tension: Romeo is capable of organizing effective violence, but leadership requires him to remain accountable for the lives spent making that violence possible.
+
+As occupation pressure increases, the Calloway cell begins connecting with neighboring communities. Romeo encounters Patrice Odom's emergency-management network, Terrell Washington's Cumberland community, Judge Hargrove's documentary and legitimacy lane, Ray Braddock's damaged state-trooper network, and Priya Okonkwo's independent Kentucky National Guard veterans. The campaign emphasizes that these groups are not waiting to be absorbed into Romeo's personal army. Each has its own people, territory, risk tolerance, and moral authority. Romeo earns cooperation by giving honest assessments of danger and by accepting that some groups cannot be used safely simply because they are willing to fight.
+
+Fire Team Delta eventually reunites with Romeo, restoring the operational rhythm between Romeo, Dingo, Howler, and Beaver while changing the context in which that team now operates. Their military experience improves the resistance's ability to interdict occupation logistics and coordinate multiple cells, but the Rangers do not replace the local network that sustained Calloway before they arrived.
+
+[DEVELOPMENT GAP — MIDDLE-LADDER ORDER] Two substantial clusters of middle-campaign missions are source-landed but have not been reconciled into one contradiction-free order. One cluster centers on the Fire Team Delta reunion, counter-mapping Glushkin, Priya's unit, and Operation AMBITIOUS. The other centers on county-to-county network formation, public legitimacy, and the campaign's presidential-address hinge. The synopsis therefore presents these developments thematically rather than assigning definitive mission numbers.
+
+Glushkin emerges as Romeo's principal occupation antagonist. Rather than merely hunting whoever fires on Russian patrols, he studies relationships, routes, communications habits, and social obligations. He attempts to turn local trust into a map of the resistance. When an insecure Middlesboro group creates an exploitable seam, Romeo's network is forced to close the leak while accepting that it cannot save everyone cleanly. The conflict becomes a contest between two forms of organization: Glushkin's professional counter-network pressure and the resistance's attempt to remain distributed without becoming incoherent.
+
+The American Freedom Corps name arises from use rather than branding. During the first coordinated multi-cell operations, Terrell proposes “American Freedom something,” and Romeo completes the name as American Freedom Corps. The AFC subsequently attacks the occupation's county logistics system, intercepts monitoring equipment, disrupts communications, and moves documentary evidence of occupation abuses through civilian routes to outside media. Judge Hargrove's involvement reinforces the idea that the movement must remain something its members could defend publicly and legally, not merely something capable of winning firefights.
+
+The AFC's growing visibility eventually reaches surviving conventional American forces. After a significant garrison action and contact with a 101st Airborne element, reports of Romeo's network reach Crodyn's government. In his wartime address, the president names Romeo and the AFC as enemies of order. The resistance responds without a celebratory rally. “American Freedom” is repeated as a statement of identity: the government has attempted to turn the phrase into an accusation, while the people in the room understand it as a description of what they are trying to preserve.
+
+The recovered Calloway arc culminates in “Free Ground,” a coordinated attack on multiple occupation positions. The resistance temporarily retakes the Elks Lodge, where Aldridge raises the folded American flag preserved by Patrice Odom. The occupation later retakes the building, but the point of the operation cannot be undone. The public has seen the flag fly over the town again, and the AFC has demonstrated that resistance can become a visible civic fact even when it cannot yet hold every position it takes.
+
+[DEVELOPMENT GAP — CAMPAIGN CONTINUATION AND FINALE] “Free Ground” is the climax of the source-landed Calloway formation arc, not a confirmed finale for the entire American Freedom campaign. The exact placement of Fire Team Delta's reunion, the optional “Face to Face” Glushkin mission, the handoff to conventional American forces, the wider counteroffensive beyond Kentucky, and the campaign's final operation remain open. The exact calendar placement of Crodyn's address under the November 7, 2028 election anchor also requires reconciliation.
+
+-------------------------------------------------------------------------------
+PERSISTENT THREAT
+-------------------------------------------------------------------------------
+
+The second campaign follows Sergeant First Class Ferris “Ducky” Ryan and AEGIS Squad as the European war changes from the defense of a threatened system into an offensive investigation of how that system has been compromised. Ducky continues to operate alongside Finnish sniper and arctic-warfare specialist Aki “Frost” Peltola, Romanian assault specialist Ştefan “Lupin” Dragavei, and Australian combat medic Cassandra “Switchblade” Stewart. Analyst Tara Halliday remains the campaign's principal institutional counterpart, preserving anomalies and records that others would prefer to treat as isolated incidents.
+
+Persistent Threat is built around the discovery that the enemy is not simply attacking European infrastructure from outside. Russian technical and intelligence elements are using knowledge of AEGIS-adjacent architecture to hide relay, certification, deception, and access systems inside the ordinary mechanisms through which Europe already functions. Commercial logistics, temporary installations, contractor credentials, exhibition facilities, industrial service routes, power, cooling, fiber, and protected civilian movement become part of the battlefield.
+
+AEGIS therefore begins conducting reconnaissance, sabotage, technical recovery, and denial operations across degraded NATO territory and Russian-controlled spaces. The campaign's military action is inseparable from evidence preservation. Destroying an active relay may prevent an immediate attack, but recovering its labels, timing data, certification records, or routing core may expose the next site in the chain. Ducky repeatedly has to decide what can be destroyed, what must be carried out, and how many people can be risked to preserve proof.
+
+One mid-campaign operation, “Open Circuit,” brings AEGIS and the attached SHIELD exploitation team into the service side of the Brno Exhibition Centre. The visible technical floor is a decoy; the real site is hidden along a more heavily protected service artery. AEGIS secures a repurposed relay floor while SHIELD images and removes its routing core, proving that Brno is one node in a larger continental system. When the site locks down and the two teams are forced onto parallel routes, French Rafale support under the KERAUNOS callsign breaks a vehicle-and-overwatch choke point long enough for them to recombine and escape with the package.
+
+[DEVELOPMENT GAP — OPEN CIRCUIT PLACEMENT] “Open Circuit” is locked as a mid-campaign mission, but its exact number and its relationship to “Dead Frequency” and “Hard Winter” remain open. The mission cannot displace the locked sequence that leads from those operations into Bakhmut and then Svalbard.
+
+The strongest currently ordered block begins with “Dead Frequency” at a converted NATO facility in northern Estonia. After completing the primary objective, AEGIS withdraws under closing pursuit while Swedish Archer artillery under the ARTEMIS callsign shapes the enemy's approach routes. The fire mission is presented as disciplined allied support integrated into a wider war, not as a miraculous rescue.
+
+“Hard Winter” carries the investigation into a harsher phase of the European campaign and leads into a three-mission Bakhmut mini-arc. In “Dead Ground,” AEGIS links up with a Ukrainian veteran cell led by Captain Oleksandr Honcharenko and begins recognizing the geometry of a protected technical site inside the ruined city. Frost temporarily becomes playable to clear controller and overwatch positions whose survival would compromise the route.
+
+In “Dark Fiber,” the combined force strips an outer dependency from the target system and exploits buried communications and service infrastructure. A temporary shift to Lupin places the player in a faster interdiction role while Ducky continues directing the larger tactical problem. The recovered material establishes that the site is not merely a local relay, but a forward certification facility used to test attack logic against AEGIS-shaped defensive interpretation.
+
+The arc concludes with “Ash Relay,” a Ducky-led assault on the municipal communications-and-utilities complex. The team destroys the relay architecture in the required order, seizes the surviving technical packet, and escapes before the outer screen can close. The evidence converts Halliday's suspicions into physical proof of a repeatable relay-and-deception kill chain and identifies Svalbard as the probable northern target.
+
+AEGIS returns to Svalbard in “Permafrost,” where the northern strike package threatens the infrastructure that survived the first game's opening crisis. After the relevant node is destroyed, Norwegian K239 Chunmoo rocket artillery under the TYPHON callsign collapses inland pursuit routes and creates a temporary coastal extraction window. The team reaches a rigid-inflatable craft under fire, but the operation again buys time rather than ending the campaign's larger systems war.
+
+Persistent Threat also includes source-backed material for operations around Torrejón Air Base, the Julian Alps, an ASML-related high-value industrial defense mission, and other resistance or degraded-NATO environments. These belong to Game 2 rather than Ducky's first-game ladder, but their chronology and exact narrative function have not yet been reconciled into the campaign spine.
+
+[DEVELOPMENT GAP — FULL CAMPAIGN LADDER] The repo does not yet contain one authoritative end-to-end Persistent Threat mission ladder. The opening bridge from the Rotterdam finale, the order of the Torrejón, Julian Alps, ASML, Brno, Estonia, and deeper-winter material, and the transitions between the major operation blocks require a dedicated consolidation pass.
+
+The campaign is intended to resolve the long-running ambiguity surrounding Lieutenant General Callum Tremblay rather than carry the question unchanged into the next installment. Its final mission title is “AEGIS Falls,” while Persistent Threat remains the campaign title. The legacy strategic spine also points toward AEGIS preventing a Russian undersea strategic attack against northeastern France after operating deeper inside Russian-controlled territory.
+
+[DEVELOPMENT GAP — AEGIS FALLS AND LATE CLIMAX] The precise target architecture, route into the finale, status of the legacy “salted” undersea weapon concept, Tremblay's exact conduct and fate, the squad's casualties or institutional consequences, and the final playable sequence have not yet been landed in a focused current source. The only locked bridge into Game 3 is that the Tremblay confrontation and active ambiguity are resolved by the end of Game 2, leaving Failsafe to inherit the consequences rather than repeat the mystery.
+
+-------------------------------------------------------------------------------
+GODKILLER
+-------------------------------------------------------------------------------
+
+The third campaign follows Trevor “Spook” Gartner and the remaining Victor Two Bravo operators after CIA Director of Operations Robert Macmillan declares the team rogue at East McFarlane Island. The public and institutional record treats Edward Goldberg's story as closed, but Spook begins finding inconsistencies that should not exist if the architect of Riptide Red is truly dead. Active shell companies, financial movement, old access records, protected witnesses, surveillance traces, and the continuing behavior of the network all point toward the same conclusion: Goldberg survived the first game's confrontation and has used the war to disappear behind an official death.
+
+Godkiller is therefore less a conventional pursuit than an investigation into whether an individual can be meaningfully removed while the system that protected him remains intact. The campaign's title refers not only to hunting a man with a self-created myth of untouchability, but to destroying the institutional certainty that allows powerful conspirators to declare themselves beyond consequence.
+
+A hidden cache on East McFarlane Island provides one possible bridge into the campaign. Players who discovered the cache in the first game possess a symbol and coordinates that can unlock an otherwise concealed Game 2 location. Inside is an unredacted Riptide Red report written by Matthew Mullen, formerly Victor Two Bravo's handler under the callsign Regent. The report reveals deeper FSB and CIA penetration, evidence that the conspiracy predates PANDORA by decades, and material implicating institutions far beyond the figures exposed at Montoya Farm.
+
+The discovery triggers the “Find Regent” storyline and reframes Mullen's disappearance. The interrupted transmission in Frankfurt, the manually redacted Montoya file, and Macmillan's slip at the East McFarlane helipad become evidence that Regent was attempting to expose the conspiracy and was removed before he could reach Spook directly. His decision to hide the report rather than publish it creates the campaign's central moral problem: the truth is so broad, destabilizing, and institutionally implicating that releasing it during a world war could cause damage on a scale that no surviving authority can control.
+
+[DEVELOPMENT GAP — FIND REGENT IMPLEMENTATION] The hidden-report mechanic and Regent's role as a major Game 2 whistleblower are locked, but the report's physical location, the route by which non-cache players enter the storyline, Regent's survival status, the number and order of related missions, and the ultimate outcome of the search remain undeveloped.
+
+Spook also returns to the consequences of a humane choice made in the first game. Simenon Navarre and Karyna Budanova, now living as Simon-Pierre Aubert and Katja Reimann in Évora, were given new identities through the CIA. Their apparent protection fails when the GenCorp, Palisade Systems, and Bastion Infotech surveillance architecture identifies them again. Katja's insider knowledge makes her one of the most valuable living witnesses against the corporate layer of the conspiracy, while Navarre's belief that official protection could give them a new life becomes another quiet indictment of the institutions that failed them.
+
+Victor Two Bravo must decide how much operational risk to accept in order to preserve Katja, her knowledge, and the evidence surrounding her exposure. The campaign does not treat witness protection as a detached side objective. Keeping people alive is part of the same accountability mission as recovering files. A conspiracy cannot be prosecuted or publicly understood if every witness is allowed to disappear while operators concentrate only on killing its armed personnel.
+
+[DEVELOPMENT GAP — ÉVORA / WITNESS-PROTECTION ARC] The return of Navarre and Budanova is canonical, as is Katja's importance as a witness. It remains unresolved whether their exposure came primarily from a compromised CIA contact or from the reach of the surveillance system itself, and the repo does not yet contain a complete mission chain or fixed outcome for their protection.
+
+The broad Godkiller architecture follows three connected tracks. Spook protects witnesses and searches for Regent; Victor Two Bravo conducts intelligence operations designed to fracture the alliance between conspirators, corporations, and foreign partners; and the team covertly arms resistance movements operating inside enemy-controlled territories. These actions are unified by accountability rather than immediate battlefield victory. Every operation is intended to make it harder for the people who engineered the war to survive its end with their money, records, and influence intact.
+
+Goldberg's survival becomes increasingly visible through protected spaces and intermediaries rather than through a simple sequence of direct confrontations. The campaign's promotional architecture culminates in Spook seeing Goldberg alive and unhurried after the official record has already declared him dead. Spook's statement—“You can't kill a dead man”—captures the problem facing the campaign: Goldberg's public death has become another layer of protection, because institutions no longer have to search for, charge, or explain the actions of a man they insist no longer exists.
+
+The intended campaign arc moves Spook from exposing one conspiracy to preserving an actionable record of a wider system. By its end, he should understand that killing Goldberg alone would not dismantle the architecture that created PANDORA, compromised multiple governments, and adapted to the world war. This widening perspective provides the thematic bridge into Dark Skies, where Spook's investigation expands beyond the domestic-coup frame into the larger global order that exploited the collapse.
+
+[DEVELOPMENT GAP — FULL GODKILLER SPINE AND ENDING] Godkiller currently has no repository-verifiable stable timeline-track ID and no complete source-ready campaign ladder. The locations and order of the destabilization and resistance-support operations, the exact role of Tripper and Smoke after Victor Two Bravo is declared rogue, the relationship between the Regent and Katja arcs, the campaign's intersection with Crodyn's address, the final confrontation or non-confrontation with Goldberg, and the precise handoff into Dark Skies remain open. Goldberg's escape mechanism may remain intentionally undisclosed, but the campaign still requires a defined playable ending and consequence state.
+
+===============================================================================
+CONSOLIDATED DEVELOPMENT-GAP REGISTER
+===============================================================================
+
+AMERICAN FREEDOM
+- complete the Coronado-to-Calloway bridge;
+- reconcile the two middle-development clusters into one ladder;
+- place the Fire Team Delta reunion relative to the AFC formation arc;
+- decide the activation and placement of “Face to Face”;
+- reconcile Crodyn's address with the corrected November 7, 2028 election anchor;
+- define the conventional-force handoff and campaign continuation beyond “Free Ground”;
+- create the campaign's final operation and ending state.
+
+PERSISTENT THREAT
+- create one authoritative full campaign ladder;
+- place “Open Circuit” relative to “Dead Frequency” and “Hard Winter”;
+- integrate Torrejón, the Julian Alps, the ASML operation, and other degraded-NATO material;
+- define the opening bridge from Rotterdam and the movement into the continental systems war;
+- determine whether the Ukrainian Bakhmut cell recurs;
+- source-land the late strategic target and the complete “AEGIS Falls” finale;
+- resolve Tremblay's exact actions, fate, and institutional consequences.
+
+GODKILLER
+- recover or source-lock the campaign's stable timeline-track ID;
+- develop an end-to-end campaign ladder and chronology;
+- define the “Find Regent” access path, mission chain, and outcome;
+- complete the Évora witness-protection arc and decide how Katja and Navarre were re-exposed;
+- locate and order the intelligence-destabilization and resistance-support missions;
+- define the operational status of Tripper and Smoke after East McFarlane;
+- determine the campaign's synchronization with Crodyn's address;
+- write the final playable operation, Goldberg consequence state, and bridge into Dark Skies.
+
+CROSS-CAMPAIGN
+- source-land the exact shared chronology around Crodyn's wartime address;
+- define whether and how evidence, broadcasts, or operations from one campaign materially alter the others;
+- identify the final synchronization or parallel ending structure for all three campaigns;
+- preserve the distinction between intentional mystery and undeveloped plot information when later sources are written.
+
+===============================================================================
+END OF SYNOPSIS
+===============================================================================
