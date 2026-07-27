@@ -29,6 +29,7 @@ DLC installments:
 
 - Put campaign architecture, mission scripts, perspective mechanics, playable loadout continuity, and POV-specific presentation under the relevant playable-character directory.
 - Put durable NPC profiles, NPC-specific scene or mission-presence notes, voice/behavior references, equipment continuity, branch-state references, and presentation material under the stable named-NPC directory.
+- Keep `NPC_DESCRIPTION.md` in every ontology-backed named-NPC source home as a short human-review orientation page. It should identify the character, source scope, role, faction/network, known placement, and any open continuity limits without replacing controlling sources.
 - A character who is playable in an installment remains under `Playable_Characters/` there, even if that person is an NPC in another campaign.
 - Do not duplicate team-wide packets into every member directory. Keep multi-NPC squad packages in `Shared/`.
 - Use the stable `PW-NPC-*` identity in each NPC directory name. The following ASCII name slug is navigational only; canonical spelling remains controlled by the ontology.

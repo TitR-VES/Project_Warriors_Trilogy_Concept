@@ -1,0 +1,63 @@
+PROJECT WARRIORS — NAMED NPC REVIEW-DESCRIPTION LANDING AUDIT
+Generated: 2026-07-27
+Version: rev1
+Scope: dev_src_docs/story_campaigns/*/Named_NPCs/
+Policy: source-backed human-review orientation; no semantic canon changes
+
+1. PURPOSE
+
+Add a compact `NPC_DESCRIPTION.md` page to every ontology-backed named-NPC source home. The pages help human reviewers identify the person, understand the relevant installment/campaign context, and distinguish confirmed placement from open continuity.
+
+2. COVERAGE
+
+- stable named-NPC identities represented: 88
+- installment/DLC-specific description pages added: 121
+- source homes skipped: 0
+- duplicate description paths: 0
+
+Coverage by source scope:
+- HOME DEFENSE: 6
+- NIGHTFALL: 1
+- SEA SPEAR: 3
+- THE COLLAPSE: 8
+- WAR WITHIN: 7
+- WHO DARES WINS: 6
+- Game 1: 19
+- Game 2: 39
+- Game 3: 17
+- Game 4: 15
+
+3. DESCRIPTION MODEL
+
+Each page records:
+- canonical display name
+- stable `PW-NPC-*` identity
+- installment/campaign source scope
+- character classification and alignment-facing function
+- faction or network affiliation
+- short reviewer-facing narrative description
+- known mission or campaign placement
+- explicit open continuity note where the ontology leaves placement, biography, proof, or branch outcome unresolved
+
+4. AUTHORITY AND SAFEGUARDS
+
+- Durable character, campaign, mission, weapon, and worldbuilding sources continue to control story meaning.
+- `pw_named_npc_catalog_rev1.yaml` and its segmented entity/appearance files control stable identity and current NPC-state projection.
+- The new pages are derivative orientation aids, not replacement canon sources.
+- Branch-dependent outcomes remain unselected.
+- Callsign-only legal names remain open.
+- Incomplete mission ladders remain incomplete.
+- Working investigative links are described as working or unproven.
+- No new NPC identity, appearance ID, mission, biography, faction, weapon, or branch selection is introduced.
+
+5. REPOSITORY GUIDANCE
+
+`dev_src_docs/story_campaigns/README.md` now identifies `NPC_DESCRIPTION.md` as the standard reviewer-orientation page for ontology-backed named-NPC source homes.
+
+6. VALIDATION
+
+- 121 unique description paths generated.
+- All 88 stable entity IDs receive at least one description.
+- Every description path maps to a named-NPC source home created by the July 26 character-source reorganization.
+- UTF-8 Markdown only.
+- Canon-semantic changes: 0.
