@@ -20,7 +20,7 @@ DLC installments:
 
 ## Campaign mapping
 
-- Game 1: Romeo — **Critter Squad: Lead the Way**; Ducky/Frost/Lupin — **Do Right, Fear None**; Spook — **Riptide Red**.
+- Game 1: Romeo — **Lead the Way**; Ducky/Frost/Lupin — **Do Right, Fear None**; Spook — **Riptide Red**.
 - Game 2: Romeo — **American Freedom**; Ducky/Frost/Lupin — **Persistent Threat**; Spook — **Godkiller**.
 - Game 3: Romeo — **No Kings**; Ducky — **Failsafe**; Spook — **Dark Skies**.
 - Game 4: Romeo — **Command Authority**; Ducky — **Common Picture**; Spook — **Permanent Record**.
