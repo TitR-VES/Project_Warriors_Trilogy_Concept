@@ -1,0 +1,24 @@
+PROJECT WARRIORS — GAME 1 CAMPAIGN TITLE CANON NOTE
+Generated: 2026-07-27
+Version: rev1
+Status: LOCKED CANON CORRECTION
+Campaign entity: PW-CMP-G1-LEAD-THE-WAY
+Playable lead: Ramón “Romeo” Álvarez
+
+CANON TITLE
+
+Romeo's Game 1 campaign is titled:
+
+LEAD THE WAY
+
+“Critter Squad” is not part of the formal campaign title.
+
+IN-WORLD USAGE
+
+Critter Squad may remain as an informal or situational in-world reference associated with Romeo, Fire Team Delta, or the team dynamic. It may appear in dialogue, collectible text, graffiti, notes, unit humor, or other environmental/storytelling material where appropriate.
+
+It must not be presented as the campaign title, subtitle, campaign-menu label, official synopsis heading, or ontology canonical title.
+
+ONTOLOGY CONTINUITY
+
+The stable campaign identity remains PW-CMP-G1-LEAD-THE-WAY. This is a title correction only and does not alter the campaign's protagonist, order, timeline track, mission spine, or story content.
