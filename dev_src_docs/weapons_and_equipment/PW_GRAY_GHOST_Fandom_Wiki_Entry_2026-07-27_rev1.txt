@@ -44,6 +44,7 @@ Primary user:      Trevor “Spook” Gartner
 Primary optic:     Aimpoint Micro T-2 1x22 red-dot sight
 Magnifier:         Flip-to-side Aimpoint 3x magnifier
 Backup sights:     45-degree offset MBUS Pro iron sights
+Weapon light:      SureFire Mini Scout Light M300C, 1 o’clock mount
 Suppressor:        SureFire SOCOM300-SPS
 Standard finish:   Solid dark-gray Cerakote
 Default ammunition:.300 BLK subsonic
@@ -96,10 +97,19 @@ Its standard attachments include:
 - Aimpoint Micro T-2 red-dot sight on a 0.8-inch riser;
 - flip-to-side Aimpoint 3x magnifier;
 - 45-degree offset MBUS Pro backup sights;
-- SureFire Scout weapon light with extended momentary pressure switch;
+- SureFire Mini Scout Light M300C tactical white light mounted at the 1 o’clock position
+  near the front end of the handguard;
+- tactical dual pressure switch mounted on the top Picatinny rail approximately two
+  inches behind the handguard’s front edge;
 - milled aluminum low-profile angled skeleton grip with an integrated barrier stop;
 - SureFire SOCOM300-SPS suppressor; and
 - BE Meyers MAWL-DA laser aiming module once unlocked.
+
+The M300C and its pressure switch are arranged around Spook’s preferred support-hand
+position. The forward 1 o’clock light mount keeps the white-light body clear of his
+sight picture and minimizes interference with cover. The dual pressure switch remains
+reachable without breaking his firing grip, while its placement on the top rail lets
+the switch housing serve as a tactile thumb stop when Spook uses a C-clamp grip.
 
 The MAWL-DA becomes available after the events of BURNING DAYLIGHT. Once installed,
 it receives a unique inspection animation in which Spook briefly manipulates its
@@ -403,6 +413,8 @@ TRIVIA
 - GRAY GHOST and Spook’s HK45CT, NOTHING, share a matching dark-gray finish.
 - The build name appears in the lower portion of the weapon-inspection interface.
 - The faded “300 BLK” marking on the dust cover is visible only during inspection.
+- The top-rail pressure switch is positioned to double as Spook’s thumb stop when he
+  uses a C-clamp grip.
 - Subsonic ammunition is the default load, while supersonic magazines are commonly
   treated as an emergency escalation option.
 - The MAWL-DA is not initially available and must be acquired after BURNING DAYLIGHT.
