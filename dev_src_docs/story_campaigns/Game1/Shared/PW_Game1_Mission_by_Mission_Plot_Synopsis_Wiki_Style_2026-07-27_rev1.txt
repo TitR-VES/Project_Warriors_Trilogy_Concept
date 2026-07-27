@@ -15,12 +15,14 @@ branches, mission endings, and the three campaign conclusions.
 This is a derivative reference rather than a replacement for the campaign
 ontology, timeline authority, mission sources, character pages, or technical
 canon. Romeo's fourteen-mission working spine and Spook's core mission chain are
-landed clearly enough to summarize in sequence. Ducky's opening, major
-infrastructure operations, Île Longue transition, RETREAT, HELL approach, and
-Maasvlakte finale are source-backed, but the exact titles and order of parts of
-the middle infrastructure run remain an implementation-working layer. This
-article therefore identifies working titles where useful without promoting every
-middle-ladder label to permanent canon.
+landed clearly enough to summarize in sequence. Ducky's opening, shared
+infrastructure chronology, Île Longue transition, RETREAT, HELL approach, and
+Maasvlakte finale are source-backed. The shared Game 1 location sequence is
+Svalbard, the French Alps, Lemnos, Hindeloopen, and Île Longue, matching the
+chronology of Romeo's intersecting campaign. Several menu-level mission titles
+and the exact placement of the Cold Frontier 07 interlude remain an
+implementation-working layer. Torrejón Air Base and the Julian Alps are not part
+of the Game 1 AEGIS ladder; they belong to Ducky's Game 2 campaign.
 
 Controlling campaign entities:
 - PW-CMP-G1-LEAD-THE-WAY — Lead the Way
@@ -361,10 +363,12 @@ which allows European governments and military commands to retain independent
 geospatial awareness and coordination after PANDORA compromises American
 systems.
 
-The opening, major mission anchors, and finale are locked. The sequence below
-uses the current source-led working order for the middle infrastructure run.
-Several location labels remain working mission titles rather than final menu
-names.
+The opening, shared-location chronology, major mission anchors, and finale are
+locked. The sequence below follows the common chronology of the missions that
+intersect with Romeo's campaign: Svalbard, the French Alps, Lemnos, Hindeloopen,
+and Île Longue. Several location labels remain working mission titles rather
+than final menu names, and the exact placement of the Cold Frontier 07 interlude
+remains open.
 
 1. WIRECUTTER
 
@@ -414,37 +418,16 @@ links. She has already found comparable features in other incidents, but
 presents the observation as an analytical warning rather than a conspiracy
 reveal. Lupin asks who has oversight of the raw AEGIS data and appears
 unsatisfied by the official answer. The squad is assigned to the threatened
-node chain.
+node chain, beginning with the primary datacenter in Svalbard.
 
-3. QUIET WATER / HINDELOOPEN
+3. WHITE BLIND / SVALBARD
 
-AEGIS deploys to Hindeloopen on the Dutch IJsselmeer, where an AEGIS relay is
-concealed inside a waterfront civilian environment. The squad initially works
-in low-profile cover, observing a maritime supplier, visitors posing as cycling
-tourists, and a telecommunications vehicle whose behavior suggests coordinated
-surveillance rather than ordinary local activity.
-
-The hostile team activates before it can be fully identified. AEGIS contains
-the firefight within the waterfront streets and relay approaches, using
-suppressed weapons and controlled movement to avoid civilian exposure. Frost
-holds longer sight lines while Lupin and Switchblade work the closer spaces.
-Romeo's Fire Team Delta arrives during the operation, producing the first
-substantial joint action between the two protagonists' units. Ducky and Romeo
-disagree over the immediate tactical approach, but the pressure of the attack
-forces them into an effective division of responsibility.
-
-The attackers are stopped before they can reach the relay or escape by boat.
-Recovered equipment includes a Shibboleth-linked device and communications
-hardware carrying a private-contractor signature rather than a normal Russian
-state pattern. Halliday records the discrepancy. Walker acknowledges it, but
-the campaign moves on before its implications can be resolved.
-
-4. WHITE BLIND / SVALBARD
-
-The squad is sent to Svalbard, where the primary AEGIS datacenter is under
-threat. The facility's Arctic isolation makes it defensible against ordinary
-intrusion but vulnerable to a prepared assault that can disrupt power, access,
-or communications faster than reinforcements can arrive.
+Svalbard is AEGIS Squad's first infrastructure assignment after STANDING WATCH.
+The primary AEGIS datacenter is already under threat when Ducky and his team
+take up positions with its local personnel and defenders. The facility's Arctic
+isolation makes it defensible against ordinary intrusion but vulnerable to a
+prepared assault that can disrupt power, access, or communications faster than
+reinforcements can arrive.
 
 AEGIS fights to keep attackers out of the technical core while local personnel
 maintain the system under emergency conditions. The mission emphasizes Frost's
@@ -462,7 +445,7 @@ that the attackers understood the site's internal priorities. AEGIS leaves
 Svalbard with the growing suspicion that the enemy's access to the system is
 architectural rather than merely tactical.
 
-5. STONE LINE / FRENCH ALPS
+4. STONE LINE / FRENCH ALPS
 
 At the French Alps relay, AEGIS arrives during an active sabotage attempt. The
 site's exposed vertical routes and technical connections force the squad to
@@ -481,41 +464,47 @@ network. The victory is operationally important but reinforces Halliday's
 warning: the attacks are occurring in patterns too consistent to be explained
 by independent battlefield improvisation.
 
-6. TORREJÓN AIR BASE
+5. AEGEAN BLIND / LEMNOS
 
-Russian operators infiltrate Torrejón Air Base in Spain and attempt to use its
-access to issue a deorbit command against the AEGIS satellite constellation.
-A friendly specialist element cuts network access to the relevant command
-center, interrupting the sequence before the entire constellation can be lost.
+The Lemnos operation is the most openly escalated of the infrastructure-defense
+missions. The enemy combines direct pressure on the coastal node with spoofing
+and attacks on harbor and defensive systems, attempting to create a local
+information collapse similar to the broader PANDORA effect.
 
-AEGIS enters a confused base environment in which the central problem is not
-only the hostile team but the fact that it reached a protected NATO facility at
-all. Ducky's squad fights through the compromised section and helps prevent the
-operators from reestablishing control. The deorbit command is stopped, but not
-before one AEGIS satellite leaves orbit.
+AEGIS fights to preserve the node while determining which tracks and warnings
+can be trusted. Romeo's unit converges on the location, and the two squads again
+divide the defense according to their strengths. Ducky's team focuses on the
+system's access and technical survival while Delta holds the more conventional
+approaches.
 
-The satellite falls toward the Julian Alps in Slovenia. No one is held
-immediately accountable for the infiltration, creating the campaign's clearest
-inside-access anomaly. Ducky files the question away as the squad redeploys to
-recover the fallen hardware.
+The allied force prevents the site from being blinded and keeps the AEGIS chain
+functional. By the end of the mission, the repeated mixture of Russian action
+and compromised access has become impossible for Ducky and Halliday to dismiss
+as coincidence, even though they still lack proof of the larger conspiracy.
 
-7. JULIAN ALPS
+6. QUIET WATER / HINDELOOPEN
 
-AEGIS joins Slovenian special-operations personnel in the Julian Alps to locate
-the crashed satellite before unmarked Russian teams can recover it. The debris
-field extends across difficult mountain terrain, with the main wreckage still
-containing security-sensitive hardware and data.
+Later in the shared infrastructure run, AEGIS deploys to Hindeloopen on the
+Dutch IJsselmeer, where an AEGIS relay is concealed inside a waterfront civilian
+environment. The squad initially works in low-profile cover, observing a
+maritime supplier, visitors posing as cycling tourists, and a
+telecommunications vehicle whose behavior suggests coordinated surveillance
+rather than ordinary local activity.
 
-The allied force follows the debris trail while Russian recovery elements close
-from multiple directions. The mission is less about restoring the destroyed
-satellite than denying the enemy access to the constellation's architecture.
-Local Slovenian knowledge proves essential in reaching the wreck and predicting
-the hostile teams' movement through the mountains.
+The hostile team activates before it can be fully identified. AEGIS contains
+the firefight within the waterfront streets and relay approaches, using
+suppressed weapons and controlled movement to avoid civilian exposure. Frost
+holds longer sight lines while Lupin and Switchblade work the closer spaces.
+Romeo's Fire Team Delta arrives during the operation, producing another
+substantial joint action between the two protagonists' units. Ducky and Romeo
+disagree over the immediate tactical approach, but the pressure of the attack
+forces them into an effective division of responsibility.
 
-AEGIS secures the surviving components and prevents their extraction. The
-mission contains the material consequence of the Torrejón breach, but it cannot
-answer how the original infiltrators acquired the access required to issue the
-command.
+The attackers are stopped before they can reach the relay or escape by boat.
+Recovered equipment includes a Shibboleth-linked device and communications
+hardware carrying a private-contractor signature rather than a normal Russian
+state pattern. Halliday records the discrepancy. Walker acknowledges it, but
+the campaign moves on before its implications can be resolved.
 
 INTERLUDE — COLD FRONTIER 07
 
@@ -538,26 +527,7 @@ ones. In the present, he reveals his scarred face without theatricality,
 allowing the squad and player to understand that his wound is tied as much to
 Jussi's erased sacrifice as to the physical injury itself.
 
-8. AEGEAN BLIND / LEMNOS
-
-The Lemnos operation is the most openly escalated of the infrastructure-defense
-missions. The enemy combines direct pressure on the coastal node with spoofing
-and attacks on harbor and defensive systems, attempting to create a local
-information collapse similar to the broader PANDORA effect.
-
-AEGIS fights to preserve the node while determining which tracks and warnings
-can be trusted. Romeo's unit converges on the location, and the two squads again
-divide the defense according to their strengths. Ducky's team focuses on the
-system's access and technical survival while Delta holds the more conventional
-approaches.
-
-The allied force prevents the site from being blinded and keeps the AEGIS chain
-functional. By the end of the mission, the repeated mixture of Russian action,
-contractor-pattern technology, and compromised access has become impossible for
-Ducky and Halliday to dismiss as coincidence, even though they still lack proof
-of the larger conspiracy.
-
-9. ÎLE LONGUE
+7. ÎLE LONGUE
 
 AEGIS and Fire Team Delta move across France to Île Longue, where saboteurs are
 targeting the systems supporting Le Terrible and Le Vigilant. The mission
@@ -573,7 +543,7 @@ The separation marks the end of the shared European route. Ducky does not know
 that Romeo is heading toward the West Coast invasion, and Romeo does not see the
 full scale of the amphibious pressure developing around Maasvlakte.
 
-10. RETREAT, HELL
+8. RETREAT, HELL
 
 RETREAT, HELL is the Maasvlakte approach mission rather than the campaign
 finale. AEGIS enters a coastal battlespace in which allied forces are being
@@ -592,7 +562,7 @@ RETREAT, HELL therefore functions as escalation and approach: the amphibious
 force has landed, the defenders are close to encirclement, and the terminal
 must be held in a separate final mission.
 
-11. MAASVLAKTE OIL AND GAS TERMINAL
+9. MAASVLAKTE OIL AND GAS TERMINAL
 
 The campaign finale places AEGIS alongside the Dutch Marine Corps at the
 Maasvlakte Oil and Gas Terminal. Russian ground forces attack the complex while
@@ -615,8 +585,9 @@ AEGIS and the Dutch Marines survive the post-launch attack and prevent the
 terminal from falling.
 
 The campaign ends with the node preserved but the conspiracy unresolved.
-Halliday's anomaly record now includes Sea Lion 7 staging, contractor-pattern
-equipment at Hindeloopen, and the Torrejón infiltration. Ducky's victory
+Halliday's anomaly record now includes Sea Lion 7 staging, the attackers'
+repeated knowledge of internal AEGIS priorities, and the Shibboleth-linked,
+contractor-pattern equipment recovered at Hindeloopen. Ducky's victory
 demonstrates that Europe remains operational because multinational institutions
 and individuals continue choosing to hold together even while compromised
 actors attack them from within.
