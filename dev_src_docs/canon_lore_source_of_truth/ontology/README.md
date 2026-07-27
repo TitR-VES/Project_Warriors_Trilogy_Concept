@@ -57,18 +57,18 @@ transformation layers:
      PW-WPN-HILL-TRUE-BLUE
    - preserves Sakhalin's separate DEAD RECKONING stable identity
 10. `pw_war_within_title_hierarchy_rev2_9.delta.yaml`
-     - rev2.8 -> rev2.9; registry remains v3.4
-     - corrects the title hierarchy without changing stable event or track IDs
-     - PROJECT WARRIORS: WAR WITHIN is the installment / DLC title
-     - PROJECT WARRIORS III: WAR WITHIN is the alternative numbered styling
-     - AMERICAN GUERRILLA is the campaign title
+    - rev2.8 -> rev2.9; registry remains v3.4
+    - corrects the title hierarchy without changing stable event or track IDs
+    - PROJECT WARRIORS: WAR WITHIN is the installment / DLC title
+    - PROJECT WARRIORS III: WAR WITHIN is the alternative numbered styling
+    - AMERICAN GUERRILLA is the campaign title
 11. `pw_narrative_structure_timeline_rev2_10.delta.yaml`
-     - rev2.9 -> rev2.10; no chronology or registry change
-     - links 18 repository-verifiable campaign tracks to stable `PW-CMP-*` identities
-     - enriches selected synchronization points with campaign references and
-       controlled touchpoint types
-     - defers Godkiller, Sea Spear, and Semper Fi track bindings rather than guessing
-       identifiers that are not present in the repository-landed auditable chain
+    - rev2.9 -> rev2.10; no chronology or registry change
+    - links 18 repository-verifiable campaign tracks to stable `PW-CMP-*` identities
+    - enriches selected synchronization points with campaign references and
+      controlled touchpoint types
+    - defers Godkiller, Sea Spear, and Semper Fi track bindings rather than guessing
+      identifiers that are not present in the repository-landed auditable chain
 
 The full materialized `pw_world_event_timeline_rev2_10.yaml` and projected
 `named_weapon_builds_v3_4.txt` remain handoff artifacts until a full-projection
