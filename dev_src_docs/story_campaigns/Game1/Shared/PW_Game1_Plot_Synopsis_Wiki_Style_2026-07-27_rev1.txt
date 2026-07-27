@@ -9,7 +9,7 @@ AUTHORITY NOTE
 This document recapitulates the currently landed Game 1 campaign ontology and source hierarchy in readable community-wiki prose. It is a derivative narrative reference, not a substitute for the campaign ontology, mission source pages, timeline authority, or technical canon. Where the detailed mission ladder remains provisional, the synopsis uses broad chronological description rather than converting working titles or unresolved ordering into new canon.
 
 Controlling campaign entities:
-- PW-CMP-G1-LEAD-THE-WAY — Critter Squad: Lead the Way
+- PW-CMP-G1-LEAD-THE-WAY — Lead the Way
 - PW-CMP-G1-DO-RIGHT-FEAR-NONE — Do Right, Fear None
 - PW-CMP-G1-RIPTIDE-RED — Riptide Red
 
@@ -22,7 +22,7 @@ Project Warriors follows three concurrent campaigns during the opening phase of 
 The game's three campaigns show different layers of the same crisis. Ramón “Romeo” Álvarez and his Ranger fire team experience the conventional war directly, first while retreating across a collapsing European front and later while defending California from invasion. Ferris “Ducky” Ryan and AEGIS Squad fight to preserve the multinational intelligence and communications infrastructure that allows European forces to remain coordinated. Trevor “Spook” Gartner and the CIA Ground Branch team Victor Two Bravo investigate the covert procurement network behind PANDORA, gradually uncovering evidence that the disaster is connected to a domestic conspiracy known as Riptide Red. Although the protagonists do not operate as a single combined unit, their campaigns overlap chronologically and reveal that the foreign offensives and the conspiracy inside the American security establishment are parts of the same conflict.
 
 -------------------------------------------------------------------------------
-CRITTER SQUAD: LEAD THE WAY
+LEAD THE WAY
 -------------------------------------------------------------------------------
 
 The first campaign follows Ramón “Romeo” Álvarez, the leader of Fire Team Delta, a 75th Ranger Regiment element whose other members are Dingo, Howler, and Beaver. At the beginning of the story, the team is stationed in eastern Poland as part of a NATO reinforcement effort intended to deter further Russian aggression. Their deployment initially follows familiar military routines, but the situation deteriorates when American autonomous systems begin misidentifying allied forces and attacking their own positions. As the PANDORA event spreads, normal command procedures collapse and the eastern defensive line begins to break.
