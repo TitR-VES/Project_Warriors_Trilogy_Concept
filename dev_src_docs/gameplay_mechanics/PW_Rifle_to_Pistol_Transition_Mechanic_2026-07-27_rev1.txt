@@ -1,0 +1,291 @@
+PROJECT WARRIORS — RIFLE-TO-PISTOL TRANSITION MECHANIC
+Generated: 2026-07-27
+Version: rev1
+Status: OWNER-DIRECTED DESIGN SOURCE — CORE CONCEPT APPROVED; IMPLEMENTATION DETAILS PROPOSED
+
+PURPOSE
+Define a deliberate long-gun-to-sidearm transition mechanic that gives the player an immediate alternative to reloading or clearing a malfunction under pressure.
+
+The mechanic applies primarily to rifles, carbines, stocked SMGs/PDWs, and shotguns carried with an accessible pistol. It supplements:
+- PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+- PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+- current persistent mechanical reload-state rules
+- current first-person animation and character-handling sources
+
+AUTHORITY / CONTINUITY
+- The owner-directed core concept is approved: the player can transition to a pistol instead of committing to a reload or malfunction clear.
+- The primary weapon retains its exact mechanical state while the pistol is active.
+- Character differences are expressed through animation economy, rhythm, posture, and small credible timing variation rather than opaque combat-stat bonuses.
+- Exact input mapping, transition timings, holster placement, and complete animation coverage remain production work.
+
+================================================================================
+01. CORE MECHANIC
+================================================================================
+
+LOCK
+When a carried long gun becomes empty, enters a malfunction state, or is otherwise a poor immediate choice, the player may deliberately transition to an accessible pistol rather than reloading or clearing the long gun in the open.
+
+The transition is also available proactively while the long gun remains functional. The system does not require the player to wait for an empty chamber or stoppage.
+
+TACTICAL PURPOSE
+The mechanic gives the player a real short-range decision:
+- reload or clear now
+- move to cover before servicing the weapon
+- transition to the pistol and continue fighting
+- disengage or change position
+
+The pistol is not a free rescue animation. It is a separate weapon with its own ammunition, condition, mechanical state, sights, attachments, and limitations.
+
+================================================================================
+02. INPUT AND STATE FLOW
+================================================================================
+
+INPUT PRINCIPLE
+A deliberate sidearm / quick-transition input begins the action. Exact controller and keyboard mappings remain a production decision.
+
+The system should not automatically pull the pistol merely because the rifle clicks unless the player enables an optional accessibility assist. Player intent remains the default.
+
+STATE FLOW
+1. The player initiates the sidearm transition.
+2. ADS breaks and the long gun is brought into a physically credible retained or released position.
+3. The firing hand acquires the pistol.
+4. The pistol clears the holster and rotates toward the threat.
+5. A usable close-range firing solution is established.
+6. The character settles into the normal pistol presentation when time and space permit.
+
+EARLY FIRE WINDOW
+The pistol may become capable of emergency close-range fire before the character reaches a fully settled two-handed sight picture.
+
+This early window:
+- uses degraded point-shooting accuracy
+- preserves the true muzzle direction
+- does not grant normal ADS precision
+- does not create animation invulnerability
+- ends naturally as the support hand joins and the sight picture settles
+
+RETURN TO PRIMARY
+Returning to the long gun restores the exact stored state:
+- empty remains empty
+- a removed magazine remains removed
+- a partially seated magazine remains partial
+- an open or locked action remains open or locked
+- a trapped casing remains trapped
+- a double feed remains a double feed
+- heat, damage, optic condition, and feed state persist
+
+The player must still reload, resume the interrupted reload, or clear the malfunction before the long gun becomes ready.
+
+================================================================================
+03. PHYSICAL RETENTION OF THE LONG GUN
+================================================================================
+
+NO DISAPPEARING WEAPON
+The long gun does not vanish into an inventory during the transition. Its sling, weight, length, attachments, and current body position remain visible and mechanically relevant.
+
+NORMAL SLING-SUPPORTED TRANSITION
+With a suitable sling, the character releases or guides the long gun into a chest, side, or low retained position while drawing the pistol. Weapon class, sling setup, body armor, current shoulder, and stance determine the exact path.
+
+UNSLUNG OR POORLY RETAINED WEAPON
+If the weapon has no usable sling or retention method, the transition may:
+- require the support hand to control or pin the long gun, slowing pistol presentation
+- use a less stable one-handed pistol presentation
+- be unavailable in a constrained state
+- or, through an explicit emergency action, drop the long gun into the world
+
+A dropped primary remains where it falls and retains its full stored condition. It is not silently returned to inventory.
+
+WEAPON-LENGTH CONSEQUENCE
+Compact carbines and PDWs clear the body quickly. Long rifles, suppressors, shotguns, and support weapons take more space and may strike or snag nearby geometry if the player attempts the transition in a cramped position.
+
+Mounted, tripod-fixed, or deployed-bipod weapons require the player to disengage from the firing position before a normal sidearm transition unless an authored emergency animation supports otherwise.
+
+================================================================================
+04. MOVEMENT, STANCE, AND SHOULDER INTERACTION
+================================================================================
+
+SHOULDER STATE
+The long gun's selected shoulder remains stored while the pistol is active. Drawing the pistol does not silently reset the long gun to the dominant shoulder.
+
+When the long gun is reselected, it returns to the previously selected valid shoulder after the necessary recovery animation, unless local geometry forces a temporary compressed presentation.
+
+MOVEMENT
+- standing and crouched transitions are fully supported
+- slow movement may continue during the draw
+- sprinting requires the character to slow into a controllable transition state
+- vaulting, climbing, swimming, casualty dragging, and other occupied-hand actions use separate authored constraints
+- no animation invulnerability applies
+
+PRONE
+Prone transitions are supported where holster placement and terrain allow. They are slower and more spatially constrained because the character must prevent the long gun, sling, pistol, and body from fouling one another.
+
+COVER
+A player may transition behind cover, while withdrawing from an exposed edge, or during a controlled lateral movement. The pistol cannot fire through cover before its muzzle physically clears.
+
+INJURY / OCCUPIED HAND
+Injury and hand availability alter the animation:
+- support-arm injury may force a one-handed draw and presentation
+- firing-hand injury may slow or temporarily prevent normal access depending on holster side
+- dragging a casualty, holding a door, carrying evidence, or stabilizing on terrain may produce an authored one-handed transition
+
+The system should preserve the project's existing one-handed emergency-handling logic rather than inventing a separate exception model.
+
+================================================================================
+05. CHARACTER-SPECIFIC ANIMATION TEXTURE
+================================================================================
+
+LOCK
+Transition speed and animation vary slightly between playable characters to reflect combat style, training, equipment, and personality, and to create visual diversity in first person.
+
+These differences remain modest. They personalize competence rather than establish a hidden character ranking.
+
+ROMEO
+Fast, direct, and combat-practical. Romeo lets the sling take the rifle decisively, drives the pistol toward the threat early, and accepts a brief aggressive point-shooting phase before settling the second hand.
+
+DUCKY
+Compact and methodical. Ducky controls the primary close to the body, clears it from the pistol path cleanly, and presents the sidearm with minimal wasted movement. His transition reads calm rather than hurried even when it is fast.
+
+SPOOK
+Economical and space-conscious. Spook keeps the weapon tight, minimizes muzzle sweep, and is especially efficient in vehicles, corridors, doorways, and other confined environments. His pistol may enter a usable one-handed close-retention position very early before extending.
+
+FROST
+Deliberate and stable, particularly when transitioning away from a long precision rifle. Frost positively clears stock, sling, optic, and suppressor from the draw path, then establishes a disciplined pistol presentation with little visible urgency.
+
+LUPIN
+Decisive and forceful. Lupin moves the long gun hard out of the working space and drives into a strong forward pistol presentation. The action reads assertive without becoming theatrical.
+
+SWITCHBLADE
+Efficient and support-aware. Switchblade keeps the primary controlled close to her kit and uses a compact draw that remains compatible with medical equipment, movement around casualties, and the possibility that her support hand may be needed for another task.
+
+OTHER PLAYABLE CHARACTERS
+Use the same design method:
+- established training and experience
+- weapon familiarity
+- body size and equipment layout
+- injury state
+- mission context
+- personality and combat rhythm
+
+TIMING RULE
+Character timing differences should usually be measured in animation cadence and small fractions of a second, not large balance gaps. Equipment access, weapon length, sling state, stance, injury, and current geometry may matter more than character identity.
+
+================================================================================
+06. EMPTY WEAPON AND MALFUNCTION INTEGRATION
+================================================================================
+
+EMPTY PRIMARY
+After an empty trigger or last-round lock, transitioning may be faster than reloading at close range. The empty state remains stored for later recovery.
+
+SIMPLE STOPPAGE
+A short immediate-action clear may sometimes be faster than drawing the pistol. The player chooses based on distance, cover, and threat pressure.
+
+COMPLEX STOPPAGE
+A double feed, retained casing, belt/feed problem, or other long remedial action strongly favors an emergency sidearm transition when a pistol is available.
+
+HARD-DISABLED PRIMARY
+A hard-disabled weapon may still be retained on the sling while the pistol becomes the active weapon. Returning to it does not produce a false clearing animation. The player must later repair, replace, recover, or abandon it according to the controlling malfunction source.
+
+INTERRUPTED RELOAD
+The player may transition at any point during a reload. Every completed physical step persists. Examples:
+- the old magazine remains dropped or retained
+- the replacement magazine remains in hand, stowed, dropped, or partially seated according to the animation state
+- the action remains open or closed
+- loose shells already loaded remain loaded
+
+The transition animation must account for what the support hand is currently holding. It may retain, stow, or drop the magazine or loose ammunition according to the authored state and urgency.
+
+================================================================================
+07. PISTOL-TO-PRIMARY RECOVERY
+================================================================================
+
+NO AUTOMATIC REPAIR
+Neutralizing the immediate threat with the pistol does not repair or reload the long gun.
+
+The player may:
+- continue with the pistol
+- seek cover and service the long gun
+- replace the long gun with a field pickup
+- retain a disabled signature weapon for later authored restoration
+
+RECOVERY ANIMATION
+Reselecting the primary produces the nearest credible recovery animation based on:
+- sling and body position
+- stored shoulder
+- current reload or malfunction state
+- whether a magazine or loose ammunition was dropped
+- stance and local geometry
+- injury and occupied-hand state
+
+The game never jumps directly from pistol-ready to a magically ready rifle.
+
+================================================================================
+08. NPC PARITY
+================================================================================
+
+NPCs follow the same broad decision logic where simulation scope permits.
+
+IRREGULAR / LOW-TRAINING ENEMIES
+May stare at the failed weapon, attempt an ineffective repeated action, transition late, fumble the holster, or expose themselves while deciding.
+
+TRAINED REGULARS
+Seek cover, identify whether the stoppage is simple, and transition to a pistol when immediate action is no longer the best response.
+
+ELITE ENEMIES
+Decide quickly among movement, immediate action, remedial clearing, and sidearm transition. Their animation remains physical and interruptible; they do not receive an instant weapon-swap privilege.
+
+ALLIED NPCs
+Use character- and role-consistent transitions and preserve visible weapon state. A squadmate whose rifle visibly double-fed cannot return from behind cover with it magically ready unless enough time and animation have passed to clear it.
+
+================================================================================
+09. UI, DIFFICULTY, ACCESSIBILITY, AND FAIRNESS
+================================================================================
+
+UI
+The mechanic normally relies on weapon state, audio, animation, and the player's known sidearm input.
+
+Standard difficulty may surface a restrained contextual prompt such as:
+TRANSITION
+DRAW SIDEARM
+
+Maximum realism should normally omit the prompt after the control has been taught.
+
+OPTIONAL ASSISTS
+- optional automatic sidearm suggestion after an empty trigger or detected stoppage
+- optional automatic transition only when explicitly enabled
+- rebindable quick-transition input
+- hold/toggle behavior where appropriate
+- reduced camera and weapon movement during the transition
+- clearer indication when a sidearm is unavailable, empty, obstructed, or inaccessible
+
+FAIRNESS RULES
+- no instant inventory swap
+- no firing before the pistol muzzle clears the holster and obstruction geometry
+- no animation invulnerability
+- no magically retained primary when the character had no sling or hand available
+- no reset of the long gun's reload, malfunction, heat, ammunition, or damage state
+- no large invisible protagonist speed bonus
+- no NPC instant-transition advantage
+
+================================================================================
+10. IMPLEMENTATION BOUNDARY
+================================================================================
+
+CORE CONCEPT APPROVED
+- the player may transition from a long gun to a pistol as an alternative to reloading or clearing a malfunction
+- the mechanic is deliberate and available proactively
+- primary mechanical state persists while the pistol is active
+- the long gun remains physically represented and retention-dependent
+- transition animation and speed vary slightly by character
+- differences reflect style, experience, equipment, and immersion rather than opaque stat tiers
+
+PRODUCTION WORK NOT FINALIZED HERE
+- exact input mapping by platform
+- exact timing windows
+- complete character and weapon-family animation matrix
+- holster placement and equipment compatibility table
+- sling/unslung/drop-primary rules per loadout
+- early-fire accuracy and recoil coefficients
+- full prone, injury, occupied-hand, and movement coverage
+- final NPC transition frequency and decision logic
+- tutorial and prompt placement
+
+END OF DOCUMENT
