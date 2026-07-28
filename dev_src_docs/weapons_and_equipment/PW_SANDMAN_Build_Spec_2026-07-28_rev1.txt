@@ -1,7 +1,7 @@
 PROJECT WARRIORS — SANDMAN NAMED WEAPON BUILD
 Generated: 2026-07-28
 Version: rev1
-Status: LOCKED CORE / CONFIGURATION DETAILS OPEN
+Status: LOCKED CORE / LOWER-LEVEL TUNING DETAILS OPEN
 
 IDENTITY
 Stable ID: PW-WPN-HAWTHORNE-SANDMAN
@@ -27,6 +27,54 @@ SANDMAN fills Hawthorne's previously open sidearm slot. It is a long-held person
 
 The build complements DEAD BLOW rather than competing with it. DEAD BLOW remains Hawthorne's compact suppressed shoulder weapon; SANDMAN is the persistent handgun available when a primary is unavailable, impractical or empty, and during close personal or transitional handling states.
 
+SHOOTING BEHAVIOR / HANDLING LOCK
+SANDMAN is an exceptionally soft-shooting sidearm. Its gameplay identity is built around low felt recoil, very low muzzle rise and a stable return to the sight line. It should reward rapid, accurate follow-up shots without becoming a high-damage hand cannon.
+
+Handling profile:
+- exceptionally soft recoil
+- very low muzzle rise
+- strong ergonomics and easy presentation
+- great general handling
+- very fast ADS speed
+- high aim stability
+- fast sight recovery and accurate follow-up-shot cadence
+
+The player should feel that SANDMAN settles quickly after every shot. Its advantage is control, speed and precision under pressure rather than raw stopping power.
+
+STANDARD 9x19mm PERFORMANCE / ECONOMY
+Standard 9x19mm ammunition is effective against unarmored and lightly armored human targets within the pistol's intended engagement envelope. It should remain less effective against substantial armor and at extended range than heavier or specialized weapon classes.
+
+The caliber belongs to a common, relatively inexpensive ammunition pool. Standard 9x19mm should be easier and cheaper to replenish than premium rifle, armor-defeating or specialist suppressed ammunition, helping SANDMAN remain a practical persistent sidearm rather than a weapon the player is discouraged from using.
+
+LATER-GAME SUBSONIC PROGRESSION
+Later in the War Within campaign, the player gains access to 9x19mm subsonic ammunition for SANDMAN. This ammunition is intended primarily for suppressed use and creates the weapon's quietest and most controllable state.
+
+Subsonic profile:
+- exceptionally low suppressed report
+- exceptionally stable firing behavior
+- further reduced disturbance and muzzle movement
+- stronger rapid-follow-up and stealth utility
+- slight damage reduction relative to standard 9x19mm
+- slight effective-range reduction relative to standard 9x19mm
+- later-game availability rather than default opening inventory
+
+Subsonic ammunition is a tactical trade rather than a universal upgrade. Standard 9x19mm remains preferable when the player needs better damage and reach; subsonic ammunition is preferable when signature reduction and shot-to-shot stability matter more.
+
+RELIABILITY / MALFUNCTION TRADE-OFF
+SANDMAN is slightly less mechanically reliable than a regular, properly maintained M1911-pattern pistol. This is the final counterweight to its exceptional handling, low recoil, fast ADS speed, common ammunition and later suppressed performance.
+
+The reliability disadvantage must follow the project's condition-driven malfunction system rather than operate as a flat, frequent per-shot random-jam tax. SANDMAN should retain a low absolute malfunction frequency when maintained, but its weapon-specific baseline risk is measurably higher than the ordinary maintained M1911 reference lane. Dirt, damage, poor or contaminated ammunition, suppressor use, incomplete reload state and severe environmental exposure may increase that risk.
+
+When a stoppage occurs:
+- the contextual reload / restore-to-ready input initiates the correct immediate or remedial action from the stored mechanical state
+- simple stoppages should be cleared rapidly by a practiced Hawthorne animation
+- complex stoppages retain longer, physically honest remedial-clearing behavior
+- interrupted clears preserve magazine, slide, chamber and ejection state
+- hard-disabling failures remain exceptional and condition- or story-gated
+- routine malfunction randomness must not permanently erase or discard SANDMAN
+
+Hawthorne's long familiarity with the pistol should be visible in his clearing cadence. The reliability drawback is meant to reward player composure and rapid diagnosis, not make the weapon feel capricious or incompetent.
+
 NAME LOGIC
 Hawthorne named the pistol SANDMAN as a literary nod to Logan's Run. He has read the novel and considers it one of his favorites. The name connects the gun to Logan's identity as a Sandman and to the novel's armed protagonist without turning the weapon into a decorative replica or overt fandom prop.
 
@@ -42,6 +90,9 @@ PRESENTATION RULES
 - Let the finish carry a restrained visual echo of the SANDMAN name; do not add literal sand graphics or decorative theming.
 - Preserve the Hudson H9's unusual futuristic silhouette rather than visually normalizing it into a generic service pistol.
 - When suppressed, emphasize the distinctive elongated outline without treating the suppressor as permanently installed.
+- Animate exceptionally controlled recoil, low muzzle rise and quick sight recovery.
+- Very fast ADS should read through efficient presentation and ergonomic handling, not an implausible inventory snap.
+- Malfunction clears should communicate Hawthorne's practiced familiarity while preserving the physical state and duration appropriate to the stoppage.
 - The gun should read as an older, trusted personal sidearm that predates Hawthorne's later faction affiliations.
 - Do not add conspicuous literary quotations, logos or ornamental markings unless separately adjudicated.
 - Do not replace DEAD BLOW with SANDMAN in primary-weapon references.
@@ -52,18 +103,25 @@ PLAYER / CAMPAIGN AVAILABILITY
 - Acquisition mode: starting/personal loadout, not a loot drop or mission reward.
 - Retention: persistent.
 - Drop policy: not applicable while Hawthorne is the player character; no generic enemy-drop identity is implied.
+- Standard 9x19mm is the normal opening ammunition lane and remains relatively inexpensive and accessible.
+- 9x19mm subsonic ammunition becomes available later in the campaign as a suppressed-specialist option.
 - Suppressed use may be assigned in missions or loadout states where lower signature is appropriate; unsuppressed carry remains valid elsewhere.
 
 OPEN IMPLEMENTATION FIELDS
 - exact sight configuration
-- exact magazine complement and ammunition load selection
+- exact magazine complement
+- exact standard and subsonic ammunition brands / load specifications
+- exact numerical recoil, muzzle-rise, ADS, aim-stability, damage and range values
 - exact tan/FDE coating or material specification
 - exact suppressor model, attachment interface and mission/loadout availability
+- exact subsonic unlock point, price and replenishment rate
+- exact malfunction-frequency curve by condition and difficulty
 - exact holster and carry position
 
 SOURCE AUTHORITY
 - Owner canon adjudication, 2026-07-28.
-- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, optional suppressed configuration, visual/name logic and Kill Devil Hills provenance.
-- Lower-level fields remain open unless explicitly locked above.
+- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, optional suppressed configuration, visual/name logic, handling profile, ammunition progression, reliability trade-off and Kill Devil Hills provenance.
+- The contextual malfunction-clearing behavior inherits the merged first-person weapon-handling and persistent mechanical-state sources.
+- Lower-level numeric tuning and production fields remain open unless explicitly locked above.
 
 END
