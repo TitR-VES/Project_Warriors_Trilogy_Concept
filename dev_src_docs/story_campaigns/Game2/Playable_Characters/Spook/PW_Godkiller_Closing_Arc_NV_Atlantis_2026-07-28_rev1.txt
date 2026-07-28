@@ -1,0 +1,695 @@
+PROJECT WARRIORS — GODKILLER CLOSING ARC / NV ATLANTIS
+Generated: 2026-07-28
+Version: rev1
+Status: CANON DEVELOPMENT SOURCE — APPROVED CLOSING-ARC ARCHITECTURE
+Scope: Project Warriors II — Spook campaign GODKILLER
+Primary missions: BEARER INSTRUMENT / CROSS-CURRENT / KING NOTHING
+
+PURPOSE
+
+This source records the developed closing arc for Spook's Game 2 campaign, GODKILLER. It supersedes the residual Game 2 duplication of the Game 1 mission titles “Come Fly With Me” and “Sins of Our Fathers,” removes the proposed return to the Found BFA-2 and East McFarlane Island, and establishes the NV Atlantis as Goldberg's final refuge and capture location.
+
+This document controls the closing-arc architecture unless a later explicit canon decision supersedes it. Earlier compendium passages that place the Game 2 Goldberg capture on East McFarlane Island should be treated as obsolete legacy material.
+
+===============================================================================
+CANON CORRECTIONS AND LOCKS
+===============================================================================
+
+1. “Come Fly With Me” remains exclusively the Game 1 St. Croix approach mission.
+2. “Sins of Our Fathers” remains exclusively the Game 1 East McFarlane Island climax.
+3. Spook does not return to East McFarlane Island to capture Goldberg in Game 2.
+4. The Found BFA-2 is not reused for the Godkiller finale.
+5. The previous Game 2 mission-title duplication was residual rather than an intentional reprise.
+6. The final three Godkiller missions are:
+   - BEARER INSTRUMENT
+   - CROSS-CURRENT
+   - KING NOTHING
+7. DEAD RECKONING is not used as a mission title because it conflicts with Sakhalin's named weapon build.
+8. The final mission is titled KING NOTHING rather than GODKILLER so that the finale does not echo the campaign title.
+9. Goldberg is captured alive by Spook aboard the NV Atlantis.
+10. Macmillan initially addresses the protagonist as “Spook” and uses “Gartner” when his tone becomes sterner. He does not address him as Captain.
+11. The campaign's final spoken line is “Okay. I'm ready.”
+12. Jimi Hendrix's “All Along the Watchtower” is the intended campaign play-out track, subject to commercial licensing.
+
+===============================================================================
+REVISED GODKILLER MISSION LADDER
+===============================================================================
+
+1. THE WASP'S NEST — Oaxaca, Mexico
+2. DEAD LETTERS — Miramar, Cuba
+3. GHOST SIGNAL — Tripper / Hartwell / Vela 2
+4. SAFE HOUSE — Katja protection and relocation
+5. HAVERFORD — Panama City financial-clearing operation
+6. REGENT — Mullen reunion and seventy-two-hour window
+7. BEARER INSTRUMENT — Curaçao records, witness, and maritime-ownership operation
+8. CROSS-CURRENT — supply-vessel infiltration, Atlantis boarding, reactor-control crisis
+9. KING NOTHING — private-deck pursuit, Bisutrí confrontation, Goldberg capture and extraction
+
+===============================================================================
+THEMATIC FUNCTION
+===============================================================================
+
+GODKILLER is not resolved by Spook killing Goldberg. Goldberg has already turned his official death into a shield: institutions no longer need to search for, charge, explain, or protect against a man they insist no longer exists.
+
+The campaign destroys that shield. Spook preserves Goldberg, the archive, the witnesses, the communication, and the chain of evidence required to return him to public accountability later.
+
+The campaign title describes the full process of destroying Goldberg's manufactured untouchability. KING NOTHING describes Goldberg's condition at the end: alive, stripped of authority, without a territory, army, recognized identity, or remaining institutional escape route.
+
+===============================================================================
+MISSION 7 — BEARER INSTRUMENT
+===============================================================================
+
+LOCATION
+Willemstad and the industrial-maritime infrastructure around Curaçao.
+
+FUNCTION
+The mission reveals the legal, financial, supply, and registration architecture that conceals the NV Atlantis.
+
+Regent's intelligence establishes that Crodyn's expected communication will not reach Goldberg directly. It will pass through an ostensibly independent continuity contractor administering emergency telecommunications and maritime-recovery assets for several GenCorp-adjacent holdings.
+
+Spook and La Avispa infiltrate a maritime-services office, secure records facility, or equivalent corporate node. Their objectives include:
+
+- recover Atlantis's real registration and ownership chain;
+- identify its current operating identity and flag;
+- obtain a physical authentication device or credential needed to access its protected network;
+- recover evidence connecting Meridian Shield and related holdings to the vessel;
+- identify the supply tender cleared to enter the ship's aft wet dock;
+- determine the expected time of Crodyn's communication.
+
+The mission should initially appear bureaucratic and ordinary. The conspiracy exists inside crew manifests, insurance records, customs documentation, contractor agreements, maintenance schedules, access cards, and shell-company transfers.
+
+LA AVISPA'S FAVOR
+
+The favor incurred with El Tiburón during SAFE HOUSE comes due. La Avispa is required to preserve or extract a compromised Los Sietes financial intermediary who helped construct the maritime shell-company chain and can authenticate how vessel ownership and operating identities are transferred.
+
+The conflict is not resolved by treating the intermediary as disposable. Spook chooses to preserve the witness and finds another way to maintain the Goldberg window. This reinforces the campaign's accountability theme: people are part of the evidence and cannot be discarded while claiming to build a legitimate case.
+
+BISUTRÍ CONTACT
+
+Bisutrí leads or coordinates an attempt to destroy the records node and remove the intermediary. He escapes after confirming that Spook has identified Atlantis.
+
+===============================================================================
+NV ATLANTIS — VESSEL CONCEPT
+===============================================================================
+
+IDENTITY
+
+The NV Atlantis is a massive purpose-built continuity vessel derived from megacruise-ship architecture. It was constructed through an international contractor consortium involving German, Israeli, American, and Russian companies.
+
+Publicly, Atlantis is presented as an experimental nuclear-powered oceanic residence, hospitality, research, and disaster-resilience platform. In reality, KINGMAKER influenced its design from inception. Its civilian functions provide cover for a mobile continuity state capable of preserving personnel, information, communications, and command capacity after a global catastrophe.
+
+Goldberg retreats to Atlantis after his staged death. He is not literally invisible. He is institutionally unfindable.
+
+- Goldberg is absent from passenger and crew records.
+- Restricted sections do not appear on public plans.
+- Ownership is distributed through shell companies and state-linked contractors.
+- Registration, flag, crew, and purpose can be changed through controlled paperwork.
+- The ship remains at sea for long periods.
+- Supplies arrive through tenders, service craft, and aviation assets.
+- Authorities can observe Atlantis while lacking admissible proof that Goldberg or the KINGMAKER archive is aboard.
+
+PROPULSION AND ENDURANCE
+
+- compact nuclear reactor as primary power source;
+- diesel auxiliary and emergency propulsion;
+- redundant electrical grids;
+- zoned closed-air circulation;
+- chemical, biological, and radiological filtration;
+- independent pressure and ventilation sectors;
+- water desalination and recycling;
+- large food, medical, and maintenance reserves;
+- extensive fire-control and flooding-control architecture.
+
+The diesel system can maintain essential movement and power after a reactor shutdown but does not need to match full nuclear-powered performance.
+
+PUBLIC AND RESIDENTIAL INFRASTRUCTURE
+
+- luxury suites and private residences;
+- restaurants, lounges, conference facilities, and entertainment spaces;
+- enclosed gardens and recreation areas;
+- advanced hospital;
+- internal detention facility or jail;
+- automated passenger transit;
+- public service and maintenance systems;
+- civilian observation, safety, and security drones.
+
+INTERNAL LOGISTICS
+
+Atlantis contains a functional road and logistics network across three internal decks. It is a service loop rather than an outdoor miniature highway.
+
+It connects:
+
+- the aft wet dock;
+- garages and vehicle storage;
+- cargo elevators;
+- engineering access;
+- medical and detention sectors;
+- aircraft-support facilities;
+- continuity storage;
+- data-center service routes.
+
+Small electric trucks, ambulances, maintenance vehicles, and security platforms use the network.
+
+A pneumatic delivery system transports documents, medical samples, secure storage cartridges, mechanical parts, small supplies, and isolated physical data media when electronic networks are compromised.
+
+AVIATION
+
+Atlantis is not an aircraft carrier.
+
+Its upper aviation deck is limited to:
+
+- helicopters;
+- tiltrotor aircraft;
+- vertical-lift transports;
+- large unmanned aircraft;
+- specially adapted short-takeoff or arrested-landing aircraft.
+
+Multiple helipads provide redundancy. The deck does not support conventional passenger airliners or ordinary fast jets.
+
+AFT WET DOCK
+
+The aft section contains a partially enclosed internal marina or wet dock capable of receiving vessels while Atlantis is stationary or moving slowly.
+
+Supported craft include:
+
+- executive launches;
+- supply and maintenance tenders;
+- covert insertion craft;
+- security boats;
+- manned and unmanned surface vessels;
+- submersibles and underwater drones;
+- emergency evacuation craft.
+
+The wet dock is the infiltration and extraction route for the final missions.
+
+KINGMAKER ARCHIVE
+
+Atlantis houses the full KINGMAKER contingency backup. It is not merely an evidence server. It is a continuity copy of power containing:
+
+- kompromat;
+- financial-control records;
+- shell-company ownership chains;
+- covert identities;
+- access credentials;
+- intelligence archives;
+- blackmail packages;
+- contingency plans;
+- operation histories;
+- instructions for rebuilding the network after exposure;
+- Crodyn and foreign-partner communications.
+
+Goldberg intends to use the archive to negotiate his position after PANDORA and determine which parts of the network survive.
+
+GOLDBERG'S PRIVATE DECKS
+
+Goldberg controls several restricted decks, not merely a suite. These include:
+
+- private residences;
+- offices and conference rooms;
+- secure communications;
+- personal staff and security accommodation;
+- dining and medical facilities;
+- an indoor park-like recreation area;
+- an emergency operations space;
+- a hardened panic room;
+- dedicated elevators and service routes.
+
+He has recreated the comfort and authority of an unaccountable head of state inside a ship whose ordinary residents may not know he is aboard.
+
+===============================================================================
+ATLANTIS DEFENSIVE ARCHITECTURE
+===============================================================================
+
+VISIBLE CIVILIAN POSTURE
+
+Atlantis must appear civilian and unarmed to outside observers.
+
+Visible drones above deck are limited to systems that can be justified as:
+
+- monitoring;
+- crowd and crime deterrence;
+- safety inspection;
+- maritime observation;
+- emergency response.
+
+Ordinary private-security personnel and automated access systems support the public explanation.
+
+CONCEALED COMBAT SYSTEMS
+
+All meaningful offensive and defensive stations remain concealed until activation.
+
+Potential systems include:
+
+- retractable CIWS mounts hidden under deck housings;
+- concealed countermeasure and decoy launchers;
+- electronic jamming and navigation-spoofing systems;
+- anti-drone defenses;
+- armed aerial drones in hidden bays;
+- autonomous anti-air and anti-surface craft;
+- manned and unmanned maritime interceptors;
+- autonomous underwater and anti-submersible vehicles;
+- limited concealed anti-air and anti-surface weapons.
+
+Restricted decks contain heavier enforcement drones, armored security platforms, and automated checkpoints that would be impossible to justify in public passenger spaces.
+
+Atlantis's strongest defense is layered electronic and institutional confusion rather than visible firepower.
+
+===============================================================================
+MISSION 8 — CROSS-CURRENT
+===============================================================================
+
+OPENING
+
+Spook and La Avispa infiltrate or assume control of a legitimate supply vessel already cleared to approach Atlantis.
+
+The approach demonstrates the ship's institutional concealment:
+
+- cargo destinations use compartment codes;
+- manifests are divided across contractors;
+- restricted personnel do not appear by name;
+- selected shipments bypass ordinary customs records;
+- the ship's public identity does not match the continuity infrastructure receiving the cargo.
+
+The infiltration must remain covert until the vessel enters the aft wet dock. An early alarm would allow Atlantis to close the marina and deploy its concealed systems.
+
+SPATIAL PROGRESSION
+
+1. Supply-vessel approach.
+2. Aft wet dock and marina-processing spaces.
+3. Cargo and maintenance sectors.
+4. Internal logistics-road network.
+5. Public promenades and transit areas.
+6. Restricted security and engineering sectors.
+7. Reactor-control complex.
+
+As the player moves inward, civilian monitoring drones withdraw or change mode and heavier enforcement systems appear.
+
+BISUTRÍ'S SCUTTLING CONTINGENCY
+
+Bisutrí's plan has three coordinated stages:
+
+1. Force the nuclear engineers to initiate a controlled reactor shutdown.
+2. Use the shutdown state to lock all physical access to the mobile data center.
+3. Evacuate Goldberg by airlift, then detonate pre-positioned scuttling charges.
+
+KINGMAKER deliberately interlocked the declared reactor-safety state with continuity security.
+
+The shutdown state:
+
+- seals continuity bulkheads;
+- locks data-center corridors;
+- disables selected elevators;
+- isolates ventilation sectors;
+- places the archive into emergency preservation mode.
+
+The data-center administrator AI monitors:
+
+- flooding;
+- hull deformation;
+- fire propagation;
+- power-grid collapse;
+- unauthorized physical penetration;
+- loss of trusted command authentication.
+
+Massive structural damage triggers the archive wipe protocol. The scuttling charges are positioned to produce those thresholds and destroy active and physical storage.
+
+REACTOR-CONTROL OBJECTIVE
+
+Spook and La Avispa reach reactor control while Bisutrí's squad holds the nuclear engineers at gunpoint.
+
+The player must:
+
+- protect or free the engineers;
+- prevent completion of the controlled shutdown;
+- interrupt the security-state transition;
+- stop full authorization of the scuttling sequence.
+
+The player succeeds. The reactor remains online and the data center remains accessible.
+
+Bisutrí escapes deeper into the ship through a restricted security route. He leaves part of his squad behind to delay pursuit. This is not an escape from Atlantis; it is a repositioning toward Goldberg's private decks.
+
+TRANSITION TO KING NOTHING
+
+The immediate reactor crisis is averted, but:
+
+- some charges remain armed locally;
+- the AI may still react to further structural damage;
+- Goldberg's air evacuation may remain possible;
+- Bisutrí has regrouped with the surviving personal detail.
+
+The industrial tone gives way to deserted luxury as Spook and La Avispa ascend toward Goldberg's private domain.
+
+===============================================================================
+MISSION 9 — KING NOTHING
+===============================================================================
+
+PRIVATE-DECK PURSUIT
+
+Bisutrí blocks the direct route to Goldberg's panic room and assembles the surviving contractors in the indoor recreation park.
+
+The park includes:
+
+- mature plantings;
+- artificial streams and shallow pools;
+- elevated paths;
+- service tunnels;
+- glass partitions;
+- recreation pavilions;
+- simulated daylight;
+- irrigation;
+- artificial weather and climate controls;
+- maintenance drones;
+- security shutters;
+- partial ocean views.
+
+Bisutrí exploits the environmental systems during the battle. The artificial paradise is damaged by gunfire, fire, flooding, broken lighting, and activated suppression systems.
+
+BISUTRÍ'S END
+
+By this stage, Goldberg's clean extraction has failed. Bisutrí continues fighting because protecting Goldberg is his final remaining purpose and because surrender would make him a witness.
+
+Spook defeats Bisutrí and the surviving personal-security contractors. Bisutrí's exact death/incapacitation presentation may be staged later, but he no longer escapes the ship or the mission.
+
+GOLDBERG OPENS THE PANIC ROOM
+
+The panic room remains sealed after the battle.
+
+Goldberg recognizes:
+
+- the reactor remains operational;
+- the data center is accessible;
+- his airlift has failed;
+- his personal detail is gone;
+- the ship is under partial hostile control;
+- the archive is being isolated from him;
+- a forced breach would eventually succeed.
+
+He unlocks the door himself so he can preserve the appearance of choosing the encounter and attempt to bargain.
+
+The panic room is comfortable and hardened rather than ostentatious. It includes independent air and power, communications, records, medical supplies, sleeping accommodation, surveillance feeds, and an isolated archive terminal.
+
+===============================================================================
+GOLDBERG / MACMILLAN / SPOOK CONFRONTATION
+===============================================================================
+
+Goldberg speaks briefly and attempts to bargain. He argues that Spook lacks an institution capable of containing the archive and that the evidence makes Goldberg indispensable.
+
+LOCKED DIALOGUE SEQUENCE
+
+GOLDBERG
+You cannot carry any of this out alone. The archive, the communication, the people named in it—you do not have an institution capable of containing what you found.
+
+Spook says nothing.
+
+GOLDBERG
+And you are still pretending this is your decision.
+
+A brief pause.
+
+GOLDBERG
+Macmillan will intervene.
+
+Several seconds pass.
+
+Spook's radio chirps.
+
+MACMILLAN
+Bishop to Spook. Stand down.
+
+Spook remains facing Goldberg.
+
+MACMILLAN
+Secure Goldberg where he is and relinquish control of the vessel and all recovered material. A properly authorized team is inbound.
+
+SPOOK
+Authenticate.
+
+Silence for a beat.
+
+MACMILLAN
+You know who this is.
+
+SPOOK
+Then authenticate the order. Full authorization code.
+
+MACMILLAN
+Gartner, you are in no position—
+
+SPOOK
+The Senate Intelligence Committee has notice of the operation, the evidence and Goldberg's recovery. Authenticate your order and put your name on the transfer.
+
+Silence.
+
+SPOOK
+Bishop, authenticate.
+
+The channel remains open for another second.
+
+Then it disconnects.
+
+Spook lowers his radio slightly.
+
+Goldberg's certainty visibly diminishes.
+
+GOLDBERG
+You came all the way here to kill a dead man?
+
+SPOOK
+No. I came to bury you. Somewhere no one will find you until we're ready to bring you back from the dead.
+
+DIALOGUE FUNCTION
+
+- Macmillan repeats the East McFarlane “Stand down, Spook” pattern.
+- Spook is prepared with Regent's Senate Intelligence Committee route.
+- Spook requires Macmillan to authenticate and attach his identity to the transfer.
+- Macmillan cannot comply without exposing the irregular order.
+- Macmillan goes dark.
+- Macmillan uses “Gartner” in the stern line.
+- Spook is never addressed as Captain.
+
+===============================================================================
+GOLDBERG RESTRAINT AND MARINA EXTRACTION
+===============================================================================
+
+Spook turns Goldberg around, searches him, restrains his wrists behind his back, applies secondary transport restraint, and places an opaque black hood over his head.
+
+LA AVISPA
+Macmillan said another team was coming.
+
+SPOOK
+He said a team was coming.
+
+LA AVISPA
+Close enough.
+
+La Avispa considers Bisutrí's planned airlift.
+
+LA AVISPA
+Bisutrí had an airlift waiting for him.
+
+A beat.
+
+LA AVISPA
+I hope the pilot is still alive.
+
+The line is deadpan.
+
+SPOOK
+A flight will be easy to see.
+
+Spook checks the unresolved defensive-system status.
+
+SPOOK
+And I don't control the ship's air defenses. Whatever is still running may not know the difference between us and them.
+
+LA AVISPA
+The marina.
+
+Spook agrees.
+
+PRIVATE ELEVATOR
+
+Goldberg's private elevator directly connects the restricted residential decks to the aft marina. Its controls require continuity-level access.
+
+Spook uses Goldberg's biometric authentication to open and operate it.
+
+The descent is quiet. Goldberg stands restrained and hooded between Spook and La Avispa while emergency lighting passes across the car.
+
+AFT MARINA
+
+Two fueled executive speedboats are waiting as part of Goldberg's failed contingency plan.
+
+La Avispa enters the marina office and retrieves two ignition-key sets.
+
+LA AVISPA
+Full tanks. They expected to leave quickly.
+
+Spook secures Goldberg low inside one boat and attaches the restraints to a structural mounting point.
+
+REGENT CONTACT
+
+SPOOK
+Regent, this is Spook. Package secure. We're leaving through the aft marina.
+
+REGENT
+Understood.
+
+SPOOK
+I need an open-water pickup. No aircraft. No transponder. One vessel, trusted personnel only.
+
+REGENT
+Send the rendezvous point.
+
+Spook transmits the coordinates.
+
+REGENT
+Received.
+
+A beat.
+
+REGENT
+It holds.
+
+SPOOK
+We'll be there.
+
+LA AVISPA DEPARTURE
+
+La Avispa takes the second speedboat. She cannot risk being observed even by Regent's trusted associates.
+
+LA AVISPA
+This is where we really part ways.
+
+SPOOK
+Regent's people can be trusted.
+
+LA AVISPA
+By you.
+
+LA AVISPA
+I cannot risk being seen by them. Not even once.
+
+SPOOK
+Where will you go?
+
+LA AVISPA
+Somewhere I am not expected.
+
+A faint trace of tired amusement.
+
+LA AVISPA
+It has worked before.
+
+She starts the boat.
+
+LA AVISPA
+Goodbye, Gartner.
+
+SPOOK
+Goodbye, Yelena.
+
+The use of Yelena acknowledges the person beneath her constructed identities without forcing an overt romantic resolution.
+
+She departs through the damaged aft gate and disappears into the night.
+
+CINEMATIC DEPARTURE
+
+The departure is not a playable boat-driving sequence.
+
+Spook starts the second boat and leaves Atlantis with Goldberg secured behind him. The camera shows the speedboat receding from the immense civilian facade while emergency lights move across the ship.
+
+OPEN-SEA HANDOFF
+
+Before dawn, Spook meets an unmarked service vessel holding position without ordinary navigation lights.
+
+He performs challenge-and-response authentication before releasing Goldberg from the speedboat's mounting point.
+
+The hood remains in place.
+
+Regent's trusted associates transfer Goldberg into secure custody.
+
+SPOOK
+No manifests. No external communications. Nobody sees his face until Regent authorizes it.
+
+OPERATIVE
+Understood.
+
+Goldberg remains publicly dead. Privately, he is alive inside a protected evidentiary process and beyond the reach of the network that previously extracted or silenced him.
+
+===============================================================================
+CAMPAIGN EPILOGUE
+===============================================================================
+
+LOCATION
+Undisclosed secure communications facility.
+
+Spook stands outside a reinforced secure communications room after changing out of his damaged operational equipment.
+
+His phone vibrates.
+
+The message is from an unsaved number:
+
+Ask me again.
+
+The secure-room door opens. A trusted associate indicates that Regent and the others are ready.
+
+SPOOK
+Give me a minute.
+
+Spook remains outside briefly, closes the message, puts the phone away, and composes himself.
+
+He turns toward the secure room.
+
+SPOOK
+Okay. I'm ready.
+
+He enters.
+
+The reinforced door closes.
+
+CUT TO BLACK.
+
+After a brief silence, Jimi Hendrix's “All Along the Watchtower” begins.
+
+The campaign end title appears:
+
+GODKILLER
+
+The song continues over the completion screen and end-title sequence.
+
+The music cue remains subject to commercial licensing.
+
+===============================================================================
+DOWNSTREAM CONTINUITY
+===============================================================================
+
+The developed finale establishes:
+
+- Goldberg alive in hidden protected custody;
+- KINGMAKER archive and Crodyn communication preserved as evidence;
+- Macmillan unable to authenticate his intervention and going dark;
+- Regent's oversight route active;
+- La Avispa departing independently and remaining operationally untraceable;
+- Spook privately ready for the next stage rather than publicly vindicated.
+
+The exact chronology and team-state bridge into DARK SKIES remains to be developed. DARK SKIES itself is already source-landed and should not be described as an undeveloped campaign.
+
+===============================================================================
+REMAINING OPEN IMPLEMENTATION ITEMS
+===============================================================================
+
+The following remain open without undermining the closing-arc lock:
+
+- exact calendar dates for BEARER INSTRUMENT, CROSS-CURRENT, and KING NOTHING;
+- exact placement of Crodyn's communication within the final operations;
+- exact playable handoff between CROSS-CURRENT and KING NOTHING;
+- detailed data-center gameplay and AI administrator behavior;
+- exact staging of Bisutrí's death or incapacitation;
+- identities and institutional affiliation of Regent's trusted pickup team;
+- exact secure-facility location;
+- exact chronology from the epilogue to DARK SKIES;
+- final music licensing.
+
+===============================================================================
+END OF SOURCE
+===============================================================================
