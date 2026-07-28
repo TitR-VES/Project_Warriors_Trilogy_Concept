@@ -1,11 +1,11 @@
 PROJECT WARRIORS — PERSISTENT THREAT
 CAMPAIGN-LADDER INTEGRATION: TORREJÓN / JULIAN ALPS / OPEN CIRCUIT
 Generated: 2026-07-28
-Version: rev3
-Status: LOCKED OWNER-ORDERED LADDER / TORREJÓN AND JULIAN ALPS TITLES AND LOWER-LEVEL PRODUCTION DETAILS WORKING
+Version: rev4
+Status: LOCKED CONTINUITY-PRESERVING LADDER / TORREJÓN AND JULIAN ALPS TITLES AND LOWER-LEVEL PRODUCTION DETAILS WORKING
 
 PURPOSE
-This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also applies the owner's corrected campaign order, opening-mission retitle, and fixed OPEN CIRCUIT placement.
+This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also locks the FAILURE CASCADE opening title and places OPEN CIRCUIT after ASH RELAY while preserving the already authored investigative, injury, and mission-to-mission causality.
 
 OPENING TITLE LOCK
 FAILURE CASCADE is the current title of the opening mission.
@@ -18,13 +18,13 @@ The current hard-order PERSISTENT THREAT spine is:
 2. DEAD FREQUENCY
 3. TORREJÓN DE ARDOZ OPERATION — working location label; final mission title open
 4. JULIAN ALPS RECOVERY — working location label; final mission title open
-5. HULL BREACH
-6. PERMAFROST
-7. DEAD GROUND
-8. DARK FIBER
-9. ASH RELAY
-10. OPEN CIRCUIT
-11. HARD WINTER
+5. HARD WINTER
+6. DEAD GROUND
+7. DARK FIBER
+8. ASH RELAY
+9. OPEN CIRCUIT
+10. PERMAFROST
+11. HULL BREACH
 12. AEGIS FALLS
 
 The Torrejón and Julian Alps missions are an adjacent causal pair. Do not separate them with an unrelated mission.
@@ -32,25 +32,33 @@ The Torrejón and Julian Alps missions are an adjacent causal pair. Do not separ
 The Bakhmut mini-arc is also an internally locked adjacent sequence:
 DEAD GROUND -> DARK FIBER -> ASH RELAY.
 
-OPEN CIRCUIT is locked immediately after ASH RELAY and before HARD WINTER.
+OPEN CIRCUIT is locked immediately after ASH RELAY and before PERMAFROST.
 
 The current late-campaign placement is therefore:
-PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> HARD WINTER -> AEGIS FALLS.
+HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
 
-This supersedes all earlier placement statements that put HARD WINTER before the Bakhmut mini-arc, put Bakhmut before PERMAFROST, or left OPEN CIRCUIT's numbered slot open.
+NO-RETCON CONTROL RULE
+This order resolves continuity through placement rather than by rewriting mission content. Preserve:
+- DEAD FREQUENCY as Investigative Beat 1, “The Parameters”;
+- HARD WINTER as Investigative Beat 2, “The Architecture”;
+- the Bakhmut packet as the physical proof that identifies Svalbard as the probable northern target;
+- PERMAFROST as the mission in which Lupin receives the shoulder fragment wound;
+- HULL BREACH as the later operation in which Lupin handles exploitation despite that wound and the recovered drive produces Investigative Beat 3, “The Credential”;
+- the post-HULL BREACH 0200 conversation as Investigative Beat 4, “What Ducky Does With It,” and Walker's direct tasking toward the Tremblay confrontation;
+- AEGIS FALLS as the campaign finale.
 
-The ASML/Lupin-overwatch operation remains a valid working mission, but its exact numbered position is not yet inserted into the controlling hard-order spine. A future insertion decision must preserve Torrejón -> Julian Alps, DEAD GROUND -> DARK FIBER -> ASH RELAY, and ASH RELAY -> OPEN CIRCUIT -> HARD WINTER unless the owner explicitly revises them.
+The ASML/Lupin-overwatch operation remains valid working material, but its exact numbered position is not yet inserted into the controlling hard-order spine. A future insertion must preserve Torrejón -> Julian Alps, HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY, ASH RELAY -> OPEN CIRCUIT -> PERMAFROST, and PERMAFROST -> HULL BREACH -> AEGIS FALLS unless the owner explicitly revises them.
 
 WHY THIS ORDER CONTROLS
 - FAILURE CASCADE establishes the post-Game-1 systems breakdown and the campaign's opening condition.
-- DEAD FREQUENCY is the first active operational response and precedes the campaign's direct attack on the AEGIS orbital-command layer.
-- Torrejón converts the threat into an attempt to destroy the AEGIS satellite constellation.
-- Julian Alps is the immediate physical consequence and recovery operation.
-- HULL BREACH follows the recovery and carries the campaign into the next strategic-pressure phase.
-- PERMAFROST occurs before Bakhmut and is no longer an operation discovered through the Bakhmut packet.
-- The Bakhmut mini-arc retrospectively proves how compromised AEGIS-adjacent architecture, relay certification, and deception logic enabled or supported the wider campaign pattern, including the already-experienced northern strike environment.
-- OPEN CIRCUIT follows ASH RELAY and transfers the campaign's relay-chain pressure from a ruined active-war environment into covert technical infrastructure hidden inside ordinary European civilian systems.
-- HARD WINTER is the late-campaign step after OPEN CIRCUIT and immediately before the AEGIS FALLS end-state.
+- DEAD FREQUENCY exposes Russian possession of internal AEGIS parameters and establishes the first numbered investigative beat.
+- Torrejón and the Julian Alps then demonstrate the operational consequences and wider exploitation risk of the compromised architecture without displacing the investigation's authored beat order.
+- HARD WINTER follows as Investigative Beat 2 and leads into the Bakhmut mini-arc.
+- DEAD GROUND, DARK FIBER, and ASH RELAY convert Halliday's architecture theory into physical proof and identify Svalbard as the probable northern target.
+- OPEN CIRCUIT follows ASH RELAY as a time-critical continental exploitation and denial operation before AEGIS deploys north. Its placement does not replace or reverse Bakhmut's Svalbard reveal.
+- PERMAFROST pays off the Bakhmut intelligence and preserves Lupin's shoulder-wound continuity.
+- HULL BREACH follows PERMAFROST, allowing Lupin's wounded-state line and the third investigative beat to remain unchanged.
+- The post-HULL BREACH decision then leads directly into AEGIS FALLS without a long intervening mission block.
 
 MISSION 01 — FAILURE CASCADE
 This source locks the title change only. The opening mission's detailed production source remains controlling for its content.
@@ -83,6 +91,7 @@ Narrative function:
 Continuity cautions:
 - Do not return this operation to Game 1.
 - Do not revert the attacking force to a straightforward Russian black operation.
+- Do not imply that the Chinese and Russian operations must be one unified command unless a later source explicitly establishes that relationship.
 - Do not use the obsolete KYNEE wording as the controlling friendly-unit identity unless a later dedicated source explicitly restores and defines it.
 - Exact facility route, breach method, named Spanish/NATO allies, and final mission title remain working.
 
@@ -106,23 +115,26 @@ Narrative function:
 - pays off Torrejón immediately rather than leaving the deorbit as an abstract briefing event;
 - turns orbital systems warfare into a physical mountain recovery problem;
 - reinforces that local Slovenian knowledge, authority, movement, and survival expertise are indispensable;
-- preserves evidence that informs HULL BREACH and the subsequent campaign progression.
+- broadens the attribution and compromise picture before HARD WINTER without replacing HARD WINTER's authored investigative function.
 
 Enemy-attribution caution:
 Legacy text describes unmarked Russian recovery teams. The current controlling source does not automatically erase that possibility, but it also does not lock every hostile element at the crash site to Russia. Preserve the possibility of multiple interested hostile services or deniable teams until the dedicated mission source finalizes the recovery-force composition.
 
-MISSION 10 — OPEN CIRCUIT
+MISSION 09 — OPEN CIRCUIT
 Location:
 Brno Exhibition Centre / Výstaviště service-side district, Czech Republic.
 
 Placement lock:
-OPEN CIRCUIT occurs immediately after ASH RELAY and before HARD WINTER.
+OPEN CIRCUIT occurs immediately after ASH RELAY and before PERMAFROST.
 
 Narrative-placement function:
-The Bakhmut arc exposes relay-and-deception architecture in an overt ruined-war environment. OPEN CIRCUIT then demonstrates how the same wider technical war can be concealed inside normal European commercial logistics, contractor access, power, cooling, service corridors, and temporary infrastructure. The exact evidence handoff and briefing language between ASH RELAY and OPEN CIRCUIT remain available for production refinement, but the mission order is locked.
+The Bakhmut arc exposes relay-and-deception architecture in an overt ruined-war environment and identifies Svalbard as the probable northern target. OPEN CIRCUIT then demonstrates how the same wider technical war is concealed inside normal European commercial logistics, contractor access, power, cooling, service corridors, and temporary infrastructure. It functions as a time-critical exploitation and denial operation before the northern deployment. The exact ASH RELAY -> OPEN CIRCUIT and OPEN CIRCUIT -> PERMAFROST briefing language remains available for production refinement, but the order is locked.
 
 Detailed mission source:
 dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
+
+AEGIS FALLS FINALE INTEGRATION RULE
+Preserve both existing finale assets without creating an additional ladder mission: AEGIS FALLS may use a compound final-operation structure in which the Russian undersea threat against France is prevented during the operational phase and the unauthorized Aix-en-Provence confrontation with Tremblay forms the final movement and resolution. Exact route, staging, and transition remain production-working. The protected Tremblay/Ducky ending line pair remains controlling.
 
 LOCAL-ACTOR RULE
 Do not over-centralize AEGIS in Torrejón or the Julian Alps. Spanish and Slovenian actors have their own war, institutional responsibilities, terrain knowledge, intelligence, casualties, and authority. AEGIS is the playable spine and technical connective tissue, not the sole competent force in the theater.
@@ -134,15 +146,17 @@ This source supersedes:
 - recovery-note language that leaves the pair outside the active PERSISTENT THREAT ladder;
 - COLD OPEN as the opening mission title;
 - any prior ladder placing Torrejón and Julian Alps before DEAD FREQUENCY;
-- any prior ladder placing HARD WINTER before the Bakhmut mini-arc;
-- any prior ladder placing the Bakhmut mini-arc before PERMAFROST;
-- any prior causal statement in which Bakhmut intelligence first identifies Svalbard for PERMAFROST;
-- any prior source language leaving OPEN CIRCUIT's campaign slot open or placing it anywhere other than immediately after ASH RELAY and before HARD WINTER.
+- the interim ladder placing HULL BREACH before PERMAFROST;
+- the interim ladder placing PERMAFROST before the Bakhmut mini-arc;
+- the interim ladder placing HARD WINTER after OPEN CIRCUIT;
+- any source language leaving OPEN CIRCUIT's campaign slot open or placing it anywhere other than immediately after ASH RELAY and before PERMAFROST.
 
 This source does not supersede:
-- the internal Bakhmut mini-arc order;
+- the internal Bakhmut mini-arc order or its Svalbard-target reveal;
+- the numbered investigative-beat sequence;
 - ARTEMIS in DEAD FREQUENCY;
 - TYPHON in PERMAFROST;
+- Lupin's PERMAFROST shoulder wound or his wounded-state HULL BREACH exploitation;
 - OPEN CIRCUIT's dedicated mission content and production locks;
 - the protected AEGIS FALLS end-state and ending line pair;
-- future dedicated mission pages that refine titles, local cast, route design, encounter composition, and production scripting without changing the owner-ordered ladder.
+- future dedicated mission pages that refine titles, local cast, route design, encounter composition, and production scripting without changing the continuity-preserving ladder.
