@@ -1,18 +1,18 @@
 PROJECT WARRIORS — PERSISTENT THREAT / BAKHMUT MINI-ARC SOURCE LANDING
 Generated: 2026-07-23
-Version: rev3
-Status: LOCKED WORKING ARC / OWNER-REORDERED / PRODUCTION POLISH FLAGS REMAIN
+Version: rev4
+Status: LOCKED WORKING ARC / CONTINUITY-PRESERVING PLACEMENT / PRODUCTION POLISH FLAGS REMAIN
 Transcript authority: Project_Warriors_Thread_Archive_Ducky_Game2_Bakhmut_MiniArc-1.txt
 
 01. CAMPAIGN PLACEMENT
 Locked slot:
-PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> HARD WINTER -> AEGIS FALLS
+HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST
 
-This owner-corrected placement supersedes the earlier DEAD FREQUENCY -> HARD WINTER -> BAKHMUT MINI-ARC -> PERMAFROST order and any later interim statement that placed HARD WINTER directly after ASH RELAY.
+This placement preserves the original authored causal chain while honoring OPEN CIRCUIT's fixed position after ASH RELAY. HARD WINTER remains the lead-in to Bakhmut. The Bakhmut packet identifies Svalbard as the probable northern target. OPEN CIRCUIT is the time-critical intervening continental exploitation and denial operation before AEGIS deploys north for PERMAFROST.
 
-Bakhmut is where Ducky's investigation moves from suspicion and incomplete operational evidence to physical proof. PERMAFROST has already occurred. The enemy site is therefore not the clue that first identifies Svalbard as a future target. Instead, it proves that a repeatable relay-and-deception kill chain used compromised AEGIS-adjacent architectural knowledge to enable, rehearse, certify, interpret, or make reusable the wider attack pattern that AEGIS has already experienced.
+Bakhmut is where Ducky's investigation moves from suspicion to physical proof. The enemy is certifying a repeatable relay-and-deception kill chain using compromised AEGIS-adjacent architectural knowledge. The recovered packet enables Halliday to identify Svalbard as the probable northern target in PERMAFROST.
 
-OPEN CIRCUIT follows ASH RELAY. It carries the campaign's technical-infrastructure pressure from Bakhmut's overt ruined-war environment into covert systems hidden inside ordinary European civilian and commercial infrastructure. The exact evidence packet, briefing language, and causal handoff between ASH RELAY and OPEN CIRCUIT remain available for production refinement.
+OPEN CIRCUIT follows ASH RELAY without replacing that reveal. It carries the campaign's technical-infrastructure pressure from Bakhmut's overt ruined-war environment into covert systems hidden inside ordinary European civilian and commercial infrastructure. The exact evidence packet, briefing language, and operational necessity connecting ASH RELAY to OPEN CIRCUIT and OPEN CIRCUIT to PERMAFROST remain available for production refinement.
 
 02. THREE-MISSION ARC
 1. DEAD GROUND
@@ -36,9 +36,9 @@ Functions:
 - validate attack logic using compromised AEGIS-adjacent knowledge
 - rehearse a relay chain designed to survive contested spectrum
 - tune a deception envelope against AEGIS-shaped defensive interpretation
-- reconstruct and document the architecture behind the already-experienced northern strike pattern
-- certify the same architecture for reuse or follow-on operations
-- provide the late-campaign technical context that flows into OPEN CIRCUIT without forcing the exact briefing implementation prematurely
+- certify the later northern strike package
+- provide the technical evidence that identifies Svalbard as the probable target
+- provide exploitable context that can support the immediately following OPEN CIRCUIT operation without changing the Svalbard reveal
 
 04. UKRAINIAN ATTACHED CELL
 A joint veteran cell built by necessity, not a mythic super-squad or symbolic cast.
@@ -92,7 +92,8 @@ Open polish:
 - production line-by-line dialogue expansion
 - complete Ukrainian loadout sheets
 - exact ASH RELAY -> OPEN CIRCUIT evidence and briefing handoff
+- exact OPEN CIRCUIT -> PERMAFROST operational transition
 - whether any cell member recurs later in Persistent Threat
 
 SUPERSESSION NOTE
-Any older source, compendium, recovery packet, or ontology statement that places HARD WINTER before this mini-arc, places this mini-arc before PERMAFROST, makes Bakhmut the first source identifying Svalbard, or omits OPEN CIRCUIT between ASH RELAY and HARD WINTER is superseded by the owner-corrected PERSISTENT THREAT ladder.
+This revision supersedes the interim owner-order pass that placed PERMAFROST before Bakhmut, treated Bakhmut as retrospective proof of an already-experienced Svalbard attack, or placed HARD WINTER after OPEN CIRCUIT. It does not rewrite the original Bakhmut mission content: HARD WINTER still leads into the mini-arc, the recovered packet still identifies Svalbard, and PERMAFROST still pays off that intelligence. OPEN CIRCUIT is inserted after ASH RELAY and before PERMAFROST.
