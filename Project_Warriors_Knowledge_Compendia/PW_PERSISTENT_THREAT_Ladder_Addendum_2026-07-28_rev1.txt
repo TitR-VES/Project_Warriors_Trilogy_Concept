@@ -1,0 +1,40 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+PERSISTENT THREAT — TORREJÓN / JULIAN ALPS LADDER INTEGRATION
+Generated: 2026-07-28
+Version: rev1
+Status: CURRENT SYNTHESIS UPDATE
+
+PURPOSE
+Refresh the visible working-knowledge layer after Torrejón Air Base and the Julian Alps were removed from Game 1 but remained only partially landed in Game 2 recovery material.
+
+CURRENT HARD-ORDER LADDER
+COLD OPEN
+-> TORREJÓN DE ARDOZ OPERATION
+-> JULIAN ALPS RECOVERY
+-> DEAD FREQUENCY
+-> HARD WINTER
+-> DEAD GROUND
+-> DARK FIBER
+-> ASH RELAY
+-> PERMAFROST
+-> HULL BREACH
+-> AEGIS FALLS
+
+CONTROL NOTES
+- Torrejón and Julian Alps are a single adjacent cause-and-effect block.
+- They are Game 2 Ducky / PERSISTENT THREAT missions, not Game 1 infrastructure assignments.
+- Torrejón's attacking force is unmarked Chinese operators; this supersedes the older Russian-only attribution.
+- The deorbit attempt is interrupted, but one AEGIS satellite falls into the Julian Alps and drives the immediate recovery mission.
+- The block is placed before DEAD FREQUENCY so the already locked DEAD FREQUENCY -> HARD WINTER -> Bakhmut mini-arc -> PERMAFROST sequence remains intact.
+- OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working mid-campaign insertions; their exact numbered slots are still open.
+- Final mission titles for Torrejón and Julian Alps remain open. The location labels control until dedicated mission-title decisions land.
+
+SOURCE OF TRUTH
+Durable controlling page:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+
+Recovery packet refreshed:
+dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+
+COMPENDIUM USE RULE
+Apply this addendum over older rev5/rev6 campaign summaries that list only COLD OPEN / DEAD FREQUENCY / HARD WINTER / PERMAFROST / HULL BREACH / AEGIS FALLS or leave Torrejón and Julian Alps as unplaced recovery material.
