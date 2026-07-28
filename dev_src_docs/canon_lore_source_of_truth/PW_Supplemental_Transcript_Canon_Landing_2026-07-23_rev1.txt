@@ -1,6 +1,6 @@
 PROJECT WARRIORS — SUPPLEMENTAL TRANSCRIPT CANON LANDING
 Generated: 2026-07-23
-Version: rev2
+Version: rev3
 Status: WORKING AUTHORITATIVE SUPPLEMENT / SUPERSESSION CONTROL
 
 SCOPE
@@ -14,8 +14,9 @@ RESULT
 1. HOME DEFENSE receives its first durable full campaign source: Australian-led Pine Gap
    architecture, Lucas Hill working lead, core cast, nine-mission ladder, and equipment rules.
 2. Bakhmut expands from a compact recovery mention into a locked three-mission source with
-   exact HARD WINTER -> Bakhmut -> PERMAFROST placement, Ukrainian cell, OOB, transition
-   logic, and technical narrative function.
+   HARD WINTER -> Bakhmut placement, Ukrainian cell, OOB, transition logic, and technical
+   narrative function. Later owner placement inserts OPEN CIRCUIT after ASH RELAY and before
+   PERMAFROST without changing Bakhmut's Svalbard-target reveal.
 3. The audio network lands controlled scene placements and corrects the obsolete Pat Voss /
    Renata-son draft back to Patrick Napier continuity.
 4. Hudson Overlook is already controlled by its screenplay and mission-scripting sources.
@@ -28,6 +29,8 @@ POST-RECOVERY OWNER ADJUDICATION
 - Platform family: F90-family 5.56x45mm route-lead service carbine.
 - The earlier DEAD RECKONING candidate is rejected for Hill because Sakhalin retains the
   existing stable build identity under PW-WPN-SAKHALIN-DEAD-RECKONING.
+- PERSISTENT THREAT continuity-preserving sequence is HARD WINTER -> DEAD GROUND ->
+  DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST.
 
 SUPERSESSION / COLLISION CONTROLS
 - TRUE BLUE resolves the Lucas Hill placeholder without disturbing Sakhalin's build.
@@ -36,6 +39,9 @@ SUPERSESSION / COLLISION CONTROLS
   previously used the same title before adopting RECEIVERSHIP.
 - Pat Napier is not Pat Voss and is not Renata Voss's son.
 - No Hudson character, screenplay, prompt, or trigger is replaced by the audio candidate.
+- The earlier shorthand HARD WINTER -> Bakhmut -> PERMAFROST remains directionally valid
+  but is no longer an adjacent sequence; OPEN CIRCUIT is inserted between ASH RELAY and
+  PERMAFROST.
 
 ONTOLOGY / REGISTRY
 - timeline remains rev2.8
