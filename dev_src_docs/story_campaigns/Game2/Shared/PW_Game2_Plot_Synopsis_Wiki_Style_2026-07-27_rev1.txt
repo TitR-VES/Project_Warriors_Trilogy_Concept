@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 2 PLOT SYNOPSIS RECAPITULATION
 Generated: 2026-07-28
-Version: rev4
+Version: rev5
 Status: DERIVATIVE REFERENCE / WIKI-STYLE NARRATIVE SYNTHESIS WITH DEVELOPMENT-GAP FLAGS
 Scope: Project Warriors, Game 2 — all three main story campaigns
 
@@ -67,14 +67,14 @@ PERSISTENT THREAT
 
 The second campaign follows Sergeant First Class Ferris “Ducky” Ryan and AEGIS Squad as the European war changes from the defense of a threatened system into an offensive investigation of how that system has been compromised. Ducky continues to operate alongside Finnish sniper and arctic-warfare specialist Aki “Frost” Peltola, Romanian assault specialist Ştefan “Lupin” Dragavei, and Australian combat medic Cassandra “Switchblade” Stewart. Analyst Tara Halliday remains the campaign's principal institutional counterpart, preserving anomalies and records that others would prefer to treat as isolated incidents.
 
-Persistent Threat is built around the discovery that the enemy is not simply attacking European infrastructure from outside. Russian technical and intelligence elements are using knowledge of AEGIS-adjacent architecture to hide relay, certification, deception, and access systems inside the ordinary mechanisms through which Europe already functions. The Torrejón attack also demonstrates that compromised access can be exploited by unmarked Chinese operators, broadening the operational problem without requiring every hostile action to belong to one unified command. Commercial logistics, temporary installations, contractor credentials, exhibition facilities, industrial service routes, power, cooling, fiber, and protected civilian movement become part of the battlefield.
+Persistent Threat is built around the discovery that the enemy is not simply attacking European infrastructure from outside. Russian technical and intelligence elements are using knowledge of AEGIS-adjacent architecture to hide relay, certification, deception, and access systems inside the ordinary mechanisms through which Europe already functions. The ORBITAL DECAY attack at Torrejón also demonstrates that compromised access can be exploited by unmarked Chinese operators, broadening the operational problem without requiring every hostile action to belong to one unified command. Commercial logistics, temporary installations, contractor credentials, exhibition facilities, industrial service routes, power, cooling, fiber, and protected civilian movement become part of the battlefield.
 
 The continuity-preserving campaign ladder is:
 
 1. FAILURE CASCADE
 2. DEAD FREQUENCY
-3. TORREJÓN DE ARDOZ OPERATION
-4. JULIAN ALPS RECOVERY
+3. ORBITAL DECAY
+4. SPLASHDOWN
 5. HARD WINTER
 6. DEAD GROUND
 7. DARK FIBER
@@ -88,7 +88,7 @@ The opening mission, “Failure Cascade,” retains the Norwegian coastal withdr
 
 “Dead Frequency” takes place at a converted NATO facility in northern Estonia. After completing the primary objective, AEGIS withdraws under closing pursuit while Swedish Archer artillery under the ARTEMIS callsign shapes the enemy's approach routes. Lupin photographs technical parameters showing that Russian personnel possess internal AEGIS nomenclature, creating Investigative Beat 1, “The Parameters,” and confirming insider-level access.
 
-At Torrejón de Ardoz, unmarked Chinese operators penetrate the NATO/AEGIS satellite-command layer and attempt to force the constellation out of orbit. AEGIS and local defenders interrupt the full sequence, but one satellite falls toward Slovenia. “Julian Alps Recovery” follows immediately as AEGIS works with Slovenian special-operations, civil-defense, resistance, and technical-recovery partners to secure the wreckage before hostile teams can exploit it. The paired missions transform the compromise from a Russian intelligence anomaly into a broader operational vulnerability while preserving the later investigation's established order.
+In “Orbital Decay,” unmarked Chinese operators penetrate the NATO/AEGIS satellite-command layer at Torrejón de Ardoz and attempt to force the constellation out of orbit. AEGIS and local defenders interrupt the full sequence, but one satellite falls toward Slovenia. “Splashdown” follows immediately in the Julian Alps as AEGIS works with Slovenian special-operations, civil-defense, resistance, and technical-recovery partners to secure the wreckage before hostile teams can exploit it. The paired missions transform the compromise from a Russian intelligence anomaly into a broader operational vulnerability while preserving the later investigation's established order.
 
 “Hard Winter” tracks a mobile EW convoy across the Latvian interior over two in-game days. Its aftermath remains Investigative Beat 2, “The Architecture”: Halliday follows AEGIS development contracts through Nexus Meridian Holdings and the KINGMAKER-connected financial infrastructure already visible in the Montoya Farm records.
 
@@ -203,7 +203,7 @@ AMERICAN FREEDOM
 
 PERSISTENT THREAT
 - define the opening bridge from Rotterdam and the movement into the continental systems war;
-- write the exact DEAD FREQUENCY-to-TORREJÓN and JULIAN ALPS-to-HARD WINTER connective material;
+- write the exact DEAD FREQUENCY-to-ORBITAL DECAY and SPLASHDOWN-to-HARD WINTER connective material;
 - write the ASH RELAY-to-OPEN CIRCUIT evidence handoff and OPEN CIRCUIT-to-PERMAFROST timing bridge;
 - place the ASML/Lupin-overwatch mission without breaking the locked causal blocks;
 - determine whether the Ukrainian Bakhmut cell recurs;
