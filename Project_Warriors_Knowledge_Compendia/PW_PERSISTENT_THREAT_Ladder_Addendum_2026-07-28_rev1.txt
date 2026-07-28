@@ -1,17 +1,17 @@
 PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
 PERSISTENT THREAT — CAMPAIGN-LADDER INTEGRATION
 Generated: 2026-07-28
-Version: rev4
-Status: CURRENT SYNTHESIS UPDATE / CONTINUITY-PRESERVING ORDER
+Version: rev5
+Status: CURRENT SYNTHESIS UPDATE / CONTINUITY-PRESERVING ORDER / MISSION TITLES LOCKED
 
 PURPOSE
-Refresh the visible working-knowledge layer after Torrejón Air Base and the Julian Alps were removed from Game 1 but remained only partially landed in Game 2 recovery material, apply the FAILURE CASCADE opening title, and place OPEN CIRCUIT without rewriting the existing investigative, injury, Bakhmut-to-Svalbard, or finale causality.
+Refresh the visible working-knowledge layer after the Torrejón Air Base and Julian Alps operations were removed from Game 1 but remained only partially landed in Game 2 recovery material, apply the FAILURE CASCADE opening title, lock ORBITAL DECAY and SPLASHDOWN, and place OPEN CIRCUIT without rewriting the existing investigative, injury, Bakhmut-to-Svalbard, or finale causality.
 
 CURRENT HARD-ORDER LADDER
 FAILURE CASCADE
 -> DEAD FREQUENCY
--> TORREJÓN DE ARDOZ OPERATION
--> JULIAN ALPS RECOVERY
+-> ORBITAL DECAY
+-> SPLASHDOWN
 -> HARD WINTER
 -> DEAD GROUND
 -> DARK FIBER
@@ -23,10 +23,12 @@ FAILURE CASCADE
 
 CONTROL NOTES
 - FAILURE CASCADE is the current title of the opening mission and supersedes COLD OPEN.
-- Torrejón and Julian Alps are a single adjacent cause-and-effect block.
+- ORBITAL DECAY is Mission 03, set at Torrejón Air Base / Torrejón de Ardoz. TORREJÓN DE ARDOZ OPERATION remains only a descriptive location/operation label.
+- SPLASHDOWN is Mission 04, set in the Julian Alps. JULIAN ALPS RECOVERY remains only a descriptive location/recovery label.
+- ORBITAL DECAY and SPLASHDOWN form one adjacent cause-and-effect block.
 - They are Game 2 Ducky / PERSISTENT THREAT missions, not Game 1 infrastructure assignments.
-- Torrejón's attacking force is unmarked Chinese operators; this supersedes the older Russian-only attribution.
-- The deorbit attempt is interrupted, but one AEGIS satellite falls into the Julian Alps and drives the immediate recovery mission.
+- ORBITAL DECAY's attacking force is unmarked Chinese operators; this supersedes the older Russian-only attribution.
+- The deorbit attempt is interrupted, but one AEGIS satellite falls into the Julian Alps and drives SPLASHDOWN.
 - DEAD FREQUENCY remains Investigative Beat 1; HARD WINTER remains Investigative Beat 2.
 - The Bakhmut mini-arc remains HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY and its packet still identifies Svalbard as the probable target.
 - OPEN CIRCUIT is fixed immediately after ASH RELAY and before PERMAFROST as the final continental exploitation and denial mission before the northern deployment.
@@ -34,7 +36,6 @@ CONTROL NOTES
 - HULL BREACH follows PERMAFROST, preserving Lupin's wounded-state exploitation, Investigative Beat 3, and the post-mission Beat 4 tasking into AEGIS FALLS.
 - AEGIS FALLS remains one finale mission; the undersea-threat and Aix-en-Provence assets are preserved as phases of that compound final operation rather than separate ladder entries.
 - The ASML/Lupin-overwatch operation remains valid working material, but its numbered slot is not yet inserted into this controlling spine.
-- Final mission titles for Torrejón and Julian Alps remain open. The location labels control until dedicated mission-title decisions land.
 
 SOURCE OF TRUTH
 Durable controlling page:
@@ -50,4 +51,4 @@ Recovery packet refreshed:
 dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
 
 COMPENDIUM USE RULE
-Apply this addendum over older rev5/rev6 campaign summaries and recovery layers that use COLD OPEN, list only a partial ladder, leave Torrejón and Julian Alps unplaced, leave OPEN CIRCUIT unplaced, or reproduce the interim continuity-breaking order HULL BREACH -> PERMAFROST -> Bakhmut -> OPEN CIRCUIT -> HARD WINTER. Preserve the authored HARD WINTER -> Bakhmut -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH chain.
+Apply this addendum over older rev5/rev6 campaign summaries and recovery layers that use COLD OPEN, use TORREJÓN DE ARDOZ OPERATION or JULIAN ALPS RECOVERY as current mission titles, list only a partial ladder, leave the Torrejón and Julian Alps operations unplaced, leave OPEN CIRCUIT unplaced, or reproduce the interim continuity-breaking order HULL BREACH -> PERMAFROST -> Bakhmut -> OPEN CIRCUIT -> HARD WINTER. Preserve the authored HARD WINTER -> Bakhmut -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH chain.
