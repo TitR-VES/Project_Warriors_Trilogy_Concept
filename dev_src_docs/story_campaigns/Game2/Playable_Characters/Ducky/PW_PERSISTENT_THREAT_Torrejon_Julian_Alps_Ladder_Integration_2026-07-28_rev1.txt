@@ -1,0 +1,106 @@
+PROJECT WARRIORS — PERSISTENT THREAT
+TORREJÓN / JULIAN ALPS CAMPAIGN-LADDER INTEGRATION
+Generated: 2026-07-28
+Version: rev1
+Status: LOCKED LADDER PLACEMENT / MISSION TITLES AND LOWER-LEVEL PRODUCTION DETAILS WORKING
+
+PURPOSE
+This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder.
+
+CONTROLLING CAMPAIGN ORDER
+The current hard-order PERSISTENT THREAT spine is:
+
+1. COLD OPEN
+2. TORREJÓN DE ARDOZ OPERATION — working location label; final mission title open
+3. JULIAN ALPS RECOVERY — working location label; final mission title open
+4. DEAD FREQUENCY
+5. HARD WINTER
+6. DEAD GROUND
+7. DARK FIBER
+8. ASH RELAY
+9. PERMAFROST
+10. HULL BREACH
+11. AEGIS FALLS
+
+The Torrejón and Julian Alps missions are an adjacent causal pair. Do not separate them with an unrelated mission.
+
+This placement deliberately preserves the already locked sequence:
+DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> PERMAFROST.
+
+OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working mid-campaign insertions, but their exact numbered slots are still open. They must not displace or interrupt the locked Torrejón -> Julian Alps causal pair or the locked DEAD FREQUENCY-through-PERMAFROST chain without a later explicit ladder revision.
+
+WHY THIS PLACEMENT CONTROLS
+- COLD OPEN establishes the post-Game-1 strategic situation.
+- Torrejón converts the threat from an abstract systems-war concern into an active attempt to destroy the AEGIS orbital layer.
+- Julian Alps is the immediate physical consequence and recovery mission.
+- The recovered satellite material and contradictory operator signatures sharpen the campaign's attribution problem before DEAD FREQUENCY begins the locked northern/eastern winter progression.
+- Placing the pair before DEAD FREQUENCY preserves the later Bakhmut-to-Svalbard logic and avoids reopening the locked DEAD FREQUENCY -> HARD WINTER adjacency.
+
+MISSION 02 — TORREJÓN DE ARDOZ OPERATION
+Location:
+Torrejón Air Base / Torrejón de Ardoz, Spain.
+
+Core premise:
+Ducky and AEGIS respond to a hostile penetration of the NATO/AEGIS satellite-command layer at Torrejón. The attacking force is composed of unmarked Chinese operators, superseding the older all-Russian attribution in legacy Game 1 material.
+
+Operational objective:
+- regain access to the satellite-command facility;
+- interrupt a forced deorbit sequence targeting the AEGIS constellation;
+- identify how the attackers penetrated a protected NATO site;
+- preserve command, authentication, and telemetry evidence before sanitization.
+
+Outcome lock:
+AEGIS and local defenders interrupt the sequence before the full constellation can be lost. One satellite is nevertheless successfully deorbited. Its descent track leads toward the Julian Alps in Slovenia.
+
+Narrative function:
+- establishes the China layer as operationally real rather than speculative;
+- demonstrates that compromised access and institutional penetration are as dangerous as direct assault;
+- deepens the campaign's central problem: the official attribution picture is structurally incomplete;
+- creates the immediate objective for the next mission.
+
+Continuity cautions:
+- Do not return this operation to Game 1.
+- Do not revert the attacking force to a straightforward Russian black operation.
+- Do not use the obsolete KYNEE wording as the controlling friendly-unit identity unless a later dedicated source explicitly restores and defines it.
+- Exact facility route, breach method, named Spanish/NATO allies, and final mission title remain working.
+
+MISSION 03 — JULIAN ALPS RECOVERY
+Location:
+Julian Alps, Slovenia.
+
+Core premise:
+The Torrejón-deorbited satellite impacts across a difficult Alpine debris field. Ducky and AEGIS deploy with Slovenian special-operations, civil-defense, resistance, and technical-recovery partners to secure the wreckage before hostile recovery teams can strip it for data or hardware.
+
+Operational objective:
+- locate the primary surviving satellite sections and security-critical components;
+- establish control of the crash corridor and debris trail;
+- deny hostile teams access to authentication, telemetry, storage, and AEGIS architectural material;
+- recover enough evidence to reconstruct who initiated the deorbit and who intended to exploit the wreckage.
+
+Outcome lock:
+The allied force secures the decisive surviving material and denies hostile recovery. The recovery does not restore the lost satellite; it preserves evidence, limits compromise, and gives Halliday and DAOG a more dangerous but more accurate picture.
+
+Narrative function:
+- pays off Torrejón immediately rather than leaving the deorbit as an abstract briefing event;
+- turns orbital systems warfare into a physical mountain recovery problem;
+- reinforces that local Slovenian knowledge, authority, movement, and survival expertise are indispensable;
+- provides evidence that feeds the attribution-collapse architecture leading into DEAD FREQUENCY and the later winter missions.
+
+Enemy-attribution caution:
+Legacy text describes unmarked Russian recovery teams. The current controlling source does not automatically erase that possibility, but it also does not lock every hostile element at the crash site to Russia. Preserve the possibility of multiple interested hostile services or deniable teams until the dedicated mission source finalizes the recovery-force composition.
+
+LOCAL-ACTOR RULE
+Do not over-centralize AEGIS in either mission. Spanish and Slovenian actors have their own war, institutional responsibilities, terrain knowledge, intelligence, casualties, and authority. AEGIS is the playable spine and technical connective tissue, not the sole competent force in the theater.
+
+SUPERSESSION
+This source supersedes:
+- any Game 1 ladder placement of Torrejón Air Base or the Julian Alps;
+- the older Russian-only Torrejón attribution;
+- recovery-note language that leaves the pair outside the active PERSISTENT THREAT ladder.
+
+This source does not supersede:
+- the locked Bakhmut mini-arc order;
+- ARTEMIS in DEAD FREQUENCY;
+- TYPHON in PERMAFROST;
+- the protected AEGIS FALLS end-state and ending line pair;
+- future dedicated mission pages that refine titles, local cast, route design, encounter composition, and production scripting without changing the ladder order.
