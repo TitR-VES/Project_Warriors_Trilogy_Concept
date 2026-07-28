@@ -1,0 +1,119 @@
+================================================================================
+PROJECT WARRIORS — WORKING COMPENDIUM 04 ADDENDUM
+NAMED WEAPON GLOBAL REGISTRY LANDING
+Generated: 2026-07-28
+Version: rev4
+================================================================================
+Status: compendium bridge; source pages remain authoritative
+Supersedes: PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-24_rev3.txt
+
+PURPOSE
+Carry the current global named-weapon authority chain into the working knowledge
+layer, preserve the July 24 War Wolves reconciliation, and add Nicholas Wayne
+Hawthorne / Croatoan's persistent SANDMAN sidearm.
+
+CONTROLLING INDEX
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_10.txt
+- v2.10 inherits unchanged v2.9 and v2.8 entries and controls all conflicts
+
+CURRENT SANDMAN SOURCE
+- dev_src_docs/weapons_and_equipment/PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
+- ontology projection:
+  dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_rev2.yaml
+- additive ontology part:
+  dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_sandman_rev1.yaml
+
+--------------------------------------------------------------------------------
+NEW LOCK — HAWTHORNE / SANDMAN
+--------------------------------------------------------------------------------
+
+Stable ID: PW-WPN-HAWTHORNE-SANDMAN
+Build: SANDMAN
+Platform: 2019 Hudson H9, 9x19mm, striker-fired pistol
+Owner: Nicholas Wayne Hawthorne / Croatoan
+Campaign: War Within DLC
+Role: persistent personal sidearm
+Configuration: tan primary finish; black polymer grip panels; threaded barrel
+Continuity origin: early Kill Devil Hills Detachment period
+Status: locked core; lower-level implementation details remain open
+
+SANDMAN fills Hawthorne's previously open sidearm slot. It is not a late New
+American Frontier or Vanguard acquisition. Hawthorne has carried it since his early
+Kill Devil Hills Detachment days, so the handgun should read as a trusted continuity
+object linking his formative militia history to the War Within campaign.
+
+The name is a literary nod to Logan's Run, which Hawthorne has read and considers
+one of his favorite novels. The reference works through the Sandman identity and the
+novel's armed protagonist; the pistol should not be decorated as a replica or fandom
+prop.
+
+The threaded barrel is part of the locked physical configuration. No permanently
+fitted suppressor or other muzzle device is implied.
+
+--------------------------------------------------------------------------------
+HAWTHORNE WEAPON DISTINCTION
+--------------------------------------------------------------------------------
+
+- SANDMAN = 2019 tan Hudson H9 persistent sidearm.
+- DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
+
+SANDMAN complements DEAD BLOW and does not replace it in primary-weapon references.
+
+--------------------------------------------------------------------------------
+RETAINED KEY REGISTRY CORRECTIONS
+--------------------------------------------------------------------------------
+
+1. CRIMSON ONE = Richard "Digger" Graves — close quarters / point.
+2. CRIMSON TWO = Lawrence "Rip" Mansell — overwatch / precision.
+3. CRIMSON THREE = Dermot "Lucky" Underwood — breacher / support.
+4. EXTREME PREJUDICE is Mansell's CheyTac M200 named build; Mansell is CRIMSON TWO.
+5. SAVING GRACE is an M1911A1, not a SIG P226.
+6. STAPLER is locked canon for Spook, not a provisional APC9K candidate.
+7. DEAD BLOW and DEADBOLT remain distinct builds.
+8. DON'T TREAD retires after the Game 2 Act II militia-recognition beat.
+9. LONG CALL is Howler's named build; its platform and exact placement remain unrecovered.
+10. Dingo and Beaver retain unnamed owner-specific recovery slots; do not invent names.
+
+--------------------------------------------------------------------------------
+CURRENT REGISTRY SCOPE
+--------------------------------------------------------------------------------
+
+The v2.10 authority chain records 37 named firearm identities:
+- 26 substantially specified or source-associated identities;
+- 11 recovery-status identities with incomplete source details;
+- 2 additional owner-specific recovery slots whose build names are not recovered
+  and therefore are not included in the named-identity total.
+
+Weapon catalog rev2 records:
+- 112 weapon identities;
+- 35 ammunition identities;
+- 129 occurrence records;
+- 44 named-build bindings;
+- 35 resolved named-build bindings;
+- 9 deferred named-build bindings.
+
+--------------------------------------------------------------------------------
+SOURCE-RECOVERY RULE
+--------------------------------------------------------------------------------
+
+Do not silently fill unresolved fields from naming vibes, role assumptions or
+analogy. Recover the originating source or perform a new explicit canon adjudication,
+then update the dedicated source page, registry, ontology projection and working
+knowledge layer.
+
+--------------------------------------------------------------------------------
+SUPERSESSION NOTE
+--------------------------------------------------------------------------------
+
+- v2.10 controls the project-wide registry for all conflicts and inherits unchanged
+  v2.9/v2.8 entries.
+- PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt controls SANDMAN's owner, model/year,
+  finish, grip color, threaded barrel, literary name logic and Kill Devil Hills
+  provenance.
+- PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-24_rev3.txt is superseded
+  as the current compendium bridge but remains useful as the focused July 24 War
+  Wolves reconciliation record.
+
+================================================================================
+END — COMPENDIUM 04 NAMED WEAPONS ADDENDUM rev4
+================================================================================
