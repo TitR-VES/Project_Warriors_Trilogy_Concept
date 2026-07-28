@@ -33,9 +33,10 @@ Platform: 2019 Hudson H9, 9x19mm, striker-fired pistol
 Owner: Nicholas Wayne Hawthorne / Croatoan
 Campaign: War Within DLC
 Role: persistent personal sidearm
-Configuration: tan primary finish; black polymer grip panels; threaded barrel
+Configuration: tan/FDE primary finish; black polymer grip panels; threaded barrel;
+               canonical optional suppressor configuration
 Continuity origin: early Kill Devil Hills Detachment period
-Status: locked core; lower-level implementation details remain open
+Status: locked core; lower-level configuration details remain open
 
 SANDMAN fills Hawthorne's previously open sidearm slot. It is not a late New
 American Frontier or Vanguard acquisition. Hawthorne has carried it since his early
@@ -47,14 +48,22 @@ one of his favorite novels. The reference works through the Sandman identity and
 novel's armed protagonist; the pistol should not be decorated as a replica or fandom
 prop.
 
-The threaded barrel is part of the locked physical configuration. No permanently
-fitted suppressor or other muzzle device is implied.
+The tan/FDE finish plays deliberately against the SANDMAN name. Together with the
+black polymer grips, it produces a restrained sand-and-black visual identity without
+literal thematic graphics. The Hudson H9's unusual low-bore and forward-heavy shape
+also carries a credible near-futuristic quality that evokes the fictional namesake
+while remaining a real, grounded handgun.
+
+The threaded barrel supports a canonical optional suppressor configuration. A
+suppressor is not permanently fitted, but when present it extends the weapon into an
+even more distinctive silhouette and provides the clearest visual expression of the
+Logan's Run echo. Exact suppressor model and mission/loadout availability remain open.
 
 --------------------------------------------------------------------------------
 HAWTHORNE WEAPON DISTINCTION
 --------------------------------------------------------------------------------
 
-- SANDMAN = 2019 tan Hudson H9 persistent sidearm.
+- SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; optionally suppressed.
 - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
 
 SANDMAN complements DEAD BLOW and does not replace it in primary-weapon references.
@@ -108,8 +117,8 @@ SUPERSESSION NOTE
 - v2.10 controls the project-wide registry for all conflicts and inherits unchanged
   v2.9/v2.8 entries.
 - PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt controls SANDMAN's owner, model/year,
-  finish, grip color, threaded barrel, literary name logic and Kill Devil Hills
-  provenance.
+  finish, grip color, threaded barrel, optional suppressed configuration, visual/name
+  logic and Kill Devil Hills provenance.
 - PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-24_rev3.txt is superseded
   as the current compendium bridge but remains useful as the focused July 24 War
   Wolves reconciliation record.
