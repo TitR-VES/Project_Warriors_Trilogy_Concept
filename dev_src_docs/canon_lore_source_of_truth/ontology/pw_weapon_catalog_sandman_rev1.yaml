@@ -1,0 +1,58 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-SANDMAN-REV1
+  generated: '2026-07-28'
+  revision: rev1
+  document_mode: additive_entity_part
+  manifest: pw_weapon_catalog_rev2.yaml
+  sources:
+    - dev_src_docs/weapons_and_equipment/PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
+    - dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_10.txt
+
+weapons:
+  - id: PW-WEP-HUDSON-H9
+    canonical_name: Hudson H9
+    model_year: 2019
+    category: pistol
+    action: striker_fired
+    weapon_scope: portable_weapon
+    status: confirmed
+    ammunition_refs: [PW-AMM-9X19]
+    sources: [SANDMAN, REG10]
+    named_build_refs: [PW-WPN-HAWTHORNE-SANDMAN]
+    occurrence_refs: [PW-WOC-WAR-WITHIN-HUDSON-H9]
+    notes: >-
+      The project-specific Hawthorne build has a tan primary finish, black polymer
+      grip panels and a threaded barrel. No default suppressor or other muzzle device
+      is implied.
+
+occurrences:
+  - id: PW-WOC-WAR-WITHIN-HUDSON-H9
+    weapon_ref: PW-WEP-HUDSON-H9
+    installment_refs: [PW-INS-WAR-WITHIN]
+    campaign_refs: [PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA]
+    mission_labels: []
+    presence_modes: [player_weapon]
+    player_access: persistent
+    acquisition_modes: [personal_loadout]
+    retention: persistent
+    drop_policy: not_applicable
+    status: confirmed
+    sources: [SANDMAN, REG10]
+    faction_labels: [Kill Devil Hills Detachment, NAF Vanguard]
+    carrier_labels: [Nicholas Wayne Hawthorne / Croatoan]
+    presence_tags: [player_named_build, player_sidearm, legacy_personal_weapon]
+    notes: >-
+      Hawthorne has carried SANDMAN since his early Kill Devil Hills Detachment
+      period. It predates his later New American Frontier and Vanguard affiliations.
+
+named_build_bindings:
+  - named_build_ref: PW-WPN-HAWTHORNE-SANDMAN
+    weapon_ref: PW-WEP-HUDSON-H9
+    binding_status: resolved
+    sources: [SANDMAN, REG10]
+
+validation_targets:
+  duplicate_weapon_ids: 0
+  duplicate_occurrence_ids: 0
+  duplicate_named_build_refs: 0
+  dangling_references: 0
