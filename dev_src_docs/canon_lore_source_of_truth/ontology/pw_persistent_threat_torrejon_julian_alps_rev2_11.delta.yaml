@@ -1,0 +1,87 @@
+meta:
+  delta_id: PW-ONT-PERSISTENT-THREAT-TORREJON-JULIAN-ALPS-2026-07-28-REV1
+  generated: '2026-07-28'
+  timeline_applies_to: pw_world_event_timeline_rev2_10.yaml
+  timeline_produces: pw_world_event_timeline_rev2_11.yaml
+  status: locked_ladder_placement_delta
+  chronology_changes: true
+  sources:
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+  - Project_Warriors_Knowledge_Compendia/PW_PERSISTENT_THREAT_Ladder_Addendum_2026-07-28_rev1.txt
+
+operations:
+- op: add_events
+  values:
+  - id: PW-EVT-G2-DUCKY-TORREJON-DEORBIT
+    name: TORREJÓN DE ARDOZ OPERATION
+    era: PW-ERA-WWIII
+    date:
+      relative: after COLD OPEN and immediately before the JULIAN ALPS RECOVERY; exact date TBD
+    ordering:
+      before: [PW-EVT-G2-DUCKY-JULIAN-ALPS-RECOVERY, PW-EVT-AEGIS-FALLS]
+    location: Torrejón Air Base / Torrejón de Ardoz, Spain
+    actors:
+    - Ferris Ryan / Ducky
+    - AEGIS Squad
+    - Tara Halliday / ORACLE
+    - Spanish and NATO local defenders
+    - unmarked Chinese operators
+    depicted_in: [PW-TRK-G2-PERSISTENT-THREAT]
+    status: confirmed
+    notes: >-
+      Hostile penetration of the AEGIS satellite-command layer. AEGIS interrupts a
+      forced-deorbit sequence, but one satellite is lost and descends toward the
+      Julian Alps. The unmarked Chinese-operator attribution supersedes the older
+      Russian-only Torrejón version. Final mission title and lower-level route remain open.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+
+  - id: PW-EVT-G2-DUCKY-JULIAN-ALPS-RECOVERY
+    name: JULIAN ALPS RECOVERY
+    era: PW-ERA-WWIII
+    date:
+      relative: immediately after the TORREJÓN DE ARDOZ OPERATION and before DEAD FREQUENCY; exact date TBD
+    ordering:
+      after: [PW-EVT-G2-DUCKY-TORREJON-DEORBIT]
+      before: [PW-EVT-AEGIS-FALLS]
+    location: Julian Alps, Slovenia
+    actors:
+    - Ferris Ryan / Ducky
+    - AEGIS Squad
+    - Slovenian special-operations, civil-defense, resistance, and technical-recovery partners
+    - hostile unmarked recovery teams
+    depicted_in: [PW-TRK-G2-PERSISTENT-THREAT]
+    status: confirmed
+    notes: >-
+      Immediate causal follow-up to Torrejón. Allied forces secure the decisive
+      surviving AEGIS satellite material, deny hostile recovery, and preserve evidence
+      that sharpens the campaign's attribution-collapse architecture. Final mission
+      title, named local cast, and hostile recovery-force sponsorship remain working.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+
+- op: update_campaign_track
+  match_id: PW-TRK-G2-PERSISTENT-THREAT
+  set:
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+    notes: >-
+      Controlling hard-order spine: COLD OPEN -> TORREJÓN DE ARDOZ OPERATION ->
+      JULIAN ALPS RECOVERY -> DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND ->
+      DARK FIBER -> ASH RELAY -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
+      OPEN CIRCUIT and ASML/Lupin remain valid working mid-campaign insertions with
+      exact numbered slots open.
+
+validation_targets:
+  timeline:
+    baseline_events: 121
+    projected_events: 123
+    campaign_tracks: 21
+    sync_points: 19
+    duplicate_new_ids: 0
+    dangling_new_references: 0
+    self_references: 0
+    new_ordering_cycle: false
