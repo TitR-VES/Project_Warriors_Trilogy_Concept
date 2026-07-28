@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 2 TRANSCRIPT RECOVERY PACKET
 Generated: 2026-07-23
-Version: rev4
+Version: rev5
 Status: SOURCE-LANDED RECOVERY / MIXED LOCKED AND WORKING
 
 01. ROMEO — CORONADO TO CALLOWAY BRIDGE
@@ -26,35 +26,42 @@ Pat Napier:
 - Rifle exists to create treatment space, not project operator identity.
 
 02. DUCKY — PERSISTENT THREAT CONTROLLING LADDER
-The Torrejón and Julian Alps operations are now promoted from recovery-note status
-into the active Game 2 ladder. They do not belong to Game 1.
+The Torrejón and Julian Alps operations are promoted from recovery-note status into
+the active Game 2 ladder. They do not belong to Game 1. The owner-corrected order
+below supersedes all earlier recovery and compendium placement statements.
 
 Current hard-order spine:
-COLD OPEN -> TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY ->
-DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY ->
-PERMAFROST -> HULL BREACH -> AEGIS FALLS.
+FAILURE CASCADE -> DEAD FREQUENCY -> TORREJÓN DE ARDOZ OPERATION ->
+JULIAN ALPS RECOVERY -> HULL BREACH -> PERMAFROST -> DEAD GROUND ->
+DARK FIBER -> ASH RELAY -> HARD WINTER -> AEGIS FALLS.
 
 Control rules:
+- FAILURE CASCADE supersedes COLD OPEN as the opening mission title.
 - Torrejón and Julian Alps are an adjacent causal pair.
 - Torrejón uses unmarked Chinese operators, superseding the older Russian-only attack.
 - The forced-deorbit attempt is interrupted, but one AEGIS satellite falls into the
   Julian Alps and creates the immediate follow-up recovery mission.
-- The pair sits before DEAD FREQUENCY so the locked DEAD FREQUENCY -> HARD WINTER ->
-  Bakhmut -> PERMAFROST chain remains intact.
-- OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working
-  mid-campaign insertions with exact numbered slots still open.
+- HULL BREACH follows the Julian Alps recovery; PERMAFROST follows HULL BREACH.
+- The Bakhmut mini-arc follows PERMAFROST in the order DEAD GROUND -> DARK FIBER ->
+  ASH RELAY.
+- HARD WINTER follows Bakhmut and directly precedes AEGIS FALLS.
+- OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working missions,
+  but their numbered positions are not yet inserted into this controlling spine.
 
 Focused controlling source:
 dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
 
 03. DUCKY — BAKHMUT MINI-ARC
-Locked placement: DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND / DARK FIBER /
-ASH RELAY -> PERMAFROST.
+Locked placement:
+PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> HARD WINTER -> AEGIS FALLS.
 
 Narrative function:
 Bakhmut changes suspicion into physical proof of a repeatable relay-and-deception kill
-chain using compromised AEGIS-adjacent architectural knowledge. Its recovered packet lets
-Halliday identify Svalbard as the likely northern target.
+chain using compromised AEGIS-adjacent architectural knowledge. PERMAFROST has already
+occurred. The recovered Bakhmut packet therefore does not identify Svalbard as a future
+target; it retrospectively exposes how the broader northern attack architecture was
+enabled, tested, certified, or made reusable, and carries that documentary proof into
+HARD WINTER and the AEGIS FALLS end-state.
 
 Mission/transitions:
 - DEAD GROUND — link-up, route discipline, first pattern recognition; Frost transition for
@@ -91,10 +98,11 @@ precision grammar. Exact mission number remains open.
 
 05. TORREJÓN / JULIAN ALPS LOCAL-ACTOR PASS
 Recovered cast and mission texture support Ducky's movement through allied resistance
-and degraded NATO spaces. The pair is now ladder-locked, while final mission titles,
-named local cast, internal route design, and hostile crash-site recovery composition
-remain working until dedicated mission pages finalize them. Do not over-centralize
-AEGIS: local actors have their own war, knowledge, and authority.
+and degraded NATO spaces. The pair is ladder-locked after DEAD FREQUENCY and before
+HULL BREACH, while final mission titles, named local cast, internal route design, and
+hostile crash-site recovery composition remain working until dedicated mission pages
+finalize them. Do not over-centralize AEGIS: local actors have their own war, knowledge,
+and authority.
 
 06. GAME 2 -> GAME 3 RECONCILIATION
 The Tremblay confrontation and active ambiguity are resolved by Game 2 close. FAILSAFE
