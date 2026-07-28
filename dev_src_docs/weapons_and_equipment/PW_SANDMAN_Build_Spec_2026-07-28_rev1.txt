@@ -1,7 +1,7 @@
 PROJECT WARRIORS — SANDMAN NAMED WEAPON BUILD
 Generated: 2026-07-28
 Version: rev1
-Status: LOCKED CORE / IMPLEMENTATION DETAILS OPEN
+Status: LOCKED CORE / CONFIGURATION DETAILS OPEN
 
 IDENTITY
 Stable ID: PW-WPN-HAWTHORNE-SANDMAN
@@ -16,11 +16,11 @@ PLATFORM
 2019 Hudson H9, 9x19mm, striker-fired pistol.
 
 LOCKED CONFIGURATION
-- Tan primary finish.
+- Tan / flat dark earth primary finish.
 - Black polymer grip panels.
 - Threaded barrel.
-- No optic, weapon light, suppressor, compensator or other muzzle device is canonically assigned by this source.
-- The threaded barrel is part of the pistol's settled physical identity, not evidence that a suppressor is always fitted.
+- Suppressor-compatible configuration is canonical, but the suppressor is not permanently fitted.
+- No optic, weapon light, compensator or other accessory is canonically assigned by this source.
 
 CHARACTER AND LOADOUT FUNCTION
 SANDMAN fills Hawthorne's previously open sidearm slot. It is a long-held personal weapon rather than a late New American Frontier or Vanguard acquisition. Hawthorne has carried it since his early Kill Devil Hills Detachment days, giving the pistol continuity across the formative militia history that precedes the War Within campaign.
@@ -30,8 +30,18 @@ The build complements DEAD BLOW rather than competing with it. DEAD BLOW remains
 NAME LOGIC
 Hawthorne named the pistol SANDMAN as a literary nod to Logan's Run. He has read the novel and considers it one of his favorites. The name connects the gun to Logan's identity as a Sandman and to the novel's armed protagonist without turning the weapon into a decorative replica or overt fandom prop.
 
+VISUAL / NAME DESIGN LOGIC
+The tan or flat dark earth finish deliberately reinforces the SANDMAN name through color without relying on literal sand-themed decoration. Against the black polymer grip panels, it gives the weapon an immediate two-tone identity and makes the name feel visually earned rather than merely assigned.
+
+The Hudson H9's unusual low-bore, forward-heavy and near-futuristic profile also supports the Logan's Run connection. It evokes the visual language of a fictional science-fiction sidearm while remaining a grounded real-world pistol rather than a replica of the novel or film weapon.
+
+When a suppressor is fitted, the elongated muzzle profile makes SANDMAN's outline even more distinctive. The suppressed state should read as a strong mission-specific silhouette and as the clearest visual expression of the gun's fictional namesake. This is a canonical optional configuration, not the permanent default carry state.
+
 PRESENTATION RULES
-- Preserve the tan-and-black visual contrast as the build's immediate recognition cue.
+- Preserve the tan/FDE-and-black visual contrast as the build's immediate recognition cue.
+- Let the finish carry a restrained visual echo of the SANDMAN name; do not add literal sand graphics or decorative theming.
+- Preserve the Hudson H9's unusual futuristic silhouette rather than visually normalizing it into a generic service pistol.
+- When suppressed, emphasize the distinctive elongated outline without treating the suppressor as permanently installed.
 - The gun should read as an older, trusted personal sidearm that predates Hawthorne's later faction affiliations.
 - Do not add conspicuous literary quotations, logos or ornamental markings unless separately adjudicated.
 - Do not replace DEAD BLOW with SANDMAN in primary-weapon references.
@@ -42,17 +52,18 @@ PLAYER / CAMPAIGN AVAILABILITY
 - Acquisition mode: starting/personal loadout, not a loot drop or mission reward.
 - Retention: persistent.
 - Drop policy: not applicable while Hawthorne is the player character; no generic enemy-drop identity is implied.
+- Suppressed use may be assigned in missions or loadout states where lower signature is appropriate; unsuppressed carry remains valid elsewhere.
 
 OPEN IMPLEMENTATION FIELDS
 - exact sight configuration
 - exact magazine complement and ammunition load selection
-- exact tan coating/material specification
-- whether any mission-specific muzzle device is ever fitted to the threaded barrel
+- exact tan/FDE coating or material specification
+- exact suppressor model, attachment interface and mission/loadout availability
 - exact holster and carry position
 
 SOURCE AUTHORITY
 - Owner canon adjudication, 2026-07-28.
-- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, name logic and Kill Devil Hills provenance.
+- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, optional suppressed configuration, visual/name logic and Kill Devil Hills provenance.
 - Lower-level fields remain open unless explicitly locked above.
 
 END
