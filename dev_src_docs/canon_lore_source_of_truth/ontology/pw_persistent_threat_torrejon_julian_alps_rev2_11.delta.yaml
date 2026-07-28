@@ -1,9 +1,9 @@
 meta:
-  delta_id: PW-ONT-PERSISTENT-THREAT-LADDER-2026-07-28-REV4
+  delta_id: PW-ONT-PERSISTENT-THREAT-LADDER-2026-07-28-REV5
   generated: '2026-07-28'
   timeline_applies_to: pw_world_event_timeline_rev2_10.yaml
   timeline_produces: pw_world_event_timeline_rev2_11.yaml
-  status: locked_continuity_preserving_ladder_delta
+  status: locked_continuity_preserving_ladder_and_titles_delta
   chronology_changes: true
   sources:
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
@@ -16,10 +16,12 @@ operations:
 - op: add_events
   values:
   - id: PW-EVT-G2-DUCKY-TORREJON-DEORBIT
-    name: TORREJÓN DE ARDOZ OPERATION
+    name: ORBITAL DECAY
+    historical_titles:
+    - TORREJÓN DE ARDOZ OPERATION
     era: PW-ERA-WWIII
     date:
-      relative: after DEAD FREQUENCY and immediately before JULIAN ALPS RECOVERY; exact date TBD
+      relative: after DEAD FREQUENCY and immediately before SPLASHDOWN; exact date TBD
     ordering:
       before: [PW-EVT-G2-DUCKY-JULIAN-ALPS-RECOVERY, PW-EVT-AEGIS-FALLS]
     location: Torrejón Air Base / Torrejón de Ardoz, Spain
@@ -35,16 +37,19 @@ operations:
       Hostile penetration of the AEGIS satellite-command layer after DEAD FREQUENCY.
       AEGIS interrupts a forced-deorbit sequence, but one satellite is lost and
       descends toward the Julian Alps. The unmarked Chinese-operator attribution
-      supersedes the older Russian-only Torrejón version. Final mission title and
-      lower-level route remain open.
+      supersedes the older Russian-only Torrejón version. ORBITAL DECAY is the locked
+      mission title; TORREJÓN DE ARDOZ OPERATION remains a descriptive historical label.
+      Lower-level route and named local cast remain open.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
 
   - id: PW-EVT-G2-DUCKY-JULIAN-ALPS-RECOVERY
-    name: JULIAN ALPS RECOVERY
+    name: SPLASHDOWN
+    historical_titles:
+    - JULIAN ALPS RECOVERY
     era: PW-ERA-WWIII
     date:
-      relative: immediately after TORREJÓN DE ARDOZ OPERATION and before HARD WINTER; exact date TBD
+      relative: immediately after ORBITAL DECAY and before HARD WINTER; exact date TBD
     ordering:
       after: [PW-EVT-G2-DUCKY-TORREJON-DEORBIT]
       before: [PW-EVT-AEGIS-FALLS]
@@ -57,10 +62,11 @@ operations:
     depicted_in: [PW-TRK-G2-PERSISTENT-THREAT]
     status: confirmed
     notes: >-
-      Immediate causal follow-up to Torrejón. Allied forces secure the decisive
+      Immediate causal follow-up to ORBITAL DECAY. Allied forces secure the decisive
       surviving AEGIS satellite material, deny hostile recovery, and broaden the
-      compromise and attribution picture before HARD WINTER. Final mission title,
-      named local cast, and hostile recovery-force sponsorship remain working.
+      compromise and attribution picture before HARD WINTER. SPLASHDOWN is the locked
+      mission title; JULIAN ALPS RECOVERY remains a descriptive historical label.
+      Named local cast and hostile recovery-force sponsorship remain working.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
 
@@ -131,14 +137,20 @@ operations:
     - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
     notes: >-
       Controlling continuity-preserving spine: FAILURE CASCADE -> DEAD FREQUENCY ->
-      TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HARD WINTER ->
-      DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST ->
-      HULL BREACH -> AEGIS FALLS. FAILURE CASCADE supersedes COLD OPEN.
-      Existing investigative beats, Bakhmut's Svalbard reveal, Lupin's PERMAFROST
-      wound, HULL BREACH exploitation, and the direct HULL BREACH-to-finale tasking
-      remain controlling. ASML/Lupin remains valid working material with exact slot open.
+      ORBITAL DECAY -> SPLASHDOWN -> HARD WINTER -> DEAD GROUND -> DARK FIBER ->
+      ASH RELAY -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
+      FAILURE CASCADE supersedes COLD OPEN. ORBITAL DECAY supersedes TORREJÓN DE
+      ARDOZ OPERATION as Mission 03's title, and SPLASHDOWN supersedes JULIAN ALPS
+      RECOVERY as Mission 04's title. Existing investigative beats, Bakhmut's Svalbard
+      reveal, Lupin's PERMAFROST wound, HULL BREACH exploitation, and the direct
+      HULL BREACH-to-finale tasking remain controlling. ASML/Lupin remains valid
+      working material with exact slot open.
 
 continuity_constraints:
+- id: PW-CONT-G2-DUCKY-ORBITAL-PAIR
+  sequence:
+  - ORBITAL DECAY / Torrejón forced-deorbit operation
+  - SPLASHDOWN / Julian Alps crash-site recovery
 - id: PW-CONT-G2-DUCKY-INVESTIGATIVE-BEATS
   sequence:
   - DEAD FREQUENCY / The Parameters / Beat 1
