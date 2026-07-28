@@ -1,12 +1,13 @@
 meta:
-  delta_id: PW-ONT-PERSISTENT-THREAT-TORREJON-JULIAN-ALPS-2026-07-28-REV1
+  delta_id: PW-ONT-PERSISTENT-THREAT-TORREJON-JULIAN-ALPS-2026-07-28-REV2
   generated: '2026-07-28'
   timeline_applies_to: pw_world_event_timeline_rev2_10.yaml
   timeline_produces: pw_world_event_timeline_rev2_11.yaml
-  status: locked_ladder_placement_delta
+  status: locked_owner_order_ladder_delta
   chronology_changes: true
   sources:
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
   - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
   - Project_Warriors_Knowledge_Compendia/PW_PERSISTENT_THREAT_Ladder_Addendum_2026-07-28_rev1.txt
 
@@ -17,7 +18,7 @@ operations:
     name: TORREJÓN DE ARDOZ OPERATION
     era: PW-ERA-WWIII
     date:
-      relative: after COLD OPEN and immediately before the JULIAN ALPS RECOVERY; exact date TBD
+      relative: after DEAD FREQUENCY and immediately before JULIAN ALPS RECOVERY; exact date TBD
     ordering:
       before: [PW-EVT-G2-DUCKY-JULIAN-ALPS-RECOVERY, PW-EVT-AEGIS-FALLS]
     location: Torrejón Air Base / Torrejón de Ardoz, Spain
@@ -30,10 +31,11 @@ operations:
     depicted_in: [PW-TRK-G2-PERSISTENT-THREAT]
     status: confirmed
     notes: >-
-      Hostile penetration of the AEGIS satellite-command layer. AEGIS interrupts a
-      forced-deorbit sequence, but one satellite is lost and descends toward the
-      Julian Alps. The unmarked Chinese-operator attribution supersedes the older
-      Russian-only Torrejón version. Final mission title and lower-level route remain open.
+      Hostile penetration of the AEGIS satellite-command layer after DEAD FREQUENCY.
+      AEGIS interrupts a forced-deorbit sequence, but one satellite is lost and
+      descends toward the Julian Alps. The unmarked Chinese-operator attribution
+      supersedes the older Russian-only Torrejón version. Final mission title and
+      lower-level route remain open.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
 
@@ -41,7 +43,7 @@ operations:
     name: JULIAN ALPS RECOVERY
     era: PW-ERA-WWIII
     date:
-      relative: immediately after the TORREJÓN DE ARDOZ OPERATION and before DEAD FREQUENCY; exact date TBD
+      relative: immediately after TORREJÓN DE ARDOZ OPERATION and before HULL BREACH; exact date TBD
     ordering:
       after: [PW-EVT-G2-DUCKY-TORREJON-DEORBIT]
       before: [PW-EVT-AEGIS-FALLS]
@@ -56,10 +58,63 @@ operations:
     notes: >-
       Immediate causal follow-up to Torrejón. Allied forces secure the decisive
       surviving AEGIS satellite material, deny hostile recovery, and preserve evidence
-      that sharpens the campaign's attribution-collapse architecture. Final mission
-      title, named local cast, and hostile recovery-force sponsorship remain working.
+      carried into HULL BREACH. Final mission title, named local cast, and hostile
+      recovery-force sponsorship remain working.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+
+- op: update_event
+  match_id: PW-EVT-G2-DUCKY-DEAD-GROUND
+  set:
+    date:
+      relative: after PERMAFROST and before DARK FIBER; exact date TBD
+    ordering:
+      before: [PW-EVT-G2-DUCKY-DARK-FIBER, PW-EVT-AEGIS-FALLS]
+    notes: link-up and first pattern recognition after PERMAFROST; Frost precision transition
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+
+- op: update_event
+  match_id: PW-EVT-G2-DUCKY-DARK-FIBER
+  set:
+    date:
+      relative: after DEAD GROUND and before ASH RELAY; exact date TBD
+    ordering:
+      after: [PW-EVT-G2-DUCKY-DEAD-GROUND]
+      before: [PW-EVT-G2-DUCKY-ASH-RELAY, PW-EVT-AEGIS-FALLS]
+    notes: post-PERMAFROST outer-dependency exploitation; Lupin interdiction transition
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+
+- op: update_event
+  match_id: PW-EVT-G2-DUCKY-ASH-RELAY
+  set:
+    date:
+      relative: after DARK FIBER and before HARD WINTER; exact date TBD
+    ordering:
+      after: [PW-EVT-G2-DUCKY-DARK-FIBER]
+      before: [PW-EVT-AEGIS-FALLS]
+    notes: Ducky-led relay denial and recovery of proof carried into HARD WINTER and AEGIS FALLS
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+
+- op: update_event
+  match_id: PW-EVT-G2-DUCKY-BAKHMUT-MINIARC
+  set:
+    date:
+      relative: after PERMAFROST and before HARD WINTER; exact dates TBD
+    ordering:
+      before: [PW-EVT-AEGIS-FALLS]
+    relations:
+      contains_events: [PW-EVT-G2-DUCKY-DEAD-GROUND, PW-EVT-G2-DUCKY-DARK-FIBER, PW-EVT-G2-DUCKY-ASH-RELAY]
+    status: confirmed
+    notes: >-
+      Locked three-mission arc after PERMAFROST. The recovered packet retrospectively
+      proves the relay-and-deception architecture behind the wider attack pattern and
+      carries that evidence into HARD WINTER and AEGIS FALLS; it no longer identifies
+      Svalbard as a future target.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
 
 - op: update_campaign_track
   match_id: PW-TRK-G2-PERSISTENT-THREAT
@@ -69,11 +124,20 @@ operations:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
     notes: >-
-      Controlling hard-order spine: COLD OPEN -> TORREJÓN DE ARDOZ OPERATION ->
-      JULIAN ALPS RECOVERY -> DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND ->
-      DARK FIBER -> ASH RELAY -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
-      OPEN CIRCUIT and ASML/Lupin remain valid working mid-campaign insertions with
-      exact numbered slots open.
+      Controlling owner-ordered spine: FAILURE CASCADE -> DEAD FREQUENCY ->
+      TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HULL BREACH ->
+      PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> HARD WINTER ->
+      AEGIS FALLS. FAILURE CASCADE supersedes COLD OPEN. OPEN CIRCUIT and
+      ASML/Lupin remain valid working missions with exact numbered slots open.
+
+deferred_updates:
+- target: PERSISTENT THREAT opening event previously titled COLD OPEN
+  intended_name: FAILURE CASCADE
+  status: source_locked_projection_deferred
+  reason: >-
+    The repository-landed auditable timeline chain does not expose the opening event's
+    stable ID. The narrative source and campaign-track note control the title until the
+    external materialized timeline is imported or the stable event ID is recovered.
 
 validation_targets:
   timeline:
