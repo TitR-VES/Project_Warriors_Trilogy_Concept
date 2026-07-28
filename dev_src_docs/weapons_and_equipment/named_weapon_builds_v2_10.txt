@@ -27,10 +27,15 @@ build specification control.
    - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
 3. SANDMAN predates Hawthorne's New American Frontier / Vanguard involvement and
    has been carried since his early Kill Devil Hills Detachment period.
-4. The threaded barrel is locked physical configuration. No suppressor or other
-   muzzle device is implied as a default configuration.
-5. The literary name is a nod to Logan's Run, one of Hawthorne's favorite novels.
-6. Registry counts increase by one named identity and one substantially specified
+4. The threaded barrel is locked physical configuration. A suppressor-compatible,
+   mission-specific configuration is canonical, but no suppressor is permanently
+   fitted by default.
+5. The tan/FDE finish visually reinforces the SANDMAN name, while the Hudson H9's
+   unusual futuristic profile evokes the Logan's Run namesake without replica styling.
+6. When suppressed, the elongated muzzle profile creates SANDMAN's strongest and
+   most distinctive silhouette.
+7. The literary name is a nod to Logan's Run, one of Hawthorne's favorite novels.
+8. Registry counts increase by one named identity and one substantially specified
    source-associated identity.
 
 --------------------------------------------------------------------------------
@@ -44,9 +49,12 @@ PW-WPN-HAWTHORNE-SANDMAN
   Callsign: Croatoan
   Campaign: War Within DLC
   Role: persistent personal sidearm
-  Configuration: tan finish; black polymer grip panels; threaded barrel
+  Configuration: tan/FDE finish; black polymer grip panels; threaded barrel;
+                 canonical optional suppressor configuration
+  Visual identity: sand-linked two-tone finish; unusual futuristic Hudson H9 profile;
+                   especially distinctive elongated outline when suppressed
   Continuity origin: early Kill Devil Hills Detachment period
-  Status: LOCKED CORE / IMPLEMENTATION DETAILS OPEN
+  Status: LOCKED CORE / CONFIGURATION DETAILS OPEN
   Detail source: PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
   Distinction: does not replace or rename DEAD BLOW
 
@@ -64,13 +72,16 @@ Uncounted owner-specific recovery slots with name not recovered: 2
 --------------------------------------------------------------------------------
 
 CURRENT
-- Hawthorne / Croatoan = SANDMAN = 2019 tan Hudson H9 = persistent sidearm
+- Hawthorne / Croatoan = SANDMAN = 2019 tan/FDE Hudson H9 = persistent sidearm
+- SANDMAN may appear suppressed in appropriate mission/loadout states, but the
+  suppressor is not permanently fitted
 - Hawthorne / Croatoan = DEAD BLOW = black HK MP5SD-style suppressed SMG
 
 SUPERSEDED / INVALID
 - Hawthorne having no persistent sidearm
 - treating SANDMAN as a generic Hudson H9 with no named-build identity
 - treating the threaded barrel as proof of a permanently fitted suppressor
+- treating suppressed SANDMAN as non-canonical merely because it is not the default
 - replacing DEAD BLOW with SANDMAN in Hawthorne primary-weapon references
 
 ================================================================================
