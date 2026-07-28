@@ -1,11 +1,11 @@
 PROJECT WARRIORS — PERSISTENT THREAT
-TORREJÓN / JULIAN ALPS CAMPAIGN-LADDER INTEGRATION
+CAMPAIGN-LADDER INTEGRATION: TORREJÓN / JULIAN ALPS / OPEN CIRCUIT
 Generated: 2026-07-28
-Version: rev2
+Version: rev3
 Status: LOCKED OWNER-ORDERED LADDER / TORREJÓN AND JULIAN ALPS TITLES AND LOWER-LEVEL PRODUCTION DETAILS WORKING
 
 PURPOSE
-This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also applies the owner's corrected campaign order and opening-mission retitle.
+This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also applies the owner's corrected campaign order, opening-mission retitle, and fixed OPEN CIRCUIT placement.
 
 OPENING TITLE LOCK
 FAILURE CASCADE is the current title of the opening mission.
@@ -23,20 +23,23 @@ The current hard-order PERSISTENT THREAT spine is:
 7. DEAD GROUND
 8. DARK FIBER
 9. ASH RELAY
-10. HARD WINTER
-11. AEGIS FALLS
+10. OPEN CIRCUIT
+11. HARD WINTER
+12. AEGIS FALLS
 
 The Torrejón and Julian Alps missions are an adjacent causal pair. Do not separate them with an unrelated mission.
 
 The Bakhmut mini-arc is also an internally locked adjacent sequence:
 DEAD GROUND -> DARK FIBER -> ASH RELAY.
 
-The current placement is:
-PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> HARD WINTER -> AEGIS FALLS.
+OPEN CIRCUIT is locked immediately after ASH RELAY and before HARD WINTER.
 
-This supersedes all earlier placement statements that put HARD WINTER before the Bakhmut mini-arc or used the Bakhmut packet to identify Svalbard before PERMAFROST.
+The current late-campaign placement is therefore:
+PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> HARD WINTER -> AEGIS FALLS.
 
-OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working missions, but their exact numbered positions are not yet inserted into the controlling hard-order spine. A future insertion decision must preserve Torrejón -> Julian Alps and DEAD GROUND -> DARK FIBER -> ASH RELAY as adjacent causal blocks unless the owner explicitly revises them.
+This supersedes all earlier placement statements that put HARD WINTER before the Bakhmut mini-arc, put Bakhmut before PERMAFROST, or left OPEN CIRCUIT's numbered slot open.
+
+The ASML/Lupin-overwatch operation remains a valid working mission, but its exact numbered position is not yet inserted into the controlling hard-order spine. A future insertion decision must preserve Torrejón -> Julian Alps, DEAD GROUND -> DARK FIBER -> ASH RELAY, and ASH RELAY -> OPEN CIRCUIT -> HARD WINTER unless the owner explicitly revises them.
 
 WHY THIS ORDER CONTROLS
 - FAILURE CASCADE establishes the post-Game-1 systems breakdown and the campaign's opening condition.
@@ -46,7 +49,8 @@ WHY THIS ORDER CONTROLS
 - HULL BREACH follows the recovery and carries the campaign into the next strategic-pressure phase.
 - PERMAFROST occurs before Bakhmut and is no longer an operation discovered through the Bakhmut packet.
 - The Bakhmut mini-arc retrospectively proves how compromised AEGIS-adjacent architecture, relay certification, and deception logic enabled or supported the wider campaign pattern, including the already-experienced northern strike environment.
-- HARD WINTER is the late-campaign step after Bakhmut and immediately before the AEGIS FALLS end-state.
+- OPEN CIRCUIT follows ASH RELAY and transfers the campaign's relay-chain pressure from a ruined active-war environment into covert technical infrastructure hidden inside ordinary European civilian systems.
+- HARD WINTER is the late-campaign step after OPEN CIRCUIT and immediately before the AEGIS FALLS end-state.
 
 MISSION 01 — FAILURE CASCADE
 This source locks the title change only. The opening mission's detailed production source remains controlling for its content.
@@ -107,8 +111,21 @@ Narrative function:
 Enemy-attribution caution:
 Legacy text describes unmarked Russian recovery teams. The current controlling source does not automatically erase that possibility, but it also does not lock every hostile element at the crash site to Russia. Preserve the possibility of multiple interested hostile services or deniable teams until the dedicated mission source finalizes the recovery-force composition.
 
+MISSION 10 — OPEN CIRCUIT
+Location:
+Brno Exhibition Centre / Výstaviště service-side district, Czech Republic.
+
+Placement lock:
+OPEN CIRCUIT occurs immediately after ASH RELAY and before HARD WINTER.
+
+Narrative-placement function:
+The Bakhmut arc exposes relay-and-deception architecture in an overt ruined-war environment. OPEN CIRCUIT then demonstrates how the same wider technical war can be concealed inside normal European commercial logistics, contractor access, power, cooling, service corridors, and temporary infrastructure. The exact evidence handoff and briefing language between ASH RELAY and OPEN CIRCUIT remain available for production refinement, but the mission order is locked.
+
+Detailed mission source:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
+
 LOCAL-ACTOR RULE
-Do not over-centralize AEGIS in either mission. Spanish and Slovenian actors have their own war, institutional responsibilities, terrain knowledge, intelligence, casualties, and authority. AEGIS is the playable spine and technical connective tissue, not the sole competent force in the theater.
+Do not over-centralize AEGIS in Torrejón or the Julian Alps. Spanish and Slovenian actors have their own war, institutional responsibilities, terrain knowledge, intelligence, casualties, and authority. AEGIS is the playable spine and technical connective tissue, not the sole competent force in the theater.
 
 SUPERSESSION
 This source supersedes:
@@ -119,11 +136,13 @@ This source supersedes:
 - any prior ladder placing Torrejón and Julian Alps before DEAD FREQUENCY;
 - any prior ladder placing HARD WINTER before the Bakhmut mini-arc;
 - any prior ladder placing the Bakhmut mini-arc before PERMAFROST;
-- any prior causal statement in which Bakhmut intelligence first identifies Svalbard for PERMAFROST.
+- any prior causal statement in which Bakhmut intelligence first identifies Svalbard for PERMAFROST;
+- any prior source language leaving OPEN CIRCUIT's campaign slot open or placing it anywhere other than immediately after ASH RELAY and before HARD WINTER.
 
 This source does not supersede:
 - the internal Bakhmut mini-arc order;
 - ARTEMIS in DEAD FREQUENCY;
 - TYPHON in PERMAFROST;
+- OPEN CIRCUIT's dedicated mission content and production locks;
 - the protected AEGIS FALLS end-state and ending line pair;
 - future dedicated mission pages that refine titles, local cast, route design, encounter composition, and production scripting without changing the owner-ordered ladder.
