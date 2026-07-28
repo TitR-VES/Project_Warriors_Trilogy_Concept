@@ -1,9 +1,9 @@
 meta:
-  delta_id: PW-ONT-PERSISTENT-THREAT-LADDER-2026-07-28-REV3
+  delta_id: PW-ONT-PERSISTENT-THREAT-LADDER-2026-07-28-REV4
   generated: '2026-07-28'
   timeline_applies_to: pw_world_event_timeline_rev2_10.yaml
   timeline_produces: pw_world_event_timeline_rev2_11.yaml
-  status: locked_owner_order_ladder_delta
+  status: locked_continuity_preserving_ladder_delta
   chronology_changes: true
   sources:
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
@@ -44,7 +44,7 @@ operations:
     name: JULIAN ALPS RECOVERY
     era: PW-ERA-WWIII
     date:
-      relative: immediately after TORREJÓN DE ARDOZ OPERATION and before HULL BREACH; exact date TBD
+      relative: immediately after TORREJÓN DE ARDOZ OPERATION and before HARD WINTER; exact date TBD
     ordering:
       after: [PW-EVT-G2-DUCKY-TORREJON-DEORBIT]
       before: [PW-EVT-AEGIS-FALLS]
@@ -58,9 +58,9 @@ operations:
     status: confirmed
     notes: >-
       Immediate causal follow-up to Torrejón. Allied forces secure the decisive
-      surviving AEGIS satellite material, deny hostile recovery, and preserve evidence
-      carried into HULL BREACH. Final mission title, named local cast, and hostile
-      recovery-force sponsorship remain working.
+      surviving AEGIS satellite material, deny hostile recovery, and broaden the
+      compromise and attribution picture before HARD WINTER. Final mission title,
+      named local cast, and hostile recovery-force sponsorship remain working.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
 
@@ -68,10 +68,10 @@ operations:
   match_id: PW-EVT-G2-DUCKY-DEAD-GROUND
   set:
     date:
-      relative: after PERMAFROST and before DARK FIBER; exact date TBD
+      relative: after HARD WINTER and before DARK FIBER; exact date TBD
     ordering:
       before: [PW-EVT-G2-DUCKY-DARK-FIBER, PW-EVT-AEGIS-FALLS]
-    notes: link-up and first pattern recognition after PERMAFROST; Frost precision transition
+    notes: link-up and first pattern recognition after HARD WINTER; Frost precision transition
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
 
@@ -83,7 +83,7 @@ operations:
     ordering:
       after: [PW-EVT-G2-DUCKY-DEAD-GROUND]
       before: [PW-EVT-G2-DUCKY-ASH-RELAY, PW-EVT-AEGIS-FALLS]
-    notes: post-PERMAFROST outer-dependency exploitation; Lupin interdiction transition
+    notes: Bakhmut outer-dependency exploitation; Lupin interdiction transition
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
 
@@ -95,7 +95,10 @@ operations:
     ordering:
       after: [PW-EVT-G2-DUCKY-DARK-FIBER]
       before: [PW-EVT-AEGIS-FALLS]
-    notes: Ducky-led relay denial and technical-packet recovery immediately before OPEN CIRCUIT
+    notes: >-
+      Ducky-led relay denial and technical-packet recovery. The packet preserves the
+      authored identification of Svalbard as the probable northern target; OPEN CIRCUIT
+      follows as the final continental exploitation and denial operation before PERMAFROST.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
@@ -104,16 +107,16 @@ operations:
   match_id: PW-EVT-G2-DUCKY-BAKHMUT-MINIARC
   set:
     date:
-      relative: after PERMAFROST and immediately before OPEN CIRCUIT; exact dates TBD
+      relative: after HARD WINTER and immediately before OPEN CIRCUIT; exact dates TBD
     ordering:
       before: [PW-EVT-AEGIS-FALLS]
     relations:
       contains_events: [PW-EVT-G2-DUCKY-DEAD-GROUND, PW-EVT-G2-DUCKY-DARK-FIBER, PW-EVT-G2-DUCKY-ASH-RELAY]
     status: confirmed
     notes: >-
-      Locked three-mission arc after PERMAFROST and immediately before OPEN CIRCUIT.
-      The recovered packet retrospectively proves the relay-and-deception architecture
-      behind the wider attack pattern; it no longer identifies Svalbard as a future target.
+      Locked three-mission arc after HARD WINTER and immediately before OPEN CIRCUIT.
+      The recovered packet converts suspicion into physical proof and identifies Svalbard
+      as the probable northern target. OPEN CIRCUIT does not supersede that reveal.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
@@ -127,11 +130,37 @@ operations:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
     notes: >-
-      Controlling owner-ordered spine: FAILURE CASCADE -> DEAD FREQUENCY ->
-      TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HULL BREACH ->
-      PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT ->
-      HARD WINTER -> AEGIS FALLS. FAILURE CASCADE supersedes COLD OPEN.
-      ASML/Lupin remains valid working material with exact numbered slot open.
+      Controlling continuity-preserving spine: FAILURE CASCADE -> DEAD FREQUENCY ->
+      TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HARD WINTER ->
+      DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST ->
+      HULL BREACH -> AEGIS FALLS. FAILURE CASCADE supersedes COLD OPEN.
+      Existing investigative beats, Bakhmut's Svalbard reveal, Lupin's PERMAFROST
+      wound, HULL BREACH exploitation, and the direct HULL BREACH-to-finale tasking
+      remain controlling. ASML/Lupin remains valid working material with exact slot open.
+
+continuity_constraints:
+- id: PW-CONT-G2-DUCKY-INVESTIGATIVE-BEATS
+  sequence:
+  - DEAD FREQUENCY / The Parameters / Beat 1
+  - HARD WINTER / The Architecture / Beat 2
+  - HULL BREACH / The Credential / Beat 3
+  - POST-HULL-BREACH 0200 / What Ducky Does With It / Beat 4
+- id: PW-CONT-G2-DUCKY-LUPIN-WOUND
+  sequence:
+  - PERMAFROST / Lupin shoulder fragment wound
+  - HULL BREACH / Lupin performs exploitation despite wound
+- id: PW-CONT-G2-DUCKY-SVALBARD-REVEAL
+  sequence:
+  - ASH RELAY / Bakhmut packet identifies Svalbard
+  - OPEN CIRCUIT / intervening continental exploitation and denial
+  - PERMAFROST / Svalbard payoff
+- id: PW-CONT-G2-DUCKY-FINALE
+  sequence:
+  - HULL BREACH / credential evidence and Walker tasking
+  - AEGIS FALLS / compound final operation and Tremblay resolution
+  note: >-
+    Preserve the undersea-threat and Aix-en-Provence assets as phases of the single
+    finale mission unless a later dedicated finale source explicitly refines the structure.
 
 deferred_updates:
 - target: PERSISTENT THREAT opening event previously titled COLD OPEN
@@ -144,7 +173,7 @@ deferred_updates:
 
 - target: OPEN CIRCUIT event
   intended_name: OPEN CIRCUIT
-  intended_placement: immediately after PW-EVT-G2-DUCKY-ASH-RELAY and before HARD WINTER
+  intended_placement: immediately after PW-EVT-G2-DUCKY-ASH-RELAY and before PERMAFROST
   status: source_locked_projection_deferred
   reason: >-
     OPEN CIRCUIT's Game 2 placement is locked in its durable mission source, but the
