@@ -14,7 +14,7 @@ meta:
     artillery, CAS assets, and attachment-only unlocks are excluded.
   counts:
     weapons: 112
-    ammunition_types: 35
+    ammunition_types: 36
     occurrences: 129
     named_build_bindings: 44
     resolved_named_build_bindings: 35
@@ -76,7 +76,7 @@ parts:
 - path: pw_weapon_catalog_named_build_bindings_2_rev1.yaml
   contains: [named_build_bindings]
 - path: pw_weapon_catalog_sandman_rev1.yaml
-  contains: [weapons, occurrences, named_build_bindings]
+  contains: [ammunition, weapons, occurrences, named_build_bindings]
 open_flags:
 - id: PW-WCAT-OPEN-ROSTER-COMPLETENESS
   description: Campaigns with incomplete or not-yet-developed weapon passes may add platforms and occurrences through additive deltas.
