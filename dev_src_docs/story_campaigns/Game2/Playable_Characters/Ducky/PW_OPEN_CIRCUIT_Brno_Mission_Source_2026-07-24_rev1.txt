@@ -1,6 +1,6 @@
 PROJECT WARRIORS — PERSISTENT THREAT / OPEN CIRCUIT — BRNO MISSION SOURCE
 Generated: 2026-07-24
-Version: rev1
+Version: rev2
 Status: LOCKED WORKING MISSION / PRODUCTION POLISH FLAGS REMAIN
 Recovered from: Brno / OPEN CIRCUIT Mission Development thread
 
@@ -17,10 +17,13 @@ Core thesis:
 The enemy is not just moving through Europe. They are hiding inside how Europe already works.
 
 PLACEMENT
-Mid-campaign in PERSISTENT THREAT, after the player understands the continental systems-war layer and before the campaign fully hardens into deeper winter attrition.
-Exact mission number and the final relation to DEAD FREQUENCY / HARD WINTER remain open for campaign-ladder integration.
-Do not displace the locked Bakhmut mini-arc:
-DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND / DARK FIBER / ASH RELAY -> PERMAFROST.
+Mid-campaign in PERSISTENT THREAT, after the player understands the continental systems-war layer and before the campaign fully hardens into its end-state.
+Exact mission number remains open for campaign-ladder integration.
+
+OPEN CIRCUIT is not currently inserted into the numbered hard-order spine:
+FAILURE CASCADE -> DEAD FREQUENCY -> TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HULL BREACH -> PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> HARD WINTER -> AEGIS FALLS.
+
+A future insertion decision must preserve Torrejón -> Julian Alps and DEAD GROUND -> DARK FIBER -> ASH RELAY as adjacent causal blocks unless the owner explicitly revises them. The earlier DEAD FREQUENCY -> HARD WINTER -> Bakhmut -> PERMAFROST placement statement is superseded.
 
 FRIENDLY STRUCTURE
 AEGIS is the playable and emotional spine, led by Ducky.
