@@ -1,11 +1,11 @@
 PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
-PERSISTENT THREAT — TORREJÓN / JULIAN ALPS LADDER INTEGRATION
+PERSISTENT THREAT — CAMPAIGN-LADDER INTEGRATION
 Generated: 2026-07-28
-Version: rev2
+Version: rev3
 Status: CURRENT SYNTHESIS UPDATE / OWNER-ORDERED
 
 PURPOSE
-Refresh the visible working-knowledge layer after Torrejón Air Base and the Julian Alps were removed from Game 1 but remained only partially landed in Game 2 recovery material, and apply the owner-corrected PERSISTENT THREAT order.
+Refresh the visible working-knowledge layer after Torrejón Air Base and the Julian Alps were removed from Game 1 but remained only partially landed in Game 2 recovery material, and apply the owner-corrected PERSISTENT THREAT order including the fixed OPEN CIRCUIT placement.
 
 CURRENT HARD-ORDER LADDER
 FAILURE CASCADE
@@ -17,6 +17,7 @@ FAILURE CASCADE
 -> DEAD GROUND
 -> DARK FIBER
 -> ASH RELAY
+-> OPEN CIRCUIT
 -> HARD WINTER
 -> AEGIS FALLS
 
@@ -27,18 +28,22 @@ CONTROL NOTES
 - Torrejón's attacking force is unmarked Chinese operators; this supersedes the older Russian-only attribution.
 - The deorbit attempt is interrupted, but one AEGIS satellite falls into the Julian Alps and drives the immediate recovery mission.
 - HULL BREACH follows the Julian Alps recovery; PERMAFROST follows HULL BREACH.
-- The Bakhmut mini-arc now occurs after PERMAFROST as DEAD GROUND -> DARK FIBER -> ASH RELAY.
-- HARD WINTER follows the Bakhmut mini-arc and directly precedes AEGIS FALLS.
-- This owner-ordered ladder supersedes older statements placing HARD WINTER before Bakhmut or placing Bakhmut before PERMAFROST.
-- OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working missions, but their numbered slots are not yet inserted into this controlling spine.
+- The Bakhmut mini-arc occurs after PERMAFROST as DEAD GROUND -> DARK FIBER -> ASH RELAY.
+- OPEN CIRCUIT is a fixed Game 2 mission immediately after ASH RELAY and before HARD WINTER.
+- HARD WINTER follows OPEN CIRCUIT and directly precedes AEGIS FALLS.
+- This owner-ordered ladder supersedes older statements placing HARD WINTER before Bakhmut, placing Bakhmut before PERMAFROST, or leaving OPEN CIRCUIT's slot open.
+- The ASML/Lupin-overwatch operation remains a valid working mission, but its numbered slot is not yet inserted into this controlling spine.
 - Final mission titles for Torrejón and Julian Alps remain open. The location labels control until dedicated mission-title decisions land.
 
 SOURCE OF TRUTH
 Durable controlling page:
 dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
 
+OPEN CIRCUIT mission source:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
+
 Recovery packet refreshed:
 dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
 
 COMPENDIUM USE RULE
-Apply this addendum over older rev5/rev6 campaign summaries and recovery layers that use COLD OPEN, list only a partial ladder, leave Torrejón and Julian Alps unplaced, or retain the superseded HARD WINTER -> Bakhmut -> PERMAFROST ordering.
+Apply this addendum over older rev5/rev6 campaign summaries and recovery layers that use COLD OPEN, list only a partial ladder, leave Torrejón and Julian Alps unplaced, retain the superseded HARD WINTER -> Bakhmut -> PERMAFROST ordering, or leave OPEN CIRCUIT as an unplaced mid-campaign insertion.
