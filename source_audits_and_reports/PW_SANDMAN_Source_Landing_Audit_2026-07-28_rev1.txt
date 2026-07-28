@@ -1,11 +1,12 @@
 PROJECT WARRIORS — SANDMAN SOURCE LANDING AUDIT
 Generated: 2026-07-28
 Version: rev1
-Status: PASS WITH EXPLICIT OPEN CONFIGURATION FIELDS
+Status: PASS WITH EXPLICIT LOWER-LEVEL TUNING FIELDS
 
 SCOPE
-Audit the landing of Nicholas Wayne Hawthorne / Croatoan's newly adjudicated
-persistent sidearm, SANDMAN.
+Audit the landing of Nicholas Wayne Hawthorne / Croatoan's persistent sidearm,
+SANDMAN, including its visual identity, handling behavior, ammunition progression
+and reliability trade-off.
 
 CANON INPUT
 - Owner: Nicholas Wayne Hawthorne / Croatoan.
@@ -17,6 +18,14 @@ CANON INPUT
 - Name: SANDMAN, a nod to Logan's Run, one of Hawthorne's favorite novels.
 - Visual logic: tan/FDE finish reinforces the name; the Hudson H9's futuristic
   profile and especially its elongated suppressed outline evoke the fictional namesake.
+- Handling: exceptionally soft recoil, very low muzzle rise, great ergonomics,
+  very fast ADS, high aim stability and rapid accurate follow-up shots.
+- Standard ammunition: common, relatively inexpensive 9x19mm; effective against
+  soft and lightly armored targets within intended pistol range.
+- Later ammunition: 9x19mm subsonic; exceptionally quiet and stable when suppressed;
+  slight damage and effective-range reduction.
+- Reliability: slightly less reliable than a regular maintained M1911 reference lane;
+  condition-driven stoppages; rapid Hawthorne immediate-action clearing.
 
 LANDED SOURCE CHAIN
 1. Durable build source
@@ -28,22 +37,29 @@ LANDED SOURCE CHAIN
 3. Weapon ontology projection
    dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_rev2.yaml
 
-4. Additive weapon / occurrence / binding ontology part
+4. Additive weapon / ammunition / occurrence / binding ontology part
    dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_sandman_rev1.yaml
 
 5. Working-knowledge bridge
    Project_Warriors_Knowledge_Compendia/
    PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-28_rev4.txt
 
+6. Inherited gameplay behavior
+   dev_src_docs/gameplay_mechanics/
+   PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+   and the associated persistent mechanical reload-state sources
+
 IDENTITY VALIDATION
 - Stable named-build ID is unique: PW-WPN-HAWTHORNE-SANDMAN.
 - Stable platform ID is unique: PW-WEP-HUDSON-H9.
 - Stable occurrence ID is unique: PW-WOC-WAR-WITHIN-HUDSON-H9.
+- Stable subsonic ammunition ID is unique: PW-AMM-9X19-SUB.
 - SANDMAN is explicitly distinct from DEAD BLOW.
 - The addition does not rename, replace or retire any existing build.
 
 ONTOLOGY VALIDATION
-- Existing 9x19mm ammunition identity is reused: PW-AMM-9X19.
+- Existing standard 9x19mm identity is reused: PW-AMM-9X19.
+- New later-game subsonic identity is additive: PW-AMM-9X19-SUB.
 - Existing War Within installment identity is reused: PW-INS-WAR-WITHIN.
 - Existing War Within campaign identity is reused:
   PW-CMP-WAR-WITHIN-AMERICAN-GUERRILLA.
@@ -52,8 +68,10 @@ ONTOLOGY VALIDATION
 - Retention is persistent and drop policy is not applicable.
 - Optional suppressed use is represented without creating a duplicate platform or
   a false permanently suppressed base identity.
+- Standard and subsonic ammunition lanes are both mapped to the Hudson H9 occurrence.
 - Counts advance from weapon catalog rev1 to rev2 as follows:
   weapons 111 -> 112
+  ammunition types 35 -> 36
   occurrences 128 -> 129
   named-build bindings 43 -> 44
   resolved named-build bindings 34 -> 35
@@ -82,21 +100,51 @@ The black grips preserve a strong two-tone recognition cue. The Hudson H9's unus
 near-futuristic profile supports the Logan's Run association without replica styling,
 and the suppressed configuration creates the build's most distinctive outline.
 
+HANDLING BALANCE CHECK
+PASS. SANDMAN's exceptional recoil control, low muzzle rise, very fast ADS and high
+aim stability form one coherent control/speed identity. The source does not also give
+the pistol excessive raw damage, armor defeat or long-range performance. Faster and
+more accurate follow-up shots are the intended reward.
+
+AMMUNITION PROGRESSION CHECK
+PASS. Standard 9x19mm is a common, relatively inexpensive baseline suitable for soft
+and lightly armored targets. Later subsonic 9x19mm is not a pure upgrade: it provides
+exceptional suppressed quietness and stability while accepting slight damage and
+range reductions. Exact numerical values and unlock economy remain open.
+
+RELIABILITY / MALFUNCTION CHECK
+PASS. The M1911 comparison is treated as a project gameplay reference lane rather
+than a claim that SANDMAN should jam frequently. The pistol retains low absolute risk
+when maintained, but has a slightly higher weapon-specific baseline than that reference.
+Risk remains condition-driven through damage, contamination, poor ammunition,
+suppressor use and incomplete mechanical state.
+
+Simple stoppages use Hawthorne's practiced rapid immediate-action animation through
+the contextual reload / restore-to-ready input. Complex stoppages retain longer,
+physically honest remedial clears and persistent magazine/slide/chamber state. Hard
+failures remain exceptional, and routine randomness cannot permanently erase the
+named weapon.
+
 LITERARY-REFERENCE CHECK
 PASS. The Logan's Run connection is preserved as Hawthorne's personal naming logic.
 The source avoids inventing decorative quotes, logos or replica styling.
 
 OPEN IMPLEMENTATION FIELDS
 - exact sights
-- exact magazine complement and ammunition load selection
+- exact magazine complement
+- exact standard and subsonic ammunition brands / load specifications
+- exact numerical recoil, muzzle-rise, ADS, stability, damage and range values
 - exact tan/FDE finish or coating
 - exact suppressor model, attachment interface and mission/loadout availability
+- exact subsonic unlock point, price and replenishment rate
+- exact malfunction-frequency curve by condition and difficulty
 - exact holster and carry position
 
-These fields are intentionally open and do not block the core canon landing.
+These fields are intentionally open and do not block the expanded core canon landing.
 
 RESULT
-PASS. SANDMAN is durably landed across source, registry, ontology and working-
-knowledge layers. The branch is ready for review on the expanded canon scope.
+PASS. SANDMAN is durably landed across source, registry, ammunition/weapon ontology,
+working-knowledge and inherited malfunction-mechanic layers. The branch is ready for
+review on the expanded visual, handling, progression and reliability scope.
 
 END
