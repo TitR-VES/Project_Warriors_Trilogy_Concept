@@ -1,5 +1,5 @@
 meta:
-  delta_id: PW-ONT-PERSISTENT-THREAT-TORREJON-JULIAN-ALPS-2026-07-28-REV2
+  delta_id: PW-ONT-PERSISTENT-THREAT-LADDER-2026-07-28-REV3
   generated: '2026-07-28'
   timeline_applies_to: pw_world_event_timeline_rev2_10.yaml
   timeline_produces: pw_world_event_timeline_rev2_11.yaml
@@ -8,6 +8,7 @@ meta:
   sources:
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
   - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
   - Project_Warriors_Knowledge_Compendia/PW_PERSISTENT_THREAT_Ladder_Addendum_2026-07-28_rev1.txt
 
@@ -90,31 +91,32 @@ operations:
   match_id: PW-EVT-G2-DUCKY-ASH-RELAY
   set:
     date:
-      relative: after DARK FIBER and before HARD WINTER; exact date TBD
+      relative: after DARK FIBER and immediately before OPEN CIRCUIT; exact date TBD
     ordering:
       after: [PW-EVT-G2-DUCKY-DARK-FIBER]
       before: [PW-EVT-AEGIS-FALLS]
-    notes: Ducky-led relay denial and recovery of proof carried into HARD WINTER and AEGIS FALLS
+    notes: Ducky-led relay denial and technical-packet recovery immediately before OPEN CIRCUIT
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
 
 - op: update_event
   match_id: PW-EVT-G2-DUCKY-BAKHMUT-MINIARC
   set:
     date:
-      relative: after PERMAFROST and before HARD WINTER; exact dates TBD
+      relative: after PERMAFROST and immediately before OPEN CIRCUIT; exact dates TBD
     ordering:
       before: [PW-EVT-AEGIS-FALLS]
     relations:
       contains_events: [PW-EVT-G2-DUCKY-DEAD-GROUND, PW-EVT-G2-DUCKY-DARK-FIBER, PW-EVT-G2-DUCKY-ASH-RELAY]
     status: confirmed
     notes: >-
-      Locked three-mission arc after PERMAFROST. The recovered packet retrospectively
-      proves the relay-and-deception architecture behind the wider attack pattern and
-      carries that evidence into HARD WINTER and AEGIS FALLS; it no longer identifies
-      Svalbard as a future target.
+      Locked three-mission arc after PERMAFROST and immediately before OPEN CIRCUIT.
+      The recovered packet retrospectively proves the relay-and-deception architecture
+      behind the wider attack pattern; it no longer identifies Svalbard as a future target.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
 
 - op: update_campaign_track
   match_id: PW-TRK-G2-PERSISTENT-THREAT
@@ -122,13 +124,14 @@ operations:
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
     notes: >-
       Controlling owner-ordered spine: FAILURE CASCADE -> DEAD FREQUENCY ->
       TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HULL BREACH ->
-      PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> HARD WINTER ->
-      AEGIS FALLS. FAILURE CASCADE supersedes COLD OPEN. OPEN CIRCUIT and
-      ASML/Lupin remain valid working missions with exact numbered slots open.
+      PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT ->
+      HARD WINTER -> AEGIS FALLS. FAILURE CASCADE supersedes COLD OPEN.
+      ASML/Lupin remains valid working material with exact numbered slot open.
 
 deferred_updates:
 - target: PERSISTENT THREAT opening event previously titled COLD OPEN
@@ -138,6 +141,17 @@ deferred_updates:
     The repository-landed auditable timeline chain does not expose the opening event's
     stable ID. The narrative source and campaign-track note control the title until the
     external materialized timeline is imported or the stable event ID is recovered.
+
+- target: OPEN CIRCUIT event
+  intended_name: OPEN CIRCUIT
+  intended_placement: immediately after PW-EVT-G2-DUCKY-ASH-RELAY and before HARD WINTER
+  status: source_locked_projection_deferred
+  reason: >-
+    OPEN CIRCUIT's Game 2 placement is locked in its durable mission source, but the
+    repository-landed auditable timeline chain does not expose an authoritative stable
+    event ID for the mission. Do not invent a duplicate event ID; bind the existing event
+    or add it only after the external materialized timeline is imported or stable-ID
+    recovery confirms absence.
 
 validation_targets:
   timeline:
