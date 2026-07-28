@@ -1,42 +1,60 @@
 PROJECT WARRIORS — PERSISTENT THREAT
 TORREJÓN / JULIAN ALPS CAMPAIGN-LADDER INTEGRATION
 Generated: 2026-07-28
-Version: rev1
-Status: LOCKED LADDER PLACEMENT / MISSION TITLES AND LOWER-LEVEL PRODUCTION DETAILS WORKING
+Version: rev2
+Status: LOCKED OWNER-ORDERED LADDER / TORREJÓN AND JULIAN ALPS TITLES AND LOWER-LEVEL PRODUCTION DETAILS WORKING
 
 PURPOSE
-This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder.
+This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also applies the owner's corrected campaign order and opening-mission retitle.
+
+OPENING TITLE LOCK
+FAILURE CASCADE is the current title of the opening mission.
+COLD OPEN is superseded as a mission title and may survive only as historical development shorthand.
 
 CONTROLLING CAMPAIGN ORDER
 The current hard-order PERSISTENT THREAT spine is:
 
-1. COLD OPEN
-2. TORREJÓN DE ARDOZ OPERATION — working location label; final mission title open
-3. JULIAN ALPS RECOVERY — working location label; final mission title open
-4. DEAD FREQUENCY
-5. HARD WINTER
-6. DEAD GROUND
-7. DARK FIBER
-8. ASH RELAY
-9. PERMAFROST
-10. HULL BREACH
+1. FAILURE CASCADE
+2. DEAD FREQUENCY
+3. TORREJÓN DE ARDOZ OPERATION — working location label; final mission title open
+4. JULIAN ALPS RECOVERY — working location label; final mission title open
+5. HULL BREACH
+6. PERMAFROST
+7. DEAD GROUND
+8. DARK FIBER
+9. ASH RELAY
+10. HARD WINTER
 11. AEGIS FALLS
 
 The Torrejón and Julian Alps missions are an adjacent causal pair. Do not separate them with an unrelated mission.
 
-This placement deliberately preserves the already locked sequence:
-DEAD FREQUENCY -> HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> PERMAFROST.
+The Bakhmut mini-arc is also an internally locked adjacent sequence:
+DEAD GROUND -> DARK FIBER -> ASH RELAY.
 
-OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working mid-campaign insertions, but their exact numbered slots are still open. They must not displace or interrupt the locked Torrejón -> Julian Alps causal pair or the locked DEAD FREQUENCY-through-PERMAFROST chain without a later explicit ladder revision.
+The current placement is:
+PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> HARD WINTER -> AEGIS FALLS.
 
-WHY THIS PLACEMENT CONTROLS
-- COLD OPEN establishes the post-Game-1 strategic situation.
-- Torrejón converts the threat from an abstract systems-war concern into an active attempt to destroy the AEGIS orbital layer.
-- Julian Alps is the immediate physical consequence and recovery mission.
-- The recovered satellite material and contradictory operator signatures sharpen the campaign's attribution problem before DEAD FREQUENCY begins the locked northern/eastern winter progression.
-- Placing the pair before DEAD FREQUENCY preserves the later Bakhmut-to-Svalbard logic and avoids reopening the locked DEAD FREQUENCY -> HARD WINTER adjacency.
+This supersedes all earlier placement statements that put HARD WINTER before the Bakhmut mini-arc or used the Bakhmut packet to identify Svalbard before PERMAFROST.
 
-MISSION 02 — TORREJÓN DE ARDOZ OPERATION
+OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working missions, but their exact numbered positions are not yet inserted into the controlling hard-order spine. A future insertion decision must preserve Torrejón -> Julian Alps and DEAD GROUND -> DARK FIBER -> ASH RELAY as adjacent causal blocks unless the owner explicitly revises them.
+
+WHY THIS ORDER CONTROLS
+- FAILURE CASCADE establishes the post-Game-1 systems breakdown and the campaign's opening condition.
+- DEAD FREQUENCY is the first active operational response and precedes the campaign's direct attack on the AEGIS orbital-command layer.
+- Torrejón converts the threat into an attempt to destroy the AEGIS satellite constellation.
+- Julian Alps is the immediate physical consequence and recovery operation.
+- HULL BREACH follows the recovery and carries the campaign into the next strategic-pressure phase.
+- PERMAFROST occurs before Bakhmut and is no longer an operation discovered through the Bakhmut packet.
+- The Bakhmut mini-arc retrospectively proves how compromised AEGIS-adjacent architecture, relay certification, and deception logic enabled or supported the wider campaign pattern, including the already-experienced northern strike environment.
+- HARD WINTER is the late-campaign step after Bakhmut and immediately before the AEGIS FALLS end-state.
+
+MISSION 01 — FAILURE CASCADE
+This source locks the title change only. The opening mission's detailed production source remains controlling for its content.
+
+Narrative-title function:
+The name frames the campaign as a chain reaction rather than a single clean attack: institutional failure, damaged infrastructure, compromised trust, and hostile exploitation cascade into one another before AEGIS can restore a coherent picture.
+
+MISSION 03 — TORREJÓN DE ARDOZ OPERATION
 Location:
 Torrejón Air Base / Torrejón de Ardoz, Spain.
 
@@ -64,7 +82,7 @@ Continuity cautions:
 - Do not use the obsolete KYNEE wording as the controlling friendly-unit identity unless a later dedicated source explicitly restores and defines it.
 - Exact facility route, breach method, named Spanish/NATO allies, and final mission title remain working.
 
-MISSION 03 — JULIAN ALPS RECOVERY
+MISSION 04 — JULIAN ALPS RECOVERY
 Location:
 Julian Alps, Slovenia.
 
@@ -84,7 +102,7 @@ Narrative function:
 - pays off Torrejón immediately rather than leaving the deorbit as an abstract briefing event;
 - turns orbital systems warfare into a physical mountain recovery problem;
 - reinforces that local Slovenian knowledge, authority, movement, and survival expertise are indispensable;
-- provides evidence that feeds the attribution-collapse architecture leading into DEAD FREQUENCY and the later winter missions.
+- preserves evidence that informs HULL BREACH and the subsequent campaign progression.
 
 Enemy-attribution caution:
 Legacy text describes unmarked Russian recovery teams. The current controlling source does not automatically erase that possibility, but it also does not lock every hostile element at the crash site to Russia. Preserve the possibility of multiple interested hostile services or deniable teams until the dedicated mission source finalizes the recovery-force composition.
@@ -96,11 +114,16 @@ SUPERSESSION
 This source supersedes:
 - any Game 1 ladder placement of Torrejón Air Base or the Julian Alps;
 - the older Russian-only Torrejón attribution;
-- recovery-note language that leaves the pair outside the active PERSISTENT THREAT ladder.
+- recovery-note language that leaves the pair outside the active PERSISTENT THREAT ladder;
+- COLD OPEN as the opening mission title;
+- any prior ladder placing Torrejón and Julian Alps before DEAD FREQUENCY;
+- any prior ladder placing HARD WINTER before the Bakhmut mini-arc;
+- any prior ladder placing the Bakhmut mini-arc before PERMAFROST;
+- any prior causal statement in which Bakhmut intelligence first identifies Svalbard for PERMAFROST.
 
 This source does not supersede:
-- the locked Bakhmut mini-arc order;
+- the internal Bakhmut mini-arc order;
 - ARTEMIS in DEAD FREQUENCY;
 - TYPHON in PERMAFROST;
 - the protected AEGIS FALLS end-state and ending line pair;
-- future dedicated mission pages that refine titles, local cast, route design, encounter composition, and production scripting without changing the ladder order.
+- future dedicated mission pages that refine titles, local cast, route design, encounter composition, and production scripting without changing the owner-ordered ladder.
