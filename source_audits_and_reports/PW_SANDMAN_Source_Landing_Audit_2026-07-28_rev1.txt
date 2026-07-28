@@ -1,7 +1,7 @@
 PROJECT WARRIORS — SANDMAN SOURCE LANDING AUDIT
 Generated: 2026-07-28
 Version: rev1
-Status: PASS WITH EXPLICIT OPEN IMPLEMENTATION FIELDS
+Status: PASS WITH EXPLICIT OPEN CONFIGURATION FIELDS
 
 SCOPE
 Audit the landing of Nicholas Wayne Hawthorne / Croatoan's newly adjudicated
@@ -9,11 +9,14 @@ persistent sidearm, SANDMAN.
 
 CANON INPUT
 - Owner: Nicholas Wayne Hawthorne / Croatoan.
-- Platform: tan 2019 Hudson H9, 9x19mm, striker-fired pistol.
+- Platform: tan/FDE 2019 Hudson H9, 9x19mm, striker-fired pistol.
 - Grip treatment: black polymer grip panels.
 - Barrel: threaded.
+- Suppressor state: canonical optional configuration; not permanently fitted.
 - Provenance: carried since Hawthorne's early Kill Devil Hills Detachment days.
 - Name: SANDMAN, a nod to Logan's Run, one of Hawthorne's favorite novels.
+- Visual logic: tan/FDE finish reinforces the name; the Hudson H9's futuristic
+  profile and especially its elongated suppressed outline evoke the fictional namesake.
 
 LANDED SOURCE CHAIN
 1. Durable build source
@@ -47,6 +50,8 @@ ONTOLOGY VALIDATION
 - Player access is mapped as persistent personal loadout.
 - Acquisition is mapped as personal_loadout rather than loot, reward or handoff.
 - Retention is persistent and drop policy is not applicable.
+- Optional suppressed use is represented without creating a duplicate platform or
+  a false permanently suppressed base identity.
 - Counts advance from weapon catalog rev1 to rev2 as follows:
   weapons 111 -> 112
   occurrences 128 -> 129
@@ -65,10 +70,17 @@ PASS. SANDMAN strengthens Hawthorne continuity rather than introducing a late-lo
 contradiction. The weapon predates his New American Frontier / Vanguard involvement
 and can persist through War Within unless a mission explicitly strips personal gear.
 
-THREAD-BARREL INTERPRETATION CHECK
-PASS. The threaded barrel is locked as physical configuration. The source does not
-invent a permanently fitted suppressor, compensator or thread protector treatment.
-Any mission-specific muzzle device requires later adjudication.
+THREADED-BARREL / SUPPRESSOR INTERPRETATION CHECK
+PASS. The threaded barrel is locked physical configuration. A suppressor-compatible,
+mission-specific state is also canonical, while the unsuppressed state remains valid
+and no suppressor is permanently fitted by default. Exact suppressor model, interface
+and mission/loadout availability remain implementation fields.
+
+VISUAL / NAME LOGIC CHECK
+PASS. The tan/FDE finish provides a restrained visual connection to the SANDMAN name.
+The black grips preserve a strong two-tone recognition cue. The Hudson H9's unusual
+near-futuristic profile supports the Logan's Run association without replica styling,
+and the suppressed configuration creates the build's most distinctive outline.
 
 LITERARY-REFERENCE CHECK
 PASS. The Logan's Run connection is preserved as Hawthorne's personal naming logic.
@@ -77,14 +89,14 @@ The source avoids inventing decorative quotes, logos or replica styling.
 OPEN IMPLEMENTATION FIELDS
 - exact sights
 - exact magazine complement and ammunition load selection
-- exact tan finish/coating
+- exact tan/FDE finish or coating
+- exact suppressor model, attachment interface and mission/loadout availability
 - exact holster and carry position
-- any mission-specific muzzle device
 
 These fields are intentionally open and do not block the core canon landing.
 
 RESULT
 PASS. SANDMAN is durably landed across source, registry, ontology and working-
-knowledge layers. The branch is ready for review on the stated canon scope.
+knowledge layers. The branch is ready for review on the expanded canon scope.
 
 END
