@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 2 TRANSCRIPT RECOVERY PACKET
 Generated: 2026-07-23
-Version: rev7
+Version: rev8
 Status: SOURCE-LANDED RECOVERY / MIXED LOCKED AND WORKING
 
 01. ROMEO — CORONADO TO CALLOWAY BRIDGE
@@ -27,22 +27,26 @@ Pat Napier:
 
 02. DUCKY — PERSISTENT THREAT CONTROLLING LADDER
 The Torrejón and Julian Alps operations are promoted from recovery-note status into
-the active Game 2 ladder. They do not belong to Game 1. The continuity-preserving
-order below supersedes the interim order that created investigative, injury, and
-mission-causality conflicts.
+the active Game 2 ladder under the locked mission titles ORBITAL DECAY and SPLASHDOWN.
+They do not belong to Game 1. The continuity-preserving order below supersedes the
+interim order that created investigative, injury, and mission-causality conflicts.
 
 Current hard-order spine:
-FAILURE CASCADE -> DEAD FREQUENCY -> TORREJÓN DE ARDOZ OPERATION ->
-JULIAN ALPS RECOVERY -> HARD WINTER -> DEAD GROUND -> DARK FIBER ->
-ASH RELAY -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
+FAILURE CASCADE -> DEAD FREQUENCY -> ORBITAL DECAY -> SPLASHDOWN ->
+HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT ->
+PERMAFROST -> HULL BREACH -> AEGIS FALLS.
 
 Control rules:
 - FAILURE CASCADE supersedes COLD OPEN as the opening mission title.
-- Torrejón and Julian Alps are an adjacent causal pair.
-- Torrejón uses unmarked Chinese operators, superseding the older Russian-only attack.
+- ORBITAL DECAY is Mission 03 at Torrejón Air Base / Torrejón de Ardoz; the older
+  TORREJÓN DE ARDOZ OPERATION wording remains only a descriptive location/operation label.
+- SPLASHDOWN is Mission 04 in the Julian Alps; the older JULIAN ALPS RECOVERY wording
+  remains only a descriptive location/recovery label.
+- ORBITAL DECAY and SPLASHDOWN are an adjacent causal pair.
+- ORBITAL DECAY uses unmarked Chinese operators, superseding the older Russian-only attack.
 - The forced-deorbit attempt is interrupted, but one AEGIS satellite falls into the
-  Julian Alps and creates the immediate follow-up recovery mission.
-- HARD WINTER follows the Julian Alps recovery and remains Investigative Beat 2.
+  Julian Alps and creates the immediate SPLASHDOWN recovery mission.
+- HARD WINTER follows SPLASHDOWN and remains Investigative Beat 2.
 - The Bakhmut mini-arc follows HARD WINTER in the order DEAD GROUND -> DARK FIBER ->
   ASH RELAY.
 - The Bakhmut packet remains the physical proof that identifies Svalbard as the probable
@@ -129,13 +133,13 @@ shorter, pressurized overwatch/intercept lane protecting moving friendlies and s
 threats that exploit the campus geometry. It must feel distinct from Frost's slower
 precision grammar. Exact mission number remains open.
 
-07. TORREJÓN / JULIAN ALPS LOCAL-ACTOR PASS
+07. ORBITAL DECAY / SPLASHDOWN LOCAL-ACTOR PASS
 Recovered cast and mission texture support Ducky's movement through allied resistance
 and degraded NATO spaces. The pair is ladder-locked after DEAD FREQUENCY and before
-HARD WINTER, while final mission titles, named local cast, internal route design, and
-hostile crash-site recovery composition remain working until dedicated mission pages
-finalize them. Do not over-centralize AEGIS: local actors have their own war, knowledge,
-and authority.
+HARD WINTER. ORBITAL DECAY is set at Torrejón Air Base / Torrejón de Ardoz; SPLASHDOWN
+is set in the Julian Alps. Named local cast, internal route design, and hostile crash-site
+recovery composition remain working until dedicated mission pages finalize them. Do not
+over-centralize AEGIS: local actors have their own war, knowledge, and authority.
 
 08. AEGIS FALLS FINALE INTEGRATION
 Preserve both existing finale assets inside the single AEGIS FALLS mission rather than
