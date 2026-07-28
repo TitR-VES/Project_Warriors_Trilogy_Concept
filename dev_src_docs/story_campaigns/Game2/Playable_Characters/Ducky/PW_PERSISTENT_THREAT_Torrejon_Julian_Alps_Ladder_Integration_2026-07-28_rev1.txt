@@ -1,23 +1,24 @@
 PROJECT WARRIORS — PERSISTENT THREAT
-CAMPAIGN-LADDER INTEGRATION: TORREJÓN / JULIAN ALPS / OPEN CIRCUIT
+CAMPAIGN-LADDER INTEGRATION: ORBITAL DECAY / SPLASHDOWN / OPEN CIRCUIT
 Generated: 2026-07-28
-Version: rev4
-Status: LOCKED CONTINUITY-PRESERVING LADDER / TORREJÓN AND JULIAN ALPS TITLES AND LOWER-LEVEL PRODUCTION DETAILS WORKING
+Version: rev5
+Status: LOCKED CONTINUITY-PRESERVING LADDER / ORBITAL DECAY AND SPLASHDOWN TITLES LOCKED / LOWER-LEVEL PRODUCTION DETAILS WORKING
 
 PURPOSE
-This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also locks the FAILURE CASCADE opening title and places OPEN CIRCUIT after ASH RELAY while preserving the already authored investigative, injury, and mission-to-mission causality.
+This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also locks the FAILURE CASCADE, ORBITAL DECAY, and SPLASHDOWN mission titles and places OPEN CIRCUIT after ASH RELAY while preserving the already authored investigative, injury, and mission-to-mission causality.
 
-OPENING TITLE LOCK
-FAILURE CASCADE is the current title of the opening mission.
-COLD OPEN is superseded as a mission title and may survive only as historical development shorthand.
+MISSION TITLE LOCKS
+- FAILURE CASCADE is the current title of the opening mission. COLD OPEN is superseded as a mission title and may survive only as historical development shorthand.
+- ORBITAL DECAY is the current title of Mission 03, set at Torrejón Air Base / Torrejón de Ardoz, Spain. TORREJÓN DE ARDOZ OPERATION is superseded as a mission title and may remain only as a descriptive location/operation label.
+- SPLASHDOWN is the current title of Mission 04, set in the Julian Alps, Slovenia. JULIAN ALPS RECOVERY is superseded as a mission title and may remain only as a descriptive location/recovery label.
 
 CONTROLLING CAMPAIGN ORDER
 The current hard-order PERSISTENT THREAT spine is:
 
 1. FAILURE CASCADE
 2. DEAD FREQUENCY
-3. TORREJÓN DE ARDOZ OPERATION — working location label; final mission title open
-4. JULIAN ALPS RECOVERY — working location label; final mission title open
+3. ORBITAL DECAY
+4. SPLASHDOWN
 5. HARD WINTER
 6. DEAD GROUND
 7. DARK FIBER
@@ -27,7 +28,7 @@ The current hard-order PERSISTENT THREAT spine is:
 11. HULL BREACH
 12. AEGIS FALLS
 
-The Torrejón and Julian Alps missions are an adjacent causal pair. Do not separate them with an unrelated mission.
+ORBITAL DECAY and SPLASHDOWN are an adjacent causal pair. Do not separate them with an unrelated mission.
 
 The Bakhmut mini-arc is also an internally locked adjacent sequence:
 DEAD GROUND -> DARK FIBER -> ASH RELAY.
@@ -47,12 +48,12 @@ This order resolves continuity through placement rather than by rewriting missio
 - the post-HULL BREACH 0200 conversation as Investigative Beat 4, “What Ducky Does With It,” and Walker's direct tasking toward the Tremblay confrontation;
 - AEGIS FALLS as the campaign finale.
 
-The ASML/Lupin-overwatch operation remains valid working material, but its exact numbered position is not yet inserted into the controlling hard-order spine. A future insertion must preserve Torrejón -> Julian Alps, HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY, ASH RELAY -> OPEN CIRCUIT -> PERMAFROST, and PERMAFROST -> HULL BREACH -> AEGIS FALLS unless the owner explicitly revises them.
+The ASML/Lupin-overwatch operation remains valid working material, but its exact numbered position is not yet inserted into the controlling hard-order spine. A future insertion must preserve ORBITAL DECAY -> SPLASHDOWN, HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY, ASH RELAY -> OPEN CIRCUIT -> PERMAFROST, and PERMAFROST -> HULL BREACH -> AEGIS FALLS unless the owner explicitly revises them.
 
 WHY THIS ORDER CONTROLS
 - FAILURE CASCADE establishes the post-Game-1 systems breakdown and the campaign's opening condition.
 - DEAD FREQUENCY exposes Russian possession of internal AEGIS parameters and establishes the first numbered investigative beat.
-- Torrejón and the Julian Alps then demonstrate the operational consequences and wider exploitation risk of the compromised architecture without displacing the investigation's authored beat order.
+- ORBITAL DECAY and SPLASHDOWN then demonstrate the operational consequences and wider exploitation risk of the compromised architecture without displacing the investigation's authored beat order.
 - HARD WINTER follows as Investigative Beat 2 and leads into the Bakhmut mini-arc.
 - DEAD GROUND, DARK FIBER, and ASH RELAY convert Halliday's architecture theory into physical proof and identify Svalbard as the probable northern target.
 - OPEN CIRCUIT follows ASH RELAY as a time-critical continental exploitation and denial operation before AEGIS deploys north. Its placement does not replace or reverse Bakhmut's Svalbard reveal.
@@ -66,9 +67,12 @@ This source locks the title change only. The opening mission's detailed producti
 Narrative-title function:
 The name frames the campaign as a chain reaction rather than a single clean attack: institutional failure, damaged infrastructure, compromised trust, and hostile exploitation cascade into one another before AEGIS can restore a coherent picture.
 
-MISSION 03 — TORREJÓN DE ARDOZ OPERATION
+MISSION 03 — ORBITAL DECAY
 Location:
 Torrejón Air Base / Torrejón de Ardoz, Spain.
+
+Historical/descriptive label:
+TORREJÓN DE ARDOZ OPERATION.
 
 Core premise:
 Ducky and AEGIS respond to a hostile penetration of the NATO/AEGIS satellite-command layer at Torrejón. The attacking force is composed of unmarked Chinese operators, superseding the older all-Russian attribution in legacy Game 1 material.
@@ -82,6 +86,9 @@ Operational objective:
 Outcome lock:
 AEGIS and local defenders interrupt the sequence before the full constellation can be lost. One satellite is nevertheless successfully deorbited. Its descent track leads toward the Julian Alps in Slovenia.
 
+Narrative-title function:
+ORBITAL DECAY names both the literal loss of orbital stability imposed on the satellite and the campaign's larger erosion of trust in the systems, credentials, and institutions that are supposed to keep the constellation secure.
+
 Narrative function:
 - establishes the China layer as operationally real rather than speculative;
 - demonstrates that compromised access and institutional penetration are as dangerous as direct assault;
@@ -93,14 +100,17 @@ Continuity cautions:
 - Do not revert the attacking force to a straightforward Russian black operation.
 - Do not imply that the Chinese and Russian operations must be one unified command unless a later source explicitly establishes that relationship.
 - Do not use the obsolete KYNEE wording as the controlling friendly-unit identity unless a later dedicated source explicitly restores and defines it.
-- Exact facility route, breach method, named Spanish/NATO allies, and final mission title remain working.
+- Exact facility route, breach method, and named Spanish/NATO allies remain working.
 
-MISSION 04 — JULIAN ALPS RECOVERY
+MISSION 04 — SPLASHDOWN
 Location:
 Julian Alps, Slovenia.
 
+Historical/descriptive label:
+JULIAN ALPS RECOVERY.
+
 Core premise:
-The Torrejón-deorbited satellite impacts across a difficult Alpine debris field. Ducky and AEGIS deploy with Slovenian special-operations, civil-defense, resistance, and technical-recovery partners to secure the wreckage before hostile recovery teams can strip it for data or hardware.
+The ORBITAL DECAY satellite impacts across a difficult Alpine debris field. Ducky and AEGIS deploy with Slovenian special-operations, civil-defense, resistance, and technical-recovery partners to secure the wreckage before hostile recovery teams can strip it for data or hardware.
 
 Operational objective:
 - locate the primary surviving satellite sections and security-critical components;
@@ -111,8 +121,11 @@ Operational objective:
 Outcome lock:
 The allied force secures the decisive surviving material and denies hostile recovery. The recovery does not restore the lost satellite; it preserves evidence, limits compromise, and gives Halliday and DAOG a more dangerous but more accurate picture.
 
+Narrative-title function:
+SPLASHDOWN applies a controlled aerospace-recovery term to an uncontrolled mountain impact, creating deliberate irony while clearly identifying the mission as the physical consequence of ORBITAL DECAY.
+
 Narrative function:
-- pays off Torrejón immediately rather than leaving the deorbit as an abstract briefing event;
+- pays off ORBITAL DECAY immediately rather than leaving the deorbit as an abstract briefing event;
 - turns orbital systems warfare into a physical mountain recovery problem;
 - reinforces that local Slovenian knowledge, authority, movement, and survival expertise are indispensable;
 - broadens the attribution and compromise picture before HARD WINTER without replacing HARD WINTER's authored investigative function.
@@ -137,15 +150,17 @@ AEGIS FALLS FINALE INTEGRATION RULE
 Preserve both existing finale assets without creating an additional ladder mission: AEGIS FALLS may use a compound final-operation structure in which the Russian undersea threat against France is prevented during the operational phase and the unauthorized Aix-en-Provence confrontation with Tremblay forms the final movement and resolution. Exact route, staging, and transition remain production-working. The protected Tremblay/Ducky ending line pair remains controlling.
 
 LOCAL-ACTOR RULE
-Do not over-centralize AEGIS in Torrejón or the Julian Alps. Spanish and Slovenian actors have their own war, institutional responsibilities, terrain knowledge, intelligence, casualties, and authority. AEGIS is the playable spine and technical connective tissue, not the sole competent force in the theater.
+Do not over-centralize AEGIS in ORBITAL DECAY or SPLASHDOWN. Spanish and Slovenian actors have their own war, institutional responsibilities, terrain knowledge, intelligence, casualties, and authority. AEGIS is the playable spine and technical connective tissue, not the sole competent force in the theater.
 
 SUPERSESSION
 This source supersedes:
-- any Game 1 ladder placement of Torrejón Air Base or the Julian Alps;
+- any Game 1 ladder placement of the Torrejón Air Base or Julian Alps operations;
 - the older Russian-only Torrejón attribution;
 - recovery-note language that leaves the pair outside the active PERSISTENT THREAT ladder;
 - COLD OPEN as the opening mission title;
-- any prior ladder placing Torrejón and Julian Alps before DEAD FREQUENCY;
+- TORREJÓN DE ARDOZ OPERATION as Mission 03's title, while retaining it as a descriptive location/operation label;
+- JULIAN ALPS RECOVERY as Mission 04's title, while retaining it as a descriptive location/recovery label;
+- any prior ladder placing the Torrejón and Julian Alps operations before DEAD FREQUENCY;
 - the interim ladder placing HULL BREACH before PERMAFROST;
 - the interim ladder placing PERMAFROST before the Bakhmut mini-arc;
 - the interim ladder placing HARD WINTER after OPEN CIRCUIT;
@@ -159,4 +174,4 @@ This source does not supersede:
 - Lupin's PERMAFROST shoulder wound or his wounded-state HULL BREACH exploitation;
 - OPEN CIRCUIT's dedicated mission content and production locks;
 - the protected AEGIS FALLS end-state and ending line pair;
-- future dedicated mission pages that refine titles, local cast, route design, encounter composition, and production scripting without changing the continuity-preserving ladder.
+- future dedicated mission pages that refine local cast, route design, encounter composition, and production scripting without changing the continuity-preserving ladder or locked mission titles.
