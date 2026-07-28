@@ -1,6 +1,6 @@
 PROJECT WARRIORS — PERSISTENT THREAT / OPEN CIRCUIT — BRNO MISSION SOURCE
 Generated: 2026-07-24
-Version: rev3
+Version: rev4
 Status: LOCKED WORKING MISSION / LADDER SLOT LOCKED / PRODUCTION POLISH FLAGS REMAIN
 Recovered from: Brno / OPEN CIRCUIT Mission Development thread
 
@@ -17,16 +17,18 @@ Core thesis:
 The enemy is not just moving through Europe. They are hiding inside how Europe already works.
 
 PLACEMENT LOCK
-OPEN CIRCUIT is Mission 10 in the current PERSISTENT THREAT hard-order spine.
-It occurs immediately after ASH RELAY and before HARD WINTER.
+OPEN CIRCUIT is Mission 09 in the current PERSISTENT THREAT hard-order spine.
+It occurs immediately after ASH RELAY and before PERMAFROST.
 
 Controlling sequence:
-FAILURE CASCADE -> DEAD FREQUENCY -> TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HULL BREACH -> PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> HARD WINTER -> AEGIS FALLS.
+FAILURE CASCADE -> DEAD FREQUENCY -> TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
 
 Placement function:
-The Bakhmut mini-arc exposes relay-and-deception architecture in an overt ruined-war environment. OPEN CIRCUIT then demonstrates how the wider technical war is concealed inside normal European commercial logistics, contractor access, temporary infrastructure, power, cooling, freight movement, and service routes. The exact evidence packet, briefing language, and causal handoff from ASH RELAY remain production-working; the mission order is locked.
+HARD WINTER leads into the Bakhmut mini-arc. The ASH RELAY packet converts the investigation into physical proof and identifies Svalbard as the probable northern target. OPEN CIRCUIT then becomes the final time-critical continental exploitation and denial operation before AEGIS deploys north. It demonstrates how the same wider technical war is concealed inside normal European commercial logistics, contractor access, temporary infrastructure, power, cooling, freight movement, and service routes.
 
-A future ASML/Lupin-overwatch insertion must not displace OPEN CIRCUIT from the ASH RELAY -> OPEN CIRCUIT -> HARD WINTER sequence unless the owner explicitly revises the ladder.
+This placement does not replace or reverse Bakhmut's Svalbard reveal. The exact evidence packet, briefing language, timing pressure, and operational necessity connecting ASH RELAY to OPEN CIRCUIT and OPEN CIRCUIT to PERMAFROST remain production-working; the mission order is locked.
+
+A future ASML/Lupin-overwatch insertion must not displace OPEN CIRCUIT from the ASH RELAY -> OPEN CIRCUIT -> PERMAFROST sequence unless the owner explicitly revises the ladder.
 
 FRIENDLY STRUCTURE
 AEGIS is the playable and emotional spine, led by Ducky.
@@ -171,6 +173,7 @@ This source page is the compact controlling mission reference. The transcript re
 
 OPEN FLAGS
 - exact ASH RELAY -> OPEN CIRCUIT evidence and briefing handoff;
+- exact OPEN CIRCUIT -> PERMAFROST operational transition and timing pressure;
 - final enemy organization/unit naming;
 - encounter-density tuning and final production line edit;
 - assignment of named SHIELD members versus role-based placeholders;
@@ -179,4 +182,4 @@ OPEN FLAGS
 - whether Maloměřice or airport material becomes a linked mission.
 
 SUPERSESSION NOTE
-This revision supersedes all earlier OPEN CIRCUIT placement language that treated its mission number or relation to DEAD FREQUENCY / HARD WINTER as open. Its Game 2 placement after ASH RELAY and before HARD WINTER is locked.
+This revision supersedes all earlier OPEN CIRCUIT placement language that treated its mission number as open, placed it before HARD WINTER, or placed it after PERMAFROST. Its Game 2 placement after ASH RELAY and before PERMAFROST is locked. The mission does not supersede Bakhmut's Svalbard-target reveal.
