@@ -1,0 +1,78 @@
+================================================================================
+PROJECT WARRIORS — GLOBAL NAMED WEAPON REGISTRY
+Version 2.10 — Hawthorne SANDMAN Sidearm Addition (2026-07-28)
+================================================================================
+Status: AUTHORITATIVE GLOBAL INDEX ADDITION LAYER
+Supersedes: named_weapon_builds_v2_9.txt for all conflicts
+Inherits: all v2.9 and v2.8 entries and governance not explicitly amended below
+Retains: named_weapon_builds_v2_2.txt as the detailed legacy/core-build
+         specification for GRAY GHOST through ARGINT
+
+PURPOSE
+Add Nicholas Wayne Hawthorne / Croatoan's long-held SANDMAN sidearm to the global
+named-weapon authority chain without rewriting unrelated inherited registry entries.
+
+AUTHORITY RULE
+Read v2.10 together with v2.9 and v2.8. For every entry not named in this addition
+layer, the prior registry remains unchanged. For SANDMAN, v2.10 and its dedicated
+build specification control.
+
+--------------------------------------------------------------------------------
+0. v2.10 ADDITION / GOVERNANCE
+--------------------------------------------------------------------------------
+
+1. SANDMAN fills Hawthorne's previously open persistent sidearm slot.
+2. SANDMAN and DEAD BLOW are distinct Hawthorne builds:
+   - SANDMAN = 2019 Hudson H9 personal sidearm.
+   - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
+3. SANDMAN predates Hawthorne's New American Frontier / Vanguard involvement and
+   has been carried since his early Kill Devil Hills Detachment period.
+4. The threaded barrel is locked physical configuration. No suppressor or other
+   muzzle device is implied as a default configuration.
+5. The literary name is a nod to Logan's Run, one of Hawthorne's favorite novels.
+6. Registry counts increase by one named identity and one substantially specified
+   source-associated identity.
+
+--------------------------------------------------------------------------------
+1. NEW AUTHORITATIVE ENTRY
+--------------------------------------------------------------------------------
+
+PW-WPN-HAWTHORNE-SANDMAN
+  Build name: SANDMAN
+  Platform: 2019 Hudson H9, 9x19mm, striker-fired pistol
+  Character: Nicholas Wayne Hawthorne
+  Callsign: Croatoan
+  Campaign: War Within DLC
+  Role: persistent personal sidearm
+  Configuration: tan finish; black polymer grip panels; threaded barrel
+  Continuity origin: early Kill Devil Hills Detachment period
+  Status: LOCKED CORE / IMPLEMENTATION DETAILS OPEN
+  Detail source: PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
+  Distinction: does not replace or rename DEAD BLOW
+
+--------------------------------------------------------------------------------
+2. CURRENT COUNTS
+--------------------------------------------------------------------------------
+
+Named weapon identities in registry: 37
+Substantially specified / source-associated identities: 26
+Recovery-status identities with incomplete source details: 11
+Uncounted owner-specific recovery slots with name not recovered: 2
+
+--------------------------------------------------------------------------------
+3. SUPERSESSION QUICK CHECK
+--------------------------------------------------------------------------------
+
+CURRENT
+- Hawthorne / Croatoan = SANDMAN = 2019 tan Hudson H9 = persistent sidearm
+- Hawthorne / Croatoan = DEAD BLOW = black HK MP5SD-style suppressed SMG
+
+SUPERSEDED / INVALID
+- Hawthorne having no persistent sidearm
+- treating SANDMAN as a generic Hudson H9 with no named-build identity
+- treating the threaded barrel as proof of a permanently fitted suppressor
+- replacing DEAD BLOW with SANDMAN in Hawthorne primary-weapon references
+
+================================================================================
+END — GLOBAL NAMED WEAPON REGISTRY v2.10
+================================================================================
