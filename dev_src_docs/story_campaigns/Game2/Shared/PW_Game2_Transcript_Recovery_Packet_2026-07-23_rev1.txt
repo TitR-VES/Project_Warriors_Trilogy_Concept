@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 2 TRANSCRIPT RECOVERY PACKET
 Generated: 2026-07-23
-Version: rev5
+Version: rev6
 Status: SOURCE-LANDED RECOVERY / MIXED LOCKED AND WORKING
 
 01. ROMEO — CORONADO TO CALLOWAY BRIDGE
@@ -33,7 +33,7 @@ below supersedes all earlier recovery and compendium placement statements.
 Current hard-order spine:
 FAILURE CASCADE -> DEAD FREQUENCY -> TORREJÓN DE ARDOZ OPERATION ->
 JULIAN ALPS RECOVERY -> HULL BREACH -> PERMAFROST -> DEAD GROUND ->
-DARK FIBER -> ASH RELAY -> HARD WINTER -> AEGIS FALLS.
+DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> HARD WINTER -> AEGIS FALLS.
 
 Control rules:
 - FAILURE CASCADE supersedes COLD OPEN as the opening mission title.
@@ -44,24 +44,27 @@ Control rules:
 - HULL BREACH follows the Julian Alps recovery; PERMAFROST follows HULL BREACH.
 - The Bakhmut mini-arc follows PERMAFROST in the order DEAD GROUND -> DARK FIBER ->
   ASH RELAY.
-- HARD WINTER follows Bakhmut and directly precedes AEGIS FALLS.
-- OPEN CIRCUIT and the ASML/Lupin-overwatch operation remain valid working missions,
-  but their numbered positions are not yet inserted into this controlling spine.
+- OPEN CIRCUIT is fixed immediately after ASH RELAY and before HARD WINTER.
+- HARD WINTER follows OPEN CIRCUIT and directly precedes AEGIS FALLS.
+- The ASML/Lupin-overwatch operation remains valid working material, but its numbered
+  position is not yet inserted into this controlling spine.
 
 Focused controlling source:
 dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
 
 03. DUCKY — BAKHMUT MINI-ARC
 Locked placement:
-PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> HARD WINTER -> AEGIS FALLS.
+PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT ->
+HARD WINTER -> AEGIS FALLS.
 
 Narrative function:
 Bakhmut changes suspicion into physical proof of a repeatable relay-and-deception kill
 chain using compromised AEGIS-adjacent architectural knowledge. PERMAFROST has already
 occurred. The recovered Bakhmut packet therefore does not identify Svalbard as a future
 target; it retrospectively exposes how the broader northern attack architecture was
-enabled, tested, certified, or made reusable, and carries that documentary proof into
-HARD WINTER and the AEGIS FALLS end-state.
+enabled, tested, certified, or made reusable. OPEN CIRCUIT follows the arc and shows the
+same wider technical war concealed inside ordinary European civilian infrastructure.
+The detailed evidence handoff remains available for production refinement.
 
 Mission/transitions:
 - DEAD GROUND — link-up, route discipline, first pattern recognition; Frost transition for
@@ -89,14 +92,27 @@ Design rules:
 Detailed source:
 dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
 
-04. ASML / LUPIN OVERWATCH TRANSITION
+04. OPEN CIRCUIT — FIXED CAMPAIGN SLOT
+OPEN CIRCUIT is a Game 2 PERSISTENT THREAT mission set in the service-side Brno
+Exhibition Centre / Výstaviště district. Its fixed placement is immediately after
+ASH RELAY and before HARD WINTER.
+
+The mission transfers the campaign's technical-infrastructure pressure from Bakhmut's
+overt ruined-war environment into concealed civilian-commercial systems: logistics,
+contractor access, temporary installs, power, cooling, freight movement, and service
+corridors. The exact briefing and evidence handoff from ASH RELAY remain production-working.
+
+Detailed source:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
+
+05. ASML / LUPIN OVERWATCH TRANSITION
 An ASML-campus or adjacent high-value industrial defense mission can use a scripted
 perspective shift to Lupin. Ducky owns the main tactical problem; Lupin's section is a
 shorter, pressurized overwatch/intercept lane protecting moving friendlies and stopping
 threats that exploit the campus geometry. It must feel distinct from Frost's slower
 precision grammar. Exact mission number remains open.
 
-05. TORREJÓN / JULIAN ALPS LOCAL-ACTOR PASS
+06. TORREJÓN / JULIAN ALPS LOCAL-ACTOR PASS
 Recovered cast and mission texture support Ducky's movement through allied resistance
 and degraded NATO spaces. The pair is ladder-locked after DEAD FREQUENCY and before
 HULL BREACH, while final mission titles, named local cast, internal route design, and
@@ -104,7 +120,7 @@ hostile crash-site recovery composition remain working until dedicated mission p
 finalize them. Do not over-centralize AEGIS: local actors have their own war, knowledge,
 and authority.
 
-06. GAME 2 -> GAME 3 RECONCILIATION
+07. GAME 2 -> GAME 3 RECONCILIATION
 The Tremblay confrontation and active ambiguity are resolved by Game 2 close. FAILSAFE
 inherits institutional consequences, documentation, damaged trust, and reform pressure.
 It does not replay the question of whether Tremblay is compromised.
