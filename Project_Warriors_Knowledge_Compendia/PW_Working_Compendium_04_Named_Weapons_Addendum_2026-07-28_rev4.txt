@@ -36,7 +36,7 @@ Role: persistent personal sidearm
 Configuration: tan/FDE primary finish; black polymer grip panels; threaded barrel;
                canonical optional suppressor configuration
 Continuity origin: early Kill Devil Hills Detachment period
-Status: locked core; lower-level configuration details remain open
+Status: locked core; lower-level numeric and configuration details remain open
 
 SANDMAN fills Hawthorne's previously open sidearm slot. It is not a late New
 American Frontier or Vanguard acquisition. Hawthorne has carried it since his early
@@ -58,6 +58,48 @@ The threaded barrel supports a canonical optional suppressor configuration. A
 suppressor is not permanently fitted, but when present it extends the weapon into an
 even more distinctive silhouette and provides the clearest visual expression of the
 Logan's Run echo. Exact suppressor model and mission/loadout availability remain open.
+
+--------------------------------------------------------------------------------
+SANDMAN HANDLING / AMMUNITION / RELIABILITY LOCK
+--------------------------------------------------------------------------------
+
+SANDMAN is a control-and-speed sidearm rather than a raw-damage pistol.
+
+Handling identity:
+- exceptionally soft recoil
+- very low muzzle rise
+- strong ergonomics and great general handling
+- very fast ADS speed
+- high aim stability
+- fast, accurate follow-up shots and rapid return to the sight line
+
+Standard 9x19mm:
+- effective against soft and lightly armored targets within intended pistol range
+- common and relatively inexpensive to replenish
+- less suitable against substantial armor or at extended range
+
+Later-game 9x19mm subsonic:
+- unlocked later rather than available in the opening inventory
+- intended primarily for the optional suppressed configuration
+- exceptionally quiet and stable
+- improves stealth and rapid follow-up utility
+- carries a slight damage and effective-range reduction
+- remains a tactical alternative rather than a universal replacement for standard ammunition
+
+Reliability trade-off:
+- slightly less reliable than a regular properly maintained M1911 reference lane
+- low absolute stoppage risk when maintained, but measurably higher than that reference
+- malfunctions remain condition-driven rather than frequent arbitrary per-shot randomness
+- dirt, damage, poor ammunition, suppressor use and incomplete mechanical state may raise risk
+- contextual reload / restore-to-ready input performs the correct immediate or remedial clear
+- Hawthorne clears simple stoppages rapidly because of long familiarity with the weapon
+- complex stoppages preserve longer physically honest clearing and persistent mechanical state
+- routine malfunctions cannot permanently erase or discard this named weapon
+
+The reliability cost is the final counterweight to SANDMAN's excellent recoil,
+handling, ADS speed, stability, common ammunition and later suppressed performance.
+It should create brief skill-expression pressure without making the pistol feel
+capricious or badly maintained.
 
 --------------------------------------------------------------------------------
 HAWTHORNE WEAPON DISTINCTION
@@ -95,7 +137,7 @@ The v2.10 authority chain records 37 named firearm identities:
 
 Weapon catalog rev2 records:
 - 112 weapon identities;
-- 35 ammunition identities;
+- 36 ammunition identities;
 - 129 occurrence records;
 - 44 named-build bindings;
 - 35 resolved named-build bindings;
@@ -118,7 +160,10 @@ SUPERSESSION NOTE
   v2.9/v2.8 entries.
 - PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt controls SANDMAN's owner, model/year,
   finish, grip color, threaded barrel, optional suppressed configuration, visual/name
-  logic and Kill Devil Hills provenance.
+  logic, handling profile, ammunition progression, reliability trade-off and Kill
+  Devil Hills provenance.
+- The merged first-person weapon-handling sources control contextual clearing and
+  persistent malfunction-state behavior used by SANDMAN.
 - PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-24_rev3.txt is superseded
   as the current compendium bridge but remains useful as the focused July 24 War
   Wolves reconciliation record.
