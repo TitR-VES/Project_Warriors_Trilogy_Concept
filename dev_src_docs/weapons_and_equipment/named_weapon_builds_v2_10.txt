@@ -35,8 +35,17 @@ build specification control.
 6. When suppressed, the elongated muzzle profile creates SANDMAN's strongest and
    most distinctive silhouette.
 7. The literary name is a nod to Logan's Run, one of Hawthorne's favorite novels.
-8. Registry counts increase by one named identity and one substantially specified
-   source-associated identity.
+8. Handling lock: exceptionally soft recoil, very low muzzle rise, great ergonomics,
+   very fast ADS, high aim stability and rapid accurate follow-up shots.
+9. Ammunition progression lock: common low-cost standard 9x19mm remains effective
+   against soft and lightly armored targets; later 9x19mm subsonic ammunition makes
+   suppressed SANDMAN exceptionally quiet and stable at a slight damage/range cost.
+10. Reliability lock: SANDMAN is slightly less reliable than a regular maintained
+    M1911 reference lane. Malfunctions remain condition-driven and uncommon rather
+    than a flat random-jam tax; Hawthorne clears simple stoppages rapidly through the
+    contextual restore-to-ready input.
+11. Registry counts increase by one named identity and one substantially specified
+    source-associated identity.
 
 --------------------------------------------------------------------------------
 1. NEW AUTHORITATIVE ENTRY
@@ -53,8 +62,17 @@ PW-WPN-HAWTHORNE-SANDMAN
                  canonical optional suppressor configuration
   Visual identity: sand-linked two-tone finish; unusual futuristic Hudson H9 profile;
                    especially distinctive elongated outline when suppressed
+  Handling: exceptionally soft recoil; very low muzzle rise; great ergonomics;
+            very fast ADS; high aim stability; rapid accurate follow-up shots
+  Standard ammunition: common / relatively inexpensive 9x19mm; suitable against soft
+                       and lightly armored targets within intended pistol range
+  Later ammunition: 9x19mm subsonic; exceptionally quiet and stable when suppressed;
+                    slight damage and effective-range reduction
+  Reliability: slightly below a regular maintained M1911 reference lane; low absolute
+               risk when maintained; condition-driven stoppages; rapid practiced
+               Hawthorne immediate-action clearing
   Continuity origin: early Kill Devil Hills Detachment period
-  Status: LOCKED CORE / CONFIGURATION DETAILS OPEN
+  Status: LOCKED CORE / LOWER-LEVEL TUNING DETAILS OPEN
   Detail source: PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
   Distinction: does not replace or rename DEAD BLOW
 
@@ -75,6 +93,8 @@ CURRENT
 - Hawthorne / Croatoan = SANDMAN = 2019 tan/FDE Hudson H9 = persistent sidearm
 - SANDMAN may appear suppressed in appropriate mission/loadout states, but the
   suppressor is not permanently fitted
+- SANDMAN uses common standard 9x19mm initially and gains a later subsonic lane
+- SANDMAN is a control/speed sidearm with a modest condition-driven reliability cost
 - Hawthorne / Croatoan = DEAD BLOW = black HK MP5SD-style suppressed SMG
 
 SUPERSEDED / INVALID
@@ -82,6 +102,8 @@ SUPERSEDED / INVALID
 - treating SANDMAN as a generic Hudson H9 with no named-build identity
 - treating the threaded barrel as proof of a permanently fitted suppressor
 - treating suppressed SANDMAN as non-canonical merely because it is not the default
+- treating 9x19mm subsonic as a pure upgrade with no damage/range trade-off
+- implementing SANDMAN malfunctions as frequent arbitrary per-shot random jams
 - replacing DEAD BLOW with SANDMAN in Hawthorne primary-weapon references
 
 ================================================================================
