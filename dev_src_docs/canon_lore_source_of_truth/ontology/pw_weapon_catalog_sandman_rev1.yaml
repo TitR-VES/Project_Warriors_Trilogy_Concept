@@ -8,6 +8,21 @@ meta:
     - dev_src_docs/weapons_and_equipment/PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
     - dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_10.txt
 
+ammunition:
+  - id: PW-AMM-9X19-SUB
+    designation: 9x19mm subsonic
+    ammunition_type: cartridge
+    economy_role: later_game_suppressed_specialist
+    status: confirmed
+    sources: [SANDMAN, REG10]
+    compatible_weapon_refs: [PW-WEP-HUDSON-H9]
+    notes: >-
+      Later-game SANDMAN ammunition lane. When used with the canonical optional
+      suppressor configuration it produces exceptionally low report and very stable
+      follow-up behavior, with a slight damage and effective-range reduction relative
+      to standard 9x19mm. Compatibility may be broadened only through later source-backed
+      weapon passes.
+
 weapons:
   - id: PW-WEP-HUDSON-H9
     canonical_name: Hudson H9
@@ -16,7 +31,7 @@ weapons:
     action: striker_fired
     weapon_scope: portable_weapon
     status: confirmed
-    ammunition_refs: [PW-AMM-9X19]
+    ammunition_refs: [PW-AMM-9X19, PW-AMM-9X19-SUB]
     sources: [SANDMAN, REG10]
     named_build_refs: [PW-WPN-HAWTHORNE-SANDMAN]
     occurrence_refs: [PW-WOC-WAR-WITHIN-HUDSON-H9]
@@ -25,7 +40,13 @@ weapons:
       grip panels and a threaded barrel. A mission-specific suppressor configuration is
       canonical, but no suppressor is permanently fitted by default. The two-tone finish
       reinforces the SANDMAN name; the Hudson H9's unusual futuristic profile and its
-      elongated suppressed outline support the Logan's Run visual echo without replica styling.
+      elongated suppressed outline support the Logan's Run visual echo without replica
+      styling. Gameplay identity: exceptionally soft recoil, very low muzzle rise, very
+      fast ADS, high aim stability and rapid accurate follow-up shots. Standard 9x19mm is
+      common and relatively inexpensive; the later subsonic lane trades slight damage and
+      range for exceptional quietness and stability. Reliability is slightly below the
+      regular maintained M1911 reference lane and uses condition-driven persistent
+      malfunction states rather than frequent arbitrary random jams.
 
 occurrences:
   - id: PW-WOC-WAR-WITHIN-HUDSON-H9
@@ -42,12 +63,26 @@ occurrences:
     sources: [SANDMAN, REG10]
     faction_labels: [Kill Devil Hills Detachment, NAF Vanguard]
     carrier_labels: [Nicholas Wayne Hawthorne / Croatoan]
-    presence_tags: [player_named_build, player_sidearm, legacy_personal_weapon, optional_suppressed_configuration]
+    ammunition_availability_overrides: [PW-AMM-9X19, PW-AMM-9X19-SUB]
+    presence_tags:
+      - player_named_build
+      - player_sidearm
+      - legacy_personal_weapon
+      - optional_suppressed_configuration
+      - later_game_subsonic_unlock
+      - soft_recoil
+      - very_fast_ads
+      - high_aim_stability
+      - condition_driven_malfunction_profile
     notes: >-
       Hawthorne has carried SANDMAN since his early Kill Devil Hills Detachment
       period. It predates his later New American Frontier and Vanguard affiliations.
       Suppressed use is valid in appropriate mission or loadout states; unsuppressed
       carry remains the normal alternative rather than a superseded configuration.
+      Standard 9x19mm is the initial common ammunition lane. Subsonic 9x19mm unlocks
+      later for suppressed specialist use. Simple stoppages use Hawthorne's practiced
+      rapid immediate-action animation through the contextual restore-to-ready input;
+      complex clears retain physically honest persistent state.
 
 named_build_bindings:
   - named_build_ref: PW-WPN-HAWTHORNE-SANDMAN
@@ -56,6 +91,7 @@ named_build_bindings:
     sources: [SANDMAN, REG10]
 
 validation_targets:
+  duplicate_ammunition_ids: 0
   duplicate_weapon_ids: 0
   duplicate_occurrence_ids: 0
   duplicate_named_build_refs: 0
