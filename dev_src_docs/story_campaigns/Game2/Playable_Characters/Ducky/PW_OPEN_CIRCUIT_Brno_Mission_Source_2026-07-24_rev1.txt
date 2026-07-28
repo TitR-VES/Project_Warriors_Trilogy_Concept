@@ -1,7 +1,7 @@
 PROJECT WARRIORS — PERSISTENT THREAT / OPEN CIRCUIT — BRNO MISSION SOURCE
 Generated: 2026-07-24
-Version: rev2
-Status: LOCKED WORKING MISSION / PRODUCTION POLISH FLAGS REMAIN
+Version: rev3
+Status: LOCKED WORKING MISSION / LADDER SLOT LOCKED / PRODUCTION POLISH FLAGS REMAIN
 Recovered from: Brno / OPEN CIRCUIT Mission Development thread
 
 CAMPAIGN
@@ -16,14 +16,17 @@ The mission proves that the hostile European technical layer is embedded inside 
 Core thesis:
 The enemy is not just moving through Europe. They are hiding inside how Europe already works.
 
-PLACEMENT
-Mid-campaign in PERSISTENT THREAT, after the player understands the continental systems-war layer and before the campaign fully hardens into its end-state.
-Exact mission number remains open for campaign-ladder integration.
+PLACEMENT LOCK
+OPEN CIRCUIT is Mission 10 in the current PERSISTENT THREAT hard-order spine.
+It occurs immediately after ASH RELAY and before HARD WINTER.
 
-OPEN CIRCUIT is not currently inserted into the numbered hard-order spine:
-FAILURE CASCADE -> DEAD FREQUENCY -> TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HULL BREACH -> PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> HARD WINTER -> AEGIS FALLS.
+Controlling sequence:
+FAILURE CASCADE -> DEAD FREQUENCY -> TORREJÓN DE ARDOZ OPERATION -> JULIAN ALPS RECOVERY -> HULL BREACH -> PERMAFROST -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> HARD WINTER -> AEGIS FALLS.
 
-A future insertion decision must preserve Torrejón -> Julian Alps and DEAD GROUND -> DARK FIBER -> ASH RELAY as adjacent causal blocks unless the owner explicitly revises them. The earlier DEAD FREQUENCY -> HARD WINTER -> Bakhmut -> PERMAFROST placement statement is superseded.
+Placement function:
+The Bakhmut mini-arc exposes relay-and-deception architecture in an overt ruined-war environment. OPEN CIRCUIT then demonstrates how the wider technical war is concealed inside normal European commercial logistics, contractor access, temporary infrastructure, power, cooling, freight movement, and service routes. The exact evidence packet, briefing language, and causal handoff from ASH RELAY remain production-working; the mission order is locked.
+
+A future ASML/Lupin-overwatch insertion must not displace OPEN CIRCUIT from the ASH RELAY -> OPEN CIRCUIT -> HARD WINTER sequence unless the owner explicitly revises the ladder.
 
 FRIENDLY STRUCTURE
 AEGIS is the playable and emotional spine, led by Ducky.
@@ -167,10 +170,13 @@ The recovered transcript contains:
 This source page is the compact controlling mission reference. The transcript remains recovery evidence for the longer authored passes until any of them are promoted into dedicated production scripts.
 
 OPEN FLAGS
-- exact mission number and final campaign slot;
+- exact ASH RELAY -> OPEN CIRCUIT evidence and briefing handoff;
 - final enemy organization/unit naming;
 - encounter-density tuning and final production line edit;
 - assignment of named SHIELD members versus role-based placeholders;
 - final map abstraction versus real-site fidelity;
 - exact air-tasking and ordnance production detail;
 - whether Maloměřice or airport material becomes a linked mission.
+
+SUPERSESSION NOTE
+This revision supersedes all earlier OPEN CIRCUIT placement language that treated its mission number or relation to DEAD FREQUENCY / HARD WINTER as open. Its Game 2 placement after ASH RELAY and before HARD WINTER is locked.
