@@ -1,0 +1,552 @@
+PROJECT WARRIORS — PERSISTENT THREAT
+INVESTIGATIVE AND PROCEDURAL ARC RECOVERY AUDIT
+Generated: 2026-07-29
+Version: rev1
+Status: SOURCE-RECOVERY AUDIT / CONTINUITY INTERPRETATION / NON-CANON CLOSURE PROPOSALS CLEARLY MARKED
+Scope: Ducky's Game 2 campaign — PERSISTENT THREAT
+
+===============================================================================
+PURPOSE
+===============================================================================
+
+This audit recovers two previously developed PERSISTENT THREAT structures that were
+partially obscured when the older compact campaign spine was expanded into the current
+thirteen-mission ladder:
+
+1. the investigative arc by which Ducky and Tara Halliday narrow the AEGIS compromise
+   to Lieutenant General Callum Tremblay; and
+2. the tactical/procedural arc by which AEGIS follows, exploits, isolates, and destroys
+   an enemy EW / relay / credential chain rather than moving between unrelated targets.
+
+The audit then tests those recovered structures against the open cohesion gaps in:
+
+PW_PERSISTENT_THREAT_Mission_by_Mission_Plot_Synopsis_Wiki_Style_2026-07-29_rev1.txt
+
+This document distinguishes three states:
+
+- RECOVERED LOCK: explicitly present in earlier project sources and still compatible
+  with the current ladder;
+- SOURCE-BACKED RESOLUTION: an open synopsis gap directly answered by recovered text;
+- RECONSTRUCTION PROPOSAL: a conservative synthesis that connects old and new source
+  layers but requires owner approval before promotion to controlling canon.
+
+===============================================================================
+RECOVERED SOURCE SET
+===============================================================================
+
+Primary recovered sources examined:
+
+- PW_Archival_Master_2026-04-18_rev4.txt
+  - Ducky Game 2 campaign section
+  - TACTICAL LAYER MISSIONS
+  - INVESTIGATIVE THREAD BEATS
+  - Tremblay character-state summary
+  - shadow-credential hierarchy and chain-of-custody material
+
+- PW_Working_Compendium_01_Core_Timeline_2026-04-18_rev4.txt
+  - compact PERSISTENT THREAT mission spine
+  - four numbered investigative beats
+  - post-HULL BREACH tasking and Crodyn-address sequence
+
+- PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-04-18_rev4.txt
+  - authenticated-override credential mechanism
+  - node/intermediate-certificate hierarchy
+  - root-versus-field-node distinction
+  - Volkov credential fragment's cryptographic significance
+
+- PW_Working_Compendium_06_Promotional_Sidebar_Development_2026-04-18_rev4.txt
+  - sidebar-confirmed tactical and investigative summaries
+
+Current controlling sources used for reconciliation:
+
+- PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+  current internal revision rev7
+- PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+  current internal revision rev4
+- PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
+  current internal revision rev7
+- PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+
+===============================================================================
+I. RECOVERED INVESTIGATIVE ARC
+===============================================================================
+
+The Tremblay investigation was already developed as a four-beat procedural inquiry.
+It should not be replaced by a newly invented investigative framework.
+
+-------------------------------------------------------------------------------
+BEAT 1 — THE PARAMETERS
+-------------------------------------------------------------------------------
+
+Placement:
+DEAD FREQUENCY.
+
+Recovered facts:
+
+- DEAD FREQUENCY is an EW-node interdiction at a converted NATO facility in northern
+  Estonia.
+- CORYS secures the northern approach while AEGIS penetrates the facility.
+- Lupin photographs a technical-parameters document before the EW equipment is
+  destroyed.
+- The document uses internal AEGIS system nomenclature in Russian EW procedures.
+- The evidence confirms inside architectural access rather than ordinary battlefield
+  intelligence collection.
+- Halliday produces an initial list of seven senior DAOG personnel with relevant
+  architecture access and narrows the viable field.
+- The access anomalies extend back at least eighteen months.
+- Ducky's conclusion is: “That's not a leak. That's an agent.”
+
+SOURCE-BACKED RESOLUTION:
+The prior synopsis gap concerning DEAD FREQUENCY's primary objective and the apparent
+incidental discovery of the parameters can be closed. The mission objective is the
+interdiction and destruction of the EW node; the parameters are operational documents
+used by the node's Russian technical team and are photographed during the controlled
+exploitation immediately before destruction.
+
+-------------------------------------------------------------------------------
+BEAT 2 — THE ARCHITECTURE
+-------------------------------------------------------------------------------
+
+Placement:
+HARD WINTER quiet period / exploitation phase.
+
+Recovered facts:
+
+- HARD WINTER tracks and destroys a mobile EW convoy across the Latvian interior over
+  two in-game days.
+- During the operation's quieter analytical period, Halliday traces AEGIS development
+  contracts and core-technology licensing.
+- The licensing chain leads to Nexus Meridian Holdings in the Cayman Islands.
+- Nexus Meridian already appears in the Montoya Farm financial record.
+- Transfers precede the first AEGIS licensing agreement by fourteen months.
+- The implication is not merely that an individual stole material after development.
+  AEGIS was partly financed and architected through KINGMAKER-connected financial and
+  contractor infrastructure.
+
+This beat changes the working hypothesis from an individual leak to a compromised
+institutional architecture.
+
+-------------------------------------------------------------------------------
+BEAT 3 — THE CREDENTIAL
+-------------------------------------------------------------------------------
+
+Placement:
+HULL BREACH.
+
+Recovered facts:
+
+- AEGIS and Nereid Black assault the Russian intelligence vessel Akademik Volkov in
+  Kaliningrad harbor.
+- The recovered drive completes the credential identifier.
+- The identifier is ZEUS-level and matches Tremblay's personal authentication token,
+  including his biometric profile.
+- It confirms approximately eighteen months of access, matching the anomaly window
+  established after DEAD FREQUENCY.
+- Halliday's reaction is: “I wish we were wrong.”
+- The evidence is taken outside the normal DAOG communications architecture.
+
+The strategic-architecture source adds that the recovered credential material is not
+merely a written name or account label. It is part of the shadow credential hierarchy:
+a cryptographic lineage artifact associated with an intermediate certificate and
+sufficient to begin mapping the authority chain.
+
+-------------------------------------------------------------------------------
+BEAT 4 — WHAT DUCKY DOES WITH IT
+-------------------------------------------------------------------------------
+
+Placement:
+0200 after HULL BREACH.
+
+Recovered facts:
+
+- Ducky and Halliday use Halliday's counterintelligence-node channel to reach Walker
+  outside the compromised DAOG architecture.
+- Walker confirms that he has known something was wrong but lacked actionable proof.
+- Walker says: “Now you've given me enough.”
+- He authorizes an off-book mission to find Tremblay, confront him with the evidence,
+  and secure confession or defection.
+
+The later 0347 Crodyn-address scene and 0600 command call add another Tremblay anomaly
+before AEGIS FALLS: Tremblay has advance receipt of the address, pauses after Walker's
+legal formulation, and answers, “Exercise discretion.”
+
+-------------------------------------------------------------------------------
+TREMBLAY'S RECOVERED END STATE
+-------------------------------------------------------------------------------
+
+The earlier source does not leave Tremblay's final consequence open.
+
+Recovered facts:
+
+- Ducky confronts Tremblay at the GenCorp-connected estate near Aix-en-Provence.
+- Tremblay explains his European strategic-autonomy rationale.
+- The FSB discovered the architectural backdoor independently.
+- Tremblay attempted to manage the compromise rather than report it and waited for
+  circumstances to change.
+- After the protected exchange — “AEGIS falls regardless.” / “Then we build something
+  better.” — Tremblay agrees to Walker's process.
+- His conditions include that Crodyn not be protected.
+
+SOURCE-BACKED RESOLUTION:
+The synopsis's “TREMBLAY CONSEQUENCE STATE” gap can be closed. Tremblay is neither
+simply killed nor left ambiguously at large. He agrees to a controlled confession /
+defection / accounting process run through Walker's off-book channel. Lower-level
+custody, extraction, legal, and public-disclosure details may remain production-working,
+but his narrative disposition is established.
+
+===============================================================================
+II. RECOVERED TACTICAL / PROCEDURAL ARC
+===============================================================================
+
+The older campaign was built around a compact sequence:
+
+COLD OPEN -> DEAD FREQUENCY -> HARD WINTER -> PERMAFROST -> HULL BREACH -> AEGIS FALLS
+
+The current thirteen-mission ladder expands that structure but does not erase its
+procedural logic. The surviving mechanism is:
+
+1. battlefield failures expose a systems problem;
+2. AEGIS interdicts an EW node and discovers internal parameters;
+3. AEGIS tracks the mobile logistics and contractor architecture supporting the nodes;
+4. physical relay/certification sites reveal the intended target and attack chain;
+5. AEGIS seizes the live routing layer needed to reach or deny the active northern node;
+6. the northern node is isolated before destruction;
+7. its surviving authorization/credential trail points upstream to the intelligence
+   and credential custodian layer;
+8. the Volkov drive identifies the compromised senior authority;
+9. Ducky moves outside the compromised institution to confront that authority.
+
+-------------------------------------------------------------------------------
+FIELD-NODE AND CREDENTIAL MECHANISM
+-------------------------------------------------------------------------------
+
+Recovered technical rules:
+
+- Hostile commands work because they carry valid authenticated override credentials.
+  The affected systems are not simply “hacked” or confused; they accept the commands
+  as legitimate high-authority instructions.
+- The shadow credential system has a hierarchy.
+- Field nodes possess intermediate certificates derived from a higher authority.
+- Destroying an individual node destroys or denies its local key and capability but
+  does not remove the root authority.
+- Credential revocation cannot safely propagate through a communications architecture
+  already controlled by the hostile credential chain.
+- Effective denial therefore requires physical or out-of-band access to the node,
+  route, or trust-anchor path.
+
+This explains why PERSISTENT THREAT repeatedly requires physical assaults, exploitation,
+line isolation, and controlled destruction rather than a remote software remedy.
+
+-------------------------------------------------------------------------------
+DEAD FREQUENCY
+-------------------------------------------------------------------------------
+
+Recovered tactical function:
+
+- EW-node interdiction;
+- two-element AEGIS/CORYS assault;
+- exploit the technical floor;
+- photograph the parameters;
+- destroy the EW equipment;
+- break contact under ARTEMIS artillery support.
+
+The mission is therefore the first direct physical encounter with the hostile node
+architecture, not merely an unrelated facility raid.
+
+-------------------------------------------------------------------------------
+HARD WINTER
+-------------------------------------------------------------------------------
+
+Recovered tactical function:
+
+- follow a mobile EW convoy rather than attack another static node;
+- preserve contact over two days without forcing premature engagement;
+- establish that the node system has movement, maintenance, logistics, contractor,
+  and financial continuity;
+- destroy the convoy and exploit its records;
+- convert the parameters discovery into the architecture discovery.
+
+The mission's procedural role is to move AEGIS from “who had the data?” to “how is the
+system supplied, licensed, financed, moved, and certified?”
+
+-------------------------------------------------------------------------------
+PERMAFROST
+-------------------------------------------------------------------------------
+
+Recovered tactical function:
+
+- the Svalbard target is explicitly the third EW node;
+- it is pre-positioned for a direct attack on the AEGIS datacenter;
+- Halliday states: “They're waiting for authorization.”
+- the node must be destroyed in sequence: line cut first, equipment second;
+- Vympel protects the site;
+- Lupin receives the shoulder fragment wound during the operation;
+- the team escapes by rigid inflatable after TYPHON collapses inland pursuit routes;
+- Walker's post-operation line is: “That's the good news.”
+
+SOURCE-BACKED RESOLUTION:
+The synopsis can state the mission's target and procedural stakes more precisely.
+AEGIS is not attacking a generic northern relay or an already active abstract strike
+package. It is interdicting the third EW node before an authenticated authorization can
+activate its direct attack on the AEGIS datacenter. The communications line must be
+physically severed before the hardware is destroyed so the node cannot receive the
+pending authorization, reroute, sanitize, or transmit a final authenticated action.
+
+===============================================================================
+III. GAP-CLOSURE MATRIX
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. FAILURE CASCADE -> DEAD FREQUENCY
+-------------------------------------------------------------------------------
+
+Status:
+PARTIALLY HELPED; NOT FULLY RECOVERED.
+
+Recovered support:
+
+- Walker ends FAILURE CASCADE with “Good exfil. We have a problem.”
+- DEAD FREQUENCY is specifically an EW-node interdiction, not a generic assignment.
+- The wider campaign procedure begins by converting battlefield systems failure into a
+  physical EW target.
+
+Still missing:
+
+- the exact Norway anomaly, captured signal, geolocation, or intelligence report that
+  identifies the northern Estonia facility.
+
+RECONSTRUCTION PROPOSAL:
+The Norwegian failure cascade produces a recurring AEGIS-specific interference pattern
+or authenticated configuration signature. Halliday and Walker match it to emissions or
+movement associated with the converted NATO facility, creating the immediate DEAD
+FREQUENCY tasking. This preserves the source's procedural logic but is not an explicit
+recovered lock.
+
+-------------------------------------------------------------------------------
+B. DEAD FREQUENCY PRIMARY OBJECTIVE / PARAMETERS RELATIONSHIP
+-------------------------------------------------------------------------------
+
+Status:
+CLOSED BY RECOVERED SOURCE.
+
+Use:
+
+- primary objective: interdict and destroy the northern Estonia EW node;
+- exploitation: Lupin photographs the node team's AEGIS-parameter document before the
+  equipment is destroyed;
+- consequence: Halliday begins the seven-person architecture-access review and narrows
+  the viable insider field.
+
+-------------------------------------------------------------------------------
+C. SPLASHDOWN -> PROCESS WINDOW -> HARD WINTER
+-------------------------------------------------------------------------------
+
+Status:
+MOSTLY UNAFFECTED BY THE RECOVERED OLD ARC.
+
+The recovered procedural framework confirms that HARD WINTER should follow an
+operational routing/credential lead into a mobile EW logistics target, but it does not
+supply the exact satellite-wreckage artifact or Veldhoven-to-Latvia identifier.
+
+The dedicated PROCESS WINDOW pass still needs to define those handoff objects.
+
+-------------------------------------------------------------------------------
+D. HARD WINTER -> BAKHMUT
+-------------------------------------------------------------------------------
+
+Status:
+PARTIALLY HELPED; EXACT IDENTIFIER STILL OPEN.
+
+Recovered support:
+
+- HARD WINTER is the operation where the mobile architecture and contractor/financial
+  continuity become legible.
+- Current Bakhmut sources require HARD WINTER to lead into a forward relay-certification
+  site where the hostile architecture is physically proven.
+
+RECONSTRUCTION PROPOSAL:
+The convoy exploitation yields a maintenance/certification manifest, service dependency,
+or scheduled validation package for the Bakhmut municipal communications-and-utilities
+complex. This makes Bakhmut the next procedural step: AEGIS follows the mobile support
+architecture to the site where its attack logic is being certified.
+
+-------------------------------------------------------------------------------
+E. ASH RELAY -> OPEN CIRCUIT -> PERMAFROST
+-------------------------------------------------------------------------------
+
+Status:
+STRONGLY HELPED; CLEAN SOURCE-CONSISTENT CLOSURE AVAILABLE.
+
+Recovered/current support:
+
+- ASH RELAY identifies Svalbard as the probable northern target.
+- The Bakhmut site certifies a later northern strike package.
+- OPEN CIRCUIT contains a live relay floor and a removable routing core.
+- Brno is one node in a larger continental chain.
+- PERMAFROST's third EW node is waiting for authorization.
+- The Svalbard node must be isolated by cutting its line before destroying equipment.
+
+RECONSTRUCTION PROPOSAL — RECOMMENDED:
+
+ASH RELAY establishes where the strike will land but not the current authenticated route,
+activation window, or live authorization path. The Bakhmut packet identifies Brno as the
+last continental routing/authorization node through which the pending Svalbard command
+must pass.
+
+OPEN CIRCUIT is indispensable because SHIELD must seize the routing core before it can
+be wiped or moved. The core provides:
+
+- the live route to the Svalbard node;
+- the current activation window;
+- the authorization-channel fingerprint or intermediate credential lineage;
+- the exact line that must be severed before the Svalbard equipment is destroyed.
+
+This means AEGIS cannot simply fly north after ASH RELAY. It knows the probable target,
+but without Brno it cannot reliably identify, isolate, or prevent remote activation of
+the active node. OPEN CIRCUIT changes PERMAFROST from a broad search into a timed,
+procedurally correct interdiction.
+
+This closure uses established functions from all three missions but is not yet written
+as an explicit controlling lock. It should be promoted only with owner approval.
+
+-------------------------------------------------------------------------------
+F. PERMAFROST -> HULL BREACH
+-------------------------------------------------------------------------------
+
+Status:
+STRONGLY HELPED; EXACT HANDSHAKE/TRACE NOT EXPLICITLY RECOVERED.
+
+Recovered support:
+
+- the Svalbard node is waiting for authenticated authorization;
+- the line is cut before equipment destruction;
+- Walker says, “That's the good news,” directly before the older spine moves to HULL
+  BREACH;
+- the Volkov contains the credential-lineage evidence that completes Tremblay's ZEUS
+  identifier;
+- field-node intermediate credentials point toward a higher authority rather than
+  ending the investigation when one node is destroyed.
+
+RECONSTRUCTION PROPOSAL — RECOMMENDED:
+
+Cutting the Svalbard line before destroying the node preserves its last authenticated
+handshake, route record, or credential lineage instead of allowing remote sanitization.
+The preserved trace identifies the Akademik Volkov as the upstream intelligence archive,
+authorization relay, or credential-custody platform associated with the pending command.
+
+Walker's “That's the good news” therefore resolves as:
+
+- good news: the third node and direct datacenter attack were stopped;
+- bad news: the authorization source remains active, is now aware that the chain has
+  been compromised, and is sanitizing or preparing to depart aboard the Volkov.
+
+This creates an immediate time-critical reason for HULL BREACH and makes the credential
+recovery the procedural consequence of PERMAFROST rather than an unrelated naval raid.
+
+Again, this is a highly supported synthesis rather than an exact recovered sentence.
+
+-------------------------------------------------------------------------------
+G. TREMBLAY CONSEQUENCE STATE
+-------------------------------------------------------------------------------
+
+Status:
+CLOSED BY RECOVERED SOURCE.
+
+Use:
+
+Tremblay agrees to Walker's off-book accounting process after the Aix confrontation.
+His conditions include that Crodyn not be protected. The production source may still
+specify custody, transport, evidentiary handling, and public-versus-classified outcome,
+but his narrative disposition is no longer open.
+
+-------------------------------------------------------------------------------
+H. AEGIS FALLS COMPOUND FINALE CAUSALITY
+-------------------------------------------------------------------------------
+
+Status:
+STILL OPEN.
+
+The recovered older source treats AEGIS FALLS primarily as the unauthorized Aix estate
+confrontation. The later ladder integration preserves a Russian undersea-threat phase
+inside the same compound mission. No recovered passage yet supplies the exact causal
+bridge from stopping that threat to reaching Tremblay.
+
+Useful recovered character logic:
+
+- Tremblay discovered or learned of the FSB access and attempted to manage it rather
+  than report it;
+- he was waiting for circumstances to change;
+- Walker's objective is confession or defection, not summary execution;
+- Tremblay ultimately agrees to Walker's process.
+
+These facts can shape the bridge, but they do not by themselves lock it.
+
+===============================================================================
+IV. EFFECT ON THE CURRENT COHESION ASSESSMENT
+===============================================================================
+
+The recovered arcs materially improve the campaign's cohesion assessment.
+
+The campaign has two interlocked spines:
+
+INVESTIGATIVE SPINE
+Parameters -> Architecture -> Credential -> Off-book decision -> Tremblay accounting.
+
+PROCEDURAL SPINE
+EW failure -> field node -> mobile support architecture -> certification chain -> live
+routing core -> isolated northern node -> upstream credential custodian -> compromised
+senior authority.
+
+The current thirteen-mission ladder remains valid. The added missions should be treated
+as expansions of those two spines rather than replacements for them.
+
+Immediate synopsis corrections supported by recovered source:
+
+1. Remove the claim that Ducky's investigative arc is only loosely or newly defined.
+2. State DEAD FREQUENCY's objective as EW-node interdiction and connect the parameters
+   directly to the exploited technical floor.
+3. Restore the seven-person access review, eighteen-month anomaly window, and Ducky's
+   “agent” conclusion.
+4. Restore HARD WINTER's Nexus Meridian / Montoya Farm / fourteen-month pre-licensing
+   financial finding.
+5. State PERMAFROST's target as the third EW node pre-positioned for direct attack on
+   the AEGIS datacenter and waiting for authorization.
+6. Preserve the line-cut-first, equipment-second destruction sequence.
+7. Treat the Volkov evidence as credential-lineage material that completes Tremblay's
+   ZEUS-level personal identifier and biometric match.
+8. Restore Walker's off-book confession-or-defection tasking.
+9. Replace the open Tremblay-consequence flag with his agreement to Walker's process.
+10. Keep the compound-finale transition open until the undersea-to-Aix causal bridge is
+    explicitly developed.
+
+Recommended owner decision:
+
+Approve or revise the two RECONSTRUCTION PROPOSALS covering:
+
+- ASH RELAY -> OPEN CIRCUIT -> PERMAFROST; and
+- PERMAFROST -> HULL BREACH.
+
+Together they use the recovered authorization, line-isolation, credential-hierarchy,
+routing-core, and Volkov material to close the campaign's two largest late-stage
+procedural gaps without changing the mission order or retconning an established outcome.
+
+===============================================================================
+CONCLUSION
+===============================================================================
+
+The user's recollection was correct. PERSISTENT THREAT already had a developed
+credential investigation and a developed tactical/procedural campaign mechanism.
+
+The investigation is not merely thematic background. It is a four-beat evidentiary
+process that narrows access, exposes compromised financing and architecture, matches a
+personal ZEUS credential and biometric profile, and forces an off-book decision.
+
+The tactical progression is not merely geographic escalation. It follows a physical
+credential-and-relay chain whose nodes must be exploited, isolated, and destroyed in
+the correct order because valid hostile authority remains upstream.
+
+Recovering these structures closes the DEAD FREQUENCY premise gap, clarifies
+PERMAFROST, and resolves Tremblay's final consequence. It also supplies strong,
+source-consistent solutions for the OPEN CIRCUIT and HULL BREACH transitions. The
+remaining major unresolved structural issue is the causal unity of the two AEGIS FALLS
+phases, along with the newer evidence-object handoffs surrounding PROCESS WINDOW.
