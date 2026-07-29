@@ -54,7 +54,7 @@ build specification control.
 15. Quantified malfunction lock supersedes earlier low-absolute-risk and maintained-
     M1911 comparison language wherever inconsistent.
 16. Guide-rod walk-out / slide-stick rates:
-    - first consecutive rapid-fire magazine: 4% per shot;
+    - first consecutive rapid-fire magazine: 2.5% per shot;
     - second consecutive rapid-fire magazine: 50% chance during that magazine;
     - third and later consecutive rapid-fire magazines: 96% chance per magazine.
 17. The guide-rod failure leaves the slide rearward or half-open and requires a longer
@@ -69,7 +69,7 @@ build specification control.
     If the slide closes before magazine insertion, the player must re-initiate the
     restore-to-ready action after insertion so Hawthorne can chamber the first round.
 21. In-cycle feed choke: 2.5% per shot, approximately one event per forty shots.
-22. The first-magazine 4% guide-rod check and the 2.5% feed-choke check are per shot;
+22. The first-magazine 2.5% guide-rod check and the 2.5% feed-choke check are per shot;
     the 50% and 96% guide-rod escalation values are per-magazine event chances.
 23. Registry counts increase by one named identity and one substantially specified
     source-associated identity.
@@ -101,7 +101,7 @@ PW-WPN-HAWTHORNE-SANDMAN
                        and lightly armored targets within intended pistol range
   Later ammunition: 9x19mm subsonic; strongest sound reduction with Osprey 45 2.0;
                     slight damage and effective-range reduction
-  Guide-rod walk-out: 4% per shot in first sustained rapid-fire magazine; 50% per
+  Guide-rod walk-out: 2.5% per shot in first sustained rapid-fire magazine; 50% per
                        second consecutive rapid-fire magazine; 96% per third and later
                        consecutive rapid-fire magazine; long stuck-slide recovery
   First-round choke: 10% per eligible fresh-magazine reload; tactical reload excluded;
