@@ -18,10 +18,10 @@ ammunition:
     compatible_weapon_refs: [PW-WEP-HUDSON-H9]
     notes: >-
       Later-game SANDMAN ammunition lane. When used with the removable black flat-sided
-      eight-inch SilencerCo Osprey SHS suppressor, it produces SANDMAN's strongest
-      shot-report reduction, with a slight damage and effective-range reduction relative
-      to standard 9x19mm. The suppressor's forward-weight handling penalties remain active.
-      Compatibility may be broadened only through later source-backed weapon passes.
+      just-under-seven-inch SilencerCo Osprey 45 2.0 suppressor, it produces SANDMAN's
+      strongest shot-report reduction, with a slight damage and effective-range reduction
+      relative to standard 9x19mm. The suppressor's forward-weight handling penalties remain
+      active. Compatibility may be broadened only through later source-backed weapon passes.
 
 weapons:
   - id: PW-WEP-HUDSON-H9
@@ -38,16 +38,16 @@ weapons:
     notes: >-
       The project-specific Hawthorne build has a tan/FDE primary finish, black polymer
       grip panels and a threaded barrel. Its canonical removable suppressor is a black,
-      flat-sided, eight-inch SilencerCo Osprey SHS. The two-tone finish reinforces the
-      SANDMAN name; the Hudson H9's unusual profile and elongated Osprey-equipped outline
-      support the Logan's Run visual echo without replica styling. Unsuppressed gameplay
-      identity: exceptionally soft recoil, very low muzzle rise, very fast ADS, high aim
-      stability and rapid accurate follow-up shots. Suppressed identity: exceptional
-      signature reduction, noticeably slower ADS and slightly lower repeated-follow-up
-      stability because the forward mass shifts the center of gravity toward the muzzle.
-      Standard 9x19mm is common and relatively inexpensive; the later subsonic lane trades
-      slight damage and range for the strongest suppressed sound reduction. Reliability is
-      slightly below the regular maintained M1911 reference lane and uses condition-driven
+      flat-sided, just-under-seven-inch SilencerCo Osprey 45 2.0. The two-tone finish
+      reinforces the SANDMAN name; the Hudson H9's unusual profile and elongated
+      Osprey-equipped outline support the Logan's Run visual echo without replica styling.
+      Unsuppressed gameplay identity: exceptionally soft recoil, very low muzzle rise, very
+      fast ADS, high aim stability and rapid accurate follow-up shots. Suppressed identity:
+      exceptional signature reduction, noticeably slower ADS and slightly lower repeated-
+      follow-up stability because the forward mass shifts the center of gravity toward the
+      muzzle. Standard 9x19mm is common and relatively inexpensive; the later subsonic lane
+      trades slight damage and range for the strongest suppressed sound reduction. Reliability
+      is slightly below the regular maintained M1911 reference lane and uses condition-driven
       persistent malfunction states rather than frequent arbitrary random jams.
 
 occurrences:
@@ -71,7 +71,7 @@ occurrences:
       - player_sidearm
       - legacy_personal_weapon
       - optional_suppressed_configuration
-      - silencerco_osprey_shs_8in
+      - silencerco_osprey_45_2_0_sub7in
       - flat_sided_suppressor
       - suppressed_front_heavy
       - suppressed_ads_penalty
@@ -84,7 +84,7 @@ occurrences:
     notes: >-
       Hawthorne has carried SANDMAN since his early Kill Devil Hills Detachment period.
       It predates his later New American Frontier and Vanguard affiliations. Suppressed
-      use means fitting the specified removable Osprey SHS rather than creating a separate
+      use means fitting the specified removable Osprey 45 2.0 rather than creating a separate
       platform identity. Standard 9x19mm is the initial common ammunition lane. Subsonic
       9x19mm unlocks later for the quietest suppressed state. The Osprey's forward mass
       noticeably slows ADS and slightly reduces repeated-shot stability. Simple stoppages
