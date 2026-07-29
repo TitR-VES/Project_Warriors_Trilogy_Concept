@@ -29,7 +29,7 @@ NEW LOCK — HAWTHORNE / SANDMAN
 
 Stable ID: PW-WPN-HAWTHORNE-SANDMAN
 Build: SANDMAN
-Platform: 2019 Hudson H9, 9x19mm, striker-fired pistol
+Platform: 2018 Hudson H9, 9x19mm, striker-fired pistol
 Owner: Nicholas Wayne Hawthorne / Croatoan
 Campaign: War Within DLC
 Role: persistent personal sidearm
