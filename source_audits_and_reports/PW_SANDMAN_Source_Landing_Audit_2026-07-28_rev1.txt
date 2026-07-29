@@ -1,12 +1,12 @@
 PROJECT WARRIORS — SANDMAN SOURCE LANDING AUDIT
 Generated: 2026-07-28
 Version: rev1
-Status: PASS WITH EXPLICIT LOWER-LEVEL TUNING FIELDS
+Status: PASS WITH EXPLICIT MALFUNCTION-INTERACTION FIELDS
 
 SCOPE
 Audit the landing of Nicholas Wayne Hawthorne / Croatoan's persistent sidearm,
 SANDMAN, including its visual identity, weapon-light and suppressor configurations,
-handling behavior, ammunition progression and reliability trade-off.
+handling behavior, ammunition progression and quantified malfunction profile.
 
 CANON INPUT
 - Owner: Nicholas Wayne Hawthorne / Croatoan.
@@ -30,8 +30,12 @@ CANON INPUT
   soft and lightly armored targets within intended pistol range.
 - Later ammunition: 9x19mm subsonic; strongest sound reduction with the Osprey 45 2.0;
   slight damage and effective-range reduction.
-- Reliability: slightly less reliable than a regular maintained M1911 reference lane;
-  condition-driven stoppages; rapid Hawthorne immediate-action clearing.
+- Guide-rod walk-out: 4% per shot in the first consecutive rapid-fire magazine;
+  50% chance during the second; 96% chance per third and later sustained-fire magazine.
+- Fresh-magazine first-round choke: 10% per eligible reload; tactical reload excluded.
+- Stiff-magazine extraction: 20% per reload involving magazine removal.
+- Slide-catch slingshot: 12.5% per eligible non-tactical reload.
+- In-cycle feed choke: 2.5% per shot.
 
 LANDED SOURCE CHAIN
 1. Durable build source
@@ -43,7 +47,7 @@ LANDED SOURCE CHAIN
 3. Weapon ontology projection
    dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_rev2.yaml
 
-4. Additive weapon / ammunition / occurrence / binding ontology part
+4. Additive weapon / ammunition / malfunction / occurrence / binding ontology part
    dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_sandman_rev1.yaml
 
 5. Working-knowledge bridge
@@ -60,6 +64,12 @@ IDENTITY VALIDATION
 - Stable platform ID is unique: PW-WEP-HUDSON-H9.
 - Stable occurrence ID is unique: PW-WOC-WAR-WITHIN-HUDSON-H9.
 - Stable subsonic ammunition ID is unique: PW-AMM-9X19-SUB.
+- Stable malfunction-profile IDs are unique:
+  PW-MAL-SANDMAN-GUIDE-ROD-WALKOUT
+  PW-MAL-SANDMAN-FIRST-ROUND-CHOKE
+  PW-MAL-SANDMAN-STIFF-MAGAZINE-EXTRACTION
+  PW-MAL-SANDMAN-SLIDE-CATCH-SLINGSHOT
+  PW-MAL-SANDMAN-IN-CYCLE-FEED-CHOKE
 - SANDMAN is explicitly distinct from DEAD BLOW.
 - The addition does not rename, replace or retire any existing build.
 
@@ -81,6 +91,8 @@ ONTOLOGY VALIDATION
 - Standard and subsonic ammunition lanes are both mapped to the Hudson H9 occurrence.
 - Suppressed handling tags record forward weight, slower ADS and slightly reduced
   repeated-shot stability without creating a separate platform identity.
+- Five explicit malfunction profiles map trigger scope, probability, resulting state,
+  clear input and recovery branch without creating duplicate weapon identities.
 - Counts advance from weapon catalog rev1 to rev2 as follows:
   weapons 111 -> 112
   ammunition types 35 -> 36
@@ -88,6 +100,8 @@ ONTOLOGY VALIDATION
   named-build bindings 43 -> 44
   resolved named-build bindings 34 -> 35
   deferred named-build bindings remains 9
+- Malfunction-profile entities are an additive structured projection and do not alter
+  the existing weapon/ammunition/occurrence/binding count contract.
 
 REGISTRY VALIDATION
 - Named identities 36 -> 37.
@@ -101,7 +115,7 @@ contradiction. The weapon predates his New American Frontier / Vanguard involvem
 and can persist through War Within unless a mission explicitly strips personal gear.
 
 WEAPON-LIGHT IDENTITY CHECK
-PASS. SANDMAN now uses one exact owner-adjudicated weapon-light model: the Streamlight
+PASS. SANDMAN uses one exact owner-adjudicated weapon-light model: the Streamlight
 TLR-3. The source chain treats it as part of the persistent base configuration rather
 than a mission-only or interchangeable generic light.
 
@@ -157,18 +171,60 @@ Osprey 45 2.0 it provides the strongest sound reduction while accepting slight d
 and range reductions. The suppressor's ADS and repeated-shot stability penalties still
 apply. Exact numerical values and unlock economy remain open.
 
-RELIABILITY / MALFUNCTION CHECK
-PASS. The M1911 comparison is treated as a project gameplay reference lane rather
-than a claim that SANDMAN should jam frequently. The pistol retains low absolute risk
-when maintained, but has a slightly higher weapon-specific baseline than that reference.
-Risk remains condition-driven through damage, contamination, poor ammunition,
-suppressor use and incomplete mechanical state.
+QUANTIFIED MALFUNCTION PROFILE CHECK
+PASS. The new exact profile supersedes the earlier low-absolute-risk and maintained-
+M1911 comparison wherever inconsistent. SANDMAN must now be described as mechanically
+temperamental rather than as having only a modest reliability disadvantage.
 
-Simple stoppages use Hawthorne's practiced rapid immediate-action animation through
-the contextual reload / restore-to-ready input. Complex stoppages retain longer,
-physically honest remedial clears and persistent magazine/slide/chamber state. Hard
-failures remain exceptional, and routine randomness cannot permanently erase the
-named weapon.
+PASS. Guide-rod walk-out uses the intended mixed probability scope:
+- 4% per shot during the first consecutive rapid-fire magazine;
+- 50% chance during the second consecutive rapid-fire magazine;
+- 96% chance per third and later consecutive rapid-fire magazine.
+The 50% and 96% values are magazine-level event chances and must not be converted to
+per-shot checks. The first-magazine cumulative risk depends on final magazine capacity,
+which remains an open loadout field.
+
+PASS. The guide-rod event produces a rearward or half-open stuck slide and a longer
+restore-to-ready branch. Hawthorne repositions the slide and returns the weapon to
+battery. A generic short feed clear would not satisfy the authored state.
+
+PASS. Fresh-magazine first-round choke uses a 10% eligible-reload check. Tactical
+reloads are excluded when a live round remains chambered. The short recovery slightly
+retracts and releases the slide to seat the first round.
+
+PASS. Stiff-magazine extraction uses a 20% check for every reload involving magazine
+removal. Tactical reloads remain eligible. The branch delays extraction without
+changing the chambered-round state by itself.
+
+PASS. Slide-catch slingshot uses a 12.5% eligible non-tactical reload check. A
+pre-insertion closure leaves an empty chamber and requires the player to re-initiate
+restore-to-ready after magazine insertion so Hawthorne can chamber the first round.
+The exact post-insertion branch remains open.
+
+PASS. In-cycle feed choke uses a 2.5% per-shot check and a state-dependent clear that
+is shorter than the guide-rod walk-out recovery.
+
+PASS WITH OPEN INTERACTION FIELDS. The owner locked individual rates and scopes, but
+did not lock the priority or stacking behavior when multiple reload checks succeed,
+the cooldown/cadence threshold that resets the sustained-fire chain, the post-insertion
+slide-slingshot branch, or condition/difficulty modifiers. These remain explicit open
+fields rather than being guessed.
+
+DESIGN-CONSEQUENCE CHECK
+PASS AS OWNER-LOCKED. The quantified rates create a frequent and visible malfunction
+identity. They are not compatible with describing SANDMAN as low-risk, only slightly
+less reliable, or affected merely by rare flavor stoppages. Production and balancing
+must preserve that consequence unless a later owner adjudication changes the rates.
+
+PASS. Hawthorne's mastery is represented through fast recognition, correct differentiated
+clears and confident animation—not by suppressing or silently reducing the authored
+failure probabilities.
+
+PERSISTENT-STATE / SAFEGUARD CHECK
+PASS. All routine failures use the contextual reload / restore-to-ready and persistent
+magazine/slide/chamber/feed-state system. Interrupted clears preserve physical state.
+Routine probability cannot permanently erase, discard or hard-disable the named weapon.
+Hard failures remain exceptional and story- or condition-gated.
 
 LITERARY-REFERENCE CHECK
 PASS. The Logan's Run connection is preserved as Hawthorne's personal naming logic.
@@ -184,7 +240,12 @@ OPEN IMPLEMENTATION FIELDS
 - exact finger used for light activation in each stance and hand state
 - exact Osprey 45 2.0 mounting interface, attachment animation and mission availability
 - exact subsonic unlock point, price and replenishment rate
-- exact malfunction-frequency curve by condition and difficulty
+- sustained-fire cadence/cooldown threshold that resets the guide-rod magazine chain
+- priority and stacking behavior for multiple reload-related failures
+- post-insertion slide-catch slingshot consequence and recovery
+- in-cycle feed-choke mechanical sub-state and exact clearing duration
+- condition, contamination, suppressor, ammunition-quality and difficulty modifiers
+  around the locked normal-condition base probabilities
 - exact holster and carry position
 
 The TLR-3 model, low below-bore mounting position and high reachable switch-paddle
@@ -193,10 +254,14 @@ relationship are locked and are no longer open implementation fields.
 The suppressor's Osprey 45 2.0 model, black color, flat-sided shape and just-under-
 seven-inch approximate length are locked and are no longer open implementation fields.
 
+The five malfunction identities, trigger scopes, base rates, explicitly stated tactical-
+reload eligibility rules and required recovery branches are locked. Only the interaction
+and lower-level production fields listed above remain open.
+
 RESULT
-PASS. SANDMAN is durably landed across source, registry, ammunition/weapon ontology,
-working-knowledge and inherited malfunction-mechanic layers. The branch is ready for
-review on the corrected visual, weapon-light, suppressor, handling, progression and
-reliability scope.
+PASS. SANDMAN is durably landed across source, registry, ammunition/weapon/malfunction
+ontology, working-knowledge and inherited persistent-mechanical-state layers. The branch
+is ready for review on the expanded visual, weapon-light, suppressor, handling,
+progression and quantified malfunction scope.
 
 END
