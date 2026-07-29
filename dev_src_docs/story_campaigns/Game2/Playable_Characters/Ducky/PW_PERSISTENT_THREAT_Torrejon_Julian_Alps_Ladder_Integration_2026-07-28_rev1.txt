@@ -1,17 +1,17 @@
 PROJECT WARRIORS — PERSISTENT THREAT
 CAMPAIGN-LADDER INTEGRATION: ORBITAL DECAY / SPLASHDOWN / PROCESS WINDOW / OPEN CIRCUIT
 Generated: 2026-07-29
-Version: rev6
-Status: LOCKED CONTINUITY-PRESERVING LADDER / ORBITAL DECAY AND SPLASHDOWN TITLES LOCKED / PROCESS WINDOW TITLE WORKING / LOWER-LEVEL PRODUCTION DETAILS WORKING
+Version: rev7
+Status: LOCKED CONTINUITY-PRESERVING LADDER / PROCESS WINDOW DEVELOPMENT DEFERRED / LOWER-LEVEL PRODUCTION DETAILS WORKING
 
 PURPOSE
-This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also locks the FAILURE CASCADE, ORBITAL DECAY, and SPLASHDOWN mission titles, restores the ASML / Lupin rooftop operation to its intended Game 2 placement, and places OPEN CIRCUIT after ASH RELAY while preserving the already authored investigative, injury, and mission-to-mission causality.
+This source closes the continuity gap created when the Torrejón Air Base and Julian Alps operations were correctly removed from Ducky's Game 1 campaign but were not promoted from recovery-note status into the active Game 2 PERSISTENT THREAT ladder. It also locks the FAILURE CASCADE, ORBITAL DECAY, and SPLASHDOWN mission titles, restores the recovered ASML/Lupin operation to Game 2 as PROCESS WINDOW, and places OPEN CIRCUIT after ASH RELAY while preserving the already authored investigative, injury, and mission-to-mission causality.
 
 MISSION TITLE LOCKS
 - FAILURE CASCADE is the current title of the opening mission. COLD OPEN is superseded as a mission title and may survive only as historical development shorthand.
 - ORBITAL DECAY is the current title of Mission 03, set at Torrejón Air Base / Torrejón de Ardoz, Spain. TORREJÓN DE ARDOZ OPERATION is superseded as a mission title and may remain only as a descriptive location/operation label.
 - SPLASHDOWN is the current title of Mission 04, set in the Julian Alps, Slovenia. JULIAN ALPS RECOVERY is superseded as a mission title and may remain only as a descriptive location/recovery label.
-- PROCESS WINDOW is the current working title of Mission 05, set at a fictionalized ASML campus and adjacent high-security integration/logistics complex in Veldhoven, Netherlands. The title remains open to later owner adjudication; the mission's Game 2 placement and narrative function are locked.
+- PROCESS WINDOW is the working title of Mission 05, set at a fictionalized ASML-associated campus and integration/logistics complex in Veldhoven, Netherlands. Its placement is locked; its final title remains open.
 
 CONTROLLING CAMPAIGN ORDER
 The current hard-order PERSISTENT THREAT spine is:
@@ -40,11 +40,12 @@ DEAD GROUND -> DARK FIBER -> ASH RELAY.
 OPEN CIRCUIT is locked immediately after ASH RELAY and before PERMAFROST.
 
 The current late-campaign placement is therefore:
-HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
+PROCESS WINDOW -> HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
 
 NO-RETCON CONTROL RULE
-This order resolves continuity through placement and additive connective material rather than by rewriting authored mission outcomes. Preserve:
+This order resolves continuity through placement rather than by rewriting existing mission outcomes. Preserve:
 - DEAD FREQUENCY as Investigative Beat 1, “The Parameters”;
+- PROCESS WINDOW as the operational bridge from SPLASHDOWN into HARD WINTER, not a numbered investigative beat;
 - HARD WINTER as Investigative Beat 2, “The Architecture”;
 - the Bakhmut packet as the physical proof that identifies Svalbard as the probable northern target;
 - PERMAFROST as the mission in which Lupin receives the shoulder fragment wound;
@@ -52,15 +53,22 @@ This order resolves continuity through placement and additive connective materia
 - the post-HULL BREACH 0200 conversation as Investigative Beat 4, “What Ducky Does With It,” and Walker's direct tasking toward the Tremblay confrontation;
 - AEGIS FALLS as the campaign finale.
 
-PROCESS WINDOW does not become an additional numbered investigative beat. It provides the target and tracking lead into HARD WINTER, where the existing architecture discovery remains controlling.
+PROCESS WINDOW DEVELOPMENT CONTROL
+PROCESS WINDOW's Game 2 placement, strategic ASML/semiconductor-recovery function, costly partial-success result, operational lead into HARD WINTER, and broad Ducky-to-Lupin rooftop/intercept transition are established.
+
+The rest of the mission is explicitly deferred for a later dedicated development pass. The current six-phase route, exact technical package, Dutch cast, attacker composition, ground encounters, objective order, technical interactions, dialogue, cinematics, failure implementation, and precise Lupin rooftop staging are provisional scaffolding rather than production-ready locks.
+
+Controlling status companion:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_Development_Status_Flag_2026-07-29_rev1.txt
+
+Later development may substantially rewrite those provisional details without reopening PROCESS WINDOW's ladder placement by default, provided the established strategic function, partial-success outcome, Lupin gameplay identity, and continuity safeguards remain intact unless the owner explicitly revises them.
 
 WHY THIS ORDER CONTROLS
 - FAILURE CASCADE establishes the post-Game-1 systems breakdown and the campaign's opening condition.
 - DEAD FREQUENCY exposes Russian possession of internal AEGIS parameters and establishes the first numbered investigative beat.
-- ORBITAL DECAY and SPLASHDOWN demonstrate the operational consequences and wider exploitation risk of the compromised architecture without displacing the investigation's authored beat order.
-- SPLASHDOWN evidence exposes a wider target package against Western technological recovery infrastructure.
-- PROCESS WINDOW makes the Taiwan / semiconductor supply-chain consequence playable, preserves a viable lithography-recovery path, and yields the tracking lead into HARD WINTER without solving the strategic bottleneck.
-- HARD WINTER remains Investigative Beat 2 and leads directly into the Bakhmut mini-arc.
+- ORBITAL DECAY and SPLASHDOWN demonstrate the operational consequences and wider exploitation risk of the compromised architecture.
+- PROCESS WINDOW converts the Chinese and Taiwan semiconductor-supply consequence into a Game 2 operation and supplies the operational lead into HARD WINTER without replacing its investigative discovery.
+- HARD WINTER follows as Investigative Beat 2 and leads into the Bakhmut mini-arc.
 - DEAD GROUND, DARK FIBER, and ASH RELAY convert Halliday's architecture theory into physical proof and identify Svalbard as the probable northern target.
 - OPEN CIRCUIT follows ASH RELAY as a time-critical continental exploitation and denial operation before AEGIS deploys north. Its placement does not replace or reverse Bakhmut's Svalbard reveal.
 - PERMAFROST pays off the Bakhmut intelligence and preserves Lupin's shoulder-wound continuity.
@@ -99,7 +107,7 @@ Narrative function:
 - establishes the China layer as operationally real rather than speculative;
 - demonstrates that compromised access and institutional penetration are as dangerous as direct assault;
 - deepens the campaign's central problem: the official attribution picture is structurally incomplete;
-- creates the immediate objective for SPLASHDOWN.
+- creates the immediate objective for the next mission.
 
 Continuity cautions:
 - Do not return this operation to Game 1.
@@ -125,7 +133,7 @@ Operational objective:
 - recover enough evidence to reconstruct who initiated the deorbit and who intended to exploit the wreckage.
 
 Outcome lock:
-The allied force secures the decisive surviving material and denies hostile recovery. The recovery does not restore the lost satellite; it preserves evidence, limits compromise, and gives Halliday and DAOG a more dangerous but more accurate picture. Part of the preserved target and movement package points toward a threatened high-end lithography transfer in Veldhoven, creating the immediate PROCESS WINDOW tasking.
+The allied force secures the decisive surviving material and denies hostile recovery. The recovery does not restore the lost satellite; it preserves evidence, limits compromise, and gives Halliday and DAOG a more dangerous but more accurate picture. Recovered material also warns of the Dutch high-technology target window that drives PROCESS WINDOW.
 
 Narrative-title function:
 SPLASHDOWN applies a controlled aerospace-recovery term to an uncontrolled mountain impact, creating deliberate irony while clearly identifying the mission as the physical consequence of ORBITAL DECAY.
@@ -134,38 +142,26 @@ Narrative function:
 - pays off ORBITAL DECAY immediately rather than leaving the deorbit as an abstract briefing event;
 - turns orbital systems warfare into a physical mountain recovery problem;
 - reinforces that local Slovenian knowledge, authority, movement, and survival expertise are indispensable;
-- broadens the attribution and compromise picture;
-- provides the warning that drives PROCESS WINDOW without replacing HARD WINTER's authored investigative function.
+- broadens the attribution and compromise picture before PROCESS WINDOW without replacing HARD WINTER's authored investigative function.
 
 Enemy-attribution caution:
 Legacy text describes unmarked Russian recovery teams. The current controlling source does not automatically erase that possibility, but it also does not lock every hostile element at the crash site to Russia. Preserve the possibility of multiple interested hostile services or deniable teams until the dedicated mission source finalizes the recovery-force composition.
 
 MISSION 05 — PROCESS WINDOW
+Placement and strategic function are locked; complete mission development is deferred.
+
 Location:
-Fictionalized ASML campus and adjacent high-security integration/logistics complex, Veldhoven, Netherlands.
+Fictionalized ASML-associated campus and integration/logistics complex, Veldhoven, Netherlands.
 
-Title status:
-PROCESS WINDOW is a working title, not yet an owner-locked final title.
+Established function:
+- defend a viable Western semiconductor-recovery path from deniable sabotage;
+- produce a costly partial success that preserves capability without solving the strategic bottleneck;
+- include a short Ducky-to-Lupin rooftop/intercept transition with Lupin using a faster, closer-ranged designated-marksman grammar distinct from Frost;
+- recover enough routing and credential evidence to task HARD WINTER without pre-empting Investigative Beat 2.
 
-Core premise:
-AEGIS reinforces Dutch defenders and a technical continuity team during a deniable Chinese-directed sabotage operation against the last immediately usable Western high-end lithography integration and calibration path available to the wartime recovery effort. The target is not one magical machine but a combined recovery chain of critical modules, qualification data, specialist tooling, controlled technical infrastructure, and essential engineers.
-
-Operational objective:
-- identify the true sabotage targets inside the campus service and transfer network;
-- protect the technical continuity team and moving transfer package;
-- prevent destruction or erasure of calibration and qualification data;
-- stop contamination and demolition actions from making recovery nonviable;
-- reopen the convoy route through a scripted Lupin rooftop-intercept section;
-- preserve attacker routing and contractor evidence leading into HARD WINTER.
-
-Outcome lock:
-The critical module, qualification archive, and essential engineering team survive. Secondary tooling, support infrastructure, and service capacity are damaged, preserving a viable recovery path while leaving the semiconductor bottleneck and Game 3 supply-chain ceiling intact. Recovered routing and credential material points Halliday toward the mobile EW/logistics convoy in Latvia.
-
-Lupin gameplay lock:
-Lupin becomes temporarily playable from an elevated campus position when hostile roof teams, drone operators, marksmen, and an anti-vehicle element pin the moving convoy. His section is short, urgent, and closer-ranged than Frost's precision grammar. He uses his SCAR-H designated-marksman configuration to clear and hold the route, visibly protecting Ducky, Switchblade, Dutch defenders, engineers, and convoy vehicles below. Control returns to Ducky as soon as the route reopens.
-
-Detailed mission source:
-dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+Detailed source and status control:
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_Development_Status_Flag_2026-07-29_rev1.txt
 
 MISSION 10 — OPEN CIRCUIT
 Location:
@@ -184,18 +180,19 @@ AEGIS FALLS FINALE INTEGRATION RULE
 Preserve both existing finale assets without creating an additional ladder mission: AEGIS FALLS may use a compound final-operation structure in which the Russian undersea threat against France is prevented during the operational phase and the unauthorized Aix-en-Provence confrontation with Tremblay forms the final movement and resolution. Exact route, staging, and transition remain production-working. The protected Tremblay/Ducky ending line pair remains controlling.
 
 LOCAL-ACTOR RULE
-Do not over-centralize AEGIS in ORBITAL DECAY, SPLASHDOWN, or PROCESS WINDOW. Spanish, Slovenian, and Dutch actors have their own war, institutional responsibilities, terrain or site knowledge, intelligence, casualties, and authority. AEGIS is the playable spine and technical connective tissue, not the sole competent force in the theater.
+Do not over-centralize AEGIS in ORBITAL DECAY, SPLASHDOWN, or PROCESS WINDOW. Spanish, Slovenian, and Dutch actors have their own war, institutional responsibilities, terrain and site knowledge, intelligence, casualties, and authority. AEGIS is the playable spine and technical connective tissue, not the sole competent force in the theater.
 
 SUPERSESSION
 This source supersedes:
 - any Game 1 ladder placement of the Torrejón Air Base or Julian Alps operations;
+- any Game 3 placement of the ASML/PROCESS WINDOW operation;
 - the older Russian-only Torrejón attribution;
-- recovery-note language that leaves the pair outside the active PERSISTENT THREAT ladder;
+- recovery-note language that leaves ORBITAL DECAY, SPLASHDOWN, PROCESS WINDOW, or OPEN CIRCUIT outside the active PERSISTENT THREAT ladder;
 - COLD OPEN as the opening mission title;
 - TORREJÓN DE ARDOZ OPERATION as Mission 03's title, while retaining it as a descriptive location/operation label;
 - JULIAN ALPS RECOVERY as Mission 04's title, while retaining it as a descriptive location/recovery label;
-- any source that places the ASML defense mission in Game 3 or leaves its Game 2 slot unresolved;
 - any prior ladder placing the Torrejón and Julian Alps operations before DEAD FREQUENCY;
+- any source treating PROCESS WINDOW's current detailed scaffold as production-ready or fully locked;
 - the interim ladder placing HULL BREACH before PERMAFROST;
 - the interim ladder placing PERMAFROST before the Bakhmut mini-arc;
 - the interim ladder placing HARD WINTER after OPEN CIRCUIT;
@@ -207,7 +204,7 @@ This source does not supersede:
 - ARTEMIS in DEAD FREQUENCY;
 - TYPHON in PERMAFROST;
 - Lupin's PERMAFROST shoulder wound or his wounded-state HULL BREACH exploitation;
+- PROCESS WINDOW's later dedicated development pass;
 - OPEN CIRCUIT's dedicated mission content and production locks;
 - the protected AEGIS FALLS end-state and ending line pair;
-- the Game 3 strategic consequence of constrained semiconductor recovery;
-- future dedicated mission pages that refine local cast, route design, encounter composition, final PROCESS WINDOW title, and production scripting without changing the continuity-preserving ladder or locked mission titles.
+- future dedicated mission pages that refine local cast, route design, encounter composition, and production scripting without changing the continuity-preserving ladder or locked mission titles.
