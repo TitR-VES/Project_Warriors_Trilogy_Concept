@@ -23,6 +23,110 @@ ammunition:
       relative to standard 9x19mm. The suppressor's forward-weight handling penalties remain
       active. Compatibility may be broadened only through later source-backed weapon passes.
 
+malfunction_profiles:
+  - id: PW-MAL-SANDMAN-GUIDE-ROD-WALKOUT
+    weapon_ref: PW-WEP-HUDSON-H9
+    named_build_ref: PW-WPN-HAWTHORNE-SANDMAN
+    malfunction_type: guide_rod_walkout_slide_stick
+    status: confirmed
+    normal_condition_probability_schedule:
+      - sustained_fire_magazine_index: 1
+        check_scope: per_shot
+        probability: 0.04
+      - sustained_fire_magazine_index: 2
+        check_scope: per_magazine_event
+        probability: 0.50
+      - sustained_fire_magazine_index: 3_plus
+        check_scope: per_magazine_event
+        probability: 0.96
+    state_result:
+      slide_position: rear_or_half_open
+      battery_state: out_of_battery
+      weapon_can_fire: false
+    clear_input: contextual_restore_to_ready
+    clear_duration_class: longer
+    clear_animation: reposition_slide_and_return_to_battery
+    sources: [SANDMAN, REG10]
+    notes: >-
+      Applies to a sustained magdump-reload-repeat chain. The first magazine is checked
+      per shot. The 50% second-magazine and 96% third-and-later-magazine values are event
+      chances for the magazine and must not be applied per shot. The cadence/cooldown
+      threshold that resets the chain remains open.
+
+  - id: PW-MAL-SANDMAN-FIRST-ROUND-CHOKE
+    weapon_ref: PW-WEP-HUDSON-H9
+    named_build_ref: PW-WPN-HAWTHORNE-SANDMAN
+    malfunction_type: fresh_magazine_first_round_choke
+    status: confirmed
+    check_scope: per_eligible_reload
+    probability: 0.10
+    eligibility:
+      requires_fresh_magazine: true
+      requires_new_round_chambering: true
+      excludes_tactical_reload_with_chambered_round: true
+    state_result:
+      chamber_state: first_round_not_fully_chambered
+      battery_state: out_of_battery
+      weapon_can_fire: false
+    clear_input: contextual_restore_to_ready
+    clear_duration_class: short
+    clear_animation: slight_slide_retraction_to_seat_round
+    sources: [SANDMAN, REG10]
+
+  - id: PW-MAL-SANDMAN-STIFF-MAGAZINE-EXTRACTION
+    weapon_ref: PW-WEP-HUDSON-H9
+    named_build_ref: PW-WPN-HAWTHORNE-SANDMAN
+    malfunction_type: stiff_magazine_extraction
+    status: confirmed
+    check_scope: per_reload_with_magazine_removal
+    probability: 0.20
+    eligibility:
+      tactical_reload_included: true
+    state_result:
+      magazine_removal: resisted
+      chamber_state: preserved
+    clear_input: continue_reload
+    clear_duration_class: reload_delay
+    clear_animation: positive_manual_magazine_removal
+    sources: [SANDMAN, REG10]
+
+  - id: PW-MAL-SANDMAN-SLIDE-CATCH-SLINGSHOT
+    weapon_ref: PW-WEP-HUDSON-H9
+    named_build_ref: PW-WPN-HAWTHORNE-SANDMAN
+    malfunction_type: premature_slide_closure
+    status: confirmed
+    check_scope: per_eligible_reload
+    probability: 0.125
+    eligibility:
+      excludes_tactical_reload_with_chambered_round: true
+    timing_windows: [before_fresh_magazine_insertion, just_after_fresh_magazine_insertion]
+    required_pre_insertion_state_result:
+      slide_position: forward
+      chamber_state: empty
+      battery_state: in_battery_empty
+      weapon_can_fire: false
+    required_pre_insertion_recovery:
+      player_reinitiates_restore_to_ready: true
+      clear_animation: retract_and_release_slide_after_magazine_insertion
+      end_state: live_round_chambered_in_battery
+    post_insertion_resolution: open
+    sources: [SANDMAN, REG10]
+
+  - id: PW-MAL-SANDMAN-IN-CYCLE-FEED-CHOKE
+    weapon_ref: PW-WEP-HUDSON-H9
+    named_build_ref: PW-WPN-HAWTHORNE-SANDMAN
+    malfunction_type: in_cycle_feed_choke
+    status: confirmed
+    check_scope: per_shot
+    probability: 0.025
+    state_result:
+      feed_state: choked
+      weapon_can_fire: false
+    clear_input: contextual_restore_to_ready
+    clear_duration_class: shorter_than_guide_rod_walkout
+    clear_animation: state_dependent_open
+    sources: [SANDMAN, REG10]
+
 weapons:
   - id: PW-WEP-HUDSON-H9
     canonical_name: Hudson H9
@@ -35,23 +139,28 @@ weapons:
     sources: [SANDMAN, REG10]
     named_build_refs: [PW-WPN-HAWTHORNE-SANDMAN]
     occurrence_refs: [PW-WOC-WAR-WITHIN-HUDSON-H9]
+    malfunction_profile_refs:
+      - PW-MAL-SANDMAN-GUIDE-ROD-WALKOUT
+      - PW-MAL-SANDMAN-FIRST-ROUND-CHOKE
+      - PW-MAL-SANDMAN-STIFF-MAGAZINE-EXTRACTION
+      - PW-MAL-SANDMAN-SLIDE-CATCH-SLINGSHOT
+      - PW-MAL-SANDMAN-IN-CYCLE-FEED-CHOKE
     notes: >-
       The project-specific Hawthorne build has a tan/FDE primary finish, black polymer
       grip panels, a threaded barrel and a Streamlight TLR-3 weapon light. The TLR-3 body
       mounts distinctly low below the bore while its switch paddle remains high enough for
       natural finger access from the firing grip. Its canonical removable suppressor is a
-      black, flat-sided, just-under-seven-inch SilencerCo Osprey 45 2.0. The two-tone finish
-      reinforces the SANDMAN name; the Hudson H9's unusual profile, low-mounted light and
-      elongated Osprey-equipped outline support the Logan's Run visual echo without replica
-      styling. Unsuppressed gameplay identity: exceptionally soft recoil, very low muzzle
-      rise, very fast ADS, high aim stability and rapid accurate follow-up shots. Suppressed
-      identity: exceptional signature reduction, noticeably slower ADS and slightly lower
-      repeated-follow-up stability because the forward mass shifts the center of gravity
-      toward the muzzle. Standard 9x19mm is common and relatively inexpensive; the later
-      subsonic lane trades slight damage and range for the strongest suppressed sound
-      reduction. Reliability is slightly below the regular maintained M1911 reference lane
-      and uses condition-driven persistent malfunction states rather than frequent arbitrary
-      random jams.
+      black, flat-sided, just-under-seven-inch SilencerCo Osprey 45 2.0. The two-tone finish,
+      low-mounted light and elongated Osprey-equipped outline support the Logan's Run visual
+      echo without replica styling. Unsuppressed gameplay identity: exceptionally soft recoil,
+      very low muzzle rise, very fast ADS, high aim stability and rapid accurate follow-up
+      shots. Suppressed identity: exceptional signature reduction, noticeably slower ADS and
+      slightly lower repeated-follow-up stability because the forward mass shifts the center
+      of gravity toward the muzzle. Standard 9x19mm is common and relatively inexpensive; the
+      later subsonic lane trades slight damage and range for the strongest suppressed sound
+      reduction. Reliability is controlled by the five quantified SANDMAN malfunction profiles.
+      Earlier low-absolute-risk and maintained-M1911 comparison language is superseded where
+      inconsistent with those rates.
 
 occurrences:
   - id: PW-WOC-WAR-WITHIN-HUDSON-H9
@@ -87,7 +196,13 @@ occurrences:
       - soft_recoil
       - very_fast_ads_unsuppressed
       - high_aim_stability_unsuppressed
-      - condition_driven_malfunction_profile
+      - quantified_weapon_specific_malfunction_profile
+      - guide_rod_walkout_sustained_fire_escalation
+      - fresh_mag_first_round_choke
+      - stiff_magazine_extraction
+      - premature_slide_closure
+      - in_cycle_feed_choke
+      - persistent_mechanical_state
     notes: >-
       Hawthorne has carried SANDMAN since his early Kill Devil Hills Detachment period.
       It predates his later New American Frontier and Vanguard affiliations. The Streamlight
@@ -96,9 +211,9 @@ occurrences:
       Suppressed use means fitting the specified removable Osprey 45 2.0 rather than creating
       a separate platform identity. Standard 9x19mm is the initial common ammunition lane.
       Subsonic 9x19mm unlocks later for the quietest suppressed state. The Osprey's forward
-      mass noticeably slows ADS and slightly reduces repeated-shot stability. Simple stoppages
-      use Hawthorne's practiced rapid immediate-action animation through the contextual
-      restore-to-ready input; complex clears retain physically honest persistent state.
+      mass noticeably slows ADS and slightly reduces repeated-shot stability. SANDMAN's five
+      quantified malfunction profiles inherit the contextual restore-to-ready and persistent
+      state system. Routine failures cannot permanently discard the named weapon.
 
 named_build_bindings:
   - named_build_ref: PW-WPN-HAWTHORNE-SANDMAN
@@ -108,6 +223,7 @@ named_build_bindings:
 
 validation_targets:
   duplicate_ammunition_ids: 0
+  duplicate_malfunction_profile_ids: 0
   duplicate_weapon_ids: 0
   duplicate_occurrence_ids: 0
   duplicate_named_build_refs: 0
