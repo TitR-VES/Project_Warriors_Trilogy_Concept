@@ -1,8 +1,17 @@
 PROJECT WARRIORS — PERSISTENT THREAT
 PROCESS WINDOW — ASML / VELDHOVEN MISSION SOURCE
 Generated: 2026-07-29
-Version: rev1
-Status: LOCKED GAME 2 PLACEMENT / WORKING MISSION TITLE / WORKING PRODUCTION DETAIL
+Version: rev2
+Status: LOCKED GAME 2 PLACEMENT / WORKING MISSION TITLE / PROVISIONAL MISSION SCAFFOLD / DEVELOPMENT DEFERRED
+
+DEVELOPMENT-STATUS CONTROL
+
+PROCESS WINDOW is not production-ready. Its Game 2 placement, strategic function, costly partial-success result, and broad Ducky-to-Lupin rooftop/intercept asset are established. The remainder of this document is a provisional scaffold retained to support a later dedicated mission-development pass.
+
+The controlling development-status companion is:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_Development_Status_Flag_2026-07-29_rev1.txt
+
+Unless that companion or a later owner-approved source states otherwise, the exact route, phase order, attacker composition, technical package, Dutch cast, ground encounters, objective sequence, dialogue, cinematics, failure implementation, and precise Lupin rooftop staging below may be reorganized, replaced, expanded, or substantially rewritten. Do not treat detail density in this source as a production lock.
 
 ===============================================================================
 1. AUTHORITY AND RECOVERY RESULT
@@ -161,8 +170,10 @@ Local partners:
 AEGIS is the playable connective tissue, not the only competent force present.
 
 ===============================================================================
-7. MISSION FLOW
+7. PROVISIONAL MISSION FLOW
 ===============================================================================
+
+The following flow is development scaffolding, not a locked mission outline.
 
 PHASE 1 — CONTROLLED ARRIVAL
 
@@ -276,10 +287,10 @@ PROCESS WINDOW:
 9. LUPIN CHARACTER AND GAMEPLAY LOCKS
 ===============================================================================
 
-The Lupin section is not optional and is not player-triggered.
+The broad Lupin perspective-transition asset is retained. Its exact implementation remains deferred.
 
 It must:
-- arise from a genuine moving-convoy threat that Ducky cannot solve from ground level;
+- arise from a genuine moving-friendly threat that Ducky cannot solve from ground level;
 - be shorter and more urgent than a Frost precision section;
 - use closer ranges, moving targets, and rapid prioritization;
 - visibly protect Ducky, Switchblade, Dutch defenders, engineers, and convoy vehicles;
@@ -294,7 +305,7 @@ It must not:
 - use a loading screen or chapter break for the perspective transition.
 
 ===============================================================================
-10. ENVIRONMENT AND TONE
+10. ENVIRONMENT AND TONE — WORKING DIRECTION
 ===============================================================================
 
 Use:
@@ -317,10 +328,12 @@ Avoid:
 - triumphal resolution of the global chip shortage.
 
 ===============================================================================
-11. GAMEPLAY AND FAILURE STATES
+11. PROVISIONAL GAMEPLAY AND FAILURE STATES
 ===============================================================================
 
-Hard failure:
+The following are placeholders for the later development pass rather than final implementation locks.
+
+Hard failure candidates:
 - critical module destroyed beyond recovery;
 - qualification archive fully erased;
 - essential engineering team wiped out;
@@ -328,7 +341,7 @@ Hard failure:
 - Lupin killed during the roof-line transition;
 - Ducky killed or AEGIS team wipe.
 
-Soft-fail / performance consequences:
+Soft-fail / performance candidates:
 - loss of secondary tooling increases downstream recovery time;
 - failure to protect specific engineers reduces retained expertise;
 - delayed roof clearing causes convoy damage and additional Dutch casualties;
@@ -355,19 +368,23 @@ survives, but the strategic bottleneck remains.
 - It does not imply that Russia and China operate under one unified command.
 
 ===============================================================================
-13. OPEN PRODUCTION FIELDS
+13. DEFERRED DEVELOPMENT REGISTER
 ===============================================================================
 
 - final owner-approved mission title;
+- complete briefing, opening state, and mission-to-mission handoffs;
 - exact fictional campus abstraction and map footprint;
+- full route and phase order;
 - exact critical module / archive package wording;
-- named Dutch military, security, technical, and engineering cast;
+- named Dutch military, security, technical, emergency-response, and engineering cast;
 - exact sabotage-cell sponsorship and local facilitator structure;
-- detailed encounter count and roof-line target order;
-- final transition dialogue and animation timing;
-- exact SPLASHDOWN evidence handoff;
-- exact PROCESS WINDOW-to-HARD WINTER tracking handoff;
-- final soft-fail consequence implementation;
+- Ducky-led ground-operation design before and after the rooftop sequence;
+- detailed encounter count, pacing, objective order, checkpoint structure, and mission length;
+- precise Lupin transition setup, route, target order, dialogue, animation, and return staging;
+- Frost and Switchblade's complete authored roles;
+- technical-interaction mechanics and contamination/system-control gameplay;
+- canonical hard-failure and soft-fail implementation;
+- full dialogue, radio traffic, cinematics, performance direction, music, and ending scene;
 - whether a surviving Dutch or ASML technical character recurs later.
 
 ===============================================================================
