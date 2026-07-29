@@ -32,7 +32,7 @@ malfunction_profiles:
     normal_condition_probability_schedule:
       - sustained_fire_magazine_index: 1
         check_scope: per_shot
-        probability: 0.04
+        probability: 0.025
       - sustained_fire_magazine_index: 2
         check_scope: per_magazine_event
         probability: 0.50
