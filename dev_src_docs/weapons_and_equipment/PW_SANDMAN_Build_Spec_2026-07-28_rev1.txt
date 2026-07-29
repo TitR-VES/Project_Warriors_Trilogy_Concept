@@ -100,7 +100,7 @@ Failure state:
 - the event uses a visibly longer clearing branch than the shorter feed and chambering corrections
 
 Probability schedule:
-- first consecutive rapid-fire magazine: 4% per shot
+- first consecutive rapid-fire magazine: 2.5% per shot
 - second consecutive rapid-fire magazine, after an immediate reload-and-continue sequence: 50% chance that the malfunction occurs during that magazine
 - third and every later consecutive rapid-fire magazine in the same magdump-reload-repeat chain: 96% chance per magazine
 
