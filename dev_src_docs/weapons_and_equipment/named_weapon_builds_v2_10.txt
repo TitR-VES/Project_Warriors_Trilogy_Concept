@@ -80,7 +80,7 @@ build specification control.
 
 PW-WPN-HAWTHORNE-SANDMAN
   Build name: SANDMAN
-  Platform: 2019 Hudson H9, 9x19mm, striker-fired pistol
+  Platform: 2018 Hudson H9, 9x19mm, striker-fired pistol
   Character: Nicholas Wayne Hawthorne
   Callsign: Croatoan
   Campaign: War Within DLC
