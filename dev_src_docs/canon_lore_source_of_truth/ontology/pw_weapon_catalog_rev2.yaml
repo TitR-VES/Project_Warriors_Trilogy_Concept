@@ -44,6 +44,8 @@ meta:
     - SANDMAN's persistent weapon light is a Streamlight TLR-3 mounted distinctly low below the bore, with its switch paddle high enough for natural finger access.
     - SANDMAN's canonical suppressor is the SilencerCo Osprey 45 2.0, measuring just under seven inches.
     - Earlier Osprey SHS and eight-inch suppressor references are superseded and must not be restored.
+    - SANDMAN's five quantified malfunction profiles supersede the earlier low-absolute-risk and maintained-M1911 comparison wherever inconsistent.
+    - Guide-rod walk-out uses a 4% per-shot first-magazine check, then 50% and 96% per-magazine checks for the second and later sustained-fire magazines.
 parts:
 - path: pw_weapon_catalog_platforms_firearms_1_rev1.yaml
   contains: [weapons]
@@ -80,7 +82,7 @@ parts:
 - path: pw_weapon_catalog_named_build_bindings_2_rev1.yaml
   contains: [named_build_bindings]
 - path: pw_weapon_catalog_sandman_rev1.yaml
-  contains: [ammunition, weapons, occurrences, named_build_bindings]
+  contains: [ammunition, malfunction_profiles, weapons, occurrences, named_build_bindings]
 open_flags:
 - id: PW-WCAT-OPEN-ROSTER-COMPLETENESS
   description: Campaigns with incomplete or not-yet-developed weapon passes may add platforms and occurrences through additive deltas.
@@ -92,3 +94,5 @@ open_flags:
   description: Nine named weapon identities retain platform-recovery-required bindings.
 - id: PW-WCAT-OPEN-CALIBER-LANES
   description: Several roster-level or prototype platforms retain explicit caliber implementation flags.
+- id: PW-WCAT-OPEN-SANDMAN-MALFUNCTION-INTERACTIONS
+  description: SANDMAN's event priority, simultaneous reload-failure sequencing, sustained-fire reset threshold, post-insertion slide-slingshot recovery, and condition/difficulty modifiers remain open around the locked base rates.
