@@ -29,9 +29,10 @@ build specification control.
    has been carried since his early Kill Devil Hills Detachment period.
 4. The threaded barrel is locked physical configuration. The suppressor is removable
    rather than permanently fitted.
-5. SANDMAN's canonical suppressor is a black, flat-sided, eight-inch SilencerCo
-   Osprey SHS. Do not substitute a generic cylindrical suppressor in build references.
-6. The Osprey SHS provides exceptional shot-report dampening, especially with later
+5. SANDMAN's canonical suppressor is a black, flat-sided, just-under-seven-inch
+   SilencerCo Osprey 45 2.0. Do not substitute a generic cylindrical suppressor in
+   build references.
+6. The Osprey 45 2.0 provides exceptional shot-report dampening, especially with later
    9x19mm subsonic ammunition.
 7. The suppressor's forward mass shifts the center of gravity toward the muzzle,
    making ADS noticeably slower and repeated follow-up shots slightly less stable
@@ -65,7 +66,7 @@ PW-WPN-HAWTHORNE-SANDMAN
   Campaign: War Within DLC
   Role: persistent personal sidearm
   Base configuration: tan/FDE finish; black polymer grip panels; threaded barrel
-  Suppressor: removable black flat-sided eight-inch SilencerCo Osprey SHS
+  Suppressor: removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0
   Visual identity: sand-linked two-tone finish; unusual futuristic Hudson H9 profile;
                    especially distinctive elongated flat-sided outline when suppressed
   Unsuppressed handling: exceptionally soft recoil; very low muzzle rise; great ergonomics;
@@ -74,7 +75,7 @@ PW-WPN-HAWTHORNE-SANDMAN
                        reduced repeated-follow-up stability from forward weight
   Standard ammunition: common / relatively inexpensive 9x19mm; suitable against soft
                        and lightly armored targets within intended pistol range
-  Later ammunition: 9x19mm subsonic; strongest sound reduction with Osprey SHS;
+  Later ammunition: 9x19mm subsonic; strongest sound reduction with Osprey 45 2.0;
                     slight damage and effective-range reduction
   Reliability: slightly below a regular maintained M1911 reference lane; low absolute
                risk when maintained; condition-driven stoppages; rapid practiced
@@ -99,8 +100,8 @@ Uncounted owner-specific recovery slots with name not recovered: 2
 
 CURRENT
 - Hawthorne / Croatoan = SANDMAN = 2019 tan/FDE Hudson H9 = persistent sidearm
-- SANDMAN's suppressor = removable black flat-sided eight-inch SilencerCo Osprey SHS
-- Osprey SHS improves signature reduction but slows ADS and slightly reduces repeated-shot stability
+- SANDMAN's suppressor = removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0
+- Osprey 45 2.0 improves signature reduction but slows ADS and slightly reduces repeated-shot stability
 - SANDMAN uses common standard 9x19mm initially and gains a later subsonic lane
 - SANDMAN is a control/speed sidearm with a modest condition-driven reliability cost
 - Hawthorne / Croatoan = DEAD BLOW = black HK MP5SD-style suppressed SMG
@@ -109,7 +110,8 @@ SUPERSEDED / INVALID
 - Hawthorne having no persistent sidearm
 - treating SANDMAN as a generic Hudson H9 with no named-build identity
 - treating the threaded barrel as proof of a permanently fitted suppressor
-- using a generic cylindrical suppressor in place of the specified Osprey SHS
+- using a generic cylindrical suppressor in place of the specified Osprey 45 2.0
+- identifying SANDMAN's suppressor as an Osprey SHS or as an eight-inch model
 - treating suppressed SANDMAN as a no-cost handling upgrade
 - treating 9x19mm subsonic as a pure upgrade with no damage/range trade-off
 - implementing SANDMAN malfunctions as frequent arbitrary per-shot random jams
