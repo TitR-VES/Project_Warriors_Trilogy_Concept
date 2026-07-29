@@ -5,19 +5,23 @@ Status: PASS WITH EXPLICIT LOWER-LEVEL TUNING FIELDS
 
 SCOPE
 Audit the landing of Nicholas Wayne Hawthorne / Croatoan's persistent sidearm,
-SANDMAN, including its visual identity, suppressor configuration, handling behavior,
-ammunition progression and reliability trade-off.
+SANDMAN, including its visual identity, weapon-light and suppressor configurations,
+handling behavior, ammunition progression and reliability trade-off.
 
 CANON INPUT
 - Owner: Nicholas Wayne Hawthorne / Croatoan.
 - Platform: tan/FDE 2019 Hudson H9, 9x19mm, striker-fired pistol.
 - Grip treatment: black polymer grip panels.
 - Barrel: threaded.
+- Weapon light: Streamlight TLR-3, mounted distinctly low below the bore.
+- Light control: switch paddle positioned high enough for natural finger access despite
+  the low light body.
 - Suppressor: removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0.
 - Provenance: carried since Hawthorne's early Kill Devil Hills Detachment days.
 - Name: SANDMAN, a nod to Logan's Run, one of Hawthorne's favorite novels.
 - Visual logic: tan/FDE finish reinforces the name; the Hudson H9's futuristic
-  profile and elongated Osprey-equipped outline evoke the fictional namesake.
+  profile, low-mounted TLR-3 and elongated Osprey-equipped outline evoke the fictional
+  namesake.
 - Unsuppressed handling: exceptionally soft recoil, very low muzzle rise, great
   ergonomics, very fast ADS, high aim stability and rapid accurate follow-up shots.
 - Suppressed handling: exceptional shot-report dampening; forward-shifted center
@@ -68,6 +72,10 @@ ONTOLOGY VALIDATION
 - Player access is mapped as persistent personal loadout.
 - Acquisition is mapped as personal_loadout rather than loot, reward or handoff.
 - Retention is persistent and drop policy is not applicable.
+- The Streamlight TLR-3 is mapped as part of the same persistent named-build occurrence,
+  not as a separate weapon identity.
+- Tags preserve the low below-bore light position, reachable high paddle and practical
+  momentary/steady control concept.
 - The removable Osprey 45 2.0 is represented as a configuration of the same Hudson H9
   occurrence rather than a duplicate weapon platform.
 - Standard and subsonic ammunition lanes are both mapped to the Hudson H9 occurrence.
@@ -92,8 +100,23 @@ PASS. SANDMAN strengthens Hawthorne continuity rather than introducing a late-lo
 contradiction. The weapon predates his New American Frontier / Vanguard involvement
 and can persist through War Within unless a mission explicitly strips personal gear.
 
+WEAPON-LIGHT IDENTITY CHECK
+PASS. SANDMAN now uses one exact owner-adjudicated weapon-light model: the Streamlight
+TLR-3. The source chain treats it as part of the persistent base configuration rather
+than a mission-only or interchangeable generic light.
+
+PASS. The physical relationship is preserved consistently. The compact light body
+sits distinctly low beneath the bore, while the switch paddle remains high enough
+relative to the trigger guard and firing hand for natural finger access. Production
+must not raise or enlarge the body, make the control unreachable, or require an
+exaggerated grip break merely to simplify animation.
+
+PASS. The real product's ambidextrous momentary/steady control concept is compatible
+with the owner-directed installation. Exact finger choice, animation, beam tuning,
+battery behavior and input mapping remain implementation fields.
+
 SUPPRESSOR IDENTITY CHECK
-PASS. Suppressed SANDMAN now uses one exact owner-adjudicated real-world configuration:
+PASS. Suppressed SANDMAN uses one exact owner-adjudicated real-world configuration:
 a removable black flat-sided SilencerCo Osprey 45 2.0 measuring just under seven
 inches. The source chain no longer leaves suppressor model, approximate length, color
 or external shape open. Unsuppressed carry remains valid, and the Osprey is not
@@ -106,14 +129,20 @@ refreshes.
 VISUAL / NAME LOGIC CHECK
 PASS. The tan/FDE finish provides a restrained visual connection to the SANDMAN name.
 The black grips preserve a strong two-tone recognition cue. The Hudson H9's unusual
-near-futuristic profile supports the Logan's Run association without replica styling,
-and the black flat-sided Osprey creates the build's most distinctive elongated outline.
+near-futuristic profile supports the Logan's Run association without replica styling.
+The low TLR-3 adds a distinct under-bore layer without sacrificing believable switch
+access, and the black flat-sided Osprey creates the build's most elongated outline.
 
 HANDLING BALANCE CHECK
 PASS. Bare SANDMAN's exceptional recoil control, low muzzle rise, very fast ADS and high
 aim stability form one coherent control/speed identity. The source does not also give
 the pistol excessive raw damage, armor defeat or long-range performance. Faster and
 more accurate follow-up shots are the intended unsuppressed reward.
+
+PASS. The compact TLR-3 does not overwrite the base handling identity. Its low mounting
+position is a visual and control detail rather than an excuse to assign the same major
+front-weight penalty as the suppressor. Any small numerical light-equipped effect
+remains open for tuning.
 
 PASS. The Osprey 45 2.0 creates a clear suppressed-state trade-off. It provides
 exceptional signature reduction but adds mass ahead of the muzzle, shifts the center
@@ -151,10 +180,15 @@ OPEN IMPLEMENTATION FIELDS
 - exact standard and subsonic ammunition brands / load specifications
 - exact numerical recoil, muzzle-rise, ADS, stability, damage, range and sound values
 - exact tan/FDE finish or coating
+- exact TLR-3 beam presentation, battery behavior, input mapping and activation animation
+- exact finger used for light activation in each stance and hand state
 - exact Osprey 45 2.0 mounting interface, attachment animation and mission availability
 - exact subsonic unlock point, price and replenishment rate
 - exact malfunction-frequency curve by condition and difficulty
 - exact holster and carry position
+
+The TLR-3 model, low below-bore mounting position and high reachable switch-paddle
+relationship are locked and are no longer open implementation fields.
 
 The suppressor's Osprey 45 2.0 model, black color, flat-sided shape and just-under-
 seven-inch approximate length are locked and are no longer open implementation fields.
@@ -162,6 +196,7 @@ seven-inch approximate length are locked and are no longer open implementation f
 RESULT
 PASS. SANDMAN is durably landed across source, registry, ammunition/weapon ontology,
 working-knowledge and inherited malfunction-mechanic layers. The branch is ready for
-review on the corrected visual, suppressor, handling, progression and reliability scope.
+review on the corrected visual, weapon-light, suppressor, handling, progression and
+reliability scope.
 
 END
