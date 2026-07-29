@@ -1,0 +1,375 @@
+PROJECT WARRIORS — PERSISTENT THREAT
+PROCESS WINDOW — ASML / VELDHOVEN MISSION SOURCE
+Generated: 2026-07-29
+Version: rev1
+Status: LOCKED GAME 2 PLACEMENT / WORKING MISSION TITLE / WORKING PRODUCTION DETAIL
+
+===============================================================================
+1. AUTHORITY AND RECOVERY RESULT
+===============================================================================
+
+This mission belongs to Ducky's Game 2 campaign, PERSISTENT THREAT.
+
+It was not moved into Game 3. The apparent Game 3 association comes from a Game 3
+strategy-development source that discusses the semiconductor bottleneck inherited
+from Game 2. That source explicitly describes the ASML Netherlands facility as an
+already seeded Ducky Game 2 mission asset. The Game 2 transcript recovery packet
+separately preserves an ASML-campus defense mission with a scripted Lupin
+perspective transition.
+
+Recovered concept layers:
+- sequel note: defend a critical ASML lithography asset from Chinese sabotage;
+- strategic layer: Taiwan annexation and advanced-chip supply disruption make
+  European lithography capacity load-bearing for AEGIS and wider Western recovery;
+- gameplay layer: a short, urgent Lupin overwatch/intercept section protects moving
+  friendlies across the campus geometry;
+- downstream layer: the mission preserves a viable recovery path but does not erase
+  the semiconductor constraint that remains important in Game 3.
+
+Controlling recovery references:
+- Recovered_Sources/recovered__Fictional_FPS_campaign_8.pdf.txt
+- Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_02_Worldbuilding_Strategic_Architecture_2026-07-06_rev6.txt
+- Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-07-06_rev6.txt
+- dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
+
+===============================================================================
+2. CAMPAIGN PLACEMENT
+===============================================================================
+
+Current mission number: 05.
+
+Placement:
+SPLASHDOWN -> PROCESS WINDOW -> HARD WINTER.
+
+Full controlling ladder:
+FAILURE CASCADE -> DEAD FREQUENCY -> ORBITAL DECAY -> SPLASHDOWN ->
+PROCESS WINDOW -> HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY ->
+OPEN CIRCUIT -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
+
+Placement rationale:
+- ORBITAL DECAY establishes direct Chinese exploitation of compromised AEGIS access.
+- SPLASHDOWN preserves evidence from the deorbited satellite and exposes a broader
+  target package against Western recovery infrastructure.
+- PROCESS WINDOW turns the China and Taiwan supply-chain consequences into a
+  playable European infrastructure defense mission.
+- The surviving sabotage-cell routing and credential trail gives Halliday the lead
+  needed to locate the mobile EW convoy in HARD WINTER.
+- HARD WINTER remains Investigative Beat 2, “The Architecture.” PROCESS WINDOW
+  supplies the target lead; it does not pre-empt or replace that discovery.
+
+This slot preserves every existing locked causal block:
+- ORBITAL DECAY -> SPLASHDOWN remains adjacent;
+- HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY remains intact;
+- ASH RELAY -> OPEN CIRCUIT -> PERMAFROST remains intact;
+- PERMAFROST -> HULL BREACH -> AEGIS FALLS remains intact.
+
+===============================================================================
+3. MISSION IDENTITY
+===============================================================================
+
+Working title: PROCESS WINDOW.
+
+The title is not yet owner-locked. It refers both to the tightly controlled
+manufacturing tolerances required by advanced lithography and to the narrow period
+in which AEGIS can prevent the sabotage operation from closing the West's recovery
+path.
+
+Location:
+A fictionalized ASML campus and adjacent high-security logistics/integration complex
+in Veldhoven, Netherlands.
+
+The mission should use recognizable Dutch high-technology campus texture without
+reproducing a sensitive real-world internal layout. The playable environment is an
+authored abstraction built from office blocks, service roads, loading courts,
+utility buildings, roof plant, secure transfer bays, landscaped separators, parking
+structures, and controlled technical corridors.
+
+Mission type:
+High-value industrial defense, technical continuity protection, moving-asset escort,
+and counter-sabotage operation with one scripted Lupin perspective transition.
+
+===============================================================================
+4. TECHNICAL AND STRATEGIC FRAMING
+===============================================================================
+
+Do not reduce ASML or semiconductor manufacturing to one magical machine.
+
+Within the wartime fiction, the protected target is the last immediately usable
+Western high-end lithography integration and calibration path available to the DAOG
+recovery effort. Its value comes from a combined system:
+- a critical exposure-system module and associated precision-optics package;
+- calibration, alignment, process-control, and qualification data;
+- specialized tooling and contamination-control infrastructure;
+- a small group of engineers and technicians capable of restoring and certifying
+  the line;
+- a supply and service chain already badly constrained by Taiwan's annexation and
+  wider wartime disruption.
+
+Destroying any one element would hurt. Destroying the combination would delay the
+replacement of compromised AEGIS and autonomous-defense hardware long enough to
+alter the strategic balance.
+
+The enemy therefore does not need to occupy the entire campus. Its goal is to make
+recovery nonviable by destroying the irreplaceable combination, contaminating the
+technical environment, killing or abducting key personnel, and erasing the
+qualification archive.
+
+===============================================================================
+5. STORY SETUP
+===============================================================================
+
+Material recovered during SPLASHDOWN includes fragments of a wider target and
+movement package. Halliday identifies repeated references to Dutch contractor
+credentials, precision-optics shipping windows, and a protected transfer scheduled
+at Veldhoven.
+
+Dutch authorities are already dispersing staff and preparing to move the most
+critical transportable components and data out of the threatened campus. AEGIS is
+sent to reinforce the local operation, identify the real sabotage objective, and
+keep the transfer corridor open.
+
+The attackers are a deniable Chinese-directed technical-action cell rather than an
+overt PLA assault force. They use compromised contractor access, locally sourced
+vehicles, commercial drones, pre-positioned maintenance credentials, and a small
+number of disciplined assault personnel. Some facilitators may be European
+contractors or criminal intermediaries who do not know the full sponsor.
+
+The mission should not conclusively expose the complete MSS chain or identify Wei
+Junlong as the operational author. It should reinforce the pattern established by
+ORBITAL DECAY: patient access, institutional camouflage, and an attack designed to
+look like ordinary wartime infrastructure failure until it is too late.
+
+===============================================================================
+6. FRIENDLY STRUCTURE
+===============================================================================
+
+AEGIS:
+- Ducky remains the primary playable character and tactical decision owner.
+- Frost supports route observation and threat reporting but does not receive a
+  playable precision section in this mission.
+- Lupin separates to an elevated blocking position and becomes temporarily playable.
+- Switchblade supports casualty control, engineer movement, and the protected convoy.
+- Halliday provides remote technical and intelligence support.
+
+Local partners:
+- Dutch military/security personnel own the outer cordon and local authority;
+- campus security and emergency-response staff provide access knowledge;
+- a technical continuity team identifies what must move and what can be abandoned;
+- drivers and engineers are active participants in the evacuation, not passive
+  hostages waiting for AEGIS to solve the mission.
+
+AEGIS is the playable connective tissue, not the only competent force present.
+
+===============================================================================
+7. MISSION FLOW
+===============================================================================
+
+PHASE 1 — CONTROLLED ARRIVAL
+
+AEGIS enters a campus already under partial lockdown. Staff buses, contractor vans,
+security barriers, abandoned bicycles, and emergency lighting show an evacuation
+that began before the shooting. Dutch defenders are holding the public approaches,
+but the attacker has used valid maintenance access to penetrate the service side.
+
+The first objective is to reach the technical continuity team without firing through
+sensitive production areas. Early contact is short and selective. The player learns
+that the obvious machine hall is not the only target: the attackers are moving toward
+an archive node, a transfer bay, and the roof-controlled route needed by the convoy.
+
+PHASE 2 — SERVICE-SPINE DEFENSE
+
+Ducky leads AEGIS through loading courts, utility corridors, plant rooms, and secure
+crossovers to stop two sabotage teams from converging on the transfer package.
+
+Gameplay emphasizes discrimination:
+- hostile contractors and armed saboteurs are mixed with evacuating personnel;
+- some systems must be shut down in a controlled order rather than simply destroyed;
+- contamination doors, pressure zones, fire suppression, and power isolation can
+  change routes without becoming puzzle-box spectacle;
+- the player protects technicians long enough for them to complete a data and tooling
+  transfer instead of treating them as an escort train that never contributes.
+
+PHASE 3 — ROOF LINE / LUPIN TRANSITION
+
+The protected convoy cannot leave because hostile overwatch has occupied several
+flat roofs and elevated service structures covering the eastern transfer road.
+Commercial drones are marking vehicles, a light anti-vehicle team is moving toward
+the gate, and riflemen are using roof plant and maintenance housings to control the
+open lanes.
+
+Ducky tasks Lupin to lock down the approach. The transition rises from Ducky's
+service-road position to Lupin on an adjacent utility/office roof. The player should
+see the convoy, Ducky, and Dutch defenders below so that the overwatch function has
+an immediate human and spatial relationship.
+
+Lupin section register:
+- weapon: his SCAR-H designated-marksman configuration;
+- typical range: approximately 60–220 meters;
+- pace: short, pressurized, and successive rather than slow precision sniping;
+- targets: moving drone operators, a marksman pair, an anti-vehicle shooter, a breach
+  pair using roof access, and a vehicle-team leader trying to close the gate;
+- movement: rapid shifts between HVAC housings, parapets, solar structures, and a
+  short maintenance catwalk rather than a static sniper nest;
+- mechanics: shoulder switching, supported and unsupported aiming, rapid target
+  prioritization, and protection of moving friendlies;
+- tone: controlled aggression and immediate space-making, distinct from Frost's
+  methodical long-range grammar.
+
+The section ends when Lupin breaks the coordinated roof threat and reports the route
+open. Control drops back to Ducky as the convoy begins moving. Lupin remains visible
+or audible above, continuing to hold the rear while Ducky resumes the ground fight.
+
+PHASE 4 — TRANSFER-BAY SABOTAGE
+
+The roof threat was not the main demolition effort. A technical cell has reached the
+transfer bay and initiated a layered destruction sequence designed to:
+- corrupt or erase calibration and qualification data;
+- damage the precision module during movement;
+- trigger contamination and fire-control responses that make recovery impossible;
+- trap the engineering team inside the secure zone.
+
+Ducky and the local technical lead identify the correct order of intervention. The
+player secures the bay while technicians isolate the dangerous systems. Combat and
+technical action remain simultaneous but readable: AEGIS creates time and space;
+the specialists save the asset.
+
+PHASE 5 — CONVOY GATE
+
+The surviving hostile element attempts a final vehicle block at the outer service
+gate. The encounter is compact. Dutch defenders, AEGIS, and the convoy crew act as a
+coordinated force. The player clears the immediate obstruction and protects the
+vehicles through the gate rather than fighting a second full-scale battle.
+
+PHASE 6 — PARTIAL VICTORY
+
+The protected module, the qualification archive, and the essential engineering team
+survive. The attackers nevertheless destroy secondary tooling, damage support
+infrastructure, contaminate part of the technical environment, and disrupt the wider
+service chain.
+
+The result preserves a viable Western recovery path but does not restore production
+or remove the semiconductor bottleneck. The mission buys time. It does not solve the
+strategic problem.
+
+Recovered attacker equipment and contractor-routing data point toward a mobile EW
+and logistics architecture moving through Latvia. Halliday uses that lead to task
+HARD WINTER. The later mission still owns Investigative Beat 2 and the discovery of
+Nexus Meridian / KINGMAKER-linked architecture.
+
+===============================================================================
+8. NARRATIVE FUNCTION
+===============================================================================
+
+PROCESS WINDOW:
+- confirms the ASML operation as Game 2 Ducky content;
+- makes the Taiwan and semiconductor consequence explicit inside playable narrative;
+- extends the Chinese operational layer established by ORBITAL DECAY without turning
+  every Chinese action into one overt military campaign;
+- protects the Game 3 supply-chain ceiling by producing a costly partial success;
+- creates a clean SPLASHDOWN-to-HARD WINTER bridge;
+- gives Lupin a distinct authored rooftop-intercept section;
+- demonstrates that strategic infrastructure consists of people, data, tooling,
+  service knowledge, and controlled environments, not one glowing super-machine;
+- reinforces local Dutch competence and authority.
+
+===============================================================================
+9. LUPIN CHARACTER AND GAMEPLAY LOCKS
+===============================================================================
+
+The Lupin section is not optional and is not player-triggered.
+
+It must:
+- arise from a genuine moving-convoy threat that Ducky cannot solve from ground level;
+- be shorter and more urgent than a Frost precision section;
+- use closer ranges, moving targets, and rapid prioritization;
+- visibly protect Ducky, Switchblade, Dutch defenders, engineers, and convoy vehicles;
+- return control to Ducky immediately after the route is reopened;
+- preserve Ducky as the mission's opening and closing playable perspective.
+
+It must not:
+- turn Lupin into a stationary long-range sniper;
+- duplicate DARK FIBER's exact geometry or encounter rhythm;
+- become a disconnected score-attack gallery;
+- let Lupin single-handedly defeat the entire sabotage operation;
+- use a loading screen or chapter break for the perspective transition.
+
+===============================================================================
+10. ENVIRONMENT AND TONE
+===============================================================================
+
+Use:
+- low Dutch sky, damp wind, intermittent rain, and hard industrial light;
+- modern but practical office/technical architecture;
+- flat roofs, roof plant, maintenance stairs, service bridges, loading bays, security
+  glazing, utility fencing, landscaped drainage, and controlled transfer routes;
+- evacuation residue: badges, carts, cases, discarded protective clothing, parked
+  bicycles, contractor signage, and interrupted ordinary work;
+- restrained damage that becomes strategically serious because of precision and
+  contamination rather than giant explosions.
+
+Avoid:
+- cyberpunk fabrication halls;
+- a single glowing “chip machine” treated as the whole semiconductor industry;
+- broad destruction of the real ASML campus;
+- science-fiction holographic interfaces;
+- a generic airport or warehouse raid;
+- portraying Dutch partners as helpless;
+- triumphal resolution of the global chip shortage.
+
+===============================================================================
+11. GAMEPLAY AND FAILURE STATES
+===============================================================================
+
+Hard failure:
+- critical module destroyed beyond recovery;
+- qualification archive fully erased;
+- essential engineering team wiped out;
+- convoy permanently disabled inside the kill zone;
+- Lupin killed during the roof-line transition;
+- Ducky killed or AEGIS team wipe.
+
+Soft-fail / performance consequences:
+- loss of secondary tooling increases downstream recovery time;
+- failure to protect specific engineers reduces retained expertise;
+- delayed roof clearing causes convoy damage and additional Dutch casualties;
+- missed contractor evidence weakens the clarity of the HARD WINTER lead;
+- uncontrolled use of weapons in sensitive zones increases contamination damage.
+
+The canonical outcome remains a costly partial success: the viable recovery path
+survives, but the strategic bottleneck remains.
+
+===============================================================================
+12. CONTINUITY SAFEGUARDS
+===============================================================================
+
+- PROCESS WINDOW is Game 2, not Game 3.
+- Its Game 3 relevance is downstream consequence, not campaign placement.
+- It occurs after SPLASHDOWN and before HARD WINTER.
+- It does not break the ORBITAL DECAY -> SPLASHDOWN pair.
+- It does not break HARD WINTER -> Bakhmut.
+- It does not become Investigative Beat 2; HARD WINTER retains that role.
+- It does not identify Svalbard; ASH RELAY retains that reveal.
+- It does not wound Lupin; PERMAFROST retains the shoulder-wound event.
+- It does not expose or resolve Wei Junlong.
+- It does not eliminate the semiconductor constraint inherited by Game 3.
+- It does not imply that Russia and China operate under one unified command.
+
+===============================================================================
+13. OPEN PRODUCTION FIELDS
+===============================================================================
+
+- final owner-approved mission title;
+- exact fictional campus abstraction and map footprint;
+- exact critical module / archive package wording;
+- named Dutch military, security, technical, and engineering cast;
+- exact sabotage-cell sponsorship and local facilitator structure;
+- detailed encounter count and roof-line target order;
+- final transition dialogue and animation timing;
+- exact SPLASHDOWN evidence handoff;
+- exact PROCESS WINDOW-to-HARD WINTER tracking handoff;
+- final soft-fail consequence implementation;
+- whether a surviving Dutch or ASML technical character recurs later.
+
+===============================================================================
+END OF SOURCE
+===============================================================================
