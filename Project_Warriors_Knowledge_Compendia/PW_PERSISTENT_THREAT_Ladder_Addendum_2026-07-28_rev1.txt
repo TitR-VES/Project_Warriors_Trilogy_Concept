@@ -1,11 +1,11 @@
 PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
 PERSISTENT THREAT — CAMPAIGN-LADDER INTEGRATION
 Generated: 2026-07-29
-Version: rev6
-Status: CURRENT SYNTHESIS UPDATE / CONTINUITY-PRESERVING ORDER / CORE MISSION TITLES LOCKED / PROCESS WINDOW TITLE WORKING
+Version: rev7
+Status: CURRENT SYNTHESIS UPDATE / CONTINUITY-PRESERVING ORDER / PROCESS WINDOW DEVELOPMENT DEFERRED
 
 PURPOSE
-Refresh the visible working-knowledge layer after the Torrejón Air Base and Julian Alps operations were removed from Game 1 but remained only partially landed in Game 2 recovery material, apply the FAILURE CASCADE opening title, lock ORBITAL DECAY and SPLASHDOWN, restore the ASML/Lupin mission to its intended Game 2 slot under the working title PROCESS WINDOW, and place OPEN CIRCUIT without rewriting the existing investigative, injury, Bakhmut-to-Svalbard, or finale causality.
+Refresh the visible working-knowledge layer after the Torrejón Air Base and Julian Alps operations were removed from Game 1 but remained only partially landed in Game 2 recovery material; apply the FAILURE CASCADE opening title; lock ORBITAL DECAY and SPLASHDOWN; restore the ASML/Lupin operation to Game 2 as PROCESS WINDOW; and place OPEN CIRCUIT without rewriting the existing investigative, injury, Bakhmut-to-Svalbard, or finale causality.
 
 CURRENT HARD-ORDER LADDER
 FAILURE CASCADE
@@ -30,10 +30,9 @@ CONTROL NOTES
 - They are Game 2 Ducky / PERSISTENT THREAT missions, not Game 1 infrastructure assignments.
 - ORBITAL DECAY's attacking force is unmarked Chinese operators; this supersedes the older Russian-only attribution.
 - The deorbit attempt is interrupted, but one AEGIS satellite falls into the Julian Alps and drives SPLASHDOWN.
-- PROCESS WINDOW is Mission 05 in Veldhoven under a working title. It is the recovered ASML high-value industrial defense and Lupin rooftop-intercept mission.
-- PROCESS WINDOW was never canonically moved to Game 3. Its Game 3 connection is the downstream semiconductor-recovery constraint created by the Game 2 outcome.
-- SPLASHDOWN evidence warns of the Veldhoven target. PROCESS WINDOW preserves the critical module, qualification archive, and engineering team but loses enough secondary tooling and support capacity to leave the supply bottleneck intact.
-- PROCESS WINDOW yields the tracking lead into HARD WINTER but does not become a numbered investigative beat.
+- PROCESS WINDOW is Mission 05 between SPLASHDOWN and HARD WINTER. Its Game 2 placement is locked, but its title remains working.
+- PROCESS WINDOW's established content is limited to its strategic ASML/semiconductor-recovery function, costly partial-success result, operational lead into HARD WINTER, and broad Ducky-to-Lupin rooftop/intercept transition.
+- The rest of PROCESS WINDOW remains explicitly deferred for a later dedicated mission-development pass and is not production-ready. Its current detailed route and encounters are provisional scaffolding, not locked production design.
 - DEAD FREQUENCY remains Investigative Beat 1; HARD WINTER remains Investigative Beat 2.
 - The Bakhmut mini-arc remains HARD WINTER -> DEAD GROUND -> DARK FIBER -> ASH RELAY and its packet still identifies Svalbard as the probable target.
 - OPEN CIRCUIT is fixed immediately after ASH RELAY and before PERMAFROST as the final continental exploitation and denial mission before the northern deployment.
@@ -41,19 +40,15 @@ CONTROL NOTES
 - HULL BREACH follows PERMAFROST, preserving Lupin's wounded-state exploitation, Investigative Beat 3, and the post-mission Beat 4 tasking into AEGIS FALLS.
 - AEGIS FALLS remains one finale mission; the undersea-threat and Aix-en-Provence assets are preserved as phases of that compound final operation rather than separate ladder entries.
 
-PROCESS WINDOW SUMMARY
-- Location: fictionalized ASML campus and adjacent high-security integration/logistics complex, Veldhoven, Netherlands.
-- Threat: deniable Chinese-directed sabotage cell using contractor credentials, locally sourced vehicles, commercial drones, roof teams, and technical-action personnel.
-- Protected system: not one magical machine, but a critical lithography module, calibration/qualification archive, specialist tooling, controlled technical infrastructure, and essential engineers.
-- Lupin section: short scripted perspective shift to an elevated campus position; rapid SCAR-H DMR engagements against moving roof and vehicle threats covering the convoy route; control returns to Ducky as soon as the route is reopened.
-- Canonical result: costly partial success that preserves a viable recovery path but not full production capacity.
-
 SOURCE OF TRUTH
-Durable controlling page:
+Durable controlling ladder page:
 dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
 
 PROCESS WINDOW mission source:
 dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+
+PROCESS WINDOW development-status control:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_Development_Status_Flag_2026-07-29_rev1.txt
 
 Bakhmut source:
 dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
@@ -65,4 +60,4 @@ Recovery packet refreshed:
 dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
 
 COMPENDIUM USE RULE
-Apply this addendum over older rev5/rev6 campaign summaries and recovery layers that use COLD OPEN, use TORREJÓN DE ARDOZ OPERATION or JULIAN ALPS RECOVERY as current mission titles, list only a partial ladder, leave the Torrejón and Julian Alps operations unplaced, place the ASML mission in Game 3, leave its Game 2 slot open, leave OPEN CIRCUIT unplaced, or reproduce the interim continuity-breaking order HULL BREACH -> PERMAFROST -> Bakhmut -> OPEN CIRCUIT -> HARD WINTER. Preserve the authored PROCESS WINDOW -> HARD WINTER -> Bakhmut -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH chain.
+Apply this addendum over older rev5/rev6 campaign summaries and recovery layers that use COLD OPEN; use TORREJÓN DE ARDOZ OPERATION or JULIAN ALPS RECOVERY as current mission titles; list only a partial ladder; leave the Torrejón, Julian Alps, ASML, or OPEN CIRCUIT operations unplaced; reproduce the interim continuity-breaking order HULL BREACH -> PERMAFROST -> Bakhmut -> OPEN CIRCUIT -> HARD WINTER; or present PROCESS WINDOW's provisional detailed scaffold as production-ready. Preserve the authored PROCESS WINDOW -> HARD WINTER -> Bakhmut -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH chain while reserving PROCESS WINDOW's full mission design for later development.
