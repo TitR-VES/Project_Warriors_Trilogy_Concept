@@ -1,12 +1,13 @@
 meta:
-  delta_id: PW-ONT-PERSISTENT-THREAT-LADDER-2026-07-28-REV5
-  generated: '2026-07-28'
+  delta_id: PW-ONT-PERSISTENT-THREAT-LADDER-2026-07-29-REV6
+  generated: '2026-07-29'
   timeline_applies_to: pw_world_event_timeline_rev2_10.yaml
   timeline_produces: pw_world_event_timeline_rev2_11.yaml
-  status: locked_continuity_preserving_ladder_and_titles_delta
+  status: locked_continuity_preserving_ladder_titles_and_asml_placement_delta
   chronology_changes: true
   sources:
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
   - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
@@ -49,10 +50,10 @@ operations:
     - JULIAN ALPS RECOVERY
     era: PW-ERA-WWIII
     date:
-      relative: immediately after ORBITAL DECAY and before HARD WINTER; exact date TBD
+      relative: immediately after ORBITAL DECAY and immediately before PROCESS WINDOW; exact date TBD
     ordering:
       after: [PW-EVT-G2-DUCKY-TORREJON-DEORBIT]
-      before: [PW-EVT-AEGIS-FALLS]
+      before: [PW-EVT-G2-DUCKY-PROCESS-WINDOW, PW-EVT-AEGIS-FALLS]
     location: Julian Alps, Slovenia
     actors:
     - Ferris Ryan / Ducky
@@ -63,12 +64,46 @@ operations:
     status: confirmed
     notes: >-
       Immediate causal follow-up to ORBITAL DECAY. Allied forces secure the decisive
-      surviving AEGIS satellite material, deny hostile recovery, and broaden the
-      compromise and attribution picture before HARD WINTER. SPLASHDOWN is the locked
-      mission title; JULIAN ALPS RECOVERY remains a descriptive historical label.
-      Named local cast and hostile recovery-force sponsorship remain working.
+      surviving AEGIS satellite material, deny hostile recovery, and preserve a wider
+      target and movement package that warns of the Veldhoven lithography attack.
+      SPLASHDOWN is the locked mission title; JULIAN ALPS RECOVERY remains a descriptive
+      historical label. Named local cast and hostile recovery-force sponsorship remain working.
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+
+  - id: PW-EVT-G2-DUCKY-PROCESS-WINDOW
+    name: PROCESS WINDOW
+    name_status: working
+    era: PW-ERA-WWIII
+    date:
+      relative: immediately after SPLASHDOWN and before HARD WINTER; exact date TBD
+    ordering:
+      after: [PW-EVT-G2-DUCKY-JULIAN-ALPS-RECOVERY]
+      before: [PW-EVT-AEGIS-FALLS]
+    location: fictionalized ASML campus and adjacent integration/logistics complex, Veldhoven, Netherlands
+    actors:
+    - Ferris Ryan / Ducky
+    - AEGIS Squad
+    - Stefan Dragavei / Lupin
+    - Tara Halliday / ORACLE
+    - Dutch military and security partners
+    - ASML technical continuity personnel
+    - deniable Chinese-directed sabotage cell
+    depicted_in: [PW-TRK-G2-PERSISTENT-THREAT]
+    status: confirmed
+    notes: >-
+      Game 2 high-value industrial defense mission recovered from the ASML and Lupin
+      overwatch concept. AEGIS and Dutch partners preserve a critical lithography module,
+      qualification archive, and essential engineering team while losing secondary tooling
+      and support capacity. The costly partial success keeps a Western recovery path alive
+      without removing the Game 3 semiconductor bottleneck. A short scripted Lupin rooftop
+      perspective section clears moving roof, drone, marksman, and anti-vehicle threats from
+      the technical convoy route. Recovered contractor routing leads into HARD WINTER, which
+      retains Investigative Beat 2. PROCESS WINDOW remains a working mission title.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
 
 - op: update_event
   match_id: PW-EVT-G2-DUCKY-DEAD-GROUND
@@ -132,25 +167,35 @@ operations:
   set:
     sources:
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
     - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_Transcript_Recovery_Packet_2026-07-23_rev1.txt
     notes: >-
       Controlling continuity-preserving spine: FAILURE CASCADE -> DEAD FREQUENCY ->
-      ORBITAL DECAY -> SPLASHDOWN -> HARD WINTER -> DEAD GROUND -> DARK FIBER ->
-      ASH RELAY -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH -> AEGIS FALLS.
-      FAILURE CASCADE supersedes COLD OPEN. ORBITAL DECAY supersedes TORREJÓN DE
-      ARDOZ OPERATION as Mission 03's title, and SPLASHDOWN supersedes JULIAN ALPS
-      RECOVERY as Mission 04's title. Existing investigative beats, Bakhmut's Svalbard
-      reveal, Lupin's PERMAFROST wound, HULL BREACH exploitation, and the direct
-      HULL BREACH-to-finale tasking remain controlling. ASML/Lupin remains valid
-      working material with exact slot open.
+      ORBITAL DECAY -> SPLASHDOWN -> PROCESS WINDOW -> HARD WINTER -> DEAD GROUND ->
+      DARK FIBER -> ASH RELAY -> OPEN CIRCUIT -> PERMAFROST -> HULL BREACH ->
+      AEGIS FALLS. FAILURE CASCADE supersedes COLD OPEN. ORBITAL DECAY supersedes
+      TORREJÓN DE ARDOZ OPERATION as Mission 03's title, and SPLASHDOWN supersedes
+      JULIAN ALPS RECOVERY as Mission 04's title. PROCESS WINDOW is the working title
+      of the restored Game 2 ASML / Lupin-rooftop Mission 05. Existing investigative
+      beats, Bakhmut's Svalbard reveal, Lupin's PERMAFROST wound, HULL BREACH exploitation,
+      and the direct HULL BREACH-to-finale tasking remain controlling.
 
 continuity_constraints:
 - id: PW-CONT-G2-DUCKY-ORBITAL-PAIR
   sequence:
   - ORBITAL DECAY / Torrejón forced-deorbit operation
   - SPLASHDOWN / Julian Alps crash-site recovery
+- id: PW-CONT-G2-DUCKY-ASML-INSERTION
+  sequence:
+  - SPLASHDOWN / recovered target package warns of Veldhoven attack
+  - PROCESS WINDOW / ASML defense and Lupin rooftop clearing
+  - HARD WINTER / mobile EW convoy and Investigative Beat 2
+  note: >-
+    PROCESS WINDOW supplies the tracking lead but does not replace HARD WINTER's
+    architecture discovery. Its partial victory preserves, but does not complete,
+    Western semiconductor recovery.
 - id: PW-CONT-G2-DUCKY-INVESTIGATIVE-BEATS
   sequence:
   - DEAD FREQUENCY / The Parameters / Beat 1
@@ -197,7 +242,7 @@ deferred_updates:
 validation_targets:
   timeline:
     baseline_events: 121
-    projected_events: 123
+    projected_events: 124
     campaign_tracks: 21
     sync_points: 19
     duplicate_new_ids: 0
