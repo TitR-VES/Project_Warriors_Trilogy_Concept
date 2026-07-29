@@ -42,7 +42,7 @@ meta:
     SANDMAN: dev_src_docs/weapons_and_equipment/PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
   correction_notes:
     - SANDMAN's canonical suppressor is the SilencerCo Osprey 45 2.0, measuring just under seven inches.
-    - Earlier Osprey SHS and eight-inch references are superseded.
+    - Earlier Osprey SHS and eight-inch suppressor references are superseded and must not be restored.
 parts:
 - path: pw_weapon_catalog_platforms_firearms_1_rev1.yaml
   contains: [weapons]
