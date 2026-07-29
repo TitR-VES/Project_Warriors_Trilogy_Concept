@@ -1,0 +1,57 @@
+PROJECT WARRIORS — PERSISTENT THREAT
+PROCESS WINDOW — DEVELOPMENT STATUS FLAG
+Generated: 2026-07-29
+Version: rev1
+Status: DEFERRED MISSION DEVELOPMENT / LADDER PLACEMENT LOCKED / NOT PRODUCTION-READY
+
+PURPOSE
+
+Record that PROCESS WINDOW has a valid recovered premise, campaign position, strategic result, and Lupin gameplay asset, but the mission outside those established elements still requires a dedicated future development pass.
+
+This flag controls interpretation of:
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+- derivative Game 2 synopsis language describing PROCESS WINDOW;
+- the PROCESS WINDOW material summarized in PR #52.
+
+LOCKED OR SUFFICIENTLY ESTABLISHED
+
+- PROCESS WINDOW belongs to Ducky's Game 2 PERSISTENT THREAT campaign, not Game 3.
+- It is Mission 05 in the current ladder.
+- Its placement is SPLASHDOWN -> PROCESS WINDOW -> HARD WINTER.
+- PROCESS WINDOW remains a working title rather than a final owner-approved title.
+- The mission protects an ASML-associated Western semiconductor-recovery path in the Netherlands.
+- The protected value is a combined system of people, data, tooling, technical environment, and critical equipment rather than one magical machine.
+- The canonical result is a costly partial success that preserves a viable recovery path without removing the semiconductor bottleneck inherited by Game 3.
+- The surviving attacker-routing and credential trail provides the operational lead into HARD WINTER without replacing HARD WINTER as Investigative Beat 2.
+- Ducky remains the mission's primary playable and tactical perspective.
+- A short, seamless Lupin rooftop/intercept perspective transition protects moving friendlies and uses a faster, closer-ranged designated-marksman grammar distinct from Frost.
+- PROCESS WINDOW does not identify Svalbard, wound Lupin, resolve Wei Junlong, or imply unified Russian-Chinese command.
+
+DEFERRED FOR A LATER DEDICATED DEVELOPMENT PASS
+
+- final mission title;
+- complete briefing, opening state, and mission-to-mission handoffs;
+- exact fictionalized campus footprint, route, spatial progression, and environmental storytelling plan;
+- named Dutch military, security, emergency-response, engineering, and technical cast;
+- exact sabotage-cell composition, sponsorship, facilitators, objectives, and command relationships;
+- detailed Ducky-led ground-operation design before and after the rooftop sequence;
+- exact protected technical package and the actions needed to preserve it;
+- encounter composition, pacing, escalation, objective order, checkpoint structure, and mission length;
+- precise Lupin transition setup, rooftop route, target order, dialogue, animation, and return-to-Ducky staging;
+- Switchblade and Frost's authored mission functions beyond the broad support roles currently described;
+- technical-interaction mechanics, contamination and system-control gameplay, and their failure logic;
+- canonical hard-failure and soft-fail implementation;
+- complete dialogue, radio traffic, cinematics, performance direction, music approach, and ending scene;
+- any surviving local character or evidence thread that may recur later.
+
+INTERPRETATION RULE
+
+The six-phase mission flow and detailed encounter language in the existing PROCESS WINDOW source are a provisional development scaffold, not a locked production outline. They may be reorganized, replaced, expanded, or substantially rewritten during the later mission-development pass, provided the established placement, strategic function, partial-success result, Lupin gameplay identity, and continuity safeguards above are preserved unless the owner explicitly revises them.
+
+Do not use the presence of a detailed scaffold to mark PROCESS WINDOW production-ready or fully authored.
+
+LADDER EFFECT
+
+No ladder change is created by this flag. PROCESS WINDOW remains Mission 05 between SPLASHDOWN and HARD WINTER. Later development should fill in the mission rather than reopen its campaign placement by default.
+
+END OF FLAG
