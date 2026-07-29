@@ -88,20 +88,92 @@ Subsonic profile:
 
 Subsonic ammunition is a tactical trade rather than a universal upgrade. Standard 9x19mm remains preferable when the player needs better damage and reach; subsonic ammunition is preferable when signature reduction matters more. The Osprey's front-weight penalties to ADS and repeated-shot stability still apply, preventing the suppressed/subsonic state from replacing the bare pistol in every encounter.
 
-RELIABILITY / MALFUNCTION TRADE-OFF
-SANDMAN is slightly less mechanically reliable than a regular, properly maintained M1911-pattern pistol. This is the final counterweight to its exceptional handling, low recoil, fast unsuppressed ADS speed, common ammunition and later suppressed performance.
+QUANTIFIED RELIABILITY / MALFUNCTION LOCK
+SANDMAN has a deliberately pronounced, weapon-specific malfunction identity. The exact probability rules below supersede earlier generic language describing the pistol as only slightly less reliable than a maintained M1911 or as retaining a low absolute malfunction rate. Those earlier descriptions are invalid wherever they conflict with this quantified profile.
 
-The reliability disadvantage must follow the project's condition-driven malfunction system rather than operate as a flat, frequent per-shot random-jam tax. SANDMAN should retain a low absolute malfunction frequency when maintained, but its weapon-specific baseline risk is measurably higher than the ordinary maintained M1911 reference lane. Dirt, damage, poor or contaminated ammunition, suppressor use, incomplete reload state and severe environmental exposure may increase that risk.
+The probabilities are gameplay base rates at normal weapon condition. They must remain tied to the stored magazine, chamber, slide, guide-rod and reload state. The contextual reload / restore-to-ready input performs the appropriate clear from the recorded mechanical state. Routine failures may interrupt or extend an action, but they must not permanently erase, discard or disable the named weapon.
 
-When a stoppage occurs:
-- the contextual reload / restore-to-ready input initiates the correct immediate or remedial action from the stored mechanical state
-- simple stoppages should be cleared rapidly by a practiced Hawthorne animation
-- complex stoppages retain longer, physically honest remedial-clearing behavior
-- interrupted clears preserve magazine, slide, chamber and ejection state
-- hard-disabling failures remain exceptional and condition- or story-gated
-- routine malfunction randomness must not permanently erase or discard SANDMAN
+1. GUIDE-ROD WALK-OUT / SLIDE STICK
+Failure state:
+- sustained rapid fire may allow the guide rod to walk out of position
+- the slide sticks at the rear or in a half-open position and the weapon is out of battery
+- the event uses a visibly longer clearing branch than the shorter feed and chambering corrections
 
-Hawthorne's long familiarity with the pistol should be visible in his clearing cadence. The reliability drawback is meant to reward player composure and rapid diagnosis, not make the weapon feel capricious or incompetent.
+Probability schedule:
+- first consecutive rapid-fire magazine: 4% per shot
+- second consecutive rapid-fire magazine, after an immediate reload-and-continue sequence: 50% chance that the malfunction occurs during that magazine
+- third and every later consecutive rapid-fire magazine in the same magdump-reload-repeat chain: 96% chance per magazine
+
+The mixed probability scope is intentional: the first-magazine base is checked per shot, while the escalated second- and later-magazine values are per-magazine event chances. The 50% and 96% values must not be misimplemented as per-shot checks.
+
+Clearing behavior:
+- the player invokes the contextual restore-to-ready action
+- Hawthorne performs the longer clear by controlling and repositioning the slide, returning the weapon to battery
+- the animation must visibly resolve the stuck rear or half-open slide state rather than playing a generic tap-rack substitute
+- the exact duration and the cadence/cooldown threshold that resets the sustained-fire magazine chain remain implementation fields
+
+2. FRESH-MAGAZINE FIRST-ROUND CHOKE
+Failure state:
+- inconsistent magazine tolerances may cause the first round to choke when a fresh magazine is loaded and the weapon must chamber a new round
+
+Probability schedule:
+- 10% per eligible reload
+- tactical reloads are excluded when a live round remains chambered during the magazine change
+
+Clearing behavior:
+- this uses a shorter correction animation
+- Hawthorne slightly retracts and releases the slide so that the round seats and the weapon returns to battery
+
+3. STIFF-MAGAZINE EXTRACTION
+Failure state:
+- inconsistent magazine tolerances may prevent the magazine from dropping or withdrawing smoothly during a reload
+
+Probability schedule:
+- 20% per reload that includes removal of a magazine
+- this check is not automatically excluded from tactical reloads, because those reloads still require magazine removal
+
+Reload behavior:
+- the reload branches into a visibly resistant extraction rather than a clean drop-free removal
+- Hawthorne must positively pull or work the magazine free before continuing
+- this event delays the reload but does not by itself alter the chambered-round state
+
+4. SLIDE-CATCH SLINGSHOT / PREMATURE SLIDE CLOSURE
+Failure state:
+- slide-catch issues may allow the slide to snap forward prematurely before or just after a fresh magazine is inserted
+
+Probability schedule:
+- 12.5% per eligible reload, equivalent to one event in eight reloads on average
+- tactical reloads are excluded when a live round remains chambered
+
+Required pre-insertion branch:
+- when the slide closes before the fresh magazine is inserted, it closes on an empty chamber
+- after the magazine is inserted, the player must re-initiate the reload / restore-to-ready action
+- Hawthorne retracts and releases the slide to chamber the first round and return SANDMAN to battery
+
+The exact gameplay consequence and animation branch for a slide that slingshots just after magazine insertion remain open, but the 12.5% eligible-reload probability and the required pre-insertion recovery are locked.
+
+5. IN-CYCLE FEED CHOKE
+Failure state:
+- magazine tolerance issues may occasionally cause a cartridge to choke during feeding while the weapon is firing
+
+Probability schedule:
+- 2.5% per shot, approximately one event per forty shots
+
+Clearing behavior:
+- the stored feed, slide and chamber state determines the contextual immediate-action animation
+- Hawthorne's familiarity should make the response controlled and efficient
+- the exact animation length and mechanical sub-state remain open, but the event must be distinct from the longer guide-rod walk-out clear
+
+MALFUNCTION INTERACTION / STATE RULES
+- Each malfunction retains its own trigger scope: per shot, per eligible reload, per magazine-removal event or per sustained-fire magazine.
+- Tactical-reload exclusions apply only where explicitly stated above.
+- The system must not silently normalize these values downward to preserve the earlier low-risk description.
+- The priority, sequencing and possible stacking of multiple reload-related checks during one reload remain implementation fields.
+- The cooldown or cadence break that resets the guide-rod sustained-fire chain remains an implementation field.
+- Additional condition, contamination, suppressor, ammunition-quality or difficulty modifiers remain open, but the listed normal-condition base rates are locked.
+- Hard-disabling failures remain exceptional and story- or condition-gated; the quantified routine failures resolve through the persistent mechanical-state system.
+
+Hawthorne's long familiarity with SANDMAN should remain visible in his diagnosis and clearing cadence. The weapon is mechanically temperamental, but Nick is practiced enough that the player's recovery actions read as deliberate mastery rather than confusion.
 
 NAME LOGIC
 Hawthorne named the pistol SANDMAN as a literary nod to Logan's Run. He has read the novel and considers it one of his favorites. The name connects the gun to Logan's identity as a Sandman and to the novel's armed protagonist without turning the weapon into a decorative replica or overt fandom prop.
@@ -128,7 +200,11 @@ PRESENTATION RULES
 - Very fast unsuppressed ADS should read through efficient presentation and ergonomic handling, not an implausible inventory snap.
 - Suppressed ADS must visibly slow because Hawthorne has to manage the forward-shifted center of gravity.
 - Rapid suppressed strings should show slightly more correction and less repeated-shot stability than unsuppressed strings.
-- Malfunction clears should communicate Hawthorne's practiced familiarity while preserving the physical state and duration appropriate to the stoppage.
+- The guide-rod walk-out clear must visibly recover a rearward or half-open stuck slide and should be longer than the feed/chamber correction branches.
+- The fresh-magazine first-round choke uses a short partial slide retraction to seat the round.
+- Stiff-magazine extraction must interrupt the clean drop-free reload rhythm and show positive removal.
+- A pre-insertion slide-catch slingshot closes on an empty chamber and requires a re-initiated restore-to-ready action after magazine insertion.
+- Malfunction clears should communicate Hawthorne's practiced familiarity while preserving the physical state and duration appropriate to each stoppage.
 - The gun should read as an older, trusted personal sidearm that predates Hawthorne's later faction affiliations.
 - Do not add conspicuous literary quotations, logos or ornamental markings unless separately adjudicated.
 - Do not replace DEAD BLOW with SANDMAN in primary-weapon references.
@@ -154,13 +230,18 @@ OPEN IMPLEMENTATION FIELDS
 - exact finger used for momentary and steady activation in each stance and hand state
 - exact Osprey 45 2.0 mounting interface, attachment animation and mission/loadout availability
 - exact subsonic unlock point, price and replenishment rate
-- exact malfunction-frequency curve by condition and difficulty
+- exact sustained-fire cadence/cooldown threshold that resets the guide-rod magazine chain
+- exact event priority and stacking behavior when multiple reload-related checks succeed during the same reload
+- exact post-insertion slide-catch slingshot consequence and recovery animation
+- exact feed-choke mechanical sub-state and clearing duration
+- exact condition, suppressor, ammunition-quality and difficulty modifiers applied around the locked base probabilities
 - exact holster and carry position
 
 SOURCE AUTHORITY
 - Owner canon adjudication, 2026-07-28, expanded 2026-07-29.
-- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, Streamlight TLR-3 weapon light and its low-body/high-paddle installation, black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0 suppressor, visual/name logic, unsuppressed and suppressed handling profiles, ammunition progression, reliability trade-off and Kill Devil Hills provenance.
-- The contextual malfunction-clearing behavior inherits the merged first-person weapon-handling and persistent mechanical-state sources.
+- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, Streamlight TLR-3 weapon light and its low-body/high-paddle installation, black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0 suppressor, visual/name logic, unsuppressed and suppressed handling profiles, ammunition progression, quantified malfunction probabilities and clearing states, and Kill Devil Hills provenance.
+- The contextual malfunction-clearing behavior inherits the merged first-person weapon-handling and persistent mechanical-state sources, as specifically overridden and extended by the SANDMAN rates and states above.
+- The earlier generic low-absolute-risk and maintained-M1911 comparison is superseded wherever inconsistent with this source.
 - Lower-level numeric tuning and production fields remain open unless explicitly locked above.
 
 END
