@@ -1,0 +1,102 @@
+PROJECT WARRIORS — PERSISTENT THREAT
+CRODYN WARTIME ADDRESS PLACEMENT CORRECTION
+Generated: 2026-07-29
+Version: rev1
+Status: SOURCE-CONFIRMED CORRECTION / DERIVATIVE-SYNOPSIS OVERRIDE
+Scope: Ducky's Game 2 campaign — PERSISTENT THREAT
+
+PURPOSE
+
+This note corrects the statement in the current mission-by-mission PERSISTENT
+THREAT synopsis that Crodyn's wartime address still lacks a locked placement and
+Ducky reaction beat.
+
+The earlier timeline and sidebar-derived source layer already establishes both.
+The address is the principal cross-campaign synchronization event in Game 2 and
+lands in Ducky's campaign as a late-campaign between-mission interlude.
+
+SOURCE-CONFIRMED PLACEMENT
+
+The controlling late-campaign sequence is:
+
+HULL BREACH
+-> 0200 post-mission conversation / Investigative Beat 4,
+   “What Ducky Does With It”
+-> 0347 Crodyn wartime-address scene, Norwegian operations room
+-> 0600 DAOG command call
+-> AEGIS FALLS
+
+The address is not a fourteenth mission and does not change the thirteen-mission
+hard-order ladder. It is an intermission sequence between HULL BREACH and AEGIS
+FALLS.
+
+DUCKY-SIDE SCENE LOCK
+
+At 0347, Halliday wakes Ducky and gives him a tablet carrying the full address.
+Ducky reads Crodyn's performance as evidence of panic rather than control. The
+scene lands for him analytically and politically, not as the direct personal
+betrayal it represents for Romeo.
+
+At 0600, Walker states DAOG's legal position: Crodyn's domestic designation of
+the American Freedom Corps does not govern DAOG's NATO mandate. Tremblay responds,
+“Exercise discretion.” His pause after the relevant phrasing becomes a data point
+for Halliday.
+
+The source further establishes that Tremblay received the address before the
+command call. His advance access implies contact with, or foreknowledge from,
+Crodyn's circle. The address therefore strengthens the Tremblay investigation
+immediately before the unauthorized AEGIS FALLS operation.
+
+CROSS-CAMPAIGN FUNCTION
+
+All three campaigns experience the address simultaneously:
+
+- Romeo receives it in a Cumberland hardware store in Kentucky. Its register is
+  personal and enraging because Crodyn names him and designates the AFC.
+- Ducky receives it in the Norwegian operations room. Its register is analytical;
+  the command response and Tremblay's advance knowledge become evidence.
+- Spook receives it alone in a Fort Lauderdale safehouse. Its register is
+  operational; he reads it as an accelerant and recognizes that his window is
+  closing.
+
+CALENDAR CONTROL
+
+The older source places the address in late October or very early November 2028,
+within days of the suspended presidential election. Current canon places that
+election on Tuesday, November 7, 2028. This correction does not assign a more
+precise calendar day than the presently supported late-October / very-early-
+November window.
+
+SYNOPSIS CORRECTION
+
+The following existing synopsis claim is superseded:
+
+- that the PERSISTENT THREAT ladder lacks a clearly placed Ducky address scene;
+- that Ducky's reaction beat still needs to be invented or selected;
+- that future work must determine where the synchronization belongs.
+
+The correct development status is:
+
+- placement: established after HULL BREACH and before AEGIS FALLS;
+- scene register and principal beats: established;
+- cross-campaign simultaneity: established;
+- exact calendar day and lower-level transition staging: still available for
+  timeline and production refinement.
+
+COHESION EFFECT
+
+This recovered placement strengthens the current ladder. The address is not an
+unresolved insertion problem. It is a late investigative hinge: HULL BREACH gives
+Ducky Tremblay's credential, the address and command call supply a fresh behavioral
+and access anomaly, and AEGIS FALLS converts the accumulated evidence into action.
+
+SUPERSESSION
+
+Apply this correction over the Crodyn-address development-gap paragraph and the
+corresponding “place the synchronization” recommendation in:
+
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/
+PW_PERSISTENT_THREAT_Mission_by_Mission_Plot_Synopsis_Wiki_Style_2026-07-29_rev1.txt
+
+A future regenerated synopsis should incorporate this sequence directly and remove
+the superseded unresolved-placement language.
