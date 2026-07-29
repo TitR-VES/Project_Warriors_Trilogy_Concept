@@ -41,6 +41,7 @@ meta:
     REG10: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_10.txt
     SANDMAN: dev_src_docs/weapons_and_equipment/PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
   correction_notes:
+    - SANDMAN's persistent weapon light is a Streamlight TLR-3 mounted distinctly low below the bore, with its switch paddle high enough for natural finger access.
     - SANDMAN's canonical suppressor is the SilencerCo Osprey 45 2.0, measuring just under seven inches.
     - Earlier Osprey SHS and eight-inch suppressor references are superseded and must not be restored.
 parts:
