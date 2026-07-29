@@ -37,7 +37,7 @@ Base configuration: tan/FDE primary finish; black polymer grip panels; threaded 
                     Streamlight TLR-3 weapon light
 Suppressor configuration: removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0
 Continuity origin: early Kill Devil Hills Detachment period
-Status: locked core; lower-level numeric and production details remain open
+Status: locked core; lower-level production and malfunction-interaction details remain open
 
 SANDMAN fills Hawthorne's previously open sidearm slot. It is not a late New
 American Frontier or Vanguard acquisition. Hawthorne has carried it since his early
@@ -96,7 +96,7 @@ without turning the weapon into a literal replica. Unsuppressed carry remains va
 in missions and loadout states that do not require reduced signature.
 
 --------------------------------------------------------------------------------
-SANDMAN HANDLING / AMMUNITION / RELIABILITY LOCK
+SANDMAN HANDLING / AMMUNITION LOCK
 --------------------------------------------------------------------------------
 
 SANDMAN is a control-and-speed sidearm rather than a raw-damage pistol.
@@ -140,27 +140,89 @@ Later-game 9x19mm subsonic:
 - remains a tactical alternative rather than a universal replacement for standard ammunition
 - does not remove the suppressor's slower ADS and reduced repeated-shot stability
 
-Reliability trade-off:
-- slightly less reliable than a regular properly maintained M1911 reference lane
-- low absolute stoppage risk when maintained, but measurably higher than that reference
-- malfunctions remain condition-driven rather than frequent arbitrary per-shot randomness
-- dirt, damage, poor ammunition, suppressor use and incomplete mechanical state may raise risk
-- contextual reload / restore-to-ready input performs the correct immediate or remedial clear
-- Hawthorne clears simple stoppages rapidly because of long familiarity with the weapon
-- complex stoppages preserve longer physically honest clearing and persistent mechanical state
-- routine malfunctions cannot permanently erase or discard this named weapon
+--------------------------------------------------------------------------------
+QUANTIFIED SANDMAN MALFUNCTION LOCK
+--------------------------------------------------------------------------------
 
-The reliability cost is the final counterweight to SANDMAN's excellent recoil,
-handling, unsuppressed ADS speed, stability, common ammunition and later suppressed
-performance. It should create brief skill-expression pressure without making the
-pistol feel capricious or badly maintained.
+SANDMAN's reliability identity is now defined by five explicit malfunction modes.
+These rates supersede the earlier generic description that the weapon was only
+slightly less reliable than a maintained M1911 or retained a low absolute malfunction
+frequency. The pistol is mechanically temperamental; Hawthorne's practiced, efficient
+clearing animations are what keep it usable under pressure.
+
+All routine failures inherit the contextual reload / restore-to-ready input and the
+persistent magazine, chamber, slide and feed-state system. They may interrupt or
+extend an action, but they cannot permanently erase or discard SANDMAN.
+
+1. Guide-rod walk-out / slide stick
+- Cause lane: sustained rapid fire and magdump-reload-repeat behavior.
+- Failure state: slide stuck rearward or half-open; weapon out of battery.
+- First consecutive rapid-fire magazine: 4% per shot.
+- Second consecutive rapid-fire magazine: 50% chance during that magazine.
+- Third and later consecutive rapid-fire magazines: 96% chance per magazine.
+- The 50% and 96% values are magazine-level event checks, not per-shot probabilities.
+- Recovery: longer restore-to-ready animation in which Hawthorne controls and
+  repositions the slide, returning the weapon to battery.
+- Open: exact cadence/cooldown threshold that resets the sustained-fire chain.
+
+2. Fresh-magazine first-round choke
+- Cause lane: stiff or inconsistent magazine tolerances during a reload that must
+  chamber a new first round.
+- Rate: 10% per eligible reload.
+- Exclusion: tactical reloads where a live round remains chambered.
+- Failure state: first round does not seat fully; weapon remains out of battery.
+- Recovery: short animation in which Hawthorne slightly retracts and releases the
+  slide so the round loads correctly and the weapon returns to battery.
+
+3. Stiff-magazine extraction
+- Cause lane: inconsistent magazine tolerances prevent smooth removal.
+- Rate: 20% per reload that includes magazine removal.
+- Tactical reloads are included because they still require magazine extraction.
+- Failure state: magazine resists dropping or withdrawing cleanly.
+- Recovery: reload animation branches into positive manual removal before continuing.
+- Chambered-round state is preserved by this event alone.
+
+4. Slide-catch slingshot / premature slide closure
+- Cause lane: slide-catch issue during a reload.
+- Rate: 12.5% per eligible reload, equivalent to one in eight on average.
+- Exclusion: tactical reloads where a live round remains chambered.
+- Timing: may occur before or just after fresh-magazine insertion.
+- Required pre-insertion branch: slide closes on an empty chamber; once the magazine
+  is inserted, the player must re-initiate restore-to-ready so Hawthorne retracts and
+  releases the slide to chamber the first round.
+- Open: exact post-insertion consequence and recovery branch.
+
+5. In-cycle feed choke
+- Cause lane: magazine tolerance issue during firing.
+- Rate: 2.5% per shot, approximately one in forty shots.
+- Failure state: cartridge chokes during feeding and firing stops.
+- Recovery: contextual state-dependent feed clear, shorter than the guide-rod
+  walk-out branch; exact mechanical sub-state and animation duration remain open.
+
+Probability and interaction rules:
+- per-shot checks: first-magazine guide-rod walk-out and in-cycle feed choke
+- per-eligible-reload checks: first-round choke and slide-catch slingshot
+- per-magazine-removal check: stiff-magazine extraction
+- per-sustained-fire-magazine checks: escalated guide-rod walk-out at 50% and 96%
+- tactical-reload exclusions apply only where explicitly listed
+- the locked base values must not be normalized downward to preserve older low-risk wording
+- simultaneous reload-event priority and sequencing remain open
+- additional condition, contamination, suppressor, ammunition-quality and difficulty
+  modifiers remain open around the locked normal-condition base rates
+- hard-disabling failures remain exceptional and story- or condition-gated
+
+This profile makes weapon discipline mechanically important. SANDMAN remains very
+fast and controllable in the player's hands, but sustained magdump behavior and
+repeated reload cycling increasingly expose its mechanical weaknesses. Nick's skill
+appears through confident diagnosis and differentiated recovery animations rather
+than by removing the failures entirely.
 
 --------------------------------------------------------------------------------
 HAWTHORNE WEAPON DISTINCTION
 --------------------------------------------------------------------------------
 
 - SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; Streamlight TLR-3 light;
-  removable Osprey 45 2.0 suppressor.
+  removable Osprey 45 2.0 suppressor; quantified five-mode malfunction profile.
 - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
 
 SANDMAN complements DEAD BLOW and does not replace it in primary-weapon references.
@@ -217,10 +279,13 @@ SUPERSESSION NOTE
   finish, grip color, threaded barrel, Streamlight TLR-3 light with low body and high
   reachable paddle, removable black flat-sided just-under-seven-inch SilencerCo Osprey
   45 2.0, visual/name logic, unsuppressed and suppressed handling profiles, ammunition
-  progression, reliability trade-off and Kill Devil Hills provenance.
+  progression, quantified malfunction rates and states, and Kill Devil Hills provenance.
 - Osprey SHS and eight-inch suppressor references are superseded and invalid for SANDMAN.
+- Earlier low-absolute-malfunction-risk and maintained-M1911 comparison language is
+  superseded wherever inconsistent with the five locked malfunction profiles.
 - The merged first-person weapon-handling sources control contextual clearing and
-  persistent malfunction-state behavior used by SANDMAN.
+  persistent malfunction-state behavior used by SANDMAN, as specifically extended by
+  the SANDMAN-only rates and recovery branches.
 - PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-24_rev3.txt is superseded
   as the current compendium bridge but remains useful as the focused July 24 War
   Wolves reconciliation record.
