@@ -221,7 +221,7 @@ than by removing the failures entirely.
 HAWTHORNE WEAPON DISTINCTION
 --------------------------------------------------------------------------------
 
-- SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; Streamlight TLR-3 light;
+- SANDMAN = 2018 tan/FDE Hudson H9 persistent sidearm; Streamlight TLR-3 light;
   removable Osprey 45 2.0 suppressor; quantified five-mode malfunction profile.
 - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
 
