@@ -20,11 +20,11 @@ LOCKED CONFIGURATION
 - Black polymer grip panels.
 - Threaded barrel.
 - Suppressor-compatible configuration is canonical, but the suppressor is not permanently fitted.
-- When Hawthorne suppresses SANDMAN, he attaches a black, flat-sided, eight-inch SilencerCo Osprey SHS suppressor.
+- When Hawthorne suppresses SANDMAN, he attaches a black, flat-sided, just-under-seven-inch SilencerCo Osprey 45 2.0 suppressor.
 - No optic, weapon light, compensator or other accessory is canonically assigned by this source.
 
 SUPPRESSOR CONFIGURATION LOCK
-The SilencerCo Osprey SHS is SANDMAN's canonical suppressor rather than a generic interchangeable can. Its black finish contrasts with the tan/FDE pistol, and its flat-sided eight-inch body extends the Hudson H9's already unusual profile into the build's most distinctive silhouette.
+The SilencerCo Osprey 45 2.0 is SANDMAN's canonical suppressor rather than a generic interchangeable can. Its black finish contrasts with the tan/FDE pistol, and its flat-sided body, measuring just under seven inches, extends the Hudson H9's already unusual profile into the build's most distinctive silhouette.
 
 The suppressor provides exceptional shot-report dampening. Its strongest stealth effect occurs when paired with later-game 9x19mm subsonic ammunition. It remains removable, so unsuppressed carry and use are still valid outside appropriate stealth or low-signature loadout states.
 
@@ -48,7 +48,7 @@ Unsuppressed handling profile:
 The player should feel that unsuppressed SANDMAN settles quickly after every shot. Its advantage is control, speed and precision under pressure rather than raw stopping power.
 
 SUPPRESSED HANDLING TRADE-OFF
-Attaching the eight-inch Osprey SHS adds meaningful mass ahead of the pistol's muzzle and shifts SANDMAN's center of gravity forward.
+Attaching the just-under-seven-inch Osprey 45 2.0 adds meaningful mass ahead of the pistol's muzzle and shifts SANDMAN's center of gravity forward.
 
 Suppressed handling profile:
 - exceptional shot-report dampening
@@ -66,7 +66,7 @@ Standard 9x19mm ammunition is effective against unarmored and lightly armored hu
 The caliber belongs to a common, relatively inexpensive ammunition pool. Standard 9x19mm should be easier and cheaper to replenish than premium rifle, armor-defeating or specialist suppressed ammunition, helping SANDMAN remain a practical persistent sidearm rather than a weapon the player is discouraged from using.
 
 LATER-GAME SUBSONIC PROGRESSION
-Later in the War Within campaign, the player gains access to 9x19mm subsonic ammunition for SANDMAN. This ammunition is intended primarily for use with the Osprey SHS and creates the weapon's quietest state.
+Later in the War Within campaign, the player gains access to 9x19mm subsonic ammunition for SANDMAN. This ammunition is intended primarily for use with the Osprey 45 2.0 and creates the weapon's quietest state.
 
 Subsonic profile:
 - exceptional suppressed shot-report reduction
@@ -101,13 +101,13 @@ The tan or flat dark earth finish deliberately reinforces the SANDMAN name throu
 
 The Hudson H9's unusual low-bore, forward-heavy and near-futuristic profile also supports the Logan's Run connection. It evokes the visual language of a fictional science-fiction sidearm while remaining a grounded real-world pistol rather than a replica of the novel or film weapon.
 
-When the black flat-sided Osprey SHS is fitted, its eight-inch body sharply extends the muzzle profile and makes SANDMAN's outline even more distinctive. The suppressed state should read as a strong mission-specific silhouette and as the clearest visual expression of the gun's fictional namesake. This is a canonical optional configuration, not the permanent default carry state.
+When the black flat-sided Osprey 45 2.0 is fitted, its just-under-seven-inch body sharply extends the muzzle profile and makes SANDMAN's outline even more distinctive. The suppressed state should read as a strong mission-specific silhouette and as the clearest visual expression of the gun's fictional namesake. This is a canonical optional configuration, not the permanent default carry state.
 
 PRESENTATION RULES
 - Preserve the tan/FDE-and-black visual contrast as the build's immediate recognition cue.
 - Let the finish carry a restrained visual echo of the SANDMAN name; do not add literal sand graphics or decorative theming.
 - Preserve the Hudson H9's unusual futuristic silhouette rather than visually normalizing it into a generic service pistol.
-- Depict the suppressor as the black, flat-sided, eight-inch SilencerCo Osprey SHS specified here; do not substitute a generic cylindrical suppressor.
+- Depict the suppressor as the black, flat-sided, just-under-seven-inch SilencerCo Osprey 45 2.0 specified here; do not substitute a generic cylindrical suppressor.
 - When suppressed, emphasize the distinctive elongated outline without treating the suppressor as permanently installed.
 - Animate exceptionally controlled recoil, low muzzle rise and quick sight recovery in the bare-pistol state.
 - Very fast unsuppressed ADS should read through efficient presentation and ergonomic handling, not an implausible inventory snap.
@@ -126,7 +126,7 @@ PLAYER / CAMPAIGN AVAILABILITY
 - Drop policy: not applicable while Hawthorne is the player character; no generic enemy-drop identity is implied.
 - Standard 9x19mm is the normal opening ammunition lane and remains relatively inexpensive and accessible.
 - 9x19mm subsonic ammunition becomes available later in the campaign as a suppressed-specialist option.
-- The Osprey SHS may be fitted in missions or loadout states where lower signature is appropriate; unsuppressed carry remains valid elsewhere.
+- The Osprey 45 2.0 may be fitted in missions or loadout states where lower signature is appropriate; unsuppressed carry remains valid elsewhere.
 
 OPEN IMPLEMENTATION FIELDS
 - exact sight configuration
@@ -134,14 +134,14 @@ OPEN IMPLEMENTATION FIELDS
 - exact standard and subsonic ammunition brands / load specifications
 - exact numerical recoil, muzzle-rise, ADS, aim-stability, damage, range and sound-signature values
 - exact tan/FDE coating or material specification
-- exact Osprey SHS mounting interface, attachment animation and mission/loadout availability
+- exact Osprey 45 2.0 mounting interface, attachment animation and mission/loadout availability
 - exact subsonic unlock point, price and replenishment rate
 - exact malfunction-frequency curve by condition and difficulty
 - exact holster and carry position
 
 SOURCE AUTHORITY
 - Owner canon adjudication, 2026-07-28, expanded 2026-07-29.
-- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, black flat-sided eight-inch SilencerCo Osprey SHS suppressor, visual/name logic, unsuppressed and suppressed handling profiles, ammunition progression, reliability trade-off and Kill Devil Hills provenance.
+- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0 suppressor, visual/name logic, unsuppressed and suppressed handling profiles, ammunition progression, reliability trade-off and Kill Devil Hills provenance.
 - The contextual malfunction-clearing behavior inherits the merged first-person weapon-handling and persistent mechanical-state sources.
 - Lower-level numeric tuning and production fields remain open unless explicitly locked above.
 
