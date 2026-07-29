@@ -157,7 +157,7 @@ extend an action, but they cannot permanently erase or discard SANDMAN.
 1. Guide-rod walk-out / slide stick
 - Cause lane: sustained rapid fire and magdump-reload-repeat behavior.
 - Failure state: slide stuck rearward or half-open; weapon out of battery.
-- First consecutive rapid-fire magazine: 4% per shot.
+- First consecutive rapid-fire magazine: 2.5% per shot.
 - Second consecutive rapid-fire magazine: 50% chance during that magazine.
 - Third and later consecutive rapid-fire magazines: 96% chance per magazine.
 - The 50% and 96% values are magazine-level event checks, not per-shot probabilities.
