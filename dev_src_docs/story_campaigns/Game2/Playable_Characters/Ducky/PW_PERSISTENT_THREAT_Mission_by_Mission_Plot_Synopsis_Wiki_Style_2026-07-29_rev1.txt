@@ -1,0 +1,815 @@
+PROJECT WARRIORS — PERSISTENT THREAT
+MISSION-BY-MISSION PLOT SYNOPSIS AND COHESION TEST
+Generated: 2026-07-29
+Version: rev1
+Status: DERIVATIVE REFERENCE / WIKI-STYLE MISSION SYNTHESIS / DEVELOPMENT-GAP AUDIT
+Scope: Ducky's Game 2 campaign — PERSISTENT THREAT
+Spoiler scope: FULL PLOT DISCLOSURE
+
+AUTHORITY NOTE
+
+This document converts the current thirteen-mission PERSISTENT THREAT ladder into
+a continuous plot synopsis written in the style of a detailed community gaming-wiki
+plot page. Its secondary purpose is to test whether the current mission order forms
+a coherent campaign narrative despite uneven mission development.
+
+This is a derivative reference. It does not replace the controlling ladder,
+individual mission sources, campaign ontology, timeline authority, character pages,
+technical canon, or later production scripts. Where the current source set does not
+yet establish an exact handoff, this document marks the gap rather than silently
+inventing a definitive explanation.
+
+Controlling campaign entity:
+- PW-CMP-G2-PERSISTENT-THREAT — Persistent Threat
+
+Controlling hard-order ladder:
+1. FAILURE CASCADE
+2. DEAD FREQUENCY
+3. ORBITAL DECAY
+4. SPLASHDOWN
+5. PROCESS WINDOW — working title
+6. HARD WINTER
+7. DEAD GROUND
+8. DARK FIBER
+9. ASH RELAY
+10. OPEN CIRCUIT
+11. PERMAFROST
+12. HULL BREACH
+13. AEGIS FALLS
+
+Related controlling sources:
+- PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+- PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+- PW_PROCESS_WINDOW_Development_Status_Flag_2026-07-29_rev1.txt
+- PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+- PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
+- PW_Game2_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt
+
+===============================================================================
+CAMPAIGN OVERVIEW
+===============================================================================
+
+Persistent Threat follows Sergeant First Class Ferris “Ducky” Ryan and AEGIS
+Squad after the immediate PANDORA crisis has become a wider European war.
+Ducky continues to lead Finnish sniper and arctic-warfare specialist Aki
+“Frost” Peltola, Romanian assault specialist Ştefan “Lupin” Dragavei, and
+Australian combat medic Cassandra “Switchblade” Stewart. Analyst Tara Halliday
+serves as the campaign's principal institutional counterpart, preserving
+anomalies and documentary links that other officials repeatedly prefer to treat
+as unrelated incidents.
+
+At the start of the campaign, AEGIS still understands its mission primarily as
+the defense of European military and civil infrastructure against direct Russian
+attack. That interpretation becomes progressively less adequate. The enemy is
+not only striking protected sites from outside. Russian technical and intelligence
+elements possess internal AEGIS parameters, use compromised credentials, and
+conceal relay, certification, deception, and access systems inside the normal
+commercial and administrative mechanisms through which Europe already functions.
+
+The Torrejón attack broadens the threat further. Unmarked Chinese operators exploit
+the same weakened security environment to attack the AEGIS satellite-command
+layer and later target Europe's semiconductor-recovery capacity. The campaign
+does not establish that every Russian and Chinese action belongs to one unified
+command. Instead, it presents PANDORA's institutional damage as a strategic opening
+that multiple adversaries can exploit through parallel operations.
+
+The narrative therefore develops as both a military campaign and an investigation.
+Each major discovery changes what AEGIS believes it is fighting:
+
+- FAILURE CASCADE and DEAD FREQUENCY establish that the system is failing in ways
+  the conventional war alone cannot explain.
+- ORBITAL DECAY, SPLASHDOWN, PROCESS WINDOW, and HARD WINTER show that compromised
+  access has become a multinational campaign against the physical and industrial
+  foundations of European recovery.
+- DEAD GROUND, DARK FIBER, and ASH RELAY convert Halliday's theory into physical
+  proof of a repeatable relay-and-deception architecture.
+- OPEN CIRCUIT and PERMAFROST force AEGIS to act on that proof before the northern
+  strike package can be completed.
+- HULL BREACH exposes a senior allied credential inside the hostile architecture.
+- AEGIS FALLS turns the investigation inward and forces Ducky to decide whether
+  protecting AEGIS still means protecting the institution that carries its name.
+
+The campaign's central dramatic movement is therefore not simply from defense to
+offense. It is from faith in a system, through proof that the system has been
+penetrated, to the conclusion that the people and purpose behind AEGIS may have
+to survive the institution itself.
+
+===============================================================================
+MISSION-BY-MISSION PLOT
+===============================================================================
+
+-------------------------------------------------------------------------------
+1. FAILURE CASCADE
+-------------------------------------------------------------------------------
+
+Persistent Threat opens on the Norwegian coast during a Russian naval-infantry
+landing. AEGIS is caught inside a rapidly deteriorating defensive picture in
+which military communications, coastal movement, civil evacuation, and friendly
+coordination are all failing at once. The mission was previously developed under
+the shorthand COLD OPEN, but FAILURE CASCADE is the controlling title.
+
+Ducky leads AEGIS through the withdrawal while Norwegian coastal defenders attempt
+to keep a route open for surviving personnel and civilians. The squad's immediate
+problem is conventional and physical: hostile troops are landing, local positions
+are being overrun, and the extraction corridor will close if the defenders cannot
+delay the advance. The larger pattern, however, is already visible in the way
+separate failures compound one another. Damaged infrastructure produces movement
+delays; movement delays expose civilians; communications gaps create duplicated or
+contradictory tasking; and the enemy exploits every new weakness before anyone can
+restore a complete picture.
+
+Switchblade takes a controlled risk to rescue an elderly civilian during the
+withdrawal. The action establishes the squad's moral register without turning the
+rescue into sentimentality. AEGIS succeeds in reaching extraction, but the mission
+does not end on relief. Walker's message after exfiltration is brief: “Good exfil.
+We have a problem.”
+
+The line converts the opening from a self-contained battlefield escape into the
+beginning of the campaign's investigation. The Norwegian action proves that AEGIS
+can still function tactically. Walker's warning implies that the institution's
+larger operational picture may already be compromised.
+
+[DEVELOPMENT GAP — OPENING HANDOFF]
+The exact anomaly Walker has received, the timing of Halliday's first analytical
+intervention, and the operational reason AEGIS is sent from Norway to the converted
+facility in northern Estonia remain insufficiently explicit in the current
+synopsis-level source set. The handoff needs one concrete piece of evidence or one
+failed defensive event that makes DEAD FREQUENCY feel like the necessary next move
+rather than a new assignment.
+
+-------------------------------------------------------------------------------
+2. DEAD FREQUENCY
+-------------------------------------------------------------------------------
+
+AEGIS deploys to a converted NATO facility in northern Estonia. The mission's
+primary tactical objective remains controlled by its dedicated source, but its
+campaign function is clear: Ducky's team enters a site whose communications and
+technical behavior suggest that hostile forces know more about AEGIS than an
+external attacker should.
+
+After completing the main objective, the squad begins a pressured withdrawal.
+Russian pursuit elements close on the facility while Swedish Archer artillery,
+operating under the ARTEMIS callsign, strikes the approach routes behind AEGIS.
+The artillery support is not presented as a detached spectacle. It creates the
+brief intervals in which the squad can continue breaking contact.
+
+During the withdrawal, Lupin photographs technical parameters that use internal
+AEGIS nomenclature and configuration language. The material is too precise to be
+a generic intelligence estimate or battlefield improvisation. Russian personnel
+possess information that should have remained inside protected development,
+certification, or command channels.
+
+The discovery becomes Investigative Beat 1, “The Parameters.” Halliday begins
+treating the Norwegian failures and the Estonian evidence as parts of a wider
+pattern. Ducky's problem is no longer only that enemy forces are attacking AEGIS.
+Someone has given them a map of how the system thinks.
+
+[DEVELOPMENT GAP — MISSION PREMISE DETAIL]
+DEAD FREQUENCY has a strong ending and investigative payoff, but its primary
+objective and the specific relationship between that objective and the recovered
+parameters need to remain legible in the final mission synopsis. Without that
+connection, the mission risks feeling as though its most important evidence is
+found incidentally during an otherwise unrelated operation.
+
+-------------------------------------------------------------------------------
+3. ORBITAL DECAY
+-------------------------------------------------------------------------------
+
+The investigation is interrupted by a direct attack on the AEGIS orbital layer.
+Unmarked Chinese operators penetrate the NATO and AEGIS satellite-command facility
+at Torrejón Air Base near Madrid. Their objective is not to hold the base. They use
+compromised access and a prepared sequence to force satellites out of orbit before
+the defenders can determine how the protected site was penetrated.
+
+Ducky and AEGIS fight alongside local Spanish and allied personnel to regain the
+command spaces, preserve authentication and telemetry evidence, and interrupt the
+deorbit procedure. The mission broadens the campaign's attribution picture. The
+Russian possession of internal parameters remains central, but Torrejón proves that
+the compromised architecture is not useful only to Russia and that the official
+war map does not explain every hostile operation.
+
+AEGIS stops the full sequence, preserving most of the constellation. One satellite,
+however, has already passed the point at which control can be restored. Its descent
+track carries it toward the Julian Alps in Slovenia.
+
+The mission ends with a partial success that immediately creates the next objective.
+The loss is limited, but the falling satellite turns an orbital-security breach into
+a physical recovery race. ORBITAL DECAY and SPLASHDOWN therefore function as one
+continuous cause-and-effect block rather than two independent episodes.
+
+-------------------------------------------------------------------------------
+4. SPLASHDOWN
+-------------------------------------------------------------------------------
+
+AEGIS deploys into the Julian Alps with Slovenian special-operations, civil-defense,
+resistance, and technical-recovery partners. The satellite has broken apart across
+difficult mountain terrain, scattering components and security-sensitive wreckage
+through an Alpine debris corridor before hostile teams can be fully identified.
+
+The mission is not an attempt to “save” the destroyed satellite. Ducky's force must
+locate the decisive surviving sections, prevent hostile recovery of authentication,
+telemetry, storage, and architectural material, and preserve enough evidence to
+reconstruct who initiated the deorbit and who expected to exploit the wreckage.
+
+Local knowledge is indispensable. Slovenian partners understand the roads, slopes,
+weather, debris movement, and civilian-access problem in ways AEGIS does not. Ducky
+provides the playable tactical spine and the technical connection to Torrejón, but
+the operation succeeds because the local force can turn an uncontrolled impact zone
+into a recoverable search-and-denial problem.
+
+The allies secure the most important surviving material before the hostile recovery
+teams can remove it. The mission preserves evidence and limits the compromise, but
+it does not undo the loss in orbit. Analysis of the recovered package reveals
+references to Dutch contractor credentials, precision-optics movements, and a narrow
+transfer window at a high-value technology complex in Veldhoven.
+
+That lead carries the campaign directly into PROCESS WINDOW. It also changes the
+meaning of the Torrejón attack. The deorbit was not only an attempt to damage AEGIS.
+The wreckage and associated target package indicate a broader campaign against the
+industrial capacity required to rebuild compromised systems.
+
+[DEVELOPMENT GAP — EVIDENCE SPECIFICITY]
+The handoff is logically sound at campaign level, but the final source should define
+one memorable, reproducible evidence item linking the satellite package to Veldhoven.
+A contractor certificate, movement schedule, serialized transport identifier, or
+partial target matrix would allow the player to understand the connection without
+depending entirely on a post-mission briefing.
+
+-------------------------------------------------------------------------------
+5. PROCESS WINDOW
+-------------------------------------------------------------------------------
+
+PROCESS WINDOW, currently a working title, takes place at a fictionalized
+ASML-associated campus and adjacent integration and logistics complex in Veldhoven.
+Taiwan's annexation and the wider wartime semiconductor disruption have made the
+remaining European lithography, calibration, qualification, tooling, and engineering
+capacity strategically critical to the recovery of AEGIS and other Western defense
+systems.
+
+The protected target is not one magical machine. It is a combined recovery path:
+a critical exposure-system module, precision optics, calibration and process-control
+data, specialist tooling, contamination-control infrastructure, and a small group of
+engineers capable of restoring and certifying the line. The attackers need not occupy
+the campus. They need only destroy or separate enough of those interdependent parts
+to make recovery nonviable.
+
+A deniable Chinese-directed technical-action cell penetrates the service side using
+compromised contractor access, locally sourced vehicles, commercial drones, prepared
+maintenance credentials, and a small number of disciplined assault personnel. Dutch
+defenders already control the public approaches and are moving staff and technical
+packages before AEGIS arrives. Ducky's squad reinforces a local operation rather than
+replacing it.
+
+The mission's broad established flow carries AEGIS through service roads, loading
+courts, utility spaces, transfer areas, and controlled technical corridors while the
+continuity team attempts to move the irreplaceable combination out of the threatened
+campus. The attackers use the environment's own safety, access, contamination, and
+fire-control systems to make the technical recovery fail even if they cannot win a
+conventional firefight.
+
+When hostile overwatch closes the protected convoy route, Ducky tasks Lupin to an
+elevated blocking position. Control shifts briefly to Lupin for a fast, pressurized
+rooftop and service-structure engagement. His section emphasizes moving threats,
+shorter designated-marksman ranges, rapid prioritization, and visible protection of
+the convoy below rather than Frost's slower precision grammar. Once the route is
+reopened, control returns to Ducky.
+
+AEGIS, Dutch personnel, engineers, and drivers preserve the critical module,
+qualification archive, and essential technical team. The attackers nevertheless
+destroy secondary tooling, contaminate part of the environment, damage support
+infrastructure, and further disrupt the service chain. The result is a costly partial
+success. Europe retains a viable recovery path, but the semiconductor bottleneck
+survives into later installments.
+
+Recovered routing and credential material points toward a mobile electronic-warfare
+and logistics architecture moving through Latvia. Halliday uses that lead to task
+HARD WINTER. PROCESS WINDOW therefore supplies the target and movement lead, but
+does not replace the next mission's investigative discovery.
+
+[DEVELOPMENT GAP — FULL MISSION DESIGN]
+PROCESS WINDOW is not production-ready. Its placement, strategic function, partial
+success, and broad Lupin transition are established. The exact protected package,
+Dutch cast, attacker composition, objective order, campus route, technical
+interactions, dialogue, cinematics, failure logic, and precise rooftop staging
+remain provisional.
+
+[DEVELOPMENT GAP — LATVIA TRACE]
+The campaign needs an exact surviving trace that links the Veldhoven cell to the
+mobile convoy. The evidence should be operational rather than purely financial:
+for example, a routing token, maintenance credential family, equipment serial block,
+vehicle-support schedule, or encrypted movement reference that Halliday can use to
+locate a physical target.
+
+-------------------------------------------------------------------------------
+6. HARD WINTER
+-------------------------------------------------------------------------------
+
+AEGIS tracks the mobile electronic-warfare convoy across the Latvian interior over
+two in-game days. The operation moves the campaign away from fixed high-value sites
+and into a mobile target problem. The hostile architecture can no longer be treated
+as a collection of infiltrated facilities. It has logistics, protection, movement,
+and technical continuity of its own.
+
+Ducky's team follows the convoy through winter terrain while hostile screening
+elements attempt to separate surveillance from engagement. The long pursuit gives
+Halliday time to compare the convoy's equipment, contractor relationships, and
+movement records against the evidence accumulated since Estonia.
+
+The mission culminates in the recovery of material that reveals Investigative Beat 2,
+“The Architecture.” Halliday traces AEGIS development contracts and associated access
+through Nexus Meridian Holdings and financial structures connected to the wider
+KINGMAKER network already visible in the Montoya Farm records. The compromise is not
+the work of one bribed technician or one stolen file. It sits inside a durable web of
+contractors, credentials, financial intermediaries, and technical services.
+
+The recovered architecture also identifies Bakhmut as the location of a protected
+forward site where the hostile system is being tested and certified. AEGIS is not
+being sent into the ruined city simply to destroy another relay. It is going there
+to determine what the architecture is designed to do.
+
+[DEVELOPMENT GAP — BAKHMUT TASKING]
+The final HARD WINTER ending should make the Bakhmut lead concrete. The campaign
+needs a specific site identifier, service dependency, test schedule, or certification
+reference that explains why the ruined municipal complex is the next indispensable
+target and why the opportunity cannot be deferred.
+
+-------------------------------------------------------------------------------
+7. DEAD GROUND
+-------------------------------------------------------------------------------
+
+AEGIS enters Bakhmut and links up with a Ukrainian veteran cell led by Captain
+Oleksandr Honcharenko. His team includes signals and electronic-warfare specialist
+Kateryna Melnyk, reconnaissance and UAS NCO Mykhailo Vorobei, engineer and breacher
+Taras Savchuk, and medic Olena Kysil.
+
+The city is presented as watched geometry rather than a generic ruined combat
+sandbox. Exposed concrete frames, broken balcony grids, damaged courtyards, dirty
+snow, service passages, and long sight lines determine who can move, who can observe,
+and which structures can still carry technical infrastructure.
+
+Ducky and Honcharenko begin by establishing the route and testing the enemy's outer
+awareness. The Russian-led detachment is protecting controllers, observers, drone
+spotters, and technical access rather than merely holding symbolic ground. AEGIS
+recognizes that the municipal communications-and-utilities complex has been shaped
+to conceal a more important function.
+
+Frost becomes temporarily playable to remove overwatch and controller positions whose
+survival would expose the joint force before it can reach the site's dependencies.
+His section is deliberate and methodical. The player reads range, stability, route
+timing, and the consequence of each shot before control returns to Ducky.
+
+By the end of the mission, the combined force has not yet reached the inner relay
+architecture. It has learned how the site watches the city and has created a viable
+approach for the shaping operation in DARK FIBER.
+
+-------------------------------------------------------------------------------
+8. DARK FIBER
+-------------------------------------------------------------------------------
+
+The joint force attacks an outer dependency supporting the Bakhmut site and exploits
+buried communications, cable routes, service infrastructure, and timing systems. The
+mission is designed to strip away one layer of the target without prematurely forcing
+the decisive assault.
+
+Ducky continues to command the larger tactical problem while Melnyk and the Ukrainian
+cell interpret the technical infrastructure. The enemy reacts by moving a local
+interdiction element toward the approach corridor.
+
+Control shifts temporarily to Lupin. Unlike Frost's previous section, Lupin's
+engagement is closer, faster, and organized around breaking movement before it
+reaches the squad. He uses aggressive designated-marksman fire and rapid repositioning
+to hold the approach while Ducky's element completes the exploitation.
+
+The recovered timing, relay, and certification material establishes that the target
+is not a local communications node. It is a forward certification facility used to
+validate attack logic, rehearse a relay chain under contested-spectrum conditions,
+and tune a deception envelope against AEGIS-shaped defensive interpretation.
+
+The discovery confirms Halliday's architecture theory but still leaves the decisive
+technical packet inside the municipal complex. DARK FIBER therefore ends by turning
+ASH RELAY from a destruction mission into a controlled seizure-and-denial operation:
+the relay must be dismantled in the correct order so that enough evidence survives
+to identify what the certified strike package is intended to attack.
+
+-------------------------------------------------------------------------------
+9. ASH RELAY
+-------------------------------------------------------------------------------
+
+AEGIS and the Ukrainian cell launch the decisive assault on the municipal
+communications-and-utilities complex. Ducky remains the sole playable perspective
+through the conclusion of the Bakhmut arc, restoring the campaign's command viewpoint
+after the Frost and Lupin transitions.
+
+The target combines a ruined civic shell with an attached industrial service wing.
+The inner technical cell attempts to preserve or erase different parts of the relay
+architecture while the outer screen closes on the site. Destroying the wrong element
+too early would either allow the network to route around the loss or erase the
+evidence required to understand the wider operation.
+
+Ducky directs the team through the required denial sequence. AEGIS secures the inner
+spaces, the Ukrainian cell controls routes and structural access, and the surviving
+technical packet is removed before the reaction force can seal the area.
+
+The recovered material is the campaign's first complete physical proof of a repeatable
+relay-and-deception kill chain built with compromised AEGIS-adjacent knowledge. It
+shows how hostile operators can certify a strike package, move it through contested
+communications, and cause AEGIS-shaped defensive systems to misread or delay their
+response.
+
+The packet identifies Svalbard as the probable northern target. The discovery pays
+off the campaign's investigative escalation: the parameters found in Estonia have
+become a tested architecture with a named objective.
+
+Before AEGIS can deploy north, however, Halliday identifies an active continental
+node in Brno that is connected to the same movement and routing chain. This creates
+the immediate OPEN CIRCUIT tasking.
+
+[DEVELOPMENT GAP — BRNO NECESSITY]
+This is the most important unresolved middle-to-late campaign handoff. ASH RELAY
+already identifies Svalbard, so OPEN CIRCUIT can read as a detour unless Brno
+contains something AEGIS must obtain or deny before the northern operation can
+succeed. The final bridge should establish that Brno holds a live routing core,
+activation timetable, current credential set, target-confirmation channel, or other
+time-sensitive element that cannot be bypassed merely by deploying directly to
+Svalbard.
+
+-------------------------------------------------------------------------------
+10. OPEN CIRCUIT
+-------------------------------------------------------------------------------
+
+OPEN CIRCUIT moves the technical war from Bakhmut's openly ruined environment into
+the service side of the Brno Exhibition Centre. The district initially appears to
+be operating under partial civilian normality: closed tram stops, contractor
+vehicles, intermittent work lights, stacked event equipment, loading access, plant
+rooms, freight doors, and temporary installations.
+
+AEGIS enters with SHIELD, DAOG's sensitive-site exploitation and recovery squad.
+The obvious technical floor contains staged clutter. Ducky notices that the service
+route is protected more heavily than the visible hardware and concludes that the
+public-facing site is a decoy.
+
+The force follows the protected service artery into a repurposed hall and conference
+interface containing portable racks, cooling, hardened power, fiber, cased
+components, workstations, and prepared wipe procedures. AEGIS secures the perimeter
+while SHIELD images the floor, classifies the hardware, and removes the routing core.
+
+The seizure triggers a hard lockdown. Shutters close, power and lighting states
+change, vehicle barriers rise, and deniable contractor-cover security gives way to
+a more overt military reaction. The building separates AEGIS and SHIELD onto
+parallel eastward routes while the package must continue moving.
+
+Both elements are pinned near the Velodrom-facing service-road choke by vehicles,
+barriers, and elevated firing positions. Ducky confirms the friendly geometry and
+calls French Rafale support under the KERAUNOS callsign. The precision strike breaks
+the lead barrier mass and strips the upper firing line without destroying the wider
+district.
+
+Ducky does not pause to watch the aircraft. AEGIS moves through the breach, recombines
+with SHIELD, confirms that the routing core remains intact, and escapes before the
+second containment ring closes.
+
+The mission proves that the architecture discovered in Bakhmut is embedded inside
+ordinary European commercial movement, contractor access, temporary power, cooling,
+freight, and service systems. Its plot function should also be operational: the
+routing core must make the Svalbard deployment possible, more accurate, or less
+vulnerable than it would have been after ASH RELAY alone.
+
+[DEVELOPMENT GAP — OPEN CIRCUIT TO PERMAFROST]
+The source set has locked the order but not the exact payoff. The final version
+should show what SHIELD extracts from the core and how it changes the northern
+mission. That information could confirm the attack window, expose the current relay
+route, provide a credential or counter-authentication method, reveal the insertion
+vector, or prevent the enemy from remotely retasking the package. The choice remains
+open, but the result must be visible in PERMAFROST.
+
+-------------------------------------------------------------------------------
+11. PERMAFROST
+-------------------------------------------------------------------------------
+
+AEGIS returns to Svalbard, where the northern strike package threatens the
+infrastructure that survived the first game's opening crisis. The location gives
+the campaign a deliberate circularity. AEGIS is no longer defending the site from
+an isolated attack. Ducky now understands the relay, certification, credential, and
+deception architecture assembled to make the strike succeed.
+
+The exact entry route and the full benefit gained from OPEN CIRCUIT remain
+production-working. At campaign level, the mission is the payoff to the Bakhmut
+evidence and the final continental exploitation. AEGIS reaches the relevant node,
+disrupts the attack sequence, and prevents the northern operation from achieving
+its intended strategic effect.
+
+During the withdrawal, Lupin is struck by a shoulder fragment. The injury is not
+discarded at the end of the mission. Switchblade stabilizes him while the team
+continues moving toward the coast.
+
+Norwegian K239 Chunmoo rocket artillery under the TYPHON callsign collapses inland
+pursuit routes and creates a narrow coastal extraction window. AEGIS reaches a
+rigid-inflatable craft under fire and escapes before the enemy can reclose the route.
+
+The mission appears to stop the certified northern strike package. It also produces
+the next intelligence opportunity. Surviving material, enemy reaction, or the route
+used to support the operation points AEGIS toward the Russian intelligence vessel
+Akademik Volkov in Kaliningrad harbor.
+
+[DEVELOPMENT GAP — KALININGRAD LEAD]
+The PERMAFROST-to-HULL BREACH transition needs a specific causal link. The Volkov
+should not appear as an unrelated intelligence target after the Svalbard climax.
+The campaign needs one identifiable reason the ship matters now: it may be the
+credential repository, command vessel, exploitation archive, personnel-evacuation
+platform, or surviving control node associated with the failed northern operation.
+
+-------------------------------------------------------------------------------
+12. HULL BREACH
+-------------------------------------------------------------------------------
+
+AEGIS joins Nereid Black for a maritime intelligence operation in Kaliningrad harbor.
+The force infiltrates aboard the ballistic-missile submarine USS District of Columbia
+and assaults the Russian intelligence vessel Akademik Volkov.
+
+The mission extends the campaign's infrastructure theme into a mobile naval archive.
+AEGIS has destroyed field nodes and recovered local packets, but the Volkov holds
+the higher-level records required to identify who inside the allied command structure
+made those operations possible.
+
+Lupin participates in the exploitation despite the shoulder wound sustained during
+PERMAFROST. His condition is visible in movement, handling, and dialogue rather than
+reset between missions. The continuity gives the late campaign a physical cost and
+prevents the Svalbard escape from becoming consequence-free.
+
+The recovered drive contains Lieutenant General Callum Tremblay's ZEUS-level
+credential identifier and biometric profile. The result becomes Investigative Beat 3,
+“The Credential.” It does not merely suggest that a senior official was negligent.
+A credential at Tremblay's level appears inside the hostile architecture the team
+has spent the campaign reconstructing.
+
+At 0200 after the mission, Ducky, Walker, and Halliday confront the implication.
+This is Investigative Beat 4, “What Ducky Does With It.” The team finally has enough
+to move from analysis to action, but no fully trustworthy institutional path remains
+through which to act. Walker authorizes an unauthorized confrontation and tasks
+Ducky toward the campaign finale.
+
+The HULL BREACH-to-AEGIS FALLS handoff is one of the campaign's strongest existing
+transitions. The investigation has reached a person with authority over the system,
+and the next mission is a direct consequence of evidence the player helped recover.
+
+-------------------------------------------------------------------------------
+13. AEGIS FALLS
+-------------------------------------------------------------------------------
+
+AEGIS FALLS is a compound final operation rather than two separate missions. Its
+first phase preserves the existing Russian undersea-threat concept against France.
+Its final movement carries Ducky and AEGIS to a GenCorp-connected estate near
+Aix-en-Provence for the confrontation with Tremblay.
+
+The operational phase forces the squad to act before the undersea threat can be used
+against the French coast. The exact platform, route, staging, and technical
+relationship between the device and Tremblay's credential remain production-working.
+At plot level, the threat must function as the final live consequence of the
+architecture AEGIS has uncovered: compromised authority has enabled a strategic
+attack that cannot be stopped through ordinary command channels.
+
+After preventing the attack, Ducky continues to Aix-en-Provence rather than returning
+to debrief. The team reaches Tremblay outside the authorization structure he helped
+control. The confrontation resolves the ambiguity surrounding his decisions instead
+of carrying it into the next installment.
+
+Tremblay argues that the institution cannot survive what Ducky has uncovered and
+that removing him will not repair the strategic system already collapsing around
+them. His protected final assertion is: “AEGIS falls regardless.”
+
+Ducky answers: “Then we build something better.”
+
+The exchange completes the campaign's thematic arc. At the beginning, Ducky fights
+to preserve AEGIS as the system holding Europe's defensive picture together. By the
+end, he distinguishes the purpose of AEGIS from the institution that has failed it.
+The squad, Halliday's record, Walker's decision, local allies across Europe, and the
+evidence they preserved represent the part worth carrying forward.
+
+[DEVELOPMENT GAP — COMPOUND FINALE CAUSALITY]
+The finale will only feel like one mission if the undersea-threat phase directly
+produces the Aix confrontation. The operational phase should expose Tremblay's active
+authorization, current location, escape attempt, command intervention, or personal
+control over the threat. A purely geographic transition from stopping the device to
+raiding an estate would make the finale feel like two missions joined for ladder
+economy rather than one escalating resolution.
+
+[DEVELOPMENT GAP — TREMBLAY CONSEQUENCE STATE]
+The protected line pair resolves Ducky's thematic position, but the exact physical,
+legal, and institutional consequence for Tremblay should be stated in the final
+mission source. Capture, death, exposure, disappearance, or another state will carry
+different implications into Game 3 and should not remain accidentally ambiguous.
+
+===============================================================================
+COHESION TEST
+===============================================================================
+
+OVERALL RESULT
+
+The current PERSISTENT THREAT ladder is coherent at campaign-spine level.
+
+The thirteen missions form a readable escalation:
+battlefield failure -> internal parameters -> orbital compromise -> physical
+recovery -> industrial sabotage -> mobile architecture -> certification site ->
+live continental node -> northern strike -> senior credential -> institutional
+confrontation.
+
+The campaign no longer reads as a loose anthology of European special-operations
+missions. The investigative beats, the Bakhmut-to-Svalbard chain, the Lupin injury
+continuity, and the HULL BREACH-to-finale decision create a defensible beginning,
+middle, and end.
+
+It is not yet fully production-cohesive. Several transitions are currently logical
+in summary but not yet dramatized through a specific piece of evidence, decision,
+or consequence. The greatest risk is not contradiction. It is that missions whose
+placement is correct may still feel episodic because the player has not been shown
+why the next operation must happen now.
+
+-------------------------------------------------------------------------------
+WHAT ALREADY WORKS
+-------------------------------------------------------------------------------
+
+1. THE INVESTIGATION ESCALATES THROUGH PLAYABLE CONSEQUENCES
+
+The campaign's four investigative beats do not exist only in briefings. Lupin
+photographs the parameters during DEAD FREQUENCY; HARD WINTER exposes the contractor
+architecture; HULL BREACH produces Tremblay's credential; and the 0200 conversation
+forces Ducky to choose what to do with it. This is a strong structural spine.
+
+2. ORBITAL DECAY AND SPLASHDOWN FORM A CLEAN CAUSAL PAIR
+
+The forced deorbit creates the mountain-recovery mission directly. The player sees
+the consequence of the failed defense rather than receiving it as exposition.
+
+3. PROCESS WINDOW BROADENS THE WAR WITHOUT SOLVING IT TOO EASILY
+
+The partial success protects a recovery path while preserving the semiconductor
+constraint. Its people-data-tooling-infrastructure model also supports the campaign's
+theme that systems are human and material networks, not abstract machines.
+
+4. THE BAKHMUT MINI-ARC HAS INTERNAL SHAPE
+
+DEAD GROUND reads the site, DARK FIBER strips a dependency and identifies its
+function, and ASH RELAY performs the decisive seizure and denial. Frost, Lupin, and
+Ducky each receive a distinct playable role without displacing Ducky as campaign
+lead.
+
+5. OPEN CIRCUIT EXTENDS THE CAMPAIGN THESIS
+
+Brno demonstrates that the same hostile architecture can exist inside ordinary
+commercial systems. The change from Bakhmut's visible destruction to Brno's
+back-of-house normality is thematically productive rather than repetitive.
+
+6. PERMAFROST, HULL BREACH, AND AEGIS FALLS CARRY CONSEQUENCE FORWARD
+
+Lupin's wound persists into HULL BREACH. The Volkov drive produces the credential.
+The credential produces the unauthorized decision. The decision produces the
+Tremblay confrontation. This late chain is substantially stronger than an ending
+based only on stopping a strategic weapon.
+
+7. THE ENDING COMPLETES DUCKY'S INSTITUTIONAL ARC
+
+“Then we build something better” answers the campaign's central question. Ducky
+does not abandon collective defense. He rejects the idea that loyalty to collective
+defense requires loyalty to a compromised institutional shell.
+
+-------------------------------------------------------------------------------
+LOAD-BEARING GAPS
+-------------------------------------------------------------------------------
+
+A. FAILURE CASCADE -> DEAD FREQUENCY
+
+The opening needs one concrete anomaly that turns Walker's warning into the Estonia
+tasking.
+
+B. SPLASHDOWN -> PROCESS WINDOW -> HARD WINTER
+
+The sequence is strategically logical, but each handoff needs a visible evidence
+object or operational trace. Otherwise the campaign may appear to jump from satellite
+wreckage to a Dutch campus and then to a Latvian convoy through analyst exposition.
+
+C. HARD WINTER -> BAKHMUT
+
+The player needs to understand why Bakhmut contains the architecture's certification
+site and why the window to reach it is immediate.
+
+D. ASH RELAY -> OPEN CIRCUIT -> PERMAFROST
+
+This is the highest-priority cohesion problem. Because ASH RELAY already identifies
+Svalbard, Brno must be indispensable rather than merely informative. OPEN CIRCUIT
+should remove a live capability, recover a current key, or prevent an activation
+that would otherwise compromise the Svalbard operation.
+
+E. PERMAFROST -> HULL BREACH
+
+The Akademik Volkov requires a direct relationship to the failed northern operation.
+
+F. AEGIS FALLS INTERNAL STRUCTURE
+
+The French undersea phase and Aix confrontation must share one causal chain, one
+escalating time pressure, and one antagonist decision. The first phase should expose
+or force the second.
+
+-------------------------------------------------------------------------------
+CHARACTER AND THEMATIC RISKS
+-------------------------------------------------------------------------------
+
+1. DUCKY'S ARC IS PRESENT BUT TOO CONCENTRATED AT THE END
+
+The institutional theme is strong in concept, but Ducky's visible internal movement
+currently depends heavily on HULL BREACH and AEGIS FALLS. Earlier quiet beats should
+show his changing relationship to Walker, Halliday, command authority, and the name
+AEGIS itself.
+
+A useful non-canon development target would be four recurring decision points:
+- after DEAD FREQUENCY, Ducky accepts that the leak is internal;
+- after HARD WINTER, he accepts that the compromise is architectural rather than local;
+- after ASH RELAY or OPEN CIRCUIT, he begins acting faster than the institution can
+  authorize;
+- after HULL BREACH, he accepts that preserving the mission may require breaking the
+  chain of command.
+
+2. THE CHINESE OPERATIONAL LAYER MAY FEEL ABANDONED
+
+ORBITAL DECAY and PROCESS WINDOW establish an important parallel threat, after which
+the campaign returns primarily to Russian architecture. A later acknowledgment should
+clarify that China exploited the same damaged ecosystem without requiring a unified
+Russian-Chinese command structure. The campaign does not necessarily need a separate
+Chinese finale, but it should not make those missions feel narratively disposable.
+
+3. THE CROSS-CAMPAIGN CRODYN SYNCHRONIZATION IS NOT YET DRAMATIZED HERE
+
+Crodyn's wartime address is the principal synchronization point across Game 2, but
+the current PERSISTENT THREAT ladder does not yet have a clearly locked mission slot
+or reaction beat for it. The campaign should establish when AEGIS hears the address,
+what operational phase they are in, and how Ducky interprets a government publicly
+defining independent resistance and disclosure as threats.
+
+4. FROST, SWITCHBLADE, AND HALLIDAY NEED CONTINUOUS PRESENCE BETWEEN SET PIECES
+
+Frost and Lupin have clear gameplay identities, and Switchblade has a strong opening
+moral beat and late medical function. Halliday owns the investigation. The final
+synopsis should ensure that all three squadmates and Halliday remain active in the
+connective scenes so the campaign does not become Ducky moving between technical
+briefings and guest-force missions.
+
+5. LOCAL ALLIES MUST REMAIN PART OF THE STORY'S ARGUMENT
+
+Norwegian, Estonian, Spanish, Slovenian, Dutch, Latvian, Ukrainian, Czech, French,
+Nereid Black, and SHIELD personnel should not function as interchangeable support.
+The campaign's collective-will theme depends on each location showing that AEGIS
+succeeds because local actors possess authority, knowledge, infrastructure, and
+costs of their own.
+
+===============================================================================
+RECOMMENDED NEXT DEVELOPMENT ORDER
+===============================================================================
+
+The synopsis suggests the following sequence for future work:
+
+1. Build a one-page evidence-and-causality chain covering every mission handoff.
+   Each arrow should identify:
+   - what is recovered or observed;
+   - who interprets it;
+   - what it proves;
+   - why the next target is urgent;
+   - what would happen if AEGIS did not act.
+
+2. Resolve the ASH RELAY -> OPEN CIRCUIT -> PERMAFROST bridge first. It is the only
+   current placement that can still read as an avoidable detour despite being
+   continuity-correct.
+
+3. Complete the dedicated PROCESS WINDOW development pass, preserving its locked
+   placement, partial-success result, strategic function, and Lupin transition.
+
+4. Lock the PERMAFROST -> HULL BREACH target chain.
+
+5. Develop AEGIS FALLS as one continuous operation and state Tremblay's final
+   consequence.
+
+6. Place Ducky's four institutional-arc beats and the Crodyn-address synchronization
+   inside the ladder.
+
+7. Perform a final dialogue and intermission pass focused on squad relationships,
+   Halliday's paper trail, Walker's changing authorization posture, and the cumulative
+   cost carried by local partners.
+
+===============================================================================
+CONCLUSION
+===============================================================================
+
+PERSISTENT THREAT now has a viable and substantially cohesive plot.
+
+Its strongest idea is that the enemy's decisive advantage is not a single secret
+weapon. It is access to the systems, contractors, credentials, movements, and habits
+through which Europe protects itself. The campaign begins with AEGIS attempting to
+hold that system together and ends with Ducky recognizing that its purpose must
+survive even if its compromised form does not.
+
+The remaining work is connective rather than reconstructive. No mission currently
+needs to be removed or reordered to make the campaign function. The narrative now
+requires explicit evidence handoffs, earlier dramatization of Ducky's institutional
+arc, a non-detour justification for OPEN CIRCUIT, and a single causal spine through
+the two phases of AEGIS FALLS.
+
+With those elements developed, the current ladder can support a coherent campaign
+rather than merely a coherent sequence of missions.
