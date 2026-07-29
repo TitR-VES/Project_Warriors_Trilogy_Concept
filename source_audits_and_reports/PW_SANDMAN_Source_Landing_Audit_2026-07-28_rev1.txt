@@ -30,7 +30,7 @@ CANON INPUT
   soft and lightly armored targets within intended pistol range.
 - Later ammunition: 9x19mm subsonic; strongest sound reduction with the Osprey 45 2.0;
   slight damage and effective-range reduction.
-- Guide-rod walk-out: 4% per shot in the first consecutive rapid-fire magazine;
+- Guide-rod walk-out: 2.5% per shot in the first consecutive rapid-fire magazine;
   50% chance during the second; 96% chance per third and later sustained-fire magazine.
 - Fresh-magazine first-round choke: 10% per eligible reload; tactical reload excluded.
 - Stiff-magazine extraction: 20% per reload involving magazine removal.
@@ -177,7 +177,7 @@ M1911 comparison wherever inconsistent. SANDMAN must now be described as mechani
 temperamental rather than as having only a modest reliability disadvantage.
 
 PASS. Guide-rod walk-out uses the intended mixed probability scope:
-- 4% per shot during the first consecutive rapid-fire magazine;
+- 2.5% per shot during the first consecutive rapid-fire magazine;
 - 50% chance during the second consecutive rapid-fire magazine;
 - 96% chance per third and later consecutive rapid-fire magazine.
 The 50% and 96% values are magazine-level event chances and must not be converted to
