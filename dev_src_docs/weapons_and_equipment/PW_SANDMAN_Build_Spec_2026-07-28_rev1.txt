@@ -19,9 +19,17 @@ LOCKED CONFIGURATION
 - Tan / flat dark earth primary finish.
 - Black polymer grip panels.
 - Threaded barrel.
+- Streamlight TLR-3 weapon light mounted on the pistol's accessory rail below the bore.
 - Suppressor-compatible configuration is canonical, but the suppressor is not permanently fitted.
 - When Hawthorne suppresses SANDMAN, he attaches a black, flat-sided, just-under-seven-inch SilencerCo Osprey 45 2.0 suppressor.
-- No optic, weapon light, compensator or other accessory is canonically assigned by this source.
+- No optic, compensator or other accessory is canonically assigned by this source.
+
+WEAPON-LIGHT CONFIGURATION LOCK
+SANDMAN carries a Streamlight TLR-3 as its canonical weapon light. The compact light sits in a distinctly low below-bore position beneath the Hudson H9's forward frame, preserving the pistol's unusual stacked, forward-heavy silhouette rather than visually merging into the slide or dust cover.
+
+The TLR-3's switch paddle sits high enough relative to the light body, trigger guard and firing hand that Hawthorne can reach it naturally despite the light's low mounting position. The animation and first-person model must preserve this relationship: the body of the light reads visibly low, while the paddle remains accessible to the shooter's fingers without an exaggerated grip shift or loss of firing control.
+
+The light should support practical momentary and steady activation consistent with the real TLR-3 control concept. Exact finger choice, activation animation, beam tuning, battery behavior and input mapping remain production details unless separately locked.
 
 SUPPRESSOR CONFIGURATION LOCK
 The SilencerCo Osprey 45 2.0 is SANDMAN's canonical suppressor rather than a generic interchangeable can. Its black finish contrasts with the tan/FDE pistol, and its flat-sided body, measuring just under seven inches, extends the Hudson H9's already unusual profile into the build's most distinctive silhouette.
@@ -46,6 +54,8 @@ Unsuppressed handling profile:
 - fast sight recovery and accurate follow-up-shot cadence
 
 The player should feel that unsuppressed SANDMAN settles quickly after every shot. Its advantage is control, speed and precision under pressure rather than raw stopping power.
+
+The compact TLR-3 does not erase this handling identity. Its low mounting position should be visible in the model and animation, but it does not impose the major forward-balance penalty associated with the much larger Osprey suppressor. Any numerical light-equipped handling effect remains a lower-level tuning field.
 
 SUPPRESSED HANDLING TRADE-OFF
 Attaching the just-under-seven-inch Osprey 45 2.0 adds meaningful mass ahead of the pistol's muzzle and shifts SANDMAN's center of gravity forward.
@@ -101,12 +111,17 @@ The tan or flat dark earth finish deliberately reinforces the SANDMAN name throu
 
 The Hudson H9's unusual low-bore, forward-heavy and near-futuristic profile also supports the Logan's Run connection. It evokes the visual language of a fictional science-fiction sidearm while remaining a grounded real-world pistol rather than a replica of the novel or film weapon.
 
+The low-mounted TLR-3 adds another recognizable vertical layer beneath the bore. Its compact body should remain visibly separate from the trigger guard and slide, while its high switch paddle preserves believable finger access. This strengthens the gun's distinctive silhouette without making the light look inaccessible or awkwardly controlled.
+
 When the black flat-sided Osprey 45 2.0 is fitted, its just-under-seven-inch body sharply extends the muzzle profile and makes SANDMAN's outline even more distinctive. The suppressed state should read as a strong mission-specific silhouette and as the clearest visual expression of the gun's fictional namesake. This is a canonical optional configuration, not the permanent default carry state.
 
 PRESENTATION RULES
 - Preserve the tan/FDE-and-black visual contrast as the build's immediate recognition cue.
 - Let the finish carry a restrained visual echo of the SANDMAN name; do not add literal sand graphics or decorative theming.
 - Preserve the Hudson H9's unusual futuristic silhouette rather than visually normalizing it into a generic service pistol.
+- Depict the Streamlight TLR-3 in its distinctly low below-bore position.
+- Keep the TLR-3 switch paddle visibly high enough to remain reachable from Hawthorne's firing grip.
+- Do not enlarge, raise or visually merge the light body merely to simplify the activation animation.
 - Depict the suppressor as the black, flat-sided, just-under-seven-inch SilencerCo Osprey 45 2.0 specified here; do not substitute a generic cylindrical suppressor.
 - When suppressed, emphasize the distinctive elongated outline without treating the suppressor as permanently installed.
 - Animate exceptionally controlled recoil, low muzzle rise and quick sight recovery in the bare-pistol state.
@@ -124,6 +139,7 @@ PLAYER / CAMPAIGN AVAILABILITY
 - Acquisition mode: starting/personal loadout, not a loot drop or mission reward.
 - Retention: persistent.
 - Drop policy: not applicable while Hawthorne is the player character; no generic enemy-drop identity is implied.
+- The Streamlight TLR-3 is part of SANDMAN's persistent base configuration unless an authored scene explicitly removes or disables it.
 - Standard 9x19mm is the normal opening ammunition lane and remains relatively inexpensive and accessible.
 - 9x19mm subsonic ammunition becomes available later in the campaign as a suppressed-specialist option.
 - The Osprey 45 2.0 may be fitted in missions or loadout states where lower signature is appropriate; unsuppressed carry remains valid elsewhere.
@@ -134,6 +150,8 @@ OPEN IMPLEMENTATION FIELDS
 - exact standard and subsonic ammunition brands / load specifications
 - exact numerical recoil, muzzle-rise, ADS, aim-stability, damage, range and sound-signature values
 - exact tan/FDE coating or material specification
+- exact TLR-3 beam output representation, spill/throw balance, battery behavior, input mapping and activation animation
+- exact finger used for momentary and steady activation in each stance and hand state
 - exact Osprey 45 2.0 mounting interface, attachment animation and mission/loadout availability
 - exact subsonic unlock point, price and replenishment rate
 - exact malfunction-frequency curve by condition and difficulty
@@ -141,7 +159,7 @@ OPEN IMPLEMENTATION FIELDS
 
 SOURCE AUTHORITY
 - Owner canon adjudication, 2026-07-28, expanded 2026-07-29.
-- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0 suppressor, visual/name logic, unsuppressed and suppressed handling profiles, ammunition progression, reliability trade-off and Kill Devil Hills provenance.
+- This dedicated source controls SANDMAN's owner, platform, year/model identity, finish, grip color, threaded-barrel state, Streamlight TLR-3 weapon light and its low-body/high-paddle installation, black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0 suppressor, visual/name logic, unsuppressed and suppressed handling profiles, ammunition progression, reliability trade-off and Kill Devil Hills provenance.
 - The contextual malfunction-clearing behavior inherits the merged first-person weapon-handling and persistent mechanical-state sources.
 - Lower-level numeric tuning and production fields remain open unless explicitly locked above.
 
