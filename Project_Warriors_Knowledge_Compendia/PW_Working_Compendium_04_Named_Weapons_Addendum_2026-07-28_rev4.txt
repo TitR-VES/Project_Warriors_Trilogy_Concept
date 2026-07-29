@@ -33,10 +33,10 @@ Platform: 2019 Hudson H9, 9x19mm, striker-fired pistol
 Owner: Nicholas Wayne Hawthorne / Croatoan
 Campaign: War Within DLC
 Role: persistent personal sidearm
-Configuration: tan/FDE primary finish; black polymer grip panels; threaded barrel;
-               canonical optional suppressor configuration
+Base configuration: tan/FDE primary finish; black polymer grip panels; threaded barrel
+Suppressor configuration: removable black flat-sided eight-inch SilencerCo Osprey SHS
 Continuity origin: early Kill Devil Hills Detachment period
-Status: locked core; lower-level numeric and configuration details remain open
+Status: locked core; lower-level numeric and production details remain open
 
 SANDMAN fills Hawthorne's previously open sidearm slot. It is not a late New
 American Frontier or Vanguard acquisition. Hawthorne has carried it since his early
@@ -54,10 +54,24 @@ literal thematic graphics. The Hudson H9's unusual low-bore and forward-heavy sh
 also carries a credible near-futuristic quality that evokes the fictional namesake
 while remaining a real, grounded handgun.
 
-The threaded barrel supports a canonical optional suppressor configuration. A
-suppressor is not permanently fitted, but when present it extends the weapon into an
-even more distinctive silhouette and provides the clearest visual expression of the
-Logan's Run echo. Exact suppressor model and mission/loadout availability remain open.
+--------------------------------------------------------------------------------
+CANONICAL SUPPRESSOR / VISUAL LOCK
+--------------------------------------------------------------------------------
+
+When Hawthorne suppresses SANDMAN, he fits a black, flat-sided, eight-inch
+SilencerCo Osprey SHS. This is the build's canonical suppressor, not a generic
+interchangeable cylindrical can.
+
+The Osprey SHS:
+- remains removable rather than permanently fitted
+- contrasts sharply with the tan/FDE pistol
+- extends the Hudson H9 into SANDMAN's strongest and most distinctive silhouette
+- provides exceptional shot-report dampening
+- reaches its strongest stealth effect with later-game 9x19mm subsonic ammunition
+
+The flat-sided body and elongated profile reinforce the Logan's Run visual echo
+without turning the weapon into a literal replica. Unsuppressed carry remains valid
+in missions and loadout states that do not require reduced signature.
 
 --------------------------------------------------------------------------------
 SANDMAN HANDLING / AMMUNITION / RELIABILITY LOCK
@@ -65,13 +79,26 @@ SANDMAN HANDLING / AMMUNITION / RELIABILITY LOCK
 
 SANDMAN is a control-and-speed sidearm rather than a raw-damage pistol.
 
-Handling identity:
+Unsuppressed handling identity:
 - exceptionally soft recoil
 - very low muzzle rise
 - strong ergonomics and great general handling
 - very fast ADS speed
 - high aim stability
 - fast, accurate follow-up shots and rapid return to the sight line
+
+Suppressed handling identity:
+- exceptional sound dampening
+- recoil remains soft and muzzle rise remains controlled
+- the eight-inch suppressor shifts the center of gravity forward
+- ADS becomes noticeably slower than in the bare-pistol state
+- repeated follow-up shots become slightly less stable because of the added front weight
+- sight recovery remains good, but rapid strings require more deliberate correction
+
+The Osprey SHS is therefore not a universal upgrade. It exchanges presentation speed
+and some repeated-shot stability for exceptional signature reduction. The penalty
+should be communicated through visible front-heavy handling rather than an opaque
+stat adjustment.
 
 Standard 9x19mm:
 - effective against soft and lightly armored targets within intended pistol range
@@ -80,11 +107,11 @@ Standard 9x19mm:
 
 Later-game 9x19mm subsonic:
 - unlocked later rather than available in the opening inventory
-- intended primarily for the optional suppressed configuration
-- exceptionally quiet and stable
-- improves stealth and rapid follow-up utility
+- intended primarily for use with the Osprey SHS
+- produces SANDMAN's quietest suppressed state
 - carries a slight damage and effective-range reduction
 - remains a tactical alternative rather than a universal replacement for standard ammunition
+- does not remove the suppressor's slower ADS and reduced repeated-shot stability
 
 Reliability trade-off:
 - slightly less reliable than a regular properly maintained M1911 reference lane
@@ -97,15 +124,15 @@ Reliability trade-off:
 - routine malfunctions cannot permanently erase or discard this named weapon
 
 The reliability cost is the final counterweight to SANDMAN's excellent recoil,
-handling, ADS speed, stability, common ammunition and later suppressed performance.
-It should create brief skill-expression pressure without making the pistol feel
-capricious or badly maintained.
+handling, unsuppressed ADS speed, stability, common ammunition and later suppressed
+performance. It should create brief skill-expression pressure without making the
+pistol feel capricious or badly maintained.
 
 --------------------------------------------------------------------------------
 HAWTHORNE WEAPON DISTINCTION
 --------------------------------------------------------------------------------
 
-- SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; optionally suppressed.
+- SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; removable Osprey SHS suppressor.
 - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
 
 SANDMAN complements DEAD BLOW and does not replace it in primary-weapon references.
@@ -159,9 +186,9 @@ SUPERSESSION NOTE
 - v2.10 controls the project-wide registry for all conflicts and inherits unchanged
   v2.9/v2.8 entries.
 - PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt controls SANDMAN's owner, model/year,
-  finish, grip color, threaded barrel, optional suppressed configuration, visual/name
-  logic, handling profile, ammunition progression, reliability trade-off and Kill
-  Devil Hills provenance.
+  finish, grip color, threaded barrel, removable black flat-sided eight-inch SilencerCo
+  Osprey SHS, visual/name logic, unsuppressed and suppressed handling profiles,
+  ammunition progression, reliability trade-off and Kill Devil Hills provenance.
 - The merged first-person weapon-handling sources control contextual clearing and
   persistent malfunction-state behavior used by SANDMAN.
 - PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-24_rev3.txt is superseded
