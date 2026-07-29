@@ -1,6 +1,6 @@
 PROJECT WARRIORS — GAME 2 PLOT SYNOPSIS RECAPITULATION
-Generated: 2026-07-28
-Version: rev5
+Generated: 2026-07-29
+Version: rev6
 Status: DERIVATIVE REFERENCE / WIKI-STYLE NARRATIVE SYNTHESIS WITH DEVELOPMENT-GAP FLAGS
 Scope: Project Warriors, Game 2 — all three main story campaigns
 
@@ -8,7 +8,7 @@ AUTHORITY NOTE
 
 This document recapitulates the currently landed Game 2 campaign ontology and source hierarchy in readable community-wiki prose. It is a derivative narrative reference, not a substitute for the campaign ontology, mission source pages, timeline authority, character sources, technical canon, or later dedicated campaign ladders.
 
-All three Game 2 campaigns are source-ready at compendium level, but their dedicated mission-page coverage remains uneven. AMERICAN FREEDOM has a strongly landed Calloway opening and resistance-formation arc, while its bridge from Coronado and continuation beyond the local Kentucky climax remain incomplete. PERSISTENT THREAT now has a continuity-preserving integrated twelve-mission ladder; its remaining gaps concern lower-level connective scripting, the ASML insertion, and complete finale production detail rather than basic mission order. GODKILLER has a structured three-track campaign identity, a source-ready mission ladder, and a now-developed closing arc aboard the NV Atlantis. Its remaining gaps concern exact chronology, early-to-middle connective plotting, dedicated mission-source parity, and stable timeline binding rather than the existence of a finale.
+All three Game 2 campaigns are source-ready at compendium level, but their dedicated mission-page coverage remains uneven. AMERICAN FREEDOM has a strongly landed Calloway opening and resistance-formation arc, while its bridge from Coronado and continuation beyond the local Kentucky climax remain incomplete. PERSISTENT THREAT now has a continuity-preserving integrated thirteen-mission ladder including the restored Game 2 ASML / Lupin-rooftop operation; its remaining gaps concern lower-level connective scripting, final PROCESS WINDOW nomenclature and production detail, and complete finale production detail rather than basic mission order. GODKILLER has a structured three-track campaign identity, a source-ready mission ladder, and a now-developed closing arc aboard the NV Atlantis. Its remaining gaps concern exact chronology, early-to-middle connective plotting, dedicated mission-source parity, and stable timeline binding rather than the existence of a finale.
 
 Statements marked [DEVELOPMENT GAP] identify missing or unreconciled development. They do not create new canon or imply that an unresolved option has been selected.
 
@@ -67,7 +67,7 @@ PERSISTENT THREAT
 
 The second campaign follows Sergeant First Class Ferris “Ducky” Ryan and AEGIS Squad as the European war changes from the defense of a threatened system into an offensive investigation of how that system has been compromised. Ducky continues to operate alongside Finnish sniper and arctic-warfare specialist Aki “Frost” Peltola, Romanian assault specialist Ştefan “Lupin” Dragavei, and Australian combat medic Cassandra “Switchblade” Stewart. Analyst Tara Halliday remains the campaign's principal institutional counterpart, preserving anomalies and records that others would prefer to treat as isolated incidents.
 
-Persistent Threat is built around the discovery that the enemy is not simply attacking European infrastructure from outside. Russian technical and intelligence elements are using knowledge of AEGIS-adjacent architecture to hide relay, certification, deception, and access systems inside the ordinary mechanisms through which Europe already functions. The ORBITAL DECAY attack at Torrejón also demonstrates that compromised access can be exploited by unmarked Chinese operators, broadening the operational problem without requiring every hostile action to belong to one unified command. Commercial logistics, temporary installations, contractor credentials, exhibition facilities, industrial service routes, power, cooling, fiber, and protected civilian movement become part of the battlefield.
+Persistent Threat is built around the discovery that the enemy is not simply attacking European infrastructure from outside. Russian technical and intelligence elements are using knowledge of AEGIS-adjacent architecture to hide relay, certification, deception, and access systems inside the ordinary mechanisms through which Europe already functions. The ORBITAL DECAY attack at Torrejón also demonstrates that compromised access can be exploited by unmarked Chinese operators, broadening the operational problem without requiring every hostile action to belong to one unified command. Commercial logistics, temporary installations, contractor credentials, exhibition facilities, industrial service routes, power, cooling, fiber, precision manufacturing, and protected civilian movement become part of the battlefield.
 
 The continuity-preserving campaign ladder is:
 
@@ -75,22 +75,29 @@ The continuity-preserving campaign ladder is:
 2. DEAD FREQUENCY
 3. ORBITAL DECAY
 4. SPLASHDOWN
-5. HARD WINTER
-6. DEAD GROUND
-7. DARK FIBER
-8. ASH RELAY
-9. OPEN CIRCUIT
-10. PERMAFROST
-11. HULL BREACH
-12. AEGIS FALLS
+5. PROCESS WINDOW — working title
+6. HARD WINTER
+7. DEAD GROUND
+8. DARK FIBER
+9. ASH RELAY
+10. OPEN CIRCUIT
+11. PERMAFROST
+12. HULL BREACH
+13. AEGIS FALLS
 
 The opening mission, “Failure Cascade,” retains the Norwegian coastal withdrawal previously developed under the shorthand “Cold Open.” AEGIS fights through a Russian naval-infantry landing, links up with Norwegian coastal defenders, and extracts after Switchblade takes a controlled risk to save an elderly civilian. Walker's message after exfil—“Good exfil. We have a problem.”—opens the investigation.
 
 “Dead Frequency” takes place at a converted NATO facility in northern Estonia. After completing the primary objective, AEGIS withdraws under closing pursuit while Swedish Archer artillery under the ARTEMIS callsign shapes the enemy's approach routes. Lupin photographs technical parameters showing that Russian personnel possess internal AEGIS nomenclature, creating Investigative Beat 1, “The Parameters,” and confirming insider-level access.
 
-In “Orbital Decay,” unmarked Chinese operators penetrate the NATO/AEGIS satellite-command layer at Torrejón de Ardoz and attempt to force the constellation out of orbit. AEGIS and local defenders interrupt the full sequence, but one satellite falls toward Slovenia. “Splashdown” follows immediately in the Julian Alps as AEGIS works with Slovenian special-operations, civil-defense, resistance, and technical-recovery partners to secure the wreckage before hostile teams can exploit it. The paired missions transform the compromise from a Russian intelligence anomaly into a broader operational vulnerability while preserving the later investigation's established order.
+In “Orbital Decay,” unmarked Chinese operators penetrate the NATO/AEGIS satellite-command layer at Torrejón de Ardoz and attempt to force the constellation out of orbit. AEGIS and local defenders interrupt the full sequence, but one satellite falls toward Slovenia. “Splashdown” follows immediately in the Julian Alps as AEGIS works with Slovenian special-operations, civil-defense, resistance, and technical-recovery partners to secure the wreckage before hostile teams can exploit it. The paired missions transform the compromise from a Russian intelligence anomaly into a broader operational vulnerability. Recovered fragments of a wider target and movement package warn Halliday that a high-value lithography transfer in the Netherlands is about to be attacked.
 
-“Hard Winter” tracks a mobile EW convoy across the Latvian interior over two in-game days. Its aftermath remains Investigative Beat 2, “The Architecture”: Halliday follows AEGIS development contracts through Nexus Meridian Holdings and the KINGMAKER-connected financial infrastructure already visible in the Montoya Farm records.
+“Process Window,” a working title, is the restored Game 2 ASML operation at a fictionalized high-security technology campus and integration complex in Veldhoven. A deniable Chinese-directed sabotage cell uses compromised contractor access, commercial drones, roof teams, and technical-action personnel to target the combined recovery chain needed for advanced semiconductor production: a critical lithography module, calibration and qualification data, specialist tooling, controlled technical infrastructure, and the engineers capable of restoring it. The mission avoids treating the semiconductor industry as one magical machine; the attackers need only destroy the irreplaceable combination to make Western recovery nonviable.
+
+Ducky remains the mission's primary playable and tactical perspective. When hostile roof teams and an anti-vehicle element pin the moving technical convoy, control shifts briefly and diegetically to Lupin on an elevated campus position. His SCAR-H designated-marksman section is shorter, closer-ranged, and more urgent than Frost's precision grammar: the player rapidly prioritizes drone operators, marksmen, breach personnel, and moving vehicle threats while visibly protecting Ducky, Switchblade, Dutch defenders, engineers, and convoy vehicles below. Control returns to Ducky as soon as Lupin reopens the route.
+
+AEGIS and its Dutch partners preserve the critical module, qualification archive, and essential engineering team, but secondary tooling, support infrastructure, and service capacity are damaged. The outcome is therefore a costly partial victory: a viable Western recovery path survives, while the semiconductor bottleneck that shapes Game 3 remains intact. Contractor-routing and credential evidence recovered from the sabotage cell points Halliday toward a mobile EW and logistics convoy in Latvia.
+
+“Hard Winter” tracks that mobile EW convoy across the Latvian interior over two in-game days. Its aftermath remains Investigative Beat 2, “The Architecture”: Halliday follows AEGIS development contracts through Nexus Meridian Holdings and the KINGMAKER-connected financial infrastructure already visible in the Montoya Farm records. Process Window supplies the operational lead but does not replace Hard Winter's authored discovery.
 
 Hard Winter leads into the three-mission Bakhmut mini-arc. In “Dead Ground,” AEGIS links up with a Ukrainian veteran cell led by Captain Oleksandr Honcharenko and begins recognizing the geometry of a protected technical site inside the ruined city. Frost temporarily becomes playable to clear controller and overwatch positions whose survival would compromise the route.
 
@@ -106,7 +113,7 @@ In “Hull Breach,” AEGIS and Nereid Black infiltrate Kaliningrad harbor aboar
 
 “AEGIS Falls” is the compound finale rather than two competing end concepts. Its operational phase preserves the existing Russian undersea-threat asset against France; its final movement carries Ducky and AEGIS to the GenCorp-connected estate in Aix-en-Provence for the confrontation with Lieutenant General Callum Tremblay. Tremblay's active ambiguity is resolved rather than deferred into the next installment, and the protected exchange remains: “AEGIS falls regardless.” / “Then we build something better.”
 
-[DEVELOPMENT GAP — CONNECTIVE AND FINALE PRODUCTION DETAIL] The hard-order ladder, investigative numbering, Bakhmut-to-Svalbard causality, Lupin injury chronology, and HULL BREACH-to-finale handoff are reconciled. Remaining work includes the exact ASH RELAY-to-OPEN CIRCUIT evidence handoff, the OPEN CIRCUIT-to-PERMAFROST timing bridge, the final placement of the ASML/Lupin-overwatch mission, and the precise route and staging that connect the undersea-threat phase of AEGIS FALLS to the Aix-en-Provence confrontation.
+[DEVELOPMENT GAP — CONNECTIVE AND FINALE PRODUCTION DETAIL] The hard-order ladder, ASML placement, investigative numbering, Bakhmut-to-Svalbard causality, Lupin injury chronology, and HULL BREACH-to-finale handoff are reconciled. Remaining work includes the final owner-approved title and named Dutch cast for PROCESS WINDOW, the exact SPLASHDOWN-to-PROCESS WINDOW and PROCESS WINDOW-to-HARD WINTER evidence handoffs, the exact ASH RELAY-to-OPEN CIRCUIT evidence handoff, the OPEN CIRCUIT-to-PERMAFROST timing bridge, and the precise route and staging that connect the undersea-threat phase of AEGIS FALLS to the Aix-en-Provence confrontation.
 
 -------------------------------------------------------------------------------
 GODKILLER
@@ -203,9 +210,9 @@ AMERICAN FREEDOM
 
 PERSISTENT THREAT
 - define the opening bridge from Rotterdam and the movement into the continental systems war;
-- write the exact DEAD FREQUENCY-to-ORBITAL DECAY and SPLASHDOWN-to-HARD WINTER connective material;
+- finalize PROCESS WINDOW's owner-approved title, named Dutch cast, campus abstraction, and exact critical-package wording;
+- write the exact DEAD FREQUENCY-to-ORBITAL DECAY, SPLASHDOWN-to-PROCESS WINDOW, and PROCESS WINDOW-to-HARD WINTER connective material;
 - write the ASH RELAY-to-OPEN CIRCUIT evidence handoff and OPEN CIRCUIT-to-PERMAFROST timing bridge;
-- place the ASML/Lupin-overwatch mission without breaking the locked causal blocks;
 - determine whether the Ukrainian Bakhmut cell recurs;
 - source-land the complete multi-phase AEGIS FALLS production route;
 - resolve Tremblay's exact institutional consequences after the protected confrontation.
