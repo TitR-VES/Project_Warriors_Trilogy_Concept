@@ -34,7 +34,7 @@ Owner: Nicholas Wayne Hawthorne / Croatoan
 Campaign: War Within DLC
 Role: persistent personal sidearm
 Base configuration: tan/FDE primary finish; black polymer grip panels; threaded barrel
-Suppressor configuration: removable black flat-sided eight-inch SilencerCo Osprey SHS
+Suppressor configuration: removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0
 Continuity origin: early Kill Devil Hills Detachment period
 Status: locked core; lower-level numeric and production details remain open
 
@@ -58,11 +58,11 @@ while remaining a real, grounded handgun.
 CANONICAL SUPPRESSOR / VISUAL LOCK
 --------------------------------------------------------------------------------
 
-When Hawthorne suppresses SANDMAN, he fits a black, flat-sided, eight-inch
-SilencerCo Osprey SHS. This is the build's canonical suppressor, not a generic
-interchangeable cylindrical can.
+When Hawthorne suppresses SANDMAN, he fits a black, flat-sided SilencerCo Osprey
+45 2.0 measuring just under seven inches. This is the build's canonical suppressor,
+not a generic interchangeable cylindrical can.
 
-The Osprey SHS:
+The Osprey 45 2.0:
 - remains removable rather than permanently fitted
 - contrasts sharply with the tan/FDE pistol
 - extends the Hudson H9 into SANDMAN's strongest and most distinctive silhouette
@@ -90,15 +90,15 @@ Unsuppressed handling identity:
 Suppressed handling identity:
 - exceptional sound dampening
 - recoil remains soft and muzzle rise remains controlled
-- the eight-inch suppressor shifts the center of gravity forward
+- the just-under-seven-inch suppressor shifts the center of gravity forward
 - ADS becomes noticeably slower than in the bare-pistol state
 - repeated follow-up shots become slightly less stable because of the added front weight
 - sight recovery remains good, but rapid strings require more deliberate correction
 
-The Osprey SHS is therefore not a universal upgrade. It exchanges presentation speed
-and some repeated-shot stability for exceptional signature reduction. The penalty
-should be communicated through visible front-heavy handling rather than an opaque
-stat adjustment.
+The Osprey 45 2.0 is therefore not a universal upgrade. It exchanges presentation
+speed and some repeated-shot stability for exceptional signature reduction. The
+penalty should be communicated through visible front-heavy handling rather than an
+opaque stat adjustment.
 
 Standard 9x19mm:
 - effective against soft and lightly armored targets within intended pistol range
@@ -107,7 +107,7 @@ Standard 9x19mm:
 
 Later-game 9x19mm subsonic:
 - unlocked later rather than available in the opening inventory
-- intended primarily for use with the Osprey SHS
+- intended primarily for use with the Osprey 45 2.0
 - produces SANDMAN's quietest suppressed state
 - carries a slight damage and effective-range reduction
 - remains a tactical alternative rather than a universal replacement for standard ammunition
@@ -132,7 +132,7 @@ pistol feel capricious or badly maintained.
 HAWTHORNE WEAPON DISTINCTION
 --------------------------------------------------------------------------------
 
-- SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; removable Osprey SHS suppressor.
+- SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; removable Osprey 45 2.0 suppressor.
 - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
 
 SANDMAN complements DEAD BLOW and does not replace it in primary-weapon references.
@@ -186,9 +186,10 @@ SUPERSESSION NOTE
 - v2.10 controls the project-wide registry for all conflicts and inherits unchanged
   v2.9/v2.8 entries.
 - PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt controls SANDMAN's owner, model/year,
-  finish, grip color, threaded barrel, removable black flat-sided eight-inch SilencerCo
-  Osprey SHS, visual/name logic, unsuppressed and suppressed handling profiles,
-  ammunition progression, reliability trade-off and Kill Devil Hills provenance.
+  finish, grip color, threaded barrel, removable black flat-sided just-under-seven-inch
+  SilencerCo Osprey 45 2.0, visual/name logic, unsuppressed and suppressed handling
+  profiles, ammunition progression, reliability trade-off and Kill Devil Hills provenance.
+- Osprey SHS and eight-inch suppressor references are superseded and invalid for SANDMAN.
 - The merged first-person weapon-handling sources control contextual clearing and
   persistent malfunction-state behavior used by SANDMAN.
 - PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-24_rev3.txt is superseded
