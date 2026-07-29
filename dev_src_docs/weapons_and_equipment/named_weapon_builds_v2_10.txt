@@ -27,31 +27,35 @@ build specification control.
    - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
 3. SANDMAN predates Hawthorne's New American Frontier / Vanguard involvement and
    has been carried since his early Kill Devil Hills Detachment period.
-4. The threaded barrel is locked physical configuration. The suppressor is removable
+4. Base accessory lock: SANDMAN carries a Streamlight TLR-3 weapon light mounted
+   distinctly low beneath the bore on the pistol's accessory rail.
+5. The TLR-3 switch paddle sits high enough relative to the light body, trigger
+   guard and firing hand to remain naturally reachable despite the low mount.
+6. The threaded barrel is locked physical configuration. The suppressor is removable
    rather than permanently fitted.
-5. SANDMAN's canonical suppressor is a black, flat-sided, just-under-seven-inch
+7. SANDMAN's canonical suppressor is a black, flat-sided, just-under-seven-inch
    SilencerCo Osprey 45 2.0. Do not substitute a generic cylindrical suppressor in
    build references.
-6. The Osprey 45 2.0 provides exceptional shot-report dampening, especially with later
+8. The Osprey 45 2.0 provides exceptional shot-report dampening, especially with later
    9x19mm subsonic ammunition.
-7. The suppressor's forward mass shifts the center of gravity toward the muzzle,
+9. The suppressor's forward mass shifts the center of gravity toward the muzzle,
    making ADS noticeably slower and repeated follow-up shots slightly less stable
    than the bare-pistol state.
-8. The tan/FDE finish visually reinforces the SANDMAN name, while the Hudson H9's
-   unusual futuristic profile evokes the Logan's Run namesake without replica styling.
-9. When suppressed, the elongated flat-sided muzzle profile creates SANDMAN's
-   strongest and most distinctive silhouette.
-10. The literary name is a nod to Logan's Run, one of Hawthorne's favorite novels.
-11. Unsuppressed handling lock: exceptionally soft recoil, very low muzzle rise,
+10. The tan/FDE finish visually reinforces the SANDMAN name, while the Hudson H9's
+    unusual futuristic profile evokes the Logan's Run namesake without replica styling.
+11. When suppressed, the elongated flat-sided muzzle profile creates SANDMAN's
+    strongest and most distinctive silhouette.
+12. The literary name is a nod to Logan's Run, one of Hawthorne's favorite novels.
+13. Unsuppressed handling lock: exceptionally soft recoil, very low muzzle rise,
     great ergonomics, very fast ADS, high aim stability and rapid accurate follow-up shots.
-12. Ammunition progression lock: common low-cost standard 9x19mm remains effective
+14. Ammunition progression lock: common low-cost standard 9x19mm remains effective
     against soft and lightly armored targets; later 9x19mm subsonic ammunition makes
     suppressed SANDMAN exceptionally quiet at a slight damage/range cost.
-13. Reliability lock: SANDMAN is slightly less reliable than a regular maintained
+15. Reliability lock: SANDMAN is slightly less reliable than a regular maintained
     M1911 reference lane. Malfunctions remain condition-driven and uncommon rather
     than a flat random-jam tax; Hawthorne clears simple stoppages rapidly through the
     contextual restore-to-ready input.
-14. Registry counts increase by one named identity and one substantially specified
+16. Registry counts increase by one named identity and one substantially specified
     source-associated identity.
 
 --------------------------------------------------------------------------------
@@ -65,10 +69,14 @@ PW-WPN-HAWTHORNE-SANDMAN
   Callsign: Croatoan
   Campaign: War Within DLC
   Role: persistent personal sidearm
-  Base configuration: tan/FDE finish; black polymer grip panels; threaded barrel
+  Base configuration: tan/FDE finish; black polymer grip panels; threaded barrel;
+                      Streamlight TLR-3 weapon light
+  Weapon light: compact TLR-3 mounted distinctly low below bore; switch paddle remains
+                high enough for natural finger access from the firing grip
   Suppressor: removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0
   Visual identity: sand-linked two-tone finish; unusual futuristic Hudson H9 profile;
-                   especially distinctive elongated flat-sided outline when suppressed
+                   low under-bore light body with reachable high paddle; especially
+                   distinctive elongated flat-sided outline when suppressed
   Unsuppressed handling: exceptionally soft recoil; very low muzzle rise; great ergonomics;
                          very fast ADS; high aim stability; rapid accurate follow-up shots
   Suppressed handling: exceptional sound dampening; noticeably slower ADS; slightly
@@ -100,6 +108,7 @@ Uncounted owner-specific recovery slots with name not recovered: 2
 
 CURRENT
 - Hawthorne / Croatoan = SANDMAN = 2019 tan/FDE Hudson H9 = persistent sidearm
+- SANDMAN's weapon light = Streamlight TLR-3 in a low below-bore mount with a high reachable paddle
 - SANDMAN's suppressor = removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0
 - Osprey 45 2.0 improves signature reduction but slows ADS and slightly reduces repeated-shot stability
 - SANDMAN uses common standard 9x19mm initially and gains a later subsonic lane
@@ -109,6 +118,8 @@ CURRENT
 SUPERSEDED / INVALID
 - Hawthorne having no persistent sidearm
 - treating SANDMAN as a generic Hudson H9 with no named-build identity
+- omitting the TLR-3 from SANDMAN's persistent base configuration
+- relocating the light body upward or making its switch paddle inaccessible merely to simplify animation
 - treating the threaded barrel as proof of a permanently fitted suppressor
 - using a generic cylindrical suppressor in place of the specified Osprey 45 2.0
 - identifying SANDMAN's suppressor as an Osprey SHS or as an eight-inch model
