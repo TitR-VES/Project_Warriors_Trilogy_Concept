@@ -33,7 +33,8 @@ Platform: 2019 Hudson H9, 9x19mm, striker-fired pistol
 Owner: Nicholas Wayne Hawthorne / Croatoan
 Campaign: War Within DLC
 Role: persistent personal sidearm
-Base configuration: tan/FDE primary finish; black polymer grip panels; threaded barrel
+Base configuration: tan/FDE primary finish; black polymer grip panels; threaded barrel;
+                    Streamlight TLR-3 weapon light
 Suppressor configuration: removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0
 Continuity origin: early Kill Devil Hills Detachment period
 Status: locked core; lower-level numeric and production details remain open
@@ -53,6 +54,27 @@ black polymer grips, it produces a restrained sand-and-black visual identity wit
 literal thematic graphics. The Hudson H9's unusual low-bore and forward-heavy shape
 also carries a credible near-futuristic quality that evokes the fictional namesake
 while remaining a real, grounded handgun.
+
+--------------------------------------------------------------------------------
+CANONICAL WEAPON LIGHT LOCK
+--------------------------------------------------------------------------------
+
+SANDMAN carries a Streamlight TLR-3 as its persistent weapon light. The light body
+sits distinctly low beneath the bore on the pistol's accessory rail, adding a visible
+vertical layer below the Hudson H9's already unusual forward profile.
+
+The control relationship is equally important:
+- the compact light body remains visibly low below the bore
+- the switch paddle sits high enough relative to the trigger guard and firing hand
+  to remain naturally reachable by Hawthorne's fingers
+- activation must not require an exaggerated grip shift or loss of firing control
+- production should preserve practical momentary and steady activation behavior
+- the light body must not be raised, enlarged or merged into the frame merely to
+  simplify the animation
+
+Exact beam tuning, battery behavior, finger choice, input mapping and activation
+animation remain production details. The model, low mounting position and reachable
+high paddle are locked.
 
 --------------------------------------------------------------------------------
 CANONICAL SUPPRESSOR / VISUAL LOCK
@@ -86,6 +108,11 @@ Unsuppressed handling identity:
 - very fast ADS speed
 - high aim stability
 - fast, accurate follow-up shots and rapid return to the sight line
+
+The compact TLR-3 does not replace this base handling identity. Its low body should
+remain visible, but it does not create the pronounced front-balance cost associated
+with the much larger suppressor. Any numerical light-equipped handling effect remains
+an implementation field.
 
 Suppressed handling identity:
 - exceptional sound dampening
@@ -132,7 +159,8 @@ pistol feel capricious or badly maintained.
 HAWTHORNE WEAPON DISTINCTION
 --------------------------------------------------------------------------------
 
-- SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; removable Osprey 45 2.0 suppressor.
+- SANDMAN = 2019 tan/FDE Hudson H9 persistent sidearm; Streamlight TLR-3 light;
+  removable Osprey 45 2.0 suppressor.
 - DEAD BLOW = black HK MP5SD-style suppressed 9x19mm SMG.
 
 SANDMAN complements DEAD BLOW and does not replace it in primary-weapon references.
@@ -186,9 +214,10 @@ SUPERSESSION NOTE
 - v2.10 controls the project-wide registry for all conflicts and inherits unchanged
   v2.9/v2.8 entries.
 - PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt controls SANDMAN's owner, model/year,
-  finish, grip color, threaded barrel, removable black flat-sided just-under-seven-inch
-  SilencerCo Osprey 45 2.0, visual/name logic, unsuppressed and suppressed handling
-  profiles, ammunition progression, reliability trade-off and Kill Devil Hills provenance.
+  finish, grip color, threaded barrel, Streamlight TLR-3 light with low body and high
+  reachable paddle, removable black flat-sided just-under-seven-inch SilencerCo Osprey
+  45 2.0, visual/name logic, unsuppressed and suppressed handling profiles, ammunition
+  progression, reliability trade-off and Kill Devil Hills provenance.
 - Osprey SHS and eight-inch suppressor references are superseded and invalid for SANDMAN.
 - The merged first-person weapon-handling sources control contextual clearing and
   persistent malfunction-state behavior used by SANDMAN.
