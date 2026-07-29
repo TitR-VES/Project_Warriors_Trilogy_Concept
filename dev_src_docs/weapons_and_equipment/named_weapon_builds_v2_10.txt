@@ -51,11 +51,27 @@ build specification control.
 14. Ammunition progression lock: common low-cost standard 9x19mm remains effective
     against soft and lightly armored targets; later 9x19mm subsonic ammunition makes
     suppressed SANDMAN exceptionally quiet at a slight damage/range cost.
-15. Reliability lock: SANDMAN is slightly less reliable than a regular maintained
-    M1911 reference lane. Malfunctions remain condition-driven and uncommon rather
-    than a flat random-jam tax; Hawthorne clears simple stoppages rapidly through the
-    contextual restore-to-ready input.
-16. Registry counts increase by one named identity and one substantially specified
+15. Quantified malfunction lock supersedes earlier low-absolute-risk and maintained-
+    M1911 comparison language wherever inconsistent.
+16. Guide-rod walk-out / slide-stick rates:
+    - first consecutive rapid-fire magazine: 4% per shot;
+    - second consecutive rapid-fire magazine: 50% chance during that magazine;
+    - third and later consecutive rapid-fire magazines: 96% chance per magazine.
+17. The guide-rod failure leaves the slide rearward or half-open and requires a longer
+    restore-to-ready animation in which Hawthorne repositions the slide and returns
+    the pistol to battery.
+18. Fresh-magazine first-round choke: 10% per eligible reload; excluded from tactical
+    reloads where a live round remains chambered. Hawthorne performs a short partial
+    slide retraction to seat the round.
+19. Stiff-magazine extraction: 20% per reload involving magazine removal, including
+    tactical reloads unless later specifically overridden.
+20. Slide-catch slingshot / premature closure: 12.5% per eligible non-tactical reload.
+    If the slide closes before magazine insertion, the player must re-initiate the
+    restore-to-ready action after insertion so Hawthorne can chamber the first round.
+21. In-cycle feed choke: 2.5% per shot, approximately one event per forty shots.
+22. The first-magazine 4% guide-rod check and the 2.5% feed-choke check are per shot;
+    the 50% and 96% guide-rod escalation values are per-magazine event chances.
+23. Registry counts increase by one named identity and one substantially specified
     source-associated identity.
 
 --------------------------------------------------------------------------------
@@ -85,9 +101,17 @@ PW-WPN-HAWTHORNE-SANDMAN
                        and lightly armored targets within intended pistol range
   Later ammunition: 9x19mm subsonic; strongest sound reduction with Osprey 45 2.0;
                     slight damage and effective-range reduction
-  Reliability: slightly below a regular maintained M1911 reference lane; low absolute
-               risk when maintained; condition-driven stoppages; rapid practiced
-               Hawthorne immediate-action clearing
+  Guide-rod walk-out: 4% per shot in first sustained rapid-fire magazine; 50% per
+                       second consecutive rapid-fire magazine; 96% per third and later
+                       consecutive rapid-fire magazine; long stuck-slide recovery
+  First-round choke: 10% per eligible fresh-magazine reload; tactical reload excluded;
+                     short partial-slide correction
+  Stiff magazine extraction: 20% per reload involving magazine removal
+  Slide-catch slingshot: 12.5% per eligible non-tactical reload; pre-insertion closure
+                         requires re-initiated chambering action
+  In-cycle feed choke: 2.5% per shot; contextual feed-state clear
+  Malfunction system: persistent mechanical state; Hawthorne-specific practiced clears;
+                      routine failures cannot permanently discard the named weapon
   Continuity origin: early Kill Devil Hills Detachment period
   Status: LOCKED CORE / LOWER-LEVEL TUNING DETAILS OPEN
   Detail source: PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
@@ -112,7 +136,7 @@ CURRENT
 - SANDMAN's suppressor = removable black flat-sided just-under-seven-inch SilencerCo Osprey 45 2.0
 - Osprey 45 2.0 improves signature reduction but slows ADS and slightly reduces repeated-shot stability
 - SANDMAN uses common standard 9x19mm initially and gains a later subsonic lane
-- SANDMAN is a control/speed sidearm with a modest condition-driven reliability cost
+- SANDMAN uses the locked quantified five-mode malfunction profile above
 - Hawthorne / Croatoan = DEAD BLOW = black HK MP5SD-style suppressed SMG
 
 SUPERSEDED / INVALID
@@ -125,7 +149,10 @@ SUPERSEDED / INVALID
 - identifying SANDMAN's suppressor as an Osprey SHS or as an eight-inch model
 - treating suppressed SANDMAN as a no-cost handling upgrade
 - treating 9x19mm subsonic as a pure upgrade with no damage/range trade-off
-- implementing SANDMAN malfunctions as frequent arbitrary per-shot random jams
+- describing SANDMAN as retaining a low absolute malfunction frequency
+- retaining the generic "slightly less reliable than a maintained M1911" comparison where it conflicts with the locked rates
+- applying the 50% or 96% sustained-fire guide-rod values as per-shot checks
+- excluding stiff-magazine extraction from tactical reloads without a later explicit adjudication
 - replacing DEAD BLOW with SANDMAN in Hawthorne primary-weapon references
 
 ================================================================================
