@@ -53,9 +53,10 @@ operations:
       with the condition that Crodyn not be protected. Protected ending: “AEGIS falls
       regardless.” / “Then we build something better.”
     relations:
-      preceded_by:
-      - PW-EVT-G2-DUCKY-HULL-BREACH
-      - PW-EVT-G2-DUCKY-CRODYN-ADDRESS
+      prior_sequence:
+      - HULL BREACH / Tremblay ZEUS credential and Volkov records
+      - post-HULL-BREACH off-book Walker tasking
+      - Crodyn address and 0600 Tremblay anomaly
       contains_parallel_arms:
       - unauthorized AEGIS estate operation / Aix-en-Provence
       - Nereid Black and SHIELD deployment-vessel interdiction / Danish waters
