@@ -34,4 +34,4 @@ Current campaign placement:
 - Operation HOLE PUNCH occurs late in the campaign after Spook's Game 1 story and before GODKILLER, providing a direct bridge into Game 2.
 
 Controlling source:
-dev_src_docs/story_campaigns/DLC/TheWasp/Playable_Characters/La_Avispa/PW_The_Wasp_Operation_Hole_Punch_Integration_2026-07-30_rev1.txt
+dev_src_docs/story_campaigns/DLC/TheWasp/Playable_Characters/La_Avispa/PW_The_Wasp_Campaign_Chronology_and_Operation_Hole_Punch_Integration_2026-07-30_rev2.txt
