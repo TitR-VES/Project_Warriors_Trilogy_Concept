@@ -1,0 +1,80 @@
+meta:
+  delta_id: PW-ONT-SEA-SPEAR-AEGIS-FALLS-CROSSOVER-2026-07-30-REV1
+  generated: '2026-07-30'
+  narrative_structure_applies_to: pw_narrative_structure_campaigns_extended_rev1.yaml
+  event_reference_applies_to: PW-EVT-AEGIS-FALLS
+  status: locked_cross_campaign_playable_perspective
+  chronology_changes: partial_overlap_lock_only
+  sources:
+  - dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_SEA_SPEAR_AEGIS_FALLS_Maritime_Interception_Crossover_2026-07-30_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Sea_Spear_Playable_Perspective_Addendum_2026-07-30_rev1.txt
+  - Project_Warriors_Knowledge_Compendia/PW_SEA_SPEAR_AEGIS_FALLS_Crossover_Addendum_2026-07-30_rev1.txt
+
+operations:
+- op: update_campaign
+  match_id: PW-CMP-SEA-SPEAR
+  set:
+    protagonists:
+    - name: Grim
+      role: sole primary playable protagonist
+    temporal_modes:
+    - continuous_primary
+    - synchronized_game_2_overlap
+    status: working_with_locked_aegis_falls_crossover
+    unresolved_fields:
+    - full mission ladder and exact dates outside the AEGIS FALLS overlap
+    - repository-verifiable timeline track stable ID
+    notes: >-
+      SEA SPEAR includes a mandatory playable mainline mission depicting the Danish
+      maritime arm of PW-EVT-AEGIS-FALLS from Grim's first-person perspective. This
+      partially resolves campaign chronology by fixing one exact overlap with Ducky's
+      Game 2 PERSISTENT THREAT finale without inventing a full SEA SPEAR track ID or
+      complete ladder. The DLC mission is a second playable viewpoint on the same
+      synchronized event, not an alternate outcome or an additional Ducky mission.
+    sources:
+    - dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_SEA_SPEAR_AEGIS_FALLS_Maritime_Interception_Crossover_2026-07-30_rev1.txt
+    - Project_Warriors_Knowledge_Compendia/PW_SEA_SPEAR_AEGIS_FALLS_Crossover_Addendum_2026-07-30_rev1.txt
+
+continuity_constraints:
+- id: PW-CONT-SEA-SPEAR-AEGIS-FALLS-SHARED-EVENT
+  campaign_ref: PW-CMP-SEA-SPEAR
+  event_ref: PW-EVT-AEGIS-FALLS
+  rule: >-
+    SEA SPEAR must portray the Danish-waters maritime interception as a mandatory
+    playable mission with Grim as the sole playable protagonist. PERSISTENT THREAT
+    retains AEGIS FALLS as one synchronized two-arm finale with AEGIS squad at Aix.
+    Both depictions share the same timestamps, ORACLE execution signal, TRU/SIGHT
+    evidence stream, staging-complete/device-preparation red line, deployment-vessel
+    assault, SHIELD exploitation, Danish support-vessel interception, stopped device,
+    authenticated live helmet-camera feed, and Tremblay consequence state.
+
+- id: PW-CONT-SEA-SPEAR-AEGIS-FALLS-ROLE-OWNERSHIP
+  campaign_ref: PW-CMP-SEA-SPEAR
+  event_ref: PW-EVT-AEGIS-FALLS
+  rule: >-
+    Grim and Nereid Black lead the physical assault on the covert deployment vessel;
+    Rime, Undertow, and Lantern remain squadmate NPCs; SHIELD owns render-safe and
+    sensitive technical exploitation; the Royal Danish Navy owns the support-vessel
+    interception. Do not move AEGIS squad onto the maritime target or replace Grim
+    with a SHIELD playable perspective.
+
+- id: PW-CONT-SEA-SPEAR-AEGIS-FALLS-NO-RETCON
+  campaign_ref: PW-CMP-SEA-SPEAR
+  event_ref: PW-EVT-AEGIS-FALLS
+  rule: >-
+    The SEA SPEAR mission is a perspective expansion, not a second chronology. Do not
+    create an alternate device outcome, a sequential stop-device-then-travel-to-Aix
+    structure, or a separate Ducky ladder mission. The live feed shown to Tremblay is
+    footage originating from the SEA SPEAR playable operation.
+
+deferred_updates:
+- target: SEA SPEAR AEGIS FALLS crossover mission title and ladder ordinal
+  status: open
+  reason: full SEA SPEAR mission ladder is not yet finalized
+- target: SEA SPEAR Danish maritime gameplay grammar
+  status: open
+  reason: insertion method, vessel profiles, device design, encounter density, Danish unit identifiers, and distinction from WIRECUTTER require dedicated development
+- target: SEA SPEAR timeline track stable ID
+  status: external_base_identifier_recovery_required
+  reason: do not invent a track ID; the AEGIS FALLS overlap is locked independently of the unresolved full campaign binding
