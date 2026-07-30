@@ -1,0 +1,219 @@
+PROJECT WARRIORS — KNOWLEDGE COMPENDIA ADDENDUM
+PERSISTENT THREAT / AEGIS FALLS FINALE ARCHITECTURE
+Generated: 2026-07-30
+Version: rev1
+Status: CANONICAL WORKING ADDENDUM / PENDING NEXT FULL COMPENDIUM CONSOLIDATION
+
+================================================================================
+SCOPE
+================================================================================
+
+This addendum projects the locked AEGIS FALLS finale architecture into the working
+compendium layer without rewriting the July 6 rev6 consolidated compendia in place.
+
+Controlling detailed source:
+
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/
+PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
+
+This addendum supersedes older compendium language where it conflicts with the locks
+below. Fold these locks into the next full revisions of the Core Timeline, Worldbuilding /
+Strategic Architecture, Characters / DLC, Missions / Scenes / Cinematics, and Promotional /
+Sidebar compendia.
+
+================================================================================
+LOCKED FINALE STRUCTURE
+================================================================================
+
+AEGIS FALLS remains Mission 13 and the final mission of Ducky's Game 2 campaign,
+PERSISTENT THREAT.
+
+It is a single synchronized compound operation with two simultaneous arms:
+
+1. AEGIS conducts an unauthorized operation at Tremblay's GenCorp-connected estate near
+   Aix-en-Provence.
+2. Nereid Black and SHIELD intercept a Russian-backed shadow-fleet attack on a strategic
+   undersea cable terminal in Danish territorial waters, while the Royal Danish Navy
+   intercepts the operation's support vessel.
+
+The maritime target is Denmark, not a generic French-coast target.
+
+AEGIS squad does not participate in the maritime assault and then travel to Aix. The
+squad is already positioned at the estate. Ducky enters Tremblay's study alone while the
+rest of AEGIS secures the property, escape routes, communications, and evidence.
+
+ORACLE is the compartmented command bridge between the two arms.
+TRU/SIGHT is the real-time intelligence and evidentiary bridge.
+
+================================================================================
+AEGIS SYSTEM / TRU-SIGHT MECHANISM
+================================================================================
+
+Both shadow-fleet vessels disable their transponders. AEGIS the system continues to track
+them non-cooperatively through fused sensor data.
+
+The autonomous threat watcher identifies pre-attack behavior consistent with an
+undersea-infrastructure sabotage operation and would normally propagate a warning through
+DAOG and NATO response channels.
+
+Tremblay uses his ZEUS-level credential to suppress warning propagation and normalize the
+ships as legitimate traffic posing no actionable threat.
+
+He does not erase the raw tracks or make the ships invisible.
+
+TRU/SIGHT has less-powerful emergency contingency authorities that preserve covert human
+analysis, raw event access, and an off-book track. TRU/SIGHT cannot globally countermand
+Tremblay's senior order, but it detects and records the override while continuing to
+observe the ships.
+
+Tremblay's act is knowing facilitation of the attack. He is a culpable accessory, not the
+operation's mastermind.
+
+================================================================================
+RUSSIAN LEVERAGE AND PRIOR OVERRIDES
+================================================================================
+
+An FSB / SVR handler or associated cutout coerces Tremblay before the attack.
+
+Russian intelligence holds evidence of analogous past overrides, including:
+
+- remnants Tremblay failed to remove completely from distributed AEGIS event and activity
+  audit logs; and
+- backup copies acquired through the AEGIS compromise before Tremblay successfully
+  scrubbed the corresponding internal records.
+
+The preferred recovery path for the Russian-held copies is HULL BREACH exploitation of
+the Akademik Volkov.
+
+The prior records establish a pattern and provide blackmail leverage. Tremblay reluctantly
+waves through the Danish attack because the handler threatens disclosure to his
+superiors, allied governments, and NATO command.
+
+His coercion explains but does not excuse the decision. His previous concealment and
+unauthorized management of the compromise created the leverage.
+
+After the override, Tremblay waits in his study for a secure completion call confirming
+success and instructing him to remove the remaining record.
+
+================================================================================
+INTERVENTION AND EVIDENCE
+================================================================================
+
+The red line is reached when staging is complete and the sabotage device begins
+preparation for deployment.
+
+The maritime elements are already in an assured interception position. They do not permit
+the device to be placed near the cable terminal merely to gather more evidence.
+
+ORACLE triggers both arms at the red line.
+
+The final proof package combines:
+
+- TRU/SIGHT's prior shadow-fleet assessment;
+- raw AEGIS non-cooperative tracks after transponder shutdown;
+- the original heuristic threat event;
+- Tremblay's authenticated ZEUS override;
+- the false legitimate-traffic disposition propagated up normal channels;
+- TRU/SIGHT's preserved covert track;
+- attacker communications;
+- observed staging and device-preparation activity;
+- SHIELD's seizure of the device, control systems, targeting data, and technical records;
+- Nereid Black and SHIELD helmet-camera records;
+- Royal Danish Navy boarding and detention records;
+- prior AEGIS audit remnants and Russian backup copies;
+- synchronized timestamps tying Tremblay's intervention to the hostile attack window.
+
+This closes the distinction between HULL BREACH and AEGIS FALLS:
+
+- HULL BREACH proves Tremblay's credential was embedded in the hostile architecture.
+- AEGIS FALLS proves Tremblay personally uses it in real time to protect a specific
+  foreign attack.
+
+================================================================================
+MARITIME PACKAGE
+================================================================================
+
+DEPLOYMENT VESSEL
+
+The primary vessel carries the covert sabotage team, underwater deployment equipment,
+the sabotage device, communications and control systems, and targeting records.
+
+Nereid Black leads the assault and clears the vessel after the sabotage team resists.
+SHIELD secures the device and performs technical exploitation.
+
+SUPPORT VESSEL
+
+The second ship supplies fuel, stores, logistical cover, concealed weapons, and
+additional armed manpower. It is not configured to deploy the device.
+
+The Royal Danish Navy intercepts it shortly after execution begins. Most contractor
+security personnel surrender when Danish forces establish decisive control.
+
+The contractor contingent is chosen for affordability, adequate competence, deniability,
+and social and linguistic isolation in European ports. Personnel may come from the
+Russian Far East, Southeast Asia, India, Pakistan, or other regions and have varied
+backgrounds.
+
+Nationality is not proof of criminality. The Russian operation exploits European racial
+and cultural assumptions so unfamiliar non-European personnel will be misread as ordinary
+foreign merchant crew working for an Asian commercial carrier.
+
+Distinguish:
+
+- legitimate, deceived, or coerced maritime crew;
+- falsely registered contractor security personnel;
+- a small Russian or Russian-aligned coordination element.
+
+================================================================================
+DUCKY / TREMBLAY LIVE-FEED BEAT
+================================================================================
+
+Ducky enters Tremblay's study alone.
+
+When Ducky states that the attack has been stopped, he removes a hardened secure device
+from his uniform shirt's chest pocket and opens an ORACLE-routed live feed from Nereid
+Black and SHIELD helmet cameras.
+
+The feed shows the post-assault sweep of the deployment vessel, SHIELD securing the
+sabotage device and technical spaces, and confirmation that the Royal Danish Navy controls
+the support vessel.
+
+The feed is understated psychological pressure, not the sole proof. It demonstrates to
+Tremblay that the attack has failed, the physical evidence is being preserved, the
+Russian operation cannot warn him, and his records can no longer be sanitized.
+
+The confrontation proceeds to the protected exchange:
+
+Tremblay: “AEGIS falls regardless.”
+Ducky: “Then we build something better.”
+
+Tremblay conditionally surrenders and agrees to Walker's process, with the condition that
+Crodyn not be protected.
+
+================================================================================
+SUPERSESSION FLAGS FOR FUTURE COMPENDIUM REFRESH
+================================================================================
+
+Purge or revise statements asserting that:
+
+- the finale undersea target is generically on the French coast;
+- AEGIS squad conducts the maritime interception;
+- the maritime phase ends before the team travels to Aix;
+- the causal bridge between the two phases remains unresolved;
+- Tremblay's final consequence remains open;
+- Tremblay masterminds the Russian operation;
+- the ships become invisible to AEGIS after transponder shutdown;
+- TRU/SIGHT requires a separate hidden sensor system rather than controlled continued
+  access to AEGIS data;
+- support-vessel contractor nationality is treated as evidence of criminality.
+
+Preserve production-open status for:
+
+- exact Danish cable-terminal identity and geography;
+- vessel names, flags, ownership layers, and classes;
+- sabotage-device design and deployment method;
+- maritime gameplay staging;
+- Danish unit naming;
+- exact handler identity and dialogue;
+- exact estate ingress and squad tasks;
+- intercut pacing and final screenplay polish.
