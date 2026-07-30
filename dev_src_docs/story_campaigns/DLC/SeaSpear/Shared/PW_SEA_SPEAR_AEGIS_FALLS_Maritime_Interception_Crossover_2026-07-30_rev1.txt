@@ -1,0 +1,207 @@
+PROJECT WARRIORS — SEA SPEAR / AEGIS FALLS
+MARITIME INTERCEPTION CROSSOVER SOURCE
+Generated: 2026-07-30
+Version: rev1
+Status: LOCKED CROSS-CAMPAIGN PLACEMENT AND PLAYABLE PERSPECTIVE / PRODUCTION DETAILS OPEN
+
+================================================================================
+PURPOSE
+================================================================================
+
+This source locks the maritime interception that forms the Danish-waters arm of
+PERSISTENT THREAT's AEGIS FALLS finale as a playable mainline mission in the SEA
+SPEAR DLC.
+
+The purpose is to let the player experience first-hand the canon operation that
+Ducky's campaign presents from the parallel Aix-en-Provence arm and through the
+ORACLE-routed live helmet-camera feed.
+
+This is a perspective expansion of one shared event. It is not a second version of
+the operation, an alternate outcome, or an additional mission in Ducky's campaign.
+
+================================================================================
+CONTROLLING CROSS-CAMPAIGN RELATIONSHIP
+================================================================================
+
+In PERSISTENT THREAT:
+
+- AEGIS FALLS remains Mission 13 and the campaign finale;
+- the Aix-en-Provence estate operation and Danish maritime interception remain two
+  simultaneous arms of one synchronized compound mission;
+- AEGIS squad remains at Tremblay's estate;
+- Ducky experiences the maritime result through ORACLE, TRU/SIGHT, and the secure
+  live helmet-camera feed used during the Tremblay confrontation.
+
+In SEA SPEAR:
+
+- the player directly experiences the Danish maritime arm;
+- Grim remains the sole primary playable protagonist;
+- Rime, Undertow, and Lantern remain Grim's Nereid Black squadmates;
+- SHIELD operates with or immediately behind Nereid Black as the exploitation,
+  render-safe, recovery, and evidence-preservation element;
+- the Royal Danish Navy's support-vessel interception remains a parallel allied
+  action communicated through the shared command picture rather than replacing the
+  deployment-vessel mission space.
+
+Both campaigns depict the same timestamps, intervention trigger, operational result,
+and evidence package.
+
+================================================================================
+SEA SPEAR MISSION LOCK
+================================================================================
+
+SEA SPEAR must include a mandatory playable mission covering the maritime
+interception in Danish territorial waters against the Russian-backed shadow-fleet
+package staging an attack on a strategically important undersea cable terminal.
+
+The exact mission title, ordinal position, and surrounding SEA SPEAR ladder remain
+open. The mission is chronologically fixed to the AEGIS FALLS execution window and
+must occur when SEA SPEAR's campaign chronology reaches that Game 2 event.
+
+The playable perspective is Grim as Nereid Black team lead / primary operator. The
+mission should preserve Nereid Black's maritime identity and should not reduce the
+operation to a generic surface boarding action.
+
+================================================================================
+MINIMUM PLAYABLE STRUCTURE
+================================================================================
+
+The final production design may use boarding, diving, remote systems, or a mixed
+approach, but the playable mission must contain the following dramatic and causal
+beats:
+
+1. PRE-INTERVENTION HOLD
+   Nereid Black and SHIELD are already in an assured interception position while
+   ORACLE and TRU/SIGHT preserve the covert track. The player understands that the
+   target vessels have disabled their transponders but remain under non-cooperative
+   observation.
+
+2. INTERVENTION RED LINE
+   The hostile staging is complete and the sabotage device begins preparation for
+   deployment. ORACLE gives the synchronized execution signal. The operation does
+   not wait for the device to be placed or the cable terminal to be endangered.
+
+3. APPROACH AND ENTRY
+   Grim leads Nereid Black onto or into the covert deployment vessel. The approach
+   must exploit the team's maritime specialization and distinguish the mission from
+   WIRECUTTER and from a conventional naval infantry boarding.
+
+4. SHIPBOARD FIGHT
+   The Russian covert sabotage team resists. Nereid Black clears the vessel through
+   confined maritime spaces while maintaining target discrimination around any
+   legitimate, coerced, or noncombatant crew.
+
+5. DEVICE SECURITY
+   The sabotage device is secured before deployment or detonation. SHIELD moves into
+   the technical and exploitation space to render it safe, preserve control systems,
+   and capture targeting, navigation, timing, communications, and deployment data.
+
+6. SUPPORT-VESSEL CONFIRMATION
+   The shared command picture confirms that the Royal Danish Navy has intercepted
+   the support vessel and established control. This remains a parallel operation,
+   not a second player-controlled target by default.
+
+7. LIVE-FEED BRIDGE
+   ORACLE routes authenticated Nereid Black and SHIELD helmet-camera imagery into
+   the Aix arm. The SEA SPEAR player sees the originating side of the feed later
+   shown by Ducky to Tremblay. The scene should remain operational and understated;
+   no character needs to explain the entire estate confrontation.
+
+8. EVIDENCE-PRESERVATION CLOSE
+   The mission ends only after the vessel, device, surviving personnel, and relevant
+   technical spaces are under allied control and the evidence stream is stable.
+
+================================================================================
+NEREID BLACK ROLE EMPHASIS
+================================================================================
+
+GRIM
+- Sole playable character.
+- Leads movement, target discrimination, and the decisive assault path.
+- Carries the player's first-hand responsibility for stopping the device before it
+  reaches the cable infrastructure.
+
+RIME
+- Maritime breacher and technically fluent entry specialist.
+- Provides a natural role in hull, hatch, compartment, or flooded-access problems.
+
+UNDERTOW
+- Assault medic and maritime operator.
+- Supports casualty control and movement through spaces where both hands, flotation,
+  and medical access matter.
+
+LANTERN
+- Maritime reconnaissance and overwatch specialist.
+- Helps identify behavioral wrongness, vessel activity, and threat patterns before
+  labels are available.
+
+SHIELD
+- Owns render-safe, exploitation, sensitive-site recovery, and evidence preservation
+  after Nereid Black creates access and control.
+- Should feel colder and more procedural than Nereid Black without displacing Grim's
+  playable leadership.
+
+================================================================================
+CONTINUITY AND PORTRAYAL RULES
+================================================================================
+
+Protect the following:
+
+- The deployment vessel is the player's primary mission space.
+- Nereid Black leads the physical assault.
+- SHIELD secures the device and evidence.
+- The Royal Danish Navy controls the support vessel.
+- ORACLE is the command bridge.
+- TRU/SIGHT is the real-time intelligence and evidentiary bridge.
+- Tremblay's ZEUS-level override suppresses warning propagation but does not erase
+  raw tracks or make the vessels invisible.
+- The operation launches at staging complete / device preparation beginning.
+- The sabotage device is stopped before deployment.
+- The same helmet-camera feed becomes Ducky's live proof during the Aix confrontation.
+- Tremblay remains a coerced but culpable accessory, not the sabotage mastermind.
+- Support-vessel contractor nationality is not evidence of criminality. Distinguish
+  legitimate or coerced maritime crew, falsely registered contractor security, and
+  the small Russian or Russian-aligned coordination element.
+
+Do not:
+
+- create a different outcome for SEA SPEAR;
+- let the player fail into a canon branch where the device is deployed;
+- move AEGIS squad onto the maritime target;
+- turn the Danish interception into a separate Ducky ladder mission;
+- replace Grim with a SHIELD playable perspective;
+- make the live-feed bridge theatrical or expositional;
+- collapse this mission into a replay of WIRECUTTER's exact structure.
+
+================================================================================
+PRODUCTION DETAILS REMAINING OPEN
+================================================================================
+
+The following remain open for dedicated SEA SPEAR development:
+
+- final mission title and ladder ordinal;
+- exact vessel names, flags, classes, and ownership layers;
+- exact cable-terminal identity and geography;
+- exact insertion method and balance of diving, boarding, remote-vehicle, and
+  shipboard gameplay;
+- sabotage-device design and render-safe technical abstraction;
+- exact SHIELD attachment and named participants;
+- exact Danish naval unit and radio identifiers;
+- detailed hostile, contractor, crew, casualty, and detention accounting;
+- exact distinction in gameplay grammar from WIRECUTTER;
+- exact ORACLE execution phrase and live-feed routing dialogue;
+- checkpoint, restart, and failure-state handling;
+- final SEA SPEAR mission synopsis and screenplay pass.
+
+================================================================================
+SOURCE RELATIONSHIPS
+================================================================================
+
+Controlling paired-event source:
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
+
+Knowledge addendum:
+- Project_Warriors_Knowledge_Compendia/PW_SEA_SPEAR_AEGIS_FALLS_Crossover_Addendum_2026-07-30_rev1.txt
+
+Ontology delta:
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_sea_spear_aegis_falls_crossover_rev1.delta.yaml
