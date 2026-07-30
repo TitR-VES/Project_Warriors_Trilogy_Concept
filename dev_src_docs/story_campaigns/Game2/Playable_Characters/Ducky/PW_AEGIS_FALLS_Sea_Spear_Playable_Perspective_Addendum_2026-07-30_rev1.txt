@@ -1,0 +1,70 @@
+PROJECT WARRIORS — PERSISTENT THREAT / AEGIS FALLS
+SEA SPEAR PLAYABLE-PERSPECTIVE ADDENDUM
+Generated: 2026-07-30
+Version: rev1
+Status: LOCKED CROSS-CAMPAIGN DEPICTION RULE
+
+================================================================================
+PURPOSE
+================================================================================
+
+This addendum extends the controlling AEGIS FALLS two-arm finale source with one
+cross-title presentation lock:
+
+The Danish maritime interception performed by Nereid Black, SHIELD, and the Royal
+Danish Navy is a mandatory playable mainline mission in PROJECT WARRIORS: SEA SPEAR,
+from Grim's first-person perspective as Nereid Black's sole playable protagonist.
+
+================================================================================
+NO CHANGE TO PERSISTENT THREAT LADDER
+================================================================================
+
+This decision does not split AEGIS FALLS inside Ducky's campaign.
+
+PERSISTENT THREAT retains:
+
+- AEGIS FALLS as Mission 13 and the campaign finale;
+- the simultaneous Aix-en-Provence and Danish-waters arms as one compound mission;
+- AEGIS squad physically committed to Tremblay's estate;
+- Ducky entering Tremblay's study alone;
+- the maritime result reaching Ducky through ORACLE, TRU/SIGHT, and the secure
+  Nereid Black / SHIELD helmet-camera feed.
+
+The SEA SPEAR mission is a second playable viewpoint on the same canon event, not a
+new chronological event and not an additional Ducky mission.
+
+================================================================================
+SHARED-EVENT LOCK
+================================================================================
+
+Both depictions must agree on:
+
+- the vessels' non-cooperative tracking after transponder shutdown;
+- Tremblay's ZEUS-level suppression of warning propagation;
+- TRU/SIGHT's covert preservation of the event and evidence stream;
+- the intervention red line at staging complete / device preparation beginning;
+- ORACLE's synchronized execution signal;
+- Nereid Black leading the assault on the covert deployment vessel;
+- SHIELD securing and exploiting the sabotage device and technical spaces;
+- the Royal Danish Navy controlling the support vessel;
+- the device being stopped before deployment;
+- the authenticated live helmet-camera feed routed to Ducky;
+- the proof package used to collapse Tremblay's remaining deniability;
+- Tremblay's conditional surrender to Walker's process.
+
+Any future SEA SPEAR mission development must use the controlling AEGIS FALLS source
+for event causality and outcome. Any future AEGIS FALLS screenplay pass must treat
+the live feed as footage originating from a fully playable SEA SPEAR mission.
+
+================================================================================
+CONTROLLING SOURCES
+================================================================================
+
+Primary finale source:
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
+
+SEA SPEAR mission source:
+- dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_SEA_SPEAR_AEGIS_FALLS_Maritime_Interception_Crossover_2026-07-30_rev1.txt
+
+Knowledge addendum:
+- Project_Warriors_Knowledge_Compendia/PW_SEA_SPEAR_AEGIS_FALLS_Crossover_Addendum_2026-07-30_rev1.txt
