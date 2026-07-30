@@ -2,7 +2,7 @@ PROJECT WARRIORS — KNOWLEDGE ADDENDUM
 SEA SPEAR / AEGIS FALLS PLAYABLE CROSSOVER
 Generated: 2026-07-30
 Version: rev1
-Status: CANON CROSS-CAMPAIGN PLACEMENT LOCK
+Status: CANON CROSS-CAMPAIGN PLACEMENT LOCK / WORKING TITLE ASSIGNED
 
 ================================================================================
 CANON DECISION
@@ -17,6 +17,16 @@ and experiences Nereid Black's assault on the covert deployment vessel first-han
 Rime, Undertow, and Lantern remain squadmate NPCs. SHIELD follows into the sensitive
 technical spaces to render safe the sabotage device and preserve the evidence. The
 Royal Danish Navy intercepts the support vessel in parallel.
+
+================================================================================
+WORKING TITLE
+================================================================================
+
+The current working title for the SEA SPEAR mission is DEEP CUT.
+
+DEEP CUT is approved for current development and cross-campaign reference, but the
+final title lock remains open pending the wider SEA SPEAR mission-ladder and naming
+pass.
 
 ================================================================================
 CONTINUITY RULE
@@ -55,7 +65,7 @@ LOCKED SHARED OUTCOME
 OPEN DEVELOPMENT
 ================================================================================
 
-SEA SPEAR's exact mission title, ladder ordinal, vessel identities, insertion method,
+DEEP CUT's final title lock, ladder ordinal, vessel identities, insertion method,
 boarding/diving/remote-system balance, encounter design, named SHIELD attachment,
 Danish unit identifiers, detailed screenplay, and exact gameplay distinction from
 WIRECUTTER remain open.
@@ -65,5 +75,6 @@ CONTROLLING SOURCES
 ================================================================================
 
 - dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_SEA_SPEAR_AEGIS_FALLS_Maritime_Interception_Crossover_2026-07-30_rev1.txt
+- dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_DEEP_CUT_Sea_Spear_Mission_Working_Title_2026-07-30_rev1.txt
 - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
 - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Sea_Spear_Playable_Perspective_Addendum_2026-07-30_rev1.txt
