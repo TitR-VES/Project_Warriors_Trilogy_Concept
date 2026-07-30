@@ -3,10 +3,11 @@ meta:
   generated: '2026-07-30'
   narrative_structure_applies_to: pw_narrative_structure_campaigns_extended_rev1.yaml
   event_reference_applies_to: PW-EVT-AEGIS-FALLS
-  status: locked_cross_campaign_playable_perspective
+  status: locked_cross_campaign_playable_perspective_with_working_title
   chronology_changes: partial_overlap_lock_only
   sources:
   - dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_SEA_SPEAR_AEGIS_FALLS_Maritime_Interception_Crossover_2026-07-30_rev1.txt
+  - dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_DEEP_CUT_Sea_Spear_Mission_Working_Title_2026-07-30_rev1.txt
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
   - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Sea_Spear_Playable_Perspective_Addendum_2026-07-30_rev1.txt
   - Project_Warriors_Knowledge_Compendia/PW_SEA_SPEAR_AEGIS_FALLS_Crossover_Addendum_2026-07-30_rev1.txt
@@ -27,13 +28,16 @@ operations:
     - repository-verifiable timeline track stable ID
     notes: >-
       SEA SPEAR includes a mandatory playable mainline mission depicting the Danish
-      maritime arm of PW-EVT-AEGIS-FALLS from Grim's first-person perspective. This
-      partially resolves campaign chronology by fixing one exact overlap with Ducky's
-      Game 2 PERSISTENT THREAT finale without inventing a full SEA SPEAR track ID or
-      complete ladder. The DLC mission is a second playable viewpoint on the same
-      synchronized event, not an alternate outcome or an additional Ducky mission.
+      maritime arm of PW-EVT-AEGIS-FALLS from Grim's first-person perspective. DEEP
+      CUT is the current working mission title; final title lock and ladder ordinal
+      remain open. This partially resolves campaign chronology by fixing one exact
+      overlap with Ducky's Game 2 PERSISTENT THREAT finale without inventing a full
+      SEA SPEAR track ID or complete ladder. The DLC mission is a second playable
+      viewpoint on the same synchronized event, not an alternate outcome or an
+      additional Ducky mission.
     sources:
     - dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_SEA_SPEAR_AEGIS_FALLS_Maritime_Interception_Crossover_2026-07-30_rev1.txt
+    - dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_DEEP_CUT_Sea_Spear_Mission_Working_Title_2026-07-30_rev1.txt
     - Project_Warriors_Knowledge_Compendia/PW_SEA_SPEAR_AEGIS_FALLS_Crossover_Addendum_2026-07-30_rev1.txt
 
 continuity_constraints:
@@ -70,8 +74,8 @@ continuity_constraints:
 
 deferred_updates:
 - target: SEA SPEAR AEGIS FALLS crossover mission title and ladder ordinal
-  status: open
-  reason: full SEA SPEAR mission ladder is not yet finalized
+  status: working_title_deep_cut_final_lock_open
+  reason: DEEP CUT is the current working title; the full SEA SPEAR mission ladder and final naming pass are not yet finalized
 - target: SEA SPEAR Danish maritime gameplay grammar
   status: open
   reason: insertion method, vessel profiles, device design, encounter density, Danish unit identifiers, and distinction from WIRECUTTER require dedicated development
