@@ -1,0 +1,126 @@
+PROJECT WARRIORS — THE WASP DLC
+OPERATION HOLE PUNCH INTEGRATION
+Generated: 2026-07-30
+Version: rev1
+Status: SOURCE-READY WORKING LOCK
+
+1. PURPOSE
+
+This source page establishes Operation HOLE PUNCH as a major connective strand in the Wasp story campaign and defines La Avispa's contribution to Goldberg's false death and covert extraction from Coleman Federal Correctional Facility.
+
+The Wasp campaign remains a sole-playable-protagonist story centered on La Avispa. Its main narrative overlaps Game 2, while selective flashbacks and interstitial operations expose earlier underworld and intelligence events that the main campaigns only encounter through consequences.
+
+2. CAMPAIGN FUNCTION
+
+The Wasp campaign should provide the player's closest sustained view of Los Sietes' senior structure. La Avispa should meet and work directly with:
+
+- El Tiburón, the senior Los Sietes authority to whom she owes an unresolved favor;
+- Edgar Murillo “Bisutrí” Lozada-Arias, El Tiburón's second-in-command and the operational leader of the Coleman extraction;
+- additional prominent Los Sietes figures whose identities, portfolios, and later campaign uses remain to be developed.
+
+These encounters should reveal Los Sietes as an organized transnational criminal-intelligence network with internal hierarchy, compartmentation, institutional contacts, and professional specialists. The campaign must not collapse into a generic cartel story. It remains a spy story lived from inside a criminal organization by a former FSB surveillance specialist whose chosen identity and loyalties are under continuous pressure.
+
+3. OPERATION HOLE PUNCH — CHRONOLOGICAL PLACEMENT
+
+Operation HOLE PUNCH occurs after Spook's Game 1 campaign and before the opening phase of Spook's Game 2 GODKILLER campaign.
+
+Goldberg has surrendered to US authorities, accepted a deliberately reduced prosecution, and begun serving his sentence at Coleman. Los Sietes then execute a dual-purpose prison operation:
+
+- a visible assault and extraction centered on El Furtivo creates disorder and draws the institutional response;
+- a quieter second track, enabled by compromised staff, removes Goldberg, substitutes a destroyed body, and establishes his false death.
+
+The public outcome remains unchanged: Goldberg is declared dead, disappears underground, and begins rebuilding his network for an intelligence counter-offensive against Crodyn and his circle.
+
+4. LA AVISPA'S ROLE
+
+La Avispa is not required to be physically present with the breakout crew. Her strongest function is upstream intelligence preparation.
+
+Using the surveillance, pattern-analysis, source-handling, and identity-tracing skills developed during her former FSB career and later refined inside Los Sietes, she supports Bisutrí's planning by:
+
+- determining Goldberg's assigned cell and exact position within the relevant prison block;
+- reconstructing Goldberg's daily movement pattern, medical access, guard rotations, and predictable institutional routines through prison-gang and correctional-system contacts;
+- identifying the narrow window in which compromised staff can move Goldberg from his assigned cell to the medical wing under a routine pretext;
+- locating a physically suitable decedent whose remains can be rendered unidentifiable and prepared as the replacement “Goldberg” body;
+- validating the handoff chain and feeding the resulting intelligence package to Bisutrí so he can design the physical operation around reliable timing rather than improvisation.
+
+La Avispa's contribution should be decisive but bounded. She does not command the assault, control every compromised official, or know every part of El Tiburón's arrangement. Bisutrí retains responsibility for the physical operation, paid-off staff, assault teams, vehicle staging, and extraction execution.
+
+5. CONTINUITY RECONCILIATION
+
+The following details preserve the current Coleman breakout continuity:
+
+- Goldberg's assigned cell remains the location La Avispa must first identify and map.
+- The actual extraction still begins after compromised staff transfer Goldberg into the medical wing under the pretext of a routine medical check.
+- The substitute corpse is selected in advance by La Avispa as a viable physical match. Los Sietes then mutilate the remains and contaminate or seed them with Goldberg-linked biological material so the destroyed body can support the false identification.
+- The body is planted in the devastated cell-block environment created by the assault.
+- Goldberg is removed through the medical-wing route in the existing coffin-like container and hearse staging.
+- El Furtivo's overt extraction remains the operation's visible purpose and principal diversion.
+
+This structure makes La Avispa's cell-location and schedule intelligence necessary without contradicting the medical-wing extraction already established in the Game 2 timeline source.
+
+6. PREFERRED PLAYABLE TREATMENT
+
+The HOLE PUNCH strand should be treated through several compact Wasp-campaign sequences rather than by turning La Avispa into an additional gun on the prison-break team.
+
+A. Senior Los Sietes access
+La Avispa is brought into direct contact with El Tiburón and Bisutrí. The scene establishes hierarchy, mutual assessment, and the fact that her access is earned but conditional. El Tiburón frames the assignment as a test of precision and discretion, not loyalty theater.
+
+B. Prison-pattern reconstruction
+The player gathers and cross-checks incomplete human-source information, institutional records, overheard routines, and surveillance fragments. The gameplay identity should be intelligence synthesis under uncertainty, with La Avispa distinguishing reliable patterns from deliberate noise.
+
+C. Contact handling
+La Avispa uses Mexican prison-gang contacts and intermediaries tied to Coleman to learn Goldberg's real schedule and identify which staff relationships can be trusted long enough to support one operation. These contacts should have their own interests and risks; they are not effortless information dispensers.
+
+D. Replacement-body search
+La Avispa locates a suitable decedent through criminal, medical, mortuary, or trafficking-adjacent channels. The sequence should be morally cold and uncomfortable rather than sensational. Its narrative purpose is to show the human cost hidden beneath Goldberg's administrative disappearance.
+
+E. Handoff to Bisutrí
+La Avispa delivers a concise operational intelligence package. Bisutrí tests the work, asks targeted questions, and accepts the plan only when satisfied that its timing and contingencies are sound. Their exchange should establish professional respect without friendship.
+
+F. Consequence
+La Avispa later sees the public report of Goldberg's death and recognizes which parts of her work have been used. The operation's success should not play as triumph. She helped erase a man from accountability and understands that Los Sietes have just returned a uniquely dangerous actor to the shadows.
+
+7. CHARACTER AND THEMATIC EFFECTS
+
+For La Avispa:
+- demonstrates that her highest-value skill is finding people and understanding systems, not merely close-quarters violence;
+- forces her to apply old-state surveillance training in service of a criminal network;
+- deepens her debt and working relationship with El Tiburón;
+- establishes a credible professional relationship with Bisutrí before later crossover events;
+- creates moral residue that can shape her later choices around Spook, Goldberg, and Los Sietes.
+
+For Bisutrí:
+- establishes him as a planner who uses specialists rather than a simple elite gunman;
+- gives him a reason to respect La Avispa's competence before any later direct confrontation or alliance-of-necessity;
+- preserves his authorship and command of the physical breakout.
+
+For El Tiburón:
+- gives the player direct exposure to his authority and strategic reach;
+- demonstrates that his power lies in assembling capabilities across criminal, institutional, and intelligence systems;
+- provides a natural place to explore the unresolved favor La Avispa owes him.
+
+For Goldberg:
+- makes his false death feel like the product of a network, not a last-minute trick;
+- shows how his survival depends on criminal specialists, compromised institutions, and people whose individual contributions remain compartmented;
+- strengthens the GODKILLER premise that Spook is hunting a man who has converted official death into operational freedom.
+
+8. PRESENTATION GUARDRAILS
+
+- Do not make La Avispa omniscient. Her conclusions should come from work, judgment, and source comparison.
+- Do not make prison-gang contacts culturally interchangeable or purely expositional. Give each contact a specific relationship, incentive, and limit.
+- Do not let the replacement-body strand become gore spectacle. Its weight comes from administrative dehumanization and the quiet theft of an unknown person's identity in death.
+- Do not undermine Bisutrí by having La Avispa design every physical detail. She supplies the intelligence foundation; he converts it into an executable operation.
+- Do not depict El Tiburón as a generic cartel boss. His authority should read through access, restraint, delegation, and the ability to connect systems.
+- Preserve the existing dual-team breakout, medical-wing transfer, coffin-like container, hearse route, black SUV follow vehicle, and El Furtivo diversion unless a later dedicated HOLE PUNCH source explicitly supersedes them.
+
+9. OPEN DEVELOPMENT FLAGS
+
+- Decide whether HOLE PUNCH appears as one multi-part mission, several interstitial missions, or a recurring investigation strand.
+- Name and define the additional prominent Los Sietes figures encountered in the DLC.
+- Determine El Tiburón's exact terms for La Avispa's unresolved favor and whether HOLE PUNCH pays down, deepens, or merely reframes that debt.
+- Define the prison-gang contacts and their relationship to La Avispa.
+- Decide how much player agency exists in selecting or validating the replacement decedent without creating a false moral escape from the operation.
+- Determine whether La Avispa learns Goldberg's full strategic importance before the extraction or only later realizes whom she helped disappear.
+- Add or extend ontology mappings for The Wasp NPC appearances after the relevant identities and placements are stable.
+
+END OF SOURCE PAGE
