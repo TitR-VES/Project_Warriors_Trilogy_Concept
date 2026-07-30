@@ -1,0 +1,85 @@
+================================================================================
+PROJECT WARRIORS — WHO DARES WINS
+MACE PROTAGONIST / TROOPER PRIMARY-WEAPON LOCK
+Generated: 2026-07-30
+Version: rev1
+================================================================================
+Status: LOCKED DURABLE SOURCE
+Campaign: Project Warriors: Who Dares Wins
+Character: MACE
+
+PURPOSE
+This page resolves the remaining provisional language around the Who Dares Wins
+primary POV and establishes Mace's signature main weapon.
+
+--------------------------------------------------------------------------------
+1. PROTAGONIST LOCK
+--------------------------------------------------------------------------------
+MACE is the primary playable protagonist of the Who Dares Wins DLC campaign.
+Earlier source language describing Mace only as the recommended or current
+front-runner is superseded wherever it conflicts with this lock.
+
+Mace remains an SAS operator and the campaign remains SAS-led, while SBS personnel
+and the later Royal Marines / Royal Navy layer retain their existing operational
+roles in the British force architecture.
+
+--------------------------------------------------------------------------------
+2. SIGNATURE PRIMARY-WEAPON LOCK
+--------------------------------------------------------------------------------
+Mace's main weapon is a DSA SA58 OSW-pattern 7.62x51mm NATO select-fire light
+automatic rifle / compact battle-rifle build named TROOPER.
+
+Canonical configuration:
+- Platform: DSA SA58 OSW
+- Caliber: 7.62x51mm NATO
+- Fire-control role: select-fire light automatic rifle / compact full-power rifle
+- Optic: 1-4x low-power variable optic
+- Weapon light: tactical white light mounted at 3 o'clock on the forward section
+  of the front handguard side rail
+- Suppressor: removable suppressed configuration available when mission signature
+  requirements justify it
+- Build name: TROOPER
+- Character role: Mace's signature primary / main campaign weapon
+
+TROOPER is a persistent named build rather than a generic pickup. The current
+authoritative named-weapon registry chain contains no existing named identity using
+TROOPER, so the name is conflict-free at the time of this lock.
+
+--------------------------------------------------------------------------------
+3. PRESENTATION / HANDLING IDENTITY
+--------------------------------------------------------------------------------
+TROOPER should read as a compact full-power rifle chosen by an experienced SAS
+operator who values decisive barrier performance and reach in a weapon short enough
+for vehicles, maritime spaces, industrial interiors and urban assault routes.
+
+The rifle must not handle like a 5.56mm carbine. Its 7.62x51mm identity should be
+felt through stronger recoil, greater muzzle disturbance and more demanding automatic
+fire control. Short controlled bursts are credible; undisciplined sustained fire
+should rapidly degrade precision and control.
+
+The 1-4x LPVO supports the campaign's movement between confined close work and
+longer North Atlantic / coastal sightlines. The white light's 3 o'clock forward
+mount is a fixed visual and functional part of the build.
+
+The suppressor is an available configuration, not a universal no-cost upgrade.
+Suppressed use should reduce signature while adding forward mass and preserving the
+fact that a short 7.62x51mm rifle remains a forceful, mechanically loud weapon.
+
+--------------------------------------------------------------------------------
+4. OPEN LOWER-LEVEL DETAILS
+--------------------------------------------------------------------------------
+The following remain open for a later dedicated production pass:
+- exact LPVO manufacturer and mount
+- exact suppressor model and attachment interface
+- exact weapon-light manufacturer and control method
+- exact barrel-length implementation within the SA58 OSW lane
+- sling, furniture, finish wear, magazine presentation and ammunition subtypes
+- detailed recoil, heat, reliability and suppression tuning
+
+These open fields must not be used to weaken or replace the locked platform,
+caliber, optic magnification range, 3 o'clock light placement, suppressor option,
+TROOPER name or Mace ownership.
+
+================================================================================
+END
+================================================================================
