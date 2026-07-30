@@ -1,0 +1,46 @@
+================================================================================
+PROJECT WARRIORS — WORKING COMPENDIUM 03 ADDENDUM
+WHO DARES WINS — MACE PROTAGONIST / TROOPER PRIMARY
+Generated: 2026-07-30
+Version: rev1
+================================================================================
+Status: compendium bridge; durable source pages remain authoritative
+
+PURPOSE
+Surface the current Who Dares Wins protagonist and signature-weapon lock in the
+working character / DLC knowledge layer without rewriting the July 6 rev6 base
+compendium.
+
+CONTROLLING SOURCE
+- dev_src_docs/story_campaigns/DLC/WhoDaresWins/Playable_Characters/Mace/
+  PW_Mace_TROOPER_Primary_Weapon_2026-07-30_rev1.txt
+
+RELATED SOURCES
+- dev_src_docs/weapons_and_equipment/PW_TROOPER_Build_Spec_2026-07-30_rev1.txt
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_11.txt
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_narrative_structure_rev2.yaml
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_rev3.yaml
+
+LOCKS
+1. MACE is the primary playable protagonist of Project Warriors: Who Dares Wins.
+2. Earlier language describing Mace only as a recommendation, current preference
+   or front-runner is superseded where it conflicts with this lock.
+3. Mace remains an SAS operator and the DLC remains SAS-led.
+4. Mace's main / signature primary is TROOPER, a DSA SA58 OSW-pattern select-fire
+   compact full-power rifle in 7.62x51mm NATO.
+5. TROOPER uses a 1-4x LPVO.
+6. TROOPER's tactical white light is mounted at 3 o'clock on the forward section
+   of the front handguard side rail.
+7. TROOPER may run suppressed through a removable, mission-conditioned configuration.
+8. Exact optic, suppressor, light model, controls, barrel length, finish and lower-
+   level handling values remain open.
+
+The existing British force architecture remains unchanged:
+- SAS: covert sabotage, infiltration, hostage/HVP recovery and precise land operations
+- SBS: maritime access, blockade shaping, insertion and littoral sabotage
+- Royal Marines / Royal Navy under Lt. Dorothy Anne Vickers: later widening and
+  visible allied capacity
+
+================================================================================
+END
+================================================================================
