@@ -1,0 +1,71 @@
+PROJECT WARRIORS — SEA SPEAR
+DEEP CUT MISSION WORKING-TITLE SOURCE
+Generated: 2026-07-30
+Version: rev1
+Status: WORKING TITLE ASSIGNED / FINAL TITLE LOCK OPEN
+
+================================================================================
+DECISION
+================================================================================
+
+The current working title for the mandatory SEA SPEAR mission depicting the
+Danish-waters maritime arm of PERSISTENT THREAT's AEGIS FALLS finale is:
+
+DEEP CUT
+
+The title applies to the playable Grim / Nereid Black interception of the covert
+deployment vessel before its sabotage device can be deployed against the strategic
+undersea cable terminal.
+
+================================================================================
+TITLE STATUS
+================================================================================
+
+DEEP CUT is a working title, not yet a final canon title lock.
+
+Use DEEP CUT in current SEA SPEAR development, mission-ladder drafts, synopsis work,
+and cross-campaign references unless a later dedicated naming pass replaces or
+formally locks it.
+
+The title does not resolve the mission's exact ordinal position inside the still-
+unfinalized SEA SPEAR ladder.
+
+================================================================================
+TITLE FIT
+================================================================================
+
+DEEP CUT fits the mission through several overlapping meanings:
+
+- a hostile attempt to sever strategically important undersea infrastructure;
+- Nereid Black cutting into a concealed shadow-fleet operation at the decisive
+  deployment moment;
+- a maritime assault that penetrates beyond the vessels' commercial cover and
+  exposes the deeper evidentiary architecture behind the attack;
+- a concise mission-title register consistent with the operation's controlled,
+  technical, and physically confined character.
+
+The title should not imply that the cable is successfully cut. The canon outcome
+remains that Nereid Black and SHIELD secure the vessel and sabotage device before
+deployment.
+
+================================================================================
+CONTINUITY RULE
+================================================================================
+
+The working-title decision changes no event causality, chronology, role ownership,
+or outcome.
+
+DEEP CUT remains the SEA SPEAR playable perspective on the Danish maritime arm of
+AEGIS FALLS. AEGIS squad remains at Aix-en-Provence; Grim remains the sole playable
+protagonist; Nereid Black leads the deployment-vessel assault; SHIELD owns render-
+safe and technical exploitation; the Royal Danish Navy controls the support vessel;
+and the authenticated helmet-camera feed is routed to Ducky during the Tremblay
+confrontation.
+
+================================================================================
+CONTROLLING SOURCES
+================================================================================
+
+- dev_src_docs/story_campaigns/DLC/SeaSpear/Shared/PW_SEA_SPEAR_AEGIS_FALLS_Maritime_Interception_Crossover_2026-07-30_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
+- Project_Warriors_Knowledge_Compendia/PW_SEA_SPEAR_AEGIS_FALLS_Crossover_Addendum_2026-07-30_rev1.txt
