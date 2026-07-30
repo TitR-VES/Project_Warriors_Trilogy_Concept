@@ -1,0 +1,94 @@
+================================================================================
+PROJECT WARRIORS — GLOBAL NAMED WEAPON REGISTRY
+Version 2.11 — Mace TROOPER Addition (2026-07-30)
+================================================================================
+Status: AUTHORITATIVE GLOBAL INDEX ADDITION LAYER
+Supersedes: named_weapon_builds_v2_10.txt for all conflicts
+Inherits: all v2.10, v2.9 and v2.8 entries and governance not explicitly amended below
+Retains: named_weapon_builds_v2_2.txt as the detailed legacy/core-build
+         specification for GRAY GHOST through ARGINT
+
+PURPOSE
+Add Mace's Who Dares Wins signature primary, TROOPER, to the global named-weapon
+authority chain and resolve the previously open Mace protagonist status.
+
+AUTHORITY RULE
+Read v2.11 together with v2.10, v2.9 and v2.8. For every entry not named in this
+addition layer, the prior registry remains unchanged. For TROOPER, v2.11 and its
+dedicated build specification control.
+
+--------------------------------------------------------------------------------
+0. v2.11 ADDITION / GOVERNANCE
+--------------------------------------------------------------------------------
+
+1. MACE is locked as the primary playable protagonist of Project Warriors: Who Dares Wins.
+2. TROOPER is Mace's persistent signature primary / main campaign weapon.
+3. TROOPER is a DSA SA58 OSW-pattern 7.62x51mm NATO select-fire compact
+   full-power rifle in the light automatic rifle lane.
+4. TROOPER uses a 1-4x LPVO. Exact manufacturer, reticle and mount remain open.
+5. TROOPER carries a tactical white light at 3 o'clock on the forward section of
+   the front handguard side rail.
+6. TROOPER has a removable suppressed configuration available when mission
+   signature requirements justify it.
+7. The suppressor is not permanently fitted and does not erase the handling and
+   signature consequences of a short full-power 7.62x51mm rifle.
+8. Exact barrel length, suppressor, muzzle interface, light model, control routing,
+   furniture, sling, finish, magazine presentation and tuning remain open.
+9. TROOPER is conflict-free within the prior authoritative registry chain; no
+   existing registered named weapon identity uses this build name.
+10. Registry counts increase by one named identity and one substantially specified
+    source-associated identity.
+
+--------------------------------------------------------------------------------
+1. NEW AUTHORITATIVE ENTRY
+--------------------------------------------------------------------------------
+
+PW-WPN-MACE-TROOPER
+  Build name: TROOPER
+  Platform: DSA SA58 OSW
+  Caliber: 7.62x51mm NATO
+  Action / role: select-fire compact full-power rifle; light automatic rifle lane
+  Character: MACE
+  Campaign: Who Dares Wins DLC
+  Role: signature primary / main campaign weapon
+  Optic: 1-4x LPVO; exact manufacturer and mount open
+  Weapon light: tactical white light at 3 o'clock on the forward front-handguard side rail
+  Suppressor: removable mission-appropriate suppressed configuration; exact model open
+  Handling identity: compact full-power authority with stronger recoil and muzzle
+                     disturbance than a 5.56mm carbine; disciplined short automatic
+                     bursts; suppressor adds forward mass and slows presentation
+  Status: LOCKED CORE / LOWER-LEVEL PRODUCTION DETAILS OPEN
+  Detail source: PW_TROOPER_Build_Spec_2026-07-30_rev1.txt
+  Character source: PW_Mace_TROOPER_Primary_Weapon_2026-07-30_rev1.txt
+
+--------------------------------------------------------------------------------
+2. CURRENT COUNTS
+--------------------------------------------------------------------------------
+
+Named weapon identities in registry: 38
+Substantially specified / source-associated identities: 27
+Recovery-status identities with incomplete source details: 11
+Uncounted owner-specific recovery slots with name not recovered: 2
+
+--------------------------------------------------------------------------------
+3. SUPERSESSION QUICK CHECK
+--------------------------------------------------------------------------------
+
+CURRENT
+- Mace = locked primary playable protagonist of Who Dares Wins
+- Mace = TROOPER = DSA SA58 OSW = 7.62x51mm NATO signature primary
+- TROOPER optic = 1-4x LPVO
+- TROOPER light = tactical white light at 3 o'clock on forward handguard side rail
+- TROOPER suppressor = removable mission-conditioned option
+
+SUPERSEDED / INVALID
+- Mace only as a recommended or provisional primary POV
+- Mace lacking a locked signature primary
+- treating TROOPER as a generic SA58 pickup or temporary mission alias
+- relocating the weapon light away from the locked 3 o'clock forward-handguard position
+- treating the suppressor as permanently fitted or as a no-cost universal upgrade
+- substituting a 5.56mm carbine for TROOPER in Mace's primary-weapon references
+
+================================================================================
+END — GLOBAL NAMED WEAPON REGISTRY v2.11
+================================================================================
