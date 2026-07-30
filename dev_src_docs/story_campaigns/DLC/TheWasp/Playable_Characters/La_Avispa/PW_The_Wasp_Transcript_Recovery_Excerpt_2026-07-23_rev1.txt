@@ -22,3 +22,16 @@ Bruges burn -> Brussels departure -> Vienna-bound commercial flight sabotage/cra
 concussion-haze muddy airport-edge aftermath -> FSB retrieval operatives mixed with first
 responders -> drainage/flood-control escape. Aftermath-first, short fragmented crash phase,
 no extended disaster spectacle.
+
+CURRENT CANON OVERRIDE — 2026-07-30
+
+The placement language above is preserved verbatim as recovery provenance but is no longer controlling.
+
+Current campaign placement:
+- The Wasp is chronologically set before Game 2.
+- Its main dramatic present follows Yelena Volkova's origin, survival, reinvention, and journey into the La Avispa identity.
+- Earlier-life material such as MANIFEST should function as campaign chronology or controlled pre-Game-2 chapter transitions, not as flashbacks from an active Game 2 present.
+- Operation HOLE PUNCH occurs late in the campaign after Spook's Game 1 story and before GODKILLER, providing a direct bridge into Game 2.
+
+Controlling source:
+dev_src_docs/story_campaigns/DLC/TheWasp/Playable_Characters/La_Avispa/PW_The_Wasp_Operation_Hole_Punch_Integration_2026-07-30_rev1.txt
