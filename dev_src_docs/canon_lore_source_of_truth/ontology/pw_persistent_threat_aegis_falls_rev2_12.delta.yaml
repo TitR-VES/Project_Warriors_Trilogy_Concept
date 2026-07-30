@@ -1,0 +1,139 @@
+meta:
+  delta_id: PW-ONT-PERSISTENT-THREAT-AEGIS-FALLS-2026-07-30-REV1
+  generated: '2026-07-30'
+  timeline_applies_to: pw_world_event_timeline_rev2_11.yaml
+  timeline_produces: pw_world_event_timeline_rev2_12.yaml
+  status: locked_aegis_falls_two_arm_finale_architecture
+  chronology_changes: false
+  sources:
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
+  - Project_Warriors_Knowledge_Compendia/PW_PERSISTENT_THREAT_AEGIS_FALLS_Addendum_2026-07-30_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Mission_by_Mission_Plot_Synopsis_Wiki_Style_2026-07-29_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Investigative_Procedural_Arc_Recovery_Audit_2026-07-29_rev1.txt
+
+operations:
+- op: update_event
+  match_id: PW-EVT-AEGIS-FALLS
+  set:
+    name: AEGIS FALLS
+    depicted_in: [PW-TRK-G2-PERSISTENT-THREAT]
+    status: confirmed_plot_architecture_production_details_open
+    location: Danish territorial waters / strategic undersea cable terminal; GenCorp-connected estate near Aix-en-Provence, France
+    actors:
+    - Ferris Ryan / Ducky
+    - AEGIS Squad
+    - Tara Halliday / ORACLE
+    - TRU/SIGHT
+    - DAOG Director Walker
+    - Lieutenant General Callum Tremblay
+    - Nereid Black
+    - SHIELD
+    - Royal Danish Navy
+    - Russian covert sabotage team
+    - Russian-backed shadow-fleet operators
+    - Russian-backed foreign contractor security personnel
+    - FSB / SVR handler or associated cutout
+    notes: >-
+      Single synchronized two-arm finale. AEGIS squad is pre-positioned at Tremblay's
+      Aix-en-Provence estate while Nereid Black and SHIELD interdict a covert deployment
+      vessel staging an attack on a strategic Danish undersea cable terminal; the Royal
+      Danish Navy intercepts the support vessel. Both ships disable transponders but remain
+      under AEGIS non-cooperative track. AEGIS's autonomous watcher detects matching
+      pre-attack behavior and would propagate a warning. Under FSB / SVR coercion based on
+      preserved records of prior suppressions, Tremblay uses his ZEUS credential to
+      normalize the vessels as legitimate traffic. He suppresses warning propagation but
+      does not erase raw tracks or make the ships invisible. TRU/SIGHT uses limited
+      contingency access to preserve the track, detect the override, correlate attacker
+      communications, and assemble the proof package. The intervention red line is staging
+      complete and device preparation beginning. ORACLE triggers both arms. Nereid Black
+      and SHIELD secure the deployment vessel and sabotage device; Danish forces capture
+      the support ship. Ducky enters Tremblay's study alone and uses a secure live helmet-
+      camera feed of the vessel sweep as understated pressure. Tremblay is a culpable
+      accessory, not the attack mastermind. He conditionally surrenders to Walker's process
+      with the condition that Crodyn not be protected. Protected ending: “AEGIS falls
+      regardless.” / “Then we build something better.”
+    relations:
+      preceded_by:
+      - PW-EVT-G2-DUCKY-HULL-BREACH
+      - PW-EVT-G2-DUCKY-CRODYN-ADDRESS
+      contains_parallel_arms:
+      - unauthorized AEGIS estate operation / Aix-en-Provence
+      - Nereid Black and SHIELD deployment-vessel interdiction / Danish waters
+      - Royal Danish Navy support-vessel interception / Danish waters
+      evidentiary_chain:
+      - prior override audit remnants and Russian backup copies
+      - live AEGIS heuristic threat event
+      - Tremblay ZEUS warning-propagation suppression
+      - TRU/SIGHT covert preserved track and attacker communications
+      - SHIELD device and ship-system exploitation
+      - Danish boarding and detention record
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
+    - Project_Warriors_Knowledge_Compendia/PW_PERSISTENT_THREAT_AEGIS_FALLS_Addendum_2026-07-30_rev1.txt
+
+- op: update_campaign_track
+  match_id: PW-TRK-G2-PERSISTENT-THREAT
+  set:
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Torrejon_Julian_Alps_Ladder_Integration_2026-07-28_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_ASML_Veldhoven_Mission_Source_2026-07-29_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PROCESS_WINDOW_Development_Status_Flag_2026-07-29_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_Bakhmut_Mini_Arc_Full_Source_2026-07-23_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_OPEN_CIRCUIT_Brno_Mission_Source_2026-07-24_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_AEGIS_FALLS_Two_Arm_Finale_Mission_Source_2026-07-30_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Mission_by_Mission_Plot_Synopsis_Wiki_Style_2026-07-29_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Ducky/PW_PERSISTENT_THREAT_Investigative_Procedural_Arc_Recovery_Audit_2026-07-29_rev1.txt
+    notes: >-
+      Controlling thirteen-mission spine remains unchanged. AEGIS FALLS now has a locked
+      plot-level two-arm structure and closed internal causal bridge. The maritime operation
+      in Danish territorial waters and unauthorized Aix-en-Provence operation execute in
+      parallel, synchronized by ORACLE and TRU/SIGHT. The live Tremblay warning-suppression
+      override supplies the final present-tense evidence connecting him to a foreign attack.
+      Production-level terminal, vessel, device, encounter, dialogue, and intercut details
+      remain open without reopening the campaign order or finale causality.
+
+continuity_constraints:
+- id: PW-CONT-G2-DUCKY-AEGIS-FALLS-TWO-ARM
+  sequence:
+  - HULL BREACH / Tremblay ZEUS credential and Volkov records
+  - post-HULL-BREACH off-book Walker tasking
+  - Crodyn address and 0600 Tremblay anomaly
+  - pre-positioned Aix and Danish operational arms
+  - AEGIS heuristic threat event and Tremblay suppression override
+  - staging-complete / device-preparation red line
+  - simultaneous Denmark interception and Aix estate entry
+  - Ducky live-feed confrontation
+  - Tremblay conditional surrender to Walker's process
+  note: >-
+    Do not separate the maritime and estate operations into different missions or stage
+    them as a simple sequential travel handoff. AEGIS squad remains at Aix; Nereid Black
+    and SHIELD own the deployment-vessel assault; the Royal Danish Navy owns the support-
+    vessel interception. Tremblay normalizes the warning disposition but does not erase
+    the vessels from AEGIS observation. TRU/SIGHT continues covert tracking through limited
+    emergency-contingency access.
+
+- id: PW-CONT-G2-DUCKY-AEGIS-FALLS-TREMBLAY-CULPABILITY
+  rule: >-
+    Tremblay is a coerced but culpable accessory. Russian blackmail based on prior override
+    records explains his reluctance and decision but does not exonerate him. Do not portray
+    him as the mastermind commanding the sabotage team or as an innocent victim whose
+    credential was used without his knowledge.
+
+- id: PW-CONT-G2-DUCKY-AEGIS-FALLS-CONTRACTOR-PORTRAYAL
+  rule: >-
+    Support-vessel contractor nationality is not evidence of criminality. Russian planners
+    recruit affordable, adequately trained, deniable personnel with limited European ties
+    and exploit racialized assumptions that cause casual observers to misread them as
+    ordinary foreign merchant crew. Distinguish legitimate or coerced maritime crew,
+    contractor security personnel, and the Russian coordination element.
+
+deferred_updates:
+- target: AEGIS FALLS Danish undersea terminal
+  status: production_detail_open
+  reason: final site identity, exact geography, strategic cable function, and visual abstraction remain to be developed
+- target: AEGIS FALLS maritime gameplay
+  status: production_detail_open
+  reason: vessel names and classes, sabotage-device mechanics, boarding and underwater route, Danish unit naming, and encounter density remain open
+- target: AEGIS FALLS screenplay
+  status: production_detail_open
+  reason: handler call dialogue, ORACLE execution line, estate ingress, intercut pacing, secure-device UI, and Ducky / Tremblay line-by-line polish remain open
