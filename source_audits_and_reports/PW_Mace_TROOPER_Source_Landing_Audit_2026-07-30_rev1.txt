@@ -1,0 +1,52 @@
+PROJECT WARRIORS — MACE / TROOPER SOURCE LANDING AUDIT
+Generated: 2026-07-30
+Version: rev1
+Status: source landing audit
+
+SCOPE
+Lock Mace as the primary playable protagonist of Who Dares Wins and land his
+signature DSA SA58 OSW named build, TROOPER.
+
+CONFLICT CHECK
+- Current controlling registry before this update: named_weapon_builds_v2_10.txt.
+- No registered named firearm identity in the controlling chain used TROOPER.
+- TROOPER is therefore accepted as conflict-free.
+
+DURABLE SOURCE LANDING
+- dev_src_docs/story_campaigns/DLC/WhoDaresWins/Playable_Characters/Mace/
+  PW_Mace_TROOPER_Primary_Weapon_2026-07-30_rev1.txt
+- dev_src_docs/weapons_and_equipment/PW_TROOPER_Build_Spec_2026-07-30_rev1.txt
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_11.txt
+
+ONTOLOGY LANDING
+- pw_weapon_catalog_rev3.yaml supersedes rev2.
+- pw_weapon_catalog_trooper_rev1.yaml adds the DSA SA58 OSW platform,
+  Who Dares Wins occurrence, and resolved TROOPER binding.
+- PW-AMM-762-NATO now includes PW-WEP-DSA-SA58-OSW compatibility.
+- pw_narrative_structure_rev2.yaml supersedes rev1.
+- pw_narrative_structure_campaigns_extended_rev2.yaml locks Mace as primary
+  playable protagonist and removes the final-protagonist-lock open field.
+
+WORKING KNOWLEDGE LANDING
+- PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-30_rev5.txt
+- PW_Working_Compendium_03_Who_Dares_Wins_Mace_Addendum_2026-07-30_rev1.txt
+
+LOCKED BUILD FIELDS
+- DSA SA58 OSW
+- 7.62x51mm NATO
+- select-fire compact full-power / light automatic rifle role
+- 1-4x LPVO
+- tactical white light at 3 o'clock on the forward front-handguard side rail
+- removable mission-conditioned suppressor option
+- build name TROOPER
+- owner Mace
+- signature primary / main campaign role
+
+OPEN FIELDS
+Exact optic, mount, suppressor, muzzle interface, light model and controls,
+barrel length, finish, furniture, sling, magazines, ammunition subtypes and
+numerical handling/reliability tuning remain open.
+
+RESULT
+The update is fully source-landed, registry-landed, ontology-landed and surfaced
+in the working compendium layer. No live dependency blocks review.
