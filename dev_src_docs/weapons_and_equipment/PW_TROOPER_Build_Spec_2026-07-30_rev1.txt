@@ -1,0 +1,115 @@
+================================================================================
+PROJECT WARRIORS — NAMED WEAPON BUILD SPECIFICATION
+TROOPER — MACE / WHO DARES WINS
+Generated: 2026-07-30
+Version: rev1
+================================================================================
+Status: LOCKED CORE / LOWER-LEVEL PRODUCTION DETAILS OPEN
+Stable build ID: PW-WPN-MACE-TROOPER
+Owner: MACE
+Campaign: Project Warriors: Who Dares Wins
+Role: signature primary / main weapon
+
+--------------------------------------------------------------------------------
+CORE BUILD
+--------------------------------------------------------------------------------
+Build name: TROOPER
+Platform: DSA SA58 OSW
+Caliber: 7.62x51mm NATO
+Action / role: select-fire compact full-power rifle; light automatic rifle lane
+Optic: 1-4x LPVO
+Weapon light: tactical white light mounted at 3 o'clock on the forward front-handguard side rail
+Suppressor: removable mission-appropriate suppressed configuration
+
+TROOPER is Mace's persistent named primary. It is not a generic SA58 pickup, a
+temporary mission weapon or a cosmetic alias for another build.
+
+--------------------------------------------------------------------------------
+NAME STATUS / CONFLICT CHECK
+--------------------------------------------------------------------------------
+TROOPER is available and conflict-free within the current authoritative global
+named-weapon chain through named_weapon_builds_v2_10.txt. No existing registered
+named firearm identity uses TROOPER.
+
+The name is concise, recognizably British without becoming ceremonial, and suited
+to an SAS protagonist whose weapon identity should feel practical rather than
+mythologized. No additional engraved slogan, heraldry or decorative naming mark is
+locked by this source.
+
+--------------------------------------------------------------------------------
+CONFIGURATION LOCKS
+--------------------------------------------------------------------------------
+1. The platform remains the DSA SA58 OSW in 7.62x51mm NATO.
+2. The rifle occupies a compact full-power / light-automatic role rather than a
+   5.56mm assault-carbine role.
+3. The primary optic remains a 1-4x LPVO. Exact manufacturer and mount remain open.
+4. The tactical white light remains at 3 o'clock on the forward section of the
+   front handguard side rail.
+5. TROOPER may run suppressed. The suppressor is removable and selected according
+   to mission signature requirements rather than permanently fitted.
+6. The exact suppressor, muzzle interface, light model, switch routing, barrel
+   length, sling, finish and furniture remain open until a visual/production pass.
+
+--------------------------------------------------------------------------------
+HANDLING IDENTITY
+--------------------------------------------------------------------------------
+TROOPER should communicate compact 7.62x51mm authority with real handling cost.
+
+Unsuppressed state:
+- fast enough for aggressive SAS movement, but heavier and more demanding than a
+  compact 5.56mm carbine
+- strong recoil impulse and muzzle disturbance
+- effective semi-automatic precision from close to medium range
+- controlled short automatic bursts possible at close range
+- sustained automatic fire rapidly reduces practical accuracy and visual control
+
+Suppressed state:
+- lower visible and audible signature than the unsuppressed state
+- added forward mass and slower presentation
+- preserved full-power recoil character
+- not Hollywood-quiet and not a universal handling upgrade
+
+The 1-4x LPVO should support a genuine trade-off between rapid low-magnification
+close work and deliberate magnified identification / engagement. It should not be
+treated as a catch-all optic with no speed or field-of-view cost.
+
+--------------------------------------------------------------------------------
+CAMPAIGN FUNCTION
+--------------------------------------------------------------------------------
+The SA58 OSW configuration fits the Who Dares Wins campaign's movement across:
+- domestic continuity and counter-infiltration spaces
+- coastal and port infrastructure
+- vehicles and confined industrial interiors
+- North Atlantic and maritime edge operations
+- covert New England / Boston-approach routes
+
+TROOPER gives Mace a distinct full-power visual and mechanical identity while the
+SBS and later British support layers retain their own equipment lanes.
+
+--------------------------------------------------------------------------------
+INSPECT / UI
+--------------------------------------------------------------------------------
+When the universal named-build inspect rule applies, the build-name display is:
+
+TROOPER
+
+The model identity should remain recoverable through the detailed weapon card or
+inspection metadata as DSA SA58 OSW. Exact physical placement of any build-name mark
+is not locked; the name may remain UI/source-defined unless a later visual pass
+establishes a credible physical marking.
+
+--------------------------------------------------------------------------------
+OPEN PRODUCTION FIELDS
+--------------------------------------------------------------------------------
+- exact DSA production variant and barrel length within the OSW lane
+- exact LPVO manufacturer, reticle and mount height
+- exact tactical light and activation controls
+- exact suppressor and muzzle-device interface
+- magazine presentation and ammunition subtype progression
+- recoil, heat, durability and malfunction tuning
+- ADS, shoulder-switch and suppressed-balance numerical tuning
+- final finish, wear pattern, sling and support-hand interface
+
+================================================================================
+END — TROOPER BUILD SPEC rev1
+================================================================================
