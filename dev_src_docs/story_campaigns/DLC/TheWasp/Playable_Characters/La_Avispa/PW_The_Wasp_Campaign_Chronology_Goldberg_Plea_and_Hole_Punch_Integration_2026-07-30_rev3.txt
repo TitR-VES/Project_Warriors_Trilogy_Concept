@@ -1,0 +1,285 @@
+PROJECT WARRIORS — THE WASP DLC
+CAMPAIGN CHRONOLOGY, GOLDBERG PLEA MANEUVER, AND OPERATION HOLE PUNCH INTEGRATION
+Generated: 2026-07-30
+Version: rev3
+Status: SOURCE-READY WORKING LOCK
+
+1. PURPOSE
+
+This source page locks The Wasp as a chronologically pre-Game-2 campaign centered on La Avispa's origin, survival, reinvention, and rise inside Los Sietes. It also establishes Goldberg's post-Game-1 strategic plea-deal maneuver and Operation HOLE PUNCH as major late-campaign connective strands, defining how La Avispa's story can provide an adjacent narrative perspective on Goldberg's conflict with Crodyn, imprisonment, false death, and covert extraction from Coleman Federal Correctional Facility.
+
+The Wasp remains a sole-playable-protagonist story centered on La Avispa / Yelena Volkova. Its main narrative does not overlap the active present of Game 2. The campaign takes place before Game 2 and uses its available chronological space to show how Yelena survives the destruction of her former life, crosses into the criminal underworld, constructs the La Avispa identity, and becomes a trusted senior Los Sietes specialist.
+
+2. CAMPAIGN CHRONOLOGY LOCK
+
+The Wasp campaign is set before the events of Game 2.
+
+Its preferred structure is a pre-Game-2 origin journey rather than a Game-2-present narrative interrupted by explanatory flashbacks. The story may span multiple earlier periods and use chapter transitions or controlled time jumps, but every principal campaign phase remains chronologically earlier than Game 2.
+
+The campaign's broad developmental movement should be:
+
+- Yelena Volkova's earlier intelligence life and the professional skills that later define La Avispa;
+- the operation and institutional betrayal that burn her former identity;
+- her survival, escape, and movement through successive countries and clandestine networks;
+- the gradual replacement of Yelena's exposed state identity with the operational identity of La Avispa;
+- her entry into, testing by, and advancement through Los Sietes;
+- direct dealings with El Tiburón, Bisutrí, and other senior Los Sietes figures;
+- an adjacent view of the Goldberg-Crodyn rupture, Goldberg's federal prosecution, and his calculated plea-deal surrender;
+- Operation HOLE PUNCH as a late-campaign demonstration that she has become one of the network's most valuable trackers, source handlers, and intelligence specialists;
+- a closing state that places the fully formed La Avispa in position for her later Game 2 encounters with Spook.
+
+MANIFEST and related survival material should therefore function as an early campaign chapter or origin-stage sequence, not as a flashback launched from an active Game 2 storyline. The established Bruges burn, Brussels departure, Vienna-bound flight sabotage and crash, airport-edge aftermath, FSB retrieval presence, and drainage-edge escape remain valid unless separately superseded.
+
+This structure gives the campaign enough narrative room to dramatize transformation rather than summarize it. La Avispa should not begin the DLC already possessing the complete identity, reputation, access, and emotional armor seen in Game 2.
+
+3. CAMPAIGN FUNCTION
+
+The Wasp campaign should provide the player's closest sustained view of Los Sietes' senior structure. La Avispa should meet and work directly with:
+
+- El Tiburón, the senior Los Sietes authority to whom she owes an unresolved favor;
+- Edgar Murillo “Bisutrí” Lozada-Arias, El Tiburón's second-in-command and the operational leader of the Coleman extraction;
+- additional prominent Los Sietes figures whose identities, portfolios, and later campaign uses remain to be developed.
+
+These encounters should reveal Los Sietes as an organized transnational criminal-intelligence network with internal hierarchy, compartmentation, institutional contacts, and professional specialists. The campaign must not collapse into a generic cartel story. It remains a spy story lived from inside a criminal organization by a former FSB surveillance specialist whose chosen identity and loyalties are under continuous pressure.
+
+The origin structure should also show that her rise is earned. Access to El Tiburón and Bisutrí should follow demonstrated judgment, successful work, and survivable tests rather than being granted at the beginning of the campaign.
+
+4. THE GOLDBERG-CRODYN RUPTURE AND STRATEGIC PLEA MANEUVER
+
+The Wasp may provide the player's clearest pre-Game-2 narrative perspective on the chain of events that places Goldberg inside Coleman, but it should do so through La Avispa's proximity to Los Sietes, incomplete intelligence, public reporting, source work, and operational consequences rather than through an unexplained omniscient exposition scene.
+
+A. Strategic background
+
+PANDORA incapacitates or compromises a much larger share of United States military capability than Crodyn and the Riptide Red conspirators modeled. Its effects combine with the imminent outbreak of World War III in Europe, degraded American command-and-control, damaged domestic-response capacity, and the political confusion generated by the attack.
+
+Russian, Cuban, Venezuelan, North Korean, and Iranian forces that had been complicit in the original arrangement enter or expand their presence under a diplomatic and purported peacekeeping rationale. The peacekeeping label is a ruse. It gives the deployments temporary deniability and political cover while the forces exploit the United States' sudden inability to coordinate an effective national defense.
+
+The original bargain called for a bounded show of force or controlled intervention that would support Crodyn's emergency-power strategy and then withdraw. Once the depth of American vulnerability becomes visible, the foreign participants begin reneging on that bargain. They retain occupied territory, reinforce their formations, and use captured or controlled ports on the United States East Coast as sustainment corridors for additional personnel, equipment, ammunition, fuel, and supplies. Those ports allow the occupation to become self-reinforcing rather than temporary: follow-on forces can enter behind the first deployments, consolidate seized regions, and widen the gap between official diplomatic language and the military reality on the ground. What was designed as a managed conspiracy becomes an initially deniable but increasingly unmistakable land invasion of the mainland United States.
+
+China's wider strategic agenda remains separate from this particular purported-peacekeeping arrangement unless a later controlling source explicitly connects it. The Wasp should not flatten every foreign actor into one unified plan.
+
+B. Crodyn turns on Goldberg
+
+When Crodyn personally comprehends the true scale of PANDORA's debilitating effect and recognizes that the foreign participants no longer intend to honor the withdrawal arrangement, he looks for an internal actor to blame, control, or sacrifice. His conflict with Goldberg intensifies because Goldberg helped construct and manage the conspiracy architecture but can no longer deliver the controlled outcome Crodyn expected.
+
+Crodyn also understands that Goldberg possesses enough knowledge to expose him and his circle. Goldberg, in turn, recognizes that a frightened and cornered Crodyn is more dangerous than a confident co-conspirator. Their alliance becomes a struggle over who can neutralize the other first without publicly exposing the wider conspiracy.
+
+C. Reported Oval Office confrontation
+
+A reported private confrontation in the Oval Office becomes the personal breaking point between Crodyn and Goldberg. The underlying event is controlling, although the exact means by which La Avispa or Los Sietes obtains the account remains open for mission-level development.
+
+Crodyn, enraged by reports that the purported peacekeeping forces are refusing to withdraw and reinforcing their occupied regions, accuses Goldberg of selling him out, ruining the country, and making him appear to the public and foreign leaders as a weak president and a bad deal maker. The accusation is personal as well as political: Crodyn believes Goldberg promised him a controlled crisis and instead delivered a national humiliation that Crodyn can no longer contain.
+
+Goldberg does not apologize. He reportedly answers that it was about time the country saw some change and argues that the catastrophe may be the beginning of the reset that America's powerful elite need in order to prepare for the future. The response reveals that Goldberg does not regard the collapse of the original bargain as a moral failure. He treats mass disruption, occupation, and institutional breakdown as an accelerant for elite adaptation and a new political order.
+
+Crodyn rejects the argument, threatens to end Goldberg's career and put him behind bars, and orders him out of the White House. The encounter should end without physical violence. Its danger comes from the realization that two men who jointly helped manufacture the crisis have stopped treating one another as partners and have begun planning each other's removal.
+
+The exchange may be represented in The Wasp through a sourced reconstruction, leaked memorandum, partial recording, eyewitness account, Goldberg retelling, or other intelligence artifact that La Avispa can plausibly obtain or authenticate. A direct cinematic rendition is permissible only when the campaign establishes how the underlying account reached Los Sietes; it should not function as an unexplained omniscient cutaway.
+
+D. IRS investigation and public prosecution
+
+Within days of the Oval Office confrontation, IRS investigations into Goldberg and his financial network begin. The timing should communicate political retaliation without requiring every investigator or prosecutor involved to know Crodyn's hidden motive.
+
+The Crodyn-controlled Department of Justice subsequently initiates a federal prosecution of Goldberg for alleged tax fraud and money laundering. These charges are publicly intelligible, institutionally plausible, and sufficiently serious to isolate Goldberg, freeze or threaten portions of his visible financial network, and create the appearance of lawful accountability without exposing the national-security conspiracy, PANDORA, Riptide Red, or Crodyn's own role.
+
+The allegations need not be wholly fabricated. Goldberg's opaque financial architecture, shell entities, criminal partnerships, and dark-money operations make genuine financial violations plausible. The political abuse lies in the selective timing, direction, and purpose of the prosecution: Crodyn weaponizes an ordinary legal mechanism against a former co-conspirator while shielding the vastly greater crimes that would implicate his own administration.
+
+This tax-fraud and money-laundering prosecution is the controlling public charge framework for Goldberg's plea maneuver. Older working references to mishandling classified or sensitive investigative documents are superseded as the principal prosecution basis. They may survive only as abandoned, sealed, threatened, or ancillary investigative theories if a later source deliberately reconciles them.
+
+E. Goldberg's calculated surrender
+
+Goldberg responds with a strategic plea maneuver rather than attempting an immediate flight. He allows himself to be arrested, negotiates a deliberately lenient agreement, and accepts a twenty-four-month federal sentence with eligibility for release after no less than six months, contingent on conduct, at Coleman Federal Correctional Facility.
+
+The move serves several purposes at once:
+
+- it places Goldberg inside a monitored federal institution where Crodyn cannot easily make him disappear without attracting attention;
+- it publicly reduces Goldberg from suspected power broker to a white-collar defendant apparently contained by ordinary law;
+- it limits the immediate usefulness of Crodyn's threat to expose him, because Goldberg has already entered a controlled legal process;
+- it gives Goldberg time to preserve, compartment, or transfer surviving assets and contacts;
+- it creates a fixed institutional environment that Los Sietes can study, penetrate, and eventually exploit;
+- it allows Goldberg to turn apparent defeat into the staging ground for an official death and operational rebirth.
+
+The plea should not be portrayed as risk-free genius. Goldberg is gambling that Crodyn will respect the visibility of federal custody long enough for Los Sietes to build an extraction, that compromised officials will remain bought, and that the prosecution will not expand before he can disappear.
+
+F. Preferred Wasp-campaign perspective
+
+La Avispa need not attend courtroom proceedings or become Goldberg's confidante. The campaign can build the maneuver through several partial views:
+
+- international and American news coverage presenting the case as a financial-crimes prosecution;
+- Los Sietes discussions about frozen accounts, threatened intermediaries, shell companies, beneficial ownership, and assets Goldberg must preserve or sacrifice;
+- source work establishing whether Crodyn's people are attempting to influence investigators, prosecutors, prison placement, transfers, or protective arrangements;
+- La Avispa tracing contacts who suddenly go silent, change allegiance, or begin liquidating Goldberg-linked holdings;
+- a sourced or reconstructed account of the Oval Office confrontation whose reliability the player helps assess;
+- meetings in which El Tiburón and Bisutrí assess whether Goldberg's surrender is capitulation, bait, or a request for a future service;
+- intelligence indicating that foreign forces are reinforcing occupied American regions through East Coast ports even while official statements continue using peacekeeping or stabilization language;
+- a later realization that Coleman is not merely where Goldberg has been sent, but the deliberately chosen institutional terrain from which he intends to vanish.
+
+The player should understand more than the public but less than Goldberg, Crodyn, or the complete Riptide Red record. The protected dramatic asset in which an insider fully articulates how the controlled false flag opened the door to an uncontrolled war should remain reserved for a later main-campaign reveal after the player has accumulated sufficient context.
+
+5. OPERATION HOLE PUNCH — CHRONOLOGICAL PLACEMENT
+
+Operation HOLE PUNCH occurs after Spook's Game 1 campaign and before the opening phase of Spook's Game 2 GODKILLER campaign. It should sit relatively late in The Wasp campaign, after La Avispa has acquired the Los Sietes access, source network, and professional standing necessary to receive such a sensitive assignment.
+
+Goldberg has completed his calculated surrender, accepted the lenient plea agreement, and begun serving his sentence at Coleman. Los Sietes then execute a dual-purpose prison operation:
+
+- a visible assault and extraction centered on El Furtivo creates disorder and draws the institutional response;
+- a quieter second track, enabled by compromised staff, removes Goldberg, substitutes a destroyed body, and establishes his false death.
+
+The public outcome remains unchanged: Goldberg is declared dead, disappears underground, and begins rebuilding his network for an intelligence counter-offensive against Crodyn and his circle.
+
+Within The Wasp, HOLE PUNCH should function both as a plot bridge and as a character threshold. It proves that La Avispa has completed the journey from hunted former intelligence officer to a specialist capable of shaping an operation whose consequences will drive an entire Game 2 campaign.
+
+6. LA AVISPA'S ROLE
+
+La Avispa is not required to be physically present with the breakout crew. Her strongest function is upstream intelligence preparation.
+
+Using the surveillance, pattern-analysis, source-handling, and identity-tracing skills developed during her former FSB career and later refined inside Los Sietes, she supports Bisutrí's planning by:
+
+- determining Goldberg's assigned cell and exact position within the relevant prison block;
+- reconstructing Goldberg's daily movement pattern, medical access, guard rotations, and predictable institutional routines through prison-gang and correctional-system contacts;
+- identifying the narrow window in which compromised staff can move Goldberg from his assigned cell to the medical wing under a routine pretext;
+- locating a physically suitable decedent whose remains can be rendered unidentifiable and prepared as the replacement “Goldberg” body;
+- validating the handoff chain and feeding the resulting intelligence package to Bisutrí so he can design the physical operation around reliable timing rather than improvisation.
+
+La Avispa's contribution should be decisive but bounded. She does not command the assault, control every compromised official, or know every part of El Tiburón's arrangement. Bisutrí retains responsibility for the physical operation, paid-off staff, assault teams, vehicle staging, and extraction execution.
+
+7. CONTINUITY RECONCILIATION
+
+The following details preserve the current Coleman breakout continuity:
+
+- Goldberg's assigned cell remains the location La Avispa must first identify and map.
+- The actual extraction still begins after compromised staff transfer Goldberg into the medical wing under the pretext of a routine medical check.
+- The substitute corpse is selected in advance by La Avispa as a viable physical match. Los Sietes then mutilate the remains and contaminate or seed them with Goldberg-linked biological material so the destroyed body can support the false identification.
+- The body is planted in the devastated cell-block environment created by the assault.
+- Goldberg is removed through the medical-wing route in the existing coffin-like container and hearse staging.
+- El Furtivo's overt extraction remains the operation's visible purpose and principal diversion.
+
+This structure makes La Avispa's cell-location and schedule intelligence necessary without contradicting the medical-wing extraction already established in the Game 2 timeline source.
+
+8. PREFERRED PLAYABLE TREATMENT
+
+The plea-maneuver and HOLE PUNCH strands should be treated through compact late-campaign sequences rather than by displacing La Avispa from her own story or turning her into an additional gun on the prison-break team.
+
+A. Goldberg pressure interstitials
+
+News, surveillance, source handling, and Los Sietes meetings expose the widening Goldberg-Crodyn conflict. La Avispa sees the legal and financial pressure surrounding Goldberg before she understands the full strategic purpose of his surrender.
+
+One interstitial may center on acquiring, comparing, or authenticating competing accounts of the Oval Office confrontation. The player should participate in deciding which details are credible rather than receiving a perfectly complete transcript without work.
+
+B. Senior Los Sietes access
+
+La Avispa is brought into direct contact with El Tiburón and Bisutrí after earlier campaign chapters have established why her work has earned their attention. The scene establishes hierarchy, mutual assessment, and the fact that her access remains conditional. El Tiburón frames the assignment as a test of precision and discretion, not loyalty theater.
+
+C. Prison-pattern reconstruction
+
+The player gathers and cross-checks incomplete human-source information, institutional records, overheard routines, and surveillance fragments. The gameplay identity should be intelligence synthesis under uncertainty, with La Avispa distinguishing reliable patterns from deliberate noise.
+
+D. Contact handling
+
+La Avispa uses Mexican prison-gang contacts and intermediaries tied to Coleman to learn Goldberg's real schedule and identify which staff relationships can be trusted long enough to support one operation. These contacts should have their own interests and risks; they are not effortless information dispensers.
+
+E. Replacement-body search
+
+La Avispa locates a suitable decedent through criminal, medical, mortuary, or trafficking-adjacent channels. The sequence should be morally cold and uncomfortable rather than sensational. Its narrative purpose is to show the human cost hidden beneath Goldberg's administrative disappearance.
+
+F. Handoff to Bisutrí
+
+La Avispa delivers a concise operational intelligence package. Bisutrí tests the work, asks targeted questions, and accepts the plan only when satisfied that its timing and contingencies are sound. Their exchange should establish professional respect without friendship.
+
+G. Consequence
+
+La Avispa later sees the public report of Goldberg's death and recognizes which parts of her work have been used. The operation's success should not play as triumph. She helped erase a man from accountability and understands that Los Sietes have just returned a uniquely dangerous actor to the shadows.
+
+9. CHARACTER AND THEMATIC EFFECTS
+
+For La Avispa:
+- dramatizes the formation of the identity rather than presenting it as completed backstory;
+- demonstrates that her highest-value skill is finding people and understanding systems, not merely close-quarters violence;
+- forces her to apply old-state surveillance training in service of a criminal network;
+- lets her recognize the difference between a public legal narrative and the covert struggle underneath it;
+- deepens her debt and working relationship with El Tiburón;
+- establishes a credible professional relationship with Bisutrí before later crossover events;
+- creates moral residue that can shape her later choices around Spook, Goldberg, and Los Sietes;
+- leaves her at the end of the DLC recognizably continuous with, but not emotionally identical to, the woman Spook meets in Game 2.
+
+For Goldberg:
+- portrays the plea as a strategic retreat into visible custody rather than a simple defeat;
+- establishes his ideological willingness to interpret national collapse as an elite-directed reset rather than a tragedy demanding reversal;
+- shows his ability to convert law, prison, and public disgrace into instruments of survival;
+- makes his false death feel like the product of a network, not a last-minute trick;
+- shows how his survival depends on criminal specialists, compromised institutions, and people whose individual contributions remain compartmented;
+- strengthens the GODKILLER premise that Spook is hunting a man who has converted official death into operational freedom.
+
+For Crodyn:
+- establishes that his break with Goldberg follows the collapse of the controlled-intervention bargain and his realization that PANDORA has left the country more exposed than intended;
+- personalizes his panic through the Oval Office confrontation, in which political disaster becomes humiliation, wounded vanity, and fear of appearing weak;
+- shows his DOJ using conventional financial charges to attack a co-conspirator without revealing the underlying national-security crime;
+- portrays him as dangerous but increasingly reactive, attempting to preserve political control while foreign partners turn his manufactured emergency into a genuine occupation war.
+
+For Bisutrí:
+- establishes him as a planner who uses specialists rather than a simple elite gunman;
+- gives him a reason to respect La Avispa's competence before any later direct confrontation or alliance of necessity;
+- preserves his authorship and command of the physical breakout.
+
+For El Tiburón:
+- gives the player direct exposure to his authority and strategic reach;
+- demonstrates that his power lies in assembling capabilities across criminal, institutional, financial, and intelligence systems;
+- provides a natural place to explore the unresolved favor La Avispa owes him.
+
+10. PRESENTATION GUARDRAILS
+
+- Do not frame the campaign from an active Game 2 present. The primary dramatic present is pre-Game-2.
+- Do not reduce the origin journey to one exposition dump or a collection of disconnected flashbacks.
+- Do not begin with La Avispa already possessing her complete Game 2 identity, reputation, and access.
+- Do not let the Goldberg-Crodyn strand displace La Avispa as the campaign's protagonist.
+- Do not reveal the entire Riptide Red architecture or spend the protected false-flag-consumed-by-a-bigger-conspiracy monologue before its later main-campaign placement.
+- Preserve the Oval Office confrontation as a reported or sourced event until the campaign defines the evidentiary route that permits a direct reconstruction.
+- Treat Goldberg's reset argument as revealing his worldview, not as an objective narrative endorsement of the catastrophe.
+- Distinguish clearly between the public tax-fraud and money-laundering case and the hidden political struggle that caused Crodyn's DOJ to pursue it.
+- Do not require the financial allegations to be invented. The selective, retaliatory use of plausible charges is more credible and more institutionally corrosive.
+- Do not present the purported peacekeeping deployment as sincere or the later invasion as a spontaneous misunderstanding. The diplomatic language is cover for forces that exploit the vulnerability and then abandon the withdrawal bargain.
+- Do not treat Russia, Cuba, Venezuela, North Korea, Iran, and China as a single actor with identical motives. China's separate strategic agenda remains distinct unless later canon connects a specific action.
+- Do not portray Goldberg's plea as infallible. It is a dangerous maneuver dependent on visibility, institutional corruption, and Los Sietes execution.
+- Do not make La Avispa omniscient. Her conclusions should come from work, judgment, and source comparison.
+- Do not make prison-gang contacts culturally interchangeable or purely expositional. Give each contact a specific relationship, incentive, and limit.
+- Do not let the replacement-body strand become gore spectacle. Its weight comes from administrative dehumanization and the quiet theft of an unknown person's identity in death.
+- Do not undermine Bisutrí by having La Avispa design every physical detail. She supplies the intelligence foundation; he converts it into an executable operation.
+- Do not depict El Tiburón as a generic cartel boss. His authority should read through access, restraint, delegation, and the ability to connect systems.
+- Preserve the existing dual-team breakout, medical-wing transfer, coffin-like container, hearse route, black SUV follow vehicle, and El Furtivo diversion unless a later dedicated HOLE PUNCH source explicitly supersedes them.
+
+11. SUPERSESSION NOTE
+
+The earlier working direction that The Wasp's main narrative overlaps Game 2 through selective flashbacks is superseded.
+
+Current controlling direction:
+- the campaign is chronologically set before Game 2;
+- its principal dramatic purpose includes La Avispa's origin and transformation journey;
+- MANIFEST and other earlier-life material occur as campaign chronology or controlled pre-Game-2 time transitions;
+- the campaign provides an adjacent perspective on the Goldberg-Crodyn rupture and Goldberg's strategic plea maneuver;
+- the reported Oval Office confrontation is the personal breaking point that immediately precedes the retaliatory financial investigation;
+- Goldberg's controlling public federal prosecution is for alleged tax fraud and money laundering;
+- HOLE PUNCH occurs late in that chronology and bridges directly toward GODKILLER.
+
+Recovered transcript excerpts that preserve the older overlap direction remain valid as provenance records but are not controlling on campaign placement. Older sources naming mishandling classified or sensitive documents as Goldberg's principal plea charge are superseded by the tax-fraud and money-laundering prosecution framework defined here.
+
+12. OPEN DEVELOPMENT FLAGS
+
+- Define the campaign's act structure and the exact chronological span between Yelena's intelligence career and HOLE PUNCH.
+- Determine the sequence and duration of her movement through Venezuela, Cuba, Panama, Mexico, and any other established transit locations.
+- Decide at what point she first adopts the La Avispa name and when it becomes an identity she personally accepts rather than merely uses.
+- Determine which missions establish her entry into Los Sietes and which prove her value to El Tiburón.
+- Decide how many Goldberg-Crodyn interstitials are required and what information each can reveal without spending the later protected conspiracy explanation.
+- Define the evidentiary route through which La Avispa obtains or authenticates the Oval Office account: witness, aide, recording, memorandum, Goldberg retelling, or multi-source reconstruction.
+- Polish the final spoken dialogue for the Oval Office scene while preserving the locked substance of the exchange.
+- Define which East Coast ports or occupied corridors La Avispa's intelligence work observes, if any, without overextending the DLC into a conventional-war campaign.
+- Decide whether Goldberg ever appears directly before Coleman or remains an off-screen principal understood through legal, financial, and operational effects.
+- Determine the prosecutor, court, exact plea counts, and prison-designation mechanics that remain canonical under the federal tax-fraud and money-laundering framework.
+- Decide whether HOLE PUNCH appears as one multi-part mission, several interstitial missions, or a recurring investigation strand.
+- Name and define the additional prominent Los Sietes figures encountered in the DLC.
+- Determine El Tiburón's exact terms for La Avispa's unresolved favor and whether HOLE PUNCH pays down, deepens, or merely reframes that debt.
+- Define the prison-gang contacts and their relationship to La Avispa.
+- Decide how much player agency exists in selecting or validating the replacement decedent without creating a false moral escape from the operation.
+- Determine whether La Avispa learns Goldberg's full strategic importance before the extraction or only later realizes whom she helped disappear.
+- Add or extend ontology mappings for The Wasp NPC appearances after the relevant identities and placements are stable.
+
+END OF SOURCE PAGE
