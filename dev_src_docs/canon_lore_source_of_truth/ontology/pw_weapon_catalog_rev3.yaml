@@ -1,0 +1,103 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-REV3
+  generated: '2026-07-30'
+  revision: rev3
+  status: locked_and_working_projection
+  supersedes: pw_weapon_catalog_rev2.yaml
+  schema: schema/pw_weapon_catalog.schema.yaml
+  authority:
+    platform_and_occurrence_sources: Durable gameplay, weapon, character, campaign, and named-build sources.
+    named_build_registry: Named build registry remains authoritative for named identities, owners, and configurations.
+    this_projection: Controls base weapon, ammunition, occurrence, acquisition, retention, and crosswalk identities.
+  scope: Current source-backed portable weapons, launchers, throwables, and melee weapons that can appear as player equipment, NPC equipment, enemy equipment, world finds, conditional drops, rewards, or collectible-only items. Vehicle weapons, artillery, CAS assets, and attachment-only unlocks are excluded.
+  counts:
+    weapons: 113
+    ammunition_types: 36
+    occurrences: 130
+    named_build_bindings: 45
+    resolved_named_build_bindings: 36
+    deferred_named_build_bindings: 9
+  next_pass_contract: Enemy-type entries may reference weapon_ref and ammunition_ref directly and may populate occurrence.enemy_type_refs without changing stable weapon or ammunition identities.
+  source_index:
+    WCOMP: Project_Warriors_Knowledge_Compendia/PW_Working_Compendium_04_Gameplay_Weapons_Style_2026-07-06_rev6.txt
+    FULL7B: dev_src_docs/canon_lore_source_of_truth/ontology/pw_full_transcript_recovery_rev2_7b.delta.yaml
+    SUPP8: dev_src_docs/canon_lore_source_of_truth/ontology/pw_supplemental_transcripts_rev2_8.delta.yaml
+    BATCH6: dev_src_docs/canon_lore_source_of_truth/ontology/pw_transcript_batch_rev2_6.delta.yaml
+    TRUEBLUE: dev_src_docs/canon_lore_source_of_truth/ontology/pw_true_blue_registry_v3_4.delta.yaml
+    WARWITHIN2: dev_src_docs/canon_lore_source_of_truth/ontology/pw_war_within_rev2_2.delta.yaml
+    STONE: dev_src_docs/characters/character_profile_troy_barry.txt
+    ECON: dev_src_docs/gameplay_mechanics/PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt
+    BLOM: dev_src_docs/story_campaigns/Game1/Spook/PW_Infrastructure_Day_Blommaert_Optional_Target_and_JUDGE_ME_NOT_2026-07-22_rev1.txt
+    EXTREME: dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev2.txt
+    HASTA: dev_src_docs/weapons_and_equipment/HASTA_LA_VISTA_Build_Spec_rev1.txt
+    DEADREC: dev_src_docs/weapons_and_equipment/PW_DEAD_RECKONING_Build_Spec_2026-07-21_rev1.txt
+    DUE: dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt
+    REGDETAIL: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt
+    REGBASE: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt
+    REG9: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt
+    REG10: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_10.txt
+    REG11: dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_11.txt
+    SANDMAN: dev_src_docs/weapons_and_equipment/PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt
+    TROOPER: dev_src_docs/weapons_and_equipment/PW_TROOPER_Build_Spec_2026-07-30_rev1.txt
+    MACELOCK: dev_src_docs/story_campaigns/DLC/WhoDaresWins/Playable_Characters/Mace/PW_Mace_TROOPER_Primary_Weapon_2026-07-30_rev1.txt
+  correction_notes:
+    - SANDMAN's persistent weapon light is a Streamlight TLR-3 mounted distinctly low below the bore, with its switch paddle high enough for natural finger access.
+    - SANDMAN's canonical suppressor is the SilencerCo Osprey 45 2.0, measuring just under seven inches.
+    - Earlier Osprey SHS and eight-inch suppressor references are superseded and must not be restored.
+    - SANDMAN's five quantified malfunction profiles supersede the earlier low-absolute-risk and maintained-M1911 comparison wherever inconsistent.
+    - Guide-rod walk-out uses a 2.5% per-shot first-magazine check, then 50% and 96% per-magazine checks for the second and later sustained-fire magazines.
+    - Mace's TROOPER is a DSA SA58 OSW in 7.62x51mm NATO with a 1-4x LPVO, a forward 3 o'clock handguard white light, and a removable mission-conditioned suppressor.
+parts:
+- path: pw_weapon_catalog_platforms_firearms_1_rev1.yaml
+  contains: [weapons]
+- path: pw_weapon_catalog_platforms_firearms_2_rev1.yaml
+  contains: [weapons]
+- path: pw_weapon_catalog_platforms_firearms_3_rev1.yaml
+  contains: [weapons]
+- path: pw_weapon_catalog_platforms_firearms_4_rev1.yaml
+  contains: [weapons]
+- path: pw_weapon_catalog_platforms_support_melee_rev1.yaml
+  contains: [weapons]
+- path: pw_weapon_catalog_ammunition_1_rev1.yaml
+  contains: [ammunition]
+- path: pw_weapon_catalog_ammunition_2_rev1.yaml
+  contains: [ammunition]
+- path: pw_weapon_catalog_occurrences_game1_romeo_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_game1_ducky_spook_1_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_game1_ducky_spook_2_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_game1_shared_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_main_later_1_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_main_later_2_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_extended_1_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_occurrences_extended_2_rev1.yaml
+  contains: [occurrences]
+- path: pw_weapon_catalog_named_build_bindings_1_rev1.yaml
+  contains: [named_build_bindings]
+- path: pw_weapon_catalog_named_build_bindings_2_rev1.yaml
+  contains: [named_build_bindings]
+- path: pw_weapon_catalog_sandman_rev1.yaml
+  contains: [ammunition, malfunction_profiles, weapons, occurrences, named_build_bindings]
+- path: pw_weapon_catalog_trooper_rev1.yaml
+  contains: [weapons, occurrences, named_build_bindings]
+open_flags:
+- id: PW-WCAT-OPEN-ROSTER-COMPLETENESS
+  description: Campaigns with incomplete or not-yet-developed weapon passes may add platforms and occurrences through additive deltas.
+- id: PW-WCAT-OPEN-REWARD-TABLE
+  description: Troy Barry optional-objective/achievement unlock table and exact Dragon’s Breath timing remain open.
+- id: PW-WCAT-OPEN-ENEMY-DROP-MATRIX
+  description: Enemy-type carry/drop probabilities and encounter-game mappings are reserved for the next ontology pass.
+- id: PW-WCAT-OPEN-NAMED-PLATFORMS
+  description: Nine named weapon identities retain platform-recovery-required bindings.
+- id: PW-WCAT-OPEN-CALIBER-LANES
+  description: Several roster-level or prototype platforms retain explicit caliber implementation flags.
+- id: PW-WCAT-OPEN-SANDMAN-MALFUNCTION-INTERACTIONS
+  description: SANDMAN's event priority, simultaneous reload-failure sequencing, sustained-fire reset threshold, post-insertion slide-slingshot recovery, and condition/difficulty modifiers remain open around the locked base rates.
+- id: PW-WCAT-OPEN-TROOPER-PRODUCTION-TUNING
+  description: TROOPER's exact LPVO, mount, suppressor, muzzle interface, light controls, barrel length, furniture, finish and numerical handling tuning remain open around the locked build identity.
