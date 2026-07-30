@@ -1,0 +1,671 @@
+PROJECT WARRIORS — PERSISTENT THREAT / AEGIS FALLS
+TWO-ARM FINALE MISSION SOURCE
+Generated: 2026-07-30
+Version: rev1
+Status: LOCKED NARRATIVE ARCHITECTURE / PLOT-LEVEL CAUSALITY CLOSED / PRODUCTION DETAILS OPEN
+Recovered and consolidated from: Project_Warriors_Persistent_Threat_Cohesion_Endgame_Thread_Archive_2026-07-30.txt
+
+================================================================================
+PURPOSE
+================================================================================
+
+This source closes the remaining plot-level cohesion gap inside AEGIS FALLS, the final
+mission of Ducky's Game 2 campaign PERSISTENT THREAT.
+
+AEGIS FALLS is one synchronized compound operation with two parallel arms:
+
+1. an unauthorized AEGIS operation at Lieutenant General Callum Tremblay's
+   GenCorp-connected estate near Aix-en-Provence; and
+2. a maritime interception in Danish territorial waters against a Russian-backed
+   shadow-fleet attack on a strategically important undersea cable terminal.
+
+The two arms are not consecutive and are not separate ladder missions. They share one
+intelligence picture, one evidentiary purpose, one intervention trigger, one command
+bridge, and one narrative resolution.
+
+This source supersedes earlier synopsis and audit language that treated the causal bridge
+between the undersea-threat phase and the Aix confrontation as unresolved.
+
+================================================================================
+MISSION PLACEMENT AND CONTINUITY
+================================================================================
+
+Campaign:
+Ducky Game 2 — PERSISTENT THREAT.
+
+Mission:
+AEGIS FALLS — Mission 13 and campaign finale.
+
+Immediate lead-in:
+HULL BREACH -> 0200 Ducky / Halliday / Walker investigative decision -> 0347 Crodyn
+address -> 0600 DAOG command call -> AEGIS FALLS.
+
+Do not split the maritime and Aix arms into separate missions.
+
+The protected ending exchange remains:
+
+Tremblay: “AEGIS falls regardless.”
+Ducky: “Then we build something better.”
+
+Tremblay's recovered end state remains controlling: he conditionally surrenders and
+agrees to Walker's off-book accounting process, with the condition that Crodyn not be
+protected.
+
+================================================================================
+PRE-OPERATION EVIDENTIARY POSITION
+================================================================================
+
+Before AEGIS FALLS, Ducky, Halliday / ORACLE, Walker, and TRU/SIGHT already possess:
+
+- the internal AEGIS parameters recovered in DEAD FREQUENCY;
+- the approximately eighteen-month access-anomaly window;
+- the seven-person senior architecture-access review;
+- the Nexus Meridian / Montoya Farm financial and licensing architecture identified in
+  HARD WINTER;
+- the credential lineage recovered through the campaign's relay and node operations;
+- the ZEUS-level identifier and biometric match tying Tremblay's personal credential to
+  the hostile architecture, recovered aboard the Akademik Volkov in HULL BREACH;
+- the post-HULL BREACH decision to approach Walker outside compromised DAOG channels;
+- Walker's authorization to secure Tremblay's confession or defection;
+- the Crodyn-address anomaly, including Tremblay's advance receipt of the address and
+  “Exercise discretion” response.
+
+This evidence proves that Tremblay's credential and authority are implicated in the
+compromise. It does not yet provide the final present-tense proof that Tremblay knowingly
+uses that authority to facilitate a specific foreign attack against European and NATO
+communications infrastructure.
+
+AEGIS FALLS is designed to obtain that final proof while preventing the attack.
+
+================================================================================
+THE TWO OPERATIONAL ARMS
+================================================================================
+
+ARM ONE — AIX-EN-PROVENCE / UNAUTHORIZED AEGIS OPERATION
+
+Ducky and the full AEGIS squad deploy covertly to Tremblay's private estate near
+Aix-en-Provence. The property is held through a GenCorp-connected company.
+
+AEGIS remains outside the normal DAOG tasking and communications structure so Tremblay
+cannot detect the deployment through his institutional access.
+
+The squad's functions are to:
+
+- secure the estate perimeter;
+- control staff and estate security without unnecessary casualties;
+- close escape routes;
+- prevent evidence destruction or outside warning;
+- secure communications and access points;
+- preserve an extraction route;
+- hold the estate while Ducky conducts the final confrontation.
+
+Ducky enters Tremblay's study alone. The final scene is a personal, evidentiary, and
+ideological confrontation rather than a squad interrogation.
+
+ARM TWO — DANISH TERRITORIAL WATERS / MARITIME INTERCEPTION
+
+Nereid Black, SHIELD, and the Royal Danish Navy act against a two-vessel shadow-fleet
+package staging an attack on a strategically important undersea cable terminal off the
+coast of Denmark.
+
+Nereid Black and SHIELD focus on the covert deployment vessel.
+
+The Royal Danish Navy intercepts the support vessel shortly after the intervention
+begins.
+
+================================================================================
+COMMAND, INTELLIGENCE, AND SYSTEM BRIDGES
+================================================================================
+
+ORACLE
+
+Tara Halliday / ORACLE functions as the compartmented command and operational bridge
+between the maritime and Aix arms, in coordination with Walker.
+
+ORACLE:
+
+- maintains synchronization between the two operations;
+- preserves the off-book command structure;
+- carries the execution signal;
+- keeps AEGIS informed without exposing its estate position through normal DAOG traffic;
+- integrates tactical updates from Nereid Black, SHIELD, the Danish naval element, and
+  TRU/SIGHT.
+
+TRU/SIGHT
+
+TRU/SIGHT functions as the real-time intelligence, correlation, and evidentiary bridge.
+
+TRU/SIGHT already assesses the vessels as likely Russian-backed shadow-fleet assets based
+on prior human intelligence analysis. It uses AEGIS system data to continue tracking the
+vessels even after both ships disable their transponders.
+
+TRU/SIGHT:
+
+- preserves the raw non-cooperative vessel tracks;
+- monitors pre-attack behavioral indicators;
+- records the autonomous AEGIS warning event;
+- detects and records Tremblay's senior-command override;
+- continues covert observation after normal warning propagation is suppressed;
+- intercepts and analyzes attacker communications;
+- synchronizes system events, vessel activity, and physical exploitation into one proof
+  package.
+
+AEGIS — THE SYSTEM
+
+AEGIS the system is distinct from AEGIS the squad.
+
+Its autonomous threat watcher fuses available sensor and intelligence data. The vessels
+remain physically observable after they disable their transponders. AEGIS maintains a
+non-cooperative track through its wider sensor picture.
+
+As the ships approach and stage near the cable terminal, the system detects a combined
+pattern that includes:
+
+- transponders disabled;
+- suspicious movement and spacing;
+- loitering or speed changes inconsistent with declared commercial activity;
+- proximity to strategic cable infrastructure;
+- behavior matching known pre-attack indicators associated with Wirecutter-family
+  undersea sabotage methods;
+- correlation with TRU/SIGHT's prior shadow-fleet assessment.
+
+Under normal operation, the autonomous watcher would escalate the event, propagate a
+probable-threat warning, retask observation, and trigger or recommend operational
+response through monitored DAOG and NATO channels.
+
+================================================================================
+TREMBLAY'S LIVE OVERRIDE
+================================================================================
+
+Tremblay does not make the vessels invisible and does not erase their raw sensor tracks.
+
+He uses his ZEUS-level senior-command credential to suppress warning propagation about
+the matching pre-attack behavioral indicator pattern.
+
+The override causes the normal AEGIS reporting chain to treat the vessels as legitimate
+traffic posing no actionable threat. In effect, the autonomous watcher sends an “OK”
+disposition up the monitored command channels despite the underlying threat match.
+
+Tremblay therefore knowingly waves through a clearly identified threat.
+
+He is an accessory facilitating the attack, not its mastermind and not the commander of
+the sabotage team.
+
+The culpable act is:
+
+- AEGIS detects and classifies a credible threat;
+- Tremblay sees or receives the resulting escalation;
+- he personally authenticates a suppression / normalization override;
+- allied warning and response channels are told that the vessels are legitimate traffic;
+- the foreign operation is allowed to continue toward deployment.
+
+================================================================================
+TRU/SIGHT CONTINGENCY ACCESS
+================================================================================
+
+TRU/SIGHT possesses limited emergency-contingency overrides designed to let human
+analysts preserve covert intelligence collection when senior command channels may be
+compromised.
+
+These authorities are materially less powerful than Tremblay's ZEUS-level override.
+They cannot reverse his global command disposition or openly restore the suppressed
+warning across the full chain.
+
+They can:
+
+- preserve access to the underlying sensor and event data;
+- maintain a compartmented analytical track;
+- prevent the covert observation from propagating into channels Tremblay monitors;
+- preserve audit evidence of the original heuristic event and the senior override;
+- continue feeding ORACLE and the off-book operational elements.
+
+Tremblay believes he has normalized the event successfully. TRU/SIGHT continues watching
+without alerting him.
+
+================================================================================
+RUSSIAN COERCION AND THE SECURE CALLS
+================================================================================
+
+Tremblay is reluctant to facilitate another attack. He recognizes that another override
+risks exposing him and will cause direct harm to European and NATO communications
+infrastructure and reputation.
+
+The FSB, SVR, or an associated cutout has preserved evidence of prior off-the-record
+Tremblay overrides. Russian intelligence obtained copies through the AEGIS compromise,
+including records Tremblay later attempted to delete from AEGIS.
+
+Before the attack, an FSB / SVR handler or associated cutout contacts Tremblay through a
+secure compartmented channel and orders him to wave the vessels through.
+
+The handler threatens to disclose the accumulated evidence to Tremblay's superiors,
+allied governments, and NATO command. Exposure would end Tremblay's career, create severe
+legal and political consequences, reveal the AEGIS compromise, and damage European
+confidence in NATO and DAOG.
+
+Tremblay reluctantly agrees and executes the override.
+
+His coercion explains his decision but does not absolve it. The Russians can blackmail him
+because his earlier concealment and unauthorized interventions created the leverage.
+He repeatedly chooses concealment, institutional self-preservation, and personal survival
+over disclosure and protection of the infrastructure AEGIS exists to defend.
+
+After the override, Tremblay waits in his study for a second secure call confirming that:
+
+- the attack succeeded;
+- the vessels were not intercepted;
+- the device was deployed;
+- the warning remained suppressed;
+- he should remove or sanitize any surviving record.
+
+Instead, Ducky enters the study.
+
+================================================================================
+HISTORICAL OVERRIDE EVIDENCE
+================================================================================
+
+The final proof package includes a pattern of analogous prior overrides.
+
+CLASS ONE — RESIDUAL AEGIS AUDIT EVIDENCE
+
+TRU/SIGHT recovers incomplete traces of prior Tremblay-approved suppressions that he did
+not fully erase, either through insufficient caution or because complete deletion across
+distributed event and activity logs was impractical.
+
+Recoverable traces may include:
+
+- override identifiers;
+- authentication timestamps;
+- altered threat classifications;
+- interrupted propagation events;
+- discrepancies between raw sensor records and command-level dispositions;
+- approval-routing fragments;
+- unusual post-event log maintenance;
+- repeated use of the same credential lineage.
+
+CLASS TWO — RUSSIAN BACKUP COPIES
+
+For prior events Tremblay successfully scrubbed from AEGIS's accessible audit history,
+the FSB and SVR retained copies acquired before deletion through the compromised
+architecture.
+
+The available material may include non-classified or partially sanitized sections of:
+
+- off-the-record approval events;
+- override confirmations;
+- acknowledgement records;
+- internal status messages;
+- timestamps and credential metadata;
+- normalization or downgrade instructions.
+
+The preferred provenance is that relevant Russian-held copies or their index were
+recovered from the Akademik Volkov during HULL BREACH.
+
+The two evidence classes authenticate one another:
+
+- Russian copies fill deliberate gaps inside AEGIS;
+- surviving AEGIS remnants confirm that the Russian records correspond to real events;
+- the live Danish override proves that the same mechanism and authority remain under
+  Tremblay's control.
+
+================================================================================
+INTERVENTION RED LINE
+================================================================================
+
+Walker, ORACLE, TRU/SIGHT, Nereid Black, and SHIELD do not permit the cable terminal to be
+placed at avoidable risk merely to strengthen the case against Tremblay.
+
+The maritime force is in an assured interception position before the evidentiary window
+opens.
+
+The intervention red line is:
+
+THE HOSTILE STAGING IS COMPLETE AND THE DEVICE BEGINS PREPARATION FOR DEPLOYMENT.
+
+At that point:
+
+- hostile intent is operationally unambiguous;
+- Tremblay's live override has been captured;
+- attacker communications and behavior have been observed long enough to corroborate the
+  system event;
+- the device has not yet been placed where intervention threatens the cable terminal;
+- ORACLE triggers both operational arms.
+
+The operation waits for the authentication and deployment-preparation events, not for an
+actual detonation attempt.
+
+================================================================================
+THE MARITIME TARGET PACKAGE
+================================================================================
+
+VESSEL ONE — COVERT DEPLOYMENT VESSEL
+
+The primary vessel is modified or equipped to covertly deploy the underwater sabotage
+device.
+
+It carries:
+
+- the Russian covert sabotage team;
+- underwater handling and deployment equipment;
+- the device intended to damage or destroy the cable terminal;
+- mission communications and control equipment;
+- targeting, navigation, timing, and deployment records.
+
+Nereid Black leads the physical assault, clears the ship, and eliminates the sabotage
+team after it resists.
+
+SHIELD operates with or immediately behind Nereid Black to:
+
+- secure and render safe the device;
+- seize communications, navigation, and control systems;
+- preserve targeting and timing data;
+- collect digital and physical evidence;
+- verify that the ship is clear of enemy presence;
+- maintain authenticated helmet-camera and exploitation records.
+
+VESSEL TWO — SUPPORT VESSEL
+
+The second vessel is not designed to deploy underwater equipment.
+
+It provides:
+
+- fuel and supplies;
+- logistical cover;
+- additional physical security manpower;
+- transport for concealed weapons, ammunition, protective equipment, and ordnance;
+- an apparently ordinary merchant-shipping relationship with the deployment vessel.
+
+Its contractor security personnel are covertly registered as civilian merchant sailors.
+Their weapons and equipment were loaded at the last port inside deliberately mislabeled
+supply containers and remain concealed until the attack window.
+
+The Royal Danish Navy intercepts the support vessel shortly after execution begins.
+Most of the armed contractor personnel surrender when Danish forces establish decisive
+control and the weapons caches are compromised. A smaller Russian-commanded or
+Russian-aligned inner element may attempt resistance, evidence destruction, or access to
+the concealed armaments.
+
+================================================================================
+SUPPORT-VESSEL CONTRACTOR SELECTION AND PORTRAYAL RULE
+================================================================================
+
+The contractor contingent includes personnel recruited from the Russian Far East,
+Southeast Asian countries, India, Pakistan, and potentially other regions.
+
+Their nationality is not evidence of criminality, ideological alignment, or innate
+violence. Individual backgrounds vary. Some may have criminal histories; others may be
+former military, police, maritime-security personnel, veterans, or economically motivated
+contractors with no criminal history. Some may understand only part of the operation.
+
+Russian planners select this manpower because the contractors are:
+
+- affordable through layered contracting arrangements;
+- sufficiently competent fighters;
+- unfamiliar to European security services and local communities;
+- socially and linguistically isolated from the ports through which the ship moves;
+- unlikely to form local relationships or casually disclose operational information;
+- easy to contain aboard the vessel through onboard food, accommodation, controlled
+  shore access, and paid services brought to the ship;
+- capable of being falsely documented as civilian merchant sailors.
+
+The operation deliberately exploits racialized and reductive assumptions among casual
+European observers. Russian planners expect unfamiliar non-European personnel to be
+misread as an undifferentiated “eastern” merchant crew employed by an Asian consumer-goods
+carrier rather than recognized as concealed armed security.
+
+The narrative presents this as adversary exploitation of prejudice and inattention, not
+as confirmation of the stereotype.
+
+Keep three groups legible aboard the support vessel:
+
+1. legitimate, deceived, or coerced maritime crew operating the ship;
+2. falsely registered contractor security personnel;
+3. a small Russian or Russian-aligned coordination element controlling communications,
+   weapons access, and operational timing.
+
+================================================================================
+THE EVIDENCE PACKAGE
+================================================================================
+
+TRU/SIGHT, ORACLE, SHIELD, Nereid Black, Walker, and the Danish authorities assemble a
+mutually corroborating proof package containing:
+
+- TRU/SIGHT's prior assessment identifying the ships as likely shadow-fleet assets;
+- raw AEGIS non-cooperative vessel tracks after transponder shutdown;
+- the matching pre-attack heuristic pattern;
+- the autonomous watcher's original threat event;
+- Tremblay's authenticated ZEUS-level suppression override;
+- his credential identifier and biometric authentication;
+- the false legitimate-traffic / no-threat disposition propagated up normal channels;
+- TRU/SIGHT's compartmented continuation of the track;
+- intercepted attacker communications;
+- observed completion of staging and device-preparation activity;
+- SHIELD's seizure and exploitation of the device and control systems;
+- cable-terminal coordinates and targeting data;
+- authenticated Nereid Black and SHIELD helmet-camera records;
+- contractor manifests and false merchant-sailor registrations;
+- concealed weapons and mislabeled supply containers;
+- Royal Danish Navy boarding and detention records;
+- residual evidence of analogous prior AEGIS overrides;
+- Russian backup copies of prior approval events recovered through HULL BREACH
+  exploitation;
+- common timestamps connecting the override to the hostile operational window.
+
+The proof establishes:
+
+- pattern;
+- capability;
+- credential identity;
+- present personal action;
+- hostile intent;
+- physical consequence;
+- Tremblay's knowing facilitation of a foreign attack.
+
+The Danish event cannot credibly be dismissed as an administrative classification error,
+a false positive, stolen credentials, or fabricated Russian records.
+
+================================================================================
+SIMULTANEOUS EXECUTION
+================================================================================
+
+When the staging is complete and the device begins preparation for deployment, ORACLE
+gives the execution signal.
+
+In Danish waters:
+
+- Nereid Black and SHIELD assault the deployment vessel;
+- the sabotage team resists and is eliminated or captured;
+- the device is secured before deployment or detonation;
+- SHIELD begins immediate exploitation;
+- the Royal Danish Navy intercepts the support vessel;
+- most of the contractor security contingent surrenders and is detained.
+
+At Aix-en-Provence:
+
+- AEGIS secures the estate;
+- Tremblay receives no warning from the maritime team or Russian operation;
+- Ducky enters the study alone while Tremblay waits for the expected completion call;
+- the confrontation begins while the maritime proof package is still being assembled in
+  real time.
+
+================================================================================
+THE LIVE-FEED REVEAL
+================================================================================
+
+During the study conversation, Ducky reaches the point at which he tells Tremblay that
+the attack has been stopped.
+
+Ducky removes a hardened secure phone / mission device from the chest pocket of his
+uniform shirt and opens a live ORACLE-routed video feed from Nereid Black and SHIELD
+helmet cameras aboard the deployment vessel.
+
+The feed shows the post-assault sweep and exploitation:
+
+- movement through narrow shipboard passages;
+- the aftermath of the fight with the sabotage team;
+- Nereid Black clearing remaining compartments;
+- SHIELD securing technical spaces and deployment equipment;
+- the recovered sabotage device under allied control;
+- restrained survivors, if applicable;
+- clipped confirmation that the vessel and device are secure;
+- an operational update that the Royal Danish Navy controls the support ship.
+
+Ducky uses the feed without theatricality. It is a controlled form of psychological
+pressure.
+
+The feed proves to Tremblay that:
+
+- his override was detected;
+- the dark vessels were tracked;
+- the deployment was anticipated;
+- the sabotage team has been defeated;
+- the physical evidence is being seized;
+- the support vessel has been intercepted;
+- the expected Russian confirmation call will not bring the outcome he anticipated;
+- neither the evidence nor his own position can now be sanitized.
+
+The phone feed is not the sole legal or intelligence proof. It is the immediate window
+through which Ducky makes Tremblay understand that the independently authenticated proof
+already exists and is still accumulating.
+
+Recommended dramatic rhythm:
+
+1. Tremblay rationalizes or minimizes the override.
+2. Ducky states that the attack was stopped.
+3. Tremblay doubts him or assumes a bluff.
+4. Ducky opens the live feed without flourish.
+5. The vessel sweep and secured device become unmistakable.
+6. The Danish support-vessel capture is confirmed.
+7. Ducky closes or pockets the device.
+8. The conversation continues after a short silence, with Tremblay's operational and
+   evidentiary escape routes visibly gone.
+
+================================================================================
+TREMBLAY'S CHARACTER FUNCTION AND SURRENDER
+================================================================================
+
+Tremblay is not a conventional Russian controller and does not mastermind the cable
+attack.
+
+He is a compromised senior authority whose earlier concealment, unauthorized management
+of the backdoor, and prior suppressions created Russian leverage. By AEGIS FALLS, foreign
+intelligence can coerce him with records of conduct that may amount to treason.
+
+His reluctance and blackmail explain the path to the live override but do not exonerate
+him. He knowingly protects a foreign attack by falsifying the allied threat disposition.
+
+Ducky confronts him with three levels of proof:
+
+1. past conduct — residual AEGIS audit traces and Russian-held copies;
+2. present conduct — the live ZEUS-authorized warning suppression;
+3. confirmed consequence — the captured device, ships, communications, personnel, and
+   Danish intervention record.
+
+Tremblay can no longer credibly argue that:
+
+- his credential was merely stolen;
+- the prior records were fabricated;
+- the ships were harmless commercial traffic;
+- the warning was an unreliable false positive;
+- the live event was a legitimate administrative judgment;
+- he can protect AEGIS by quietly removing the evidence.
+
+His final argument is that exposing the truth will destroy AEGIS and damage European
+collective defense.
+
+Ducky's answer distinguishes the mission and people of AEGIS from the compromised
+institutional shell.
+
+Tremblay conditionally surrenders and agrees to Walker's process. His condition remains
+that Crodyn not be protected.
+
+================================================================================
+COHESION RESULT
+================================================================================
+
+The former compound-finale gap is closed.
+
+The controlling causal spine is:
+
+Historical compromises create Russian leverage
+-> TRU/SIGHT identifies suspected shadow-fleet vessels
+-> both ships disable transponders but remain under AEGIS non-cooperative track
+-> AEGIS detects matching pre-attack behavior and begins warning propagation
+-> the handler coerces Tremblay
+-> Tremblay uses his ZEUS credential to normalize the ships as legitimate traffic
+-> TRU/SIGHT detects and preserves the override while covert tracking continues
+-> the attackers complete staging and begin device preparation
+-> ORACLE launches both arms
+-> Nereid Black and SHIELD stop the deployment while the Royal Danish Navy captures the
+   support vessel
+-> AEGIS secures Tremblay's estate
+-> Ducky shows Tremblay the live shipboard feed and corroborating proof
+-> Tremblay conditionally surrenders to Walker's process.
+
+The maritime and Aix operations are mutually necessary:
+
+- the maritime arm proves what Tremblay knowingly allowed and prevents the attack;
+- the Aix arm prevents flight, evidence destruction, command interference, or warning;
+- TRU/SIGHT and ORACLE synchronize the event into one operational and evidentiary action.
+
+================================================================================
+PRODUCTION DETAILS REMAINING OPEN
+================================================================================
+
+The following do not reopen the plot-level finale architecture by default:
+
+- final identity and exact geography of the fictional or fictionalized Danish cable
+  terminal;
+- final vessel names, flags, ownership layers, classes, and visual profiles;
+- exact sabotage-device design, deployment method, and render-safe technical detail;
+- boarding, diving, remote-vehicle, or mixed gameplay structure;
+- exact Danish unit naming and compartmentation;
+- exact ORACLE execution phrase;
+- detailed estate ingress, security, and squad assignments;
+- exact handler identity, nationality presentation, and call dialogue;
+- exact secure-device model and user interface;
+- exact intercut pacing between Denmark and Aix;
+- named SHIELD, Nereid Black, Danish, contractor, maritime-crew, and Russian coordinator
+  participants;
+- final casualty, detention, and evidence-disposition accounting;
+- exact distinction in gameplay grammar from WIRECUTTER;
+- line-by-line Tremblay / Ducky screenplay polish.
+
+================================================================================
+SUPERSESSION AND PROTECTION RULES
+================================================================================
+
+This source supersedes:
+
+- earlier language placing the undersea-threat target generically against France;
+- any version in which AEGIS squad participates in the maritime interception before
+  traveling to Aix;
+- any sequential “stop device, then travel to estate” finale structure;
+- any claim that the causal bridge between the undersea phase and Aix remains open;
+- any claim that Tremblay's narrative consequence remains open;
+- any version in which Tremblay makes the vessels invisible or erases raw sensor tracks;
+- any version in which Tremblay masterminds or directly commands the sabotage operation;
+- any version that treats support-vessel contractor nationality as proof of criminality;
+- any intervention plan that knowingly allows the device to be deployed or the cable
+  terminal to be placed at unnecessary risk.
+
+Protect:
+
+- AEGIS FALLS as one final ladder mission;
+- the two simultaneous operational arms;
+- Denmark as the maritime-threat theater and Aix-en-Provence as the Tremblay theater;
+- AEGIS squad at Aix, with Ducky entering the study alone;
+- Nereid Black and SHIELD against the deployment vessel;
+- the Royal Danish Navy against the support vessel;
+- ORACLE as the command bridge;
+- TRU/SIGHT as the real-time intelligence and evidentiary bridge;
+- AEGIS system non-cooperative tracking after transponder shutdown;
+- Tremblay's warning-propagation suppression / legitimate-traffic override;
+- TRU/SIGHT's limited contingency access;
+- the staging-complete / device-preparation intervention red line;
+- the pattern of historical overrides and Russian backup evidence;
+- Russian coercion through an FSB / SVR handler or cutout;
+- the expected completion call;
+- Ducky's secure live helmet-camera feed reveal;
+- Tremblay as culpable accessory rather than mastermind;
+- the protected final line pair;
+- Tremblay's conditional surrender and agreement to Walker's process.
