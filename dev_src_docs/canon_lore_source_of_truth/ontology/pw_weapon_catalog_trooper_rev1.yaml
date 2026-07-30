@@ -1,0 +1,77 @@
+meta:
+  document_id: PW-ONT-WEAPON-CATALOG-TROOPER-REV1
+  generated: '2026-07-30'
+  revision: rev1
+  document_mode: additive_entity_part
+  manifest: pw_weapon_catalog_rev3.yaml
+  sources:
+    - dev_src_docs/weapons_and_equipment/PW_TROOPER_Build_Spec_2026-07-30_rev1.txt
+    - dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_11.txt
+    - dev_src_docs/story_campaigns/DLC/WhoDaresWins/Playable_Characters/Mace/PW_Mace_TROOPER_Primary_Weapon_2026-07-30_rev1.txt
+
+weapons:
+  - id: PW-WEP-DSA-SA58-OSW
+    canonical_name: DSA SA58 OSW
+    category: automatic_rifle
+    action: gas_operated_select_fire
+    weapon_scope: portable_weapon
+    status: confirmed
+    ammunition_refs: [PW-AMM-762-NATO]
+    sources: [TROOPER, REG11, MACELOCK]
+    named_build_refs: [PW-WPN-MACE-TROOPER]
+    occurrence_refs: [PW-WOC-WHO-DARES-WINS-SA58-OSW]
+    notes: >-
+      Mace's project-specific TROOPER build is a compact select-fire 7.62x51mm NATO
+      DSA SA58 OSW in the light automatic rifle lane. It carries a 1-4x LPVO and a
+      tactical white light fixed at 3 o'clock on the forward section of the front
+      handguard side rail. A removable suppressed configuration is available when
+      mission signature requirements justify it. Exact optic, mount, suppressor,
+      muzzle interface, light model, control routing, barrel length, furniture,
+      sling, finish and lower-level tuning remain open.
+
+occurrences:
+  - id: PW-WOC-WHO-DARES-WINS-SA58-OSW
+    weapon_ref: PW-WEP-DSA-SA58-OSW
+    installment_refs: [PW-INS-WHO-DARES-WINS]
+    campaign_refs: [PW-CMP-WHO-DARES-WINS]
+    mission_labels: []
+    presence_modes: [player_weapon]
+    player_access: persistent
+    acquisition_modes: [personal_loadout]
+    retention: persistent
+    drop_policy: not_applicable
+    status: confirmed
+    sources: [TROOPER, REG11, MACELOCK]
+    faction_labels: [SAS, United Kingdom Special Forces]
+    carrier_labels: [Mace]
+    ammunition_availability_overrides: [PW-AMM-762-NATO]
+    presence_tags:
+      - player_named_build
+      - player_signature_primary
+      - select_fire
+      - compact_full_power_rifle
+      - light_automatic_rifle
+      - 1_4x_lpvo
+      - forward_handguard_white_light
+      - light_mount_3_oclock
+      - optional_suppressed_configuration
+      - mission_conditioned_suppressor
+      - strong_recoil_identity
+      - controlled_short_burst_role
+    notes: >-
+      TROOPER is Mace's persistent main weapon across Who Dares Wins rather than a
+      generic pickup. The suppressor is removable and mission-conditioned. Suppressed
+      use lowers signature but adds forward mass and does not remove the full-power
+      recoil or mechanical report of the compact 7.62x51mm platform.
+
+named_build_bindings:
+  - named_build_ref: PW-WPN-MACE-TROOPER
+    weapon_ref: PW-WEP-DSA-SA58-OSW
+    binding_status: resolved
+    sources: [TROOPER, REG11, MACELOCK]
+
+validation_targets:
+  duplicate_weapon_ids: 0
+  duplicate_occurrence_ids: 0
+  duplicate_named_build_refs: 0
+  dangling_references: 0
