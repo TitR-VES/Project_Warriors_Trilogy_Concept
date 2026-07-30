@@ -1,0 +1,96 @@
+================================================================================
+PROJECT WARRIORS — WORKING COMPENDIUM 04 ADDENDUM
+NAMED WEAPON GLOBAL REGISTRY LANDING
+Generated: 2026-07-30
+Version: rev5
+================================================================================
+Status: compendium bridge; durable source pages remain authoritative
+Supersedes: PW_Working_Compendium_04_Named_Weapons_Addendum_2026-07-28_rev4.txt
+
+PURPOSE
+Carry the v2.11 global named-weapon authority chain into the working knowledge
+layer and add Mace's Who Dares Wins signature primary, TROOPER.
+
+CONTROLLING SOURCES
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_11.txt
+- dev_src_docs/weapons_and_equipment/PW_TROOPER_Build_Spec_2026-07-30_rev1.txt
+- dev_src_docs/story_campaigns/DLC/WhoDaresWins/Playable_Characters/Mace/
+  PW_Mace_TROOPER_Primary_Weapon_2026-07-30_rev1.txt
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_rev3.yaml
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_weapon_catalog_trooper_rev1.yaml
+
+AUTHORITY CHAIN
+v2.11 supersedes v2.10 for conflicts and inherits all unchanged v2.10, v2.9 and
+v2.8 entries. The rev4 addendum remains a useful focused SANDMAN landing record,
+but rev5 is the current named-weapon working-knowledge bridge.
+
+--------------------------------------------------------------------------------
+NEW LOCK — MACE / TROOPER
+--------------------------------------------------------------------------------
+
+Stable ID: PW-WPN-MACE-TROOPER
+Build: TROOPER
+Owner: Mace
+Campaign: Project Warriors: Who Dares Wins
+Platform: DSA SA58 OSW
+Caliber: 7.62x51mm NATO
+Role: signature primary / main campaign weapon
+Optic: 1-4x LPVO
+Weapon light: tactical white light at 3 o'clock on the forward front-handguard side rail
+Suppressor: removable, mission-conditioned suppressed configuration
+Status: locked core; lower-level production details remain open
+
+Mace is now locked as the primary playable protagonist of Who Dares Wins. Earlier
+sources calling him only a recommended or front-runner POV are superseded on that
+point.
+
+TROOPER is conflict-free in the prior authoritative named-weapon chain and becomes
+the thirty-eighth named firearm identity in the registry.
+
+--------------------------------------------------------------------------------
+HANDLING / PRESENTATION SUMMARY
+--------------------------------------------------------------------------------
+
+TROOPER is a compact full-power rifle, not a 5.56mm carbine with a different skin.
+Its identity requires:
+- stronger recoil and muzzle disturbance
+- effective semi-automatic precision from close to medium range
+- credible short controlled automatic bursts at close range
+- rapidly degrading control under undisciplined sustained automatic fire
+- a real low-power / magnified trade-off through the 1-4x LPVO
+- a fixed forward 3 o'clock white-light position
+- a suppressor option that reduces signature while adding forward mass and slowing presentation
+- no Hollywood-quiet treatment and no no-cost suppressed upgrade
+
+Exact optic, mount, suppressor, muzzle interface, light model and controls, barrel
+length, sling, furniture, finish, magazines, ammunition subtypes and numerical
+tuning remain open.
+
+--------------------------------------------------------------------------------
+CURRENT REGISTRY SCOPE
+--------------------------------------------------------------------------------
+
+The v2.11 authority chain records 38 named firearm identities:
+- 27 substantially specified or source-associated identities
+- 11 recovery-status identities with incomplete source details
+- 2 additional owner-specific recovery slots whose names remain unrecovered and
+  are not included in the named-identity total
+
+Weapon catalog rev3 records:
+- 113 weapon identities
+- 36 ammunition identities
+- 130 occurrence records
+- 45 named-build bindings
+- 36 resolved named-build bindings
+- 9 deferred named-build bindings
+
+--------------------------------------------------------------------------------
+RETAINED KEY CORRECTIONS
+--------------------------------------------------------------------------------
+
+All rev4 SANDMAN locks and retained registry corrections remain in force unless a
+later dedicated source supersedes them. TROOPER does not replace any prior build.
+
+================================================================================
+END — WORKING COMPENDIUM 04 NAMED WEAPONS ADDENDUM rev5
+================================================================================
