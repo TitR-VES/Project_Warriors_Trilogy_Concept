@@ -1,0 +1,71 @@
+PROJECT WARRIORS — GAME 2 AMERICAN FREEDOM SYNOPSIS ADDENDUM
+Generated: 2026-07-31
+Version: rev1
+Status: DERIVATIVE SYNOPSIS REFRESH / APPLY OVER GAME 2 REV7 AMERICAN FREEDOM GAP FLAGS
+Applies to: PW_Game2_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt
+
+PURPOSE
+Replace the superseded American Freedom middle-ladder and finale development-gap statements in the Game 2 wiki-style synthesis with the newly locked campaign spine and Cumberland Gap finale. This is a derivative narrative reference; the dedicated Romeo campaign and TRI-STATE POINT sources remain controlling.
+
+REPLACEMENT STATUS SUMMARY
+AMERICAN FREEDOM now has a controlling end-to-end mission ladder. The opening Calloway block, network-formation arc, Fire Team Delta/conventional-force contact, Glushkin counter-network plot, AMBITIOUS compound operation, and Battle of Cumberland Gap finale are arranged into one causal campaign spine.
+
+The exact post-Coronado prologue route, exact dates, optional FACE TO FACE placement, some middle-mission production details, the eastern-portal route, and Glushkin’s final consequence implementation remain open. These are production/development fields rather than missing campaign architecture.
+
+CURRENT LADDER
+Prologue — title open
+1. LOW GROUND
+2. DEAD AIR
+3. THE REDBUD VEHICLES
+4. FARM ROAD
+5. SECOND LEVEL
+6. THREE COUNTIES
+7. FREQUENCY
+8. OTHER TOWNS
+9. AMERICAN FREEDOM
+10. HARGROVE’S RECORD
+11. HIGH GROUND
+Interlude — Crodyn wartime presidential address
+12. FREE GROUND
+13. LONG VIEW
+14. GLUSHKIN’S MAP
+Optional / conditional — FACE TO FACE
+15. AMBITIOUS
+16. TRI-STATE POINT
+
+UPDATED PLOT SYNTHESIS
+After the Battle of Coronado, Romeo reaches occupied Calloway, Kentucky, and helps a loose civic survival network become a coordinated resistance. LOW GROUND through SECOND LEVEL preserve the existing opening: reconnaissance, communications disruption, detainee discovery, cache recovery, Cody Beaumont’s costly stand, and the refusal to turn his loss into uncomplicated martyrdom.
+
+The resistance then expands by relationship rather than annexation. THREE COUNTIES connects Calloway with surrounding communities. FREQUENCY creates the first coordinated communications operation and gives the American Freedom Corps its name. OTHER TOWNS brings Judge Hargrove, Priya Okonkwo’s independent veterans, Dills, and the insecure Middlesboro group into one coalition-building and security-testing movement. Romeo learns that cooperation requires honest risk accounting and that willingness to fight is not sufficient reason to trust or absorb every group.
+
+AMERICAN FREEDOM turns the emerging network into an explicit operational identity through a synchronized attack on the occupation’s county logistics architecture. HARGROVE’S RECORD moves evidence of occupation abuses toward outside media while forcing the network into a more distributed form. HIGH GROUND reunites Romeo with Fire Team Delta and establishes a practical relationship with surviving U.S. Army elements without allowing the conventional force to replace the local resistance.
+
+Crodyn’s wartime address publicly designates Romeo and the AFC as enemies of order. FREE GROUND answers through visible civic action: the local command structure is rebuilt, multiple garrison positions are struck, and Aldridge raises Patrice Odom’s preserved American flag over the Elks Lodge. The image is a local liberation climax, not the end of the campaign.
+
+LONG VIEW turns the problem from taking ground to sustaining it. Fire Team Delta and local fighters interdict supply corridors while the resistance learns that Glushkin is mapping people and relationships rather than merely attacks. GLUSHKIN’S MAP closes the seam created by the rejected Middlesboro group and turns parts of the occupation’s counter-network architecture against itself. FACE TO FACE may provide optional character depth and activation-flashback access, but it does not resolve Glushkin.
+
+AMBITIOUS is one compound operation containing the DARK, SIGNAL, and COST phases. Multiple cells, Priya’s unit, and Fire Team Delta disrupt Russian command-and-control architecture; Frank Kowalski is exposed inside Glushkin’s intelligence picture, captured, and recovered from an informal FSB processing site. The established ANGEL vehicle escape and SPECTRE FOUR ONE intervention remain the mission’s late climax. ANGEL does not occur in the finale.
+
+The final mission, TRI-STATE POINT, depicts the Battle of Cumberland Gap. The AFC and forward U.S. Army elements coordinate to liberate the mountain approaches, both Cumberland Gap Tunnel portal areas, the town of Cumberland Gap, Tennessee, and the adjacent logistics corridor near the Virginia–Tennessee–Kentucky tri-state region. The historic pass terrain supports infiltration and high-ground action; the modern tunnel and highway routes are the central heavy-logistics objectives.
+
+Romeo’s team covertly seizes the western-portal checkpoint and prevents Russian personnel from detonating pre-planted charges intended to collapse the tunnel entrance. Two uparmored Tigr-M patrol vehicles with open-topped Kord heavy-machine-gun stations counterattack. Romeo calls Hornet 2 and Sparrow 5, an AH-6M/MH-6M Little Bird pair. After a ninety-second response interval, the aircraft arrive at treetop level along the road. Hornet 2 performs a steep climbing reversal and fires a two-rocket ripple: the lead Tigr is destroyed directly, while the second evades the direct hit, loses stability after a near-blast and road-debris strike near its rear-left wheel, hits the right shoulder, and rolls into the ditch onto its right side. Sparrow 5 lands outside the western portal, extracts Romeo’s team on its external benches, and carries them to the pre-assault staging position while Hornet 2 provides overwatch and then moves to support the eastern-portal push.
+
+The entire intervention remains player-controlled first-person gameplay. Subtle, cancellable view tugs may suggest the arriving Tigrs and later rotor noise, but the player retains free movement, combat control, and observation. Allied maneuvers continue on their own timing whether or not the player watches every element.
+
+Combined AFC and Army forces then defeat organized Russian resistance in Cumberland Gap and preserve the tunnel corridor. Only after the town battle has been won does Romeo confront Glushkin in a quiet house at the edge of town. Glushkin’s burn notice has already severed him from Lipnin’s institution, but the scene does not redeem or absolve him. His personal defeat resolves Romeo’s antagonist relationship; it does not cause the liberation.
+
+The campaign ends with engineers, AFC route controllers, medical movement, and larger American formations beginning to pass through the preserved corridor. The opening enables a broader push toward southwestern Virginia and farther northeast. Romeo has made the AFC durable enough to outgrow Calloway, and the physical route into his NO KINGS story is now open.
+
+REMAINING DEVELOPMENT FLAGS
+- exact post-Coronado prologue title and route;
+- exact dates and Crodyn-address calendar binding;
+- FACE TO FACE unlock and placement;
+- exact named Army order of battle at Cumberland Gap;
+- eastern-portal and town-assault production route;
+- Glushkin’s exact final consequence implementation;
+- final mission dialogue, music, and campaign closing line.
+
+CONTROLLING SOURCES
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+- dev_src_docs/characters/PW_Glushkin_Cumberland_Gap_Final_Confrontation_Addendum_2026-07-31_rev1.txt
