@@ -1,0 +1,92 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+AMERICAN FREEDOM — CAMPAIGN LADDER AND CUMBERLAND GAP FINALE
+Generated: 2026-07-31
+Version: rev1
+Status: CURRENT CONTROLLING WORKING-KNOWLEDGE UPDATE
+
+PURPOSE
+Refresh the visible working-knowledge layer after the overlapping AMERICAN FREEDOM middle-development clusters were consolidated and the campaign finale was selected and developed as TRI-STATE POINT / the Battle of Cumberland Gap.
+
+CURRENT HARD-ORDER LADDER
+PROLOGUE — title open
+-> LOW GROUND
+-> DEAD AIR
+-> THE REDBUD VEHICLES
+-> FARM ROAD
+-> SECOND LEVEL
+-> THREE COUNTIES
+-> FREQUENCY
+-> OTHER TOWNS
+-> AMERICAN FREEDOM
+-> HARGROVE’S RECORD
+-> HIGH GROUND
+-> CRODYN WARTIME PRESIDENTIAL ADDRESS
+-> FREE GROUND
+-> LONG VIEW
+-> GLUSHKIN’S MAP
+-> FACE TO FACE — optional / conditional
+-> AMBITIOUS
+-> TRI-STATE POINT
+
+CONTROL NOTES
+- The first five Calloway missions remain unchanged and locked.
+- THREE COUNTIES absorbs the useful NEIGHBOR first-contact function.
+- OTHER TOWNS incorporates PRIYA’S GROUND.
+- HARGROVE’S RECORD incorporates the public-legitimacy and displacement consequences previously associated with WASHINGTON’S WALL.
+- HARD GROUND functions as the opening movement of FREE GROUND.
+- LONG VIEW incorporates SUPPLY AND DEMAND.
+- FACE TO FACE remains optional/conditional and is not Glushkin’s final confrontation.
+- AMBITIOUS remains one compound mission with DARK, SIGNAL, and COST phases.
+- ANGEL remains in the AMBITIOUS escape sequence.
+- TRI-STATE POINT is Mission 16 and the formal campaign finale.
+- Battle of Cumberland Gap is the canonical event name; “Tri-State Point Battle” may remain an informal in-world label.
+
+TRI-STATE POINT LOCK
+- AFC and forward U.S. Army elements jointly liberate the Cumberland Gap corridor near the Virginia–Tennessee–Kentucky tri-state region.
+- The historic pass/high ground is used for infantry, reconnaissance, observation, and approach control.
+- The modern tunnel/highway routes are the primary heavy-logistics objectives.
+- Romeo’s team covertly seizes the western-portal checkpoint and prevents Russian personnel from detonating pre-planted charges intended to collapse the portal.
+- Army engineers later render the charges safe.
+- Two uparmored Russian Tigr-M patrol vehicles with open-topped Kord heavy-machine-gun stations counterattack.
+- Hornet 2 is an AH-6M Little Bird providing rocket CAS and overwatch.
+- Sparrow 5 is an MH-6M Little Bird providing extraction and relocation.
+- The helicopters respond from two klicks down the road with a ninety-second ETA.
+- Rotor noise begins to enter the soundscape at approximately the sixty-second point.
+- The Little Birds arrive fast and low in staggered formation along the road, nearly below the surrounding treetops.
+- Hornet 2 performs a steep climbing wingover/reversal, not a literal sustained inverted maneuver, and attacks from approximately sixty-five feet over the checkpoint approach.
+- The first Tigr is destroyed by a direct rocket hit.
+- The second Tigr evades a direct hit; the rocket impacts immediately behind and left near its rear-left wheel. Blast pressure, road debris, aggressive steering, traction loss, front-heavy pitch, shoulder geometry, and slope combine to roll the vehicle into the ditch onto its right side.
+- The second wreck retains visible rear-left damage, a deformed open rear-left door, an unnaturally bent weapon mount, and two collapsed left-side turret armor plates.
+- Sparrow 5 lands on the road outside the western portal and carries Romeo’s team on external benches to the pre-assault staging position.
+- Hornet 2 provides drop-off overwatch and then supports the eastern-portal push.
+- The entire intervention remains player-controlled first person. Only subtle, cancellable camera tugs may suggest the incoming Tigrs and later the rotor noise.
+- Allied battlefield elements continue maneuvering on their own timing whether or not the player observes them.
+- Combined forces defeat organized Russian resistance in Cumberland Gap, preserve the town as a human-scale liberation space, and secure the corridor.
+- Romeo confronts Glushkin only afterward in a quiet house at the edge of town.
+- Glushkin’s confrontation resolves the personal antagonist arc but does not win the battle.
+- The campaign ends with larger American forces beginning to move through the opened corridor, setting up the northeastward NO KINGS path.
+
+SOURCE OF TRUTH
+Campaign ladder:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+
+Final mission:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+
+Glushkin final confrontation:
+dev_src_docs/characters/PW_Glushkin_Cumberland_Gap_Final_Confrontation_Addendum_2026-07-31_rev1.txt
+
+Derivative synopsis refresh:
+dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_American_Freedom_Synopsis_Addendum_2026-07-31_rev1.txt
+
+COMPENDIUM USE RULE
+Apply this addendum over older rev6 and Game 2 summary material that describes AMERICAN FREEDOM as lacking a reconciled middle ladder or campaign finale; treats FREE GROUND as the full campaign ending; places ANGEL in the Cumberland Gap operation; leaves Glushkin’s final-confrontation location entirely open; describes the reaction vehicles as improvised technicals; uses an OH-58D/UH-60 package; or places the second Tigr on its left side. Preserve unresolved production fields without reopening the campaign architecture by default.
+
+OPEN FIELDS
+- post-Coronado prologue title and detailed route;
+- exact calendar binding;
+- FACE TO FACE placement/unlock;
+- exact Cumberland Gap force composition and eastern-portal route;
+- technical validation of callsign uniqueness and aircraft-unit designation;
+- Glushkin’s exact final consequence state;
+- final dialogue, scoring, and closing-line implementation.
