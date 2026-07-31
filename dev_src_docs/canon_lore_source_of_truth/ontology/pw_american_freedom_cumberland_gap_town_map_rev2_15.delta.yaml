@@ -1,0 +1,151 @@
+meta:
+  delta_id: PW-ONT-AMERICAN-FREEDOM-CUMBERLAND-GAP-TOWN-MAP-2026-07-31-REV1
+  generated: '2026-07-31'
+  narrative_structure_applies_to: pw_narrative_structure_rev2.yaml
+  timeline_applies_to: pw_world_event_timeline_rev2_14.yaml
+  timeline_produces: pw_world_event_timeline_rev2_15.yaml
+  status: locked_cumberland_gap_post_dropoff_route_and_fire_support_control
+  chronology_changes: false
+  sources:
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Town_Liberation_Geography_Addendum_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_KMZ_Placemark_Reference_2026-07-31_rev1.csv
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+  - Project_Warriors_Knowledge_Compendia/PW_AMERICAN_FREEDOM_Cumberland_Gap_Town_Battle_Map_Addendum_2026-07-31_rev1.txt
+
+operations:
+- op: update_event
+  match_id: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  set:
+    status: confirmed_finale_with_post_dropoff_geography_and_fire_support_locked
+    location: >-
+      Cumberland Gap corridor and town; western tunnel checkpoint; Sparrow 5 town staging
+      area; Holiday Tire road-control point; Cumberland Gap Inn; D & D machine-gun block;
+      marked LMU town building; post office; Memorial Park; Caboose parking lot and saloon;
+      Glushkin quiet house; eastern portal staging, overwatch, and checkpoint; southern
+      mobile-element approach; Union College reference supply point.
+    notes: >-
+      After the western-portal Little Bird intervention, Sparrow 5 drops Romeo, Dingo, and
+      Howler at the marked town staging area. Nearby motorized U.S. infantry suppresses the
+      occupied University Inn while the player reaches and secures Holiday Tire. Romeo then
+      clears Cumberland Gap Inn, calls the first player-requested mortar mission against the
+      reinforced D & D position, clears the marked LMU building and post office, neutralizes
+      the Memorial Park heavy-machine-gun vehicle, and reaches the Caboose parking lot. No
+      player-callable mortar support exists before D & D or again until the Caboose lot. The
+      second mortar mission breaks the exterior defense; Romeo clears the saloon as the last
+      organized town holdout. Independently maneuvering U.S. elements intercept retreating
+      occupiers at the marked parking lot. The Glushkin house is nearby, enabling a seamless
+      first-person transition. Holiday Tire later becomes the northeast departure assembly
+      point. Parallel forces secure the eastern portal from their own staging and overwatch
+      positions. The two western-portal Tigrs originate from the marked enemy supply point.
+    relations:
+      post_dropoff_player_route:
+      - Cumberland Gap assault staging area
+      - University Inn suppression lane
+      - Holiday Tire road-control point
+      - Cumberland Gap Inn
+      - D & D Wheel Alignment reinforced machine-gun position
+      - marked LMU town building
+      - United States Postal Service
+      - Memorial Park heavy-machine-gun vehicle
+      - Caboose Saloon parking lot
+      - Caboose Saloon
+      - Glushkin quiet house
+      - Holiday Tire northeast departure assembly
+      player_called_mortar_events:
+      - D & D Wheel Alignment / first call
+      - Caboose Saloon parking lot / second call
+      parallel_allied_actions:
+      - eastern portal staging and assault
+      - eastern portal overwatch
+      - southern mobile-element approach
+      - retreat interception at marked parking lot
+      - Cumberland hold and northeast mobile-force division
+      enemy_reaction_origin:
+      - Union College reference supply point / two western-portal Tigr-Ms
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Town_Liberation_Geography_Addendum_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_KMZ_Placemark_Reference_2026-07-31_rev1.csv
+
+- op: update_campaign_track
+  match_id: PW-TRK-G2-AMERICAN-FREEDOM
+  set:
+    status: locked_campaign_ladder_with_cumberland_gap_town_route
+    notes: >-
+      TRI-STATE POINT's post-dropoff town route is controlled by the corrected nineteen-
+      placemark KMZ reference. The player secures Holiday Tire, advances through Cumberland
+      Gap Inn and the central civic block, uses authored mortar calls only at D & D and the
+      Caboose parking lot, clears the saloon, transitions to the nearby Glushkin house, and
+      later departs northeast from Holiday Tire with Dingo and Howler. Parallel eastern-
+      portal and retreat-interception actions proceed independently.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Town_Liberation_Geography_Addendum_2026-07-31_rev1.txt
+    - Project_Warriors_Knowledge_Compendia/PW_AMERICAN_FREEDOM_Cumberland_Gap_Town_Battle_Map_Addendum_2026-07-31_rev1.txt
+
+continuity_constraints:
+- id: PW-CONT-G2-ROMEO-CUMBERLAND-TOWN-ROUTE
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    Preserve the controlling post-dropoff route: staging area -> University Inn suppression
+    lane -> Holiday Tire -> Cumberland Gap Inn -> D & D -> marked LMU building -> post
+    office -> Memorial Park -> Caboose parking lot -> Caboose Saloon -> Glushkin house ->
+    Holiday Tire departure assembly. Level compression may not reorder the load-bearing
+    tactical and narrative functions without explicit later revision.
+
+- id: PW-CONT-G2-ROMEO-CUMBERLAND-MORTARS
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    The player does not call mortar fire at University Inn or before D & D. D & D is the
+    first call and the only player-called mission near the dense central-town objectives.
+    No further call is available through the LMU marker, post office, or Memorial Park.
+    Mortar support returns only at the Caboose parking lot, where it breaks the exterior
+    defense but does not clear the saloon interior.
+
+- id: PW-CONT-G2-ROMEO-CUMBERLAND-PARALLEL-FORCES
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    Eastern-portal forces and southern mobile U.S. elements possess their own objectives,
+    timing, and awareness. They secure the eastern portal and intercept retreating
+    occupiers without requiring Romeo to clear both portal checkpoints or travel to the
+    interception lot. Holiday Tire road control enables their movement.
+
+- id: PW-CONT-G2-ROMEO-CUMBERLAND-TIGR-ORIGIN
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    The two Tigr-Ms reinforcing the western checkpoint originate from the marked enemy
+    supply point at the Union College Environmental Education Center reference. Do not
+    present them as spawning without an operational source.
+
+- id: PW-CONT-G2-ROMEO-CUMBERLAND-GLUSHKIN-PROXIMITY
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    The Glushkin house remains immediately adjacent to the final town holdout at planning
+    scale, allowing the Caboose collapse to transition into the quiet-house confrontation
+    in continuous first person.
+
+open_fields:
+- exact fictionalized real-place names
+- exact interior layouts and civilian states
+- exact motorized-infantry and eastern-portal order of battle
+- mortar technical implementation
+- Memorial Park vehicle type
+- retreat-force composition and outcome detail
+- exact return transition from Glushkin house to Holiday Tire
+- exact northeast mobile-force initial route
+
+validation_targets:
+  timeline:
+    added_events: 0
+    updated_events: 1
+    duplicate_new_ids: 0
+    self_references: 0
+    new_ordering_cycle: false
+  narrative:
+    kmz_placemarks: 19
+    player_called_mortar_events: 2
+    university_inn_player_mortar: false
+    d_and_d_first_mortar: true
+    caboose_second_mortar: true
+    east_portal_parallel: true
+    retreat_interception_parallel: true
+    tigr_origin_mapped: true
