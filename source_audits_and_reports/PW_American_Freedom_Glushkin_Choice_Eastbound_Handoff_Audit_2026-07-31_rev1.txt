@@ -1,0 +1,77 @@
+PROJECT WARRIORS — AMERICAN FREEDOM
+GLUSHKIN CHOICE / EASTBOUND HANDOFF SOURCE-LANDING AUDIT
+Generated: 2026-07-31
+Version: rev1
+Status: source landing audit
+
+SCOPE
+Land the owner-approved player perspective for Glushkin's final confrontation and resolve the post-Cumberland disposition of Fire Team Delta and the northeast-moving friendly force.
+
+OWNER DECISIONS CAPTURED
+- Beaver remains in the Tri-County / Cumberland Gap area.
+- Beaver takes over Romeo's day-to-day military coordination and field-leadership responsibilities inside the regional AFC structure.
+- Romeo, Dingo, and Howler join the mobile element moving northeast.
+- Dingo and Howler fill the two previously open trusted-companion roles in NO KINGS / EASTBOUND.
+- The player receives an unforced final choice to kill Glushkin or capture him alive.
+
+TERMINOLOGY RECONCILIATION
+The exploratory phrasing “honorable death in battle” was not promoted as objective current-facing language. Glushkin is no longer actively fighting when the choice occurs. He may understand death at Romeo's hand as a soldier's end, but the game does not erase the moral/legal discomfort by labeling the shooting a conventional battlefield death.
+
+The exploratory phrase “prisoner of war and enemy collaborator” was normalized for source accuracy:
+- Glushkin is a hostile foreign intelligence officer attached to the occupation, not a local collaborator.
+- Capture transfers him into U.S. military/intelligence custody.
+- Exact POW, protected-detainee, intelligence-operative, or prosecutorial classification remains open for later law-of-armed-conflict and legal-canon review.
+- Humane treatment and custody are protected regardless of later classification.
+
+DURABLE SOURCE LANDING
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+  PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+- dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/
+  PW_EASTBOUND_Fire_Team_Delta_Companion_Lock_2026-07-31_rev1.txt
+
+ONTOLOGY LANDING
+- pw_american_freedom_glushkin_choice_eastbound_handoff_rev2_14.delta.yaml
+- Updates the existing TRI-STATE POINT, Kentucky-to-Boston bridge, and EASTBOUND events.
+- Adds no duplicate event IDs.
+- Locks Dingo and Howler as eastbound companions.
+- Locks Beaver's regional continuity role.
+- Records two supported Glushkin outcome branches without choosing a downstream canonical result.
+
+WORKING KNOWLEDGE LANDING
+- PW_AMERICAN_FREEDOM_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+
+PLAYER-CHOICE VALIDATION
+- first-person continuity preserved;
+- no forced Glushkin attack;
+- no morality labels;
+- no countdown;
+- no QTE;
+- no detached cinematic;
+- kill and capture both supported;
+- campaign liberation result unchanged by branch;
+- later canon dependency prohibited until explicit resolution.
+
+FORCE-DISPOSITION VALIDATION
+- Beaver stays in the Cumberland/Tri-County region;
+- Beaver coordinates rather than displaces civilian authority;
+- Romeo departs northeast;
+- Dingo departs with Romeo;
+- Howler departs with Romeo;
+- Game 3 companion count remains exactly two;
+- Kentucky-to-Boston bridge remains months-spanning and relay-based;
+- Boston remains an already-resisting city under Elena Costa's local operational authority.
+
+OPEN FIELDS PRESERVED
+- final Glushkin dialogue;
+- exact capture interaction;
+- imported-choice implementation;
+- final legal classification if captured;
+- exact Beaver AFC title;
+- northeast mobile-force order of battle and route;
+- final Dingo/Howler line attribution in EASTBOUND;
+- closing score and final cut point.
+
+RESULT
+The approval is source-landed, ontology-landed, compendium-surfaced, and aligned with the existing NO KINGS bridge. No live continuity conflict remains between the Cumberland Gap ending and EASTBOUND's two-companion structure.
+
+END
