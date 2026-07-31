@@ -1,0 +1,98 @@
+PROJECT WARRIORS — AMERICAN FREEDOM
+CUMBERLAND GAP TOWN-MAP SOURCE-LANDING AUDIT
+Generated: 2026-07-31
+Version: rev1
+Status: SOURCE LANDING AUDIT / CORRECTED KMZ RECONCILED
+
+SCOPE
+Land the corrected nineteen-placemark Cumberland Gap KMZ into PR #58 and propagate its post-dropoff mission route, mortar-support restrictions, parallel allied actions, Tigr origin point, Glushkin transition, and northeast assembly point through durable narrative, working-compendium, and ontology layers.
+
+INPUT
+Project Warriors American freedom Battle ofCumberland Gap gap (3).kmz
+
+INPUT VALIDATION
+- KMZ opens successfully.
+- Embedded KML contains 19 placemarks.
+- Each placemark exposes a name, coordinate, and mission note or role.
+- The corrected University Inn note contains no mortar request.
+- One minor source spelling error, “suport,” is normalized to “support” in current-facing text.
+
+DURABLE SOURCE LANDING
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+  PW_TRI_STATE_POINT_Cumberland_Gap_Town_Liberation_Geography_Addendum_2026-07-31_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+  PW_TRI_STATE_POINT_Cumberland_Gap_KMZ_Placemark_Reference_2026-07-31_rev1.csv
+
+WORKING KNOWLEDGE LANDING
+- Project_Warriors_Knowledge_Compendia/
+  PW_AMERICAN_FREEDOM_Cumberland_Gap_Town_Battle_Map_Addendum_2026-07-31_rev1.txt
+
+ONTOLOGY LANDING
+- dev_src_docs/canon_lore_source_of_truth/ontology/
+  pw_american_freedom_cumberland_gap_town_map_rev2_15.delta.yaml
+- Applies over pw_world_event_timeline_rev2_14.yaml.
+- Produces pw_world_event_timeline_rev2_15.yaml.
+- Adds no duplicate event IDs and does not invent separate event records for every placemark.
+- Updates the existing TRI-STATE POINT event and American Freedom track.
+
+LOCKED ROUTE
+staging-area drop
+-> University Inn suppression lane
+-> Holiday Tire road control
+-> Cumberland Gap Inn
+-> D & D / first player-called mortar
+-> marked LMU building
+-> post office
+-> Memorial Park heavy-machine-gun vehicle
+-> Caboose parking lot / second player-called mortar
+-> Caboose Saloon final organized holdout
+-> parallel retreat interception
+-> Glushkin quiet house
+-> post-battle return
+-> Holiday Tire northeast assembly/departure
+
+FIRE-SUPPORT RESULT
+- University Inn: no player-called mortar; nearby motorized U.S. infantry suppresses.
+- D & D: first player-called mortar mission.
+- D & D: only player-called mortar mission near the dense central-town objectives.
+- LMU marker, post office, Memorial Park: no callable mortar support.
+- Caboose parking lot: second player-called mortar mission.
+- Caboose Saloon: player-cleared interior; mortar fire does not replace the assault.
+
+PARALLEL-FORCE RESULT
+- Eastern forces use their own staging and overwatch positions against the eastern checkpoint.
+- Hornet 2 may support the eastern axis after the western intervention.
+- Mobile U.S. elements approach from the south.
+- Holiday Tire control enables their movement.
+- They intercept retreating occupiers at the marked parking lot while Romeo clears the town.
+
+DIEGETIC VEHICLE ORIGIN RESULT
+The two western-portal Tigr-Ms originate from the marked small occupation supply point at the Union College Environmental Education Center reference, approximately 861 m from the western checkpoint. This preserves the existing response timing while eliminating an unexplained scripted spawn.
+
+GLUSHKIN AND ENDING RESULT
+- The Glushkin house is approximately 67 m from the Caboose marker.
+- The final holdout can transition into the confrontation continuously in first person.
+- Holiday Tire remains the post-battle northeast mobile-force assembly point.
+- Beaver remains with the Cumberland hold/regional-support structure.
+- Romeo, Dingo, and Howler depart northeast.
+
+SOURCE-HIERARCHY RESULT
+The new geography addendum resolves the earlier exact-town-route and exact-eastern-portal open flags at route-architecture level. It does not override:
+- the western-portal Little Bird sequence;
+- Glushkin player-choice architecture;
+- Fire Team Delta force split;
+- the months-spanning Kentucky-to-Boston bridge;
+- or Boston local-authority rules.
+
+REMAINING OPEN FIELDS
+- Exact fictionalized place names.
+- Final interiors, civilians, and destruction budget.
+- Exact Army/AFC order of battle.
+- Mortar callsign, observer, rounds, munitions, and effects.
+- Memorial Park vehicle type.
+- Retreat-force composition.
+- Exact post-Glushkin movement back to Holiday Tire.
+- Exact northeast departure route and closing presentation.
+
+RESULT
+The corrected KMZ is fully represented in auditable text sources. The post-dropoff town battle now has a controlling spatial route, constrained two-call mortar grammar, parallel allied operations, a mapped Tigr origin, and a continuous closing path into Glushkin and the NO KINGS bridge.
