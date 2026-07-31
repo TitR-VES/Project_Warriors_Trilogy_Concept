@@ -1,8 +1,9 @@
 PROJECT WARRIORS — AMERICAN FREEDOM POST-CORONADO PROLOGUE BRIDGE
 Generated: 2026-07-31
 Version: rev1
-Status: CONTROLLING STORY-BRIDGE LOCK / TITLE AND PRODUCTION DETAILS OPEN
+Status: CONTROLLING STORY-BRIDGE AND TITLE LOCK / PRODUCTION DETAILS PARTIAL
 Campaign: Game 2 — AMERICAN FREEDOM
+Prologue title: PATHFINDER
 Playable lead: SSG Ramón “Romeo” Álvarez
 Placement: After Game 1 NORTH ISLAND / CORONADO and before Game 2 LOW GROUND
 
@@ -10,11 +11,18 @@ PURPOSE
 Close the remaining structural gap between Romeo’s Game 1 endpoint at Coronado and his Game 2 arrival in occupied Calloway, Kentucky. The prologue establishes why a Ranger who ends Game 1 inside surviving conventional command is selected for an individual resistance-development mission, and how that mission runs in parallel with the wider southern-route U.S. counteroffensive that later converges with the AFC at Cumberland Gap.
 
 SOURCE AUTHORITY
-1. This page controls the post-Coronado recognition, selection, briefing, tasking, parallel-strategy, and convergence logic.
-2. PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt continues to control the complete Game 2 mission order.
+1. This page controls the PATHFINDER title, post-Coronado recognition, selection, briefing, tasking, parallel-strategy, and convergence logic.
+2. PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt continues to control the complete Game 2 mission order, with its earlier TITLE OPEN field superseded by PATHFINDER here.
 3. PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt continues to control LOW GROUND and the detailed Calloway opening.
 4. PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt and its later addenda control the campaign finale and post-battle handoff.
-5. Later screenplay, staging, timeline, and technical sources may refine implementation without reopening the bridge’s story function unless they explicitly declare a structural revision.
+5. Later screenplay, staging, timeline, and technical sources may refine implementation without reopening the bridge’s story function or title unless they explicitly declare a structural revision.
+
+TITLE LOCK — PATHFINDER
+PATHFINDER is the canonical prologue title.
+
+The title describes Romeo’s strategic function rather than a new unit designation, callsign, rank, or formal billet. He is being sent ahead of the conventional advance to find a viable human route through occupied territory, verify whether the suspected resistance can become a trustworthy partner, and help prepare the local intelligence, communications, logistics, access, and legitimacy that the later campaign will need.
+
+The title also pays off at Cumberland Gap. Romeo’s work does not clear a literal route by itself; it helps create the people-and-network path that allows the AFC and conventional force to meet, preserve the corridor, and continue northeast. PATHFINDER should therefore read as restrained operational language, not chosen-one mythology.
 
 CORE BRIDGE
 After the Battle of Coronado, Romeo’s performance is recognized inside the surviving U.S. command structure. The recognition is based on the full record visible to senior planners: his conduct during the European fighting withdrawal, protection of the multinational AEGIS infrastructure chain, return to the occupied United States, urban fighting in Southern California, route-preservation work, and leadership during the defense of North Island.
@@ -60,12 +68,12 @@ The two plans converge during the late American Freedom campaign.
 
 By TRI-STATE POINT / the Battle of Cumberland Gap, the resistance Romeo helped develop has become the American Freedom Corps, and forward elements of the wider U.S. advance have reached the Cumberland region. The AFC’s local network, intelligence, route control, and civilian legitimacy combine with conventional mobility, engineers, aviation, and heavier logistics to preserve and liberate the corridor.
 
-After Cumberland Gap, larger formations can exploit the opened route toward southwestern Virginia and farther northeast. This payoff must read as the completion of the preparatory strategy shown in the prologue: Romeo was sent ahead to help create the human and operational conditions that a later conventional advance would need.
+After Cumberland Gap, larger formations can exploit the opened route toward southwestern Virginia and farther northeast. This payoff must read as the completion of the preparatory strategy shown in PATHFINDER: Romeo was sent ahead to help create the human and operational conditions that a later conventional advance would need.
 
 This does not mean Romeo personally commands the California-to-Virginia counteroffensive or that Game 2 depicts a continent-spanning campaign through his perspective. American Freedom remains concentrated in Kentucky and the adjoining Appalachian tri-state region. The wider advance is the parallel clock that eventually reaches the local story.
 
-PREFERRED PROLOGUE PRESENTATION
-The prologue should be brief, preparatory, and intelligence-led. Preferred structure:
+PREFERRED PATHFINDER PRESENTATION
+PATHFINDER should be brief, preparatory, and intelligence-led. Preferred structure:
 
 1. CORONADO AFTERMATH
 A restrained transition from the Game 1 ending: after-action processing, casualty and unit-reconstitution texture, fragments of Romeo’s record moving upward, and recognition from senior personnel. Do not require a public medal ceremony or lock a specific decoration.
@@ -88,11 +96,13 @@ Romeo accepts the assignment with restrained professionalism. The sequence moves
 CHARACTER FUNCTION
 The bridge marks a change in Romeo’s relationship to command.
 
-In Game 1, he repeatedly keeps routes open for other people while operating inside inherited military structures. The prologue shows senior command recognizing that ability and assigning him a mission where the structure is not yet present. His task is no longer only to lead soldiers through a route. It is to help people build the network, discipline, trust, and legitimacy that make a route possible.
+In Game 1, he repeatedly keeps routes open for other people while operating inside inherited military structures. PATHFINDER shows senior command recognizing that ability and assigning him a mission where the structure is not yet present. His task is no longer only to lead soldiers through a route. It is to help people build the network, discipline, trust, and legitimacy that make a route possible.
 
 The prologue therefore begins his soldier-to-resistance-organizer arc without completing it in advance. Romeo enters with military authority and operational skill, but he still has to learn that local legitimacy cannot be issued in a briefing room.
 
 PROTECTED CONTINUITY
+- The canonical prologue title is PATHFINDER.
+- PATHFINDER describes Romeo’s strategic function; it is not a new callsign, unit, rank, or formal billet.
 - Placement is after NORTH ISLAND / CORONADO and before LOW GROUND.
 - Romeo’s valor and achievements are recognized internally by surviving senior command.
 - Recognition changes access and assignment, not rank; Romeo remains SSG.
@@ -107,10 +117,11 @@ PROTECTED CONTINUITY
 - The two operational lines converge at Cumberland Gap in campaign time.
 - The AFC supplies local network, intelligence, route control, and legitimacy; conventional forces supply mass, engineering, aviation, and sustained exploitation.
 - American Freedom remains geographically concentrated; Romeo does not personally lead a playable transcontinental counteroffensive.
-- The prologue shows initial preparation and tasking, not the completed outcome of the Game 2 campaign.
+- PATHFINDER shows initial preparation and tasking, not the completed outcome of the Game 2 campaign.
 
 SUPERSESSION
 This page resolves the following earlier open flags wherever they conflict:
+- the final prologue title: PATHFINDER;
 - whether there is a causal reason Romeo is sent to Calloway;
 - whether the Game 2 prologue is merely unexplained travel from Coronado;
 - why Romeo is selected instead of immediately returning to a normal conventional assignment;
@@ -118,7 +129,6 @@ This page resolves the following earlier open flags wherever they conflict:
 - whether Cumberland Gap is an accidental meeting of forces rather than a delayed convergence of complementary plans.
 
 The following remain open:
-- final prologue mission title;
 - exact calendar date and duration of the diegetic gap;
 - exact Coronado recognition form, citation, or decoration;
 - exact briefing location and named command/interagency participants;
@@ -129,4 +139,4 @@ The following remain open:
 - final dialogue, cinematic grammar, music, and transition into LOW GROUND.
 
 CONTROLLING FOLLOW-ON
-The prologue hands into LOW GROUND and the existing Calloway opening block. It should not replace LOW GROUND’s reconnaissance, uncertainty, first local contact, or the need for Romeo to earn trust after arrival.
+PATHFINDER hands into LOW GROUND and the existing Calloway opening block. It should not replace LOW GROUND’s reconnaissance, uncertainty, first local contact, or the need for Romeo to earn trust after arrival.
