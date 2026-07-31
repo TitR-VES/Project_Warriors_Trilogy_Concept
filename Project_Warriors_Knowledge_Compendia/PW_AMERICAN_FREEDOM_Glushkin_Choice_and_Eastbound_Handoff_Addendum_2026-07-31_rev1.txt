@@ -1,0 +1,56 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+AMERICAN FREEDOM — GLUSHKIN CHOICE AND EASTBOUND HANDOFF
+Generated: 2026-07-31
+Version: rev1
+Status: CURRENT SYNTHESIS UPDATE / PLAYER CHOICE AND POST-BATTLE DISPOSITION LOCKED
+
+PURPOSE
+Refresh the working-knowledge layer after the TRI-STATE POINT finale gained a locked first-person Glushkin choice structure and a resolved Fire Team Delta post-Cumberland disposition.
+
+CURRENT LOCK
+- The Glushkin confrontation remains seamless first person in the quiet house after organized Russian resistance has collapsed.
+- Glushkin does not force the terminal outcome by attacking or reaching for a weapon.
+- The player may either shoot Glushkin or order his capture alive.
+- The scene uses no morality meter, countdown, QTE, forced camera, or authorial declaration that one branch is correct.
+- The kill branch is not objectively described as an honorable death in battle because Glushkin is no longer actively fighting.
+- The capture branch transfers him into U.S. military/intelligence custody as an enemy intelligence officer; exact POW or other detainee classification remains open for later legal-canon review.
+- Both outcomes preserve the same Cumberland Gap liberation result.
+- Downstream canon must not require Glushkin dead or alive unless a later explicit canonical-outcome decision resolves the branch.
+
+POST-BATTLE FORCE SPLIT
+Cumberland hold / regional support:
+- Beaver remains in the Tri-County and Cumberland Gap area.
+- He assumes Romeo's day-to-day military coordination and field-leadership responsibilities inside the regional AFC structure.
+- He works with Renata, Priya, Aldridge, local cells, community authorities, Army engineers, and the hold force.
+- He sustains tunnel security, nearby resistance operations, logistics, communications, medical movement, and threatened-town support.
+- He does not displace civilian authority or become the sole political leader.
+
+Northeast mobile element:
+- Romeo departs with the mobile element.
+- Dingo departs with Romeo.
+- Howler departs with Romeo.
+- Dingo and Howler are the two trusted companions in the NO KINGS EASTBOUND prologue.
+- The movement begins at Cumberland Gap but continues through the previously locked months-spanning relay-state bridge; it is not a direct same-week Army convoy to Boston.
+
+PLAYABLE CLOSING EXPRESSION
+- The force split is heard operationally before the quiet-house scene.
+- After the Glushkin choice, Romeo returns to a transformed corridor and may walk through it in first person.
+- Engineers, defensive forces, AFC logistics, casualty movement, nearby-town support, and the northeast-bound column are visible at once.
+- Beaver remains with the regional command-and-support activity.
+- Romeo joins Dingo and Howler at the departing mobile element.
+- The closing movement begins the bridge into NO KINGS.
+
+SOURCE OF TRUTH
+Game 2 choice and handoff source:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+
+Game 3 companion lock:
+dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Fire_Team_Delta_Companion_Lock_2026-07-31_rev1.txt
+
+Ontology projection:
+dev_src_docs/canon_lore_source_of_truth/ontology/pw_american_freedom_glushkin_choice_eastbound_handoff_rev2_14.delta.yaml
+
+COMPENDIUM USE RULE
+Apply this addendum over older summaries that leave Glushkin's player-control grammar unresolved; leave EASTBOUND's companions anonymous; send all of Fire Team Delta east; leave Romeo traveling alone; or treat Beaver's post-battle role as open. Preserve the two-outcome player choice and the Beaver / Romeo-Dingo-Howler split until an explicit later source revises them.
+
+END
