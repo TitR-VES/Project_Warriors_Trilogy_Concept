@@ -21,8 +21,9 @@ operations:
       Station North Island gate; fictionalized NASNI Base-Defense Command Post;
       air-operations tower; southeast shoreline observation and hostile UAV-guidance
       engagement sector; southwest small-arms-range / littoral fire-control sector;
-      Zuñiga Point observation sector; western NMESIS firing sector; NCTS-hosted
-      emergency operations and communications cell.
+      Zuñiga Point observation sector; western NMESIS firing sector; short northeast
+      return trek and Humvee pickup; NCTS-hosted emergency operations and communications
+      cell.
     notes: >-
       TIDEFIRE uses an east-to-west North Island objective spine. Romeo enters across
       the Coronado Bridge, receives distinct ground and air pictures from Base Defense
@@ -32,10 +33,11 @@ operations:
       Zuñiga Point. Delta identifies and tracks the hostile naval formation for an
       NMESIS strike. The strike mission-kills a high-value vessel and breaks the
       formation long enough for armed alert aircraft to launch and exploit the window.
-      Delta returns by a compressed or vehicle-supported route to an NCTS-hosted
-      emergency cell and reports that the immediate naval assault has lost momentum.
-      The mapped route is a macro objective skeleton; combat pressure must connect the
-      nodes so the finale does not become a briefing-and-errand sequence.
+      Delta then begins moving northeast from Zuñiga on foot. A short distance into the
+      return trek, an arriving Humvee picks up the team and transports it directly to
+      the NCTS-hosted emergency cell for the final report. The mapped route is a macro
+      objective skeleton; combat pressure must connect the nodes so the finale does not
+      become a briefing-and-errand sequence.
     relations:
       player_objective_route:
       - Coronado Bridge / vehicle-led approach under fire
@@ -49,11 +51,14 @@ operations:
       - positive identification and target-track confirmation
       - NMESIS strike window
       - alert-fighter follow-up
+      - short northeast return trek from Zuñiga
+      - arriving Humvee pickup and direct NCTS transport
       - NCTS emergency operations / communications closeout
       objective_effects:
       - UAV guidance destroyed / attack accuracy and tempo reduced
       - hostile naval formation disrupted / immediate bombardment momentum broken
       - surviving runway and launch route exploited by alert aircraft
+      - changed battlespace observed during the Humvee return
       - ground, naval, and air pictures reconnected through NCTS
       geography_corrections:
       - adjacent residences are Coronado neighborhoods, not a civilian North Island district
@@ -76,8 +81,9 @@ operations:
       route. The mission preserves Delta's campaign grammar: the squad keeps routes,
       targeting, air operations, and command links open so larger American forces can
       act. The NMESIS strike is the operational climax, the alert-fighter launch is the
-      visible payoff, and the NCTS report is the closeout before the post-Coronado
-      bridge into American Freedom.
+      visible payoff, and a short post-Zuñiga trek followed by an arriving Humvee pickup
+      carries Delta directly to the NCTS report and the post-Coronado bridge into
+      American Freedom.
     sources:
     - dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_TIDEFIRE_North_Island_Mission_Geography_and_Objective_Flow_Addendum_2026-07-31_rev1.txt
     - Project_Warriors_Knowledge_Compendia/PW_TIDEFIRE_North_Island_Battle_Map_Addendum_2026-07-31_rev1.txt
@@ -88,7 +94,8 @@ continuity_constraints:
   rule: >-
     Preserve the load-bearing route order: bridge and gate -> Base Defense -> Tower ->
     southeast UAV-guidance engagement -> southwest fire-control handoff -> Zuñiga
-    target identification -> NMESIS strike -> alert-aircraft exploitation -> NCTS
+    target identification -> NMESIS strike -> alert-aircraft exploitation -> short
+    northeast return trek -> arriving Humvee pickup -> direct NCTS transport and
     closeout. Level compression may combine adjacent handoffs but may not reverse the
     cause-and-effect chain.
 
@@ -114,13 +121,22 @@ continuity_constraints:
     temporary launch window for alert aircraft. It does not single-handedly end the
     amphibious battle.
 
+- id: PW-CONT-G1-ROMEO-TIDEFIRE-HUMVEE-RETURN
+  event_ref: PW-EVT-G1-ROMEO-CORONADO-FINALE
+  rule: >-
+    Delta leaves the Zuñiga observation sector on foot, but only for a short return
+    trek. An arriving Humvee then picks up the full team and transports it directly to
+    the NCTS emergency cell for the final report. The sequence is player-observed but
+    does not require player driving and must not become a full on-foot backtrack.
+
 - id: PW-CONT-G1-ROMEO-TIDEFIRE-FINALE-DENSITY
   event_ref: PW-EVT-G1-ROMEO-CORONADO-FINALE
   rule: >-
     The KMZ nodes are a macro route, not the complete combat ladder. Threat and combat
     pressure must connect the bridge, gate, tower movement, shoreline engagement,
-    range handoff, Zuñiga defense, and return. The final return must be compressed,
-    vehicle-supported, or tactically transformed rather than a clean long backtrack.
+    range handoff, and Zuñiga defense. The Humvee return should display the changed
+    battlespace and consequence of the earlier objectives rather than introduce a
+    redundant final traversal.
 
 open_fields:
 - exact enemy ground-assault axis and landing-party composition
@@ -129,7 +145,7 @@ open_fields:
 - exact NMESIS battery callsign, launcher count, missile count, and target set
 - exact alert-aircraft type, callsign, runway, and strike choreography
 - exact fictionalized command-building identities
-- exact final return pressure and closing presentation
+- exact Humvee crew, callsign, pickup route, and ride dialogue
 - civilian states and destruction budget
 
 validation_targets:
@@ -147,4 +163,7 @@ validation_targets:
     uav_guidance_effect_partial: true
     nmesis_player_role: target_identification_and_tracking
     alert_aircraft_payoff: true
+    humvee_pickup_locked: true
+    player_drives_return_humvee: false
+    direct_transport_to_ncts: true
     ncts_closeout: true
