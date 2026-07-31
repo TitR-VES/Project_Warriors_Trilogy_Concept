@@ -1,0 +1,73 @@
+PROJECT WARRIORS — GLUSHKIN CUMBERLAND GAP FINAL-CONFRONTATION ADDENDUM
+Generated: 2026-07-31
+Version: rev1
+Status: FINAL-CONFRONTATION LOCATION AND REGISTER LOCKED / OUTCOME IMPLEMENTATION OPEN
+Applies to: PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt
+Campaign: Game 2 — AMERICAN FREEDOM
+Mission: TRI-STATE POINT
+
+PURPOSE
+Resolve the prior open flag concerning Glushkin’s final-confrontation location and campaign placement while preserving the established burn-notice, personal-agency, and no-redemption controls.
+
+AUTHORITY RULE
+Apply this addendum over the older open statement that Glushkin’s final-confrontation location remained undecided. The dedicated sleeper-network source continues to control his biography, activation, FACE TO FACE asset, burn notice, and character register.
+
+PROTECTED PLACEMENT
+- Glushkin’s final confrontation occurs during TRI-STATE POINT, after the Battle of Cumberland Gap has already been won at the organized-force level.
+- Formal Russian military resistance in Cumberland Gap has collapsed before Romeo reaches him.
+- The confrontation does not determine control of the town, tunnel, or corridor.
+- The AFC–Army coalition and the communities Glushkin attempted to map have already defeated the operational system he built.
+
+PROTECTED LOCATION
+- A quiet, ordinary house at the edge of Cumberland Gap.
+- The house is not a hardened command post, bunker, tunnel-control room, or theatrical villain lair.
+- Outside, combat is subsiding; inside, the domestic space is still.
+- Romeo reaches the house through a final lead, pattern recognition, recovered address, or another restrained intelligence cue.
+
+THEMATIC FUNCTION
+Glushkin turned ordinary homes, civilian relationships, local routes, and community obligations into components of a counter-network map. His final scene occurs inside the same kind of unremarkable domestic space he treated as intelligence terrain. The setting makes the conflict personal without reducing it to a boss fight.
+
+PROTECTED GLUSHKIN STATE
+- The number-station burn notice occurs before the final confrontation.
+- Lipnin and the institution have discarded him.
+- His remaining actions are his own.
+- He may have destroyed selected documents, disabled communications equipment, and dismissed or lost the few personnel who remained.
+- He does not possess an elaborate defensive perimeter.
+- His American cover accent falls away enough for his natural Russian speech pattern to become perceptible.
+- He understands that the occupation position and his own system have collapsed.
+- He does not beg, rage theatrically, seek absolution, suddenly repent, or change sides.
+- He does not use “only following orders” as a moral escape.
+
+PROTECTED ROMEO STATE
+- Romeo enters with one or two teammates, not a full assault platoon.
+- Romeo confronts Glushkin over the people, households, and relationships reduced to entries in his intelligence picture.
+- Romeo does not need to defeat Glushkin in order to prove the battle is won; the battle outside has already established that fact.
+
+RELATION TO FACE TO FACE
+- FACE TO FACE remains optional/conditional character depth.
+- FACE TO FACE is not the final confrontation.
+- If activated, it strengthens recognition and contrast but does not create a surrender, negotiation, or redemption path.
+- The activation flashback/reconstruction remains controlled by the sleeper-network source.
+
+PRODUCTION-WORKING BEATS
+- The house may contain physical traces of Glushkin’s working method: route notes, burned papers, an inert radio, a domestic table used as an analysis surface, or the retained “Понятно” page.
+- Such details should remain restrained and avoid turning the room into an exposition museum.
+- The player-control structure may be fully interactive, constrained first person, or a seamless dialogue state, provided the scene remains visually continuous with Romeo’s perspective and avoids a detached cinematic boss presentation.
+- Exact dialogue should be rewritten from protected intent rather than copied mechanically from exploratory drafts.
+
+OPEN FLAGS
+- Glushkin’s exact final consequence state.
+- Whether Romeo, a teammate, or external authority owns the decisive action.
+- Exact house identity and how Romeo locates it.
+- Exact retained/destroyed evidence.
+- Final dialogue and scene duration.
+- Whether the “Понятно” page is physically recoverable, only visible, or retained by Glushkin.
+
+CONTINUITY CONSTRAINT
+Do not move Glushkin’s final confrontation before the liberation of Cumberland Gap, into AMBITIOUS, into the tunnel checkpoint fight, or into a fortified battlefield command post without an explicit later structural revision.
+
+SOURCES
+- dev_src_docs/characters/PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+- Project_Warriors_American_Freedom_Cumberland_Gap_Thread_Archive_2026-07-31.txt
