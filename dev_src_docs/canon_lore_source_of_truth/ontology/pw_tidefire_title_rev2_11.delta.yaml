@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "delta_id": "PW-ONT-TIDEFIRE-TITLE-2026-07-31-REV1",
+    "generated": "2026-07-31",
+    "timeline_applies_to": "pw_world_event_timeline_rev2_10.yaml",
+    "timeline_produces": "pw_world_event_timeline_rev2_11.yaml",
+    "registry_applies_to": "named_weapon_builds_v3_4.txt",
+    "registry_produces": "named_weapon_builds_v3_4.txt",
+    "status": "locked_mission_title_correction",
+    "sources": [
+      "dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_LEAD_THE_WAY_TIDEFIRE_Finale_Title_Lock_2026-07-31_rev1.txt"
+    ]
+  },
+  "operations": [
+    {
+      "op": "update_event",
+      "match_id": "PW-EVT-G1-ROMEO-CORONADO-FINALE",
+      "set": {
+        "name": "TIDEFIRE — Romeo Game 1 finale at North Island / Coronado",
+        "notes": "TIDEFIRE is the canonical menu-level mission title. NORTH ISLAND / CORONADO remains valid only as location or preserved placeholder wording. The stable event identity, location, finale content, ordering, and Coronado-to-Calloway bridge remain unchanged.",
+        "sources": [
+          "dev_src_docs/story_campaigns/Game1/Shared/PW_Game1_Transcript_Recovery_Packet_2026-07-23_rev1.txt",
+          "dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_LEAD_THE_WAY_TIDEFIRE_Finale_Title_Lock_2026-07-31_rev1.txt"
+        ]
+      }
+    }
+  ],
+  "registry_operations": [],
+  "validation_targets": {
+    "timeline": {
+      "eras": 7,
+      "events": 121,
+      "campaign_tracks": 21,
+      "sync_points": 19,
+      "duplicate_ids": 0,
+      "dangling_references": 0,
+      "self_references": 0,
+      "events_without_sources": 0,
+      "acyclic": true
+    },
+    "registry": {
+      "named_identities": 43,
+      "substantially_specified": 34,
+      "recovery_status": 9,
+      "duplicate_ids": 0
+    }
+  }
+}
