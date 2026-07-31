@@ -1,0 +1,185 @@
+meta:
+  delta_id: PW-ONT-AMERICAN-FREEDOM-GLUSHKIN-CHOICE-EASTBOUND-HANDOFF-2026-07-31-REV1
+  generated: '2026-07-31'
+  narrative_structure_applies_to: pw_narrative_structure_rev2.yaml
+  timeline_applies_to: pw_world_event_timeline_rev2_13.yaml
+  timeline_produces: pw_world_event_timeline_rev2_14.yaml
+  status: locked_glushkin_player_choice_and_fire_team_delta_eastbound_split
+  chronology_changes: false
+  sources:
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Fire_Team_Delta_Companion_Lock_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+  - dev_src_docs/characters/PW_Glushkin_Cumberland_Gap_Final_Confrontation_Addendum_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+  - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Prologue_Script_Path_2026-07-22_rev2.txt
+
+operations:
+- op: update_event
+  match_id: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  set:
+    status: confirmed_plot_architecture_with_player_choice_and_force_handoff_locked
+    actors:
+    - Ramón Álvarez / Romeo
+    - Dingo
+    - Howler
+    - Beaver
+    - Fire Team Delta
+    - American Freedom Corps
+    - forward United States Army elements
+    - Army engineers
+    - Hornet 2 / AH-6M Little Bird
+    - Sparrow 5 / MH-6M Little Bird
+    - Vyacheslav Glushkin
+    - Russian occupation forces
+    notes: >-
+      Mission 16 and AMERICAN FREEDOM finale. After the corridor and town are liberated,
+      Romeo reaches burned Glushkin in a quiet house through seamless first-person play.
+      The final dialogue does not force a hostile move. The player may either shoot
+      Glushkin or order his capture alive. The kill branch is not mislabeled as a
+      conventional death in battle; the capture branch transfers him into U.S. military
+      and intelligence custody without prematurely fixing his final legal classification.
+      Both branches preserve the same liberation and corridor outcome. Afterward, the
+      combined force divides. Beaver remains in the Tri-County / Cumberland Gap area and
+      assumes Romeo's day-to-day military coordination duties inside the regional AFC
+      structure. Romeo, Dingo, and Howler join the northeast mobile element and begin the
+      months-spanning relay-state bridge toward Boston.
+    relations:
+      player_choice:
+      - kill Glushkin after the final exchange without a forced hostile action
+      - capture Glushkin alive and transfer him into U.S. custody
+      force_disposition:
+        cumberland_hold_and_regional_support:
+        - Beaver
+        - AFC regional cells and civilian organizers
+        - selected forward Army security, engineering, medical, logistics, and liaison personnel
+        northeast_mobile_element:
+        - Romeo
+        - Dingo
+        - Howler
+        - selected mobile Army and AFC elements
+      bridge_to:
+      - PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+      - PW-EVT-G3-NO-KINGS-EASTBOUND
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Fire_Team_Delta_Companion_Lock_2026-07-31_rev1.txt
+
+- op: update_event
+  match_id: PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+  set:
+    actors:
+    - Romeo / LT Ramón Álvarez
+    - Dingo
+    - Howler
+    - Beaver / regional Kentucky continuity role
+    - American Freedom Coalition
+    - copied and distorted AFC-aligned cells
+    - Boston local resistance network
+    notes: >-
+      The bridge begins with the post-Cumberland force split. Beaver remains behind to
+      sustain the Tri-County and Cumberland Gap AFC–Army support structure. Romeo, Dingo,
+      and Howler move northeast with the mobile element, then continue through fractured
+      military, resistance, freight, safehouse, and local-guide relays. Their movement is
+      not a same-week direct convoy to Boston. Boston already has an organized local
+      resistance, and Romeo arrives as a useful outsider rather than a savior.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Fire_Team_Delta_Companion_Lock_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+
+- op: update_event
+  match_id: PW-EVT-G3-NO-KINGS-EASTBOUND
+  set:
+    actors:
+    - Romeo / LT Ramón Álvarez
+    - Dingo
+    - Howler
+    - Elena Costa
+    - Boston local resistance
+    - Local Guide
+    notes: >-
+      Playable prologue and final leg of the Kentucky-to-Boston bridge. Dingo and Howler
+      are the two trusted eastbound companions previously represented as COMPANION 1 and
+      COMPANION 2. A compromised relay handoff forces locally guided entry. Elena Costa
+      remains Boston's local operational authority.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Fire_Team_Delta_Companion_Lock_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Prologue_Script_Path_2026-07-22_rev2.txt
+
+- op: update_campaign_track
+  match_id: PW-TRK-G2-AMERICAN-FREEDOM
+  set:
+    status: locked_campaign_ladder_with_glushkin_choice_and_force_handoff
+    notes: >-
+      TRI-STATE POINT ends with an unforced player choice to kill or capture Glushkin.
+      Neither branch changes the liberation outcome. The post-battle force split leaves
+      Beaver in the Tri-County / Cumberland Gap region as the AFC's principal day-to-day
+      military coordinator while Romeo, Dingo, and Howler depart with the northeast mobile
+      element. Exact legal classification of a captured Glushkin and later imported-choice
+      continuity remain open.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Fire_Team_Delta_Companion_Lock_2026-07-31_rev1.txt
+
+- op: update_campaign_track
+  match_id: PW-TRK-G3-NO-KINGS
+  set:
+    notes: >-
+      The Kentucky-to-Boston bridge begins after TRI-STATE POINT. Romeo, Dingo, and Howler
+      are the eastbound traveling element; Beaver remains in Kentucky to sustain the AFC
+      and Cumberland corridor. EASTBOUND retains Boston's local resistance authority and
+      introduces the three men as useful outsiders entering an already active theater.
+    sources:
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Fire_Team_Delta_Companion_Lock_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+    - dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Prologue_Script_Path_2026-07-22_rev2.txt
+
+continuity_constraints:
+- id: PW-CONT-G2-ROMEO-GLUSHKIN-PLAYER-CHOICE
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    The final Glushkin scene remains seamless first person. Glushkin does not force the
+    outcome through an attack or weapon reach. The player may shoot him or order capture.
+    No morality UI, timer, QTE, or authorial declaration makes one branch correct. Do not
+    call the kill branch an objective honorable death in battle, and do not fix the capture
+    branch's legal category without later law-of-armed-conflict review.
+
+- id: PW-CONT-G2-ROMEO-BEAVER-REGIONAL-HANDOFF
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    Beaver remains in the Cumberland Gap / Tri-County area and assumes Romeo's day-to-day
+    military coordination duties in partnership with civilian organizers, local AFC cells,
+    Priya, Aldridge, Army engineers, and the hold force. He does not displace civilian
+    authority or become the region's sole political leader.
+
+- id: PW-CONT-G2-G3-ROMEO-EASTBOUND-COMPANIONS
+  sequence:
+  - PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  - PW-EVT-G2-G3-ROMEO-KENTUCKY-BOSTON-BRIDGE
+  - PW-EVT-G3-NO-KINGS-EASTBOUND
+  rule: >-
+    Romeo departs Cumberland Gap with Dingo and Howler. They are the two trusted companions
+    in EASTBOUND. Beaver remains in Kentucky. The journey continues through a meaningful
+    inter-campaign relay-state interval rather than a direct convoy drive to Boston.
+
+open_fields:
+- exact imported-choice handling for Glushkin in later content
+- final legal status of a captured Glushkin
+- final dialogue and capture interaction
+- exact Beaver regional title
+- exact northeast mobile-force order of battle and route
+- final Dingo/Howler dialogue attribution in EASTBOUND
+
+validation_targets:
+  timeline:
+    added_events: 0
+    updated_events: 3
+    duplicate_new_ids: 0
+    self_references: 0
+    new_ordering_cycle: false
+  narrative:
+    glushkin_supported_outcomes: 2
+    beaver_regional_role: locked
+    eastbound_companions: [Dingo, Howler]
+    romeo_departs_alone: false
