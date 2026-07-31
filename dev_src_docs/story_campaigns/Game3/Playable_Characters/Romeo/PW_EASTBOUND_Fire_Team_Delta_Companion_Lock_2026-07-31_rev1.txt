@@ -1,0 +1,67 @@
+PROJECT WARRIORS — NO KINGS / EASTBOUND
+FIRE TEAM DELTA COMPANION LOCK
+Generated: 2026-07-31
+Version: rev1
+Status: EASTBOUND COMPANION IDENTITIES LOCKED / BEAVER REGIONAL HANDOFF LOCKED
+Campaign: Game 3 — NO KINGS
+Applies to: Kentucky-to-Boston bridge and EASTBOUND prologue
+
+PURPOSE
+Resolve the previously open identities of Romeo's two trusted eastbound companions and bind the Game 2 Cumberland Gap force split to the locked NO KINGS opening architecture.
+
+AUTHORITY RULE
+Apply this addendum over the open companion-identity fields in:
+- PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt;
+- PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt; and
+- PW_EASTBOUND_Prologue_Script_Path_2026-07-22_rev2.txt.
+
+LOCKED COMPANION IDENTITIES
+- COMPANION 1 = Dingo.
+- COMPANION 2 = Howler.
+
+Final dialogue attribution may be adjusted during screenplay polish to preserve each squadmate's established voice, but the two roles are no longer anonymous or open.
+
+GAME 2 HANDOFF
+After the Battle of Cumberland Gap:
+- Romeo joins the mobile AFC–U.S. Army element moving northeast through the opened corridor;
+- Dingo joins Romeo;
+- Howler joins Romeo;
+- Beaver remains in the Tri-County / Cumberland Gap region.
+
+BEAVER'S CONTINUING ROLE
+Beaver assumes Romeo's day-to-day military coordination and field-leadership duties in the regional AFC structure. He works with local civilian organizers, AFC cells, Priya Okonkwo's military lane, Aldridge, Army engineers, and the Cumberland hold force to:
+- secure the tunnel and approaches;
+- sustain nearby resistance operations;
+- support threatened towns;
+- maintain routes, casualty movement, communications, and logistics;
+- prevent the Cumberland victory from collapsing after the mobile force departs.
+
+Beaver does not replace civilian authority or become the sole political leader of the region.
+
+BRIDGE CONTINUITY
+- Romeo, Dingo, and Howler do not travel to Boston as one intact conventional Army column.
+- Their eastbound movement passes through the already locked months-spanning relay-state bridge: military handoffs, resistance routes, freight and service corridors, safehouses, compromised contacts, and local guides.
+- The Cumberland departure is the beginning of the bridge, not a same-week direct drive to Boston.
+- By the playable EASTBOUND final leg, Romeo still travels with Dingo and Howler.
+- Boston already has an organized local resistance; Elena Costa remains local operational authority.
+- Romeo and Fire Team Delta arrive as useful outsiders rather than saviors or commanders of Boston's resistance.
+
+EASTBOUND SCRIPT APPLICATION
+Replace generic COMPANION 1 / COMPANION 2 references during the next screenplay pass with Dingo and Howler while preserving the protected dialogue intent and mission structure.
+
+The following remain open:
+- which existing generic lines belong most naturally to Dingo or Howler;
+- any dialogue rewrites needed to match their individual voices;
+- their exact weapons, clothing, and travel-state presentation in the prologue;
+- whether Beaver appears in the Game 3 opening cinematic through a message, memory, or Kentucky status update.
+
+CONTINUITY CONSTRAINT
+Do not send Beaver east with Romeo by default, leave Romeo traveling alone, or replace Dingo and Howler with unrelated companions without an explicit later revision.
+
+SOURCES
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+- dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+- dev_src_docs/story_campaigns/Game3/Playable_Characters/Romeo/PW_EASTBOUND_Prologue_Script_Path_2026-07-22_rev2.txt
+
+END
