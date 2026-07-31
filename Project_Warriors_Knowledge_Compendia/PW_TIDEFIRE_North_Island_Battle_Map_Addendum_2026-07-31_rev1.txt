@@ -18,7 +18,9 @@ Coronado Bridge
 -> Zuñiga Point target-identification position
 -> NMESIS strike
 -> alert-fighter follow-up
--> NCTS-hosted emergency operations closeout
+-> short northeast return trek
+-> arriving Humvee pickup
+-> direct transport to the NCTS-hosted emergency operations closeout
 
 GEOGRAPHY LOCKS
 
@@ -50,8 +52,13 @@ FLOW LOCKS
    correct hostile vessels.
 8. NMESIS mission-kills one high-value vessel and breaks the formation.
 9. Alert aircraft launch from the surviving airfield route and exploit the window.
-10. Delta returns by a compressed or vehicle-supported route to the NCTS emergency
-    cell and reports that the immediate naval assault has lost momentum.
+10. Delta begins the return from Zuñiga on foot and moves northeast only a short
+    distance.
+11. An arriving Humvee picks up the full team and takes it directly to the NCTS
+    emergency cell. The player observes the ride but does not drive.
+12. During transit, the player sees reduced UAV accuracy, lighter naval fire,
+    alert aircraft airborne, and defenders regaining freedom of movement.
+13. Delta reports that the immediate naval assault has lost momentum.
 
 FINALE DESIGN RULE
 
@@ -61,7 +68,13 @@ clearance, the UAV-guidance engagement, a range-sector handoff under pressure,
 and a defended Zuñiga designation sequence. TIDEFIRE cannot play as a sequence of
 briefings and errands.
 
+The final return is not an optional generic compression. Delta walks a short
+northeast leg from Zuñiga, is collected by an arriving Humvee, and rides directly
+to NCTS. This prevents a redundant full backtrack while preserving enough time for
+the player to see the operational consequences of the strike.
+
 The mission's operational climax is the NMESIS strike. The alert-fighter launch is
-the visible payoff. The NCTS report is the emotional close. Romeo's unit creates
-the window through which larger American forces act; Delta does not single-handedly
-end the Battle of Coronado.
+the visible payoff. The Humvee ride is the consequence-viewing transition. The
+NCTS report is the emotional close. Romeo's unit creates the window through which
+larger American forces act; Delta does not single-handedly end the Battle of
+Coronado.
