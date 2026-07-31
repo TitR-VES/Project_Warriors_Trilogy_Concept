@@ -1,0 +1,150 @@
+meta:
+  delta_id: PW-ONT-TIDEFIRE-NORTH-ISLAND-MAP-2026-07-31-REV1
+  generated: '2026-07-31'
+  timeline_applies_to: pw_world_event_timeline_rev2_15.yaml
+  timeline_produces: pw_world_event_timeline_rev2_16.yaml
+  status: working_tidefire_geography_and_objective_flow
+  chronology_changes: false
+  sources:
+  - dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_LEAD_THE_WAY_TIDEFIRE_Finale_Title_Lock_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_TIDEFIRE_North_Island_Mission_Geography_and_Objective_Flow_Addendum_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_TIDEFIRE_KMZ_Placemark_Review_2026-07-31_rev1.csv
+  - Project_Warriors_Knowledge_Compendia/PW_TIDEFIRE_North_Island_Battle_Map_Addendum_2026-07-31_rev1.txt
+
+operations:
+- op: update_event
+  match_id: PW-EVT-G1-ROMEO-CORONADO-FINALE
+  set:
+    status: locked_title_with_working_geography_and_objective_flow
+    location: >-
+      Coronado Bridge approach; evacuated adjacent Coronado defense belt; Naval Air
+      Station North Island gate; fictionalized NASNI Base-Defense Command Post;
+      air-operations tower; southeast shoreline observation and hostile UAV-guidance
+      engagement sector; southwest small-arms-range / littoral fire-control sector;
+      Zuñiga Point observation sector; western NMESIS firing sector; NCTS-hosted
+      emergency operations and communications cell.
+    notes: >-
+      TIDEFIRE uses an east-to-west North Island objective spine. Romeo enters across
+      the Coronado Bridge, receives distinct ground and air pictures from Base Defense
+      and Tower, removes a boat or boat-supported UAV-guidance element along the
+      southeast shoreline, meets a Marine littoral fire-control team in the corrected
+      southwest range sector, and reaches a protected position immediately landward of
+      Zuñiga Point. Delta identifies and tracks the hostile naval formation for an
+      NMESIS strike. The strike mission-kills a high-value vessel and breaks the
+      formation long enough for armed alert aircraft to launch and exploit the window.
+      Delta returns by a compressed or vehicle-supported route to an NCTS-hosted
+      emergency cell and reports that the immediate naval assault has lost momentum.
+      The mapped route is a macro objective skeleton; combat pressure must connect the
+      nodes so the finale does not become a briefing-and-errand sequence.
+    relations:
+      player_objective_route:
+      - Coronado Bridge / vehicle-led approach under fire
+      - adjacent Coronado defense belt and NASNI gate
+      - NASNI Base-Defense Command Post / ground picture
+      - Tower Command / air picture and UAV tasking
+      - southeast shoreline observation point
+      - hostile boat or boat-supported UAV-guidance element
+      - southwest range-sector littoral fire-control handoff
+      - Zuñiga Point protected observation position
+      - positive identification and target-track confirmation
+      - NMESIS strike window
+      - alert-fighter follow-up
+      - NCTS emergency operations / communications closeout
+      objective_effects:
+      - UAV guidance destroyed / attack accuracy and tempo reduced
+      - hostile naval formation disrupted / immediate bombardment momentum broken
+      - surviving runway and launch route exploited by alert aircraft
+      - ground, naval, and air pictures reconnected through NCTS
+      geography_corrections:
+      - adjacent residences are Coronado neighborhoods, not a civilian North Island district
+      - first command node is fictionalized Base Defense, not NAVFAC headquarters
+      - range-sector handoff moves southwest
+      - NMESIS designation position moves to the Zuñiga Point sector
+      - southwest damage is North Island / Zuñiga-sector damage, not Point Loma damage
+      - NCTS is an emergency communications cell, not default air-station senior headquarters
+    sources:
+    - dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_LEAD_THE_WAY_TIDEFIRE_Finale_Title_Lock_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_TIDEFIRE_North_Island_Mission_Geography_and_Objective_Flow_Addendum_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_TIDEFIRE_KMZ_Placemark_Review_2026-07-31_rev1.csv
+
+- op: update_campaign_track
+  match_id: PW-TRK-G1-LEAD-THE-WAY
+  set:
+    status: locked_campaign_with_working_tidefire_geography
+    notes: >-
+      TIDEFIRE closes Lead the Way through the Coronado Bridge / North Island battle
+      route. The mission preserves Delta's campaign grammar: the squad keeps routes,
+      targeting, air operations, and command links open so larger American forces can
+      act. The NMESIS strike is the operational climax, the alert-fighter launch is the
+      visible payoff, and the NCTS report is the closeout before the post-Coronado
+      bridge into American Freedom.
+    sources:
+    - dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/PW_TIDEFIRE_North_Island_Mission_Geography_and_Objective_Flow_Addendum_2026-07-31_rev1.txt
+    - Project_Warriors_Knowledge_Compendia/PW_TIDEFIRE_North_Island_Battle_Map_Addendum_2026-07-31_rev1.txt
+
+continuity_constraints:
+- id: PW-CONT-G1-ROMEO-TIDEFIRE-ROUTE
+  event_ref: PW-EVT-G1-ROMEO-CORONADO-FINALE
+  rule: >-
+    Preserve the load-bearing route order: bridge and gate -> Base Defense -> Tower ->
+    southeast UAV-guidance engagement -> southwest fire-control handoff -> Zuñiga
+    target identification -> NMESIS strike -> alert-aircraft exploitation -> NCTS
+    closeout. Level compression may combine adjacent handoffs but may not reverse the
+    cause-and-effect chain.
+
+- id: PW-CONT-G1-ROMEO-TIDEFIRE-COMMAND-NODES
+  event_ref: PW-EVT-G1-ROMEO-CORONADO-FINALE
+  rule: >-
+    Base Defense owns the ground, access, and damage-control picture. Tower owns the
+    air, runway, UAV, and alert-aircraft picture. NCTS hosts the final emergency
+    operations / communications cell. Do not present three interchangeable command-room
+    briefings.
+
+- id: PW-CONT-G1-ROMEO-TIDEFIRE-UAV-EFFECT
+  event_ref: PW-EVT-G1-ROMEO-CORONADO-FINALE
+  rule: >-
+    Destroying the southeast guidance element reduces UAV attack accuracy, coordination,
+    and tempo but does not remove all UAV pressure from the mission.
+
+- id: PW-CONT-G1-ROMEO-TIDEFIRE-NMESIS
+  event_ref: PW-EVT-G1-ROMEO-CORONADO-FINALE
+  rule: >-
+    Delta supplies positive identification and a stable target track; the Marine
+    NMESIS element launches. The strike disrupts the naval formation and creates a
+    temporary launch window for alert aircraft. It does not single-handedly end the
+    amphibious battle.
+
+- id: PW-CONT-G1-ROMEO-TIDEFIRE-FINALE-DENSITY
+  event_ref: PW-EVT-G1-ROMEO-CORONADO-FINALE
+  rule: >-
+    The KMZ nodes are a macro route, not the complete combat ladder. Threat and combat
+    pressure must connect the bridge, gate, tower movement, shoreline engagement,
+    range handoff, Zuñiga defense, and return. The final return must be compressed,
+    vehicle-supported, or tactically transformed rather than a clean long backtrack.
+
+open_fields:
+- exact enemy ground-assault axis and landing-party composition
+- exact armored direct-fire vehicle type
+- exact UAV-guidance platform and faction
+- exact NMESIS battery callsign, launcher count, missile count, and target set
+- exact alert-aircraft type, callsign, runway, and strike choreography
+- exact fictionalized command-building identities
+- exact final return pressure and closing presentation
+- civilian states and destruction budget
+
+validation_targets:
+  timeline:
+    added_events: 0
+    updated_events: 1
+    duplicate_new_ids: 0
+    self_references: 0
+    new_ordering_cycle: false
+  narrative:
+    source_kmz_placemarks: 13
+    exact_coordinates_repo_landed: false
+    objective_nodes: 12
+    geography_corrections: 6
+    uav_guidance_effect_partial: true
+    nmesis_player_role: target_identification_and_tracking
+    alert_aircraft_payoff: true
+    ncts_closeout: true
