@@ -1,0 +1,247 @@
+PROJECT WARRIORS — AMERICAN FREEDOM CAMPAIGN STORY AND MISSION LADDER
+Generated: 2026-07-31
+Version: rev1
+Status: CONTROLLING CAMPAIGN-LADDER LOCK / PRODUCTION DETAILS PARTIAL
+Campaign: Game 2 — AMERICAN FREEDOM
+Playable lead: SSG Ramón “Romeo” Álvarez
+
+PURPOSE
+Consolidate the previously overlapping Calloway, network-formation, Fire Team Delta, Glushkin, AMBITIOUS, and conventional-force material into one controlling Game 2 campaign spine. This page supersedes the partial-ladder governance and campaign-finale open flag in PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt while preserving that source as the detailed authority for the opening Calloway arc.
+
+SOURCE HIERARCHY
+1. This page controls the campaign order, mission identity, structural function, and late-campaign continuity.
+2. PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt controls detailed Calloway opening material unless expressly refined here.
+3. PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt controls the final mission and western-portal Little Bird sequence.
+4. PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt and the 2026-07-31 Cumberland Gap confrontation addendum control Glushkin.
+5. Later screenplay, encounter, technical, timeline, and production sources may refine implementation without reopening this ladder unless they explicitly declare a structural revision.
+
+CAMPAIGN THESIS
+Romeo moves from displaced soldier to accountable resistance organizer. The campaign expands by causality rather than by arbitrary scale:
+
+Calloway survival
+-> local resistance
+-> multi-community network
+-> American Freedom Corps
+-> public legitimacy crisis
+-> cooperation with surviving conventional forces
+-> local liberation
+-> defeat of Glushkin’s counter-network
+-> preservation and liberation of the Cumberland Gap corridor
+-> a credible northeastward bridge into NO KINGS.
+
+The campaign remains geographically concentrated in Kentucky and the adjoining Appalachian tri-state region. It does not depict Romeo personally leading a continent-spanning national counteroffensive in Game 2. The movement and corridor outgrow the local campaign and create the conditions for his Game 3 story.
+
+CURRENT HARD-ORDER LADDER
+
+PROLOGUE — TITLE OPEN
+A short post-Coronado bridge returns Romeo to the occupied United States and establishes why he reaches Calloway rather than immediately rejoining a conventional formation.
+
+01. LOW GROUND
+02. DEAD AIR
+03. THE REDBUD VEHICLES
+04. FARM ROAD
+05. SECOND LEVEL
+06. THREE COUNTIES
+07. FREQUENCY
+08. OTHER TOWNS
+09. AMERICAN FREEDOM
+10. HARGROVE’S RECORD
+11. HIGH GROUND
+INTERLUDE — CRODYN WARTIME PRESIDENTIAL ADDRESS
+12. FREE GROUND
+13. LONG VIEW
+14. GLUSHKIN’S MAP
+OPTIONAL / CONDITIONAL — FACE TO FACE
+15. AMBITIOUS
+16. TRI-STATE POINT
+
+MISSION GOVERNANCE
+
+PROLOGUE — TITLE OPEN
+Protected beats:
+- Occurs after Romeo’s Game 1 Coronado endpoint and before Calloway.
+- Function is soldiering-to-local-responsibility transition, not a second full campaign opening.
+- Romeo reaches Calloway without a clean heroic-liberator entrance.
+Production-working beats:
+- May be a short playable bridge, cinematic-playable hybrid, or compressed travel sequence.
+Open flags:
+- title, exact route, duration, intermediate locations, surviving unit status, and calendar placement.
+
+01–05. CALLOWAY OPENING BLOCK
+Protected beats:
+- LOW GROUND -> DEAD AIR -> THE REDBUD VEHICLES -> FARM ROAD -> SECOND LEVEL.
+- Cody Beaumont’s loss and the Renata/Frank consequence register remain intact.
+- The resistance is built from routes, medicine, records, radios, civic trust, and accumulated costs.
+Detailed control:
+- PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt.
+
+06. THREE COUNTIES
+Protected beats:
+- Absorbs the useful first-contact function previously associated with NEIGHBOR.
+- Calloway begins linking with neighboring communities rather than merely enlarging one local cell.
+- Patrice Odom and the wider county-level network become operationally relevant.
+Production-working beats:
+- May retain a vignette/montage structure across multiple communities and several days.
+Open flags:
+- exact communities visited, route order, and final mission-day count.
+
+07. FREQUENCY
+Protected beats:
+- First coordinated multi-cell communications operation.
+- The occupation’s signals-monitoring reach and Glushkin’s traffic-analysis threat become explicit.
+- Terrell Washington proposes “American Freedom something”; Romeo completes the name as American Freedom Corps.
+Production-working beats:
+- Monitoring-equipment interception and radio-network establishment remain the preferred objective grammar.
+Open flags:
+- exact target platform, site, and extraction method.
+
+08. OTHER TOWNS
+Protected beats:
+- Incorporates PRIYA’S GROUND rather than treating it as a redundant standalone ladder entry.
+- Romeo meets resistance communities with different methods, priorities, and security standards.
+- Priya Okonkwo’s unit is treated as a peer force, not automatically absorbed.
+- Dills tests Romeo’s risk honesty.
+- A poorly secured or agenda-misaligned Middlesboro group is rejected, creating a later Glushkin exploitation seam.
+Production-working beats:
+- Hargrove, Priya, and Middlesboro material may be presented as linked chapters within one mission.
+Open flags:
+- exact player route and whether every contact is fully playable.
+
+09. AMERICAN FREEDOM
+Protected beats:
+- Organizational midpoint and largest coordinated local offensive yet.
+- The AFC becomes an explicit operating identity, not a predesigned brand.
+- Five cells act in a synchronized window against the occupation’s county logistics architecture.
+Production-working beats:
+- Fairgrounds / primary county logistics hub remains the preferred target.
+- Romeo commands through mobile radio while still participating in direct action.
+Open flags:
+- exact target layout, cell assignments, and mission-ending image.
+
+10. HARGROVE’S RECORD
+Protected beats:
+- Documentary evidence of occupation abuses is moved through civilian routes to outside media.
+- AFC is named publicly.
+- Judge Hargrove’s legitimacy lane establishes that the movement must remain publicly and legally defensible.
+- Consequences previously associated with WASHINGTON’S WALL are incorporated here rather than retained as a separate redundant mission.
+Production-working beats:
+- Terrell’s community may be displaced or forced into mobile/distributed command architecture during the evidence movement.
+Open flags:
+- exact evidence package, media recipient, and degree of public verification.
+
+11. HIGH GROUND
+Protected beats:
+- Romeo reunites with Fire Team Delta and establishes the first substantial AFC relationship with surviving conventional U.S. forces.
+- A 101st Airborne element under Captain Lassiter remains the preferred conventional-force contact.
+- The Army relationship does not subordinate or erase the local network.
+- The action/report helps trigger Crodyn’s wartime presidential address.
+Production-working beats:
+- The squad reunion may occur on a ridge in the Cumberland region, allowing visual foreshadowing of the later corridor operation.
+Open flags:
+- precise reunion site, garrison objective, and how much of the mission is joint from the outset.
+
+INTERLUDE — CRODYN ADDRESS
+Protected beats:
+- Romeo’s perspective is grounded in a civilian space around a battery-powered television.
+- Crodyn publicly designates Romeo and the AFC as enemies of wartime order.
+- The response is restrained: “American Freedom” is repeated as identity and fact, not an ecstatic rally.
+Open flags:
+- exact calendar placement under the November 7, 2028 election anchor.
+
+12. FREE GROUND
+Protected beats:
+- HARD GROUND functions as the opening movement: the resistance relocates/rebuilds its command space and Renata takes operational ownership of the information architecture.
+- FREE GROUND is the climax of the local Calloway liberation arc, not the whole campaign finale.
+- Multiple garrison positions are struck.
+- Elks Lodge is retaken long enough for Aldridge to raise Patrice Odom’s folded American flag.
+- Even if the building is later retaken, the public has seen the flag fly.
+Production-working beats:
+- The command-space relocation can be playable setup or in-mission first phase.
+Open flags:
+- exact hold duration and local territorial result after the flag image.
+
+13. LONG VIEW
+Protected beats:
+- Incorporates SUPPLY AND DEMAND.
+- The liberated or contested area must survive through fuel, food, ammunition, medical movement, and route control.
+- Fire Team Delta and local fighters perform a multi-element corridor interdiction.
+- Aldridge recognizes that Glushkin is mapping relationships rather than merely chasing attacks.
+Production-working beats:
+- Romeo/Howler, Dingo with local fighters, and Beaver coordinating remain preferred element assignments.
+Open flags:
+- exact corridor and whether the mission begins with the full squad-reunion scene or pays off the reunion already established in HIGH GROUND.
+
+14. GLUSHKIN’S MAP
+Protected beats:
+- Glushkin exploits the rejected Middlesboro seam to probe the resistance picture.
+- AFC conducts counter-intelligence, closes the leak, and accepts that the exposed group cannot be saved cleanly.
+- The resistance turns parts of Glushkin’s surveillance and network-analysis architecture against him.
+Production-working beats:
+- The mission should combine counter-mapping, selective deception, and physical exploitation rather than become a pure data-retrieval raid.
+Open flags:
+- target sites, recovered artifacts, and the exact cost to the Middlesboro network.
+
+OPTIONAL / CONDITIONAL — FACE TO FACE
+Protected beats:
+- Remains optional character depth rather than mandatory exposition.
+- Does not constitute surrender, negotiation, sudden redemption, or Glushkin’s final confrontation.
+- May unlock the activation flashback/reconstruction.
+Open flags:
+- exact activation condition and whether it sits directly before AMBITIOUS or earlier after GLUSHKIN’S MAP.
+
+15. AMBITIOUS
+Protected beats:
+- One compound mission rather than three thin ladder entries.
+- DARK, SIGNAL, and COST remain internal phases.
+- Five cells, Priya’s unit, and Fire Team Delta execute a multi-day Russian command-and-control disruption.
+- Priya’s courthouse/data-node action exposes Frank Kowalski inside Glushkin’s intelligence picture.
+- Frank is captured and recovered from an informal FSB processing site.
+- ANGEL belongs to AMBITIOUS’s escape sequence, not TRI-STATE POINT.
+- The improvised F-150/M240B pursuit, two ammunition cans, SPECTRE FOUR ONE intervention, flare-wing image, and “Don’t mention it. American Freedom, over.” remain under their existing dedicated control.
+Production-working beats:
+- AMBITIOUS should break the counter-network’s practical architecture and force Glushkin toward institutional burn status without yet resolving him personally.
+Open flags:
+- exact phase transitions, escape route, and how the ANGEL sequence connects to the Frank recovery.
+
+16. TRI-STATE POINT
+Canonical event name: Battle of Cumberland Gap.
+Protected beats:
+- Final operation of AMERICAN FREEDOM.
+- AFC and forward U.S. Army elements jointly liberate the Cumberland Gap corridor near the Virginia–Tennessee–Kentucky tri-state region.
+- The historic pass/high ground supports reconnaissance, infiltration, observation, and infantry action; the modern tunnel/highway routes are the principal heavy-logistics objectives.
+- Romeo’s team prevents the western tunnel portal from being collapsed by pre-planted demolition charges.
+- Hornet 2, an AH-6M, provides rocket CAS; Sparrow 5, an MH-6M, extracts and relocates Romeo’s team.
+- The western-portal aviation intervention remains fully player-controlled first-person gameplay.
+- Hornet 2 subsequently supports the parallel push against the eastern portal checkpoint.
+- Combined AFC–Army forces defeat organized Russian resistance in Cumberland Gap, Tennessee, preserve the town as a human-scale liberation space, and place the adjacent supply routes under friendly control.
+- Only after formal Russian military resistance has collapsed does Romeo confront Glushkin in a quiet house at the edge of town.
+- Glushkin’s defeat does not win the battle; the network and coalition have already done so.
+- The end state opens the corridor for larger U.S. formations to move into the region and push northeast, establishing Romeo’s physical and thematic bridge into NO KINGS.
+Detailed control:
+- PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt.
+
+PROTECTED CAMPAIGN CONTINUITY
+- ANGEL remains in AMBITIOUS.
+- TRI-STATE POINT ends through corridor liberation, Glushkin resolution, and movement through the preserved route, not an AC-130 rescue.
+- The Army is a partner and exploitation force, not a replacement for the AFC.
+- Romeo’s local resistance creates a wider symbol and corridor; Game 2 does not complete the national restoration.
+- Glushkin receives his burn notice before the final confrontation. His final actions are his own and do not become a redemption turn.
+- The campaign’s civic-accountability thesis remains visible through Renata, Hargrove, Priya, local cells, records, casualty consequences, and the preservation of inhabited terrain.
+
+PRODUCTION-WORKING CAMPAIGN BEATS
+- Exact dialogue throughout the ladder remains screenplay-level.
+- Mission durations, checkpoint density, friendly order of battle, and encounter counts remain adjustable.
+- HIGH GROUND and LONG VIEW may share or divide the Fire Team Delta reunion material, provided both retain their distinct functions: conventional-force contact and logistics/counter-mapping.
+- The final campaign image should emphasize friendly movement through the opened Cumberland corridor, including Army vehicles, engineers, AFC route control, medical movement, and Romeo observing a counteroffensive larger than himself.
+
+OPEN FLAGS
+- Prologue title and exact post-Coronado bridge.
+- Exact calendar dates and relation to the Crodyn address.
+- Final FACE TO FACE placement and unlock method.
+- Exact force composition and named conventional units at Cumberland Gap beyond the established Army/Little Bird roles.
+- Detailed eastern-portal action and wider town-assault route.
+- Exact Glushkin dialogue, player-control structure, and final outcome implementation.
+- Final production-safe use of real geography, road/tunnel representation, and civilian-space destruction limits.
+
+SOURCE TRANSCRIPT
+Project_Warriors_American_Freedom_Cumberland_Gap_Thread_Archive_2026-07-31.txt
