@@ -1,0 +1,65 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+AMERICAN FREEDOM — POST-CORONADO PROLOGUE BRIDGE
+Generated: 2026-07-31
+Version: rev1
+Status: CURRENT CONTROLLING WORKING-KNOWLEDGE UPDATE
+
+PURPOSE
+Close the remaining bridge between Romeo’s Game 1 Coronado endpoint and the Game 2 Calloway opening without changing the established American Freedom mission ladder.
+
+CONTROLLING LOCK
+- After Coronado, Romeo’s record from Europe, the AEGIS infrastructure defense, the California return, and North Island is recognized by surviving senior U.S. command.
+- The recognition changes his access and assignment, not his rank. Romeo remains SSG.
+- He is summoned into a compartmented surviving special-operations/interagency planning circle supporting resistance in occupied American territory.
+- Decrypted Russian occupation communications indicate low but persistent organized resistance activity around Calloway, Kentucky, without revealing a mature named organization.
+- Romeo is selected for an individual covert insertion because his record demonstrates small-unit leadership, coalition work, degraded-command competence, route preservation, and local judgment.
+- His task is to establish contact, assess reliability and legitimacy, help the network survive, and develop communications, intelligence handling, logistics, routes, and operational discipline over time.
+- He is not sent to impose outside command, claim local leadership on arrival, or stage an immediate symbolic offensive.
+- Fire Team Delta does not accompany the opening insertion. The later HIGH GROUND reunion remains intact.
+- In parallel, mobile U.S. formations advance east from California along a southern route toward and across the Mississippi, then turn northeast toward the Appalachian and Virginia approaches.
+- Exact states, units, dates, river crossing, and route remain open.
+- The local resistance-development plan and the conventional mobile plan converge at TRI-STATE POINT / the Battle of Cumberland Gap.
+- The AFC contributes local intelligence, routes, network depth, and civilian legitimacy; conventional forces contribute mass, engineers, aviation, and sustained exploitation.
+- American Freedom remains geographically concentrated in Kentucky and the adjoining tri-state region. Romeo does not personally lead a playable transcontinental counteroffensive.
+
+PREFERRED PROLOGUE SHAPE
+Coronado aftermath and restrained recognition
+-> quiet summons into a secure briefing
+-> intercepted Russian evidence of low-signature resistance activity
+-> two-line operational map: Calloway infiltration and southern-route mobile advance
+-> Romeo accepts the task
+-> covert movement toward Calloway
+-> LOW GROUND preserves uncertainty and first-contact discovery.
+
+CAMPAIGN FUNCTION
+The prologue starts Romeo’s transition from soldier to resistance organizer. Game 1 repeatedly asks him to keep routes open inside inherited military structures. Game 2 begins by assigning him to help create the human structure, trust, and local legitimacy that make a future route possible.
+
+APPLY OVER EARLIER MATERIAL
+This addendum supersedes older statements that:
+- the post-Coronado bridge lacks a causal tasking;
+- Romeo simply travels unexplained from Coronado to Calloway;
+- Cumberland Gap is an accidental meeting of local and conventional forces;
+- the wider U.S. advance and Romeo’s resistance campaign have no shared strategic timing.
+
+It does not supersede:
+- the existing hard-order American Freedom ladder;
+- LOW GROUND’s reconnaissance and first-contact uncertainty;
+- HIGH GROUND’s Fire Team Delta reunion;
+- TRI-STATE POINT’s detailed Cumberland Gap geography, Glushkin choice, and eastbound handoff.
+
+SOURCE OF TRUTH
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Post_Coronado_Prologue_Bridge_2026-07-31_rev1.txt
+
+DERIVATIVE SYNOPSIS
+dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_American_Freedom_Post_Coronado_Prologue_Synopsis_Addendum_2026-07-31_rev1.txt
+
+OPEN FIELDS
+- final title;
+- exact date and duration;
+- recognition/citation form;
+- briefing site and named participants;
+- intercept wording and collection chain;
+- insertion route, cover, transport, and equipment;
+- Fire Team Delta’s exact interim assignments;
+- detailed southern-route order of battle;
+- final dialogue, music, and cinematic/playable balance.
