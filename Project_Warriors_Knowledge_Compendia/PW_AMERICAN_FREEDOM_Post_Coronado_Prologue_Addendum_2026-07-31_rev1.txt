@@ -1,11 +1,16 @@
 PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
-AMERICAN FREEDOM — POST-CORONADO PROLOGUE BRIDGE
+AMERICAN FREEDOM — PATHFINDER / POST-CORONADO PROLOGUE BRIDGE
 Generated: 2026-07-31
 Version: rev1
 Status: CURRENT CONTROLLING WORKING-KNOWLEDGE UPDATE
 
 PURPOSE
-Close the remaining bridge between Romeo’s Game 1 Coronado endpoint and the Game 2 Calloway opening without changing the established American Freedom mission ladder.
+Close the remaining bridge between Romeo’s Game 1 Coronado endpoint and the Game 2 Calloway opening without changing the established American Freedom mission ladder, and lock the prologue title as PATHFINDER.
+
+TITLE LOCK
+- The canonical prologue title is PATHFINDER.
+- PATHFINDER describes Romeo’s strategic function: he is sent ahead to find, verify, and help prepare the human and operational path required by the later campaign.
+- PATHFINDER is not a new callsign, unit name, rank, or formal billet.
 
 CONTROLLING LOCK
 - After Coronado, Romeo’s record from Europe, the AEGIS infrastructure defense, the California return, and North Island is recognized by surviving senior U.S. command.
@@ -22,7 +27,7 @@ CONTROLLING LOCK
 - The AFC contributes local intelligence, routes, network depth, and civilian legitimacy; conventional forces contribute mass, engineers, aviation, and sustained exploitation.
 - American Freedom remains geographically concentrated in Kentucky and the adjoining tri-state region. Romeo does not personally lead a playable transcontinental counteroffensive.
 
-PREFERRED PROLOGUE SHAPE
+PREFERRED PATHFINDER SHAPE
 Coronado aftermath and restrained recognition
 -> quiet summons into a secure briefing
 -> intercepted Russian evidence of low-signature resistance activity
@@ -32,17 +37,18 @@ Coronado aftermath and restrained recognition
 -> LOW GROUND preserves uncertainty and first-contact discovery.
 
 CAMPAIGN FUNCTION
-The prologue starts Romeo’s transition from soldier to resistance organizer. Game 1 repeatedly asks him to keep routes open inside inherited military structures. Game 2 begins by assigning him to help create the human structure, trust, and local legitimacy that make a future route possible.
+PATHFINDER starts Romeo’s transition from soldier to resistance organizer. Game 1 repeatedly asks him to keep routes open inside inherited military structures. Game 2 begins by assigning him to help create the human structure, trust, and local legitimacy that make a future route possible.
 
 APPLY OVER EARLIER MATERIAL
 This addendum supersedes older statements that:
+- the prologue title remains open;
 - the post-Coronado bridge lacks a causal tasking;
 - Romeo simply travels unexplained from Coronado to Calloway;
 - Cumberland Gap is an accidental meeting of local and conventional forces;
 - the wider U.S. advance and Romeo’s resistance campaign have no shared strategic timing.
 
 It does not supersede:
-- the existing hard-order American Freedom ladder;
+- the existing hard-order American Freedom ladder beyond replacing TITLE OPEN with PATHFINDER;
 - LOW GROUND’s reconnaissance and first-contact uncertainty;
 - HIGH GROUND’s Fire Team Delta reunion;
 - TRI-STATE POINT’s detailed Cumberland Gap geography, Glushkin choice, and eastbound handoff.
@@ -54,7 +60,6 @@ DERIVATIVE SYNOPSIS
 dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_American_Freedom_Post_Coronado_Prologue_Synopsis_Addendum_2026-07-31_rev1.txt
 
 OPEN FIELDS
-- final title;
 - exact date and duration;
 - recognition/citation form;
 - briefing site and named participants;
