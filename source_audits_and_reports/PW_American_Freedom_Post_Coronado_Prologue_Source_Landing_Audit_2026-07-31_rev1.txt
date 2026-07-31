@@ -1,7 +1,7 @@
 PROJECT WARRIORS — AMERICAN FREEDOM POST-CORONADO PROLOGUE SOURCE LANDING AUDIT
 Generated: 2026-07-31
 Version: rev1
-Status: SOURCE-LANDING AUDIT
+Status: SOURCE-LANDING AUDIT / PATHFINDER TITLE LOCK
 Branch target: agent/romeo-post-coronado-prologue-bridge
 
 PURPOSE
@@ -26,14 +26,23 @@ FILES LANDED
 SOURCE-FIRST CHECK
 PASS — the durable story bridge is authored in the Game 2 Romeo source tree before derivative synthesis and ontology projection.
 
-LADDER COMPATIBILITY CHECK
-PASS — the existing mandatory order remains unchanged:
-untitled prologue -> LOW GROUND -> DEAD AIR -> THE REDBUD VEHICLES -> FARM ROAD -> SECOND LEVEL -> THREE COUNTIES -> FREQUENCY -> OTHER TOWNS -> AMERICAN FREEDOM -> HARGROVE’S RECORD -> HIGH GROUND -> Crodyn address -> FREE GROUND -> LONG VIEW -> GLUSHKIN’S MAP -> optional FACE TO FACE -> AMBITIOUS -> TRI-STATE POINT.
+TITLE CHECK
+PASS — PATHFINDER is locked as the canonical prologue title.
 
-The landing develops the existing untitled prologue. It does not insert a new mandatory combat mission, move LOW GROUND, alter the Crodyn-address position, or change the Cumberland Gap finale.
+PASS — the title describes Romeo’s strategic function in finding, verifying, and helping prepare the viable human and operational route required by the later campaign.
+
+PASS — PATHFINDER is not encoded as a callsign, unit designation, rank, or formal billet.
+
+PASS — earlier TITLE OPEN and untitled-prologue references are superseded wherever they conflict with the later controlling bridge source and rev2_16 ontology delta.
+
+LADDER COMPATIBILITY CHECK
+PASS — the existing mandatory order remains unchanged except for resolving the prologue title:
+PATHFINDER -> LOW GROUND -> DEAD AIR -> THE REDBUD VEHICLES -> FARM ROAD -> SECOND LEVEL -> THREE COUNTIES -> FREQUENCY -> OTHER TOWNS -> AMERICAN FREEDOM -> HARGROVE’S RECORD -> HIGH GROUND -> Crodyn address -> FREE GROUND -> LONG VIEW -> GLUSHKIN’S MAP -> optional FACE TO FACE -> AMBITIOUS -> TRI-STATE POINT.
+
+The landing develops the existing prologue. It does not insert a new mandatory combat mission, move LOW GROUND, alter the Crodyn-address position, or change the Cumberland Gap finale.
 
 GAME 1 ENDPOINT CHECK
-PASS — NORTH ISLAND / CORONADO remains Romeo’s Game 1 ending. The new source begins afterward and treats Coronado as the record-generating event that brings Romeo to senior-command attention.
+PASS — NORTH ISLAND / CORONADO remains Romeo’s Game 1 ending. PATHFINDER begins afterward and treats Coronado as the record-generating event that brings Romeo to senior-command attention.
 
 RANK / CHARACTER CHECK
 PASS — Romeo remains SSG. Recognition produces increased trust, access, and a sensitive assignment rather than a promotion or chosen-one elevation.
@@ -57,14 +66,14 @@ PASS — exact units, states, dates, crossing, and order of battle remain open.
 PASS — this wider advance is background strategic time, not a new playable Romeo transcontinental mission ladder.
 
 CUMBERLAND GAP CONVERGENCE CHECK
-PASS — TRI-STATE POINT becomes the delayed convergence of the two plans established in the prologue:
+PASS — TRI-STATE POINT becomes the delayed convergence of the two plans established in PATHFINDER:
 - AFC: local intelligence, route knowledge/control, network depth, and civilian legitimacy;
 - conventional force: mass, engineers, aviation, logistics, and sustained exploitation.
 
 PASS — existing Cumberland Gap geography, mortar control, Little Bird sequence, Glushkin choice, Beaver regional handoff, and Romeo/Dingo/Howler eastbound movement remain unchanged.
 
 NO KINGS HANDOFF CHECK
-PASS — the opened Cumberland corridor still supports the wider northeastward movement and later NO KINGS bridge. The prologue explains why this endpoint was strategically prepared rather than accidental.
+PASS — the opened Cumberland corridor still supports the wider northeastward movement and later NO KINGS bridge. PATHFINDER explains why this endpoint was strategically prepared rather than accidental.
 
 ONTOLOGY CHAIN CHECK
 PASS — delta applies to pw_world_event_timeline_rev2_15.yaml and produces pw_world_event_timeline_rev2_16.yaml.
@@ -72,10 +81,13 @@ PASS — delta applies to pw_world_event_timeline_rev2_15.yaml and produces pw_w
 PASS — one new stable event ID is introduced:
 PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
 
+PASS — the event’s canonical name is PATHFINDER.
+
 PASS — existing event PW-EVT-G2-ROMEO-TRI-STATE-POINT is referenced as the later convergence and is not duplicated.
 
 SUPERSESSION CHECK
 The new source resolves only the earlier open fields concerning:
+- canonical prologue title: PATHFINDER;
 - causal post-Coronado tasking;
 - why Romeo is selected for Calloway;
 - the meaning of his recognition;
@@ -84,7 +96,6 @@ The new source resolves only the earlier open fields concerning:
 - planned convergence at Cumberland Gap.
 
 It leaves open:
-- final prologue title;
 - exact date and diegetic-gap duration;
 - exact award/citation form;
 - briefing location and named participants;
@@ -96,4 +107,4 @@ It leaves open:
 
 RESULT
 READY FOR REVIEW.
-The source landing closes the campaign-level story bridge without creating continuity conflicts or prematurely fixing production details.
+The source landing closes the campaign-level story bridge and locks PATHFINDER without creating continuity conflicts or prematurely fixing production details.
