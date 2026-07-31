@@ -1,0 +1,191 @@
+PROJECT WARRIORS — TRI-STATE POINT
+GLUSHKIN PLAYER-CHOICE AND EASTBOUND FORCE-HANDOFF ADDENDUM
+Generated: 2026-07-31
+Version: rev1
+Status: PLAYER-CHOICE ARCHITECTURE AND POST-BATTLE FORCE DISPOSITION LOCKED
+Campaign: Game 2 — AMERICAN FREEDOM
+Mission: TRI-STATE POINT / Battle of Cumberland Gap
+
+PURPOSE
+Resolve the remaining production-facing questions concerning:
+1. how Romeo's final confrontation with Glushkin plays from the player's first-person perspective; and
+2. how the Cumberland Gap victory divides friendly forces between regional security and the northeastward movement that leads into NO KINGS.
+
+AUTHORITY RULE
+Apply this addendum over earlier open flags concerning Glushkin's player-control grammar, exact eastbound companion identities, Fire Team Delta's post-battle disposition, and the immediate visual expression of the northeast movement plan.
+
+===============================================================================
+PART I — GLUSHKIN FINAL-CONFRONTATION PLAYER GRAMMAR
+===============================================================================
+
+PROTECTED PRESENTATION
+- The approach to the quiet house remains fully playable in first person.
+- Romeo enters with Dingo and Howler, or with one of them immediately beside him while the other secures the exterior, according to final encounter blocking.
+- The teammates clear the ordinary domestic space with Romeo and confirm Glushkin's location.
+- The teammates then hold the hall, doorway, rear exit, and/or exterior rather than crowding the final exchange.
+- Romeo enters the final room alone while remaining within audible and visual reach of friendly personnel.
+- There is no detached cinematic, third-person cut, boss arena, combat music sting, or forced camera lock.
+
+GLUSHKIN'S PHYSICAL STATE
+- Glushkin waits in an ordinary kitchen, dining room, or similarly restrained domestic room.
+- He is not actively fighting when Romeo reaches him.
+- A sidearm may be visible on a table or separate surface, but it is not in Glushkin's hand and is not positioned so that a sudden reach forces a reflexive self-defense outcome.
+- The room may contain an inert radio, selected burned papers, sparse route notes, and the folded “Понятно” page, but it must not become an exposition museum.
+- His American cover performance has largely fallen away and his natural Russian speech pattern is perceptible.
+
+SEAMLESS DIALOGUE STATE
+- Romeo's weapon remains visible at low ready or another tactically credible presentation.
+- The player retains free look and may examine Glushkin, the room, the weapon, surviving evidence, the window, or the teammate holding the doorway.
+- Movement may be limited to the room and immediate threshold to preserve blocking, but the camera remains the player's.
+- The game does not repeatedly drag the camera back to Glushkin.
+- Glushkin may pause naturally if the player deliberately looks away, but the scene continues without punishing missed eye contact.
+
+PROTECTED DIALOGUE INTENT
+The final exchange establishes that:
+- Glushkin knows organized Russian resistance and his counter-network have collapsed;
+- he knows Lipnin and the institution discarded him;
+- his remaining choices were his own;
+- he does not repent, beg, rage, change sides, or seek absolution;
+- he would have repeated the choices he believed necessary;
+- Romeo confronts him over the people, homes, routes, and relationships reduced to entries in an intelligence picture;
+- Glushkin recognizes that Romeo now owns the immediate decision about his fate.
+
+Exact wording remains screenplay-level, but the exchange must not force either outcome by making Glushkin attack, reach for his weapon, or explicitly demand death.
+
+PLAYER CHOICE — LOCKED
+After the final exchange, the player receives an unforced choice between two supported outcomes.
+
+The game must not use:
+- a morality meter;
+- red/blue choice labels;
+- a countdown;
+- a quick-time event;
+- slow motion;
+- a reward/penalty preview;
+- an achievement flourish that declares one branch morally correct.
+
+The two outcomes are:
+
+OUTCOME A — KILL GLUSHKIN
+- Normal trigger control remains available after the dialogue.
+- The player may shoot Glushkin without him making a hostile move.
+- The scene does not disguise this as reflexive self-defense or a conventional firefight.
+- The preferred presentation is one decisive shot, without execution animation, cinematic camera cut, score swell, loot notification, or triumph line.
+- Glushkin may understand this as the soldier's end he expected or as death at an enemy's hand, but the game must not authoritatively label it an “honorable death in battle.” He is no longer actively fighting, and the moral/legal discomfort is part of the choice.
+- Dingo and Howler's response remains restrained and character-consistent; neither turns the moment into celebration.
+
+OUTCOME B — CAPTURE GLUSHKIN ALIVE
+- The player may lower or withhold fire and issue a clear command for Glushkin to stand, turn, and move away from the table.
+- A simple contextual interaction may support the capture path, but it must not replace the player's freedom to fire.
+- Dingo or Howler enters, searches, disarms, restrains, and assumes physical custody of Glushkin.
+- Glushkin complies without bargaining for safety, offering redemption, or converting the scene into a surrender negotiation.
+- He is transferred to U.S. military/intelligence custody for interrogation, evidentiary exploitation, and later legal disposition.
+
+LEGAL-TERMINOLOGY CONTROL
+Current-facing source language should describe the capture branch as taking Glushkin alive as an enemy intelligence officer attached to the occupation and transferring him into U.S. custody.
+
+Do not automatically label him:
+- an “enemy collaborator,” because he is the hostile foreign intelligence officer rather than a local person collaborating with an occupier; or
+- a prisoner of war as a settled legal conclusion before later law-of-armed-conflict and intelligence-status review.
+
+Whether he legally qualifies for prisoner-of-war treatment, another protected detainee category, or prosecution under a different theory remains a later legal-canon field. His humane capture and transfer are protected regardless of classification.
+
+BRANCH PARITY
+- Both outcomes are supported campaign endings.
+- Neither branch changes the fact that the AFC–Army coalition already liberated Cumberland Gap.
+- Neither branch produces a different corridor-control result.
+- Downstream canon must not silently require Glushkin to be dead or alive unless a later explicit canonical-outcome decision resolves the branch.
+- Save-state or imported-choice continuity may preserve the outcome if later content references it.
+
+===============================================================================
+PART II — POST-BATTLE FORCE DISPOSITION
+===============================================================================
+
+TIMING OF THE PLAN
+The force-division plan is communicated in two stages.
+
+STAGE 1 — BEFORE THE QUIET HOUSE
+- After organized Russian resistance collapses, radio traffic confirms that the combined AFC–Army force is dividing between a Cumberland hold/support element and a mobile northeast exploitation element.
+- This information remains operational background while Romeo follows the final lead to Glushkin.
+- The mission does not interrupt the personal confrontation with a long strategic briefing.
+
+STAGE 2 — AFTER THE QUIET HOUSE
+- Romeo returns to the corridor and sees the division physically underway.
+- The player retains first-person movement and free observation while the former battlefield becomes a functioning military and civic route.
+
+CUMBERLAND HOLD AND REGIONAL SUPPORT ELEMENT
+Protected responsibilities:
+- secure both tunnel portals and the preserved corridor;
+- support Army engineers clearing demolition charges and route hazards;
+- establish traffic control, casualty movement, communications, fuel, ammunition, and medical support;
+- defend against immediate Russian counterattack or sabotage;
+- support AFC resistance operations and threatened communities in the Tri-County and wider Cumberland area;
+- prevent the strategic victory from becoming a temporary raid with no durable local ownership.
+
+BEAVER — LOCKED POST-BATTLE ROLE
+- Beaver remains in the Tri-County / Cumberland Gap area.
+- He assumes Romeo's day-to-day military coordination and field-leadership responsibilities within the regional AFC structure.
+- He serves as the principal continuity link between local AFC cells, the Cumberland hold force, forward Army personnel, engineers, and nearby active resistance operations.
+- Beaver does not become an unaccountable regional commander or replace civilian authority.
+- Renata Voss, Priya Okonkwo, Aldridge, community leaders, and Army counterparts retain their own lanes and legitimacy.
+- Beaver's role is to make the regional victory sustainable after Romeo departs.
+
+NORTHEAST MOBILE ELEMENT
+Protected responsibilities:
+- exploit the newly opened Cumberland corridor;
+- move reconnaissance, mobile combat power, liaison personnel, and selected AFC guides farther northeast;
+- connect with fractured resistance and military relay routes;
+- begin the wider movement that eventually concentrates Romeo's attention on Boston.
+
+FIRE TEAM DELTA SPLIT — LOCKED
+- Romeo joins the northeast mobile element.
+- Dingo joins Romeo.
+- Howler joins Romeo.
+- Beaver remains behind in the Cumberland/Tri-County regional role.
+- Dingo and Howler are the two trusted eastbound companions reserved by the existing NO KINGS bridge and EASTBOUND prologue sources.
+
+The split should feel like responsibility rather than squad breakup. Fire Team Delta has reunited, proven itself inside the AFC campaign, and now divides because the victory creates two simultaneous obligations that cannot both be led by Romeo.
+
+POST-CONFRONTATION PLAYABLE CLOSING SPACE
+Protected visible elements:
+- engineers and security personnel remain around the western portal and demolition sites;
+- defensive Army vehicles and AFC positions remain to hold the route;
+- local fighters and logistics teams prepare supplies for nearby towns;
+- civilians, casualties, and medical vehicles move in the opposite direction from the advancing formations;
+- Beaver is visibly integrated into the regional command-and-support activity;
+- Dingo and Howler prepare to depart with Romeo;
+- a mobile Army/AFC column forms for northeast movement.
+
+The player may walk through this changed environment before joining the departing group. The game should reward observation without forcing Romeo to inspect every activity.
+
+DEPARTURE BEAT
+- Romeo, Dingo, and Howler join the mobile force and move out through the opened corridor.
+- Beaver remains behind with the Cumberland hold and regional-support structure.
+- The closing image may show Beaver and Romeo exchanging a restrained acknowledgment rather than a speech-heavy farewell.
+- Romeo boards or mounts the departing vehicle under player control or through a seamless first-person interaction.
+- The column's movement is the beginning of the bridge, not a direct uninterrupted drive to Boston.
+
+NO KINGS CONTINUITY
+- The Kentucky-to-Boston transition still spans a meaningful inter-campaign interval.
+- Romeo, Dingo, and Howler move through fractured military, resistance, freight, safehouse, and local-guide relay routes.
+- Boston already has its own organized resistance and Elena Costa remains its local operational authority.
+- Romeo arrives as a useful outsider carrying Kentucky experience, not as the commander of an intact liberation army.
+- The final playable leg remains EASTBOUND.
+
+OPEN PRODUCTION FIELDS
+- Exact Glushkin dialogue and room blocking.
+- Exact interaction used to order capture.
+- Exact teammate line or silence after either outcome.
+- Whether later content imports the branch outcome.
+- Exact Beaver title within the regional AFC structure.
+- Exact northeast mobile-force order of battle and initial route.
+- Exact closing line, music, and final cut point.
+
+SOURCE RELATIONS
+- PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+- PW_Glushkin_Cumberland_Gap_Final_Confrontation_Addendum_2026-07-31_rev1.txt
+- PW_Kentucky_to_Boston_Bridge_Canon_2026-07-22_rev1.txt
+- PW_NO_KINGS_Act1_Eastbound_War_Early_Mission_Ladder_2026-07-22_rev1.txt
+- PW_EASTBOUND_Prologue_Script_Path_2026-07-22_rev2.txt
+
+END
