@@ -86,14 +86,19 @@ bridge under fire
 -> Zuñiga target identification and defense
 -> NMESIS strike
 -> alert-fighter exploitation
+-> short northeast return trek on foot
+-> arriving Humvee pickup
+-> direct transport to NCTS
 -> NCTS emergency-cell closeout
 
 PACING RESULT
 
 The first three nodes require vehicle-led or compressed movement. Base Defense and
 Tower have distinct information functions. Combat must occur between briefings.
-The final return from Zuñiga must be transformed by vehicle pickup, a new service
-route, compressed withdrawal, or renewed combat; it cannot be a long clean retrace.
+The final return is no longer an open implementation choice: Delta leaves Zuñiga
+on foot, moves northeast only a short distance, is met by an arriving Humvee, and
+is taken directly to NCTS. The player observes the ride but does not drive. This
+removes the long clean retrace while preserving a consequence-viewing transition.
 
 COMBAT-DENSITY RESULT
 
@@ -104,8 +109,11 @@ pressure in the following spaces:
 - hangar and service-road corridor;
 - UAV-guidance engagement;
 - range-sector handoff;
-- Zuñiga observation-post defense;
-- return through the changed battlespace.
+- Zuñiga observation-post defense.
+
+The Humvee return is not a new final combat arena. It displays the changed
+battlespace: reduced UAV accuracy, lighter naval fire, alert aircraft airborne,
+and defenders regaining movement.
 
 FIRE-SUPPORT RESULT
 
@@ -113,6 +121,15 @@ The player does not personally launch NMESIS. Delta identifies and tracks the
 correct hostile vessels, passes the fire-control solution, and confirms the launch
 window. The missile strike breaks the naval formation and creates a temporary
 window for already armed alert aircraft to launch and attack.
+
+RETURN AND CLOSEOUT RESULT
+
+- Delta begins the return from the Zuñiga sector on foot.
+- An arriving Humvee reaches the team a short distance into the northeast trek.
+- The full team boards and is transported directly to NCTS.
+- The player does not drive the Humvee.
+- The ride carries the visible operational payoff of the earlier objectives.
+- Delta enters the NCTS-hosted emergency cell and delivers the final report.
 
 REMAINING OPEN FIELDS
 
@@ -122,15 +139,15 @@ REMAINING OPEN FIELDS
 - NMESIS callsign, launcher count, missile count, and target set.
 - Alert-aircraft type, callsign, runway, and strike choreography.
 - Final fictionalized building identities.
-- Exact return pressure and closing cinematic grammar.
+- Humvee crew, callsign, pickup route, and ride dialogue.
 - Civilian states and destruction budget.
 
 RESULT
 
 The map is a viable and visually strong geographic backbone for TIDEFIRE. Four
-spatial / naming corrections and one pacing requirement are necessary: correct
-the adjacent residential terminology, fictionalize the first command post, move
-the range handoff southwest, move the designation objective to the Zuñiga sector,
-and prevent the finale from playing as an errands-only route. With those changes,
-the objective flow supports a credible Game 1 climax and cleanly preserves the
-Coronado-to-Calloway bridge.
+spatial / naming corrections and one pacing lock are necessary: correct the
+adjacent residential terminology, fictionalize the first command post, move the
+range handoff southwest, move the designation objective to the Zuñiga sector, and
+close the finale with a short on-foot departure followed by an arriving Humvee
+pickup and direct NCTS transport. With those changes, the objective flow supports
+a credible Game 1 climax and cleanly preserves the Coronado-to-Calloway bridge.
