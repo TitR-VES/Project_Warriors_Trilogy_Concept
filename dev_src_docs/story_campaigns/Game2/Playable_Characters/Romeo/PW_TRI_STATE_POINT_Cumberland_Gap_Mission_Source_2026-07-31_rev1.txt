@@ -1,0 +1,358 @@
+PROJECT WARRIORS — TRI-STATE POINT / BATTLE OF CUMBERLAND GAP MISSION SOURCE
+Generated: 2026-07-31
+Version: rev1
+Status: FINALE ARCHITECTURE LOCKED / WESTERN-PORTAL SEQUENCE LOCKED / PRODUCTION DETAILS PARTIAL
+Campaign: Game 2 — AMERICAN FREEDOM
+Mission ordinal: 16
+Mission title: TRI-STATE POINT
+Canonical event name: Battle of Cumberland Gap
+Playable lead: SSG Ramón “Romeo” Álvarez
+
+PURPOSE
+Control the final operation of AMERICAN FREEDOM, including its geography, infrastructure stakes, AFC–U.S. Army cooperation, western-portal infiltration, Little Bird intervention, town liberation, Glushkin confrontation, and NO KINGS bridge.
+
+TITLE GOVERNANCE
+- TRI-STATE POINT is the playable mission title.
+- Battle of Cumberland Gap is the formal event name.
+- “Tri-State Point Battle” may appear as an informal in-world label used by fighters, journalists, or later historical accounts.
+
+GEOGRAPHIC AND OPERATIONAL PREMISE
+The operation takes place around Cumberland Gap, Tennessee, near the Virginia–Tennessee–Kentucky tri-state region. Russian forces control the logistics routes associated with the Cumberland Gap corridor, including the modern tunnel/highway system and the terrain controlling its approaches.
+
+Protected geographic distinction:
+- The Cumberland Gap Tunnel and connected modern roads are the principal heavy-logistics objectives.
+- The historic pass, Wilderness Road, ridges, trails, overlooks, and adjacent high ground support infiltration, reconnaissance, observation posts, communications positions, indirect-fire control, and infantry movement.
+- Do not portray the historic pass as a second modern heavy-vehicle route equivalent to the tunnel.
+
+CAMPAIGN FUNCTION
+The battle completes the campaign scale progression:
+Calloway survival -> resistance network -> AFC -> public legitimacy conflict -> conventional-force partnership -> strategically meaningful corridor liberation.
+
+The AFC contributes local intelligence, civilian routes, checkpoint knowledge, concealed approaches, communications, and distributed cells. Forward U.S. Army elements contribute engineers, heavier weapons, aviation, casualty evacuation, and the force required to hold and exploit the corridor. Romeo is the bridge between the two structures; the Army does not arrive afterward to erase or replace the AFC.
+
+MISSION-WIDE PROTECTED BEATS
+- The AFC and forward Army elements plan a coordinated operation to liberate the pass terrain, both tunnel portals, the town of Cumberland Gap, and the adjacent supply routes.
+- The town remains recognizable and human-scale. Civilian buildings and residents are not treated as expendable spectacle.
+- The operation preserves the tunnel as infrastructure rather than reducing it to a generic subterranean firefight.
+- ANGEL is not part of this mission. ANGEL remains the AMBITIOUS escape climax.
+- The larger battle changes dynamically around Romeo whether or not the player watches every allied action.
+- Organized Russian military resistance in the town collapses before Romeo’s final confrontation with Glushkin.
+- Glushkin is not the conventional battlefield commander and his defeat does not win the battle.
+- Friendly control of the corridor enables larger U.S. forces to move into the area and push farther northeast, creating the direct setup for NO KINGS.
+
+PROPOSED COMPOUND MISSION FLOW
+
+PHASE 1 — SHAPE THE CORRIDOR
+Protected beats:
+- AFC cells act across the Kentucky, Tennessee, and Virginia approaches.
+- They disrupt observation posts, communications relays, traffic-control points, reinforcement routes, and withdrawal lanes.
+- The distributed network Glushkin attempted to map becomes capable of synchronized action without presenting one decapitation point.
+Production-working beats:
+- Patrice, Terrell, Priya, Hargrove, Renata, Aldridge, Fire Team Delta, and neighboring cells may contribute through radio, adjacent objectives, logistics, or visible parallel movement without all joining Romeo’s immediate element.
+Open flags:
+- exact assignments, route names, and whether any shaping action is separately playable.
+
+PHASE 2 — HIGH GROUND / APPROACH
+Protected beats:
+- Romeo and his reunited teammates move through wooded high ground toward the western tunnel portal.
+- The terrain supports covert movement and observation before the checkpoint assault.
+- The operation is already underway elsewhere; allied radio traffic and distant combat communicate a larger synchronized plan.
+Production-working beats:
+- Earlier HIGH GROUND / LONG VIEW imagery may be echoed so the finale pays off the squad’s first view of the corridor.
+Open flags:
+- exact approach trail, overwatch positions, and enemy sensor package.
+
+PHASE 3 — WESTERN PORTAL / DEMOLITION-DENIAL ACTION
+Protected beats:
+- Romeo’s team covertly approaches and attacks the Russian checkpoint controlling the western tunnel portal.
+- Russian personnel have access to pre-planted explosive charges intended to collapse the portal if the position is lost.
+- Romeo’s immediate objective is to seize the checkpoint and prevent detonation, not to personally render every charge safe.
+- The detonation controls are secured, but the charges remain physically in place until Army engineers arrive.
+- The team cannot abandon the checkpoint because Russian survivors or a reaction force could retake the controls and destroy the route.
+Production-working beats:
+- Gameplay may include sentry removal, communications isolation, locating the command detonator/firing system, and stopping a final attempt to activate it.
+Open flags:
+- exact charge placement, firing-system design, and checkpoint staffing.
+
+WESTERN-PORTAL LITTLE BIRD INTERVENTION
+
+PRESENTATION RULE
+This entire sequence remains fully playable in first person. There is no detached cinematic.
+
+The player retains:
+- movement;
+- aiming and firing;
+- reloads and malfunction handling;
+- use of cover;
+- free look;
+- freedom to watch the aviation maneuver, observe only fragments, or continue fighting at ground level.
+
+Only two subtle camera-view tugs are permitted:
+1. when the inbound armored vehicles are first identified on the road;
+2. when the approaching rotor noise becomes perceptible.
+
+Both view tugs must be brief, low-strength, immediately cancellable by meaningful player input, disabled or strongly reduced while using magnified optics, and incapable of pulling Romeo away from an immediate close threat. Audio, teammate movement, pointing, tracer direction, and environmental cues must preserve comprehension if the player ignores them.
+
+ENEMY REACTION FORCE
+The checkpoint is reinforced by two Russian Tigr-M armored patrol vehicles.
+
+Protected vehicle configuration:
+- 2 x Tigr-M armored patrol vehicles;
+- each mounts a manually operated 12.7 x 108 mm Kord heavy machine gun, or a directly equivalent newer Russian heavy machine gun if later technical review requires substitution;
+- weapon mounted on a rotating roof ring / swivel station;
+- add-on armor shields protect the gunner from the front and both sides;
+- the station remains open above and behind, not a full enclosed armor box;
+- the gunner remains exposed enough to observe, traverse, reload, and clear stoppages;
+- the shields are intended to resist ground-level rifle fire and fragmentation.
+
+The Tigrs are not described as improvised technicals in current-facing source material.
+
+TIMING AND RADIO FLOW
+
+T+0 — TIGRS OBSERVED
+- A squad member first detects the vehicles through engine noise, dust, vegetation gaps, or silhouette movement on the western-portal road.
+- The first subtle view tug may encourage a glance toward the road.
+- The Tigrs remain distant enough to create comprehension and preparation time before their heavy guns dominate the checkpoint.
+
+Protected warning intent:
+“Road! Two vehicles inbound!”
+
+T+5 TO T+10 — ROMEO CALLS THE THREAT
+Protected communication intent:
+ROMEO: “Hornet Two, Sparrow Five, this is Romeo. Two Tigrs inbound on the western portal road—both with roof-mounted heavies. We’re holding the demolition controls, but we’re exposed.”
+
+The final radio line may be rewritten for military-natural delivery, but it must communicate:
+- two armored vehicles;
+- roof-mounted heavy weapons;
+- western portal;
+- detonation controls secured;
+- Romeo’s team unable to disengage safely.
+
+T+10 TO T+15 — AVIATION RESPONSE
+Protected callsigns and roles:
+- Hornet 2 = AH-6M Little Bird / rocket CAS and armed overwatch.
+- Sparrow 5 = MH-6M Little Bird / extraction and relocation.
+
+Protected response intent:
+HORNET TWO: “Romeo, Hornet Two. Copy two armored vehicles with heavy guns. We’re two klicks down the road, inbound for close support.”
+SPARROW FIVE: “Sparrow Five copies extraction at the western portal. Ninety seconds.”
+
+The ninety-second ETA includes terrain masking, route alignment, attack setup, aircraft separation, and positive identification of Romeo’s position. It is not treated as a simple straight-line speed calculation.
+
+T+15 TO T+60 — DEFENSIVE HOLD
+Protected beats:
+- The player survives while the Tigrs close.
+- The squad remains tactically active and does not freeze while waiting for a scripted rescue.
+- Romeo can suppress exposed gunners, engage surviving checkpoint personnel, reposition, and preserve the demolition controls.
+- Ordinary small arms may damage exposed crew, tires, optics, or external components but should not make both armored vehicles trivial to destroy.
+Production-working beats:
+- One Tigr may halt briefly to establish a firing position while the other presses forward.
+- Russian checkpoint survivors may use the vehicle pressure to attempt a counterattack.
+Optional radio update:
+HORNET TWO: “Romeo, sixty seconds. Keep your people clear of the road.”
+
+AROUND T+60 — ROTOR NOISE
+- Rotor sound becomes audible approximately sixty seconds after the initial aviation response, roughly thirty seconds before arrival.
+- It begins ambiguously beneath heavy-machine-gun fire, small arms, engines, radio traffic, and mountain echoes.
+- The second subtle view tug may draw slightly toward the road behind the Tigrs.
+- Directional audio must allow a player who never looks to understand that fast aircraft are approaching from behind the enemy vehicles.
+
+Possible teammate recognition:
+“Little Birds inbound!”
+
+T+75 TO T+88 — ENVIRONMENTAL PRECURSORS
+Production-working cues:
+- branches and leaves move down the road;
+- birds scatter;
+- rotor shadows cross exposed ground;
+- dust and loose debris begin to shift;
+- Tigr gunners look rearward or attempt to rotate their weapons.
+
+T+90 — LOW-LEVEL ARRIVAL
+Protected beats:
+- Hornet 2 and Sparrow 5 appear in a staggered line, flying fast along the road and staying almost below the surrounding treetops.
+- They approach from behind the Tigrs and blitz over them before either gunner can meaningfully track or fire.
+- The helicopters do not wait for the player to look at them; their maneuver unfolds on the operation’s own timing.
+
+AIRCRAFT SPLIT
+
+HORNET 2 ATTACK MANEUVER
+Protected beats:
+- Hornet 2 breaks forward, appearing to accelerate toward the hillside.
+- It pitches sharply upward into a violent climbing wingover / steep reversal.
+- The bank is extreme enough that the rotor disc appears nearly vertical and the maneuver may look almost inverted from Romeo’s position.
+- The aircraft does not perform a literal sustained inverted maneuver.
+- Hornet 2 pivots across the slope, rolls back toward level, noses over, and descends onto the attack line.
+- It levels at approximately sixty-five feet above the checkpoint approach, facing the oncoming Tigrs.
+
+SPARROW 5 LANDING MANEUVER
+Protected beats:
+- Sparrow 5 breaks southeast over the portal.
+- It enters a wide, gently descending arc, trading speed for altitude.
+- It clears the portal infrastructure, aligns with the road, and lands on the road surface immediately outside the western tunnel entrance.
+- Its external benches are oriented for Romeo’s team to mount rapidly.
+
+HORNET 2 ROCKET ATTACK
+Protected beats:
+- Hornet 2 fires a two-rocket ripple before the Tigr crews can react effectively.
+
+FIRST TIGR
+- The first rocket strikes the lead Tigr directly.
+- The vehicle is destroyed or catastrophically disabled.
+
+SECOND TIGR — CONTROLLED CAUSALITY
+- The driver reacts late, accelerates, and pulls hard toward the right shoulder.
+- The evasive maneuver avoids a direct hit.
+- The second rocket impacts the road surface immediately behind and to the left of the Tigr.
+- The detonation occurs approximately one foot from the rear-left wheel area.
+- The rollover is caused by multiple interacting factors, not blast pressure alone.
+
+Protected destabilization chain:
+1. Near-blast pressure and ejected road-surface debris strike the rear-left portion of the moving vehicle.
+2. The rear wheels briefly unweight and lose effective traction.
+3. The vehicle is already under aggressive steering input toward the right shoulder.
+4. The rear becomes light and unstable while the heavy front pitches downward.
+5. When the rear returns to the road, the Tigr is no longer stable in its steering line.
+6. It slews or crab-slides sideways toward the shoulder.
+7. The right-side tires hit the road-edge transition and uneven shoulder geometry.
+8. The bump and slight slope beyond the shoulder trip the vehicle into a rollover.
+9. The Tigr tumbles into the ditch and comes to rest on its right side.
+
+The right-side resting position is the controlling spatial outcome.
+
+SECOND TIGR DAMAGE STATE
+Protected visible damage:
+- rear-left blast and debris damage;
+- rear-left door sprung or blown open;
+- rear-left door visibly deformed and unable to close correctly;
+- roof heavy-machine-gun station mangled;
+- weapon mount bent upward at an unnatural angle;
+- two armor plates on the turret’s left side collapsed or crumpled during the rollover.
+
+The two vehicles must read differently:
+- first Tigr = direct catastrophic kill;
+- second Tigr = evasive mobility loss and rollover with readable mechanical history.
+
+SPARROW 5 PICKUP
+Protected beats:
+- Sparrow 5 lands while Hornet 2 completes the attack and transitions to armed overwatch.
+- Rotor wash moves dust, leaves, loose checkpoint debris, and light roadside clutter.
+- Romeo and his teammates run to the MH-6M and mount its external personnel benches.
+- The pickup remains playable and exposed; it is not a safe cutscene pause.
+- Follow-on AFC and Army personnel converge on the checkpoint.
+- Army engineers assume responsibility for rendering the charges safe.
+- Romeo’s team is being re-tasked forward, not abandoning the portal.
+
+AIR RELOCATION
+Protected beats:
+- Sparrow 5 lifts with Romeo’s team seated externally.
+- Hornet 2 escorts the aircraft to the pre-assault staging position.
+- The player retains first-person visual freedom during the flight.
+- The flight reveals the widening operation: western checkpoint, engineers, friendly buildup, Russian positions, occupied town, and moving resistance elements.
+- The sequence functions as a seamless in-world transition rather than a loading-screen reset.
+
+DROP-OFF AND EASTERN-PORTAL SUPPORT
+Protected beats:
+- Sparrow 5 lands at the pre-assault staging position outside Cumberland Gap.
+- Hornet 2 provides overwatch during the exposed dismount.
+- After Romeo’s team is safely on the ground, Sparrow 5 withdraws.
+- Hornet 2 breaks away to support the parallel push against the eastern portal checkpoint.
+- Hornet 2 avoids indiscriminate rocket fire into the tunnel mouth because the infrastructure must be preserved.
+- Its eastern support may target exposed vehicles, machine-gun positions, reinforcements, and slope positions controlling the approach.
+
+DYNAMIC BATTLEFIELD RULE
+Allied elements must appear to possess their own objectives, timing, situational awareness, and maneuver plans. Their actions alter the playable environment whether or not the player is watching.
+
+Valid player experiences include:
+- seeing the complete low-level approach, split, wingover, rocket strike, and landing;
+- hearing the overflight and rockets from cover;
+- seeing only shadows, rotor wash, or the second Tigr overturn;
+- watching Sparrow 5’s landing while missing Hornet 2’s full reversal.
+
+Every version must remain coherent. Observation is rewarded but not required.
+
+PHASE 4 — PRE-ASSAULT STAGING
+Protected beats:
+- Romeo rejoins AFC assault groups, forward Army infantry, engineers, and Fire Team Delta support elements.
+- Checkpoint ammunition state, injuries, and dialogue consequences may carry forward.
+- The staging beat is brief and operational, not a full emotional reset.
+Open flags:
+- exact location and named friendly leaders present.
+
+PHASE 5 — EASTERN PORTAL AND TOWN ASSAULT
+Protected beats:
+- Friendly forces secure both portal areas and prevent tunnel denial.
+- The combined AFC–Army force attacks remaining Russian positions in Cumberland Gap and the connecting road network.
+- The Russians fight under deteriorating conditions: western demolition plan failed, checkpoints lost, AFC cells closing routes, American forward elements advancing, and Glushkin’s counter-network no longer functioning as an effective command system.
+- Romeo’s route remains infantry-centered while radio and visible adjacent actions communicate the larger battle.
+- Organized Russian resistance collapses through surrender, withdrawal, isolation, or defeat.
+- Friendly forces secure the road junctions, tunnel approaches, town, and terrain needed to prevent an immediate reversal.
+Production-working beats:
+- Russian armored vehicles may attempt to hold the interchange.
+- AFC cells may emerge from concealed positions as the assault opens.
+- Civilians shelter in homes and public buildings.
+- Virginia-side resistance or Army elements may close the eastern escape route.
+Open flags:
+- exact route through town, force composition, armor package, and eastern-portal encounter design.
+
+PHASE 6 — GLUSHKIN / QUIET HOUSE
+Protected beats:
+- The burn-notice sequence occurs before the final confrontation.
+- Formal Russian military resistance in the town has already collapsed.
+- Romeo follows a final lead or recognizes the importance of an ordinary house at the edge of town.
+- Outside, the battle is subsiding; inside, the house is still.
+- Glushkin is waiting without a fortified command post or theatrical defensive perimeter.
+- He may have destroyed documents, disabled communications, and dismissed or lost remaining personnel.
+- Romeo enters with one or two teammates rather than a full assault platoon.
+- Glushkin does not beg, rage, confess melodramatically, or convert to Romeo’s side.
+- His cover accent falls away enough for his natural Russian speech pattern to become perceptible.
+- He acknowledges the collapse and his own agency after being burned.
+- Romeo confronts the human cost of reducing communities and relationships to a counter-network map.
+- Exact dialogue and final outcome remain screenplay/implementation decisions.
+
+Thematic control:
+Glushkin spent the campaign turning ordinary homes, routes, and relationships into intelligence architecture. Romeo meets him finally in an unremarkable domestic space after those relationships have already defeated the system he built. Glushkin’s personal resolution follows the liberation; it does not cause it.
+
+PHASE 7 — END STATE / NO KINGS BRIDGE
+Protected beats:
+The AFC and forward Army elements hold:
+- both tunnel portals;
+- the preserved tunnel route;
+- the principal US 25E corridor objective;
+- the Tennessee junction and town approaches;
+- the Virginia-side approach / US 58 axis as represented in the fictionalized operation;
+- the high ground necessary to protect the route from immediate reversal.
+
+The corridor permits movement of:
+- additional U.S. formations;
+- engineers;
+- fuel and ammunition;
+- medical support;
+- civilians and casualties moving in the opposite direction.
+
+Protected final-image intent:
+Romeo returns outside after Glushkin’s resolution and watches larger American forces begin moving through the opened corridor. AFC route markers and local fighters remain visible beside formal Army traffic control and engineering activity. The movement is larger than Romeo and no longer wholly under his control.
+
+The campaign ends on movement through the gap, not ANGEL.
+
+This physically and thematically opens Romeo’s route toward NO KINGS: the AFC has become durable enough to spread beyond Calloway, while the liberated corridor enables the wider counteroffensive to move northeast.
+
+PRODUCTION-WORKING BEATS
+- Exact real-world roadway geometry should be adapted carefully for gameplay while preserving the tunnel/pass distinction.
+- The AH-6M/MH-6M package may be identified as a 160th SOAR element if wider order-of-battle review confirms the designation and availability.
+- Callsigns Hornet 2 and Sparrow 5 are accepted for this sequence, subject only to a future project-wide duplicate-callsign conflict check.
+- Dialogue examples in this source protect meaning, not immutable wording.
+- Exact rocket type, impact effects, and vehicle-damage simulation remain technical-art and effects review items.
+
+OPEN FLAGS
+- Exact operation date.
+- Final friendly and enemy order of battle.
+- Exact eastern-portal action and the degree to which it is visible/playable from Romeo’s route.
+- Detailed tunnel engineering and demolition-system design.
+- Civilian density, protected structures, and destruction budget in the town.
+- Exact staging-point geography.
+- Final Glushkin dialogue, player-control grammar, and consequence state.
+- Final campaign closing line and music treatment.
+
+SOURCE TRANSCRIPT
+Project_Warriors_American_Freedom_Cumberland_Gap_Thread_Archive_2026-07-31.txt
