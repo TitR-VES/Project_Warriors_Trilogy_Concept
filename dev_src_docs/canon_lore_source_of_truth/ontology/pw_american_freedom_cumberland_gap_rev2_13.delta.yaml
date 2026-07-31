@@ -1,0 +1,201 @@
+meta:
+  delta_id: PW-ONT-AMERICAN-FREEDOM-CUMBERLAND-GAP-2026-07-31-REV1
+  generated: '2026-07-31'
+  narrative_structure_applies_to: pw_narrative_structure_rev2.yaml
+  timeline_applies_to: pw_world_event_timeline_rev2_12.yaml
+  timeline_produces: pw_world_event_timeline_rev2_13.yaml
+  status: locked_american_freedom_ladder_and_cumberland_gap_finale
+  chronology_changes: true
+  sources:
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+  - dev_src_docs/characters/PW_Glushkin_Cumberland_Gap_Final_Confrontation_Addendum_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_American_Freedom_Synopsis_Addendum_2026-07-31_rev1.txt
+  - Project_Warriors_Knowledge_Compendia/PW_AMERICAN_FREEDOM_Ladder_and_Cumberland_Gap_Addendum_2026-07-31_rev1.txt
+
+operations:
+- op: update_campaign
+  match_id: PW-CMP-G2-AMERICAN-FREEDOM
+  set:
+    status: locked_campaign_ladder_with_production_details_open
+    protagonists:
+    - name: Ramón Álvarez / Romeo
+      role: sole primary playable protagonist
+    temporal_modes:
+    - continuous_primary
+    notes: >-
+      Controlling Game 2 ladder: untitled post-Coronado prologue -> LOW GROUND ->
+      DEAD AIR -> THE REDBUD VEHICLES -> FARM ROAD -> SECOND LEVEL -> THREE COUNTIES ->
+      FREQUENCY -> OTHER TOWNS -> AMERICAN FREEDOM -> HARGROVE'S RECORD -> HIGH GROUND ->
+      Crodyn wartime presidential-address interlude -> FREE GROUND -> LONG VIEW ->
+      GLUSHKIN'S MAP -> optional/conditional FACE TO FACE -> AMBITIOUS -> TRI-STATE POINT.
+      ANGEL remains the AMBITIOUS escape climax. TRI-STATE POINT is the Battle of
+      Cumberland Gap finale and opens the corridor/character bridge into NO KINGS.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt
+    - dev_src_docs/characters/PW_Glushkin_Cumberland_Gap_Final_Confrontation_Addendum_2026-07-31_rev1.txt
+
+- op: add_events
+  values:
+  - id: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+    name: TRI-STATE POINT
+    event_name: Battle of Cumberland Gap
+    era: PW-ERA-WWIII
+    date:
+      relative: after AMBITIOUS and before Romeo's Game 3 NO KINGS campaign; exact date TBD
+    ordering:
+      after: [AMBITIOUS]
+      before: [PW-TRK-G3-NO-KINGS]
+    location: Cumberland Gap corridor; Cumberland Gap, Tennessee; Virginia-Tennessee-Kentucky tri-state region
+    actors:
+    - Ramón Álvarez / Romeo
+    - Fire Team Delta
+    - American Freedom Corps
+    - forward United States Army elements
+    - Army engineers
+    - Hornet 2 / AH-6M Little Bird
+    - Sparrow 5 / MH-6M Little Bird
+    - Vyacheslav Glushkin
+    - Russian occupation forces
+    depicted_in: [PW-TRK-G2-AMERICAN-FREEDOM]
+    status: confirmed_plot_architecture_production_details_open
+    notes: >-
+      Mission 16 and AMERICAN FREEDOM finale. AFC and forward Army elements liberate the
+      Cumberland Gap corridor, preserve both tunnel portals, defeat organized Russian
+      resistance in Cumberland Gap, and open the route for a larger northeastward
+      counteroffensive. Romeo's team seizes the western-portal checkpoint and prevents
+      detonation of pre-planted demolition charges. Two uparmored Tigr-M patrol vehicles
+      with open-topped Kord heavy-machine-gun stations counterattack. Hornet 2, an AH-6M,
+      destroys the lead vehicle and destabilizes the second with a near rocket impact;
+      the second vehicle hits the right shoulder and rolls into the ditch onto its right
+      side. Sparrow 5, an MH-6M, extracts Romeo's team to the pre-assault staging point.
+      The aviation sequence remains fully player-controlled first person. Hornet 2 then
+      supports the eastern-portal push. After the town battle is won, Romeo confronts
+      burned Glushkin in a quiet house at the edge of town. Glushkin's resolution does not
+      cause the liberation. The campaign ends with larger American formations moving
+      through the preserved corridor, creating the physical and thematic bridge to NO KINGS.
+    relations:
+      prior_sequence:
+      - AMBITIOUS / DARK-SIGNAL-COST compound operation
+      - ANGEL escape sequence / SPECTRE FOUR ONE intervention
+      contains_phases:
+      - corridor shaping and high-ground approach
+      - western-portal demolition-denial action
+      - Hornet 2 / Sparrow 5 Little Bird intervention
+      - pre-assault relocation
+      - eastern-portal and Cumberland Gap town assault
+      - quiet-house Glushkin confrontation
+      - corridor-opening end state
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+
+- op: update_campaign_track
+  match_id: PW-TRK-G2-AMERICAN-FREEDOM
+  set:
+    status: locked_campaign_ladder_with_exact_dates_and_selected_production_fields_open
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt
+    - dev_src_docs/characters/PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt
+    - dev_src_docs/characters/PW_Glushkin_Cumberland_Gap_Final_Confrontation_Addendum_2026-07-31_rev1.txt
+    notes: >-
+      Hard-order ladder: untitled prologue -> LOW GROUND -> DEAD AIR -> THE REDBUD
+      VEHICLES -> FARM ROAD -> SECOND LEVEL -> THREE COUNTIES -> FREQUENCY -> OTHER
+      TOWNS -> AMERICAN FREEDOM -> HARGROVE'S RECORD -> HIGH GROUND -> Crodyn address ->
+      FREE GROUND -> LONG VIEW -> GLUSHKIN'S MAP -> optional FACE TO FACE -> AMBITIOUS ->
+      TRI-STATE POINT. THREE COUNTIES absorbs NEIGHBOR; OTHER TOWNS incorporates PRIYA'S
+      GROUND; HARGROVE'S RECORD incorporates WASHINGTON'S WALL consequences; HARD GROUND
+      is the opening movement of FREE GROUND; LONG VIEW incorporates SUPPLY AND DEMAND;
+      AMBITIOUS contains DARK, SIGNAL, COST, and ANGEL; TRI-STATE POINT is the Battle of
+      Cumberland Gap finale. Exact dates, prologue title, FACE TO FACE placement, detailed
+      eastern-portal route, and Glushkin consequence implementation remain open.
+
+continuity_constraints:
+- id: PW-CONT-G2-ROMEO-LADDER-SPINE
+  campaign_ref: PW-CMP-G2-AMERICAN-FREEDOM
+  sequence:
+  - LOW GROUND
+  - DEAD AIR
+  - THE REDBUD VEHICLES
+  - FARM ROAD
+  - SECOND LEVEL
+  - THREE COUNTIES
+  - FREQUENCY
+  - OTHER TOWNS
+  - AMERICAN FREEDOM
+  - HARGROVE'S RECORD
+  - HIGH GROUND
+  - Crodyn wartime presidential address
+  - FREE GROUND
+  - LONG VIEW
+  - GLUSHKIN'S MAP
+  - AMBITIOUS
+  - TRI-STATE POINT
+  note: FACE TO FACE may occur conditionally between GLUSHKIN'S MAP and AMBITIOUS without altering the hard mandatory sequence.
+
+- id: PW-CONT-G2-ROMEO-ANGEL-PLACEMENT
+  rule: >-
+    ANGEL belongs to the AMBITIOUS escape sequence. Do not move the improvised F-150/M240B
+    pursuit, SPECTRE FOUR ONE intervention, flare-wing image, or “American Freedom, over”
+    line into TRI-STATE POINT.
+
+- id: PW-CONT-G2-ROMEO-CUMBERLAND-INFRASTRUCTURE
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    The modern tunnel/highway corridor is the principal heavy-logistics objective. The
+    historic pass and surrounding high ground support infantry, reconnaissance, observation,
+    and approach control. The mission's victory requires preserving the corridor, not merely
+    clearing enemies from a tunnel interior.
+
+- id: PW-CONT-G2-ROMEO-LITTLE-BIRD-INTERVENTION
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    Hornet 2 is the AH-6M CAS/overwatch aircraft and Sparrow 5 is the MH-6M extraction
+    aircraft. Their western-portal arrival, rocket attack, pickup, and relocation remain
+    player-controlled first-person gameplay with only subtle cancellable view guidance.
+    The second Tigr's controlling resting state is on its right side in the ditch.
+
+- id: PW-CONT-G2-ROMEO-GLUSHKIN-FINALE
+  event_ref: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    Glushkin's burn notice precedes the final confrontation. Romeo meets him in a quiet house
+    at the edge of Cumberland Gap only after organized Russian resistance has collapsed.
+    Glushkin's personal resolution does not win the battle and must not become sudden
+    redemption, surrender negotiation, or a fortified boss encounter.
+
+- id: PW-CONT-G2-ROMEO-NO-KINGS-BRIDGE
+  sequence:
+  - PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  - PW-TRK-G3-NO-KINGS
+  rule: >-
+    Friendly control of the Cumberland Gap corridor enables larger U.S. forces to move
+    northeast while the AFC identity spreads beyond Romeo's direct control. Game 2 opens
+    the route and movement; it does not complete the national restoration depicted later.
+
+deferred_updates:
+- target: pre-existing AMERICAN FREEDOM mission events before TRI-STATE POINT
+  status: stable_event_identifier_recovery_required
+  reason: >-
+    The repository search layer does not expose authoritative stable event IDs for every
+    previously sourced Romeo mission. Do not invent duplicate IDs solely to encode the
+    ladder. The campaign-track order and durable ladder source control until the external
+    materialized timeline or stable IDs are available.
+
+- target: exact TRI-STATE POINT date
+  status: open
+  reason: Requires binding to the corrected Game 2 calendar and Crodyn-address placement.
+
+validation_targets:
+  timeline:
+    added_events: 1
+    duplicate_new_ids: 0
+    self_references: 0
+    new_ordering_cycle: false
+  narrative:
+    mandatory_missions: 16
+    optional_missions: 1
+    campaign_finale: TRI-STATE POINT
+    angel_placement: AMBITIOUS
