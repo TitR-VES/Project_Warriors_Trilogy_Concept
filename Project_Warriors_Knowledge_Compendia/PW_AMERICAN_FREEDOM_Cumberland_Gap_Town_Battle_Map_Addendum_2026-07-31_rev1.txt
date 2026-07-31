@@ -1,0 +1,93 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+AMERICAN FREEDOM — CUMBERLAND GAP TOWN-LIBERATION MAP AND FIRE-SUPPORT CONTROL
+Generated: 2026-07-31
+Version: rev1
+Status: CURRENT SYNTHESIS UPDATE / POST-DROPOFF ROUTE AND PARALLEL-BATTLE GEOGRAPHY LOCKED
+
+PURPOSE
+Surface the corrected KMZ-derived town-battle route for TRI-STATE POINT in the working-knowledge layer and prevent later summaries from reverting to an undefined Cumberland Gap assault, reusable mortar support, or a player-only battlefield.
+
+CONTROLLING MAP SOURCE
+Project Warriors American freedom Battle ofCumberland Gap gap (3).kmz
+Normalized placemark reference:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_KMZ_Placemark_Reference_2026-07-31_rev1.csv
+
+Durable narrative source:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_TRI_STATE_POINT_Cumberland_Gap_Town_Liberation_Geography_Addendum_2026-07-31_rev1.txt
+
+CURRENT POST-DROPOFF SPINE
+Sparrow 5 staging-area drop
+-> motorized-infantry suppression of University Inn
+-> Holiday Tire road-control capture
+-> Cumberland Gap Inn clearance
+-> D & D reinforced machine-gun position / first player-called mortar mission
+-> marked LMU building clearance
+-> post-office security
+-> Memorial Park heavy-machine-gun vehicle
+-> Caboose parking-lot defense / second player-called mortar mission
+-> Caboose Saloon final organized holdout
+-> parallel U.S. interception of retreating occupiers
+-> nearby Glushkin house
+-> post-battle hold/mobile force split
+-> Holiday Tire northeast departure assembly
+
+FIRE-SUPPORT LOCK
+- No player-called mortar mission occurs at University Inn.
+- Nearby motorized U.S. infantry suppresses University Inn while Romeo, Dingo, and Howler reach Holiday Tire.
+- D & D is the first player-called mortar mission.
+- D & D is the only player-called mortar mission near the dense built-up central-town objectives.
+- No additional call is available at the LMU marker, post office, or Memorial Park.
+- Mortar support returns at the Caboose Saloon parking lot.
+- The Caboose strike breaks the exterior defense; Romeo still clears the saloon.
+
+HOLIDAY TIRE FUNCTION
+Holiday Tire has three controlling functions:
+1. early player-secured road-control point;
+2. enabler for incoming mobile U.S. elements and the later retreat interception;
+3. post-battle assembly point where Romeo, Dingo, and Howler join the northeast element.
+
+Beaver remains with the Cumberland hold and regional AFC support structure.
+
+PARALLEL BATTLE RULE
+- Eastern forces rally at their marked staging area and use the marked overwatch position against the eastern portal checkpoint.
+- Hornet 2 shifts to support that axis after the western-portal pickup.
+- U.S. mobile elements approach from the south and later intercept retreating occupiers at the marked parking lot.
+- Romeo does not personally clear every portal or chase every retreating enemy.
+- Radio, smoke, distant fire, vehicle movement, and changing friendly control communicate independent allied action.
+
+TIGR ORIGIN LOCK
+The two western-portal Tigr-M reaction vehicles originate from the marked occupation supply point at the Union College Environmental Education Center reference. The point holds fuel, ammunition, and ready vehicles supporting the tunnel-control network. This gives the reaction force a diegetic starting location.
+
+GLUSHKIN TRANSITION
+The marked Glushkin house lies only about 67 metres from the Caboose Saloon reference. The final organized holdout can therefore flow directly into the quiet-house confrontation in continuous first person without a loading screen or transport reset.
+
+SPATIAL CONTROL
+The map supports a compact urban sequence:
+- Cumberland Gap Inn to D & D: approximately 72 m;
+- D & D to LMU marker: approximately 37 m;
+- LMU marker to post office: approximately 116 m;
+- post office to Memorial Park: approximately 87 m;
+- Memorial Park to Caboose parking lot: approximately 146 m.
+
+The western-portal checkpoint remains approximately 2.05 km from Sparrow 5's town staging area, preserving the tactical value of the helicopter relocation.
+
+COMPENDIUM USE RULE
+Apply this addendum over older summaries that:
+- leave the town route undefined;
+- assign a mortar strike to University Inn;
+- permit free/repeated mortar use through the civic block;
+- require Romeo to personally clear the eastern portal;
+- omit the retreat interception;
+- omit Holiday Tire's departure function;
+- or treat the two Tigrs as appearing without a diegetic origin.
+
+OPEN FIELDS
+- Final fictionalized business/institution names.
+- Exact interior layouts and civilian states.
+- Exact U.S. motorized unit and eastern-portal order of battle.
+- Mortar callsign, observer, munitions, round counts, and effects.
+- Memorial Park vehicle type.
+- Exact retreat-force composition.
+- Exact post-Glushkin movement back to Holiday Tire.
+
+END
