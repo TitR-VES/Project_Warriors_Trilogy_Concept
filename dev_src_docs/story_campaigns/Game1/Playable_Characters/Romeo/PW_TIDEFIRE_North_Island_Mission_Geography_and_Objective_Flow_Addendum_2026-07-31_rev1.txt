@@ -1,0 +1,307 @@
+PROJECT WARRIORS — GAME 1 / LEAD THE WAY
+TIDEFIRE — NORTH ISLAND MISSION GEOGRAPHY AND OBJECTIVE-FLOW ADDENDUM
+Generated: 2026-07-31
+Version: rev1
+Status: SOURCE-READY GEOGRAPHY REVIEW / WORKING MISSION-FLOW LOCK
+
+PURPOSE
+
+This page reconciles the owner-supplied TIDEFIRE My Maps KMZ with the public,
+high-level geography of Naval Air Station North Island and with the already
+locked Game 1 finale function. It preserves the strong spatial spine while
+correcting location labels, tightening objective logic, and identifying the
+combat content still required for the mission to read as the campaign finale.
+
+SOURCE INPUT
+
+- Owner-supplied KMZ: TIDEFIRE mission objective map.kmz
+- Embedded placemarks: 13
+- Mission: TIDEFIRE
+- Campaign: Lead the Way
+- Playable character: Ramón “Romeo” Álvarez
+- Stable event: PW-EVT-G1-ROMEO-CORONADO-FINALE
+
+SECURITY / PUBLIC-SOURCE HYGIENE
+
+The owner-supplied KMZ contains exact coordinates on an active military
+installation. This public repository lands the mission-relevant spatial
+relationships and planning sectors, but does not reproduce the exact coordinate
+set. The KMZ remains the owner's external cartographic source. Current-facing
+narrative pages should fictionalize exact building identities and avoid treating
+public map labels as authoritative operational layouts.
+
+OVERALL ASSESSMENT
+
+The geography works as a strong macro-level finale route:
+
+Coronado Bridge approach
+-> NASNI eastern gate / adjacent Coronado defense belt
+-> base-defense command handoff
+-> air-operations tower
+-> southeast shoreline UAV-guidance fight
+-> southwest range-sector fire-control handoff
+-> Zuñiga Point target-identification position
+-> NMESIS strike
+-> alert-fighter follow-up
+-> NCTS emergency operations / communications closeout
+
+The route uses the installation's east-to-west depth, exposes the player to the
+airfield, shoreline, and harbor approaches, and ends with a credible return toward
+a hardened communications node. It is geographically legible and thematically
+well matched to TIDEFIRE.
+
+The KMZ should be treated as an objective skeleton, not a complete combat ladder.
+Without additional enemy ground pressure between the marked nodes, the finale
+would risk becoming a sequence of briefings and target-designation errands. The
+landed flow below therefore locks combat functions between the mapped anchors
+without inventing final encounter layouts or enemy order of battle.
+
+GEOGRAPHY CORRECTIONS AND NORMALIZATION
+
+1. CORONADO BRIDGE
+
+The bridge approach is a valid eastern entry route. It gives the finale a strong
+arrival image and a clear transition from the southbound convoy into the defended
+Coronado battlespace.
+
+Use the bridge crossing as a vehicle-led opening under intermittent naval fire,
+UAV threat, smoke, and damaged traffic control. Do not require a long unopposed
+drive before the player reaches the base.
+
+2. ADJACENT CIVILIAN AREA
+
+The houses encountered before the NASNI gate should be described as evacuated
+Coronado neighborhoods adjacent to the installation, not as a civilian population
+evacuated “off North Island.” North Island is the naval installation at the north
+end of the Coronado peninsula; the residential district is the City of Coronado
+immediately east and southeast of the base.
+
+The existing image remains valid: evacuated homes have been occupied, sandbagged,
+or used as temporary positions by Navy and Marine defenders. The terminology is
+what changes.
+
+3. BASE-DEFENSE COMMAND HANDOFF
+
+“Naval Facilities Command” is too institutionally specific and potentially
+misleading as the first tactical headquarters. NAVFAC Southwest is headquartered
+elsewhere, although Naval Base Coronado's Public Works Department has a NASNI
+presence.
+
+Use a fictionalized wartime label:
+
+NASNI BASE-DEFENSE COMMAND POST
+
+The mapped northeast administrative-sector position remains usable. The command
+post can occupy a public-works or facilities-support building because utilities,
+damage control, route clearance, and base defense have converged during the
+attack. Its function is a fast in-motion handoff, resupply, and damage-control
+picture—not a second full briefing scene.
+
+4. TOWER COMMAND
+
+The tower / air-operations position is geographically and functionally strong.
+It should remain the primary tactical observation and tasking node. Tower
+personnel identify the enemy UAV-guidance problem, explain which runway and
+taxiway routes remain usable, and direct Delta toward the southeast shoreline.
+
+The Base-Defense Command Post and Tower must have distinct functions:
+- Base Defense: ground picture, damage control, access, reinforcement routes.
+- Tower: air picture, UAV attack pattern, runway status, alert-aircraft timing.
+
+5. ENEMY UAV-GUIDANCE ELEMENT
+
+The southeast shoreline placement is credible as a short-range hostile observation
+and guidance position operating from a low-profile boat or from a boat-supported
+shore team. The element's destruction should reduce the accuracy and tempo of
+enemy UAV attacks rather than switch all UAV pressure off.
+
+The mapped “vantage point” should be the player observation / engagement point.
+The hostile boat itself should remain visibly offshore rather than appearing to
+sit on the land placemark.
+
+A generic “nearby APC” is not sufficient implementation language. The supporting
+vehicle must possess credible direct-fire capability against a small craft. Keep
+the source generic as an ARMORED DIRECT-FIRE VEHICLE until the exact platform is
+selected; likely presentation families include a Marine LAV/ACV-type cannon
+vehicle or a CROWS-equipped vehicle. The player may designate the boat, direct
+the vehicle, or briefly operate its weapon depending on the final gameplay pass.
+
+6. NORTH ISLAND SMALL-ARMS RANGE
+
+The owner marker labeled “North Island Gun Range” sits too far east for the
+publicly documented range sector. The NASNI small-arms range belongs on the
+southwestern Pacific-facing side of the installation, south of the Zuñiga sector,
+with its surface-danger area extending offshore.
+
+Move the mission handoff to a fictionalized SOUTHWEST RANGE-SECTOR STAGING POINT.
+The range is useful because it naturally provides berms, cleared lanes, weapons
+personnel, and a plausible Marine littoral fire-control team. It should not be
+presented as a precise current-building reconstruction.
+
+7. ZUÑIGA POINT
+
+The owner marker for “Mark targets for NMESIS” is north of the actual southwestern
+extremity. Zuñiga Point / the jetty lies farther south at the mouth of San Diego
+Bay.
+
+Move the final target-identification position to a fictionalized observation post
+at or immediately landward of the Zuñiga Point sector. The player should not be
+required to stand on the exposed jetty itself. A berm, damaged range structure,
+temporary observation post, or shore-defense position can provide the needed
+view toward hostile vessels south and southwest of the installation.
+
+This correction strengthens the mission: the point is the natural place to see
+the outer approach, the channel mouth, and ships maneuvering offshore.
+
+8. NMESIS FIRING POSITION
+
+The western coastal NMESIS position is plausible at planning scale. NMESIS does
+not require the launch vehicle itself to have direct visual contact with the
+target, but it does require a reliable target track, positive identification,
+authorization, and deconfliction.
+
+The player objective at Zuñiga should therefore be framed as:
+- identify the correct hostile vessels;
+- maintain the track through smoke, UAV interference, and maneuver;
+- pass targeting data to the Marine fire-control element;
+- confirm the launch window.
+
+The strike should cripple or destroy one high-value vessel and force the remaining
+ships to maneuver, break formation, or move farther offshore. It buys a window;
+it does not end the entire amphibious battle by itself.
+
+9. ENEMY IMPACT ZONES
+
+These are naval-gunfire impact zones unless a separate land-artillery source is
+later established.
+
+The southwestern impact marker is on the North Island / Zuñiga side of the channel,
+not at Naval Base Point Loma. Remove the phrase “Loma naval base structures” from
+that marker. Use NORTH ISLAND SOUTHWEST SHORE / ZUÑIGA-SECTOR DAMAGE.
+
+The west-central and northwestern airfield impact markers are useful visual anchors.
+They should show destroyed support infrastructure and route denial while preserving
+at least one usable runway and one launch path for the later alert-fighter sequence.
+
+10. NCTS SAN DIEGO CLOSEOUT
+
+NCTS San Diego is a valid NASNI tenant and a strong final destination, but it is
+a communications command rather than the default senior air-station headquarters.
+
+Use the location as an NCTS-HOSTED EMERGENCY OPERATIONS / COMMUNICATIONS CELL.
+Primary command functions have been displaced or distributed because of shelling.
+Delta reports mission success through the hardened communications node while the
+base reconnects the ground, naval, and air picture.
+
+This makes the final return narratively purposeful rather than a simple walk back
+to another office.
+
+LOCKED MISSION FLOW
+
+PHASE 1 — BRIDGE UNDER FIRE
+
+- Romeo, Fire Team Delta, and attached motorized U.S. elements cross the Coronado
+  Bridge.
+- Naval gunfire, UAV warnings, smoke, damaged traffic control, and defensive
+  movement establish that the battle is already underway.
+- The convoy enters the evacuated adjacent Coronado defense belt and reaches the
+  NASNI gate.
+- This phase must contain threat and spectacle; it cannot be an unopposed transit.
+
+PHASE 2 — GROUND AND AIR PICTURE
+
+- Delta receives a short in-motion handoff at the NASNI Base-Defense Command Post.
+- The team moves across the active defense zone toward Tower Command.
+- Combat or route-clearing pressure must occur between the two nodes so that the
+  opening does not become two consecutive briefings.
+- Tower identifies a hostile UAV-guidance element operating along the southeast
+  shoreline and tasks Delta to remove it.
+
+PHASE 3 — BREAK THE UAV GUIDANCE LOOP
+
+- Delta advances through the hangar / service-road / perimeter corridor rather
+  than walking exposed across open runways.
+- The player reaches the mapped observation point and identifies the hostile boat
+  or boat-supported guidance team.
+- Romeo coordinates an armored direct-fire vehicle or uses a contextual weapon
+  interaction to destroy the craft.
+- Enemy UAV attacks become slower, less accurate, and less coordinated, but remain
+  present as battlefield pressure.
+
+PHASE 4 — REACH THE LITTORAL FIRE-CONTROL TEAM
+
+- Delta moves west toward the corrected southwest range-sector staging point.
+- A Marine littoral fire-control element confirms that an NMESIS battery can
+  engage the shelling vessels, but only after positive identification and a
+  stable target track.
+- The range sector provides a short resupply, a handoff of targeting equipment,
+  and a clear reason for Delta to continue toward Zuñiga.
+
+PHASE 5 — ZUÑIGA POINT DEFENSE AND TARGET IDENTIFICATION
+
+- Delta reaches a protected observation position immediately landward of Zuñiga
+  Point.
+- The player must identify the correct ships while rejecting friendly, damaged,
+  obscured, or non-priority contacts.
+- A ground counterattack, landing-party pressure, UAV harassment, or naval fires
+  threaten the observation post during the designation sequence.
+- The NMESIS launch occurs only after the player completes the identification and
+  track-confirmation task.
+
+PHASE 6 — TIDEFIRE STRIKE WINDOW
+
+- NMESIS missiles strike the designated naval formation.
+- One high-value vessel is destroyed or mission-killed; others break formation or
+  pull farther offshore.
+- Tower uses the temporary reduction in naval fire to launch already armed alert
+  aircraft from the surviving runway / taxiway path.
+- The fighters conduct a follow-up attack that compounds the disruption rather
+  than replacing the ground battle.
+
+PHASE 7 — RETURN THROUGH A CHANGED BATTLESPACE
+
+- Delta returns northeast toward the NCTS-hosted emergency operations cell.
+- The return must not be a clean retrace. It should use a vehicle pickup, a newly
+  opened service route, or a compressed combat withdrawal while aircraft attack
+  offshore and allied defenders push against the landing force.
+- The player sees the consequence of earlier objectives: less accurate UAV attacks,
+  reduced naval fire, alert aircraft airborne, and defenders regaining movement.
+- Delta reports that the immediate naval assault has lost momentum.
+- The campaign ends on a defensive success inside an unfinished war, preserving
+  the Coronado-to-Calloway bridge into Game 2.
+
+PACING AND LEVEL-DESIGN RULES
+
+- Vehicle-led or compressed movement is required for the bridge, gate, and final
+  return legs.
+- Do not make the player cross active runways on foot without cover, route logic,
+  and a specific combat purpose.
+- Hangars, service roads, revetments, berms, maintenance structures, and perimeter
+  routes should carry the infantry gameplay.
+- The tower and NCTS sequences must not become redundant command-room scenes.
+- The NMESIS strike is the operational climax; the alert-fighter launch is the
+  visible payoff; the NCTS report is the emotional close.
+- Preserve the sense that Romeo's small unit keeps routes and systems open for
+  larger forces rather than winning the whole battle alone.
+
+OPEN FIELDS
+
+- Exact enemy ground-assault axis and landing-party composition.
+- Exact armored direct-fire vehicle type.
+- Exact hostile UAV-guidance platform and faction.
+- Exact NMESIS battery callsign, number of launchers, missile count, and target set.
+- Exact alert-aircraft type, callsign, runway, and strike choreography.
+- Exact placement of the corrected southwest range-sector staging point.
+- Exact fictionalized identities of the Base-Defense Command Post, Tower, and NCTS
+  emergency cell.
+- Exact final combat pressure during the return from Zuñiga.
+- Civilian states, destruction budget, and surviving-airfield visual continuity.
+
+RESULT
+
+The owner map works as the geographic backbone of TIDEFIRE after four corrections:
+rename the civilian area, fictionalize the first command post, move the gun-range
+handoff southwest, and move the target-identification objective to the true Zuñiga
+Point sector. The mission flow is strong once combat is inserted between the nodes
+and the final return is transformed into a consequence-rich withdrawal rather than
+a long backtrack.
