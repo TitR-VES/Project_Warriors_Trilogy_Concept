@@ -1,0 +1,136 @@
+PROJECT WARRIORS — LEAD THE WAY
+TIDEFIRE NORTH ISLAND KMZ SOURCE-LANDING AUDIT
+Generated: 2026-07-31
+Version: rev1
+Status: SOURCE LANDING AUDIT / GEOGRAPHY REVIEW
+
+SCOPE
+
+Review and land the owner-supplied TIDEFIRE mission-objective KMZ as a
+mission-geography and objective-flow source for Romeo's Game 1 finale.
+
+INPUT
+
+TIDEFIRE mission objective map.kmz
+
+INPUT VALIDATION
+
+- KMZ opens successfully.
+- Embedded KML contains 13 placemarks.
+- Every placemark contains a point coordinate.
+- Twelve placemarks contain mission notes; the hostile UAV-guidance location is
+  represented by name and position without a description.
+- The source contains no route LineString or Polygon geometry; objective order is
+  inferred from the notes and mission logic.
+
+PUBLIC-REPOSITORY HANDLING
+
+The exact coordinate set is not reproduced in the public repository because the
+map concerns an active military installation. The owner KMZ remains the external
+cartographic source. The repository lands relative sectors, objective functions,
+and correction dispositions sufficient for narrative and level-design work.
+
+DURABLE SOURCE LANDING
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/
+  PW_TIDEFIRE_North_Island_Mission_Geography_and_Objective_Flow_Addendum_2026-07-31_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/
+  PW_TIDEFIRE_KMZ_Placemark_Review_2026-07-31_rev1.csv
+
+WORKING KNOWLEDGE LANDING
+
+- Project_Warriors_Knowledge_Compendia/
+  PW_TIDEFIRE_North_Island_Battle_Map_Addendum_2026-07-31_rev1.txt
+
+ONTOLOGY LANDING
+
+- dev_src_docs/canon_lore_source_of_truth/ontology/
+  pw_tidefire_north_island_map_rev2_16.delta.yaml
+- Applies over pw_world_event_timeline_rev2_15.yaml.
+- Produces pw_world_event_timeline_rev2_16.yaml.
+- Updates the existing PW-EVT-G1-ROMEO-CORONADO-FINALE event.
+- Adds no new event identity and changes no chronology.
+
+GEOGRAPHY RESULT
+
+Accepted at planning scale:
+- Coronado Bridge eastern approach.
+- NASNI gate entry.
+- Air-operations tower.
+- Southeast shoreline observation / hostile-boat engagement.
+- Western NMESIS firing sector.
+- West-central and northwest naval-gunfire damage anchors.
+- NCTS return destination.
+
+Corrected:
+- Adjacent houses belong to evacuated Coronado neighborhoods, not a civilian
+  district on North Island.
+- “Naval Facilities Command” becomes a fictionalized NASNI Base-Defense Command
+  Post.
+- The small-arms-range handoff moves southwest to the Pacific-facing range sector.
+- The target-identification objective moves south to the Zuñiga Point sector.
+- The southwestern impact zone is North Island / Zuñiga-sector damage, not Point
+  Loma damage.
+- NCTS functions as an emergency communications / operations cell rather than the
+  default senior air-station headquarters.
+
+MISSION-FLOW RESULT
+
+Locked macro route:
+bridge under fire
+-> gate / adjacent Coronado defense belt
+-> base-defense ground-picture handoff
+-> tower air-picture handoff
+-> southeast UAV-guidance fight
+-> southwest fire-control handoff
+-> Zuñiga target identification and defense
+-> NMESIS strike
+-> alert-fighter exploitation
+-> NCTS emergency-cell closeout
+
+PACING RESULT
+
+The first three nodes require vehicle-led or compressed movement. Base Defense and
+Tower have distinct information functions. Combat must occur between briefings.
+The final return from Zuñiga must be transformed by vehicle pickup, a new service
+route, compressed withdrawal, or renewed combat; it cannot be a long clean retrace.
+
+COMBAT-DENSITY RESULT
+
+The KMZ is not a complete finale ladder by itself. The source now requires combat
+pressure in the following spaces:
+- bridge / approach;
+- gate or perimeter;
+- hangar and service-road corridor;
+- UAV-guidance engagement;
+- range-sector handoff;
+- Zuñiga observation-post defense;
+- return through the changed battlespace.
+
+FIRE-SUPPORT RESULT
+
+The player does not personally launch NMESIS. Delta identifies and tracks the
+correct hostile vessels, passes the fire-control solution, and confirms the launch
+window. The missile strike breaks the naval formation and creates a temporary
+window for already armed alert aircraft to launch and attack.
+
+REMAINING OPEN FIELDS
+
+- Enemy ground-assault axis and landing-party composition.
+- Armored direct-fire vehicle type.
+- UAV-guidance platform and faction.
+- NMESIS callsign, launcher count, missile count, and target set.
+- Alert-aircraft type, callsign, runway, and strike choreography.
+- Final fictionalized building identities.
+- Exact return pressure and closing cinematic grammar.
+- Civilian states and destruction budget.
+
+RESULT
+
+The map is a viable and visually strong geographic backbone for TIDEFIRE. Four
+spatial / naming corrections and one pacing requirement are necessary: correct
+the adjacent residential terminology, fictionalize the first command post, move
+the range handoff southwest, move the designation objective to the Zuñiga sector,
+and prevent the finale from playing as an errands-only route. With those changes,
+the objective flow supports a credible Game 1 climax and cleanly preserves the
+Coronado-to-Calloway bridge.
