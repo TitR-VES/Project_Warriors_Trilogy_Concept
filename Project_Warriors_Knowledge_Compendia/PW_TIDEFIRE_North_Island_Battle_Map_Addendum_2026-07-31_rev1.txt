@@ -1,0 +1,67 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+TIDEFIRE — NORTH ISLAND BATTLE MAP AND OBJECTIVE FLOW
+Generated: 2026-07-31
+Version: rev1
+Status: CURRENT WORKING SYNTHESIS
+
+TIDEFIRE is Romeo's Mission 14 and the finale of Lead the Way.
+
+The owner-supplied thirteen-placemark KMZ establishes a viable east-to-west
+mission spine across the Coronado / North Island battlespace:
+
+Coronado Bridge
+-> NASNI gate and adjacent Coronado defense belt
+-> Base-Defense Command Post
+-> Tower Command
+-> southeast shoreline UAV-guidance fight
+-> southwest range-sector fire-control handoff
+-> Zuñiga Point target-identification position
+-> NMESIS strike
+-> alert-fighter follow-up
+-> NCTS-hosted emergency operations closeout
+
+GEOGRAPHY LOCKS
+
+- The pre-gate houses are in adjacent evacuated Coronado neighborhoods, not a
+  civilian district “on North Island.”
+- “Naval Facilities Command” is normalized to a fictionalized NASNI Base-Defense
+  Command Post.
+- Tower remains the air-picture and tasking node.
+- The southeast hostile boat remains offshore; the land point is the player
+  observation / engagement position.
+- The small-arms-range handoff moves to the southwest Pacific-facing range sector.
+- The NMESIS designation objective moves south to the true Zuñiga Point sector,
+  immediately landward of the exposed jetty.
+- The southwestern damage marker is North Island / Zuñiga-sector damage, not Point
+  Loma damage.
+- NCTS is the final emergency communications / operations cell, not automatically
+  the air station's senior headquarters.
+
+FLOW LOCKS
+
+1. Bridge crossing is vehicle-led and already under threat.
+2. Base Defense gives the ground and damage-control picture.
+3. Tower gives the air picture and identifies the UAV-guidance element.
+4. Delta destroys the boat or boat-supported guidance team with credible armored
+   direct fire.
+5. The UAV objective reduces attack accuracy and tempo but does not remove all UAVs.
+6. A southwest littoral fire-control team hands Delta the NMESIS targeting task.
+7. Delta defends the Zuñiga observation position while identifying and tracking the
+   correct hostile vessels.
+8. NMESIS mission-kills one high-value vessel and breaks the formation.
+9. Alert aircraft launch from the surviving airfield route and exploit the window.
+10. Delta returns by a compressed or vehicle-supported route to the NCTS emergency
+    cell and reports that the immediate naval assault has lost momentum.
+
+FINALE DESIGN RULE
+
+The KMZ is the macro objective skeleton. The mission must add combat pressure
+between nodes: bridge exposure, gate/perimeter fighting, hangar/service-road
+clearance, the UAV-guidance engagement, a range-sector handoff under pressure,
+and a defended Zuñiga designation sequence. TIDEFIRE cannot play as a sequence of
+briefings and errands.
+
+The mission's operational climax is the NMESIS strike. The alert-fighter launch is
+the visible payoff. The NCTS report is the emotional close. Romeo's unit creates
+the window through which larger American forces act; Delta does not single-handedly
+end the Battle of Coronado.
