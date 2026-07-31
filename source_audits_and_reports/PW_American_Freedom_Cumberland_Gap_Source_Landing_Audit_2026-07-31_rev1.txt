@@ -1,0 +1,161 @@
+PROJECT WARRIORS — AMERICAN FREEDOM / CUMBERLAND GAP SOURCE LANDING AUDIT
+Generated: 2026-07-31
+Version: rev1
+Status: SOURCE-LANDING AUDIT / REVIEW READY
+
+INPUT
+Project_Warriors_American_Freedom_Cumberland_Gap_Thread_Archive_2026-07-31.txt
+
+SCOPE
+Reconcile the attached American Freedom development transcript against the current repository and land all material decisions without overwriting still-open production fields.
+
+DURABLE SOURCE LANDING
+1. Campaign ladder and story control
+   dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+   PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+
+2. Final mission and western-portal sequence
+   dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+   PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+
+3. Glushkin confrontation control
+   dev_src_docs/characters/
+   PW_Glushkin_Cumberland_Gap_Final_Confrontation_Addendum_2026-07-31_rev1.txt
+
+4. Game 2 derivative synopsis refresh
+   dev_src_docs/story_campaigns/Game2/Shared/
+   PW_Game2_American_Freedom_Synopsis_Addendum_2026-07-31_rev1.txt
+
+5. Working compendium layer
+   Project_Warriors_Knowledge_Compendia/
+   PW_AMERICAN_FREEDOM_Ladder_and_Cumberland_Gap_Addendum_2026-07-31_rev1.txt
+
+6. Ontology/timeline delta
+   dev_src_docs/canon_lore_source_of_truth/ontology/
+   pw_american_freedom_cumberland_gap_rev2_13.delta.yaml
+
+CAMPAIGN-LADDER RESULT
+The prior partial middle-ladder and finale gap is resolved with the following controlling mandatory sequence:
+
+LOW GROUND
+-> DEAD AIR
+-> THE REDBUD VEHICLES
+-> FARM ROAD
+-> SECOND LEVEL
+-> THREE COUNTIES
+-> FREQUENCY
+-> OTHER TOWNS
+-> AMERICAN FREEDOM
+-> HARGROVE’S RECORD
+-> HIGH GROUND
+-> Crodyn wartime presidential-address interlude
+-> FREE GROUND
+-> LONG VIEW
+-> GLUSHKIN’S MAP
+-> AMBITIOUS
+-> TRI-STATE POINT
+
+FACE TO FACE remains optional/conditional between GLUSHKIN’S MAP and AMBITIOUS. The post-Coronado prologue remains mandatory in function but its title and detailed route remain open.
+
+MERGE / ABSORPTION DECISIONS
+- NEIGHBOR function absorbed into THREE COUNTIES.
+- PRIYA’S GROUND incorporated into OTHER TOWNS.
+- WASHINGTON’S WALL consequences incorporated into HARGROVE’S RECORD.
+- HARD GROUND used as the opening movement of FREE GROUND.
+- SUPPLY AND DEMAND incorporated into LONG VIEW.
+- DARK, SIGNAL, and COST retained as internal AMBITIOUS phases.
+
+FINALE RESULT
+- Mission title: TRI-STATE POINT.
+- Formal event: Battle of Cumberland Gap.
+- Location: Cumberland Gap corridor near the Virginia–Tennessee–Kentucky tri-state region, culminating in Cumberland Gap, Tennessee.
+- Objective: preserve and liberate the historic-pass/high-ground approaches, both tunnel portal areas, the town, and the adjacent modern logistics routes.
+- End state: corridor under friendly control, larger U.S. forces able to move into the area and push northeast, direct bridge into NO KINGS.
+
+ANGEL RECONCILIATION
+PASS.
+- ANGEL remains in AMBITIOUS.
+- The F-150/M240B escape, two ammunition cans, SPECTRE FOUR ONE, flare-wing image, and “American Freedom, over” are not assigned to TRI-STATE POINT.
+
+GLUSHKIN RECONCILIATION
+PASS.
+- Burn notice precedes the final confrontation.
+- Final confrontation occurs in a quiet house at the edge of Cumberland Gap.
+- Organized Russian resistance has already collapsed.
+- Glushkin does not command the conventional battle and his defeat does not cause the liberation.
+- FACE TO FACE remains separate and optional.
+- Exact consequence state remains open.
+
+WESTERN-PORTAL RECONCILIATION
+PASS.
+- Romeo’s team covertly seizes the western checkpoint and prevents activation of pre-planted portal-demolition charges.
+- Army engineers later render the charges safe.
+- Reaction vehicles are two Tigr-M armored patrol vehicles, not technicals.
+- Each carries an open-topped, front-and-side-shielded Kord or directly equivalent newer Russian heavy-machine-gun station.
+
+AVIATION RECONCILIATION
+PASS.
+- Hornet 2 = AH-6M Little Bird / rocket CAS and overwatch.
+- Sparrow 5 = MH-6M Little Bird / extraction and relocation.
+- Older OH-58D and UH-60 exploratory alternatives are superseded.
+- Aircraft answer from two klicks down the road with a ninety-second ETA.
+- Rotor noise enters near the sixty-second point.
+- Arrival is low, fast, staggered, road-hugging, and almost below surrounding treetops.
+- Hornet 2 uses a steep climbing wingover/reversal rather than literal sustained inversion.
+- Attack altitude is approximately sixty-five feet over the checkpoint approach.
+- Sparrow 5 lands on the road outside the western portal.
+- Hornet 2 covers drop-off and then supports the eastern-portal push.
+
+PLAYER-PRESENTATION RECONCILIATION
+PASS.
+- Entire intervention remains playable first person.
+- Player retains movement, combat control, cover use, and free observation.
+- Only two subtle, cancellable view tugs are allowed: initial Tigr detection and later rotor-noise cue.
+- Allied elements maneuver on their own timing whether or not the player watches them.
+
+SECOND TIGR CAUSALITY RECONCILIATION
+PASS.
+- Second Tigr accelerates and turns hard toward the right shoulder.
+- Second rocket impacts immediately behind and left, approximately one foot from the rear-left wheel area.
+- Near-blast pressure, road debris, rear-wheel unweighting, traction loss, aggressive steering, front-heavy pitch, lateral instability, shoulder transition, bump, and slope combine to produce the rollover.
+- Final resting state: right side in the ditch.
+- Visible damage: rear-left blast damage, deformed open rear-left door, bent-up weapon mount, and two collapsed left-side turret armor plates.
+- Any older left-side-resting description is superseded.
+
+GEOGRAPHIC RECONCILIATION
+PASS WITH PRODUCTION FLAG.
+- Historic pass/high ground is not treated as an equivalent modern heavy-logistics road.
+- Modern tunnel/highway corridor is the primary heavy-movement objective.
+- Exact real-world road geometry and playable compression require later environment review.
+
+ONTOLOGY RESULT
+- Adds PW-EVT-G2-ROMEO-TRI-STATE-POINT.
+- Updates PW-CMP-G2-AMERICAN-FREEDOM and PW-TRK-G2-AMERICAN-FREEDOM by delta.
+- Applies after pw_world_event_timeline_rev2_12.yaml and projects pw_world_event_timeline_rev2_13.yaml.
+- Does not invent stable IDs for previously sourced missions whose authoritative timeline IDs were not exposed.
+
+OPEN FLAGS PRESERVED
+- prologue title and exact post-Coronado route;
+- exact Game 2 dates and Crodyn-address binding;
+- FACE TO FACE activation and final placement;
+- named Army order of battle and aircraft-unit designation/callsign conflict check;
+- detailed eastern-portal and town-assault route;
+- demolition-system technical design;
+- Glushkin’s exact consequence state and dialogue;
+- final campaign scoring and closing line.
+
+VALIDATION SUMMARY
+- Source hierarchy: consistent.
+- Mandatory ladder count: 16.
+- Optional mission assets: 1.
+- Finale identity: consistent.
+- ANGEL placement: consistent.
+- Aviation callsign/role mapping: consistent.
+- Second Tigr resting side: consistent.
+- Glushkin location/sequence: consistent.
+- NO KINGS bridge: consistent.
+- Known stale alternatives: explicitly superseded.
+- Unique transcript decisions omitted: none identified.
+
+RESULT
+The transcript is fully landed at durable source, derivative synopsis, working compendium, ontology-delta, and audit layers. Remaining fields are genuine production or chronology details and do not block review of the campaign architecture.
