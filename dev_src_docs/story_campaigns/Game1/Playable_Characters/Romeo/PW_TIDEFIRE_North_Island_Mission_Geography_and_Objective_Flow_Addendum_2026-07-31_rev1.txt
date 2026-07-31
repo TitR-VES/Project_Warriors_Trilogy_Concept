@@ -43,12 +43,14 @@ Coronado Bridge approach
 -> Zuñiga Point target-identification position
 -> NMESIS strike
 -> alert-fighter follow-up
+-> short northeast return trek
+-> arriving Humvee pickup
 -> NCTS emergency operations / communications closeout
 
 The route uses the installation's east-to-west depth, exposes the player to the
-airfield, shoreline, and harbor approaches, and ends with a credible return toward
-a hardened communications node. It is geographically legible and thematically
-well matched to TIDEFIRE.
+airfield, shoreline, and harbor approaches, and ends with a credible vehicle
+return toward a hardened communications node. It is geographically legible and
+thematically well matched to TIDEFIRE.
 
 The KMZ should be treated as an objective skeleton, not a complete combat ladder.
 Without additional enemy ground pressure between the marked nodes, the finale
@@ -193,8 +195,11 @@ Primary command functions have been displaced or distributed because of shelling
 Delta reports mission success through the hardened communications node while the
 base reconnects the ground, naval, and air picture.
 
-This makes the final return narratively purposeful rather than a simple walk back
-to another office.
+Delta does not walk the full distance back from Zuñiga. After beginning the return
+northeast on foot, the team is met a short distance into the trek by an arriving
+Humvee. The squad boards and is transported directly to NCTS. The ride makes the
+final return narratively purposeful: it compresses the backtrack while allowing
+the player to observe the changed battlespace before the final report.
 
 LOCKED MISSION FLOW
 
@@ -258,22 +263,28 @@ PHASE 6 — TIDEFIRE STRIKE WINDOW
 - The fighters conduct a follow-up attack that compounds the disruption rather
   than replacing the ground battle.
 
-PHASE 7 — RETURN THROUGH A CHANGED BATTLESPACE
+PHASE 7 — HUMVEE RETURN TO NCTS
 
-- Delta returns northeast toward the NCTS-hosted emergency operations cell.
-- The return must not be a clean retrace. It should use a vehicle pickup, a newly
-  opened service route, or a compressed combat withdrawal while aircraft attack
-  offshore and allied defenders push against the landing force.
-- The player sees the consequence of earlier objectives: less accurate UAV attacks,
-  reduced naval fire, alert aircraft airborne, and defenders regaining movement.
+- Delta leaves the Zuñiga observation position and begins moving northeast on foot.
+- The short initial trek lets the player register the immediate effects of the
+  strike while the team clears the exposed littoral sector.
+- An arriving Humvee reaches Delta a short distance into the return trek via a
+  newly usable or secured service route.
+- Delta boards the Humvee and is transported directly to the NCTS-hosted emergency
+  operations / communications cell. The sequence does not require player driving.
+- During the ride, the player sees the consequence of earlier objectives: less
+  accurate UAV attacks, reduced naval fire, alert aircraft airborne, and defenders
+  regaining movement.
 - Delta reports that the immediate naval assault has lost momentum.
 - The campaign ends on a defensive success inside an unfinished war, preserving
   the Coronado-to-Calloway bridge into Game 2.
 
 PACING AND LEVEL-DESIGN RULES
 
-- Vehicle-led or compressed movement is required for the bridge, gate, and final
-  return legs.
+- Vehicle-led or compressed movement is required for the bridge and gate legs.
+- The final return is specifically locked as a short on-foot departure from Zuñiga,
+  followed by pickup in an arriving Humvee and direct transport to NCTS.
+- The Humvee ride should be player-observed but does not require player driving.
 - Do not make the player cross active runways on foot without cover, route logic,
   and a specific combat purpose.
 - Hangars, service roads, revetments, berms, maintenance structures, and perimeter
@@ -294,7 +305,7 @@ OPEN FIELDS
 - Exact placement of the corrected southwest range-sector staging point.
 - Exact fictionalized identities of the Base-Defense Command Post, Tower, and NCTS
   emergency cell.
-- Exact final combat pressure during the return from Zuñiga.
+- Exact Humvee crew, callsign, pickup route, and ride dialogue.
 - Civilian states, destruction budget, and surviving-airfield visual continuity.
 
 RESULT
@@ -302,6 +313,7 @@ RESULT
 The owner map works as the geographic backbone of TIDEFIRE after four corrections:
 rename the civilian area, fictionalize the first command post, move the gun-range
 handoff southwest, and move the target-identification objective to the true Zuñiga
-Point sector. The mission flow is strong once combat is inserted between the nodes
-and the final return is transformed into a consequence-rich withdrawal rather than
-a long backtrack.
+Point sector. The mission flow is strong once combat is inserted between the nodes.
+The final return is now locked: Delta begins the northeast trek on foot, is picked
+up shortly afterward by an arriving Humvee, and is taken directly to NCTS for the
+final report rather than retracing the full route.
