@@ -1,15 +1,15 @@
 PROJECT WARRIORS — GAME 2 AMERICAN FREEDOM POST-CORONADO PROLOGUE SYNOPSIS ADDENDUM
 Generated: 2026-07-31
 Version: rev1
-Status: DERIVATIVE SYNOPSIS REFRESH / APPLY OVER AMERICAN FREEDOM PROLOGUE GAP
+Status: DERIVATIVE SYNOPSIS REFRESH / PATHFINDER TITLE LOCK
 Applies to:
 - PW_Game2_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt
 - PW_Game2_American_Freedom_Synopsis_Addendum_2026-07-31_rev1.txt
 
 PURPOSE
-Replace the remaining statement that American Freedom lacks a causal post-Coronado prologue. This page is a readable synthesis only. The dedicated prologue bridge source remains controlling.
+Replace the remaining statement that American Freedom lacks a causal post-Coronado prologue and lock its title as PATHFINDER. This page is a readable synthesis only. The dedicated prologue bridge source remains controlling.
 
-UPDATED PROLOGUE SYNOPSIS
+UPDATED PROLOGUE SYNOPSIS — PATHFINDER
 After the defense of North Island, Romeo’s record from the European withdrawal, the AEGIS infrastructure campaign, the return to occupied California, and the Battle of Coronado is reviewed by surviving senior U.S. command. His valor and repeated ability to preserve routes, work across units, and lead under degraded command bring him to the attention of a compartmented special-operations and interagency planning cell supporting resistance inside occupied American territory.
 
 Romeo is not promoted into a heroic national role or publicly celebrated. He remains a staff sergeant. The change is that he is admitted into a smaller circle of trust and given an assignment that depends on judgment rather than conventional frontage.
@@ -18,15 +18,19 @@ The planners show him decrypted Russian occupation communications and traffic-an
 
 Romeo is tasked to enter the occupied area covertly, establish contact with the suspected cell, assess its people and security, and help develop communications, logistics, intelligence handling, routes, and operational discipline. He is not sent to impose outside command or launch an immediate liberation offensive. The mission gives him time and latitude to help credible local actors become a durable partner while preserving civilian legitimacy.
 
+The title PATHFINDER describes Romeo’s strategic function rather than a new unit, callsign, rank, or formal billet. He is sent ahead to verify and help prepare the human and operational path that the wider campaign will later require.
+
 Fire Team Delta does not accompany the opening insertion. Romeo begins Game 2 separated from Dingo, Howler, and Beaver, preserving their later reunion in HIGH GROUND and forcing him to build trust without relying on his familiar Ranger team.
 
 The briefing also establishes the larger strategic clock. Mobile surviving U.S. formations are assembling for a counteroffensive that advances east from California along a more southerly route toward the Mississippi, crosses the river, and then turns northeast toward the Appalachian and Virginia approaches. Romeo’s local mission and the conventional advance are presented as complementary plans: the mobile force will eventually provide mass, engineering, aviation, and sustained logistics, while the eastern-Kentucky resistance can provide intelligence, routes, local access, and a legitimate human network inside occupied terrain.
 
-The prologue ends with Romeo accepting the task and beginning the covert movement toward Calloway. LOW GROUND retains the uncertainty of his arrival and the need to discover whether the resistance activity described in the briefing is real.
+PATHFINDER ends with Romeo accepting the task and beginning the covert movement toward Calloway. LOW GROUND retains the uncertainty of his arrival and the need to discover whether the resistance activity described in the briefing is real.
 
-The two plans converge late in the campaign. By TRI-STATE POINT, the resistance Romeo helped develop has become the American Freedom Corps, and forward elements of the wider U.S. advance have reached the Cumberland region. Their joint liberation of the Cumberland Gap corridor pays off the prologue’s two-line strategy and enables larger formations to continue toward southwestern Virginia and farther northeast.
+The two plans converge late in the campaign. By TRI-STATE POINT, the resistance Romeo helped develop has become the American Freedom Corps, and forward elements of the wider U.S. advance have reached the Cumberland region. Their joint liberation of the Cumberland Gap corridor pays off PATHFINDER’s two-line strategy and enables larger formations to continue toward southwestern Virginia and farther northeast.
 
 CONTINUITY SUMMARY
+- The canonical prologue title is PATHFINDER.
+- PATHFINDER describes Romeo’s strategic role and is not a callsign, unit, rank, or formal billet.
 - Romeo’s post-Coronado recognition is internal and does not change his SSG rank.
 - The briefing cell is a surviving compartmented special-operations/interagency mechanism.
 - Russian intercepts indicate low-confidence but meaningful organized resistance activity around Calloway.
@@ -36,7 +40,6 @@ CONTINUITY SUMMARY
 - Cumberland Gap is the delayed convergence of the local resistance plan and the wider mobile counteroffensive.
 
 REMAINING PRODUCTION FIELDS
-- final prologue title;
 - exact date and briefing location;
 - exact recognition/citation form;
 - named briefing participants;
