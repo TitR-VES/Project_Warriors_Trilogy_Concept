@@ -1,0 +1,324 @@
+PROJECT WARRIORS — TRI-STATE POINT
+CUMBERLAND GAP TOWN-LIBERATION GEOGRAPHY AND OBJECTIVE-ROUTE ADDENDUM
+Generated: 2026-07-31
+Version: rev1
+Status: POST-DROPOFF TOWN ROUTE LOCKED / FIRE-SUPPORT CONTROL LOCKED / ENVIRONMENTAL IMPLEMENTATION PARTIAL
+Campaign: Game 2 — AMERICAN FREEDOM
+Mission: TRI-STATE POINT / Battle of Cumberland Gap
+Applies after: Sparrow 5 relocation from the western portal
+Source map: Project Warriors American freedom Battle ofCumberland Gap gap (3).kmz
+Map records: 19 placemarks
+
+PURPOSE
+Resolve the previously open town-liberation geography after Romeo, Dingo, and Howler are dropped at the marked staging area. This page controls the player route, parallel eastern-portal action, limited mortar-support cadence, enemy withdrawal interception, Glushkin-house transition, and northeast mobile-force assembly point.
+
+AUTHORITY RULE
+- Apply this addendum over earlier open statements that the exact eastern-portal and Cumberland Gap town routes were undefined.
+- The KMZ placemarks are internal production references. Their coordinates and real-world place names guide spatial design but do not require verbatim commercial or institutional branding in the shipping game.
+- Small spelling and transcription errors in the KMZ notes are normalized here without changing narrative intent.
+- The marker labelled Lincoln Memorial University denotes the marked town building/objective, not a requirement to depict or clear the entire university campus.
+- Exact level geometry may be compressed or adjusted for playability, but the relative objective order, parallel-force relationships, and route logic below are controlling.
+
+===============================================================================
+MISSION-WIDE PROTECTED BEATS
+===============================================================================
+
+- Sparrow 5 drops Romeo, Dingo, and Howler at the Cumberland Gap assault staging area after the western-portal Little Bird intervention.
+- A nearby motorized U.S. infantry element suppresses the occupied University Inn while Romeo's team moves into cover and establishes outside Holiday Tire.
+- Romeo does not call mortar fire on the University Inn.
+- Holiday Tire becomes the first secured road-control point and later the northeast mobile-force assembly/departure point.
+- Romeo's principal town-clearing route runs from Holiday Tire through the eastern treeline to Cumberland Gap Inn, then through the D & D / LMU / post-office civic block, Memorial Park, and the Caboose parking-lot/saloon final holdout.
+- The player receives no callable mortar support before the D & D Wheel Alignment machine-gun position.
+- D & D is the only player-called mortar fire mission in the dense built-up central-town portion.
+- After D & D, player-called mortar support remains unavailable until the Caboose Saloon parking-lot engagement.
+- The Caboose parking-lot fire mission breaks the final exterior position but does not replace the playable clearing of the saloon.
+- Surviving occupiers retreat north/east toward the marked parking-lot staging area and are intercepted by independently maneuvering U.S. motorized elements.
+- The eastern-portal assault develops in parallel from its own staging and overwatch positions; Romeo does not personally clear both portal objectives.
+- After the Caboose falls and organized resistance collapses, Romeo is directed to the nearby Glushkin house.
+- After Glushkin's fate is resolved, the post-battle closing returns Romeo to the friendly force split: Beaver remains with the Cumberland hold/regional-support structure; Romeo, Dingo, and Howler assemble at Holiday Tire and move northeast.
+
+===============================================================================
+GEOGRAPHIC CONTROL POINTS
+===============================================================================
+
+01. WESTERN PORTAL CHECKPOINT / WELCOME TO KENTUCKY SIGN
+Role:
+- Existing western-portal demolition-denial objective.
+- Geographic reference for the checkpoint seized before the Little Bird intervention.
+
+Relation to updated map:
+- Approximately 2.05 km from the Cumberland Gap assault staging area.
+- Approximately 861 m from the marked Union College Environmental Education Center supply point.
+
+02. UNION COLLEGE ENVIRONMENTAL EDUCATION CENTER / ENEMY SUPPLY POINT
+Protected beats:
+- A small occupation supply point holds ammunition, fuel, and ready vehicles supporting the tunnel-control network.
+- The two Tigr-M reaction vehicles seen approaching the western checkpoint originate here.
+- The site gives the Tigr response a diegetic origin rather than a scripted off-map spawn.
+Production-working beats:
+- A partial checkpoint alarm, lost communications, or prearranged reaction procedure may dispatch the Tigrs before Romeo fully secures the controls.
+- Another AFC or Army element may later isolate or clear the site.
+Open flags:
+- Whether the depot is visible or playable earlier in the mission.
+- Exact staffing, stored vehicle count, and final designation.
+
+03. CUMBERLAND GAP ASSAULT STAGING AREA
+Protected beats:
+- Sparrow 5 lands here and drops Romeo, Dingo, and Howler.
+- Hornet 2 provides overwatch during the dismount before shifting toward eastern-portal support.
+- The drop begins the town-liberation phase without a detached cinematic.
+Production-working beats:
+- Terrain, vegetation, smoke, and friendly suppression protect the exposed landing from the University Inn position.
+Open flags:
+- Exact landing orientation and immediate cover layout.
+
+04. UNIVERSITY INN / SUPPRESSED ENEMY POSITION
+Protected beats:
+- Several occupiers hold the building or its immediate frontage.
+- A nearby motorized U.S. infantry element suppresses the position while Romeo's team moves from the landing area into cover near Holiday Tire.
+- The player does not call a mortar strike here.
+- The building is suppressed, contained, bypassed, or cleared by the supporting force according to final encounter design.
+Production-working beats:
+- Suppression may include vehicle-mounted automatic weapons, rifle fire, smoke, and bounded movement.
+- Romeo may return limited covering fire but does not need to clear every room personally.
+Open flags:
+- Exact friendly unit, building occupancy, civilian status, and final clearance ownership.
+
+05. HOLIDAY TIRE / ROAD-CONTROL AND DEPARTURE POINT
+Protected beats:
+- Romeo must secure the tire shop and adjacent buildings.
+- The objective establishes a road-control point on the eastern approach.
+- Control of this position enables later movement by the U.S. mobile element and helps close the occupiers' withdrawal route.
+- The same position becomes the northeast mobile-force assembly and departure point after the town battle and Glushkin confrontation.
+Production-working beats:
+- The player may clear a short shop-yard/service-bay compound while friendly suppression continues against the University Inn.
+- Engineers or military police may later convert it into traffic control and convoy organization space.
+Open flags:
+- Exact interior route, defenders, and how much of the adjacent property is playable.
+
+06. EASTERN PORTAL ASSAULT STAGING AREA
+Protected beats:
+- Ground forces rally here before attacking the eastern tunnel-portal checkpoint.
+- The eastern assault is a parallel allied operation with its own command, movement, and engineering task.
+
+07. EASTERN PORTAL ASSAULT OVERWATCH POSITION
+Protected beats:
+- A forward observation team monitors activity at the eastern checkpoint and supports the assault.
+- The team contributes target observation, route warning, and assault timing.
+Production-working beats:
+- Hornet 2 may coordinate with this position after completing the western pickup overwatch.
+Open flags:
+- Exact observer identity, optics, and fire-support relationship.
+
+08. EASTERN PORTAL CHECKPOINT
+Protected beats:
+- Occupation forces hold a checkpoint protecting the eastern tunnel approach.
+- Allied forces secure it without requiring Romeo to abandon the town-clearing axis.
+- Radio updates, smoke, distant gunfire, and selected sightlines communicate progress.
+Open flags:
+- Exact defenders, demolition linkage, vehicle package, and degree of player visibility.
+
+09. CUMBERLAND GAP INN / FIRST PLAYER-CLEARED TOWN BUILDING
+Protected beats:
+- Romeo approaches from the treeline east of the building.
+- The team clears and secures the structure, establishing the first substantial player-owned foothold west of Holiday Tire.
+Production-working beats:
+- The encounter can shift from wooded observation into yard/service-entry and interior combat.
+Open flags:
+- Exact breach point, civilians, and defender density.
+
+10. D & D WHEEL ALIGNMENT / FIRST CALLABLE MORTAR FIRE MISSION
+Protected beats:
+- A reinforced enemy machine-gun position blocks the route from this building or its immediate frontage.
+- Romeo calls the first player-requested mortar fire mission of the town phase.
+- No player-called mortar support has been available before this point.
+- D & D is the only such fire mission near the dense built-up central-town objectives.
+- Friendly elements halt or clear the danger area before rounds impact.
+- The fire mission is limited and target-specific rather than general area bombardment.
+- Romeo advances and clears surviving defenders after the final rounds.
+Production-working beats:
+- The target may be a reinforced bay, exterior fighting position, barricade, or machine-gun aperture associated with the building.
+- The fire mission may use a short HE concentration, smoke/HE combination, or another tightly controlled package selected during technical review.
+Open flags:
+- Mortar callsign, observer procedure, munition, round count, and exact target aim point.
+
+11. LINCOLN MEMORIAL UNIVERSITY MARKER / TOWN BUILDING OBJECTIVE
+Protected beats:
+- Romeo clears and secures the marked building after the D & D position is broken.
+- No new player-called mortar mission is available for this objective.
+Production-working beats:
+- The site can function as part of one connected civic-block combat space with D & D and the post office.
+Open flags:
+- Exact real-world building identity, fictionalized production name, interior scope, and civilian state.
+
+12. UNITED STATES POSTAL SERVICE / CIVIC OBJECTIVE
+Protected beats:
+- Romeo secures the post office.
+- The objective reinforces that the force is reclaiming civic infrastructure, not simply moving between anonymous combat arenas.
+- No player-called mortar mission is available here.
+Production-working beats:
+- The building may contain sheltering civilians, occupation records, local communications, casualties, or a temporary AFC/Army coordination point.
+Open flags:
+- Exact interior use and civilian/record content.
+
+13. MEMORIAL PARK / HEAVY-MACHINE-GUN VEHICLE
+Protected beats:
+- Romeo must neutralize a heavy-machine-gun-mounted vehicle positioned outside the park.
+- This is an infantry-centered obstacle and must not duplicate the western-portal AH-6M intervention.
+- No player-called mortar mission is available during this engagement.
+Production-working beats:
+- The vehicle may be defeated through exposed-crew fire, flanking, allied anti-armor support, mobility damage, or a carefully staged environmental solution.
+Open flags:
+- Exact vehicle type, weapon, crew protection, and kill method.
+
+14. CABOOSE SALOON PARKING LOT / SECOND CALLABLE MORTAR FIRE MISSION
+Protected beats:
+- A small reinforced enemy machine-gun position holds the parking lot.
+- Player-callable mortar support becomes available again here for the first time since D & D.
+- The fire mission targets the exterior parking-lot defense and does not destroy or automatically clear the saloon.
+- A clear ceasefire/rounds-complete state precedes Romeo's crossing of the lot.
+Production-working beats:
+- HE may break the reinforced exterior position; smoke may isolate one side or cover the final assault.
+- Surviving defenders may withdraw into the saloon or attempt to flee toward the marked retreat staging area.
+Open flags:
+- Exact target placement, vehicle cover, munition mix, and crossing route.
+
+15. CABOOSE SALOON / FINAL ORGANIZED HOLDOUT
+Protected beats:
+- Romeo clears and secures the saloon after the parking-lot defense is broken.
+- This is the last coherent occupier holdout inside the town.
+- Its fall triggers the collapse of organized town resistance rather than the elimination of every individual enemy.
+- Some surviving occupiers begin withdrawing north/east.
+Production-working beats:
+- The saloon may include close interior fighting, surrender, wounded defenders, or a rear-exit withdrawal attempt.
+Open flags:
+- Shipping name, interior layout, civilian presence, and surrender implementation.
+
+16. RETREAT STAGING PARKING LOT / PARALLEL INTERCEPTION
+Protected beats:
+- Retreating occupiers attempt to rally or pass through this marked lot.
+- U.S. motorized infantry elements intercept and defeat or capture them while Romeo secures the town to the south/west.
+- Romeo does not need to travel to this location for the interception to occur.
+- The event demonstrates independent allied situational awareness and maneuver.
+Production-working beats:
+- Radio calls, distant fire, smoke, moving vehicles, and a later confirmation can communicate the action.
+Open flags:
+- Exact retreating force size, vehicles, surrender/casualty balance, and player sightline.
+
+17. GLUSHKIN CONFRONTATION HOUSE
+Protected beats:
+- The house is approximately 67 m from the Caboose Saloon marker.
+- After the final holdout falls, a restrained lead directs Romeo, Dingo, and Howler to the ordinary house.
+- The short distance permits a continuous playable transition without transport, loading screen, or geographical reset.
+- The player-facing Glushkin choice remains controlled by the dedicated choice/handoff addendum.
+Production-working beats:
+- Romeo may have passed the house earlier without recognizing its significance.
+Open flags:
+- Exact identification lead, approach blocking, and house fictionalization.
+
+18. SOUTHERN MOBILE-ELEMENT APPROACH AXIS
+Protected beats:
+- U.S. mobile elements approach from the south along the marked axis.
+- Their movement is enabled by the broader corridor operation and by Romeo's securing of Holiday Tire.
+- They support the retreat interception and later form part of the northeast exploitation element.
+Production-working beats:
+- The approach may be heard or glimpsed before the force enters the town network.
+Open flags:
+- Exact unit composition, vehicles, and arrival timing.
+
+===============================================================================
+CONTROLLED PLAYER ROUTE
+===============================================================================
+
+Mandatory route:
+1. Sparrow 5 drop at Cumberland Gap assault staging area.
+2. Move under motorized-infantry suppression of University Inn.
+3. Secure Holiday Tire and establish road control.
+4. Move west through the eastern treeline.
+5. Clear Cumberland Gap Inn.
+6. Identify D & D reinforced machine-gun position.
+7. Call first mortar fire mission; clear survivors.
+8. Clear the marked LMU building.
+9. Secure the post office.
+10. Neutralize the heavy-machine-gun vehicle outside Memorial Park.
+11. Reach the Caboose parking-lot defense.
+12. Call second mortar fire mission.
+13. Cross and clear the Caboose Saloon.
+14. Receive confirmation that mobile U.S. elements have intercepted the retreating occupiers.
+15. Move to the nearby Glushkin house.
+16. Resolve Glushkin's fate in seamless first person.
+17. Return through the secured town/corridor space.
+18. Observe the Cumberland hold and northeast mobile force dividing.
+19. Rejoin Dingo and Howler at Holiday Tire and depart northeast; Beaver remains.
+
+Parallel allied route:
+1. Eastern forces rally at the eastern portal staging area.
+2. Forward observers monitor the checkpoint from the marked overwatch position.
+3. Hornet 2 shifts from western-portal support to the eastern axis.
+4. Ground forces attack and secure the eastern checkpoint and preserve the tunnel route.
+5. Motorized U.S. elements approach from the south.
+6. Holiday Tire road control permits their movement into the town network.
+7. They intercept retreating occupiers at the marked parking lot.
+8. Selected elements remain for the Cumberland hold; others form the northeast mobile column.
+
+===============================================================================
+FIRE-SUPPORT CONTROL
+===============================================================================
+
+Player-callable mortar sequence:
+- University Inn: unavailable; nearby motorized infantry supplies suppression.
+- Holiday Tire: unavailable.
+- Cumberland Gap Inn: unavailable.
+- D & D Wheel Alignment: available; first player-called mission.
+- LMU marked building: unavailable.
+- Post office: unavailable.
+- Memorial Park vehicle: unavailable.
+- Caboose Saloon parking lot: available; second player-called mission.
+- Caboose Saloon interior: unavailable; player clears the holdout.
+
+Control rule:
+Do not allow the player to use mortars as a reusable answer to each building. The two calls are authored tactical events with distinct functions: D & D breaks a dense-route machine-gun block; Caboose breaks the final exterior holdout before the player enters.
+
+===============================================================================
+SPATIAL VALIDATION
+===============================================================================
+
+Approximate straight-line planning distances from the corrected KMZ:
+- staging area to University Inn: 166 m;
+- staging area to Holiday Tire: 357 m;
+- Holiday Tire to Cumberland Gap Inn: 615 m;
+- Cumberland Gap Inn to D & D: 72 m;
+- D & D to LMU marker: 37 m;
+- LMU marker to post office: 116 m;
+- post office to Memorial Park: 87 m;
+- Memorial Park to Caboose parking lot: 146 m;
+- Caboose Saloon to Glushkin house: 67 m;
+- Holiday Tire to retreat-interception lot: 718 m;
+- eastern staging to eastern checkpoint: 326 m;
+- eastern overwatch to eastern checkpoint: 318 m;
+- southern mobile approach marker to Holiday Tire: approximately 5.2 km.
+
+These distances support a compact town fight, meaningful allied parallel action, and a seamless final transition to Glushkin while keeping the western-portal helicopter relocation tactically significant.
+
+===============================================================================
+OPEN PRODUCTION FIELDS
+===============================================================================
+
+- Final fictionalized names and signage for real businesses/institutions.
+- Exact building interiors, civilian placement, and destruction budget.
+- Exact motorized-infantry unit and suppression package at University Inn.
+- Exact eastern-portal assault route and order of battle.
+- Mortar callsign, observer, munitions, round counts, danger-area procedure, and effects.
+- Exact heavy-machine-gun vehicle at Memorial Park.
+- Exact retreating force and interception outcome.
+- Exact method of returning Romeo from the Glushkin house to Holiday Tire: walk, short vehicle ride, or seamless compressed transition.
+- Exact post-battle traffic-control, prisoner, casualty, and civilian tableaux.
+- Exact northeast column composition and first route after departure.
+
+SOURCE RELATIONS
+- PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+- PW_TRI_STATE_POINT_Glushkin_Choice_and_Eastbound_Handoff_Addendum_2026-07-31_rev1.txt
+- PW_TRI_STATE_POINT_Cumberland_Gap_KMZ_Placemark_Reference_2026-07-31_rev1.csv
+- Project Warriors American freedom Battle ofCumberland Gap gap (3).kmz
+
+END
