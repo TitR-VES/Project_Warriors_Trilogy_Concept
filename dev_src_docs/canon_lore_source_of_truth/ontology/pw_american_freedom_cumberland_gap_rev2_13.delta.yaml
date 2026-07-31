@@ -21,8 +21,7 @@ operations:
     protagonists:
     - name: Ramón Álvarez / Romeo
       role: sole primary playable protagonist
-    temporal_modes:
-    - continuous_primary
+    temporal_modes: [continuous_primary]
     notes: >-
       Controlling Game 2 ladder: untitled post-Coronado prologue -> LOW GROUND ->
       DEAD AIR -> THE REDBUD VEHICLES -> FARM ROAD -> SECOND LEVEL -> THREE COUNTIES ->
@@ -45,9 +44,6 @@ operations:
     era: PW-ERA-WWIII
     date:
       relative: after AMBITIOUS and before Romeo's Game 3 NO KINGS campaign; exact date TBD
-    ordering:
-      after: [AMBITIOUS]
-      before: [PW-TRK-G3-NO-KINGS]
     location: Cumberland Gap corridor; Cumberland Gap, Tennessee; Virginia-Tennessee-Kentucky tri-state region
     actors:
     - Ramón Álvarez / Romeo
@@ -192,6 +188,7 @@ validation_targets:
   timeline:
     added_events: 1
     duplicate_new_ids: 0
+    dangling_new_references: 0
     self_references: 0
     new_ordering_cycle: false
   narrative:
