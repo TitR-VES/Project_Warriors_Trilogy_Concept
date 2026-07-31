@@ -1,0 +1,60 @@
+PROJECT WARRIORS — GAME 1 / LEAD THE WAY
+MISSION TITLE LOCK — TIDEFIRE
+Generated: 2026-07-31
+Version: rev1
+Status: LOCKED CANON TITLE / DURABLE SOURCE PAGE
+
+PURPOSE
+
+This page records the canonical mission title for Romeo's Game 1 campaign
+finale at North Island Naval Air Station on Coronado.
+
+CANON DECISION
+
+The canonical menu-level mission title is:
+
+TIDEFIRE
+
+Use the title in all caps in mission ladders, title cards, synopsis headings,
+ontology display names, and other project-facing mission references.
+
+SCOPE
+
+- Campaign: Lead the Way
+- Installment: Project Warriors I
+- Playable character: Ramón “Romeo” Álvarez
+- Mission position: Mission 14 / campaign finale
+- Location: North Island Naval Air Station, Coronado, California
+- Stable ontology event identity: PW-EVT-G1-ROMEO-CORONADO-FINALE
+
+SUPERSESSION AND CONTINUITY
+
+TIDEFIRE replaces NORTH ISLAND / CORONADO wherever that phrase is functioning
+as a placeholder mission title. North Island, Coronado, and the Battle of
+Coronado remain valid location and battle references; this title lock does not
+rename the in-world battle or alter the geography.
+
+The underlying finale remains unchanged: Romeo and Fire Team Delta fight beside
+Rangers, Marines, sailors, and other surviving American elements to repel the
+Russian, North Korean, and Iranian amphibious assault against the remaining
+naval and air capability around North Island.
+
+The Coronado-to-Calloway bridge into American Freedom also remains unchanged.
+TIDEFIRE names the Game 1 finale only and does not change the later bridge event,
+its ordering, or Romeo's post-Coronado character trajectory.
+
+TITLE LOGIC
+
+TIDEFIRE compresses the mission's defining image and tactical condition into a
+short military-action title: an amphibious assault breaking across the littoral
+and naval installation under sustained fire. It is specific enough to belong to
+Coronado while remaining compact, forceful, and consistent with the campaign's
+mission-title register.
+
+DOWNSTREAM REFRESH RULE
+
+Future refreshes of the Game 1 mission-by-mission synopsis, shorter Game 1 plot
+synopsis, campaign ladder projections, and working compendia should display
+TIDEFIRE as the finale title. Stable IDs must remain unchanged. Historical and
+recovery sources may retain older location-placeholder wording when preserved as
+evidence, but active derivative references should use TIDEFIRE.
