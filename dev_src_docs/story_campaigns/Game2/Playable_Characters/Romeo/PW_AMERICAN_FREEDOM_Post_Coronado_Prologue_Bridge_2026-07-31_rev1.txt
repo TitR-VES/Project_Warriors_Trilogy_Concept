@@ -1,0 +1,132 @@
+PROJECT WARRIORS — AMERICAN FREEDOM POST-CORONADO PROLOGUE BRIDGE
+Generated: 2026-07-31
+Version: rev1
+Status: CONTROLLING STORY-BRIDGE LOCK / TITLE AND PRODUCTION DETAILS OPEN
+Campaign: Game 2 — AMERICAN FREEDOM
+Playable lead: SSG Ramón “Romeo” Álvarez
+Placement: After Game 1 NORTH ISLAND / CORONADO and before Game 2 LOW GROUND
+
+PURPOSE
+Close the remaining structural gap between Romeo’s Game 1 endpoint at Coronado and his Game 2 arrival in occupied Calloway, Kentucky. The prologue establishes why a Ranger who ends Game 1 inside surviving conventional command is selected for an individual resistance-development mission, and how that mission runs in parallel with the wider southern-route U.S. counteroffensive that later converges with the AFC at Cumberland Gap.
+
+SOURCE AUTHORITY
+1. This page controls the post-Coronado recognition, selection, briefing, tasking, parallel-strategy, and convergence logic.
+2. PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt continues to control the complete Game 2 mission order.
+3. PW_AMERICAN_FREEDOM_Calloway_Campaign_Source_2026-07-24_rev1.txt continues to control LOW GROUND and the detailed Calloway opening.
+4. PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt and its later addenda control the campaign finale and post-battle handoff.
+5. Later screenplay, staging, timeline, and technical sources may refine implementation without reopening the bridge’s story function unless they explicitly declare a structural revision.
+
+CORE BRIDGE
+After the Battle of Coronado, Romeo’s performance is recognized inside the surviving U.S. command structure. The recognition is based on the full record visible to senior planners: his conduct during the European fighting withdrawal, protection of the multinational AEGIS infrastructure chain, return to the occupied United States, urban fighting in Southern California, route-preservation work, and leadership during the defense of North Island.
+
+The prologue must not turn this into a public victory ceremony or a chosen-one promotion. Romeo remains a staff sergeant. His reward is access, trust, and a more sensitive assignment. He is brought into a compartmented planning circle formed by surviving U.S. special-operations command personnel working with government intelligence and law-enforcement agencies on support to resistance inside occupied American territory.
+
+The command cell presents recently decrypted Russian occupation communications and intercepted traffic analysis. The intelligence does not reveal a mature named organization. It indicates low-volume but persistent organized resistance activity in and around Calloway, Kentucky: unexplained supply losses, communication disruptions, local movement the occupation cannot fully account for, and Russian concern that separate incidents may reflect a coordinated human network.
+
+The evidence is meaningful but incomplete. Command does not know who leads the activity, whether the people involved are reliable, how deeply Russian counterintelligence has penetrated the area, or whether there is a viable cell at all. Romeo is selected because his recent record demonstrates the specific combination the mission needs: small-unit combat leadership, coalition work, operating under degraded command, preserving routes and infrastructure, reading local conditions, and accepting responsibility without requiring a clean conventional battlespace.
+
+TASKING
+Romeo is ordered to enter occupied eastern Kentucky covertly and make contact with the suspected resistance activity around Calloway.
+
+His initial mission is to:
+- confirm whether an organized local resistance network actually exists;
+- assess its competence, security, motives, and civilian legitimacy;
+- help it survive immediate occupation pressure;
+- develop communications, routes, intelligence handling, logistics, and operational discipline;
+- connect credible local actors without automatically absorbing or subordinating them;
+- create a durable resistance capability that can continue operating while the conventional campaign develops elsewhere.
+
+Romeo is not sent to arrive as Calloway’s liberator, impose an outside command structure, or recruit a disposable proxy force. His brief gives him broad mission latitude because the assignment depends on local judgment and time. The command objective is to establish a trustworthy resistance partner and preserve future operational access, not to demand an immediate spectacular attack.
+
+INDIVIDUAL INSERTION / FIRE TEAM DELTA
+Romeo is selected and inserted ahead as the mission lead. Fire Team Delta does not accompany him into the opening Calloway operation.
+
+This preserves the later HIGH GROUND reunion. The exact post-Coronado assignments of Dingo, Howler, and Beaver before that reunion remain open, but the prologue must not depict them entering Calloway with Romeo or already serving inside the local cell. Romeo begins Game 2 without the familiar protection of his Ranger team and must earn trust inside a civilian-rooted resistance environment.
+
+PARALLEL NATIONAL STRATEGY
+The briefing also establishes a second operational line unfolding at the same time.
+
+While Romeo develops the eastern-Kentucky resistance network, more mobile surviving U.S. military formations are being assembled for a broader counteroffensive. Their strategic route runs east from California along a more southerly axis toward the Mississippi, crosses the river, and then turns northeast toward the Appalachian and Virginia approaches.
+
+The prologue should present this as a broad operational concept, not a fully fixed state-by-state map or a promise that every movement will be playable. Exact units, dates, staging bases, river crossing, and route remain open. The protected point is that Romeo’s covert/local mission and the conventional mobile advance are planned as complementary efforts:
+
+- the mobile force restores mass, logistics, and sustained territorial pressure;
+- Romeo’s mission develops local intelligence, resistance, route knowledge, and human infrastructure inside occupied terrain;
+- neither line can accomplish the entire liberation alone;
+- command expects them to converge only after sufficient time and battlefield progress.
+
+TIME-WISE CONVERGENCE
+The two plans converge during the late American Freedom campaign.
+
+By TRI-STATE POINT / the Battle of Cumberland Gap, the resistance Romeo helped develop has become the American Freedom Corps, and forward elements of the wider U.S. advance have reached the Cumberland region. The AFC’s local network, intelligence, route control, and civilian legitimacy combine with conventional mobility, engineers, aviation, and heavier logistics to preserve and liberate the corridor.
+
+After Cumberland Gap, larger formations can exploit the opened route toward southwestern Virginia and farther northeast. This payoff must read as the completion of the preparatory strategy shown in the prologue: Romeo was sent ahead to help create the human and operational conditions that a later conventional advance would need.
+
+This does not mean Romeo personally commands the California-to-Virginia counteroffensive or that Game 2 depicts a continent-spanning campaign through his perspective. American Freedom remains concentrated in Kentucky and the adjoining Appalachian tri-state region. The wider advance is the parallel clock that eventually reaches the local story.
+
+PREFERRED PROLOGUE PRESENTATION
+The prologue should be brief, preparatory, and intelligence-led. Preferred structure:
+
+1. CORONADO AFTERMATH
+A restrained transition from the Game 1 ending: after-action processing, casualty and unit-reconstitution texture, fragments of Romeo’s record moving upward, and recognition from senior personnel. Do not require a public medal ceremony or lock a specific decoration.
+
+2. SUMMONS
+Romeo is quietly redirected from ordinary reconstitution and brought to a secure briefing space. The shift in access should feel unusual but professionally plausible.
+
+3. SECURE BRIEFING
+A small joint special-operations/interagency group outlines the occupation-resistance problem. The room should feel like a surviving command mechanism built from damaged institutions rather than an untouched national headquarters.
+
+4. INTERCEPTED EVIDENCE
+The player sees or hears selected decrypted Russian communications, traffic-analysis summaries, maps, and incident correlations. The material should suggest organization without overproving it. No source should already call the network the American Freedom Corps.
+
+5. TWO-LINE PLAN
+The briefing contrasts Romeo’s eastern-Kentucky infiltration with the mobile southern-route counteroffensive. A map or operational display may show the two movements as separate lines intended to converge later, but exact production geography remains open.
+
+6. TASK ACCEPTANCE / DEPARTURE
+Romeo accepts the assignment with restrained professionalism. The sequence moves into covert travel or insertion and hands directly toward LOW GROUND. The transition should preserve the existing rule that he does not enter Calloway as a clean heroic liberator.
+
+CHARACTER FUNCTION
+The bridge marks a change in Romeo’s relationship to command.
+
+In Game 1, he repeatedly keeps routes open for other people while operating inside inherited military structures. The prologue shows senior command recognizing that ability and assigning him a mission where the structure is not yet present. His task is no longer only to lead soldiers through a route. It is to help people build the network, discipline, trust, and legitimacy that make a route possible.
+
+The prologue therefore begins his soldier-to-resistance-organizer arc without completing it in advance. Romeo enters with military authority and operational skill, but he still has to learn that local legitimacy cannot be issued in a briefing room.
+
+PROTECTED CONTINUITY
+- Placement is after NORTH ISLAND / CORONADO and before LOW GROUND.
+- Romeo’s valor and achievements are recognized internally by surviving senior command.
+- Recognition changes access and assignment, not rank; Romeo remains SSG.
+- The tasking comes from a compartmented surviving special-operations/interagency planning cell.
+- Decrypted Russian communications indicate low but persistent organized resistance activity around Calloway/eastern Kentucky.
+- The intelligence is incomplete and does not already identify a mature AFC.
+- Romeo is sent individually to establish contact, assess, support, and develop the local network over time.
+- He is not tasked to impose outside command or stage an immediate symbolic offensive.
+- Fire Team Delta does not accompany the opening insertion; the later HIGH GROUND reunion remains intact.
+- A parallel mobile U.S. counteroffensive advances east from California along a southern axis toward and across the Mississippi, then turns northeast toward Virginia/Appalachian approaches.
+- Exact conventional route, order of battle, and dates remain open.
+- The two operational lines converge at Cumberland Gap in campaign time.
+- The AFC supplies local network, intelligence, route control, and legitimacy; conventional forces supply mass, engineering, aviation, and sustained exploitation.
+- American Freedom remains geographically concentrated; Romeo does not personally lead a playable transcontinental counteroffensive.
+- The prologue shows initial preparation and tasking, not the completed outcome of the Game 2 campaign.
+
+SUPERSESSION
+This page resolves the following earlier open flags wherever they conflict:
+- whether there is a causal reason Romeo is sent to Calloway;
+- whether the Game 2 prologue is merely unexplained travel from Coronado;
+- why Romeo is selected instead of immediately returning to a normal conventional assignment;
+- how the local resistance campaign relates in time to the wider U.S. counteroffensive;
+- whether Cumberland Gap is an accidental meeting of forces rather than a delayed convergence of complementary plans.
+
+The following remain open:
+- final prologue mission title;
+- exact calendar date and duration of the diegetic gap;
+- exact Coronado recognition form, citation, or decoration;
+- exact briefing location and named command/interagency participants;
+- exact Russian intercept wording and collection/decryption chain;
+- exact insertion route, transport, cover identity, equipment state, and first playable moment;
+- Dingo, Howler, and Beaver’s exact assignments before HIGH GROUND;
+- exact southern counteroffensive states, units, Mississippi crossing, and Virginia approach;
+- final dialogue, cinematic grammar, music, and transition into LOW GROUND.
+
+CONTROLLING FOLLOW-ON
+The prologue hands into LOW GROUND and the existing Calloway opening block. It should not replace LOW GROUND’s reconnaissance, uncertainty, first local contact, or the need for Romeo to earn trust after arrival.
