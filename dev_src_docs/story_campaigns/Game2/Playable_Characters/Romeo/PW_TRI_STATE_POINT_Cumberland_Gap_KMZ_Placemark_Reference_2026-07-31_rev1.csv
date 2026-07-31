@@ -1,0 +1,20 @@
+placemark_id,name,longitude,latitude,mission_role,normalized_note,source_status
+1,Caboose Saloon and parking lot,-83.6694182,36.6008678,Final exterior holdout and second mortar call,"Defeat the reinforced parking-lot machine-gun position, then clear and secure the saloon.",protected_route_reference
+2,Sugar Run,-83.6744851,36.5977152,Forward mortar position,"U.S. forward mortar position supports the two authored player-called fire missions at D & D and the Caboose parking lot.",protected_support_reference
+3,Welcome to Kentucky Sign,-83.6861690,36.6043320,Western portal checkpoint,"Western tunnel-portal checkpoint and demolition-denial position.",protected_existing_objective
+4,Cumberland Gap assault staging area,-83.6659562,36.5955778,Player drop-off,"Sparrow 5 drops Romeo, Dingo, and Howler here after the western-portal intervention.",protected_route_reference
+5,Eastern portal assault staging area,-83.6662180,36.5936754,Parallel allied staging,"Ground forces rally here before pushing toward the eastern tunnel portal.",protected_parallel_route
+6,Holiday Tire,-83.6619727,36.5953083,Road control and northeast departure,"Romeo secures the shop and adjacent buildings, enabling later mobile-force movement and providing the campaign-ending northeast assembly point.",protected_route_reference
+7,University Inn,-83.6643253,36.5962959,Suppressed enemy position,"Nearby motorized U.S. infantry suppresses the occupied building while Romeo's team reaches cover outside Holiday Tire; no player-called mortar mission occurs here.",protected_support_rule
+8,Cumberland Gap Inn,-83.6679163,36.5981010,First substantial player-cleared building,"Romeo approaches from the eastern treeline and clears the building.",protected_route_reference
+9,D & D Wheel Alignment,-83.6686275,36.5984066,Reinforced machine-gun block and first mortar call,"Romeo calls the first player-requested mortar fire mission to break the reinforced position, then clears survivors.",protected_fire_support_event
+10,Lincoln Memorial University marker,-83.6685451,36.5987317,Marked town building objective,"Romeo clears and secures the marked building; exact production identity remains open.",protected_route_reference
+11,United States Postal Service,-83.6677909,36.5995787,Civic objective,"Romeo secures the post office without callable mortar support.",protected_route_reference
+12,Memorial Park,-83.6679144,36.6003523,Heavy-machine-gun vehicle obstacle,"Romeo neutralizes a heavy-machine-gun-mounted vehicle outside the park without another helicopter or mortar solution.",protected_route_reference
+13,Glushkin confrontation location,-83.6687195,36.6002345,Quiet-house confrontation,"Romeo confronts Glushkin here after organized defenses collapse.",protected_character_scene_reference
+14,Caboose Saloon,-83.6693869,36.6005124,Final organized town holdout,"After the parking-lot defense is broken, Romeo clears the saloon; surviving occupiers begin retreating north/east.",protected_route_reference
+15,Retreat staging parking lot,-83.6602766,36.6016180,Parallel withdrawal interception,"Motorized U.S. elements intercept and defeat or capture retreating occupiers while Romeo secures the town.",protected_parallel_route
+16,Eastern portal assault overwatch position,-83.6667584,36.5926188,Parallel allied observation,"A forward observation team monitors enemy activity and supports the eastern-portal assault.",protected_parallel_route
+17,Eastern portal checkpoint,-83.6698380,36.5940557,Parallel allied objective,"Occupation checkpoint protecting the eastern tunnel approach.",protected_parallel_route
+18,Southern mobile-element approach axis,-83.6661032,36.5484910,Incoming U.S. mobile-force axis,"Mobile U.S. elements approach from the south, later intercept retreating occupiers and form part of the northeast element.",protected_force_movement_reference
+19,Union College Environmental Education Center,-83.6931163,36.5989669,Enemy tunnel-support supply point and Tigr origin,"Small occupation supply point holding ammunition, fuel, and vehicles; the two western-portal reaction Tigrs originate here.",protected_diegetic_origin
