@@ -1,0 +1,64 @@
+PROJECT WARRIORS — GAME 1 / DO RIGHT, FEAR NONE
+THREAT IMMINENT — FROST SECOND-OVERWATCH SCOUT / UAV MARKER LOCK
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER MAP-LAYER UPDATE / CANON LOCK
+
+PURPOSE
+
+Land the owner-supplied additional map marker identifying the Russian forward scout
+team and UAV operator engaged during the Maasvlakte power-plant approach.
+
+SOURCE INPUT
+
+- Owner layer: Key mission locations.kmz
+- Owner-layer SHA-256: 94f2bbaad46d1de9a8d485b5a4d85b468e2bd664fbe6f57c581b145698beb8f5
+- Added marker coordinate: 4.0222928, 51.9603852
+- Relationship to Frost's second overwatch position: approximately 256 m
+- Relationship to Frost's third overwatch position: approximately 313 m
+
+LOCKED PLACEMENT
+
+The Russian forward scout team approaches the power plant from the west through the
+open coal-storage area immediately south of the main power-plant building. The team
+includes a UAV operator and a scout-team leader.
+
+Frost engages this element from his second overwatch position on the roof of the
+northern power-plant block building. Ducky, Lupin and Switchblade must avoid detection
+long enough for Frost to eliminate the UAV operator and the scout-team leader. The
+ground team then engages and clears the remaining scouts.
+
+PERSPECTIVE DISTINCTION
+
+This is an NPC support action by Frost. It does not trigger the playable Frost
+perspective transition.
+
+The later playable Frost sequence remains unchanged:
+
+- Frost advances to his third overwatch position on the main power-plant building;
+- control transitions to Frost there;
+- the player identifies and eliminates the separate Russian forward-observation team
+  correcting naval gunfire;
+- the forward-observation team remains distinct from the scout / UAV element.
+
+MAP RELATIONSHIP
+
+The updated repository map contains 25 point placemarks. The first 24 placemark
+coordinates and descriptions remain unchanged. The twenty-fifth marker adds only the
+scout / UAV position and its relationship to Frost's second overwatch.
+
+CONTINUITY LOCKS
+
+- Do not merge the scout / UAV team with the later naval-fire observation team.
+- Do not move Frost's playable transition from the third overwatch position.
+- Do not describe the second-overwatch action as a player-controlled Frost segment.
+- Preserve Ducky, Lupin and Switchblade as the ground element clearing the surviving
+  scouts after Frost removes the UAV operator and team leader.
+
+SOURCE-HIERARCHY RESULT
+
+This lock supplements and controls the relevant power-plant-approach language in the
+THREAT IMMINENT geography addendum, KMZ/KML map, placemark register and working
+knowledge. All unrelated mission geography and objective flow remain unchanged.
+
+END
