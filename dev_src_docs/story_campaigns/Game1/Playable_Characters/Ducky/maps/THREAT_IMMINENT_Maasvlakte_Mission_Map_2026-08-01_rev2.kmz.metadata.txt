@@ -1,0 +1,5 @@
+Validated binary KMZ source update for the finalized Kapitan encounter.
+Decoded KMZ SHA-256: 37bd9a2102e19732ca36bbcd74678b4282b012ed0e0c988424a70610ba3540e5
+Placemark count: 24
+Geometry change: none
+Text change: final regroup placemark now locks Dutch Marine observation, Kapitan's container-stack formation, elimination of Kapitan and squad, and exit east into the larger parking lot.
