@@ -2,150 +2,103 @@ PROJECT WARRIORS — SOURCE LANDING AUDIT
 SINS OF OUR FATHERS / EAST McFARLANE ISLAND KMZ
 Generated: 2026-08-01
 Version: rev1
-Status: SOURCE-LANDING AUDIT / OPEN-DEVELOPMENT REGISTER VERIFIED
+Status: FINAL OWNER KMZ VERIFIED / OPEN-DEVELOPMENT REGISTER VERIFIED
 
 SCOPE
 
-Audit the owner-supplied SINS OF OUR FATHERS KMZ, normalize its notes against the
-current controlling canon, land a corrected repository artifact, and preserve all
-identified map-development requirements for later work.
+Audit the final owner-supplied KMZ, verify the corrected CRIMSON labels and notes,
+land the updated normalized artifacts, apply owner clarifications, and preserve all
+future map-development requirements.
 
 INPUT VALIDATION
 
-- Source KMZ opened successfully.
+- Final source KMZ: SINS OF OUR FATHERS mission map (5).kmz
+- Source KMZ SHA-256: ad3bca13fec130de92c2fa410ee29a739f4ed539f629c097a2cd66696e4ecb84
 - Embedded KML: doc.kml
 - Embedded image asset: images/icon-1.png
 - Point placemarks: 8
 - LineString routes: 0
 - Polygon encounter / patrol areas: 0
-- Source artifact contains coordinates for the fictionalized East McFarlane map.
-- Normalized repository KML SHA-256:
-  ab7448b22d9931c461a5d35148ffcf4021bc7de0a3e95ac04966bbe363541c01
-- The binary owner KMZ remains the external source container; the corrected KML is
-  landed as reviewable UTF-8 text.
+- The source KMZ remains the external binary source container; the repository KML
+  is the reviewable UTF-8 transcription.
 
-FILES LANDED
+FINAL PLACEMARK VERIFICATION
+
+[VERIFIED] CRIMSON TWO / Lawrence “Rip” Mansell at the high-point tower
+[VERIFIED] CRIMSON THREE / Dermot “Lucky” Underwood at the guesthouse
+[VERIFIED] CRIMSON ONE / Richard “Digger” Graves at the residence mezzanine
+[VERIFIED] no stale “Crimson Two” reference inside Underwood’s description
+[VERIFIED] Dermot spelling
+[VERIFIED] western-cape cache label
+[VERIFIED] protected Regent-cache payload
+[VERIFIED] Spook refusal and rogue declaration
+[VERIFIED] Goldberg and Stockbridge helicopter escape
+[VERIFIED] no La Avispa reference in the final KMZ
+
+OWNER CLARIFICATIONS LANDED
+
+- The Temple Pavilion CheyTac M200 is unnamed and separate from EXTREME PREJUDICE.
+- La Avispa is not featured in Game 1. Any current-facing Game 1 assignment of her
+  to this mission or a CRIMSON target is superseded and prohibited. Archive-only
+  provenance may retain superseded wording.
+- Goldberg’s security architecture is privately sourced, protected from PANDORA,
+  fully under Goldberg’s control and isolated from wider strategic systems.
+
+CURRENT-FACING PURGE CHECK
+
+Repository code-search queries for “La Avispa” combined with “SINS OF OUR FATHERS”
+or “Game 1” returned no indexed current-facing match at update time. The dedicated
+source and working compendium now carry the explicit supersession rule. This check
+does not rewrite historical archives or valid later-game La Avispa material.
+
+FILES UPDATED
 
 1. Dedicated mission source
-   dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
-   PW_SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Geography_and_Objective_Flow_Addendum_2026-08-01_rev1.txt
-
-2. Normalized KML map source
-   dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
-   SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-01_rev1.kml
-
-3. Normalized placemark review
-   dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
-   PW_SINS_OF_OUR_FATHERS_KMZ_Placemark_Review_2026-08-01_rev1.csv
-
+2. Normalized KML map
+3. Placemark review CSV
 4. Working-knowledge addendum
-   Project_Warriors_Knowledge_Compendia/
-   PW_SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Design_Addendum_2026-08-01_rev1.txt
+5. This source-landing audit
 
-5. This audit
-   source_audits_and_reports/
-   PW_SINS_OF_OUR_FATHERS_East_McFarlane_KMZ_Source_Landing_Audit_2026-08-01_rev1.txt
+MAP-LEVEL GAP VERDICT
 
-CANON RECONCILIATION
+CLOSED.
 
-The source map used a superseded CRIMSON mapping. The corrected artifact and
-dedicated source follow the July 24 controlling War Wolves authority:
-
-- Graves = CRIMSON ONE
-- Mansell / Rip = CRIMSON TWO
-- Underwood / Lucky = CRIMSON THREE
-
-The audit specifically rejects carrying forward:
-
-- Rip as CRIMSON THREE;
-- Underwood as CRIMSON TWO;
-- “William” or “Billy” Underwood variants;
-- player-facing confirmation of the War Wolves’ legal identities during Game 1.
-
-The encounter roles remain unchanged:
-
-- Graves: close quarters / point
-- Rip: overwatch / precision
-- Underwood: breacher / support
-
-MAP CORRECTIONS
-
-- “Crimson Three’s position” at the high point is renamed CRIMSON TWO / Rip.
-- The guesthouse marker is renamed CRIMSON THREE / Lucky Underwood.
-- The main-residence marker is clarified as CRIMSON ONE / Digger Graves.
-- “Eastern cape” cache is corrected to western cape.
-- The temple-pavilion M200 is explicitly separated from EXTREME PREJUDICE.
-- The Regent cache contents are restored to the protected weatherproof-package,
-  encrypted-USB, unsigned-note, symbol and coordinates configuration.
-- The automated security system is limited to Goldberg’s local property network.
-- The helipad note now records Bishop’s order, Spook’s refusal, the rogue
-  declaration and the protected escape without describing Spook as voluntarily
-  standing down.
-- Typographical and readability errors in placemark notes are corrected.
-
-MISSION-FLOW VALIDATION
-
-The relative placements support:
-
-- a 108 m quiet movement from landing to staging;
-- a 255 m direct approach from staging toward Rip;
-- a 505 m longer western route to the pavilion;
-- a 311 m pavilion-to-Rip sightline;
-- a 330 m pavilion-to-cache optional extension;
-- a 466 m cache-to-guesthouse return toward the finale;
-- a tightly compressed 29 m guesthouse-to-Graves transition;
-- a 93 m Graves-to-helipad closing movement.
-
-These are planning-scale straight-line values. They do not substitute for authored
-paths, terrain, interiors or combat-space distance.
+The final owner KMZ resolves the previously identified map-label, cache, helipad and
+identity-wording corrections. The two-M200 distinction, La Avispa supersession and
+Goldberg-security scope are explicit in the source hierarchy.
 
 OPEN-DEVELOPMENT CAPTURE CHECK
 
-The dedicated source records all map-development requirements identified during
-review. Coverage was checked against the following categories:
-
-[RECORDED] primary route, western loop, eastern approach and backtracking lines
+[RECORDED] route lines, western loop, eastern approach and backtracking
 [RECORDED] terrain, verticality, vegetation, shoreline and traversal readability
-[RECORDED] blockers, soft gates, one-way transitions and no-return boundary
+[RECORDED] blockers, gates, one-way transitions and no-return boundary
 [RECORDED] patrol areas, encounter polygons and reinforcement routes
-[RECORDED] stealth alert propagation, failure recovery and checkpoint logic
-[RECORDED] companion AI formation, separation and reunion
-[RECORDED] drone type, sensors, patrol paths and counterplay
+[RECORDED] alert propagation, recovery, checkpoints and softlock prevention
+[RECORDED] companion formation, stun separation and reunion
+[RECORDED] drone type, sensors, paths and counterplay
 [RECORDED] automated-weapon type, arcs, ammunition and safety behavior
-[RECORDED] local network topology, Tripper access and IFF interaction
-[RECORDED] Rip encounter geometry and counter-sniper behavior
-[RECORDED] Underwood stun-grenade and guesthouse CQB implementation
-[RECORDED] Graves direct / IFF-assisted encounter balance
+[RECORDED] private local-network topology, Tripper access and IFF interaction
+[RECORDED] Rip tower encounter and counter-sniper behavior
+[RECORDED] Underwood stun-grenade and guesthouse CQB
+[RECORDED] Graves direct / IFF-assisted balance
 [RECORDED] CFIM, wrist-mark, body-access and anonymity presentation
-[RECORDED] pavilion interior and Goldberg-office intelligence
-[RECORDED] separate M200 and EXTREME PREJUDICE reward persistence
-[RECORDED] Regent-cache discovery and cross-game save-state behavior
-[RECORDED] guesthouse / main-residence floor plans and security-room access
+[RECORDED] pavilion interior, Goldberg office and unnamed M200
+[RECORDED] EXTREME PREJUDICE recovery and persistence
+[RECORDED] Regent-cache discovery and cross-game save state
+[RECORDED] guesthouse / residence floor plans and security-room access
 [RECORDED] residence collectible pacing
-[RECORDED] helipad trigger, blocking, protected escape and no arbitrary invalidation
-[RECORDED] Bishop dialogue timing, refusal and rogue-declaration beats
+[RECORDED] helipad trigger, blocking and protected escape
+[RECORDED] Bishop timing, Spook refusal and rogue declaration
 [RECORDED] West Coast assault transition and end-title execution
-[RECORDED] time, weather, lighting, sea state and sound
+[RECORDED] lighting, weather, sea state and sound
 [RECORDED] accessibility, difficulty, checkpoint density and route parity
-[RECORDED] destruction, persistence, streaming and performance budgets
+[RECORDED] destruction, persistence, streaming and performance
 [RECORDED] sufficient fictionalization from the real topographic reference
-
-SOURCE-HIERARCHY SAFEGUARDS
-
-- The normalized KML controls placemark labels and notes, not final level geometry.
-- The dedicated mission source controls macro flow and open requirements.
-- The War Wolves source controls identities and Game 1 reveal limits.
-- EXTREME_PREJUDICE_Build_Spec_rev2 controls Rip’s named weapon association.
-- The broader Game 1 synopsis controls the campaign-level ending summary.
-- Existing Regent cross-game sources control the cache’s later payoff.
-- No chronology, campaign title, ending outcome or stable identity is changed.
 
 MATURITY VERDICT
 
 SOURCE-READY / NOT PRODUCTION-READY.
 
-The map can now be used as the foundation for a detailed finale design pass without
-carrying forward the superseded CRIMSON labels or losing any known future-development
-requirement. Production readiness remains blocked by the open geometry, encounter,
-systems, interior, cinematic, accessibility and implementation work listed in the
-dedicated source.
+The final map may now be used as the controlling objective skeleton. Production
+readiness remains blocked only by the recorded geometry, encounter, systems,
+interior, cinematic, accessibility and implementation work.
