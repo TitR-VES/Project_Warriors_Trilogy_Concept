@@ -18,14 +18,14 @@ This lock extends and controls the Kapitan-ending material in:
 - THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev1.kmz / .kml
 - PW_THREAT_IMMINENT_KMZ_Placemark_Review_2026-08-01_rev1.csv
 
-The revised map artifacts are:
+The repository review update is:
 
-- THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev2.kmz
 - PW_THREAT_IMMINENT_KMZ_Placemark_Review_2026-08-01_rev2.csv
 
-The rev2 map layer supersedes rev1 only where the final Kapitan encounter is more
-specific. All other geography, placemark coordinates, objective flow and source
-locks remain unchanged.
+A revised owner-review KMZ was generated and validated separately. Within the
+repository, the rev2 placemark register and this encounter lock supersede rev1 only
+where the final Kapitan encounter is more specific. All other geography, placemark
+coordinates, objective flow and source locks remain unchanged.
 
 LOCKED SEQUENCE
 
