@@ -1,0 +1,1 @@
+Repository tooling note: the validated KMZ binary is recoverable by base64-decoding THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev2.kmz.base64.txt. The decoded file must be named THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev2.kmz. The decoded SHA-256 must equal 37bd9a2102e19732ca36bbcd74678b4282b012ed0e0c988424a70610ba3540e5.
