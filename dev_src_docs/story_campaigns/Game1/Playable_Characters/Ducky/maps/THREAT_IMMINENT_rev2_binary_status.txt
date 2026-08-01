@@ -1,1 +1,0 @@
-Binary repository write fallback remains pending. The authoritative encounter lock and revised placemark register are already landed. The validated decoded KMZ is available in the branch as a base64 payload with SHA-256 37bd9a2102e19732ca36bbcd74678b4282b012ed0e0c988424a70610ba3540e5.
