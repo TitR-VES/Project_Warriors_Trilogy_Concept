@@ -1,0 +1,248 @@
+PROJECT WARRIORS — GAME 1 / DO RIGHT, FEAR NONE
+THREAT IMMINENT — MAASVLAKTE CAMPAIGN-FINALE GEOGRAPHY AND OBJECTIVE-FLOW ADDENDUM
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER MAP LANDING / SOURCE-READY / WORKING MISSION-DESIGN LOCK
+
+PURPOSE
+
+Land the owner-confirmed Maasvlakte KMZ as the controlling geographic and
+objective skeleton for THREAT IMMINENT, the finale of Ducky's Game 1 campaign.
+This page reconciles the map with the established RETREAT, HELL handoff, AEGIS
+infrastructure stakes, Frost and Lupin perspective transitions, the NMESIS launch,
+Severomorsk's withdrawal, and Kapitan's field role.
+
+SOURCE INPUT
+
+- Owner-supplied input: THREAT IMMINENT Game 1 Ducky campaign finale mission map (7).kmz
+- Input SHA-256: 0d1d35e32c79ae569be04427d0944662ac7e4ca28f1581105ab8a36b26dfa9d7
+- Corrected repository KMZ:
+  dev_src_docs/story_campaigns/Game1/Playable_Characters/Ducky/maps/
+  THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev1.kmz
+- Corrected KMZ SHA-256: fc89c3f50cc821ec0892d5d6f0291110174a5d02f9e37f88898a96f89114956e
+- Reviewable normalized KML:
+  dev_src_docs/story_campaigns/Game1/Playable_Characters/Ducky/maps/
+  THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev1.kml
+- KML SHA-256: 1aa522a895667b9372273ec622575ff3030e5ba017bb4d6f9efd683ab69166de
+- Point placemarks: 24
+- LineString routes: 0
+- Polygon encounter / patrol areas: 0
+- Campaign: DO RIGHT, FEAR NONE
+- Playable character: SFC Ferris “Ducky” Ryan
+- Squad: AEGIS — Ducky, Frost, Lupin, Switchblade
+- Finale anchor: PW-EVT-DUCKY-G1-MAASVLAKTE-FINALE
+
+EDITORIAL NORMALIZATION
+
+The repository map preserves the owner's geography, objective intent and sequence
+while correcting spelling, grammar, duplicated phrases and unclear sentence
+construction. RETREAT, HELL punctuation is restored. “Tarmac” is replaced by
+terminal-service-yard language. NMESIS, Naval Strike Missile, AEGIS, Frost, Lupin,
+Switchblade, Kapitan and Severomorsk terminology is standardized.
+
+OWNER KAPITAN CLARIFICATION
+
+Kapitan is not part of the initial RPG shock element at the NMESIS position.
+
+- An initial Russian Spetsnaz shock element fires the RPG that disables and
+  overturns the NMESIS mobile command post.
+- AEGIS and nearby Dutch forces eliminate that initial element while Ducky escapes.
+- During the final movement to the regroup point, the player fights the main
+  Russian Spetsnaz team.
+- Kapitan personally commands that main team in the field.
+
+Do not collapse the initial shock element and Kapitan's main team into one force.
+
+LOCKED MACRO FLOW
+
+RETREAT, HELL amphibious-landing observation
+-> Dutch Marine forward-observer rendezvous
+-> Dutch Navy RHIB embarkation and inner-port transit
+-> RHIB landing beside the oil-storage sector
+-> mission transition into THREAT IMMINENT
+-> port-defense forward-command briefing
+-> first Frost overwatch position
+-> Dutch Marine service-yard rendezvous
+-> ECT Delta clearance under smoke
+-> northern container-yard exit
+-> Russian naval-gunfire strike on the transformer station
+-> diversion to Coloradoweg fire station
+-> confirmation that the power plant remains under Dutch control
+-> second Frost overwatch position
+-> UAV scout-team encounter at the power-plant cargo bay
+-> warning about Russian forward observers
+-> Frost moves to the main-building roof
+-> Frost playable sequence against the observation team
+-> service-lot final approach
+-> Lupin establishes storage-tank overwatch
+-> Ducky and Switchblade secure NMESIS
+-> Ducky launches the Naval Strike Missile at Severomorsk
+-> initial Spetsnaz RPG strike disables and overturns the command post
+-> Lupin post-launch playable defense
+-> Ducky escapes through the hatch
+-> movement toward the Dutch regroup point
+-> fight against Kapitan's main Spetsnaz team
+-> Frost regroups
+-> closing dialogue and campaign end
+
+MISSION BOUNDARY
+
+RETREAT, HELL owns the Russian amphibious landing, the covert observation of that
+landing, the Dutch forward-observer handoff and the RHIB transfer toward Maasvlakte.
+The RHIB landing and movement through the storage-tank sector create the transition.
+THREAT IMMINENT begins as AEGIS enters the terminal-defense battlespace and reaches
+the port-defense forward command post.
+
+PLANNING-SCALE RELATIONSHIPS
+
+- observation position to Zubr landing reference: approximately 888 m
+- Dutch Marine observers to RHIB embarkation: approximately 149 m
+- RHIB landing to forward command post: approximately 396 m
+- forward command post to ECT Delta: approximately 1029 m
+- ECT Delta to transformer strike: approximately 287 m
+- transformer strike to Coloradoweg fire station: approximately 184 m
+- power-plant cargo bay to Frost roof position: approximately 129 m
+- Frost roof position to enemy observation team: approximately 888 m
+- service-lot approach to NMESIS: approximately 508 m
+- Lupin overwatch tank to NMESIS: approximately 103 m
+- NMESIS to final regroup: approximately 101 m
+- NMESIS to Severomorsk offshore position: approximately 21342 m
+
+These are straight-line map relationships, not final playable path lengths.
+
+PLACEMARK INTERPRETATION
+
+1. MAASVLAKTE ROTTERDAM
+General setting anchor for the finale.
+
+2. CONTESTED NMESIS POSITION
+The player must secure the camouflaged launcher and mobile command post in a small
+employee parking lot. Ducky manually prepares and launches the Naval Strike Missile.
+
+3–6. RETREAT, HELL HANDOFF
+The Zubr landing, Dutch Marine observer rendezvous, RHIB embarkation and RHIB landing
+form the transition from the pre-finale into THREAT IMMINENT. Preserve the mission
+title punctuation: RETREAT, HELL.
+
+7. PORT-DEFENSE FORWARD COMMAND
+Dutch Navy and Marine Corps personnel brief Ducky on the endangered NMESIS battery
+and the wider terminal-defense situation. This is the finale's explicit opening
+briefing and objective assignment.
+
+8–11. ECT DELTA ADVANCE
+AEGIS supports Dutch Marines across a terminal service yard, advances under smoke,
+secures ECT Delta and exits through the northern container-yard gate. Containers,
+service vehicles, railcars and terminal equipment define the cover language; do not
+reintroduce airport, runway or aircraft-apron geography.
+
+10, 14 AND 16. FROST REPOSITIONING
+Frost's three mapped positions describe his movement through the battle. The first
+two are NPC overwatch states. The third position on the power-plant roof is the
+transition point for his playable sequence.
+
+12–13 AND 23. NAVAL-FIRE DIVERSION
+Russian naval gunfire strikes the transformer station and later the eastern half of
+a quay-adjacent building. The first strike forces the team east toward Coloradoweg
+fire station. The second demonstrates improving correction and supports the need to
+eliminate the enemy observation team.
+
+15 AND 21. SCOUTS AND FORWARD OBSERVERS
+A UAV-equipped scout team near the power-plant cargo bay reveals Russian reconnaissance
+activity. A separate team farther north occupies a pipeline and storage-tank position
+and corrects naval gunfire. Frost's playable section requires deliberate target
+identification and elimination of this observation team.
+
+17–20. NMESIS CLIMAX
+Lupin occupies an elevated storage-tank position before Ducky and Switchblade assault
+NMESIS. Ducky launches at Severomorsk. An initial Spetsnaz RPG shock element disables
+and overturns the command post. Lupin's playable section begins after launch and
+covers Ducky's escape. The player then returns to Ducky and fights Kapitan's main
+Spetsnaz team while moving to the Dutch regroup point.
+
+19. SEVEROMORSK
+The marked offshore position is the Naval Strike Missile impact reference. The strike
+forces Severomorsk to withdraw in flames; it is not a confirmed sinking.
+
+24. APM / AEGIS INFRASTRUCTURE
+The APM terminal complex supplies telecommunications, computing, relay, logistics and
+vessel-tasking infrastructure integrated into AEGIS. Critical hardware is below the
+surface, but the surface complex, connectivity and power remain dependencies. Holding
+territory is insufficient if the node becomes inoperable. This protected asset ties
+the finale directly to Ducky's infrastructure-defense campaign.
+
+CANON AND CONTINUITY LOCKS
+
+- Finale title: THREAT IMMINENT.
+- Pre-finale title: RETREAT, HELL, including the comma.
+- THREAT IMMINENT is distinct from RETREAT, HELL.
+- Ducky opens and closes the finale as the player character.
+- Frost's playable section is mid-mission and solves a long-range fire-correction
+  problem.
+- Lupin's playable section is shorter, begins after the NMESIS launch and covers the
+  close post-launch surge.
+- Ducky launches a Naval Strike Missile from the NMESIS-type system.
+- Severomorsk withdraws burning; do not state that it sinks unless later adjudicated.
+- The RPG strike disables and overturns the command post; it does not erase the
+  vehicle before Ducky's hatch escape.
+- Kapitan is absent from the initial RPG shock element and personally commands the
+  main Spetsnaz team encountered on the route to the regroup point.
+- The local AEGIS-linked infrastructure remains operational at mission end.
+- AEGIS and Dutch forces prevent the terminal-defense sector from falling.
+
+SOURCE-HIERARCHY RESULT
+
+This addendum controls the mapped objective skeleton and the owner-confirmed Kapitan
+force distinction. It does not replace the Game 1 campaign synopsis, gameplay and
+perspective-transition authority, named-NPC authority, weapon authority or later
+production-level mission script.
+
+ONTOLOGY RESULT
+
+No new event entity is required. The map elaborates the existing Maasvlakte finale
+anchor PW-EVT-DUCKY-G1-MAASVLAKTE-FINALE. Future ontology work may attach the map,
+location and encounter references to that event without creating one event per
+placemark.
+
+OPEN MAP AND LEVEL-DEVELOPMENT REQUIREMENTS
+
+A. ROUTES AND GEOMETRY
+- Draw the playable route, RHIB transit, encounter boundaries, shelling exclusion
+  areas, fallback paths, gates and no-return points.
+- Define final traversal distance, vertical access, interiors and destructibility.
+- Confirm sufficient fictionalization and gameplay compression of the real port.
+
+B. FORCE AND ENCOUNTER DESIGN
+- Define Dutch order of battle, reinforcement timing and command relationships.
+- Define Russian approach axes, reserves, retreat behavior and the initial shock
+  element's exact composition.
+- Define Kapitan's main-team composition, radio presence, personal movement, weapon
+  use, defeat state and relationship to surviving Russian forces.
+
+C. FROST AND LUPIN SECTIONS
+- Finalize transition triggers, target count, sightlines, rangefinding, dialogue and
+  return-to-Ducky logic.
+- Keep Frost methodical and long-range; keep Lupin short, close and protective.
+
+D. NMESIS AND NAVAL FIRE
+- Define launcher setup, command-post interior, firing solution, launch safety,
+  missile presentation, RPG origin, damage state and hatch-escape choreography.
+- Define Severomorsk's firing schedule, correction loop and withdrawal presentation.
+
+E. AEGIS NODE AND INDUSTRIAL SYSTEMS
+- Define the exact AEGIS hardware footprint, dependencies, redundancy and operator
+  roles without overclaiming real-world site functions.
+- Define civilian and industrial-worker evacuation, hazardous-material restrictions,
+  power-failure consequences and emergency-response behavior.
+
+F. ENDING AND CAMPAIGN CLOSE
+- Finalize Kapitan encounter pacing, regroup dialogue, Frost's return, Halliday's
+  anomaly handoff and the campaign-outro presentation.
+
+MATURITY
+
+SOURCE-READY / NOT PRODUCTION-READY.
+
+The corrected map may now control the finale's geographic and objective skeleton.
+Production readiness remains blocked by route geometry, encounter spaces, interiors,
+AI behavior, force composition, transitions, cinematics, hazardous-industrial rules,
+accessibility, performance and checkpoint implementation.
