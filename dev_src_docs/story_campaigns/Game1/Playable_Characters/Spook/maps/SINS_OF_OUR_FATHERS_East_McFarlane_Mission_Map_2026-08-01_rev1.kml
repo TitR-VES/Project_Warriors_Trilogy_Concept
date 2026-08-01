@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SINS OF OUR FATHERS mission map</name>
+    <description />
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels" />
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels" />
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>CRIMSON TWO — Rip overwatch position</name>
+        <description>Authoring-only identity: Lawrence "Rip" Mansell / CRIMSON TWO. Rip occupies a mobile observation tower near the sundial on the island’s highest elevation. After Victor Two Bravo defeats him, the player can recover EXTREME PREJUDICE from the observation post. The legal identity and Oscar Four Delta history are not exposed to the player during Game 1.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -64.8256519,18.2997435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Covert floatplane landing and entry point</name>
+        <description>Smoke coasts the BFA-2 floatplane to an engine-off landing, allowing Victor Two Bravo to enter East McFarlane Island undetected through an unlit, disused boat launch.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -64.8228542,18.2980253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Concealed staging area</name>
+        <description>Victor Two Bravo moves here after landing. Tripper assesses the island’s physical and local-network security while the team reviews and finalizes the approach plan. This is the route-choice and briefing-in-motion node, not a long static briefing scene.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -64.8234369,18.298828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Western temple pavilion / Goldberg office</name>
+        <description>An expensive eclectic pavilion styled as an Egyptian temple contains a secure office used by Goldberg, optional intelligence collectibles, and a separate unnamed CheyTac M200 Intervention. This rifle is distinct from Rip’s personal named build EXTREME PREJUDICE and may be used to engage his overwatch position from range.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -64.8281875,18.2983217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Western cape pool-house flagpole cache</name>
+        <description>Optional Regent cache concealed behind a loose stone block in the flagpole base near the western pool house. The loose stone hides a weatherproof package containing one encrypted USB drive and an unsigned handwritten note bearing a specific symbol and coordinates that do not correspond to any Game 1 objective. Finding it sets the cross-game quest state.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -64.8285678,18.3012709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CRIMSON THREE — Lucky Underwood guesthouse position</name>
+        <description>Authoring-only identity: Dermot "Lucky" Underwood / CRIMSON THREE. Victor Two Bravo approaches along the eastern beach under foliage cover because the main access route is heavily surveilled and protected by local automated weapons. The team enters the northeastern service side of the property through an apparently dark guesthouse. Underwood initiates the encounter with a stun grenade, producing a disorienting close-quarters fight. After defeating him, the player may take his access card and unlock the concealed security-monitoring room. The legal identity and Oscar Four Delta history are not exposed to the player during Game 1.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -64.824545,18.3030028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CRIMSON ONE — Digger Graves main-residence position</name>
+        <description>Authoring-only identity: Richard "Digger" Graves / CRIMSON ONE. Graves waits in prepared cover on the first-floor mezzanine overlooking the main residence entry hall. The player may fight him directly or use the guesthouse security room to alter the local IFF threat profiles and turn Goldberg’s closed property-security architecture against him. The exact automated-weapon behavior, encounter balance, and remote-defeat implementation remain open for the dedicated gameplay pass. The residence also contains optional intelligence collectibles before the player proceeds to the helipad. The legal identity and Oscar Four Delta history are not exposed to the player during Game 1.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -64.8242926,18.302896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Final helipad confrontation</name>
+        <description>Victor Two Bravo crosses the main-residence courtyard and driveway to the helipad, where Goldberg and Stockbridge are preparing to escape. Macmillan/Bishop orders Spook to stand down and grant Goldberg safe passage, including the protected slip: “Stand down, Spook. This is bigger than Mullen told you.” Spook refuses. Bishop declares Victor Two Bravo rogue, but the intervention and compromised command situation prevent the team from stopping the helicopter departure. The mission and Riptide Red campaign end on the betrayal and the widening West Coast assault.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -64.8235481,18.3024492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
