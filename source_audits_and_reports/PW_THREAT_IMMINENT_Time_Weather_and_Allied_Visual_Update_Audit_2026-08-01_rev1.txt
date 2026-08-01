@@ -1,0 +1,47 @@
+PROJECT WARRIORS — SOURCE UPDATE AUDIT
+THREAT IMMINENT — TIME, WEATHER, AND ALLIED VISUAL UPDATE
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER UPDATE LANDED / PR #63 EXTENSION
+
+SCOPE
+
+Apply the owner's final environment and allied-visual updates to the THREAT IMMINENT
+source package staged in PR #63.
+
+OWNER UPDATE
+
+- Canonical mission time is daytime, early to mid morning.
+- Use approximately 0730–1030 local daylight-saving time, normalized as CEST.
+- Weather is overcast at the end of RETREAT, HELL and during the RHIB transit.
+- Light rain occurs during the forward-observer handoff and RHIB boat trip.
+- Rain clears by the time AEGIS reaches the terminal in THREAT IMMINENT.
+- Conditions remain overcast through most of the mission.
+- By the NMESIS launch, weather becomes partly cloudy with a few blue-sky breaks.
+- Two owner-supplied reference images define the visual language for the allied
+  Dutch Royal Marines NPC force.
+
+ARTIFACTS ADDED
+
+1. PW_THREAT_IMMINENT_Time_Weather_and_Dutch_Royal_Marines_Visual_Lock_2026-08-01_rev1.txt
+2. PW_THREAT_IMMINENT_Time_Weather_and_Allied_Visual_Knowledge_Patch_2026-08-01_rev1.txt
+3. This audit
+
+REFERENCE IMAGE SUMMARY
+
+Reference A shows a Dutch Royal Marines team moving through stacked shipping-
+container lanes with woodland uniforms, modern helmets, communications gear, and
+mixed green / tan load-bearing equipment.
+
+Reference B shows Dutch Royal Marines in a cornering / firing posture beside a wall,
+reinforcing the same visual language and weapon-handling tone.
+
+CANON RESULT
+
+- THREAT IMMINENT is locked to an early / mid-morning daylight window.
+- Weather progression from light rain and overcast to a later partly cloudy climax is
+  locked.
+- The allied Dutch Royal Marines visual language is now source-defined.
+- No map geometry, placemark count, Kapitan logic, or perspective order is changed.
+
+END
