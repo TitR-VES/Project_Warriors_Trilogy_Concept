@@ -1,0 +1,104 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+THREAT IMMINENT / MAASVLAKTE KMZ
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER KMZ CORRECTED / SOURCE LANDING VERIFIED
+
+SCOPE
+
+Correct the owner-supplied KMZ at source-polish level, preserve all mapped geography
+and objective intent, apply the owner clarification concerning Kapitan's force, and
+land durable reviewable source artifacts for Ducky's Game 1 campaign finale.
+
+INPUT VALIDATION
+
+- Input KMZ: THREAT IMMINENT Game 1 Ducky campaign finale mission map (7).kmz
+- Input SHA-256: 0d1d35e32c79ae569be04427d0944662ac7e4ca28f1581105ab8a36b26dfa9d7
+- Embedded KML: doc.kml
+- Embedded image assets: images/icon-1.png, images/icon-2.png
+- Point placemarks: 24
+- LineString routes: 0
+- Polygon encounter / patrol areas: 0
+
+CORRECTED ARTIFACT VALIDATION
+
+- Corrected KMZ: THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev1.kmz
+- Corrected KMZ SHA-256: fc89c3f50cc821ec0892d5d6f0291110174a5d02f9e37f88898a96f89114956e
+- Normalized KML: THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev1.kml
+- KML SHA-256: 1aa522a895667b9372273ec622575ff3030e5ba017bb4d6f9efd683ab69166de
+- Corrected KMZ opens successfully.
+- Corrected KML parses successfully.
+- All 24 placemarks retain one point coordinate.
+- Embedded icon assets are preserved.
+- No route lines or polygons are invented.
+
+EDITORIAL CORRECTIONS APPLIED
+
+[CORRECTED] RETREAT, HELL punctuation
+[CORRECTED] storage tank, route, position, exposure and fire-support spelling
+[CORRECTED] Frost and Lupin capitalization and names
+[CORRECTED] terminal-service-yard wording; no tarmac / runway framing remains
+[CORRECTED] Naval Strike Missile / anti-ship terminology
+[CORRECTED] NMESIS command-post disablement and overturning
+[CORRECTED] transformer-strike and second-impact descriptions
+[CORRECTED] Frost roof and forward-observer sequence
+[CORRECTED] APM / AEGIS infrastructure-node description
+[CORRECTED] duplicated, malformed and unclear sentences throughout placemark notes
+
+OWNER KAPITAN CLARIFICATION VERIFIED
+
+- Kapitan is not part of the initial RPG shock element.
+- The initial element disables and overturns the NMESIS command post.
+- AEGIS and Dutch forces eliminate the initial element during Ducky's escape.
+- The main Spetsnaz team is encountered on the route to the regroup point.
+- Kapitan personally commands that main team in the field.
+
+FILES ADDED
+
+1. Corrected repository KMZ
+2. Normalized reviewable KML
+3. Dedicated mission geography and objective-flow addendum
+4. Placemark review CSV
+5. Working-knowledge addendum
+6. This source-landing audit
+
+CANON RECONCILIATION RESULT
+
+- THREAT IMMINENT remains the Ducky Game 1 campaign finale.
+- RETREAT, HELL remains the distinct pre-finale approach mission.
+- Frost and Lupin transitions match the established finale structure.
+- Ducky launches the Naval Strike Missile from NMESIS.
+- Severomorsk withdraws burning rather than receiving an unconfirmed sinking.
+- The command post is disabled and overturned, preserving Ducky's hatch escape.
+- Kapitan's main team is distinct from the initial shock element.
+- The AEGIS-linked terminal infrastructure remains operational.
+
+ONTOLOGY RESULT
+
+No new event is created. The source lands under the existing Maasvlakte finale anchor
+PW-EVT-DUCKY-G1-MAASVLAKTE-FINALE. One event per placemark would be inappropriate.
+
+MAP-LEVEL GAP VERDICT
+
+CLOSED.
+
+The corrected KMZ is suitable as the controlling spatial and objective reference for
+detailed THREAT IMMINENT development.
+
+OPEN-DEVELOPMENT CAPTURE CHECK
+
+[RECORDED] final route lines and RHIB path
+[RECORDED] encounter polygons and shelling zones
+[RECORDED] Dutch and Russian order of battle
+[RECORDED] Frost and Lupin transition triggers and target grammar
+[RECORDED] Kapitan main-team composition, radio role and defeat state
+[RECORDED] NMESIS setup, launch, RPG damage and hatch escape
+[RECORDED] AEGIS-node topology, redundancy and industrial dependencies
+[RECORDED] civilians, workers, hazardous-material and emergency-response rules
+[RECORDED] interiors, destructibility, checkpoints and no-return boundaries
+[RECORDED] finale dialogue, Halliday handoff and outro presentation
+[RECORDED] accessibility, performance, streaming and sufficient fictionalization
+
+MATURITY VERDICT
+
+SOURCE-READY / NOT PRODUCTION-READY.
