@@ -1,0 +1,44 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE PATCH
+THREAT IMMINENT — TIME, WEATHER, AND ALLIED DUTCH ROYAL MARINES LOOK
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER ENVIRONMENT / VISUAL UPDATE
+
+PURPOSE
+
+Project the newly locked time, weather, and Dutch Royal Marines visual-reference
+information into compact working knowledge for THREAT IMMINENT.
+
+TIME AND WEATHER
+
+- Mission window: early to mid morning, approximately 0730–1030 CEST.
+- RETREAT, HELL end-state: overcast with light rain during the forward-observer
+  Marine handoff and RHIB transit.
+- THREAT IMMINENT opening: rain has cleared by terminal arrival; conditions remain
+  overcast and damp.
+- Progression: overcast through most of the mission, gradually opening.
+- Finale: partly cloudy by the NMESIS launch, with a few visible breaks of blue sky.
+
+ALLIED DUTCH ROYAL MARINES LOOK
+
+Use the owner's two attached reference photos as the visual language for allied Dutch
+Royal Marines in this mission:
+
+- woodland-pattern uniforms;
+- modern ballistic helmets with NVG mounts and communications gear;
+- mixed green / olive / coyote plate carriers and load-bearing equipment;
+- compact service carbines / rifles with optics;
+- grounded combat posture appropriate to container lanes, corners, and industrial
+  terrain;
+- real-unit variation across individual NPCs rather than cloned silhouettes.
+
+EFFECT ON EXISTING SOURCE
+
+This patch does not alter the route, placemark logic, Frost/Lupin timing, the AEGIS
+stake, or Kapitan's final encounter. It only locks environment presentation and the
+visual language for the allied Dutch Marine force.
+
+CONTROLLING SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Ducky/
+PW_THREAT_IMMINENT_Time_Weather_and_Dutch_Royal_Marines_Visual_Lock_2026-08-01_rev1.txt
