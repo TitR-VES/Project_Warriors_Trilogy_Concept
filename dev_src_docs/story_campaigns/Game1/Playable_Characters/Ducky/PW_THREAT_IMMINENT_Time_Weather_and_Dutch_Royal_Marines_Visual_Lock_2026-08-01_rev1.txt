@@ -1,0 +1,113 @@
+PROJECT WARRIORS — GAME 1 / DO RIGHT, FEAR NONE
+THREAT IMMINENT — TIME, WEATHER, AND DUTCH ROYAL MARINES VISUAL LOCK
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER-ADJUDICATED ENVIRONMENT AND ALLIED-VISUAL LOCK
+
+PURPOSE
+
+Lock the canonical mission time-of-day, weather progression, and the visual-reference
+language for the allied Dutch Royal Marines appearing in THREAT IMMINENT and in the
+final portion of RETREAT, HELL.
+
+SOURCE RELATIONSHIP
+
+This lock extends the existing THREAT IMMINENT map, geography, and encounter source
+layers already staged in PR #63. It does not alter mission route logic, placemark
+coordinates, perspective-transition order, or the locked Kapitan ending.
+
+OWNER ENVIRONMENT LOCK
+
+- The canonical mission window is daytime, early to mid morning.
+- Use approximately 0730–1030 local daylight-saving time.
+- Normalize the time-zone wording as CEST (Central European Summer Time).
+- This timing is chosen to align THREAT IMMINENT with the established timing of the
+  Russian landing in RETREAT, HELL.
+
+WEATHER PROGRESSION LOCK
+
+1. END OF RETREAT, HELL
+- Overcast sky.
+- Light rain present during the Dutch Marine forward-observer handoff.
+- Light rain continues during the RHIB embarkation and boat transit.
+
+2. RHIB ARRIVAL / THREAT IMMINENT OPENING
+- Rain has cleared by the time AEGIS reaches the terminal by RHIB.
+- Conditions remain overcast during the early THREAT IMMINENT ground advance.
+- The atmosphere should still feel cool, damp, and recently rained-on rather than
+  dry or sunlit.
+
+3. MID-MISSION
+- Overcast remains the dominant condition through the terminal and power-plant
+  sectors.
+- Cloud cover begins to loosen gradually as the mission progresses.
+
+4. FINALE / NMESIS CLIMAX
+- Conditions shift to partly cloudy by the time of the NMESIS launch.
+- A few visible patches of blue sky should begin to break through the clouds.
+- The change is modest and late; the mission does not become bright, clear midday
+  sunshine.
+
+VISUAL-REFERENCE INPUTS
+
+Two owner-supplied reference images define the target visual language for the allied
+Dutch Royal Marines in this mission.
+
+Reference A
+- Multiple Dutch Royal Marines moving through stacked shipping-container lanes.
+- Visual emphasis: team movement, CQB spacing, container-terminal context, mixed
+  individual appearance, and woodland-pattern combat uniforms.
+
+Reference B
+- Dutch Royal Marines in a covered firing / cornering posture near a building wall.
+- Visual emphasis: rifle handling, helmet and communications setup, mixed green / tan
+  load-bearing kit, and grounded combat stance.
+
+ALLIED DUTCH ROYAL MARINES VISUAL LOCK
+
+Dutch Royal Marines in THREAT IMMINENT should read visually as follows:
+
+- woodland-pattern combat uniforms as the dominant clothing pattern;
+- modern ballistic helmets with front NVG mounts / shrouds and practical helmet
+  accessories such as retention bands or scrim;
+- integrated communications headsets and boom microphones on many operators;
+- plate carriers and chest-rig style load-bearing equipment, generally in green,
+  olive, ranger-green, coyote, or mixed subdued tones rather than glossy black kit;
+- combat gloves, knee protection where useful, and practical combat boots;
+- compact service carbines / rifles with optics and tactical accessories;
+- a mixture of individual gear setups so the squad looks like a real military unit,
+  not a copy-pasted set of identical character models;
+- professional, disciplined postures suited to terminal clearance, overwatch,
+  cornering, and movement through industrial terrain.
+
+VISUAL-IMPLEMENTATION GUIDANCE
+
+- The mission should not present the Dutch Royal Marines as parade-clean or overly
+  ceremonial.
+- Their appearance should fit an active urban-industrial combat operation in cool,
+  damp morning conditions.
+- Some equipment and uniforms may show moisture, light grime, or weather wear
+  appropriate to recent rain and movement through the terminal.
+- Shipping-container, jetty, service-yard, and industrial-building spaces should
+  visually suit the reference imagery when Dutch Marine NPCs are staged in them.
+
+BOUNDARY OF THE LOCK
+
+This lock governs time-of-day, weather progression, and allied Dutch Royal Marines
+visual language. It does not by itself lock exact weapon models, exact camouflage
+procurement details, unit heraldry visibility, or a one-to-one reproduction of every
+specific item visible in the owner images.
+
+CANON RESULT
+
+- THREAT IMMINENT occurs in daylight, early to mid morning, approximately
+  0730–1030 CEST.
+- The end of RETREAT, HELL and RHIB transit occur under overcast skies with light
+  rain.
+- Rain clears before AEGIS reaches the terminal in THREAT IMMINENT.
+- THREAT IMMINENT remains predominantly overcast, becoming partly cloudy by the
+  NMESIS climax with limited blue-sky breaks.
+- Allied Dutch Royal Marines in the mission should visually follow the owner-supplied
+  modern woodland-pattern, helmeted, communications-equipped combat look.
+
+END
