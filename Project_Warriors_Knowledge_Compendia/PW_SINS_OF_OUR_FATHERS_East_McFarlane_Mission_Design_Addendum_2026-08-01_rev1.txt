@@ -2,105 +2,92 @@ PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
 SINS OF OUR FATHERS — EAST McFARLANE ISLAND MAP AND FINALE DESIGN
 Generated: 2026-08-01
 Version: rev1
-Status: WORKING-KNOWLEDGE SYNTHESIS / DEDICATED SOURCE CONTROLS
+Status: OWNER-FINAL MAP SYNTHESIS / DEDICATED SOURCE CONTROLS
 
 PURPOSE
 
-Provide a compact working-knowledge projection of the owner-supplied SINS OF OUR
-FATHERS KMZ and the dedicated mission-geography source. This addendum does not
-replace the War Wolves source, named-weapon registry, timeline authority or
-dedicated mission page.
+Project the final owner-confirmed KMZ and dedicated mission source into compact
+working knowledge. This addendum does not replace War Wolves authority, named
+weapon sources, campaign synopsis authority or the dedicated mission page.
 
-MISSION POSITION
+FINAL MAP SOURCE
 
-- Game: Project Warriors, Game 1
-- Campaign: Riptide Red
-- Finale: SINS OF OUR FATHERS
-- Location: fictional East McFarlane Island, U.S. Virgin Islands
-- Playable unit: Spook and Victor Two Bravo
-- Ending: Bishop orders a stand-down; Spook refuses; Victor Two Bravo is declared
-  rogue; Goldberg and Stockbridge escape as the West Coast assault widens.
+- Owner KMZ: SINS OF OUR FATHERS mission map (5).kmz
+- Source SHA-256: ad3bca13fec130de92c2fa410ee29a739f4ed539f629c097a2cd66696e4ecb84
+- Eight point placemarks
+- No route lines or encounter / patrol polygons
+- Map-level canon and wording corrections: closed
+- Production geometry and implementation: still open
 
-MAP RESULT
-
-The eight-point KMZ supports a compact south-to-north infiltration with an optional
-western intelligence loop:
+MISSION SPINE
 
 engine-off floatplane landing
--> concealed staging / route choice
--> direct Rip route or western temple-pavilion route
+-> staging / route choice
+-> direct Rip route or western Temple Pavilion route
 -> optional Regent cache
 -> eastern-beach foliage approach
 -> Underwood guesthouse ambush
--> security-room / local IFF exploitation
+-> Goldberg-controlled security room / local IFF exploitation
 -> Graves main-residence encounter
 -> optional residence search
 -> helipad betrayal and escape
 
-CORRECTED WAR WOLVES MAP
-
-The July 24 controlling identity map governs:
+WAR WOLVES
 
 - CRIMSON ONE — Richard “Digger” Graves — close quarters / point
 - CRIMSON TWO — Lawrence “Rip” Mansell — overwatch / precision
 - CRIMSON THREE — Dermot “Lucky” Underwood — breacher / support
 
-The owner map’s older Rip / CRIMSON THREE label is not carried forward. Rip remains
-CRIMSON TWO and carries EXTREME PREJUDICE. Underwood owns the guesthouse CRIMSON
-THREE encounter. Legal identities are authoring-only during Game 1; CFIM prevents
-clean battlefield identification.
+The final KMZ uses this numbering consistently. Legal identities remain
+authoring-only during Game 1.
 
-WEAPON DISTINCTION
+LA AVISPA SUPERSESSION
 
-Two CheyTac M200 rifles may exist in the mission:
+La Avispa is not featured in Game 1. Any earlier assignment of La Avispa to
+CRIMSON THREE, SINS OF OUR FATHERS or another Game 1 event is superseded and must
+not appear in current-facing Game 1 sources. Historical archives may retain the
+superseded text only as provenance.
+
+TWO CHEYTAC M200 RIFLES
 
 1. EXTREME PREJUDICE — Rip’s personal named build, recovered at his observation
    position after defeat.
-2. A separate unnamed island-security M200 in Goldberg’s western temple pavilion,
-   usable against Rip from the pavilion sightline.
+2. A separate unnamed CheyTac M200 in Goldberg’s Temple Pavilion, usable against
+   Rip from the pavilion sightline.
 
-The pavilion rifle must not inherit the EXTREME PREJUDICE name.
+The pavilion rifle never inherits the EXTREME PREJUDICE name.
 
 REGENT CACHE
 
-The cache marker is on the western cape, not the eastern cape. A loose flagpole-base
-stone hides a weatherproof package containing one encrypted USB drive and an
-unsigned handwritten note with a specific symbol and coordinates not associated
-with any Game 1 objective. Finding it sets the protected Game 2 hidden-quest state.
+The cache is on the western cape. A loose flagpole-base stone hides a weatherproof
+package containing one encrypted USB drive and an unsigned handwritten note with
+an unfamiliar symbol and coordinates unrelated to any Game 1 objective.
 
-SECURITY-SYSTEM RULE
+GOLDBERG SECURITY RULE
 
-The guesthouse security room controls Goldberg’s closed local property-security
+The guesthouse room controls Goldberg’s privately sourced property-security
 architecture: cameras, drones, access control, automated weapons and local IFF
-profiles. It is not access to PANDORA, AEGIS, U.S. military systems or a broader
-strategic network.
+profiles. It is protected from PANDORA, fully under Goldberg’s control and isolated
+from PANDORA, AEGIS, U.S. military systems and wider strategic networks.
 
-The player may use Underwood’s access card to alter the IFF state and materially
-change the Graves encounter. Direct combat remains valid. Exact lethality, UI,
-weapon types and balancing remain open.
+The player may alter local IFF state against Graves. Direct combat remains valid.
+Exact lethality, UI, network topology and balance remain open.
 
-PROTECTED HELIPAD ENDING
+HELIPAD ENDING
 
-Bishop orders Spook to stand down and grant Goldberg safe passage. The protected
-slip remains: “Stand down, Spook. This is bigger than Mullen told you.”
-
-Spook refuses. Bishop declares Victor Two Bravo rogue. The compromised command
-situation and helicopter departure prevent the team from stopping Goldberg and
-Stockbridge. Do not describe Spook as willingly complying.
+Bishop orders Spook to stand down. Spook refuses. Bishop declares Victor Two Bravo
+rogue. Goldberg and Stockbridge escape under the compromised command situation.
+Do not describe Spook as willingly complying.
 
 MATURITY
 
-The map is a strong objective skeleton but is not production-ready. The dedicated
-source retains the full open-requirements register covering:
+SOURCE-READY / NOT PRODUCTION-READY.
 
-- route lines, terrain, verticality, blockers and no-return boundary;
-- patrol areas, encounter polygons, reinforcement and checkpoint logic;
-- drones, automated weapons, IFF and local-network implementation;
-- complete Rip, Underwood and Graves encounter design;
-- pavilion, cache and two-M200 reward logic;
-- guesthouse and main-residence floor plans;
-- helipad trigger, protected escape and campaign-end cinematic;
-- lighting, accessibility, difficulty, performance and destruction budgets.
+The open register still covers route geometry, patrol and encounter spaces,
+companion AI, drones and automated defenses, all three War Wolf encounter designs,
+pavilion and weapon rewards, Regent-cache save-state behavior, guesthouse and
+residence interiors, helipad blocking, accessibility, lighting, performance,
+streaming and sufficient fictionalization.
 
 CONTROLLING SOURCE
 
