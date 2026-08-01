@@ -2,62 +2,63 @@ PROJECT WARRIORS — GAME 1 / RIPTIDE RED
 SINS OF OUR FATHERS — EAST McFARLANE ISLAND MISSION GEOGRAPHY AND OBJECTIVE-FLOW ADDENDUM
 Generated: 2026-08-01
 Version: rev1
-Status: SOURCE-READY MAP LANDING / WORKING MISSION-DESIGN LOCK
+Status: OWNER-FINAL MAP LANDING / SOURCE-READY / WORKING MISSION-DESIGN LOCK
 
 PURPOSE
 
-This page lands the owner-supplied East McFarlane Island KMZ as the controlling
+Land the owner-confirmed final East McFarlane Island KMZ as the controlling
 geography and objective skeleton for SINS OF OUR FATHERS, the Game 1 Riptide Red
-campaign finale. It reconciles the map notes with the later War Wolves identity
-lock, preserves the protected Regent-cache and helipad ending, and separates
-locked mission architecture from the level-design work that remains open.
+campaign finale. This page reconciles the final placemark notes with controlling
+War Wolves canon, preserves the Regent cache and helipad ending, and keeps the
+remaining production work visible.
 
 SOURCE INPUT
 
-- Owner-supplied KMZ: SINS OF OUR FATHERS mission map.kmz
-- Normalized repository map source:
+- Final owner-supplied KMZ: SINS OF OUR FATHERS mission map (5).kmz
+- Source KMZ SHA-256: ad3bca13fec130de92c2fa410ee29a739f4ed539f629c097a2cd66696e4ecb84
+- Normalized repository map:
   dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
   SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-01_rev1.kml
-- Binary owner KMZ remains the external source container; the repository KML preserves
-  the corrected placemarks and coordinates in a reviewable text form.
-- Embedded geometry: 8 point placemarks
+- Embedded point placemarks: 8
 - Embedded route lines: 0
 - Embedded polygons / patrol areas / trigger volumes: 0
 - Fictional location: East McFarlane Island, U.S. Virgin Islands
 - Real-topography reference: Little Saint James Island, substantially fictionalized
-  in buildings, access, security, interiors, ownership, history and mission use
+  in structures, ownership, security, interiors, history and mission use
 - Campaign: Riptide Red
 - Playable character: Trevor “Spook” Gartner
 - Team: Victor Two Bravo
 
-AUTHORITY AND SUPERSESSION
+FINAL OWNER CONFIRMATIONS
 
-This source controls the map-derived macro route, the corrected placemark
-interpretation, and the listed future-development requirements.
+The final KMZ and owner clarifications close the map-level canon gaps:
 
-The later War Wolves / Oscar Four Delta source controls identity and CRIMSON
-designation wherever the owner map used an older provisional mapping:
+- CRIMSON ONE is Richard “Digger” Graves at the main-residence mezzanine.
+- CRIMSON TWO is Lawrence “Rip” Mansell at the high-point observation tower.
+- CRIMSON THREE is Dermot “Lucky” Underwood in the guesthouse.
+- The western-cape pool-house flagpole marker and Regent-cache payload are corrected.
+- The helipad note preserves Bishop’s order, Spook’s refusal, the rogue declaration,
+  and Goldberg and Stockbridge escaping.
+- The Temple Pavilion CheyTac M200 is unnamed and is separate from Mansell’s
+  EXTREME PREJUDICE.
+- Goldberg’s island security is privately sourced, protected from PANDORA, isolated
+  from wider systems and fully under Goldberg’s control.
+- La Avispa is not featured in Game 1. Any earlier material assigning her to a
+  CRIMSON target, SINS OF OUR FATHERS, or any other Game 1 event is superseded and
+  must not appear in current-facing Game 1 mission sources. Historical archives may
+  retain the superseded wording only as provenance.
 
-- CRIMSON ONE: Richard “Digger” Graves — close-quarters / point / cell lead
-- CRIMSON TWO: Lawrence “Rip” Mansell — overwatch / precision
-- CRIMSON THREE: Dermot “Lucky” Underwood — breacher / support / cleaner
+CONTROLLING WAR WOLVES MAP
 
-Therefore:
+- CRIMSON ONE — Richard “Digger” Graves — close quarters / point / cell lead
+- CRIMSON TWO — Lawrence “Rip” Mansell — overwatch / precision
+- CRIMSON THREE — Dermot “Lucky” Underwood — breacher / support / cleaner
 
-- the source-map label “Crimson Three’s position” at the island high point is
-  normalized to CRIMSON TWO / Rip;
-- the guesthouse encounter is normalized to CRIMSON THREE / Lucky Underwood;
-- the main-residence mezzanine encounter remains CRIMSON ONE / Digger Graves;
-- “William,” “Billy,” or other Underwood given-name variants are not carried
-  forward;
-- the War Wolves’ legal identities and Oscar Four Delta history are authoring
-  labels only during Game 1. The player receives CRIMSON identities, masks,
-  wrist-mark evidence and CFIM consequences, not confirmed legal-name exposition.
+Legal identities and Oscar Four Delta history remain authoring-only during Game 1.
+The player encounters CRIMSON identities and CFIM consequences without receiving a
+clean legal-name exposition.
 
-OVERALL ASSESSMENT
-
-The map works as a compact, legible finale space. It establishes a south-to-north
-infiltration spine with an optional western intelligence loop:
+LOCKED MACRO FLOW
 
 engine-off floatplane landing
 -> concealed staging and security assessment
@@ -66,381 +67,210 @@ engine-off floatplane landing
 -> optional Regent cache
 -> eastern-beach foliage approach
 -> CRIMSON THREE / Underwood guesthouse ambush
--> concealed security room and optional IFF manipulation
+-> concealed security room and optional local-IFF manipulation
 -> CRIMSON ONE / Graves main-residence encounter
--> residence intelligence search
+-> optional residence intelligence search
 -> courtyard and driveway crossing
 -> Goldberg / Stockbridge helipad confrontation
--> Bishop stand-down order, Spook refusal and rogue declaration
+-> Bishop stand-down order
+-> Spook refusal
+-> Victor Two Bravo rogue declaration
+-> Goldberg and Stockbridge helicopter escape
 
-The map should be treated as the objective skeleton, not a production-ready level.
-The eight points are sufficient to lock relative placement and cause-and-effect
-order, but they do not yet define traversal lines, patrol volumes, encounter
-boundaries, checkpoint logic, interiors or cinematic trigger spaces.
+The eight points form an objective skeleton, not a production-ready level.
 
-SPATIAL RELATIONSHIPS
+PLANNING-SCALE RELATIONSHIPS
 
-Planning-scale straight-line distances from the corrected KMZ:
-
-- landing point to concealed staging area: approximately 108 m
-- staging area to Rip’s high-ground position: approximately 255 m
-- staging area to western temple pavilion: approximately 505 m
-- temple pavilion to Rip’s position: approximately 311 m
-- temple pavilion to Regent cache: approximately 330 m
+- landing to staging: approximately 108 m
+- staging to Rip: approximately 255 m
+- staging to Temple Pavilion: approximately 505 m
+- Temple Pavilion to Rip: approximately 311 m
+- Temple Pavilion to Regent cache: approximately 330 m
 - Regent cache to guesthouse: approximately 466 m
-- guesthouse to Graves’s main-residence position: approximately 29 m
-- Graves’s position to the helipad: approximately 93 m
+- guesthouse to Graves: approximately 29 m
+- Graves to helipad: approximately 93 m
 
-These distances support a quiet insertion, a meaningful route choice, one optional
-western loop, and a tightly compressed final residence sequence. Final playable
-distance will be longer once terrain, paths, concealment, verticality, interiors and
-combat-space shaping are authored.
+Final playable distances will be longer after terrain, paths, cover, interiors,
+verticality and encounter-space shaping are authored.
 
-CORRECTED PLACEMARK INTERPRETATION
+PLACEMARK INTERPRETATION
 
-1. COVERT FLOATPLANE LANDING AND ENTRY
+1. COVERT FLOATPLANE LANDING
 
-Smoke coasts the BFA-2 floatplane to an engine-off landing. Victor Two Bravo enters
-through an unlit, disused boat launch without using an official CIA route.
-
-This is a short, controlled infiltration opening. The team must have enough space
-to unload, establish security and leave the aircraft before the player reaches the
-staging node. Exact water approach, landing animation, aircraft concealment and
-failure-state presentation remain open.
+Smoke coasts the BFA-2 floatplane to an engine-off landing at an unlit, disused boat
+launch. Exact water approach, landing animation, aircraft concealment, unloading
+space and failure presentation remain open.
 
 2. CONCEALED STAGING AREA
 
-Tripper assesses physical security and the island’s closed local network while the
-team finalizes the approach. This is a briefing-in-motion and route-choice node, not
-a long static command scene.
+Tripper assesses physical security and Goldberg’s isolated local network while the
+team finalizes the approach. This is a briefing-in-motion and route-choice node.
 
-The player should understand:
+3. CRIMSON TWO — RIP
 
-- the main residence approach is heavily surveilled;
-- drones and automated weapons protect open routes;
-- the western pavilion may contain intelligence and useful equipment;
-- Rip controls high ground;
-- foliage and service architecture provide the safer final approach.
+Rip occupies a mobile observation tower near the sundial at the island’s highest
+elevation. The encounter preserves his overwatch / precision role. EXTREME
+PREJUDICE remains recoverable at his observation post after his defeat.
 
-3. CRIMSON TWO — RIP OVERWATCH POSITION
+4. TEMPLE PAVILION / GOLDBERG OFFICE
 
-Lawrence “Rip” Mansell occupies a mobile observation tower near the sundial at the
-island’s highest elevation. His encounter preserves the locked CRIMSON TWO
-precision role.
+The pavilion contains Goldberg’s secure office, optional intelligence and one
+separate unnamed CheyTac M200 Intervention. The rifle is not EXTREME PREJUDICE.
+It may be used against Rip from the pavilion sightline; EXTREME PREJUDICE remains a
+distinct later recovery at Rip’s position.
 
-EXTREME PREJUDICE, Rip’s personal CheyTac M200 Intervention, remains at the
-observation position after his defeat and is recoverable by the player under the
-named-weapon rules.
+5. WESTERN-CAPE REGENT CACHE
 
-Presentation must preserve Game 1 anonymity. The authoring source knows Rip’s legal
-identity; Spook does not receive a clean legal identification from the body because
-CFIM destroys identifying facial evidence on death.
-
-4. WESTERN TEMPLE PAVILION / GOLDBERG OFFICE
-
-The western pavilion contains:
-
-- a secure office used by Goldberg;
-- optional mission intelligence and environmental evidence;
-- a separate unnamed CheyTac M200 Intervention.
-
-The pavilion rifle is not EXTREME PREJUDICE. It is a separately serialized island
-security weapon. The player may use it to engage Rip from the pavilion sightline,
-then later recover EXTREME PREJUDICE from his observation post.
-
-The pavilion is an optional advantage and investigation space, not a mandatory
-second main residence. Exact office contents, access method, enemy presence and
-interior footprint remain open.
-
-5. WESTERN CAPE POOL-HOUSE FLAGPOLE CACHE
-
-The source-map phrase “eastern cape” is geographically incorrect for the marked
-point. The repository artifact normalizes it to the western cape.
-
-A loose stone block in the flagpole base conceals a weatherproof package containing:
+A loose stone in the pool-house flagpole base conceals a weatherproof package with:
 
 - one encrypted USB drive;
 - one unsigned handwritten note;
-- one specific symbol;
-- one set of coordinates that does not correspond to any Game 1 objective.
+- one unfamiliar symbol;
+- coordinates that do not correspond to a Game 1 objective.
 
-Finding the package sets the protected cross-game hidden-quest state associated
-with Regent’s unredacted Riptide Red report. The symbol remains seeded at Montoya
-Farm and reappears as an environmental access key in Game 2.
+The cache is optional, easy to miss and tied to the protected cross-game quest state.
 
-The cache is optional, easy to miss and off the main objective path. It must not be
-converted into an automatically highlighted mandatory pickup.
+6. CRIMSON THREE — UNDERWOOD
 
-6. EASTERN-BEACH APPROACH / CRIMSON THREE GUESTHOUSE ENCOUNTER
+Victor Two Bravo approaches along the eastern beach under foliage cover because the
+main access route is heavily surveilled and protected by automated defenses.
+Underwood attacks in the dark guesthouse with a stun grenade, initiating a
+disorienting close-quarters fight. His access card opens the concealed monitoring
+room after his defeat.
 
-Victor Two Bravo uses foliage along the eastern beach because the principal approach
-is heavily surveilled and covered by automated weapons.
+7. GOLDBERG’S PRIVATE SECURITY ARCHITECTURE
 
-The team enters the northeastern service side of the residence property through an
-apparently dark guesthouse. Dermot “Lucky” Underwood / CRIMSON THREE initiates the
-encounter with a stun grenade, creating a disorienting close-quarters fight.
+The guesthouse room controls Goldberg’s closed property-security architecture:
 
-After defeating Underwood, the player may recover his access card and open a
-concealed security-monitoring room.
+- cameras and video feeds;
+- drones and automated weapons;
+- access control;
+- local IFF profiles covering the residence and courtyard.
 
-Underwood remains the breacher / support War Wolf. His established suppressed
-compact 5.56 package remains the default loadout unless a later dedicated source
-revises it.
+The architecture is privately sourced, protected from PANDORA, fully controlled by
+Goldberg and isolated from PANDORA, AEGIS, U.S. military systems and wider strategic
+networks. Underwood’s card may permit optional IFF manipulation against Graves.
+Direct combat remains valid. Exact lethality, UI and balance remain open.
 
-7. SECURITY ROOM AND LOCAL IFF MANIPULATION
+8. CRIMSON ONE — GRAVES
 
-The guesthouse security room exposes the island’s closed property-security system:
-
-- video feeds;
-- drone and automated-weapon coverage;
-- access-control state;
-- local IFF threat profiles protecting the main residence and courtyard.
-
-This is Goldberg’s isolated private security architecture. It is not a casual
-connection into PANDORA, AEGIS, U.S. military systems or a wider public network.
-
-Using Underwood’s access card, the player may alter the local IFF profile and turn
-part of the property defense against Graves. Direct combat must remain possible.
-The exact degree of remote lethality, player interaction, UI, timing and encounter
-balance remain open.
-
-8. CRIMSON ONE — GRAVES MAIN-RESIDENCE ENCOUNTER
-
-Richard “Digger” Graves waits in prepared cover on the first-floor mezzanine of the
-main residence entry hall.
-
-The player has two authored solution families:
-
-- direct close-quarters assault against a prepared senior operator;
-- security-room exploitation that degrades, distracts, wounds or potentially
-  defeats him through the local automated-defense system.
-
-The IFF route should feel like earned intelligence exploitation, not a universal
-“hack to win” button. Final tuning must preserve a rewarding direct fight while
-making prior reconnaissance materially useful.
-
-After the encounter, the player may search the residence for intelligence before
-crossing the courtyard to the helipad.
+Graves waits in prepared cover on the main-residence entry-hall mezzanine. The
+player may assault him directly or exploit the local IFF system. The intelligence
+route must feel earned rather than functioning as a universal bypass.
 
 9. FINAL HELIPAD CONFRONTATION
 
-Spook reaches Edward Goldberg and Gillian Stockbridge as they prepare to leave by
-helicopter. The confrontation confirms that the shipment chain, Montoya Farm,
-KINGMAKER, the Shadow Underground and PANDORA belong to the same protected
-architecture.
-
-Macmillan / Bishop orders Spook to stand down and grant Goldberg safe passage. The
-protected slip remains:
-
-“Stand down, Spook. This is bigger than Mullen told you.”
-
-Spook refuses the order. Bishop declares Victor Two Bravo rogue. The intervention,
-compromised command state and helicopter departure prevent the team from arresting
-or killing Goldberg and Stockbridge before they escape.
-
-Do not rewrite this as willing compliance by Spook. The mission ends on betrayal,
-loss of institutional protection and the widening West Coast assault.
-
-LOCKED PLAYABLE FLOW
-
-PHASE 1 — ENGINE-OFF ARRIVAL
-
-- Smoke lands the floatplane without engine power at the disused boat launch.
-- Victor Two Bravo disembarks, secures the immediate area and moves inland.
-- The opening establishes isolation, heat, darkness and deliberate lack of formal
-  support.
-
-PHASE 2 — STAGING AND ROUTE CHOICE
-
-- Tripper assesses local physical and network security.
-- The team identifies the high-ground threat and heavily surveilled main approach.
-- The player may move directly toward Rip or take the longer western pavilion route.
-- The route choice changes information, equipment and engagement geometry, not the
-  finale outcome.
-
-PHASE 3A — DIRECT HIGH-GROUND ROUTE
-
-- Victor Two Bravo closes on Rip’s observation sector using terrain and cover.
-- The player defeats CRIMSON TWO in a precision / counter-overwatch encounter.
-- EXTREME PREJUDICE becomes recoverable at the observation post.
-- The western pavilion and Regent cache remain optional detours.
-
-PHASE 3B — WESTERN INTELLIGENCE ROUTE
-
-- The player infiltrates the temple pavilion.
-- Optional intelligence clarifies Goldberg’s activity and island security.
-- The player may take the separate unnamed M200 and use the pavilion-to-tower
-  sightline against Rip.
-- The player may continue to the western pool-house flagpole and discover the
-  Regent cache.
-- The branch rejoins the residence approach without changing the protected ending.
-
-PHASE 4 — EASTERN-BEACH INFILTRATION
-
-- The team avoids the exposed main approach.
-- Foliage, shoreline terrain and service access conceal movement toward the
-  guesthouse.
-- Drones and local automated defenses create surveillance pressure rather than an
-  unavoidable open firefight.
-
-PHASE 5 — UNDERWOOD AMBUSH
-
-- The apparently deserted guesthouse becomes the CRIMSON THREE encounter space.
-- Underwood’s stun-grenade initiation disrupts vision, hearing and team formation.
-- The player defeats him and may recover the access card.
-- The encounter must preserve Underwood’s breacher / support identity.
-
-PHASE 6 — SECURITY EXPLOITATION
-
-- The player finds the concealed monitoring room.
-- Video feeds reveal the main residence and Graves’s prepared position.
-- The access card permits optional IFF manipulation.
-- The choice changes the Graves encounter but does not bypass the residence as a
-  narrative space.
-
-PHASE 7 — GRAVES AND RESIDENCE SEARCH
-
-- Victor Two Bravo enters the main residence.
-- CRIMSON ONE confronts the team from the mezzanine.
-- Direct combat and security exploitation remain valid.
-- Optional intelligence search occurs after or around the encounter without
-  collapsing finale momentum.
-
-PHASE 8 — HELIPAD BETRAYAL
-
-- The team crosses the courtyard and driveway.
-- Goldberg and Stockbridge are confronted at the helicopter.
-- Bishop issues the stand-down order and makes the Mullen slip.
-- Spook refuses.
-- Victor Two Bravo is declared rogue.
-- Goldberg and Stockbridge escape.
-- The West Coast assault widens the ending beyond the island.
+Macmillan / Bishop orders Spook to stand down and grant Goldberg safe passage.
+Spook refuses. Bishop declares Victor Two Bravo rogue. The intervention,
+compromised command situation and helicopter departure prevent the team from
+stopping Goldberg and Stockbridge. Do not describe Spook as willingly complying.
 
 CONTINUITY CONSTRAINTS
 
 - Preserve CRIMSON ONE = Graves, CRIMSON TWO = Mansell, CRIMSON THREE = Underwood.
-- Preserve Rip as the precision overwatch encounter and EXTREME PREJUDICE carrier.
-- Preserve the separate unnamed pavilion M200.
+- Preserve Rip’s overwatch role and ownership of EXTREME PREJUDICE.
+- Preserve the Temple Pavilion M200 as unnamed and separate.
 - Preserve War Wolves Game 1 anonymity and CFIM effects.
-- Preserve the optional Regent cache contents and cross-game state.
-- Preserve the local nature of the island security / IFF system.
-- Preserve direct and intelligence-assisted solutions to Graves.
-- Preserve Spook’s refusal of Bishop’s order.
-- Preserve Goldberg and Stockbridge escaping the island.
-- Preserve the rogue declaration as the Riptide Red closing state.
-- Preserve the map as a branching objective skeleton, not a final combat script.
+- Preserve the Regent cache payload and cross-game state.
+- Preserve Goldberg’s security architecture as private, PANDORA-protected,
+  Goldberg-controlled and local to the property.
+- Do not connect the security room to PANDORA, AEGIS, military systems or a wider
+  strategic network.
+- Preserve direct and IFF-assisted Graves solutions.
+- Preserve Spook’s refusal, the rogue declaration and the protected helicopter escape.
+- La Avispa must not appear in Game 1 or be assigned any Game 1 CRIMSON target.
+- Preserve the map as a branching objective skeleton, not a finished combat script.
 
 OPEN MAP AND LEVEL-DEVELOPMENT REQUIREMENTS
 
-The following requirements are deliberately recorded as open. They must be resolved
-or explicitly deferred before the mission is treated as production-ready.
+The following remain open and must be resolved or explicitly deferred before the
+mission is treated as production-ready.
 
 A. GEOMETRY AND TRAVERSAL
 
-- Draw the primary direct route, western optional loop, eastern-beach approach,
-  residence route and any permitted backtracking paths.
+- Draw the direct route, western optional loop, eastern-beach approach, residence
+  route, permitted backtracking and final no-return boundary.
 - Define terrain grades, climbable surfaces, shoreline limits, vegetation density,
-  concealment reliability and readable traversal landmarks.
-- Define route blockers, soft gates, one-way drops and the point after which the
-  western cache can no longer be reached.
-- Establish whether the player can revisit Rip’s tower after using the pavilion
-  sightline and whether EXTREME PREJUDICE can always be recovered.
-- Define the final no-return boundary before the helipad.
-- Fictionalize paths, structures and security sufficiently that East McFarlane is
-  not a one-to-one recreation of the real reference property.
+  concealment reliability and readable landmarks.
+- Define blockers, soft gates, one-way drops and the point after which the Regent
+  cache cannot be reached.
+- Confirm whether Rip’s tower remains revisitable and whether EXTREME PREJUDICE can
+  always be recovered.
+- Fictionalize paths and structures sufficiently to avoid a one-to-one recreation
+  of the real reference property.
 
 B. ENCOUNTER AND AI SPACES
 
 - Draw patrol areas, combat polygons, reinforcement routes, fallback positions and
-  alert-state propagation.
-- Define ordinary island-security personnel and their relationship to the three
-  War Wolf encounters.
-- Define Victor Two Bravo companion formation, separation and reunion behavior,
-  especially after Underwood’s stun grenade.
-- Define failure, recovery and checkpoint logic for stealth breaks and route
-  transitions.
-- Prevent optional-route completion order from creating softlocks or duplicate
-  boss states.
+  alert propagation.
+- Define ordinary security personnel and their relationship to the War Wolves.
+- Define companion formation, separation and reunion, especially after Underwood’s
+  stun grenade.
+- Define stealth-break recovery, checkpoints and softlock prevention across optional
+  route orders.
 
-C. DRONES AND AUTOMATED DEFENSES
+C. DRONES, AUTOMATED DEFENSES AND NETWORK
 
-- Select drone types, sensors, patrol paths, detection cones and alert escalation.
-- Define whether drones can be avoided, spoofed, disabled, destroyed or redirected.
-- Select automated-weapon types, firing arcs, ammunition limits and safety zones.
-- Define the local network topology and exactly what Tripper can observe or alter.
-- Define the IFF interaction, feedback, permanence and consequence if used against
-  Graves.
-- Confirm that the property-security system cannot imply access to PANDORA or other
-  unrelated strategic networks.
+- Select drone types, sensors, patrol paths, detection cones and counterplay.
+- Select automated-weapon types, arcs, ammunition, safety behavior and failure states.
+- Define local-network topology and exactly what Tripper can observe or alter.
+- Define IFF interaction, feedback, permanence and consequences.
+- Preserve the private, PANDORA-protected, Goldberg-controlled scope.
 
 D. WAR WOLF ENCOUNTERS
 
-- Finalize Rip’s observation-tower footprint, sightlines, relocation behavior,
-  counter-sniper phases and close-range contingency.
-- Finalize Underwood’s guesthouse route, stun-grenade timing, disorientation
-  treatment, room sequence and support/breacher tactics.
+- Finalize Rip’s tower footprint, sightlines, relocation, counter-sniper phases and
+  close-range contingency.
+- Finalize Underwood’s stun timing, disorientation treatment, room sequence and
+  breacher/support tactics.
 - Finalize Graves’s mezzanine defenses, direct-fight challenge, IFF-assisted state
   and possible remote-defeat threshold.
-- Define CFIM death presentation, body access, Roman-numeral discovery and loot
-  interaction without exposing legal identities.
-- Define boss-health presentation or its absence, checkpoint placement and
-  difficulty scaling.
-- Keep the three encounters mechanically distinct.
+- Define CFIM presentation, body access, wrist-mark discovery and loot interaction
+  without exposing legal identities.
+- Define checkpoints, difficulty scaling and boss-health presentation or its absence.
+- Keep all three encounters mechanically distinct.
 
-E. PAVILION, CACHE AND REWARD LOGIC
+E. PAVILION, CACHE AND REWARDS
 
-- Build the temple-pavilion interior and Goldberg office access path.
-- Define the exact optional intelligence objects and what they add without
-  prematurely resolving Goldberg’s full architecture.
-- Define the separate M200’s optic, ammunition, pickup state and post-mission
-  persistence.
-- Define EXTREME PREJUDICE recovery, ammunition and named-build persistence.
-- Define cache discovery radius, interaction animation and anti-overhighlighting
-  rule.
-- Define save-state / imported-choice handling for the Regent cross-game quest.
-- Confirm how the symbol is seeded at Montoya Farm and recognized in Game 2.
+- Build the pavilion interior and Goldberg-office access path.
+- Define optional intelligence objects and their disclosure limits.
+- Define the unnamed pavilion M200’s optic, ammunition, pickup state and persistence.
+- Define EXTREME PREJUDICE recovery, ammunition and persistence.
+- Define Regent-cache discovery radius, interaction animation, highlighting limits
+  and cross-game save-state behavior.
 
-F. GUESTHOUSE AND MAIN-RESIDENCE INTERIORS
+F. GUESTHOUSE AND MAIN RESIDENCE
 
-- Produce complete floor plans, vertical connections, service routes, locked doors,
+- Produce floor plans, vertical connections, service routes, locked doors,
   sightlines and destructibility rules.
-- Place the concealed security room and explain its physical concealment.
-- Define access-card acquisition and fail-safe behavior if the body or card becomes
-  unreachable.
-- Define residence intelligence distribution and the time allowed for exploration.
-- Preserve finale pacing so collectible searching does not drain urgency from the
-  helipad approach.
+- Place and justify the concealed security room.
+- Define access-card fail-safes if Underwood’s body or card becomes unreachable.
+- Define residence-intelligence distribution and exploration time without draining
+  helipad urgency.
 
 G. HELIPAD AND CINEMATIC EXECUTION
 
-- Define the courtyard crossing, helicopter position, rotor state, guard state and
+- Define the courtyard crossing, helicopter position, rotor and guard states, and
   Goldberg / Stockbridge blocking.
-- Define the helipad trigger volume, camera control, player-weapon state and whether
-  the sequence remains seamless first person.
-- Lock the exact Bishop radio timing, protected line delivery, Spook refusal,
-  rogue declaration and helicopter departure beats.
-- Define why direct player fire cannot trivially invalidate the protected escape
-  without using an arbitrary invisible wall.
-- Define the cut to the widening West Coast assault and the exact campaign-end
-  transition.
-- Finalize dialogue, performance direction, music, sound design and end-title timing.
+- Define trigger volume, camera control, weapon state and first-person continuity.
+- Lock Bishop’s timing, Spook’s refusal, rogue declaration and helicopter departure.
+- Prevent trivial player invalidation of the protected escape without an arbitrary
+  invisible wall.
+- Define the West Coast assault transition, music, sound and end-title timing.
 
 H. PRODUCTION AND ACCESSIBILITY
 
 - Define time of night, weather, sea state, lighting and visibility.
-- Define stealth readability and alternatives for players with visual or auditory
-  accessibility needs, particularly during the stun-grenade encounter.
-- Define checkpoint density, mission length, difficulty modifiers and route parity.
-- Define destruction budget, persistent bodies/evidence, performance constraints
-  and streaming boundaries.
+- Provide accessible alternatives and readability for stealth and stun effects.
+- Define mission length, checkpoint density, difficulty modifiers and route parity.
+- Define destruction, evidence persistence, streaming and performance budgets.
 - Validate that optional content rewards exploration without making the direct route
   feel incomplete.
 
 RESULT
 
-The normalized KML and this source provide a strong, canon-compatible foundation for
-the detailed SINS OF OUR FATHERS finale pass. The macro route, route-choice concept,
-three differentiated War Wolf encounters, optional Regent cache, residence-security
-exploitation and protected helipad ending are now landed. The mission remains
-explicitly not production-ready until the open geometry, encounter, systems,
-interior, cinematic and accessibility requirements above are developed.
+The final owner KMZ closes the outstanding map-level canon and wording corrections.
+The normalized KML, placemark review and source hierarchy are canon-compatible.
+The mission remains SOURCE-READY / NOT PRODUCTION-READY because route geometry,
+encounter spaces, systems implementation, interiors, cinematic blocking,
+accessibility and performance work remain open.
