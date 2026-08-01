@@ -1,0 +1,6 @@
+PROJECT WARRIORS — MAP PAYLOAD NOTE
+THREAT IMMINENT — 25-POINT OWNER LAYER
+Generated: 2026-08-01
+Version: rev1
+
+The owner-supplied Key mission locations.kmz contains 25 point placemarks. The only substantive addition over the prior corrected 24-point map is the Russian scout-team / UAV-operator position at 4.0222928, 51.9603852. The repository preserves the prior full-map KMZ/KML and lands the added point through the dedicated supplemental KML, marker CSV, canon lock, knowledge patch and update audit. A locally validated consolidated 25-point KMZ was produced with SHA-256 26676530c5b158d6fda7f03580818d9f8af9feea8f30e1049e7dfd0ad42554c1; the supplemental source layers are controlling for the added marker until the consolidated binary is committed through a binary-capable path.
