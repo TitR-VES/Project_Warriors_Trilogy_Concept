@@ -1,0 +1,40 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE PATCH
+THREAT IMMINENT — KAPITAN FINAL ENCOUNTER
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER-LOCKED FINALE ENCOUNTER
+
+CONTROL
+
+After Lupin's post-launch section, control returns to Ducky. A nearby Dutch Marine
+spots a new enemy element moving through the shipping-container stacks east of the
+overturned NMESIS command post.
+
+This is Kapitan's main Spetsnaz squad. Kapitan is physically present and personally
+commands the formation. It is separate from the earlier RPG shock element.
+
+Ducky, Lupin, Switchblade and nearby Dutch Marines fight through the container stacks
+and eliminate the entire formation, including Kapitan. Only after Kapitan is killed
+and the squad is destroyed may AEGIS exit the eastern side of the container stacks
+into the larger parking lot for the final regroup.
+
+LOCKED ENDING SPINE
+
+NMESIS launch
+-> initial RPG shock element
+-> command post disabled and overturned
+-> Lupin playable defense
+-> Ducky hatch escape
+-> control returns to Ducky
+-> Dutch Marine spots movement east of NMESIS
+-> Kapitan's main squad in container stacks
+-> formation destroyed and Kapitan killed
+-> eastern exit into large parking lot
+-> Dutch Marine regroup
+-> Frost called in
+-> closing dialogue and campaign end
+
+CONTROLLING SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Ducky/
+PW_THREAT_IMMINENT_Kapitan_Final_Encounter_Lock_2026-08-01_rev1.txt
