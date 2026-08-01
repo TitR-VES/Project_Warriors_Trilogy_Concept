@@ -1,0 +1,84 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+THREAT IMMINENT — MAASVLAKTE MAP AND CAMPAIGN-FINALE DESIGN
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER MAP SYNTHESIS / DEDICATED SOURCE CONTROLS
+
+PURPOSE
+
+Project the corrected owner KMZ and dedicated mission source into compact working
+knowledge. This addendum does not replace Game 1 campaign, gameplay, weapon,
+named-NPC or ontology authority.
+
+FINAL MAP SOURCE
+
+- Owner input: THREAT IMMINENT Game 1 Ducky campaign finale mission map (7).kmz
+- Input SHA-256: 0d1d35e32c79ae569be04427d0944662ac7e4ca28f1581105ab8a36b26dfa9d7
+- Corrected repository KMZ SHA-256: fc89c3f50cc821ec0892d5d6f0291110174a5d02f9e37f88898a96f89114956e
+- Corrected reviewable KML SHA-256: 1aa522a895667b9372273ec622575ff3030e5ba017bb4d6f9efd683ab69166de
+- Twenty-four point placemarks
+- No route lines or encounter / patrol polygons
+- Map-level geography and canon reconciliation: closed
+- Production geometry and implementation: open
+
+MISSION SPINE
+
+RETREAT, HELL landing observation
+-> Dutch observer handoff
+-> RHIB transit
+-> Maasvlakte landing and mission transition
+-> forward-command briefing
+-> ECT Delta advance
+-> naval-fire diversion
+-> Coloradoweg and power-plant approach
+-> Frost observation-team section
+-> service-lot approach
+-> Lupin tank overwatch
+-> NMESIS launch against Severomorsk
+-> initial RPG shock element
+-> Lupin post-launch defense
+-> Ducky hatch escape
+-> Kapitan-led main-team fight
+-> Dutch regroup and campaign close
+
+KAPITAN FORCE DISTINCTION
+
+Kapitan is not part of the initial RPG shock element. The initial element disables
+the NMESIS command post and is defeated during Ducky's escape. Kapitan personally
+commands the main Spetsnaz team fought on the route to the regroup point. Preserve
+these as two distinct combat elements.
+
+PERSPECTIVE STRUCTURE
+
+- Ducky opens the mission and leads the main advance.
+- Frost shifts into player control from the power-plant roof to eliminate the Russian
+  observation team correcting naval gunfire.
+- Ducky resumes control for the final NMESIS approach and launch.
+- Lupin shifts into player control after launch and the RPG strike.
+- Ducky returns for the hatch escape, Kapitan engagement, regroup and finale close.
+
+AEGIS STAKE
+
+The APM terminal complex supports AEGIS through telecommunications, compute, relay,
+logistics-data and vessel-tasking infrastructure. Power, connectivity and surface
+operability remain essential even if NATO retains the ground. Preserving this node
+closes the infrastructure-defense arc of DO RIGHT, FEAR NONE.
+
+CLIMAX LOCKS
+
+- Ducky launches a Naval Strike Missile from the NMESIS-type system.
+- Severomorsk withdraws burning; no sinking is established.
+- The RPG strike disables and overturns the command post.
+- Ducky escapes through the hatch.
+- Lupin's section occurs after launch.
+- Kapitan personally commands the later main Spetsnaz team.
+- The terminal sector and AEGIS-linked infrastructure remain operational.
+
+MATURITY
+
+SOURCE-READY / NOT PRODUCTION-READY.
+
+CONTROLLING SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Ducky/
+PW_THREAT_IMMINENT_Maasvlakte_Mission_Geography_and_Objective_Flow_Addendum_2026-08-01_rev1.txt
