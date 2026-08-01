@@ -1,0 +1,74 @@
+PROJECT WARRIORS — SOURCE UPDATE AUDIT
+THREAT IMMINENT — FROST SECOND-OVERWATCH SCOUT / UAV MARKER
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER LAYER VERIFIED / PR #63 UPDATE
+
+SCOPE
+
+Verify the owner-supplied updated KMZ layer, isolate the new marker, preserve all
+existing THREAT IMMINENT geography and encounter locks, and land the added scout / UAV
+position in durable source layers.
+
+INPUT VALIDATION
+
+- Input layer: Key mission locations.kmz
+- Input SHA-256: 94f2bbaad46d1de9a8d485b5a4d85b468e2bd664fbe6f57c581b145698beb8f5
+- Embedded KML: doc.kml
+- Embedded icons: images/icon-1.png, images/icon-2.png
+- Point placemarks: 25
+- LineString routes: 0
+- Polygon areas: 0
+
+CHANGE ISOLATION
+
+Comparison against the prior corrected 24-point layer found one substantive addition:
+
+- Enemy scout team and UAV-operator position
+- Coordinate: 4.0222928, 51.9603852
+
+The existing 24 placemark names and descriptions are unchanged. The uploaded layer
+rounds some pre-existing coordinate values to fewer decimal places; the repository
+map preserves the earlier higher-precision coordinates and adds only the new point.
+
+OWNER INTENT LANDED
+
+- The scout team approaches through the open coal-storage area south of the main
+  power-plant building.
+- The formation includes a UAV operator and scout-team leader.
+- Frost fires from his second overwatch position on the northern-block roof.
+- Ducky, Lupin and Switchblade avoid detection until Frost removes the UAV operator
+  and team leader, then clear the remaining scouts.
+- This is an NPC support action.
+- Frost's later playable transition from his third overwatch position against the
+  separate naval-fire observation team remains unchanged.
+
+SPATIAL VALIDATION
+
+- New marker to Frost second overwatch: approximately 256 m
+- New marker to Frost third overwatch: approximately 313 m
+
+The placement supports a readable intermediate scout engagement without collapsing it
+into the later long-range forward-observer sequence.
+
+FILES ADDED OR UPDATED
+
+1. Corrected repository KMZ/KML map layer, now containing 25 points
+2. Dedicated scout / UAV marker canon lock
+3. Supplemental one-row marker CSV
+4. Working-knowledge patch
+5. This source-update audit
+
+CANON RESULT
+
+The scout / UAV encounter is now spatially fixed and mechanically distinguished from
+Frost's playable naval-fire-observer section. No unrelated geography, Kapitan ending,
+NMESIS sequence, AEGIS-node stake or mission-boundary material changes.
+
+MATURITY
+
+SOURCE-READY / NOT PRODUCTION-READY.
+
+Open implementation fields include exact scout count, detection cones, UAV behavior,
+Frost shot timing, ground-team engagement choreography, checkpointing and difficulty
+scaling.
