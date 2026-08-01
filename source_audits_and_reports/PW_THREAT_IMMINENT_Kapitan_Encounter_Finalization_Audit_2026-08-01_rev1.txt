@@ -22,30 +22,36 @@ OWNER ADJUDICATION
 - The team then exits east from the container stacks into the larger parking lot for
   the final regroup.
 
-ARTIFACTS ADDED
+REPOSITORY ARTIFACTS ADDED
 
-1. THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev2.kmz
-2. PW_THREAT_IMMINENT_KMZ_Placemark_Review_2026-08-01_rev2.csv
-3. PW_THREAT_IMMINENT_Kapitan_Final_Encounter_Lock_2026-08-01_rev1.txt
-4. PW_THREAT_IMMINENT_Kapitan_Encounter_Knowledge_Patch_2026-08-01_rev1.txt
-5. This finalization audit
+1. PW_THREAT_IMMINENT_KMZ_Placemark_Review_2026-08-01_rev2.csv
+2. PW_THREAT_IMMINENT_Kapitan_Final_Encounter_Lock_2026-08-01_rev1.txt
+3. PW_THREAT_IMMINENT_Kapitan_Encounter_Knowledge_Patch_2026-08-01_rev1.txt
+4. This finalization audit
+
+OWNER-REVIEW MAP ARTIFACT
+
+A revised KMZ containing the finalized placemark wording was generated and validated
+separately for owner review. The repository landing uses the rev2 placemark register
+and dedicated encounter lock as the durable diffable source update. The existing
+repository KMZ/KML continue to control the unchanged geography and coordinates.
 
 REVISION RELATIONSHIP
 
-The rev2 map artifacts preserve the 24 placemark coordinates and all earlier map
-content. They supersede rev1 only for the more precise final-regroup placemark text.
-The dedicated encounter lock closes the formerly open Kapitan placement and defeat
-state without changing the earlier mission route or perspective structure.
+The rev2 placemark register preserves all 24 coordinates and all earlier map content.
+It supersedes rev1 only for the more precise final-regroup placemark text. The
+dedicated encounter lock closes the formerly open Kapitan placement and defeat state
+without changing the earlier mission route or perspective structure.
 
 VALIDATION
 
-- Revised KMZ opens successfully.
+- The revised owner-review KMZ opens successfully.
 - All 24 point placemarks remain present.
 - Embedded icon assets remain present.
 - No routes or polygons are invented.
-- The final-regroup placemark explicitly records the Dutch Marine observation, the
-  eastern container-stack battlefield, Kapitan's physical command role, elimination
-  of the complete formation, Kapitan's death and the exit into the larger parking lot.
+- The rev2 register explicitly records the Dutch Marine observation, the eastern
+  container-stack battlefield, Kapitan's physical command role, elimination of the
+  complete formation, Kapitan's death and the exit into the larger parking lot.
 
 CANON RESULT
 
