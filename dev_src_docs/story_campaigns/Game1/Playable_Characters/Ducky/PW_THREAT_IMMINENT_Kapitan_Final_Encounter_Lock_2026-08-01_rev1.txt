@@ -1,0 +1,107 @@
+PROJECT WARRIORS — GAME 1 / DO RIGHT, FEAR NONE
+THREAT IMMINENT — KAPITAN FINAL ENCOUNTER LOCK
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER-ADJUDICATED ENCOUNTER FINALIZATION / CANON LOCK
+
+PURPOSE
+
+Finalize Kapitan's physical placement, the transition back to Ducky after Lupin's
+playable sequence, the final combat space, Kapitan's defeat state, and the route into
+the campaign-ending regroup.
+
+SOURCE RELATIONSHIP
+
+This lock extends and controls the Kapitan-ending material in:
+
+- PW_THREAT_IMMINENT_Maasvlakte_Mission_Geography_and_Objective_Flow_Addendum_2026-08-01_rev1.txt
+- THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev1.kmz / .kml
+- PW_THREAT_IMMINENT_KMZ_Placemark_Review_2026-08-01_rev1.csv
+
+The revised map artifacts are:
+
+- THREAT_IMMINENT_Maasvlakte_Mission_Map_2026-08-01_rev2.kmz
+- PW_THREAT_IMMINENT_KMZ_Placemark_Review_2026-08-01_rev2.csv
+
+The rev2 map layer supersedes rev1 only where the final Kapitan encounter is more
+specific. All other geography, placemark coordinates, objective flow and source
+locks remain unchanged.
+
+LOCKED SEQUENCE
+
+1. Ducky launches the Naval Strike Missile from the NMESIS-type system.
+2. An initial Russian Spetsnaz RPG shock element disables and overturns the NMESIS
+   mobile command post.
+3. Lupin's post-launch playable sequence covers Ducky's escape through the hatch.
+4. AEGIS and nearby Dutch forces eliminate the initial RPG shock element.
+5. Control transitions back to Ducky.
+6. A nearby Dutch Marine observes another enemy element moving between the stacks
+   of shipping containers east of the overturned NMESIS command post.
+7. This second element is Kapitan's main Russian Spetsnaz squad. Kapitan is physically
+   present and personally commands the formation in the field.
+8. Ducky, Lupin, Switchblade and the nearby Dutch Marines enter the container stacks
+   and fight through the formation.
+9. The player must eliminate the entire enemy formation, including Kapitan.
+10. After Kapitan and his squad are destroyed, AEGIS exits the eastern side of the
+    container stacks into the larger parking lot.
+11. Ducky and the surviving AEGIS members reach the final Dutch Marine regroup point.
+12. Ducky calls Frost in to regroup, after which the closing dialogue and campaign
+    ending proceed.
+
+FORCE DISTINCTION
+
+Kapitan is not part of the initial RPG shock element. Preserve two distinct Russian
+combat elements:
+
+A. INITIAL RPG SHOCK ELEMENT
+- attacks the exposed NMESIS position after launch;
+- fires the RPG that disables and overturns the command post;
+- is eliminated during Ducky's escape and Lupin's defensive section;
+- does not include Kapitan.
+
+B. KAPITAN'S MAIN SPETSNAZ SQUAD
+- enters or reveals itself only after control returns to Ducky;
+- moves through the container stacks east of the overturned command post;
+- is identified by a nearby Dutch Marine;
+- is personally commanded by Kapitan;
+- blocks the route to the final regroup parking lot;
+- is eliminated in full, including Kapitan, before the campaign can end.
+
+CONTROL AND SPATIAL GRAMMAR
+
+- Lupin remains the player character through the immediate post-launch defense.
+- Ducky becomes the player character again before Kapitan's formation is engaged.
+- The overturned NMESIS command post remains the western visual anchor of the fight.
+- The shipping-container stacks east of NMESIS form the final authored combat space.
+- The larger parking lot east of the container stacks is the post-combat regroup and
+  campaign-ending space.
+- The Kapitan encounter is not a separate distant battle or abstract radio event; it
+  is the final close-range formation fight on the direct route to the regroup.
+
+KAPITAN DEFEAT STATE
+
+Kapitan is canonically killed or otherwise lethally eliminated during this fight.
+He does not escape, surrender, disappear, or remain available for a later campaign.
+The player must eliminate him as part of destroying the full Spetsnaz formation.
+
+OPEN IMPLEMENTATION FIELDS
+
+The following remain open without weakening the locked sequence:
+
+- exact number and specialist composition of Kapitan's squad;
+- exact Dutch Marine dialogue identifying the movement;
+- Kapitan's radio lines and moment of visual identification;
+- container-stack cover layout, flanking paths and reinforcement prevention;
+- Kapitan's exact weapon handling and combat behavior;
+- whether the killing blow is necessarily delivered by Ducky or may come from an
+  allied combatant under gameplay simulation;
+- checkpoint placement and difficulty scaling;
+- exact transition from combat end into Frost's regroup arrival and closing dialogue.
+
+CANON RESULT
+
+Kapitan's final Game 1 outcome is no longer open. He personally commands the main
+Spetsnaz formation east of NMESIS and is eliminated with that formation before Ducky
+can enter the final regroup parking lot.
+
+END
