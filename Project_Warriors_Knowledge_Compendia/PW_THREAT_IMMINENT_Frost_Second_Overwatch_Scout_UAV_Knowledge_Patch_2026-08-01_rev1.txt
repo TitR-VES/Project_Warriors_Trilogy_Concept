@@ -1,0 +1,35 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE PATCH
+THREAT IMMINENT — FROST SECOND-OVERWATCH SCOUT / UAV ENGAGEMENT
+Generated: 2026-08-01
+Version: rev1
+Status: OWNER MAP-LAYER UPDATE / DEDICATED SOURCE CONTROLS
+
+PLACEMENT
+
+A Russian forward scout team, including a UAV operator and team leader, approaches
+the Maasvlakte power plant from the west through the open coal-storage area south of
+the main building.
+
+Frost engages the element from his second overwatch position on the roof of the
+northern power-plant block. Ducky, Lupin and Switchblade remain concealed until Frost
+eliminates the UAV operator and team leader, then clear the surviving scouts on the
+ground.
+
+PERSPECTIVE RULE
+
+This is an NPC Frost support action. Frost does not become the player character here.
+His playable transition remains later, from the third overwatch position on the main
+power-plant building, against the separate forward-observation team correcting naval
+gunfire.
+
+MAP UPDATE
+
+- Added marker: 4.0222928, 51.9603852
+- Approximately 256 m from Frost's second overwatch position
+- Updated map total: 25 point placemarks
+- Existing 24 points and all unrelated mission flow remain unchanged
+
+CONTROLLING SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Ducky/
+PW_THREAT_IMMINENT_Frost_Second_Overwatch_Scout_UAV_Marker_Lock_2026-08-01_rev1.txt
