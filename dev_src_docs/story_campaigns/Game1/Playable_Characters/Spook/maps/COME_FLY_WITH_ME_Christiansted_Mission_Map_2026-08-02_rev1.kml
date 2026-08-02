@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>COME FLY WITH ME — Christiansted mission map</name>
-    <description>Normalized repository transcription of owner-supplied KMZ revision Come Fly With Me Spook Game 1 campaign pre-finale (5).kmz; source SHA-256 a717c4f2a93ac540fbc7e99025ab612ad33531ff426847e63ffb0130de2fb873. Seventeen point placemarks; no route lines or polygons. Wording has been normalized to correct directional, guard-accounting, contractor-framing, aircraft-designation, landing-coordinate, alarm-network, and typographical issues approved for repository landing.</description>
+    <description>Normalized repository transcription of owner-supplied KMZ revision Come Fly With Me Spook Game 1 campaign pre-finale (5).kmz; source SHA-256 a717c4f2a93ac540fbc7e99025ab612ad33531ff426847e63ffb0130de2fb873. Twenty-one point placemarks; no route lines or polygons. Wording has been normalized to incorporate the accepted geography, guard, alarm, radio, CCTV, response-escalation, aircraft, landing-coordinate, and typographical corrections.</description>
     <Style id="icon-1750-0288D1-normal">
       <IconStyle><scale>1</scale><Icon><href>images/icon-2.png</href></Icon></IconStyle>
       <LabelStyle><scale>0</scale></LabelStyle>
@@ -31,7 +31,7 @@
       <name>Owner-confirmed mission placemarks</name>
       <Placemark>
         <name>Christiansted Harbor Seaplane Base</name>
-        <description>Victor Two Bravo infiltrates the mission-relevant portion of the Christiansted Harbor seaplane base to commandeer a floatplane for the approximately 39-mile north-northwest flight to East McFarlane Island. The operation is controlled through a Goldberg-linked shell aerial-tour company. Its seven armed contractors knowingly support Goldberg's covert transport and human-trafficking logistics; their complicity, rather than their background or nationality, defines them as hostile security personnel. Four fixed alarm buttons and radios carried by all seven guards and the manager can alert the remaining security personnel on base to the player's presence.</description>
+        <description>Victor Two Bravo infiltrates the mission-relevant portion of the Christiansted Harbor seaplane base to commandeer a floatplane for the approximately 39-mile north-northwest flight to East McFarlane Island. The operation is controlled through a Goldberg-linked shell aerial-tour company. Its seven armed contractors knowingly support Goldberg's covert transport and human-trafficking logistics. Four fixed alarm buttons, radios carried by all seven guards and the manager, and four static cameras form the compound security network. A full alarm causes all surviving armed guards to search for and shoot Victor Two Bravo on sight.</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point><coordinates>-64.7077065,17.7471149,0</coordinates></Point>
       </Placemark>
@@ -49,13 +49,13 @@
       </Placemark>
       <Placemark>
         <name>Seaplane-base administration building</name>
-        <description>Victor Two Bravo infiltrates the compound and must bypass, incapacitate, restrain, or neutralize as required seven Goldberg-linked armed contractors: one at the east gate, one at the west gate, one patrolling the east berth, one patrolling the north jetty, one inside the north service entrance and first-floor corridor, and two accompanying the manager in his first-floor office. The team breaches and secures the office, overcomes the two guards, restrains the manager, and compels him to provide access to the fueled Found FBA-2C berthed at the north jetty. The manager remains restrained in the office while the team moves to the aircraft. Eliminating every guard is not a mandatory objective. Fixed alarms are positioned at the north service entrance and in the hallway leading to the manager's office; the east and west gatehouses contain the other two alarm buttons.</description>
+        <description>Victor Two Bravo infiltrates the compound and must bypass, incapacitate, restrain, or neutralize as required seven Goldberg-linked armed contractors: one at the east gate, one at the west gate, one patrolling the east berth, one patrolling the north jetty, one inside the north service entrance and first-floor corridor, and two accompanying the manager in his first-floor office. Fixed alarms are positioned at the north service entrance and in the manager's-office hallway; the gatehouses contain two more. The manager monitors four static CCTV feeds from his office. If all seven guards are eliminated before the manager is secured, he locks the office, calls the police, and forces a timed breach-and-key-recovery branch before land and maritime responders arrive.</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point><coordinates>-64.7077841,17.7468758,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>Found FBA-2C floatplane — north jetty</name>
-        <description>The fueled Found FBA-2C that Victor Two Bravo commandeers for the flight to East McFarlane Island. Access is controlled through the manager; the aircraft does not require a prolonged refueling sequence before departure.</description>
+        <description>The fueled Found FBA-2C that Victor Two Bravo commandeers for the flight to East McFarlane Island. Access is controlled through the manager and aircraft keys; the aircraft does not require a prolonged refueling sequence before departure. During the external-response branch, police pressure closes the land approaches while an armed U.S. Coast Guard patrol boat approaches this departure area.</description>
         <styleUrl>#icon-1750-0288D1</styleUrl>
         <Point><coordinates>-64.7079045,17.7475921,0</coordinates></Point>
       </Placemark>
@@ -73,13 +73,13 @@
       </Placemark>
       <Placemark>
         <name>East-gate guard position</name>
-        <description>One armed contractor remains near the tailgate of a white pickup truck just inside the east gate. Unless suspicious or alerted by the player's actions, he seldom moves far from the vehicle and is periodically distracted by texting and smoking. He can use either his radio or the alarm button inside the east gatehouse to alert the rest of the base.</description>
+        <description>One armed contractor remains near the tailgate of a white pickup truck just inside the east gate. Unless suspicious or alerted, he seldom moves far from the vehicle and is periodically distracted by texting and smoking. He can use either his radio or the alarm button inside the east gatehouse. The outward-facing east-gate camera creates a separate detection risk.</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point><coordinates>-64.7082391,17.7466371,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>West-gate guard position</name>
-        <description>One armed contractor spends most of his shift seated inside the west-gate office, visible through its window, watching football on television. He occasionally leaves the post and enters the administration building through the north service entrance to use the bathroom, returning after about three minutes. Roughly once every ten minutes, he also steps outside for about two minutes to look at the sky and take a small surreptitious swig from a hidden liquor flask. These absences create two predictable but distinct infiltration windows. He can use either his radio or the alarm button inside the west gatehouse to alert the rest of the base.</description>
+        <description>One armed contractor spends most of his shift seated inside the west-gate office, visible through its window, watching football on television. He occasionally enters the administration building through the north service entrance to use the bathroom, returning after about three minutes. Roughly once every ten minutes, he also steps outside for about two minutes to look at the sky and take a small surreptitious swig from a hidden liquor flask. These absences create distinct infiltration windows. He retains his radio, the gatehouse alarm remains active, and the outward-facing west-gate camera continues watching the approach while he is away.</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point><coordinates>-64.7074381,17.7469962,0</coordinates></Point>
       </Placemark>
@@ -91,7 +91,7 @@
       </Placemark>
       <Placemark>
         <name>Manager's office</name>
-        <description>The first-floor office contains the shell-company manager and two armed contractors. Victor Two Bravo breaches and secures the room, restrains the manager, and compels him to provide aircraft access. The manager is left restrained in the office when the team departs for the north jetty. The manager and both guards carry radios capable of alerting the remaining security personnel on base.</description>
+        <description>The first-floor office contains the shell-company manager, two armed contractors, the aircraft keys, and the CCTV monitoring station for all four static cameras. If the manager observes Victor Two Bravo on camera, he radios the nearest available guard to investigate. Under the normal route, the team secures the office, restrains the manager, and compels him to surrender the keys. If all seven guards are eliminated first, he locks himself inside and calls the police, forcing the player to breach the office and recover the keys before responders arrive.</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point><coordinates>-64.7077755,17.7467519,0</coordinates></Point>
       </Placemark>
@@ -103,27 +103,51 @@
       </Placemark>
       <Placemark>
         <name>Alarm button — north service entrance</name>
-        <description>One of four fixed compound alarm buttons. It is mounted beside the north main administration-building service entrance. A guard or the manager can activate it to alert all other security personnel on base to Victor Two Bravo's presence. The exact wall position is schematic until the administration-building floor plan is authored.</description>
+        <description>One of four fixed compound alarm buttons. It is mounted beside the north main administration-building service entrance. Activating it places the surviving armed guards into the compound-wide shoot-on-sight alert state. The exact wall position is schematic until the administration-building floor plan is authored.</description>
         <styleUrl>#icon-1750-0288D1</styleUrl>
         <Point><coordinates>-64.7076779,17.7469794,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>Alarm button — east gatehouse</name>
-        <description>One of four fixed compound alarm buttons. It is located inside the east gate gatehouse and can be activated by a guard or the manager to alert all other security personnel on base to Victor Two Bravo's presence. Its point is schematic at this map scale.</description>
+        <description>One of four fixed compound alarm buttons. It is located inside the east gate gatehouse. Activating it places the surviving armed guards into the compound-wide shoot-on-sight alert state. Its point is schematic at this map scale.</description>
         <styleUrl>#icon-1750-0288D1</styleUrl>
         <Point><coordinates>-64.7082391,17.7466371,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>Alarm button — west gatehouse</name>
-        <description>One of four fixed compound alarm buttons. It is located inside the west gate gatehouse and can be activated by a guard or the manager to alert all other security personnel on base to Victor Two Bravo's presence. Its point is schematic at this map scale.</description>
+        <description>One of four fixed compound alarm buttons. It is located inside the west gate gatehouse. Activating it places the surviving armed guards into the compound-wide shoot-on-sight alert state. Its point is schematic at this map scale.</description>
         <styleUrl>#icon-1750-0288D1</styleUrl>
         <Point><coordinates>-64.7074381,17.7469962,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>Alarm button — manager's-office hallway</name>
-        <description>One of four fixed compound alarm buttons. It is mounted in the first-floor hallway leading to the manager's office. A guard or the manager can activate it to alert all other security personnel on base to Victor Two Bravo's presence. The exact interior coordinate is schematic until the administration-building floor plan is authored.</description>
+        <description>One of four fixed compound alarm buttons. It is mounted in the first-floor hallway leading to the manager's office. Activating it places the surviving armed guards into the compound-wide shoot-on-sight alert state. The exact interior coordinate is schematic until the administration-building floor plan is authored.</description>
         <styleUrl>#icon-1750-0288D1</styleUrl>
         <Point><coordinates>-64.7077420,17.7468550,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Security camera — east gate exterior</name>
+        <description>Static camera mounted at the east gatehouse and aimed outward through the gate approach. The manager monitors this feed from the CCTV station in his office. A confirmed sighting causes him to radio the nearest available guard to investigate rather than immediately triggering the full compound alarm. The exact mount and field of view are schematic.</description>
+        <styleUrl>#icon-1750-0288D1</styleUrl>
+        <Point><coordinates>-64.7082391,17.7466371,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Security camera — west gate exterior</name>
+        <description>Static camera mounted at the west gatehouse and aimed outward through the gate approach. The manager monitors this feed from the CCTV station in his office. A confirmed sighting causes him to radio the nearest available guard to investigate rather than immediately triggering the full compound alarm. The exact mount and field of view are schematic.</description>
+        <styleUrl>#icon-1750-0288D1</styleUrl>
+        <Point><coordinates>-64.7074381,17.7469962,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Security camera — fuel storage coverage one</name>
+        <description>First of two static cameras providing overlapping surveillance of the fuel-storage area just southeast of the north jetty. The manager monitors the feed from his office and radios the nearest available guard if Victor Two Bravo is observed. Exact fuel-storage geometry, mount height, and sight cone remain schematic.</description>
+        <styleUrl>#icon-1750-0288D1</styleUrl>
+        <Point><coordinates>-64.7076750,17.7472050,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Security camera — fuel storage coverage two</name>
+        <description>Second static camera providing an overlapping angle on the fuel-storage area southeast of the north jetty. The manager monitors the feed from his office and radios the nearest available guard if Victor Two Bravo is observed. Exact fuel-storage geometry, mount height, and sight cone remain schematic.</description>
+        <styleUrl>#icon-1750-0288D1</styleUrl>
+        <Point><coordinates>-64.7075900,17.7472900,0</coordinates></Point>
       </Placemark>
       <Placemark>
         <name>Long-duration surveillance position — SUV</name>
