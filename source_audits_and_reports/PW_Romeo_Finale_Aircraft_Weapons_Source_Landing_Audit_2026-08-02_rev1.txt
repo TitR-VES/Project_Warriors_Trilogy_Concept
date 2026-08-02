@@ -1,0 +1,119 @@
+PROJECT WARRIORS — ROMEO FINALE AIRCRAFT-WEAPONS SOURCE-LANDING AUDIT
+Generated: 2026-08-02
+Version: rev1
+Status: SOURCE LANDING AUDIT
+
+SCOPE
+
+Land the owner-selected aircraft-weapons and terminal-defense reference clips for Romeo’s Game 1 and Game 2 campaign finales, preserve their intended production use, and prevent analog or animated footage from being mistaken for direct canon evidence.
+
+INPUT SET
+
+1. AH-6 rocket and minigun run — nighttime / NODs
+https://youtu.be/7KwKKhbFmfU
+
+2. AH-6 rocket and minigun run — daytime / multiple angles including onboard
+https://youtu.be/Fc9syUwi0Kc
+
+3. Ship-mounted Phalanx — daytime / close proximity / no impact shown
+https://youtube.com/shorts/75vfFcewkP8
+
+4. Phalanx — animated nighttime full engagement against fixed-wing aircraft
+https://youtube.com/shorts/KkQk9nP1LHk
+
+5. AH-6 combat and tactical maneuvers
+https://youtu.be/24O0pFB7GU8
+
+6. Helicopter wingover — different platform / flare deployment present
+https://youtube.com/shorts/-zkxKEhLfxo
+
+7. MD-400 rapid landing under extreme conditions
+https://youtu.be/9UfThZap73Y
+
+SOURCE HYGIENE
+
+- No third-party video files, extracted audio, or copied full-resolution frames are repository-landed.
+- The repo preserves URLs, working descriptions, classification, intended use, and explicit non-inheritance notes.
+- Exact uploader, official video title, publication date, access date, and license remain metadata fields requiring page-level transcription before licensed reuse.
+- External availability may change; the manifest provides stable internal IDs for replacement or archival tracking.
+
+DURABLE SOURCE LANDING
+
+TIDEFIRE:
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/
+  PW_TIDEFIRE_Persistent_Peripheral_Air_Defense_and_CIWS_Reference_2026-08-02_rev1.txt
+
+TRI-STATE POINT:
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+  PW_TRI_STATE_POINT_Little_Bird_Visual_Reference_Packet_2026-08-02_rev1.txt
+
+WORKING KNOWLEDGE LANDING
+
+- Project_Warriors_Knowledge_Compendia/
+  PW_Romeo_Finale_Aircraft_Weapons_Visual_Reference_Addendum_2026-08-02_rev1.txt
+
+GOVERNANCE LANDING
+
+- source_audits_and_reports/
+  PW_Aircraft_Weapons_External_Visual_Reference_Manifest_2026-08-02_rev1.csv
+- source_audits_and_reports/
+  PW_Romeo_Finale_Aircraft_Weapons_Source_Landing_Audit_2026-08-02_rev1.txt
+
+TIDEFIRE RESULT
+
+Accepted and locked:
+- terminal-air-defense activity is persistent and peripheral rather than player-centered;
+- “prominent” means frequent, consequential, and legible in the total battlefield soundscape and background visual field;
+- land-based systems should use LPWS / C-RAM / C-UAS terminology rather than ordinary shipboard Phalanx mounts placed ashore;
+- nearby naval vessels may contribute separate shipboard Phalanx fire;
+- primary recurring targets are UAVs, loitering munitions, and comparable terminal threats;
+- attack helicopters may occasionally penetrate the defended envelope;
+- fast fixed-wing threats normally remain part of the wider layered air-defense and alert-fighter picture;
+- the systems intercept some threats, not all of them;
+- engagements continue whether or not the player looks at them;
+- repeated forced camera turns and detached showcase cutaways are rejected.
+
+The layer supplements the existing mission route and phase logic. It does not reopen the southeast UAV-guidance objective, NMESIS strike, alert-aircraft exploitation, Humvee return, or NCTS closeout.
+
+TRI-STATE POINT RESULT
+
+Accepted as direct platform references:
+- both AH-6 weapons-run clips;
+- the AH-6 tactical-maneuver compilation.
+
+Accepted as analog references with mandatory adaptation:
+- the different-platform wingover clip;
+- the MD-400 rapid-landing clip.
+
+Protected exclusions:
+- no flare deployment in Hornet 2’s wingover;
+- no literal sustained inverted maneuver;
+- no direct copying of source-platform flight behavior;
+- Sparrow 5’s landing arc remains wider than the MD-400 reference;
+- the final landing must be authored for MH-6M benches, passenger access, road width, obstacles, and pickup orientation;
+- the night/NOD clip does not lock mission time or player NOD presentation.
+
+The controlling TRI-STATE POINT mission source remains authoritative for the fully playable first-person sequence, arrival timing, callsigns, rocket ripple, Tigr outcomes, landing geometry, pickup, and air relocation.
+
+ONTOLOGY RESULT
+
+No ontology delta is required in this pass.
+
+Reason:
+- no event identity, chronology, campaign ladder, character identity, or mission-order field changes;
+- the TIDEFIRE addition is an art-direction / battlefield-presentation layer within an existing event;
+- the TRI-STATE POINT packet refines production reference for an already locked sequence.
+
+OPEN FIELDS
+
+- final TIDEFIRE terminal-defense battery count, system mix, sectors, and damage states;
+- exact enemy UAV, attack-helicopter, and fixed-wing package;
+- exact naval vessels contributing shipboard Phalanx fire;
+- final CIWS VFX, tracer, audio-distance, and debris specifications;
+- exact Hornet 2 weapon-pod configuration and ammunition state;
+- exact Sparrow 5 landing path and touchdown point;
+- completion of uploader/title/date/license metadata in the external-reference manifest.
+
+RESULT
+
+The seven clips are safely and usefully landed as external production references. TIDEFIRE now has a controlled persistent peripheral CIWS / terminal-defense layer, and TRI-STATE POINT has a platform-aware Little Bird reference packet. The source set preserves the creative value of the footage while explicitly blocking animation, platform, flare, mission-time, and maneuver details that should not become canon by accident.
