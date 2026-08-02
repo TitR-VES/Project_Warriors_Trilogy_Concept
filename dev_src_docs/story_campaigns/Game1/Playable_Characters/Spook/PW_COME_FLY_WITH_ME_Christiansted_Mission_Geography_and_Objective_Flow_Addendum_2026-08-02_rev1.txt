@@ -51,6 +51,9 @@ The following normalization decisions are locked:
   Killing all seven is not a mandatory objective.
 - The security count includes the east-berth guard omitted from the earlier
   administration-building summary.
+- The west-gate contractor spends most of his shift inside the gate office watching
+  football, with an approximately three-minute bathroom absence and an approximately
+  two-minute flask break occurring roughly once every ten minutes.
 - The manager provides access to an already fueled aircraft. A prolonged forced
   refueling sequence is superseded.
 - The aircraft designation is Found FBA-2C. BFA-2 is treated as a transposition
@@ -145,7 +148,13 @@ six by omitting the east-berth patrol.
 6. GUARD ROUTINES
 
 - East gate: remains near a white pickup, with phone and smoking distractions.
-- West gate: watches the western approach and walks a short gate-to-building loop.
+- West gate: spends most of the shift seated inside the west-gate office, visible
+  through its window, watching football on television. He occasionally leaves the
+  post, enters the administration building through the north service entrance to use
+  the bathroom, and returns after about three minutes. Roughly once every ten
+  minutes, he also steps outside for about two minutes to look at the sky and take a
+  small surreptitious swig from a hidden liquor flask. The bathroom route and the
+  shorter flask break create two distinct, predictable infiltration windows.
 - East berth: looks north over the water and periodically enters the break room for
   coffee, creating a temporary observation gap.
 - North jetty: patrols around the aircraft berths and periodically passes close to
@@ -154,8 +163,12 @@ six by omitting the east-berth patrol.
   corridor or step outside to smoke.
 - Office guards: remain with the manager until disturbed or alerted.
 
-Exact timings, hearing ranges, alert states, radio behavior, reinforcement logic,
-and difficulty scaling remain open.
+The west-gate timing is an approximate authoring baseline: about three minutes for
+the bathroom absence, about two minutes for the flask break, and roughly ten minutes
+between flask breaks. Production difficulty scaling may compress or expand those
+windows, but must preserve both behaviors and their distinct routes. Hearing ranges,
+alert states, radio behavior, reinforcement logic, and the exact timing of the other
+guards remain open.
 
 7. PLAYER FORCE RULE
 
@@ -196,6 +209,9 @@ CONTINUITY CONSTRAINTS
 - Do not use poverty, unemployment, nationality, or immigration status as shorthand
   for culpability.
 - Preserve non-lethal and bypass options; do not require a total guard kill count.
+- Preserve the west-gate guard's football-watching post, bathroom route through the
+  north service entrance, and periodic surreptitious flask break as two separate
+  infiltration opportunities.
 - Preserve the manager as restrained rather than casually executed.
 - Preserve the fueled-aircraft access solution and supersede forced refueling.
 - Preserve Found FBA-2C nomenclature for this aircraft.
@@ -218,6 +234,9 @@ B. SURVEILLANCE AND MISSION PREPARATION
 
 - Define what the player can observe from the western position and which guard
   routines are learned there.
+- Ensure the west-gate football viewing, bathroom movement, and flask break can be
+  identified through observation or companion callouts rather than hidden trial and
+  error alone.
 - Define time compression, dialogue, optics, photography, tagging, and planning UI.
 - Define which observations alter later HUD information or companion callouts.
 
@@ -227,6 +246,9 @@ C. GUARDS, CIVILIANS, AND ALERT PROPAGATION
   failure consequences for indiscriminate violence.
 - Draw patrol splines, cones, radio nodes, alarm points, reinforcement sources, and
   fallback positions.
+- Coordinate the west-gate guard's bathroom transit through the north service
+  entrance with the interior guard's routine so their overlap is legible and cannot
+  create an accidental unavoidable detection state.
 - Define body discovery, restraint persistence, surrender behavior, and stealth-
   break recovery.
 
@@ -267,9 +289,9 @@ G. PRODUCTION AND ACCESSIBILITY
 
 RESULT
 
-The revised owner KMZ closes the map-level directional, staging, guard-count,
-contractor-framing, aircraft, and landing-handoff gaps. The normalized KML and this
-addendum are canon-compatible and source-ready. COME FLY WITH ME remains not
-production-ready because route lines, interiors, alert logic, civilian handling,
-aircraft operation, flight presentation, checkpoints, accessibility, and performance
-work remain open.
+The revised owner KMZ and follow-up guard-routine clarification close the map-level
+directional, staging, guard-count, guard-behavior, contractor-framing, aircraft, and
+landing-handoff gaps. The normalized KML and this addendum are canon-compatible and
+source-ready. COME FLY WITH ME remains not production-ready because route lines,
+interiors, alert logic, civilian handling, aircraft operation, flight presentation,
+checkpoints, accessibility, and performance work remain open.
