@@ -1,0 +1,84 @@
+PROJECT WARRIORS — SOURCE UPDATE AUDIT
+COME FLY WITH ME — CHRISTIANSTED MAP LANDING
+Generated: 2026-08-02
+Version: rev1
+Status: OWNER MAP NORMALIZED / NEW PR
+
+SCOPE
+
+Land the owner's revised COME FLY WITH ME KMZ as a normalized repository map and
+mission-geography authority. Apply the corrections accepted during map review while
+preserving the owner's coordinates, encounter layout, guard routines, and mission
+handoff.
+
+SOURCE ARTIFACT
+
+- File: Come Fly With Me Spook Game 1 campaign pre-finale (5).kmz
+- SHA-256: a717c4f2a93ac540fbc7e99025ab612ad33531ff426847e63ffb0130de2fb873
+- Contents: doc.kml, images/icon-1.png, images/icon-2.png
+- Point placemarks: 13
+- Route lines: 0
+- Polygons: 0
+
+NORMALIZATION CHANGES
+
+1. Corrected the long-surveillance marker from east of the base to west of the base.
+2. Reframed the close SUV marker as short-duration final staging after the longer
+   western surveillance phase.
+3. Rewrote the administration-building summary to account for all seven armed
+   contractors, including the east-berth guard.
+4. Defined the guards as knowingly complicit Goldberg-linked contractors supporting
+   covert transport and human-trafficking logistics.
+5. Removed social background and nationality as shorthand for culpability.
+6. Replaced a mandatory eliminate-everyone instruction with bypass, incapacitation,
+   restraint, or neutralization as tactically required.
+7. Preserved the manager alive and restrained while requiring him to provide access
+   to the aircraft.
+8. Superseded the prolonged forced-refueling beat with access to an already fueled
+   aircraft.
+9. Normalized the aircraft designation to Found FBA-2C.
+10. Snapped the East McFarlane landing point to the controlling SINS OF OUR FATHERS
+    coordinate: -64.8228542,18.2980253.
+11. Added a conservative west-gate guard routine so every marked guard has an
+    encounter function.
+12. Corrected typographical and grammatical errors throughout the placemark text.
+13. Clarified the destination as approximately 39 miles north-northwest rather than
+    approximately 40 miles due north.
+
+ARTIFACTS ADDED
+
+1. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+   COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
+2. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+   PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+3. source_audits_and_reports/
+   PW_COME_FLY_WITH_ME_Christiansted_Map_Landing_Audit_2026-08-02_rev1.txt
+
+EXISTING SOURCE UPDATED
+
+PW_Riptide_Red_Mission_Burst_Source_2026-07-24_rev1.txt is updated only to point to
+the dedicated COME FLY WITH ME geography source and distinguish the now-locked
+physical handoff from the still-open exact Montoya-evidence dialogue/data beat.
+
+SOURCE HIERARCHY RESULT
+
+- The normalized KML controls point geography and placemark wording.
+- The dedicated addendum controls mission-level interpretation and open production
+  requirements.
+- Earlier archival references to Anguilla on St. Croix, six-guard summaries,
+  forced refueling, BFA-2 nomenclature, mandatory total elimination, or the
+  superseded landing coordinate remain provenance only.
+- Current SINS OF OUR FATHERS sources continue to control the island mission after
+  the shared landing point.
+
+VALIDATION
+
+- XML parse: passed
+- Placemark count: 13
+- Duplicate placemark names: none
+- Security count: 7
+- Landing coordinate matches controlling SINS map: yes
+- Source-ready status: yes
+- Production-ready status: no
+
+END
