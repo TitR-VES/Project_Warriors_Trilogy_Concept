@@ -2,14 +2,15 @@ PROJECT WARRIORS — SOURCE UPDATE AUDIT
 COME FLY WITH ME — CHRISTIANSTED MAP LANDING
 Generated: 2026-08-02
 Version: rev1
-Status: OWNER MAP NORMALIZED / NEW PR
+Status: OWNER MAP NORMALIZED / PR EXTENSION
 
 SCOPE
 
 Land the owner's revised COME FLY WITH ME KMZ as a normalized repository map and
 mission-geography authority. Apply the corrections accepted during map review while
 preserving the owner's coordinates, encounter layout, guard routines, and mission
-handoff.
+handoff. Incorporate the owner's follow-up clarification defining the west-gate
+guard's full routine and approximate cadence.
 
 SOURCE ARTIFACT
 
@@ -39,10 +40,17 @@ NORMALIZATION CHANGES
 9. Normalized the aircraft designation to Found FBA-2C.
 10. Snapped the East McFarlane landing point to the controlling SINS OF OUR FATHERS
     coordinate: -64.8228542,18.2980253.
-11. Added a conservative west-gate guard routine so every marked guard has an
-    encounter function.
-12. Corrected typographical and grammatical errors throughout the placemark text.
-13. Clarified the destination as approximately 39 miles north-northwest rather than
+11. Replaced the provisional west-gate behavior with the owner-defined routine: the
+    contractor spends most of his shift inside the gate office watching football;
+    occasionally uses the administration-building bathroom through the north service
+    entrance and returns after about three minutes; and roughly once every ten
+    minutes steps outside for about two minutes to look at the sky and take a small
+    surreptitious swig from a hidden liquor flask.
+12. Preserved the bathroom absence and flask break as two separate, predictable
+    infiltration windows and flagged their interaction with the north-service-
+    entrance guard for later production timing.
+13. Corrected typographical and grammatical errors throughout the placemark text.
+14. Clarified the destination as approximately 39 miles north-northwest rather than
     approximately 40 miles due north.
 
 ARTIFACTS ADDED
@@ -63,11 +71,11 @@ physical handoff from the still-open exact Montoya-evidence dialogue/data beat.
 SOURCE HIERARCHY RESULT
 
 - The normalized KML controls point geography and placemark wording.
-- The dedicated addendum controls mission-level interpretation and open production
-  requirements.
+- The dedicated addendum controls mission-level interpretation, the owner-defined
+  west-gate routine, and open production requirements.
 - Earlier archival references to Anguilla on St. Croix, six-guard summaries,
-  forced refueling, BFA-2 nomenclature, mandatory total elimination, or the
-  superseded landing coordinate remain provenance only.
+  forced refueling, BFA-2 nomenclature, mandatory total elimination, the provisional
+  west-gate loop, or the superseded landing coordinate remain provenance only.
 - Current SINS OF OUR FATHERS sources continue to control the island mission after
   the shared landing point.
 
@@ -77,6 +85,7 @@ VALIDATION
 - Placemark count: 13
 - Duplicate placemark names: none
 - Security count: 7
+- West-gate routine represented in map and addendum: yes
 - Landing coordinate matches controlling SINS map: yes
 - Source-ready status: yes
 - Production-ready status: no
