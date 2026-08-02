@@ -1,0 +1,275 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — CHRISTIANSTED MISSION GEOGRAPHY AND OBJECTIVE-FLOW ADDENDUM
+Generated: 2026-08-02
+Version: rev1
+Status: OWNER MAP LANDING / SOURCE-READY / WORKING MISSION-DESIGN LOCK
+
+PURPOSE
+
+Land the owner-developed Christiansted KMZ as the controlling geography and
+objective skeleton for COME FLY WITH ME, the Game 1 Riptide Red pre-finale. This
+page normalizes the map's wording, locks the seven-contractor security layout,
+clarifies the two-stage SUV surveillance and staging sequence, identifies the
+aircraft as a Found FBA-2C, and aligns the East McFarlane landing point with the
+controlling SINS OF OUR FATHERS map.
+
+SOURCE INPUT
+
+- Owner-supplied KMZ: Come Fly With Me Spook Game 1 campaign pre-finale (5).kmz
+- Source KMZ SHA-256: a717c4f2a93ac540fbc7e99025ab612ad33531ff426847e63ffb0130de2fb873
+- Normalized repository map:
+  dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+  COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
+- Embedded point placemarks: 13
+- Embedded route lines: 0
+- Embedded polygons / patrol areas / trigger volumes: 0
+- Primary location: Christiansted, St. Croix, U.S. Virgin Islands
+- Destination: fictional East McFarlane Island
+- Campaign: Riptide Red
+- Playable character: Trevor “Spook” Gartner
+- Team: Victor Two Bravo
+
+AUTHORITY AND NORMALIZATION RULE
+
+The owner-supplied map controls the mission's location choices, point layout,
+security count, guard positions, aircraft berth, surveillance sequence, and
+handoff into SINS OF OUR FATHERS. The normalized KML and this addendum correct
+obvious wording and coordination errors without changing the accepted mission
+architecture.
+
+The following normalization decisions are locked:
+
+- The long-duration observation point is west of the seaplane base, not east.
+- The close SUV marker is a short-duration final staging point, not the location
+  of several hours of surveillance.
+- The mission-relevant operation is controlled through a Goldberg-linked shell
+  aerial-tour company.
+- Seven armed contractors knowingly support Goldberg's covert transport and
+  human-trafficking logistics. Their complicity, not social background or
+  nationality, establishes their hostile role.
+- The player may bypass, incapacitate, restrain, or neutralize guards as required.
+  Killing all seven is not a mandatory objective.
+- The security count includes the east-berth guard omitted from the earlier
+  administration-building summary.
+- The manager provides access to an already fueled aircraft. A prolonged forced
+  refueling sequence is superseded.
+- The aircraft designation is Found FBA-2C. BFA-2 is treated as a transposition
+  error wherever it refers to this aircraft in the COME FLY WITH ME / SINS handoff.
+- The East McFarlane landing coordinate is normalized to the controlling SINS OF
+  OUR FATHERS map: -64.8228542,18.2980253.
+
+LOCKED MACRO FLOW
+
+interactive safehouse opening
+-> SUV departure
+-> western beachside surveillance position
+-> diegetically compressed observation and planning
+-> relocation to close final staging point
+-> after-dark compound infiltration
+-> bypass or defeat outer guards
+-> north-service-entrance and first-floor approach
+-> manager's-office breach
+-> secure two office guards and restrain manager
+-> obtain access to fueled Found FBA-2C
+-> move to north jetty under remaining patrol pressure
+-> depart Christiansted by floatplane
+-> approximately 39-mile north-northwest flight
+-> engine-off final approach
+-> covert landing at East McFarlane disused boat launch
+-> direct handoff into SINS OF OUR FATHERS
+
+The thirteen points form an objective and encounter skeleton, not a production-
+ready level.
+
+PLANNING-SCALE RELATIONSHIPS
+
+- safehouse to western surveillance point: approximately 486 m
+- surveillance point to final SUV staging point: approximately 338 m
+- final staging point to west gate: approximately 80 m
+- final staging point to administration building: approximately 111 m
+- north-service-entrance guard to manager's office: approximately 27 m
+- north-jetty guard to aircraft: approximately 22 m
+- east-berth guard to aircraft: approximately 58 m
+- Christiansted seaplane base to East McFarlane landing: approximately 62.5 km,
+  38.8 statute miles, or 33.7 nautical miles
+- approximate initial bearing to East McFarlane: 349 degrees / north-northwest
+
+Final playable distances will be shaped by cover, interiors, access constraints,
+patrol timing, stealth movement, cinematic compression, and aircraft procedures.
+
+PLACEMARK INTERPRETATION
+
+1. SAFEHOUSE
+
+The mission begins in the second-story residential safehouse. The interior is a
+brief interactive preparation space rather than a non-playable cinematic only.
+Victor Two Bravo reviews the East McFarlane lead, checks equipment, and departs in
+an SUV. Exact dialogue, dossier contents, loadout access, and departure timing
+remain open.
+
+2. LONG-DURATION SURVEILLANCE POSITION
+
+The western beachside position is the principal observation site. The team conceals
+the SUV near vegetation and watches the base from a more credible distance. The
+passage of hours is compressed. The player may participate in a short observation
+and planning sequence, but is not required to remain static in real time.
+
+3. FINAL SUV STAGING POINT
+
+Victor Two Bravo relocates closer shortly before infiltration. This marker is used
+for final equipment transfer, weapon state, companion readiness, and the transition
+to on-foot movement after dark. It is not the long-duration observation site.
+
+4. SEAPLANE-BASE OPERATION
+
+The mission uses the Christiansted harbor setting while fictionalizing the relevant
+operator as a Goldberg-linked shell aerial-tour company. The company provides cover
+for covert transport activity. The seven armed contractors assigned to the site
+knowingly support Goldberg's trafficking and clandestine logistics network.
+Ordinary civilian terminal workers are not automatically enemy personnel.
+
+5. SEVEN-CONTRACTOR SECURITY LAYOUT
+
+The armed detail is distributed as follows:
+
+- one contractor at the east gate;
+- one contractor at the west gate;
+- one contractor patrolling the east berth;
+- one contractor patrolling the north jetty and aircraft berths;
+- one contractor inside the north service entrance and first-floor corridor;
+- two contractors in the manager's office.
+
+This is a complete count of seven. Later sources must not summarize the layout as
+six by omitting the east-berth patrol.
+
+6. GUARD ROUTINES
+
+- East gate: remains near a white pickup, with phone and smoking distractions.
+- West gate: watches the western approach and walks a short gate-to-building loop.
+- East berth: looks north over the water and periodically enters the break room for
+  coffee, creating a temporary observation gap.
+- North jetty: patrols around the aircraft berths and periodically passes close to
+  the Found FBA-2C.
+- North service entrance: usually sits just inside, but may patrol the first-floor
+  corridor or step outside to smoke.
+- Office guards: remain with the manager until disturbed or alerted.
+
+Exact timings, hearing ranges, alert states, radio behavior, reinforcement logic,
+and difficulty scaling remain open.
+
+7. PLAYER FORCE RULE
+
+COME FLY WITH ME is a covert acquisition mission, not an extermination objective.
+The player may avoid, distract, incapacitate, restrain, or lethally engage armed
+contractors according to detection state and tactical choice. The source must not
+require the player to kill ordinary uninvolved terminal staff or every armed guard.
+
+8. MANAGER'S OFFICE
+
+Victor Two Bravo breaches and secures the first-floor manager's office, overcomes
+the two accompanying contractors, restrains the manager, and compels him to provide
+access to the aircraft. The manager is left restrained in the office. Exact access
+method — keys, code, documentation, or a combination — remains open.
+
+9. FOUND FBA-2C
+
+The aircraft is a fueled Found FBA-2C berthed at the north jetty. The team does not
+wait for a conspicuous forced-refueling sequence. Exact startup interaction, water
+taxi route, takeoff direction, passenger positions, cargo state, and player control
+allocation remain open.
+
+10. EAST McFARLANE HANDOFF
+
+The aircraft travels approximately 39 statute miles north-northwest. Smoke shuts
+the engine down only for the final approach after the team has acquired the landing
+area. He coasts to the unlit, disused boat-launch entry point defined in the SINS OF
+OUR FATHERS map. The two maps use the same coordinate to prevent a handoff mismatch.
+
+CONTINUITY CONSTRAINTS
+
+- Preserve COME FLY WITH ME as the physical transition from the Montoya evidence
+  chain into the East McFarlane finale.
+- Preserve the safehouse, surveillance, final staging, infiltration, office breach,
+  aircraft acquisition, flight, and engine-off landing sequence.
+- Preserve seven armed contractors and the stated position breakdown.
+- Preserve the guards as knowingly complicit Goldberg-linked contractors.
+- Do not use poverty, unemployment, nationality, or immigration status as shorthand
+  for culpability.
+- Preserve non-lethal and bypass options; do not require a total guard kill count.
+- Preserve the manager as restrained rather than casually executed.
+- Preserve the fueled-aircraft access solution and supersede forced refueling.
+- Preserve Found FBA-2C nomenclature for this aircraft.
+- Preserve the exact SINS landing coordinate and engine-off final approach.
+- La Avispa is not present in Game 1 and must not be inserted into this mission.
+- Keep the map as a source-ready skeleton rather than a finished combat script.
+
+OPEN MAP AND LEVEL-DEVELOPMENT REQUIREMENTS
+
+A. ROUTES AND TRAVERSAL
+
+- Draw the SUV driving route, dismount point, on-foot perimeter approaches, building
+  entry choices, office route, jetty route, water-taxi line, takeoff line, flight
+  bearing, and East McFarlane final approach.
+- Define climbable barriers, locked gates, water boundaries, roof access, cover,
+  sightline breaks, shadow reliability, and return routes.
+- Define whether east and west approaches remain equally viable after an alert.
+
+B. SURVEILLANCE AND MISSION PREPARATION
+
+- Define what the player can observe from the western position and which guard
+  routines are learned there.
+- Define time compression, dialogue, optics, photography, tagging, and planning UI.
+- Define which observations alter later HUD information or companion callouts.
+
+C. GUARDS, CIVILIANS, AND ALERT PROPAGATION
+
+- Define civilian staffing, late-night occupancy, protected noncombatants, and
+  failure consequences for indiscriminate violence.
+- Draw patrol splines, cones, radio nodes, alarm points, reinforcement sources, and
+  fallback positions.
+- Define body discovery, restraint persistence, surrender behavior, and stealth-
+  break recovery.
+
+D. ADMINISTRATION BUILDING
+
+- Produce the floor plan, north service entrance, corridor, break room, manager's
+  office, alternate entry points, door states, windows, stair access, and lighting.
+- Define the breach, office dialogue, restraint sequence, access handoff, and
+  fail-safes if the player triggers a full alert first.
+
+E. AIRCRAFT AND DEPARTURE
+
+- Define the exact FBA-2C visual configuration, fuel state, startup, mooring release,
+  water handling, takeoff run, and occupant positions.
+- Define who pilots during each phase and whether any portion is player-controlled.
+- Define how remaining guards react to engine start, taxi, and takeoff.
+- Prevent the departure from feeling consequence-free after a loud infiltration.
+
+F. FLIGHT AND LANDING
+
+- Define flight duration, playable or cinematic division, dialogue, weather, cloud
+  cover, sea state, visibility, navigation aids, and distant threat presentation.
+- Define the exact moment Smoke cuts the engine, glide feasibility within the
+  fictional presentation, restart contingency, landing animation, aircraft
+  concealment, and transition into the SINS opening.
+- Avoid weather conditions so severe that the floatplane operation becomes
+  implausible; reduced visibility and light rain may support concealment without
+  requiring high winds or dangerous sea state.
+
+G. PRODUCTION AND ACCESSIBILITY
+
+- Define mission length, checkpoints, difficulty modifiers, companion behavior,
+  stealth readability, subtitle coverage, visual contrast, and alternate cues for
+  guard routines.
+- Define streaming transition between Christiansted, flight, and East McFarlane.
+- Validate that non-lethal play, bypass play, and loud recovery all reach the
+  protected departure without softlocks.
+
+RESULT
+
+The revised owner KMZ closes the map-level directional, staging, guard-count,
+contractor-framing, aircraft, and landing-handoff gaps. The normalized KML and this
+addendum are canon-compatible and source-ready. COME FLY WITH ME remains not
+production-ready because route lines, interiors, alert logic, civilian handling,
+aircraft operation, flight presentation, checkpoints, accessibility, and performance
+work remain open.
