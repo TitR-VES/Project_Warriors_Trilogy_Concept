@@ -1,0 +1,179 @@
+PROJECT WARRIORS — GAME 2 / AMERICAN FREEDOM
+TRI-STATE POINT LITTLE BIRD VISUAL REFERENCE PACKET
+Generated: 2026-08-02
+Version: rev1
+Status: PRODUCTION REFERENCE LANDING / EXISTING SCENE ARCHITECTURE UNCHANGED
+Mission: TRI-STATE POINT
+Canonical event: Battle of Cumberland Gap
+Aircraft: Hornet 2 — AH-6M; Sparrow 5 — MH-6M
+
+PURPOSE
+
+Land the owner-selected external video references for the already locked western-portal Little Bird intervention in TRI-STATE POINT. The references refine animation, camera, VFX, sound, weapons presentation, maneuver rhythm, and landing behavior without reopening the controlling sequence architecture.
+
+CONTROLLING SOURCE
+
+PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt remains controlling for:
+- the fully playable first-person presentation;
+- Hornet 2 and Sparrow 5 callsigns and roles;
+- low-level arrival timing;
+- Hornet 2’s steep climbing wingover / reversal;
+- two-rocket ripple and differentiated Tigr outcomes;
+- Sparrow 5’s wide descending landing arc;
+- external-bench pickup and air relocation;
+- player freedom to observe all, some, or none of the aviation choreography.
+
+This packet supplies visual and motion evidence only.
+
+REFERENCE CLASSIFICATION
+
+DIRECT PLATFORM REFERENCE means the depicted aircraft family and operation closely support the intended AH-6 / MH-6 presentation.
+
+ANALOG MANEUVER REFERENCE means a different helicopter is used only to communicate maneuver energy, timing, or spatial logic. Aircraft-specific mass, rotor behavior, control authority, footprint, and clearance must be re-authored.
+
+REFERENCE 01 — AH-6 ROCKET AND MINIGUN RUN, NIGHT / NODS
+URL:
+https://youtu.be/7KwKKhbFmfU
+
+Classification:
+DIRECT PLATFORM REFERENCE
+
+Use for:
+- low-light AH-6 weapons employment;
+- rocket ignition and departure readability;
+- minigun cadence and muzzle effects;
+- aircraft firing attitude;
+- NOD / cockpit-view contrast and bloom behavior;
+- sound layering between rotor, gun, rocket, and environment.
+
+Do not inherit automatically:
+- nighttime mission timing;
+- NOD player presentation;
+- exact firing distance;
+- exact loadout or burst length;
+- exact attack geometry.
+
+TRI-STATE POINT remains governed by its mission-time and weather sources. This clip is a low-light effects and weapons-behavior reference, not a chronology lock.
+
+REFERENCE 02 — AH-6 ROCKET AND MINIGUN RUN, DAYTIME / MULTIPLE ANGLES
+URL:
+https://youtu.be/Fc9syUwi0Kc
+
+Classification:
+PRIMARY DIRECT PLATFORM AND WEAPONS REFERENCE
+
+Use for:
+- daytime AH-6 silhouette and firing attitude;
+- rocket and minigun employment from ground, side, and onboard perspectives;
+- aircraft response during weapons release;
+- timing between approach, firing, and egress;
+- sound and visual relationship between onboard and observer positions;
+- rotor-disc, pylon, smoke, and muzzle-effect readability.
+
+This is the primary single reference for Hornet 2’s weapons presentation.
+
+Do not copy individual passes frame for frame. The game sequence has a specific terrain-masked arrival, reversal, target-identification requirement, two-rocket ripple, and player-controlled ground context.
+
+REFERENCE 03 — AH-6 COMBAT AND TACTICAL MANEUVERS
+URL:
+https://youtu.be/24O0pFB7GU8
+
+Classification:
+PRIMARY DIRECT MANEUVER LIBRARY
+
+Use for:
+- low-level terrain-following behavior;
+- tight banks and rapid attitude changes;
+- attack-line alignment;
+- masking and unmasking;
+- breakaway and repositioning;
+- compact helicopter scale against terrain and ground forces;
+- the physical confidence and agility that should distinguish Hornet 2 from larger support helicopters.
+
+Select only maneuvers compatible with Cumberland terrain, player readability, target deconfliction, and the locked ninety-second arrival sequence.
+
+REFERENCE 04 — HELICOPTER WINGOVER, DIFFERENT PLATFORM
+URL:
+https://youtube.com/shorts/-zkxKEhLfxo
+
+Classification:
+ANALOG MANEUVER REFERENCE
+
+Use for:
+- visual energy of the steep climbing reversal;
+- silhouette change as the aircraft climbs, banks, pivots, and noses back onto the attack line;
+- the moment when the rotor disc appears nearly vertical from the ground observer’s perspective;
+- the impression of an aggressive but controlled wingover rather than a literal sustained inverted maneuver.
+
+Mandatory adaptation:
+- remove flare deployment;
+- re-author roll rate, pitch rate, inertia, rotor response, climb profile, and turn radius for the AH-6M;
+- preserve the locked Hornet 2 geometry and clearance from terrain, Sparrow 5, friendly positions, and the road.
+
+The clip is not a platform-identification or exact-flight-model reference.
+
+REFERENCE 05 — MD-400 RAPID LANDING UNDER EXTREME CONDITIONS
+URL:
+https://youtu.be/9UfThZap73Y
+
+Classification:
+ANALOG LANDING REFERENCE
+
+Use for:
+- deceleration impression;
+- compact turning approach;
+- flare-to-touchdown rhythm;
+- urgency and aircraft control near the landing surface;
+- rotor-wash onset and landing-zone commitment.
+
+Mandatory adaptation for Sparrow 5:
+- the game maneuver uses a wider arc than the reference;
+- re-author for MH-6M mass, power response, external benches, passenger-clearance requirements, tunnel-portal obstacles, road width, friendly positions, and pickup orientation;
+- touchdown must leave the benches accessible for rapid mounting;
+- Sparrow 5’s arc remains wide and gently descending rather than a copied ultra-compact pivot.
+
+SCENE-SPECIFIC APPLICATION
+
+LOW-LEVEL ARRIVAL
+Use References 02 and 03 to preserve the sense that Hornet 2 and Sparrow 5 arrive fast, low, terrain-masked, and on their own operational timing. The player is not guaranteed a clean hero view.
+
+HORNET 2 WINGOVER
+Use References 03 and 04 together. Reference 03 controls AH-6 agility and platform behavior; Reference 04 supplies the visual energy of the steep reversal. The final maneuver must remain recognizably plausible for an AH-6M and must not include flares.
+
+HORNET 2 ROCKET ATTACK
+Use References 01 and 02 for rocket ignition, smoke, firing attitude, audio, and aircraft reaction. The controlling mission source still governs the two-rocket ripple, first direct hit, and second near-impact / rollover causality.
+
+SPARROW 5 LANDING
+Use Reference 05 only as analog motion evidence. The final approach remains the wider, gently descending arc already locked for the western portal.
+
+PLAYER-EXPERIENCE RULE
+
+The aviation action continues on authored timing whether or not the player watches it. Reference-derived visual polish must support all valid experiences:
+- complete observation;
+- partial observation through cover or peripheral vision;
+- sound-only comprehension;
+- rotor shadows, wash, rocket effects, or vehicle consequences without a clean aircraft view.
+
+REFERENCE-HYGIENE RULE
+
+The clips are external references, not canonical audiovisual assets, redistribution permissions, frame-for-frame mandates, or proof that every depicted configuration is appropriate to Hornet 2 or Sparrow 5.
+
+Capture in downstream production notes:
+- useful timestamps;
+- angle and action represented;
+- platform/configuration differences;
+- elements deliberately excluded;
+- final adaptation decisions.
+
+OPEN FIELDS
+
+- exact mission time and atmospheric conditions governing final VFX;
+- exact AH-6M weapon-pod configuration and ammunition state;
+- exact camera / FOV tuning for subtle view tugs;
+- final rotor, rocket, minigun, terrain-reflection, and occlusion mix;
+- final flight-path clearance and collision-safe animation spline;
+- exact Sparrow 5 touchdown point and bench orientation.
+
+RESULT
+
+The five references form a coherent production packet: direct AH-6 weapons evidence, a broad AH-6 maneuver library, one analog wingover reference with flares explicitly excluded, and one analog rapid-landing reference whose arc must be widened and re-authored for Sparrow 5. The locked TRI-STATE POINT scene architecture remains unchanged.
