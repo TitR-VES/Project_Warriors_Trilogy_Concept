@@ -20,7 +20,7 @@ SOURCE INPUT
 - Normalized repository map:
   dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
   COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
-- Embedded point placemarks: 13
+- Embedded point placemarks: 17
 - Embedded route lines: 0
 - Embedded polygons / patrol areas / trigger volumes: 0
 - Primary location: Christiansted, St. Croix, U.S. Virgin Islands
@@ -28,6 +28,13 @@ SOURCE INPUT
 - Campaign: Riptide Red
 - Playable character: Trevor “Spook” Gartner
 - Team: Victor Two Bravo
+
+RELATED CONTROLLING SECURITY SOURCE
+
+PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt controls the
+four fixed alarm buttons, radios carried by all seven guards and the manager, and
+the resulting compound-wide alert state. Where this addendum previously treated
+alarm-point placement as open, the dedicated security-layer source supersedes it.
 
 AUTHORITY AND NORMALIZATION RULE
 
@@ -54,6 +61,10 @@ The following normalization decisions are locked:
 - The west-gate contractor spends most of his shift inside the gate office watching
   football, with an approximately three-minute bathroom absence and an approximately
   two-minute flask break occurring roughly once every ten minutes.
+- Four fixed alarm buttons are located at the north service entrance, east gatehouse,
+  west gatehouse, and manager's-office hallway.
+- All seven guards and the manager carry radios capable of alerting the remaining
+  security personnel on base.
 - The manager provides access to an already fueled aircraft. A prolonged forced
   refueling sequence is superseded.
 - The aircraft designation is Found FBA-2C. BFA-2 is treated as a transposition
@@ -70,6 +81,7 @@ interactive safehouse opening
 -> relocation to close final staging point
 -> after-dark compound infiltration
 -> bypass or defeat outer guards
+-> manage fixed alarms and radio-equipped personnel
 -> north-service-entrance and first-floor approach
 -> manager's-office breach
 -> secure two office guards and restrain manager
@@ -81,7 +93,7 @@ interactive safehouse opening
 -> covert landing at East McFarlane disused boat launch
 -> direct handoff into SINS OF OUR FATHERS
 
-The thirteen points form an objective and encounter skeleton, not a production-
+The seventeen points form an objective and encounter skeleton, not a production-
 ready level.
 
 PLANNING-SCALE RELATIONSHIPS
@@ -167,31 +179,50 @@ The west-gate timing is an approximate authoring baseline: about three minutes f
 the bathroom absence, about two minutes for the flask break, and roughly ten minutes
 between flask breaks. Production difficulty scaling may compress or expand those
 windows, but must preserve both behaviors and their distinct routes. Hearing ranges,
-alert states, radio behavior, reinforcement logic, and the exact timing of the other
-guards remain open.
+alert states, reinforcement logic, and the exact timing of the other guards remain
+open.
 
-7. PLAYER FORCE RULE
+7. ALARM AND RADIO SECURITY LAYER
+
+The compound contains four fixed alarm buttons:
+
+- beside the north main administration-building service entrance;
+- inside the east gate gatehouse;
+- inside the west gate gatehouse;
+- in the first-floor hallway leading to the manager's office.
+
+All seven guards and the manager carry radios. Either a fixed alarm activation or a
+completed radio alert notifies the remaining security personnel on base to Victor
+Two Bravo's presence and transitions the compound into an alert state. This source
+does not lock off-site reinforcements or police response.
+
+Exact alarm-use timing, radio-call duration, interruption behavior, player
+countermeasures, audiovisual feedback, search patterns, and alert persistence are
+controlled as open production requirements in the dedicated alarm-and-radio source.
+
+8. PLAYER FORCE RULE
 
 COME FLY WITH ME is a covert acquisition mission, not an extermination objective.
 The player may avoid, distract, incapacitate, restrain, or lethally engage armed
 contractors according to detection state and tactical choice. The source must not
 require the player to kill ordinary uninvolved terminal staff or every armed guard.
 
-8. MANAGER'S OFFICE
+9. MANAGER'S OFFICE
 
 Victor Two Bravo breaches and secures the first-floor manager's office, overcomes
 the two accompanying contractors, restrains the manager, and compels him to provide
-access to the aircraft. The manager is left restrained in the office. Exact access
-method — keys, code, documentation, or a combination — remains open.
+access to the aircraft. The manager is left restrained in the office. The manager
+and both office guards carry radios. Exact access method — keys, code, documentation,
+or a combination — remains open.
 
-9. FOUND FBA-2C
+10. FOUND FBA-2C
 
 The aircraft is a fueled Found FBA-2C berthed at the north jetty. The team does not
 wait for a conspicuous forced-refueling sequence. Exact startup interaction, water
 taxi route, takeoff direction, passenger positions, cargo state, and player control
 allocation remain open.
 
-10. EAST McFARLANE HANDOFF
+11. EAST McFARLANE HANDOFF
 
 The aircraft travels approximately 39 statute miles north-northwest. Smoke shuts
 the engine down only for the final approach after the team has acquired the landing
@@ -212,6 +243,10 @@ CONTINUITY CONSTRAINTS
 - Preserve the west-gate guard's football-watching post, bathroom route through the
   north service entrance, and periodic surreptitious flask break as two separate
   infiltration opportunities.
+- Preserve exactly four fixed alarm buttons at the stated locations.
+- Preserve radios for all seven guards and the manager.
+- Preserve compound-wide notification of remaining base security after a completed
+  alarm-button or radio alert.
 - Preserve the manager as restrained rather than casually executed.
 - Preserve the fueled-aircraft access solution and supersede forced refueling.
 - Preserve Found FBA-2C nomenclature for this aircraft.
@@ -233,7 +268,7 @@ A. ROUTES AND TRAVERSAL
 B. SURVEILLANCE AND MISSION PREPARATION
 
 - Define what the player can observe from the western position and which guard
-  routines are learned there.
+  routines and alarm locations are learned there.
 - Ensure the west-gate football viewing, bathroom movement, and flask break can be
   identified through observation or companion callouts rather than hidden trial and
   error alone.
@@ -244,18 +279,22 @@ C. GUARDS, CIVILIANS, AND ALERT PROPAGATION
 
 - Define civilian staffing, late-night occupancy, protected noncombatants, and
   failure consequences for indiscriminate violence.
-- Draw patrol splines, cones, radio nodes, alarm points, reinforcement sources, and
-  fallback positions.
+- Draw patrol splines, cones, radio-use nodes, alarm access paths, fallback positions,
+  search sectors, and compound-alert response positions.
 - Coordinate the west-gate guard's bathroom transit through the north service
   entrance with the interior guard's routine so their overlap is legible and cannot
   create an accidental unavoidable detection state.
+- Define detection thresholds, radio-call duration, alarm-button activation time,
+  interruption windows, alert persistence, and whether player countermeasures can
+  disable, jam, sabotage, or block any alert channel.
 - Define body discovery, restraint persistence, surrender behavior, and stealth-
   break recovery.
 
 D. ADMINISTRATION BUILDING
 
 - Produce the floor plan, north service entrance, corridor, break room, manager's
-  office, alternate entry points, door states, windows, stair access, and lighting.
+  office, alternate entry points, door states, windows, stair access, lighting, and
+  exact interior alarm-button locations.
 - Define the breach, office dialogue, restraint sequence, access handoff, and
   fail-safes if the player triggers a full alert first.
 
@@ -282,16 +321,17 @@ G. PRODUCTION AND ACCESSIBILITY
 
 - Define mission length, checkpoints, difficulty modifiers, companion behavior,
   stealth readability, subtitle coverage, visual contrast, and alternate cues for
-  guard routines.
+  guard routines, radio calls, and alarm activation.
 - Define streaming transition between Christiansted, flight, and East McFarlane.
-- Validate that non-lethal play, bypass play, and loud recovery all reach the
-  protected departure without softlocks.
+- Validate that non-lethal play, bypass play, stealth-break recovery, and loud
+  recovery all reach the protected departure without softlocks.
 
 RESULT
 
-The revised owner KMZ and follow-up guard-routine clarification close the map-level
-directional, staging, guard-count, guard-behavior, contractor-framing, aircraft, and
-landing-handoff gaps. The normalized KML and this addendum are canon-compatible and
+The revised owner KMZ and follow-up security clarifications close the map-level
+directional, staging, guard-count, guard-behavior, fixed-alarm, radio-distribution,
+contractor-framing, aircraft, and landing-handoff gaps. The normalized KML, this
+addendum, and the dedicated alarm-and-radio source are canon-compatible and
 source-ready. COME FLY WITH ME remains not production-ready because route lines,
-interiors, alert logic, civilian handling, aircraft operation, flight presentation,
-checkpoints, accessibility, and performance work remain open.
+interiors, alert timing and AI logic, civilian handling, aircraft operation, flight
+presentation, checkpoints, accessibility, and performance work remain open.
