@@ -1,0 +1,119 @@
+PROJECT WARRIORS — SOURCE UPDATE AUDIT
+COME FLY WITH ME — CCTV AND RESPONSE ESCALATION EXTENSION
+Generated: 2026-08-02
+Version: rev1
+Status: OWNER SECURITY EXTENSION / PR #65 UPDATE
+
+SCOPE
+
+Extend the COME FLY WITH ME Christiansted security package with static CCTV
+coverage, a localized camera-investigation state, shoot-on-sight full-alert behavior,
+and the manager-triggered police and maritime response branch.
+
+OWNER EXTENSION
+
+The owner added:
+
+- one outward-facing static camera at the east gatehouse;
+- one outward-facing static camera at the west gatehouse;
+- two static cameras providing overlapping coverage of the fuel-storage area just
+  southeast of the north jetty;
+- a CCTV monitoring station in the manager's office;
+- a manager radio call directing the nearest available guard to investigate a camera
+  sighting;
+- shoot-on-sight behavior for all surviving guards after a full alarm;
+- a manager lockdown and police call if all seven guards are eliminated before he is
+  secured;
+- a mandatory office breach and aircraft-key recovery under response pressure;
+- two responding police cars, one at each gate, carrying eight armed officers in
+  total;
+- an armed Coast Guard patrol boat approaching the north jetty and threatening the
+  floatplane departure.
+
+NORMALIZATION NOTES
+
+1. The owner's phrase "newest guard" is interpreted as "nearest available guard"
+   because the described CCTV function is a spatial investigation dispatch. The
+   controlling security source records this interpretation rather than silently
+   changing it.
+2. The owner's phrase "USVI Coast Guard" is normalized as an armed U.S. Coast Guard
+   patrol boat operating in U.S. Virgin Islands waters. Exact vessel type remains
+   open.
+3. Exact camera coordinates, mounts, sight cones, and fuel-storage geometry are
+   schematic pending production floor-plan and environment work.
+4. Exact police and Coast Guard response times are intentionally not invented.
+
+SECURITY-STATE RESULT
+
+The mission now distinguishes three security states:
+
+- unaware: guards follow routines;
+- CCTV investigation: the manager radios the nearest available guard to inspect the
+  camera sighting while the rest of the base remains below full alert;
+- compound alarm: all surviving armed guards search for Victor Two Bravo and shoot
+  the player and teammates on sight.
+
+MANAGER LOCKDOWN RESULT
+
+If all seven guards are eliminated before the manager is secured:
+
+- the manager locks himself in the office;
+- he calls the police;
+- the normal cooperative access handoff is lost;
+- the player must breach the office, confront and secure him, and recover the Found
+  FBA-2C keys before responders arrive.
+
+RESPONSE RESULT
+
+The locked external response consists of:
+
+- two police squad cars;
+- one car approaching each gate;
+- eight armed police officers in total;
+- one armed U.S. Coast Guard patrol boat approaching the north jetty.
+
+The land response contains the compound while the maritime response threatens the
+aircraft berth, water-taxi path, and takeoff opportunity. Exact deployment, tactics,
+weapons, engagement rules, and timing remain production work.
+
+MAP EXTENSION
+
+Four camera placemarks were added to the normalized KML:
+
+1. Security camera — east gate exterior
+2. Security camera — west gate exterior
+3. Security camera — fuel storage coverage one
+4. Security camera — fuel storage coverage two
+
+Current normalized KML count: 21 point placemarks.
+
+SOURCE HIERARCHY EFFECT
+
+PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt has been
+expanded into the controlling alarm, radio, CCTV, and response-security authority.
+It supersedes earlier statements that:
+
+- the current map contains only seventeen points;
+- camera coverage is wholly open;
+- the alert consequence is limited to internal base notification;
+- police and maritime response are not locked.
+
+The geography addendum remains controlling for the wider mission sequence and map
+relationships. This extension controls the added security behavior and consequence
+branch.
+
+VALIDATION
+
+- mapped static cameras: 4
+- fixed alarm buttons: 4
+- radio-equipped guards and manager: 8
+- armed contractor count: 7
+- normalized KML placemarks: 21
+- police vehicles: 2
+- police officers: 8 total
+- Coast Guard response: 1 armed patrol boat
+- exact response time invented: no
+- source-ready status: yes
+- production-ready status: no
+
+END
