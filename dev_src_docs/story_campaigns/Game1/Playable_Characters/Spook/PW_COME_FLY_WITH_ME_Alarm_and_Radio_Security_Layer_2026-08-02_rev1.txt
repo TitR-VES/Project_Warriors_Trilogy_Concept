@@ -1,25 +1,27 @@
 PROJECT WARRIORS — GAME 1 / RIPTIDE RED
-COME FLY WITH ME — ALARM AND RADIO SECURITY LAYER
+COME FLY WITH ME — ALARM, RADIO, CCTV, AND RESPONSE SECURITY LAYER
 Generated: 2026-08-02
 Version: rev1
-Status: OWNER SECURITY CLARIFICATION / CONTROLLING ALERT-SYSTEM LOCK
+Status: OWNER SECURITY CLARIFICATION / CONTROLLING SECURITY-SYSTEM LOCK
 
 PURPOSE
 
-Define the compound-wide alarm layer for the Christiansted seaplane-base section
+Define the compound-wide security layer for the Christiansted seaplane-base section
 of COME FLY WITH ME. This source supplements the controlling geography and
-objective-flow addendum and governs the fixed alarm locations, radio distribution,
-and security-alert function.
+objective-flow addendum and governs fixed alarms, radios, static CCTV coverage,
+alert-state behavior, the manager lockdown branch, and the police and maritime
+response triggered if the player eliminates the entire armed contractor detail.
 
 AUTHORITY RULE
 
-- The normalized Christiansted KML controls alarm-point map placement.
-- This source controls alarm and radio behavior at mission-design level.
-- The earlier geography addendum remains controlling for the wider mission flow,
-  but its previous references to thirteen map points and alarm-point placement as
-  entirely open are superseded by this clarification.
-- Exact interior coordinates remain schematic until the administration-building
-  and gatehouse floor plans are authored.
+- The normalized Christiansted KML controls mapped alarm and camera placement.
+- This source controls alarm, radio, CCTV, escalation, and reinforcement behavior at
+  mission-design level.
+- The earlier geography addendum remains controlling for the wider mission flow.
+- This source supersedes earlier statements that the map contains seventeen points,
+  that camera coverage is entirely open, or that off-site response is not locked.
+- Exact interior coordinates and camera sight cones remain schematic until the
+  administration-building, gatehouse, and fuel-storage floor plans are authored.
 
 FIXED ALARM NETWORK
 
@@ -56,83 +58,185 @@ eight:
 - the manager.
 
 Any of these characters can use a radio to alert the other security personnel on
-base to the player's presence.
+base to the player's presence. The manager additionally uses his radio to direct a
+localized CCTV investigation before a compound-wide alarm is established.
 
-ALERT FUNCTION
+STATIC CCTV NETWORK
 
-Fixed alarm activation and a completed radio alert serve the same narrative and
-systemic purpose: the remaining security personnel on base become aware that Victor
-Two Bravo is present and the covert infiltration enters a compound-alert state.
+The compound contains four static security cameras:
 
-This source establishes an internal base alert only. It does not by itself lock
-outside police response, off-site reinforcements, military response, or a wider
-island-wide alarm network.
+1. EAST GATE CAMERA
+   Mounted at the east gatehouse and aimed outward through the gate approach.
+
+2. WEST GATE CAMERA
+   Mounted at the west gatehouse and aimed outward through the gate approach.
+
+3. FUEL-STORAGE CAMERA ONE
+   Covers the fuel-storage area located just southeast of the north jetty.
+
+4. FUEL-STORAGE CAMERA TWO
+   Provides overlapping coverage of the same fuel-storage area from a second angle.
+
+The shell-company manager monitors all four feeds from a CCTV station in his office.
+Camera detection does not immediately place the entire base in the full alarm state.
+When the manager sees Victor Two Bravo on a live feed, he radios the nearest
+available guard and directs that guard to investigate the observed location.
+
+The owner's phrase "newest guard" is normalized here as "nearest available guard"
+because the intended function is spatial response to the camera sighting. A later
+owner correction may restore a different meaning if "newest" was intentional.
+
+SECURITY STATES
+
+STATE 0 — UNAWARE
+
+Security personnel follow their normal guard routines. The player may bypass,
+distract, restrain, incapacitate, or engage guards according to the mission's covert
+acquisition rules.
+
+STATE 1 — CCTV INVESTIGATION
+
+A camera detects Victor Two Bravo and the manager sees the feed. The manager radios
+the nearest available guard, who leaves or modifies the normal routine to investigate
+the reported location. The rest of the base is not automatically placed on full
+alert solely because of the initial camera sighting.
+
+STATE 2 — COMPOUND ALARM
+
+A fixed alarm is activated or a general radio alert is completed. All surviving
+armed guards on base are alerted to Victor Two Bravo's presence. They abandon their
+normal routines, attempt to locate the player and teammates, and shoot them on sight.
+
+The full-alert state changes the encounter from covert infiltration into an active
+lethal search. Exact search sectors, regrouping points, crossfire positions, radio
+chatter, and alert persistence remain production work.
+
+MANAGER LOCKDOWN BRANCH
+
+If the player eliminates all seven armed security guards before securing the
+manager, the manager locks himself inside his office and calls the police. The call
+starts the external-response pressure and prevents the normal compliant access
+handoff.
+
+The player must breach the locked office, confront and secure the manager, and
+obtain the Found FBA-2C keys before the responding forces arrive. The manager remains
+required for aircraft access; eliminating the guards does not allow the player to
+skip the office objective.
+
+POLICE RESPONSE
+
+If Victor Two Bravo has not obtained the aircraft keys and escaped before the police
+response reaches the compound:
+
+- two police squad cars arrive;
+- one approaches the west gate and one approaches the east gate;
+- eight armed police officers arrive in total;
+- the officers deploy to contain and engage Victor Two Bravo inside the compound.
+
+The source locks the two vehicles, the two gate approaches, and the total of eight
+armed officers. Exact distribution between cars, response time, equipment, tactics,
+communications, and surrender behavior remain open for production tuning.
+
+MARITIME RESPONSE
+
+At the same escalation stage, an armed U.S. Coast Guard patrol boat operating in
+U.S. Virgin Islands waters approaches the north jetty. The boat places direct
+pressure on the aircraft berth and departure route, making survival, startup, water
+taxi, and escape in the Found FBA-2C extremely difficult.
+
+The owner's phrase "USVI Coast Guard" is normalized as a U.S. Coast Guard response
+in USVI waters. Exact boat class, crew size, armament, approach bearing, warning
+procedure, rules of engagement, and whether the patrol boat can physically block the
+takeoff run remain open.
 
 DESIGN INTENT
 
-The system is deliberately redundant:
+The security system is deliberately layered and redundant:
 
+- cameras create an observable but initially localized investigation threat;
 - fixed buttons create readable spatial alarm objectives;
 - radios make every guard and the manager a mobile alert risk;
+- full alarm converts all surviving guards to shoot-on-sight search behavior;
+- eliminating every guard triggers a different pressure branch rather than removing
+  all mission tension;
+- police close the land approaches while the Coast Guard threatens the maritime exit;
 - controlling one gatehouse or one administration-building alarm does not disable
-  every other alert channel;
-- the player must manage witnesses and communication opportunities rather than only
-  avoid a single central alarm console.
+  every other alert channel.
 
 The west-gate guard's football viewing, bathroom absence, and flask break remain
 valid infiltration windows, but catching him away from the west gatehouse does not
-remove his radio capability.
+remove his radio capability or the outward-facing west-gate camera.
 
 CONTINUITY CONSTRAINTS
 
 - Preserve exactly four fixed alarm buttons at the stated locations.
+- Preserve four static cameras: one outward-facing camera at each gatehouse and two
+  cameras covering the fuel-storage area southeast of the north jetty.
+- Preserve the manager as the live CCTV monitor in his office.
+- Preserve a camera sighting as a localized manager-to-nearest-guard investigation
+  call rather than an automatic full-base alarm.
 - Preserve radios for all seven guards and the manager.
-- Preserve compound-wide notification of the remaining base security personnel.
-- Do not reduce the system to one master alarm point.
-- Do not imply that disabling one fixed button automatically disables radios or the
-  other three buttons.
-- Do not add off-site reinforcements as a locked consequence without a later owner
-  decision.
-- Preserve the mission's non-lethal and bypass options; alert risk does not convert
-  the mission into a mandatory elimination objective.
+- Preserve compound-wide notification after fixed-alarm activation or a completed
+  general radio alert.
+- Preserve shoot-on-sight behavior for all surviving armed guards during full alert.
+- Preserve the manager lockdown and police call if all seven guards are eliminated
+  before he is secured.
+- Preserve the office breach and aircraft-key recovery as mandatory in that branch.
+- Preserve two police cars, east- and west-gate arrivals, and eight armed officers in
+  total.
+- Preserve the armed U.S. Coast Guard patrol-boat approach to the north jetty.
+- Do not reduce the system to one master alarm point or one central camera trigger.
+- Do not imply that disabling one button, camera, or radio disables the remaining
+  network.
+- Preserve non-lethal and bypass options before alert; the response branch does not
+  convert the entire mission into a mandatory total-elimination objective.
 
 OPEN PRODUCTION REQUIREMENTS
 
 The following remain open:
 
-- detection thresholds that trigger an alarm attempt;
-- whether an alerted character prefers a nearby button or a radio;
-- radio call duration, animation, voice line, interruption window, and completion
-  feedback;
+- camera field of view, range, rotation or fixed limits, low-light capability,
+  detection buildup, blind spots, and visual readability;
+- whether cameras can be disabled, looped, obscured, jammed, destroyed, or bypassed;
+- how the manager selects the nearest available guard and what happens if no guard is
+  free to investigate;
+- radio-call duration, animation, interruption window, and completion feedback;
 - alarm-button interaction duration, animation, interruption window, and audiovisual
   feedback;
-- whether buttons or radios can be disabled, jammed, sabotaged, destroyed, or
-  temporarily blocked by the player;
-- whether a partial radio call conveys incomplete information;
+- exact transition rules from CCTV investigation to compound alarm;
 - exact guard response positions, search patterns, fallback locations, and alert
   persistence;
-- whether the manager attempts to alert immediately, complies under coercion, or can
-  be prevented from reaching his radio during the office breach;
-- checkpoint and softlock behavior after a compound-wide alert;
-- accessibility cues identifying radio use and alarm-button activation;
-- exact gatehouse and administration-building interior placement.
+- office-door strength, breach method, manager behavior, key presentation, and
+  fail-safes if the manager is incapacitated during lockdown;
+- police response timer, officer distribution, equipment, tactics, surrender rules,
+  and checkpoint behavior;
+- Coast Guard patrol-boat type, approach path, engagement logic, damage model, and
+  interaction with the floatplane takeoff run;
+- whether an initiated external response can be cancelled after the manager is
+  secured;
+- accessibility cues identifying camera detection, radio use, alarm activation,
+  police arrival, and maritime approach;
+- exact gatehouse, fuel-storage, and administration-building geometry.
 
 MAP RESULT
 
-The normalized map now contains seventeen point placemarks:
+The normalized map now contains twenty-one point placemarks:
 
-- thirteen previously established mission, guard, aircraft, and transition points;
-- four fixed alarm-button points.
+- thirteen established mission, guard, aircraft, and transition points;
+- four fixed alarm-button points;
+- four static security-camera points.
 
-No route lines, polygons, patrol splines, sight cones, or trigger volumes are added
-by this clarification.
+No route lines, polygons, patrol splines, camera cones, response routes, or trigger
+volumes are added by this clarification.
 
 RESULT
 
-COME FLY WITH ME now has a source-locked compound alert architecture consisting of
-four fixed alarm buttons and eight radio-equipped characters. The alert system is
+COME FLY WITH ME now has a source-locked layered security architecture consisting of
+four fixed alarms, eight radio-equipped characters, four monitored CCTV cameras, a
+localized investigation state, a shoot-on-sight compound-alert state, and a manager
+lockdown branch leading to land and maritime reinforcement pressure. The system is
 source-ready but not production-ready pending interaction timing, AI decision logic,
-player countermeasures, response behavior, audiovisual feedback, accessibility, and
-interior floor-plan work.
+player countermeasures, floor plans, response timing, audiovisual feedback,
+accessibility, and encounter balancing.
 
 END
