@@ -6,13 +6,14 @@ Campaign: Spook Game 1 — RIPTIDE RED
 Recovered from: full verbatim legacy archive, principally the July 8 mission-development thread
 
 PURPOSE
-Preserve the accepted mission-level architecture for MAN FROM MEDAN / DRAGONSLAYER, PANDORA'S BOX, and BURNING DAYLIGHT without duplicating later dedicated INFRASTRUCTURE DAY, STAPLER, UI, CFIM, or Blommaert sources.
+Preserve the accepted mission-level architecture for MAN FROM MEDAN / DRAGONSLAYER, PANDORA'S BOX, and BURNING DAYLIGHT without duplicating later dedicated INFRASTRUCTURE DAY, STAPLER, UI, CFIM, Blommaert, or COME FLY WITH ME sources.
 
 AUTHORITY RULE
 - The July Game 1 recovery packet controls the broad RIPTIDE RED campaign spine.
 - Current STAPLER and UI sources control the suppressor-to-blast-deflector PREPARE LOUD interaction.
 - The 2026-07-22 Blommaert / JUDGE ME NOT sources control INFRASTRUCTURE DAY.
 - The current CogniConnect/CFIM source controls implanted-enemy effects.
+- The 2026-08-02 COME FLY WITH ME Christiansted geography addendum controls the safehouse, surveillance, final staging, seven-contractor seaplane-base infiltration, Found FBA-2C acquisition, flight, and East McFarlane landing handoff.
 - This page controls the compact mission flow and connective evidence recovered from the verbatim thread.
 
 ===============================================================================
@@ -127,7 +128,18 @@ OPEN FLAGS
 - final gala guest/handler roster;
 - Jack Pratt's exact encounter state and survival;
 - exact decrypt timeline and which evidence becomes immediately readable;
-- final link into COME FLY WITH ME / SINS OF OUR FATHERS.
+- exact Montoya archive item, dialogue, or decrypt beat that directs Victor Two Bravo to the Christiansted staging route and East McFarlane Island. The physical COME FLY WITH ME transition and SINS landing handoff are controlled by the dedicated 2026-08-02 source.
+
+===============================================================================
+05. COME FLY WITH ME — POINTER ONLY
+===============================================================================
+
+COME FLY WITH ME is not rewritten here.
+Controlling sources:
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
+
+The dedicated source controls the Christiansted safehouse and surveillance sequence, the final SUV staging point, the seven-contractor seaplane-base security layout, the manager's-office breach, the fueled Found FBA-2C acquisition, the north-northwest flight, and the engine-off landing at the controlling SINS OF OUR FATHERS coordinate.
 
 CONTINUITY LOCKS
 - Trevor Albertson Gartner is the current-facing Spook identity; no current Captain title.
