@@ -1,0 +1,191 @@
+PROJECT WARRIORS — GAME 1 / LEAD THE WAY
+TIDEFIRE PERSISTENT PERIPHERAL AIR-DEFENSE AND CIWS REFERENCE
+Generated: 2026-08-02
+Version: rev1
+Status: ART-DIRECTION AND BATTLEFIELD-PRESENTATION LOCK / FORCE PACKAGE PARTIAL
+Mission: TIDEFIRE
+Playable lead: Ramón “Romeo” Álvarez
+
+PURPOSE
+
+Define the CIWS / terminal-air-defense layer that remains active around Naval Air Station North Island through most of TIDEFIRE. The layer is prominent in the mission’s overall sensory identity without becoming a player-centered spectacle or replacing Romeo’s immediate objectives.
+
+SOURCE RELATIONSHIP
+
+This page supplements:
+- PW_TIDEFIRE_North_Island_Mission_Geography_and_Objective_Flow_Addendum_2026-07-31_rev1.txt
+- PW_TIDEFIRE_North_Island_Battle_Map_Addendum_2026-07-31_rev1.txt
+
+It controls the CIWS / terminal-air-defense art-direction register and its battlefield function. It does not reopen the locked mission route, NMESIS strike, alert-aircraft exploitation, Humvee return, or NCTS closeout.
+
+CORE PRESENTATION LOCK
+
+The air-defense layer is persistent peripheral defensive activity.
+
+“Prominent” does not mean centered in the player’s attention. It means that defensive systems are frequently audible, intermittently visible, and consequential to the wider battle while Romeo remains focused on infantry movement, local engagements, handoffs, target identification, and survival.
+
+Do not use repeated forced camera turns, detached cutaways, objective markers, or scripted pauses solely to show CIWS fire. The defensive battle should continue whether or not the player looks at it.
+
+BATTLEFIELD PREMISE
+
+Throughout most of TIDEFIRE, NAS North Island remains under sustained aerial attack by:
+- small and medium unmanned aircraft;
+- loitering munitions and one-way attack UAVs;
+- intermittent rocket or comparable incoming threats where later force-package work supports them;
+- occasional higher-order aviation threats penetrating or skirting the wider air-defense picture.
+
+Possible higher-order threats include Russian or Iranian attack helicopters and a limited number of fixed-wing aircraft. Their exact types, numbers, ingress routes, and chronology remain open until the enemy aviation package is developed.
+
+SYSTEM TERMINOLOGY
+
+Land positions around the installation should normally be described as land-based Phalanx / LPWS, C-RAM, or C-UAS terminal-defense batteries rather than ordinary shipboard Phalanx mounts transplanted ashore.
+
+Nearby U.S. Navy vessels may separately contribute ship-mounted Phalanx fire from San Diego Bay or offshore positions. Land and naval systems should read as related but spatially distinct layers.
+
+TARGET-ALLOCATION LOCK
+
+Primary recurring targets:
+- small and medium UAVs;
+- loitering munitions;
+- incoming rockets or comparable terminal threats where applicable.
+
+Occasional terminal-defense targets:
+- low or slow aircraft entering the immediate defended envelope;
+- attack helicopters that have penetrated the wider screen.
+
+Fast fixed-wing aircraft should normally remain the responsibility of the wider layered air-defense picture, alert fighters, missile defenses, naval air defense, or other short-range air-defense assets. A CIWS engagement against a jet is an exceptional last-ditch event, not the standard background pattern.
+
+PARTIAL SUCCESS RULE
+
+The batteries intercept some incoming threats, not all of them.
+
+Valid outcomes include:
+- clean airborne destruction;
+- a damaged UAV continuing into the battlespace;
+- a threat breaking apart and scattering debris;
+- a miss or aborted engagement;
+- a threat arriving while a battery is masked, damaged, reloading, tracking another target, or unable to obtain a safe firing solution;
+- a defensive burst forcing an incoming aircraft to break away without destroying it.
+
+The player must never conclude that the CIWS network makes the base safe. Its narrative meaning is that this much defensive fire is required merely to keep the air station functioning.
+
+PRESENTATION RHYTHM
+
+Fire frequently but irregularly. Do not create a metronomic loop or continuous wall of gunfire.
+
+Preferred background beats:
+- distant acquisition / spin-up followed by a short violent burst;
+- tracer streams rising from another sector of the installation;
+- a brief aerial detonation above hangars, shoreline positions, or the bay;
+- a damaged UAV descending beyond the player’s route;
+- defensive fire heard through walls, vehicles, tower structures, or radio dialogue;
+- separate batteries engaging from different bearings;
+- a battery falling silent because of damage, masking, reload, or target loss;
+- shipboard fire visible or audible across the water while land systems engage elsewhere.
+
+Avoid synchronized-fireworks presentation. Systems should appear to have separate sensors, sectors, target priorities, and timing.
+
+PLAYER-PROXIMITY CONSEQUENCES
+
+Most defensive engagements require no player response. A smaller number may affect the immediate play space without becoming formal objectives:
+- intercepted debris striking a roof, road, revetment, or nearby aircraft;
+- an incoming UAV crashing beyond the route after being damaged;
+- a near miss forcing friendly NPCs into cover;
+- an attack reaching the airfield because available batteries are occupied elsewhere;
+- a defensive burst briefly masking radio or small-arms audio;
+- a burning fragment or damaged drone establishing a new local hazard.
+
+These effects should be authored for readability and safety. Do not use random unavoidable player damage as the main proof that the background battle exists.
+
+MISSION-PHASE BEHAVIOR
+
+PHASES 1–2 — BRIDGE, GATE, BASE-DEFENSE AND TOWER
+- Establish the layer early through distant bursts, tracer arcs, warnings, and intermittent impacts.
+- The first impression should be that the battle is already underway and extends beyond Delta’s route.
+
+PHASE 3 — UAV-GUIDANCE FIGHT
+- CIWS activity remains heavy but imperfect while the hostile guidance element improves enemy attack accuracy and tempo.
+- Destroying the guidance element reduces coordination, accuracy, and attack tempo; it does not switch the aerial threat off.
+
+PHASES 4–5 — RANGE SECTOR AND ZUÑIGA
+- Defensive fire should feel geographically distributed across the installation and bay.
+- The Zuñiga observation phase may expose the player to the widest view of the layered defense, but the targeting task remains primary.
+
+PHASE 6 — TIDEFIRE STRIKE WINDOW
+- The NMESIS strike and alert-fighter launch create a temporary operational improvement, not an instant quiet sky.
+- CIWS tempo may briefly decrease as the attacking formation breaks, then resume against surviving UAVs or secondary threats.
+
+PHASE 7 — HUMVEE RETURN
+- The ride should show measurable but incomplete improvement: less accurate UAV pressure, reduced naval fire, alert aircraft airborne, defenders regaining movement, and terminal-defense systems still engaging residual threats.
+
+AUDIO DIRECTION
+
+CIWS fire should have scale, direction, occlusion, and distance variation.
+
+Use:
+- close mechanical aggression only when the route passes near a battery;
+- distant bursts that arrive through urban, hangar, shoreline, or vehicle acoustics;
+- transient radio masking without making dialogue incomprehensible;
+- distinct bearings so the player can infer multiple defended sectors;
+- aftermath audio such as falling fragments, distant impacts, alarms, or secondary fires.
+
+Do not reduce the layer to a single reused gunshot loop. Mechanical startup, firing, cessation, reverberation, and impact / intercept aftermath should read as separate events.
+
+VISUAL DIRECTION
+
+Use restraint and distance as often as close detail.
+
+Valid views include:
+- only muzzle bloom or tracer origin behind structures;
+- a partial mount silhouette across a service road;
+- tracer convergence against a distant airborne target;
+- an intercept flash partly hidden by smoke or hangars;
+- shipboard Phalanx fire crossing a separate part of the sky;
+- damaged threats passing through or below the player’s sightline after engagement.
+
+The system should never require the player to stand idle and watch a full engagement cycle.
+
+EXTERNAL VISUAL REFERENCES
+
+1. Ship-mounted Phalanx, daytime, close proximity, no impact shown
+https://youtube.com/shorts/75vfFcewkP8
+Use for:
+- close mechanical appearance;
+- mount tracking impression;
+- spin-up / firing presence;
+- muzzle bloom, cadence, concussion, and deck-level scale.
+Do not use as direct evidence for land emplacement, target impact, full engagement chronology, or mission geography.
+
+2. Phalanx, nighttime animated full engagement against fixed-wing aircraft
+https://youtube.com/shorts/KkQk9nP1LHk
+Use for:
+- acquisition-to-fire-to-intercept choreography;
+- nighttime tracer readability;
+- target / defensive-fire relationship;
+- full-engagement pacing reference.
+Do not inherit:
+- animated rendering quality;
+- exact ballistics;
+- exact target type;
+- damage model;
+- nighttime mission canon;
+- a requirement that Phalanx routinely engage fast jets.
+
+REFERENCE-HYGIENE RULE
+
+These external clips are art, animation, VFX, sound, and timing references. They are not canonical audiovisual assets, frame-for-frame mandates, technical proof of every depicted effect, or permission to redistribute the source footage.
+
+OPEN FIELDS
+
+- exact land-based terminal-defense system mix and battery count;
+- exact emplacements and defended sectors;
+- nearby naval vessels contributing shipboard Phalanx fire;
+- enemy UAV families, attack-helicopter types, and fixed-wing package;
+- ammunition / reload behavior represented during the mission;
+- damaged or destroyed battery states;
+- exact number of player-proximate debris events;
+- final VFX, tracer, audio-distance, and intercept readability specifications.
+
+RESULT
+
+TIDEFIRE’s CIWS layer is locked as a frequent, consequential, peripheral defensive battle. It expands the perceived scale of the finale, reinforces immediacy, and makes the air station feel barely functional under sustained attack without pulling the player away from Romeo’s immediate mission focus.
