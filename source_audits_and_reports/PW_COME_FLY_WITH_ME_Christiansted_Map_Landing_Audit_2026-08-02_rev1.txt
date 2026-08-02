@@ -8,20 +8,20 @@ SCOPE
 
 Land the owner's revised COME FLY WITH ME KMZ as a normalized repository map and
 mission-geography authority. Apply the corrections accepted during map review while
-preserving the owner's coordinates, encounter layout, guard routines, and mission
-handoff. Incorporate the owner's follow-up clarification defining the west-gate
-guard's full routine and approximate cadence.
+preserving the owner's coordinates, encounter layout, guard routines, mission
+handoff, and follow-up security-system clarifications.
 
 SOURCE ARTIFACT
 
 - File: Come Fly With Me Spook Game 1 campaign pre-finale (5).kmz
 - SHA-256: a717c4f2a93ac540fbc7e99025ab612ad33531ff426847e63ffb0130de2fb873
-- Contents: doc.kml, images/icon-1.png, images/icon-2.png
-- Point placemarks: 13
+- Original contents: doc.kml, images/icon-1.png, images/icon-2.png
+- Original point placemarks: 13
+- Normalized point placemarks after owner extensions: 17
 - Route lines: 0
 - Polygons: 0
 
-NORMALIZATION CHANGES
+NORMALIZATION AND OWNER EXTENSIONS
 
 1. Corrected the long-surveillance marker from east of the base to west of the base.
 2. Reframed the close SUV marker as short-duration final staging after the longer
@@ -49,8 +49,23 @@ NORMALIZATION CHANGES
 12. Preserved the bathroom absence and flask break as two separate, predictable
     infiltration windows and flagged their interaction with the north-service-
     entrance guard for later production timing.
-13. Corrected typographical and grammatical errors throughout the placemark text.
-14. Clarified the destination as approximately 39 miles north-northwest rather than
+13. Added four owner-defined fixed alarm buttons:
+    - beside the north main administration-building service entrance;
+    - inside the east gate gatehouse;
+    - inside the west gate gatehouse;
+    - in the first-floor hallway leading to the manager's office.
+14. Locked radios for all seven armed guards and the manager, producing eight mobile
+    alert-capable characters.
+15. Locked both fixed alarm activation and a completed radio alert as methods of
+    notifying the remaining security personnel on base to Victor Two Bravo's
+    presence.
+16. Kept the alarm consequence internal to the base; outside reinforcements or police
+    response are not locked by this source.
+17. Added four schematic alarm placemarks to the normalized KML. Exact interior
+    positions remain dependent on later gatehouse and administration-building floor
+    plans.
+18. Corrected typographical and grammatical errors throughout the placemark text.
+19. Clarified the destination as approximately 39 miles north-northwest rather than
     approximately 40 miles due north.
 
 ARTIFACTS ADDED
@@ -59,7 +74,9 @@ ARTIFACTS ADDED
    COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
 2. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
    PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
-3. source_audits_and_reports/
+3. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+   PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+4. source_audits_and_reports/
    PW_COME_FLY_WITH_ME_Christiansted_Map_Landing_Audit_2026-08-02_rev1.txt
 
 EXISTING SOURCE UPDATED
@@ -71,21 +88,26 @@ physical handoff from the still-open exact Montoya-evidence dialogue/data beat.
 SOURCE HIERARCHY RESULT
 
 - The normalized KML controls point geography and placemark wording.
-- The dedicated addendum controls mission-level interpretation, the owner-defined
-  west-gate routine, and open production requirements.
-- Earlier archival references to Anguilla on St. Croix, six-guard summaries,
-  forced refueling, BFA-2 nomenclature, mandatory total elimination, the provisional
+- The dedicated geography addendum controls the wider mission flow and guard layout.
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt controls the
+  fixed alarm network, radio distribution, alert effect, and seventeen-point map
+  extension. It supersedes the earlier addendum's thirteen-point count and any
+  statement treating alarm-point placement as entirely open.
+- Earlier archival references to Anguilla on St. Croix, six-guard summaries, forced
+  refueling, BFA-2 nomenclature, mandatory total elimination, the provisional
   west-gate loop, or the superseded landing coordinate remain provenance only.
 - Current SINS OF OUR FATHERS sources continue to control the island mission after
   the shared landing point.
 
 VALIDATION
 
-- XML parse: passed
-- Placemark count: 13
-- Duplicate placemark names: none
-- Security count: 7
-- West-gate routine represented in map and addendum: yes
+- KML placemark count: 17
+- Duplicate placemark names: none intended
+- Security count: 7 armed contractors
+- Radio-equipped alert-capable characters: 8
+- Fixed alarm buttons: 4
+- West-gate routine represented in map and mission authority: yes
+- Alarm and radio layer represented in map and dedicated authority: yes
 - Landing coordinate matches controlling SINS map: yes
 - Source-ready status: yes
 - Production-ready status: no
