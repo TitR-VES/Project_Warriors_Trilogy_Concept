@@ -1,0 +1,76 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+ROMEO FINALE AIRCRAFT-WEAPONS VISUAL REFERENCES
+Generated: 2026-08-02
+Version: rev1
+Status: WORKING KNOWLEDGE SYNTHESIS
+
+SCOPE
+
+Summarize the owner-selected external video references and the resulting art-direction locks for:
+- TIDEFIRE, Romeo’s Game 1 finale;
+- TRI-STATE POINT, Romeo’s Game 2 finale.
+
+DURABLE SOURCE PAGES
+
+Game 1:
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Romeo/
+PW_TIDEFIRE_Persistent_Peripheral_Air_Defense_and_CIWS_Reference_2026-08-02_rev1.txt
+
+Game 2:
+dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+PW_TRI_STATE_POINT_Little_Bird_Visual_Reference_Packet_2026-08-02_rev1.txt
+
+GOVERNANCE MANIFEST
+
+source_audits_and_reports/
+PW_Aircraft_Weapons_External_Visual_Reference_Manifest_2026-08-02_rev1.csv
+
+TIDEFIRE LOCK
+
+TIDEFIRE uses a persistent peripheral terminal-air-defense layer around NAS North Island.
+
+The layer is prominent in the mission’s total sensory identity, but it is not normally centered in the player’s attention. Land-based Phalanx / LPWS, C-RAM, C-UAS, and possible nearby shipboard Phalanx systems frequently engage UAVs, loitering munitions, and other threats while Romeo continues his immediate objectives.
+
+The systems stop some threats, damage some, miss some, and remain unable to cover every attack. Their function is to communicate that extraordinary defensive effort is required merely to keep the installation operating.
+
+Small and medium UAVs are the primary recurring targets. Attack helicopters may occasionally penetrate the terminal-defense envelope. Fast jets normally remain part of the wider layered air-defense and alert-fighter picture; CIWS engagement against them is exceptional rather than routine.
+
+Presentation is irregular and spatially distributed:
+- distant bursts and tracer streams;
+- partial intercept flashes;
+- damaged UAVs descending into other sectors;
+- debris or near misses affecting the immediate route;
+- separate batteries firing from different bearings;
+- temporary silence caused by reload, damage, masking, or target loss.
+
+Do not force repeated camera turns or stop gameplay to display the defensive layer.
+
+TRI-STATE POINT LOCK
+
+The Little Bird references refine the already locked western-portal intervention without changing its structure.
+
+Primary direct evidence:
+- daytime multi-angle AH-6 rocket/minigun run for Hornet 2 weapons presentation;
+- AH-6 combat/tactical maneuver compilation for low-level approach, terrain masking, attack alignment, and repositioning;
+- nighttime/NOD AH-6 live-fire footage for low-light effects and weapons/audio behavior only.
+
+Analog evidence:
+- different-helicopter wingover footage for the energy and silhouette of Hornet 2’s steep climbing reversal; flare deployment is explicitly excluded and the final maneuver must be re-authored for the AH-6M;
+- MD-400 rapid-landing footage for deceleration and touchdown rhythm; Sparrow 5’s final MH-6M landing arc remains wider and must accommodate benches, pickup orientation, terrain, road width, and tunnel-portal obstacles.
+
+The fully playable first-person rule remains controlling. Aircraft act on authored timing whether the player sees the complete sequence, fragments of it, or only hears and experiences its consequences.
+
+REFERENCE-HYGIENE LOCK
+
+All seven videos remain external links. The repository preserves:
+- intended use;
+- reference classification;
+- known differences from canon;
+- explicit non-inheritance rules;
+- provenance placeholders.
+
+The clips are not canonical audiovisual assets, redistribution permissions, or frame-for-frame production mandates. Exact uploader, title, publication date, access date, and license data must be transcribed from the source pages before any licensed reuse or external presentation.
+
+RESULT
+
+The reference set now has a durable source landing. TIDEFIRE gains a defined peripheral CIWS / terminal-defense battlefield layer, while TRI-STATE POINT gains a controlled Little Bird visual-reference package that supports the already locked aviation choreography without introducing platform or maneuver drift.
