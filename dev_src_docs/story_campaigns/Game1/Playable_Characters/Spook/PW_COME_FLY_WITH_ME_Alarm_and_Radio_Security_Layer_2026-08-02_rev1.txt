@@ -1,0 +1,138 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — ALARM AND RADIO SECURITY LAYER
+Generated: 2026-08-02
+Version: rev1
+Status: OWNER SECURITY CLARIFICATION / CONTROLLING ALERT-SYSTEM LOCK
+
+PURPOSE
+
+Define the compound-wide alarm layer for the Christiansted seaplane-base section
+of COME FLY WITH ME. This source supplements the controlling geography and
+objective-flow addendum and governs the fixed alarm locations, radio distribution,
+and security-alert function.
+
+AUTHORITY RULE
+
+- The normalized Christiansted KML controls alarm-point map placement.
+- This source controls alarm and radio behavior at mission-design level.
+- The earlier geography addendum remains controlling for the wider mission flow,
+  but its previous references to thirteen map points and alarm-point placement as
+  entirely open are superseded by this clarification.
+- Exact interior coordinates remain schematic until the administration-building
+  and gatehouse floor plans are authored.
+
+FIXED ALARM NETWORK
+
+The compound contains four fixed alarm buttons:
+
+1. NORTH SERVICE ENTRANCE
+   Mounted beside the north main administration-building service entrance.
+
+2. EAST GATE GATEHOUSE
+   Located inside the east gate gatehouse.
+
+3. WEST GATE GATEHOUSE
+   Located inside the west gate gatehouse used by the football-watching guard.
+
+4. MANAGER'S-OFFICE HALLWAY
+   Mounted in the first-floor hallway leading to the manager's office inside the
+   main administration building.
+
+A guard or the manager can use any accessible alarm button to alert all other
+security personnel on the base to Victor Two Bravo's presence.
+
+RADIO DISTRIBUTION
+
+All seven armed contractors carry radios. The shell-company manager also carries a
+radio. The total number of radio-equipped alert-capable characters is therefore
+eight:
+
+- east-gate guard;
+- west-gate guard;
+- east-berth guard;
+- north-jetty guard;
+- north-service-entrance / corridor guard;
+- two manager's-office guards;
+- the manager.
+
+Any of these characters can use a radio to alert the other security personnel on
+base to the player's presence.
+
+ALERT FUNCTION
+
+Fixed alarm activation and a completed radio alert serve the same narrative and
+systemic purpose: the remaining security personnel on base become aware that Victor
+Two Bravo is present and the covert infiltration enters a compound-alert state.
+
+This source establishes an internal base alert only. It does not by itself lock
+outside police response, off-site reinforcements, military response, or a wider
+island-wide alarm network.
+
+DESIGN INTENT
+
+The system is deliberately redundant:
+
+- fixed buttons create readable spatial alarm objectives;
+- radios make every guard and the manager a mobile alert risk;
+- controlling one gatehouse or one administration-building alarm does not disable
+  every other alert channel;
+- the player must manage witnesses and communication opportunities rather than only
+  avoid a single central alarm console.
+
+The west-gate guard's football viewing, bathroom absence, and flask break remain
+valid infiltration windows, but catching him away from the west gatehouse does not
+remove his radio capability.
+
+CONTINUITY CONSTRAINTS
+
+- Preserve exactly four fixed alarm buttons at the stated locations.
+- Preserve radios for all seven guards and the manager.
+- Preserve compound-wide notification of the remaining base security personnel.
+- Do not reduce the system to one master alarm point.
+- Do not imply that disabling one fixed button automatically disables radios or the
+  other three buttons.
+- Do not add off-site reinforcements as a locked consequence without a later owner
+  decision.
+- Preserve the mission's non-lethal and bypass options; alert risk does not convert
+  the mission into a mandatory elimination objective.
+
+OPEN PRODUCTION REQUIREMENTS
+
+The following remain open:
+
+- detection thresholds that trigger an alarm attempt;
+- whether an alerted character prefers a nearby button or a radio;
+- radio call duration, animation, voice line, interruption window, and completion
+  feedback;
+- alarm-button interaction duration, animation, interruption window, and audiovisual
+  feedback;
+- whether buttons or radios can be disabled, jammed, sabotaged, destroyed, or
+  temporarily blocked by the player;
+- whether a partial radio call conveys incomplete information;
+- exact guard response positions, search patterns, fallback locations, and alert
+  persistence;
+- whether the manager attempts to alert immediately, complies under coercion, or can
+  be prevented from reaching his radio during the office breach;
+- checkpoint and softlock behavior after a compound-wide alert;
+- accessibility cues identifying radio use and alarm-button activation;
+- exact gatehouse and administration-building interior placement.
+
+MAP RESULT
+
+The normalized map now contains seventeen point placemarks:
+
+- thirteen previously established mission, guard, aircraft, and transition points;
+- four fixed alarm-button points.
+
+No route lines, polygons, patrol splines, sight cones, or trigger volumes are added
+by this clarification.
+
+RESULT
+
+COME FLY WITH ME now has a source-locked compound alert architecture consisting of
+four fixed alarm buttons and eight radio-equipped characters. The alert system is
+source-ready but not production-ready pending interaction timing, AI decision logic,
+player countermeasures, response behavior, audiovisual feedback, accessibility, and
+interior floor-plan work.
+
+END
