@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>COME FLY WITH ME — Christiansted mission map</name>
+    <description>Normalized repository transcription of owner-supplied KMZ revision Come Fly With Me Spook Game 1 campaign pre-finale (5).kmz; source SHA-256 a717c4f2a93ac540fbc7e99025ab612ad33531ff426847e63ffb0130de2fb873. Thirteen point placemarks; no route lines or polygons. Wording has been normalized to correct directional, guard-accounting, contractor-framing, aircraft-designation, landing-coordinate, and typographical issues approved for repository landing.</description>
+    <Style id="icon-1750-0288D1-normal">
+      <IconStyle><scale>1</scale><Icon><href>images/icon-2.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="icon-1750-0288D1-highlight">
+      <IconStyle><scale>1</scale><Icon><href>images/icon-2.png</href></Icon></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="icon-1750-0288D1">
+      <Pair><key>normal</key><styleUrl>#icon-1750-0288D1-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#icon-1750-0288D1-highlight</styleUrl></Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle><scale>1</scale><Icon><href>images/icon-1.png</href></Icon><hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels" /></IconStyle>
+      <LabelStyle><scale>0</scale></LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle><scale>1</scale><Icon><href>images/icon-1.png</href></Icon><hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels" /></IconStyle>
+      <LabelStyle><scale>1</scale></LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair><key>normal</key><styleUrl>#icon-1899-0288D1-normal</styleUrl></Pair>
+      <Pair><key>highlight</key><styleUrl>#icon-1899-0288D1-highlight</styleUrl></Pair>
+    </StyleMap>
+    <Folder>
+      <name>Owner-confirmed mission placemarks</name>
+      <Placemark>
+        <name>Christiansted Harbor Seaplane Base</name>
+        <description>Victor Two Bravo infiltrates the mission-relevant portion of the Christiansted Harbor seaplane base to commandeer a floatplane for the approximately 39-mile north-northwest flight to East McFarlane Island. The operation is controlled through a Goldberg-linked shell aerial-tour company. Its seven armed contractors knowingly support Goldberg's covert transport and human-trafficking logistics; their complicity, rather than their background or nationality, defines them as hostile security personnel.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7077065,17.7471149,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Final pre-operational staging point — SUV</name>
+        <description>Victor Two Bravo relocates the SUV to this short-duration staging point shortly before infiltration. The team transfers equipment and prepares to execute the plan after dark, having completed the longer observation and planning phase from the western beachside position. They do not remain here for hours conducting surveillance.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7067656,17.7466606,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Safehouse location</name>
+        <description>The mission begins in an interactive, free-movement safehouse occupying the second-story residential space of this building. Victor Two Bravo reviews the East McFarlane lead, prepares equipment, and departs in the SUV.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7068125,17.7439375,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Seaplane-base administration building</name>
+        <description>Victor Two Bravo infiltrates the compound and must bypass, incapacitate, restrain, or neutralize as required seven Goldberg-linked armed contractors: one at the east gate, one at the west gate, one patrolling the east berth, one patrolling the north jetty, one inside the north service entrance and first-floor corridor, and two accompanying the manager in his first-floor office. The team breaches and secures the office, overcomes the two guards, restrains the manager, and compels him to provide access to the fueled Found FBA-2C berthed at the north jetty. The manager remains restrained in the office while the team moves to the aircraft. Eliminating every guard is not a mandatory objective.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7077841,17.7468758,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Found FBA-2C floatplane — north jetty</name>
+        <description>The fueled Found FBA-2C that Victor Two Bravo commandeers for the flight to East McFarlane Island. Access is controlled through the manager; the aircraft does not require a prolonged refueling sequence before departure.</description>
+        <styleUrl>#icon-1750-0288D1</styleUrl>
+        <Point><coordinates>-64.7079045,17.7475921,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>East McFarlane covert landing and SINS handoff</name>
+        <description>Smoke completes the final approach with the Found FBA-2C's engine shut down and lands at the same unlit, disused boat-launch entry point used at the opening of SINS OF OUR FATHERS. This coordinate is normalized to the controlling SINS mission map.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.8228542,18.2980253,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>North-jetty guard position</name>
+        <description>One armed contractor patrols the north jetty and adjacent aircraft-berth area. His movement periodically carries him close to the Found FBA-2C, creating a timing problem during the final movement from the administration building to the aircraft.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7079326,17.7473933,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>East-gate guard position</name>
+        <description>One armed contractor remains near the tailgate of a white pickup truck just inside the east gate. Unless suspicious or alerted by the player's actions, he seldom moves far from the vehicle and is periodically distracted by texting and smoking.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7082391,17.7466371,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>West-gate guard position</name>
+        <description>One armed contractor watches the western vehicle and pedestrian approach. He remains within the immediate gate area, occasionally walking between the gatepost and the northwestern corner of the administration building, but does not normally leave this short patrol unless alerted.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7074381,17.7469962,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>East-berth guard position</name>
+        <description>One armed contractor patrols the east jetty and frequently pauses to look north over the water. At intervals he walks south to the open bay door on the north side of the administration building, enters the small break room immediately east of the bay, gets coffee, and returns outside. This routine creates a temporary gap in east-side observation.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7081056,17.7471067,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Manager's office</name>
+        <description>The first-floor office contains the shell-company manager and two armed contractors. Victor Two Bravo breaches and secures the room, restrains the manager, and compels him to provide aircraft access. The manager is left restrained in the office when the team departs for the north jetty.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7077755,17.7467519,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>North-service-entrance guard position</name>
+        <description>One armed contractor is usually seated at a table immediately inside the northern service entrance, facing partly away from the doorway. He may walk the first-floor corridor and occasionally steps outside the service entrance for several minutes to smoke.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7076779,17.7469794,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Long-duration surveillance position — SUV</name>
+        <description>Victor Two Bravo drives from the safehouse to this beachside location west of the seaplane base and conceals the SUV near the vegetation-covered area. The team covertly observes activity in and around the compound before finalizing the infiltration plan. The passage of several hours is diegetically compressed rather than played in real time.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point><coordinates>-64.7099133,17.7471562,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
