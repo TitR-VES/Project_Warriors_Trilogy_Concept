@@ -1,0 +1,199 @@
+PROJECT WARRIORS — SOURCE LANDING AND TWO-VARIANT CLOSEOUT AUDIT
+COME FLY WITH ME — MANAGER'S-OFFICE ENCOUNTER
+Generated: 2026-08-03
+Version: rev1
+Status: TWO-VARIANT SOURCE CLOSEOUT / PRODUCTION WORK REMAINS OPEN
+
+PURPOSE
+
+Audit the newly developed manager's-office alerted breach / Variant B against the
+controlling COME FLY WITH ME geography, alarm, radio, CCTV, response, and Variant A
+sources.
+
+NEWLY LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+
+RELATED VARIANT A SOURCES
+
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Aircraft_Answer_Dialogue_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+
+CONTROLLING MISSION SOURCES CHECKED
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+
+CONSISTENCY RESULT
+
+PASS WITH EXPLICIT SUPERSESSION.
+
+Variant B preserves:
+
+- the full compound-alert state;
+- exactly seven armed contractors in the mission layout;
+- both office guards as armed contractors who deploy into the wider pursuit rather
+  than disappearing from the encounter;
+- the manager as a live mandatory aircraft-access objective;
+- the locked office and armed defensive posture;
+- the Found FBA-2C as the fueled target aircraft;
+- the north-jetty and fuel-tank landmarks;
+- the existing police and Coast Guard response architecture;
+- Spook, Smoke, and Tripper as Victor Two Bravo;
+- first-person presentation;
+- manager disarm, restraint, and weapon security;
+- no mandatory total guard elimination;
+- no insertion of La Avispa into Game 1.
+
+LOCKDOWN-TRIGGER SUPERSESSION
+
+The earlier security source guaranteed manager lockdown if all seven guards were
+eliminated before the manager was secured.
+
+Variant B expands that condition:
+
+- all-seven-eliminated remains a guaranteed lockdown trigger;
+- full compound alert plus both office guards deploying also triggers lockdown;
+- the manager then closes and locks the door, arms himself, takes cover, and begins
+  the approximately ninety-second police-call sequence.
+
+This is an expansion rather than a removal of the earlier branch.
+
+ALERTED BREACH LAYER LANDED
+
+The Variant B source locks:
+
+- the destructible wooden office door;
+- optional player fire at the door and possible non-omniscient manager return fire;
+- reduced danger if the team approaches without revealing its exact hallway position;
+- Tripper retrieving a Remington 870 / Serbu Super-Shorty breaching shotgun from a
+  back scabbard;
+- breaching rounds, muzzle adaptor, and downward lock angle;
+- Smoke preparing a stun grenade;
+- the player-initiated BREACH prompt;
+- two quick breaching rounds defeating the lock;
+- the door opening only several inches;
+- Smoke throwing the stun grenade through the gap;
+- the brief protective first-person look away;
+- the approximately two-second detonation delay;
+- alerted entry order: Spook, Tripper, Smoke.
+
+MANAGER CONTROL AND DIALOGUE LANDED
+
+The source locks:
+
+- the manager's disoriented post-stun state;
+- Spook disarming him before tackling him to the floor;
+- Spook retaining the manager's handgun and pressing its muzzle into his back;
+- a more panicked, breathless, physically uncomfortable performance than Variant A;
+- the exact alerted opening speech offering money from the safe and warning that the
+  police are coming;
+- reuse of Spook's established aircraft-demand line;
+- the half-second bewilderment and exact fueled-aircraft response shared with Variant A;
+- the more urgent command: "The keys. Hand them over!";
+- the manager identifying his left jacket pocket;
+- the SEARCH prompt and first-person key retrieval.
+
+POLICE-CALL STATE CHECK
+
+The approximately ninety-second call is a real encounter-state event.
+
+- If completed, it activates the external police and maritime pressure controlled by
+  the security source.
+- If interrupted, the manager's claim that police are coming may function as a bluff.
+- Dialogue does not itself create the response state.
+- Checkpoint persistence and call interruption remain production requirements.
+
+KEY AND EXIT STATE LANDED
+
+Variant B deliberately differs from Variant A:
+
+- the keys begin in the manager's left jacket pocket, not the top-right desk drawer;
+- Spook retrieves them through SEARCH;
+- Spook immediately tosses them a few feet to Smoke;
+- Smoke catches and secures them;
+- key ownership is manager pocket -> Spook -> Smoke;
+- no later doorway key handover occurs;
+- Spook motions to Tripper after the toss;
+- Tripper zip-cuffs the manager to the adjacent desk rather than the office chair;
+- Spook retains the manager's handgun;
+- no accessible weapon remains with the restrained manager;
+- office exit order is Spook, Smoke, Tripper.
+
+VARIANT DIFFERENTIATION RESULT
+
+PASS.
+
+Variant A and Variant B now have distinct:
+
+- alert preconditions;
+- office-guard states;
+- door states;
+- entry methods;
+- team entry orders;
+- manager positions and physical control;
+- dialogue openings;
+- key locations;
+- key-retrieval interactions;
+- key handover timings;
+- restraint anchors;
+- external-response pressure.
+
+Variant B is therefore not a duplicate of Variant A with a reinforced door.
+
+SUPERSEDED STATUS NOTES
+
+The following earlier statements are superseded:
+
+- the parent manager-office source's status that Variant B is pending;
+- the parent source's live-dependency section treating the alerted branch as
+  undeveloped;
+- the earlier manager-office landing audit's archive result based solely on Variant B
+  remaining unresolved.
+
+The earlier files remain valid for their Variant A content. Their pending-Variant-B
+status is historical and is replaced by the new Variant B source and this audit.
+
+SOURCE-READINESS RESULT
+
+PASS.
+
+The manager's-office encounter now has two source-ready branches:
+
+- Variant A — unaware, unlocked office, two guards present, surprise apprehension,
+  desk-drawer key retrieval, and doorway handover to Smoke;
+- Variant B — full alert, guards deployed, locked armed manager, shotgun / stun breach,
+  floor control, jacket-pocket key search, immediate toss to Smoke, and desk restraint.
+
+PRODUCTION-READINESS RESULT
+
+NOT YET PRODUCTION-COMPLETE.
+
+Remaining work includes:
+
+- final office and hallway floor plan;
+- destructible-door tuning;
+- manager return-fire AI;
+- police-call animation and timing;
+- breaching-shotgun and stun-grenade animation;
+- companion collision and stack logic;
+- stun accessibility presentation;
+- manager tackle, search, toss, catch, and restraint animation;
+- checkpoint and interruption recovery;
+- police and Coast Guard response balancing;
+- hybrid states when the full Variant B preconditions are only partly met.
+
+RETIREMENT / ARCHIVE RESULT
+
+The narrow manager-office two-variant design dependency is now closed at source level.
+The office encounter itself can be archived as a completed narrative / gameplay design
+pass once the open PR is accepted.
+
+The wider COME FLY WITH ME mission remains active because production implementation,
+level geometry, AI, response balancing, aircraft operation, and other mission systems
+remain open.
+
+END
