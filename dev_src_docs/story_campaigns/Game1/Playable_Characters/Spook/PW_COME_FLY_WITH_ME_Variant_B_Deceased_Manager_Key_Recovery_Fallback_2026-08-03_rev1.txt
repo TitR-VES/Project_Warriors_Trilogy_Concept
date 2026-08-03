@@ -1,0 +1,309 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — VARIANT B DECEASED-MANAGER KEY-RECOVERY FALLBACK
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED CONTINGENCY LOCK / SOURCE-READY
+
+PURPOSE
+
+Define the valid but non-recommended fallback path when the manager is killed inside
+his locked office during the alerted Variant B approach or breach.
+
+This contingency preserves player freedom and mission continuity when the manager is
+fatally struck before Victor Two Bravo can complete the intended live apprehension and
+interrogation. It does not make killing the manager the preferred, rewarded, or most
+informative solution.
+
+RELATED CONTROLLING SOURCES
+
+- PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Ocean_Blue_Sky_Tours_FBA2C_Identity_and_Key_Bundle_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Handgun_Final_Disposition_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+
+AUTHORITY RULE
+
+- The alerted Variant B source remains controlling for lockdown, the ninety-second
+  police-call sequence, destructible-door behavior, the authored Tripper / Smoke
+  breach, manager armament, and the normal live-manager interrogation path.
+- This source applies only when the manager dies before the intended live
+  apprehension can be completed.
+- The Ocean Blue Sky Tours / N272BT source controls the physical key bundle.
+- The Variant A office-exit handover source controls the physical presentation and
+  dialogue of the fallback handover from Spook to Smoke.
+- The completed-call state, not the manager's survival, controls whether police and
+  Coast Guard response pressure remains active.
+
+================================================================================
+VALID FALLBACK TRIGGERS
+================================================================================
+
+The deceased-manager fallback may activate if the manager is killed inside the locked
+office through player or team action during the alerted approach, including:
+
+- rounds penetrating the destructible wooden office door before the coordinated
+  breach;
+- return fire and crossfire through a heavily damaged doorway;
+- the player destroying enough of the door or surrounding opening to throw an
+  explosive device into the office;
+- blast, fragmentation, or other lethal damage during a freeform premature entry;
+- another supported combat-system interaction that kills the manager before Spook can
+  disarm and secure him alive.
+
+The exact lethal mechanism does not alter the recovery objective. Once the manager is
+dead, the mission must transition cleanly into body search and key recovery rather
+than fail solely because the authored interrogation can no longer occur.
+
+This route is valid player expression but remains tactically and narratively inferior
+to capturing the manager alive.
+
+================================================================================
+CONSEQUENCE AND NON-REWARD RULE
+================================================================================
+
+Manager death must not be presented as the optimal shortcut.
+
+Consequences include:
+
+- the live interrogation and its performance are lost;
+- the manager cannot provide the spoken aircraft-location confirmation;
+- the room may be more damaged and dangerous;
+- the police-call consequence remains governed by whether the call completed before
+  death;
+- any already-dispatched police cars and Coast Guard patrol boat remain active;
+- no bonus, special reward, cleaner objective state, or faster automatic key grant is
+  created by killing him;
+- the player must still enter, clear, approach, and physically search the body.
+
+The fallback exists to prevent an artificial mission failure or continuity break when
+the game's destructible environment and player freedom produce a lethal outcome.
+
+================================================================================
+ROOM ENTRY AND BODY CONFIRMATION
+================================================================================
+
+After the manager is killed, Victor Two Bravo must still gain entry to the office.
+
+Depending on door state, the team may:
+
+- complete the authored Tripper / Smoke breach if the door remains mechanically valid;
+- transition through a player-created opening if the door has been sufficiently
+  destroyed;
+- use the existing freeform-entry recovery path if the authored BREACH prompt has
+  become invalid.
+
+The team does not assume the keys have been destroyed or automatically transferred.
+The office must be made safe enough for interaction.
+
+Before SEARCH becomes available:
+
+- immediate armed threats in the office or doorway must be resolved;
+- the manager's death state must be confirmed;
+- the body must remain reachable;
+- the key bundle must remain associated with the manager's left jacket pocket even if
+  body physics have shifted his final pose.
+
+The body is not removed, replaced, or silently converted into a generic loot marker.
+
+================================================================================
+SEARCH PROMPT AND KEY RECOVERY
+================================================================================
+
+Once Spook is close enough to the deceased manager and the immediate room state is
+safe, the player receives:
+
+    SEARCH
+
+The interaction targets the manager's body and specifically resolves the left jacket
+pocket that contains the N272BT key bundle.
+
+Activating SEARCH triggers a short first-person animation in which Spook:
+
+- crouches or leans toward the body as required by its final position;
+- checks the manager's left jacket pocket;
+- retrieves the complete Ocean Blue Sky Tours key bundle;
+- visibly confirms possession before standing or returning to ready posture.
+
+The recovered object remains the same tracked prop used in the live paths:
+
+- up to four differently shaped keys;
+- scratched metal split ring;
+- compact float-compartment drain / inspection-fitting mini wrench;
+- worn white plastic tag marked `FBA-2C / N272BT`.
+
+No individual component may detach, disappear, or be replaced by a generic key icon.
+
+KEY-RECOVERY FAIL-SAFES
+
+- The SEARCH volume follows the body if physics move it within the valid office area.
+- If the body clips against the desk, wall, or damaged door, an enlarged but visually
+  credible interaction volume preserves access.
+- The keys cannot be destroyed by ordinary authored door splintering, grenade effects,
+  or body movement.
+- A checkpoint cannot restore a dead manager without a searchable key state.
+- SEARCH cannot complete without transferring the full bundle to Spook.
+- The mission cannot advance to aircraft startup while key ownership is undefined.
+
+================================================================================
+VARIANT A-STYLE HANDOVER TO SMOKE
+================================================================================
+
+After SEARCH completes, this fallback uses the established Variant A physical
+handover rather than Variant B's in-room toss.
+
+POSITIONING
+
+- Smoke moves to or remains at the safe covered position just inside the damaged
+  office doorway.
+- Smoke covers the first-floor corridor and immediate exit lane.
+- Tripper confirms the room, body, and any surviving or incapacitated threats are
+  secure enough for departure.
+- Because the manager is dead, Tripper performs no manager-restraint animation.
+- Spook approaches Smoke under normal first-person locomotion with the recovered key
+  bundle in his possession.
+
+HANDOVER BEAT
+
+When Spook reaches the valid short-range handover position:
+
+- the camera gives the same restrained first-person glance used by Variant A;
+- Spook extends the complete key bundle toward Smoke;
+- Spook says:
+
+    SPOOK
+    You might wanna take these, Smoke.
+
+- Smoke accepts the bundle physically and secures it on his person;
+- the internal keyholder state transfers from Spook to Smoke;
+- control returns immediately and the team continues toward N272BT.
+
+This fallback does not use:
+
+    Smoke! Catch!
+
+and does not use the Variant B toss animation. The calmer direct handover is more
+credible after the team has entered, confirmed the manager dead, and completed the
+body search.
+
+================================================================================
+WEAPON SECURITY
+================================================================================
+
+The manager's death does not permit an unsecured handgun to remain as a recoverable
+threat or loose prop.
+
+If the manager's handgun remains on his body, behind the desk, or elsewhere in the
+office after the lethal breach:
+
+- Victor Two Bravo secures it under the existing manager-handgun disposition rules;
+- Spook may maintain positive possession and stash it on his person once the room is
+  safe;
+- the handgun remains a non-selectable narrative prop;
+- NOTHING remains Spook's functional sidearm;
+- no duplicate, pickup banner, second sidearm slot, or new ammunition state is
+  created.
+
+This applies the existing shared weapon-security lock to the lethal fallback rather
+than introducing a new firearm treatment.
+
+================================================================================
+POLICE AND COAST GUARD STATE
+================================================================================
+
+The manager's death does not retroactively change whether his call succeeded.
+
+- If the police call completed before his death, the two-car, eight-officer police
+  response and the linked Coast Guard patrol-boat pressure remain active.
+- Killing the manager after completion cannot cancel or recall responding forces.
+- If he dies before the call completes, the incomplete call does not create a false
+  external-response state.
+- Compound alert, surviving guards, and existing combat consequences remain active
+  regardless of call completion.
+
+Checkpoint restoration must preserve the correct call-completion state independently
+of the manager's death and key-recovery state.
+
+================================================================================
+MISSION CONTINUATION
+================================================================================
+
+After Smoke receives and secures the N272BT keys:
+
+- Smoke remains the operational keyholder and designated pilot;
+- Spook and Smoke proceed through the office doorway;
+- Tripper follows after confirming the room no longer presents an immediate rear
+  threat;
+- the team continues toward the north jetty and Found FBA-2C N272BT;
+- all previously locked aircraft-access, startup, police-pressure, Coast Guard-
+  pressure, and departure rules remain in force.
+
+No additional objective, punishment cinematic, or alternate mission branch is
+required solely because the manager died. The consequence is expressed through lost
+dialogue, potentially increased response pressure, room damage, and the more dangerous
+route the player chose.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve manager survival as the intended and recommended Variant B outcome.
+- Permit manager death through supported destructive-door, penetrating-fire,
+  explosive, blast, fragmentation, or freeform-entry systems.
+- Do not fail the mission solely because the manager is dead if his body and keys
+  remain recoverable.
+- Preserve physical office entry and room clearance before key recovery.
+- Preserve SEARCH as a player-initiated interaction on the deceased manager's body.
+- Preserve the left jacket pocket as the key location.
+- Preserve the complete N272BT key bundle as one tracked physical prop.
+- Preserve Spook as the initial post-search keyholder.
+- Preserve the Variant A physical handover and line:
+  `You might wanna take these, Smoke.`
+- Preserve Smoke as the final keyholder and pilot.
+- Do not use the Variant B `Smoke! Catch!` line or toss animation in this fallback.
+- Preserve Tripper providing room and rear security without restraining a deceased
+  manager.
+- Preserve the manager-handgun security rules and NOTHING as Spook's functional
+  sidearm.
+- Preserve completed police and Coast Guard response states after manager death.
+- Do not automatically award the keys when the manager dies.
+- Do not make lethal resolution faster, cleaner, or more rewarding than live capture.
+- Do not destroy the key bundle through routine authored combat effects.
+- Do not create a mission softlock from body position, damaged geometry, missing
+  prompts, or undefined key ownership.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- author SEARCH animation alignment for multiple deceased-body poses;
+- define body interaction-volume following and damaged-office collision recovery;
+- validate key visibility and hand placement against manager costume variants;
+- define team barks or restrained reaction, if any, without moralizing or rewarding
+  the kill;
+- validate the Variant A handover position with intact, cracked, and destroyed door
+  states;
+- ensure Smoke can maintain corridor coverage while receiving the keys;
+- validate handgun recovery and stow when it lands in different office locations;
+- preserve police-call state across death, breach, SEARCH, handover, and checkpoints;
+- validate that explosive damage cannot remove the objective prop;
+- validate freeform and authored-breach routes into the same body-search state;
+- ensure mission objective text distinguishes `SEARCH` from an automatic loot action;
+- validate accessibility targeting, motion reduction, subtitles, and nonvisual key-
+  recovery feedback;
+- test checkpoint states before death, after death, before SEARCH, after SEARCH, and
+  after handover.
+
+RESULT
+
+Variant B now supports a valid lethal-manager contingency without making it the
+preferred solution. If the manager is killed inside his locked office during
+penetrating fire, destructive-door play, explosive entry, or another supported
+combat outcome, Victor Two Bravo still enters and clears the room. The player must
+SEARCH the deceased manager's left jacket pocket to recover the complete N272BT key
+bundle. Spook then approaches Smoke at the doorway and uses the Variant A physical
+handover and line, `You might wanna take these, Smoke.` Smoke becomes keyholder and
+pilot, and the mission continues toward the north jetty under whatever alert, police,
+and Coast Guard consequences were actually triggered.
+
+END
