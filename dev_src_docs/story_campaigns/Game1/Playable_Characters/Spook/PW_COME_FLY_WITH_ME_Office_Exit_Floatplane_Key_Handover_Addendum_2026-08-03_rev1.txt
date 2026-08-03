@@ -140,6 +140,11 @@ The animation shows Spook physically handing the Found FBA-2C keys to Smoke.
 - Spook brings the floatplane keyring into the lower center or side of the first-
   person frame.
 - He extends the keys toward Smoke.
+- As he extends the bundle, Spook says:
+
+      SPOOK
+      You might wanna take these, Smoke.
+
 - Smoke accepts them with a free hand while maintaining a credible covered posture.
 - Smoke may briefly shift his weapon to low ready, retain it one-handed, or use a
   sling-supported position according to the final weapon and animation setup.
@@ -152,13 +157,15 @@ inventory icon disappearing between characters.
 
 DIALOGUE
 
-No new spoken line is required for the handoff. The action is self-explanatory:
-Smoke is the pilot, Spook has recovered the keys, and the team is moving to the
-aircraft.
+The following line is locked to the Variant A handover beat:
 
-A short acknowledgement bark may be considered during performance development, but
-this source does not lock one. Any added line must remain brief, professional, and
-subordinate to corridor awareness.
+    SPOOK
+    You might wanna take these, Smoke.
+
+Spook delivers it casually and quietly as he extends the key bundle. The line should
+read as practical teammate shorthand rather than a joke, dramatic flourish, or formal
+instruction. It remains subordinate to corridor awareness and should not delay the
+physical transfer.
 
 ================================================================================
 GAMEPLAY AND STATE LOGIC
@@ -232,6 +239,8 @@ PLAYER-PERSPECTIVE AND TONE RULES
 - Do not make Smoke appear careless with his weapon merely to free a hand.
 - Keep the transfer operational and unceremonious; it is a practical division of team
   roles, not an emotional exchange.
+- Deliver "You might wanna take these, Smoke" quietly and casually without turning
+  the beat into comic banter or slowing corridor security.
 - Frank Sinatra's "Come Fly With Me," or the cleared fallback cue, may continue
   diegetically from the office during the handoff and become more occluded as the team
   moves into the corridor.
@@ -247,6 +256,8 @@ CONTINUITY CONSTRAINTS
 - Preserve Tripper remaining with and securing the manager during the exit setup.
 - Preserve a proximity-triggered short camera look toward Smoke.
 - Preserve a first-person physical key-handover animation.
+- Preserve Spook saying "You might wanna take these, Smoke" while extending the key
+  bundle.
 - Preserve the keys visibly passing from Spook to Smoke.
 - Preserve Smoke maintaining a credible security posture during the handoff.
 - Preserve normal player control returning immediately after the short transfer.
@@ -271,7 +282,8 @@ OPEN PRODUCTION REQUIREMENTS
 - author Spook's key presentation and Smoke's receiving animation;
 - define Smoke's weapon-support method during the one-handed receipt;
 - define keyring model, sound, storage location, and inventory-state transition;
-- determine whether a short acknowledgement bark improves or weakens the beat;
+- tune Spook's locked handover-line delivery against movement, music, and corridor
+  awareness;
 - define interruption, abort, retry, and checkpoint behavior;
 - validate companion navigation for all manager and guard outcome combinations;
 - validate the continuing diegetic music occlusion from office to corridor;
@@ -284,7 +296,8 @@ RESULT
 The Variant A office exit now contains a clear role-based transition from room control
 to aircraft movement. Smoke advances to cover just inside the doorway, Tripper remains
 with the restrained manager, and the approaching player triggers a short first-person
-look and physical transfer of the floatplane keys from Spook to Smoke. The beat
+look and physical transfer of the floatplane keys from Spook to Smoke. As Spook
+extends the bundle, he quietly says, "You might wanna take these, Smoke." The beat
 preserves player embodiment, corridor security, pilot continuity, and reliable key
 ownership without replacing the player's earlier drawer-opening and key-acquisition
 interactions.
