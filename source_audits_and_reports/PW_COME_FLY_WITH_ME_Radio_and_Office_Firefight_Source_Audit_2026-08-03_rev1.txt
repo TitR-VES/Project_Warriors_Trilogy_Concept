@@ -1,0 +1,190 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — RADIO INTERACTION AND CLOSED-DOOR OFFICE FIREFIGHT
+Generated: 2026-08-03
+Version: rev1
+Status: GOVERNANCE / LANDING AUDIT
+
+PURPOSE
+
+Verify that the owner-developed radio-interaction and unaware manager-office firefight
+refinements have durable source homes, a compact synthesis landing, explicit authority
+rules, and visible production dependencies.
+
+================================================================================
+FILES ADDED
+================================================================================
+
+ACTIVE SOURCE — GAME-WIDE SYSTEM
+
+- dev_src_docs/gameplay_mechanics/
+  PW_Interactive_and_Destructible_Diegetic_Audio_Device_System_2026-08-03_rev1.txt
+
+Landing result:
+
+- ordinary exposed radios and similar audio devices are interactable and destructible;
+- TURN OFF / optional TURN ON behavior follows existing close-proximity prompt rules;
+- direct fire and nearby blast can disable local audio;
+- reinforced, recessed, concealed, and protected infrastructure is explicitly exempt
+  from casual destruction while remaining power / signal dependent;
+- multi-speaker, emitter movement, checkpoint persistence, accessibility, and asset-tier
+  requirements are represented.
+
+ACTIVE SOURCE — MISSION APPLICATION
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Radio_Interaction_and_Closed_Door_Office_Firefight_Addendum_2026-08-03_rev1.txt
+
+Landing result:
+
+- the Sinatra/fallback cue source is player-operable and destructible;
+- drawer-sequence prompt availability is represented without violating the existing UI
+  reach / line-of-sight rule;
+- the safehouse versus manager-office cue-placement ambiguity is surfaced as an owner /
+  production decision rather than silently resolved;
+- the unaware office door is explicitly unlocked;
+- BREACH remains a coordinated dynamic-entry prompt rather than lock defeat;
+- firing through the closed door creates a freeform two-way penetration firefight;
+- manager and two guards take cover and return fire;
+- AI visibility, sound localization, suppression, door damage, grenade use, companion
+  cancellation, manager survival, death fallback, key recovery, and checkpoint risks
+  are represented;
+- alerted Variant B remains separate and can still use a genuinely locked or barricaded
+  door.
+
+SYNTHESIS LAYER
+
+- Project_Warriors_Knowledge_Compendia/
+  PW_Diegetic_Audio_Devices_and_CFIM_Office_Penetration_Addendum_2026-08-03_rev1.txt
+
+Landing result:
+
+- the current locks are available in compact working-reference form;
+- the addendum clearly defers to dev_src_docs/;
+- source-first authoring hierarchy is preserved.
+
+================================================================================
+EXISTING SOURCES PRESERVED
+================================================================================
+
+The landing does not rewrite or delete:
+
+- PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Visual_Reference_and_Interior_Direction_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- PW_UI_Prompt_System_Design_rev1.txt
+- the security-layer, manager-apprehension, manager-death, key-recovery, aircraft,
+  geography, police-response, or Coast Guard sources.
+
+The new mission addendum provides a narrow authority rule for the player-initiated
+closed-door branch and the exposed cue source. It does not supersede unrelated content.
+
+================================================================================
+CONTINUITY CHECK
+================================================================================
+
+NO CONFLICT — VARIANT A DOOR STATE
+
+The existing manager-office source already defines the unaware Variant A door as
+unlocked and Smoke as the door operator. The new addendum reinforces this state and
+clarifies that BREACH is dynamic entry, not lock defeat.
+
+NO CONFLICT — PLAYER-INITIATED CONTACT
+
+The existing source already cancels the unaware choreography when the player fires
+through the closed door and transitions to a freeform alert response. The new addendum
+supplies the previously missing tactical behavior: two-way penetration, cover use,
+manager participation, door failure states, grenade options, companion behavior, and
+manager-death continuity.
+
+NO CONFLICT — ALERTED VARIANT B
+
+The addendum applies only while the office occupants are unaware and the door remains
+unlocked. The manager may still lock or barricade the office after full alarm under
+Variant B.
+
+PROMPT COMPATIBILITY
+
+TURN OFF follows the existing contextual prompt conditions:
+
+- direct line of sight;
+- close physical proximity;
+- no physical obstruction;
+- reachable control point;
+- valid device state.
+
+BREACH remains the controlling coordinated-entry prompt. It disappears when the player
+initiates fire through the door.
+
+================================================================================
+OPEN DECISIONS AND LIVE DEPENDENCIES
+================================================================================
+
+1. CUE PLACEMENT
+
+The current source set references a safehouse radio and a manager-office Sinatra cue.
+The final mission pass must decide whether:
+
+- the song occurs once;
+- it occurs twice as an intentional motif;
+- or one location uses a different station track.
+
+This is the only material continuity ambiguity identified in the landing. It is surfaced
+and not silently reconciled.
+
+2. MUSIC CLEARANCE
+
+Frank Sinatra's "Come Fly With Me" remains a preferred creative cue subject to music
+clearance. A structurally compatible cleared or original fallback remains required.
+
+3. OFFICE BLOCKOUT
+
+Hallway dimensions, door construction, office furniture, cover nodes, sightlines, and
+manager / guard placement remain production dependencies. The tactical relationship is
+locked; exact geometry is not.
+
+4. VARIANT B
+
+The existing manager-office source still marks the alerted, locked-office Variant B as
+a live development dependency. This landing does not close it.
+
+5. UE5 VERTICAL-SLICE BRIEF
+
+Open draft PR #68 adds a COME FLY WITH ME UE5 vertical-slice production brief. That
+brief was authored before this landing. It should absorb or cross-reference:
+
+- exposed diegetic audio-device interaction and damage;
+- TURN OFF prompt implementation;
+- audio-emitter shutdown / persistence;
+- Variant A-F two-way door penetration;
+- door structural states and nav / collision updates;
+- manager / guard return-fire logic;
+- grenade and key-recovery fail-safes.
+
+This is a live cross-PR dependency, not a blocker to landing the source pages first.
+
+================================================================================
+ARCHIVE / RETIREMENT ASSESSMENT
+================================================================================
+
+This individual update is LANDED IN SOURCE but the larger COME FLY WITH ME office
+workstream is NOT READY FOR BLIND RETIREMENT because:
+
+- Variant B remains open;
+- final cue placement remains unresolved;
+- exact level geometry and door-damage implementation remain open;
+- the vertical-slice brief in PR #68 has not yet absorbed the new requirements;
+- production validation has not occurred.
+
+The owner remarks represented by this audit are safe to retire only after this branch is
+merged and the cross-PR dependency is either updated or explicitly logged for later.
+
+================================================================================
+RESULT
+================================================================================
+
+The radio-interaction and unaware closed-door office-firefight updates have complete
+source-first landing coverage: one reusable gameplay-system source, one mission-specific
+authority addendum, one compact synthesis page, and this governance audit. No existing
+source was destructively rewritten. The remaining cue-placement, Variant B, blockout,
+implementation, and PR #68 dependencies are visible.
+
+END
