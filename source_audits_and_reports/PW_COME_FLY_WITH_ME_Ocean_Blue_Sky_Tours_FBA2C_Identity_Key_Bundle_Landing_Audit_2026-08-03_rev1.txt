@@ -1,0 +1,208 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — OCEAN BLUE SKY TOURS / N272BT / KEY-BUNDLE PROP
+Generated: 2026-08-03
+Version: rev1
+Status: SOURCE-LANDING AUDIT / PASS
+
+SCOPE
+
+Audit the newly locked company identity, Found FBA-2C registration, and shared
+floatplane key-bundle prop against the existing Christiansted geography, security,
+manager-office Variant A, manager-office Variant B, key-retrieval, key-handover, and
+aircraft-departure sources.
+
+LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Ocean_Blue_Sky_Tours_FBA2C_Identity_and_Key_Bundle_Addendum_2026-08-03_rev1.txt
+
+CONTROLLING SOURCES CHECKED
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Two_Variant_Closeout_Audit_2026-08-03_rev1.txt
+
+COMPANY-IDENTITY RESULT
+
+PASS — the fictional operator is now canonically named:
+
+    OCEAN BLUE SKY TOURS, LTD.
+
+The shorter customer-facing form Ocean Blue Sky Tours remains valid for signage,
+branding, uniforms, tour material, and spoken shorthand.
+
+The company remains:
+
+- a Goldberg-linked shell aerial-tour operator;
+- outwardly legitimate and commercially plausible;
+- cover for covert transport, trafficking, and clandestine logistics;
+- distinct from ordinary uninvolved harbor personnel and civilian workers;
+- compatible with the existing seven knowingly complicit armed contractors and one
+  manager.
+
+The new source supersedes earlier generic references to a Goldberg-linked shell
+aerial-tour company without altering the mission's geography or hostile count.
+
+AIRCRAFT-IDENTITY RESULT
+
+PASS — the mission aircraft remains the fueled Found FBA-2C at the north jetty and
+is now assigned the fictional U.S. registration:
+
+    N272BT
+
+The identifier is structurally consistent with a U.S. N-number using three numbers
+and two letters. It avoids the disallowed letters I and O. The BT suffix provides a
+subtle internal mnemonic for Blue Tours.
+
+The source explicitly treats N272BT as fictional project canon rather than a claim of
+real FAA reservation, availability, registration, ownership, or airworthiness.
+
+Terminology is normalized as:
+
+- registration number;
+- N-number;
+- aircraft registration;
+- tail number in ordinary dialogue.
+
+L-number is not used for the aircraft's legal identifier. A future fictional internal
+fleet code, if developed, must remain separate from N272BT.
+
+KEY-BUNDLE PROP RESULT
+
+PASS — the generic floatplane-key objective is now one continuous tracked hero prop
+consisting of:
+
+- up to four differently shaped metal keys;
+- one primary aircraft / master key;
+- one cabin or cockpit access key;
+- one service or utility-access key;
+- one auxiliary company, equipment, mooring, fuel-access, or padlock key;
+- a miniature float-compartment drain / inspection-fitting wrench;
+- a white writable plastic identification tag;
+- a scratched metal split ring.
+
+The exact lock assignment remains subject to the final Found FBA-2C reconstruction,
+but the four-key visual differentiation is source-locked.
+
+MINI-TOOL PLAUSIBILITY RESULT
+
+PASS AT NARRATIVE / PROP LEVEL — floatplane operation requires inspection and water
+removal from float compartments, and drain plugs, inspection openings, bilge access,
+and related fittings are credible parts of routine seaplane handling. A compact
+dedicated drain / inspection-fitting wrench therefore works as a believable small
+operator tool.
+
+The tool does not imply that Smoke performs major maintenance during the mission.
+Its exact profile must be matched to the final fictional aircraft and float hardware
+during the art and aircraft-interaction pass.
+
+TAG RESULT
+
+PASS — the tag is locked as:
+
+- white writable plastic;
+- handwritten with black permanent marker / Sharpie;
+- slightly yellowed;
+- scuffed, worn, and dirty from repeated use;
+- legible during first-person interactions;
+- securely attached during the Variant B toss.
+
+Preferred text:
+
+    FBA-2C
+    N272BT
+
+Acceptable compressed form:
+
+    FBA-2C / N272BT
+
+The tag contains the aircraft type and registration only. It does not require the
+full company name.
+
+VARIANT A CONTINUITY RESULT
+
+PASS — in the unaware branch:
+
+- the complete N272BT bundle remains in the top-right desk drawer;
+- OPEN DRAWER reveals it;
+- TAKE KEYS transfers it to Spook;
+- the tag and key/tool silhouette may be read during pickup;
+- Spook carries the complete bundle around the desk and toward the doorway;
+- Spook hands the complete bundle to Smoke near the office doorway;
+- Smoke becomes the final keyholder and future pilot.
+
+No individual component disappears between drawer, pickup, or handover.
+
+VARIANT B CONTINUITY RESULT
+
+PASS — in the alerted branch:
+
+- the complete N272BT bundle remains in the manager's left jacket pocket;
+- SEARCH retrieves it in first person;
+- Spook tosses the complete bundle to Smoke;
+- Smoke catches and pockets it;
+- no later doorway handover occurs;
+- the worn tag remains attached;
+- the keys and mini tool produce only a restrained metallic clink.
+
+The bundle's size and construction remain compatible with the jacket-pocket search
+and short toss.
+
+AIRCRAFT-STARTUP RESULT
+
+PASS — key ownership now resolves consistently:
+
+VARIANT A:
+
+    desk drawer -> Spook -> Smoke -> N272BT
+
+VARIANT B:
+
+    manager's left jacket pocket -> Spook -> Smoke -> N272BT
+
+Smoke must possess the tracked bundle before normal aircraft access and startup can
+complete. The source does not introduce a manual key-sorting minigame.
+
+CONFLICT CHECK
+
+PASS — no repository search result was found for Ocean Blue Sky Tours or N272BT
+before this landing. No earlier named operator or aircraft registration is being
+superseded.
+
+The new source does not conflict with:
+
+- the Found FBA-2C designation;
+- the north-jetty location past the fuel tanks;
+- Smoke's pilot role;
+- the manager's exact Variant A or Variant B dialogue;
+- the two-step Variant A drawer interaction;
+- the Variant B pocket search and toss;
+- the seven-contractor count;
+- civilian-protection rules;
+- police and Coast Guard response states.
+
+OPEN PRODUCTION WORK
+
+The following remain implementation rather than canon gaps:
+
+- company logo, colors, signage, public materials, uniforms, vehicles, and livery;
+- corporate jurisdiction and shell-company paper history;
+- N272BT exterior marking placement, scale, aging, and cockpit/document repetition;
+- exact mechanical purpose of each key;
+- final mini-wrench geometry matched to the reconstructed float hardware;
+- hero-prop mesh, materials, sound, physics, and readability;
+- accessibility identification of the handwritten tag;
+- checkpoint and interrupted-animation ownership fail-safes;
+- final aircraft-access and startup choreography.
+
+SOURCE-LANDING RESULT
+
+Ocean Blue Sky Tours, Ltd., the fictional N272BT registration, and the complete
+FBA-2C key bundle are source-ready and compatible with both manager-office variants.
+The operator and hero-prop identity gap is closed. Production work remains for art,
+aircraft reconstruction, animation, sound, interaction, and accessibility.
+
+END
