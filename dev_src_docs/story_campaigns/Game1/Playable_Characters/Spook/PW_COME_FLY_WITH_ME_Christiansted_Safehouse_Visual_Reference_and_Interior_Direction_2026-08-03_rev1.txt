@@ -1,0 +1,505 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — CHRISTIANSTED SAFEHOUSE VISUAL REFERENCE AND INTERIOR DIRECTION
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-SUPPLIED VISUAL REFERENCE / SOURCE-READY / PRODUCTION ART AND BLOCKOUT OPEN
+
+PURPOSE
+
+Record five owner-supplied images and the accompanying safehouse direction as the
+controlled visual and environmental source for the interactive opening apartment in
+COME FLY WITH ME.
+
+The source locks the safehouse's position within the owner-selected Christiansted
+building, its second-floor-right-side occupancy, its lived-in but temporary Victor Two
+Bravo character, its antique and slightly neglected Caribbean interior language, its
+shutter-filtered daylight, its explorable balcony, and the principal props that make the
+space function as both a covert operational base and a strangely comfortable refuge.
+
+This page does not replace the controlling mission map, establish a survey-accurate
+interior floor plan, select the radio track, or define final mission scripting.
+
+RELATED CONTROLLING SOURCES
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- maps/COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
+- PW_COME_FLY_WITH_ME_Christiansted_Seaplane_Base_Visual_Reference_Package_2026-08-03_rev1.txt
+- PW_Diegetic_Music_Placement_Network_2026-07-25_rev2.txt
+
+AUTHORITY RULE
+
+- The controlling KML and mission-geography source remain authoritative for the
+  safehouse map coordinate, the departure sequence, the SUV route, and the broader
+  safehouse-to-surveillance-to-staging mission flow.
+- The owner identifies the safehouse as occupying the right-hand portion of the
+  building's second floor when viewed from the street-facing exterior shown in
+  References 04 and 05. That placement is locked.
+- The attached exterior images are authoritative as owner-selected facade and
+  street-context reference, but not as permission to copy private names, signs,
+  addresses, vehicle plates, or incidental identifying details into final art.
+- The attached interior images are visual-language references rather than evidence
+  that the real exterior building contains those exact rooms.
+- The final safehouse interior may combine cues from all three interior references
+  into one independently authored apartment that supports gameplay, companion
+  navigation, lighting, collision, and performance requirements.
+- Radio music remains diegetic environmental texture. The exact station, song,
+  licensing status, and loop behavior remain open.
+
+================================================================================
+ATTACHMENT MANIFEST
+================================================================================
+
+The exact owner-supplied files are identified below by filename, detected format,
+image dimensions, and SHA-256 hash. The hashes allow the project to reconnect this
+source page to the same files if the images are later moved into a licensed or private
+production-reference library.
+
+REFERENCE 01
+
+Filename: 1000010121.jpg
+Format: JPEG
+Dimensions: 1228 x 1536
+SHA-256: ac7081c37187e568c8284d83fd82fceb6135e55cd8babfb10eec9943f0143b33
+Working description: antique Caribbean interior with a tall yellow wall, ornate
+ceiling border, patterned tile floor, two dark wooden chairs with worn patterned
+cushions, narrow shuttered doors, and a large circular geometric glazed fanlight or
+transom above the doorway.
+
+REFERENCE 02
+
+Filename: 1000010120.jpg
+Format: JPEG
+Dimensions: 1018 x 1536
+SHA-256: cf73a9f1cc59f15a0456a5b5fe5114bba1d198d24cee41a4b7206856592692e8
+Working description: dark interior gallery or balcony-access room with tall louvered
+shutters, arched fanlights filled with green, yellow, red, and white stained glass,
+heavy daylight entering through the open shutters, and colored light projected across
+the tiled floor.
+
+REFERENCE 03
+
+Filename: 1000010119.jpg
+Format: JPEG
+Dimensions: 1536 x 1198
+SHA-256: 578e6bb40dba28c107a796f65ff96f6cdd7080c0767667a33db8c80964d5b4a0
+Working description: dim, aged living room with high ceiling, green walls, tall doors
+and shutters, mismatched period furniture, a broad exterior opening toward a balcony,
+and a comfortable but under-maintained domestic atmosphere.
+
+REFERENCE 04
+
+Filename: 1000010117.jpg
+Format: JPEG
+Dimensions: 1536 x 802
+SHA-256: 955599a3d51786bee80de3b3bdc2e2e635c0144429c267460fe3b1a3cee60110
+Working description: street-facing exterior of the owner-selected two-story pastel-
+blue Christiansted building, with an arcaded ground floor, deep covered second-floor
+veranda, vertical piers, louvered shutters, weathered plaster, and adjacent historic
+street fabric. The safehouse occupies the right side of the second floor.
+
+REFERENCE 05
+
+Filename: 1000010116.png
+Stored image format detected: JPEG-compatible image data
+Dimensions: 1536 x 802
+SHA-256: f16d14a17e5819ff0f9a1fc2d254ec5feb2898a1dff6f66cfaa6038c95b7cc9b
+Working description: mobile map / street-view screen capture of the same owner-
+selected exterior, including interface overlays and the visible street-address label.
+It confirms the intended street-facing composition but is not a cleared production
+asset and must not be reproduced with interface or personal-identifying details.
+
+References 04 and 05 depict the same exterior from nearly the same street viewpoint.
+Both are retained in the manifest because they are separate owner-supplied files with
+different provenance and hashes.
+
+================================================================================
+LOCKED SAFEHOUSE PLACEMENT
+================================================================================
+
+1. BUILDING OCCUPANCY
+
+The safehouse occupies the right-hand section of the building's second floor when the
+facade is viewed from the street.
+
+Production must preserve:
+
+- a street-facing second-floor veranda or balcony zone;
+- a readable relationship between interior rooms, shuttered openings, and the balcony;
+- a view downward toward the team's parked black SUV;
+- a believable route from the apartment to the street for the mission's departure;
+- the sense that Victor Two Bravo is using a real residential apartment hidden inside
+  ordinary Christiansted urban fabric, not a purpose-built agency bunker.
+
+The KML coordinate controls map placement. The photographs guide facade character and
+player-facing composition rather than centimeter-accurate geometry.
+
+2. EXTERIOR ARCHITECTURAL LANGUAGE
+
+The safehouse building should retain the historic Caribbean urban character visible in
+the exterior references:
+
+- pastel-blue or similarly pale, sun-faded plaster;
+- a two-story mass with a covered upper gallery or veranda;
+- thick vertical piers and repeated openings;
+- ground-floor arches or deep shaded bays;
+- louvered shutters and simple timber doors;
+- shallow roof overhangs and ventilation openings below the roof line;
+- salt, rain, heat, and age visible in the finish;
+- minor cracks, patching, edge wear, stains, and uneven repairs;
+- close adjacency to other historic buildings, parked cars, narrow sidewalks, and the
+  ordinary visual clutter of a lived-in Christiansted street.
+
+The building must not read as derelict or unsafe. It should read as old, imperfectly
+maintained, and still fully inhabited.
+
+================================================================================
+LOCKED INTERIOR IDENTITY
+================================================================================
+
+3. CORE FEEL
+
+The apartment is slightly antique, under-maintained, and strangely cozy.
+
+The intended emotional contradiction is important:
+
+- the place is old and imperfect rather than luxurious;
+- paint, shutters, furniture, wiring, and fixtures show age;
+- the team has filled it with operational material;
+- despite this, the rooms feel sheltered, human, and briefly comfortable;
+- it is a temporary covert workspace that still carries the residue of a home.
+
+The environment should avoid both extremes:
+
+- it must not become a polished boutique-hotel Caribbean interior;
+- it must not become a filthy, horror-coded, abandoned safehouse.
+
+4. ARCHITECTURAL AND MATERIAL CUES
+
+The interior should draw selectively from the three interior references:
+
+- high ceilings and tall wall planes;
+- painted plaster in aged yellow, green, muted blue, cream, or related Caribbean tones;
+- decorative ceiling borders or restrained historic trim;
+- patterned encaustic-style, mosaic, or small-format tile flooring;
+- tall timber shutters and louvered doors;
+- arched or circular fanlights and transoms;
+- occasional colored glazing capable of projecting restrained color onto the floor;
+- simple dark timber furniture, mismatched chairs, old side tables, worn upholstery,
+  and reused domestic storage;
+- visible age in hinges, latches, slats, plaster edges, grout, and furniture finish;
+- sparse wall art, old framed photographs, or local decorative remnants that predate
+  Victor Two Bravo's occupation.
+
+The geometric glazing visible in Reference 01 and the stained-glass fanlights visible
+in Reference 02 are optional compatible cues, not a requirement to reproduce both in
+every room.
+
+5. LIGHTING LOCK
+
+The primary living room is not lit by active electric room lighting.
+
+Its illumination comes principally from strong exterior sunlight filtering through
+closed or mostly closed shutters.
+
+Production should preserve:
+
+- narrow blades and broken bands of sunlight through shutter gaps;
+- bright exterior luminance contrasted against a dim interior;
+- dust, humidity, and suspended particles becoming visible in the light shafts;
+- slow changes in light as exterior conditions and shutter movement vary;
+- readable silhouettes of furniture, equipment, documents, and team members without
+  flattening the room into uniform ambient fill;
+- warmer bounced light near sunlit openings and cooler shadow deeper in the apartment;
+- optional colored light from a fanlight or stained-glass section where used;
+- no need for a horror-dark exposure level: the player must still navigate and inspect
+  props comfortably.
+
+The safehouse is introduced before the team departs for surveillance and later
+infiltration. Its daylight state should contrast strongly with the after-dark
+seaplane-base operation.
+
+================================================================================
+LOCKED ROOM AND PROP PROGRAM
+================================================================================
+
+6. PRIMARY LIVING ROOM / OPERATIONS SPACE
+
+The main living room serves as the apartment's operational center while retaining its
+domestic identity.
+
+It contains visible stacks and clusters of Victor Two Bravo equipment, including a
+credible selection of:
+
+- hard and soft equipment cases;
+- backpacks, go-bags, clothing layers, and spare footwear;
+- compact weapon or optics cases where appropriate;
+- batteries, chargers, cables, adapters, and communications accessories;
+- local maps, printed photographs, surveillance stills, and handwritten notes;
+- a few scattered intelligence files and working papers;
+- disposable food and drink items used with restraint;
+- ordinary domestic furniture repurposed for mission preparation.
+
+The dressing should feel actively used rather than arranged as a museum exhibit.
+Important props should be readable from first-person height, while background clutter
+should remain subordinate to navigation and character performance.
+
+7. OPEN LAPTOP
+
+An open laptop running a terminal program sits in the living room, preferably on a
+small coffee table near a couch in one corner.
+
+The laptop should communicate ongoing work without becoming a mandatory exposition
+screen unless later scripting requires it.
+
+Open implementation choices include:
+
+- scrolling terminal output;
+- an idle command prompt with recent commands visible;
+- a file-transfer, decryption, or communications process;
+- low screen brightness appropriate to the dim room;
+- optional companion interaction, contextual glance, or inspect prompt.
+
+The exact software text, data contents, and player interaction remain open and must be
+consistent with the mission's existing intelligence chain.
+
+8. DESK AND ANTIQUE-STYLE FAN
+
+The living room includes a desk with a slowly spinning antique-looking desk fan.
+
+The fan should provide quiet environmental motion and sound:
+
+- visibly aged metal or painted housing;
+- slow, imperfect blade rotation rather than a modern high-speed appliance;
+- a soft motor hum, bearing tick, or oscillation noise;
+- subtle movement of nearby loose paper, curtain edge, dust, or warm air;
+- no exaggerated wobble or comedy timing.
+
+The fan is a mood and liveliness prop. It should make the room feel warm, occupied,
+and temporarily habitable.
+
+9. RADIO
+
+A radio somewhere in the apartment plays music at low to moderate diegetic volume.
+
+The radio should:
+
+- sound physically located within the room;
+- be partially occluded by walls as the player moves through the apartment;
+- sit below dialogue and mission-critical audio;
+- reinforce the sense that the team has been living and working here for some time;
+- stop, lower, or be switched off naturally when mission scripting requires focus.
+
+The exact device type, station identity, song, licensing status, and whether the player
+can interact with it remain open. Do not select or canonize a track in this source.
+
+10. PHOTOGRAPHS AND INTELLIGENCE FILES
+
+The apartment contains photographs and a few scattered intelligence documents relevant
+to the current East McFarlane lead and Victor Two Bravo's broader investigation.
+
+These props should be layered by importance:
+
+- mission-critical or inspectable material placed in readable authored positions;
+- secondary photographs and notes that reward close exploration;
+- background paperwork that communicates process without requiring legible filler text;
+- no uncontrolled spoilers for later revelations;
+- no implication that highly sensitive material has been left carelessly exposed to
+  the street or balcony.
+
+Exact document contents remain open for a later prop-writing and narrative-intel pass.
+
+================================================================================
+BALCONY AND FREE-EXPLORATION LOCK
+================================================================================
+
+11. BALCONY ACCESS ROOM
+
+A second room provides shuttered access to the street-facing balcony or veranda.
+
+The player can open or pass through the shutters and step onto the balcony during the
+safehouse's free-exploration opening.
+
+The transition should preserve:
+
+- a sharp exposure shift from dim interior to bright exterior;
+- louver and latch detail close to first-person view;
+- a small threshold, floor-level, or material change between room and balcony;
+- enough width for player movement and companion avoidance;
+- believable weathering and heat on the exterior gallery;
+- no forced cinematic camera takeover.
+
+12. SUV VIEW
+
+From the balcony, the player can look down the street and see Victor Two Bravo's black
+SUV parked at the side of the road directly in front of the safehouse building.
+
+This view performs several functions:
+
+- confirms the team's immediate means of departure;
+- spatially connects the explorable apartment to the next objective;
+- lets the player preview the street and surrounding neighborhood;
+- turns the exterior reference building into a navigable mission location rather than
+  a cutscene facade;
+- supports a natural transition from free exploration to the SUV departure.
+
+The vehicle must remain readable without being framed like a glowing objective prop.
+Subtle companion positioning, luggage movement, door opening, or an eventual objective
+marker may guide the player when departure becomes active.
+
+13. FREE-EXPLORATION PRINCIPLE
+
+The safehouse opening is a brief interactive preparation and observation space.
+
+The player should be able to:
+
+- move freely through the principal rooms;
+- inspect selected equipment, photographs, files, laptop, radio, and balcony view;
+- observe Victor Two Bravo's temporary domestic and operational routine;
+- approach the departure trigger at their own pace within reasonable mission limits;
+- understand that the team is about to move from analysis into physical action.
+
+The space should reward attention without requiring the player to inspect every prop or
+remain inside for a long period.
+
+================================================================================
+AUDIO AND ENVIRONMENTAL MOTION
+================================================================================
+
+14. BASE AUDIO BED
+
+The safehouse should have a restrained, location-specific audio bed:
+
+- muffled street traffic and occasional voices below;
+- distant engines, horns, footsteps, birds, and urban harbor ambience as appropriate;
+- shutter and timber creaks;
+- the slow desk-fan motor;
+- low radio music;
+- laptop fan or electrical hum;
+- small equipment noises and companion handling sounds;
+- air and street sound changing when shutters or balcony access open.
+
+No single ambience layer should dominate. The room should feel quiet enough for
+concentrated covert work but not acoustically dead.
+
+15. ENVIRONMENTAL MOTION
+
+Small motion should prevent the room from feeling frozen:
+
+- fan blades and optional fan oscillation;
+- light paper movement;
+- dust in sun shafts;
+- subtle curtain, shutter, or plant movement from exterior air;
+- laptop screen activity;
+- team members adjusting equipment or crossing between rooms;
+- street activity glimpsed through balcony openings.
+
+These effects must remain understated and performance-conscious.
+
+================================================================================
+LEVEL-DESIGN AND PRODUCTION APPLICATION
+================================================================================
+
+16. BLOCKOUT REQUIREMENTS
+
+The reference set does not define an exact floor plan. A production blockout must
+still establish:
+
+- apartment entrance and route to the street;
+- primary living room / operations space;
+- balcony-access room;
+- street-facing shutters and balcony threshold;
+- desk and fan location;
+- couch / coffee-table / laptop corner;
+- equipment-staging zones;
+- companion idle and movement nodes;
+- inspectable prop positions;
+- sightline to the parked SUV;
+- collision, traversal, accessibility, and streaming requirements.
+
+The final plan may include additional small rooms or service spaces where needed, but
+must not dilute the locked living-room, balcony, and SUV-view beats.
+
+17. GAMEPLAY READABILITY
+
+Production must preserve:
+
+- a clear path through the apartment without removing the lived-in clutter;
+- no loose cases, cables, documents, or furniture acting as arbitrary collision traps;
+- readable interactive props in a low-light interior;
+- comfortable adaptation between dim interior and bright balcony exposure;
+- companion navigation that does not block shutters, doors, the laptop, or departure;
+- accessibility support for inspect prompts, subtitles, radio/music balance, and high-
+  contrast interaction cues;
+- a natural departure objective that does not require a forced cutscene.
+
+18. CONTINUITY CONSTRAINTS
+
+- Preserve the safehouse as the interactive opening of COME FLY WITH ME.
+- Preserve its second-floor-right-side position in the owner-selected building.
+- Preserve the black SUV directly below and in front of the building.
+- Preserve the safehouse-to-SUV-to-surveillance mission flow.
+- Preserve a slightly antique, under-maintained, strangely cozy identity.
+- Preserve closed or mostly closed shutters and strong sunlight filtering through the
+  gaps into the otherwise unlit main living room.
+- Preserve visible Victor Two Bravo equipment, photographs, and scattered intel files.
+- Preserve the desk with the slowly spinning antique-style fan.
+- Preserve the radio playing diegetic music without locking a track here.
+- Preserve the open terminal-program laptop, preferably near the couch on a small
+  coffee table.
+- Preserve free balcony access and the player-controlled view down to the SUV.
+- Do not convert the opening into a non-interactive cinematic only.
+- Do not make the apartment pristine, lavish, abandoned, filthy, or horror-coded.
+- Do not use the reference images as exact interior-survey evidence.
+
+================================================================================
+LICENSING, PROVENANCE, AND REPRODUCTION RULES
+================================================================================
+
+These images are owner-selected reference material, not automatically cleared
+production assets.
+
+- The street-view / mobile-map screen capture must not be used as a final texture,
+  marketing image, or public-facing production asset.
+- Interface overlays, map labels, exact address text, vehicle plates, faces, and other
+  incidental identifying details must not be copied into final art.
+- Interior photographs of uncertain provenance should remain in a controlled private or
+  licensed reference library until source and usage rights are established.
+- Final Project Warriors geometry, materials, props, glazing patterns, lighting, and
+  furniture must be independently authored.
+- The final safehouse may take broad inspiration from historic Caribbean interiors but
+  must not replicate a protected photograph or real private residence room-for-room.
+- The public repository may retain filenames, hashes, descriptions, and production
+  findings while the underlying third-party binaries remain outside the repository.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- establish original source URLs, photographers, capture authors, dates, and rights for
+  all five references;
+- store the exact binaries in a licensed or private production-reference library;
+- author the apartment blockout and validate the balcony-to-SUV sightline;
+- define the entrance, stairs, street transition, and departure trigger;
+- choose final room colors, tile language, fanlight use, shutter design, and furniture;
+- define exact Victor Two Bravo equipment and document dressing;
+- write inspectable photographs, intel files, laptop content, and optional barks;
+- select and license the radio track or station presentation;
+- define companion positions and ambient actions;
+- tune exposure adaptation, sun shafts, dust, fan motion, radio mix, and street audio;
+- validate collision, accessibility, performance, and streaming;
+- reconcile the safehouse blockout with the controlling KML and SUV departure route.
+
+RESULT
+
+The owner-supplied references and direction now establish a coherent, source-ready
+identity for the COME FLY WITH ME safehouse: a second-floor-right-side Christiansted
+apartment that is old, imperfectly maintained, operationally cluttered, unexpectedly
+comfortable, dim behind closed shutters, and briefly explorable before Victor Two
+Bravo descends to the black SUV and begins the mission's surveillance phase.
+
+The source is ready for environment-art, lighting, prop, audio, and level-blockout use.
+It is not yet production-ready because the floor plan, exact prop text, radio track,
+rights provenance, scripting, collision, accessibility, performance, and departure
+implementation remain open.
+
+END
