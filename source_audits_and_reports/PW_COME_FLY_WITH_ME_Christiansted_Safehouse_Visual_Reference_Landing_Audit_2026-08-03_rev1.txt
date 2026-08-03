@@ -1,0 +1,175 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — CHRISTIANSTED SAFEHOUSE VISUAL REFERENCE AND INTERIOR DIRECTION
+Generated: 2026-08-03
+Version: rev1
+Status: LANDED / SOURCE-READY / PRODUCTION ART AND BLOCKOUT OPEN
+
+AUDIT PURPOSE
+
+Verify that the five owner-supplied safehouse images and the accompanying interior,
+lighting, prop, balcony, and exploration direction have been converted into a durable
+source page without displacing the controlling COME FLY WITH ME geography or inventing
+unsupported production detail.
+
+LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Visual_Reference_and_Interior_Direction_2026-08-03_rev1.txt
+
+ATTACHMENT CHECK
+
+PASS — all five exact attachments are represented by filename, detected format,
+dimensions, SHA-256 hash, and a restrained working description.
+
+1. 1000010121.jpg
+   - JPEG
+   - 1228 x 1536
+   - SHA-256: ac7081c37187e568c8284d83fd82fceb6135e55cd8babfb10eec9943f0143b33
+
+2. 1000010120.jpg
+   - JPEG
+   - 1018 x 1536
+   - SHA-256: cf73a9f1cc59f15a0456a5b5fe5114bba1d198d24cee41a4b7206856592692e8
+
+3. 1000010119.jpg
+   - JPEG
+   - 1536 x 1198
+   - SHA-256: 578e6bb40dba28c107a796f65ff96f6cdd7080c0767667a33db8c80964d5b4a0
+
+4. 1000010117.jpg
+   - JPEG
+   - 1536 x 802
+   - SHA-256: 955599a3d51786bee80de3b3bdc2e2e635c0144429c267460fe3b1a3cee60110
+
+5. 1000010116.png
+   - stored image format detected as JPEG-compatible image data
+   - 1536 x 802
+   - SHA-256: f16d14a17e5819ff0f9a1fc2d254ec5feb2898a1dff6f66cfaa6038c95b7cc9b
+
+PASS — References 04 and 05 are correctly treated as separate files depicting the
+same exterior viewpoint rather than as five visually unique scenes.
+
+AUTHORITY CHECK
+
+PASS — the existing KML and mission-geography source remain authoritative for the
+safehouse coordinate, SUV departure, surveillance move, and macro objective flow.
+
+PASS — the new source locks only the owner-confirmed safehouse placement and visual /
+environmental direction:
+
+- right-hand side of the building's second floor when viewed from the street;
+- street-facing balcony or veranda access;
+- black SUV parked directly below and in front of the building;
+- slightly antique, under-maintained, strangely cozy apartment identity;
+- dim living room lit principally by sunlight filtering through closed shutters;
+- Victor Two Bravo equipment, photographs, and scattered intelligence files;
+- desk with slowly spinning antique-style fan;
+- radio playing diegetic music;
+- open laptop running a terminal program, preferably on a coffee table near the couch;
+- player-controlled free exploration and balcony access.
+
+PASS — the source does not claim that the photographed interior belongs to the
+photographed exterior building and does not use the images as survey-accurate evidence.
+
+PASS — the source leaves the exact floor plan, document text, laptop content, radio
+track, companion choreography, entrance route, and production implementation open.
+
+VISUAL-DIRECTION CHECK
+
+PASS — the source extracts usable production cues from the references:
+
+- pastel, weathered two-story Christiansted facade;
+- covered upper gallery, thick piers, ground-floor arches, louvered shutters, and close
+  historic street context;
+- high ceilings, aged painted plaster, patterned tile, timber shutters, old furniture,
+  fanlights, and restrained colored glazing;
+- age and minor neglect without dereliction;
+- domestic comfort layered underneath temporary covert occupation;
+- sharp interior/exterior exposure contrast;
+- dust and humidity visible in shutter-filtered light;
+- independently authored combination of cues rather than room-for-room replication.
+
+GAMEPLAY AND ENVIRONMENTAL STORYTELLING CHECK
+
+PASS — the safehouse remains an interactive mission opening rather than a cinematic-
+only scene.
+
+PASS — the source connects free exploration to the next objective by making the black
+SUV visible from the balcony.
+
+PASS — the prop program supports Victor Two Bravo's temporary operational presence
+without turning the apartment into an exposition warehouse.
+
+PASS — the laptop, radio, photographs, and files are allowed to reward exploration but
+are not made mandatory before departure.
+
+PASS — collision, companion navigation, accessibility, inspect readability, exposure
+adaptation, and audio hierarchy are explicitly preserved as production requirements.
+
+AUDIO CHECK
+
+PASS — the radio is established as a physical diegetic source, but no song or station
+is silently canonized.
+
+PASS — the slow desk fan, muffled street ambience, laptop hum, shutters, and small
+companion/equipment sounds provide a restrained base audio and motion layer.
+
+PASS — music remains subordinate to dialogue and mission-critical audio.
+
+CONTINUITY CHECK
+
+PASS — the source preserves the locked flow:
+
+interactive safehouse opening
+-> descend to the street
+-> enter the black SUV
+-> depart for the western surveillance position
+-> continue the existing COME FLY WITH ME mission flow
+
+PASS — the new direction does not alter the seaplane-base guard count, alarms, CCTV,
+manager-office variants, aircraft identity, north-jetty departure, or East McFarlane
+handoff.
+
+LICENSING AND PROVENANCE CHECK
+
+PASS — the source treats all five images as reference rather than automatically cleared
+production assets.
+
+PASS — the mobile map / street-view capture is prohibited from use as a final texture,
+marketing image, or copied interface asset.
+
+PASS — exact address text, vehicle plates, faces, map overlays, and incidental personal
+or location-identifying details are not authorized for reproduction.
+
+PASS — uncertain interior-photo provenance is called out, and final geometry,
+materials, furniture, glazing, props, and lighting must be independently authored.
+
+PASS — the text manifest and hashes may live in the repository while third-party
+binaries remain in a separate private or licensed reference library.
+
+OPEN ITEMS
+
+The source is landed but not production-ready. Open work includes:
+
+- image source and rights provenance;
+- licensed/private reference-library storage;
+- safehouse floor-plan blockout;
+- entrance, stairs, street transition, and SUV departure route;
+- balcony-to-SUV sightline validation;
+- final room palette, tile, shutters, fanlight, furniture, and weathering choices;
+- exact equipment, photograph, intel-document, and laptop dressing;
+- radio track/station selection and licensing;
+- companion idle and movement choreography;
+- exposure adaptation, sun shafts, dust, fan motion, radio mix, and street ambience;
+- collision, accessibility, streaming, and performance validation.
+
+AUDIT RESULT
+
+PASS.
+
+The owner-supplied safehouse references and design direction are now represented by a
+controlled source page that is specific enough to guide environment art, lighting,
+props, audio, and level blockout while preserving the existing mission's authority
+hierarchy and leaving unsupported production detail open.
+
+END
