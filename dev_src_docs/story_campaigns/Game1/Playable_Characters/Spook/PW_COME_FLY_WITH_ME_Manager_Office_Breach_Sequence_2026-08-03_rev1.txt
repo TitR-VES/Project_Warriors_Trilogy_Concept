@@ -1,0 +1,421 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — MANAGER'S-OFFICE BREACH SEQUENCE
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED ROUGH SCENE LOCK / VARIANT A SOURCE-READY / VARIANT B PENDING
+
+PURPOSE
+
+Develop the manager's-office confrontation in COME FLY WITH ME as a two-state scene:
+
+- VARIANT A — Victor Two Bravo reaches the office while the compound remains unaware;
+- VARIANT B — the manager has locked himself inside after a compound alarm and the
+  elimination of the seven armed contractors.
+
+This revision lands VARIANT A in rough source-ready form and preserves VARIANT B as
+an explicit live development dependency. It does not replace the controlling mission
+geography, security-system, alarm, radio, CCTV, police-response, or maritime-response
+sources.
+
+RELATED CONTROLLING SOURCES
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+
+AUTHORITY RULE
+
+- The geography addendum controls the office location, north-service approach,
+  seven-contractor layout, fueled Found FBA-2C, north-jetty berth, and handoff into
+  SINS OF OUR FATHERS.
+- The security-layer source controls alarm states, radios, CCTV investigation,
+  manager lockdown, police arrival, and Coast Guard pressure.
+- This source controls the dramatic and gameplay presentation of the manager's-office
+  breach sequence.
+- VARIANT A applies only while the office occupants remain unaware of Victor Two
+  Bravo and the manager has not locked the office.
+- VARIANT B remains required and must be developed before the office encounter is
+  considered production-complete.
+
+CORE ASSESSMENT
+
+The proposed unaware-enemy version works. Its strongest qualities are:
+
+- the team enters with a clear three-person role split;
+- Spook remains the player's point of control and objective focus;
+- Smoke and Tripper demonstrate synchronized competence without replacing the player;
+- brief time dilation makes a very fast action legible without turning the scene into
+  sustained arcade-style bullet time;
+- the diegetic song creates darkly comic contrast while remaining part of the room;
+- the manager interrogation immediately converts the breach into the aircraft-access
+  objective;
+- the scene remains compatible with non-lethal, suppressed-lethal, or mixed tactical
+  resolution of the two office guards.
+
+The principal implementation risk is synchronization. The music, door opening, team
+movement, player input, guard reactions, and manager apprehension must align without
+making the scene feel like a fixed cutscene. The solution is an adaptive semi-scripted
+sequence with bounded movement, dynamic teammate target reassignment, and subtle
+music-timing support rather than a fully locked animation.
+
+================================================================================
+VARIANT A — UNAWARE OFFICE OCCUPANTS
+================================================================================
+
+SCENE PRECONDITIONS
+
+This branch is available when:
+
+- the compound has not entered the full alarm state;
+- no completed radio call or fixed-alarm activation has warned the office;
+- the manager has not seen Victor Two Bravo on CCTV or otherwise received a warning
+  that would cause him to lock the office;
+- the manager's-office door remains unlocked;
+- the manager and both office guards remain inside;
+- Victor Two Bravo reaches the first-floor hallway without creating an immediate
+  active firefight at the office threshold.
+
+If any of these conditions fail, the mission transitions to VARIANT B or another
+alert-state office approach rather than forcing the unaware choreography.
+
+TEAM STACK AND ENTRY ORDER
+
+Victor Two Bravo quietly stacks outside the manager's-office door.
+
+1. SPOOK — first through the doorway.
+   - Playable character.
+   - Primary objective is to cross the threshold, dominate the room, reach the
+     manager, prevent access to the manager's handgun, and secure him alive.
+
+2. SMOKE — door operator and second entrant.
+   - Positions beside the handle and opens or abruptly throws the unlocked door on
+     Spook's signal.
+   - Immediately follows Spook through the threshold.
+   - Default responsibility is one armed office guard.
+
+3. TRIPPER — third entrant and rear security.
+   - Enters after Smoke.
+   - Default responsibility is the second armed office guard.
+   - Finishes the entry by covering the doorway and first-floor corridor through
+     which the team entered, preventing a surviving guard or unexpected civilian
+     from surprising the team from behind.
+
+The exact left/right stack orientation remains dependent on the authored floor plan,
+door hinge, furniture layout, and weapon-handling requirements. The role order is
+locked even if the physical side assignments change.
+
+PRE-BREACH AUDIO AND ROOM LIFE
+
+Before the door opens, the player hears the office as a live occupied space:
+
+- low conversation between the manager and the two guards;
+- chair movement, paperwork, glassware, office equipment, or other restrained room
+  texture;
+- Frank Sinatra's "Come Fly With Me" playing from a radio or compact office sound
+  system inside the room;
+- wall and door occlusion muffling the track while Victor Two Bravo stacks outside;
+- the song's opening becoming recognizable under the occupants' conversation as the
+  team settles into position.
+
+The song functions as diegetic world texture and ironic contrast, not as an external
+combat score. It must remain spatially located inside the office. The track becomes
+clearer and less occluded the instant the door opens.
+
+MUSIC-CLEARANCE DEPENDENCY
+
+"Come Fly With Me" is the preferred creative track and an unusually strong mission-
+title payoff, but commercial music clearance remains a production dependency. The
+scene must retain a fallback path using a newly composed or separately cleared
+mid-century lounge / big-band recording with equivalent structural timing and tonal
+contrast. No implementation should depend on copyrighted lyrics or an uncleared
+master recording.
+
+PLAYER PROMPT
+
+Once the team is stacked and ready, the player receives a restrained functional
+prompt:
+
+    BREACH
+
+The prompt should not over-narrate Spook's psychology. Its function is to let the
+player initiate the coordinated entry while preserving first-person continuity.
+
+The office door is unlocked in this branch. Smoke opens it abruptly rather than
+using a forced mechanical breach. Exact animation may be a fast handle turn and hard
+throw, a shoulder-assisted push, or another quiet-to-violent transition appropriate
+to the door.
+
+ADAPTIVE MUSIC SYNCHRONIZATION
+
+The preferred authored timing is:
+
+- the song's introduction is audible during the stack;
+- the player is prompted as the arrangement approaches the bass-led transition;
+- the door opens and the fastest entry movement begins as the bass line enters;
+- the track continues under the room action and interrogation.
+
+To preserve agency without audible looping or a visibly on-rails trigger, production
+should use a narrow adaptive synchronization system:
+
+- begin the office track when the team commits to the final stack;
+- place the BREACH prompt inside a musically useful readiness window;
+- allow very small, inaudible playback-rate correction or a hidden edit point in the
+  radio source to align the door opening with the intended downbeat;
+- never restart the song conspicuously if the player delays;
+- if perfect synchronization cannot be preserved after an unusually long delay,
+  prioritize player agency and diegetic continuity over exact beat matching.
+
+The song should be mixed under weapon reports, impacts, dialogue, and barks rather
+than overpowering them. Dynamic mixing may duck the radio slightly during essential
+spoken lines while preserving the sense that the music is still physically playing
+in the room.
+
+SEMI-SCRIPTED FIRST-PERSON CONTROL
+
+The breach remains first-person. The player retains partial control throughout.
+
+LOCKED CONTROL PRINCIPLES
+
+- The game does not cut to a third-person camera.
+- The player initiates the breach.
+- Spook receives bounded forward momentum across the threshold, but the player keeps
+  meaningful look and aim control.
+- The player can choose the immediate visual lane and can engage a threatening guard
+  if necessary.
+- The player cannot wander backward, leave the stack, or break the choreography during
+  the short threshold-crossing beat.
+- Once Spook reaches the manager's side of the office, normal first-person control
+  resumes around the apprehension interaction.
+
+The sequence should feel like the player is executing a rehearsed team maneuver,
+not watching one.
+
+TIME-DILATION PRESENTATION
+
+The fastest part of the threshold entry uses brief, restrained time dilation from
+Spook's point of view.
+
+INTENT
+
+- simulate the narrowed perception of an adrenaline surge;
+- make the office geometry, two armed guards, manager, team lanes, and immediate
+  threat decisions readable;
+- preserve the impression of extremely fast coordinated violence while letting the
+  player understand and negotiate it;
+- avoid presenting the event as an ultra-fast blur or a fully authored cutscene.
+
+DESIGN RULES
+
+- Time dilation begins at or just after the door breaks the frame.
+- It covers only the fastest threshold-crossing and initial threat-acquisition beat.
+- It ramps quickly back to real time as Smoke and Tripper complete their takedowns and
+  Spook reaches the manager.
+- It must not become a reusable power, selectable ability, or prolonged "bullet time"
+  state.
+- Audio remains largely natural and intelligible. Any pitch or transient treatment
+  should be subtle enough that the scene still feels diegetic rather than stylized
+  beyond the project's grounded register.
+- Production should tune duration by action readability rather than locking an exact
+  time value at source stage.
+
+ADAPTIVE OFFICE-GUARD CHOREOGRAPHY
+
+Smoke and Tripper each enter with responsibility for one armed guard. Their takedowns
+may be:
+
+- unarmed control and incapacitation;
+- suppressed lethal fire;
+- one non-lethal and one suppressed-lethal action;
+- another grounded combination supported by guard position, player aim, and alert
+  behavior.
+
+The variation exists to make the scene immediate and dynamic rather than to randomize
+its outcome arbitrarily.
+
+TARGET-REASSIGNMENT RULE
+
+The choreography must react to player behavior:
+
+- if Spook engages one office guard, the teammate assigned to that guard immediately
+  shifts to the remaining threat, manager control, or doorway security;
+- teammates must not fire redundant rounds into a guard the player has already
+  neutralized;
+- if a guard begins to aim at Spook or the manager's movement creates a collision,
+  the nearest teammate may override the default lane to prevent an implausible delay;
+- Tripper still ends the sequence covering the entry doorway unless immediate threat
+  conditions require a temporary deviation;
+- the team must not steal the manager apprehension from Spook.
+
+This adaptive assignment is essential to maintaining player agency inside the
+semi-scripted structure.
+
+MANAGER APPREHENSION
+
+Spook moves directly toward the manager while Smoke and Tripper deal with the two
+armed guards.
+
+The manager has access to a handgun but fails to draw it before Spook reaches him.
+Exact carry or storage position remains open for the floor-plan pass. The key dramatic
+facts are:
+
+- the manager recognizes the breach too late;
+- he begins to reach or orient toward the handgun;
+- Spook controls him before he can present it;
+- Spook strips and discards or retains the weapon according to the final interaction
+  animation;
+- the manager is captured alive and visibly terrified.
+
+The scene should not require the player to shoot the manager. His live cooperation is
+needed to obtain immediate aircraft access and his restrained end state remains
+controlling.
+
+DIALOGUE LOCK
+
+Spook grabs and controls the manager, then says:
+
+    SPOOK
+    I need a plane. One that I can use. Now!
+
+The terrified manager answers that he keeps one fueled for emergencies at the north
+jetty. Exact wording may be adjusted for natural performance, but must preserve:
+
+- the aircraft is already fueled;
+- it is usable immediately;
+- it is berthed at the north jetty;
+- the manager understands that Spook wants practical access, not information about
+  the company fleet in general.
+
+Spook pauses only long enough to process the answer, then commands:
+
+    SPOOK
+    Keys!
+
+The manager produces or indicates the Found FBA-2C keys. Spook takes them.
+
+The brief pause before "Keys!" is important. It lets the manager's answer land,
+keeps Spook controlled rather than breathless, and turns the command into the clean
+objective-resolution beat.
+
+RESTRAINT AND HANDOFF
+
+After taking the keys:
+
+- Spook motions to Tripper to secure the manager;
+- Tripper zip-cuffs the manager to the office chair;
+- the manager remains alive, disarmed, and restrained;
+- Smoke confirms the room and immediate route state;
+- Tripper resumes doorway / corridor awareness after completing the restraint;
+- the team transitions toward the north jetty and the fueled Found FBA-2C.
+
+If one or both office guards were subdued rather than killed, their restraint and
+weapon-security state must be resolved before the team leaves. The sequence must not
+silently allow an incapacitated but unsecured armed guard to recover immediately
+behind Victor Two Bravo.
+
+DARK-HUMOR AND TONE RULE
+
+The diegetic song may give the scene a mildly surreal, darkly comic crime-thriller
+contrast. The effect works only through restraint:
+
+- no character acknowledges the song;
+- no choreography becomes dance-like;
+- no impacts are cut into a music-video montage;
+- no repeated lyric-to-action joke is required;
+- the room remains dangerous, abrupt, and professionally violent;
+- the manager's fear and the team's objective focus remain real.
+
+The music should make the sequence feel strange and memorable without making it feel
+self-consciously overproduced.
+
+FAILURE, RECOVERY, AND STATE TRANSITION
+
+The unaware sequence cannot be allowed to softlock the mission.
+
+- If the player creates a full alert in the hallway before initiating the breach,
+  transition out of VARIANT A.
+- If an office guard completes a radio warning before the door opens, transition to
+  an alerted office state.
+- If the manager receives warning and locks the door, use VARIANT B.
+- If the player engages through the closed door or window before the stack completes,
+  cancel the unaware choreography and enter a freeform alert response.
+- If a restrained or incapacitated office guard later becomes a threat, the source
+  must define persistence or recovery rules rather than relying on invisible cleanup.
+- The manager, keys, and aircraft-access objective require fail-safes if animation,
+  navigation, or AI interruptions occur.
+
+CONTINUITY CONSTRAINTS
+
+- Preserve first-person presentation.
+- Preserve Spook as first entrant and playable focus.
+- Preserve Smoke as door operator and second entrant.
+- Preserve Tripper as third entrant and final doorway / corridor cover.
+- Preserve two armed office guards and one live manager.
+- Preserve the manager as unaware and the office door as unlocked in VARIANT A.
+- Preserve one default guard target for Smoke and one for Tripper, with adaptive
+  reassignment if the player intervenes.
+- Preserve mixed non-lethal / suppressed-lethal resolution as valid.
+- Preserve brief threshold-entry time dilation only.
+- Preserve meaningful player look, aim, and engagement control.
+- Preserve the manager's failed attempt to access his handgun and Spook's disarm.
+- Preserve the dialogue beats: "I need a plane. One that I can use. Now!" and
+  "Keys!"
+- Preserve the fueled aircraft at the north jetty.
+- Preserve the manager's zip-cuff restraint to the office chair.
+- Preserve Frank Sinatra's "Come Fly With Me" as the preferred diegetic creative cue,
+  subject to licensing and fallback requirements.
+- Do not insert La Avispa into this Game 1 mission.
+- Do not convert the sequence into a third-person cinematic or a fully automatic
+  takedown montage.
+- Do not make killing both office guards mandatory.
+- Do not let the song overwhelm combat readability, dialogue, or grounded tone.
+
+OPEN PRODUCTION REQUIREMENTS
+
+- author the administration-building floor plan and exact office geometry;
+- lock door hinge, handle side, stack orientation, furniture, windows, desk position,
+  manager weapon location, guard placement, and player lane;
+- define the exact BREACH interaction, input, cancellation behavior, and accessibility
+  equivalent;
+- tune bounded movement, look freedom, aim assistance, collision handling, and
+  transition back to full control;
+- author the adaptive target-assignment and teammate recovery logic;
+- define non-lethal takedown animations, suppressed-shot options, surrender states,
+  and restraint persistence;
+- tune time-dilation onset, ramp, duration, camera response, audio treatment, and
+  difficulty / accessibility behavior;
+- clear and implement the preferred song or select the fallback cue;
+- define radio-source placement, occlusion, volume, music synchronization, dialogue
+  ducking, and subtitle treatment;
+- author manager and guard pre-breach chatter without exposing the team prematurely;
+- finalize manager dialogue performance and key handoff animation;
+- define fail-safes if the manager or keys are displaced by physics, gunfire, or AI;
+- define transition from office control to the north-jetty movement phase;
+- validate stealth, non-lethal, mixed, and suppressed-lethal paths;
+- develop VARIANT B, including locked-door breach, manager behavior, police timer,
+  Coast Guard pressure, key recovery, and escape-state consequences.
+
+VARIANT B LIVE DEPENDENCY
+
+The alerted-enemy office breach is not resolved by this revision. It remains a live
+source dependency and must address:
+
+- locked office door and breach method;
+- manager barricade and police call;
+- whether any office guards remain alive or have repositioned;
+- the manager's weapon access and surrender threshold;
+- the active land and maritime response timers;
+- how key recovery works under pressure;
+- whether the same dialogue survives, compresses, or changes under alert;
+- how the scene avoids becoming a duplicate of VARIANT A with a stronger door.
+
+RESULT
+
+VARIANT A now has a coherent first-person semi-scripted design: Victor Two Bravo
+stacks quietly, Spook enters first under player control, Smoke opens and follows,
+Tripper enters third and secures the rear, two armed guards are resolved through
+adaptive mixed-force choreography, the manager is disarmed and compelled to surrender
+the keys, and the team transitions toward the fueled Found FBA-2C at the north jetty.
+Brief time dilation and a diegetic "Come Fly With Me" cue make the action legible and
+memorable without removing player agency. The alerted office branch remains open and
+prevents the full office encounter from being considered complete.
+
+END
