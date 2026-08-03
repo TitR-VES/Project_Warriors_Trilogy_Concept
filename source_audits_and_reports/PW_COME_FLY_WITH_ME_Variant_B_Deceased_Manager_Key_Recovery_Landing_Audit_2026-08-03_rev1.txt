@@ -1,0 +1,116 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — VARIANT B DECEASED-MANAGER KEY-RECOVERY FALLBACK
+Generated: 2026-08-03
+Version: rev1
+Status: LANDED / CONSISTENCY CHECK COMPLETE
+
+SCOPE
+
+Audit the contingency source that permits COME FLY WITH ME to continue when the
+manager is killed inside his locked office during the alerted Variant B approach or
+breach.
+
+LANDED SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+PW_COME_FLY_WITH_ME_Variant_B_Deceased_Manager_Key_Recovery_Fallback_2026-08-03_rev1.txt
+
+CONTROLLING RESULT
+
+The lethal-manager outcome is valid but explicitly non-recommended. It exists to
+preserve player freedom, destructible-environment logic, and objective continuity
+rather than to create a superior shortcut.
+
+CONFIRMED LOCKS
+
+1. VALID LETHAL CAUSES
+
+The fallback supports manager death caused by penetrating fire through the wooden
+door, destructive-door play, explosive entry, blast or fragmentation, freeform
+premature entry, or another supported combat-system outcome.
+
+2. NO AUTOMATIC FAILURE
+
+Manager death alone does not fail the mission while the body and N272BT keys remain
+recoverable. The player must still enter and clear the office.
+
+3. PHYSICAL BODY SEARCH
+
+The player receives SEARCH on the deceased manager. The interaction resolves the
+manager's left jacket pocket and retrieves the complete tracked key bundle.
+
+4. SHARED PROP CONTINUITY
+
+The recovered object remains the Ocean Blue Sky Tours N272BT bundle:
+
+- up to four differently shaped keys;
+- scratched split ring;
+- compact float-compartment drain / inspection-fitting mini wrench;
+- worn white tag marked `FBA-2C / N272BT`.
+
+5. HANDOVER PATH
+
+After SEARCH, the fallback uses the Variant A direct doorway handover. Spook extends
+the bundle and says:
+
+    You might wanna take these, Smoke.
+
+Smoke accepts and secures it. The fallback does not use `Smoke! Catch!` or the Variant
+B toss animation.
+
+6. TEAM ROLE ADAPTATION
+
+Smoke covers the damaged doorway and corridor while Tripper confirms room and rear
+security. Tripper performs no restraint animation on a deceased manager.
+
+7. HANDGUN SECURITY
+
+The existing shared manager-handgun disposition applies. Any recoverable manager
+handgun is secured and may be stashed on Spook as a non-selectable narrative prop.
+NOTHING remains Spook's functional sidearm.
+
+8. RESPONSE-STATE CONTINUITY
+
+Manager death does not cancel a completed police call. Police and Coast Guard pressure
+remain active if the call completed before death. Death before call completion does
+not falsely trigger the external response.
+
+9. NON-REWARD PRESENTATION
+
+The route loses the live interrogation and may retain greater alert and response
+pressure. It provides no bonus, automatic keys, special reward, or cleaner objective
+state.
+
+CONSISTENCY FINDINGS
+
+- Compatible with Variant B's destructible wooden door and freeform premature-entry
+  recovery.
+- Compatible with the manager carrying the key bundle in his left jacket pocket.
+- Compatible with the N272BT tracked-prop source.
+- Compatible with Variant A's physical doorway handover and locked Spook line.
+- Compatible with Smoke as designated pilot and final keyholder.
+- Compatible with the shared manager-handgun final-disposition source.
+- Compatible with completed-call logic governing police and Coast Guard response.
+- Does not alter Variant A, normal live-manager Variant B, aircraft placement, company
+  identity, guard count, or north-jetty departure flow.
+
+PRODUCTION DEPENDENCIES PRESERVED
+
+- body-pose and SEARCH-animation alignment;
+- interaction-volume following after physics movement;
+- damaged-office and doorway navigation;
+- objective-prop immunity to routine authored combat effects;
+- key and handgun checkpoint persistence;
+- police-call state persistence;
+- accessibility targeting and feedback;
+- validation across authored and freeform breach routes.
+
+AUDIT RESULT
+
+PASS. The contingency preserves meaningful player choice without undermining the
+intended live-capture route. The mission remains completable after manager death, but
+requires physical body search, retains any earned escalation consequences, and returns
+to the established Variant A-style key handover before Victor Two Bravo proceeds to
+Found FBA-2C N272BT.
+
+END
