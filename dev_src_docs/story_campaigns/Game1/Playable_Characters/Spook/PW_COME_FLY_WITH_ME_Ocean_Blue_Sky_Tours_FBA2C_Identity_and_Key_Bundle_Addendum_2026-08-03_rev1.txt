@@ -1,0 +1,476 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — OCEAN BLUE SKY TOURS, FBA-2C IDENTITY, AND KEY-BUNDLE ADDENDUM
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED OPERATOR / AIRCRAFT / HERO-PROP LOCK
+
+PURPOSE
+
+Name the fictional Goldberg-linked aerial-tour shell company operating the
+Christiansted harbor seaplane base, assign the mission's Found FBA-2C a fictional
+U.S. registration number, and define the shared physical key bundle used in both
+manager-office encounter variants.
+
+This addendum supplements and, on the points named below, supersedes generic wording
+in:
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+
+It does not alter the seven-contractor count, ordinary-civilian protection rule,
+manager survival requirement, Found FBA-2C aircraft type, north-jetty berth, fueled
+status, Smoke's pilot role, or the established Variant A and Variant B key-recovery
+choreography.
+
+AUTHORITY RULE
+
+- This addendum controls the shell company's exact name.
+- This addendum controls the Found FBA-2C's fictional registration number.
+- This addendum controls the key bundle's composition, identification tag, wear,
+  presentation, continuity, and use across both manager-office variants.
+- Earlier generic references to a Goldberg-linked shell aerial-tour company now mean
+  Ocean Blue Sky Tours, Ltd.
+- Earlier generic references to the Found FBA-2C keys now mean the complete key bundle
+  defined here.
+- Exact corporate jurisdiction, company logo, livery design, public marketing copy,
+  and aircraft serial number remain open unless separately locked.
+
+================================================================================
+COMPANY IDENTITY
+================================================================================
+
+LEGAL / OPERATING NAME
+
+The fictional company operating the Christiansted harbor seaplane base is:
+
+    OCEAN BLUE SKY TOURS, LTD.
+
+The full legal-style name should be used on formal documents, internal records,
+maintenance paperwork, invoices, licensing materials, office files, and other
+corporate surfaces.
+
+The shorter public-facing form may appear as:
+
+    OCEAN BLUE SKY TOURS
+
+This shortened form is acceptable for signage, uniforms, aircraft branding,
+promotional material, customer-facing schedules, and spoken dialogue when the legal
+suffix would sound unnatural.
+
+NARRATIVE FUNCTION
+
+Ocean Blue Sky Tours, Ltd. is a fictional aerial-tour operator used as a Goldberg-
+linked shell company. Its legitimate public business provides cover for covert
+transport, trafficking, clandestine logistics, and controlled access to the harbor
+seaplane facilities.
+
+The company name should initially read as benign, aspirational, and commercially
+plausible. It must not openly advertise criminality. Its visual identity may evoke
+Caribbean water, open sky, sightseeing, island travel, and premium charter service,
+while the mission gradually reveals the operation's concealed Goldberg connection.
+
+PERSONNEL AND CULPABILITY RULE
+
+- The shell-company manager is the manager of Ocean Blue Sky Tours, Ltd.
+- The seven armed contractors knowingly support Goldberg's covert logistics and
+  remain hostile mission personnel.
+- Ordinary civilian terminal workers, customers, contractors without knowledge of
+  the criminal operation, and unrelated harbor personnel are not automatically
+  complicit or valid targets merely because they work at or visit the facility.
+- Company employment, branding, nationality, class, or economic background must not
+  substitute for evidence of culpability.
+
+WORLD-PRESENTATION OPPORTUNITIES
+
+The company name may appear on:
+
+- the primary seaplane-base sign;
+- gatehouse placards;
+- manager-office documents and stationery;
+- staff shirts, jackets, badges, or caps;
+- a wall schedule or tour board;
+- aircraft maintenance folders and flight logs;
+- fuel and berth records;
+- customer brochures or a small reception display;
+- vehicle door markings;
+- hangar, dock, and restricted-area signage;
+- the Found FBA-2C's company markings or removable branding;
+- the key bundle's associated paperwork, although the physical tag itself remains
+  limited to the aircraft type and registration for rapid identification.
+
+The company identity should be repeated enough to establish ownership and place, but
+not so aggressively that the base resembles a theme park or product advertisement.
+
+================================================================================
+FOUND FBA-2C AIRCRAFT IDENTITY
+================================================================================
+
+AIRCRAFT TYPE
+
+The mission aircraft remains the already established:
+
+    FOUND FBA-2C
+
+The aircraft is fueled, operational, and berthed at the north jetty beyond the fuel
+tanks. Smoke ultimately pilots it during the departure from Christiansted and the
+flight toward East McFarlane Island.
+
+FICTIONAL U.S. REGISTRATION
+
+The Found FBA-2C's fictional U.S. registration / tail number is:
+
+    N272BT
+
+N272BT is the canonical project identifier for this aircraft.
+
+FORMATION RATIONALE
+
+- The N prefix identifies it as a U.S.-registered civil aircraft.
+- The remaining five characters use a valid three-number / two-letter structure.
+- The letters I and O are avoided.
+- The BT suffix provides a subtle production mnemonic for Blue Tours without needing
+  to be explained in dialogue.
+- The number is selected for fictional narrative use and must not be represented as
+  a real-world FAA reservation, availability claim, ownership record, or registry
+  lookup result.
+
+TERMINOLOGY NORMALIZATION
+
+For this U.S.-registered aircraft in the U.S. Virgin Islands, use:
+
+- registration number;
+- aircraft registration;
+- N-number;
+- tail number, in ordinary dialogue or descriptive shorthand.
+
+Do not use L-number for this aircraft unless a future source deliberately establishes
+an unrelated company fleet-code system. If an internal Ocean Blue Sky Tours fleet
+code is later created, it must remain distinct from the legal U.S. registration
+N272BT.
+
+EXTERIOR AND DOCUMENT USE
+
+N272BT should be consistently visible or recorded where appropriate, including:
+
+- exterior aircraft registration markings;
+- cockpit or cabin data plate presentation where production-authentic;
+- maintenance logs;
+- berth and fuel records;
+- flight paperwork;
+- manager-office documentation;
+- the handwritten key tag;
+- relevant mission subtitles, inspection prompts, or objective text only when needed.
+
+The exterior marking's exact size, placement, typeface, aging, and contrast remain an
+aircraft-art and legal-marking implementation task. No other aircraft in the mission
+may use N272BT.
+
+================================================================================
+FBA-2C KEY-BUNDLE HERO PROP
+================================================================================
+
+CORE FORM
+
+The Found FBA-2C access item is a compact, used key bundle carried on a metal split
+ring. It is not a single clean key and should not resemble a modern automotive remote
+fob.
+
+The bundle contains no more than four differently shaped keys. The preferred final
+hero prop uses four keys because the varied silhouettes make the bundle readable in
+first-person pickup, search, handoff, toss, catch, and cockpit-use animations.
+
+KEY COUNT AND VISUAL DIFFERENTIATION
+
+The bundle contains:
+
+1. PRIMARY AIRCRAFT KEY
+   - longest key in the set;
+   - larger round or rounded-trapezoid bow;
+   - most visibly polished along contact surfaces from repeated use;
+   - intended as the primary ignition / master-access key at prop-design level.
+
+2. CABIN / COCKPIT ACCESS KEY
+   - medium-length blade;
+   - rectangular or squared bow;
+   - visibly different shoulder and tooth profile from the primary key.
+
+3. SERVICE / UTILITY ACCESS KEY
+   - shorter blade;
+   - oval or narrow bow;
+   - intended for a service hatch, utility compartment, or related aircraft-access
+     point, subject to final FBA-2C reconstruction and lock-layout review.
+
+4. AUXILIARY COMPANY KEY
+   - smallest key;
+   - distinct compact bow and shallow profile;
+   - may correspond to a company padlock, mooring-equipment lock, fuel-access lock,
+     or other operational accessory associated with N272BT.
+
+The exact mechanical lock assignment may be refined during the aircraft-interaction
+pass, but all four keys must remain visibly different in shape. Production must not
+replace them with four duplicates merely to simplify the prop.
+
+MATERIAL AND WEAR
+
+- Keys should use a believable mixture of dull nickel, brass, or plated-steel tones
+  according to final material authoring.
+- Contact edges, teeth, and bow holes show brighter wear.
+- The split ring is slightly distorted and scratched from repeated handling.
+- Minor salt-air oxidation, grime, and dark residue may be present without making the
+  keys appear unusable.
+- The bundle should sound like a small practical key ring: a restrained metallic
+  clink rather than an exaggerated comic jangle.
+
+SPECIALIST MINI TOOL
+
+The split ring also carries a compact specialist floatplane utility tool:
+
+    MINIATURE FLOAT-COMPARTMENT DRAIN / INSPECTION-FITTING WRENCH
+
+The tool is a small, dedicated metal spanner or keyed wrench used for a float drain,
+inspection fitting, plug, cover fastener, or closely related routine operator task.
+It should look specific enough to suggest aviation and float maintenance, but simple
+enough to remain believable as a key-ring tool.
+
+The tool should be:
+
+- smaller than the longest key;
+- flat or minimally three-dimensional so it can hang comfortably on the ring;
+- visibly used, scratched, and slightly darkened;
+- free of an oversized brand logo;
+- shaped so that it cannot be mistaken for another door key at a glance.
+
+This is an operator-convenience detail, not an implication that Smoke performs major
+maintenance during the mission. Its function is to make the bundle feel like a real
+working pilot's or base operator's set rather than a generic objective token.
+
+IDENTIFICATION TAG
+
+The key ring carries a small white writable plastic tag.
+
+The tag is:
+
+- handwritten in black permanent marker / Sharpie;
+- slightly yellowed with age;
+- scuffed at the edges;
+- marked by dirty fingerprints, harbor grime, and repeated pocket or drawer wear;
+- still legible at first-person interaction distance;
+- attached securely enough to survive the Variant B toss without detaching.
+
+The preferred two-line handwritten text is:
+
+    FBA-2C
+    N272BT
+
+A single-line version, `FBA-2C / N272BT`, is acceptable if the final tag proportions
+cannot support two clear lines. The writing should be practical and imperfect, not a
+clean digital font disguised as handwriting.
+
+The tag exists so an operator can rapidly and reliably identify the aircraft served
+by the bundle. It does not need to contain the full company name, manager name,
+telephone number, route, berth, or destination.
+
+PROP SCALE AND READABILITY
+
+- The tag must remain large enough to read during authored close interaction without
+  becoming implausibly oversized.
+- The four keys, mini wrench, and tag must remain distinguishable when clustered.
+- The ring should not become so crowded that the Variant B toss and catch look unsafe
+  or physically impossible.
+- The prop must fit convincingly inside the manager's jacket pocket in Variant B and
+  inside the top-right desk drawer in Variant A.
+- The bundle must fit naturally into Smoke's pocket after either handoff.
+
+================================================================================
+VARIANT A INTEGRATION
+================================================================================
+
+DRAWER LOCATION
+
+In the unaware-office branch, the complete N272BT key bundle is stored in the top-
+right desk drawer from the manager's normal seated orientation.
+
+The sequence remains:
+
+- the manager says, `Top drawer on the right.`;
+- Tripper takes secure control of the manager;
+- the player moves around the desk;
+- OPEN DRAWER reveals the complete bundle;
+- TAKE KEYS causes Spook to pick up the bundle;
+- aircraft-access state updates only after the pickup completes.
+
+PICKUP PRESENTATION
+
+During TAKE KEYS:
+
+- the worn white tag should be visible long enough for the player to register
+  `FBA-2C / N272BT`;
+- the mini wrench and differently shaped keys should read in silhouette;
+- the key ring gives a restrained metallic sound;
+- Spook secures the bundle without sorting individual keys.
+
+DOORWAY HANDOVER
+
+The existing Variant A handover remains controlling:
+
+- Smoke moves ahead and covers from just inside the office doorway;
+- Spook approaches;
+- a brief first-person camera movement frames the exchange;
+- Spook hands the complete bundle to Smoke;
+- Smoke secures the same complete bundle because he will fly N272BT.
+
+No component may disappear between drawer pickup and handover. The tag, mini wrench,
+and all authored keys remain part of the bundle.
+
+================================================================================
+VARIANT B INTEGRATION
+================================================================================
+
+MANAGER POCKET LOCATION
+
+In the full-alert branch, the complete N272BT key bundle is in the manager's left
+jacket pocket.
+
+The manager's locked response remains:
+
+    MANAGER
+    OK, OK, easy! Just take them. They're in my left pocket. In my jacket.
+
+SEARCH PRESENTATION
+
+When the player activates SEARCH:
+
+- Spook reaches into the manager's left jacket pocket;
+- the complete key bundle is withdrawn;
+- the tag and clustered key/tool silhouette identify the item immediately;
+- the bundle cannot be replaced by a single generic key for animation convenience.
+
+TOSS TO SMOKE
+
+The existing Variant B toss remains controlling:
+
+- Spook briefly pivots toward Smoke covering near the broken office door;
+- Spook tosses the complete bundle several feet;
+- Smoke catches it in mid-air;
+- the metal keys and mini wrench produce a short restrained clink;
+- Smoke confirms control and secures the bundle in his own pocket;
+- no later doorway handover occurs in Variant B.
+
+The worn tag must remain attached throughout the toss. The bundle's mass and arc
+should look plausible; it should not float, tumble excessively, or strike Smoke with
+comic force.
+
+================================================================================
+AIRCRAFT-STARTUP CONTINUITY
+================================================================================
+
+KEY OWNERSHIP STATES
+
+VARIANT A:
+
+    top-right desk drawer
+    -> Spook
+    -> Smoke
+    -> N272BT cockpit / aircraft operation
+
+VARIANT B:
+
+    manager's left jacket pocket
+    -> Spook
+    -> Smoke
+    -> N272BT cockpit / aircraft operation
+
+Smoke must possess the complete bundle before the aircraft-startup interaction can
+resolve normally.
+
+COCKPIT USE
+
+At N272BT, Smoke selects the required key from the bundle as part of the startup and
+access choreography. The player is not required to manually sort four keys unless a
+later aircraft-interaction source deliberately adds that mechanic.
+
+The tag and mini wrench may remain visible hanging from the ignition or resting near
+the controls only if that is safe and plausible for the final cockpit layout. They
+must not visibly interfere with controls, snag on equipment, or create an unintended
+comedic distraction.
+
+FAIL-SAFES
+
+- The bundle remains one tracked mission object despite containing multiple physical
+  components.
+- Individual keys, tag, ring, and mini tool cannot separate through ordinary physics.
+- The bundle cannot duplicate during checkpoint reload, handover, toss, catch, pocket
+  storage, or aircraft startup.
+- If an animation is interrupted, ownership resolves to one valid holder only.
+- If Smoke cannot receive the bundle immediately, Spook retains it until the handoff
+  can safely complete.
+- If the bundle is visually dropped during an exceptional interruption, it must enter
+  a recoverable tracked pickup state rather than becoming lost scenery.
+- Objective text should refer to `floatplane keys`, `aircraft keys`, or the N272BT key
+  bundle; it should not imply that only one key exists.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve the exact company name Ocean Blue Sky Tours, Ltd.
+- Preserve the shortened public-facing name Ocean Blue Sky Tours where appropriate.
+- Preserve the company as Goldberg-linked and outwardly legitimate.
+- Preserve ordinary-civilian protection and evidence-based culpability.
+- Preserve the Found FBA-2C type.
+- Preserve N272BT as the aircraft's fictional U.S. registration / tail number.
+- Do not call N272BT an L-number.
+- Do not claim that N272BT is reserved, available, or assigned in the real FAA
+  registry.
+- Preserve no more than four differently shaped keys on the ring.
+- Preserve the specialist float-compartment drain / inspection-fitting mini wrench.
+- Preserve the worn white plastic tag written in black marker.
+- Preserve the tag text `FBA-2C` and `N272BT`.
+- Preserve yellowing, edge wear, scuffing, and dirty handling marks.
+- Preserve the complete bundle in the Variant A drawer and Variant B left jacket
+  pocket.
+- Preserve the complete bundle through both Smoke handoff methods.
+- Preserve Smoke as final keyholder and pilot.
+- Do not turn the key bundle into a modern remote fob.
+- Do not require a manual key-selection puzzle without later owner approval.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- design Ocean Blue Sky Tours, Ltd. logo, color system, signage, uniforms, paperwork,
+  vehicle branding, and optional aircraft livery;
+- determine the fictional company's legal jurisdiction, corporate registration
+  history, public website, tour offerings, and relationship to Goldberg's wider shell
+  network;
+- lock N272BT exterior marking placement and aging during the aircraft art pass;
+- validate the Found FBA-2C reconstruction and assign exact mechanical functions to
+  each of the four keys;
+- design the miniature drain / inspection-fitting wrench around the final float
+  hardware without implying incompatible modern equipment;
+- author high-detail and gameplay-detail prop meshes and materials;
+- tune key-ring sound for drawer pickup, pocket search, handover, toss, catch, pocket
+  storage, and cockpit use;
+- ensure the handwritten tag remains readable at intended field of view, resolution,
+  motion, and accessibility settings;
+- define subtitles, descriptive audio, and accessibility identification for players
+  who cannot visually read the tag;
+- validate physics and animation continuity across both variants and all checkpoint
+  boundaries;
+- confirm that no other project aircraft or key bundle uses N272BT.
+
+RESULT
+
+The Christiansted shell operator is now canonically named Ocean Blue Sky Tours,
+Ltd. Its fueled north-jetty Found FBA-2C is canonically identified by the fictional
+U.S. registration N272BT. Both manager-office variants now share one physically
+consistent hero prop: a worn split-ring bundle of up to four differently shaped
+keys, a compact float-compartment drain / inspection-fitting wrench, and a yellowed
+white handwritten tag reading `FBA-2C / N272BT`. The prop remains continuous from
+its variant-specific recovery location through Spook's possession, transfer to
+Smoke, and the eventual aircraft-startup sequence.
+
+END
