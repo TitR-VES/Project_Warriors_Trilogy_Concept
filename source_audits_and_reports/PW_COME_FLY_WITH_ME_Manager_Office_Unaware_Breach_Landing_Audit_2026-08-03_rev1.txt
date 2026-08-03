@@ -1,0 +1,70 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — MANAGER'S-OFFICE UNAWARE BREACH
+Generated: 2026-08-03
+Version: rev1
+Status: SOURCE LANDING AUDIT
+
+SCOPE
+
+Audit the landing of the owner-developed unaware-manager's-office breach sequence for
+COME FLY WITH ME.
+
+LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+
+CONTROLLING CONTEXT CHECKED
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+
+CONSISTENCY RESULT
+
+PASS WITH LIVE DEPENDENCY.
+
+The landed sequence preserves:
+
+- the Christiansted first-floor manager's-office objective;
+- two armed office guards and one live manager;
+- Spook, Smoke, and Tripper as Victor Two Bravo;
+- the fueled Found FBA-2C at the north jetty;
+- manager restraint rather than casual execution;
+- non-lethal, suppressed-lethal, and mixed-force validity;
+- the unaware branch's unlocked office door;
+- the separate alerted manager-lockdown branch;
+- police and Coast Guard escalation as controlling alert-state material;
+- La Avispa's exclusion from Game 1.
+
+The source adds no contradiction to the four-alarm, eight-radio-character, four-camera,
+localized-investigation, full-alert, manager-lockdown, police-response, or maritime-
+response locks.
+
+DESIGN IMPROVEMENTS LANDED
+
+- first-person semi-scripted breach with partial player control;
+- locked entry order: Spook first, Smoke second as door operator, Tripper third as rear
+  security;
+- brief threshold-only time dilation for action readability;
+- adaptive teammate target reassignment if the player engages an office guard;
+- manager disarm and live key handoff;
+- protected dialogue beats for the aircraft demand and keys;
+- diegetic "Come Fly With Me" synchronization concept;
+- explicit music-clearance and fallback requirement;
+- failover from unaware choreography into alert-state play if scene preconditions fail.
+
+LIVE DEPENDENCY
+
+The alerted-manager's-office branch remains undeveloped. The full office encounter is
+therefore not ready for production closeout. VARIANT B must still define the locked-
+door breach, manager barricade, active police call, weapon and surrender behavior,
+key recovery under time pressure, Coast Guard pressure, and differentiation from the
+unaware branch.
+
+RETIREMENT / ARCHIVE RESULT
+
+The underlying COME FLY WITH ME mission-development thread is NOT archive-ready on the
+basis of this source alone. The unaware variant is landed, but the requested alerted
+variant remains a live dependency.
+
+END
