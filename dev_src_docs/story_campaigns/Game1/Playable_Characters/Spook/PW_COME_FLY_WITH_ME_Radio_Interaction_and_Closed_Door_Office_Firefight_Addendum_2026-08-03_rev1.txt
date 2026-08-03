@@ -1,0 +1,563 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — RADIO INTERACTION AND CLOSED-DOOR OFFICE FIREFIGHT ADDENDUM
+Generated: 2026-08-03
+Version: rev1
+Status: SOURCE-READY MISSION CONTINUITY AND GAMEPLAY LOCK
+
+PURPOSE
+
+Land two owner-developed refinements for COME FLY WITH ME:
+
+1. The exposed radio or compact sound system carrying the preferred Frank Sinatra
+   "Come Fly With Me" diegetic cue is player-operable and destructible. It ceases to
+   function when disabled by direct small-arms fire or a damaging nearby explosion.
+
+2. If the player reaches the manager's office without detection and attacks the
+   unaware manager and two guards by firing through the closed destructible door, the
+   occupants immediately return fire through that same door. The unlocked door does
+   not require a forced breach and can become partially or fully open through damage.
+
+This addendum extends the existing safehouse, manager-office, UI-prompt, security,
+and manager-death sources. It does not replace the mission's geography, alarm logic,
+police response, Coast Guard response, aircraft access, key-bundle ownership, or
+manager-death fallback.
+
+RELATED CONTROLLING SOURCES
+
+- dev_src_docs/gameplay_mechanics/
+  PW_Interactive_and_Destructible_Diegetic_Audio_Device_System_2026-08-03_rev1.txt
+- dev_src_docs/gameplay_mechanics/PW_UI_Prompt_System_Design_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Visual_Reference_and_Interior_Direction_2026-08-03_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Death_Key_Recovery_Fallback_2026-08-03_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+
+================================================================================
+AUTHORITY AND SUPERSESSION RULE
+================================================================================
+
+- The game-wide audio-device source controls default interaction, destruction,
+  emitter shutdown, and hardened-infrastructure exemptions.
+- This addendum controls how those rules apply to the Sinatra/fallback radio source in
+  COME FLY WITH ME.
+- The manager-office breach source continues to control the planned Variant A team
+  stack, first-person presentation, coordinated entry, manager apprehension, and
+  preferred diegetic cue.
+- This addendum controls the player-initiated closed-door firefight that replaces the
+  planned unaware choreography when Spook fires through the door before entry.
+- The office door remains unlocked while the occupants are unaware. Any wording that
+  could be read as requiring lock defeat, a breaching charge, or a mandatory forced
+  entry in this branch is superseded.
+- The existing BREACH prompt remains valid as shorthand for a coordinated dynamic
+  entry through the unlocked door. It is not evidence that the door is locked.
+- Alerted Variant B remains separate: after a compound alarm, the manager may lock or
+  barricade the office according to the controlling security and Variant B sources.
+
+================================================================================
+PART I — SINATRA / FALLBACK RADIO INTERACTION
+================================================================================
+
+CREATIVE CUE
+
+The preferred diegetic source remains Frank Sinatra's "Come Fly With Me," subject to
+commercial music clearance and the existing fallback requirement. A newly composed or
+separately cleared mid-century lounge / big-band cue may replace it without changing
+the interaction and destruction rules below.
+
+SOURCE-PLACEMENT CONTINUITY
+
+The repository currently supports a radio in the Christiansted safehouse and a radio
+or compact office sound system in the manager-office sequence. Any exposed device that
+actually carries the Sinatra/fallback cue inherits this addendum.
+
+Production must explicitly decide whether the final mission uses:
+
+- one principal occurrence of the cue;
+- two deliberately separate diegetic occurrences;
+- or one cue placement plus a different low-volume station track elsewhere.
+
+Do not duplicate the same master recording in the safehouse and manager office by
+accident. If both occurrences are retained, the repetition must be an intentional
+mission motif rather than a source-integration mistake.
+
+PLAYER OPERATION
+
+When the player is close enough to reach the active radio's controls, has direct line
+of sight, and no physical obstruction blocks the interaction, display:
+
+    TURN OFF
+
+The prompt is restrained and functional. It should not use a more theatrical Spook-
+specific verb because the action is mundane and instantly legible.
+
+The prompt may surface during or immediately after the relevant drawer-opening
+sequence if that sequence leaves Spook physically close enough to the radio. The
+player must be able to interrupt the music without waiting for a later mission state.
+
+Interaction behavior:
+
+- one press triggers a short first-person control operation appropriate to the device;
+- the radio stops on the switch, button, or knob action;
+- the prompt disappears once the device is off;
+- TURN ON may be offered only if reversible operation serves the authored sequence;
+- mission-critical dialogue or objective information must not depend on leaving the
+  radio on;
+- manually turning the radio off does not itself alert nearby enemies unless a later
+  source deliberately establishes that someone notices the change.
+
+DESTRUCTION
+
+The exposed cue source is destructible.
+
+Valid disabling causes include:
+
+- one or more direct small-arms hits sufficient to damage the working components;
+- projectile penetration through the casing;
+- fragments from a nearby explosion;
+- blast impulse or overpressure sufficient to damage or disconnect the device;
+- impact with the floor or environment after being thrown by an explosion;
+- visible cable or power separation where the device depends on external power.
+
+Required response:
+
+- the local music emitter stops immediately or collapses through a very brief failure
+  transient;
+- acceptable punctuation includes a short static burst, speaker pop, electrical crack,
+  pitch collapse, or mechanically interrupted playback;
+- the device loses TURN OFF / TURN ON prompts after functional destruction;
+- its destroyed or disabled state persists for the encounter and through compatible
+  checkpoints;
+- audio follows the prop if it is moved while still functional and never remains fixed
+  at the original location after the device falls or is displaced;
+- a visibly destroyed radio never continues clean music playback.
+
+COMBAT MIX
+
+- weapon reports, impacts, barks, and essential dialogue take priority over the music;
+- the radio may duck while still audibly existing in the room;
+- destroying or switching off the source removes the music naturally rather than
+  muting the entire combat mix;
+- if another separate speaker carries the same signal, only physically connected or
+  dependent emitters should stop with the source.
+
+EXEMPTIONS
+
+The owner's broader game-wide exception applies here and elsewhere:
+
+- reinforced speakers;
+- recessed speakers;
+- concealed architectural speakers;
+- protected public-address hardware;
+- inaccessible audio connection hardware;
+- buried cabling;
+- hardened amplifier or distribution equipment.
+
+These do not need to fail from incidental small-arms fire or nearby blast when their
+working components are credibly protected. They remain vulnerable to power loss,
+upstream source failure, direct access, sabotage, or mission-authored heavy damage.
+
+The visible Sinatra/fallback radio in COME FLY WITH ME is not part of this exemption.
+It is an ordinary exposed device and must be physically consistent.
+
+================================================================================
+PART II — UNAWARE CLOSED-DOOR OFFICE ATTACK
+================================================================================
+
+BRANCH NAME
+
+    VARIANT A-F — UNAWARE CLOSED-DOOR FIREFIGHT
+
+This branch begins when:
+
+- the compound has not entered full alarm;
+- the manager has not locked or barricaded the office;
+- the manager and both office guards remain inside and initially unaware;
+- the office door is closed but unlocked;
+- Spook fires into the office through the door before Smoke opens it and before the
+  coordinated Variant A entry begins.
+
+The first hostile shot cancels the semi-scripted unaware entry choreography. The scene
+transitions immediately into a freeform combat state without failing or softlocking the
+mission.
+
+TACTICAL INTENT
+
+The branch turns the office approach hallway into a dangerous penetration fight.
+
+The player has the initiative but not a free kill box. The manager and two guards are
+armed, close to cover, and able to exploit the same destructible door that the player
+uses. Because the approach hallway is long and relatively narrow, their return fire can
+create overlapping threat lanes and make a careless frontal attack substantially more
+difficult than the recommended coordinated entry.
+
+The sequence should reward:
+
+- controlled use of cover;
+- movement off the doorway's center line;
+- intelligent wall and door penetration;
+- suppression and timing;
+- stun-grenade employment;
+- careful target discrimination when manager survival matters;
+- acceptance of lethal or blast-overpressure consequences when manager survival does
+  not matter to the player.
+
+It should not become an unwinnable punishment branch or an instant scripted death.
+
+IMMEDIATE OCCUPANT RESPONSE
+
+On the first incoming shot or credible door penetration:
+
+1. Both guards alert immediately.
+2. The manager alerts immediately and attempts to access or present his handgun if he
+   can do so safely.
+3. The occupants break from idle poses and seek the nearest credible cover rather than
+   remaining frozen in their unaware choreography positions.
+4. Guards call the threat direction and begin suppressive or aimed return fire through
+   the door.
+5. The manager may also return fire through the door when armed, positioned, and not
+   blocked by a guard.
+6. The office radio or sound system continues, is switched off by an NPC only if
+   deliberately authored, or is disabled naturally by gunfire / blast under Part I.
+7. Any radio call, alarm escalation, CCTV consequence, or wider-compound response
+   follows the controlling security-layer state logic.
+
+RETURN-FIRE MODEL
+
+The manager and guards can fire through:
+
+- intact but penetrable door panels;
+- existing bullet holes;
+- widening splintered openings;
+- a damaged latch-side gap;
+- the open doorway after the door swings or falls;
+- adjacent penetrable office construction only where material and geometry support it.
+
+AI must not use perfect knowledge through an opaque barrier.
+
+Initial return fire should be driven by:
+
+- impact direction;
+- muzzle report and acoustic localization;
+- visible splinters and penetration origin;
+- last known player position;
+- teammate callouts;
+- brief glimpses through holes, edge gaps, damaged panels, or the opening door.
+
+Accuracy and confidence may improve as the barrier degrades and sightlines become real.
+The guards can use disciplined suppression to deny the doorway even before they have a
+clean visual. The manager should be less tactically capable than the guards but still
+dangerous enough that ignoring him is a mistake.
+
+Do not let AI continuously track Spook through solid opaque material after he changes
+position. Repositioning, breaking line of fire, and using cover must matter.
+
+HALLWAY THREAT GEOMETRY
+
+The final level blockout should preserve a tactically meaningful approach:
+
+- enough hallway length that the office occupants can threaten the player before a
+  simple one-step rush reaches the threshold;
+- limited width that makes the doorway center line dangerous;
+- at least one credible piece of player cover or offset angle so the branch is hard but
+  not arbitrary;
+- no decorative clutter that traps the player under unavoidable penetration fire;
+- office furniture that gives the guards and manager distinct cover choices rather than
+  one stacked firing point;
+- enough internal separation that a stun grenade can create a meaningful opening while
+  a frag or blast-overpressure grenade carries a real manager-survival risk.
+
+Exact dimensions remain a production blockout decision. The tactical relationship is
+locked.
+
+DOOR STATE AND DAMAGE PROGRESSION
+
+The door is unlocked throughout the unaware branch unless another alert-state system
+has explicitly changed it.
+
+A recommended damage progression is:
+
+1. CLOSED / INTACT / UNLOCKED
+   - handle works;
+   - Smoke can open it for planned Variant A;
+   - bullets may penetrate according to material and calibre.
+
+2. PERFORATED
+   - visible bullet holes and splintering;
+   - partial sight and sound leakage increases;
+   - collision remains intact;
+   - return fire through the barrier is active.
+
+3. LATCH OR HINGE COMPROMISED
+   - repeated impacts, buckshot, heavy projectiles, or blast can break the latch or one
+     or more hinges;
+   - door may swing inward or outward depending on authored hinge direction and force;
+   - the opening creates a new sightline and navigation state.
+
+4. PARTIALLY DETACHED
+   - door hangs from one hinge, leans, or obstructs part of the opening;
+   - collision and navigation update to match the visible object;
+   - AI must not fire or move as though the original closed collision still exists.
+
+5. OPEN OR FULLY DETACHED
+   - door falls open or comes completely off its hinges;
+   - no breach interaction is required;
+   - player, companion, grenade, projectile, and AI navigation use the exposed doorway;
+   - fallen-door physics must not create an unavoidable player trap or block key
+     recovery.
+
+Even if damage never reaches stages 3–5, the player can open the surviving door because
+it is unlocked. No lock-pick, charge, shotgun breaching round, ram, or scripted breach
+animation is required to defeat a lock that does not exist.
+
+BREACH PROMPT CONTINUITY
+
+The planned Variant A prompt remains:
+
+    BREACH
+
+Its meaning is:
+
+- initiate the coordinated team entry;
+- Smoke operates and throws the unlocked door;
+- Spook crosses first;
+- Smoke and Tripper execute their established roles.
+
+If the player fires through the door first:
+
+- remove BREACH immediately;
+- cancel bounded threshold choreography and time dilation;
+- transition companions into combat support and hallway / room-clearing behavior;
+- allow ordinary OPEN / PUSH / contextual door behavior only if useful and physically
+  valid after the fight begins;
+- never make the player complete the abandoned semi-scripted entry before combat can
+  continue.
+
+GRENADE EMPLOYMENT
+
+STUN GRENADES
+
+Preferred tool when the player wants to preserve the manager alive.
+
+- can interrupt the defenders' return-fire rhythm;
+- create a short entry window;
+- degrade aim, orientation, and communication according to existing flash/stun rules;
+- remain subject to room geometry, cover, facing, and hearing protection;
+- do not guarantee a scripted surrender.
+
+FRAGMENTATION GRENADES
+
+Valid but high-risk.
+
+- can kill or incapacitate either guard;
+- can kill the manager;
+- can damage or destroy the radio and office props;
+- can further compromise or remove the door;
+- can displace the key bundle or manager body, requiring the existing recovery fail-
+  safes;
+- may accelerate wider alarm and response states.
+
+BLAST-OVERPRESSURE / CONCUSSIVE GRENADES
+
+Also valid where supported by the game's equipment set.
+
+- can incapacitate or kill occupants in the confined office;
+- can create severe manager-survival risk even without obvious fragmentation wounds;
+- can break the door, windows, lightweight partitions, and exposed audio device;
+- should not be treated as a consequence-free non-lethal substitute.
+
+The game does not moralize through an intrusive warning. Risk is communicated through
+weapon knowledge, room geometry, companion barks where appropriate, and the resulting
+state.
+
+MANAGER SURVIVAL AND KEY RECOVERY
+
+Manager survival remains preferred but not mandatory for mission continuity.
+
+If the manager survives:
+
+- Spook can secure, disarm, interrogate, and obtain the aircraft answer / keys under the
+  existing live-manager sources;
+- dialogue may compress or change because the manager has just participated in a
+  firefight;
+- the manager should not revert to the pristine unaware apprehension animation.
+
+If the manager is killed:
+
+- the mission continues through the existing deceased-manager search and key-recovery
+  fallback;
+- Spook searches the body or immediate displaced-body area as authored;
+- the N272BT key bundle remains recoverable;
+- the Spook-to-Smoke handoff remains available according to the controlling fallback;
+- no grenade or door physics event may permanently lose the keys beneath inaccessible
+  geometry.
+
+If the manager is wounded or incapacitated:
+
+- weapon security is resolved before interrogation or search;
+- surrender, treatment, restraint, or body-search logic follows his actual state;
+- the scene does not force a binary healthy-versus-dead presentation when the combat
+  system supports intermediate injury.
+
+COMPANION BEHAVIOR
+
+After the player initiates the closed-door firefight:
+
+- Smoke and Tripper abandon the unaware choreography cleanly;
+- they take offset positions that do not crowd Spook into the penetration lane;
+- they return controlled fire only when they have a credible target, penetration line,
+  or suppression requirement;
+- they do not shoot through Spook or occupy the same narrow cover node;
+- they may call guard movement, manager weapon access, grenade risk, door failure, or a
+  newly opened sightline;
+- they can support a stun-assisted entry;
+- they do not automatically kill the manager unless he presents an immediate threat;
+- they secure surviving weapons and occupants after room control;
+- Tripper's rear-security responsibility resumes when tactically possible, but active
+  threats take priority over mechanically returning to the planned pose.
+
+ENEMY AND CIVILIAN CONTINUITY
+
+- the office contains the manager and two armed guards, not a fourth hidden guard;
+- any civilian possibility must come from a separate controlling source and cannot be
+  invented by this branch;
+- upper- and lower-level guard reactions remain governed by the larger facility state;
+- gunfire and explosions may alert nearby personnel even if the player reached the
+  office undetected;
+- the freeform branch must not silently preserve stealth after an unmistakable loud
+  firefight;
+- suppressed fire through the door can delay broader detection only where acoustics,
+  radio behavior, witness states, and security logic genuinely support it.
+
+DIFFICULTY AND FAIRNESS
+
+The branch should be tactically demanding because it is a poor frontal choice, not
+because AI cheats.
+
+Preserve:
+
+- readable material penetration behavior;
+- consistent player and AI ballistics through the same door;
+- credible suppression rather than perfect wall-tracking;
+- at least one survivable fallback position;
+- grenade and repositioning solutions;
+- companion support without automated victory;
+- a viable careful-firearms path for players who lack grenades;
+- accessibility tuning for penetration indicators, audio localization, reaction time,
+  and friendly collision without removing the branch's tactical identity.
+
+Do not preserve:
+
+- defenders standing motionless behind the door;
+- one-way player-only penetration;
+- invulnerable door panels after obvious structural failure;
+- a forced charge placement on an unlocked door;
+- perfect enemy aim through intact opaque material;
+- door debris that blocks the only route or hides the key bundle permanently;
+- automatic mission failure solely because the manager dies;
+- a return to the unaware scripted choreography after combat has begun.
+
+================================================================================
+STATE TRANSITION SUMMARY
+================================================================================
+
+UNAWARE APPROACH
+
+- door closed, intact, unlocked;
+- manager and two guards unaware;
+- Sinatra/fallback cue plays from an exposed local source if this is the retained cue
+  placement;
+- BREACH offers coordinated dynamic entry.
+
+PLAYER CHOOSES BREACH
+
+- existing Variant A semi-scripted entry runs;
+- Smoke opens the unlocked door;
+- Spook enters first;
+- adaptive guard resolution and manager apprehension proceed.
+
+PLAYER FIRES THROUGH DOOR
+
+- BREACH disappears;
+- Variant A-F begins;
+- occupants take cover and return fire through the barrier;
+- door damage and combat geometry evolve physically;
+- stun, fragmentation, and overpressure solutions remain valid with different risks;
+- manager survival or death determines live handoff versus body-search fallback.
+
+PLAYER OPENS DOOR WITHOUT FIRING OR BREACH PROMPT
+
+Where mission scripting permits ordinary manual operation before the stack is complete:
+
+- the door opens because it is unlocked;
+- occupant awareness follows sight, sound, and timing;
+- the scene enters an improvised alert response rather than pretending a lock was
+  defeated;
+- production may restrict this specific interaction during final stack commitment to
+  preserve companion collision and choreography, but not by changing the canonical
+  lock state.
+
+ALERTED COMPOUND / MANAGER LOCKDOWN
+
+- this addendum no longer controls door lock state;
+- transition to Variant B and the security-layer sources;
+- a genuinely locked or barricaded door may require forced entry.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+RADIO / AUDIO
+
+- decide final cue placement and whether repetition is intentional;
+- select exact exposed device asset and control layout;
+- author TURN OFF and optional TURN ON animation;
+- tune direct-fire, penetration, blast, displacement, and power-loss thresholds;
+- create intact, disabled, and destroyed states;
+- implement local emitter movement and abrupt shutdown;
+- validate subtitles, music identification, and licensed-track fallback behavior;
+- test drawer-sequence prompt reachability and animation collision if that placement is
+  retained.
+
+OFFICE FIREFIGHT
+
+- lock hallway dimensions, office dimensions, door material, thickness, hinge side,
+  swing direction, latch, frame, and penetration profile;
+- author door damage states and collision / navigation updates;
+- define manager and guard initial cover choices;
+- build shared player / AI penetration and suppression logic;
+- tune imperfect acoustic localization and sightline acquisition;
+- author companion branch cancellation and combat positions;
+- implement stun, fragmentation, and overpressure responses;
+- connect manager alive, wounded, incapacitated, and dead states to key recovery;
+- serialize door, radio, occupant, weapon, and key states through checkpoints;
+- test key displacement, body displacement, detached-door obstruction, and grenade
+  physics fail-safes;
+- validate loud, suppressed, lethal, non-lethal, grenade, and no-grenade paths;
+- ensure the branch connects to the wider alarm, police, and Coast Guard pressure
+  states without double-triggering responses.
+
+================================================================================
+RESULT
+================================================================================
+
+COME FLY WITH ME now treats its exposed Sinatra/fallback radio as a real world object:
+the player can switch it off at close range, shoot it, or disable it through nearby
+blast, and its audio responds immediately and persistently. The broader rule extends to
+ordinary exposed audio devices across the game while exempting credibly reinforced,
+recessed, concealed, and protected infrastructure from casual destruction.
+
+The manager-office unaware branch now supports a dangerous player-initiated closed-door
+firefight. The unlocked destructible door is a two-way ballistic barrier, not passive
+cover for the player. The two guards and armed manager take cover and return fire
+through it, the hallway geometry makes frontal pressure tactically meaningful, and
+door damage can open or remove the barrier without requiring a forced breach. Stun
+grenades support a manager-survival approach; fragmentation and blast-overpressure
+solutions remain valid with lethal consequences and the existing key-recovery fallback.
+
+END
