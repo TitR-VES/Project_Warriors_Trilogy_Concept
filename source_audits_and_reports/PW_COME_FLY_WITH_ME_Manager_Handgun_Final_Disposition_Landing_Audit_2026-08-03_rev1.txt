@@ -1,0 +1,74 @@
+PROJECT WARRIORS — COME FLY WITH ME
+MANAGER HANDGUN FINAL-DISPOSITION LANDING AUDIT
+Generated: 2026-08-03
+Version: rev1
+Status: LANDED / CONSISTENCY-CHECKED
+
+PURPOSE
+
+Record the landing and continuity review of the shared manager-handgun disposition
+lock for both manager-office encounter variants.
+
+LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Handgun_Final_Disposition_Addendum_2026-08-03_rev1.txt
+
+LOCKED RESULT
+
+- Spook retains the manager's handgun after disarming him.
+- Tripper completes the manager's restraint before the final stow action.
+- Spook then stashes the handgun on his person.
+- The handgun leaves the office with Spook.
+- No loose manager-owned firearm remains accessible to the restrained manager.
+- The handgun remains a narrative prop rather than a selectable gameplay weapon.
+- NOTHING remains Spook's established functional sidearm.
+- No new weapon slot, pickup reward, ammunition state, or inventory replacement is
+  created.
+
+VARIANT A CONSISTENCY
+
+The lock is compatible with:
+
+- the failed desktop weapon reach and disarm;
+- Spook retaining the handgun during drawer access;
+- Tripper's chair restraint;
+- the later first-person N272BT key handover to Smoke;
+- the existing office-exit formation.
+
+VARIANT B CONSISTENCY
+
+The lock is compatible with:
+
+- the post-stun disarm and floor pin;
+- Spook retaining the handgun during SEARCH;
+- the immediate key toss to Smoke;
+- Tripper's desk restraint;
+- the Spook / Smoke / Tripper exit order.
+
+SUPERSESSION
+
+This source closes earlier open wording that allowed the manager's handgun to be
+retained, secured, or otherwise carried without defining the final method. Spook's
+on-person stow now controls that point in both variants.
+
+NO OTHER CHANGES
+
+The update does not alter:
+
+- dialogue;
+- key location or retrieval;
+- key-transfer choreography;
+- manager restraint location;
+- companion roles;
+- entry or exit order;
+- police or Coast Guard response;
+- NOTHING's existing weapon identity or gameplay function.
+
+RESULT
+
+The manager's handgun now has one clear, checkpoint-safe final disposition across
+both encounter variants: after Tripper secures the manager, Spook stashes the weapon
+on his person as a non-selectable narrative prop and carries it out of the office.
+
+END
