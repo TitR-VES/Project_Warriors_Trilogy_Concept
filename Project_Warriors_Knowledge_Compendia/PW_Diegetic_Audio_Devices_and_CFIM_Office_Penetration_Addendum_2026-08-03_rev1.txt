@@ -1,0 +1,95 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+DIEGETIC AUDIO DEVICES AND COME FLY WITH ME OFFICE PENETRATION
+Generated: 2026-08-03
+Version: rev1
+Status: SYNTHESIS LAYER — SOURCE PAGES CONTROL
+
+PURPOSE
+
+Provide a compact current-project view of the newly landed game-wide diegetic audio-
+device rule and its COME FLY WITH ME application. This file is a synthesis aid and
+must not replace the controlling durable sources in dev_src_docs/.
+
+CONTROLLING SOURCES
+
+1. dev_src_docs/gameplay_mechanics/
+   PW_Interactive_and_Destructible_Diegetic_Audio_Device_System_2026-08-03_rev1.txt
+
+2. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+   PW_COME_FLY_WITH_ME_Radio_Interaction_and_Closed_Door_Office_Firefight_Addendum_2026-08-03_rev1.txt
+
+3. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+   PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+
+4. dev_src_docs/gameplay_mechanics/PW_UI_Prompt_System_Design_rev1.txt
+
+================================================================================
+CURRENT LOCKS
+================================================================================
+
+DIEGETIC AUDIO DEVICES
+
+- Ordinary exposed radios, portable speakers, stereos, televisions used as audible
+  media sources, and similar devices are physical, player-operable world objects.
+- Reachable functional devices may expose TURN OFF and, where useful, TURN ON.
+- Direct small-arms fire or damaging nearby blast can disable them.
+- Local program audio stops immediately or through a very brief failure transient when
+  the working threshold is crossed.
+- The emitter follows a still-functioning movable device and never remains at an old
+  position after the prop falls.
+- Destroyed or disabled state persists through compatible encounter checkpoints.
+- Reinforced, recessed, concealed, and protected installation hardware is exempt from
+  casual small-arms destruction, but remains dependent on power, signal, and upstream
+  equipment.
+
+COME FLY WITH ME RADIO
+
+- The exposed radio or compact sound system carrying the preferred Frank Sinatra
+  "Come Fly With Me" cue inherits the game-wide interaction and damage rules.
+- The player can switch it off at close range, including during or immediately after
+  the relevant drawer-opening sequence when reach and line of sight permit.
+- Direct gunfire and nearby explosions can disable or destroy it and end the music.
+- The final mission pass must decide whether the safehouse and manager-office cue
+  references represent one retained placement or two deliberately repeated uses.
+- Music clearance and a mid-century lounge / big-band fallback remain production
+  dependencies.
+
+COME FLY WITH ME UNAWARE OFFICE ATTACK
+
+- The manager-office door is closed but unlocked while the occupants remain unaware.
+- BREACH remains the coordinated team-entry prompt, not a lock-defeat interaction.
+- Firing through the door before entry cancels the semi-scripted unaware choreography
+  and begins a freeform combat branch.
+- The two guards and armed manager take cover and return fire through the same
+  penetrable door.
+- AI initially uses impact direction, sound, callouts, and last-known position rather
+  than perfect sight through opaque material.
+- Accuracy can improve as bullet holes, edge gaps, latch failure, hinge failure, or a
+  falling door create real sightlines.
+- Door states progress from intact to perforated, compromised, partially detached, and
+  open / fully detached as damage warrants.
+- A surviving unlocked door can still be opened normally; no forced breach is required.
+- Stun grenades support a manager-survival solution.
+- Fragmentation and blast-overpressure grenades remain valid but can kill the manager,
+  damage the radio, remove the door, and trigger the existing deceased-manager key-
+  recovery fallback.
+- The branch must remain difficult but fair: shared penetration rules, viable cover and
+  repositioning, no perfect wall-tracking, no one-way player-only penetration, and no
+  automatic mission failure solely because the manager dies.
+
+================================================================================
+PRODUCTION DEPENDENCIES
+================================================================================
+
+- final cue placement and intentional-repetition decision;
+- radio asset, operation animation, damage states, blast thresholds, and emitter logic;
+- office hallway and room blockout;
+- door material, hinge, swing, damage, collision, and navigation states;
+- manager / guard cover selection and imperfect localization;
+- companion cancellation and freeform combat support;
+- grenade responses and manager injury-state handling;
+- key, body, door, radio, and checkpoint fail-safes;
+- connection to wider alarm, police, and Coast Guard states;
+- validation across loud, suppressed, lethal, non-lethal, grenade, and no-grenade paths.
+
+END
