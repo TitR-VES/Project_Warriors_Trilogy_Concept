@@ -1,0 +1,228 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — NORTH-JETTY GUARD ROUTINE ADDENDUM
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED SUPPLEMENTAL GUARD-ROUTINE LOCK
+
+PURPOSE
+
+Extend the established north-jetty security contractor routine in COME FLY WITH ME
+with an intermittent western-edge pause that creates an optional stealth opportunity
+near the water.
+
+This addendum supplements:
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+
+It does not change the seven-contractor security count, the north-jetty patrol's
+radio and alarm responsibilities, the fueled Found FBA-2C berth, or the player's
+ability to bypass, distract, incapacitate, restrain, or lethally engage guards.
+
+AUTHORITY RULE
+
+- The Christiansted geography and objective-flow source controls the north-jetty
+  guard's existence, general berth patrol, proximity to the Found FBA-2C, and place
+  within the seven-contractor layout.
+- This addendum controls one intermittent behavior within that patrol.
+- The dedicated alarm-and-radio source continues to control alert propagation,
+  completed radio calls, and compound-wide response.
+
+================================================================================
+NORTH-JETTY ROUTINE EXTENSION
+================================================================================
+
+WESTERN-EDGE PAUSE
+
+In addition to his established patrol around the north jetty and aircraft berths,
+the north-jetty contractor occasionally walks to the western edge of the jetty and
+urinates into the ocean below.
+
+The authored baseline is approximately forty-five seconds from settling into the
+position through completion and return to normal patrol behavior.
+
+During this interval:
+
+- the guard faces outward toward the water;
+- his visual attention is directed away from most of the jetty deck;
+- his posture and occupied hands make him slower to react than during normal patrol;
+- he remains capable of hearing nearby noise and reacting if clearly alerted;
+- his radio remains on his person and can still become relevant if he detects the
+  team before being controlled;
+- the routine creates an opportunity rather than guaranteeing a free elimination.
+
+The behavior should read as an unsanctioned private lapse by a complacent contractor,
+not as slapstick staging or a prolonged visual gag.
+
+================================================================================
+TACTICAL OPPORTUNITY
+================================================================================
+
+STEALTH APPROACH
+
+The western-edge pause gives a patient stealth player a temporary approach window
+from the guard's rear or blind-side jetty lane.
+
+Valid player responses remain consistent with the mission's broader force rules:
+
+- bypass the guard while his attention is directed toward the water;
+- close distance and perform a quiet non-lethal incapacitation;
+- restrain him if the encounter state and animation space support it;
+- perform a stealth kill;
+- use another grounded distraction or takedown supported by the level geometry.
+
+The game must not make killing the guard mandatory merely because the routine creates
+a favorable lethal opportunity.
+
+OCEAN BODY DISPOSAL
+
+If the player performs a compatible close-quarters lethal takedown at the western
+edge, the geometry may support immediately pushing, tipping, or carrying the body
+over the edge into the water below.
+
+This functions as an optional stealth body-disposal maneuver:
+
+- the body leaves the visible jetty deck and normal land-based discovery routes;
+- the action requires the player to be close enough to the western edge and aligned
+  with a valid contextual animation volume;
+- the takedown and disposal may be presented as one continuous contextual sequence
+  or as a takedown followed by a separate body-interaction prompt;
+- the player must retain enough situational vulnerability that the maneuver does not
+  become a consequence-free automatic solution;
+- nearby guards may still hear a struggle, impact, splash, dropped equipment, or
+  other poorly controlled noise;
+- the guard's radio and weapon must not remain floating or lying conspicuously on the
+  jetty without an authored state;
+- water disposal removes or reduces ordinary visual body discovery but does not erase
+  prior alerts, witnessed behavior, radio calls, or other evidence already generated.
+
+A non-lethal takedown must not automatically result in the unconscious guard being
+thrown into deep water. Water disposal is reserved for a lethal outcome unless the
+source later defines a safe, restrained alternative that does not imply accidental
+drowning.
+
+================================================================================
+READABILITY AND FAIRNESS
+================================================================================
+
+The routine should be learnable through observation rather than hidden trial and
+error.
+
+Possible readable cues include:
+
+- the guard breaking from his normal berth patrol and walking deliberately toward the
+  western edge;
+- a brief preparatory glance to confirm he believes he is unobserved;
+- a consistent stopping point and outward-facing posture;
+- companion observation dialogue or a surveillance tag if the player previously
+  studied the base long enough;
+- a recognizable return-to-patrol animation before his normal sightline resumes.
+
+The routine interval should occur often enough to be tactically meaningful but not so
+frequently that the guard appears implausibly occupied for much of his shift.
+Production may vary the wait between occurrences within a bounded schedule to avoid
+mechanical repetition, while preserving the approximately forty-five-second authored
+vulnerability window once the behavior begins.
+
+DIFFICULTY SCALING
+
+Difficulty tuning may adjust:
+
+- the delay before the routine first becomes available;
+- the variability between occurrences;
+- hearing sensitivity during the pause;
+- the speed with which the guard aborts the behavior after detecting something;
+- the amount of approach cover available near the western jetty edge.
+
+Difficulty must not reduce the authored forty-five-second baseline so severely that
+the behavior ceases to function as a deliberate stealth opportunity.
+
+================================================================================
+ALERT AND INTERRUPTION BEHAVIOR
+================================================================================
+
+The guard does not begin or continue the routine under an active compound alert.
+
+- A completed radio alert, fixed-alarm activation, clearly audible gunfight, confirmed
+  body discovery, or direct visual detection aborts the routine.
+- On interruption, the guard turns back toward the jetty, attempts to regain his
+  weapon-ready posture, and follows the controlling security-state logic.
+- He does not remain artificially locked in the animation while combat develops.
+- If the player initiates a takedown during the transition out of the routine, the
+  animation system must choose a valid contextual response rather than allowing model
+  overlap or invulnerability.
+- The routine must not override his need to react to the Found FBA-2C engine starting,
+  mooring activity, or other major departure cues.
+
+================================================================================
+ENVIRONMENTAL AND PRESENTATION RULES
+================================================================================
+
+- Keep the presentation brief, matter-of-fact, and non-explicit.
+- Do not use a close-up camera or linger on anatomy.
+- Keep the player camera under normal first-person control until a contextual takedown
+  or disposal interaction begins.
+- Use restrained water, clothing, and environmental audio rather than broad comedy.
+- Preserve the nighttime harbor atmosphere and surrounding sightline logic.
+- Define the western jetty edge so the player cannot accidentally fall into the water
+  during an interaction without an authored recovery or failure state.
+- Ensure the water below can receive a body without obvious clipping, hovering, or
+  repeated collision against the jetty.
+- Define whether current, darkness, pilings, or harbor geometry keep the body nearby
+  or move it outside normal visual discovery range.
+- Avoid letting disposed equipment create unexplained permanent physics noise or
+  objective obstruction.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve exactly one contractor patrolling the north jetty and aircraft berths.
+- Preserve the guard's periodic proximity to the Found FBA-2C.
+- Preserve his radio and participation in the compound security network.
+- Preserve the north-jetty guard-to-aircraft planning distance of approximately
+  twenty-two metres.
+- Preserve bypass, non-lethal, restraint, and lethal options.
+- Preserve the approximately forty-five-second western-edge pause as the authored
+  baseline.
+- Preserve the guard facing the ocean and becoming temporarily less visually aware of
+  the jetty behind him.
+- Preserve the opportunity for a stealth kill and compatible ocean body disposal.
+- Do not make the routine active during a full alert.
+- Do not make the guard deaf, invulnerable, or completely unable to react.
+- Do not make water disposal erase alerts or evidence already transmitted.
+- Do not force a non-lethally incapacitated guard into the water.
+- Do not turn the behavior into voyeuristic, explicit, or slapstick presentation.
+- Do not require the player to kill this guard to access or depart in the aircraft.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- lock the exact western-edge stopping point and approach lanes in the north-jetty
+  floor-plan and traversal pass;
+- define patrol spline integration and the bounded interval between routine uses;
+- define surveillance readability and whether the routine can be tagged in advance;
+- author start, occupied, interruption, turn-back, and patrol-resumption animations;
+- author contextual rear takedowns for the western-edge posture;
+- decide whether body disposal is combined with the lethal takedown or remains a
+  separate contextual interaction;
+- define weapon, radio, and loose-equipment handling during a takedown and disposal;
+- define splash audibility, nearby guard hearing, body buoyancy, current, collision,
+  and discovery rules;
+- validate non-lethal behavior so an unconscious guard cannot be unintentionally
+  drowned by a generic body-drop mechanic;
+- define edge safety, player collision, animation cancellation, and recovery states;
+- validate the routine against alert transitions, engine startup, mooring release,
+  and the team's approach to the Found FBA-2C;
+- validate stealth, bypass, non-lethal, lethal-without-disposal, and lethal-with-
+  disposal outcomes without softlocks.
+
+RESULT
+
+The north-jetty contractor now has an intermittent, approximately forty-five-second
+western-edge urination pause integrated into his established berth patrol. The
+behavior gives an observant player a readable temporary blind-side approach and an
+optional stealth-kill / ocean-body-disposal opportunity while preserving non-lethal,
+bypass, alert-response, radio-security, and aircraft-access continuity.
+
+END
