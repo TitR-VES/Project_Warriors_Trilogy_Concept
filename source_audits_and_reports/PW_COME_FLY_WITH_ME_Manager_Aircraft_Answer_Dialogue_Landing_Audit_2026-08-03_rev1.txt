@@ -1,0 +1,73 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — MANAGER AIRCRAFT-ANSWER DIALOGUE
+Generated: 2026-08-03
+Version: rev1
+Status: SOURCE LANDING AUDIT / VARIANT A
+
+SCOPE
+
+Audit the manager's newly locked aircraft-answer reaction and dialogue against the
+existing COME FLY WITH ME manager-office, geography, aircraft-access, and key-
+retrieval sources.
+
+LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Aircraft_Answer_Dialogue_Addendum_2026-08-03_rev1.txt
+
+RELATED SOURCES CHECKED
+
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+
+CONSISTENCY RESULT
+
+PASS.
+
+The dialogue addendum preserves:
+
+- Spook's locked line: "I need a plane. One that I can use. Now!";
+- the manager's frightened and cooperative state;
+- one already fuelled emergency aircraft;
+- the Found FBA-2C at the north jetty;
+- fuel tanks as a locally intelligible route landmark;
+- Spook's immediate "Keys!" command;
+- the manager's subsequent "Top drawer on the right" response;
+- interactive drawer opening and physical key pickup;
+- later transfer of the keys from Spook to Smoke;
+- manager survival and restraint.
+
+The new approximately half-second bewildered reaction is compatible with the existing
+close first-person apprehension framing. It explains the manager's momentary delay as
+confusion caused by the unexpected aircraft demand after his rejected money offer,
+not as resistance or bargaining.
+
+SUPERSESSION RESULT
+
+The earlier statement that the manager's connective aircraft-answer wording remained
+performance-tunable is superseded on this point. The canonical line is now:
+
+    OK. Yeah, OK... I keep one fuelled up for emergencies. Out on the jetty past the
+    fuel tanks.
+
+Performance may shape breath, emphasis, and ellipsis timing, but not replace or
+paraphrase the locked wording in the canonical scene source.
+
+OPEN PRODUCTION WORK
+
+- facial transition from bewilderment back to panic;
+- breath and stammer performance;
+- subtitle timing and punctuation;
+- dialogue mixing under the office radio;
+- visual legibility of the fuel-tank landmark;
+- validation in both manager starting-position variants.
+
+ARCHIVE RESULT
+
+This addition closes the exact aircraft-answer dialogue gap for Variant A. The wider
+manager-office development thread remains not archive-ready because the alerted and
+locked-office Variant B is still a live dependency.
+
+END
