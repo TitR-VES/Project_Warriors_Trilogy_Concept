@@ -1,0 +1,817 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — MANAGER'S-OFFICE ALERTED BREACH / VARIANT B
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED SCENE LOCK / VARIANT B SOURCE-READY
+
+PURPOSE
+
+Develop the fully alerted manager's-office encounter in COME FLY WITH ME as the
+second canonical branch of the office objective.
+
+VARIANT B applies when the compound is fully alerted to Victor Two Bravo's presence,
+the two armed office guards leave the office to pursue the player and teammates, and
+the manager locks himself inside before the team reaches him.
+
+This source controls:
+
+- the expanded manager-lockdown trigger;
+- the manager's armed defensive posture;
+- the approximately ninety-second police-call timing;
+- destructive interaction with the locked wooden office door;
+- Tripper's shotgun breach and Smoke's stun-grenade deployment;
+- the alerted entry order;
+- Spook's floor-level disarm and restraint control;
+- the alerted interrogation dialogue;
+- the manager-pocket key recovery;
+- the immediate key toss to Smoke;
+- Tripper's desk restraint;
+- the office-exit order and weapon-security state.
+
+RELATED CONTROLLING SOURCES
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Aircraft_Answer_Dialogue_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+
+AUTHORITY AND SUPERSESSION RULE
+
+- The geography source continues to control the office location, the seven-contractor
+  layout, the north-jetty route, the fuel-tank landmark, and the fueled Found FBA-2C.
+- The alarm-and-radio source continues to control compound alert, radio and alarm
+  propagation, police arrival, and Coast Guard pressure.
+- This source expands the security source's narrower manager-lockdown condition.
+  Eliminating all seven guards before securing the manager remains a guaranteed
+  lockdown trigger, but it is no longer the only trigger.
+- A full compound alert followed by both office guards deploying out of the office
+  also causes the manager to lock down, arm himself, and begin the external-response
+  sequence described here.
+- This source supersedes the parent breach source's statements that VARIANT B is
+  pending or undeveloped.
+- VARIANT A remains controlling for the unaware, unlocked-office branch.
+- The exact aircraft-answer dialogue established for VARIANT A is reused here after
+  the altered alerted opening exchange.
+- The Variant A drawer retrieval and doorway handover do not apply in Variant B.
+  Variant B uses manager-pocket retrieval and an immediate in-room toss to Smoke.
+
+CORE ASSESSMENT
+
+The proposed alerted version works because it is not merely Variant A with a stronger
+door. It changes every major dramatic and gameplay layer:
+
+- the office guards have left the room and become part of the active base pursuit;
+- the manager has warning, a locked door, a firearm, cover, and time to call police;
+- the player may worsen the danger by shooting through the door before the team is
+  ready;
+- entry requires a visible three-person breach procedure;
+- the stun grenade changes the manager's physical and vocal state;
+- Spook controls the manager on the floor rather than against the desk;
+- the keys are carried in the manager's jacket rather than stored in the desk;
+- Smoke receives the keys immediately inside the office;
+- the manager is restrained to the desk rather than to the office chair;
+- the completed or interrupted police call materially changes the escape pressure.
+
+The scene should feel louder, rougher, and more urgent than Variant A while remaining
+first-person, readable, and tactically coherent.
+
+================================================================================
+VARIANT B PRECONDITIONS AND STATE TRANSITION
+================================================================================
+
+CANONICAL VARIANT B PRECONDITIONS
+
+The full authored Variant B sequence becomes available when:
+
+- the base has entered STATE 2 — COMPOUND ALARM;
+- the manager knows Victor Two Bravo is on the base;
+- both armed office guards leave the office to pursue Spook, Smoke, and Tripper;
+- the manager remains alive and reaches the office door before the team;
+- the office door is still sufficiently intact to be locked and mechanically breached;
+- the manager has access to his handgun and phone;
+- the player has not already entered the office through another opening.
+
+If only one office guard leaves, one remains trapped inside, or the door is destroyed
+before lockdown completes, the encounter transitions to a hybrid or freeform alert
+state rather than forcing this exact choreography.
+
+OFFICE-GUARD DEPLOYMENT
+
+When full alert is established, both office guards abandon their unaware seated
+positions and move out through the office door to join the search for Victor Two
+Bravo.
+
+Their departure must be coordinated with the manager's movement so that:
+
+- the manager does not lock either guard inside accidentally;
+- the guards do not remain scripted at the office threshold while the team approaches;
+- their radios and weapons remain active parts of the compound search;
+- their survival or defeat outside the office remains governed by the broader alert
+  encounter rather than by the manager-room sequence;
+- the office is occupied only by the manager when the locked-door breach begins.
+
+MANAGER LOCKDOWN
+
+After the guards clear the doorway, the manager:
+
+- closes and locks the wooden office door;
+- takes possession of the handgun that normally rests on his desk;
+- moves behind the desk and uses it as cover from the doorway;
+- watches and listens for movement in the hallway;
+- remains frightened but is actively prepared to fire if he believes the team is
+  attacking through the door;
+- begins an approximately ninety-second countdown to contacting police.
+
+The manager is not presented as tactically expert. His defensive position is the
+panicked action of a cornered civilian accomplice who has warning, a firearm, and a
+familiar room.
+
+================================================================================
+NINETY-SECOND POLICE CALL
+================================================================================
+
+TIMER START
+
+The approximately ninety-second timer begins when the manager secures the office door.
+It is an authored baseline rather than an invisible arbitrary delay.
+
+The delay represents the manager:
+
+- processing the full alarm;
+- listening to radio traffic and gunfire;
+- taking cover;
+- deciding that the threat cannot be handled by the private security detail;
+- reaching and using his phone.
+
+CALL ATTEMPT
+
+At approximately ninety seconds, the manager uses his phone to call police.
+
+The call must be a real encounter-state action rather than a purely decorative line:
+
+- if the call completes, the external police response begins;
+- the armed U.S. Coast Guard patrol-boat approach remains linked to the same broader
+  escalation stage under the controlling security source;
+- if the team breaches and interrupts the call before completion, the external
+  response is not falsely marked as completed;
+- if the manager is under immediate fire when the call window arrives, he may delay
+  the attempt briefly and retry when able rather than calmly exposing himself;
+- the phone state and completed-call state must survive checkpoints correctly.
+
+DIALOGUE AND CALL-STATE RULE
+
+The manager later says that the police are on their way as part of his locked alerted
+dialogue. If the call has completed, the statement is factual. If the team breaches
+before completion, the same frightened line functions as a bluff intended to make
+Victor Two Bravo leave.
+
+The actual external-response state must be determined by the completed call, not by
+the dialogue line alone.
+
+================================================================================
+LOCKED WOODEN DOOR AND PLAYER APPROACH
+================================================================================
+
+DOOR PROPERTIES
+
+The manager's office uses a destructible wooden door with a conventional locking
+mechanism suitable for the authored shotgun breach.
+
+The door must support:
+
+- visible bullet impacts and splintering;
+- partial damage without immediate total collapse;
+- destruction of the locking mechanism during the coordinated breach;
+- a narrow post-breach opening suitable for the stun-grenade throw;
+- a fully broken state if the player applies excessive force before the stack forms.
+
+PLAYER FIRE THROUGH THE DOOR
+
+The player may fire at the locked door before the team completes the breach stack.
+Doing so is permitted but dangerous.
+
+If the player fires into or through the door:
+
+- the manager may return fire from behind the desk through the damaged wooden door;
+- his response is based on sound, impact location, and visible damage rather than
+  perfect knowledge of Spook's exact position;
+- incoming rounds may endanger Spook, Smoke, or Tripper during their approach;
+- the manager may shift behind the desk between short return-fire attempts;
+- the team calls out the increased danger and avoids standing exposed directly in
+  front of the door.
+
+The scene is notably safer if the player approaches quietly, avoids announcing the
+team's exact position, and lets the stack form before initiating the breach.
+
+PREMATURE DOOR DESTRUCTION
+
+If the player destroys or opens the door completely before the coordinated breach:
+
+- the authored Tripper / Smoke breach sequence is cancelled;
+- the encounter becomes a freeform armed entry against the alerted manager;
+- the manager, keys, police-call state, survival requirement, and weapon-security
+  requirements remain active;
+- the mission must not softlock because the BREACH prompt can no longer appear.
+
+================================================================================
+TEAM COORDINATION AND STACK
+================================================================================
+
+APPROACH ROLES
+
+As Victor Two Bravo reaches the locked office:
+
+- Spook remains the playable lead and first entrant;
+- Tripper prepares the mechanical breach;
+- Smoke prepares the stun grenade and supports doorway control.
+
+TRIPPER'S BREACHING WEAPON
+
+Tripper retrieves a Remington 870 / Serbu Super-Shorty breaching shotgun from a
+quiver-like back holster or scabbard.
+
+The weapon is configured for the authored breach with:
+
+- breaching rounds;
+- a breaching muzzle adaptor;
+- a compact presentation suitable for carriage as a dedicated tool rather than his
+  primary fighting weapon.
+
+Tripper takes position at the locking side of the door and points the breaching
+weapon at the required downward angle toward the locking mechanism.
+
+The animation must communicate that Tripper is addressing the lock and directing the
+shot safely into the door structure rather than aiming into the occupied room.
+
+SMOKE'S STUN-GRENADE PREPARATION
+
+Smoke readies a stun grenade while maintaining enough control to avoid exposing it or
+prematurely initiating the throw.
+
+He positions so that he can:
+
+- reach the narrow opening created by Tripper;
+- throw the grenade promptly after the lock is defeated;
+- avoid blocking Spook's entry lane;
+- transition into the room immediately after Spook and Tripper.
+
+SPOOK'S POSITION
+
+Spook stacks as the first entrant and remains responsible for closing on the manager,
+disarming him, and securing him alive.
+
+READY STATE AND PLAYER PROMPT
+
+The BREACH prompt appears only when:
+
+- Tripper has the shotgun in position;
+- Smoke has the stun grenade ready;
+- Spook is aligned for first entry;
+- companions are not obstructed or under immediate unresolved fire;
+- the door remains in a valid breachable state.
+
+The player then receives:
+
+    BREACH
+
+The player initiates the sequence. The team does not breach automatically merely
+because all three characters have reached the door.
+
+================================================================================
+MECHANICAL BREACH AND STUN-GRENADE ENTRY
+================================================================================
+
+LOCK DEFEAT
+
+After the player initiates BREACH:
+
+- Tripper fires two quick breaching rounds into the locking mechanism;
+- the lock and surrounding wood disintegrate or fail visibly;
+- the door cracks open by several inches rather than flying fully inward;
+- splintering, smoke, and debris remain readable without obscuring the grenade gap;
+- the manager may react vocally or shift behind the desk, but the coordinated action
+  proceeds too quickly for an effective aimed response through the new gap.
+
+STUN-GRENADE THROW
+
+Smoke immediately:
+
+- pulls the stun-grenade pin;
+- controls the lever until the throw;
+- lobs the grenade through the narrow opening into the office;
+- clears his throwing hand and prepares to enter.
+
+The throw must be robust against door-angle variation and cannot allow the grenade to
+bounce back into the hallway because of minor animation or physics error.
+
+PROTECTIVE CAMERA LOOK
+
+As the grenade enters the room, Spook's first-person view is pulled briefly away from
+the doorway gap to avoid direct exposure to the detonation.
+
+The movement should be:
+
+- short;
+- physically motivated;
+- less severe than a hard cinematic camera takeover;
+- compatible with motion-reduction and flash-sensitivity accessibility settings;
+- immediately releasable if an unexpected hallway threat requires player control.
+
+DETONATION TIMING
+
+Approximately two seconds after the throw, the stun grenade detonates inside the
+office.
+
+The blast produces:
+
+- an intense but brief interior flash;
+- concussive sound and room response;
+- disorientation of the manager;
+- disturbed desk objects, dust, and loose paper where appropriate;
+- no arbitrary lethal injury to the manager in the successful authored branch.
+
+ENTRY ORDER
+
+Immediately after detonation, the alerted entry order is:
+
+1. SPOOK — first entrant and manager-control lead.
+2. TRIPPER — second entrant, following from the lock-breach position.
+3. SMOKE — third entrant after completing the grenade throw.
+
+This order differs intentionally from Variant A. Tripper is already positioned at
+the threshold after defeating the lock, while Smoke completes the grenade action
+before following.
+
+The three enter in rapid succession. The scene remains first-person and does not cut
+to an external cinematic camera.
+
+================================================================================
+MANAGER DISARM AND FLOOR CONTROL
+================================================================================
+
+MANAGER POST-DETONATION STATE
+
+The manager remains behind or near the desk but is heavily disoriented by the stun
+grenade.
+
+He may:
+
+- struggle to orient toward the doorway;
+- retain an incomplete grip on the handgun;
+- attempt to raise or protect the weapon without acquiring a stable sight picture;
+- display impaired balance, blinking, ringing ears, panic, and delayed recognition.
+
+Spook closes before the manager can deliver effective fire after the detonation.
+
+DISARM
+
+Spook reaches the manager, strips the handgun from him, and retains possession of it.
+
+The disarm must visibly establish:
+
+- the manager no longer controls the weapon;
+- the handgun does not fall loose near the desk;
+- Spook has positive possession before transitioning into the tackle;
+- the manager remains alive.
+
+TAKEDOWN TO THE FLOOR
+
+Spook tackles the manager to the office floor and pins him down.
+
+- The manager lands hard enough to lose resistance and breath but not so violently
+  that the scene becomes gratuitous punishment.
+- Spook controls the manager's torso and movement from above or behind.
+- Spook presses the manager's own handgun muzzle into his back.
+- The camera remains in close first-person perspective.
+- The manager can look back over his shoulder toward Spook while pinned.
+
+ALERTED PERFORMANCE STATE
+
+Compared with Variant A, the manager is:
+
+- more agitated;
+- more frightened;
+- more breathless;
+- affected by the lingering stun-grenade disorientation;
+- uncomfortable from the tackle and floor restraint;
+- less capable of sustained speech without catching his breath.
+
+The performance must remain intelligible through subtitles and dynamic audio mixing.
+
+================================================================================
+ALERTED INTERROGATION DIALOGUE
+================================================================================
+
+OPENING LINE
+
+After catching enough breath to speak, the manager looks over his shoulder at Spook
+and stammers:
+
+    MANAGER
+    I don't know what this is about, but take everything you want. I got money in
+    the safe over there. I got nothing else of value here, anyway. You can have it.
+    Just take it and get out. The police are on their way.
+
+The delivery should be fragmented by breath, panic, and residual disorientation
+without changing the locked wording.
+
+AIRCRAFT DEMAND
+
+Spook answers with the same core line used in Variant A:
+
+    SPOOK
+    I need a plane. One that I can use. Now!
+
+The manager looks momentarily bewildered for approximately half a second, again
+struggling to reconcile an aircraft demand with his assumption that this is a robbery.
+Fear then reasserts itself and he replies:
+
+    MANAGER
+    OK. Yeah, OK... I keep one fuelled up for emergencies. Out on the jetty past the
+    fuel tanks.
+
+The same exact aircraft-answer wording is canonical in both variants.
+
+ALERTED KEY DEMAND
+
+Spook demands the keys more urgently than in Variant A:
+
+    SPOOK
+    The keys. Hand them over!
+
+As he speaks, Spook makes a small forceful jab with the handgun muzzle against the
+manager's back.
+
+The jab is a brief coercive emphasis, not repeated torture or an extended beating.
+
+MANAGER KEY RESPONSE
+
+With audible panic and discomfort, the manager replies:
+
+    MANAGER
+    OK, OK, easy! Just take them. They're in my left pocket. In my jacket.
+
+The manager does not attempt to reach for the keys himself while pinned.
+
+================================================================================
+PLAYER SEARCH AND KEY RECOVERY
+================================================================================
+
+SEARCH PROMPT
+
+After the manager identifies the key location, the player receives:
+
+    SEARCH
+
+The prompt targets the manager's left jacket pocket rather than the desk or floor.
+
+FIRST-PERSON SEARCH ANIMATION
+
+Activating SEARCH triggers a short first-person animation in which Spook:
+
+- keeps the manager pinned;
+- maintains control of the manager's handgun;
+- reaches to the manager's left jacket pocket;
+- opens or pulls the pocket as required by the costume;
+- retrieves the Found FBA-2C keyring;
+- visibly confirms possession.
+
+The animation must not imply that the manager is temporarily released or able to
+roll toward another weapon.
+
+KEY FAIL-SAFES
+
+- The keys remain recoverable if cloth or body physics misalign the pocket.
+- The SEARCH interaction cannot select the wrong side of the jacket.
+- If the manager is moved slightly during the tackle, the interaction volume follows
+  the correct pocket.
+- Checkpoints cannot preserve a state in which the manager has surrendered the key
+  location but SEARCH is unavailable.
+- If the manager is accidentally incapacitated, the keys remain physically searchable
+  so the mission does not softlock, although the intended authored outcome keeps him
+  alive.
+
+================================================================================
+IMMEDIATE KEY TOSS TO SMOKE
+================================================================================
+
+SMOKE'S COVER POSITION
+
+By the time Spook retrieves the keys, Smoke has moved to a position just inside the
+broken office doorway and covers outward into the first-floor corridor.
+
+He remains near enough to receive the keys without abandoning forward security.
+
+SCRIPTED LOOK AND TOSS
+
+Immediately after SEARCH completes:
+
+- Spook's view pivots briefly toward Smoke;
+- Spook tosses the Found FBA-2C keyring across the short distance;
+- Smoke catches the keys in mid-air;
+- Smoke secures them in his own pocket or designated pilot-access location;
+- the camera returns promptly to the manager and Tripper.
+
+The toss should span only a few feet. It is a confident practical handoff, not a
+showy trick shot.
+
+KEY-OWNERSHIP STATE
+
+Variant B key ownership progresses as follows:
+
+    MANAGER'S LEFT JACKET POCKET
+    -> SPOOK AFTER SEARCH
+    -> SMOKE AFTER CATCH
+
+Smoke becomes the operational keyholder and pilot-ready character as soon as the
+catch completes.
+
+There is no later office-doorway key-handover animation in Variant B because that
+function has already been completed inside the room.
+
+INTERRUPTION FAIL-SAFE
+
+If an immediate corridor threat prevents the toss:
+
+- combat control takes priority;
+- Spook retains the keys temporarily;
+- the handoff retries at the next safe short-range opportunity;
+- the keys cannot duplicate, disappear, or be considered in Smoke's inventory before
+  the catch or fallback transfer completes.
+
+================================================================================
+TRIPPER RESTRAINT AND OFFICE CLOSEOUT
+================================================================================
+
+CAMERA RETURN TO TRIPPER
+
+After Smoke secures the keys, Spook's view turns briefly toward Tripper, who is
+standing over or beside Spook and the tackled manager.
+
+Spook motions for Tripper to secure the manager.
+
+DESK RESTRAINT
+
+Tripper takes physical control as Spook releases the pin and uses zip cuffs to secure
+the manager to the adjacent desk.
+
+The final restraint must:
+
+- anchor the manager to a credible structural part of the desk;
+- prevent him from reaching the office doorway, phone, loose equipment, or another
+  weapon;
+- keep him alive;
+- remain visibly distinct from Variant A's chair restraint;
+- leave the player's exit route clear.
+
+If the floor plan requires a desk leg, cross-brace, or other fixed element, production
+must choose an anchor that cannot be moved trivially by physics.
+
+WEAPON SECURITY
+
+Spook retains the manager's handgun after the disarm.
+
+Before departure:
+
+- the handgun is not returned to the manager;
+- it is not dropped on the floor or desk;
+- no other loose firearm remains within the restrained manager's reach;
+- any weapon introduced into the room by physics, a fallen guard, or the player's
+  earlier fire must be secured or made inaccessible;
+- Tripper's breaching shotgun returns to controlled carriage after it is no longer
+  needed.
+
+The manager is left restrained, disarmed, and without access to a recoverable weapon.
+
+================================================================================
+OFFICE EXIT ORDER
+================================================================================
+
+SPOOK EXIT
+
+Once Tripper has taken control of the manager and Smoke has secured the keys, normal
+first-person movement resumes for the player.
+
+Spook moves toward the broken office doorway while Smoke continues covering the
+corridor from just inside the room.
+
+SMOKE FOLLOW
+
+Spook passes through the doorway first. Smoke then follows, transitioning his cover
+outward as the team re-enters the corridor.
+
+TRIPPER FOLLOW
+
+Tripper completes the desk restraint, confirms the manager cannot recover a weapon,
+and follows last.
+
+The alerted office-exit order is therefore:
+
+1. SPOOK
+2. SMOKE
+3. TRIPPER
+
+No key handover occurs during this exit because Smoke already received and secured
+the keys immediately after SEARCH.
+
+================================================================================
+PLAYER CONTROL, CAMERA, AND ACCESSIBILITY
+================================================================================
+
+FIRST-PERSON CONTINUITY
+
+The sequence remains first-person through:
+
+- the hallway approach;
+- team stack;
+- Tripper's lock breach;
+- Smoke's grenade throw;
+- the protective look-away;
+- Spook's entry;
+- the manager disarm;
+- floor tackle and pin;
+- interrogation;
+- SEARCH interaction;
+- key toss to Smoke;
+- gesture to Tripper;
+- return to movement and office exit.
+
+CONTROL RULES
+
+- The player initiates BREACH.
+- The player does not manually fire Tripper's breaching shotgun.
+- The player retains meaningful look control during the stack except for short
+  authored alignment and safety movements.
+- The protective look-away and later camera pivots are brief and physically motivated.
+- Combat control overrides the key toss or camera pivot if a new threat enters the
+  corridor.
+- Normal locomotion resumes once Tripper takes control of the manager.
+
+ACCESSIBILITY REQUIREMENTS
+
+- Provide reduced-flash or alternative stun-grenade presentation.
+- Provide motion-reduction options for the protective look-away, tackle, and scripted
+  pivots.
+- Preserve subtitle readability during ringing, gunfire, breach reports, and the
+  manager's breathless speech.
+- Allow widened interaction targeting for SEARCH without selecting the wrong pocket.
+- Preserve clear nonvisual cues for BREACH readiness, grenade detonation, key recovery,
+  key transfer, and completed police-call state.
+
+================================================================================
+POLICE AND COAST GUARD CONSEQUENCE STATE
+================================================================================
+
+If the manager's phone call completes:
+
+- the two-car, eight-officer police response remains active under the controlling
+  security source;
+- one police car approaches the east gate and one approaches the west gate;
+- the armed U.S. Coast Guard patrol boat approaches the north jetty;
+- the team's movement to the Found FBA-2C, startup, water taxi, and takeoff occur under
+  increased time pressure;
+- securing the manager after the call does not retroactively cancel forces already
+  responding unless a later source explicitly creates a cancellation mechanism.
+
+If the call is interrupted before completion:
+
+- the existing compound alert and surviving armed guards remain dangerous;
+- no completed external-response state may be created merely because the manager
+  claimed the police were coming;
+- the mission continues toward the floatplane without the falsely triggered response.
+
+================================================================================
+FAILURE, RECOVERY, AND HYBRID STATES
+================================================================================
+
+- If the player fires through the door and the manager returns fire, companions must
+  seek cover rather than remain frozen in stack positions.
+- If Tripper cannot reach the lock because of fire or collision, BREACH remains pending
+  until the position is safe and valid.
+- If the breaching rounds damage the lock but the door fails to open, a deterministic
+  recovery animation must create the grenade gap.
+- If the stun grenade rebounds, clips, or fails to enter, the game must recover rather
+  than detonating it at the team's feet through a physics error.
+- If the player destroys the door first, transition to freeform entry.
+- If the manager is not disoriented as expected, he must still be preventable from
+  firing an unavoidable point-blank shot during Spook's forced movement.
+- If SEARCH is interrupted, the keys remain in the manager's left jacket pocket until
+  the interaction completes.
+- If the toss to Smoke is interrupted, Spook retains the keys and the transfer retries.
+- If Tripper cannot reach the desk anchor, he uses a validated alternate anchor within
+  the office without leaving the manager unrestrained.
+- If the manager's gun is displaced by physics, Spook's disarm state must still remove
+  it from the manager and secure it.
+- The manager, keys, door, police call, and companion states require checkpoint-safe
+  persistence.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve full compound alert as the Variant B context.
+- Preserve both office guards leaving the office to pursue Victor Two Bravo.
+- Preserve the manager locking the wooden office door after they leave.
+- Preserve the manager arming himself with his desk handgun and taking cover behind
+  the desk.
+- Preserve the approximately ninety-second police-call timing.
+- Preserve external response only after a completed call, while allowing the manager's
+  later police line to function as a bluff if interrupted.
+- Preserve the destructible wooden office door.
+- Preserve possible manager return fire if the player fires at the door.
+- Preserve the quieter approach as the less dangerous stack setup.
+- Preserve Tripper's Remington 870 / Serbu Super-Shorty breaching shotgun, back
+  scabbard, breaching rounds, muzzle adaptor, and downward lock angle.
+- Preserve Smoke preparing and throwing the stun grenade.
+- Preserve the player-initiated BREACH prompt.
+- Preserve two quick breaching rounds and the narrow door gap.
+- Preserve the brief protective look away from the grenade gap.
+- Preserve the approximately two-second grenade delay.
+- Preserve Variant B entry order: Spook, Tripper, Smoke.
+- Preserve Spook disarming the manager before tackling him to the floor.
+- Preserve Spook pressing the manager's own handgun into his back.
+- Preserve the manager's more panicked, breathless, disoriented alerted performance.
+- Preserve the exact alerted opening dialogue and police warning.
+- Preserve Spook's established aircraft-demand line.
+- Preserve the half-second bewilderment and exact fueled-aircraft response shared with
+  Variant A.
+- Preserve the urgent Variant B command: "The keys. Hand them over!"
+- Preserve the small muzzle jab as a single coercive emphasis.
+- Preserve the exact manager response identifying his left jacket pocket.
+- Preserve the SEARCH prompt and first-person pocket-retrieval animation.
+- Preserve the immediate in-room key toss to Smoke.
+- Preserve Smoke catching and securing the keys.
+- Preserve key ownership: manager pocket, Spook, Smoke.
+- Preserve Spook gesturing to Tripper to restrain the manager.
+- Preserve Tripper securing the manager to the adjacent desk with zip cuffs.
+- Preserve Spook retaining the manager's handgun.
+- Preserve no loose weapon accessible to the restrained manager.
+- Preserve alerted exit order: Spook, Smoke, Tripper.
+- Do not repeat the Variant A doorway key handover in Variant B.
+- Do not require both office guards to be killed; their deployment into the broader
+  alert encounter does not predetermine their outcome.
+- Do not convert the full sequence into a third-person cinematic.
+- Do not let the manager become a tactically perfect shooter through the closed door.
+- Do not make the stun grenade lethally resolve the manager in the successful branch.
+- Do not turn the floor control or muzzle jab into prolonged torture.
+- Do not leave the manager unrestrained or armed when the team departs.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- author the exact wooden door construction, lock position, hinge, damage stages, and
+  breachable collision state;
+- author Tripper's back scabbard, draw, ready, downward-angle, two-shot, recovery, and
+  re-stow animations;
+- define breaching-round impact, splintering, debris, smoke, sound, and safe teammate
+  positioning;
+- author Smoke's stun-grenade ready, pin, throw, follow-through, and entry transitions;
+- define grenade trajectory fail-safes and accessibility substitutions;
+- tune the protective camera look, player control limits, and interruption rules;
+- author the alerted entry path and Spook / Tripper / Smoke collision avoidance;
+- define manager return-fire frequency, accuracy, penetration, suppression response,
+  and non-omniscient target estimation;
+- author the manager's phone animation, call duration, interruption, completion cue,
+  and checkpoint state;
+- tune the approximately ninety-second call baseline across difficulty levels without
+  making the branch arbitrary;
+- author manager post-stun behavior, disarm, tackle, floor pin, over-shoulder look,
+  breath, and dialogue performance;
+- define Spook's one-handed control of the manager handgun during SEARCH;
+- author the left-pocket SEARCH interaction for all costume and body-state variants;
+- author the short key toss, Smoke catch, pocketing, interruption, and retry states;
+- author Spook's gesture and Tripper's desk-restraint handoff;
+- choose and validate the physical desk restraint anchor;
+- define the player's return to locomotion and the Spook / Smoke / Tripper exit order;
+- define dynamic subtitle mixing with breach shots, stun effects, gunfire, and ringing;
+- define hybrid encounter states if one office guard remains, the door is partly
+  destroyed, the call is interrupted, or the manager is displaced;
+- validate police and Coast Guard timers against realistic player travel to the north
+  jetty and floatplane startup;
+- validate checkpoints before lockdown, during the call timer, during the stack, after
+  the breach, after SEARCH, after the key toss, and after restraint;
+- validate that Variant A and Variant B remain clearly distinct and both reach the
+  same protected aircraft-access objective without softlock.
+
+RESULT
+
+VARIANT B is now source-ready. Under full compound alert, the two office guards deploy
+into the base pursuit, the manager locks himself inside, arms himself behind the desk,
+and begins a ninety-second police-call sequence. The player can provoke dangerous
+return fire through the destructible wooden door or approach quietly and coordinate a
+safer breach. Tripper defeats the lock with two breaching-shotgun rounds, Smoke throws
+a stun grenade through the gap, and Spook leads the alerted entry. Spook disarms and
+pins the manager on the floor, conducts the altered breathless interrogation, searches
+the manager's left jacket pocket, and tosses the recovered keys to Smoke. Tripper
+secures the manager to the desk, Spook retains the manager's handgun, and the team
+leaves in Spook / Smoke / Tripper order with no accessible weapon left behind.
+
+Together with the existing Variant A sources, the manager's-office encounter now has
+two distinct source-ready branches. Production implementation, floor-plan authoring,
+AI behavior, animation, accessibility, checkpointing, and response balancing remain
+open.
+
+END
