@@ -1,0 +1,165 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — MANAGER HANDGUN FINAL-DISPOSITION ADDENDUM
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED SHARED SCENE LOCK / VARIANTS A AND B
+
+PURPOSE
+
+Lock the final treatment of the shell-company manager's handgun after Spook disarms
+him in both canonical manager-office encounter variants.
+
+This addendum supplements:
+
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+
+It does not alter the manager's weapon-reach, disarm, interrogation, restraint, key
+recovery, key transfer, team exit order, or aircraft-access choreography.
+
+AUTHORITY RULE
+
+- Earlier sources control how Spook obtains the handgun in each variant.
+- This addendum controls the weapon's final disposition after Tripper completes the
+  manager's restraint.
+- Where earlier wording leaves the final choice open between retention, carriage, or
+  another secured treatment, this addendum closes that point.
+
+================================================================================
+SHARED FINAL-DISPOSITION LOCK
+================================================================================
+
+After Tripper has securely restrained the manager, Spook stashes the manager's
+handgun on his person before Victor Two Bravo leaves the office.
+
+The action must establish that:
+
+- Spook retains positive possession of the handgun after the disarm;
+- he does not return it to the desk, floor, chair, manager, or another office surface;
+- he places it into a secure carried position on his own clothing or equipment;
+- the weapon leaves the office with Spook;
+- the restrained manager cannot recover it;
+- no loose manager-owned firearm remains in the room after the team departs.
+
+The exact physical retention point may be finalized during character-rig and costume
+authoring. It may use a secure waistband, jacket, equipment pocket, or another
+credible temporary carriage point, provided the handgun cannot visibly fall free or
+interfere with Spook's existing equipment.
+
+================================================================================
+VARIANT A APPLICATION
+================================================================================
+
+In the unaware-office branch:
+
+- Spook disarms the manager during the failed desktop weapon reach;
+- Spook retains the handgun while Tripper takes physical control of the manager;
+- the player completes the OPEN DRAWER and TAKE KEYS interactions;
+- Tripper secures the manager to the office chair;
+- once the restraint is confirmed, Spook stashes the handgun on his person;
+- the Variant A key handover to Smoke and office exit continue as already locked.
+
+The stow may occur as a short first-person hand movement during the closeout beat. It
+must not delay corridor security or interrupt an active threat response.
+
+================================================================================
+VARIANT B APPLICATION
+================================================================================
+
+In the alerted locked-office branch:
+
+- Spook strips the handgun from the disoriented manager before tackling him;
+- Spook retains it while pinning and interrogating the manager;
+- Spook maintains control of it during SEARCH and the key toss to Smoke;
+- Tripper secures the manager to the adjacent desk with zip cuffs;
+- once the restraint is confirmed, Spook stashes the handgun on his person;
+- the established Spook / Smoke / Tripper office-exit order continues unchanged.
+
+The manager's handgun must not be placed down during the search, key toss, gesture to
+Tripper, or transition back to locomotion.
+
+================================================================================
+INVENTORY AND GAMEPLAY RULES
+================================================================================
+
+The manager's handgun is primarily a narrative and scene-control prop.
+
+- Stashing it does not replace Spook's established sidearm, NOTHING.
+- It does not become Spook's active sidearm.
+- It does not need to appear in the player's selectable weapon inventory.
+- It does not require an ammunition counter, pickup notification, weapon-swap prompt,
+  inspection screen, attachment interface, or later combat-use state.
+- The player cannot drop it back into the office through ordinary inventory actions.
+- The stow is a continuity and security action, not a reward pickup.
+
+Unless a later source explicitly assigns gameplay use to the manager's handgun, it
+remains inaccessible after being stashed.
+
+================================================================================
+FIRST-PERSON PRESENTATION
+================================================================================
+
+- Preserve first-person continuity.
+- Use a brief practical stow animation or hand movement.
+- Do not cut to third person.
+- Do not display a loot banner or acquisition flourish.
+- Do not imply that the handgun replaces NOTHING in Spook's holster.
+- If an immediate threat interrupts the authored stow moment, Spook retains positive
+  control and completes the stow at the next safe closeout opportunity before leaving
+  the office.
+
+================================================================================
+STATE AND FAIL-SAFE RULES
+================================================================================
+
+- The handgun cannot duplicate between Spook and the office.
+- A checkpoint after the disarm but before restraint restores it under Spook's active
+  control.
+- A checkpoint after Tripper's completed restraint restores it as stashed on Spook.
+- The restrained manager cannot recover the weapon during checkpoint reload,
+  companion navigation, or physics reset.
+- The office may not retain a visible duplicate prop after the stow completes.
+- The weapon remains narratively carried by Spook until a later source explicitly
+  establishes disposal, transfer, evidence handling, or another final destination.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve Spook as the person who disarms and retains the manager's handgun.
+- Preserve Tripper completing the manager's restraint before the final stow.
+- Preserve the manager restrained to the chair in Variant A.
+- Preserve the manager restrained to the desk in Variant B.
+- Preserve NOTHING as Spook's functional sidearm.
+- Preserve the manager's handgun as a non-player-accessible narrative prop after the
+  stow unless later authority explicitly changes that status.
+- Preserve all existing key-recovery, key-transfer, dialogue, camera, and exit beats.
+- Do not leave the handgun loose or accessible in the office.
+- Do not create a second selectable sidearm slot solely for this scene.
+- Do not replace, unequip, or suppress NOTHING because Spook carries the confiscated
+  handgun.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- choose the exact temporary retention point on Spook's costume or equipment;
+- author a short first-person stow animation compatible with both manager positions
+  and both restraint outcomes;
+- validate the action against Spook's existing sidearm, clothing, long gun, key
+  bundle, and companion collision states;
+- define interruption and deferred-stow behavior during renewed corridor threats;
+- ensure inventory UI does not expose the handgun as an unintended selectable weapon;
+- preserve checkpoint and prop-state consistency across the office exit and N272BT
+  departure sequence.
+
+RESULT
+
+In both manager-office variants, Spook removes the manager's handgun from the office
+and securely stashes it on his person after Tripper completes the restraint. The
+weapon remains a narrative prop rather than a second functional sidearm, NOTHING
+retains its established gameplay role, and the restrained manager is left without
+access to any loose firearm.
+
+END
