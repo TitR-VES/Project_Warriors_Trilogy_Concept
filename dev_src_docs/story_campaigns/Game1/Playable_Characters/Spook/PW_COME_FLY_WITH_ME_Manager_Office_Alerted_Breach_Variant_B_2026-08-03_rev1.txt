@@ -36,6 +36,7 @@ RELATED CONTROLLING SOURCES
 - PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
 - PW_COME_FLY_WITH_ME_Manager_Aircraft_Answer_Dialogue_Addendum_2026-08-03_rev1.txt
 - PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Variant_B_Deceased_Manager_Key_Recovery_Fallback_2026-08-03_rev1.txt
 
 AUTHORITY AND SUPERSESSION RULE
 
@@ -54,8 +55,11 @@ AUTHORITY AND SUPERSESSION RULE
 - VARIANT A remains controlling for the unaware, unlocked-office branch.
 - The exact aircraft-answer dialogue established for VARIANT A is reused here after
   the altered alerted opening exchange.
-- The Variant A drawer retrieval and doorway handover do not apply in Variant B.
-  Variant B uses manager-pocket retrieval and an immediate in-room toss to Smoke.
+- The Variant A drawer retrieval and doorway handover do not apply in normal live-
+  manager Variant B. Normal Variant B uses manager-pocket retrieval and an immediate
+  in-room toss to Smoke.
+- If the manager dies before live apprehension, the dedicated deceased-manager
+  fallback controls body SEARCH and reuses Variant A's direct doorway handover.
 
 CORE ASSESSMENT
 
@@ -509,7 +513,12 @@ SCRIPTED LOOK AND TOSS
 Immediately after SEARCH completes:
 
 - Spook's view pivots briefly toward Smoke;
-- Spook tosses the Found FBA-2C keyring across the short distance;
+- Spook calls:
+
+    SPOOK
+    Smoke! Catch!
+
+- Spook immediately tosses the Found FBA-2C keyring across the short distance;
 - Smoke catches the keys in mid-air;
 - Smoke secures them in his own pocket or designated pilot-access location;
 - the camera returns promptly to the manager and Tripper.
@@ -528,8 +537,11 @@ Variant B key ownership progresses as follows:
 Smoke becomes the operational keyholder and pilot-ready character as soon as the
 catch completes.
 
-There is no later office-doorway key-handover animation in Variant B because that
-function has already been completed inside the room.
+There is no later office-doorway key-handover animation in normal live-manager Variant
+B because that function has already been completed inside the room.
+
+If the manager is dead before key recovery, the dedicated fallback instead uses a
+body SEARCH followed by the Variant A direct doorway handover.
 
 INTERRUPTION FAIL-SAFE
 
@@ -613,8 +625,8 @@ The alerted office-exit order is therefore:
 2. SMOKE
 3. TRIPPER
 
-No key handover occurs during this exit because Smoke already received and secured
-the keys immediately after SEARCH.
+No key handover occurs during this exit in normal live-manager Variant B because
+Smoke already received and secured the keys immediately after SEARCH.
 
 ================================================================================
 PLAYER CONTROL, CAMERA, AND ACCESSIBILITY
@@ -672,8 +684,9 @@ If the manager's phone call completes:
 - the armed U.S. Coast Guard patrol boat approaches the north jetty;
 - the team's movement to the Found FBA-2C, startup, water taxi, and takeoff occur under
   increased time pressure;
-- securing the manager after the call does not retroactively cancel forces already
-  responding unless a later source explicitly creates a cancellation mechanism.
+- securing or killing the manager after the call does not retroactively cancel forces
+  already responding unless a later source explicitly creates a cancellation
+  mechanism.
 
 If the call is interrupted before completion:
 
@@ -704,6 +717,8 @@ FAILURE, RECOVERY, AND HYBRID STATES
   the office without leaving the manager unrestrained.
 - If the manager's gun is displaced by physics, Spook's disarm state must still remove
   it from the manager and secure it.
+- If the manager is killed before live apprehension, transition to the dedicated body-
+  search fallback rather than failing or awarding the keys automatically.
 - The manager, keys, door, police call, and companion states require checkpoint-safe
   persistence.
 
@@ -741,6 +756,7 @@ CONTINUITY CONSTRAINTS
 - Preserve the small muzzle jab as a single coercive emphasis.
 - Preserve the exact manager response identifying his left jacket pocket.
 - Preserve the SEARCH prompt and first-person pocket-retrieval animation.
+- Preserve Spook's `Smoke! Catch!` cue in normal live-manager Variant B.
 - Preserve the immediate in-room key toss to Smoke.
 - Preserve Smoke catching and securing the keys.
 - Preserve key ownership: manager pocket, Spook, Smoke.
@@ -749,14 +765,18 @@ CONTINUITY CONSTRAINTS
 - Preserve Spook retaining the manager's handgun.
 - Preserve no loose weapon accessible to the restrained manager.
 - Preserve alerted exit order: Spook, Smoke, Tripper.
-- Do not repeat the Variant A doorway key handover in Variant B.
+- Preserve the deceased-manager fallback when the manager is killed before live
+  apprehension.
+- Do not repeat the Variant A doorway key handover in normal live-manager Variant B.
 - Do not require both office guards to be killed; their deployment into the broader
   alert encounter does not predetermine their outcome.
 - Do not convert the full sequence into a third-person cinematic.
 - Do not let the manager become a tactically perfect shooter through the closed door.
-- Do not make the stun grenade lethally resolve the manager in the successful branch.
+- Do not make the stun grenade lethally resolve the manager in the successful authored
+  branch.
 - Do not turn the floor control or muzzle jab into prolonged torture.
-- Do not leave the manager unrestrained or armed when the team departs.
+- Do not leave the manager unrestrained or armed when the team departs after live
+  capture.
 
 ================================================================================
 OPEN PRODUCTION REQUIREMENTS
@@ -789,6 +809,7 @@ OPEN PRODUCTION REQUIREMENTS
 - define dynamic subtitle mixing with breach shots, stun effects, gunfire, and ringing;
 - define hybrid encounter states if one office guard remains, the door is partly
   destroyed, the call is interrupted, or the manager is displaced;
+- implement and validate the dedicated deceased-manager body-search fallback;
 - validate police and Coast Guard timers against realistic player travel to the north
   jetty and floatplane startup;
 - validate checkpoints before lockdown, during the call timer, during the stack, after
@@ -805,13 +826,18 @@ return fire through the destructible wooden door or approach quietly and coordin
 safer breach. Tripper defeats the lock with two breaching-shotgun rounds, Smoke throws
 a stun grenade through the gap, and Spook leads the alerted entry. Spook disarms and
 pins the manager on the floor, conducts the altered breathless interrogation, searches
-the manager's left jacket pocket, and tosses the recovered keys to Smoke. Tripper
-secures the manager to the desk, Spook retains the manager's handgun, and the team
-leaves in Spook / Smoke / Tripper order with no accessible weapon left behind.
+the manager's left jacket pocket, and calls `Smoke! Catch!` before tossing the
+recovered keys to Smoke. Tripper secures the manager to the desk, Spook retains the
+manager's handgun, and the team leaves in Spook / Smoke / Tripper order with no
+accessible weapon left behind.
+
+If the manager is killed before this live apprehension completes, the dedicated
+fallback preserves mission continuity through physical body SEARCH and the Variant A
+direct doorway handover before the team proceeds to N272BT.
 
 Together with the existing Variant A sources, the manager's-office encounter now has
-two distinct source-ready branches. Production implementation, floor-plan authoring,
-AI behavior, animation, accessibility, checkpointing, and response balancing remain
-open.
+two distinct source-ready branches plus a source-ready lethal contingency. Production
+implementation, floor-plan authoring, AI behavior, animation, accessibility,
+checkpointing, and response balancing remain open.
 
 END
