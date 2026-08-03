@@ -7,12 +7,14 @@ Status: OWNER-DEVELOPED SHARED SCENE LOCK / VARIANTS A AND B
 PURPOSE
 
 Lock the final treatment of the shell-company manager's handgun after Spook disarms
-him in both canonical manager-office encounter variants.
+or otherwise secures it in both canonical manager-office encounter variants and the
+Variant B deceased-manager fallback.
 
 This addendum supplements:
 
 - PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
 - PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Variant_B_Deceased_Manager_Key_Recovery_Fallback_2026-08-03_rev1.txt
 - PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
 
 It does not alter the manager's weapon-reach, disarm, interrogation, restraint, key
@@ -20,9 +22,10 @@ recovery, key transfer, team exit order, or aircraft-access choreography.
 
 AUTHORITY RULE
 
-- Earlier sources control how Spook obtains the handgun in each variant.
+- Earlier sources control how Spook obtains or secures the handgun in each outcome.
 - This addendum controls the weapon's final disposition after Tripper completes the
-  manager's restraint.
+  live manager's restraint or, in the deceased-manager fallback, after the room and
+  displaced weapon have been secured.
 - Where earlier wording leaves the final choice open between retention, carriage, or
   another secured treatment, this addendum closes that point.
 
@@ -30,16 +33,23 @@ AUTHORITY RULE
 SHARED FINAL-DISPOSITION LOCK
 ================================================================================
 
-After Tripper has securely restrained the manager, Spook stashes the manager's
+After Tripper has securely restrained the living manager, Spook stashes the manager's
 handgun on his person before Victor Two Bravo leaves the office.
+
+If the manager has been killed before live apprehension, Spook instead performs the
+same stow after the office is safe and the manager's handgun has been located and
+secured.
 
 The action must establish that:
 
-- Spook retains positive possession of the handgun after the disarm;
-- he does not return it to the desk, floor, chair, manager, or another office surface;
+- Spook retains positive possession of the handgun after the disarm or room-clear
+  recovery;
+- he does not return it to the desk, floor, chair, body, manager, or another office
+  surface;
 - he places it into a secure carried position on his own clothing or equipment;
 - the weapon leaves the office with Spook;
-- the restrained manager cannot recover it;
+- the restrained manager, deceased body, surviving guards, or later entrants cannot
+  recover it;
 - no loose manager-owned firearm remains in the room after the team departs.
 
 The exact physical retention point may be finalized during character-rig and costume
@@ -67,7 +77,7 @@ must not delay corridor security or interrupt an active threat response.
 VARIANT B APPLICATION
 ================================================================================
 
-In the alerted locked-office branch:
+In the normal alerted locked-office branch:
 
 - Spook strips the handgun from the disoriented manager before tackling him;
 - Spook retains it while pinning and interrogating the manager;
@@ -78,6 +88,24 @@ In the alerted locked-office branch:
 
 The manager's handgun must not be placed down during the search, key toss, gesture to
 Tripper, or transition back to locomotion.
+
+================================================================================
+VARIANT B DECEASED-MANAGER FALLBACK APPLICATION
+================================================================================
+
+If the manager is killed before live apprehension:
+
+- his handgun may remain on his body, fall behind the desk, or be displaced elsewhere
+  within the damaged office;
+- Victor Two Bravo clears the room and establishes the weapon's location;
+- Spook secures the handgun under positive control;
+- once the office is safe, Spook stashes it on his person before departure;
+- the deceased-manager SEARCH, N272BT key recovery, and Variant A-style handover to
+  Smoke continue as separately locked.
+
+No restraint animation is required because the manager is dead. The room-clear state
+replaces live restraint completion as the safe point after which Spook can perform the
+stow.
 
 ================================================================================
 INVENTORY AND GAMEPLAY RULES
@@ -114,11 +142,15 @@ STATE AND FAIL-SAFE RULES
 ================================================================================
 
 - The handgun cannot duplicate between Spook and the office.
-- A checkpoint after the disarm but before restraint restores it under Spook's active
-  control.
-- A checkpoint after Tripper's completed restraint restores it as stashed on Spook.
-- The restrained manager cannot recover the weapon during checkpoint reload,
-  companion navigation, or physics reset.
+- A checkpoint after the live disarm but before restraint restores it under Spook's
+  active control.
+- A checkpoint after Tripper's completed live restraint restores it as stashed on
+  Spook.
+- In the deceased-manager fallback, a checkpoint before room-clear weapon recovery
+  restores the handgun in a deterministic reachable office state.
+- A checkpoint after deceased-manager room clearance and stow restores it on Spook.
+- The restrained manager, deceased body, or surviving guard cannot recover the weapon
+  during checkpoint reload, companion navigation, or physics reset.
 - The office may not retain a visible duplicate prop after the stow completes.
 - The weapon remains narratively carried by Spook until a later source explicitly
   establishes disposal, transfer, evidence handling, or another final destination.
@@ -127,10 +159,13 @@ STATE AND FAIL-SAFE RULES
 CONTINUITY CONSTRAINTS
 ================================================================================
 
-- Preserve Spook as the person who disarms and retains the manager's handgun.
-- Preserve Tripper completing the manager's restraint before the final stow.
+- Preserve Spook as the person who disarms or secures and retains the manager's
+  handgun.
+- Preserve Tripper completing the living manager's restraint before the final stow.
+- Preserve room clearance and weapon recovery as the deceased-manager fallback
+  equivalent.
 - Preserve the manager restrained to the chair in Variant A.
-- Preserve the manager restrained to the desk in Variant B.
+- Preserve the living manager restrained to the desk in normal Variant B.
 - Preserve NOTHING as Spook's functional sidearm.
 - Preserve the manager's handgun as a non-player-accessible narrative prop after the
   stow unless later authority explicitly changes that status.
@@ -145,21 +180,24 @@ OPEN PRODUCTION REQUIREMENTS
 ================================================================================
 
 - choose the exact temporary retention point on Spook's costume or equipment;
-- author a short first-person stow animation compatible with both manager positions
-  and both restraint outcomes;
+- author a short first-person stow animation compatible with live-control and
+  deceased-manager room-clear outcomes;
 - validate the action against Spook's existing sidearm, clothing, long gun, key
   bundle, and companion collision states;
 - define interruption and deferred-stow behavior during renewed corridor threats;
 - ensure inventory UI does not expose the handgun as an unintended selectable weapon;
+- validate displaced handgun locations after penetrating fire, blast, body movement,
+  and freeform entry;
 - preserve checkpoint and prop-state consistency across the office exit and N272BT
   departure sequence.
 
 RESULT
 
-In both manager-office variants, Spook removes the manager's handgun from the office
-and securely stashes it on his person after Tripper completes the restraint. The
-weapon remains a narrative prop rather than a second functional sidearm, NOTHING
-retains its established gameplay role, and the restrained manager is left without
-access to any loose firearm.
+Across both live manager-office variants and the Variant B deceased-manager fallback,
+Spook removes the manager's handgun from the office and securely stashes it on his
+person once the relevant restraint or room-clear state is complete. The weapon remains
+a narrative prop rather than a second functional sidearm, NOTHING retains its
+established gameplay role, and the office is left without an accessible manager-owned
+firearm.
 
 END
