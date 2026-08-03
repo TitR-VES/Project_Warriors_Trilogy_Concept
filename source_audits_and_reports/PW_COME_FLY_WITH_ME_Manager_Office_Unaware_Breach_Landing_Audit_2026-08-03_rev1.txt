@@ -2,69 +2,112 @@ PROJECT WARRIORS — SOURCE LANDING AUDIT
 COME FLY WITH ME — MANAGER'S-OFFICE UNAWARE BREACH
 Generated: 2026-08-03
 Version: rev1
-Status: SOURCE LANDING AUDIT
+Status: OPEN PR LANDING AUDIT / VARIANT A SOURCE-READY / VARIANT B LIVE
 
 SCOPE
 
-Audit the landing of the owner-developed unaware-manager's-office breach sequence for
-COME FLY WITH ME.
+Audit the unaware manager's-office breach source and its apprehension / weapon-
+security addendum against the current controlling COME FLY WITH ME geography and
+security architecture.
 
-LANDED SOURCE
+LANDED SOURCES
 
 - dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
   PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
 
-CONTROLLING CONTEXT CHECKED
+CONTROLLING SOURCES CHECKED
 
 - PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
 - PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
 
 CONSISTENCY RESULT
 
-PASS WITH LIVE DEPENDENCY.
+PASS — the new scene sources preserve:
 
-The landed sequence preserves:
-
-- the Christiansted first-floor manager's-office objective;
-- two armed office guards and one live manager;
-- Spook, Smoke, and Tripper as Victor Two Bravo;
+- the first-floor manager's-office objective;
+- exactly two armed office guards and one live manager;
+- the unaware office door as unlocked in Variant A;
+- Spook as first entrant, Smoke as door operator / second entrant, and Tripper as
+  third entrant / final corridor security;
+- first-person semi-scripted presentation with meaningful player look and aim control;
+- brief threshold-only time dilation rather than a reusable bullet-time system;
+- non-lethal, suppressed-lethal, and mixed resolution of the office guards;
+- manager survival, disarm, interrogation, and chair restraint;
 - the fueled Found FBA-2C at the north jetty;
-- manager restraint rather than casual execution;
-- non-lethal, suppressed-lethal, and mixed-force validity;
-- the unaware branch's unlocked office door;
-- the separate alerted manager-lockdown branch;
-- police and Coast Guard escalation as controlling alert-state material;
-- La Avispa's exclusion from Game 1.
+- aircraft access through physical key recovery;
+- no requirement to kill every guard;
+- the full-alert manager-lockdown branch as a separate unresolved Variant B;
+- police and Coast Guard escalation authority in the dedicated security source;
+- no insertion of La Avispa into Game 1.
 
-The source adds no contradiction to the four-alarm, eight-radio-character, four-camera,
-localized-investigation, full-alert, manager-lockdown, police-response, or maritime-
-response locks.
+APPREHENSION DETAIL LANDED
 
-DESIGN IMPROVEMENTS LANDED
+The supplemental addendum now locks:
 
-- first-person semi-scripted breach with partial player control;
-- locked entry order: Spook first, Smoke second as door operator, Tripper third as rear
-  security;
-- brief threshold-only time dilation for action readability;
-- adaptive teammate target reassignment if the player engages an office guard;
-- manager disarm and live key handoff;
-- protected dialogue beats for the aircraft demand and keys;
-- diegetic "Come Fly With Me" synchronization concept;
-- explicit music-clearance and fallback requirement;
-- failover from unaware choreography into alert-state play if scene preconditions fail.
+- casual pre-breach office conversation and smoking / drink routines;
+- the manager seated behind the desk or leaning against its visitor-facing side;
+- the manager's handgun beside the crystal ashtray, liquor decanter, and tumbler;
+- the common brief startle response at entry;
+- position-dependent failed weapon reaches;
+- Spook's hand interception, desktop impact, disarm, shirt control, and under-chin
+  point-blank hold;
+- the close first-person manager framing;
+- the manager's panic dialogue, aircraft answer, and "Top drawer on the right" key
+  location;
+- Spook retaining the manager's handgun;
+- Smoke and Tripper securing both office guards' weapons.
+
+INTERACTIVE KEY-RETRIEVAL CORRECTION
+
+The source now explicitly avoids an awkward reach across the manager's desk:
+
+- after the drawer location is disclosed, Tripper takes secure physical control of
+  the manager and begins the chair restraint;
+- Spook releases the manager only after Tripper has control;
+- normal first-person locomotion resumes;
+- the player moves Spook around the desk to the chair side;
+- the player follows an OPEN DRAWER prompt on the physical top-right drawer;
+- the keys become visible inside the open drawer;
+- the player follows a separate TAKE KEYS prompt;
+- aircraft access resolves only after the second interaction completes;
+- the drawer, keys, companion positions, checkpoint state, and accessibility
+  interaction volumes require fail-safe validation.
+
+MUSIC DEPENDENCY
+
+Frank Sinatra's "Come Fly With Me" remains the preferred diegetic cue. Commercial
+music clearance remains an explicit dependency, with a separately cleared or newly
+composed mid-century lounge / big-band fallback required. The scene does not depend
+on quoted lyrics.
 
 LIVE DEPENDENCY
 
-The alerted-manager's-office branch remains undeveloped. The full office encounter is
-therefore not ready for production closeout. VARIANT B must still define the locked-
-door breach, manager barricade, active police call, weapon and surrender behavior,
-key recovery under time pressure, Coast Guard pressure, and differentiation from the
-unaware branch.
+Variant B remains unresolved and prevents the overall office encounter from being
+production-complete. It must still define:
+
+- the locked-door breach method;
+- manager barricade and police-call behavior;
+- surviving office-guard state;
+- manager weapon posture after warning;
+- surrender, incapacitation, and key-recovery fail-safes;
+- police-response timer pressure;
+- Coast Guard approach pressure;
+- transition to the floatplane and escape consequences.
 
 RETIREMENT / ARCHIVE RESULT
 
-The underlying COME FLY WITH ME mission-development thread is NOT archive-ready on the
-basis of this source alone. The unaware variant is landed, but the requested alerted
-variant remains a live dependency.
+The COME FLY WITH ME manager-office development thread is not archive-ready on the
+basis of Variant A alone. The unaware branch and its corrected key retrieval are
+landed, but the requested alerted Variant B remains a live dependency.
+
+SOURCE-LANDING RESULT
+
+The unaware Variant A is source-ready and consistent with the controlling mission
+architecture. Its apprehension, weapon-security, and interactive key-retrieval beats
+are sufficiently explicit for continued floor-plan and implementation development.
+The full two-variant office encounter is not yet production-complete because Variant
+B remains a live narrative, gameplay, and escalation dependency.
 
 END
