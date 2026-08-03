@@ -1,0 +1,292 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — OFFICE-EXIT FLOATPLANE KEY HANDOVER ADDENDUM
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED SUPPLEMENTAL SCENE LOCK / VARIANT A
+
+PURPOSE
+
+Define the first-person handoff of the Found FBA-2C floatplane keys from Spook to
+Smoke as Victor Two Bravo exits the manager's office after the manager has been
+secured and the player has physically recovered the keys from the top-right desk
+drawer.
+
+This source supplements:
+
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+
+It does not replace the controlling Christiansted geography, security-system,
+aircraft-access, manager-lockdown, police-response, Coast Guard-response, or
+alert-state sources. The alerted locked-office variant remains a separate live
+development dependency.
+
+AUTHORITY RULE
+
+- The parent breach source controls the unaware entry, team order, guard resolution,
+  manager capture, and transition toward the north jetty.
+- The manager-apprehension addendum controls the manager's failed handgun reach,
+  interrogation, Tripper control handoff, player movement around the desk, separate
+  OPEN DRAWER and TAKE KEYS interactions, and weapon-security closeout.
+- This addendum controls the immediate office-exit positioning, doorway coverage,
+  proximity trigger, brief first-person camera guidance, and transfer of the
+  floatplane keys from Spook to Smoke.
+- Where earlier wording assigns final doorway coverage to Tripper after restraint,
+  this source supersedes that assignment for the office-exit beat: Smoke moves ahead
+  and covers from just inside the doorway while Tripper finishes securing the manager
+  and any surviving office occupants.
+
+================================================================================
+SCENE PRECONDITIONS
+================================================================================
+
+The handover beat becomes available only after:
+
+- the two office guards have been subdued, killed, surrendered, or otherwise removed
+  as immediate threats;
+- their weapons have been secured or are under active team control;
+- Tripper has established secure physical control of the manager and is completing or
+  has completed the chair restraint;
+- the player has used OPEN DRAWER on the top-right desk drawer;
+- the player has used TAKE KEYS and Spook physically possesses the Found FBA-2C keys;
+- the office doorway and immediate corridor are not occupied by an unresolved active
+  threat requiring free combat control.
+
+Opening the drawer alone is insufficient. The exit handover cannot trigger until the
+keys have actually been taken.
+
+================================================================================
+TEAM EXIT POSITIONING
+================================================================================
+
+SMOKE — FORWARD SECURITY AND PILOT HANDOFF
+
+After Spook takes the keys, Smoke moves ahead of the player toward the office exit.
+
+- Smoke positions himself just inside the office doorway rather than stepping blindly
+  into the first-floor corridor.
+- He faces outward and covers the corridor, north-service approach, and immediate exit
+  lane according to the final office geometry.
+- His position leaves enough interior space for Spook to approach and pass without a
+  companion collision or doorway blockage.
+- Smoke remains the forward-security element while also becoming the recipient of the
+  floatplane keys because he will pilot the Found FBA-2C.
+- He does not abandon coverage to cross the room and collect the keys from Spook.
+
+TRIPPER — RESTRAINT AND REAR ROOM SECURITY
+
+Tripper remains with the manager while Smoke advances.
+
+- Tripper completes the manager's zip-cuff restraint to the office chair.
+- He confirms that the manager cannot reach the desk, handgun, drawer, or any guard
+  weapon.
+- If one or both office guards survived, Tripper ensures their restraint or secure
+  incapacitation state remains valid.
+- Tripper provides rear room awareness until Spook and Smoke begin moving into the
+  corridor.
+- He does not need to retake the doorway before the key handoff; Smoke owns that
+  position during the exit beat.
+
+SPOOK — PLAYER MOVEMENT
+
+After taking the keys, normal first-person locomotion remains active.
+
+- The player moves away from the chair side of the desk and approaches the office
+  doorway.
+- Smoke's covered position should be naturally visible along the exit route.
+- No additional button prompt is required merely to initiate the handoff; proximity
+  and scene state trigger it once the player approaches Smoke closely enough.
+- The trigger volume must be positioned so the handoff occurs before Spook attempts
+  to squeeze past Smoke through the doorway.
+
+================================================================================
+PROXIMITY-TRIGGERED FIRST-PERSON HANDOVER
+================================================================================
+
+TRIGGER
+
+When Spook enters the authored proximity volume near Smoke:
+
+- the game briefly constrains forward movement to prevent the player from colliding
+  with or passing through Smoke during the animation;
+- a short guided first-person camera look turns Spook's view toward Smoke and the key
+  handoff space;
+- the movement should feel like Spook naturally glancing toward a teammate positioned
+  beside him, not like a hard cinematic snap;
+- the guided look begins only when the corridor state is safe enough for the short
+  interaction.
+
+The handover is scripted because Smoke is the designated pilot and possession of the
+keys must transfer reliably before the team reaches the aircraft. It should remain
+brief enough that it does not feel like a cutscene interrupting the office exit.
+
+CAMERA MOVEMENT
+
+The camera treatment is first-person and restrained.
+
+- Use a short authored look or camera nudge toward Smoke.
+- Preserve small responsive player-camera movement where technically feasible.
+- Do not cut to third person.
+- Do not rotate the player through an implausibly large angle if Smoke is outside the
+  natural forward field of view; level geometry and Smoke's position should keep the
+  handoff inside a comfortable glance range.
+- Motion-reduction accessibility may replace or soften the guided movement while
+  preserving the same key-transfer state.
+
+KEY HANDOVER ANIMATION
+
+The animation shows Spook physically handing the Found FBA-2C keys to Smoke.
+
+- Spook brings the floatplane keyring into the lower center or side of the first-
+  person frame.
+- He extends the keys toward Smoke.
+- Smoke accepts them with a free hand while maintaining a credible covered posture.
+- Smoke may briefly shift his weapon to low ready, retain it one-handed, or use a
+  sling-supported position according to the final weapon and animation setup.
+- The keys visibly leave Spook's hand and enter Smoke's possession.
+- Smoke secures the keys on his person or in a readily accessible pilot-use location.
+- Control returns immediately after the transfer.
+
+The animation must communicate a real transfer of mission-critical equipment, not an
+inventory icon disappearing between characters.
+
+DIALOGUE
+
+No new spoken line is required for the handoff. The action is self-explanatory:
+Smoke is the pilot, Spook has recovered the keys, and the team is moving to the
+aircraft.
+
+A short acknowledgement bark may be considered during performance development, but
+this source does not lock one. Any added line must remain brief, professional, and
+subordinate to corridor awareness.
+
+================================================================================
+GAMEPLAY AND STATE LOGIC
+================================================================================
+
+KEY POSSESSION STATE
+
+The mission state progresses through three distinct ownership steps:
+
+1. KEYS IN DRAWER
+   - Aircraft access is not yet acquired.
+
+2. KEYS HELD BY SPOOK
+   - Triggered by TAKE KEYS.
+   - The office objective is complete, but the designated pilot has not yet received
+     the keys.
+
+3. KEYS HELD BY SMOKE
+   - Triggered by completion of the first-person handover animation.
+   - Smoke is now prepared to unlock, start, and pilot the Found FBA-2C.
+
+The mission may update the principal objective after TAKE KEYS, but the internal
+pilot-readiness state must remain incomplete until Smoke receives them.
+
+THREAT INTERRUPTION AND DEFERRAL
+
+The handoff must not remove combat control during an unresolved immediate threat.
+
+- If an enemy enters or fires into the corridor before the proximity trigger, Smoke
+  and Spook retain normal combat behavior and the handoff is deferred.
+- If the office returns to an active threat state, the animation does not begin.
+- Once the threat is resolved, Smoke returns to the doorway handoff position or the
+  system selects a nearby safe fallback point.
+- If the animation has begun and a serious threat interrupts, production may either
+  complete the extremely short transfer or abort safely and retry; the keys must
+  never be duplicated, lost, or left in an undefined possession state.
+
+PLAYER-PATH SAFETY
+
+- Smoke cannot block the only valid office exit indefinitely.
+- The proximity trigger must occur before collision pressure causes awkward NPC
+  shuffling.
+- After the handoff, Smoke moves first into the corridor or shifts aside to let Spook
+  follow according to the authored formation.
+- Tripper follows after confirming the manager and room remain secure.
+- Companion navigation must support both manager starting positions and every valid
+  office-guard outcome.
+
+CHECKPOINT AND FAIL-SAFE RULES
+
+- A checkpoint after TAKE KEYS but before the handoff must restore Spook as keyholder
+  and Smoke in a valid handoff position.
+- A checkpoint after the handoff must restore Smoke as keyholder.
+- The handover cannot trigger twice.
+- The keys cannot remain visible in Spook's inventory after Smoke receives them.
+- Smoke cannot reach the aircraft without the keyholder state resolving correctly.
+- If Smoke is displaced by navigation or combat, the handoff relocates to the nearest
+  safe, believable team-formation point before the aircraft-access interaction.
+- The system must prevent mission progression to aircraft startup while key ownership
+  is undefined.
+
+================================================================================
+PLAYER-PERSPECTIVE AND TONE RULES
+================================================================================
+
+- Preserve first-person continuity from TAKE KEYS through the office exit and handoff.
+- Keep the guided camera look short and physically motivated.
+- Avoid a cinematic black bar, camera cut, or third-person insert.
+- Preserve the physical presence of the keyring in Spook's hand.
+- Preserve Smoke's outward corridor coverage before and during the transfer.
+- Do not make Smoke appear careless with his weapon merely to free a hand.
+- Keep the transfer operational and unceremonious; it is a practical division of team
+  roles, not an emotional exchange.
+- Frank Sinatra's "Come Fly With Me," or the cleared fallback cue, may continue
+  diegetically from the office during the handoff and become more occluded as the team
+  moves into the corridor.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve Spook as the player who opens the drawer and initially takes the keys.
+- Preserve Smoke as the eventual pilot of the Found FBA-2C.
+- Preserve Smoke moving ahead of the player after key retrieval.
+- Preserve Smoke covering from just inside the office doorway.
+- Preserve Tripper remaining with and securing the manager during the exit setup.
+- Preserve a proximity-triggered short camera look toward Smoke.
+- Preserve a first-person physical key-handover animation.
+- Preserve the keys visibly passing from Spook to Smoke.
+- Preserve Smoke maintaining a credible security posture during the handoff.
+- Preserve normal player control returning immediately after the short transfer.
+- Preserve the handoff being deferred when an unresolved immediate threat is present.
+- Preserve separate key states for drawer, Spook possession, and Smoke possession.
+- Do not teleport the keys directly from the drawer to Smoke.
+- Do not skip the player's OPEN DRAWER and TAKE KEYS interactions.
+- Do not leave Spook as the long-term keyholder once the team begins moving toward the
+  plane.
+- Do not assign the office-exit doorway position to Tripper while he is still securing
+  the manager.
+- Do not convert the handoff into a third-person cinematic.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- lock Smoke's exact doorway position, stance, facing direction, and clearance from
+  the player path;
+- define the proximity-trigger volume and safe activation conditions;
+- author the short first-person camera-guidance curve and motion-reduction variant;
+- author Spook's key presentation and Smoke's receiving animation;
+- define Smoke's weapon-support method during the one-handed receipt;
+- define keyring model, sound, storage location, and inventory-state transition;
+- determine whether a short acknowledgement bark improves or weakens the beat;
+- define interruption, abort, retry, and checkpoint behavior;
+- validate companion navigation for all manager and guard outcome combinations;
+- validate the continuing diegetic music occlusion from office to corridor;
+- ensure the handoff cannot softlock the doorway or aircraft-startup sequence;
+- align Smoke's possession of the keys with the later aircraft unlocking, startup,
+  piloting, and engine-off final approach interactions.
+
+RESULT
+
+The Variant A office exit now contains a clear role-based transition from room control
+to aircraft movement. Smoke advances to cover just inside the doorway, Tripper remains
+with the restrained manager, and the approaching player triggers a short first-person
+look and physical transfer of the floatplane keys from Spook to Smoke. The beat
+preserves player embodiment, corridor security, pilot continuity, and reliable key
+ownership without replacing the player's earlier drawer-opening and key-acquisition
+interactions.
+
+END
