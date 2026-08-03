@@ -7,8 +7,8 @@ Status: OWNER-DEVELOPED SUPPLEMENTAL SCENE LOCK / VARIANT A
 PURPOSE
 
 Extend the unaware manager's-office breach variant with the controlling room-life,
-occupant-position, manager-apprehension, interrogation, key-location, and post-breach
-weapon-security choreography.
+occupant-position, manager-apprehension, interrogation, key-location, interactive
+key-retrieval, and post-breach weapon-security choreography.
 
 This addendum supplements:
 
@@ -24,9 +24,9 @@ AUTHORITY RULE
   order, first-person semi-scripted control, threshold time dilation, adaptive guard
   takedowns, diegetic music, manager survival, aircraft demand, and restraint handoff.
 - This addendum controls the office occupants' unaware routines, the manager's two
-  valid starting positions, the precise failed handgun-reach and apprehension beat,
-  the opening interrogation dialogue, the key-location response, and the team's
-  weapon-security closeout before departure.
+  valid starting positions, the precise failed handgun reach and apprehension beat,
+  the opening interrogation dialogue, the location and interactive retrieval of the
+  floatplane keys, and the team's weapon-security closeout before departure.
 - Where the parent source leaves the manager's handgun position or apprehension
   choreography open, this addendum closes those points for Variant A.
 
@@ -227,9 +227,82 @@ readable without an oversized HUD marker. The relevant right side is defined fro
 the manager's normal seated position behind the desk unless the final floor-plan
 source explicitly adopts a different desk-orientation convention.
 
-Spook retrieves the Found FBA-2C keys from the indicated top drawer. The interaction
-must remain robust whether the manager began seated behind the desk or standing in
-front of it.
+================================================================================
+INTERACTIVE KEY RETRIEVAL
+================================================================================
+
+CONTROL HANDOFF
+
+Spook does not awkwardly reach across the desktop while still holding the manager.
+After the manager identifies the drawer:
+
+- Spook motions or shifts the manager toward Tripper;
+- Tripper takes direct physical control of the manager and begins moving him into the
+  office chair for zip-cuff restraint;
+- only after Tripper has established secure control does Spook release the manager's
+  shirt and regain normal movement around the desk;
+- Smoke maintains room and route security while also ensuring the two office-guard
+  weapons are controlled.
+
+The handoff must be visually clear. The manager cannot appear briefly unattended or
+free to make a second weapon attempt while Spook moves away.
+
+MOVEMENT AROUND THE DESK
+
+The player physically moves Spook around the manager's desk to the chair side rather
+than reaching over the desktop from the visitor side.
+
+- Normal first-person locomotion resumes for the short movement.
+- The route around the desk must remain clear in both manager starting-state variants.
+- Tripper and the restrained manager must not obstruct the player's path.
+- The movement should take only a few seconds and should feel like completion of a
+  practical objective, not an extended search puzzle.
+- The handgun taken from the manager remains under Spook's control throughout the
+  movement according to the final one-handed, holstered, or secured animation choice.
+
+DRAWER INTERACTION
+
+When the player reaches the chair side and faces the indicated top-right drawer, a
+restrained functional prompt appears:
+
+    OPEN DRAWER
+
+Activating the prompt plays a short first-person interaction in which Spook opens the
+top-right desk drawer. The prompt should attach to the physical drawer, not float at
+the manager's earlier position or activate through the desk.
+
+KEY INTERACTION
+
+The Found FBA-2C keys are visible inside the open drawer. A second, separate prompt
+appears:
+
+    TAKE KEYS
+
+Activating the prompt causes Spook to pick up the floatplane keys and secure them on
+his person. The objective updates only after this second interaction completes.
+Opening the drawer alone does not count as acquiring aircraft access.
+
+The two-step interaction is locked because it:
+
+- preserves believable physical reach and desk geometry;
+- gives the player a clear first-person objective action after the apprehension;
+- prevents an automatic key transfer that would weaken player participation;
+- separates discovering the keys from actually taking possession of them;
+- provides a clean checkpoint and fail-safe boundary for the aircraft-access state.
+
+INTERACTION FAIL-SAFES
+
+- The drawer must remain interactable after minor physics disturbance to desk props.
+- The keys cannot be knocked out of the drawer by unrelated gunfire or prop collision
+  without a recoverable alternate pickup state.
+- If the player looks away after opening the drawer, the keys remain present and the
+  TAKE KEYS prompt returns when appropriately targeted.
+- Tripper's restraint animation cannot push the manager into the player's interaction
+  space or block the drawer.
+- If accessibility settings reduce precision targeting requirements, the interaction
+  volume may expand without allowing activation from the wrong side of the desk.
+- A checkpoint should not save a state in which the drawer is open but the keys have
+  become unavailable.
 
 ================================================================================
 POST-BREACH WEAPON SECURITY
@@ -243,7 +316,8 @@ manager or any subdued surviving guard.
 MANAGER'S HANDGUN
 
 - Spook takes possession of the manager's handgun during the apprehension.
-- The handgun remains under team control after the keys are recovered.
+- The handgun remains under team control while Spook moves around the desk and takes
+  the keys.
 - It is not returned to the desk, dropped within reach of the manager, or left loose
   elsewhere in the room.
 - Final inventory treatment may be retention on Spook's person or secured carriage
@@ -264,43 +338,48 @@ are subdued, surrender, or are killed.
 - Weapon pickup and security should be integrated into the room-clear and restraint
   choreography rather than requiring a lengthy scavenging sequence.
 
-RESTRAINT CLOSEOUT
+RESTRAINT AND ROOM-CLEAR CLOSEOUT
 
-After the keys and all hostile weapons are controlled:
+After the manager identifies the drawer:
 
-- Spook motions to Tripper;
-- Tripper zip-cuffs the manager to the office chair;
+- Tripper takes control of the manager and secures him to the office chair with zip
+  cuffs while Spook moves around the desk;
+- Spook opens the top-right drawer and takes the Found FBA-2C keys through the two
+  separate player prompts;
 - any surviving office guards are restrained or otherwise rendered securely unable
   to resume the fight;
+- Smoke and Tripper ensure all hostile weapons remain inaccessible;
 - Smoke confirms the room and route state;
-- Tripper restores doorway and corridor coverage;
-- the team leaves no accessible firearm with the manager or surviving guards;
+- Tripper restores doorway and corridor coverage once the manager is secured;
 - Victor Two Bravo transitions toward the north jetty and the fueled Found FBA-2C.
 
-If the manager began standing in front of the desk, Tripper must move or guide him to
-the office chair before applying the final chair restraint. If the manager began
-seated, the restraint can proceed with less repositioning after Spook releases direct
-control.
+If the manager began standing in front of the desk, Tripper guides him to the office
+chair before applying the final restraint. If the manager began seated, Tripper
+maintains control and applies the restraint without unnecessary repositioning.
 
 ================================================================================
 PLAYER-PERSPECTIVE AND CONTROL RULES
 ================================================================================
 
 - Preserve first-person continuity through the weapon reach, hand interception,
-  desktop impact, disarm, shirt control, close facial framing, dialogue, and key cue.
+  desktop impact, disarm, shirt control, close facial framing, dialogue, control
+  handoff, movement around the desk, drawer opening, and key pickup.
 - The sequence may use authored hand and camera alignment, but must not become a
   third-person cinematic.
 - Player look freedom may be narrowed during physical contact, but small responsive
   camera movement should preserve embodiment.
+- Broader locomotion resumes after Tripper securely takes control of the manager.
+- The player must physically move around the desk before interacting with the drawer.
+- Do not allow the drawer or keys to be activated through the desktop.
+- The two prompts remain separate: OPEN DRAWER, then TAKE KEYS.
 - The player must be able to visually register the manager's handgun before or during
   the reach.
 - Smoke and Tripper's guard takedowns remain visible or audible in peripheral space
   without pulling the camera away from the manager.
 - The close-up must not conceal a live unresolved guard threat; adaptive teammate
   choreography must make the apprehension safe enough to be credible.
-- The interrogation pauses should remain authored beats rather than dialogue choices.
-- The sequence resumes broader first-person control after keys, restraint, and room
-  security are resolved.
+- The interrogation pauses remain authored beats rather than dialogue choices.
+- The objective resolves only after the player takes the keys.
 
 ================================================================================
 CONTINUITY CONSTRAINTS
@@ -325,13 +404,19 @@ CONTINUITY CONSTRAINTS
 - Preserve the dialogue sequence: "What do you want?"; the money offer; Spook's
   aircraft demand; "Keys!"; and "Top drawer on the right."
 - Preserve the fueled-aircraft and north-jetty answer.
-- Preserve the keys in the top right desk drawer from the manager's seated
+- Preserve the keys in the top-right desk drawer from the manager's seated
   orientation unless later floor-plan authority explicitly normalizes the convention.
-- Preserve Spook taking the manager's handgun.
+- Preserve Tripper taking secure physical control before Spook releases the manager.
+- Preserve the player moving around the desk to the chair side.
+- Preserve the separate OPEN DRAWER and TAKE KEYS prompts.
+- Preserve aircraft access updating only after the keys are taken.
+- Preserve Spook taking and securing the manager's handgun.
 - Preserve Smoke and Tripper securing both guards' weapons.
 - Preserve no unsecured weapons remaining accessible to restrained or surviving
   office occupants when Victor Two Bravo departs.
 - Preserve manager survival and zip-cuff restraint to the office chair.
+- Do not allow an awkward reach across the desk for the keys.
+- Do not automatically teleport the keys into Spook's inventory after dialogue.
 - Do not convert the control action into prolonged torture or gratuitous punishment.
 - Do not require both office guards to be killed.
 - Do not let routine variation alter the locked team entry order or objective result.
@@ -342,6 +427,7 @@ OPEN PRODUCTION REQUIREMENTS
 
 - lock exact desk, refrigerator, chair, radio, guard-seat, ashtray, glassware, and
   drawer geometry in the administration-building floor plan;
+- preserve a clear player route around the desk in all valid routine states;
 - define manager idle timing and state-selection rules;
 - define door-side guard refrigerator route and collision handling at breach time;
 - define cigar and cigarette smoke presentation, fire-safety logic, and performance
@@ -350,16 +436,18 @@ OPEN PRODUCTION REQUIREMENTS
 - tune the common freeze duration and its difficulty implications;
 - author seated and standing manager reach animations;
 - author wrist/hand interception, desk impact, prop response, disarm, shirt grip,
-  under-chin weapon control, and release transitions;
+  under-chin weapon control, Tripper handoff, and release transitions;
 - ensure the manager's gun cannot be acquired or displaced by physics before the
   authored interaction without a recovery path;
-- define whether the player's weapon is automatically lowered, retained one-handed,
-  or temporarily slung during the apprehension;
+- define whether the manager's handgun is held one-handed, holstered, or otherwise
+  secured while Spook opens the drawer and takes the keys;
 - define exact camera constraints, accessibility alternatives, motion reduction, and
   input handling during close physical control;
 - define subtitles and speaker labels when combat SFX and the radio track overlap;
 - author the manager's breath performance and dialogue timing;
-- define key-drawer interaction, key inventory, and fail-safes;
+- author the physical route around the desk and ensure companion collision avoidance;
+- define OPEN DRAWER and TAKE KEYS interaction volumes, animations, cancellation,
+  accessibility behavior, inventory update, checkpoint state, and fail-safes;
 - define how Smoke and Tripper secure, clear, retain, or consolidate guard weapons;
 - define restraint persistence and incapacitated-guard recovery prevention;
 - validate all combinations of manager position, guard routine, player target choice,
@@ -370,10 +458,10 @@ RESULT
 
 Variant A now has a source-locked occupied-office tableau, two live manager starting
 positions, a position-responsive failed handgun reach, a close first-person disarm
-and interrogation beat, a clear top-drawer key handoff, and an explicit weapon-
-security closeout. These additions strengthen the scene's physical causality and
-player-perspective intensity while preserving the parent source's semi-scripted
-agency, adaptive guard resolution, manager survival, and immediate transition to the
-north-jetty aircraft objective.
+and interrogation beat, a secure control handoff to Tripper, player-directed movement
+around the desk, separate drawer-opening and floatplane-key pickup interactions, and
+an explicit weapon-security closeout. The corrected retrieval geometry avoids an
+awkward reach across the desk, strengthens player participation, and preserves a
+clean transition from apprehension to aircraft-access objective completion.
 
 END
