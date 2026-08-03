@@ -1,0 +1,1912 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — UNREAL ENGINE 5 VERTICAL-SLICE PRODUCTION BRIEF
+Generated: 2026-08-03
+Version: rev1
+Status: THREAD-DEVELOPED DURABLE PRODUCTION SOURCE / PREPRODUCTION BRIDGE / IMPLEMENTATION NOT YET BEGUN
+
+PURPOSE
+
+Translate the source-locked COME FLY WITH ME mission architecture into a practical,
+production-facing plan for a playable Unreal Engine 5 demonstration level.
+
+This page captures the implementation priorities, recommended demo boundary,
+production documents, system architecture, asset requirements, test matrix, scope
+controls, and owner decisions raised during the UE5 demo-planning thread.
+
+It is intended to bridge the existing Project Warriors narrative/gameplay repository
+and a future software-production repository or Perforce depot. It does not claim that
+a UE5 project, greybox, asset set, animation set, AI implementation, flight model, or
+playable build currently exists.
+
+================================================================================
+AUTHORITY, STATUS, AND SOURCE RULES
+================================================================================
+
+1. MISSION CANON
+
+The dedicated COME FLY WITH ME source pages remain controlling for narrative,
+geography, security count, guard placement, alert architecture, manager-office
+branches, aircraft identity, key-bundle continuity, visual direction, and the handoff
+into SINS OF OUR FATHERS.
+
+This production brief must not silently override those sources.
+
+2. PRODUCTION RECOMMENDATIONS
+
+Where this page recommends a demo boundary, software architecture, UE5 feature,
+workflow, milestone sequence, or implementation method, that recommendation is a
+working production direction rather than locked narrative canon.
+
+3. OWNER DECISIONS
+
+Items identified as OWNER DECISION REQUIRED remain open. They must not be presented
+as final gameplay locks until explicitly adjudicated and landed in the appropriate
+durable source page.
+
+4. REPOSITORY BOUNDARY
+
+The Project Warriors Trilogy Concept repository is a docs-as-code content repository.
+It should remain the source home for canon, mission design, gameplay intent, art
+direction, production briefs, audits, and implementation-facing specifications.
+
+A future UE5 executable project should live in a separate private software repository
+or Perforce depot. The content repository and software repository should cross-link
+stable document names and revision identifiers rather than duplicate uncontrolled
+copies of mission canon.
+
+5. ENGINE VERSION RULE
+
+Before implementation begins, production must pin one agreed Unreal Engine 5 version
+for the vertical slice. Engine upgrades during the slice should occur only through an
+explicit migration decision with a backup, validation pass, and rollback path.
+
+================================================================================
+RELATED CONTROLLING SOURCES
+================================================================================
+
+Primary mission sources:
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_North_Jetty_Guard_Routine_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Aircraft_Answer_Dialogue_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Handgun_Final_Disposition_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Variant_B_Key_Toss_Dialogue_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Variant_B_Deceased_Manager_Key_Recovery_Fallback_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Ocean_Blue_Sky_Tours_FBA2C_Identity_and_Key_Bundle_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Christiansted_Seaplane_Base_Visual_Reference_Package_2026-08-03_rev1.txt
+- maps/COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
+
+Cross-project implementation references:
+
+- PW_UI_Prompt_System_Design_rev1.txt
+- PW_First_Person_Weapon_Animation_Reference_Standard_2026-07-24_rev1.txt
+- PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+- PW_First_Person_Weapon_Handling_Addendum_2026-07-27_rev1.txt
+- CONTENT_LIFECYCLE.md
+- README.md
+
+================================================================================
+EXECUTIVE PRODUCTION DECISION
+================================================================================
+
+RECOMMENDED DEMO BOUNDARY
+
+The first playable demo should be a Christiansted vertical slice focused on the
+Ocean Blue Sky Tours seaplane-base acquisition sequence.
+
+The playable slice should begin with a brief interactive safehouse preparation beat
+and end after the Found FBA-2C N272BT successfully begins its escape from
+Christiansted. The preferred first-slice endpoint is either:
+
+- an authored takeoff followed by a short airborne beat and fade; or
+- a fade immediately after the aircraft clears the harbor and the escape state is
+  unambiguously achieved.
+
+The first slice should not require a full 39-mile playable flight or a second detailed
+East McFarlane level.
+
+RECOMMENDED INCLUDED EXPERIENCE
+
+1. Interactive safehouse preparation.
+2. SUV departure or compressed transition to the western observation position.
+3. Short playable surveillance and guard-routine learning.
+4. Relocation to the close final staging point.
+5. Night infiltration of Ocean Blue Sky Tours.
+6. Multiple perimeter approaches.
+7. Seven-contractor security layout.
+8. Guard routines and readable vulnerability windows.
+9. Four CCTV cameras monitored by the manager.
+10. Four fixed alarm buttons.
+11. Radios carried by all seven contractors and the manager.
+12. Localized CCTV-investigation state.
+13. Compound-wide alert state.
+14. Recoverable stealth failure.
+15. Smoke and Tripper companion behavior.
+16. Manager-office Variant A — unaware / unlocked office.
+17. Manager-office Variant B — alerted / locked office.
+18. Deceased-manager key-recovery fallback.
+19. N272BT key-bundle recovery and transfer to Smoke.
+20. Movement to the north jetty.
+21. Aircraft boarding, startup, mooring release, water movement, and escape.
+22. Police and Coast Guard escalation where triggered, at a level appropriate to the
+    vertical slice.
+
+RECOMMENDED NON-GOALS FOR THE FIRST SLICE
+
+- Full 39-mile playable flight to East McFarlane.
+- Detailed East McFarlane environment.
+- SINS OF OUR FATHERS gameplay.
+- Full civilian-aircraft simulation suitable for an entire game.
+- A general-purpose vehicle framework for the trilogy.
+- Every Project Warriors weapon, injury, armor, inventory, squad-command, and
+  customization system.
+- Full anatomical damage and armor-coverage implementation.
+- Broad campaign progression, save-profile, or metagame systems.
+- Multiplayer or cooperative networking.
+- Final marketing-quality art across every visible background area.
+
+RATIONALE
+
+The Christiansted slice already demonstrates the most distinctive and expensive-to-
+prove Project Warriors qualities:
+
+- observation before action;
+- grounded first-person tactical handling;
+- restrained contextual UI;
+- stealth with readable routines;
+- multiple valid force levels;
+- competent companion operators;
+- layered security rather than a single alarm trigger;
+- authored but player-controlled first-person set pieces;
+- recoverable escalation;
+- environmental storytelling;
+- narrative objective continuity through a physical hero prop;
+- a memorable escape payoff.
+
+Adding a second island and full flight model before these systems work would increase
+scope without proving the core mission promise more effectively.
+
+================================================================================
+VERTICAL-SLICE CHARTER
+================================================================================
+
+DEMO PROMISE
+
+A grounded first-person covert-action level in which the player observes and
+infiltrates a compact Caribbean seaplane base with two AI teammates, manages a
+layered security system, acquires a floatplane through a branching office
+confrontation, and escapes without the mission collapsing when stealth is lost.
+
+PLAYER EXPERIENCE PILLARS
+
+1. OBSERVE, THEN ACT
+
+The player should be rewarded for watching the compound, learning routines, and
+identifying windows rather than treating stealth as hidden trial and error.
+
+2. PROFESSIONAL TEAMWORK
+
+Smoke and Tripper should read as highly competent partners with distinct roles. They
+support the player, react to player action, and preserve the player's ownership of
+Spook's key objectives.
+
+3. LAYERED SECURITY
+
+Cameras, manager-directed investigation, radios, fixed alarms, guard search, police,
+and maritime pressure form a connected system. No single switch should trivialize
+the whole base.
+
+4. RECOVERABLE ESCALATION
+
+A mistake should materially change the mission without automatically ending it.
+Quiet, disrupted, alerted, and external-response states should all remain playable.
+
+5. FIRST-PERSON CONTINUITY
+
+Major authored actions should remain in first person. The player initiates key beats
+and keeps meaningful look, aim, and situational ownership whenever safely possible.
+
+6. RESTRAINED PRESENTATION
+
+Prompts, music, camera assistance, time dilation, HUD information, and companion
+callouts should support comprehension without converting the mission into a heavily
+telegraphed arcade sequence.
+
+VERTICAL-SLICE SUCCESS CRITERIA
+
+The slice is successful when a representative player can:
+
+- identify at least two useful guard opportunities through observation;
+- understand that cameras create a localized investigation before a full alarm;
+- recognize an in-progress radio or alarm action and interrupt it;
+- enter through more than one viable perimeter approach;
+- complete the mission without killing every contractor;
+- recover from detection and continue toward the aircraft;
+- experience the appropriate office branch based on mission state;
+- recover the N272BT key bundle without a state or animation softlock;
+- understand why Smoke receives the keys and pilots the aircraft;
+- reach and depart from the north jetty under quiet or pressured conditions;
+- distinguish Spook, Smoke, and Tripper's operational roles;
+- complete the slice with readable objectives, subtitles, remappable controls, and
+  no branch-dependent progression failure.
+
+================================================================================
+PROTECTED NARRATIVE AND MISSION CONTINUITY
+================================================================================
+
+The vertical slice must preserve:
+
+- playable character Trevor “Spook” Gartner;
+- Victor Two Bravo members Smoke and Tripper;
+- Christiansted, St. Croix, U.S. Virgin Islands;
+- Ocean Blue Sky Tours, Ltd.;
+- seven armed Goldberg-linked contractors in the locked position breakdown;
+- ordinary-civilian protection and evidence-based culpability;
+- interactive safehouse opening;
+- western long-duration observation position;
+- close final SUV staging point;
+- after-dark infiltration;
+- north-service-entrance route to the manager's office;
+- four fixed alarm buttons;
+- four static CCTV cameras;
+- radios for all seven guards and the manager;
+- manager monitoring of camera feeds;
+- camera sighting causing a localized investigation rather than automatic full alert;
+- completed general radio or fixed alarm causing compound-wide alert;
+- viable bypass, distraction, restraint, incapacitation, and lethal choices;
+- manager-office Variant A and Variant B logic;
+- manager survival as the preferred authored outcome;
+- deceased-manager body SEARCH fallback if the player kills him;
+- fueled Found FBA-2C N272BT at the north jetty;
+- complete hero key bundle continuity;
+- Smoke as final keyholder and pilot;
+- movement past the fuel-tank landmark;
+- police and Coast Guard pressure after completed external escalation;
+- direct narrative continuation toward East McFarlane;
+- no La Avispa appearance in this Game 1 mission.
+
+================================================================================
+REQUIRED PRODUCTION DOCUMENT PACKAGE
+================================================================================
+
+Before full implementation, create or land the following supporting documents.
+
+A. SCALED LEVEL BLOCKOUT PLAN
+
+Must include:
+
+- safehouse footprint and departure point;
+- western surveillance position;
+- final SUV staging point;
+- west and east approaches;
+- east and west gatehouses;
+- fence lines and climbable/non-climbable boundaries;
+- operations/administration building;
+- north service entrance;
+- first-floor corridor;
+- manager's office;
+- break room;
+- fuel-storage area;
+- east berth;
+- north jetty;
+- N272BT berth;
+- shoreline and water boundaries;
+- police vehicle approaches;
+- Coast Guard approach vector;
+- player, guard, companion, and aircraft traversal widths.
+
+B. ADMINISTRATION-BUILDING FLOOR PLAN
+
+This is the highest-priority unresolved layout.
+
+It must lock:
+
+- north service entrance position;
+- first-floor corridor shape;
+- hallway alarm position;
+- break-room position;
+- bathroom used by the west-gate guard;
+- manager-office door hinge and handle side;
+- alternate office access, if any;
+- manager desk position;
+- chair position;
+- manager handgun position in Variant A;
+- manager cover position in Variant B;
+- key-drawer location;
+- manager CCTV station;
+- office radio/music source;
+- guard starting positions;
+- Spook entry lane;
+- Smoke and Tripper stack positions;
+- shotgun breach angle;
+- stun-grenade trajectory;
+- restraint animation space;
+- Tripper rear-security line;
+- collision-safe return route to the north jetty.
+
+C. ENCOUNTER-STATE DIAGRAM
+
+Must show every permitted transition among:
+
+STATE 0 — UNOBSERVED
+STATE 1 — SUSPICIOUS / LOCAL INVESTIGATION
+STATE 2 — COMPOUND ALERT
+STATE 3 — EXTERNAL RESPONSE INBOUND
+STATE 4 — CONTAINMENT / ARRIVAL
+STATE 5 — AIRCRAFT ESCAPE
+
+D. INTERACTION MATRIX
+
+For every interaction, define availability, cancellation, animation, ownership,
+checkpoint behavior, and effects across each security state.
+
+Minimum interaction list:
+
+- observe/tag;
+- distract;
+- takedown;
+- restrain;
+- carry/drag body;
+- water disposal where valid;
+- disable or bypass camera, if approved;
+- interrupt radio;
+- interrupt alarm-button use;
+- BREACH;
+- open drawer;
+- take key bundle;
+- search manager;
+- hand keys to Smoke;
+- release moorings;
+- board N272BT;
+- begin startup;
+- assume escape position.
+
+E. OBJECTIVE AND CHECKPOINT MATRIX
+
+Must define protected mission variables and reload behavior.
+
+F. ASSET, ANIMATION, AUDIO, AND VFX INVENTORIES
+
+Each inventory should identify prototype, vertical-slice, and final-quality tiers.
+
+G. VALIDATION AND PLAYTEST PLAN
+
+Must include automated, functional, branch, accessibility, and human-readability tests.
+
+================================================================================
+MACRO LEVEL FLOW
+================================================================================
+
+PHASE 1 — SAFEHOUSE PREPARATION
+
+Function:
+
+- establish first-person control;
+- orient the player to Spook, Smoke, and Tripper;
+- present the East McFarlane lead and need for an aircraft;
+- allow a restrained equipment/readiness interaction;
+- transition into the surveillance operation.
+
+First-slice recommendation:
+
+Keep this phase brief and interactive. Do not build a large safehouse hub system.
+Use the minimum interior needed to establish tone, team relationship, objective, and
+player controls.
+
+PHASE 2 — WESTERN SURVEILLANCE
+
+Function:
+
+- show the compound at readable scale;
+- introduce surveillance optics or observation interaction;
+- expose at least two guard routines;
+- identify the north service entrance, jetty, aircraft, cameras, alarms, or patrol
+  vulnerabilities through player observation and companion callouts;
+- compress several hours without real-time waiting.
+
+Implementation requirement:
+
+Observation must produce usable knowledge. The player should not merely watch a
+cinematic. Learned routines may create later HUD tags, notebook entries, objective
+hints, or companion reminders, but information presentation must remain restrained.
+
+PHASE 3 — FINAL STAGING
+
+Function:
+
+- establish after-dark infiltration state;
+- confirm equipment and companion readiness;
+- provide the last calm decision point;
+- move from observation to on-foot play.
+
+PHASE 4 — PERIMETER INFILTRATION
+
+Function:
+
+- support at least two practical routes;
+- present gatehouse cameras, guards, chain-link visibility, and open apron exposure;
+- validate stealth, distraction, and low-signature takedown systems;
+- allow detection to transition into investigation or alert without scripting failure.
+
+PHASE 5 — ADMINISTRATION-BUILDING APPROACH
+
+Function:
+
+- coordinate west-gate bathroom movement with the interior guard;
+- support north-service access;
+- expose the hallway alarm;
+- establish office branch preconditions;
+- maintain companion navigation and stack readiness.
+
+PHASE 6 — MANAGER'S OFFICE
+
+Function:
+
+- resolve through Variant A, Variant B, a hybrid/freeform alerted state, or the
+  deceased-manager fallback;
+- obtain the N272BT keys;
+- secure or resolve remaining office threats;
+- transfer flight responsibility to Smoke.
+
+PHASE 7 — NORTH-JETTY MOVEMENT
+
+Function:
+
+- move past the fuel-storage landmark;
+- engage or bypass remaining security;
+- use the north-jetty guard routine where still valid;
+- escalate pressure if external response is active;
+- deliver a clear visual payoff when N272BT comes into full view.
+
+PHASE 8 — AIRCRAFT ESCAPE
+
+Function:
+
+- verify key ownership;
+- board the team;
+- release or resolve moorings;
+- start N272BT;
+- react to quiet, alert, police, and maritime states;
+- taxi and take off;
+- close the demo cleanly without requiring East McFarlane production.
+
+================================================================================
+SECURITY-DIRECTOR ARCHITECTURE
+================================================================================
+
+RECOMMENDATION
+
+Implement one authoritative mission-level Security Director rather than allowing
+each guard Blueprint to independently decide compound-wide state.
+
+The Security Director should own or reference:
+
+- current security state;
+- last confirmed player/team location;
+- active investigation location;
+- investigation source;
+- available investigator selection;
+- surviving guard roster;
+- restrained/incapacitated guard roster;
+- active radio calls;
+- completed general alert;
+- fixed-alarm states;
+- camera detections;
+- manager awareness;
+- manager lockdown state;
+- office-guard deployment state;
+- police-call timer and completion;
+- police response state;
+- Coast Guard response state;
+- N272BT key ownership;
+- aircraft startup and escape state.
+
+RECOMMENDED STATE MODEL
+
+STATE 0 — UNOBSERVED
+
+- normal patrol routines;
+- distractions active;
+- cameras monitor normal cones;
+- manager watches feeds;
+- office Variant A remains possible;
+- guard vulnerability windows may occur.
+
+STATE 1 — LOCAL INVESTIGATION
+
+Trigger examples:
+
+- manager confirms a camera sighting;
+- suspicious sound or partial visual cue;
+- a guard reports uncertainty without completing a general alert.
+
+Behavior:
+
+- nearest available guard investigates;
+- other guards remain on modified or normal routines;
+- manager remains attentive;
+- unresolved confirmation may return to State 0;
+- confirmed hostile action may escalate to State 2.
+
+STATE 2 — COMPOUND ALERT
+
+Trigger examples:
+
+- completed guard or manager general-radio alert;
+- fixed alarm activated;
+- sufficiently confirmed hostile event under final rules.
+
+Behavior:
+
+- surviving guards abandon normal routines;
+- shoot-on-sight search behavior;
+- office guards deploy under Variant B preconditions;
+- manager may lock down;
+- north-jetty routine stops;
+- aircraft startup becomes contested.
+
+STATE 3 — EXTERNAL RESPONSE INBOUND
+
+Trigger:
+
+- manager police call completes.
+
+Behavior:
+
+- police timer/approach begins;
+- Coast Guard approach begins under controlling escalation rules;
+- audio and objective pressure communicate the change;
+- securing the manager afterward does not silently erase a completed call unless a
+  later owner decision explicitly permits cancellation.
+
+STATE 4 — CONTAINMENT / ARRIVAL
+
+Behavior:
+
+- two police cars approach the west and east gates;
+- eight armed police officers deploy in total;
+- Coast Guard pressure affects the north-jetty departure route;
+- mission remains technically completable but substantially harder.
+
+STATE 5 — AIRCRAFT ESCAPE
+
+Behavior:
+
+- player objective transitions from acquisition to survival/departure;
+- ground AI reacts to engine, taxi, and takeoff;
+- maritime AI or authored pressure reacts to aircraft movement;
+- mission completion occurs only after N272BT reaches the protected escape threshold.
+
+TRANSITION SPECIFICATION REQUIREMENTS
+
+Every transition must define:
+
+- exact trigger;
+- minimum confirmation threshold;
+- time delay;
+- interruptibility;
+- audiovisual cue;
+- subtitle/caption equivalent;
+- companion bark;
+- AI destination update;
+- objective update;
+- persistence through checkpoints;
+- rollback or recovery conditions;
+- failure and softlock prevention.
+
+================================================================================
+GUARD AND MANAGER AI REQUIREMENTS
+================================================================================
+
+LOCKED SECURITY ROSTER
+
+1. East-gate contractor.
+2. West-gate contractor.
+3. East-berth contractor.
+4. North-jetty contractor.
+5. North-service-entrance / corridor contractor.
+6. Manager-office contractor one.
+7. Manager-office contractor two.
+8. Ocean Blue Sky Tours manager — non-guard alert-capable character.
+
+MINIMUM GUARD BEHAVIOR SET
+
+- normal patrol;
+- stationary observation;
+- distraction behavior;
+- smoking/phone/football/coffee/flask/bathroom routine as applicable;
+- suspicious sound reaction;
+- localized investigation;
+- partial visual detection;
+- confirmed detection;
+- radio call;
+- alarm-button run and activation;
+- interruption during radio/alarm use;
+- body discovery;
+- restrained-person discovery;
+- search-sector assignment;
+- compound regrouping;
+- combat;
+- fallback/cover selection;
+- surrender, incapacitation, death, and restraint states;
+- reaction to aircraft startup;
+- reaction to police or Coast Guard arrival.
+
+AI IMPLEMENTATION RECOMMENDATION
+
+Use Unreal AI Perception or equivalent sensing for sight, hearing, damage, and
+reported stimuli. Use Behavior Trees and Blackboards, StateTree, or a controlled
+combination for individual behavior. The mission-level Security Director remains the
+authority for shared compound state.
+
+Do not let individual guards duplicate global alert logic or create conflicting
+police/manager/aircraft state.
+
+NEAREST-AVAILABLE-GUARD SELECTION
+
+The CCTV investigation system must define:
+
+- distance and path-cost rules;
+- guards excluded because dead, restrained, incapacitated, already investigating,
+  in combat, or locked in another authored sequence;
+- fallback when no guard is available;
+- whether the manager retries or escalates;
+- protection against repeatedly selecting one unreachable guard.
+
+ROUTINE READABILITY
+
+The west-gate bathroom absence, west-gate flask break, east-berth coffee gap,
+north-service smoke/patrol variation, and north-jetty western-edge pause must be
+learnable through observation or companion interpretation.
+
+Routine behavior must:
+
+- have clear start and return tells;
+- interrupt correctly under alert;
+- never grant animation invulnerability;
+- preserve hearing and radio capability where source-appropriate;
+- avoid unavoidable overlaps that make a learned route unfair.
+
+================================================================================
+CAMERAS, RADIOS, AND FIXED ALARMS
+================================================================================
+
+CAMERAS
+
+Locked count and placement:
+
+- one outward-facing east-gate camera;
+- one outward-facing west-gate camera;
+- two overlapping fuel-storage cameras southeast of the north jetty.
+
+Production must define:
+
+- exact fields of view;
+- range;
+- low-light capability;
+- detection buildup;
+- occlusion;
+- readable blind spots;
+- manager confirmation delay;
+- investigation dispatch;
+- player countermeasures, if any;
+- destroyed/disabled camera feedback;
+- checkpoint persistence.
+
+OWNER DECISION REQUIRED — CAMERA COUNTERMEASURES
+
+Choose whether the player may:
+
+- physically disable cameras;
+- shoot cameras;
+- obscure lenses;
+- loop feeds;
+- jam signals;
+- only avoid the cones.
+
+No countermeasure may silently disable unrelated radios or fixed alarms.
+
+RADIOS
+
+All seven contractors and the manager carry radios.
+
+Production must define:
+
+- draw/raise animation;
+- call duration;
+- spoken content;
+- interruption window;
+- completion feedback;
+- behavior after dropped radio;
+- behavior if restrained;
+- whether a partially completed call produces suspicion without full alert;
+- ownership and persistence through takedowns and body disposal.
+
+FIXED ALARMS
+
+Locked count and placement:
+
+- north service entrance;
+- east gatehouse;
+- west gatehouse;
+- manager-office hallway.
+
+Production must define:
+
+- guard path to each alarm;
+- use animation;
+- activation time;
+- interruption;
+- sound/light presentation;
+- whether buttons can be damaged, blocked, sabotaged, or only guarded;
+- persistence after activation.
+
+OWNER DECISION REQUIRED — ALERT COUNTERMEASURE SCOPE
+
+Choose whether any alert channel can be disabled before use. Preserve the design rule
+that controlling one alarm, camera, or radio does not disable the complete network.
+
+================================================================================
+CIVILIANS AND FORCE RULES
+================================================================================
+
+The demo must not imply that every Ocean Blue Sky Tours employee, harbor worker,
+visitor, or civilian is complicit.
+
+OWNER DECISION REQUIRED — CIVILIAN POPULATION
+
+Lock:
+
+- whether civilians are physically present during the playable infiltration;
+- civilian count and locations;
+- whether they evacuate, hide, comply, call police, or become hostages;
+- consequences for indiscriminate violence;
+- checkpoint treatment;
+- whether the vertical slice reduces late-night civilian presence for scope while
+  retaining the protection rule.
+
+MINIMUM FORCE OUTCOMES TO VALIDATE
+
+- complete bypass of selected guards;
+- quiet non-lethal incapacitation;
+- restraint;
+- suppressed lethal engagement;
+- mixed non-lethal/lethal play;
+- loud alert recovery;
+- manager captured alive;
+- deceased-manager fallback;
+- completion without total guard elimination.
+
+================================================================================
+PLAYER FRAMEWORK — FIRST-SLICE MINIMUM
+================================================================================
+
+REQUIRED PLAYER ACTIONS
+
+- first-person locomotion;
+- walk;
+- crouch;
+- short tactical sprint if retained;
+- aim down sights;
+- fire;
+- reload;
+- interact;
+- perform contextual takedown;
+- restrain;
+- move or drag a body if included;
+- use surveillance optics;
+- initiate BREACH;
+- open drawer;
+- take/search key bundle;
+- release moorings;
+- board aircraft;
+- receive damage, die, and restart.
+
+WORKING RECOMMENDATION
+
+Use Unreal Enhanced Input or equivalent contextual input mapping so normal movement,
+surveillance, BREACH, body handling, key interaction, and aircraft interactions can
+use discrete mapping contexts without permanent input conflicts.
+
+DEFERRED SYSTEMS
+
+Unless separately required for the demo promise, defer:
+
+- complete anatomical injury simulation;
+- full armor coverage geometry;
+- broad weapon-malfunction simulation;
+- large attachment-customization system;
+- full inventory-grid system;
+- broad squad command wheel;
+- campaign-wide progression;
+- multiple protagonist frameworks.
+
+OWNER DECISION REQUIRED — MISSION LOADOUT
+
+Lock Spook's exact playable weapon and equipment set for COME FLY WITH ME. The demo
+must not invent a final loadout merely because prototype assets are available.
+
+================================================================================
+SMOKE AND TRIPPER COMPANION REQUIREMENTS
+================================================================================
+
+The first slice does not require a universal franchise-wide squad-command system.
+It requires reliable mission-specific companion autonomy.
+
+MINIMUM COMPANION CAPABILITIES
+
+- follow and maintain formation;
+- avoid blocking the player;
+- preserve stealth spacing;
+- move to authored hold points;
+- stack at doors;
+- clear threshold collision;
+- reserve assigned threats;
+- reassign targets when the player intervenes;
+- cover rear security;
+- react to alerts and gunfire;
+- navigate stairs, doors, dock, and aircraft boarding;
+- participate in key handoff;
+- preserve Smoke as aircraft pilot;
+- recover from interrupted authored sequences;
+- survive checkpoint reload without duplicate or missing roles.
+
+OFFICE ROLE TOKENS
+
+Spook:
+
+- playable entry lead;
+- manager control;
+- key objective focus.
+
+Smoke:
+
+- Variant A door operator and second entrant;
+- Variant B stun-grenade operator and third entrant;
+- assigned guard response as applicable;
+- final keyholder;
+- aircraft pilot.
+
+Tripper:
+
+- Variant A third entrant and rear security;
+- Variant B breaching-shotgun operator and second entrant;
+- manager/guard restraint support;
+- rear-security responsibility after immediate threats resolve.
+
+TARGET RESERVATION RULE
+
+Companions must not fire redundant rounds into a guard the player already neutralized.
+The system must expose a clear owner for each threat and support immediate reassignment
+when:
+
+- Spook engages a teammate's assigned guard;
+- a guard changes lane;
+- the manager creates a collision;
+- a new hallway threat appears;
+- a companion is obstructed or incapacitated.
+
+================================================================================
+UI AND INTERACTION LANGUAGE
+================================================================================
+
+The demo must follow the Project Warriors UI prompt standard:
+
+- no persistent interaction-prompt clutter;
+- world-anchored prompts;
+- line-of-sight requirement;
+- close-proximity requirement;
+- no prompt through a physical obstruction;
+- no AR-style brackets, glow, holographic chrome, or diagram overlay;
+- one restrained typography family;
+- physical animation carries the interaction weight;
+- wording follows Spook's clinical operational register.
+
+MINIMUM PROMPT SET
+
+- BREACH
+- OPEN DRAWER
+- TAKE KEYS
+- SEARCH
+- RESTRAIN
+- MOVE BODY or DRAG, pending final register decision
+- RELEASE MOORING
+- BOARD
+
+Interaction implementation must define:
+
+- priority when multiple objects overlap;
+- prompt suppression through glass/fence/grate;
+- controller/keyboard remapping;
+- hold-versus-press behavior;
+- cancellation;
+- accessibility alternative;
+- animation interruption;
+- state ownership after interruption.
+
+================================================================================
+MANAGER'S OFFICE — VARIANT A IMPLEMENTATION
+================================================================================
+
+Variant A applies while the office remains unaware and unlocked under the controlling
+source.
+
+FIRST IMPLEMENTATION PASS SHOULD INCLUDE
+
+- pre-breach room life;
+- diegetic office music source;
+- door/wall audio occlusion;
+- team stack;
+- player-initiated BREACH prompt;
+- bounded first-person threshold movement;
+- meaningful look and aim control;
+- brief threshold-only time dilation;
+- two guard target assignments;
+- adaptive teammate reassignment;
+- Spook movement to the manager;
+- manager failed handgun access;
+- manager disarm;
+- live interrogation;
+- manager restraint;
+- drawer interaction;
+- complete N272BT key-bundle pickup;
+- doorway handoff to Smoke;
+- route transition to north jetty.
+
+IMPLEMENTATION SAFETY RULES
+
+- no third-person cutaway;
+- no fully automatic takedown montage;
+- no mandatory killing of both guards;
+- no companion theft of manager apprehension;
+- no manager/key state dependency on one fragile animation event;
+- no softlock if the player fires early or breaks the choreography;
+- no music synchronization requirement that overrides player agency.
+
+TIME-DILATION REQUIREMENT
+
+The effect is a one-scene readability device, not a reusable player power.
+
+Production must tune:
+
+- onset;
+- ramp;
+- duration;
+- audio treatment;
+- camera response;
+- aim freedom;
+- motion-reduction setting;
+- complete disable or alternative presentation if required for accessibility.
+
+================================================================================
+MANAGER'S OFFICE — VARIANT B IMPLEMENTATION
+================================================================================
+
+Variant B applies under the source-locked alerted-office conditions.
+
+REQUIRED ELEMENTS
+
+- office guards deploy into compound search;
+- manager locks the door;
+- manager takes the handgun;
+- manager uses desk cover;
+- approximately ninety-second police-call baseline;
+- completed versus interrupted call state;
+- destructible wooden door;
+- bullet penetration/splintering behavior;
+- manager return fire through a damaged door where appropriate;
+- Tripper's breaching shotgun;
+- Smoke's stun grenade;
+- BREACH prompt only after valid stack readiness;
+- two lock-defeat shots;
+- narrow door opening;
+- robust grenade trajectory;
+- accessibility-safe protective look and flash treatment;
+- Spook first through;
+- Tripper second;
+- Smoke third;
+- manager disorientation;
+- manager handgun strip;
+- floor tackle/control;
+- live interrogation;
+- SEARCH of left jacket pocket;
+- complete key-bundle recovery;
+- immediate toss to Smoke;
+- manager restraint to desk;
+- office exit under current external-response state.
+
+FREEFORM FALLBACK
+
+If the player destroys the door before the coordinated sequence:
+
+- cancel the authored stack/breach choreography;
+- preserve manager, key, police-call, weapon, and survival state;
+- allow a freeform armed entry;
+- preserve SEARCH and restraint logic;
+- prevent the absence of a BREACH prompt from blocking progression.
+
+FLASH/STUN ACCESSIBILITY
+
+Production must include:
+
+- reduced-flash mode;
+- reduced camera pull;
+- subtitle/caption communication of the detonation;
+- safe audio dynamic-range options;
+- no requirement that the player physically look at the blast to understand the
+  outcome.
+
+================================================================================
+DECEASED-MANAGER FALLBACK
+================================================================================
+
+If the player kills the manager through the door, explosive entry, or another valid
+combat outcome before live apprehension:
+
+- prompt the player to SEARCH the body;
+- recover the complete N272BT key bundle;
+- preserve the established handoff from Spook to Smoke;
+- preserve current police/Coast Guard state;
+- do not invalidate the aircraft objective;
+- do not create a preferred or reward-heavy shortcut around the live encounter;
+- preserve the outcome as valid but non-recommended.
+
+The body, key bundle, and SEARCH prompt require fail-safes against physics displacement,
+ragdoll obstruction, fire, debris, and checkpoint reload.
+
+================================================================================
+N272BT KEY-BUNDLE IMPLEMENTATION
+================================================================================
+
+The complete bundle is one tracked mission object despite visible subcomponents.
+
+Visible components:
+
+- no more than four differently shaped keys;
+- split ring;
+- miniature float-compartment drain/inspection-fitting wrench;
+- worn white writable tag;
+- handwritten `FBA-2C` and `N272BT` identification;
+- yellowing, edge wear, grime, and handling marks.
+
+OWNERSHIP PATHS
+
+Variant A:
+
+manager desk drawer
+-> Spook
+-> Smoke
+-> N272BT cockpit/startup
+
+Variant B:
+
+manager left jacket pocket
+-> Spook
+-> Smoke
+-> N272BT cockpit/startup
+
+Deceased-manager fallback:
+
+manager body
+-> Spook
+-> Smoke
+-> N272BT cockpit/startup
+
+STATE REQUIREMENTS
+
+- one authoritative owner at a time;
+- no duplication;
+- no component separation through physics;
+- no loss during toss/catch;
+- recoverable dropped state after exceptional interruption;
+- no startup completion unless Smoke or the final approved holder possesses the
+  bundle;
+- deterministic checkpoint serialization;
+- visible tag long enough to read in authored close interactions.
+
+================================================================================
+N272BT AIRCRAFT PHASE
+================================================================================
+
+The first slice should treat the aircraft as a detailed authored escape objective,
+not yet as a universal flight simulator.
+
+RECOMMENDED FIRST-SLICE IMPLEMENTATION
+
+- detailed exterior Found FBA-2C N272BT;
+- readable door/boarding point;
+- cockpit/cabin sufficient for authored startup and occupants;
+- Smoke uses the correct key from the tracked bundle;
+- team boarding choreography;
+- mooring-release interactions;
+- engine-start stages;
+- propeller hazard/readability;
+- guided water-taxi behavior;
+- authored takeoff;
+- escape threshold and fade.
+
+OWNER DECISION REQUIRED — PLAYER CONTROL ALLOCATION
+
+Choose among:
+
+A. Player remains Spook and covers the jetty/cabin while Smoke operates the aircraft.
+B. Player performs limited mooring/startup interactions but not piloting.
+C. Player receives limited water-taxi control.
+D. Player receives full piloting control.
+
+Recommendation for the first slice: A or B, with a short guided water-taxi and
+authored takeoff. This protects scope while preserving Smoke's pilot role.
+
+AIRCRAFT RESPONSE REQUIREMENTS
+
+- surviving guards react to startup;
+- alerted guards reposition toward the jetty;
+- police pressure affects land routes;
+- Coast Guard pressure affects water escape;
+- moorings, engine, taxi, and takeoff cannot complete through one uninterrupted
+  cinematic if active threats are supposed to matter;
+- loud infiltration must not produce a consequence-free departure.
+
+DEFERRED FLIGHT REQUIREMENTS
+
+The full game will still require later decisions on:
+
+- playable flight duration;
+- navigation;
+- weather;
+- final engine-off approach;
+- glide presentation;
+- restart contingency;
+- East McFarlane landing;
+- concealment and handoff to SINS OF OUR FATHERS.
+
+Those items are not erased by the vertical-slice cutoff.
+
+================================================================================
+UE5 PROJECT AND CONTENT ARCHITECTURE RECOMMENDATION
+================================================================================
+
+Create a clean first-person UE5 project with stable foundational systems in C++ or
+another maintainable code layer and content assembly in Blueprints where appropriate.
+
+Recommended software-project structure:
+
+Content/PW/
+    Characters/
+    AI/
+    Interactions/
+    Missions/CFIM/
+    Environment/Christiansted/
+    Weapons/
+    UI/
+    Audio/
+    Cinematics/
+    Tests/
+
+Source/PWDemo/
+    Player/
+    AI/
+    Mission/
+    Interaction/
+    Weapons/
+    Save/
+
+FOUNDATIONAL CODE CANDIDATES
+
+- mission-state authority;
+- security-event dispatch;
+- interaction interface;
+- checkpoint serialization;
+- objective tracking;
+- AI stimulus/report interfaces;
+- damage and takedown interfaces;
+- tracked mission-object ownership;
+- companion role/target reservation.
+
+BLUEPRINT/CONTENT CANDIDATES
+
+- guard routine instances;
+- patrol paths;
+- interaction placement;
+- office choreography assembly;
+- camera/alarm placement;
+- level-specific companion waypoints;
+- audio volumes;
+- objective triggers;
+- art dressing.
+
+LYRA/SAMPLE RULE
+
+Epic sample projects may be studied for input, animation, interaction, modularity,
+and project organization. Do not inherit a large sample architecture wholesale
+unless it clearly serves this single-player tactical slice.
+
+WORLD PARTITION RULE
+
+The Christiansted facility is compact. A conventional level, Level Instances, or
+modest streaming structure is likely sufficient for the first slice. World Partition
+should be adopted only if the final playable geography, flight, and second-island
+scope justify its complexity.
+
+================================================================================
+GREYBOX AND PROTOTYPE ORDER
+================================================================================
+
+GREYBOX FIRST
+
+Build with simple geometry, placeholder characters, and temporary props.
+
+Required greybox areas:
+
+1. safehouse room and exit;
+2. surveillance overlook;
+3. final staging point;
+4. west approach;
+5. east approach;
+6. gatehouses;
+7. perimeter fence and climb points;
+8. north service entrance;
+9. first-floor corridor;
+10. bathroom;
+11. break room;
+12. manager's office;
+13. fuel storage;
+14. east berth;
+15. north jetty;
+16. N272BT footprint;
+17. police arrival lanes;
+18. Coast Guard pressure lane.
+
+GREYBOX VALIDATION
+
+- traversal times;
+- sightline fairness;
+- camera cones;
+- cover and concealment;
+- companion spacing;
+- doorway width;
+- stack positions;
+- office animation clearance;
+- grenade path;
+- destructible-door behavior;
+- jetty combat width;
+- body-disposal volumes;
+- water-edge safety;
+- aircraft door access;
+- propeller clearance;
+- police deployment;
+- escape threshold.
+
+Do not begin final administration-building modeling until both office branches and
+freeform fallback work in greybox.
+
+================================================================================
+ART-DIRECTION AND ENVIRONMENT ASSET REQUIREMENTS
+================================================================================
+
+The environment should read as a compact working Caribbean harbor-aviation facility,
+not a large airport or luxury marina.
+
+MINIMUM ENVIRONMENT KIT
+
+- pale gray/off-white corrugated operations-building modules;
+- shallow roof modules;
+- dark-framed windows;
+- functional doors;
+- exterior stairs and landings;
+- wall-mounted air conditioners;
+- conduits and utility runs;
+- chain-link fence and gates;
+- repaired concrete/asphalt apron;
+- drainage and water staining;
+- barriers, bollards, cones, carts, boxes, service vehicles;
+- fuel tanks and fuel-service equipment;
+- hard quay/seawall pieces;
+- floating docks;
+- gangways;
+- cleats, ropes, cables, hoses, utility boxes, ladders, fenders;
+- tropical vegetation;
+- hillside/town background kit;
+- night practical lights;
+- Ocean Blue Sky Tours signs and documents;
+- readable N272BT markings.
+
+MATERIAL DIRECTION
+
+- pale gray;
+- off-white;
+- faded blue;
+- weathered metal;
+- concrete gray;
+- salt white;
+- rust brown;
+- algae green;
+- oil-dark staining;
+- blue-green water;
+- dense vegetation greens;
+- restrained surrounding pastel accents.
+
+NIGHT LIGHTING REQUIREMENTS
+
+- broken water reflections;
+- practical security lighting;
+- localized utility-light pools;
+- deep but readable shadow under wings, stairs, docks, and palms;
+- hillside/town lights for orientation;
+- silhouettes readable without uniform cinematic fill;
+- stealth darkness reliable enough for player planning.
+
+REFERENCE AND LICENSING RULE
+
+The existing photographs and simulator images are visual references, not automatically
+cleared production assets. Final geometry, textures, signs, liveries, and branding
+must be independently produced. Keep third-party reference provenance and usage rights
+in a controlled library.
+
+================================================================================
+CHARACTER, PROP, AND VEHICLE ASSET INVENTORY
+================================================================================
+
+MINIMUM CHARACTER SET
+
+- Spook first-person arms;
+- Spook full body for shadows/reflections/animation as required;
+- Smoke;
+- Tripper;
+- seven contractor appearances with practical variation;
+- Ocean Blue Sky Tours manager;
+- civilians, if approved;
+- eight police officers if fully represented;
+- Coast Guard crew if fully represented.
+
+MINIMUM HERO/INTERACTION PROPS
+
+- Spook mission weapons and equipment;
+- contractor weapons;
+- radios;
+- alarm buttons;
+- CCTV cameras;
+- manager phone;
+- manager handgun;
+- restraints/zip cuffs;
+- Tripper breaching shotgun;
+- Smoke stun grenade;
+- N272BT key bundle;
+- office desk/drawer/chair;
+- CCTV monitor station;
+- diegetic radio/music source;
+- mooring lines and releases;
+- Found FBA-2C N272BT;
+- two police cars;
+- Coast Guard vessel or authored representation.
+
+================================================================================
+ANIMATION INVENTORY
+================================================================================
+
+PLAYER/WEAPON
+
+- locomotion;
+- crouch;
+- aim/fire/reload;
+- interaction reach;
+- surveillance optics;
+- stealth takedowns;
+- restraint;
+- body move/drag;
+- drawer opening;
+- key pickup;
+- body search;
+- key handoff;
+- mooring release;
+- aircraft boarding.
+
+GUARDS
+
+- patrol;
+- stationary observation;
+- phone/smoke/football/flask/coffee;
+- bathroom transit;
+- north-jetty western-edge routine;
+- routine interruption;
+- radio call;
+- alarm activation;
+- suspicion/investigation;
+- body discovery;
+- surrender;
+- incapacitation;
+- restraint;
+- combat and cover;
+- reaction to aircraft startup.
+
+VARIANT A
+
+- stack;
+- Smoke door operation;
+- three-person entry;
+- adaptive guard engagement;
+- manager reach/disarm;
+- manager control;
+- drawer indication;
+- manager chair restraint;
+- key pickup;
+- doorway handoff.
+
+VARIANT B
+
+- office-guard deployment;
+- manager lock/cover/phone;
+- manager return fire;
+- Tripper shotgun draw/position/two-shot breach;
+- Smoke grenade preparation/throw;
+- protective camera/look behavior;
+- three-person entry;
+- manager stun reaction;
+- handgun strip;
+- floor tackle/pin;
+- jacket SEARCH;
+- key toss/catch;
+- desk restraint.
+
+AIRCRAFT
+
+- door/cabin access;
+- team boarding;
+- Smoke key selection/startup;
+- engine stages;
+- mooring release;
+- water taxi;
+- takeoff;
+- alert-state reactions.
+
+All authored animations need cancellation, interruption, collision, and checkpoint
+recovery rules.
+
+================================================================================
+AUDIO, MUSIC, DIALOGUE, AND VFX
+================================================================================
+
+AUDIO REQUIREMENTS
+
+- harbor ambience;
+- wind and vegetation;
+- water and dock movement;
+- distant Christiansted town texture;
+- gatehouse television;
+- guard radios;
+- CCTV-manager calls;
+- alarm activation;
+- suppressed and unsuppressed weapons;
+- interior/exterior weapon tails;
+- door damage and shotgun breach;
+- stun grenade;
+- police sirens and arrival;
+- Coast Guard approach;
+- key-bundle clink;
+- aircraft door, startup, propeller stages, taxi, and takeoff;
+- room and door occlusion;
+- dialogue ducking;
+- dynamic range options;
+- subtitles and non-speech captions.
+
+MUSIC DEPENDENCY
+
+Frank Sinatra's “Come Fly With Me” remains the preferred diegetic office cue subject
+to commercial licensing.
+
+Production must maintain a replaceable music implementation and develop a legally
+usable fallback: a newly composed or separately cleared mid-century lounge/big-band
+recording with equivalent tonal contrast and useful structural timing.
+
+No interaction logic may depend on copyrighted lyrics. Exact beat synchronization
+must yield to player agency after an extended delay.
+
+VFX REQUIREMENTS
+
+- camera status/indicator appropriate to physical hardware;
+- alarm light/sound where applicable;
+- suppressed muzzle effects;
+- door splinters and debris;
+- grenade flash and dust with accessibility alternatives;
+- water splash/body disposal;
+- engine exhaust/prop wash;
+- police/boat lights;
+- night water reflections.
+
+================================================================================
+CHECKPOINT AND SAVE-STATE MATRIX
+================================================================================
+
+The following variables must serialize deterministically:
+
+MISSION FLOW
+
+- safehouse completed;
+- surveillance completed;
+- routines learned/tagged;
+- final staging reached;
+- infiltration begun;
+- office reached;
+- keys obtained;
+- aircraft reached;
+- escape begun;
+- mission complete.
+
+SECURITY
+
+- current security state;
+- last confirmed location;
+- active investigation;
+- camera status;
+- alarm-button status;
+- active/completed radio alerts;
+- manager awareness;
+- police-call timer and completion;
+- police arrival;
+- Coast Guard state.
+
+CHARACTERS
+
+- each guard alive/dead/incapacitated/restrained/active;
+- each guard location/routine where needed;
+- office guards deployed or inside;
+- manager alive/dead/restrained/free;
+- Smoke and Tripper status and role;
+- civilian states if present.
+
+OFFICE
+
+- door unlocked/locked/damaged/destroyed;
+- Variant A/B/hybrid/freeform branch;
+- manager handgun location/owner;
+- key drawer state;
+- manager pocket state;
+- body-search state;
+- restraint state.
+
+KEY BUNDLE
+
+- drawer;
+- manager pocket;
+- manager body;
+- Spook;
+- in transit/toss exceptional state;
+- Smoke;
+- recoverable ground pickup;
+- cockpit/startup consumed state.
+
+AIRCRAFT
+
+- moorings attached/released;
+- team boarded;
+- engine state;
+- taxi state;
+- damage state if used;
+- escape threshold.
+
+CHECKPOINT PLACEMENT RECOMMENDATION
+
+Candidate checkpoints:
+
+1. after safehouse departure;
+2. after surveillance and before final staging;
+3. after entering the compound;
+4. before office commitment, with branch state preserved;
+5. after key transfer;
+6. at aircraft boarding/startup;
+7. after takeoff/escape threshold.
+
+Avoid checkpoints that reload the player inside an active authored animation unless
+the entire sequence has explicit restoration logic.
+
+================================================================================
+ACCESSIBILITY REQUIREMENTS
+================================================================================
+
+- full subtitle coverage;
+- non-speech captions for radios, alarms, sirens, boat, and aircraft cues;
+- speaker identification where appropriate;
+- remappable controls;
+- hold/toggle alternatives;
+- color-independent camera/alarm feedback;
+- high-contrast prompt option without changing wording;
+- reduced camera pull;
+- reduced motion/time-dilation effects;
+- reduced flash/stun presentation;
+- audio dynamic-range options;
+- stealth readability alternatives for guard routine cues;
+- difficulty tuning that preserves route logic rather than simply changing enemy
+  health;
+- adequate time for interactions without erasing authored pressure;
+- no reliance on one subtle audio cue without visual/caption equivalent.
+
+================================================================================
+PERFORMANCE AND PLATFORM REQUIREMENTS
+================================================================================
+
+OWNER DECISION REQUIRED — TARGET PLATFORM AND HARDWARE
+
+Lock:
+
+- target PC specification;
+- console targets, if any;
+- frame-rate target;
+- resolution/upscaling policy;
+- ray-tracing/Lumen/Nanite policy;
+- input devices;
+- minimum storage and memory budgets.
+
+VERTICAL-SLICE PERFORMANCE BUDGETS TO AUTHOR
+
+- frame time;
+- draw calls;
+- visible triangles;
+- texture memory;
+- virtual shadow-map cost;
+- skeletal-mesh count;
+- active AI count;
+- perception update budget;
+- audio voice count;
+- water/reflection cost;
+- VFX cost;
+- level-load and checkpoint-reload time.
+
+Do not postpone performance validation until final art. The open apron, water,
+reflections, vegetation, town background, aircraft, and active AI can combine into a
+costly scene despite the compact footprint.
+
+================================================================================
+TESTING AND VALIDATION MATRIX
+================================================================================
+
+AUTOMATED / FUNCTIONAL TEST CANDIDATES
+
+- each camera detects and dispatches a valid investigator;
+- no investigator available fallback;
+- each alarm button activates compound alert;
+- every radio-capable character can begin, complete, and be interrupted;
+- completed radio persists through reload;
+- all guard state combinations preserve office access;
+- manager warning produces correct branch;
+- office door intact/damaged/destroyed paths;
+- Variant A target reassignment;
+- Variant B police call interrupted/completed;
+- grenade never bounces into hallway because of minor door-angle variance;
+- manager alive/dead fallback;
+- key ownership at every transition;
+- toss/catch interruption;
+- Smoke delayed/unavailable handoff;
+- north-jetty guard routine interruption;
+- body disposal/equipment state;
+- aircraft startup under quiet and alerted states;
+- police and Coast Guard pressure;
+- death/reload during each authored sequence;
+- no duplicate companions, manager, guards, keys, or aircraft state.
+
+BRANCH COMPLETION TESTS
+
+1. Full quiet bypass.
+2. Quiet non-lethal.
+3. Quiet mixed force.
+4. Camera investigation resolved without full alert.
+5. Radio interrupted.
+6. Alarm activated and recovered.
+7. Variant A.
+8. Variant B with police call interrupted.
+9. Variant B with police call completed.
+10. Door destroyed before coordinated breach.
+11. Manager killed and body searched.
+12. All seven guards eliminated before office.
+13. North-jetty guard bypassed.
+14. North-jetty guard restrained.
+15. North-jetty lethal without disposal.
+16. North-jetty lethal with disposal.
+17. Police and Coast Guard containment escape.
+18. Checkpoint reload in every phase.
+
+HUMAN PLAYTEST QUESTIONS
+
+- Did players understand the surveillance phase produced useful knowledge?
+- Did they identify at least two routine windows?
+- Did camera detection feel fair?
+- Could they distinguish investigation from full alert?
+- Were radio and alarm actions readable and interruptible?
+- Did Smoke and Tripper feel competent without stealing control?
+- Did the office sequence feel authored but still playable?
+- Was the key-bundle objective physically and narratively clear?
+- Did players know Smoke was the pilot?
+- Did escalation feel harder rather than simply broken?
+- Did players find the north jetty and aircraft route?
+- Did quiet and loud outcomes both feel intentionally supported?
+- Did any path create a softlock, invisible failure, or contradictory objective?
+
+Use Unreal Functional Testing, Automation, and Data Validation or equivalent tooling
+to support repeatable branch tests and asset-rule enforcement.
+
+================================================================================
+RECOMMENDED MILESTONE SEQUENCE
+================================================================================
+
+MILESTONE 0 — PREPRODUCTION LOCK
+
+Deliver:
+
+- pinned engine version;
+- vertical-slice charter;
+- blockout plan;
+- administration-building floor plan;
+- state diagram;
+- interaction matrix;
+- checkpoint matrix;
+- loadout decision;
+- civilian decision;
+- aircraft-control decision;
+- target hardware decision.
+
+Exit condition:
+
+No major mission route or office geometry dependency remains undefined.
+
+MILESTONE 1 — MOVEMENT AND GREYBOX
+
+Deliver:
+
+- first-person controller;
+- greybox environment;
+- basic interaction;
+- Smoke/Tripper follow behavior;
+- complete walk-through from safehouse to aircraft without final AI.
+
+Exit condition:
+
+All macro spaces, traversal times, and companion clearances validate.
+
+MILESTONE 2 — SECURITY PROTOTYPE
+
+Deliver:
+
+- Security Director;
+- seven guard instances;
+- basic patrols;
+- camera investigation;
+- radios;
+- alarms;
+- alert/search/combat states.
+
+Exit condition:
+
+Quiet, investigation, and alert paths work without office choreography.
+
+MILESTONE 3 — OFFICE PROTOTYPE
+
+Deliver:
+
+- Variant A;
+- Variant B;
+- hybrid/freeform fallback;
+- deceased-manager fallback;
+- key-bundle state;
+- Smoke handoff.
+
+Exit condition:
+
+Every office branch reaches a valid post-office state without softlock.
+
+MILESTONE 4 — AIRCRAFT ESCAPE PROTOTYPE
+
+Deliver:
+
+- N272BT interaction;
+- boarding;
+- startup;
+- moorings;
+- guided taxi;
+- takeoff/fade;
+- alert-state reaction;
+- external-response pressure.
+
+Exit condition:
+
+Every validated mission branch can escape.
+
+MILESTONE 5 — ART/AUDIO/ANIMATION PASS
+
+Deliver:
+
+- vertical-slice-quality environment;
+- character/prop assets;
+- animations;
+- audio and dialogue;
+- lighting;
+- UI;
+- music fallback integration.
+
+Exit condition:
+
+The slice communicates intended tone and all critical interactions remain readable.
+
+MILESTONE 6 — POLISH, ACCESSIBILITY, AND PERFORMANCE
+
+Deliver:
+
+- accessibility settings;
+- optimization;
+- bug fixing;
+- branch regression suite;
+- external playtest.
+
+Exit condition:
+
+Acceptance criteria pass on target hardware.
+
+================================================================================
+OWNER DECISIONS REQUIRED BEFORE FULL PRODUCTION
+================================================================================
+
+1. Exact vertical-slice ending.
+2. Final administration-building and office floor plans.
+3. Primary and secondary perimeter routes.
+4. Camera, radio, and alarm countermeasure scope.
+5. Civilian presence, behavior, and failure consequences.
+6. Detection buildup, call durations, and alert persistence.
+7. Police and Coast Guard implementation depth in the slice.
+8. Spook's exact mission loadout.
+9. Non-lethal restraint requirements.
+10. Body carrying/dragging scope.
+11. North-jetty water-disposal implementation scope.
+12. Ocean Blue Sky Tours logo and N272BT livery.
+13. Licensed song versus fallback cue.
+14. Aircraft player-control allocation.
+15. Target platform and hardware budget.
+16. Checkpoint placement and difficulty rules.
+17. Vertical-slice acceptance build criteria.
+
+================================================================================
+DEFINITION OF DONE — VERTICAL SLICE
+================================================================================
+
+The COME FLY WITH ME Christiansted demo is done when:
+
+- the source-locked mission flow is represented through N272BT escape;
+- surveillance teaches useful information;
+- at least two perimeter routes function;
+- seven contractors, four cameras, four alarms, and eight radio-capable characters
+  operate under the intended layered security logic;
+- investigation and full alert are distinct and readable;
+- stealth failure is recoverable;
+- bypass, non-lethal, mixed, and lethal play can reach completion;
+- Smoke and Tripper behave reliably and preserve player agency;
+- Variant A, Variant B, hybrid/freeform entry, and deceased-manager fallback work;
+- the N272BT key bundle remains continuous and unique;
+- Smoke receives the keys and pilots the aircraft;
+- quiet and escalated departures both function;
+- police/Coast Guard pressure behaves according to the selected slice scope;
+- checkpoints restore every branch deterministically;
+- prompts follow the Project Warriors UI standard;
+- subtitles, captions, remapping, flash reduction, and motion options are functional;
+- performance meets the locked target on target hardware;
+- no known progression softlock remains;
+- a representative external player can complete the slice without developer guidance.
+
+================================================================================
+RESULT
+================================================================================
+
+COME FLY WITH ME has enough source-locked mission design to enter structured
+preproduction for a UE5 vertical slice. The next work is not additional broad plot
+development. It is the conversion of existing mission intent into floor plans,
+state diagrams, interaction matrices, system specifications, greybox geometry,
+companion behavior, office choreography, aircraft escape logic, asset inventories,
+accessibility rules, performance budgets, and branch-complete tests.
+
+The recommended first slice ends with N272BT escaping Christiansted. This boundary
+shows the mission's strongest gameplay and narrative identity while avoiding the
+premature cost of a full flight simulator, second island, and SINS OF OUR FATHERS
+handoff level.
+
+END
