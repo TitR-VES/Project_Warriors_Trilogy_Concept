@@ -6,9 +6,9 @@ Status: OPEN PR LANDING AUDIT / VARIANT A SOURCE-READY / VARIANT B LIVE
 
 SCOPE
 
-Audit the unaware manager's-office breach source and its apprehension / weapon-
-security addendum against the current controlling COME FLY WITH ME geography and
-security architecture.
+Audit the unaware manager's-office breach source and its apprehension, weapon-
+security, interactive key-retrieval, and office-exit key-handover addenda against the
+current controlling COME FLY WITH ME geography and security architecture.
 
 LANDED SOURCES
 
@@ -16,6 +16,8 @@ LANDED SOURCES
   PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
 - dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
   PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
 
 CONTROLLING SOURCES CHECKED
 
@@ -30,13 +32,14 @@ PASS — the new scene sources preserve:
 - exactly two armed office guards and one live manager;
 - the unaware office door as unlocked in Variant A;
 - Spook as first entrant, Smoke as door operator / second entrant, and Tripper as
-  third entrant / final corridor security;
+  third entrant;
 - first-person semi-scripted presentation with meaningful player look and aim control;
 - brief threshold-only time dilation rather than a reusable bullet-time system;
 - non-lethal, suppressed-lethal, and mixed resolution of the office guards;
 - manager survival, disarm, interrogation, and chair restraint;
 - the fueled Found FBA-2C at the north jetty;
 - aircraft access through physical key recovery;
+- Smoke as the eventual pilot and operational keyholder;
 - no requirement to kill every guard;
 - the full-alert manager-lockdown branch as a separate unresolved Variant B;
 - police and Coast Guard escalation authority in the dedicated security source;
@@ -44,7 +47,7 @@ PASS — the new scene sources preserve:
 
 APPREHENSION DETAIL LANDED
 
-The supplemental addendum now locks:
+The supplemental addendum locks:
 
 - casual pre-breach office conversation and smoking / drink routines;
 - the manager seated behind the desk or leaning against its visitor-facing side;
@@ -61,7 +64,7 @@ The supplemental addendum now locks:
 
 INTERACTIVE KEY-RETRIEVAL CORRECTION
 
-The source now explicitly avoids an awkward reach across the manager's desk:
+The source explicitly avoids an awkward reach across the manager's desk:
 
 - after the drawer location is disclosed, Tripper takes secure physical control of
   the manager and begins the chair restraint;
@@ -75,12 +78,40 @@ The source now explicitly avoids an awkward reach across the manager's desk:
 - the drawer, keys, companion positions, checkpoint state, and accessibility
   interaction volumes require fail-safe validation.
 
+OFFICE-EXIT KEY HANDOVER LANDED
+
+The office-exit addendum now locks the practical transfer of aircraft control from
+Spook to Smoke:
+
+- after TAKE KEYS, Smoke moves ahead of the player;
+- Smoke positions himself just inside the office doorway and covers outward into the
+  first-floor corridor;
+- Tripper remains with the manager, completing the chair restraint and rear room
+  security;
+- Spook approaches the doorway under normal first-person locomotion;
+- proximity to Smoke triggers a short, physically motivated camera look rather than a
+  hard cinematic cut;
+- a first-person animation shows Spook extending the Found FBA-2C keyring and Smoke
+  accepting it while maintaining a credible security posture;
+- control returns immediately after the handover;
+- key ownership progresses from drawer, to Spook, to Smoke;
+- Smoke's pilot-readiness state completes only after the transfer;
+- immediate corridor threats defer the handover rather than removing combat control;
+- checkpoint, interruption, duplication, navigation, and aircraft-startup fail-safes
+  remain explicit production requirements.
+
+The new source supersedes the earlier implication that Tripper resumes final doorway
+coverage immediately after restraining the manager. During the office-exit beat,
+Smoke owns the doorway and forward corridor while Tripper remains responsible for the
+manager and surviving room occupants.
+
 MUSIC DEPENDENCY
 
 Frank Sinatra's "Come Fly With Me" remains the preferred diegetic cue. Commercial
 music clearance remains an explicit dependency, with a separately cleared or newly
 composed mid-century lounge / big-band fallback required. The scene does not depend
-on quoted lyrics.
+on quoted lyrics. The office radio may continue through the key handover and become
+more occluded as the team enters the corridor.
 
 LIVE DEPENDENCY
 
@@ -99,15 +130,16 @@ production-complete. It must still define:
 RETIREMENT / ARCHIVE RESULT
 
 The COME FLY WITH ME manager-office development thread is not archive-ready on the
-basis of Variant A alone. The unaware branch and its corrected key retrieval are
-landed, but the requested alerted Variant B remains a live dependency.
+basis of Variant A alone. The unaware branch, corrected key retrieval, and pilot key
+handover are landed, but the requested alerted Variant B remains a live dependency.
 
 SOURCE-LANDING RESULT
 
 The unaware Variant A is source-ready and consistent with the controlling mission
-architecture. Its apprehension, weapon-security, and interactive key-retrieval beats
-are sufficiently explicit for continued floor-plan and implementation development.
-The full two-variant office encounter is not yet production-complete because Variant
-B remains a live narrative, gameplay, and escalation dependency.
+architecture. Its apprehension, weapon-security, interactive key-retrieval, doorway
+coverage, and first-person pilot handover beats are sufficiently explicit for
+continued floor-plan and implementation development. The full two-variant office
+encounter is not yet production-complete because Variant B remains a live narrative,
+gameplay, and escalation dependency.
 
 END
