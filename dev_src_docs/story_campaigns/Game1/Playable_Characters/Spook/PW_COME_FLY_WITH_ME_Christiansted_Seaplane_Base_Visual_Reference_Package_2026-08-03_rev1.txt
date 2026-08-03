@@ -1,0 +1,411 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — CHRISTIANSTED HARBOR SEAPLANE BASE VISUAL-REFERENCE PACKAGE
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-SUPPLIED VISUAL REFERENCE / SOURCE-READY / PRODUCTION ART DIRECTION OPEN
+
+PURPOSE
+
+Record five owner-supplied images of the Christiansted Harbor Seaplane Base as a
+controlled visual-reference package for future environment, lighting, prop, material,
+waterfront, dock, aircraft-berth, and level-art development for COME FLY WITH ME.
+
+The images include a mixture of photographic reference, stock photographic material,
+and virtual reconstruction from a flight-simulator game. They are useful for visual
+character, scale relationships, material language, waterfront context, and production
+readability, but they do not replace the controlling mission map or source-defined
+level geometry.
+
+RELATED CONTROLLING SOURCES
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- maps/COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_North_Jetty_Guard_Routine_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Ocean_Blue_Sky_Tours_FBA2C_Identity_and_Key_Bundle_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+
+AUTHORITY RULE
+
+- The owner-supplied KML, geography source, security sources, encounter sources, and
+  aircraft-identity source remain authoritative for gameplay geography, guard layout,
+  objective flow, office placement, north-jetty use, and the fictional Found FBA-2C
+  N272BT.
+- These five images are authoritative only as owner-selected visual reference for the
+  environmental qualities and production cues identified below.
+- Photographs may inform real-world material, weathering, vegetation, topography,
+  waterfront density, dock construction, and environmental atmosphere.
+- Flight-simulator images may inform broad spatial readability, camera comprehension,
+  aircraft-to-dock scale, and plausible player-facing compositions, but may not be
+  treated as surveyed geometry or exact site reconstruction.
+- The reference aircraft visible in the supplied images does not supersede the locked
+  project aircraft type, Found FBA-2C, or its fictional registration N272BT.
+- Real business names, liveries, signs, staff uniforms, and branding visible in any
+  reference must not replace Ocean Blue Sky Tours, Ltd. or other fictional project
+  identities.
+
+================================================================================
+ATTACHMENT MANIFEST
+================================================================================
+
+The exact owner-supplied files are identified below by filename, image dimensions,
+and SHA-256 hash. The hashes allow production to reconnect this source entry to the
+same reference files if filenames are later normalized or the images are moved into a
+separate licensed/private reference library.
+
+REFERENCE 01
+
+Filename: images (14).jpeg
+Format: JPEG
+Dimensions: 1152 x 1536
+SHA-256: 3021c5f7244e413335c977b7cca0356d639d3270bc7e24c163cb5383dbd952fe
+Working description: harbor-front photographic context with a floatplane viewed from
+near the bow/front, a low dock and waterfront structures, and a steep green hillside
+rising behind the base.
+
+REFERENCE 02
+
+Filename: images (13).jpeg
+Format: JPEG
+Dimensions: 1536 x 1152
+SHA-256: 24e448eaa022b4b09b42de78d28e36d83f80a769653c0ade9c9cd6ac076e3a27
+Working description: flight-simulator reconstruction showing a high-wing twin-engine
+floatplane in side profile at a concrete waterside stand under a broken-cloud sky.
+
+REFERENCE 03
+
+Filename: christianstedst-croixusvioctober-222019-christiansted-harbor-260nw-1754640683.jpg
+Format: JPEG
+Dimensions: 1536 x 1103
+SHA-256: e0b48a06c0d5d320a4f7a92c13c9afb906b5dab81ff9b007405b108ac8e3fd1e
+Working description: stock photographic view of a utilitarian gray metal-sided
+waterside administration or operations building, exterior stair, chain-link security
+fence, palm trees, sparse landscaping, air-conditioning units, and the hard shoreline
+edge. The supplied image visibly carries Shutterstock identification and is reference
+material only unless separately licensed.
+
+REFERENCE 04
+
+Filename: christiansted-harbor-seaplane-base-638080-1739376208-t4CQ1.webp
+Stored image format detected: JPEG-compatible image data
+Dimensions: 1536 x 842
+SHA-256: 85c0aaf9982d1b75997d63d2b402961a27a95b5377971a8b27ccc5ea0c606df2
+Working description: wide flight-simulator overview of the compact base footprint,
+including the primary waterside building, paved apron, shoreline, dock projection,
+nearby town fabric, harbor water, and surrounding hills.
+
+REFERENCE 05
+
+Filename: images (12).jpeg
+Format: JPEG
+Dimensions: 1536 x 1181
+SHA-256: 0a3c0256749ace8b8e47242cb3792bcb622224ccb64c0df803f1ee603fea4edf
+Working description: owner-identified north-jetty reference showing a moored white
+floatplane beside a low floating dock, service personnel, equipment, hose or cable
+runs, dock-edge hardware, and the harbor beyond.
+
+The owner specifically identifies the moored white floatplane view as being taken at
+or depicting the north jetty of the Christiansted Harbor Seaplane Base. That owner
+identification controls its use as a north-jetty visual reference.
+
+================================================================================
+LOCKED VISUAL-DIRECTION FINDINGS
+================================================================================
+
+1. COMPACT WATERFRONT FACILITY
+
+The base should read as a compact working harbor aviation facility rather than a large
+conventional airport.
+
+The visual language should emphasize:
+
+- immediate contact between operations buildings, paved service areas, docks, and
+  navigable harbor water;
+- short walking distances and strong visual overlap between landside and waterside
+  activity;
+- low-rise construction rather than terminal-scale architecture;
+- a practical working-site character in which aircraft servicing, passenger handling,
+  utility equipment, and security coexist in a compressed footprint;
+- open exposure to water, wind, salt, and tropical weather.
+
+The map may enlarge or reshape this footprint for gameplay, but the environment must
+not lose the compact harbor-base identity visible across the reference set.
+
+2. TOPOGRAPHY AND TOWNSCAPE
+
+The waterfront is visually backed by steep or strongly rising green terrain.
+
+Production should preserve:
+
+- dense tropical vegetation on the hillside;
+- irregular low-rise development climbing or sitting against the slope;
+- a layered background in which harbor, waterfront structures, palms, town fabric,
+  and hillside are visible within the same broad composition;
+- bright or warm roof colors and Caribbean waterfront color accents without turning
+  the base itself into a resort environment;
+- a sense that the facility is embedded in Christiansted rather than isolated on a
+  remote military-style airfield.
+
+The hill and town are important distant-or-midground anchors for player orientation,
+especially when moving between the western approach, administration building, fuel
+area, and north jetty.
+
+3. PRIMARY OPERATIONS BUILDING LANGUAGE
+
+The administration or operations building should derive its general material language
+from the supplied photographic reference while remaining fictionalized for Ocean Blue
+Sky Tours, Ltd.
+
+Useful cues include:
+
+- pale gray or off-white corrugated metal siding;
+- a shallow or low-profile roof line;
+- simple dark-framed rectangular windows;
+- functional exterior doors without decorative treatment;
+- exterior metal stairs and landings;
+- wall-mounted air-conditioning units and service conduits;
+- chain-link perimeter elements and practical gates;
+- sparse low-maintenance planting rather than elaborate landscaping;
+- weathering appropriate to salt air, humidity, sun, and rain;
+- patched, stained, or repaired hardscape at the water-facing edge.
+
+The final building must support the locked first-floor manager's office, north service
+entrance, corridor, office-guard positions, alarm button, CCTV logic, and both manager-
+office breach variants. The photographs guide visual treatment, not the exact interior
+floor plan.
+
+4. PAVED APRON AND SERVICE YARD
+
+The paved areas should look used, exposed, and repeatedly repaired rather than newly
+constructed.
+
+Production cues include:
+
+- faded concrete or light asphalt;
+- expansion joints, patchwork, staining, tire marks, water marks, and drainage traces;
+- small utility islands, barriers, bollards, cones, boxes, carts, tanks, and service
+  vehicles placed with operational logic;
+- broad open sightlines broken by equipment rather than dense architectural cover;
+- clear aircraft movement and service zones near the water;
+- enough clutter to feel real without compromising stealth readability or companion
+  navigation.
+
+The wide simulator overview is useful for understanding the broad apron-to-water
+relationship, but it must not be copied as exact geometry.
+
+5. WATERFRONT EDGE AND DOCK CONSTRUCTION
+
+The references support a mix of hard shoreline, floating dock, gangway, and low utility
+infrastructure.
+
+The production environment should use a coherent selection of:
+
+- low concrete seawalls or quay edges;
+- floating dock modules with visible flotation and edge wear;
+- metal or painted gangways and boarding bridges;
+- mooring cleats, bollards, ropes, cables, hoses, and service lines;
+- dock-mounted utility boxes or service cabinets;
+- ladders, edge rails, rub strips, bumpers, and fenders where operationally credible;
+- wet, salt-stained, algae-marked, rust-marked, and sun-faded surfaces;
+- small vertical changes between fixed quay and floating dock that communicate tide
+  and water movement.
+
+Dock dressing must support player traversal and stealth readability. Decorative ropes,
+hoses, and service cables may not become invisible collision traps.
+
+6. NORTH JETTY VISUAL LOCK
+
+Reference 05 is the primary owner-identified visual reference for the north jetty.
+
+The north-jetty environment should communicate:
+
+- a white or pale working floatplane moored close to a low floating dock;
+- direct access between dock and aircraft cabin or float structure;
+- exposed open-water sightlines beyond the aircraft;
+- service equipment positioned close enough to imply routine turnaround activity;
+- hoses, cables, boxes, cones, and mooring hardware that make the berth feel active;
+- weathered dock surfaces and a modest rather than luxury-marina finish;
+- enough physical width for Smoke, Spook, Tripper, the north-jetty guard, and the
+  N272BT interaction choreography to function without crowding.
+
+The final north-jetty design must preserve the locked guard routine, the western-edge
+vulnerability, the approach past the fuel tanks, the possibility of alert-state combat,
+and the N272BT boarding/startup sequence.
+
+7. AIRCRAFT-TO-DOCK SCALE AND READABILITY
+
+The supplied aircraft images are useful for broad composition and scale:
+
+- a high wing creates a strong sheltered silhouette over the dock and cabin access;
+- twin engines and propellers create visible hazard and clearance zones;
+- floats produce a low waterborne stance with struts and structural elements between
+  cabin and water;
+- the aircraft can visually dominate a compact berth without requiring a large apron;
+- a cabin door, boarding step, or short gangway should remain readable from first-
+  person approach distance.
+
+These cues should be translated to the fictional Found FBA-2C N272BT rather than used
+to replace it with the exact aircraft represented in the references.
+
+8. WATER, WEATHER, AND TROPICAL ATMOSPHERE
+
+The reference set supports:
+
+- blue-green harbor water with small wind-driven surface movement;
+- visible reflections and color variation near the quay and dock;
+- bright tropical daylight in some views;
+- fast-changing or broken-cloud Caribbean skies in others;
+- palms and vegetation moving visibly in coastal wind;
+- salt haze, humidity, sun bleaching, and localized staining.
+
+COME FLY WITH ME's infiltration is after dark. Production should translate these
+daytime references into a credible night version rather than reproducing daytime
+lighting.
+
+Night adaptation should include:
+
+- dark water carrying broken reflections from dock and building lights;
+- practical exterior security lighting rather than uniform cinematic illumination;
+- localized pools of warm or neutral utility light;
+- deeper shadow beneath wings, stair landings, dock edges, and palms;
+- selective hillside and town lights preserving Christiansted's surrounding presence;
+- readable silhouettes of the operations building, fuel tanks, jetty, aircraft, and
+  shoreline;
+- optional cloud movement and intermittent moonlight only where compatible with the
+  mission's stealth requirements.
+
+9. COLOR AND MATERIAL PALETTE
+
+The base should balance a restrained industrial palette with Caribbean surroundings.
+
+Recommended environmental palette direction:
+
+- pale gray, off-white, faded blue, and weathered metal for the working facility;
+- concrete gray, salt white, rust brown, algae green, and oil-dark staining at ground
+  and water edges;
+- blue-green water and saturated sky as the largest natural color fields;
+- dense vegetation greens and palm tones;
+- selective coral, red, pink, cream, or pastel accents in surrounding waterfront
+  buildings and roofs;
+- Ocean Blue Sky Tours branding as a fictional layer that does not copy real operator
+  signage.
+
+10. ENVIRONMENTAL STORYTELLING
+
+The reference set supports a site that operates publicly as a legitimate aerial-tour
+business while concealing Goldberg-linked transport activity.
+
+Environmental storytelling may include:
+
+- public-facing tour signage and modest passenger-handling elements;
+- maintenance and service equipment consistent with daily floatplane operations;
+- practical employee spaces and weathered operational notices;
+- secure doors, controlled areas, radios, CCTV, and alarm infrastructure integrated
+  into an otherwise ordinary commercial harbor facility;
+- discrepancies between the cheerful Ocean Blue Sky Tours public image and the harder
+  armed-contractor presence after hours;
+- no implication that every civilian employee or harbor worker is complicit.
+
+The references support authenticity of place. They do not authorize copying real
+company marks, staff identities, or exact security arrangements.
+
+================================================================================
+LEVEL-DESIGN APPLICATION
+================================================================================
+
+The images should inform the visual build without overriding gameplay requirements.
+
+Production must preserve:
+
+- the safehouse-to-surveillance-to-final-staging macro flow;
+- east and west perimeter logic;
+- exactly seven armed contractors in the locked distribution;
+- the four fixed alarm buttons;
+- CCTV placement and manager monitoring logic;
+- north service entrance and first-floor manager-office access;
+- both manager-office variants and the deceased-manager fallback;
+- the fuel-tank landmark on the route to the north jetty;
+- the north-jetty guard routine and western-edge vulnerability;
+- N272BT moored at the north jetty;
+- viable stealth, non-lethal, lethal, and alert-recovery paths;
+- police and Coast Guard escalation pressure where triggered.
+
+The visual references may suggest believable occluders, cover, sightline breaks, and
+traversal surfaces, but the final arrangement must be authored for gameplay rather
+than copied from photographic or simulator compositions.
+
+Potential reference-derived gameplay affordances include:
+
+- exterior stairs and landings that provide vertical observation or alternate routes;
+- chain-link fencing that creates visibility without free passage;
+- equipment boxes, vehicles, carts, fuel infrastructure, and dock utilities as low
+  cover or sightline interruption;
+- open apron exposure that rewards timing and guard-routine observation;
+- narrow waterfront paths where the sea creates a hard boundary;
+- dock height changes that alter visibility between shoreline and aircraft berth;
+- wing, float, service-box, and gangway silhouettes that create readable concealment
+  without becoming implausible full cover.
+
+================================================================================
+LICENSING, PROVENANCE, AND REPRODUCTION RULES
+================================================================================
+
+These images are visual reference, not automatically cleared production assets.
+
+- The stock photograph visibly carrying Shutterstock identification must not be used
+  as a final texture, marketing image, public-facing production asset, or redistributed
+  repository binary without appropriate licensing.
+- Flight-simulator renderings may contain third-party game assets, liveries, scenery,
+  logos, or reconstruction choices and must not be traced or reproduced as proprietary
+  final art.
+- Unverified photographic material should remain in the controlled reference library
+  until provenance and usage rights are established.
+- Final Project Warriors environment assets must be independently modeled, textured,
+  lit, dressed, and branded.
+- Real operator names, markings, tail numbers, signage, and staff likenesses must not
+  be copied into Ocean Blue Sky Tours, Ltd.
+- The public repository should record hashes and production findings even when the
+  underlying third-party binaries remain in a separate licensed or private reference
+  library.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- establish a licensed/private art-reference library entry for all five exact files;
+- record original source URLs, photographers, game/scenery package, capture author,
+  dates, and usage rights where available;
+- determine which photographs may be retained internally and which require replacement
+  with cleared reference;
+- produce a blockout that reconciles the KML with the compact waterfront character;
+- author the administration-building exterior and interior floor plan;
+- author the north jetty, fixed quay, floating dock, gangway, mooring, and service
+  infrastructure;
+- define water depth, collision, swim/no-swim boundaries, ladders, fall recovery, and
+  body-disposal restrictions;
+- create Ocean Blue Sky Tours exterior signage and livery concepts;
+- translate the daytime reference palette into the mission's after-dark lighting;
+- validate guard sightlines, CCTV, alarm access, stealth routes, and alert combat
+  against all new visual occluders;
+- build N272BT to the locked Found FBA-2C identity while retaining plausible dock
+  scale and cabin-access readability;
+- validate performance, reflection cost, water rendering, vegetation movement, and
+  night visibility across target platforms;
+- produce before/after art-direction reviews showing where the final level follows the
+  reference character and where gameplay-driven fictionalization departs from it.
+
+RESULT
+
+The five owner-supplied images are accepted as a controlled visual-reference package
+for the Christiansted Harbor Seaplane Base environment. They establish useful cues for
+compact waterfront scale, tropical hillside context, utilitarian metal architecture,
+weathered apron materials, hard shoreline and floating-dock construction, north-jetty
+service dressing, aircraft-to-berth proportions, and night-time translation.
+
+The mission KML and controlling sources remain authoritative for gameplay geometry and
+canon. The supplied images guide visual authenticity and production art direction but
+must not be copied as exact geometry or redistributed as final assets without verified
+rights.
+
+END
