@@ -1,0 +1,68 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — VARIANT B KEY-TOSS DIALOGUE ADDENDUM
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED SUPPLEMENTAL DIALOGUE LOCK / VARIANT B
+
+PURPOSE
+
+Add one brief spoken attention cue to the immediate in-room floatplane-key toss from
+Spook to Smoke in the alerted manager's-office breach variant.
+
+This source supplements:
+
+- PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+
+AUTHORITY RULE
+
+This addendum controls only the spoken line immediately preceding the Variant B key
+toss. It makes no other change to the search animation, camera pivot, toss distance,
+Smoke's cover position, catch animation, key-ownership state, manager restraint,
+weapon security, or office-exit order.
+
+LOCKED BEAT
+
+After Spook completes the SEARCH interaction and retrieves the Found FBA-2C N272BT
+key bundle from the manager's left jacket pocket, his first-person view pivots briefly
+toward Smoke covering the corridor from just inside the broken office doorway.
+
+Before throwing the key bundle, Spook calls to get Smoke's attention:
+
+    SPOOK
+    Smoke! Catch!
+
+Spook then immediately tosses the complete key bundle across the short distance.
+Smoke catches it in mid-air and secures it in his pocket or designated pilot-access
+location, completing the existing Variant B ownership transition:
+
+    MANAGER'S LEFT JACKET POCKET
+    -> SPOOK AFTER SEARCH
+    -> SMOKE AFTER CATCH
+
+PERFORMANCE RULE
+
+The line is short, urgent, and practical. It should be delivered loudly enough to
+cut through the lingering stun-grenade effects and active compound-alert soundscape,
+but it must not become theatrical or playful. The toss follows immediately so that
+Smoke's attention cue and catch read as one continuous team action.
+
+CONTINUITY CONSTRAINTS
+
+- Preserve the exact line: "Smoke! Catch!"
+- Preserve first-person presentation.
+- Preserve Smoke's doorway-cover position.
+- Preserve the toss occurring immediately after SEARCH.
+- Preserve Smoke catching and securing the complete N272BT key bundle.
+- Preserve all existing Variant B interruption and retry fail-safes.
+- Do not add a reply line for Smoke unless separately developed later.
+- Do not repeat the Variant A doorway handover in Variant B.
+- Make no other changes to Variant B.
+
+RESULT
+
+Variant B's key toss now includes a concise spoken attention cue. Spook says
+"Smoke! Catch!" immediately before throwing the N272BT key bundle, allowing Smoke's
+mid-air catch to read as deliberate coordinated action rather than an unannounced
+throw. All other alerted-office choreography remains unchanged.
+
+END
