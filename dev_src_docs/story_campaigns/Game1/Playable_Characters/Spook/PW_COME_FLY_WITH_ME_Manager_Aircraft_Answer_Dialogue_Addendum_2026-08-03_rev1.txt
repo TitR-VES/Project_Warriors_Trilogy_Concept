@@ -1,0 +1,139 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — MANAGER AIRCRAFT-ANSWER DIALOGUE ADDENDUM
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED SUPPLEMENTAL DIALOGUE LOCK / VARIANT A
+
+PURPOSE
+
+Lock the manager's exact reaction and spoken answer after Spook demands an immediately
+usable aircraft during the unaware manager's-office encounter.
+
+This addendum supplements and, on this dialogue point, supersedes the performance-
+tunable connective wording in:
+
+- PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+
+It does not alter the locked manager apprehension, handgun control, key-location,
+interactive drawer retrieval, weapon security, office-exit key handover, or alerted-
+office Variant B requirements.
+
+================================================================================
+LOCKED AIRCRAFT-ANSWER BEAT
+================================================================================
+
+PRECEDING LINE
+
+Spook retains point-blank control of the manager and says:
+
+    SPOOK
+    I need a plane. One that I can use. Now!
+
+MANAGER REACTION
+
+The manager does not answer immediately.
+
+- He looks momentarily bewildered for approximately half a second.
+- The expression should read as genuine failure to understand why armed intruders who
+  have rejected his money offer are demanding an aircraft.
+- His eyes may shift briefly between Spook's face and the handgun beneath his chin.
+- The bewilderment is short and involuntary; it must not make him appear calm,
+  defiant, or strategically evasive.
+- After the half-second beat, fear visibly reasserts itself and he returns to nervous,
+  breath-disrupted stammering.
+
+LOCKED MANAGER LINE
+
+The manager answers:
+
+    MANAGER
+    OK. Yeah, OK... I keep one fuelled up for emergencies. Out on the jetty past the
+    fuel tanks.
+
+The line is locked in this form. Performance may shape breath, emphasis, and the
+length of the ellipsis pause, but must preserve the wording and information:
+
+- immediate nervous compliance;
+- one aircraft already fuelled;
+- the aircraft is maintained for emergencies;
+- its practical location is out on the jetty beyond the fuel tanks.
+
+The location wording remains compatible with the controlling north-jetty Found FBA-2C
+placement. The manager uses a locally intelligible landmark description rather than
+formal mission terminology.
+
+SPOOK RESPONSE
+
+After the manager finishes the aircraft answer, Spook delivers the already locked
+command:
+
+    SPOOK
+    Keys!
+
+The command should follow promptly. A very short performance beat may separate the
+manager's final word from Spook's response, but Spook does not ask a follow-up
+question or repeat the aircraft demand.
+
+The sequence then continues into the locked key-location response:
+
+    MANAGER
+    Top drawer on the right.
+
+================================================================================
+PERFORMANCE AND CAMERA RULES
+================================================================================
+
+- Preserve the close first-person view of the manager's terrified face.
+- Keep Spook's grip and the manager's handgun control visually continuous through the
+  bewildered beat and answer.
+- The half-second reaction should be conveyed through facial performance, eye motion,
+  breath, and a slight hesitation rather than a camera cut.
+- Do not insert a dialogue choice or player prompt during the exchange.
+- Do not allow the pause to read as an animation stall.
+- The manager's stammer should remain frightened and intelligible, not caricatured.
+- The office radio and residual room sound may continue beneath the line, but essential
+  dialogue must remain clear.
+- Subtitle timing should preserve the hesitation after "OK. Yeah, OK..." without
+  splitting the sentence into misleading separate responses.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve Spook's exact aircraft-demand line.
+- Preserve approximately half a second of manager bewilderment after the demand.
+- Preserve the manager reverting immediately to nervous stammering.
+- Preserve the exact line: "OK. Yeah, OK... I keep one fuelled up for emergencies.
+  Out on the jetty past the fuel tanks."
+- Preserve the aircraft as the already fuelled Found FBA-2C at the north jetty.
+- Preserve the fuel tanks as the manager's spoken local landmark for reaching the
+  aircraft.
+- Preserve Spook's "Keys!" command immediately after the answer.
+- Preserve the manager's subsequent "Top drawer on the right" response.
+- Preserve manager survival, restraint, interactive drawer opening, physical key
+  pickup, and later key handover to Smoke.
+- Do not replace the manager's line with a paraphrase in the canonical scene source.
+- Do not extend the bewilderment into resistance, bargaining, or exposition.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- author the bewildered-to-panicked facial transition;
+- tune the half-second reaction so it reads clearly without slowing the scene;
+- record breath, stammer, and line delivery variants that preserve the locked wording;
+- coordinate subtitle punctuation and timing with the performed ellipsis;
+- confirm the fuel-tank landmark is visually and geographically legible on the route
+  from the administration building to the north jetty;
+- preserve dialogue intelligibility under the diegetic music and room-action mix;
+- validate the exchange in both valid manager starting-position variants.
+
+RESULT
+
+The manager's aircraft response is now fully locked. Spook's unexpected demand causes
+a brief bewildered reaction, followed by frightened compliance identifying the
+already fuelled emergency aircraft on the jetty past the fuel tanks. Spook then
+immediately advances the interaction with the existing "Keys!" command.
+
+END
