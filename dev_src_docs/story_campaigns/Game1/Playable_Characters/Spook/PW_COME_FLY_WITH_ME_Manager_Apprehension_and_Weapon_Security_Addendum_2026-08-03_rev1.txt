@@ -1,0 +1,379 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — MANAGER APPREHENSION AND WEAPON-SECURITY ADDENDUM
+Generated: 2026-08-03
+Version: rev1
+Status: OWNER-DEVELOPED SUPPLEMENTAL SCENE LOCK / VARIANT A
+
+PURPOSE
+
+Extend the unaware manager's-office breach variant with the controlling room-life,
+occupant-position, manager-apprehension, interrogation, key-location, and post-breach
+weapon-security choreography.
+
+This addendum supplements:
+
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+
+It does not replace the controlling Christiansted geography, alarm, radio, CCTV,
+manager-lockdown, police-response, Coast Guard-response, or aircraft-access sources.
+The alerted and locked-office variant remains a separate live development dependency.
+
+AUTHORITY RULE
+
+- The parent manager's-office breach source controls Variant A's team stack, entry
+  order, first-person semi-scripted control, threshold time dilation, adaptive guard
+  takedowns, diegetic music, manager survival, aircraft demand, and restraint handoff.
+- This addendum controls the office occupants' unaware routines, the manager's two
+  valid starting positions, the precise failed handgun-reach and apprehension beat,
+  the opening interrogation dialogue, the key-location response, and the team's
+  weapon-security closeout before departure.
+- Where the parent source leaves the manager's handgun position or apprehension
+  choreography open, this addendum closes those points for Variant A.
+
+================================================================================
+UNAWARE OFFICE TABLEAU
+================================================================================
+
+ROOM LIFE
+
+Before Victor Two Bravo enters, the manager and two armed guards are conversing
+casually inside the office. Their behavior should read as ordinary late-shift social
+routine inside a controlled workplace, not as three enemies posed for a combat scene.
+
+The office tableau includes:
+
+- the manager smoking a cigar;
+- one guard seated closer to the entry door;
+- one guard seated farther inside the office;
+- the door-side guard occasionally standing and moving to a refrigerator positioned
+  near the office entry to retrieve a drink;
+- the farther guard occasionally lighting and smoking a cigarette;
+- casual conversation between all three occupants;
+- Frank Sinatra's "Come Fly With Me," or the cleared fallback cue, playing from the
+  office radio or sound system;
+- small environmental actions involving chairs, glassware, ash, smoke, and relaxed
+  posture that reinforce their lack of warning.
+
+These routines create variation in the breach geometry without changing the locked
+occupant count or entry roles. Production must ensure that every routine state remains
+legible and tactically valid rather than allowing an occupant to block the only entry
+lane or create an unavoidable collision.
+
+MANAGER STARTING POSITIONS
+
+At the moment of breach, the manager may occupy either of two valid unaware states.
+
+STATE A — SEATED BEHIND THE DESK
+
+- The manager is seated in his office chair behind the desk.
+- He faces generally toward the two guards and the occupied side of the room.
+- His handgun remains on the desktop within a short reach.
+
+STATE B — STANDING IN FRONT OF THE DESK
+
+- The manager is standing and leaning against the visitor-facing side of his desk.
+- He is on the opposite side of the desk from his office chair.
+- He faces the two seated guards while conversing with them.
+- The handgun is behind him and slightly to one side on the desktop.
+
+Both positions are equally canonical encounter states. The active state should be
+determined by the manager's live idle routine when the player initiates the breach,
+not selected by a visible randomizer or a separate cutscene.
+
+DESK OBJECTS AND HANDGUN POSITION
+
+The manager's handgun lies openly on his desk beside:
+
+- a large crystal ashtray;
+- a liquor decanter;
+- a nearby tumbler containing liquor.
+
+The objects should look naturally used rather than arranged as theatrical props.
+Cigar ash, residual smoke, the manager's drink, and the occupied ashtray help make
+the room feel lived in immediately before the breach.
+
+The handgun's desktop placement must remain visually readable during the brief
+adrenaline-focused entry without being highlighted by an artificial objective glow.
+It is a physical threat and the reason Spook immediately closes distance on the
+manager.
+
+================================================================================
+BREACH REACTION AND APPREHENSION
+================================================================================
+
+INITIAL FREEZE
+
+When Smoke abruptly opens the door and Victor Two Bravo enters:
+
+- the manager and both armed guards freeze for approximately half a second while
+  processing the sudden entry;
+- this reaction overlaps the restrained threshold time-dilation presentation;
+- the freeze must feel like startled human recognition, not AI inactivity;
+- all three begin different responses as the entry resolves: the guards react to
+  Smoke, Tripper, and the player's lane while the manager commits to the handgun.
+
+The exact duration remains subject to production tuning, but the intended read is a
+very brief common shock followed immediately by divergent actions.
+
+MANAGER WEAPON-REACH VARIANTS
+
+The manager's response adapts to his current starting position.
+
+SEATED RESPONSE
+
+- The seated manager turns and reaches across the desktop for the handgun.
+- His movement is urgent, clumsy, and too late rather than tactically proficient.
+- Spook crosses the remaining distance before the manager establishes a grip.
+
+STANDING RESPONSE
+
+- The standing manager twists toward the desktop and reaches behind and to his side
+  for the handgun.
+- His prior leaning posture briefly compromises his balance and delays the reach.
+- Spook closes before the manager can take possession of the weapon.
+
+In both states, the manager must visibly decide to reach for the handgun. Spook is not
+assaulting a compliant man without cause; he is interrupting an immediate failed
+attempt to arm himself.
+
+HAND CONTROL AND DESK IMPACT
+
+Spook intercepts the manager's outstretched reaching hand and forcefully slams it
+against the desktop before the manager can grasp the handgun.
+
+The beat should present:
+
+- Spook controlling the wrist or hand from first person;
+- the manager's hand striking the desktop near the handgun, ashtray, and glassware;
+- a sharp impact sound, small object movement, and plausible glass or liquid response
+  without turning the desk into exaggerated breakaway scenery;
+- the manager grunting in pain and reflexively withdrawing the arm;
+- the handgun remaining available for Spook to seize immediately.
+
+The impact is a rapid control action, not an extended punishment animation. It exists
+to stop the weapon reach and create the opening for the disarm.
+
+DISARM AND POINT-BLANK CONTROL
+
+Spook picks up the manager's handgun from the desk and immediately uses it to control
+him.
+
+- Spook holds the front of the manager's shirt with his free hand.
+- He drives or holds the manager into a controlled position against or beside the
+  desk according to the active starting state.
+- He places the handgun's muzzle point-blank beneath the manager's chin.
+- The camera remains first-person and resolves into a close view of the manager's
+  terrified face from Spook's perspective.
+- Spook remains steady and professionally focused rather than visibly enraged.
+- The manager is not fired upon in the successful authored branch.
+
+The framing should be intimate and threatening without cutting to third person. The
+manager's fear, breath, eyes, cigar smoke, and loss of composure carry the dramatic
+weight.
+
+================================================================================
+OPENING INTERROGATION DIALOGUE
+================================================================================
+
+BREATH AND FIRST QUESTION
+
+Once controlled, the manager involuntarily hyperventilates once or twice. After a
+short beat, he stammers:
+
+    MANAGER
+    What do you want?
+
+Spook does not answer immediately. He holds the manager in silence for approximately
+half a second.
+
+The manager attempts to fill the silence:
+
+    MANAGER
+    Look, if you're here for the money, take as much as you want. I don't care.
+
+Spook allows another brief pause before answering. The pauses should feel like
+Spook's controlled assessment and the manager's panic, not like dropped dialogue or
+an unresponsive player prompt.
+
+AIRCRAFT DEMAND
+
+Spook then states the already locked demand:
+
+    SPOOK
+    I need a plane. One that I can use. Now!
+
+The manager explains that he keeps one fueled for emergencies at the north jetty.
+The exact connective wording may be performance-tuned, but it must preserve:
+
+- one immediately usable aircraft;
+- already fueled status;
+- emergency-readiness logic;
+- north-jetty location.
+
+Spook pauses briefly, then commands:
+
+    SPOOK
+    Keys!
+
+KEY LOCATION RESPONSE
+
+The manager glances toward the desk drawers and answers:
+
+    MANAGER
+    Top drawer on the right.
+
+The glance should precede or accompany the line so that the drawer location remains
+readable without an oversized HUD marker. The relevant right side is defined from
+the manager's normal seated position behind the desk unless the final floor-plan
+source explicitly adopts a different desk-orientation convention.
+
+Spook retrieves the Found FBA-2C keys from the indicated top drawer. The interaction
+must remain robust whether the manager began seated behind the desk or standing in
+front of it.
+
+================================================================================
+POST-BREACH WEAPON SECURITY
+================================================================================
+
+CORE RULE
+
+Victor Two Bravo does not leave unsecured weapons in the office with the restrained
+manager or any subdued surviving guard.
+
+MANAGER'S HANDGUN
+
+- Spook takes possession of the manager's handgun during the apprehension.
+- The handgun remains under team control after the keys are recovered.
+- It is not returned to the desk, dropped within reach of the manager, or left loose
+  elsewhere in the room.
+- Final inventory treatment may be retention on Spook's person or secured carriage
+  by the team, but the weapon is no longer accessible to the office occupants.
+
+OFFICE-GUARD WEAPONS
+
+Smoke and Tripper secure the weapons belonging to both office guards after the guards
+are subdued, surrender, or are killed.
+
+- A living restrained or incapacitated guard must not remain within reach of a loaded
+  firearm.
+- A fallen guard's weapon must not remain loose where the manager or another survivor
+  could retrieve it.
+- Smoke and Tripper may clear, retain, sling, consolidate, or place the weapons in a
+  controlled inaccessible position according to final animation and inventory rules.
+- Suppressed weapons used by Victor Two Bravo remain under team control.
+- Weapon pickup and security should be integrated into the room-clear and restraint
+  choreography rather than requiring a lengthy scavenging sequence.
+
+RESTRAINT CLOSEOUT
+
+After the keys and all hostile weapons are controlled:
+
+- Spook motions to Tripper;
+- Tripper zip-cuffs the manager to the office chair;
+- any surviving office guards are restrained or otherwise rendered securely unable
+  to resume the fight;
+- Smoke confirms the room and route state;
+- Tripper restores doorway and corridor coverage;
+- the team leaves no accessible firearm with the manager or surviving guards;
+- Victor Two Bravo transitions toward the north jetty and the fueled Found FBA-2C.
+
+If the manager began standing in front of the desk, Tripper must move or guide him to
+the office chair before applying the final chair restraint. If the manager began
+seated, the restraint can proceed with less repositioning after Spook releases direct
+control.
+
+================================================================================
+PLAYER-PERSPECTIVE AND CONTROL RULES
+================================================================================
+
+- Preserve first-person continuity through the weapon reach, hand interception,
+  desktop impact, disarm, shirt control, close facial framing, dialogue, and key cue.
+- The sequence may use authored hand and camera alignment, but must not become a
+  third-person cinematic.
+- Player look freedom may be narrowed during physical contact, but small responsive
+  camera movement should preserve embodiment.
+- The player must be able to visually register the manager's handgun before or during
+  the reach.
+- Smoke and Tripper's guard takedowns remain visible or audible in peripheral space
+  without pulling the camera away from the manager.
+- The close-up must not conceal a live unresolved guard threat; adaptive teammate
+  choreography must make the apprehension safe enough to be credible.
+- The interrogation pauses should remain authored beats rather than dialogue choices.
+- The sequence resumes broader first-person control after keys, restraint, and room
+  security are resolved.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve exactly one manager and two armed office guards.
+- Preserve the unaware, casual pre-breach conversation state.
+- Preserve the manager's cigar, the farther guard's cigarette routine, and the
+  door-side guard's refrigerator drink routine.
+- Preserve the two valid manager starting positions: seated behind the desk or
+  leaning against the visitor-facing side of the desk.
+- Preserve the handgun on the desk beside a large crystal ashtray, liquor decanter,
+  and nearby filled tumbler.
+- Preserve the approximately half-second initial human freeze, subject to tuning.
+- Preserve the manager's position-dependent failed reach for the handgun.
+- Preserve Spook closing distance before the manager obtains the weapon.
+- Preserve the hand interception and desktop impact as a weapon-control action.
+- Preserve Spook taking the manager's handgun and placing it beneath his chin while
+  controlling his shirt.
+- Preserve the close first-person view of the terrified manager.
+- Preserve the manager's brief involuntary hyperventilation.
+- Preserve the dialogue sequence: "What do you want?"; the money offer; Spook's
+  aircraft demand; "Keys!"; and "Top drawer on the right."
+- Preserve the fueled-aircraft and north-jetty answer.
+- Preserve the keys in the top right desk drawer from the manager's seated
+  orientation unless later floor-plan authority explicitly normalizes the convention.
+- Preserve Spook taking the manager's handgun.
+- Preserve Smoke and Tripper securing both guards' weapons.
+- Preserve no unsecured weapons remaining accessible to restrained or surviving
+  office occupants when Victor Two Bravo departs.
+- Preserve manager survival and zip-cuff restraint to the office chair.
+- Do not convert the control action into prolonged torture or gratuitous punishment.
+- Do not require both office guards to be killed.
+- Do not let routine variation alter the locked team entry order or objective result.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- lock exact desk, refrigerator, chair, radio, guard-seat, ashtray, glassware, and
+  drawer geometry in the administration-building floor plan;
+- define manager idle timing and state-selection rules;
+- define door-side guard refrigerator route and collision handling at breach time;
+- define cigar and cigarette smoke presentation, fire-safety logic, and performance
+  cost;
+- author casual pre-breach conversation and reactive barks;
+- tune the common freeze duration and its difficulty implications;
+- author seated and standing manager reach animations;
+- author wrist/hand interception, desk impact, prop response, disarm, shirt grip,
+  under-chin weapon control, and release transitions;
+- ensure the manager's gun cannot be acquired or displaced by physics before the
+  authored interaction without a recovery path;
+- define whether the player's weapon is automatically lowered, retained one-handed,
+  or temporarily slung during the apprehension;
+- define exact camera constraints, accessibility alternatives, motion reduction, and
+  input handling during close physical control;
+- define subtitles and speaker labels when combat SFX and the radio track overlap;
+- author the manager's breath performance and dialogue timing;
+- define key-drawer interaction, key inventory, and fail-safes;
+- define how Smoke and Tripper secure, clear, retain, or consolidate guard weapons;
+- define restraint persistence and incapacitated-guard recovery prevention;
+- validate all combinations of manager position, guard routine, player target choice,
+  non-lethal outcome, suppressed-lethal outcome, and mixed outcome;
+- ensure no routine state blocks Tripper's final doorway coverage or the team's exit.
+
+RESULT
+
+Variant A now has a source-locked occupied-office tableau, two live manager starting
+positions, a position-responsive failed handgun reach, a close first-person disarm
+and interrogation beat, a clear top-drawer key handoff, and an explicit weapon-
+security closeout. These additions strengthen the scene's physical causality and
+player-perspective intensity while preserving the parent source's semi-scripted
+agency, adaptive guard resolution, manager survival, and immediate transition to the
+north-jetty aircraft objective.
+
+END
