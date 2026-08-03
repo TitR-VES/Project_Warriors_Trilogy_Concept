@@ -1,0 +1,80 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — NORTH-JETTY GUARD ROUTINE
+Generated: 2026-08-03
+Version: rev1
+Status: SOURCE LANDING AUDIT
+
+SCOPE
+
+Audit the owner-developed western-edge vulnerability behavior added to the established
+north-jetty security contractor routine in COME FLY WITH ME.
+
+LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_North_Jetty_Guard_Routine_Addendum_2026-08-03_rev1.txt
+
+CONTROLLING CONTEXT CHECKED
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt
+
+CONSISTENCY RESULT
+
+PASS.
+
+The new routine preserves:
+
+- the existing seven-contractor security count;
+- exactly one contractor patrolling the north jetty and aircraft berths;
+- his periodic proximity to the fueled Found FBA-2C;
+- his radio and participation in the compound alert network;
+- the approximately twenty-two-metre planning relationship between guard and aircraft;
+- player freedom to bypass, distract, incapacitate, restrain, or lethally engage him;
+- the rule that killing all seven guards is not mandatory;
+- active-alert behavior remaining controlled by the dedicated security source.
+
+ROUTINE DETAIL LANDED
+
+The addendum locks:
+
+- an occasional walk to the western edge of the north jetty;
+- an approximately forty-five-second urination pause into the ocean below;
+- outward-facing attention and reduced rear visual awareness;
+- retained hearing and interruptibility rather than artificial deafness;
+- a readable stealth approach window;
+- optional bypass, non-lethal, restraint, and lethal responses;
+- an optional compatible stealth-kill and ocean-body-disposal maneuver;
+- no automatic disposal of an unconscious non-lethal target into deep water;
+- no continuation of the behavior during an active compound alert;
+- no erasure of radio calls, witnessed actions, or alerts already generated;
+- restrained, non-explicit presentation without slapstick emphasis.
+
+TACTICAL AND SYSTEMIC RESULT
+
+The behavior creates a deliberate temporary blind-side opportunity without making the
+guard a free scripted victim. Nearby sound, radio state, loose weapons, splash noise,
+other sightlines, edge alignment, and the timing of the player's approach remain
+meaningful. Ocean disposal reduces ordinary deck-level body discovery but does not
+remove prior consequences.
+
+OPEN PRODUCTION REQUIREMENTS
+
+The source still requires:
+
+- exact western-edge geometry and patrol-spline integration;
+- bounded recurrence timing;
+- observation and surveillance readability;
+- animation for start, pause, interruption, takedown, disposal, and patrol resumption;
+- hearing, splash, body, weapon, radio, current, buoyancy, and discovery logic;
+- player edge safety and animation cancellation;
+- validation against alert transitions, aircraft startup, mooring release, and all
+  non-lethal / lethal / bypass outcomes.
+
+SOURCE-LANDING RESULT
+
+The north-jetty routine extension is canon-compatible and source-ready as a tactical
+guard-behavior layer. It does not make the broader mission production-complete and
+does not resolve the separately open alerted manager-office Variant B.
+
+END
