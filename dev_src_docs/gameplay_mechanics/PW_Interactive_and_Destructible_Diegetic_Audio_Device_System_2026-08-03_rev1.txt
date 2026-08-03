@@ -1,0 +1,390 @@
+PROJECT WARRIORS — GAMEPLAY MECHANICS
+INTERACTIVE AND DESTRUCTIBLE DIEGETIC AUDIO DEVICE SYSTEM
+Generated: 2026-08-03
+Version: rev1
+Status: SOURCE-READY GAME-WIDE SYSTEM LOCK
+
+PURPOSE
+
+Define the default game-world behavior for exposed radios, portable speakers, stereos,
+televisions functioning as sound sources, compact sound systems, music players, and
+similar ordinary audio-emitting devices.
+
+The system exists to preserve physical consistency. A visibly ordinary radio should
+not continue playing after it has been shot apart, blasted off a table, or deliberately
+switched off by the player. At the same time, the rule must not force implausible
+small-arms destruction onto reinforced public-address infrastructure, recessed or
+concealed speakers, protected amplifiers, buried cabling, or other installation-grade
+audio hardware.
+
+This source establishes the reusable game-wide rule. Mission-specific sources may
+narrow timing, prompt availability, persistence, or authored consequences, but should
+not silently contradict the physical behavior defined here.
+
+RELATED SOURCES
+
+- dev_src_docs/gameplay_mechanics/PW_UI_Prompt_System_Design_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Visual_Reference_and_Interior_Direction_2026-08-03_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+
+================================================================================
+CORE RULE
+================================================================================
+
+Ordinary exposed audio devices are physical world objects.
+
+Unless a controlling mission source explicitly establishes a hardened installation,
+they should:
+
+- respond to direct small-arms hits;
+- respond to damaging nearby explosions and blast impulse;
+- stop producing audio when their functional damage threshold is crossed;
+- retain their resulting on, off, damaged, disabled, displaced, or destroyed state;
+- expose a close-range interaction prompt when the player can plausibly operate them;
+- never continue emitting clean music or speech from a visibly destroyed chassis.
+
+This is a consistency rule, not a universal requirement that every incidental speaker
+receive elaborate destruction simulation. Production may use authored damage states,
+material swaps, particle effects, sound transitions, or a simpler disable event as
+appropriate to asset importance and performance budget.
+
+================================================================================
+DEVICE CLASSES
+================================================================================
+
+CLASS A — ORDINARY EXPOSED DEVICES
+
+Default interactable and destructible class.
+
+Examples:
+
+- tabletop radios;
+- portable shortwave or AM/FM receivers;
+- compact stereos and shelf systems;
+- portable Bluetooth-type speakers;
+- boomboxes;
+- exposed desktop speakers;
+- televisions or monitors currently serving as an audible media source;
+- exposed music players connected to a local speaker;
+- ordinary office, domestic, workshop, barracks, shop, or vehicle audio units.
+
+Expected behavior:
+
+- player operation when controls are physically reachable;
+- functional damage from gunfire or explosions;
+- immediate cessation of the associated local audio emitter upon disabling damage;
+- optional visible breakage, sparks, smoke, displaced parts, falling, or brief static;
+- persistent state for the remainder of the loaded encounter unless a mission-specific
+  reset is deliberately authored.
+
+CLASS B — EXPOSED INSTALLATION-GRADE DEVICES
+
+Conditionally destructible class.
+
+Examples:
+
+- wall-mounted commercial speakers;
+- exposed public-address horns;
+- exposed venue speakers;
+- visible amplifier racks;
+- fixed intercom stations;
+- vehicle or vessel loudhailers;
+- exposed alarm speakers.
+
+Expected behavior depends on construction and mission needs:
+
+- may require heavier damage than a domestic radio;
+- may disable locally without destroying the full network;
+- may be protected by grilles, housings, or mounting brackets;
+- may be vulnerable to direct fire while upstream audio continues through other nodes;
+- should not be treated as indestructible merely because they are fixed in place.
+
+CLASS C — HARDENED, RECESSED, OR CONCEALED AUDIO INFRASTRUCTURE
+
+Default exemption from ordinary small-arms destruction and direct player operation.
+
+Examples:
+
+- reinforced speakers behind armored grilles;
+- recessed ceiling or wall speakers whose working components are not exposed;
+- concealed speakers integrated into architecture;
+- buried, shielded, or inaccessible audio cabling;
+- protected connection hardware inside locked or armored service spaces;
+- hardened public-address amplifiers and distribution equipment;
+- redundant installation hardware whose destruction would require access to a control
+  cabinet, power source, network node, or demolition charge rather than a casual shot.
+
+Expected behavior:
+
+- no false interaction prompt on inaccessible hardware;
+- no obligation to fail from incidental pistol or rifle fire against the surrounding
+  wall or grille;
+- local audio may still cease if power, upstream control, network routing, or a mission-
+  authored amplifier node is disabled;
+- destruction, sabotage, or shutdown remains possible where a controlling source gives
+  the player credible access to the relevant hardware.
+
+The exemption protects plausibility. It does not create magical audio. A hardened
+speaker can survive nearby gunfire, but it still requires power, signal, and functioning
+upstream equipment.
+
+================================================================================
+INTERACTION RULES
+================================================================================
+
+PROMPT VISIBILITY
+
+Audio-device prompts follow the existing narrative/world action prompt standard:
+
+- the device is in the player's direct line of sight;
+- the player is within close physical proximity;
+- no physical obstruction prevents the player's hand from reaching the control;
+- the device is in a state that supports the proposed action;
+- the prompt is world-anchored to the operable part of the device rather than floating
+  generically in the room.
+
+DEFAULT FUNCTIONAL WORDING
+
+For ordinary player-operated audio devices, use restrained functional wording:
+
+    TURN OFF
+
+When a mission benefits from reversible operation and the device remains functional:
+
+    TURN ON
+
+The prompt should not be converted into a character-defining metaphor merely because
+the broader system supports protagonist-specific wording. Operating a normal radio is
+usually a mundane physical action. The wording should remain legible and quiet unless
+a mission source establishes a specific narrative reason to depart from it.
+
+INPUT AND ANIMATION
+
+- one press operates the relevant switch, knob, button, remote, or reachable control;
+- the hand animation should match the actual device rather than use an abstract generic
+  gesture where practical;
+- audio response should begin on the physical control action, not before contact;
+- no progress bar is required for a simple switch operation;
+- if the player interrupts the animation through damage, forced movement, or another
+  valid high-priority state, the device remains in whichever state the physical action
+  has actually reached.
+
+PROMPT SUPPRESSION
+
+Do not display TURN OFF or TURN ON when:
+
+- the device is already destroyed or functionally disabled;
+- its controls are inaccessible or concealed;
+- the player is looking through glass, grating, fencing, or another obstruction;
+- the local device is only a passive speaker and the actual control is elsewhere;
+- mission scripting has removed player control for a justified, explicitly authored
+  reason;
+- the device is no longer the source of the audible track.
+
+================================================================================
+DAMAGE AND AUDIO RESPONSE
+================================================================================
+
+FUNCTIONAL DAMAGE STATES
+
+Production may implement the following state model directly or map it into an existing
+generic prop-damage framework:
+
+1. INTACT / ON
+   - device emits its assigned audio;
+   - TURN OFF is available when reachable.
+
+2. INTACT / OFF
+   - device remains functional but silent;
+   - TURN ON may be available when reversible operation is supported.
+
+3. DAMAGED / FUNCTIONAL
+   - optional intermediate state;
+   - audio may distort, flutter, lose one channel, change volume, or intermittently cut;
+   - the device can still be operated if controls remain usable;
+   - use sparingly and only when the asset supports a readable intermediate state.
+
+4. DISABLED
+   - functional threshold crossed;
+   - local audio emitter stops immediately;
+   - interaction prompt is removed unless a repair system is explicitly authored;
+   - chassis may remain visually recognizable and largely intact.
+
+5. DESTROYED
+   - severe damage, fragmentation, burning, major deformation, or complete physical
+     breakup;
+   - no audio output and no ordinary operation prompt;
+   - any residual electrical tick, spark, capacitor discharge, or dying static must be
+     brief and clearly separate from continued program audio.
+
+DIRECT FIRE
+
+- direct projectile impacts apply damage according to calibre, impact energy, material,
+  penetration, and the existing prop-damage model;
+- a single credible hit to an exposed domestic radio may be enough to disable it even
+  if the casing is not theatrically destroyed;
+- low-energy grazing hits may produce cosmetic damage without immediate failure;
+- repeated hits should not leave the device playing indefinitely after obvious severe
+  damage;
+- penetration through the device must not leave an invisible duplicate audio emitter
+  active at its original location.
+
+EXPLOSIONS AND BLAST
+
+- nearby explosions apply damage and impulse according to distance, shielding, and
+  line of effect;
+- an explosion can disable the device without directly fragmenting it;
+- a device thrown from a surface by blast may stop because of internal damage, cable
+  separation, power loss, battery displacement, or impact with the environment;
+- occluding walls and substantial furniture may reduce damage and impulse;
+- mission-critical audio should not be protected by making the visible source
+  invulnerable. If a line must be heard, deliver it through another credible source or
+  gate destructibility until the information is no longer required.
+
+AUDIO CUTOFF
+
+When a local device becomes disabled or destroyed:
+
+- stop or rapidly collapse its local program-audio emitter;
+- preserve spatial continuity: other radios or speakers carrying the same broadcast
+  continue unless they are also disabled or share a genuinely interrupted upstream
+  source;
+- do not fade cleanly for several seconds if the physical failure is abrupt;
+- a sub-second sputter, static burst, tape-stop artifact, speaker cone pop, or electrical
+  crackle may punctuate the failure where appropriate;
+- dialogue and mission-critical sound remain governed by their own priority mix.
+
+PHYSICS AND STATE PERSISTENCE
+
+- a displaced device carries its emitter with it while still functional;
+- audio must not remain fixed at the original placement after the prop falls or moves;
+- if power is supplied by a visible cable, cable separation may disable the device;
+- if the device is battery powered, displacement alone need not silence it;
+- destruction and manual shutdown states persist across nearby checkpoints where the
+  encounter state is expected to persist;
+- reload behavior must not revive a deliberately destroyed device unless the checkpoint
+  restores the entire environment to an earlier authored state.
+
+================================================================================
+NETWORKED AND MULTI-SPEAKER SYSTEMS
+================================================================================
+
+A visible radio or control unit may feed one or more external speakers. Production must
+define which component owns the signal and which components own local emission.
+
+Rules:
+
+- destroying one passive speaker silences that speaker only;
+- destroying the source, amplifier, or distribution unit can silence all dependent
+  speakers if the connection is physically and logically credible;
+- destroying a decorative control panel must not silence unrelated speakers unless it
+  actually controls them;
+- redundant public-address systems may continue through surviving nodes;
+- concealed speaker exemptions do not protect an exposed source unit from damage;
+- interaction prompts appear on the reachable control point, not every passive speaker.
+
+================================================================================
+AI AND WORLD RESPONSE
+================================================================================
+
+Audio-device interaction is primarily environmental, but AI may react when context
+supports it.
+
+Possible reactions:
+
+- nearby occupants notice an abrupt shot, explosion, or smashed device;
+- a manually switched-off radio is normally quiet enough not to create an alert;
+- an NPC may notice that expected music or a broadcast has stopped if a mission source
+  explicitly uses that change as a clue;
+- combat AI should not prioritize repairing or restarting incidental radios;
+- scripted characters should not continue commenting as though a destroyed device is
+  still audibly playing.
+
+Do not turn every radio into a stealth alarm puzzle. Reaction must be authored where it
+adds value rather than inferred universally.
+
+================================================================================
+ACCESSIBILITY AND MIXING
+================================================================================
+
+- prompts use the standard remappable interaction input;
+- subtitle or music-identification UI, where provided, must update when the source stops;
+- players with reduced dynamic range still need a readable difference between active,
+  switched-off, and destroyed states;
+- essential dialogue must not depend on hearing a destructible incidental device;
+- radio music remains below mission-critical dialogue, warnings, and combat readability;
+- destruction transients should respect loudness and sensory-accessibility settings.
+
+================================================================================
+PERFORMANCE AND AUTHORING GUIDANCE
+================================================================================
+
+Use asset tiers rather than unique simulation for every object.
+
+HERO DEVICE
+
+- bespoke interaction animation;
+- multiple visual damage states;
+- authored audio failure;
+- persistent mission consequence;
+- named or narratively important placement.
+
+STANDARD INTERACTIVE DEVICE
+
+- generic operate animation;
+- one intact and one disabled/destroyed state;
+- local audio emitter cutoff;
+- ordinary physics and checkpoint persistence.
+
+BACKGROUND DEVICE
+
+- may use a simple damage-to-disable event;
+- no bespoke interaction if inaccessible or irrelevant;
+- must still avoid visibly playing after obvious destruction.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Do not leave ordinary exposed radios invulnerable by default.
+- Do not allow destroyed audio devices to continue clean program playback.
+- Do not place operation prompts on inaccessible passive speakers.
+- Do not require reinforced, recessed, or concealed audio hardware to fail from casual
+  small-arms impacts.
+- Do not treat hardened installation hardware as independent of power and signal.
+- Do not make every manually switched-off device an AI alert trigger.
+- Do not use a prolonged clean fade for an abrupt physical destruction event.
+- Do not make mission-critical exposition depend solely on an audio device the player
+  can destroy before hearing it.
+- Preserve the existing contextual, close-proximity, unobstructed prompt rules.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- map the device classes into the common prop-damage component;
+- define default health, material, penetration, blast, and impulse profiles by asset
+  family;
+- author a reusable local-emitter shutdown interface;
+- define source, amplifier, speaker, power, and signal relationships for multi-node
+  systems;
+- author generic TURN OFF and TURN ON interaction animations;
+- establish checkpoint serialization for operation and destruction states;
+- define subtitle and track-identification behavior after source interruption;
+- validate network replication if cooperative or networked modes are later pursued;
+- audit existing missions for exposed audio props that currently lack interaction or
+  damage response;
+- identify intentional exceptions and record them in the controlling mission source.
+
+RESULT
+
+Project Warriors now has a game-wide physical-consistency rule for ordinary diegetic
+audio devices. Exposed radios and similar sound sources can be operated, damaged, and
+disabled; their local audio responds immediately and spatially to those state changes.
+Reinforced, recessed, concealed, or otherwise protected infrastructure is exempt from
+casual destruction but remains dependent on credible power, signal, and upstream
+hardware.
+
+END
