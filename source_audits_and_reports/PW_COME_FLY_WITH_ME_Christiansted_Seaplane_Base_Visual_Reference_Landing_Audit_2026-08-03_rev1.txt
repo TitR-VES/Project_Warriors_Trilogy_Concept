@@ -1,0 +1,140 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — CHRISTIANSTED HARBOR SEAPLANE BASE VISUAL-REFERENCE PACKAGE
+Generated: 2026-08-03
+Version: rev1
+Status: LANDED / SOURCE-READY / PRODUCTION ART WORK OPEN
+
+AUDIT PURPOSE
+
+Verify that the five owner-supplied Christiansted Harbor Seaplane Base images have
+been converted into a controlled production visual-reference source without
+superseding the mission's existing geography, gameplay, security, encounter, or
+fictional aircraft/company canon.
+
+LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_COME_FLY_WITH_ME_Christiansted_Seaplane_Base_Visual_Reference_Package_2026-08-03_rev1.txt
+
+SOURCE PACKAGE CHECK
+
+The landed source records all five exact attachment identities:
+
+1. images (14).jpeg
+   - 1152 x 1536
+   - SHA-256: 3021c5f7244e413335c977b7cca0356d639d3270bc7e24c163cb5383dbd952fe
+
+2. images (13).jpeg
+   - 1536 x 1152
+   - SHA-256: 24e448eaa022b4b09b42de78d28e36d83f80a769653c0ade9c9cd6ac076e3a27
+
+3. christianstedst-croixusvioctober-222019-christiansted-harbor-260nw-1754640683.jpg
+   - 1536 x 1103
+   - SHA-256: e0b48a06c0d5d320a4f7a92c13c9afb906b5dab81ff9b007405b108ac8e3fd1e
+
+4. christiansted-harbor-seaplane-base-638080-1739376208-t4CQ1.webp
+   - 1536 x 842
+   - SHA-256: 85c0aaf9982d1b75997d63d2b402961a27a95b5377971a8b27ccc5ea0c606df2
+
+5. images (12).jpeg
+   - 1536 x 1181
+   - SHA-256: 0a3c0256749ace8b8e47242cb3792bcb622224ccb64c0df803f1ee603fea4edf
+
+The fifth image is explicitly recorded as the owner-identified north-jetty moored-
+floatplane reference.
+
+AUTHORITY CHECK
+
+PASS — the KML and Christiansted geography source remain authoritative for gameplay
+layout and mission-objective placement.
+
+PASS — the new visual-reference package does not alter:
+
+- the safehouse and surveillance flow;
+- the final SUV staging point;
+- the seven-contractor count or positions;
+- alarm, radio, and CCTV architecture;
+- the north service entrance or manager-office location;
+- either manager-office encounter variant;
+- the deceased-manager recovery fallback;
+- the fuel-tank landmark;
+- the north-jetty guard routine;
+- police or Coast Guard consequence states;
+- the Found FBA-2C designation;
+- the fictional registration N272BT;
+- Ocean Blue Sky Tours, Ltd.
+
+PASS — simulator reconstructions are classified as secondary spatial and composition
+reference rather than survey-accurate geometry.
+
+PASS — the aircraft visible in the references does not replace the project aircraft.
+
+VISUAL-DIRECTION CHECK
+
+The source successfully extracts production cues for:
+
+- compact working waterfront scale;
+- close integration of building, apron, dock, and harbor water;
+- steep green hillside and embedded Christiansted town context;
+- pale utilitarian corrugated-metal operations architecture;
+- exterior stairs, chain-link fencing, air-conditioning, conduits, and sparse planting;
+- stained and repaired apron materials;
+- hard shoreline, floating docks, gangways, cleats, hoses, boxes, and mooring hardware;
+- north-jetty berth character and aircraft-to-dock scale;
+- blue-green water, tropical vegetation, salt-air weathering, and broken-cloud skies;
+- translation from daytime reference into the mission's after-dark stealth lighting;
+- environmental storytelling for a legitimate-looking tour company masking covert
+  Goldberg-linked logistics.
+
+GAMEPLAY-INTEGRATION CHECK
+
+PASS — the source requires visual development to preserve stealth readability,
+companion navigation, guard sightlines, CCTV, alarm access, alternate approaches,
+alert-state combat, N272BT interaction space, and water-boundary safety.
+
+PASS — reference-derived clutter is not allowed to become arbitrary collision or
+invisible traversal obstruction.
+
+PASS — the visual package supports, but does not predetermine, cover, occluder,
+vertical-route, gangway, dock-height, and shoreline decisions.
+
+LICENSING AND PROVENANCE CHECK
+
+PASS — the source identifies the visibly watermarked Shutterstock image as reference
+only pending appropriate licensing.
+
+PASS — flight-simulator renderings are not treated as cleared final art and may not be
+traced or copied as proprietary assets.
+
+PASS — final Project Warriors geometry, materials, signs, livery, lighting, and props
+must be independently authored.
+
+PASS — the text manifest and hashes may live in the repository while third-party
+binary references remain in a separate licensed or private production library.
+
+OPEN ITEMS
+
+The visual-reference package is source-ready but not production-ready. Open work
+includes:
+
+- source URL and rights provenance for each image;
+- licensed/private reference-library storage;
+- gameplay blockout reconciled with the KML;
+- administration-building exterior and interior development;
+- north-jetty and dock-system construction;
+- Ocean Blue Sky Tours signage and livery;
+- Found FBA-2C N272BT visual reconstruction;
+- after-dark lighting and water-reflection direction;
+- material, vegetation, weathering, collision, accessibility, and performance review;
+- validation against every stealth, combat, manager-office, and departure branch.
+
+AUDIT RESULT
+
+PASS.
+
+The owner-supplied images are now represented by a controlled source that captures
+their production value while preserving canon hierarchy and third-party-rights
+boundaries. The package can guide environment art and level visualization without
+being mistaken for exact gameplay geometry or cleared production content.
+
+END
