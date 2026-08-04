@@ -13,9 +13,11 @@ The extension adds:
 - state-level Latin American resentment arising from earlier aggressive U.S. clandestine action;
 - refusal by a meaningful number of regional governments to support the United States after PANDORA and during the subsequent invasion;
 - Venezuela's entry into the invading coalition;
-- an early Venezuelan attack against the Louisiana Gulf Coast;
+- a Venezuelan attack against the Louisiana Gulf Coast during the diegetic interval between Game 1 and Game 2;
 - failure to establish an adequate foothold;
-- resource exhaustion and withdrawal from U.S. soil and associated coastal waters.
+- resource exhaustion and withdrawal from U.S. soil and associated coastal waters;
+- continuing Venezuelan support for coalition invasion and occupation efforts through fuel, covert financing, limited mercenary or proxy personnel, cyber activity, and other indirect assistance;
+- Project Warriors: Semper Fi as a possible but not confirmed depiction path.
 
 2. FILES LANDED
 
@@ -39,7 +41,7 @@ dev_src_docs/worldbuilding/PW_Latin_America_Critical_Minerals_Shadow_Contest_202
 
 The broader source controls Spook's prewar history, American critical-mineral policy, cartel memory, Los Sietes, China's later regional expansion, and the postwar covert contest.
 
-The new country-specific source controls regional post-PANDORA noncooperation and Venezuela's Louisiana operation and withdrawal.
+The country-specific source controls regional post-PANDORA noncooperation, Venezuela's Louisiana intervention and withdrawal, its continued indirect coalition support, and the event's possible but unconfirmed Semper Fi relationship.
 
 4. CONTINUITY FINDINGS
 
@@ -55,25 +57,51 @@ B. Venezuela coalition membership
 
 PASS.
 
-Venezuela remains an active member of the invading coalition and is not rewritten as merely neutral or opportunistic.
+Venezuela remains an active member and political supporter of the invading coalition. Its failed Louisiana expedition does not rewrite it as neutral, defecting, surrendering, or merely opportunistic.
 
-C. Louisiana operation
-
-PASS.
-
-The source locks an early Venezuelan attack against the Gulf Coast of Louisiana and an attempt to establish a usable foothold.
-
-No exact city, beach, port, river sector, operation title, unit, ship, aircraft, commander, date, or casualty count is invented.
-
-D. Failure and withdrawal
+C. Louisiana operation chronology
 
 PASS.
 
-The Venezuelan contingent fails to establish an adequately sustained land position, exhausts the resources necessary to continue, and withdraws from U.S. soil and the coastal waters associated with the operation.
+The source places the operation sometime after Game 1 and before Game 2.
+
+No exact date or narrower position inside that interval is invented.
+
+D. Louisiana operation geography and scope
+
+PASS.
+
+The source locks a Venezuelan attack against the Gulf Coast of Louisiana and an attempt to establish a usable foothold.
+
+No exact city, beach, port, river sector, operation title, unit, ship, aircraft, commander, or casualty count is invented.
+
+E. Failure and withdrawal
+
+PASS.
+
+The Venezuelan contingent fails to establish an adequately sustained land position, exhausts the resources necessary to continue direct military action, and withdraws from U.S. soil and the coastal waters associated with the operation.
 
 The source does not create a permanent Venezuelan occupation zone in Louisiana.
 
-E. Generalized coalition-language correction
+F. Continuing indirect support
+
+PASS.
+
+Venezuela's withdrawal ends its direct Louisiana ground and littoral intervention but not its coalition alignment.
+
+The source locks continued materially constrained assistance through:
+
+- fuel;
+- covert financing;
+- mercenaries, contractors, proxies, or deniable personnel in limited numbers;
+- cyber operations and cyber support;
+- intelligence, procurement, communications, logistics facilitation, documentation, sanctions-evasion assistance, and related enabling activity.
+
+Exact scale, recipients, routes, agencies, companies, intermediaries, and mechanisms remain open.
+
+The source correctly distinguishes inability to sustain another comparable independent expeditionary campaign from inability to contribute to the coalition at all.
+
+G. Generalized coalition-language correction
 
 PASS WITH SPECIFIC OVERRIDE.
 
@@ -81,11 +109,26 @@ Existing sources broadly describe Russian, Cuban, Venezuelan, North Korean, and 
 
 The new source preserves coalition membership while clarifying that the generalized retention outcome does not apply identically to every participant.
 
-For Venezuela, the country-specific result is controlling: failed Louisiana foothold and withdrawal.
+For Venezuela, the country-specific result is controlling:
+
+- coalition entry;
+- Louisiana attack during the Game 1-to-Game 2 interval;
+- failed foothold;
+- resource exhaustion;
+- withdrawal from U.S. soil and relevant coastal waters;
+- continued indirect coalition support.
 
 Any older broad wording that could imply a durable Venezuelan occupation of Louisiana is superseded by this specific result.
 
-F. China separation
+H. Semper Fi status
+
+PASS.
+
+Project Warriors: Semper Fi is preserved as a possible depiction venue only.
+
+The source does not list the event as a confirmed Semper Fi mission, assign a mission title or protagonist, choose a playable phase, or require that the event be depicted directly.
+
+I. China separation
 
 PASS.
 
@@ -95,29 +138,38 @@ China is not made the author of Venezuela's intervention. Later Chinese exploita
 
 The Venezuelan Louisiana operation is a discrete war event and should ultimately receive a stable timeline projection.
 
+Its relative chronology is now sufficiently locked for that future projection:
+
+- after the events of Game 1;
+- before the events of Game 2;
+- exact date and narrower sequence remain open.
+
 A formal ontology delta is not added in this commit because the current repository contains parallel timeline overlays that both project rev2.15 to rev2.16:
 
 - the PATHFINDER post-Coronado prologue overlay;
 - the TIDEFIRE North Island geography overlay.
 
-Adding a new rev2.16 -> rev2.17 event delta before those sibling projections are reconciled would create an ambiguous parent and risk silently dropping one branch of chronology work.
+Adding a new event delta before those sibling projections are reconciled would create an ambiguous parent and risk silently dropping one branch of chronology work.
 
 Required follow-up:
 
 - reconcile the parallel rev2.16 overlays into one current projected parent;
 - add a stable Venezuelan Louisiana event ID;
-- preserve relative timing as early in the invasion unless an exact date is later source-locked;
+- place the event after Game 1 and before Game 2 without inventing an exact date;
+- record the failed direct intervention, withdrawal, and continued indirect coalition support;
+- keep Semper Fi binding null or explicitly provisional until a later source locks campaign placement;
 - add no exact geography or order of battle beyond the controlling narrative source.
 
 This is a live governance dependency, not a reason to leave the narrative event unlanded.
 
 6. AUTHORITY AND MATURITY
 
-The strategic outcome is source-ready.
+The strategic outcome and relative chronology are source-ready.
 
 The event is not production-ready as:
 
-- a mission;
+- a confirmed Semper Fi mission;
+- a mission in any other campaign;
 - a Gulf Coast theater map;
 - an order of battle;
 - a military simulation;
@@ -129,25 +181,29 @@ The event is not production-ready as:
 Still open:
 
 - exact countries refusing assistance and exact categories refused;
+- exact position inside the Game 1-to-Game 2 interval;
 - exact Louisiana operational area;
-- timing beyond early in the invasion;
 - Venezuelan units, platforms, commanders, and coalition command relationship;
 - American and local defenders;
 - exact resource-collapse chain;
 - casualties and equipment losses;
 - withdrawal route;
 - domestic Venezuelan political consequences;
-- later Venezuelan coalition support outside the withdrawn Louisiana theater;
+- exact fuel recipients and routes;
+- exact covert-financing channels;
+- exact mercenary, contractor, proxy, and deniable-personnel identities and numbers;
+- exact cyber, intelligence, procurement, communications, logistics, documentation, and sanctions-evasion mechanisms;
+- whether, where, and how the event appears in Semper Fi;
 - final ontology binding.
 
 8. ARCHIVE / RETIREMENT EFFECT
 
-This landing fully absorbs the specific new detail supplied here.
+This landing fully absorbs the supplied strategic detail, including the Game 1-to-Game 2 placement, persistent indirect Venezuelan support, and provisional Semper Fi possibility.
 
-It does not certify the broader Latin America, invasion, Venezuela, Louisiana, coalition, Spook, Los Sietes, or postwar-China workstreams as safe to archive. Exact geography, chronology projection, operation design, and player-facing implementation remain live dependencies.
+It does not certify the broader Latin America, invasion, Venezuela, Louisiana, coalition, Semper Fi, Spook, Los Sietes, or postwar-China workstreams as safe to archive. Exact geography, chronology projection, operation design, campaign placement, and player-facing implementation remain live dependencies.
 
 9. RESULT
 
 LANDING RESULT: PASS WITH ONTOLOGY FOLLOW-UP REQUIRED
 
-The country-specific event is safely source-landed, its conflict with generalized coalition-retention language is resolved, and the remaining timeline-projection dependency is explicit rather than silently ignored.
+The country-specific event is safely source-landed. Its chronology is bounded between Game 1 and Game 2, its conflict with generalized coalition-retention language is resolved, Venezuela's continuing indirect support is preserved, and Semper Fi remains a possible rather than locked depiction path.
