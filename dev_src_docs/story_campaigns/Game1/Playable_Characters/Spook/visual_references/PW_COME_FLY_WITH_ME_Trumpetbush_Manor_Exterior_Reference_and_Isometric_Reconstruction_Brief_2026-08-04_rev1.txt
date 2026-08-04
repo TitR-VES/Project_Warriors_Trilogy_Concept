@@ -1,0 +1,422 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — TRUMPETBUSH MANOR EXTERIOR REFERENCE AND ISOMETRIC RECONSTRUCTION BRIEF
+Generated: 2026-08-04
+Version: rev1
+Status: OWNER-SUPPLIED VISUAL REFERENCE / SOURCE-READY / ISOMETRIC CONCEPT ART OPEN
+
+PURPOSE
+
+Record eight owner-supplied street-level and aerial screenshots of the real building
+used as the exterior basis for the COME FLY WITH ME Christiansted safehouse.
+
+The owner identifies the real reference building as Trumpetbush Manor, located on the
+northwestern corner of King Street and Market Street in Christiansted, St. Croix,
+United States Virgin Islands. The in-game safehouse is based on this building. The
+real name is a production-source identifier and is not automatically a player-facing
+in-game name or sign.
+
+This page:
+
+- records the exact eight supplied files by filename, dimensions, format, and SHA-256;
+- extracts exterior massing, facade, roof, street-edge, service-yard, and material cues;
+- preserves the existing lock that the safehouse occupies the right-hand portion of
+  the second floor when the primary long facade is viewed from the street;
+- establishes authority rules between the exterior references, the controlling KML,
+  and the gameplay-first safehouse floor-plan blockout;
+- provides a source-ready brief and prompt for an independently authored isometric
+  reconstruction of the building;
+- explicitly excludes Google Street View labels, pins, interface elements, status-bar
+  icons, map text, vehicle plates, incidental signage, and other screenshot artifacts
+  from final Project Warriors art.
+
+This page does not claim measured architectural accuracy, prove the current condition
+of the real building beyond the supplied imagery, or authorize redistribution of the
+screenshots as final art assets.
+
+RELATED CONTROLLING SOURCES
+
+- PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Visual_Reference_and_Interior_Direction_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Canon_Floorplan_Draft_D_2026-08-04_rev1.svg
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- maps/COME_FLY_WITH_ME_Christiansted_Mission_Map_2026-08-02_rev1.kml
+
+================================================================================
+SOURCE IDENTITY AND AUTHORITY
+================================================================================
+
+1. OWNER-IDENTIFIED LOCATION
+
+The supplied screenshots identify the selected real-world exterior reference as
+Trumpetbush Manor at the northwestern corner of King Street and Market Street in
+Christiansted, St. Croix, USVI.
+
+Treat that identity as an owner-supplied production reference. The exact real-world
+name, map label, address text, postal-service label, business signage, and other
+location-identifying text are not required in the game and should not be reproduced
+without a later explicit clearance decision.
+
+2. AUTHORITY HIERARCHY
+
+Use the sources in the following order when resolving conflicts:
+
+A. The controlling COME FLY WITH ME KML and geography source control the safehouse
+   mission coordinate, macro orientation, route to the street, SUV departure, and
+   mission flow.
+
+B. The canon safehouse floor-plan Draft D controls the current gameplay blockout:
+   room relationships, circulation, redundant passages, ready-room envelope, kitchen
+   wet-core logic, right-facade windows, balcony function, and companion movement.
+
+C. The eight exterior screenshots control the intended visible architectural language,
+   massing, facade rhythm, roof character, weathering, street-edge relationship, and
+   broad exterior plausibility.
+
+D. Hidden dimensions, unseen wall lengths, exact structural spans, roof framing,
+   drainage, stairs, service access, and interior-to-exterior alignment remain open
+   production reconstruction work.
+
+The exterior should make the Draft D gameplay interior feel plausible, but the images
+must not force a survey-faithful interior that harms navigation, companion circulation,
+interaction readability, collision, accessibility, or performance.
+
+3. SCREENSHOT ARTIFACT RULE
+
+The owner explicitly instructs production to disregard text and interface artifacts in
+the supplied images. Do not reproduce:
+
+- Google, Street View, Aerial, or date labels;
+- the Trumpetbush Manor map pin or label as a copied UI element;
+- United States Postal Service map text;
+- device status bars, Bluetooth, network, battery, share, close, overflow-menu, or
+  navigation icons;
+- Street View arrows, road labels, copyright marks, or screen-edge panels;
+- readable vehicle plates or incidental private/business signage.
+
+These are source-capture artifacts, not architecture.
+
+================================================================================
+ATTACHMENT MANIFEST
+================================================================================
+
+The original screenshots should remain in a private or appropriately licensed
+production-reference library. This public source page records exact hashes so the
+project can reconnect the source interpretation to the same files later.
+
+REFERENCE 01
+
+Filename: 1000010155.jpg
+Format: JPEG
+Dimensions: 1536 x 468
+SHA-256: e984438995633960f1ffee5e58a3b783253c9f35bd72f4d90a77abe3c8f4fa87
+Working description: wide primary street elevation showing the full long facade,
+continuous second-floor gallery, repeated ground-floor bays, neighboring historic
+buildings, parked-car scale, and a Google map label and pin over the center of the
+building. Interface text and pin are artifacts to remove.
+
+REFERENCE 02
+
+Filename: 1000010153.jpg
+Format: JPEG
+Dimensions: 1468 x 1536
+SHA-256: e06b2378f05a4674951f7d185f2b18a5d6aa9788658382056be085311f6eff8c
+Working description: low-resolution aerial/map view showing the elongated building
+footprint, corner placement, roof outline, adjacent street edges, rear/side open area,
+and nearby postal-service map label. Use for broad footprint and context only; do not
+extract exact dimensions from the blurred image.
+
+REFERENCE 03
+
+Filename: 1000010149.jpg
+Format: JPEG
+Dimensions: 1536 x 1470
+SHA-256: e03fbbf2d3d015e7d587be1bbb23a897546318bfd7b92906dfef4c8a39d5b86b
+Working description: close three-quarter view from the sloping side street. It shows
+upper-story horizontal timber siding, shuttered side windows, the open corner of the
+upper gallery, rendered lower masonry, a recessed ground-level doorway, exterior
+steps, electrical meters and conduit, and the strong change in street grade.
+
+REFERENCE 04
+
+Filename: 1000010146.jpg
+Format: JPEG
+Dimensions: 1536 x 697
+SHA-256: 0dd92b041f096efe349b11ae62bdcebe617a49a2d5e01111f85926cd8fbad070
+Working description: wide three-quarter intersection view showing the long arcaded
+facade, the timber-clad side elevation, the corner mass, overhead utilities, adjacent
+historic street fabric, and the relationship between the level frontage and the
+uphill side lane.
+
+REFERENCE 05
+
+Filename: 1000010150.jpg
+Format: JPEG
+Dimensions: 1536 x 616
+SHA-256: f50f00af61264e0e0a1246966a1258908cde16dda11ab72d5616f57bce44272d
+Working description: wider three-quarter street view similar to Reference 04, with
+additional roadway and neighboring-lot context. The mobile device status bar and
+Street View controls are capture artifacts and have no production authority.
+
+REFERENCE 06
+
+Filename: 1000010147.jpg
+Format: JPEG
+Dimensions: 1536 x 695
+SHA-256: 264615ff5199e168721b1fd8d6a341e3b15aa9a96be4721d30513933cf7dbc15
+Working description: near-frontal facade study. It clearly shows the repeated lower
+arches and deep shaded bays, multiple doors and grilles, the continuous upper gallery,
+white balustrade panels, thick vertical piers, the narrow ventilation band beneath the
+eaves, shuttered upper windows, and a projecting central box/sign structure carried on
+metal brackets. A parked red hatchback provides rough scale only.
+
+REFERENCE 07
+
+Filename: 1000010148.jpg
+Format: JPEG
+Dimensions: 1536 x 771
+SHA-256: 3cac5ee61e8d721d1c78e13c408a047a115b7390daa063d08035eae74cf7c294
+Working description: rear and side service view showing the shallow hipped reddish
+metal roof, plain rear wall, louvered openings, shuttered windows, chain-link enclosure,
+small service yard, bins, utility meters, dense vegetation, stone retaining fabric,
+and the hillside beyond Christiansted.
+
+REFERENCE 08
+
+Filename: 1000010156.jpg
+Format: JPEG
+Dimensions: 1536 x 802
+SHA-256: 7cecda3cb62ea7e2af22b867469b8544c2cf9d8c133ecb94f85597f2c18891ec
+Working description: low angled front view emphasizing the right end of the long
+facade, upper shuttered windows, the projecting central box/sign structure, the arcade,
+and the narrow passage between the blue reference building and the neighboring pink
+building. Street View overlays and the screen-bottom panel are capture artifacts.
+
+================================================================================
+EXTERIOR ARCHITECTURAL LOCKS
+================================================================================
+
+4. OVERALL MASSING
+
+The in-game building should preserve the following broad read:
+
+- elongated two-story corner building;
+- compact, nearly rectangular urban footprint rather than a freestanding villa;
+- shallow hipped roof with broad simple eaves;
+- continuous long street facade with repetitive structural rhythm;
+- upper gallery/veranda occupying much of the primary facade;
+- a more utilitarian side and rear treatment than the formal street elevation;
+- tight adjacency to neighboring buildings, narrow streets, parked vehicles, utility
+  poles, overhead wires, and ordinary Christiansted urban fabric;
+- a side street or lane with a visibly steeper grade than the primary frontage.
+
+No precise length, width, floor height, bay count, roof pitch, or structural dimension
+is locked by these screenshots. Doors, cars, piers, and railings may support rough
+proportion studies but are not survey instruments.
+
+5. PRIMARY STREET FACADE
+
+Preserve the facade's distinctive layered rhythm:
+
+- ground floor expressed as a row of deep shaded arched or softly curved bays;
+- thick square or rectangular piers between bays;
+- recessed doors, security grilles, shuttered openings, and low parapet/rail elements;
+- upper floor expressed as a long covered gallery with repeated tall openings;
+- alternating open gallery bays and shuttered/windowed sections;
+- simple white balustrade panels or closely related railing language;
+- a continuous narrow louvered ventilation/transom band just below the roof edge;
+- pale teal/blue body color with white trim as the preferred direct translation;
+- sun, salt, rain, patch repairs, minor cracking, and uneven paint without dereliction.
+
+The projecting central box/sign structure is visually useful but not sacred. It may be
+retained, reduced, moved slightly, or fictionalized to support the final facade and
+avoid copying real signage. It should never carry the real Google label or unlicensed
+business identity.
+
+6. SIDE ELEVATION AND STREET GRADE
+
+The side elevation should read as more domestic and service-oriented:
+
+- horizontal timber or timber-like siding at upper level;
+- shuttered rectangular windows;
+- rendered masonry at ground level;
+- exposed utility meters, conduit, service boxes, and drainage details;
+- a recessed or sheltered ground-level doorway with exterior steps;
+- a strong topographic change along the side street;
+- the upper gallery wrapping or opening at the corner.
+
+The change in grade is an important silhouette and navigation cue. Final stairs,
+landings, railings, and accessible route treatment remain production work.
+
+7. ROOF AND REAR SERVICE CHARACTER
+
+The roof and rear should remain practical rather than picturesque:
+
+- shallow hipped sheet-metal roof, currently best read as weathered reddish or muted
+  red-brown metal;
+- modest eaves and simple rainwater handling;
+- plain rear walls with louvered or shuttered service openings;
+- compact fenced service yard or court;
+- chain-link, bins, utility equipment, plants, rough paving, and retaining fabric;
+- dense nearby vegetation and hillside context beyond the urban block.
+
+Do not turn the rear into a large landscaped garden or clean hotel service court. It
+should feel constrained, useful, and accumulated over time.
+
+8. SAFEHOUSE OCCUPANCY RELATIONSHIP
+
+The existing safehouse lock remains controlling: Victor Two Bravo occupies the
+right-hand portion of the second floor when the primary long facade is viewed from the
+street.
+
+Exterior reconstruction should support:
+
+- a believable set of street-facing openings for the living/operations and balcony
+  parlor spaces;
+- a right-side facade window arrangement compatible with the Draft D kitchen and
+  ready-room windows;
+- plausible circulation toward the rear/side departure route;
+- a balcony vantage from which the black SUV can be seen below;
+- enough facade continuity that the apartment feels embedded in a larger building,
+  not isolated as an obvious intelligence safehouse.
+
+The exact relation between the real building's visible openings and the Draft D room
+partitions remains an authored adaptation. Do not force one screenshot window to equal
+one room without a blockout test.
+
+================================================================================
+ISOMETRIC RECONSTRUCTION BRIEF
+================================================================================
+
+9. PURPOSE OF THE FIRST ISOMETRIC
+
+The first isometric should be a concept reconstruction and massing aid, not a claim of
+measured architectural truth.
+
+Its job is to:
+
+- reconcile the long formal facade, timber-clad side, hipped roof, and rear service
+  court into one understandable three-dimensional volume;
+- provide a clean exterior reference for environment modeling;
+- show the corner topography and street relationship;
+- make visible which parts are supported by photographs and which are inferred;
+- create a base that can later receive the Draft D second-floor gameplay shell.
+
+Label the output internally as:
+
+CONCEPT RECONSTRUCTION — NOT SURVEY ACCURATE
+
+10. PREFERRED VIEW
+
+Use an elevated three-quarter axonometric/isometric camera from the primary street
+corner, high enough to show:
+
+- the full long street facade;
+- the uphill side elevation;
+- the shallow hipped roof;
+- part of the rear service yard;
+- the narrow surrounding streets and immediate neighboring massing.
+
+A second optional view may reverse the camera to show the rear court and utility side.
+Do not begin with a cutaway interior. Establish the exterior shell first, then test a
+separate sectional/cutaway version against Draft D.
+
+11. MODELING AND ART-DIRECTION REQUIREMENTS
+
+- independently author all geometry and materials;
+- preserve the two-story elongated mass and repetitive facade rhythm;
+- use pale weathered teal/blue walls, white trim, and a muted red-brown metal roof;
+- show ground-floor shade depth and upper-gallery depth clearly;
+- retain upper ventilation grilles, shutters, balustrades, side timber siding, utility
+  equipment, small rear yard, and street-grade change;
+- simplify incidental clutter without sterilizing the building;
+- use generic parked vehicles only for scale, with the team's black SUV optional;
+- omit real labels, plates, postal-service text, Google UI, business signs, and map pins;
+- keep neighboring buildings simplified and non-identical while preserving dense
+  historic street context;
+- avoid glossy resort restoration, fantasy-colonial exaggeration, or derelict-horror
+  treatment;
+- avoid falsely precise dimensions or a clean architectural-survey presentation.
+
+12. READY-TO-USE IMAGE PROMPT
+
+Create an independently authored, highly legible isometric architectural concept
+render of an elongated two-story historic Caribbean corner building in Christiansted,
+St. Croix, used as a covert safehouse in a grounded tactical narrative game. Elevated
+three-quarter axonometric view from the main street corner, showing the full long front
+facade, the uphill side lane, the shallow hipped roof, and part of a tight rear service
+court. Pale weathered teal-blue plaster with white trim; deep shaded ground-floor
+arcade with repeated rounded bays and thick piers; continuous covered upper gallery
+with tall openings, simple white balustrade panels, shuttered windows, and a narrow
+louvered ventilation band beneath the eaves. Upper side elevation uses horizontal timber
+siding and shuttered windows; lower side is rendered masonry with steps, a recessed
+door, utility meters, conduit, and drainage. Muted red-brown corrugated metal roof,
+small chain-link rear yard with bins and plants, dense historic neighboring buildings,
+narrow streets, overhead utilities, tropical hillside in the distance. Slight salt,
+rain, sun, patch repairs, and age, but fully inhabited and structurally sound. Grounded
+AAA environment-art preproduction style, clean enough to study the volume, realistic
+materials and proportions, no dramatic action, no people required. Optional generic
+black SUV parked below the safehouse balcony for scale. No Google interface, no map
+pin, no labels, no United States Postal Service text, no device icons, no readable
+plates, no copied business signage, no photomontage, no fantasy architecture. Mark the
+image as concept reconstruction, not survey accurate.
+
+13. FOLLOW-ON CUTAWAY OPTION
+
+After the exterior massing is accepted, a separate cutaway/isometric may:
+
+- remove the roof and selected upper wall sections;
+- insert the current Draft D safehouse floor plan into the right-hand second-floor
+  occupancy zone;
+- show the living/operations room, balcony parlor, central hall, kitchen/team table,
+  ready room, wash/utility spaces, and circulation passages;
+- distinguish photograph-supported shell features from gameplay-authored interiors;
+- test window, balcony, stair, wet-core, and rear-exit plausibility.
+
+The cutaway must not silently rewrite Draft D. Any mismatch should be returned as a
+blockout question rather than solved by undocumented geometry changes.
+
+================================================================================
+PROVENANCE, RIGHTS, AND STORAGE
+================================================================================
+
+14. PUBLIC-REPOSITORY TREATMENT
+
+The eight files appear to be Google Street View / map screenshots with visible platform
+and device interface artifacts. They are valuable references but are not assumed to be
+cleared for redistribution as project assets.
+
+Therefore:
+
+- this public repository records the exact filenames, hashes, dimensions, and derived
+  production findings;
+- the screenshot binaries should remain in a private or appropriately licensed
+  production-reference library;
+- final models, textures, renders, marketing images, and in-game assets must be
+  independently authored;
+- the real building name and exact identifying text should remain source-side unless a
+  later legal/art decision authorizes player-facing use.
+
+15. OPEN WORK
+
+- confirm the final exterior orientation against the controlling KML and blockout;
+- establish approximate dimensions from legitimate survey, photogrammetry, or manual
+  proportional study if production requires them;
+- reconcile Draft D windows and balcony openings with the facade rhythm;
+- design the side/rear stair and apartment entry route;
+- determine which real facade openings are retained, shifted, closed, or fictionalized;
+- produce first exterior isometric concept reconstruction;
+- produce optional reverse and roof-off cutaway views;
+- create a clean modular kit and material breakdown for Unreal Engine 5;
+- verify collision, companion navigation, street sightlines, balcony visibility,
+  streaming, lighting, and performance;
+- retain enough fictionalization that final art is a Project Warriors location rather
+  than an unedited digital copy of the real property.
+
+SOURCE RESULT
+
+The eight supplied screenshots are now represented as a controlled exterior visual
+reference set. They support a coherent three-dimensional reconstruction of the
+safehouse building while preserving the existing KML, gameplay floor plan, mission
+flow, public-repository provenance safeguards, and the distinction between photographic
+evidence and production inference.
+
+END
