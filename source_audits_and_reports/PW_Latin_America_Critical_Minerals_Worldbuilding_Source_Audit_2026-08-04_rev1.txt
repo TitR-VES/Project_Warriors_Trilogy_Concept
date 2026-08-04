@@ -1,0 +1,175 @@
+PROJECT WARRIORS — SOURCE-LANDING AUDIT
+LATIN AMERICA CRITICAL-MINERALS SHADOW CONTEST
+Generated: 2026-08-04
+Version: rev1
+Status: LANDING AUDIT
+
+1. SCOPE
+
+This audit reviews the landing of the new background world-history layer covering:
+
+- Spook's early-Crodyn-era black operations against cartel-controlled illegal mining and rare-earth / critical-mineral networks in Mexico, Guatemala, Colombia, and Brazil;
+- the American strategic objective of controlling critical-mineral access during technology competition with China;
+- anti-American cartel memory and hostility toward the CIA / Ground Branch;
+- Los Sietes' distinct transactional history with American shadow and corporate power;
+- the relationship between that history, Goldberg's contracting of Los Sietes, and Spook's later ability to collaborate with the organization;
+- China's postwar expansion into Latin America and the resulting covert competition with residual American networks.
+
+2. FILES LANDED
+
+Durable source:
+
+dev_src_docs/worldbuilding/PW_Latin_America_Critical_Minerals_Shadow_Contest_2026-08-04_rev1.txt
+
+Working-knowledge projection:
+
+Project_Warriors_Knowledge_Compendia/PW_Latin_America_Critical_Minerals_Shadow_Contest_Addendum_2026-08-04_rev1.txt
+
+Governance:
+
+source_audits_and_reports/PW_Latin_America_Critical_Minerals_Worldbuilding_Source_Audit_2026-08-04_rev1.txt
+
+3. SOURCE BASIS REVIEWED
+
+The landing was reconciled against the current repository architecture and relevant controlling material, including:
+
+- the content-lifecycle rule that durable fiction belongs in dev_src_docs before synthesis refresh;
+- the controlling The Wasp campaign chronology / Goldberg plea / Operation HOLE PUNCH source;
+- the Game 1 and Game 2 Spook source stack covering Los Sietes, the Desautels Resort Hotel, Bisutrí, La Avispa, Goldberg, and the Coleman extraction;
+- the current world/timeline rule that China's strategic agenda remains distinct from the PANDORA purported-peacekeeping arrangement;
+- the active Worldbuilding / Strategic Architecture knowledge layer.
+
+4. CONTINUITY FINDINGS
+
+A. Los Sietes identity
+
+PASS.
+
+The new source preserves Los Sietes as an organized transnational criminal-intelligence network with hierarchy, compartmentation, specialist personnel, and institutional contacts. It does not reduce the organization to a generic cartel or turn it into an American proxy.
+
+B. Goldberg relationship
+
+PASS.
+
+The new history supplies a credible long-term basis for Goldberg's ability to contract Los Sietes for the Desautels Resort Hotel bombing, Operation HOLE PUNCH, and other deniable work. It does not change the already landed physical ownership of HOLE PUNCH, where Bisutrí controls the extraction operation and La Avispa provides bounded upstream intelligence support.
+
+C. Spook / Los Sietes collaboration
+
+PASS.
+
+The source explains later collaboration through accumulated institutional familiarity, rival-cartel disruption, transactional precedent, and mutually enforceable temporary alignment. It does not create friendship, loyalty, immunity, or retrospective moral absolution.
+
+D. China separation rule
+
+PASS.
+
+The new source explicitly keeps China's Latin American expansion inside China's separate strategic agenda. It does not merge China into the Russian, Cuban, Venezuelan, North Korean, and Iranian purported-peacekeeping arrangement or make Goldberg / Crodyn the hidden author of every Chinese move.
+
+E. Crodyn-era policy tone
+
+PASS.
+
+The source avoids presenting the American campaign as purely benevolent anti-crime work. It defines the system as a mixture of strategic resource denial, corporate access, covert action, selective enforcement, political pressure, and protection-racket logic.
+
+F. Regional complexity
+
+PASS.
+
+The source avoids treating all cartels, governments, security services, businesses, or political factions as unified blocs. Country-specific postwar outcomes remain open.
+
+G. Canon spellings
+
+PASS.
+
+The durable source explicitly locks:
+
+- Crodyn;
+- Los Sietes.
+
+"Crodin" and "Los Cietes" are treated as spelling errors, not alternate identities.
+
+5. AUTHORITY AND MATURITY
+
+The landing is source-ready as broad strategic world history.
+
+It is not production-ready as a mission pack, country atlas, collectible set, or postwar geopolitical map.
+
+The durable source controls the broad relationship. Future dedicated sources should control exact:
+
+- operations;
+- dates;
+- locations;
+- local actors;
+- mineral types;
+- corporate participants;
+- Chinese services and entities;
+- country-specific alignments;
+- playable mission placement;
+- dialogue and collectible wording.
+
+6. ONTOLOGY / TIMELINE DECISION
+
+No ontology or timeline delta is required in this landing.
+
+Reason:
+
+- no exact dated event is added;
+- no final operation name is created;
+- no new named character, faction, weapon, mission, or location identity is introduced;
+- the content defines a broad historical pattern and relationship architecture;
+- exact country outcomes and campaign placements remain open.
+
+A later source that locks a named operation, exact chronology, new stable entity, or campaign event should update the appropriate ontology and timeline layers.
+
+7. DELIVERY AND EXPOSITION REVIEW
+
+PASS.
+
+The source treats this material primarily as indirect worldbuilding suitable for:
+
+- collectibles;
+- intelligence fragments;
+- manifests;
+- corporate memoranda;
+- financial records;
+- equipment provenance;
+- environmental evidence;
+- news coverage;
+- terminal entries;
+- incidental dialogue.
+
+It does not require a new playable campaign or an exposition-heavy mandatory scene.
+
+8. LIVE DEPENDENCIES / OPEN FIELDS
+
+The landing intentionally leaves open:
+
+- exact early-Crodyn date window;
+- operation count and names;
+- participating agencies, units, corporations, contractors, and local services;
+- exact mineral commodities and sites;
+- exact Spook / Los Sietes prior-contact history;
+- exact American protections or equipment provided to Los Sietes;
+- exact Chinese intelligence, corporate, and security actors;
+- country-by-country postwar alignment;
+- mission, collectible, and dialogue implementation.
+
+These are development dependencies, not landing failures.
+
+9. ARCHIVE / RETIREMENT EFFECT
+
+This audit does not by itself certify any broader Spook, Los Sietes, The Wasp, China, Latin America, or geopolitical-development thread as safe to archive.
+
+The new source fully absorbs the specific worldbuilding detail supplied for this landing, but related threads may still contain unlanded mission, character, chronology, or implementation work.
+
+10. RESULT
+
+LANDING RESULT: PASS
+
+The new detail is safely represented as:
+
+- one durable worldbuilding source;
+- one compact working-knowledge projection;
+- one governance audit.
+
+The source stack preserves current canon, adds the missing strategic history, and clearly separates locked background from future mission-level development.
