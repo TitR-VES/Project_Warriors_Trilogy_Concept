@@ -1,0 +1,306 @@
+PROJECT WARRIORS — WORLD HISTORY / STRATEGIC ARCHITECTURE
+LATIN AMERICA CRITICAL-MINERALS SHADOW CONTEST
+Generated: 2026-08-04
+Version: rev1
+Status: SOURCE-READY WORKING LOCK
+
+1. PURPOSE
+
+This page captures a background world-history layer intended primarily for collectibles, documents, environmental storytelling, intelligence artifacts, incidental dialogue, and future mission texture rather than for mandatory additional playable content.
+
+It establishes:
+
+- Spook's substantial prewar involvement in covert American operations against cartel-controlled illegal mining and rare-earth / critical-mineral production in Latin America;
+- the Crodyn administration's strategic objective of securing American access, leverage, and practical control over critical-mineral supply in the escalating technology competition with China;
+- the resulting long-term hostility many cartel organizations develop toward American intelligence, especially the CIA and Ground Branch;
+- Los Sietes' distinct, more transactional history with American shadow power, corporate interests, and political protection networks;
+- the reason Los Sietes can later work for Goldberg and can deal pragmatically with Spook despite the wider cartel world's anti-American memory;
+- the post-PANDORA and post-World War III shift in which China expands its influence across Latin America, co-opts or destroys criminal organizations, and displaces much of the weakened American protection architecture;
+- the covert political microclimate that follows as Chinese intelligence and aligned commercial-security networks contest the remnants of American operations across the region.
+
+This page adds strategic background. It does not create a new mandatory campaign, mission ladder, operation name, exact chronology, or country-by-country final alignment map.
+
+2. CORE WORLD-HISTORY LOCK
+
+Before the war, during the early years of the Crodyn administration, Trevor "Spook" Gartner is heavily involved in black operations directed against illegal cartel mining, rare-earth extraction, and associated mineral-smuggling networks in cartel-controlled regions of:
+
+- Mexico;
+- Guatemala;
+- Colombia;
+- Brazil.
+
+The exact mission count, operation names, dates, handlers, partner units, and local targets remain open. The controlling fact is that this work forms a meaningful part of Spook's prewar operational history rather than a single isolated assignment.
+
+The operations are not merely conventional anti-narcotics or anti-organized-crime actions. Their strategic purpose is to improve American leverage over critical-mineral production, transport routes, intermediaries, and commercial access during an intensifying technology and supply-chain competition with China.
+
+"Critical minerals" is the broader strategic category. Rare-earth elements are the most visible and politically useful shorthand inside the fiction, but the history may also encompass other strategically important mined inputs when later worldbuilding requires them.
+
+3. THE CRODYN-ERA AMERICAN POLICY
+
+The Crodyn administration treats Latin American critical-mineral access as both an economic-security issue and an instrument of great-power competition.
+
+Its shadow policy combines intelligence operations, corporate pressure, selective law enforcement, political influence, local security relationships, and deniable coercion. The administration seeks not simply to stop illegal extraction but to determine:
+
+- who is allowed to extract;
+- who controls transport and export corridors;
+- which corporate intermediaries receive access;
+- which local political actors remain protected;
+- which criminal organizations are suppressed, divided, tolerated, or redirected;
+- whether China can obtain stable long-term access to the same resources.
+
+The policy should not be framed as a clean humanitarian campaign against predatory mining. Some disrupted operations are genuinely brutal, environmentally destructive, coercive, or criminal. However, the American objective is strategic control and denial, not disinterested reform.
+
+At its most cynical, the system resembles a transnational protection racket: compliant local governments, business actors, security services, and criminal intermediaries receive varying degrees of political cover, equipment, intelligence, financing access, sanctions relief, law-enforcement restraint, or regime-security support in exchange for alignment with American strategic and corporate priorities.
+
+This is compatible with the broader Crodyn-era pattern in which legal institutions, intelligence capabilities, private capital, and covert action increasingly overlap without clean accountability.
+
+4. SPOOK'S ROLE
+
+Spook operates inside this policy as a CIA Directorate of Operations / Ground Branch paramilitary officer.
+
+His role may include, depending on later mission-level development:
+
+- reconnaissance and target development around remote extraction sites;
+- disruption of mineral-production and transport networks;
+- recovery or destruction of records, samples, equipment, or technical personnel;
+- cultivation and handling of local sources;
+- support to selected partner forces or deniable local units;
+- interdiction of shipments and financial channels;
+- covert pressure against cartel, corporate, or political actors aligned with Chinese access efforts;
+- protection or extraction of individuals useful to the American supply-chain strategy.
+
+These are an authoring palette, not a declaration that every listed method occurred in every country.
+
+The history should deepen Spook rather than turn him into a simple defender of American policy. He can have executed difficult operations professionally while recognizing that Washington's stated anti-crime rationale often concealed resource competition, corporate preference, and political coercion.
+
+The exact degree of Spook's personal approval, objection, disillusionment, or later reflection remains available for character development.
+
+5. CARTEL MEMORY AND ANTI-AMERICAN HOSTILITY
+
+The operations leave a durable institutional memory across the Latin American criminal world.
+
+Many cartel organizations come to regard Americans associated with intelligence, special operations, federal law enforcement, or corporate security as direct strategic enemies. The hostility is especially acute toward the CIA and Ground Branch because those organizations are associated with:
+
+- lost extraction revenue;
+- destroyed or seized infrastructure;
+- compromised routes and intermediaries;
+- recruited informants and internal betrayal;
+- selective support for rival organizations;
+- political pressure applied through local governments;
+- American corporations receiving access after cartel-linked operators were displaced;
+- operations conducted without public accountability or durable local benefit.
+
+This hostility is historical and organizational, not merely emotional. Cartel actors may treat anyone visibly tied to American covert power as part of a long-running attempt to control the region's resources and political choices.
+
+The criminal world must not be portrayed as a single unified bloc. Organizations, factions, local commanders, political patrons, and commercial partners remember and respond to the American campaign differently. Some remain implacably hostile. Some sell information to both sides. Some cooperate temporarily against rivals. Some attempt to preserve neutrality. Some change allegiance when the balance of power changes.
+
+6. LOS SIETES AS THE IMPORTANT EXCEPTION
+
+Los Sietes has a more productive and less openly destructive historical relationship with American shadow power than many peer organizations.
+
+The relationship is transactional rather than loyal. At different points, Los Sietes receives combinations of:
+
+- equipment;
+- intelligence access;
+- political protection;
+- selective law-enforcement restraint;
+- commercial introductions;
+- financial or logistical favors;
+- tolerance for continued operations inside agreed boundaries;
+- assistance against mutually inconvenient competitors.
+
+In return, Los Sietes can provide deniable violence, regional access, source networks, smuggling capacity, specialist personnel, and operational reach that official American institutions or corporate actors cannot openly employ.
+
+This history explains why Los Sietes is available to Goldberg as a contractor and covert service provider. It supports its involvement in actions including:
+
+- the Desautels Resort Hotel bombing and associated Goldberg-linked violence;
+- Operation HOLE PUNCH and Goldberg's extraction from federal custody between Game 1 and Game 2;
+- other deniable tasks where Goldberg requires criminal capability linked to intelligence-grade planning and institutional access.
+
+Los Sietes' comparatively milder history with the CIA also helps explain why Spook can later collaborate with its personnel and senior figures when interests overlap.
+
+This does not mean Los Sietes trusts Spook, supports the United States, or regards the CIA as an ally. It means the organization has a usable institutional language for dealing with American covert power and does not automatically classify every such contact as an irreconcilable enemy.
+
+Spook's own prewar record may be known unevenly inside Los Sietes. Senior figures, intelligence specialists, and long-serving operational personnel may recognize his history or reputation, while lower-level members may know only fragments, warnings, or a callsign. Exact prior personal encounters remain open.
+
+The canonical spelling is LOS SIETES. "Los Cietes" is not a separate organization and should be treated as a spelling error wherever encountered.
+
+7. WHY SPOOK CAN WORK WITH LOS SIETES
+
+Spook's later collaboration with Los Sietes should be grounded in accumulated history rather than sudden convenience.
+
+The relationship works because:
+
+- Los Sietes understands the practical rules of American covert bargaining;
+- Spook understands that the organization is disciplined, compartmented, and capable of intelligence-adjacent work rather than being a generic street cartel;
+- both sides have experience with temporary alignment under mutually enforceable conditions;
+- Spook's earlier campaigns were more damaging to some rival organizations than to Los Sietes;
+- some Los Sietes actors benefited from American pressure against competitors;
+- Goldberg's use of Los Sietes proves that the organization already operates inside overlapping criminal, corporate, political, and intelligence networks.
+
+The tone should remain wary, professional, and morally compromised. Cooperation does not erase killings, exploitation, corruption, trafficking, or prior betrayals. It creates a believable basis for limited collaboration when the alternative is worse or when both parties need the same outcome.
+
+8. POST-PANDORA / POSTWAR STRATEGIC REVERSAL
+
+After PANDORA, World War III, the occupation of parts of the United States, and the severe decline of American military and geopolitical reach, the regional balance changes.
+
+The United States can no longer sustain the same mixture of covert pressure, corporate protection, intelligence coverage, partner-force support, sanctions leverage, and political guarantees that underpinned its earlier influence.
+
+China moves into the resulting space through a combination of soft power and coercive leverage. Its expanding regional toolkit may include:
+
+- infrastructure credit and reconstruction financing;
+- mining and processing contracts;
+- port, rail, energy, telecommunications, and logistics investment;
+- debt restructuring and emergency commodity purchasing;
+- security assistance and surveillance systems;
+- intelligence liaison relationships;
+- corporate partnerships backed by state power;
+- political guarantees to governments abandoned or deprioritized by Washington;
+- selective support to criminal intermediaries that can secure extraction sites, routes, labor, and local compliance.
+
+China's objective is not necessarily to preserve the existing cartel ecosystem. It may co-opt useful organizations, split them, subordinate them to state-aligned commercial arrangements, turn leadership through finance or intelligence pressure, or support their elimination when they obstruct stable access.
+
+By the postwar period, many cartels that survived the earlier American campaign have either:
+
+- been destroyed;
+- fragmented;
+- been absorbed into new political-commercial security structures;
+- shifted toward Chinese patronage;
+- become intermediaries for Chinese-aligned extraction and logistics;
+- attempted to play Chinese and residual American networks against each other.
+
+This reversal is one of the long-term consequences of American collapse. The same organizations and governments once pressured into accepting American influence now reassess which outside power can actually provide money, security, market access, and political survival.
+
+9. GOVERNMENT ALIGNMENT SHIFTS
+
+Before the war, several Latin American governments tolerate a significant degree of American political and intelligence influence in exchange for internal security, economic access, regime support, or protection from criminal and political threats.
+
+The arrangement often functions less like an equal alliance than a protection structure. Washington provides or withholds security assistance, intelligence, legal pressure, investment access, and diplomatic cover. Local elites allow American influence over resources, security priorities, commercial access, and selected internal political outcomes.
+
+After World War III and the contraction of American power, even governments previously complicit in that arrangement begin changing alignment.
+
+Some move toward China openly through reconstruction, infrastructure, trade, and mining agreements. Others maintain formal ties to the United States while quietly accepting Chinese intelligence, technology, financing, or security assistance. Some attempt to balance both. Others become contested internally between ministries, security services, business blocs, criminal networks, and political factions aligned with different external patrons.
+
+No single region-wide switch should occur overnight. The preferred worldbuilding model is uneven, country-specific, and contested.
+
+10. THE POSTWAR COVERT MICROCLIMATE
+
+The postwar Latin American political environment produces a persistent low-visibility conflict between:
+
+- Chinese intelligence services and state-backed commercial-security networks;
+- Chinese-aligned local governments, business blocs, security services, and criminal intermediaries;
+- remnants of American intelligence operations;
+- surviving American corporate and private-security interests;
+- local actors attempting to preserve independence or profit from competition;
+- former American partners deciding whether to defect, hedge, or remain loyal;
+- cartel remnants seeking a new patron or resisting subordination.
+
+This is not necessarily a conventional war. It is a political microclimate of:
+
+- source recruitment and counter-recruitment;
+- sabotage and deniable killings;
+- mine, port, rail, and processing-facility competition;
+- data theft and financial pressure;
+- disinformation and political influence;
+- extraction of scientists, engineers, brokers, and compromised officials;
+- proxy security operations;
+- criminal realignment;
+- disputes over reconstruction contracts and mineral concessions.
+
+The American intelligence community is initially unable to counter the shift effectively because of losses, divided authority, damaged logistics, domestic priorities, reduced credibility, and the exposure or collapse of many old networks.
+
+Residual American operations may still be dangerous and competent, but they no longer operate from uncontested regional primacy.
+
+11. CHINA CONTINUITY RULE
+
+China's Latin American expansion is part of China's separate strategic agenda.
+
+It must not be retroactively folded into the Russian, Cuban, Venezuelan, North Korean, and Iranian purported-peacekeeping arrangement surrounding PANDORA unless a later controlling source explicitly creates a connection.
+
+China exploits American weakness and pursues its own mineral, industrial, technological, and geopolitical objectives. Its later gains may benefit from the catastrophe without requiring that every regional move was centrally coordinated with Goldberg, Crodyn, or the foreign occupation coalition.
+
+This preserves the existing rule that the world's major powers have overlapping interests and opportunistic alignments rather than one perfectly unified enemy conspiracy.
+
+12. PLAYER-FACING DELIVERY
+
+This history should usually be encountered indirectly.
+
+Preferred delivery channels include:
+
+- collectible CIA or Ground Branch after-action fragments;
+- partially declassified Crodyn-era policy memoranda;
+- corporate critical-mineral access briefs;
+- cartel warnings or internal intelligence sheets naming American units or officers;
+- seized mining manifests and export records;
+- environmental evidence at abandoned or repurposed extraction sites;
+- old American-supplied equipment in cartel or security-service hands;
+- financial records showing selective protection and tolerated activity;
+- Los Sietes correspondence demonstrating professional contact with American intermediaries;
+- news reports on postwar Chinese reconstruction and mining agreements;
+- Chinese-language or bilingual commercial-security documentation;
+- intelligence maps showing former American networks changing allegiance;
+- incidental dialogue from veterans, smugglers, diplomats, contractors, miners, or intelligence officers;
+- optional terminal entries connecting Spook's reputation to older Latin American operations.
+
+The presentation should be cumulative rather than expository. No single collectible needs to explain the entire system. Different artifacts may contain bias, euphemism, incomplete knowledge, or conflicting interpretations.
+
+13. NARRATIVE FUNCTIONS
+
+This history can enrich future development by explaining:
+
+- why many cartel actors react intensely to American intelligence personnel;
+- why Spook's name, callsign, methods, or institutional affiliation may carry regional weight;
+- why Los Sietes behaves differently from more reflexively anti-American organizations;
+- why Goldberg can hire Los Sietes for highly sensitive deniable work;
+- why Spook and Los Sietes can collaborate without becoming friends or allies;
+- how critical-mineral competition connects intelligence, corporate, criminal, and geopolitical layers;
+- why China's postwar rise in Latin America is materially tied to technology and industrial power rather than being generic map expansion;
+- how American decline changes local calculations even among former partners;
+- how later missions can use mines, ports, processing sites, rail corridors, corporate offices, intelligence safehouses, and reconstruction projects as politically meaningful spaces.
+
+14. CONTINUITY SAFEGUARDS
+
+The following rules are controlling:
+
+- Use Crodyn as the canonical presidential surname spelling.
+- Use Los Sietes as the canonical organization spelling.
+- Spook's Latin American critical-minerals history is substantial, but exact missions remain open.
+- Do not portray every cartel or every Latin American government as ideologically identical.
+- Do not portray Los Sietes as loyal to the CIA, the United States, Goldberg, or Spook.
+- Do not erase Los Sietes' criminality or moral responsibility because it has intelligence-grade capability and American contacts.
+- Do not frame the Crodyn-era policy as purely benevolent anti-crime work.
+- Do not imply that American control was complete, publicly acknowledged, or legally clean.
+- Do not make China part of the PANDORA purported-peacekeeping conspiracy by default.
+- Do not assume that Chinese influence produces total centralized control; co-option, fragmentation, bargaining, local resistance, and competing patrons remain valid.
+- Do not assign final postwar alignment to Mexico, Guatemala, Colombia, Brazil, or any other country without a later country-specific source.
+- Do not require new playable missions merely to explain this history.
+
+15. CROSS-SOURCE RELATIONSHIPS
+
+This page should be read alongside:
+
+- the controlling The Wasp campaign chronology and Operation HOLE PUNCH integration source, which establishes Los Sietes as a professional transnational criminal-intelligence network, Goldberg's calculated plea maneuver, and La Avispa's upstream role in the Coleman extraction;
+- Game 1 and Game 2 Spook campaign sources covering the Desautels Resort Hotel, Goldberg, Los Sietes, Bisutrí, and La Avispa;
+- broader world and timeline sources that keep China's strategic agenda distinct from the PANDORA purported-peacekeeping arrangement;
+- future country-specific, mission-specific, or character-specific pages that may convert parts of this history into playable content or exact chronology.
+
+Where a later dedicated source defines an exact operation, date, target, country outcome, or named local actor, that dedicated source controls the specific detail while this page continues to govern the broad strategic relationship.
+
+16. OPEN DEVELOPMENT FIELDS
+
+Still open:
+
+- exact operational date range inside the early Crodyn administration;
+- operation names and mission count;
+- which agencies, military units, contractors, corporations, and local services participated;
+- exact commodities beyond the rare-earth / critical-mineral umbrella;
+- exact sites and local political conditions in Mexico, Guatemala, Colombia, and Brazil;
+- whether Spook directly encountered Los Sietes during this period or only worked against adjacent networks;
+- which Los Sietes leaders know Spook's history and how they interpret it;
+- exact American favors, equipment, or protections supplied to Los Sietes;
+- exact Chinese intelligence, commercial, and security actors involved after the war;
+- country-by-country realignment paths;
+- playable mission placement, if any;
+- final collectible texts, environmental assets, and dialogue.
+
+These fields may be developed later without reopening the broad world-history lock by default.
