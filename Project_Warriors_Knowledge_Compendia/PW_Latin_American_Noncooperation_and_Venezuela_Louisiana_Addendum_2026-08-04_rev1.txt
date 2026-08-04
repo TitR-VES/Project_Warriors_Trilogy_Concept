@@ -22,17 +22,36 @@ After PANDORA and during the subsequent invasion, a meaningful number of Latin A
 
 The region is not a unified bloc. Some governments remain neutral, some provide humanitarian but not military assistance, some hedge, and some pursue their own strategic advantage.
 
-3. VENEZUELA LOCK
+3. VENEZUELA DIRECT-ACTION LOCK
 
 Venezuela goes beyond noncooperation and joins the invading coalition.
 
-Early in the invasion, Venezuelan forces attack the Gulf Coast of Louisiana and attempt to establish a usable foothold on United States territory.
+Sometime after Game 1 and before Game 2, Venezuelan forces attack the Gulf Coast of Louisiana and attempt to establish a usable foothold on United States territory.
 
-The operation fails to create a sustainable land position. The Venezuelan contingent runs short of the resources needed to consolidate and continue the intervention.
+The operation fails to create a sustainable land position. The Venezuelan contingent runs short of the resources needed to consolidate and continue direct military action.
 
 Venezuela consequently withdraws its deployed forces from United States soil and the coastal waters associated with the Louisiana operation.
 
-4. COALITION INTERPRETATION RULE
+4. CONTINUING COALITION SUPPORT
+
+The Louisiana withdrawal does not end Venezuela's coalition alignment.
+
+Venezuela remains supportive of the invasion and occupation through lower-cost and indirect assistance, including:
+
+- fuel;
+- covert financing;
+- mercenaries, contractors, proxies, or deniable personnel in limited numbers;
+- cyber operations and cyber support;
+- intelligence, procurement, communications, logistics facilitation, documentation, sanctions-evasion assistance, and related enabling activity.
+
+Exact scale, recipients, routes, units, companies, intermediaries, and mechanisms remain open.
+
+The controlling distinction is:
+
+- Venezuela can no longer sustain a major independent conventional campaign against the United States;
+- Venezuela remains politically aligned with and operationally useful to the coalition.
+
+5. COALITION INTERPRETATION RULE
 
 Broad sources listing Russia, Cuba, Venezuela, North Korea, and Iran as coalition participants remain valid.
 
@@ -41,27 +60,38 @@ However, broad language about coalition forces retaining and reinforcing occupie
 Country-specific Venezuelan outcome:
 
 - coalition entry;
-- early Louisiana Gulf attack;
+- Louisiana Gulf attack during the Game 1-to-Game 2 interval;
 - inadequate foothold;
 - resource exhaustion;
-- withdrawal from U.S. soil and relevant coastal waters.
+- withdrawal from U.S. soil and relevant coastal waters;
+- continued indirect coalition support after withdrawal.
 
-Do not portray a durable Venezuelan occupation zone in Louisiana.
+Do not portray a durable Venezuelan occupation zone in Louisiana. Do not interpret withdrawal as Venezuelan neutrality or defection.
 
-5. OPEN FIELDS
+6. SEMPER FI STATUS
+
+The operation may potentially be featured in the Project Warriors: Semper Fi DLC.
+
+This is not a definitive lock.
+
+Do not list the event as a confirmed Semper Fi mission, assign it a protagonist or mission title, or assume which phase would be depicted until a later dedicated source binds it to that campaign.
+
+7. OPEN FIELDS
 
 Still open:
 
 - exact refusing governments and forms of refusal;
-- exact Louisiana location and operation date;
+- exact position inside the Game 1-to-Game 2 interval;
+- exact Louisiana location;
 - Venezuelan units, vessels, aircraft, proxies, commanders, and war aims;
 - exact defenders and defeat sequence;
 - resource-shortage composition;
 - casualties, losses, withdrawal route, and domestic Venezuelan consequences;
-- whether Venezuela continues non-territorial coalition support elsewhere.
+- exact fuel, financing, mercenary, cyber, intelligence, and logistics-support mechanisms;
+- whether and how Semper Fi depicts the event.
 
-6. DELIVERY RULE
+8. DELIVERY RULE
 
-Prefer indirect delivery through diplomatic cables, situation reports, logistics records, maps, abandoned equipment, news coverage, radio, after-action fragments, and conflicting American / Venezuelan / coalition accounts.
+Prefer indirect delivery through diplomatic cables, situation reports, logistics and fuel records, covert financial records, cyber-attribution material, maps, abandoned equipment, mercenary or proxy documentation, news coverage, radio, after-action fragments, and conflicting American / Venezuelan / coalition accounts.
 
 Do not force a new playable mission merely to explain the event.
