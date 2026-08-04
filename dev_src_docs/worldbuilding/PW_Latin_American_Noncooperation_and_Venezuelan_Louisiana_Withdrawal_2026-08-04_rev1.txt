@@ -9,9 +9,13 @@ Status: SOURCE-READY COUNTRY-SPECIFIC AND WAR-EVENT LOCK
 This page extends the Latin America critical-minerals shadow-contest source with two direct consequences of the earlier Crodyn-era American clandestine campaign:
 
 - a meaningful number of Latin American governments refuse to assist the United States after the PANDORA attacks and the subsequent invasion because earlier aggressive American covert action on their territory has destroyed trust and created durable political resentment;
-- Venezuela goes beyond noncooperation, joins the invading coalition, attacks the Gulf Coast of Louisiana early in the invasion, fails to establish an adequately sustained foothold, exhausts the resources available to the operation, and withdraws its forces from United States soil and adjacent coastal waters.
+- Venezuela goes beyond noncooperation, joins the invading coalition, attacks the Gulf Coast of Louisiana during the diegetic interval between Game 1 and Game 2, fails to establish an adequately sustained foothold, exhausts the resources required for continued direct military action, and withdraws its forces from United States soil and the associated coastal waters.
+
+Venezuela's withdrawal ends the failed Louisiana expedition but does not end its political alignment with or indirect support for the wider coalition invasion and occupation effort.
 
 This is a background world-history and war-event lock. It does not by itself create a playable mission, campaign ladder, operation title, exact date, order of battle, or final Louisiana battlefield map.
+
+The event may potentially be depicted in the Project Warriors: Semper Fi DLC, but no placement in that DLC is locked by this source.
 
 2. RELATIONSHIP TO THE EARLIER AMERICAN CAMPAIGN
 
@@ -53,14 +57,16 @@ The refusal should not be written as irrational spite. It is the strategic conse
 
 Venezuela does not merely refuse assistance.
 
-Early in the invasion, Venezuela joins the foreign invading coalition and commits forces to an attack against the Gulf Coast of Louisiana.
+Venezuela joins the foreign invading coalition and commits forces to an attack against the Gulf Coast of Louisiana.
+
+The operation takes place sometime after the events of Game 1 and before the events of Game 2. Its exact position within that diegetic interval remains open.
 
 The exact political authorization, coalition command relationship, force package, route, landing points, operational name, and date remain open. The controlling facts are:
 
 - Venezuelan forces participate as an active member of the invading coalition;
 - their assigned or chosen operational focus is the Louisiana Gulf Coast;
 - the operation attempts to establish a usable foothold on United States territory;
-- the effort occurs early enough in the invasion to be part of the coalition's initial exploitation of American disorganization rather than a later occupation reinforcement campaign.
+- the operation occurs inside the Game 1-to-Game 2 interval while the coalition invasion and occupation are already reshaping the United States.
 
 The operation may later be developed through naval, amphibious, airborne, covert, proxy, or mixed components, but no specific insertion method is locked by this page.
 
@@ -89,35 +95,56 @@ These are open authoring possibilities. This source does not lock one precise fa
 
 6. WITHDRAWAL LOCK
 
-After failing to secure a sustainable foothold and running out of the resources necessary to continue the operation, Venezuela withdraws its forces from:
+After failing to secure a sustainable foothold and running out of the resources necessary to continue direct military action, Venezuela withdraws its deployed forces from:
 
 - United States soil; and
 - the coastal waters associated with the Louisiana operation.
 
-The withdrawal ends Venezuela's direct Louisiana ground and littoral presence.
+The withdrawal ends Venezuela's direct Louisiana ground and littoral presence and its ability to sustain an independent expeditionary campaign against the United States.
 
-This source does not automatically determine whether Venezuela continues to provide political, intelligence, logistical, financial, cyber, proxy, or other support to the wider coalition elsewhere. It also does not determine the later stability or internal political consequence of the failed intervention inside Venezuela.
+It does not constitute a Venezuelan political break with the invading coalition, a repudiation of the invasion, or a transition into neutrality.
 
 What is locked is narrower and explicit: Venezuelan forces do not retain a durable occupied foothold in Louisiana and do not remain indefinitely in the adjoining operational waters.
 
-7. COALITION CONTINUITY AND SPECIFIC OVERRIDE
+7. CONTINUING INDIRECT COALITION SUPPORT
+
+After the Louisiana withdrawal, Venezuela remains supportive of the coalition's wider invasion and occupation of the United States.
+
+Its reduced material position prevents it from sustaining another comparable direct expeditionary campaign, but it continues contributing through indirect and lower-cost means. These include:
+
+- fuel supplied to other coalition members and coalition-linked logistics systems;
+- covert financing and financial-channel support;
+- mercenaries, contractors, proxies, or deniable personnel in limited numbers;
+- cyber operations and cyber-support activity;
+- intelligence, communications, facilitation, procurement, transport, documentation, or sanctions-evasion assistance;
+- other indirect forms of support that help coalition members sustain invasion, occupation, reinforcement, or coercive activity.
+
+The exact scale, recipients, routes, agencies, companies, intermediaries, cyber units, financial mechanisms, and mercenary identities remain open.
+
+Venezuela's contribution after withdrawal should be represented as persistent but materially constrained. It remains politically committed and operationally useful to the coalition without possessing the resources to resume a large independent conventional campaign on United States territory.
+
+Fuel support does not imply limitless Venezuelan capacity. Covert financing does not imply Venezuela alone funds the occupation. Limited mercenary or proxy support does not restore a standing Venezuelan occupation zone. Cyber activity may continue at a lower cost than expeditionary warfare but remains subject to later mission- and capability-specific development.
+
+8. COALITION CONTINUITY AND SPECIFIC OVERRIDE
 
 Existing broad sources identify Russian, Cuban, Venezuelan, North Korean, and Iranian forces as participants in the purported-peacekeeping arrangement and subsequent invasion.
 
-Those broad references remain valid as coalition-level framing. However, generalized language stating that foreign participants retain and reinforce occupied American territory must not be interpreted to mean that every participating country achieves the same territorial outcome.
+Those broad references remain valid as coalition-level framing. However, generalized language stating that foreign participants retain and reinforce occupied American territory must not be interpreted to mean that every participating country achieves the same territorial outcome or contributes in the same manner throughout the war.
 
-This page is the controlling country-specific result for Venezuela's Louisiana operation:
+This page is the controlling country-specific result for Venezuela:
 
-- Venezuela joins the coalition and attacks Louisiana;
+- Venezuela joins the coalition;
+- Venezuela attacks Louisiana during the Game 1-to-Game 2 interval;
 - Venezuela fails to secure an adequate foothold;
 - the deployed Venezuelan force exhausts its sustainable resources;
-- Venezuela withdraws its forces from United States soil and the relevant coastal waters.
+- Venezuela withdraws its forces from United States soil and the relevant coastal waters;
+- Venezuela remains aligned with the coalition and continues indirect support through fuel, covert financing, limited mercenary or proxy personnel, cyber activity, and other enabling assistance.
 
 Where older generalized wording could imply that Venezuelan forces necessarily remain inside a long-term American occupation zone, this specific source supersedes that implication.
 
 The durable occupation and reinforcement history may still apply to other coalition forces and other theaters according to their controlling sources.
 
-8. STRATEGIC CONSEQUENCES
+9. STRATEGIC CONSEQUENCES
 
 The failed Louisiana operation produces several useful worldbuilding consequences.
 
@@ -126,13 +153,15 @@ For the United States:
 - it demonstrates that the invasion is geographically broader than the most durable occupation zones;
 - it creates an early defensive success without erasing the national catastrophe;
 - it may preserve or reopen parts of the lower Mississippi and Gulf logistics environment, subject to later mapping;
-- it shows that coalition members have unequal capabilities, sustainment depth, and political commitment.
+- it shows that coalition members have unequal capabilities, sustainment depth, and political commitment;
+- it does not fully remove Venezuela from the war because Venezuelan resources continue reaching other coalition actors indirectly.
 
 For Venezuela:
 
 - the withdrawal can become a domestic political humiliation, a concealed defeat, or a contested official narrative;
 - lost personnel and equipment can weaken the regime or intensify internal repression;
-- coalition partners may regard Venezuela as unreliable or expendable;
+- coalition partners may regard Venezuela as a failed expeditionary actor but still value its fuel, financing, cyber, proxy, and facilitation support;
+- the state remains committed to the coalition while shifting toward less resource-intensive forms of participation;
 - China may later exploit the failure through finance, reconstruction, political leverage, or intelligence access without having directed the original operation.
 
 For Latin America more broadly:
@@ -142,7 +171,22 @@ For Latin America more broadly:
 - it gives later governments reasons both to fear American return and to distrust coalition promises;
 - it helps create the fragmented postwar environment in which Chinese and residual American networks compete for influence.
 
-9. PLAYER-FACING DELIVERY
+10. POSSIBLE SEMPER FI DEPICTION
+
+The Louisiana operation may be considered for depiction in the Project Warriors: Semper Fi DLC.
+
+This is not a definitive campaign-placement lock.
+
+Until a later dedicated source explicitly binds the event to Semper Fi:
+
+- do not list it as a confirmed Semper Fi mission;
+- do not assign it a mission title, protagonist, unit, objective ladder, or playable perspective;
+- do not assume that Semper Fi depicts the initial landing, the containment campaign, the resource collapse, the withdrawal, or any particular phase;
+- do not infer that the event must be playable rather than reported, observed indirectly, or referenced through collectibles and briefings.
+
+The event remains valid world history regardless of whether Semper Fi ultimately depicts it.
+
+11. PLAYER-FACING DELIVERY
 
 The preferred presentation remains indirect unless a later campaign deliberately makes the Louisiana operation playable.
 
@@ -153,6 +197,9 @@ Possible delivery channels include:
 - intelligence assessments linking refusals to earlier clandestine activity;
 - Venezuelan military communiques claiming temporary success or orderly redeployment;
 - captured coalition logistics records showing the contingent's shortages;
+- fuel manifests and financial records showing continued Venezuelan support after withdrawal;
+- cyber-attribution reports or compromised infrastructure logs;
+- contractor, mercenary, or proxy personnel records showing limited Venezuelan-backed participation;
 - Coast Guard, National Guard, military, port-authority, or local-defense after-action fragments;
 - maps showing an attempted Louisiana lodgment that contracts and disappears;
 - abandoned Venezuelan equipment or munitions provenance;
@@ -161,7 +208,7 @@ Possible delivery channels include:
 
 No single collectible should provide an omniscient complete account. American, Venezuelan, coalition, local, and postwar interpretations may conflict while preserving the locked outcome.
 
-10. NARRATIVE AND GEOGRAPHIC SAFEGUARDS
+12. NARRATIVE AND GEOGRAPHIC SAFEGUARDS
 
 The following rules are controlling:
 
@@ -169,15 +216,18 @@ The following rules are controlling:
 - Do not assign the same motive, degree of hostility, or form of noncooperation to every government.
 - Do not treat humanitarian neutrality as equivalent to joining the invasion.
 - Venezuela is an active coalition belligerent in the Louisiana operation.
+- Place the operation after Game 1 and before Game 2; do not invent an exact date or narrower sequence without a later source.
 - The Venezuelan force fails to establish an adequate durable foothold.
 - Venezuela withdraws its forces from United States soil and the relevant Louisiana coastal waters.
+- Venezuela remains supportive of the coalition after withdrawal through indirect and materially constrained assistance.
 - Do not depict a permanent Venezuelan occupation zone in Louisiana unless a later explicit owner decision supersedes this source.
+- Do not interpret withdrawal as political neutrality, defection, surrender, or termination of all Venezuelan coalition support.
 - Do not automatically place the operation in New Orleans, Baton Rouge, the Mississippi River mouth, Lake Charles, or any other exact site without a later geography source.
 - Do not invent an operation title, exact date, commander, unit roster, ship list, casualty figure, or decisive battle.
 - Do not make China the author of the Venezuelan intervention by default. China's later exploitation remains part of its separate strategic agenda.
-- Do not imply that Venezuela's withdrawal automatically removes every Venezuelan relationship with the coalition elsewhere.
+- Do not bind the event to Semper Fi unless a later dedicated source makes that placement definitive.
 
-11. RELATIONSHIP TO THE CRITICAL-MINERALS SHADOW-CONTEST SOURCE
+13. RELATIONSHIP TO THE CRITICAL-MINERALS SHADOW-CONTEST SOURCE
 
 This page is a country-specific extension of:
 
@@ -195,11 +245,13 @@ This page controls:
 
 - state-level noncooperation after PANDORA;
 - the connection between that noncooperation and earlier American clandestine aggression;
-- Venezuela's direct Louisiana intervention;
+- Venezuela's direct Louisiana intervention in the Game 1-to-Game 2 interval;
 - the failure and withdrawal outcome;
-- the correction to overly generalized coalition-retention language.
+- Venezuela's continuing indirect coalition support after withdrawal;
+- the correction to overly generalized coalition-retention language;
+- Semper Fi as a possible but unconfirmed depiction path.
 
-12. OPEN DEVELOPMENT FIELDS
+14. OPEN DEVELOPMENT FIELDS
 
 Still open:
 
@@ -207,6 +259,7 @@ Still open:
 - the exact timing and diplomatic sequence of American requests;
 - whether any governments reverse or soften their refusal later;
 - Venezuela's exact coalition agreement and war aims;
+- the exact point inside the Game 1-to-Game 2 interval;
 - the exact Louisiana operational area;
 - participating Venezuelan units, vessels, aircraft, proxies, and commanders;
 - the force that defeats, contains, or outlasts the Venezuelan landing effort;
@@ -214,6 +267,8 @@ Still open:
 - withdrawal route and losses;
 - American, coalition, Venezuelan, and civilian casualty figures;
 - domestic Venezuelan political consequences;
-- any playable mission, DLC, collectible set, or later historical retelling.
+- exact post-withdrawal fuel, financing, cyber, mercenary, intelligence, and facilitation mechanisms;
+- whether, where, and how the event appears in Semper Fi;
+- any other playable mission, collectible set, or later historical retelling.
 
 These fields may be developed without reopening the locked strategic result by default.
