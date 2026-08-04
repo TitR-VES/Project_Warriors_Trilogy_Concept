@@ -1,0 +1,197 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — TRUMPETBUSH MANOR EXTERIOR REFERENCE AND ISOMETRIC RECONSTRUCTION BRIEF
+Generated: 2026-08-04
+Version: rev1
+Status: LANDED ON PR BRANCH / SOURCE-READY / ISOMETRIC CONCEPT ART OPEN
+
+AUDIT PURPOSE
+
+Verify that the eight owner-supplied street-level and aerial safehouse-building images
+have been converted into a durable exterior-reference source without copying screenshot
+interface artifacts, displacing the controlling COME FLY WITH ME geography, or treating
+an image-based reconstruction as measured architecture.
+
+LANDED SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/visual_references/
+  PW_COME_FLY_WITH_ME_Trumpetbush_Manor_Exterior_Reference_and_Isometric_Reconstruction_Brief_2026-08-04_rev1.txt
+
+RELATED ACTIVE BLOCKOUT
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/visual_references/
+  PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Canon_Floorplan_Draft_D_2026-08-04_rev1.svg
+
+ATTACHMENT CHECK
+
+PASS — all eight exact owner-supplied files are represented by filename, detected
+format, dimensions, SHA-256 hash, and a restrained working description.
+
+1. 1000010155.jpg
+   - JPEG
+   - 1536 x 468
+   - SHA-256: e984438995633960f1ffee5e58a3b783253c9f35bd72f4d90a77abe3c8f4fa87
+
+2. 1000010153.jpg
+   - JPEG
+   - 1468 x 1536
+   - SHA-256: e06b2378f05a4674951f7d185f2b18a5d6aa9788658382056be085311f6eff8c
+
+3. 1000010149.jpg
+   - JPEG
+   - 1536 x 1470
+   - SHA-256: e03fbbf2d3d015e7d587be1bbb23a897546318bfd7b92906dfef4c8a39d5b86b
+
+4. 1000010146.jpg
+   - JPEG
+   - 1536 x 697
+   - SHA-256: 0dd92b041f096efe349b11ae62bdcebe617a49a2d5e01111f85926cd8fbad070
+
+5. 1000010150.jpg
+   - JPEG
+   - 1536 x 616
+   - SHA-256: f50f00af61264e0e0a1246966a1258908cde16dda11ab72d5616f57bce44272d
+
+6. 1000010147.jpg
+   - JPEG
+   - 1536 x 695
+   - SHA-256: 264615ff5199e168721b1fd8d6a341e3b15aa9a96be4721d30513933cf7dbc15
+
+7. 1000010148.jpg
+   - JPEG
+   - 1536 x 771
+   - SHA-256: 3cac5ee61e8d721d1c78e13c408a047a115b7390daa063d08035eae74cf7c294
+
+8. 1000010156.jpg
+   - JPEG
+   - 1536 x 802
+   - SHA-256: 7cecda3cb62ea7e2af22b867469b8544c2cf9d8c133ecb94f85597f2c18891ec
+
+PASS — the aerial image is treated as broad footprint/context evidence only and is not
+used to invent exact dimensions.
+
+PASS — the multiple street views are retained as separate angle and facade studies
+rather than collapsed into one generic exterior description.
+
+OWNER-DIRECTION CHECK
+
+PASS — the source records the owner-identified real reference as Trumpetbush Manor on
+the northwestern corner of King Street and Market Street in Christiansted, St. Croix,
+USVI.
+
+PASS — the in-game location is described as based on that building rather than forced
+to reproduce its real name or signage in player-facing art.
+
+PASS — the owner's instruction to disregard Google Street View labels and device UI is
+explicitly carried forward.
+
+AUTHORITY CHECK
+
+PASS — the existing KML and mission-geography source remain authoritative for mission
+coordinate, macro orientation, route to the street, SUV departure, and objective flow.
+
+PASS — safehouse floor-plan Draft D remains authoritative for the current gameplay
+blockout, circulation, room relationships, ready-room shape, kitchen wet-core logic,
+right-facade windows, balcony function, and companion navigation.
+
+PASS — the eight screenshots control visual language, broad exterior massing, facade
+rhythm, roof character, street grade, service-yard identity, and weathering only.
+
+PASS — hidden dimensions, unseen structure, stairs, roof framing, drainage, and exact
+interior-to-exterior alignment remain open.
+
+PASS — the existing lock that Victor Two Bravo occupies the right-hand second-floor
+portion when the primary long facade is viewed from the street is preserved.
+
+ARCHITECTURAL EXTRACTION CHECK
+
+PASS — the source extracts the following supported cues:
+
+- elongated two-story corner mass;
+- shallow hipped sheet-metal roof;
+- deep ground-floor arcade with repeated bays and thick piers;
+- continuous upper gallery with tall openings and simple balustrade panels;
+- louvered ventilation band beneath the eaves;
+- shuttered upper windows;
+- weathered pale teal/blue body with white trim;
+- more utilitarian timber-clad side and plain rear treatment;
+- exterior steps, meters, conduit, service boxes, and drainage;
+- strong side-street grade change;
+- compact chain-link rear service court with bins, plants, and utility equipment;
+- dense adjacent historic street fabric and tropical hillside context.
+
+PASS — no exact bay count, building dimension, roof pitch, floor height, structural
+span, or measured survey claim is introduced.
+
+PASS — the central projecting box/sign is treated as a useful but fictionalizable
+feature rather than an untouchable real-world branding element.
+
+ISOMETRIC-BRIEF CHECK
+
+PASS — the source defines the first isometric as an exterior concept reconstruction and
+massing aid, not a survey drawing.
+
+PASS — the preferred view shows the long facade, uphill side, roof, rear service court,
+and immediate street context in one elevated three-quarter axonometric view.
+
+PASS — a complete ready-to-use image prompt is included.
+
+PASS — the prompt requires independently authored geometry and materials and excludes
+Google UI, map pins, postal-service text, status icons, readable plates, copied signs,
+and photomontage.
+
+PASS — the first render remains exterior-only. A separate later roof-off/cutaway option
+may reconcile the accepted shell with Draft D without silently modifying the floor plan.
+
+PROVENANCE AND RIGHTS CHECK
+
+PASS — the source recognizes the screenshots as Google Street View / map captures with
+visible third-party platform and device artifacts.
+
+PASS — the public repository stores exact metadata, hashes, and production findings but
+not the screenshot binaries.
+
+PASS — the original screenshots are directed to a private or appropriately licensed
+production-reference library.
+
+PASS — final models, materials, textures, renders, and game assets must be independently
+authored.
+
+PASS — real name, exact address text, postal-service label, vehicle plates, incidental
+signage, and UI artifacts are not automatically authorized for player-facing use.
+
+CONTINUITY CHECK
+
+PASS — no mission objective, guard state, office branch, radio behavior, aircraft
+identity, surveillance route, or East McFarlane handoff is changed.
+
+PASS — the new exterior source complements rather than supersedes the earlier interior
+visual-direction source.
+
+PASS — Draft D remains a gameplay blockout rather than being misrepresented as the
+measured interior of the real building.
+
+OPEN ITEMS
+
+- merge and accept PR #71 or carry the source into a successor branch;
+- confirm exterior orientation against the controlling KML;
+- estimate production dimensions through legitimate proportional study if required;
+- reconcile the Draft D facade windows, balcony openings, and rear exit with the shell;
+- design side/rear stairs and the apartment-to-street route;
+- produce the first exterior isometric concept reconstruction;
+- produce an optional reverse view and later roof-off cutaway;
+- create modular Unreal Engine 5 facade, roof, shutter, railing, utility, and material
+  kits;
+- validate balcony-to-SUV sightline, companion navigation, collision, accessibility,
+  lighting, streaming, and performance;
+- retain sufficient fictionalization in final Project Warriors art.
+
+AUDIT RESULT
+
+PASS.
+
+The eight supplied building screenshots are durably recorded as a controlled exterior
+reference set, the Google/device artifacts are explicitly excluded, the existing
+mission and floor-plan authority remain intact, and the repo now contains a practical
+brief for a future isometric reconstruction.
+
+END
