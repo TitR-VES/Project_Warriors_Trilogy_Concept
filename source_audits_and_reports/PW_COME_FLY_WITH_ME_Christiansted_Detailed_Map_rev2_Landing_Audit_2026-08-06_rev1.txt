@@ -1,0 +1,173 @@
+PROJECT WARRIORS — SOURCE UPDATE AUDIT
+COME FLY WITH ME — CHRISTIANSTED DETAILED MAP REV2 LANDING
+Generated: 2026-08-06
+Version: rev1
+Status: OWNER KML REVIEWED / NORMALIZED LAYER PACKAGE / PR #71 EXTENSION
+
+SCOPE
+
+Review the owner's expanded COME FLY WITH ME KML, identify the 2026-08-06 delta,
+and land a maintainable detailed level-design map package plus a durable authority and
+production-use source.
+
+SOURCE ARTIFACT
+
+- File: COME FLY WITH ME Spook Game 1 campaign pre-finale.kml
+- SHA-256: 29611abd90c2781f1aa0bb435bd7a8a045b12e20bfcc5aa511a0c198b10b7c08
+- Size: 202,339 bytes
+- Parsed placemarks: 101
+- Points: 69
+- Polygons: 27
+- Line strings: 5
+- Named folders in owner file: 3
+
+DELTA FROM THE PRECEDING DETAILED OWNER MAP
+
+The preceding detailed KML contained 90 placemarks. The updated file adds eleven:
+
+1. 2nd floor safehouse apartment footprint — polygon
+2. safehouse back yard footprint — polygon
+3. Front door to safehouse from the street — point
+4. safehouse apartment rear exit to backyard area — point
+5. safehouse backyard to street access gate — point
+6. stair access to the safehouse backyard area — point
+7. Safehouse to beach-side observation location — line string
+8. pre-infiltration observation spot to staging area player movement route — line string
+9. staging area to mission starting point player and team foot transit route — line string
+10. flight path to east McFarlane island — line string
+11. Southwestern cove boat launch access point to east MacFarlane Island — point
+
+OWNER CLARIFICATION CAPTURED OUTSIDE THE RAW PLACEMARK TEXT
+
+- The close pre-operational staging marker is the Bayside Kitchen parking lot.
+- The safehouse overlays are intended to orient the apartment interior relative to the
+  exterior building shell, not to replace the current gameplay floorplan.
+- The macro sequence is safehouse -> western beach observation -> Bayside Kitchen
+  staging -> final on-foot west-gate approach -> playable infiltration.
+
+ROUTE VALIDATION
+
+Approximate lengths calculated from the owner-drawn line strings:
+
+- safehouse to western observation: 958.86 m
+- observation to Bayside Kitchen staging: 412.80 m
+- staging to infiltration start: 155.21 m
+- north-jetty berth to East McFarlane cove: 63,472.40 m / 39.44 mi
+
+These values are spline measurements for production scoping and are not final
+road-centerline, navmesh, marine-chart, or aviation-procedure distances.
+
+SAFEHOUSE GEOMETRY VALIDATION
+
+The KML adds:
+
+- an approximate second-floor apartment shell polygon;
+- an approximate backyard/service-court polygon;
+- street-front, rear-exit, yard-gate, and backyard-stair anchors.
+
+The KML polygons remain top-down orientation guides. Draft E remains controlling for
+gameplay room adjacency and interior circulation. The Trumpetbush Manor exterior
+reference remains controlling for facade, roof, gallery, arcade, rear-service-court,
+material, and street-context visual language.
+
+NORMALIZATION DECISION
+
+The original owner KML carries extensive Google Earth style payload, external icon
+references, HTML-heavy descriptions, typographical errors, duplicated generic labels,
+and some older mission wording that is already superseded by dedicated durable
+sources.
+
+The repository therefore lands a normalized linked-layer package rather than treating
+all imported placemark prose as new canon:
+
+- one master KML;
+- one 69-point KML layer;
+- one 27-polygon KML layer;
+- one 5-line-string route layer;
+- one durable authority and macro-transit source page.
+
+The normalized geometry package preserves all 101 owner-drawn geometries. Dedicated
+mission sources continue to control guard count, security logic, office branches,
+aircraft identity, objective flow, and other narrative/gameplay wording.
+
+ARTIFACTS ADDED
+
+1. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+   PW_COME_FLY_WITH_ME_Christiansted_Detailed_Map_and_Macro_Transit_Extension_2026-08-06_rev1.txt
+
+2. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+   COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Master.kml
+
+3. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+   COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Points.kml
+
+4. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+   COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Areas.kml
+
+5. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+   COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Routes.kml
+
+6. source_audits_and_reports/
+   PW_COME_FLY_WITH_ME_Christiansted_Detailed_Map_rev2_Landing_Audit_2026-08-06_rev1.txt
+
+SOURCE HIERARCHY RESULT
+
+- Dedicated COME FLY WITH ME text sources remain controlling for canon and encounter
+  logic.
+- The rev2 linked KML package controls the latest owner-mapped detailed geometry and
+  route placement.
+- Draft E controls safehouse gameplay room layout.
+- The KML safehouse polygon and access points control exterior-shell orientation and
+  top-down anchor placement.
+- Trumpetbush Manor visual sources control exterior appearance.
+- Existing SINS OF OUR FATHERS sources control the destination mission after the shared
+  East McFarlane landing handoff.
+- The earlier 21-point normalized map remains provenance and compact orientation only;
+  it is superseded by rev2 for detailed geometry and routes.
+
+VALIDATION
+
+- XML parse: passed
+- Total placemarks: 101
+- Geometry count sum: 101
+- New-feature delta: 11
+- Point-layer feature count: 69
+- Area-layer feature count: 27
+- Route-layer feature count: 5
+- Safehouse apartment polygon present: yes
+- Safehouse backyard polygon present: yes
+- Four safehouse access/circulation anchors present: yes
+- Safehouse-to-observation route present: yes
+- Observation-to-staging route present: yes
+- Staging-to-infiltration route present: yes
+- North-jetty-to-East-McFarlane flight path present: yes
+- Southwestern-cove access point present: yes
+- Bayside Kitchen staging identity captured: yes, in durable source
+- Existing mission-canon sources preserved as controlling: yes
+- Source-ready status: yes
+- Production-ready status: no
+
+OPEN RISKS
+
+- The safehouse shell and Draft E have not yet been tested together at true scale in a
+  3D blockout.
+- The KML altitude values on individual access points are Google Earth placement data,
+  not validated building-floor elevations.
+- The route lines do not lock traffic, parking, civilian density, road access, or exact
+  player-control boundaries.
+- The flight line does not lock aviation procedure, altitude, engine-off point, or
+  playable-flight scope.
+- The destination endpoint should be checked against the latest SINS OF OUR FATHERS
+  KML before production lock.
+- The original owner KML remains the exact high-detail source artifact and should be
+  retained in the owner's controlled reference library using the recorded hash.
+
+RESULT
+
+The 2026-08-06 KML update is now captured as a durable map-and-source package on PR
+#71. The landing materially improves future safehouse shell reconciliation, transition
+planning, road and foot approach design, compound greyboxing, security/visibility
+implementation, north-jetty departure composition, and East McFarlane handoff
+continuity.
+
+END
