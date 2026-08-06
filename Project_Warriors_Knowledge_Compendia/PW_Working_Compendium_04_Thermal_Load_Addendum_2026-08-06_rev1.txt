@@ -1,0 +1,46 @@
+PROJECT WARRIORS — WORKING COMPENDIUM 04 THERMAL-LOAD ADDENDUM
+Generated: 2026-08-06
+Version: rev1
+Status: focused working-knowledge addendum / not a full compendium replacement
+
+PURPOSE
+Surface the August 6 sustained-automatic-fire and weapon-heat design in the Gameplay / Weapons / Style knowledge layer without rewriting the full rev6 compendium.
+
+CONTROLLING SOURCE
+- dev_src_docs/gameplay_mechanics/PW_Sustained_Automatic_Fire_Thermal_Load_and_Barrel_Management_2026-08-06_rev1.txt
+
+RELATED SOURCES
+- dev_src_docs/gameplay_mechanics/PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+- dev_src_docs/gameplay_mechanics/PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+
+================================================================================
+GAMEPLAY / WEAPONS / STYLE — THERMAL-LOAD ADDENDUM
+================================================================================
+
+- Select-fire weapons accumulate continuous, platform-specific thermal load; the system does not use a flat “one penalty per dumped magazine” counter.
+- Sustained automatic fire and repeated reload–magdump cycles raise heat much faster than disciplined semi-automatic fire or short bursts.
+- Progressive heat consequences include physical dispersion, optic mirage, degraded recoil recovery, increased plausible stoppage risk, and only at extreme platform-specific states cyclic irregularity, component failure, runaway behavior, or cook-off.
+- Heat state persists through reloads, weapon switches, mounting, dropping, and handoffs. Cooling occurs continuously while the weapon is not firing; reloading alone does not reset heat.
+- Transient thermal penalties clear after sufficient cooling. Any permanent wear/damage remains a separate condition system.
+- Suppressors accelerate and retain heat during sustained fire and may add backpressure, mirage, glow, visual-signature, handling, degradation, or failure consequences where the specific weapon/device supports them.
+- Cook-off is rare and platform-specific, especially relevant to a live round left chambered in a critically overheated closed-bolt weapon. Open-bolt support weapons mitigate that particular risk but remain vulnerable to other heat failures.
+- LMGs, GPMGs, HMGs, and other support weapons receive weapon-appropriate higher thermal capacity, heavier barrels, open-bolt behavior, and sustained-fire doctrine; they are not heat-immune.
+- Appropriate machine guns may use a vulnerable quick-change-barrel interaction when a compatible spare barrel is actually available. A barrel change cools the barrel state, not the entire receiver, feed system, gas system, suppressor, or heat-soaked assembly.
+- The mechanic must preserve legitimate full-auto use for emergency close contact, ambush breaking, room/vehicle fights, and suppression. It punishes abuse, not automatic fire itself.
+- Feedback should remain animation-, audio-, inspect-, and behavior-led. Standard difficulty may use restrained WEAPON HOT / HOLD FIRE / CHANGE BARREL cues; maximum realism relies more heavily on physical observation.
+- NPCs follow the same broad rules. Low-discipline enemies may overfire; trained and elite forces use bursts, rotate weapons, change barrels, or disengage before critical heat.
+
+OPEN PRODUCTION FIELDS
+- exact weapon-family thermal coefficients and thresholds
+- exact cooling and environmental modifiers
+- final barrel inventory and assistant-gunner rules
+- final catastrophic-failure frequency
+- final UI/accessibility exposure
+- permanent wear support outside authored cases
+
+MILESTONE REFRESH NOTE
+Fold this addendum into the next full Gameplay / Weapons / Style compendium refresh after owner adjudication and production-value decisions are stable.
+
+================================================================================
+END
+================================================================================
