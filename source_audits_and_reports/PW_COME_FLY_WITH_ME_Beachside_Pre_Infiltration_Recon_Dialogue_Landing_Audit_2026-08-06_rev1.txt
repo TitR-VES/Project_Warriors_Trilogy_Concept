@@ -24,11 +24,12 @@ Commit:
 
 Branch:
 
-agent/cfim-safehouse-floorplan-draft-a
+PR #71 head branch. The technical branch slug predates the CFWM abbreviation lock and
+must not be reused as mission terminology or as the naming pattern for future branches.
 
 Pull request:
 
-PR #71 — Update COME FLY WITH ME safehouse, detailed map, and mission routes
+PR #71 — Update COME FLY WITH ME safehouse, map, routes, and recon dialogue
 
 OWNER INPUT CAPTURED
 
@@ -160,6 +161,17 @@ The new material is landed in dev_src_docs as a durable mission source rather th
 being authored only in a synthesis document or left as an untracked conversation
 fragment. This audit records the landing state in source_audits_and_reports.
 
+11. ABBREVIATION DISCIPLINE
+
+PASS AFTER CORRECTION.
+
+- COME FLY WITH ME may be shortened only to CFWM in uppercase prose or cfwm in a
+  lowercase technical slug.
+- CFIM remains reserved exclusively for the Counter-Forensic Identification Module
+  used by the War Wolves as part of their CogniConnect stack.
+- No mission source, synthesis title, filename, package label, or future branch name
+  may use CFIM/cfim as shorthand for COME FLY WITH ME.
+
 SCOPE DECISION
 
 No full working-compendium refresh is created for this isolated dialogue beat in this
@@ -186,6 +198,8 @@ LANDED / SOURCE-READY WORKING LOCK.
 
 The owner-developed beat is safely represented in the durable COME FLY WITH ME source
 stack. It strengthens setup for the manager-office sequence, preserves all established
-mission branches, and introduces no identified canon or migration conflict.
+mission branches, and introduces no identified canon or migration conflict. The CFWM
+abbreviation rule is now explicit and the War Wolves-only CFIM term remains protected
+from mission-title shorthand collision.
 
 END
