@@ -1,0 +1,116 @@
+PROJECT WARRIORS — SOURCE / TERMINOLOGY AUDIT
+COME FLY WITH ME — CFWM ABBREVIATION AND CFIM DISAMBIGUATION
+Generated: 2026-08-06
+Version: rev1
+Status: GOVERNANCE / CORRECTION AUDIT
+
+PURPOSE
+
+Verify the owner correction that COME FLY WITH ME must use CFWM/cfwm as its only
+abbreviated form, while CFIM remains reserved for the War Wolves' Counter-Forensic
+Identification Module.
+
+================================================================================
+CONTROLLING SOURCE
+================================================================================
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+PW_COME_FLY_WITH_ME_CFWM_Abbreviation_and_CFIM_Disambiguation_Lock_2026-08-06_rev1.txt
+
+Authority result:
+
+- CFWM = COME FLY WITH ME;
+- cfwm = lowercase technical form for the mission;
+- CFIM = Counter-Forensic Identification Module;
+- mission and implant namespaces must remain separate.
+
+================================================================================
+CORRECTIONS APPLIED
+================================================================================
+
+1. SYNTHESIS FILENAME
+
+Superseded:
+
+PW_Diegetic_Audio_Devices_and_[module-acronym]_Office_Penetration_Addendum_2026-08-03_rev1.txt
+
+Current:
+
+PW_Diegetic_Audio_Devices_and_CFWM_Office_Penetration_Addendum_2026-08-03_rev1.txt
+
+The file content is unchanged; only the mistaken mission shorthand in the path is
+corrected.
+
+2. CLOSEOUT STAGING DIRECTORY
+
+The COME FLY WITH ME closeout staging directory now uses:
+
+incoming_patches_and_updates/PW_CFWM_Closeout_Landing_v1/
+
+The contained named-weapon source retains its original blob identity. This is a path
+correction, not a content rewrite.
+
+3. RADIO / OFFICE SOURCE AUDIT
+
+The radio-interaction and office-firefight audit now points to the CFWM synthesis
+filename.
+
+4. BEACHSIDE RECON DIALOGUE AUDIT
+
+The beachside-dialogue audit now records the abbreviation rule and treats the active
+PR's pre-lock technical branch slug as a historical artifact rather than approved
+terminology.
+
+================================================================================
+LEGITIMATE CFIM MATERIAL PRESERVED
+================================================================================
+
+No blind replacement was performed.
+
+CFIM remains valid in sources concerning:
+
+- War Wolves;
+- CogniConnect implant stacks;
+- terminal counter-forensic detonation;
+- CRIMSON ONE, CRIMSON TWO, and CRIMSON THREE;
+- East McFarlane technical and encounter continuity;
+- later investigation of the Counter-Forensic Identification Module.
+
+Those references are not mission-title abbreviations and remain unchanged.
+
+================================================================================
+HISTORICAL REPOSITORY ARTIFACTS
+================================================================================
+
+Older commit messages, closed PR text, and branch refs may retain superseded shorthand
+because they are immutable or historical metadata. They do not control current naming.
+
+Future source pages, filenames, folders, branches, issues, PRs, Unreal identifiers, and
+production labels must use CFWM/cfwm for COME FLY WITH ME.
+
+================================================================================
+VALIDATION
+================================================================================
+
+PASS:
+
+- corrected synthesis path exists on the active branch;
+- superseded synthesis path no longer exists on the active branch;
+- corrected closeout staging path exists on the active branch;
+- superseded closeout staging path no longer exists on the active branch;
+- the controlling terminology source exists in dev_src_docs;
+- the supporting audit exists in source_audits_and_reports;
+- legitimate CFIM technical canon remains untouched.
+
+================================================================================
+RESULT
+================================================================================
+
+CORRECTED / SOURCE-READY.
+
+COME FLY WITH ME now uses CFWM/cfwm as its protected abbreviated form. CFIM remains
+exclusively the Counter-Forensic Identification Module term. The active branch includes
+both the durable naming lock and the first source-facing path corrections required by
+that lock.
+
+END
