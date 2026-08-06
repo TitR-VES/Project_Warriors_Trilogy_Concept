@@ -1,0 +1,273 @@
+PROJECT WARRIORS — SUSTAINED AUTOMATIC FIRE, THERMAL LOAD, AND BARREL MANAGEMENT
+Generated: 2026-08-06
+Version: rev1
+Status: OWNER-DIRECTED PROPOSED DESIGN SOURCE — IMPLEMENTATION VALUES OPEN
+
+PURPOSE
+Document a weapon-heat gameplay layer that discourages habitual reload–magdump–repeat behavior without making automatic fire useless. The system should reward controlled bursts, fire discipline, weapon-role awareness, and deliberate cooling or barrel-management decisions.
+
+This page supplements:
+- PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+- PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+- current ammo-management, weapon-inspection, attachment, and first-person animation sources
+
+AUTHORITY / CONTINUITY
+- Later explicit owner adjudication controls.
+- Existing malfunction design remains controlling: heat, sustained fire, and suppressor backpressure are plausible risk sources; pristine weapons do not receive an equal random failure chance on every shot.
+- Persistent physical weapon state remains controlling. Reloading, switching weapons, dropping a weapon, entering a vehicle, or handing the weapon to another actor does not erase stored heat.
+- Exact temperatures, thresholds, timing, durability values, animation lengths, and platform coefficients remain production work.
+
+================================================================================
+01. CORE DESIGN LOCK
+================================================================================
+
+RECOMMENDED LOCK
+Select-fire weapons accumulate thermal load from firing. Sustained automatic fire raises heat much faster than disciplined semi-automatic fire or short bursts. As heat crosses weapon-specific thresholds, the firearm becomes progressively less controllable, less precise, and more prone to heat-related stoppages or severe failure states.
+
+The system exists to discourage constant pray-and-spray or reload–magdump–repeat play. It must still preserve legitimate automatic-fire use:
+- close-range emergency action
+- breaking an ambush
+- short violent room-entry or vehicle-contact windows
+- suppression by weapons designed and supplied for that role
+- rare authored moments where sustained output is tactically justified
+
+The game should punish abuse of automatic fire, not the existence of automatic fire.
+
+================================================================================
+02. THERMAL LOAD, NOT A MAGAZINE COUNTER
+================================================================================
+
+RECOMMENDED LOCK
+The simulation tracks accumulated thermal load rather than applying a flat penalty for each magazine emptied.
+
+A magazine-based shorthand is too coarse because heat depends on:
+- ammunition count and cartridge energy
+- cyclic rate
+- burst length and spacing
+- barrel mass and profile
+- operating system and action type
+- open-bolt or closed-bolt behavior
+- suppressor, muzzle device, and gas setting
+- ambient temperature, wind, rain, snow, and water exposure
+- whether the barrel, suppressor, receiver, or feed system was already hot
+
+The player may experience the pattern as “each consecutive magdump is worse,” but the underlying state should remain continuous and weapon-specific.
+
+COOLING RULE
+Heat decays continuously whenever the weapon is not firing. A longer pause cools more than a brief trigger release. Reloading alone is not a reset.
+
+Transient heat penalties disappear when the relevant components cool below their thresholds. Permanent wear or damage, if implemented, is a separate weapon-condition layer and should not be silently repaired by cooling.
+
+================================================================================
+03. PROGRESSIVE HEAT STATES
+================================================================================
+
+Exact labels do not need to appear in the HUD. They are design states for implementation.
+
+STATE 0 — NORMAL
+- normal accuracy and dispersion for the weapon and shooter state
+- normal cyclic behavior
+- baseline malfunction risk based on condition, ammunition, environment, and magazine/feed state
+
+STATE 1 — WARM
+- subtle barrel/suppressor heat cues
+- mild heat mirage through magnified optics where physically relevant
+- slightly slower recovery during long automatic strings
+- no dramatic hidden penalty
+
+STATE 2 — HOT
+- increased mechanical dispersion and degraded practical grouping
+- more pronounced muzzle climb and slower recoil recovery during automatic fire
+- increased probability of plausible heat-related stoppages
+- stronger mirage, smoke, odor, discoloration, or glow cues where appropriate
+- suppressor signature and handling consequences become more noticeable
+
+STATE 3 — CRITICAL
+- severe practical accuracy degradation during continued fire
+- weapon-specific cyclic inconsistency, short-stroking, feed disruption, or reduced reliability may occur
+- the player is strongly encouraged to cease fire, transition weapons, cool the system, or change barrels where supported
+- severe heat can create platform-specific danger states, including runaway behavior, component failure, or a chambered-round cook-off
+
+STATE 4 — FAILURE / UNSAFE
+Rare and difficult to reach outside deliberate abuse, specialist support-weapon use, or authored high-intensity sequences.
+- weapon may become temporarily or permanently hard-disabled
+- suppressor, barrel, gas-system, handguard, feed, or other component may fail according to platform
+- a chambered round may ignite without a normal trigger press on susceptible closed-bolt systems
+- the game must not treat every weapon as having the same catastrophic endpoint
+
+================================================================================
+04. ACCURACY AND HANDLING CONSEQUENCES
+================================================================================
+
+RECOMMENDED LOCK
+Heat should not create arcade “random bloom” detached from the weapon. Consequences should be expressed through physical and readable causes:
+- barrel and component temperature increasing dispersion
+- optic mirage degrading target clarity
+- shooter discomfort or altered grip on exposed hot surfaces
+- harsher recoil recovery during extended strings
+- weapon-specific gas or cycling irregularity
+
+The first rounds of a controlled burst should remain useful. The main loss of precision should emerge when the player insists on holding the trigger or repeatedly resumes fire before the weapon has recovered.
+
+Semi-automatic fire and short bursts should be the most heat-efficient default for rifles, carbines, SMGs, and PDWs. Burst length should remain a tactical choice rather than a universal fixed optimum.
+
+================================================================================
+05. MALFUNCTION AND SEVERE-FAILURE INTEGRATION
+================================================================================
+
+THERMAL RISK
+Heat modifies the existing malfunction-state model; it does not create a separate arcade jam lottery.
+
+At elevated heat, plausible outcomes may include:
+- failure to feed or return fully into battery
+- extraction/ejection problems
+- magazine, belt, link, or feed-cover disruption on support weapons
+- gas-system or cycling inconsistency
+- suppressor- or ammunition-related backpressure problems
+- platform-specific component failure
+
+COOK-OFF RULE
+Cook-off is an extreme, platform-specific consequence, not a common generic penalty.
+- most relevant when a live round remains chambered in a severely overheated closed-bolt weapon
+- may cause an unintended discharge even without a trigger press
+- direction follows the actual muzzle orientation
+- safety, selector position, and trigger discipline do not guarantee prevention once the cartridge is heat-ignited
+- open-bolt support weapons reduce this particular risk by not normally leaving a round chambered between bursts, though they remain vulnerable to other heat failures
+
+RATE-OF-FIRE RULE
+A dropped or inconsistent cyclic rate is allowed only where the platform and failure mode support it. Do not apply one universal “slow fire” penalty to all hot weapons.
+
+NPC PARITY
+Allied and enemy weapons should obey the same broad heat logic where simulation scope permits. Low-discipline enemies may overfire and create their own stoppages. Trained troops and elite enemies should use burst discipline, rotate weapons, change barrels, or break contact before reaching critical heat.
+
+================================================================================
+06. SUPPRESSOR INTERACTION
+================================================================================
+
+RECOMMENDED LOCK
+Suppressors accelerate and retain thermal load during sustained fire. They should make prolonged automatic fire materially less sustainable.
+
+POSSIBLE CONSEQUENCES
+- faster transition into HOT and CRITICAL states
+- stronger heat mirage through optics
+- visible glow in low light at severe temperatures
+- increased backpressure-related fouling and cycling stress on relevant platforms
+- temporary handling hazard during attachment changes
+- suppressor degradation or failure under extreme abuse where supported by the specific device
+
+A suppressor is not a universal reliability penalty during ordinary disciplined fire. The exacerbation should become meaningful when the player uses sustained automatic fire, unsuitable ammunition/settings, or an already overheated system.
+
+Low-light stealth consequence:
+A glowing or smoking suppressor can reveal recent firing and weaken the player’s visual concealment even when muzzle flash remains reduced.
+
+================================================================================
+07. MACHINE GUNS AND SUPPORT WEAPONS
+================================================================================
+
+ROLE DISTINCTION
+Light, medium, and heavy machine guns are designed to sustain more automatic fire than ordinary rifles, carbines, SMGs, or PDWs. They should receive:
+- higher thermal capacity where appropriate
+- heavier barrel profiles
+- open-bolt operation where applicable
+- more forgiving sustained-fire doctrine
+- weapon-specific feed and barrel-management logic
+
+They are not immune to heat.
+
+QUICK-CHANGE BARREL MECHANIC
+Appropriate machine guns may support an in-game barrel change when:
+- the weapon actually has a quick-change or crew-changeable barrel
+- a compatible spare barrel is carried or available
+- the player is in a physically credible position to perform the action
+- the current barrel is not blocked by damage or geometry
+
+The barrel change should be a vulnerable authored interaction, not an instant cooldown button.
+
+Possible prompts:
+- CHANGE BARREL
+- ORDER BARREL CHANGE
+- HOLD FIRE
+- COOL WEAPON
+
+BARREL-CHANGE STATE EFFECT
+Changing the barrel greatly reduces barrel-specific heat and restores much of the weapon’s sustained-fire capacity. It does not automatically cool:
+- receiver
+- chamber/feed area
+- gas system
+- suppressor or muzzle device
+- ammunition box/belt area
+- surrounding components already heat-soaked
+
+The newly installed barrel begins at its own stored temperature. A recently removed barrel remains dangerously hot and cannot be treated as ordinary inventory.
+
+CREW / SQUAD SUPPORT
+Some weapons may require or strongly benefit from an assistant gunner carrying the spare barrel, ammunition, heat-resistant equipment, or helping cover the change. This creates a squad-logistics distinction rather than giving every protagonist a universal spare barrel.
+
+================================================================================
+08. PLAYER FEEDBACK AND UI
+================================================================================
+
+RECOMMENDED LOCK
+The system should be readable primarily through weapon behavior, animation, audio, and visible condition.
+
+DIEGETIC CUES
+- increasing heat mirage
+- smoke, odor, discoloration, or glow where appropriate
+- changing mechanical cadence
+- hand repositioning or avoidance of hot surfaces
+- character bark or squad warning used sparingly
+- inspect animation revealing heat and condition cues
+- barrel/suppressor handling restrictions
+
+STANDARD DIFFICULTY
+May use a restrained contextual indication such as:
+- WEAPON HOT
+- HOLD FIRE
+- CHANGE BARREL
+
+No large arcade heat bar is required by default.
+
+MAXIMUM REALISM
+Relies primarily on physical cues, weapon knowledge, cadence, and inspection. Optional accessibility settings may expose a clearer thermal indicator without changing the underlying simulation.
+
+================================================================================
+09. DIFFICULTY AND BALANCE
+================================================================================
+
+LOWER DIFFICULTIES
+- slower heat accumulation
+- faster cooling
+- softer accuracy and malfunction consequences
+- clearer warning cues
+- catastrophic states strongly suppressed outside authored moments
+
+HIGHER / MAXIMUM REALISM
+- platform-authentic accumulation and cooling relationships
+- stronger suppressor and environment interaction
+- fewer explicit warnings
+- more meaningful stoppage and barrel-management consequences
+- thermal state persists through weapon switching, reloads, mounting, and handoffs
+
+Balance must preserve fun and readability. The mechanic should reward knowledge and discipline, not require memorizing hidden temperature values.
+
+================================================================================
+10. IMPLEMENTATION BOUNDARIES / OPEN PRODUCTION QUESTIONS
+================================================================================
+
+This page does not yet finalize:
+- exact per-platform thermal coefficients
+- exact burst lengths or round counts
+- precise temperature thresholds
+- full support-weapon barrel inventory rules
+- whether permanent barrel/suppressor wear is simulated outside authored states
+- final UI language and accessibility options
+- exact cook-off frequency and safeguards
+- complete NPC thermal-management behavior
+- animation time for barrel changes or hot-attachment handling
+
+PRODUCTION PRINCIPLE
+Use weapon families and authored data tables rather than one universal heat curve. The mechanic should make an assault rifle, suppressed PDW, belt-fed LMG, open-bolt GPMG, and heavy machine gun feel meaningfully different under sustained fire.
+
+================================================================================
+END
+================================================================================
