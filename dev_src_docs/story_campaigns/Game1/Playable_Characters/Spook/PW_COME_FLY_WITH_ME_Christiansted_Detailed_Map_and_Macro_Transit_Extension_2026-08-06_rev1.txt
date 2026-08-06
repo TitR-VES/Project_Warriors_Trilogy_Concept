@@ -65,13 +65,18 @@ Master:
 
 - maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Master.kml
 
-Layers:
+Primary layers:
 
 - maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Points.kml
 - maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Areas.kml
 - maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Routes.kml
 
-The three layer files preserve all 101 owner-drawn geometries. The companion source
+The area-layer master links two polygon sublayers:
+
+- maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Areas_01.kml
+- maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Areas_02.kml
+
+The linked package preserves all 101 owner-drawn geometries. The companion source
 pages, rather than imported placemark prose, control canon wording and mission logic.
 
 The earlier normalized 21-point map remains useful as a compact provenance snapshot,
@@ -112,16 +117,16 @@ These geometries are schematic owner-authored level-design reference. They are n
 surveyed cadastral, architectural, road-engineering, aviation-navigation, or marine-
 chart data.
 
-3. SAFEHOUSE DRAFT E
+3. SAFEHOUSE DRAFT F
 
-PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Canon_Floorplan_Draft_E_2026-08-06_rev1.svg
+PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Canon_Floorplan_Draft_F_2026-08-06_rev1.svg
 controls the current gameplay room arrangement, room adjacency, circulation logic,
 ready-room envelope, kitchen plumbing direction, windows, balcony relationship, and
 mission-trigger behavior.
 
 The KML apartment polygon controls where that gameplay blockout is oriented inside the
-real exterior shell. The KML does not silently redraw Draft E's internal walls, and
-Draft E does not silently move the exterior shell, front door, rear exit, backyard,
+real exterior shell. The KML does not silently redraw Draft F's internal walls, and
+Draft F does not silently move the exterior shell, front door, rear exit, backyard,
 yard gate, or stair anchors.
 
 4. EXTERIOR VISUAL SOURCES
@@ -168,7 +173,7 @@ future facade-to-floorplan reconciliation.
 
 PRODUCTION RULE
 
-The footprint and access anchors should be used to test Draft E against the exterior
+The footprint and access anchors should be used to test Draft F against the exterior
 shell in a 3D blockout. Any conflict must be resolved explicitly through a later
 floorplan or shell revision; production may not distort the shell or room program
 silently to make the overlays appear to agree.
@@ -260,7 +265,7 @@ labels in final gameplay. They are production overlays.
 OPEN PRODUCTION REQUIREMENTS
 ================================================================================
 
-- reconcile Draft E dimensions against the KML apartment shell in a true-scale 3D
+- reconcile Draft F dimensions against the KML apartment shell in a true-scale 3D
   blockout;
 - resolve vertical circulation between street, second-floor apartment, rear exit,
   backyard, and service gate;
