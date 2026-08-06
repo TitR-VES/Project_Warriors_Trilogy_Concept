@@ -1,0 +1,274 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — BEACHSIDE PRE-INFILTRATION RECON DIALOGUE BEAT
+Generated: 2026-08-06
+Version: rev1
+Status: OWNER-DEVELOPED DIALOGUE BEAT / SOURCE-READY WORKING LOCK
+
+PURPOSE
+
+Land the short Victor Two Bravo planning exchange that occurs during the western
+beachside observation phase of COME FLY WITH ME, before the team relocates to the
+close SUV staging point and begins the after-dark seaplane-base infiltration.
+
+The beat converts the mission's aircraft-acquisition requirement into a natural team
+conversation. It establishes that Victor Two Bravo needs an aircraft that is already
+fueled and ready to depart, identifies the aircraft keys as a separate access problem,
+and lets Spook propose the manager as the solution with restrained dark humor.
+
+RELATED CONTROLLING SOURCES
+
+- PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Ocean_Blue_Sky_Tours_FBA2C_Identity_and_Key_Bundle_Addendum_2026-08-03_rev1.txt
+- PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt
+
+AUTHORITY RULE
+
+- The Christiansted geography source controls the western beachside surveillance
+  position, compressed observation phase, close staging relocation, infiltration,
+  manager-office objective, north-jetty aircraft, and East McFarlane handoff.
+- The office sources control the unaware and alerted manager-office encounter variants.
+- The aircraft-and-key source controls Ocean Blue Sky Tours, the Found FBA-2C N272BT,
+  the complete key bundle, its location in each office variant, and Smoke as final
+  keyholder and pilot.
+- This source controls the beachside planning conversation and its dramatic function.
+- The exact Spook line defined below is protected wording.
+- Surrounding performance wording may be polished later provided the locked information,
+  role logic, rhythm, and response remain intact.
+
+PLACEMENT
+
+The beat occurs at the long-duration western beachside surveillance position.
+
+Preferred sequence:
+
+safehouse departure
+-> SUV arrival and concealment near the western beach observation point
+-> initial optics and routine identification
+-> passage-of-hours compression
+-> casual team review of the infiltration plan
+-> aircraft-readiness / key-access dialogue beat
+-> continued observation and final timing decision
+-> relocation to the close SUV staging point
+-> after-dark on-foot infiltration
+
+The conversation should happen after the team has watched the base long enough to
+understand its broad operating pattern, but before the final equipment transfer and
+movement to the west-gate approach.
+
+DRAMATIC FUNCTION
+
+The beat performs six jobs without becoming an exposition dump:
+
+1. It makes the mission goal concrete before infiltration begins.
+2. It distinguishes finding a usable aircraft from obtaining physical access to it.
+3. It gives Smoke a pilot-specific reason to foreground fuel and immediate readiness.
+4. It gives Tripper a security-and-access reason to identify the missing key problem.
+5. It lets Spook make the manager-office solution feel planned rather than improvised.
+6. It foreshadows the later manager confrontation and key recovery without revealing
+   whether the office will be reached quietly or under full alert.
+
+CHARACTER ROLE LOGIC
+
+SMOKE initiates the exchange.
+
+This is the strongest role assignment because Smoke will pilot the aircraft and is the
+team member most likely to reduce the requirement to practical airworthiness: the team
+needs a plane that is fueled, operational, and ready to leave immediately.
+
+TRIPPER identifies the key-access problem.
+
+This fits Tripper's role as the teammate most attentive to access, systems, security,
+and the difference between locating an asset and actually being able to use it.
+
+SPOOK resolves the problem at the human level.
+
+His answer is dry, controlled, and operational. The humor comes from the mismatch
+between the word "nicely" and the coercive manager-office encounter the player knows is
+likely to follow. Spook does not smile, perform the joke, or wait for approval.
+
+SCENE PRESENTATION
+
+The exchange occurs while the team remains actively engaged in observation.
+
+Suggested physical arrangement:
+
+- Smoke studies the aircraft berths, fuel activity, and north-jetty movement through
+  binoculars or a compact optic.
+- Tripper has a notebook, camera, map, tablet, or other restrained planning aid and
+  cross-checks the administration building and likely access points.
+- Spook watches the broader compound pattern, either through optics or with unaided
+  observation between checks.
+- The concealed SUV and vegetation remain nearby but should not dominate the frame.
+- The sea, harbor movement, distant aircraft, wind, insects, traffic, and occasional
+  local civilian sound provide natural texture.
+
+The player should retain first-person control. This is an in-world observation beat,
+not a third-person cutscene. Companion look targets and subtle camera framing may help
+make the exchange readable, but control should not be removed simply to deliver four
+or five lines.
+
+PREFERRED ROUGH DIALOGUE PASS
+
+The following version is the preferred source-ready rough pass. Small connective-word
+changes are permissible during performance writing. Spook's protected line is exact.
+
+    SMOKE
+    We get inside, find a plane that's fueled and ready to go.
+
+    TRIPPER
+    We still need the keys.
+
+    SMOKE
+    Yeah.
+
+A short beat. The team continues watching the administration building and aircraft
+berths rather than turning the exchange into a staged group huddle.
+
+    TRIPPER
+    Office, flight desk, whoever's running the place.
+
+    SPOOK
+    Then we just ask the manager for them. Nicely.
+
+Smoke gives a small affirmative nod without lowering his optic.
+
+    SMOKE
+    Works for me.
+
+Tripper gives a brief nod or restrained acknowledgement.
+
+    TRIPPER
+    Nice and simple.
+
+The exchange ends there. The team returns fully to observation.
+
+PROTECTED LINE
+
+The canonical Spook line is:
+
+    THEN WE JUST ASK THE MANAGER FOR THEM. NICELY.
+
+Dialogue capitalization in scripts may vary, but the spoken wording and order should
+remain:
+
+    "Then we just ask the manager for them. Nicely."
+
+The pause between "them" and "Nicely" should be slight but perceptible. It is not a
+large comedic pause. Spook delivers the sentence flatly, as if describing an ordinary
+procedural solution.
+
+TEAM RESPONSE RULE
+
+Smoke and Tripper concur with Spook's proposal.
+
+Their response should remain understated:
+
+- one or both give small affirmative nods;
+- no one challenges the plan on moral or tactical grounds;
+- no one laughs loudly;
+- no extended joke follows;
+- one or two short remarks are acceptable;
+- the overall read is professional consensus, not comic banter.
+
+The preferred rough responses are "Works for me" and "Nice and simple," but final
+performance wording may change if it preserves concise agreement.
+
+TONE RULE
+
+The beat should feel like experienced teammates casually solving a practical problem
+while already committed to an illegal covert acquisition.
+
+It should not feel like:
+
+- a tutorial conversation written only to explain the next objective;
+- a broad comedy scene;
+- a threat delivered directly to the manager before the infiltration;
+- a debate about whether coercion is permissible;
+- a heroic speech;
+- a promise that the office encounter will remain nonviolent;
+- a lock that forces Variant A rather than Variant B.
+
+The word "Nicely" is dry understatement. Its later payoff may be a quiet apprehension,
+a violent office breach, or key recovery from a deceased manager if the player creates
+that outcome. The line remains compatible with every accepted office branch because it
+expresses the team's intended approach, not a guaranteed result.
+
+GAMEPLAY AND OBJECTIVE INTEGRATION
+
+The conversation may support a subtle objective-state refinement after it completes.
+
+Preferred objective logic:
+
+    IDENTIFY A READY AIRCRAFT
+    -> SECURE AIRCRAFT ACCESS
+
+or, if the mission avoids explicit objective text during surveillance:
+
+- aircraft readiness becomes a companion planning fact;
+- the manager's office becomes the inferred access target;
+- later objective text can direct the player to secure the manager or recover the
+  floatplane keys after infiltration conditions are known.
+
+The dialogue should not identify the full N272BT key-bundle details before the team
+physically acquires or confirms them. The team knows they need aircraft keys; they do
+not need to know the exact tag, key count, tool, or storage location at this stage.
+
+OBSERVATION SUPPORT
+
+The beat is strongest if the player can visually connect its parts to the level:
+
+- aircraft or berth activity visible in the distance;
+- the administration building identifiable as the likely management node;
+- fuel infrastructure or recent aircraft-preparation activity suggesting that at least
+  one aircraft may be ready;
+- no omniscient confirmation that N272BT is definitely the selected plane until later.
+
+A companion may have observed fuel activity or flight preparation, but the scene must
+not imply that Victor Two Bravo already knows the manager's exact key-storage method.
+Variant A and Variant B key locations remain discoveries inside the office sequence.
+
+CONTINUITY CONSTRAINTS
+
+- Preserve the western beachside surveillance placement.
+- Preserve Smoke as the dialogue initiator.
+- Preserve Smoke's focus on a fueled, ready-to-go aircraft.
+- Preserve Tripper as the teammate who identifies the need for keys.
+- Preserve Spook's exact line: "Then we just ask the manager for them. Nicely."
+- Preserve affirmative, restrained team agreement.
+- Preserve the manager as the intended access solution.
+- Preserve compatibility with both unaware and alerted office variants.
+- Preserve the complete N272BT key bundle as the later physical objective item.
+- Preserve Smoke as the final keyholder and pilot.
+- Do not reveal the exact key location during the beachside conversation.
+- Do not force a lethal outcome for the manager.
+- Do not make the exchange a non-interactive cinematic by default.
+- Do not insert La Avispa into this Game 1 mission.
+- Do not turn "Nicely" into repeated comic business or a catchphrase.
+
+OPEN PRODUCTION REQUIREMENTS
+
+- lock the exact observation animation states and companion positions;
+- decide whether the player is using binoculars, a camera, a scope, or unaided vision
+  when the exchange begins;
+- tune the trigger so the conversation does not interrupt a more important player
+  observation or guard-routine callout;
+- define subtitle speaker labels, timing, accessibility, and interruption recovery;
+- decide whether the line can replay after checkpoint reload or is marked completed;
+- author alternate recovery if combat, movement, or another bark interrupts the beat;
+- finalize the surrounding dialogue while preserving the protected Spook line;
+- determine whether the objective state updates visibly or remains inferred;
+- coordinate the beat with time compression, daylight change, and the move to staging;
+- ensure later office dialogue and key recovery feel like payoff rather than repetition.
+
+RESULT
+
+The beachside exchange is accepted as a compact pre-infiltration planning beat. Smoke
+frames aircraft readiness, Tripper identifies the missing keys, and Spook proposes the
+manager as the solution with the protected line, "Then we just ask the manager for
+them. Nicely." Smoke and Tripper concur without turning the moment into broad comedy.
+The beat now gives the manager-office objective clean setup and preserves all accepted
+quiet, alerted, lethal, non-lethal, and fallback mission branches.
+
+END
