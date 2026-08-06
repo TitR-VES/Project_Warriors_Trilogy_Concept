@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>COME FLY WITH ME — Christiansted detailed level-design map rev2</name>
+<description>Master map linking normalized point, area and route layers derived from owner-supplied KML SHA-256 29611abd90c2781f1aa0bb435bd7a8a045b12e20bfcc5aa511a0c198b10b7c08. Total: 101 placemarks (69 points, 27 polygons, 5 line strings). See the companion source addendum for authority and production-use rules.</description>
+<NetworkLink><name>Points</name><Link><href>COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Points.kml</href></Link></NetworkLink>
+<NetworkLink><name>Areas</name><Link><href>COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Areas.kml</href></Link></NetworkLink>
+<NetworkLink><name>Routes</name><Link><href>COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Routes.kml</href></Link></NetworkLink>
+</Document></kml>
