@@ -1,0 +1,296 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — CHRISTIANSTED DETAILED MAP AND MACRO-TRANSIT EXTENSION
+Generated: 2026-08-06
+Version: rev1
+Status: OWNER MAP EXPANSION / SOURCE-READY / PRODUCTION BLOCKOUT OPEN
+
+PURPOSE
+
+Record the owner's expanded COME FLY WITH ME KML and normalize its level-design
+geometry into repository-readable point, area, and route layers.
+
+This extension captures the full compound-detail layer developed for the Christiansted
+Harbor seaplane-base sequence and adds eleven new safehouse and macro-transit features:
+
+- top-down safehouse apartment and backyard footprint overlays;
+- safehouse street, rear-exit, yard-gate, and backyard-stair anchors;
+- the driven route from the safehouse to the western beach observation point;
+- the driven route from that observation point to the Bayside Kitchen parking-lot
+  staging area;
+- the final on-foot approach from staging to the playable infiltration start;
+- the reference flight path from the north jetty to East McFarlane Island;
+- the southwestern-cove boat-launch / access anchor at the destination.
+
+The map package is intended for future level blockout, streaming, transition,
+cinematic, route, visibility, lighting, companion-navigation, and environment-art
+work. It does not claim survey accuracy or production-final geometry.
+
+================================================================================
+SOURCE ARTIFACT
+================================================================================
+
+Owner file:
+COME FLY WITH ME Spook Game 1 campaign pre-finale.kml
+
+SHA-256:
+29611abd90c2781f1aa0bb435bd7a8a045b12e20bfcc5aa511a0c198b10b7c08
+
+Source size:
+202,339 bytes
+
+Parsed source result:
+
+- 101 placemarks total;
+- 69 point placemarks;
+- 27 polygon placemarks;
+- 5 line-string placemarks;
+- 3 named folders in the owner file;
+- duplicate generic labels remain in the owner map where multiple physical instances
+  share a category, including ladder, security-camera, alarm-button, and shadow-area
+  labels.
+
+The preceding detailed owner map contained 90 placemarks. The 2026-08-06 revision
+adds eleven features: six safehouse spatial-orientation features, four mission-transit
+routes, and one East McFarlane cove-access point.
+
+================================================================================
+NORMALIZED REPOSITORY MAP PACKAGE
+================================================================================
+
+The owner KML is normalized into a master file and three linked layers so the geometry
+can remain readable and maintainable without preserving redundant Google Earth style
+payload, interface-specific icon references, or HTML-heavy placemark formatting.
+
+Master:
+
+- maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Master.kml
+
+Layers:
+
+- maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Points.kml
+- maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Areas.kml
+- maps/COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Routes.kml
+
+The three layer files preserve all 101 owner-drawn geometries. The companion source
+pages, rather than imported placemark prose, control canon wording and mission logic.
+
+The earlier normalized 21-point map remains useful as a compact provenance snapshot,
+but the 2026-08-06 rev2 layer package supersedes it for detailed geometry, mapped
+visibility, patrol, access, safehouse-shell orientation, and macro-route reference.
+
+================================================================================
+AUTHORITY HIERARCHY
+================================================================================
+
+1. DEDICATED MISSION SOURCES
+
+The existing COME FLY WITH ME geography, guard-routine, alarm/radio/CCTV, office,
+aircraft, key-bundle, and escalation sources remain authoritative for narrative canon,
+security count, alert logic, guard behavior, office branches, objective flow, and
+aircraft identity.
+
+Imported owner-map descriptions do not supersede those durable sources where older
+wording, typographical errors, floor-number ambiguity, provisional instructions, or
+superseded mission logic remain visible in the original KML.
+
+2. DETAILED REV2 KML PACKAGE
+
+The rev2 master and linked layers control the owner's latest mapped geometry for:
+
+- point placement;
+- compound and restricted-area boundaries;
+- doors, gates, stairs, ladders, service access, and exterior anchors;
+- patrol areas and the west-gate reciprocating path;
+- camera mounts and fields of view;
+- alarm, control-panel, and floodlight locations;
+- high-visibility, light-leak, shadow, and concealment overlays;
+- safehouse shell, backyard, entry, exit, yard-gate, and stair orientation;
+- safehouse-to-observation, observation-to-staging, staging-to-infiltration, and
+  north-jetty-to-East-McFarlane route reference.
+
+These geometries are schematic owner-authored level-design reference. They are not
+surveyed cadastral, architectural, road-engineering, aviation-navigation, or marine-
+chart data.
+
+3. SAFEHOUSE DRAFT E
+
+PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Canon_Floorplan_Draft_E_2026-08-06_rev1.svg
+controls the current gameplay room arrangement, room adjacency, circulation logic,
+ready-room envelope, kitchen plumbing direction, windows, balcony relationship, and
+mission-trigger behavior.
+
+The KML apartment polygon controls where that gameplay blockout is oriented inside the
+real exterior shell. The KML does not silently redraw Draft E's internal walls, and
+Draft E does not silently move the exterior shell, front door, rear exit, backyard,
+yard gate, or stair anchors.
+
+4. EXTERIOR VISUAL SOURCES
+
+The Trumpetbush Manor exterior-reference source controls facade, roof, gallery, arcade,
+rear-service-court, material, weathering, and surrounding-street visual language. The
+KML supplies top-down spatial orientation, not texture or facade-detail authority.
+
+================================================================================
+SAFEHOUSE SPATIAL-ORIENTATION DELTA
+================================================================================
+
+The revised map adds the following safehouse features:
+
+1. SECOND-FLOOR APARTMENT FOOTPRINT
+
+An approximate polygon places the interactive apartment inside the second-floor
+exterior shell. It is a top-down orientation overlay, not a measured floor plate.
+
+2. BACKYARD / SERVICE-COURT FOOTPRINT
+
+A separate approximate polygon records the rear outdoor area and its relationship to
+the apartment, adjoining street, and surrounding building fabric.
+
+3. STREET FRONT DOOR
+
+A point anchors the safehouse building's street entrance and the player's eventual
+movement between the apartment and the team's vehicle.
+
+4. APARTMENT REAR EXIT
+
+A point anchors the rear apartment exit into the backyard/service court. Existing
+mission scripting remains controlling: proximity to this exit does not independently
+advance the mission.
+
+5. BACKYARD-TO-STREET GATE
+
+A point records the service-court gate connecting the rear outdoor space to the street.
+
+6. BACKYARD STAIR ACCESS
+
+A point records the stair connection relevant to exterior/interior circulation and
+future facade-to-floorplan reconciliation.
+
+PRODUCTION RULE
+
+The footprint and access anchors should be used to test Draft E against the exterior
+shell in a 3D blockout. Any conflict must be resolved explicitly through a later
+floorplan or shell revision; production may not distort the shell or room program
+silently to make the overlays appear to agree.
+
+================================================================================
+MACRO MISSION TRANSIT
+================================================================================
+
+The revised map makes the previously source-described movement sequence spatially
+explicit.
+
+PHASE 1 — SAFEHOUSE TO WESTERN BEACH OBSERVATION
+
+- Mode: Victor Two Bravo SUV.
+- Drawn route length: approximately 0.96 km.
+- Function: connect the interactive safehouse departure to the long-duration western
+  observation position.
+- Presentation: this drive may be playable, compressed, partially authored, or
+  transitioned according to production scope, but the route establishes neighborhood,
+  waterfront, and compound approach geography.
+
+PHASE 2 — OBSERVATION TO FINAL STAGING
+
+- Mode: Victor Two Bravo SUV.
+- Drawn route length: approximately 0.41 km.
+- Destination: the owner identifies the existing pre-operational staging marker as the
+  Bayside Kitchen parking lot.
+- Function: relocate from the exposed observation phase to the close after-dark staging
+  position without treating the staging lot as the multi-hour surveillance site.
+
+PHASE 3 — STAGING TO INFILTRATION START
+
+- Mode: Spook, Smoke, and Tripper on foot.
+- Drawn route length: approximately 0.16 km.
+- Function: connect the parked SUV and equipment-preparation beat to the playable
+  infiltration start near the west-gatehouse driveway.
+- Presentation: preserve first-person control where practical and avoid implying that
+  the player materializes directly at the fence without traversing the surrounding
+  public-space approach.
+
+The drawn lengths are approximate KML-spline measurements. They are useful for scope,
+streaming, pacing, and transition estimates but are not final navmesh or road-centerline
+measurements.
+
+================================================================================
+FLIGHT PATH AND EAST McFARLANE HANDOFF
+================================================================================
+
+The revised map adds a reference line from the Found FBA-2C berth at the north jetty to
+the southwestern cove on East McFarlane Island.
+
+- Drawn route length: approximately 63.47 km / 39.44 mi.
+- Start: north-jetty aircraft berth at Christiansted Harbor.
+- End: the southwestern-cove approach beside the shared SINS OF OUR FATHERS landing
+  and boat-launch access area.
+- Aircraft: the locked fictional Found FBA-2C N272BT.
+- Narrative handoff: Smoke flies the team toward the shared East McFarlane entry state.
+
+The line is a narrative, vista, transition, and level-streaming reference. It is not a
+published air-navigation route and does not lock altitude, airspeed, exact heading,
+weather avoidance, harbor taxi path, takeoff run, engine-off point, descent profile,
+or maritime traffic separation.
+
+The separate southwestern-cove access point refines local shoreline orientation. The
+existing SINS OF OUR FATHERS sources remain authoritative for the destination mission's
+playable landing and island geometry.
+
+================================================================================
+LEVEL-DESIGN APPLICATION
+================================================================================
+
+Use the rev2 package to support:
+
+- world-partition and streaming-boundary planning across the Christiansted sequence;
+- safehouse exterior/interior shell reconciliation;
+- vehicle-route and authored-transition scoping;
+- companion-path and staging choreography;
+- readable approach to the west gatehouse;
+- compound greybox, cover, sightline, patrol, CCTV, alarm, lighting, and concealment
+  planning;
+- north-jetty departure and aircraft-startup composition;
+- optional flight-vista or compressed flight-transition planning;
+- continuity with the East McFarlane landing handoff.
+
+Do not expose development polygons, camera cones, patrol graphics, route lines, or
+labels in final gameplay. They are production overlays.
+
+================================================================================
+OPEN PRODUCTION REQUIREMENTS
+================================================================================
+
+- reconcile Draft E dimensions against the KML apartment shell in a true-scale 3D
+  blockout;
+- resolve vertical circulation between street, second-floor apartment, rear exit,
+  backyard, and service gate;
+- decide how much of each road movement phase is playable versus compressed;
+- confirm vehicle pull-in, parking, unloading, and teammate dismount choreography at
+  Bayside Kitchen;
+- author pedestrian traversal and public-space masking between staging and the west
+  gatehouse;
+- establish final road widths, sidewalks, walls, vegetation, traffic, civilians, and
+  occlusion based on licensed reference and production survey work;
+- convert schematic patrol and camera overlays into tested AI splines and sensor cones;
+- define world-partition boundaries and loading strategy for safehouse, observation,
+  staging, compound, water escape, and any flight-transition content;
+- confirm whether the full flight line is represented by playable flight, a shortened
+  authored segment, a cinematic transition, or a hybrid;
+- cross-check the destination endpoint against the latest SINS OF OUR FATHERS KML
+  before production lock.
+
+================================================================================
+RESULT
+================================================================================
+
+COME FLY WITH ME now has a repository-landed detailed map package that preserves the
+owner's 101 mapped features and explicitly connects the safehouse, western observation
+position, Bayside Kitchen staging area, west-gate infiltration start, north-jetty
+floatplane departure, and East McFarlane southwestern-cove handoff.
+
+The package is source-ready and substantially improves future level-design reference.
+It remains preproduction geometry pending scale validation, architectural blockout,
+route implementation, AI testing, lighting validation, streaming decisions, and
+cross-map destination reconciliation.
+
+END
