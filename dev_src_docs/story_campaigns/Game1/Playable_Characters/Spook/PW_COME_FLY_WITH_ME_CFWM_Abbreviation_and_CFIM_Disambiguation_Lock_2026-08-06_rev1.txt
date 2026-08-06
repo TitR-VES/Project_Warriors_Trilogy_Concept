@@ -1,0 +1,192 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — CFWM ABBREVIATION AND CFIM DISAMBIGUATION LOCK
+Generated: 2026-08-06
+Version: rev1
+Status: OWNER CORRECTION / SOURCE-READY TERMINOLOGY LOCK
+
+PURPOSE
+
+Prevent COME FLY WITH ME mission shorthand from colliding with the established CFIM
+technology term used by the War Wolves.
+
+This source controls abbreviated references to COME FLY WITH ME across narrative
+sources, synthesis pages, audits, filenames, package names, branch slugs, issue and
+pull-request text, implementation labels, production notes, and future documentation.
+
+================================================================================
+CANONICAL ABBREVIATION RULE
+================================================================================
+
+The only approved abbreviated forms of COME FLY WITH ME are:
+
+    CFWM
+
+and, where a lowercase technical naming convention is required:
+
+    cfwm
+
+Use CFWM in normal prose, headings, tables, labels, shorthand references, and
+uppercase identifiers.
+
+Use cfwm only where lowercase technical syntax is conventional, including branch
+slugs, temporary working directories, machine-oriented identifiers, or similar
+implementation-facing contexts.
+
+The full title COME FLY WITH ME remains preferred where space and readability permit.
+
+================================================================================
+RESERVED CFIM TERM
+================================================================================
+
+CFIM remains reserved exclusively for:
+
+    COUNTER-FORENSIC IDENTIFICATION MODULE
+
+CFIM is the War Wolves-only counter-forensic add-on associated with their CogniConnect
+implant stack. It triggers terminal counter-forensic destruction on death and is
+distinct from baseline CogniConnect architecture.
+
+Valid CFIM contexts include:
+
+- War Wolves;
+- CRIMSON ONE, CRIMSON TWO, and CRIMSON THREE;
+- CogniConnect implant-stack architecture;
+- terminal counter-forensic detonation;
+- denial of post-mortem facial or biometric identification;
+- East McFarlane encounter and later technical investigation;
+- explicit terminology comparisons such as this source.
+
+CFIM or cfim must never be used as shorthand for COME FLY WITH ME.
+
+================================================================================
+DISAMBIGUATION RULE
+================================================================================
+
+The two namespaces are permanently separate:
+
+    CFWM = COME FLY WITH ME mission
+    CFIM = Counter-Forensic Identification Module
+
+Writers, designers, tools, and future audits must not infer one from the other.
+
+Any CFIM occurrence associated with Christiansted, the safehouse, the beachside
+reconnaissance phase, Ocean Blue Sky Tours, the seaplane base, the manager's office,
+the Found FBA-2C, N272BT, the north jetty, or mission production work should be treated
+as a likely abbreviation error unless the passage is explicitly discussing the War
+Wolves implant technology or contrasting the two terms.
+
+Any CFWM occurrence associated with War Wolves implant behavior should likewise be
+checked for a likely technology-term error.
+
+================================================================================
+NAMING APPLICATIONS
+================================================================================
+
+SOURCE AND SYNTHESIS FILES
+
+- Prefer PW_COME_FLY_WITH_ME_... for durable source filenames.
+- Where abbreviation is necessary, use PW_CFWM_...
+- Never use PW_CFIM_... for a COME FLY WITH ME file, package, or folder.
+
+BRANCHES AND TECHNICAL SLUGS
+
+- Future COME FLY WITH ME branches should use agent/cfwm-... or another full-title
+  convention that cannot be confused with the implant term.
+- Legacy technical branch slugs created before this lock are historical repository
+  artifacts only. They do not establish terminology and must not be copied forward.
+
+PROSE AND PRODUCTION LABELS
+
+- Use COME FLY WITH ME on first reference where practical.
+- CFWM may be used on later references, compact tables, diagrams, task names, build
+  labels, test plans, or implementation tickets.
+- Do not alternate between CFWM and CFIM for stylistic variety. They identify different
+  things.
+
+CODE AND DATA
+
+- Mission-facing identifiers should use CFWM/cfwm.
+- Implant-system identifiers should use CFIM/cfim only when they actually refer to the
+  Counter-Forensic Identification Module.
+- Search, validation, and lint rules should preserve this distinction.
+
+================================================================================
+CORRECTIONS APPLIED WITH THIS LOCK
+================================================================================
+
+The following source-facing abbreviation collisions are corrected on the active CFWM
+mission branch:
+
+1. The synthesis filename for diegetic audio devices and office penetration now uses:
+
+   PW_Diegetic_Audio_Devices_and_CFWM_Office_Penetration_Addendum_2026-08-03_rev1.txt
+
+2. The older closeout staging directory now uses:
+
+   incoming_patches_and_updates/PW_CFWM_Closeout_Landing_v1/
+
+3. Governance references to the synthesis filename are updated to CFWM.
+
+4. The beachside recon-dialogue audit now records this terminology rule and no longer
+   presents the legacy technical branch slug as an approved mission abbreviation.
+
+Existing legitimate CFIM references in War Wolves, CogniConnect, SINS OF OUR FATHERS,
+canon, mission, and technical sources remain unchanged.
+
+================================================================================
+HISTORICAL ARTIFACT RULE
+================================================================================
+
+Commit messages, closed pull-request metadata, archived exports, or branch refs created
+before this correction may retain superseded shorthand as immutable repository history.
+Such artifacts are provenance only.
+
+They must not be treated as current terminology, quoted as a naming model, copied into
+new source pages, or used to justify future mission identifiers.
+
+Where a historical reference must be discussed, describe it as a legacy pre-lock slug
+or superseded abbreviation rather than normalizing it into current-facing prose.
+
+================================================================================
+VALIDATION RULE
+================================================================================
+
+Future CFWM source and production passes should check:
+
+- filenames and folder names;
+- source headings and shorthand references;
+- synthesis and compendium pages;
+- audit inventories;
+- branch names and task slugs;
+- PR and issue descriptions;
+- Unreal asset, map, data-table, test, and build identifiers;
+- imported package names and staging paths.
+
+A suspected collision should be resolved by context, not by blind replacement:
+
+- mission shorthand becomes CFWM/cfwm;
+- Counter-Forensic Identification Module references remain CFIM/cfim.
+
+================================================================================
+CONTINUITY CONSTRAINTS
+================================================================================
+
+- Preserve COME FLY WITH ME as the full mission title.
+- Preserve CFWM/cfwm as its only abbreviated forms.
+- Preserve CFIM as the Counter-Forensic Identification Module term.
+- Preserve CFIM as War Wolves-only within the current CogniConnect architecture.
+- Do not rename legitimate CFIM technical references to CFWM.
+- Do not use CFIM/cfim for the Christiansted mission, its environments, its office
+  sequence, its aircraft, its level-design package, or its production work.
+- Do not allow legacy branch, package, or commit terminology to override this source.
+
+================================================================================
+RESULT
+================================================================================
+
+COME FLY WITH ME now has a protected abbreviation namespace: CFWM in prose and cfwm in
+lowercase technical slugs. CFIM remains exclusively the Counter-Forensic Identification
+Module associated with the War Wolves. The distinction is source-ready, explicit, and
+applicable across narrative, production, repository, and implementation layers.
+
+END
