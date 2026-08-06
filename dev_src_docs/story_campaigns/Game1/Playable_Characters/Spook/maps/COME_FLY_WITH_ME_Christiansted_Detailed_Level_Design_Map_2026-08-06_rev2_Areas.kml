@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>COME FLY WITH ME — Christiansted detailed area layer rev2</name>
+<description>Area-layer master linking 27 normalized polygon placemarks from owner-supplied KML SHA-256 29611abd90c2781f1aa0bb435bd7a8a045b12e20bfcc5aa511a0c198b10b7c08.</description>
+<NetworkLink><name>Areas 01</name><Link><href>COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Areas_01.kml</href></Link></NetworkLink>
+<NetworkLink><name>Areas 02</name><Link><href>COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2_Areas_02.kml</href></Link></NetworkLink>
+</Document></kml>
