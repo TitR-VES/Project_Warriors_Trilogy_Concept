@@ -1,0 +1,60 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — SAFEHOUSE FLOORPLAN DRAFT F SUPERSESSION PATCH
+Generated: 2026-08-06
+Version: rev1
+Status: SOURCE-READY / CURRENT FLOORPLAN AUTHORITY
+
+PURPOSE
+
+Record the corrected interpretation of the owner-marked safehouse floor-plan changes and
+prevent stale Draft D or Draft E references in the current PR package from controlling
+later blockout, exterior-reconstruction, or cutaway work.
+
+CURRENT CONTROLLING FLOORPLAN
+
+- PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Canon_Floorplan_Draft_F_2026-08-06_rev1.svg
+
+SUPERSESSION RULE
+
+Draft F supersedes Draft E and all earlier floor-plan drafts for the current safehouse
+interior blockout.
+
+Where the Trumpetbush Manor exterior-reference brief or its landing audit refers to
+Draft D, read that reference as Draft F for current gameplay-floorplan authority. The
+exterior imagery continues to control broad visible architectural language, massing,
+facade rhythm, roof character, weathering, street relationship, and exterior
+plausibility; it does not override Draft F room relationships or navigation geometry.
+
+CORRECTED OWNER DIRECTION
+
+1. The central corridor is shortened at its WESTERN END, not reduced in depth across
+   the whole apartment.
+
+2. The former west corridor segment is absorbed into the Main Living / Operations Room,
+   enlarging that room northward to the exterior wall.
+
+3. A new vertical corridor-terminus wall is placed at the Main Living / Operations Room
+   and Balcony Parlor division, with a door in the marked upper position connecting the
+   enlarged main room to the remaining corridor.
+
+4. The existing internal passage between the Main Living / Operations Room and Balcony
+   Parlor remains.
+
+5. The Equipment / Ready Room retains its left-side corridor passage, while its lower
+   passage is relocated from the lower-left area to the marked lower-right position,
+   opening into the Kitchen / Team Table Hub.
+
+6. The accepted bathroom and kitchen windows remain represented, together with the
+   ready-room vent windows, right-side kitchen window, and kitchen counter / sink run.
+
+7. Markup colors are illustrative only. Final plan line weight, wall color, window
+   notation, fills, and labels remain normalized to the established floor-plan visual
+   language.
+
+IMPLEMENTATION CONSEQUENCE
+
+Future room-by-room blockout sheets, exterior-shell reconciliation, isometric cutaways,
+Unreal Engine blockouts, companion-nav tests, and archive references should use Draft F
+unless a later owner-approved revision explicitly supersedes it.
+
+END
