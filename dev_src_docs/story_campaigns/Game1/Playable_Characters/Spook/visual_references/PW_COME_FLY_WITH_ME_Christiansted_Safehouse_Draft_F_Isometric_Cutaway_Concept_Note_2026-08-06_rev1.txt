@@ -1,0 +1,137 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+COME FLY WITH ME — CHRISTIANSTED SAFEHOUSE DRAFT F ISOMETRIC CUTAWAY CONCEPT NOTE
+Generated: 2026-08-06
+Version: rev1
+Status: INDEPENDENTLY AUTHORED CONCEPT RECONSTRUCTION / REVIEW REFERENCE / NOT SURVEY ACCURATE
+
+PURPOSE
+
+Record the first roof-cutaway isometric concept that reconciles the controlling Draft F
+safehouse gameplay floor plan with the accepted Trumpetbush Manor exterior language.
+
+This concept is intended to help environment art, level design, lighting, collision,
+window-placement, and shell-reconciliation work. It is not a measured architectural
+drawing and does not supersede Draft F, the detailed KML, or the exterior-reference
+source package.
+
+CONTROLLING SOURCES
+
+1. Gameplay room geometry and circulation:
+   PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Canon_Floorplan_Draft_F_2026-08-06_rev1.svg
+
+2. Draft authority and supersession:
+   PW_COME_FLY_WITH_ME_Safehouse_Floorplan_Draft_F_Supersession_Patch_2026-08-06_rev1.txt
+
+3. Exterior architectural language:
+   PW_COME_FLY_WITH_ME_Trumpetbush_Manor_Exterior_Reference_and_Isometric_Reconstruction_Brief_2026-08-04_rev1.txt
+
+4. Shell orientation and access anchors:
+   COME_FLY_WITH_ME_Christiansted_Detailed_Level_Design_Map_2026-08-06_rev2 linked KML package
+
+AUTHORITY RULE
+
+Draft F controls the interior room arrangement, circulation, ready-room passages,
+service-core relationships, kitchen counter direction, and window program. The exterior
+reference package controls broad building massing, facade rhythm, arcade, gallery,
+materials, roof character, weathering, and surrounding street language. The KML controls
+where the apartment sits inside the exterior shell. The cutaway concept is a visual test
+of those sources, not a replacement for them.
+
+CUTAWAY COMPOSITION
+
+- The building is shown from an elevated front-corner isometric view.
+- The left/non-safehouse second-floor portion retains an intact roof section.
+- The right-hand second-floor safehouse occupancy is exposed as a roof-off cutaway.
+- The ground-floor arcade, pale teal/blue walls, white trim, upper timber character,
+  neighboring pink building, street edge, parked vehicles, and utility context derive
+  from the accepted exterior visual language.
+- The exposed apartment is represented as a gameplay-authored interior inside that
+  exterior shell.
+
+DRAFT F INTERIOR FEATURES REPRESENTED
+
+- Main Living / Operations Room enlarged northward into the former west corridor segment.
+- New corridor-terminus wall and upper door at the living-room/parlor division.
+- Separate lower passage between the Main Living / Operations Room and Balcony Parlor.
+- Balcony Parlor with the sole accessible balcony frontage.
+- Shortened remaining central corridor.
+- Bath and utility/wash service core at the parlor/kitchen transition.
+- Kitchen / Team Table Hub with an L-shaped counter and sink run.
+- Equipment / Ready Room beside the rear entry.
+- Ready-room left corridor passage.
+- Ready-room lower-right passage opening into the kitchen.
+
+WINDOW AND EXTERIOR-OPENING CHECK
+
+The safehouse exterior opening program in the concept follows Draft F:
+
+Primary/front facade, from left to right across the safehouse occupancy:
+
+1. Main Living / Operations Room shuttered window.
+2. Main Living / Operations Room shuttered window.
+3. Balcony Parlor shuttered double doors opening onto the parlor-width balcony.
+4. Bathroom window.
+5. Kitchen window.
+
+Right/end facade:
+
+1. Taller shuttered kitchen window.
+2. High ready-room vent window.
+3. High ready-room vent window.
+
+The Main Living / Operations Room has no balcony door. The accessible balcony spans only
+the Balcony Parlor frontage.
+
+ILLUSTRATIVE FURNISHINGS
+
+The concept includes restrained blockout furniture and operational props to make room
+functions legible:
+
+- couch, coffee table, open terminal laptop, radio shelf, operations desk, slow desk fan,
+  folded cot, and equipment bags in the Main Living / Operations Room;
+- chairs and a small table in the Balcony Parlor;
+- kitchen counters, sink, shared table, two laptops, maps, and work chairs in the Kitchen /
+  Team Table Hub;
+- cases and a compact rack in the Equipment / Ready Room;
+- basic bath and utility fixtures.
+
+These furniture models and exact placements remain illustrative. Draft F room geometry
+and the later room-by-room blockout sheets remain authoritative.
+
+FILES
+
+Editable vector source:
+PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Draft_F_Isometric_Cutaway_Concept_2026-08-06_rev1.svg
+SHA-256: d7bc7b205a02a6c9ef255f99f6f4a5f9ba803f240ef0bee18c61f6b5640d4d30
+Dimensions: 2400 x 1700 SVG viewport
+
+Thread preview render:
+PW_COME_FLY_WITH_ME_Safehouse_Draft_F_Isometric_Cutaway_Concept_rev2.png
+SHA-256: ed6e0f4d306dedff21c324cd5ab9fc26a05c3c06a686b3c3fa3928e53493ac42
+Dimensions: 2400 x 1700 PNG
+
+PROVENANCE
+
+The cutaway is independently authored from the project floor plan and architectural
+reference findings. It does not embed the supplied Google/map screenshot binaries,
+platform UI, map labels, device overlays, plates, or copied business signage.
+
+OPEN PRODUCTION QUESTIONS
+
+- true-scale fit of Draft F inside the accepted second-floor shell;
+- exact exterior stair and rear-entry geometry;
+- roof framing and rainwater/drainage treatment around the cutaway area;
+- final facade bay spacing and structural alignment;
+- final wall thicknesses, floor heights, door swings, and window sill heights;
+- final room furnishing, interaction anchors, NPC navigation, and lighting;
+- whether the non-safehouse roof remains visible in future cutaway views or the entire
+  roof is removed for maximum interior readability;
+- whether a second reverse isometric is needed to expose the rear entry and service court.
+
+RESULT
+
+The concept provides a coherent first visual reconciliation between Draft F and the
+Trumpetbush Manor exterior package while preserving the distinction between controlling
+source geometry and still-open production interpretation.
+
+END
