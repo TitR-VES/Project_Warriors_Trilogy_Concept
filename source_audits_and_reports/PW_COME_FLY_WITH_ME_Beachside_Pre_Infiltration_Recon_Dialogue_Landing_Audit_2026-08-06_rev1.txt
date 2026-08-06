@@ -1,0 +1,191 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+COME FLY WITH ME — BEACHSIDE PRE-INFILTRATION RECON DIALOGUE
+Generated: 2026-08-06
+Version: rev1
+Status: LANDED ON ACTIVE PR BRANCH / SOURCE-FIRST AUDIT
+
+PURPOSE
+
+Verify that the owner-developed beachside planning dialogue has been landed in a
+durable mission source without contradicting the existing COME FLY WITH ME geography,
+manager-office branches, aircraft identity, key-bundle continuity, pilot assignment,
+or source-lifecycle rules.
+
+LANDED SOURCE
+
+Path:
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+PW_COME_FLY_WITH_ME_Beachside_Pre_Infiltration_Recon_Dialogue_Beat_2026-08-06_rev1.txt
+
+Commit:
+
+129b3a6c1b9ff532d016a3339829748c1b25b309
+
+Branch:
+
+agent/cfim-safehouse-floorplan-draft-a
+
+Pull request:
+
+PR #71 — Update COME FLY WITH ME safehouse, detailed map, and mission routes
+
+OWNER INPUT CAPTURED
+
+The landed source preserves the requested concept:
+
+- the exchange occurs during the beachside pre-infiltration reconnaissance phase;
+- a teammate casually reviews the base-infiltration plan;
+- Smoke is selected as the strongest initiator because he will pilot the aircraft and
+  naturally owns the fuel, readiness, and immediate-departure requirement;
+- Tripper joins the conversation and raises the separate need to obtain the aircraft
+  keys;
+- the team briefly considers the access problem aloud;
+- Spook resolves it by saying exactly:
+
+    "Then we just ask the manager for them. Nicely."
+
+- Smoke and Tripper respond with understated agreement and affirmative body language;
+- the moment remains restrained professional banter rather than broad comedy.
+
+SOURCE-STACK CHECK
+
+1. GEOGRAPHY AND OBJECTIVE FLOW
+
+PASS.
+
+The dialogue is placed at the controlling long-duration western beachside surveillance
+position, after initial observation and before relocation to the close SUV staging
+point. It preserves the locked macro flow:
+
+safehouse
+-> western beachside surveillance
+-> compressed observation and planning
+-> close staging
+-> after-dark infiltration
+-> manager's office
+-> north-jetty aircraft departure
+
+2. AIRCRAFT READINESS
+
+PASS.
+
+The source states that Victor Two Bravo needs a plane that is fueled and ready to go.
+This matches the controlling mission lock that the Found FBA-2C is already fueled and
+operational and supersedes any prolonged forced-refueling sequence.
+
+The dialogue does not prematurely identify N272BT as the selected aircraft unless later
+observation or mission scripting independently supports that confirmation.
+
+3. KEY ACCESS
+
+PASS.
+
+Tripper identifies the keys as a separate access problem. The source does not reveal
+the exact key-storage location, key count, tag wording, mini tool, or branch-specific
+recovery method before the office encounter.
+
+The complete N272BT key bundle remains the later physical objective item.
+
+4. CHARACTER ROLE LOGIC
+
+PASS.
+
+- Smoke owns aircraft readiness and pilot practicality.
+- Tripper owns access and systems reasoning.
+- Spook owns the human solution and decision.
+
+The role split reinforces existing Victor Two Bravo competence without replacing the
+player or overexplaining team functions.
+
+5. MANAGER-OFFICE BRANCH COMPATIBILITY
+
+PASS.
+
+The dialogue expresses the intended plan but does not guarantee its outcome. It remains
+compatible with:
+
+- the unaware office breach;
+- the alerted locked-office breach;
+- non-lethal guard resolution;
+- suppressed-lethal or mixed guard resolution;
+- the deceased-manager key-recovery fallback if player action causes that state.
+
+The source does not force the manager's death and does not supersede his preferred live
+restraint outcome.
+
+6. PROTECTED DIALOGUE
+
+PASS.
+
+The exact Spook line is explicitly protected:
+
+    "Then we just ask the manager for them. Nicely."
+
+The source permits later polish to surrounding connective lines while preserving the
+wording, order, restrained pause, and flat delivery of the protected line.
+
+7. TONE
+
+PASS.
+
+The humor is grounded in understatement. The source prohibits:
+
+- loud laughter;
+- repeated joke escalation;
+- dance-like or self-conscious staging;
+- turning "Nicely" into a catchphrase;
+- converting the exchange into a tutorial dump or heroic speech.
+
+8. PLAYER AGENCY
+
+PASS WITH PRODUCTION DEPENDENCY.
+
+The source keeps the exchange in first-person observation gameplay rather than locking
+a third-person cinematic. Exact trigger timing, interruption recovery, companion look
+targets, subtitles, and checkpoint replay behavior remain production work.
+
+9. LA AVISPA CONTINUITY
+
+PASS.
+
+The source explicitly preserves the Game 1 rule that La Avispa is not inserted into
+COME FLY WITH ME.
+
+10. CONTENT-LIFECYCLE COMPLIANCE
+
+PASS.
+
+The new material is landed in dev_src_docs as a durable mission source rather than
+being authored only in a synthesis document or left as an untracked conversation
+fragment. This audit records the landing state in source_audits_and_reports.
+
+SCOPE DECISION
+
+No full working-compendium refresh is created for this isolated dialogue beat in this
+commit. The current PR already contains an active COME FLY WITH ME source cluster, and
+the detailed mission sources remain the authoritative day-to-day layer. The beat should
+be folded into the next milestone refresh of the Missions / Scenes / Cinematics
+compendium or any future dedicated COME FLY WITH ME mission synthesis page.
+
+OPEN PRODUCTION DEPENDENCIES
+
+- exact observation animation and player optic state;
+- final surrounding dialogue polish;
+- trigger placement within the compressed passage of hours;
+- interruption and checkpoint-reload behavior;
+- subtitle and accessibility timing;
+- objective-state presentation;
+- visual confirmation of fuel activity and likely management access;
+- coordination with other guard-routine and planning callouts;
+- later compendium or mission-synthesis refresh.
+
+AUDIT RESULT
+
+LANDED / SOURCE-READY WORKING LOCK.
+
+The owner-developed beat is safely represented in the durable COME FLY WITH ME source
+stack. It strengthens setup for the manager-office sequence, preserves all established
+mission branches, and introduces no identified canon or migration conflict.
+
+END
