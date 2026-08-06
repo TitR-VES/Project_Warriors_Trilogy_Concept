@@ -54,7 +54,7 @@ Landing result:
 SYNTHESIS LAYER
 
 - Project_Warriors_Knowledge_Compendia/
-  PW_Diegetic_Audio_Devices_and_CFIM_Office_Penetration_Addendum_2026-08-03_rev1.txt
+  PW_Diegetic_Audio_Devices_and_CFWM_Office_Penetration_Addendum_2026-08-03_rev1.txt
 
 Landing result:
 
