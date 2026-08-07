@@ -14,10 +14,10 @@ map-level development from still-open production implementation.
 SOURCE INPUT
 
 - Owner-supplied KML: SINS OF OUR FATHERS mission map.kml
-- Normalized reviewable repository KML:
+- Normalized reviewable geometry-and-notes repository KML:
   dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
   SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-07_rev2.kml
-- Normalized KML SHA-256: 882d5b9e3f0aa4af0e11f55ef7fbf8b28263a12ad29015c9db74f4075b8cc774
+- Normalized KML SHA-256: 3e379ad30186426ebb89ce9d74bb9eb2dc30d522487859d07be3f4e9b34213e2
 - Placemark count: 138
 - Point placemarks: 131
 - LineString features: 6
