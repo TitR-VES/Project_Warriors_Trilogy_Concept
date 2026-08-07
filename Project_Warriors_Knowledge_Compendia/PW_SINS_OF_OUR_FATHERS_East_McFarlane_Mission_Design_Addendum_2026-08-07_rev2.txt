@@ -1,0 +1,77 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+SINS OF OUR FATHERS — EAST McFARLANE DETAILED MAP REV2
+Generated: 2026-08-07
+Version: rev2
+Status: DETAILED MAP SYNTHESIS / DEDICATED SOURCE CONTROLS
+
+PURPOSE
+
+Project the owner-supplied detailed East McFarlane KML into compact working knowledge
+while preserving controlling mission, War Wolves, CFIM and named-weapon sources.
+
+REV2 MAP SNAPSHOT
+
+- 138 placemarks: 131 points, 6 LineStrings, 1 polygon.
+- Normalized KML SHA-256: 882d5b9e3f0aa4af0e11f55ef7fbf8b28263a12ad29015c9db74f4075b8cc774
+- The August 1 eight-point map remains historical rev1; rev2 is the active detailed
+  environment/traversal reference.
+- The map is source-ready but not a production-ready combat blockout.
+
+MISSION SPINE PRESERVED
+
+engine-off landing -> staging -> direct or western Temple branch -> Rip -> optional
+Regent cache -> foliage approach -> Underwood guesthouse -> security room / local IFF
+-> Graves -> residence search -> helipad betrayal / rogue declaration / escape.
+
+CORE CONTINUITY
+
+- CRIMSON ONE = Richard “Digger” Graves.
+- CRIMSON TWO = Lawrence “Rip” Mansell / EXTREME PREJUDICE.
+- CRIMSON THREE = Dermot “Lucky” Underwood.
+- Pavilion M200 remains unnamed and separate from EXTREME PREJUDICE.
+- La Avispa does not appear in Game 1.
+- Goldberg’s security architecture remains private, local, PANDORA-isolated and fully
+  under Goldberg’s control.
+- Spook refuses Bishop’s stand-down order; Victor Two Bravo is declared rogue; Goldberg
+  and Stockbridge escape.
+
+REV2 DETAIL LOCKS
+
+- Temple Pavilion: exterior locked; service-shed tunnel -> stairs -> concealed movable
+  bookshelf -> Goldberg office; exterior can be opened from inside.
+- Pavilion counter-sniper lane: unnamed M200 + low-wall position is one optional Rip
+  solution, not mandatory.
+- Regent cache: eight mapped benches carry coordinate-fragment discovery logic for the
+  protected western-cape flagpole dead drop.
+- Underwood route: northwestern guesthouse/service side, not “north eastern corner.”
+- IFF route: can turn local defenses against Graves but does not yet guarantee a remote
+  kill; exact suppression / injury / displacement / defeat outcome remains tunable.
+- Underground layer: port/supply access, supply tunnel, stairs, cargo elevator, holding
+  facility, corridor branches, utility branch, HVAC/generator service, access-code
+  collectible.
+- Optional intel: Crodyn / Pedilla / Howard compromising-media lane plus four-month
+  visitor-log smartphone; treat as optional disclosure and do not extrapolate beyond
+  the props without later narrative-source work.
+- Covered spaces: may break direct overhead EO/thermal line of sight; no blanket thermal
+  invisibility.
+
+CORRECTIONS APPLIED
+
+- Crodyn spelling corrected in two KML notes.
+- Guesthouse cardinal-direction mismatch corrected.
+- Guaranteed remote Graves defeat softened to implementation-open IFF assistance.
+- UAV cover language normalized to sensor line-of-sight reduction.
+- Nearby obvious prose typos corrected without story changes.
+
+PRODUCTION CAUTION
+
+The detailed KML is planning/reference geometry. UE5 production must substantially
+fictionalize the property rather than reproduce the real topographic reference one-to-one.
+Surface route lines, patrol zones, reinforcement paths, drone routes, combat polygons,
+alert propagation, final interiors, helipad blocking, accessibility and performance work
+remain open.
+
+CONTROLLING DETAILED SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+PW_SINS_OF_OUR_FATHERS_East_McFarlane_Detailed_Map_Level_Reference_Addendum_2026-08-07_rev2.txt
