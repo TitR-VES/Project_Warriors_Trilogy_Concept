@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>SINS OF OUR FATHERS mission map — detailed rev2</name>
+<description>Normalized geometry-and-notes transcription of the owner detailed KML. 138 placemarks: 131 points, 6 LineStrings, 1 Polygon. Core continuity corrections applied 2026-08-07. Planning/reference geometry only.</description>
+<Placemark><name>Crimson Two's position</name>
+<description>Lawrence "Rip" Mansell occupies a mobile observation tower near the sundial on the islands highest point of elevation. After defeating him, the player can find EXTREME PREJUDICE set up in his observation post, near his now dead body.</description>
+<Point><coordinates>-64.8257476,18.2997155,0</coordinates></Point>
+</Placemark>
+<Placemark><name>Covert floatplane landing location</name>
+<description>This is where smoke coast the plane to a landing with an engine off allowing Victor Two Bravo to access the island undetected via an unlit disused boat launch..</description>
+<Point><coordinates>-64.8228,18.2977615,0</coordinates></Point>
+</Placemark>
+<Placemark><name>Concealed staging area</name>
+<description>The team make their way here to allow Tripper to asses physical and network security measures that the team should be aware of, and to allow time for the team to review, finalize, and agree on the mission objective approach plan.</description>
+<Point><coordinates>-64.8233874,18.298763,0</coordinates></Point>
+</Placemark>
+<Placemark><name>Temple Pavilion</name>
+<description>This eclectically and expensively decorated pavilion styled to look like an Egyptian temple contains a secure office used by Goldberg. Inside, the player can find Intel collectibles, and the other CheyTac M200 Intervention sniper rifle. The rifle can be used to defeat Rip from a distance.</description>
+<Point><coordinates>-64.8281808,18.298149,0</coordinates></Point>
+</Placemark>
+<Placemark><name>Western cape pool house flagpole base stash location.</name>
+<description>This is where the player may find Regent's Intel dead drop, hidden behind a loose stone block in the flag pole base near the pool house. Cache details: weatherproof cache or sealed container;one encrypted USB drive;handwritten note;unfamiliar symbol;coordinates that do not correspond to a Game 1 objective;no signature. the player can reveal the location of this stash by collecting and piecing together the coordinate fragments scattered across 8 benches on the island</description>
+<Point><coordinates>-64.8285678,18.3012709,0</coordinates></Point>
+</Placemark>
+<Placemark><name>Crimson Three's position</name>
+<description>The player approaches along the eastern beach using foliage for cover from drones. The main access route is too heavily surveilled and protected from automated weapons systems for the team to risk. Therefore the team decide to work around to the northwestern guesthouse/service side of the main-residence property and use the guesthouse service entrance. This guesthouse also contained a concealed security monitoring room, where the player can access the video feed, and with an access card that they can acquire after defeating Dermot "Lucky" Underwood, also switch the IFF threat-detection profiles of the automated systems inside the main residence and its courtyard to turn those systems against Crimson One, who is positioned inside the main-residence entry hall on the mezzanine level. The exact result remains an encounter-implementation choice: the IFF-assisted route may suppress, injure, displace, or defeat Graves, while direct combat remains valid. The guest house is where the player is confronted by Crimson Three. Shortly after the team enter the guesthouse, which they find unlit and seemingly deserted, Underwood attacks them using a stun grenade, which leads to a frantic close quarters firefight inside the disorienting interior of the guest house. After defeating Underwood, the player can take his access card and unlock the security room.mentioned earlier.</description>
+<Point><coordinates>-64.8246303,18.3034407,0</coordinates></Point>
+</Placemark>
+<Placemark><name>Crimson One's position</name>
+<description>The mezzanine on the first floor level of the main residence's entry hall is where the player finds Graves expecting him, already in cover. Unless the player tampers with the IFF settings beforehand, trying to defeat Graves in a full-on fight is tricky and rewarding challenge. The player can also find many Intel collectibles by searching the large residence before proceeding to the helipad for the final part of the mission.</description>
+<Point><coordinates>-64.8242926,18.302896,0</coordinates></Point>
+</Placemark>
+<Placemark><name>Final helipad confrontation location</name>
+<description>The player moves through the main residence's courtyard and across the driveway to the helipad where the team confronts Goldberg and Stockbridge as they are preparing to escape off the island, only for CIA Director Macmillan to interdict via radio, ordering the team to stand down and let Goldberg and Stockbridge flee the island in a helicopter. Spook refuses, which leads to Bishop declaring Victor Two Bravo rogue, ending the campaign finale on a cliffhanger, while the targets escape.</description>
+<Point><coordinates>-64.8235337,18.3025516,0</coordinates></Point>
+</Placemark>
+<Placemark><name>Boath launch access point</name>
+<Point><coordinates>-64.8226906,18.2978334,15.5396195</coordinates></Point>
+</Placemark>
+<Placemark><name>Boat trailer garage</name>
+<Point><coordinates>-64.8224563,18.2979641,17.0564775</coordinates></Point>
+</Placemark>
+<Placemark><name>boat launch service shed</name>
+<Point><coordinates>-64.8224583,18.2978629,17.4447864</coordinates></Point>
+</Placemark>
+<Placemark><name>Mobile observation tower</name>
+<Point><coordinates>-64.8257588,18.2996905,33.2736801</coordinates></Point>
+</Placemark>
+<Placemark><name>statue</name>
+<Point><coordinates>-64.8224195,18.2982115,16.4584872</coordinates></Point>
+</Placemark>
+<Placemark><name>Temple Pavilion entry</name>
+<description>The door to the pavilion is locked from the outside, but can be unlocked from inside the Temple Pavilion office after the player reaches it via the underground tunnel entrance. Attached reference images show 3 exterior views and 2 interior views from different distances and angles. The windows on the east and west side of the pavilion are shuttered from the outside. The south side door is also shuttered, but the shutters can be opened when the door is unlocked from inside the office.</description>
+<Point><coordinates>-64.8281794,18.2981198,39.9429524</coordinates></Point>
+</Placemark>
+<Placemark><name>CheyTac M200 location</name>
+<Point><coordinates>-64.8282045,18.2981288,39.5606773</coordinates></Point>
+</Placemark>
+<Placemark><name>vantage point</name>
+<description>The player can take up positions behind the low wall and use the CheyTac M200 to defeat Crimson Two. The player can also use a number of other viable approaches, and different positions and distances, this is just one of the alternative ways of dealing with Crimson Two.</description>
+<Point><coordinates>-64.8281073,18.2982884,40.1024014</coordinates></Point>
+</Placemark>
+<Placemark><name>vantage point</name>
+<description>Crimson Two's firing position</description>
+<Point><coordinates>-64.825759,18.2996915,33.2790118</coordinates></Point>
+</Placemark>
+<Placemark><name>eastern pond pumphouse</name>
+<Point><coordinates>-64.828477,18.3001189,9.546466</coordinates></Point>
+</Placemark>
+<Placemark><name>eastern cape open-air music pavilion</name>
+<Point><coordinates>-64.8285966,18.3004617,14.8796847</coordinates></Point>
+</Placemark>
+<Placemark><name>northeastern cape pool house</name>
+<Point><coordinates>-64.8285015,18.3012107,14.9972112</coordinates></Point>
+</Placemark>
+<Placemark><name>northeastern cape pool</name>
+<Point><coordinates>-64.8286835,18.3011969,15.2267804</coordinates></Point>
+</Placemark>
+<Placemark><name>pool access ladder</name>
+<Point><coordinates>-64.8285968,18.3011832,15.240064</coordinates></Point>
+</Placemark>
+<Placemark><name>pool diving board</name>
+<Point><coordinates>-64.8288087,18.3011975,15.2658203</coordinates></Point>
+</Placemark>
+<Placemark><name>eastern cape pavilion golf cart parking spaces</name>
+<Point><coordinates>-64.8285536,18.3002554,12.0671378</coordinates></Point>
+</Placemark>
+<Placemark><name>Temple Pavilion tunnel access</name>
+<description>This service shed contains a hidden tunnel leading to a concealed movable bookshelf door entrance inside the Temple Pavilion office.</description>
+<Point><coordinates>-64.8286877,18.2982196,26.7460832</coordinates></Point>
+</Placemark>
+<Placemark><name>movable bookshelf with hidden door</name>
+<description>The underground access tunnel terminates under the Temple Pavilion, and a staircase leads the player to the small chamber behind the concealed door that can be opened to access the interior of the office.</description>
+<Point><coordinates>-64.8281745,18.2981762,39.765521</coordinates></Point>
+</Placemark>
+<Placemark><name>Temple Pavilion access underground tunnel</name>
+<LineString><coordinates>-64.8286865,18.29822,0 -64.8281942,18.2981797,0</coordinates></LineString>
+</Placemark>
+<Placemark><name>tunnel access staircase</name>
+<Point><coordinates>-64.828686,18.2982154,26.8578655</coordinates></Point>
+</Placemark>
+<Placemark><name>tunnel access staircase</name>
+<Point><coordinates>-64.8281934,18.2981777,39.9113311</coordinates></Point>
+</Placemark>
+<Placemark><name>eastern pond</name>
+<Point><coordinates>-64.8283484,18.2996086,8.8422959</coordinates></Point>
+</Placemark>
+<Placemark><name>NO TRESPASSING sign</name>
+<Point><coordinates>-64.8227306,18.2978859,15.4686132</coordinates></Point>
+</Placemark>
+<Placemark><name>open-air amphitheater</name>
+<Point><coordinates>-64.8256006,18.3014063,10.0089057</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence helipad</name>
+<Point><coordinates>-64.8235117,18.3025353,7.2757531</coordinates></Point>
+</Placemark>
+<Placemark><name>beach-side Guesthouse door</name>
+<Point><coordinates>-64.8247103,18.3035035,14.3764638</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence north courtyard guesthouse door</name>
+<Point><coordinates>-64.8246288,18.3033763,14.9685812</coordinates></Point>
+</Placemark>
+<Placemark><name>covered seating area</name>
+<description>The tent roof breaks direct overhead EO/thermal line of sight and can reduce exposure to overhead UAV sensors. It does not make the player thermally invisible; the open walls leave the player visible from lateral and ground-level angles.</description>
+<Point><coordinates>-64.8245038,18.3030774,15.9140984</coordinates></Point>
+</Placemark>
+<Placemark><name>northwestern beach bungalow</name>
+<description>Contains collectible Intel in the form of a flash drive and a file containing several printouts of highly compromising and incriminating photos showing then president-elect Barry James Crodyn and SCOTUS justices Walter Pedilla and Creighton Howard engaging in multiple acts of immoral and illicit conduct.</description>
+<Point><coordinates>-64.8247416,18.3025354,11.8830252</coordinates></Point>
+</Placemark>
+<Placemark><name>boat</name>
+<Point><coordinates>-64.8253477,18.3022506,0.4526214</coordinates></Point>
+</Placemark>
+<Placemark><name>northeastern port infrastructure and supply storage building</name>
+<Point><coordinates>-64.8251965,18.3017064,9.5193275</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible intel</name>
+<description>Evidence of struggle and possible violence in on-board the boat</description>
+<Point><coordinates>-64.8253506,18.3022569,1.0236694</coordinates></Point>
+</Placemark>
+<Placemark><name>port entry gateway</name>
+<Point><coordinates>-64.8251575,18.3021725,8.7315489</coordinates></Point>
+</Placemark>
+<Placemark><name>northwestern port pier</name>
+<Point><coordinates>-64.8253301,18.3022791,4.5551204</coordinates></Point>
+</Placemark>
+<Placemark><name>beached yacht</name>
+<description>Contains collectible Intel inside</description>
+<Point><coordinates>-64.824901,18.302621,10.3487985</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible Intel</name>
+<description>Compromising photos and video recordings of Crodyn and the SCOTUS justices</description>
+<Point><coordinates>-64.8247369,18.3024842,11.8068972</coordinates></Point>
+</Placemark>
+<Placemark><name>9mm and 5.56mm ammo pickup</name>
+<description>The player may find a stash of several loaded AR-15 magazines, and a box of 9x19 ammo</description>
+<Point><coordinates>-64.8249099,18.302608,10.2225616</coordinates></Point>
+</Placemark>
+<Placemark><name>northwest beach-side bungalow door</name>
+<Point><coordinates>-64.8247854,18.3025455,11.0120843</coordinates></Point>
+</Placemark>
+<Placemark><name>northwestern beach-side bungalow door</name>
+<Point><coordinates>-64.8246801,18.3025714,13.5287765</coordinates></Point>
+</Placemark>
+<Placemark><name>service shed with HVAC and backup generator exhaust for the underground holding facility</name>
+<Point><coordinates>-64.8247908,18.3017695,9.8150334</coordinates></Point>
+</Placemark>
+<Placemark><name>Equestrian club stables</name>
+<Point><coordinates>-64.8242336,18.3009717,15.516987</coordinates></Point>
+</Placemark>
+<Placemark><name>equestrian club</name>
+<Point><coordinates>-64.8245677,18.3008367,17.4856039</coordinates></Point>
+</Placemark>
+<Placemark><name>utility tunnel access door</name>
+<Point><coordinates>-64.8245489,18.3016106,9.6730983</coordinates></Point>
+</Placemark>
+<Placemark><name>southwestern flagpole</name>
+<Point><coordinates>-64.8220769,18.2974467,24.8594541</coordinates></Point>
+</Placemark>
+<Placemark><name>directional sign</name>
+<Point><coordinates>-64.8248342,18.301648,11.2811545</coordinates></Point>
+</Placemark>
+<Placemark><name>construction material storage warehouse</name>
+<Point><coordinates>-64.8244177,18.3012658,11.4053677</coordinates></Point>
+</Placemark>
+<Placemark><name>boat on a trailer</name>
+<Point><coordinates>-64.8245934,18.301528,10.6007583</coordinates></Point>
+</Placemark>
+<Placemark><name>empty boat trailer</name>
+<Point><coordinates>-64.8245979,18.3014097,12.1555286</coordinates></Point>
+</Placemark>
+<Placemark><name>main generator &amp; waste disposal building</name>
+<Point><coordinates>-64.8245402,18.3017487,8.8087978</coordinates></Point>
+</Placemark>
+<Placemark><name>construction equipment warehouse and fuel storage</name>
+<Point><coordinates>-64.8244006,18.3019437,8.8424591</coordinates></Point>
+</Placemark>
+<Placemark><name>storage building</name>
+<Point><coordinates>-64.824632,18.301522,10.8380776</coordinates></Point>
+</Placemark>
+<Placemark><name>rooftop material storage area</name>
+<Point><coordinates>-64.8243357,18.3012323,11.0800579</coordinates></Point>
+</Placemark>
+<Placemark><name>privacy fence</name>
+<Point><coordinates>-64.8243443,18.3018061,8.6501198</coordinates></Point>
+</Placemark>
+<Placemark><name>storage warehouse bay doors</name>
+<Point><coordinates>-64.8244309,18.3013636,11.0300061</coordinates></Point>
+</Placemark>
+<Placemark><name>storage warehouse bay doors</name>
+<Point><coordinates>-64.8242822,18.3012609,10.4961786</coordinates></Point>
+</Placemark>
+<Placemark><name>tunnel access building bay doors</name>
+<Point><coordinates>-64.8245272,18.3015643,9.9920362</coordinates></Point>
+</Placemark>
+<Placemark><name>main generator &amp; waste disposal building service door</name>
+<Point><coordinates>-64.8244692,18.3017782,8.6656593</coordinates></Point>
+</Placemark>
+<Placemark><name>construction equipment garage and fuel storage building service door</name>
+<Point><coordinates>-64.8244038,18.3018388,8.3740721</coordinates></Point>
+</Placemark>
+<Placemark><name>half-open garage bay door</name>
+<Point><coordinates>-64.8243366,18.3019242,8.6089441</coordinates></Point>
+</Placemark>
+<Placemark><name>bay door</name>
+<Point><coordinates>-64.8250976,18.3018671,9.3777086</coordinates></Point>
+</Placemark>
+<Placemark><name>port infrastructure and supply storage building service door</name>
+<Point><coordinates>-64.8250601,18.3018706,9.3596445</coordinates></Point>
+</Placemark>
+<Placemark><name>tunnel cargo elevator</name>
+<Point><coordinates>-64.8251415,18.301685,10.056502</coordinates></Point>
+</Placemark>
+<Placemark><name>tunnel access staircase</name>
+<Point><coordinates>-64.825079,18.3017331,9.9352848</coordinates></Point>
+</Placemark>
+<Placemark><name>supply tunnel</name>
+<LineString><coordinates>-64.8251411,18.3016858,0 -64.8250992,18.3016476,0 -64.8246656,18.3015358,0</coordinates></LineString>
+</Placemark>
+<Placemark><name>underground stair access corridor branch</name>
+<LineString><coordinates>-64.8250715,18.3017305,0 -64.8250554,18.3017159,0 -64.825112,18.3016655,0</coordinates></LineString>
+</Placemark>
+<Placemark><name>interior tunnel portal inside storage building</name>
+<Point><coordinates>-64.8246552,18.3015319,10.8661891</coordinates></Point>
+</Placemark>
+<Placemark><name>Equestrian clubhouse</name>
+<Point><coordinates>-64.8243119,18.3008918,16.1414153</coordinates></Point>
+</Placemark>
+<Placemark><name>stables entry door</name>
+<Point><coordinates>-64.824261,18.3009574,15.6539583</coordinates></Point>
+</Placemark>
+<Placemark><name>equestrian clubhouse door</name>
+<Point><coordinates>-64.8242743,18.3008914,16.1150831</coordinates></Point>
+</Placemark>
+<Placemark><name>western beach-side bar</name>
+<Point><coordinates>-64.8236704,18.3000417,8.8754363</coordinates></Point>
+</Placemark>
+<Placemark><name>western beach-side bar door</name>
+<Point><coordinates>-64.8236907,18.300059,8.9553718</coordinates></Point>
+</Placemark>
+<Placemark><name>abandoned smartphone</name>
+<description>Located on the bar, contains a log of visitors to the island over the past 4 months</description>
+<Point><coordinates>-64.8236505,18.300026,8.845698</coordinates></Point>
+</Placemark>
+<Placemark><name>sundial</name>
+<Point><coordinates>-64.8256063,18.2997999,31.9071827</coordinates></Point>
+</Placemark>
+<Placemark><name>dilapidated soutern beach house</name>
+<Point><coordinates>-64.8255656,18.2989566,16.788622</coordinates></Point>
+</Placemark>
+<Placemark><name>weathered open-sided tent</name>
+<Point><coordinates>-64.8254343,18.2988795,17.2243747</coordinates></Point>
+</Placemark>
+<Placemark><name>abandoned southern beach</name>
+<Point><coordinates>-64.8256847,18.2988614,14.8285487</coordinates></Point>
+</Placemark>
+<Placemark><name>amphitheater staircase</name>
+<Point><coordinates>-64.8255393,18.3013253,11.1911912</coordinates></Point>
+</Placemark>
+<Placemark><name>NO TRESPASSING sign</name>
+<Point><coordinates>-64.821653,18.2981236,9.6413765</coordinates></Point>
+</Placemark>
+<Placemark><name>shooting range</name>
+<Point><coordinates>-64.8265978,18.2995974,49.0027131</coordinates></Point>
+</Placemark>
+<Placemark><name>berm vantage point</name>
+<Point><coordinates>-64.8263312,18.2996246,45.4860938</coordinates></Point>
+</Placemark>
+<Placemark><name>hillside bungalow</name>
+<Point><coordinates>-64.8255717,18.3005797,23.1349085</coordinates></Point>
+</Placemark>
+<Placemark><name>northeastern water reservoir</name>
+<Point><coordinates>-64.8264454,18.3010763,9.0705168</coordinates></Point>
+</Placemark>
+<Placemark><name>bench</name>
+<Point><coordinates>-64.8262434,18.3009572,9.4906447</coordinates></Point>
+</Placemark>
+<Placemark><name>bench</name>
+<Point><coordinates>-64.8263534,18.3011914,9.2250574</coordinates></Point>
+</Placemark>
+<Placemark><name>hillside house entry door</name>
+<Point><coordinates>-64.8256475,18.3005502,23.7606473</coordinates></Point>
+</Placemark>
+<Placemark><name>hillside house balcony door</name>
+<Point><coordinates>-64.8255427,18.3006342,21.9313622</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible intel</name>
+<description>Note with keypad lock access combination to underground holding facility reachable through a now-unlocked non-breachable service door in the port supply warehouse tunnel.</description>
+<Point><coordinates>-64.8255796,18.3005392,24.2399446</coordinates></Point>
+</Placemark>
+<Placemark><name>port supply warehouse tunnel access ladder</name>
+<Point><coordinates>-64.8248198,18.3017854,9.8238183</coordinates></Point>
+</Placemark>
+<Placemark><name>underground holding facility</name>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.8250296,18.3016594,0 -64.8247986,18.3016,0 -64.8247676,18.3017056,0 -64.8249959,18.3017638,0 -64.8250296,18.3016594,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</Placemark>
+<Placemark><name>underground holding facility access corridor branch</name>
+<LineString><coordinates>-64.8250525,18.3017156,0 -64.8250164,18.3017055,0</coordinates></LineString>
+</Placemark>
+<Placemark><name>mid tunnel underground holding facility access corridor branch</name>
+<LineString><coordinates>-64.8249005,18.3016274,0 -64.8249056,18.3015956,0</coordinates></LineString>
+</Placemark>
+<Placemark><name>underground holding facility utility corridor branch</name>
+<LineString><coordinates>-64.8248345,18.3017237,0 -64.8248163,18.3017965,0</coordinates></LineString>
+</Placemark>
+<Placemark><name>bench</name>
+<Point><coordinates>-64.828745,18.3014619,13.8898697</coordinates></Point>
+</Placemark>
+<Placemark><name>bench</name>
+<Point><coordinates>-64.8272988,18.3005872,26.5243017</coordinates></Point>
+</Placemark>
+<Placemark><name>electrical junctiona box</name>
+<Point><coordinates>-64.8266109,18.3000042,39.2229726</coordinates></Point>
+</Placemark>
+<Placemark><name>bench</name>
+<Point><coordinates>-64.8268727,18.300123,38.9608919</coordinates></Point>
+</Placemark>
+<Placemark><name>bench</name>
+<Point><coordinates>-64.8270123,18.3000465,39.9908451</coordinates></Point>
+</Placemark>
+<Placemark><name>bench</name>
+<Point><coordinates>-64.8260886,18.2998003,37.6975912</coordinates></Point>
+</Placemark>
+<Placemark><name>bench</name>
+<Point><coordinates>-64.8275276,18.2998516,18.4499985</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible intel: N18D</name>
+<Point><coordinates>-64.8275251,18.2998572,18.6993433</coordinates></Point>
+</Placemark>
+<Placemark><name>Collectible intel: N18M</name>
+<Point><coordinates>-64.8260924,18.2997966,38.0487891</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible intel: N04S</name>
+<Point><coordinates>-64.8287321,18.3014527,14.017473</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible Intel: N570MS</name>
+<Point><coordinates>-64.8262479,18.3009429,9.438169</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible intel: W42S</name>
+<Point><coordinates>-64.8263456,18.3011761,9.2250668</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible intel: W840MS</name>
+<Point><coordinates>-64.8273036,18.3005946,26.3155496</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible intel: W64D</name>
+<Point><coordinates>-64.8270068,18.3000502,40.0463404</coordinates></Point>
+</Placemark>
+<Placemark><name>collectible Intel W49M</name>
+<Point><coordinates>-64.8268814,18.3001344,38.9568157</coordinates></Point>
+</Placemark>
+<Placemark><name>eastern cape poolhouse door</name>
+<Point><coordinates>-64.8285518,18.3012016,15.113826</coordinates></Point>
+</Placemark>
+<Placemark><name>underground Temple Pavilion tunnel access service shed door</name>
+<Point><coordinates>-64.8286866,18.2982359,26.5986568</coordinates></Point>
+</Placemark>
+<Placemark><name>eastern pond pump house door</name>
+<Point><coordinates>-64.8284808,18.3001441,9.8640586</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence swimming pool</name>
+<Point><coordinates>-64.8240668,18.3026386,19.0872292</coordinates></Point>
+</Placemark>
+<Placemark><name>north main residence access path northern landing</name>
+<Point><coordinates>-64.824247,18.3031667,15.8920813</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence entry gate</name>
+<Point><coordinates>-64.8240606,18.302882,16.6425836</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence poolhouse</name>
+<Point><coordinates>-64.8243201,18.3025655,18.9455134</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence poolhouse door</name>
+<Point><coordinates>-64.8243002,18.3025856,19.3858693</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence pool access ladder</name>
+<Point><coordinates>-64.8241219,18.3026278,19.5934502</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence pool access ladder</name>
+<Point><coordinates>-64.8241709,18.3026619,20.2030951</coordinates></Point>
+</Placemark>
+<Placemark><name>eastern poolside bungalow</name>
+<Point><coordinates>-64.8244629,18.3027227,18.7115621</coordinates></Point>
+</Placemark>
+<Placemark><name>southern poolside bungalow</name>
+<Point><coordinates>-64.8244319,18.3025856,18.6357357</coordinates></Point>
+</Placemark>
+<Placemark><name>western poolside bungalow</name>
+<Point><coordinates>-64.8241934,18.3025214,19.3554343</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence villa</name>
+<Point><coordinates>-64.8242975,18.3028421,20.1339244</coordinates></Point>
+</Placemark>
+<Placemark><name>main residence private parking service door</name>
+<Point><coordinates>-64.8241448,18.3028539,17.8402807</coordinates></Point>
+</Placemark>
+<Placemark><name>North 1st floor main residence door</name>
+<Point><coordinates>-64.8242871,18.3029426,18.6293741</coordinates></Point>
+</Placemark>
+<Placemark><name>western south-facing main residence door</name>
+<Point><coordinates>-64.8242076,18.3027841,19.6754645</coordinates></Point>
+</Placemark>
+<Placemark><name>eastern south facing main residence door</name>
+<Point><coordinates>-64.8244188,18.3028365,18.6275328</coordinates></Point>
+</Placemark>
+<Placemark><name>center south-facingain residence door</name>
+<Point><coordinates>-64.8243209,18.3028208,20.3921283</coordinates></Point>
+</Placemark>
+<Placemark><name>security monitoring station console</name>
+<Point><coordinates>-64.824604,18.3035462,14.3763605</coordinates></Point>
+</Placemark>
+<Placemark><name>autononous UAV monitoring console</name>
+<Point><coordinates>-64.8246492,18.3035709,14.2930757</coordinates></Point>
+</Placemark>
+<Placemark><name>keycard-locked security station door</name>
+<Point><coordinates>-64.8246382,18.3035438,14.3424962</coordinates></Point>
+</Placemark>
+<Placemark><name>northwestern guesthouse</name>
+<Point><coordinates>-64.8246586,18.3035013,14.495723</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
