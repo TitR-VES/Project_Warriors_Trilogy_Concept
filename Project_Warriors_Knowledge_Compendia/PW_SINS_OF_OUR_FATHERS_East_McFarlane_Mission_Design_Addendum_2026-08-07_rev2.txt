@@ -12,7 +12,7 @@ while preserving controlling mission, War Wolves, CFIM and named-weapon sources.
 REV2 MAP SNAPSHOT
 
 - 138 placemarks: 131 points, 6 LineStrings, 1 polygon.
-- Normalized KML SHA-256: 882d5b9e3f0aa4af0e11f55ef7fbf8b28263a12ad29015c9db74f4075b8cc774
+- Normalized KML SHA-256: 3e379ad30186426ebb89ce9d74bb9eb2dc30d522487859d07be3f4e9b34213e2
 - The August 1 eight-point map remains historical rev1; rev2 is the active detailed
   environment/traversal reference.
 - The map is source-ready but not a production-ready combat blockout.
