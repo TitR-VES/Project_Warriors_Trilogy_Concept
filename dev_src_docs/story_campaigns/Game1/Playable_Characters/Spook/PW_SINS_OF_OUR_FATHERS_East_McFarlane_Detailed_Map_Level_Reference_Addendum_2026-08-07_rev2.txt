@@ -1,0 +1,204 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+SINS OF OUR FATHERS — EAST McFARLANE ISLAND DETAILED MAP / LEVEL-REFERENCE ADDENDUM
+Generated: 2026-08-07
+Version: rev2
+Status: OWNER-DETAILED MAP LANDING / SOURCE-READY / NOT PRODUCTION-READY
+
+PURPOSE
+
+Land the owner-supplied detailed East McFarlane KML as the next map-development
+revision for SINS OF OUR FATHERS while preserving the August 1 controlling canon,
+applying the continuity corrections identified during review, and distinguishing
+map-level development from still-open production implementation.
+
+SOURCE INPUT
+
+- Owner-supplied KML: SINS OF OUR FATHERS mission map.kml
+- Normalized reviewable repository KML:
+  dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+  SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-07_rev2.kml
+- Normalized KML SHA-256: 882d5b9e3f0aa4af0e11f55ef7fbf8b28263a12ad29015c9db74f4075b8cc774
+- Placemark count: 138
+- Point placemarks: 131
+- LineString features: 6
+- Polygon features: 1
+- Campaign: Riptide Red
+- Playable character: Trevor “Spook” Gartner
+- Team: Victor Two Bravo
+- Fictional location: East McFarlane Island, U.S. Virgin Islands
+- Real-topography reference remains Little Saint James Island, but the playable
+  property must be substantially fictionalized in production.
+
+REV2 RELATIONSHIP TO AUGUST 1 SOURCE
+
+The August 1 rev1 mission source remains valid for controlling story and encounter
+canon unless this rev2 explicitly expands or corrects map-level wording. Rev2 does
+not alter the protected mission ending, War Wolves identity map, CFIM rules, Regent
+cache payload, two-M200 distinction, or Goldberg-security scope.
+
+PRESERVED CONTROLLING MACRO FLOW
+
+engine-off floatplane landing
+-> concealed staging and route assessment
+-> direct high-ground route or western Temple Pavilion branch
+-> CRIMSON TWO / Rip overwatch encounter
+-> optional Regent cache
+-> eastern-beach / foliage movement toward residence grounds
+-> CRIMSON THREE / Underwood guesthouse ambush
+-> concealed security room and optional local-IFF manipulation
+-> CRIMSON ONE / Graves main-residence encounter
+-> optional residence intelligence search
+-> courtyard / driveway crossing
+-> Goldberg / Stockbridge helipad confrontation
+-> Bishop stand-down order
+-> Spook refusal
+-> Victor Two Bravo rogue declaration
+-> Goldberg and Stockbridge helicopter escape
+
+WAR WOLVES / WEAPON CONTINUITY
+
+- CRIMSON ONE = Richard “Digger” Graves = close quarters / point.
+- CRIMSON TWO = Lawrence “Rip” Mansell = overwatch / precision.
+- CRIMSON THREE = Dermot “Lucky” Underwood = breacher / support.
+- EXTREME PREJUDICE remains Mansell’s personal named CheyTac M200 and is recovered
+  at his overwatch position after defeat.
+- The Temple Pavilion CheyTac M200 remains a separate unnamed rifle.
+- Legal identities and Oscar Four Delta history remain authoring-only in Game 1.
+- La Avispa does not appear in Game 1 and is not assigned to any CRIMSON encounter.
+
+DETAILED MAP DEVELOPMENT ACCEPTED IN REV2
+
+1. TEMPLE PAVILION BRANCH
+
+The western Temple Pavilion is now developed as a navigational branch rather than a
+single objective point. The outside door is locked; the player reaches Goldberg’s
+secure office through a service-shed tunnel, stairs and a concealed movable-bookshelf
+door. From inside, the pavilion can be opened back toward the exterior. The unnamed
+M200 and a low-wall firing position provide one optional counter-sniper solution
+against Rip without making that solution mandatory.
+
+2. REGENT CACHE DISCOVERY
+
+The western-cape flagpole cache remains the protected optional Regent dead drop. Map
+notes preserve the weatherproof package, encrypted USB drive, unsigned handwritten
+note, unfamiliar symbol and non-Game-1 coordinates. Rev2 additionally maps eight
+benches around the island and explicitly ties them to scattered coordinate fragments
+that can reveal the cache location. The puzzle is optional and must not make the cache
+mandatory for completing the finale.
+
+3. GUESTHOUSE / SECURITY ROUTE
+
+The detailed KML places Underwood’s encounter in the northwestern guesthouse/service
+side of the residence property. Victor Two Bravo may approach under foliage cover,
+enter the apparently dark guesthouse, survive Underwood’s stun-grenade initiation,
+and recover his access card for the concealed security-monitoring room.
+
+The earlier phrase “north eastern corner” is corrected. The physical guesthouse marker
+and encounter wording now agree on the northwestern guesthouse/service side.
+
+4. LOCAL IFF AGAINST GRAVES
+
+Underwood’s card may allow the player to alter local IFF threat profiles so Goldberg’s
+privately sourced property defenses turn against Graves. Rev2 intentionally does not
+lock an automatic remote kill. The IFF-assisted route may suppress, injure, displace,
+or defeat Graves depending on final encounter implementation. Direct combat remains a
+fully valid solution.
+
+5. UNDERGROUND SERVICE / HOLDING COMPLEX
+
+The detailed map adds a service and logistics layer beneath / behind the property:
+- port supply-warehouse tunnel access;
+- supply tunnel;
+- cargo elevator and stair access;
+- underground holding-facility polygon;
+- multiple holding-facility corridor branches;
+- utility corridor branch;
+- HVAC / backup-generator service shed;
+- keypad-combination collectible controlling access through a non-breachable service
+  door.
+
+This geography may support the already established discovery of trafficking and other
+criminal evidence in the finale. Exact room content, victims, evidence presentation,
+combat use and environmental storytelling remain subject to dedicated interior design.
+
+6. OPTIONAL INTELLIGENCE / VISITOR EVIDENCE
+
+Rev2 maps additional optional intelligence, including:
+- a northwestern beach bungalow with a flash drive and compromising material involving
+  then president-elect Barry James Crodyn and Justices Walter Pedilla and Creighton
+  Howard;
+- related compromising photo/video collectible material;
+- an abandoned smartphone containing a visitor log covering the preceding four months.
+
+These are accepted as optional map-level collectible concepts. Do not extrapolate new
+public consequences, legal outcomes, dates, identities or off-island operations from
+these props without a later narrative-source pass.
+
+7. OVERHEAD UAV COVER RULE
+
+Covered seating / canopy spaces may break direct overhead EO/thermal line of sight and
+reduce exposure to overhead UAV sensors. They do not make the player thermally
+invisible. Open sides preserve lateral and ground-level visibility. Final drone sensor
+models, detection cones, reacquisition behavior and difficulty tuning remain open.
+
+CORRECTIONS APPLIED TO OWNER KML
+
+- “Crondyn” -> canonical “Crodyn” in two collectible descriptions.
+- “north eastern corner” -> northwestern guesthouse/service-side wording.
+- IFF wording changed from guaranteed remote defeat of CRIMSON ONE to an
+  implementation-open IFF-assisted encounter route.
+- canopy / tent language changed from generic thermal shelter to direct-line-of-sight
+  reduction without thermal invisibility.
+- obvious local prose typos in the affected CRIMSON THREE / CRIMSON ONE / helipad
+  notes corrected without changing story intent.
+
+GOLDBERG SECURITY GOVERNANCE
+
+The residence security architecture remains:
+- privately sourced;
+- fully controlled by Goldberg;
+- protected from / isolated from PANDORA;
+- local to the property;
+- not an access path into AEGIS, U.S. military systems or wider strategic networks.
+
+The detailed map may add cameras, drones, automated weapons, access control and local
+IFF interactions, but must not expand this system into a wider strategic backdoor.
+
+FICTIONALIZATION REQUIREMENT
+
+The 138-feature KML is planning/reference geometry, not a mandate to reproduce the
+real reference property one-to-one. During UE5 blockout and production, move, merge,
+enlarge, remove and invent structures, paths, terrain breaks and sightlines as needed
+to create a distinct fictional island, readable combat spaces and safe streaming /
+performance geometry.
+
+MATURITY / OPEN PRODUCTION DEPENDENCIES
+
+REV2 VERDICT: DETAILED ENVIRONMENT AND TRAVERSAL REFERENCE / SOURCE-READY /
+NOT PRODUCTION-READY COMBAT BLOCKOUT.
+
+The new KML materially advances environment, interior-access and tunnel planning, but
+still does not close all production requirements. Remain open unless separately landed:
+- explicit surface mission-route lines and branch gating;
+- patrol areas and alert propagation;
+- reinforcement routes and encounter polygons;
+- drone patrol tracks, sensor models and counterplay;
+- automated-weapon arcs, ammunition and safety behavior;
+- final Tripper network UI / IFF feedback and consequences;
+- War Wolf encounter scripting and checkpoints;
+- companion formation, stun separation and reunion behavior;
+- full guesthouse, residence, pavilion and underground floor plans;
+- no-return boundary and protected helipad escape blocking;
+- accessibility, lighting, weather, sea state, destruction, persistence, streaming
+  and performance budgets;
+- sufficient production fictionalization from the real-world topographic reference.
+
+SOURCE HIERARCHY
+
+Controlling companion sources remain:
+- PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+- EXTREME_PREJUDICE_Build_Spec_rev2.txt
+- August 1 SINS OF OUR FATHERS geography/objective-flow rev1 for unchanged protected
+  finale and encounter canon.
+
+This rev2 controls the detailed map-development layer and corrections listed above.
