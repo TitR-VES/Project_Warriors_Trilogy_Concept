@@ -1,0 +1,123 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+SINS OF OUR FATHERS / EAST McFARLANE DETAILED KML REV2
+Generated: 2026-08-07
+Version: rev2
+Status: OWNER-DETAILED KML VERIFIED / CORE CORRECTIONS APPLIED / PR-READY
+
+SCOPE
+
+Validate the owner-supplied detailed East McFarlane KML, apply the continuity and
+source-governance corrections identified during review, and land the detailed map as
+the next level-reference revision without falsely declaring production readiness.
+
+INPUT / OUTPUT VALIDATION
+
+Input:
+- /mnt/data/SINS OF OUR FATHERS mission map.kml
+
+Normalized reviewable output:
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+  SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-07_rev2.kml
+- SHA-256: 882d5b9e3f0aa4af0e11f55ef7fbf8b28263a12ad29015c9db74f4075b8cc774
+
+Geometry validation:
+- placemarks: 138
+- points: 131
+- LineStrings: 6
+- polygons: 1
+- XML parse: PASS
+
+LineString / polygon inventory:
+- Temple Pavilion access underground tunnel
+- supply tunnel
+- underground stair access corridor branch
+- underground holding facility access corridor branch
+- mid-tunnel underground holding facility access corridor branch
+- underground holding facility utility corridor branch
+- underground holding facility polygon
+
+CORE CANON CROSS-CHECK
+
+[PASS] CRIMSON ONE = Richard “Digger” Graves / close quarters.
+[PASS] CRIMSON TWO = Lawrence “Rip” Mansell / overwatch / precision.
+[PASS] CRIMSON THREE = Dermot “Lucky” Underwood / breacher / support.
+[PASS] EXTREME PREJUDICE remains Mansell’s personal M200.
+[PASS] Temple Pavilion M200 remains separate and unnamed.
+[PASS] Regent western-cape cache payload preserved.
+[PASS] Goldberg security remains private, local and PANDORA-isolated.
+[PASS] Spook refuses Bishop’s stand-down order.
+[PASS] Victor Two Bravo rogue declaration preserved.
+[PASS] Goldberg / Stockbridge helicopter escape preserved.
+[PASS] No La Avispa Game 1 assignment introduced.
+
+CORRECTIONS APPLIED
+
+1. CANONICAL SURNAME SPELLING
+- Two “Crondyn” occurrences corrected to “Crodyn.”
+
+2. GUESTHOUSE CARDINAL DIRECTION
+- CRIMSON THREE note no longer calls the guesthouse approach the “north eastern
+  corner.” It now identifies the northwestern guesthouse/service side, matching the
+  mapped guesthouse feature.
+
+3. IFF / GRAVES OUTCOME GOVERNANCE
+- Removed wording that guaranteed IFF manipulation would remotely defeat Graves.
+- Current wording allows the IFF-assisted route to suppress, injure, displace or defeat
+  him depending on final encounter implementation.
+- Direct combat remains valid.
+
+4. UAV / THERMAL COVER GOVERNANCE
+- Covered seating no longer implies blanket thermal concealment.
+- Current wording limits the benefit to breaking direct overhead EO/thermal line of
+  sight / reducing overhead sensor exposure, while leaving lateral exposure possible.
+
+5. LOCAL PROSE CLEANUP
+- Corrected obvious typos in the affected Underwood, Graves and helipad descriptions
+  without changing encounter intent or protected story beats.
+
+DETAILED DEVELOPMENT VERIFIED
+
+[RECORDED] Temple Pavilion tunnel / concealed-bookshelf access route.
+[RECORDED] locked exterior Pavilion access opened from inside.
+[RECORDED] optional unnamed-M200 / low-wall counter-sniper lane.
+[RECORDED] eight-bench coordinate-fragment discovery logic for Regent cache.
+[RECORDED] expanded port / supply / underground service geometry.
+[RECORDED] underground holding-facility polygon and corridor branches.
+[RECORDED] keypad-combination collectible / controlled service-door access.
+[RECORDED] optional Crodyn / Pedilla / Howard compromising-media props.
+[RECORDED] abandoned smartphone with four-month visitor log.
+[RECORDED] detailed structure, door, utility, terrain-reference and environmental points.
+
+DISCLOSURE / SOURCE-GOVERNANCE NOTES
+
+The new Crodyn / Pedilla / Howard media and visitor-log props are accepted as optional
+map-level collectible concepts. This audit does not infer public exposure, prosecution,
+mission-to-mission consequences, additional named visitors or off-island operations.
+Those require later narrative-source work if desired.
+
+The detailed KML is a level-design reference. It does not lock a one-to-one recreation
+of the real reference property. Production must continue to fictionalize structures,
+paths, terrain, sightlines and encounter spaces.
+
+OPEN PRODUCTION REGISTER
+
+Still open unless landed elsewhere:
+- surface route lines and branch gates;
+- patrol / alert / reinforcement geometry;
+- drone routes and final sensor model;
+- automated-weapon arcs and safety rules;
+- final IFF UI and encounter result thresholds;
+- War Wolf combat scripting / checkpoints;
+- companion AI and stun recovery;
+- final interiors;
+- no-return / helipad protected-escape implementation;
+- accessibility, lighting, weather, destruction, persistence, streaming and performance;
+- production fictionalization.
+
+RESULT
+
+PASS — DETAILED MAP REV2 IS SOURCE-READY.
+
+Maturity remains DETAILED ENVIRONMENT / TRAVERSAL REFERENCE, NOT PRODUCTION-READY
+COMBAT BLOCKOUT. The rev2 source set captures the new map development, applies the
+identified continuity corrections, and preserves all protected finale canon.
