@@ -3,159 +3,177 @@ SINS OF OUR FATHERS / EAST McFARLANE DETAILED KML REV2
 Generated: 2026-08-07
 Updated: 2026-08-08
 Version: rev2
-Status: OWNER-DETAILED KML VERIFIED / CORE CORRECTIONS APPLIED / FICTIONALIZATION DIRECTION LOCKED / PR-READY
+Status: LATEST OWNER KML VERIFIED / SECURITY AND WEAPON LOCKS LANDED / PR-READY
 
 SCOPE
 
-Validate the owner-supplied detailed East McFarlane KML, apply the continuity and
-source-governance corrections identified during review, record the owner-approved
-production fictionalization transform, and land the detailed map as the next
-level-reference revision without falsely declaring production readiness.
+Validate the latest owner-supplied East McFarlane KML, carry forward prior continuity
+corrections, verify the revised CRIMSON TWO / southern-vantage / Regent / underground
+geometry, land ThreeHalf gameplay behavior and EXTREME PREJUDICE optic authority, and
+preserve the approved fictionalization direction without declaring production readiness.
 
-INPUT / OUTPUT VALIDATION
+INPUT / OUTPUT
 
-Input:
-- /mnt/data/SINS OF OUR FATHERS mission map.kml
+Latest input:
+- /mnt/data/SINS OF OUR FATHERS mission map (2).kml
 
-Normalized reviewable geometry-and-notes output:
+Repository output:
 - dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
   SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-07_rev2.kml
-- SHA-256: 3e379ad30186426ebb89ce9d74bb9eb2dc30d522487859d07be3f4e9b34213e2
+- Git blob SHA: de4f002c4f8b7774ac563491a5795fea22508efd
 
-Geometry validation:
-- placemarks: 138
-- points: 131
+Geometry validation before landing:
+- placemarks: 152
+- points: 145
 - LineStrings: 6
 - polygons: 1
 - XML parse: PASS
 
-LineString / polygon inventory:
-- Temple Pavilion access underground tunnel
-- supply tunnel
-- underground stair access corridor branch
-- underground holding facility access corridor branch
-- mid-tunnel underground holding facility access corridor branch
-- underground holding facility utility corridor branch
-- underground holding facility polygon
-
 CORE CANON CROSS-CHECK
 
-[PASS] CRIMSON ONE = Richard “Digger” Graves / close quarters.
-[PASS] CRIMSON TWO = Lawrence “Rip” Mansell / overwatch / precision.
-[PASS] CRIMSON THREE = Dermot “Lucky” Underwood / breacher / support.
-[PASS] EXTREME PREJUDICE remains Mansell’s personal M200.
-[PASS] Temple Pavilion M200 remains separate and unnamed.
-[PASS] Regent cache payload preserved.
+[PASS] CRIMSON ONE = Richard “Digger” Graves.
+[PASS] CRIMSON TWO = Lawrence “Rip” Mansell.
+[PASS] CRIMSON THREE = Dermot “Lucky” Underwood.
+[PASS] La Avispa remains absent from Game 1.
+[PASS] Regent cache payload remains protected and optional.
 [PASS] Goldberg security remains private, local and PANDORA-isolated.
-[PASS] Spook refuses Bishop’s stand-down order.
-[PASS] Victor Two Bravo rogue declaration preserved.
-[PASS] Goldberg / Stockbridge helicopter escape preserved.
-[PASS] No La Avispa Game 1 assignment introduced.
+[PASS] Protected helipad ending remains unchanged.
 
-CORRECTIONS APPLIED
+LATEST MAP CHANGES — VERIFIED
 
-1. CANONICAL SURNAME SPELLING
-- Two “Crondyn” occurrences corrected to “Crodyn.”
+1. SOUTHERN-FLAGPOLE VANTAGE
 
-2. GUESTHOUSE CARDINAL DIRECTION
-- CRIMSON THREE note no longer calls the reference-map guesthouse approach the
-  “north eastern corner.” It identifies the mapped northwestern guesthouse/service side
-  in pre-transform KML space.
-- Final production cardinal terminology is now explicitly required to be regenerated
-  after the approved east-west mirror.
+[PASS] New long-range vantage near the southern flagpole is present.
+[PASS] It creates a substantially longer firing solution against the relocated Mansell
+than the Temple Pavilion lane.
+[PASS] Current reference-space range is approximately 500 m; Temple lane remains roughly
+240-260 m.
+[PASS] Exact ballistic tuning remains production-level unless later source-locked.
 
-3. IFF / GRAVES OUTCOME GOVERNANCE
-- Removed wording that guaranteed IFF manipulation would remotely defeat Graves.
-- Current wording allows the IFF-assisted route to suppress, injure, displace or defeat
-  him depending on final encounter implementation.
-- Direct combat remains valid.
+2. REGENT FRAGMENT REDISTRIBUTION
 
-4. UAV / THERMAL COVER GOVERNANCE
-- Covered seating no longer implies blanket thermal concealment.
-- Current wording limits the benefit to breaking direct overhead EO/thermal line of
-  sight / reducing overhead sensor exposure, while leaving lateral exposure possible.
+[PASS] A new bench is mapped near the southern flagpole.
+[PASS] W64D has moved to that southern bench.
+[PASS] Eight-fragment puzzle count remains intact.
+[PASS] Change reduces central clustering without changing the protected cache payload.
 
-5. LOCAL PROSE CLEANUP
-- Corrected obvious typos in the affected Underwood, Graves and helipad descriptions
-  without changing encounter intent or protected story beats.
+3. CRIMSON TWO RELOCATION
 
-DETAILED DEVELOPMENT VERIFIED
+[PASS] Mansell / mobile observation post is relocated into the fortified bermed I-Dome
+site at the island high point.
+[PASS] This movement does not disrupt the established mission spine.
+[PASS] Staging -> Mansell remains approximately 339 m.
+[PASS] Temple -> Mansell remains a viable counter-sniper relationship.
+[PASS] Old concept of using the berm itself to attack a farther-uphill Mansell position
+is superseded; the berm is now CRIMSON TWO's fortified objective space.
 
-[RECORDED] Temple Pavilion tunnel / concealed-bookshelf access route.
-[RECORDED] locked exterior Pavilion access opened from inside.
-[RECORDED] optional unnamed-M200 / low-wall counter-sniper lane.
-[RECORDED] eight-bench coordinate-fragment discovery logic for Regent cache.
-[RECORDED] expanded port / supply / underground service geometry.
-[RECORDED] underground holding-facility polygon and corridor branches.
-[RECORDED] keypad-combination collectible / controlled service-door access.
-[RECORDED] optional Crodyn / Pedilla / Howard compromising-media props.
-[RECORDED] abandoned smartphone with four-month visitor log.
-[RECORDED] detailed structure, door, utility, terrain-reference and environmental points.
+4. I-DOME / FORMER TENNIS-COURT FICTIONALIZATION
 
-FICTIONALIZATION DIRECTION VERIFIED — 2026-08-08 OWNER LOCK
+[PASS] Real-reference south-tennis-court area is repurposed as the I-Dome autonomous
+air-defense battery / Mansell observation-post site.
+[PASS] Several-foot berm enclosure is owner-confirmed, with narrow southern entry gap.
+[PASS] This increases both gameplay function and fictional separation from the real
+reference property.
 
-[LOCKED] The KML is pre-transform planning/reference geometry, not literal final UE5
-coordinates.
+5. UNDERGROUND ACCESS
 
-[LOCKED] The area corresponding to the real-reference property’s helipad is repurposed
-for the fictional equestrian-club area.
+[PASS] Three explicit code-locked holding-facility access doors are mapped.
+[PASS] Revised access-hallway geometry uses a cleaner dogleg / corridor relationship.
+[PASS] Door markers align with intended corridor/tunnel geometry.
+[PASS] No macro mission-flow disruption identified.
 
-[LOCKED] The fictional mission helipad is relocated north, immediately west of the main
-residence in the current reference layout. Production must preserve this fictional
-divergence rather than restore the real-reference helipad arrangement.
+6. JUNCTION-BOX LABEL
 
-[LOCKED] Production applies an east-west mirror to the island / playable layout. This is
-a fictionalization transform rather than a mission-flow redesign.
+[PASS] Repository KML uses “electrical junction box.”
+[PASS] Malformed “junctiona” labeling is not retained.
 
-[LOCKED] The mirror preserves mission topology, adjacency, traversal sequence, useful
-relative distances, elevation relationships and established gameplay sightlines unless
-later playtesting gives a design reason to alter them.
+EXTREME PREJUDICE SOURCE PROMOTION
 
-[LOCKED] The repository KML remains unmirrored as provenance / pre-transform spatial
-reference. It should not be cosmetically rewritten to masquerade as final fictional
-geospatial coordinates.
+[LOCKED] EXTREME PREJUDICE is Mansell's named CheyTac M200.
+[LOCKED] High-powered THERMAL-IMAGING optic is a defining named-build feature.
+[LOCKED] Separate unnamed Temple Pavilion M200 uses a regular high-powered optic with
+NO thermal-imaging capability.
+[LOCKED] Foliage / partial visual concealment is less dependable against Mansell; hard
+LOS breaks remain meaningful.
 
-[LOCKED] After mirroring, all compass-language authority transfers to the actual
-fictional production space. Dialogue, HUD objectives, map labels, signage, encounter
-notes and UE5 naming must not blindly inherit east/west labels from the reference KML.
+New authority:
+- dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev3.txt
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_12.txt
 
-[GUIDANCE] Continue secondary fictionalization through altered building massing, paths,
-retaining walls, shoreline / vegetation treatment, invented or merged structures and
-gameplay-driven terrain edits where useful.
+Registry lineage check:
+- v2.10 = SANDMAN addition — preserved/inherited.
+- v2.11 = TROOPER addition — preserved/inherited.
+- v2.12 = EXTREME PREJUDICE thermal-optic correction layer.
 
-DISCLOSURE / SOURCE-GOVERNANCE NOTES
+THREEHALF SOURCE LANDING
 
-The new Crodyn / Pedilla / Howard media and visitor-log props are accepted as optional
-map-level collectible concepts. This audit does not infer public exposure, prosecution,
-mission-to-mission consequences, additional named visitors or off-island operations.
-Those require later narrative-source work if desired.
+[LOCKED] ThreeHalf = heavy centaur-like quadrupedal autonomous UGV.
+[LOCKED] Extremely difficult to disable once active.
+[LOCKED] Entirely avoidable in SINS OF OUR FATHERS.
+[LOCKED] Normally docked / dormant.
+[LOCKED] Reckless repeated aggressive engagement of enforcer UAVs can escalate security
+state enough to activate ThreeHalves.
+[LOCKED] Direct attack can also wake a dormant unit.
+[LOCKED] Stealth approach to a dormant docking station permits Tripper sabotage.
+[LOCKED] Sabotage disables / fries power-management circuitry and shuts the unit down
+without waking it.
+[LOCKED] Sabotage is optional; avoiding escalation entirely is also valid.
 
-The detailed KML is a level-design reference. The approved mirror materially increases
-fictional separation from the real reference property without discarding the mission
-geometry already developed.
+Dedicated authority:
+- dev_src_docs/gameplay_and_systems/
+  PW_ThreeHalf_Heavy_QUGV_Security_Escalation_and_Sabotage_2026-08-08_rev1.txt
+
+Current belt-fed AR-15-pattern weapon depiction remains a map-level hardware concept;
+exact armament, armor, sensors, component damage and durability tuning remain open.
+
+PRIOR CORRECTIONS — REGRESSION CHECK
+
+[PASS] Canonical Crodyn spelling retained.
+[PASS] Reference-space guesthouse direction mismatch remains corrected.
+[PASS] IFF-assisted Graves outcome remains implementation-open, not guaranteed remote kill.
+[PASS] Covered seating does not imply blanket thermal invisibility.
+[PASS] Helipad ending prose remains corrected and protected.
+
+FICTIONALIZATION — CURRENT OWNER LOCKS
+
+[LOCKED] Repository KML remains pre-transform planning/reference geometry.
+[LOCKED] Real-reference helipad area -> fictional equestrian-club area.
+[LOCKED] Fictional helipad relocated beside main residence.
+[LOCKED] Real-reference south tennis court -> fortified I-Dome / CRIMSON TWO site.
+[LOCKED] Production applies east-west mirror without redesigning mission topology.
+[LOCKED] Final compass language comes from mirrored production space.
+[LOCKED] Subtle shoreline alteration is approved where it does not disrupt established
+mission geometry.
+
+Shoreline preservation constraints:
+- floatplane landing / boat-launch access;
+- beach-to-guesthouse infiltration corridor;
+- Temple / Regent branch relationships;
+- port / underground-service access;
+- residence / helipad finale relationship;
+- intentional surveillance / encounter gating.
 
 OPEN PRODUCTION REGISTER
 
-Still open unless landed elsewhere:
-- execution of the east-west mirrored UE5 blockout and final fictional compass labels;
-- surface route lines and branch gates;
-- patrol / alert / reinforcement geometry;
-- drone routes and final sensor model;
-- automated-weapon arcs and safety rules;
-- final IFF UI and encounter result thresholds;
+Still open unless separately landed:
+- mirrored UE5 blockout and final compass labels;
+- final shoreline fictionalization pass;
+- surface route / patrol / alert / reinforcement geometry;
+- final drone sensor and route implementation;
+- automated-defense arcs / safety behavior;
+- ThreeHalf damage model, armor zones, sensors and final hardware spec;
+- final IFF UI / result thresholds;
 - War Wolf combat scripting / checkpoints;
-- companion AI and stun recovery;
-- final interiors;
-- no-return / helipad protected-escape implementation;
-- accessibility, lighting, weather, destruction, persistence, streaming and performance;
-- secondary production fictionalization beyond the mirror.
+- final interiors and encounter blocking;
+- helipad no-return / escape protection;
+- accessibility, lighting, weather, destruction, persistence, streaming and performance.
 
 RESULT
 
-PASS — DETAILED MAP REV2 IS SOURCE-READY.
+PASS — LATEST SINS OF OUR FATHERS DETAILED MAP UPDATE IS SOURCE-LANDED.
 
-Maturity remains DETAILED ENVIRONMENT / TRAVERSAL REFERENCE, NOT PRODUCTION-READY
-COMBAT BLOCKOUT. The rev2 source set captures the new map development, applies the
-identified continuity corrections, preserves protected finale canon, and now locks the
-east-west production mirror plus the helipad/equestrian-area divergence as the approved
-fictionalization direction.
+The relocation of Mansell into the I-Dome berm does not break established mission
+geometry. The new southern vantage, redistributed Regent fragment, revised underground
+doors/corridors, ThreeHalf escalation/sabotage behavior and EXTREME PREJUDICE thermal
+optic are now represented in durable sources. Maturity remains DETAILED ENVIRONMENT /
+TRAVERSAL REFERENCE, NOT PRODUCTION-READY COMBAT BLOCKOUT.
