@@ -1,0 +1,98 @@
+PROJECT WARRIORS — GAMEPLAY / AUTONOMOUS SECURITY SOURCE
+THREEHALF HEAVY Q-UGV — SECURITY ESCALATION AND DOCK SABOTAGE
+Generated: 2026-08-08
+Version: rev1
+Status: OWNER-CONFIRMED MISSION BEHAVIOR / HARDWARE DETAILS PARTLY OPEN
+
+PURPOSE
+
+Capture the owner-confirmed ThreeHalf heavy autonomous UGV behavior introduced through
+the detailed SINS OF OUR FATHERS East McFarlane map, separating protected gameplay
+logic from lower-level hardware and tuning details that remain open.
+
+IDENTITY / ROLE
+
+ThreeHalf is a heavy centaur-like quadrupedal autonomous unmanned ground vehicle used
+as part of Goldberg's private island security architecture.
+
+Core gameplay identity:
+- extremely tough to disable once active;
+- not a mandatory combat encounter;
+- can be avoided entirely by a careful player;
+- normally remains docked and in standby until the local security state escalates;
+- functions as a consequence for reckless escalation rather than a required boss fight.
+
+SINS OF OUR FATHERS — ACTIVATION LOGIC
+
+ThreeHalves begin the mission docked / dormant.
+
+A sufficiently high local alarm level can wake them into combat mode. In particular,
+reckless repeated aggressive engagement of Goldberg's armed enforcer UAVs can escalate
+the defense system far enough that ThreeHalves are activated and deployed.
+
+A direct attack on a docked ThreeHalf may also provoke activation unless the unit has
+already been safely disabled through the stealth sabotage route below.
+
+The intended systemic message is that destroying every automated security asset is not
+always the safest strategy. Excessive aggression can make the island's defense response
+materially heavier.
+
+STEALTH DOCK-SABOTAGE ROUTE
+
+If Victor Two Bravo can approach a ThreeHalf docking station without triggering the
+unit while it is still docked and on standby, Tripper can sabotage the unit.
+
+The sabotage action fries / disables the ThreeHalf's power-management circuitry,
+causing the docked unit to shut down without waking into combat mode.
+
+Protected behavior:
+- requires the ThreeHalf to remain docked and dormant long enough for the team to reach
+  the station stealthily;
+- the sabotage does not wake the unit first and then require a combat shutdown;
+- a successfully sabotaged unit is removed as an active threat;
+- the route is optional and rewards reconnaissance, stealth and restraint;
+- the mission remains completable without fighting or sabotaging a ThreeHalf if the
+  player avoids the escalation state entirely.
+
+COMBAT / DURABILITY RULE
+
+Once fully active, a ThreeHalf should read as a serious heavy-security threat and be
+extremely difficult to disable through ordinary direct fire. Exact hit points, armor
+zones, mobility kills, component damage, ammunition vulnerability and heavy-weapon
+counters remain production tuning unless separately locked later.
+
+Do not tune the unit so weakly that activating one feels equivalent to fighting a normal
+security guard or light drone. Conversely, do not make direct combat mandatory for the
+canonical mission flow.
+
+CURRENT MAP-LEVEL HARDWARE NOTE
+
+The detailed East McFarlane KML currently depicts active ThreeHalves carrying modified
+belt-fed AR-15-pattern automatic rifles with spare linked ammunition on the rear body.
+This is retained as the current map-level visual/loadout concept, but the exact weapon
+model, ammunition capacity, armor package, sensor suite, locomotion specification and
+animation set remain open unless later promoted into a dedicated hardware lock.
+
+SECURITY-SYSTEM SCOPE
+
+ThreeHalf belongs to Goldberg's privately sourced property-security architecture.
+That architecture remains:
+- local to the island/property;
+- fully under Goldberg's control;
+- protected from / isolated from PANDORA;
+- not a backdoor into AEGIS, U.S. military or wider strategic systems.
+
+FICTIONALIZATION / MAP RELATIONSHIP
+
+The detailed SINS OF OUR FATHERS KML is pre-transform planning geometry. Production
+applies the locked east-west fictionalization mirror and may subtly alter shoreline,
+architecture and secondary terrain while preserving mission topology. ThreeHalf dock
+placement may move with that coherent transform so long as the stealth-approach and
+optional-sabotage function survives.
+
+CONTROLLING MISSION SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+PW_SINS_OF_OUR_FATHERS_East_McFarlane_Detailed_Map_Level_Reference_Addendum_2026-08-07_rev2.txt
+
+END
