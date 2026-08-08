@@ -1,14 +1,16 @@
 PROJECT WARRIORS — SOURCE LANDING AUDIT
 SINS OF OUR FATHERS / EAST McFARLANE DETAILED KML REV2
 Generated: 2026-08-07
+Updated: 2026-08-08
 Version: rev2
-Status: OWNER-DETAILED KML VERIFIED / CORE CORRECTIONS APPLIED / PR-READY
+Status: OWNER-DETAILED KML VERIFIED / CORE CORRECTIONS APPLIED / FICTIONALIZATION DIRECTION LOCKED / PR-READY
 
 SCOPE
 
 Validate the owner-supplied detailed East McFarlane KML, apply the continuity and
-source-governance corrections identified during review, and land the detailed map as
-the next level-reference revision without falsely declaring production readiness.
+source-governance corrections identified during review, record the owner-approved
+production fictionalization transform, and land the detailed map as the next
+level-reference revision without falsely declaring production readiness.
 
 INPUT / OUTPUT VALIDATION
 
@@ -43,7 +45,7 @@ CORE CANON CROSS-CHECK
 [PASS] CRIMSON THREE = Dermot “Lucky” Underwood / breacher / support.
 [PASS] EXTREME PREJUDICE remains Mansell’s personal M200.
 [PASS] Temple Pavilion M200 remains separate and unnamed.
-[PASS] Regent western-cape cache payload preserved.
+[PASS] Regent cache payload preserved.
 [PASS] Goldberg security remains private, local and PANDORA-isolated.
 [PASS] Spook refuses Bishop’s stand-down order.
 [PASS] Victor Two Bravo rogue declaration preserved.
@@ -56,9 +58,11 @@ CORRECTIONS APPLIED
 - Two “Crondyn” occurrences corrected to “Crodyn.”
 
 2. GUESTHOUSE CARDINAL DIRECTION
-- CRIMSON THREE note no longer calls the guesthouse approach the “north eastern
-  corner.” It now identifies the northwestern guesthouse/service side, matching the
-  mapped guesthouse feature.
+- CRIMSON THREE note no longer calls the reference-map guesthouse approach the
+  “north eastern corner.” It identifies the mapped northwestern guesthouse/service side
+  in pre-transform KML space.
+- Final production cardinal terminology is now explicitly required to be regenerated
+  after the approved east-west mirror.
 
 3. IFF / GRAVES OUTCOME GOVERNANCE
 - Removed wording that guaranteed IFF manipulation would remotely defeat Graves.
@@ -88,6 +92,37 @@ DETAILED DEVELOPMENT VERIFIED
 [RECORDED] abandoned smartphone with four-month visitor log.
 [RECORDED] detailed structure, door, utility, terrain-reference and environmental points.
 
+FICTIONALIZATION DIRECTION VERIFIED — 2026-08-08 OWNER LOCK
+
+[LOCKED] The KML is pre-transform planning/reference geometry, not literal final UE5
+coordinates.
+
+[LOCKED] The area corresponding to the real-reference property’s helipad is repurposed
+for the fictional equestrian-club area.
+
+[LOCKED] The fictional mission helipad is relocated north, immediately west of the main
+residence in the current reference layout. Production must preserve this fictional
+divergence rather than restore the real-reference helipad arrangement.
+
+[LOCKED] Production applies an east-west mirror to the island / playable layout. This is
+a fictionalization transform rather than a mission-flow redesign.
+
+[LOCKED] The mirror preserves mission topology, adjacency, traversal sequence, useful
+relative distances, elevation relationships and established gameplay sightlines unless
+later playtesting gives a design reason to alter them.
+
+[LOCKED] The repository KML remains unmirrored as provenance / pre-transform spatial
+reference. It should not be cosmetically rewritten to masquerade as final fictional
+geospatial coordinates.
+
+[LOCKED] After mirroring, all compass-language authority transfers to the actual
+fictional production space. Dialogue, HUD objectives, map labels, signage, encounter
+notes and UE5 naming must not blindly inherit east/west labels from the reference KML.
+
+[GUIDANCE] Continue secondary fictionalization through altered building massing, paths,
+retaining walls, shoreline / vegetation treatment, invented or merged structures and
+gameplay-driven terrain edits where useful.
+
 DISCLOSURE / SOURCE-GOVERNANCE NOTES
 
 The new Crodyn / Pedilla / Howard media and visitor-log props are accepted as optional
@@ -95,13 +130,14 @@ map-level collectible concepts. This audit does not infer public exposure, prose
 mission-to-mission consequences, additional named visitors or off-island operations.
 Those require later narrative-source work if desired.
 
-The detailed KML is a level-design reference. It does not lock a one-to-one recreation
-of the real reference property. Production must continue to fictionalize structures,
-paths, terrain, sightlines and encounter spaces.
+The detailed KML is a level-design reference. The approved mirror materially increases
+fictional separation from the real reference property without discarding the mission
+geometry already developed.
 
 OPEN PRODUCTION REGISTER
 
 Still open unless landed elsewhere:
+- execution of the east-west mirrored UE5 blockout and final fictional compass labels;
 - surface route lines and branch gates;
 - patrol / alert / reinforcement geometry;
 - drone routes and final sensor model;
@@ -112,7 +148,7 @@ Still open unless landed elsewhere:
 - final interiors;
 - no-return / helipad protected-escape implementation;
 - accessibility, lighting, weather, destruction, persistence, streaming and performance;
-- production fictionalization.
+- secondary production fictionalization beyond the mirror.
 
 RESULT
 
@@ -120,4 +156,6 @@ PASS — DETAILED MAP REV2 IS SOURCE-READY.
 
 Maturity remains DETAILED ENVIRONMENT / TRAVERSAL REFERENCE, NOT PRODUCTION-READY
 COMBAT BLOCKOUT. The rev2 source set captures the new map development, applies the
-identified continuity corrections, and preserves all protected finale canon.
+identified continuity corrections, preserves protected finale canon, and now locks the
+east-west production mirror plus the helipad/equestrian-area divergence as the approved
+fictionalization direction.
