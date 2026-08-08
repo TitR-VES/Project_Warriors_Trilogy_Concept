@@ -1,8 +1,9 @@
 PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
 SINS OF OUR FATHERS — EAST McFARLANE DETAILED MAP REV2
 Generated: 2026-08-07
+Updated: 2026-08-08
 Version: rev2
-Status: DETAILED MAP SYNTHESIS / DEDICATED SOURCE CONTROLS
+Status: DETAILED MAP SYNTHESIS / FICTIONALIZATION DIRECTION LOCKED / DEDICATED SOURCE CONTROLS
 
 PURPOSE
 
@@ -15,13 +16,19 @@ REV2 MAP SNAPSHOT
 - Normalized KML SHA-256: 3e379ad30186426ebb89ce9d74bb9eb2dc30d522487859d07be3f4e9b34213e2
 - The August 1 eight-point map remains historical rev1; rev2 is the active detailed
   environment/traversal reference.
+- The KML remains pre-transform planning/reference geometry rather than literal final
+  production coordinates.
 - The map is source-ready but not a production-ready combat blockout.
 
 MISSION SPINE PRESERVED
 
-engine-off landing -> staging -> direct or western Temple branch -> Rip -> optional
-Regent cache -> foliage approach -> Underwood guesthouse -> security room / local IFF
--> Graves -> residence search -> helipad betrayal / rogue declaration / escape.
+engine-off landing -> staging -> direct or Temple branch -> Rip -> optional Regent
+cache -> foliage approach -> Underwood guesthouse -> security room / local IFF -> Graves
+-> residence search -> helipad betrayal / rogue declaration / escape.
+
+The approved production east-west mirror changes handedness, not mission topology. Final
+compass labels must be generated from the mirrored fictional map instead of inherited
+from KML reference-space labels.
 
 CORE CONTINUITY
 
@@ -42,8 +49,9 @@ REV2 DETAIL LOCKS
 - Pavilion counter-sniper lane: unnamed M200 + low-wall position is one optional Rip
   solution, not mandatory.
 - Regent cache: eight mapped benches carry coordinate-fragment discovery logic for the
-  protected western-cape flagpole dead drop.
-- Underwood route: northwestern guesthouse/service side, not “north eastern corner.”
+  protected flagpole dead drop.
+- Underwood route: reference KML guesthouse/service-side wording corrected against the
+  mapped geometry; production compass terminology must be re-derived after mirroring.
 - IFF route: can turn local defenses against Graves but does not yet guarantee a remote
   kill; exact suppression / injury / displacement / defeat outcome remains tunable.
 - Underground layer: port/supply access, supply tunnel, stairs, cargo elevator, holding
@@ -58,18 +66,39 @@ REV2 DETAIL LOCKS
 CORRECTIONS APPLIED
 
 - Crodyn spelling corrected in two KML notes.
-- Guesthouse cardinal-direction mismatch corrected.
+- Guesthouse cardinal-direction mismatch corrected for the reference KML.
 - Guaranteed remote Graves defeat softened to implementation-open IFF assistance.
 - UAV cover language normalized to sensor line-of-sight reduction.
 - Nearby obvious prose typos corrected without story changes.
 
+PRODUCTION FICTIONALIZATION LOCK
+
+- The real-reference helipad footprint is repurposed in the fictional design as the
+  equestrian-club area.
+- The fictional mission helipad has been relocated north, immediately west of the
+  main-residence compound in the current reference layout.
+- Production should mirror the island east-to-west as a coherent fictionalization
+  transform.
+- The mirror should preserve mission order, adjacency, useful relative distances,
+  elevation relationships and established sightlines unless playtesting justifies later
+  changes.
+- Do not rewrite the repository KML merely to imitate the final mirrored game space; it
+  remains source provenance / pre-transform reference geometry.
+- After the mirror, all final east/west/northeast/northwest terminology in dialogue,
+  objectives, HUD, map labels, signage, documentation and UE5 identifiers must match the
+  actual fictional production compass.
+- Continue secondary fictionalization with altered building massing, paths, retaining
+  walls, shoreline/vegetation treatment, invented or merged structures and gameplay-led
+  terrain changes where useful.
+
 PRODUCTION CAUTION
 
-The detailed KML is planning/reference geometry. UE5 production must substantially
-fictionalize the property rather than reproduce the real topographic reference one-to-one.
-Surface route lines, patrol zones, reinforcement paths, drone routes, combat polygons,
-alert propagation, final interiors, helipad blocking, accessibility and performance work
-remain open.
+The detailed KML is planning/reference geometry. The approved mirror substantially
+reduces one-to-one visual correspondence with the real topographic reference but does
+not by itself close production fictionalization. Surface route lines, patrol zones,
+reinforcement paths, drone routes, combat polygons, alert propagation, final interiors,
+helipad blocking, accessibility, performance work and the mirrored UE5 blockout remain
+open.
 
 CONTROLLING DETAILED SOURCE
 
