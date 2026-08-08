@@ -114,7 +114,7 @@ Controlling companion sources:
   PW_SINS_OF_OUR_FATHERS_East_McFarlane_Detailed_Map_Level_Reference_Addendum_2026-08-07_rev2.txt
 
 Registry authority after this lock:
-- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_10.txt
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_12.txt
 
 Historical relationship:
 - rev2 remains the identity-reconciliation source history;
