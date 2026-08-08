@@ -1,15 +1,17 @@
 PROJECT WARRIORS — GAME 1 / RIPTIDE RED
 SINS OF OUR FATHERS — EAST McFARLANE ISLAND DETAILED MAP / LEVEL-REFERENCE ADDENDUM
 Generated: 2026-08-07
+Updated: 2026-08-08
 Version: rev2
-Status: OWNER-DETAILED MAP LANDING / SOURCE-READY / NOT PRODUCTION-READY
+Status: OWNER-DETAILED MAP LANDING / FICTIONALIZATION DIRECTION LOCKED / SOURCE-READY / NOT PRODUCTION-READY
 
 PURPOSE
 
 Land the owner-supplied detailed East McFarlane KML as the next map-development
 revision for SINS OF OUR FATHERS while preserving the August 1 controlling canon,
-applying the continuity corrections identified during review, and distinguishing
-map-level development from still-open production implementation.
+applying the continuity corrections identified during review, distinguishing map-level
+development from still-open production implementation, and recording the owner-approved
+production fictionalization direction.
 
 SOURCE INPUT
 
@@ -40,10 +42,10 @@ PRESERVED CONTROLLING MACRO FLOW
 
 engine-off floatplane landing
 -> concealed staging and route assessment
--> direct high-ground route or western Temple Pavilion branch
+-> direct high-ground route or Temple Pavilion branch
 -> CRIMSON TWO / Rip overwatch encounter
 -> optional Regent cache
--> eastern-beach / foliage movement toward residence grounds
+-> foliage movement toward residence grounds
 -> CRIMSON THREE / Underwood guesthouse ambush
 -> concealed security room and optional local-IFF manipulation
 -> CRIMSON ONE / Graves main-residence encounter
@@ -54,6 +56,12 @@ engine-off floatplane landing
 -> Spook refusal
 -> Victor Two Bravo rogue declaration
 -> Goldberg and Stockbridge helicopter escape
+
+The order, adjacency, gameplay relationships and route logic above survive the approved
+east-west production mirror. Cardinal labels in the reference KML are reference-space
+labels only where the production mirror changes their side of the fictional island.
+Final in-game compass terms, objective text, dialogue, signage, HUD labels and production
+identifiers must follow the actual mirrored fictional map space.
 
 WAR WOLVES / WEAPON CONTINUITY
 
@@ -70,31 +78,38 @@ DETAILED MAP DEVELOPMENT ACCEPTED IN REV2
 
 1. TEMPLE PAVILION BRANCH
 
-The western Temple Pavilion is now developed as a navigational branch rather than a
-single objective point. The outside door is locked; the player reaches Goldberg’s
-secure office through a service-shed tunnel, stairs and a concealed movable-bookshelf
-door. From inside, the pavilion can be opened back toward the exterior. The unnamed
-M200 and a low-wall firing position provide one optional counter-sniper solution
-against Rip without making that solution mandatory.
+The Temple Pavilion is developed as a navigational branch rather than a single objective
+point. The outside door is locked; the player reaches Goldberg’s secure office through a
+service-shed tunnel, stairs and a concealed movable-bookshelf door. From inside, the
+pavilion can be opened back toward the exterior. The unnamed M200 and a low-wall firing
+position provide one optional counter-sniper solution against Rip without making that
+solution mandatory.
+
+Its west/east side in the final game is determined by the approved production mirror,
+not by blindly retaining the reference KML cardinal label.
 
 2. REGENT CACHE DISCOVERY
 
-The western-cape flagpole cache remains the protected optional Regent dead drop. Map
-notes preserve the weatherproof package, encrypted USB drive, unsigned handwritten
-note, unfamiliar symbol and non-Game-1 coordinates. Rev2 additionally maps eight
-benches around the island and explicitly ties them to scattered coordinate fragments
-that can reveal the cache location. The puzzle is optional and must not make the cache
-mandatory for completing the finale.
+The flagpole cache remains the protected optional Regent dead drop. Map notes preserve
+the weatherproof package, encrypted USB drive, unsigned handwritten note, unfamiliar
+symbol and non-Game-1 coordinates. Rev2 additionally maps eight benches around the
+island and explicitly ties them to scattered coordinate fragments that can reveal the
+cache location. The puzzle is optional and must not make the cache mandatory for
+completing the finale.
+
+Its final in-game compass side follows the mirrored fictional layout.
 
 3. GUESTHOUSE / SECURITY ROUTE
 
-The detailed KML places Underwood’s encounter in the northwestern guesthouse/service
-side of the residence property. Victor Two Bravo may approach under foliage cover,
-enter the apparently dark guesthouse, survive Underwood’s stun-grenade initiation,
-and recover his access card for the concealed security-monitoring room.
+The detailed reference KML places Underwood’s encounter in the northwestern
+guesthouse/service side of the residence property. Victor Two Bravo may approach under
+foliage cover, enter the apparently dark guesthouse, survive Underwood’s stun-grenade
+initiation, and recover his access card for the concealed security-monitoring room.
 
-The earlier phrase “north eastern corner” is corrected. The physical guesthouse marker
-and encounter wording now agree on the northwestern guesthouse/service side.
+The earlier phrase “north eastern corner” was corrected against the pre-transform KML.
+When the production island is mirrored, the final guesthouse-side cardinal term must be
+re-derived from the mirrored fictional layout while preserving the same encounter
+adjacency and route function.
 
 4. LOCAL IFF AGAINST GRAVES
 
@@ -124,9 +139,8 @@ combat use and environmental storytelling remain subject to dedicated interior d
 6. OPTIONAL INTELLIGENCE / VISITOR EVIDENCE
 
 Rev2 maps additional optional intelligence, including:
-- a northwestern beach bungalow with a flash drive and compromising material involving
-  then president-elect Barry James Crodyn and Justices Walter Pedilla and Creighton
-  Howard;
+- a beach bungalow with a flash drive and compromising material involving then
+  president-elect Barry James Crodyn and Justices Walter Pedilla and Creighton Howard;
 - related compromising photo/video collectible material;
 - an abandoned smartphone containing a visitor log covering the preceding four months.
 
@@ -144,7 +158,8 @@ models, detection cones, reacquisition behavior and difficulty tuning remain ope
 CORRECTIONS APPLIED TO OWNER KML
 
 - “Crondyn” -> canonical “Crodyn” in two collectible descriptions.
-- “north eastern corner” -> northwestern guesthouse/service-side wording.
+- “north eastern corner” -> northwestern guesthouse/service-side wording in the
+  pre-transform reference KML.
 - IFF wording changed from guaranteed remote defeat of CRIMSON ONE to an
   implementation-open IFF-assisted encounter route.
 - canopy / tent language changed from generic thermal shelter to direct-line-of-sight
@@ -164,21 +179,56 @@ The residence security architecture remains:
 The detailed map may add cameras, drones, automated weapons, access control and local
 IFF interactions, but must not expand this system into a wider strategic backdoor.
 
-FICTIONALIZATION REQUIREMENT
+FICTIONALIZATION DIRECTION — OWNER LOCK 2026-08-08
 
-The 138-feature KML is planning/reference geometry, not a mandate to reproduce the
-real reference property one-to-one. During UE5 blockout and production, move, merge,
-enlarge, remove and invent structures, paths, terrain breaks and sightlines as needed
-to create a distinct fictional island, readable combat spaces and safe streaming /
-performance geometry.
+The detailed KML is a reference-development artifact, not the literal production-space
+coordinate authority for East McFarlane Island.
+
+The owner has already introduced a significant functional divergence from the real-world
+reference: the area corresponding to the real reference property’s helipad is used for
+the fictional equestrian-club area, while the fictional mission helipad is relocated
+north, immediately west of the main-residence compound in the current reference layout.
+This relocation is intentional and must be preserved as a fictional design choice rather
+than reverted toward the real reference property.
+
+For the production island, apply an EAST-WEST MIRROR to the reference layout. The mirror
+is a fictionalization transform, not a mission-flow redesign. Its purpose is to break the
+recognizable handedness, coastline progression and landmark arrangement of the real-world
+reference while retaining the gameplay relationships already developed.
+
+Production mirror rules:
+
+- mirror the island / playable layout east-to-west as a coherent transform;
+- preserve mission topology, adjacency, traversal order and meaningful relative
+  distances unless gameplay testing later justifies a change;
+- preserve useful elevation relationships and sightlines, including the Rip / Temple
+  counter-sniper relationship, unless iteration improves them;
+- preserve the relocated fictional helipad and equestrian-club substitution as distinct
+  fictional geography;
+- do not mirror the repository KML merely to make its geospatial coordinates look like
+  the final game; retain it as provenance and pre-transform planning geometry;
+- after mirroring, regenerate all final compass-direction language from the fictional
+  production space. Do not carry “east,” “west,” “northeast,” or “northwest” labels from
+  the reference KML when the transform makes them false;
+- dialogue, subtitles, HUD objectives, map labels, signs, encounter documentation and UE5
+  asset / volume names must agree with the final fictional compass;
+- continue secondary fictionalization through altered architectural massing, changed
+  paths and retaining walls, shoreline / vegetation adjustments, merged or invented
+  structures, and encounter-driven terrain edits where useful.
+
+The design objective is not arbitrary geographic change. East McFarlane should retain the
+mission geometry that makes SINS OF OUR FATHERS work while no longer reading as a
+one-to-one recreation of the real reference property.
 
 MATURITY / OPEN PRODUCTION DEPENDENCIES
 
 REV2 VERDICT: DETAILED ENVIRONMENT AND TRAVERSAL REFERENCE / SOURCE-READY /
 NOT PRODUCTION-READY COMBAT BLOCKOUT.
 
-The new KML materially advances environment, interior-access and tunnel planning, but
-still does not close all production requirements. Remain open unless separately landed:
+The new KML materially advances environment, interior-access and tunnel planning, and the
+fictionalization transform is now directionally locked. Production requirements still
+open unless separately landed:
+- execution of the east-west mirrored UE5 blockout and final fictional compass labels;
 - explicit surface mission-route lines and branch gating;
 - patrol areas and alert propagation;
 - reinforcement routes and encounter polygons;
@@ -191,7 +241,7 @@ still does not close all production requirements. Remain open unless separately 
 - no-return boundary and protected helipad escape blocking;
 - accessibility, lighting, weather, sea state, destruction, persistence, streaming
   and performance budgets;
-- sufficient production fictionalization from the real-world topographic reference.
+- secondary production fictionalization beyond the mirror where visually useful.
 
 SOURCE HIERARCHY
 
@@ -201,4 +251,5 @@ Controlling companion sources remain:
 - August 1 SINS OF OUR FATHERS geography/objective-flow rev1 for unchanged protected
   finale and encounter canon.
 
-This rev2 controls the detailed map-development layer and corrections listed above.
+This rev2 controls the detailed map-development layer, corrections and production
+fictionalization direction listed above.
