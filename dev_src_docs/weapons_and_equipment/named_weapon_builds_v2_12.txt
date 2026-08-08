@@ -1,0 +1,98 @@
+================================================================================
+PROJECT WARRIORS — GLOBAL NAMED WEAPON REGISTRY
+Version 2.12 — EXTREME PREJUDICE Thermal-Optic Lock (2026-08-08)
+================================================================================
+Status: AUTHORITATIVE GLOBAL INDEX CORRECTION LAYER
+Supersedes: named_weapon_builds_v2_11.txt where EXTREME PREJUDICE configuration or
+            source authority conflicts
+Inherits: all v2.11 and earlier entries and governance not explicitly amended below
+
+PURPOSE
+
+Promote the owner-confirmed thermal-optic distinction for Lawrence "Rip" Mansell's
+EXTREME PREJUDICE from mission-map detail into named-weapon source authority while
+preserving the v2.11 TROOPER addition, the v2.10 SANDMAN addition, and all unrelated
+registry content.
+
+--------------------------------------------------------------------------------
+0. v2.12 CORRECTIONS / GOVERNANCE
+--------------------------------------------------------------------------------
+
+1. The War Wolves identity map remains unchanged:
+   - CRIMSON ONE   = Richard "Digger" Graves
+   - CRIMSON TWO   = Lawrence "Rip" Mansell
+   - CRIMSON THREE = Dermot "Lucky" Underwood
+
+2. EXTREME PREJUDICE remains Mansell's named CheyTac M200 Intervention, .408 CheyTac.
+
+3. EXTREME PREJUDICE now has a protected HIGH-POWERED THERMAL-IMAGING OPTIC.
+
+4. The separate unnamed Temple Pavilion CheyTac M200 uses a REGULAR HIGH-POWERED
+   PRECISION OPTIC and has NO THERMAL-IMAGING CAPABILITY.
+
+5. EXTREME_PREJUDICE_Build_Spec_rev3.txt controls this optic lock and supersedes
+   rev2 where configuration authority conflicts.
+
+6. Registry counts do not change from v2.11. This is a configuration lock for an
+   existing named weapon, not the addition or retirement of a build.
+
+--------------------------------------------------------------------------------
+1. UPDATED AUTHORITATIVE ENTRY
+--------------------------------------------------------------------------------
+
+PW-WPN-MANSELL-EXTREME-PREJUDICE
+  Build name: EXTREME PREJUDICE
+  Platform: CheyTac M200 Intervention, .408 CheyTac
+  Character: Lawrence "Rip" Mansell / CRIMSON TWO
+  Former unit: Oscar Four Delta
+  Encounter role: overwatch / precision
+  Defining optic: high-powered thermal-imaging optic — LOCKED
+  Status: CORE IDENTITY LOCKED; THERMAL OPTIC LOCKED; other configuration pending
+  Placement: Riptide Red campaign finale / SINS OF OUR FATHERS
+  Detail source: EXTREME_PREJUDICE_Build_Spec_rev3.txt
+  Character/lore source: PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+
+--------------------------------------------------------------------------------
+2. DISTINCT TEMPLE PAVILION M200
+--------------------------------------------------------------------------------
+
+The CheyTac M200 available in Goldberg's Temple Pavilion during SINS OF OUR FATHERS
+remains unnamed and separate from EXTREME PREJUDICE.
+
+Current distinction:
+- EXTREME PREJUDICE: named, Mansell-owned, high-powered thermal optic.
+- Temple Pavilion M200: unnamed, regular high-powered optic, no thermal imaging.
+
+The Temple rifle must not inherit EXTREME PREJUDICE's name, thermal optic or personal
+Mansell provenance.
+
+--------------------------------------------------------------------------------
+3. CURRENT COUNTS
+--------------------------------------------------------------------------------
+
+Named weapon identities in registry: 38
+Substantially specified / source-associated identities: 27
+Recovery-status identities with incomplete source details: 11
+Uncounted owner-specific recovery slots with name not recovered: 2
+
+No count changes result from this configuration lock.
+
+--------------------------------------------------------------------------------
+4. SUPERSESSION QUICK CHECK
+--------------------------------------------------------------------------------
+
+CURRENT
+- Mansell = CRIMSON TWO = EXTREME PREJUDICE = CheyTac M200 = precision slot
+- EXTREME PREJUDICE = high-powered thermal optic
+- Temple Pavilion M200 = unnamed = regular high-powered non-thermal optic
+- v2.11 TROOPER addition remains fully inherited and unchanged
+- v2.10 SANDMAN addition remains fully inherited and unchanged
+
+SUPERSEDED
+- "exact optic configuration pending" for EXTREME PREJUDICE
+- any interpretation that gives the Temple Pavilion M200 thermal-imaging capability
+  by association with Mansell's build
+
+================================================================================
+END — GLOBAL NAMED WEAPON REGISTRY v2.12
+================================================================================

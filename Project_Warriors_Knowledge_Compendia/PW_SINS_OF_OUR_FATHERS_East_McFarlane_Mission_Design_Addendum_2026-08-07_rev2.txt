@@ -1,0 +1,147 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+SINS OF OUR FATHERS — EAST McFARLANE DETAILED MAP REV2
+Generated: 2026-08-07
+Updated: 2026-08-08
+Version: rev2
+Status: DETAILED MAP SYNTHESIS / SECURITY AND FICTIONALIZATION LOCKS / DEDICATED SOURCE CONTROLS
+
+PURPOSE
+
+Project the active detailed East McFarlane mission map and owner-confirmed follow-up
+decisions into compact working knowledge. Dedicated mission, War Wolves, named-weapon
+and gameplay sources control where more detail is required.
+
+ACTIVE MAP SNAPSHOT
+
+- Latest owner input: SINS OF OUR FATHERS mission map (2).kml
+- Repository map: SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-07_rev2.kml
+- 152 placemarks: 145 points, 6 LineStrings, 1 polygon.
+- Repository map remains pre-transform planning/reference geometry.
+- Source-ready detailed environment/traversal reference; not production-ready combat blockout.
+
+MISSION SPINE
+
+engine-off landing -> staging -> direct high-ground or Temple branch -> Rip -> optional
+Regent cache -> foliage approach -> Underwood guesthouse -> security room / local IFF ->
+Graves -> residence search -> helipad betrayal / rogue declaration / escape.
+
+CORE CONTINUITY
+
+- CRIMSON ONE = Richard “Digger” Graves.
+- CRIMSON TWO = Lawrence “Rip” Mansell.
+- CRIMSON THREE = Dermot “Lucky” Underwood.
+- La Avispa does not appear in Game 1.
+- Goldberg security remains private, local, PANDORA-isolated and Goldberg-controlled.
+- Spook refuses the stand-down order; Victor Two Bravo is declared rogue; Goldberg and
+  Stockbridge escape.
+
+CRIMSON TWO / I-DOME HIGH-POINT LOCK
+
+- Mansell's mobile observation post now sits inside the fortified bermed I-Dome site at
+  the island's highest point in current reference geometry.
+- The site repurposes the real-reference south-tennis-court area.
+- Several-foot berm on all sides except a narrow southern entry gap.
+- The old separate-uphill Mansell position / berm-as-attacking-platform concept is superseded.
+- Current direct geometry remains viable: staging -> Rip ~339 m; Temple -> Rip ~240-260 m;
+  southern-flagpole vantage -> Rip ~500 m.
+
+EXTREME PREJUDICE / TEMPLE M200 DISTINCTION
+
+EXTREME PREJUDICE:
+- Mansell's named CheyTac M200;
+- HIGH-POWERED THERMAL-IMAGING OPTIC — LOCKED;
+- foliage / partial concealment less reliable against Mansell;
+- true LOS breaks and hard cover remain meaningful.
+
+Temple Pavilion M200:
+- separate unnamed CheyTac M200;
+- regular high-powered precision optic;
+- NO thermal-imaging capability.
+
+Controlling build source: EXTREME_PREJUDICE_Build_Spec_rev3.txt
+Registry authority: named_weapon_builds_v2_12.txt
+
+RIP ALTERNATIVE SOLUTIONS
+
+- Temple low-wall / unnamed-M200 counter-sniper lane remains a practical option.
+- New southern-flagpole vantage offers a much longer, harder shot.
+- Temple M200 makes the southern shot more manageable; GRAY GHOST may remain possible
+  but substantially harder. Exact ballistic thresholds remain tuning-level unless later locked.
+
+REGENT COORDINATE PUZZLE
+
+- Eight bench fragments remain the optional Regent-cache discovery system.
+- A new southern-flagpole bench carries W64D, spreading the puzzle farther across the
+  island and reducing central clustering.
+- Cache payload and optional status unchanged.
+
+UNDERGROUND ACCESS
+
+- Three explicit code-locked holding-facility access doors are now mapped.
+- Holding-facility access hallway geometry is revised into a cleaner dogleg / corridor
+  relationship rather than an awkward diagonal.
+- Door markers align with intended corridor/tunnel geometry.
+- Keypad-combination collectible remains the current controlled-access solution.
+
+THREEHALF HEAVY Q-UGV
+
+- Heavy centaur-like quadrupedal autonomous UGV.
+- Extremely difficult to disable once active.
+- Entirely avoidable in SINS OF OUR FATHERS.
+- Normally docked and dormant.
+- Reckless repeated aggressive engagement of armed enforcer UAVs can escalate the local
+  defense state enough to activate ThreeHalves.
+- Direct attack can also wake a dormant unit.
+- If the team reaches a docking station stealthily while the unit remains on standby,
+  Tripper can sabotage the power-management circuitry and shut it down without waking it.
+- Sabotage is optional; avoiding the escalation state altogether remains valid.
+- Exact armor, damage model, sensors and final hardware tuning remain open.
+
+Dedicated source:
+dev_src_docs/gameplay_and_systems/
+PW_ThreeHalf_Heavy_QUGV_Security_Escalation_and_Sabotage_2026-08-08_rev1.txt
+
+I-DOME / SECURITY ESCALATION
+
+I-Dome tampering or significant disturbance can produce a reconnaissance-UAV response;
+confirmed intrusion can escalate to armed enforcer UAVs; reckless anti-UAV aggression
+can escalate further into ThreeHalf activation. This chain remains local to Goldberg's
+private property-security architecture.
+
+IFF / UAV COVER
+
+- Underwood card can alter local IFF against Graves, but remote defeat is not guaranteed;
+  suppression / injury / displacement / defeat remain implementation choices.
+- Covered canopy spaces may break direct overhead EO/thermal LOS but do not grant blanket
+  thermal invisibility.
+
+FICTIONALIZATION LOCK
+
+- Real-reference helipad footprint -> fictional equestrian-club area.
+- Fictional mission helipad relocated beside the main residence.
+- Real-reference south tennis court -> fortified I-Dome / Mansell high-point site.
+- Production island receives an east-west mirror; mission topology is preserved.
+- Final compass terminology must come from mirrored production space, not KML labels.
+- Subtle shoreline deformation is approved if it preserves landing, beach approach,
+  Temple/Regent relationships, port/underground access and residence/helipad finale geometry.
+- Rule: preserve gameplay topology; modify coastal silhouette within that envelope.
+
+MAP CLEANUP
+
+- Crodyn spelling remains corrected.
+- Guesthouse direction wording remains normalized in reference-space notes.
+- Junction-box label normalized to “electrical junction box.”
+- Existing helipad / Underwood / IFF / UAV wording corrections retained.
+
+PRODUCTION OPEN ITEMS
+
+Mirrored UE5 blockout, final compass labels, final shoreline pass, surface route lines,
+patrol/alert/reinforcement geometry, drone routes, automated-weapon arcs, ThreeHalf damage
+and hardware tuning, final IFF UI/consequences, War Wolf scripting, final interiors,
+helipad no-return logic, accessibility, lighting, weather, destruction, persistence,
+streaming and performance remain open.
+
+CONTROLLING DETAILED SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+PW_SINS_OF_OUR_FATHERS_East_McFarlane_Detailed_Map_Level_Reference_Addendum_2026-08-07_rev2.txt
