@@ -1,0 +1,126 @@
+================================================================================
+PROJECT WARRIORS — EXTREME PREJUDICE BUILD SPECIFICATION
+rev3 — thermal-optic configuration lock, 2026-08-08
+================================================================================
+Campaign:      Riptide Red, Game 1
+Placement:     Campaign finale / SINS OF OUR FATHERS
+Character:     Lawrence "Rip" Mansell
+War Wolf ID:   CRIMSON TWO
+Encounter role: Overwatch / precision
+Status:        LOCKED CORE IDENTITY / THERMAL OPTIC LOCKED / OTHER CONFIGURATION OPEN
+Supersedes:    EXTREME_PREJUDICE_Build_Spec_rev2.txt where optic configuration or
+               source authority conflicts
+
+--------------------------------------------------------------------------------
+1. BUILD IDENTITY
+--------------------------------------------------------------------------------
+
+Build name:   EXTREME PREJUDICE
+Platform:     CheyTac M200 Intervention
+Caliber:      .408 CheyTac
+Weapon class: Long-range precision / anti-materiel-capable sniper rifle
+
+EXTREME PREJUDICE is the named personal CheyTac M200 carried by CRIMSON TWO,
+Lawrence "Rip" Mansell, during the Riptide Red campaign finale.
+
+The War Wolves identity map remains unchanged:
+- CRIMSON ONE   = Richard "Digger" Graves
+- CRIMSON TWO   = Lawrence "Rip" Mansell
+- CRIMSON THREE = Dermot "Lucky" Underwood
+
+--------------------------------------------------------------------------------
+2. DEFINING OPTIC LOCK
+--------------------------------------------------------------------------------
+
+EXTREME PREJUDICE is equipped with a HIGH-POWERED THERMAL-IMAGING OPTIC.
+
+This is a protected named-build characteristic and is the principal configuration
+feature that distinguishes EXTREME PREJUDICE from the separate unnamed CheyTac M200
+available in Goldberg's Temple Pavilion during SINS OF OUR FATHERS.
+
+Encounter consequence:
+- ordinary foliage and partial visual concealment are less dependable against Mansell;
+- the player should favor true line-of-sight breaks, solid terrain, structures, berm
+  geometry or other hard cover when avoiding Mansell's observation and fire;
+- the thermal optic does not authorize impossible vision through arbitrary solid
+  geometry;
+- exact thermal palette, sensor refresh, zoom range, reticle, UI treatment and
+  obstruction model remain production-tuning details unless later locked.
+
+--------------------------------------------------------------------------------
+3. TEMPLE PAVILION M200 DISTINCTION
+--------------------------------------------------------------------------------
+
+The Temple Pavilion CheyTac M200 remains a separate, unnamed rifle.
+
+Its optic is a REGULAR HIGH-POWERED PRECISION OPTIC WITH NO THERMAL-IMAGING
+CAPABILITY.
+
+Therefore:
+- EXTREME PREJUDICE = Mansell / named build / high-powered thermal optic;
+- Temple Pavilion M200 = unnamed / regular high-powered optic / no thermal imaging.
+
+The Temple rifle never inherits the EXTREME PREJUDICE name or thermal-optic lock.
+
+--------------------------------------------------------------------------------
+4. SINS OF OUR FATHERS ENCOUNTER PLACEMENT
+--------------------------------------------------------------------------------
+
+The current detailed East McFarlane map places Mansell and his mobile observation
+post inside the fortified bermed I-Dome air-defense site at the island's highest
+point in pre-transform reference geometry.
+
+The encounter remains an overwatch / precision slot. The player may solve it through
+multiple approaches, including direct assault, the Temple Pavilion counter-sniper
+lane, or the long-range southern-flagpole firing position developed in the current
+map source.
+
+The production east-west fictionalization mirror changes handedness, not the identity
+or configuration of this weapon.
+
+--------------------------------------------------------------------------------
+5. OTHER CONFIGURATION FIELDS REMAIN OPEN
+--------------------------------------------------------------------------------
+
+Unless separately locked later, do not infer:
+- optic manufacturer/model beyond the protected high-powered thermal function;
+- exact magnification range;
+- suppressor model or default suppressor state;
+- finish, stock treatment or receiver markings;
+- exact ammunition load or magazine inventory;
+- engraved/painted placement of the build name;
+- final pickup animation or inspect presentation beyond the universal named-build rule.
+
+--------------------------------------------------------------------------------
+6. PRESENTATION / NAME LOGIC
+--------------------------------------------------------------------------------
+
+EXTREME PREJUDICE points backward to Mansell's CIA / Oscar Four Delta history rather
+than forward to War Wolves mask branding. It should read as old clandestine-action
+language: cold, deniable and bureaucratically violent.
+
+Do not add wolf-head engraving, claw motifs or other theatrical wolf branding.
+
+When inspectable, the bottom-left inspect label displays EXTREME PREJUDICE under the
+universal named-build rule.
+
+--------------------------------------------------------------------------------
+7. SOURCE GOVERNANCE
+--------------------------------------------------------------------------------
+
+Controlling companion sources:
+- dev_src_docs/worldbuilding/PW_War_Wolves_Oscar_Four_Delta_Source_2026-07-24_rev1.txt
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_SINS_OF_OUR_FATHERS_East_McFarlane_Detailed_Map_Level_Reference_Addendum_2026-08-07_rev2.txt
+
+Registry authority after this lock:
+- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_10.txt
+
+Historical relationship:
+- rev2 remains the identity-reconciliation source history;
+- rev3 controls optic configuration and the explicit distinction from the Temple
+  Pavilion M200.
+
+================================================================================
+END — EXTREME PREJUDICE BUILD SPECIFICATION rev3
+================================================================================
