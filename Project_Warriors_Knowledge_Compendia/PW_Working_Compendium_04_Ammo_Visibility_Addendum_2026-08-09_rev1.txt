@@ -30,15 +30,17 @@ The underlying simulation still tracks exact cartridges; the player-facing displ
 
 5. Retained partial magazines remain usable. If the only loadable magazine is partial, the character loads it and uses the remaining rounds. The system must never report an empty weapon while compatible usable ammunition remains.
 
-6. When all magazines of the currently preferred ammunition type are exhausted, reload automatically falls back to another compatible ammunition type still carried by the player. A partial fallback magazine remains valid.
+6. Default automatic magazine selection is FULLest-first within the currently selected ammunition type. The character loads the fullest usable magazine first, then works downward through progressively less-full magazines. Equal-load magazines may use pouch/inventory order as a tie-breaker. Deliberate inspect-view selection may override the automatic choice where supported.
 
-7. Automatic fallback must never select incompatible ammunition. The type change should be communicated through restrained labels, magazine appearance, handling cues, and the resulting ballistic/acoustic behavior rather than a large modal alert.
+7. When all magazines of the currently preferred ammunition type are exhausted, reload automatically falls back to another compatible ammunition type still carried by the player. Within the fallback type, the fullest usable magazine is selected first; a partial fallback magazine remains valid.
 
-8. Chamber state remains mechanically distinct from magazine state. A chambered round is still real even when the magazine is empty or removed, where the weapon permits it.
+8. Automatic fallback must never select incompatible ammunition. The type change should be communicated through restrained labels, magazine appearance, handling cues, and the resulting ballistic/acoustic behavior rather than a large modal alert.
 
-9. The magazine-silhouette grammar applies primarily to detachable-magazine-fed weapons. Tube-fed, belt-fed, revolver, internal-box, single-shot, launcher, and other feed systems require platform-authentic equivalents.
+9. Chamber state remains mechanically distinct from magazine state. A chambered round is still real even when the magazine is empty or removed, where the weapon permits it.
 
-10. Accessibility should favor clearer qualitative state rather than making a permanent exact numerical counter the default. Exact-count support, if ever offered, remains an optional accessibility decision rather than the baseline HUD language.
+10. The magazine-silhouette grammar applies primarily to detachable-magazine-fed weapons. Tube-fed, belt-fed, revolver, internal-box, single-shot, launcher, and other feed systems require platform-authentic equivalents.
+
+11. Accessibility should favor clearer qualitative state rather than making a permanent exact numerical counter the default. Exact-count support, if ever offered, remains an optional accessibility decision rather than the baseline HUD language.
 
 ================================================================================
 CONTINUITY
@@ -61,7 +63,7 @@ OPEN IMPLEMENTATION FIELDS
 Still open:
 - exact hold-to-inspect timing
 - weapon-specific check animations
-- magazine selection priority and pouch-order logic
+- pouch-location simulation and equal-load tie-breaking
 - fallback ordering between multiple compatible ammo types
 - fill granularity
 - retained-empty-mag behavior
