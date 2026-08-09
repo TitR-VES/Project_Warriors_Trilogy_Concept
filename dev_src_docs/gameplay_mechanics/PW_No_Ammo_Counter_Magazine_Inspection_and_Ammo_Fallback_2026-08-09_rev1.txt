@@ -18,7 +18,8 @@ AUTHORITY / CONTINUITY
 - Existing magazine-retention logic remains controlling: partially used magazines are retained and remain partially used rather than being silently refilled or discarded.
 - Persistent mechanical weapon state remains controlling: magazine presence, chamber state, interrupted reload state, and ammunition consumption remain physically real even when exact numbers are hidden from the player.
 - Existing inspect-system logic remains controlling: changing ammunition type requires a real compatible magazine/ammunition change rather than an instant abstract ammo toggle.
-- Exact UI placement, input timing, fill-resolution granularity, magazine sorting, pouch-order simulation, accessibility exposure, and weapon-specific animation duration remain production work unless locked later.
+- Automatic reload selection uses fullest-first among usable magazines of the currently selected ammunition type. If that type is exhausted, compatible-ammunition fallback also chooses the fullest usable magazine of the next available compatible type.
+- Exact UI placement, input timing, fill-resolution granularity, pouch-location simulation, accessibility exposure, and weapon-specific animation duration remain production work unless locked later.
 
 ================================================================================
 01. CORE DESIGN LOCK — NO NORMAL AMMO COUNTER
@@ -123,17 +124,27 @@ RECOMMENDED LOCK
 Partially full magazines remain valid ammunition sources and are never treated as unusable simply because a full magazine is unavailable.
 
 When the player reloads:
-- a compatible retained partial magazine may be selected according to the current magazine-selection logic
-- if only a partially full compatible magazine remains, the character loads it and gains access to those remaining rounds
-- the system never fabricates a full magazine to preserve convenience
-- the system never reports "out of ammo" while a loadable compatible partial magazine still exists
+- automatic selection first looks for usable magazines of the currently selected ammunition type;
+- among those magazines, the character selects the fullest available magazine first;
+- if only a partially full compatible magazine remains, the character loads it and gains access to those remaining rounds;
+- the system never fabricates a full magazine to preserve convenience;
+- the system never reports "out of ammo" while a loadable compatible partial magazine still exists.
 
 This rule preserves the existing magazine-retention concept: ammunition the player chose not to fire is still physically present and usable later.
 
-MAGAZINE SELECTION PRIORITY
-The exact pouch-order / fullest-first / tactical-selection rule remains production work, but it must obey two constraints:
-1. retained partial magazines are real and available;
-2. automatic logic cannot skip usable ammunition and falsely treat the weapon as empty.
+FULLEST-FIRST PRIORITY — OWNER LOCK
+Fullest-first is the default automatic magazine-selection rule.
+
+Within the currently selected ammunition type:
+1. choose the fullest usable compatible magazine;
+2. if multiple magazines have the same load state, use the normal pouch / inventory ordering as the tie-breaker;
+3. continue descending through less-full magazines as fuller ones are exhausted;
+4. if the only remaining magazine is partial, load it rather than treating the weapon as empty.
+
+RATIONALE
+Fullest-first minimizes avoidable reload frequency during combat and matches the practical goal of putting the most useful immediately available magazine into the weapon without requiring the player to micromanage pouch order.
+
+This is automatic behavior, not a restriction on deliberate player choice. A player who intentionally wants a specific ammunition type or specific magazine state may use the inspect / ammunition-selection interaction where supported, and the resulting choice still requires a real physical magazine change.
 
 ================================================================================
 06. AUTOMATIC COMPATIBLE-AMMUNITION FALLBACK
@@ -146,9 +157,9 @@ The player does not need to open a menu merely to keep the weapon fed.
 
 FALLBACK LOGIC
 Conceptually:
-1. attempt to load a usable magazine of the currently preferred ammunition type;
+1. attempt to load the fullest usable magazine of the currently preferred ammunition type;
 2. if none remain, find the next available compatible ammunition type carried for that weapon;
-3. load a usable magazine of that type;
+3. within that fallback ammunition type, load the fullest usable magazine first;
 4. if the only magazine of that fallback type is partial, load the partial magazine;
 5. continue through other compatible carried types until no loadable magazine remains.
 
@@ -253,6 +264,7 @@ The desired player rhythm is:
 - retain and later reuse partial magazines
 - check magazine state when uncertainty matters
 - understand which ammunition types remain
+- automatically receive the fullest available magazine of the selected ammo type on ordinary reloads
 - accept partial magazines as valuable remaining ammunition
 - automatically stay in the fight when another compatible load exists
 
@@ -271,7 +283,7 @@ The player should not need to think:
 Not locked by this source:
 - exact hold duration for reload-to-inspect
 - exact magazine-check animations per weapon
-- whether pouch order, fullest-first logic, or player-set priority controls magazine choice
+- physical pouch-location simulation and tie-breaking when multiple magazines have equal load
 - exact fallback ordering when multiple compatible ammunition types remain
 - whether retained empty magazines occupy inventory slots
 - exact fill granularity / thresholds
