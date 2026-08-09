@@ -44,6 +44,8 @@ The player instead reads ammunition state through:
 
 The goal is not to obscure basic usability. It is to make ammunition management a physical field skill rather than a permanently visible arithmetic display.
 
+A physical magazine may nevertheless reveal an exact count when its real design makes that count directly readable. This is an inspection-derived hardware exception, not a return of the conventional HUD counter.
+
 ================================================================================
 02. MAGAZINE CHECK INPUT
 ================================================================================
@@ -62,10 +64,11 @@ PHYSICAL PRESENTATION
 Where weapon geometry supports it, the character performs a credible first-person magazine check:
 - lowers or compresses the weapon
 - partially or fully removes the magazine as appropriate
-- reads witness holes, translucent body, magazine weight/handling, cartridge visibility, or other weapon-specific cues where available
+- reads witness holes, translucent or transparent magazine body, magazine weight/handling, cartridge visibility, or other weapon-specific cues where available
+- reads actual ammunition-count markings when the magazine has inspection windows, witness holes, or transparent walls with count/index marks that make the remaining load directly observable
 - reseats the same magazine if no reload or ammunition-selection action is requested
 
-The animation does not imply that every real magazine provides precise visual round-count information. The UI representation is the protagonist's practical ammunition estimate translated into a readable game interface.
+The animation does not imply that every real magazine provides precise visual round-count information. The normal UI representation is the protagonist's practical ammunition estimate translated into a readable game interface. Exact counts are available only when the physical magazine itself provides enough marked visual information for the character to determine them.
 
 If the weapon cannot safely support a magazine check in its current state, the hold input should defer to the controlling mechanical-state logic rather than forcing an impossible inspection.
 
@@ -88,8 +91,19 @@ The underlying simulation still tracks the actual number of cartridges because r
 FILL GRANULARITY
 Preferred design direction is a readable partial-fill representation rather than exact per-round tick marks. Production may choose continuous proportional fill or a small number of visually legible bands if testing shows that exact proportional fill creates false precision.
 
-The important lock is:
-THE PLAYER SEES HOW FULL A MAGAZINE BROADLY IS, NOT AN EXACT ROUND COUNT.
+HARDWARE-DERIVED EXACT-COUNT EXCEPTION — OWNER LOCK
+Some real magazines provide more information than an opaque unmarked magazine. If a magazine features ammunition-count inspection windows, witness holes, or transparent/translucent walls with explicit count/index markings, the player may read the exact remaining count that those markings physically reveal during inspection.
+
+Rules:
+- the exact count comes from the magazine's visible physical design, not from a generic HUD reserve counter;
+- the player must perform the appropriate magazine inspection or inspect-view interaction to obtain it;
+- the presentation should visually correspond to the actual witness holes, transparent body, or count markings on that magazine model;
+- if the magazine provides only coarse or unnumbered visibility, the information remains correspondingly coarse rather than becoming magically exact;
+- magazines without readable count markings remain governed by the normal qualitative full/partial/empty shape system;
+- this exception does not expose exact total reserve ammunition across magazines unless each relevant magazine is individually inspected and physically readable.
+
+The important baseline remains:
+THE PLAYER NORMALLY SEES HOW FULL A MAGAZINE BROADLY IS, NOT AN EXACT ROUND COUNT. EXACT COUNT IS A PHYSICAL HARDWARE PRIVILEGE WHEN THE MAGAZINE ITSELF PROVIDES IT.
 
 ================================================================================
 04. AMMUNITION-TYPE LABELING
@@ -263,6 +277,7 @@ The desired player rhythm is:
 - choose whether to reload now or continue with the current magazine
 - retain and later reuse partial magazines
 - check magazine state when uncertainty matters
+- gain exact count information when a physically marked witness-window or transparent magazine genuinely exposes it
 - understand which ammunition types remain
 - automatically receive the fullest available magazine of the selected ammo type on ordinary reloads
 - accept partial magazines as valuable remaining ammunition
@@ -270,11 +285,12 @@ The desired player rhythm is:
 
 The system should create tactical uncertainty without creating bookkeeping friction.
 
-The player should think:
+The player should usually think:
 "I have one mostly full AP mag, two partial ball mags, and a low subsonic mag."
 
-The player should not need to think:
-"I have exactly 23 + 11 + 7 rounds because the HUD told me so."
+With a physically count-marked magazine, the player may instead be able to determine an exact remaining count from the magazine itself during inspection.
+
+The player should not receive a universal exact reserve total merely because the HUD can internally track it.
 
 ================================================================================
 13. OPEN PRODUCTION FIELDS
@@ -286,9 +302,9 @@ Not locked by this source:
 - physical pouch-location simulation and tie-breaking when multiple magazines have equal load
 - exact fallback ordering when multiple compatible ammunition types remain
 - whether retained empty magazines occupy inventory slots
-- exact fill granularity / thresholds
+- exact fill granularity / thresholds for magazines without physically readable count marks
+- exact presentation treatment for unnumbered transparent magazines or coarse witness holes
 - exact accessibility options
-- whether some transparent or witness-hole magazines provide more precise visual information
 - mixed-load magazine support
 - exact behavior for loose-round, stripper-clip, belt-fed, tube-fed, revolver, launcher, and other non-detachable-magazine systems
 
