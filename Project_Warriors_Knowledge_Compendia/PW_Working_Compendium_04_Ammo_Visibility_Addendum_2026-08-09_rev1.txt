@@ -26,21 +26,23 @@ LOCK SUMMARY
 - empty retained magazine, if retained = empty outline
 The underlying simulation still tracks exact cartridges; the player-facing display deliberately does not.
 
-4. Each magazine identifies its ammunition type. Type switching remains a physical magazine-change action, not an abstract instant toggle.
+4. HARDWARE-DERIVED EXACT-COUNT EXCEPTION: if a magazine has ammunition-count inspection windows, witness holes, or transparent/translucent walls with explicit count/index markings that physically reveal the remaining load, inspection may provide the exact count visible from those markings. This is derived from the magazine hardware, not a generic HUD counter. Unmarked or coarse-visibility magazines remain qualitative.
 
-5. Retained partial magazines remain usable. If the only loadable magazine is partial, the character loads it and uses the remaining rounds. The system must never report an empty weapon while compatible usable ammunition remains.
+5. Each magazine identifies its ammunition type. Type switching remains a physical magazine-change action, not an abstract instant toggle.
 
-6. Default automatic magazine selection is fullest-first within the currently selected ammunition type. The character loads the fullest usable magazine first, then works downward through progressively less-full magazines. Equal-load magazines may use pouch/inventory order as a tie-breaker. Deliberate inspect-view selection may override the automatic choice where supported.
+6. Retained partial magazines remain usable. If the only loadable magazine is partial, the character loads it and uses the remaining rounds. The system must never report an empty weapon while compatible usable ammunition remains.
 
-7. When all magazines of the currently preferred ammunition type are exhausted, reload automatically falls back to another compatible ammunition type still carried by the player. Within the fallback type, the fullest usable magazine is selected first; a partial fallback magazine remains valid.
+7. Default automatic magazine selection is fullest-first within the currently selected ammunition type. The character loads the fullest usable magazine first, then works downward through progressively less-full magazines. Equal-load magazines may use pouch/inventory order as a tie-breaker. Deliberate inspect-view selection may override the automatic choice where supported.
 
-8. Automatic fallback must never select incompatible ammunition. The type change should be communicated through restrained labels, magazine appearance, handling cues, and the resulting ballistic/acoustic behavior rather than a large modal alert.
+8. When all magazines of the currently preferred ammunition type are exhausted, reload automatically falls back to another compatible ammunition type still carried by the player. Within the fallback type, the fullest usable magazine is selected first; a partial fallback magazine remains valid.
 
-9. Chamber state remains mechanically distinct from magazine state. A chambered round is still real even when the magazine is empty or removed, where the weapon permits it.
+9. Automatic fallback must never select incompatible ammunition. The type change should be communicated through restrained labels, magazine appearance, handling cues, and the resulting ballistic/acoustic behavior rather than a large modal alert.
 
-10. The magazine-silhouette grammar applies primarily to detachable-magazine-fed weapons. Tube-fed, belt-fed, revolver, internal-box, single-shot, launcher, and other feed systems require platform-authentic equivalents.
+10. Chamber state remains mechanically distinct from magazine state. A chambered round is still real even when the magazine is empty or removed, where the weapon permits it.
 
-11. Accessibility should favor clearer qualitative state rather than making a permanent exact numerical counter the default. Exact-count support, if ever offered, remains an optional accessibility decision rather than the baseline HUD language.
+11. The magazine-silhouette grammar applies primarily to detachable-magazine-fed weapons. Tube-fed, belt-fed, revolver, internal-box, single-shot, launcher, and other feed systems require platform-authentic equivalents.
+
+12. Accessibility should favor clearer qualitative state rather than making a permanent exact numerical counter the default. Exact-count support, if ever offered, remains an optional accessibility decision rather than the baseline HUD language. Hardware-derived exact counts from marked magazines remain part of the normal simulation rather than an accessibility override.
 
 ================================================================================
 CONTINUITY
@@ -52,6 +54,7 @@ This addendum preserves and extends existing rules for:
 - real magazine presence and chamber state
 - ammo-type changes through real physical handling
 - inspect-view field interaction
+- hardware-authentic ammunition visibility
 - scavenged ammunition compatibility and campaign-specific ammo economies
 
 It does not replace the current rev6 Gameplay / Weapons / Style compendium. Fold it into the next milestone refresh after the durable source is accepted/merged.
@@ -65,7 +68,8 @@ Still open:
 - weapon-specific check animations
 - pouch-location simulation and equal-load tie-breaking
 - fallback ordering between multiple compatible ammo types
-- fill granularity
+- fill granularity for magazines without readable count marks
+- presentation of unnumbered transparent magazines or coarse witness holes
 - retained-empty-mag behavior
 - mixed-load magazine support
 - non-detachable-feed UI implementations
