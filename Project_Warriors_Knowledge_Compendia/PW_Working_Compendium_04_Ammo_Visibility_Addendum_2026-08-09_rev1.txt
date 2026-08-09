@@ -30,7 +30,7 @@ The underlying simulation still tracks exact cartridges; the player-facing displ
 
 5. Retained partial magazines remain usable. If the only loadable magazine is partial, the character loads it and uses the remaining rounds. The system must never report an empty weapon while compatible usable ammunition remains.
 
-6. Default automatic magazine selection is FULLest-first within the currently selected ammunition type. The character loads the fullest usable magazine first, then works downward through progressively less-full magazines. Equal-load magazines may use pouch/inventory order as a tie-breaker. Deliberate inspect-view selection may override the automatic choice where supported.
+6. Default automatic magazine selection is fullest-first within the currently selected ammunition type. The character loads the fullest usable magazine first, then works downward through progressively less-full magazines. Equal-load magazines may use pouch/inventory order as a tie-breaker. Deliberate inspect-view selection may override the automatic choice where supported.
 
 7. When all magazines of the currently preferred ammunition type are exhausted, reload automatically falls back to another compatible ammunition type still carried by the player. Within the fallback type, the fullest usable magazine is selected first; a partial fallback magazine remains valid.
 
