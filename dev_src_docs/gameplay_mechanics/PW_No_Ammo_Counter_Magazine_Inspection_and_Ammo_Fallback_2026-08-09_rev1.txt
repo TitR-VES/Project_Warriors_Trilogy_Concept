@@ -1,0 +1,287 @@
+PROJECT WARRIORS — NO AMMO COUNTER, MAGAZINE INSPECTION, AND AMMUNITION FALLBACK
+Generated: 2026-08-09
+Version: rev1
+Status: OWNER-DIRECTED PROPOSED DESIGN SOURCE — IMPLEMENTATION VALUES OPEN
+
+PURPOSE
+Document the player-facing ammunition-information model for magazine-fed weapons. The system removes the conventional exact ammunition counter from normal gameplay and makes ammunition awareness depend on physical magazine state, inspection, retained partial magazines, and compatible-ammunition fallback behavior.
+
+This page supplements:
+- PW_Gameplay_Mechanics_Overview-4.txt / current Gameplay / Weapons / Style compendium ammo-management rules
+- PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt
+- PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+- PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+- current UI Prompt System and first-person animation sources
+
+AUTHORITY / CONTINUITY
+- Later explicit owner adjudication controls.
+- Existing magazine-retention logic remains controlling: partially used magazines are retained and remain partially used rather than being silently refilled or discarded.
+- Persistent mechanical weapon state remains controlling: magazine presence, chamber state, interrupted reload state, and ammunition consumption remain physically real even when exact numbers are hidden from the player.
+- Existing inspect-system logic remains controlling: changing ammunition type requires a real compatible magazine/ammunition change rather than an instant abstract ammo toggle.
+- Exact UI placement, input timing, fill-resolution granularity, magazine sorting, pouch-order simulation, accessibility exposure, and weapon-specific animation duration remain production work unless locked later.
+
+================================================================================
+01. CORE DESIGN LOCK — NO NORMAL AMMO COUNTER
+================================================================================
+
+RECOMMENDED LOCK
+Player weapons do not display a conventional exact ammunition counter during normal gameplay.
+
+The HUD should not continuously tell the player:
+- exact rounds remaining in the currently loaded magazine
+- exact reserve-round total
+- an arcade-style current-magazine / reserve number pair
+
+The player instead reads ammunition state through:
+- firing history and personal awareness
+- reload behavior
+- bolt/slide/action state when empty
+- magazine inspection
+- carried-magazine state visualization
+- ammunition-type labels
+- physical and audio cues from the weapon
+
+The goal is not to obscure basic usability. It is to make ammunition management a physical field skill rather than a permanently visible arithmetic display.
+
+================================================================================
+02. MAGAZINE CHECK INPUT
+================================================================================
+
+RECOMMENDED LOCK
+For compatible magazine-fed weapons, holding the normal reload input performs a magazine/ammunition-state inspection rather than an ordinary reload.
+
+INPUT GRAMMAR
+- TAP RELOAD: normal context-sensitive reload / reload recovery / malfunction clear according to the weapon's actual stored state.
+- HOLD RELOAD: inspect current magazine and carried compatible magazine state when the weapon is otherwise in a valid inspection condition.
+- WEAPON INSPECT VIEW: an appropriate contextual prompt provides the same magazine-state information without requiring the player to leave the inspect interaction.
+
+The hold action should not accidentally consume or reorder ammunition merely because the player asked for information.
+
+PHYSICAL PRESENTATION
+Where weapon geometry supports it, the character performs a credible first-person magazine check:
+- lowers or compresses the weapon
+- partially or fully removes the magazine as appropriate
+- reads witness holes, translucent body, magazine weight/handling, cartridge visibility, or other weapon-specific cues where available
+- reseats the same magazine if no reload or ammunition-selection action is requested
+
+The animation does not imply that every real magazine provides precise visual round-count information. The UI representation is the protagonist's practical ammunition estimate translated into a readable game interface.
+
+If the weapon cannot safely support a magazine check in its current state, the hold input should defer to the controlling mechanical-state logic rather than forcing an impossible inspection.
+
+================================================================================
+03. MAGAZINE STATE VISUALIZATION — SHAPES, NOT NUMBERS
+================================================================================
+
+RECOMMENDED LOCK
+Magazine load is communicated through individual magazine silhouettes or shapes. Each carried compatible magazine is represented separately.
+
+LOAD REPRESENTATION
+- full magazine: fully filled magazine shape
+- partially used magazine: proportionally or categorically partially filled shape
+- empty retained magazine, if the inventory system keeps it: empty outline / no fill
+
+No exact round number appears inside or beside the magazine under the standard presentation.
+
+The underlying simulation still tracks the actual number of cartridges because reload persistence, firing, ammo compatibility, consolidation, malfunction logic, and save/load state require exact mechanical data. The UI deliberately presents that state at lower precision.
+
+FILL GRANULARITY
+Preferred design direction is a readable partial-fill representation rather than exact per-round tick marks. Production may choose continuous proportional fill or a small number of visually legible bands if testing shows that exact proportional fill creates false precision.
+
+The important lock is:
+THE PLAYER SEES HOW FULL A MAGAZINE BROADLY IS, NOT AN EXACT ROUND COUNT.
+
+================================================================================
+04. AMMUNITION-TYPE LABELING
+================================================================================
+
+RECOMMENDED LOCK
+Each magazine representation identifies the ammunition type currently loaded in that magazine.
+
+Examples depend on weapon and ammunition family and may include labels such as:
+- BALL / STANDARD
+- AP
+- SUBSONIC
+- SUPERSONIC
+- TRACER
+- BREACH
+- BUCK
+- SLUG
+- DB
+- other authored compatible loads
+
+The label must be specific enough for the player to understand the tactical difference without exposing unnecessary internal item IDs or cartridge counts.
+
+A magazine is treated as a physical container carrying a specific compatible load. The system should not silently convert its ammunition type merely because another type becomes preferred.
+
+Mixed-load magazines are not assumed by this source. If mixed cartridge sequencing is supported for a specific weapon or gameplay system later, it requires explicit dedicated design because a single magazine-level label would no longer be sufficient.
+
+================================================================================
+05. RELOAD SELECTION AND PARTIAL-MAGAZINE VALIDITY
+================================================================================
+
+RECOMMENDED LOCK
+Partially full magazines remain valid ammunition sources and are never treated as unusable simply because a full magazine is unavailable.
+
+When the player reloads:
+- a compatible retained partial magazine may be selected according to the current magazine-selection logic
+- if only a partially full compatible magazine remains, the character loads it and gains access to those remaining rounds
+- the system never fabricates a full magazine to preserve convenience
+- the system never reports "out of ammo" while a loadable compatible partial magazine still exists
+
+This rule preserves the existing magazine-retention concept: ammunition the player chose not to fire is still physically present and usable later.
+
+MAGAZINE SELECTION PRIORITY
+The exact pouch-order / fullest-first / tactical-selection rule remains production work, but it must obey two constraints:
+1. retained partial magazines are real and available;
+2. automatic logic cannot skip usable ammunition and falsely treat the weapon as empty.
+
+================================================================================
+06. AUTOMATIC COMPATIBLE-AMMUNITION FALLBACK
+================================================================================
+
+RECOMMENDED LOCK
+When the player has exhausted all loadable magazines of the currently preferred ammunition type, the next reload automatically falls back to another compatible ammunition type that the player still carries.
+
+The player does not need to open a menu merely to keep the weapon fed.
+
+FALLBACK LOGIC
+Conceptually:
+1. attempt to load a usable magazine of the currently preferred ammunition type;
+2. if none remain, find the next available compatible ammunition type carried for that weapon;
+3. load a usable magazine of that type;
+4. if the only magazine of that fallback type is partial, load the partial magazine;
+5. continue through other compatible carried types until no loadable magazine remains.
+
+The automatic fallback changes what ammunition is physically loaded; it does not change weapon compatibility rules. Incompatible ammunition can never be selected merely because the player has run dry.
+
+FEEDBACK
+The player should receive restrained but clear feedback that the ammunition type changed:
+- magazine-type label during the reload / post-reload state
+- subtle contextual text in the inspect or magazine-state display
+- distinctive magazine appearance where applicable
+- appropriate character handling / magazine markings
+- ballistic / acoustic behavior once fired
+
+Do not interrupt combat with a large modal warning.
+
+================================================================================
+07. MANUAL AMMUNITION AWARENESS AND SELECTION
+================================================================================
+
+RECOMMENDED DIRECTION
+The weapon-inspect view may allow the player to deliberately choose among carried compatible ammunition types when the fiction supports a planned ammunition change.
+
+This remains subordinate to physical magazine handling:
+- selecting another ammunition type schedules or initiates a real magazine change
+- the currently loaded magazine remains in its actual partial/full state when retained
+- changing type takes real time
+- the player remains vulnerable during the manipulation
+
+The hold-reload magazine check itself is primarily informational. It should not become a radial-menu shortcut that instantly teleports a desired magazine into the weapon.
+
+================================================================================
+08. EMPTY-WEAPON AND CHAMBER-STATE BEHAVIOR
+================================================================================
+
+RECOMMENDED LOCK
+The absence of an ammo counter does not erase mechanically readable empty states.
+
+Examples:
+- bolt locks open where the weapon supports last-round hold-open
+- slide locks open on applicable pistols
+- trigger / hammer / action response reflects the platform
+- open-bolt and belt-fed weapons use their own credible empty/feed-state cues
+- a chambered round remains usable even if the inserted magazine is empty or removed, where mechanically applicable
+
+The UI should not falsely collapse "no magazine ammunition" and "no cartridge available to fire" into the same state when the weapon physically distinguishes them.
+
+================================================================================
+09. WEAPON-FAMILY BOUNDARIES
+================================================================================
+
+This source primarily controls detachable-magazine-fed weapons.
+
+Other feed systems require equivalent but platform-authentic information models:
+- tube-fed shotguns: shell state should follow physical load-order rules rather than magazine silhouettes
+- revolvers: cylinder state may be inspected physically
+- belt-fed weapons: belt/box state requires a belt/feed representation
+- internal-box-magazine rifles: clip/round state requires weapon-specific inspection
+- single-shot / launchers: chambered munition state should be directly readable where appropriate
+
+Do not force a detachable-magazine UI metaphor onto incompatible weapon systems.
+
+================================================================================
+10. DIFFICULTY AND ACCESSIBILITY
+================================================================================
+
+RECOMMENDED LOCK
+The no-counter model is the intended standard presentation, including on realism-oriented settings.
+
+Accessibility and lower-difficulty options may make magazine-state visualization easier to read, for example:
+- higher-contrast fill shapes
+- more persistent ammunition-type labels
+- broader automatic display after reload
+- optional coarse LOW / PARTIAL / FULL text
+
+The preferred accessibility solution is clearer qualitative information rather than restoring a permanent exact numeric counter by default.
+
+If an exact-count accessibility option is ever offered, it should be explicitly optional and should not define the baseline design language.
+
+================================================================================
+11. NPC / WORLD CONSISTENCY
+================================================================================
+
+NPCs continue to operate on physical magazine and ammunition state where simulation scope permits.
+
+Enemy and allied reload behavior should not imply infinite reserve ammunition merely because the player lacks a numerical HUD counter.
+
+Scavenged magazines preserve:
+- remaining load
+- ammunition type
+- compatibility
+- condition where tracked
+
+Picking up a half-used enemy magazine therefore gives the player a half-used magazine, not an abstract reserve-ammo grant.
+
+================================================================================
+12. PLAYER EXPERIENCE GOAL
+================================================================================
+
+The desired player rhythm is:
+- know roughly what you have fired
+- choose whether to reload now or continue with the current magazine
+- retain and later reuse partial magazines
+- check magazine state when uncertainty matters
+- understand which ammunition types remain
+- accept partial magazines as valuable remaining ammunition
+- automatically stay in the fight when another compatible load exists
+
+The system should create tactical uncertainty without creating bookkeeping friction.
+
+The player should think:
+"I have one mostly full AP mag, two partial ball mags, and a low subsonic mag."
+
+The player should not need to think:
+"I have exactly 23 + 11 + 7 rounds because the HUD told me so."
+
+================================================================================
+13. OPEN PRODUCTION FIELDS
+================================================================================
+
+Not locked by this source:
+- exact hold duration for reload-to-inspect
+- exact magazine-check animations per weapon
+- whether pouch order, fullest-first logic, or player-set priority controls magazine choice
+- exact fallback ordering when multiple compatible ammunition types remain
+- whether retained empty magazines occupy inventory slots
+- exact fill granularity / thresholds
+- exact accessibility options
+- whether some transparent or witness-hole magazines provide more precise visual information
+- mixed-load magazine support
+- exact behavior for loose-round, stripper-clip, belt-fed, tube-fed, revolver, launcher, and other non-detachable-magazine systems
+
+These remain dedicated implementation/design fields.
+
+================================================================================
+END
+================================================================================
