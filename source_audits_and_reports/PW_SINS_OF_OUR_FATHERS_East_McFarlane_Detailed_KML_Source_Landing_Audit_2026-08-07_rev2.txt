@@ -1,179 +1,220 @@
 PROJECT WARRIORS — SOURCE LANDING AUDIT
 SINS OF OUR FATHERS / EAST McFARLANE DETAILED KML REV2
 Generated: 2026-08-07
-Updated: 2026-08-08
+Updated: 2026-08-09
 Version: rev2
-Status: LATEST OWNER KML VERIFIED / SECURITY AND WEAPON LOCKS LANDED / PR-READY
+Status: LATEST OWNER KML / SURVEILLANCE PASS VERIFIED / PR-READY
 
 SCOPE
 
-Validate the latest owner-supplied East McFarlane KML, carry forward prior continuity
-corrections, verify the revised CRIMSON TWO / southern-vantage / Regent / underground
-geometry, land ThreeHalf gameplay behavior and EXTREME PREJUDICE optic authority, and
-preserve the approved fictionalization direction without declaring production readiness.
+Validate the latest owner-supplied East McFarlane KML, preserve prior continuity and
+security locks, land the added UAV patrol / fixed-camera geometry, apply the requested
+camera-angle naming consistency correction, and record the HVAC-shed / utility-hatch
+stealth interpretation without falsely declaring production readiness.
 
-INPUT / OUTPUT
+LATEST INPUT
 
-Latest input:
-- /mnt/data/SINS OF OUR FATHERS mission map (2).kml
+- /mnt/data/SINS OF OUR FATHERS mission map (5).kml
 
-Repository output:
-- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
-  SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-07_rev2.kml
-- Git blob SHA: de4f002c4f8b7774ac563491a5795fea22508efd
-
-Geometry validation before landing:
-- placemarks: 152
-- points: 145
-- LineStrings: 6
-- polygons: 1
+Latest owner-file validation:
+- placemarks: 206
+- points: 176
+- LineStrings: 8
+- polygons: 22
 - XML parse: PASS
 
-CORE CANON CROSS-CHECK
+REPOSITORY MAP SET
 
-[PASS] CRIMSON ONE = Richard “Digger” Graves.
-[PASS] CRIMSON TWO = Lawrence “Rip” Mansell.
-[PASS] CRIMSON THREE = Dermot “Lucky” Underwood.
+Base map retained intact:
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+  SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Map_2026-08-07_rev2.kml
+- blob SHA: de4f002c4f8b7774ac563491a5795fea22508efd
+- 152 placemarks: 145 points, 6 LineStrings, 1 polygon.
+
+New surveillance/security overlay:
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/maps/
+  SINS_OF_OUR_FATHERS_East_McFarlane_Surveillance_Security_Overlay_2026-08-09_rev1.kml
+- blob SHA: 9ac527029990ebcd27d24f4c3c2ad59c9c6efd34
+- 56 overlay placemarks.
+
+Overlay supersessions:
+- earlier base-map "rooftop UAV dock" -> current "rooftop enforcement UAV dock";
+- earlier western-poolside-bungalow marker position -> current overlay position.
+
+Accounting check:
+- 152 base + 56 overlay - 2 superseded base entries = 206 effective current features.
+
+CORE CANON REGRESSION CHECK
+
+[PASS] CRIMSON ONE = Richard "Digger" Graves.
+[PASS] CRIMSON TWO = Lawrence "Rip" Mansell.
+[PASS] CRIMSON THREE = Dermot "Lucky" Underwood.
 [PASS] La Avispa remains absent from Game 1.
-[PASS] Regent cache payload remains protected and optional.
+[PASS] Regent cache remains protected and optional.
 [PASS] Goldberg security remains private, local and PANDORA-isolated.
 [PASS] Protected helipad ending remains unchanged.
+[PASS] EXTREME PREJUDICE thermal-optic lock remains authoritative.
+[PASS] Temple Pavilion M200 remains separate, unnamed and non-thermal.
+[PASS] ThreeHalf escalation / sabotage source remains authoritative.
 
-LATEST MAP CHANGES — VERIFIED
+SURVEILLANCE GEOMETRY — VERIFIED
 
-1. SOUTHERN-FLAGPOLE VANTAGE
+1. FIXED CAMERA POSITIONS
 
-[PASS] New long-range vantage near the southern flagpole is present.
-[PASS] It creates a substantially longer firing solution against the relocated Mansell
-than the Temple Pavilion lane.
-[PASS] Current reference-space range is approximately 500 m; Temple lane remains roughly
-240-260 m.
-[PASS] Exact ballistic tuning remains production-level unless later source-locked.
+[PASS] Latest owner KML contains 23 camera-position markers.
+[PASS] 18 are above ground.
+[PASS] 5 are underground.
 
-2. REGENT FRAGMENT REDISTRIBUTION
+2. ABOVE-GROUND CAMERA COVERAGE
 
-[PASS] A new bench is mapped near the southern flagpole.
-[PASS] W64D has moved to that southern bench.
-[PASS] Eight-fragment puzzle count remains intact.
-[PASS] Change reduces central clustering without changing the protected cache payload.
+[PASS] All 18 above-ground camera positions now have corresponding explicit above-ground
+camera-angle / coverage polygons in the owner KML.
 
-3. CRIMSON TWO RELOCATION
+[PASS] One additional underground camera-angle polygon is explicitly mapped at the
+western supply-tunnel portal.
 
-[PASS] Mansell / mobile observation post is relocated into the fortified bermed I-Dome
-site at the island high point.
-[PASS] This movement does not disrupt the established mission spine.
-[PASS] Staging -> Mansell remains approximately 339 m.
-[PASS] Temple -> Mansell remains a viable counter-sniper relationship.
-[PASS] Old concept of using the berm itself to attack a farther-uphill Mansell position
-is superseded; the berm is now CRIMSON TWO's fortified objective space.
+[PASS] The camera network remains concentrated around assets, gates, entrances,
+courtyards, pool/service areas, port/service buildings and choke points rather than
+blanketing the covert landing and staging spaces.
 
-4. I-DOME / FORMER TENNIS-COURT FICTIONALIZATION
+[PASS] Surveillance density increases toward the guesthouse / residence / courtyard /
+helipad sector, preserving the intended stealth progression.
 
-[PASS] Real-reference south-tennis-court area is repurposed as the I-Dome autonomous
-air-defense battery / Mansell observation-post site.
-[PASS] Several-foot berm enclosure is owner-confirmed, with narrow southern entry gap.
-[PASS] This increases both gameplay function and fictional separation from the real
-reference property.
+3. CAMERA-ANGLE NAMING CONSISTENCY
 
-5. UNDERGROUND ACCESS
+[CORRECTED] Owner export used the same name for the west main-residence compound-entry
+camera point and its FOV polygon.
 
-[PASS] Three explicit code-locked holding-facility access doors are mapped.
-[PASS] Revised access-hallway geometry uses a cleaner dogleg / corridor relationship.
-[PASS] Door markers align with intended corridor/tunnel geometry.
-[PASS] No macro mission-flow disruption identified.
+Repository overlay now uses:
+- point: "west main residence compound entry gate security camera"
+- FOV polygon: "west main residence compound entry gate security camera angle"
 
-6. JUNCTION-BOX LABEL
+This is a naming-only correction; geometry is unchanged.
 
-[PASS] Repository KML uses “electrical junction box.”
-[PASS] Malformed “junctiona” labeling is not retained.
+4. UAV PATROL GEOMETRY
 
-EXTREME PREJUDICE SOURCE PROMOTION
+[PASS] Two UAV patrol traces are present:
+- tight Recon UAV patrol path around the residence-sector security problem;
+- wider UAV patrol path sweeping most northern-half structures in reference space.
 
-[LOCKED] EXTREME PREJUDICE is Mansell's named CheyTac M200.
-[LOCKED] High-powered THERMAL-IMAGING optic is a defining named-build feature.
-[LOCKED] Separate unnamed Temple Pavilion M200 uses a regular high-powered optic with
-NO thermal-imaging capability.
-[LOCKED] Foliage / partial visual concealment is less dependable against Mansell; hard
-LOS breaks remain meaningful.
+[PASS] The latest export densifies the wider route on the side that becomes the
+northwest sector after the approved east-west production mirror.
 
-New authority:
-- dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev3.txt
-- dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_12.txt
+[PASS] Wider route now carries 65 coordinate entries while retaining broadly the same
+patrol footprint.
 
-Registry lineage check:
-- v2.10 = SANDMAN addition — preserved/inherited.
-- v2.11 = TROOPER addition — preserved/inherited.
-- v2.12 = EXTREME PREJUDICE thermal-optic correction layer.
+[PASS] Deliberate spatial gaps remain between patrol passes. These are intentional
+stealth approach / movement opportunities and should not be erased accidentally by
+sensor tuning.
 
-THREEHALF SOURCE LANDING
+Implementation note:
+- Google Earth KML stores the patrol traces as polygons;
+- production should treat them as route/path authoring geometry, not as solid
+  always-detected surveillance areas;
+- UE5 may implement them as splines, waypoint chains or equivalent AI pathing.
 
-[LOCKED] ThreeHalf = heavy centaur-like quadrupedal autonomous UGV.
-[LOCKED] Extremely difficult to disable once active.
-[LOCKED] Entirely avoidable in SINS OF OUR FATHERS.
-[LOCKED] Normally docked / dormant.
-[LOCKED] Reckless repeated aggressive engagement of enforcer UAVs can escalate security
-state enough to activate ThreeHalves.
-[LOCKED] Direct attack can also wake a dormant unit.
-[LOCKED] Stealth approach to a dormant docking station permits Tripper sabotage.
-[LOCKED] Sabotage disables / fries power-management circuitry and shuts the unit down
-without waking it.
-[LOCKED] Sabotage is optional; avoiding escalation entirely is also valid.
+Still open:
+- UAV altitude;
+- EO/thermal cone;
+- flight speed;
+- scan rotation / dwell;
+- detection accumulation;
+- alert persistence;
+- reacquisition;
+- final foliage / roof / terrain occlusion model.
 
-Dedicated authority:
-- dev_src_docs/gameplay_and_systems/
-  PW_ThreeHalf_Heavy_QUGV_Security_Escalation_and_Sabotage_2026-08-08_rev1.txt
+HVAC SHED / UNDERGROUND HOLDING FACILITY — OWNER CLARIFICATION
 
-Current belt-fed AR-15-pattern weapon depiction remains a map-level hardware concept;
-exact armament, armor, sensors, component damage and durability tuning remain open.
+[LOCKED] MARS riot-suppression robot dock is underground inside the holding facility.
 
-PRIOR CORRECTIONS — REGRESSION CHECK
+[LOCKED] The surface backup-generator / HVAC-exhaust shed camera does NOT see the MARS
+dock.
 
-[PASS] Canonical Crodyn spelling retained.
-[PASS] Reference-space guesthouse direction mismatch remains corrected.
-[PASS] IFF-assisted Graves outcome remains implementation-open, not guaranteed remote kill.
-[PASS] Covered seating does not imply blanket thermal invisibility.
-[PASS] Helipad ending prose remains corrected and protected.
+[LOCKED] The HVAC-shed camera watches:
+- part of the surface access route;
+- the shed entrance.
+
+[LOCKED] The code-locked access hatch / door connecting the underground holding-facility
+utility-corridor branch to the surface behind the HVAC shed is intentionally outside the
+surface camera's coverage.
+
+[LOCKED] The player may exploit that unwatched rear hatch as a stealth route.
+
+Geometry spot-check:
+- the current hatch / utility-corridor access point is outside the mapped HVAC camera FOV
+  polygon in the owner KML.
+
+UAV TYPE / DOCK TERMINOLOGY
+
+[PASS] Current overlay uses "rooftop enforcement UAV dock" rather than the earlier mixed
+recon/enforcement label.
+
+[PASS] Reconnaissance UAV and armed-enforcer UAV roles remain distinct in the local
+security escalation chain.
+
+[PASS] Reckless repeated aggressive anti-enforcer-UAV behavior can still escalate into
+ThreeHalf activation under the dedicated ThreeHalf source.
+
+MAP-LEVEL ADJACENT FEATURES
+
+The current surveillance delta also carries adjacent owner-map geometry such as:
+- MARS dock;
+- quadrupedal enforcement-UGV marker;
+- hidden retractable .50-cal autonomous battery marker;
+- access-gate/service markers;
+- subsurface / underwater tunnel trace;
+- updated western poolside bungalow;
+- berm geometry.
+
+These are retained in the overlay as owner-map geometry. This audit does not promote
+every adjacent hardware/behavior detail into a new dedicated lock unless separately
+confirmed by controlling sources.
+
+PRIOR MAP / DESIGN LOCKS — PRESERVED
+
+[PASS] Mansell remains in the fortified I-Dome berm at the island high point.
+[PASS] Southern-flagpole long-range vantage remains viable.
+[PASS] W64D remains redistributed to the southern-flagpole bench.
+[PASS] Three code-locked holding-facility doors remain mapped in the base map.
+[PASS] Dogleg holding-facility access geometry remains accepted.
+[PASS] Junction-box label remains normalized to "electrical junction box."
+[PASS] Crodyn spelling remains canonical.
+[PASS] Graves IFF result remains implementation-open, not a guaranteed remote kill.
+[PASS] Covered-space UAV rule remains LOS reduction, not blanket thermal invisibility.
 
 FICTIONALIZATION — CURRENT OWNER LOCKS
 
-[LOCKED] Repository KML remains pre-transform planning/reference geometry.
+[LOCKED] Repository KML set remains pre-transform planning/reference geometry.
 [LOCKED] Real-reference helipad area -> fictional equestrian-club area.
 [LOCKED] Fictional helipad relocated beside main residence.
 [LOCKED] Real-reference south tennis court -> fortified I-Dome / CRIMSON TWO site.
 [LOCKED] Production applies east-west mirror without redesigning mission topology.
 [LOCKED] Final compass language comes from mirrored production space.
-[LOCKED] Subtle shoreline alteration is approved where it does not disrupt established
-mission geometry.
-
-Shoreline preservation constraints:
-- floatplane landing / boat-launch access;
-- beach-to-guesthouse infiltration corridor;
-- Temple / Regent branch relationships;
-- port / underground-service access;
-- residence / helipad finale relationship;
-- intentional surveillance / encounter gating.
+[LOCKED] Subtle shoreline alteration remains approved where it does not disrupt
+established mission geometry or intentional surveillance gating.
 
 OPEN PRODUCTION REGISTER
 
 Still open unless separately landed:
 - mirrored UE5 blockout and final compass labels;
 - final shoreline fictionalization pass;
-- surface route / patrol / alert / reinforcement geometry;
-- final drone sensor and route implementation;
-- automated-defense arcs / safety behavior;
+- surface alert / reinforcement geometry;
+- UAV altitude and final sensor implementation;
+- camera vertical FOV / detection / disable-counterplay tuning;
+- automated-defense arcs and safety behavior;
 - ThreeHalf damage model, armor zones, sensors and final hardware spec;
 - final IFF UI / result thresholds;
 - War Wolf combat scripting / checkpoints;
 - final interiors and encounter blocking;
-- helipad no-return / escape protection;
+- helipad no-return / protected-escape implementation;
 - accessibility, lighting, weather, destruction, persistence, streaming and performance.
 
 RESULT
 
-PASS — LATEST SINS OF OUR FATHERS DETAILED MAP UPDATE IS SOURCE-LANDED.
+PASS — SINS OF OUR FATHERS SURVEILLANCE PASS IS SOURCE-LANDED.
 
-The relocation of Mansell into the I-Dome berm does not break established mission
-geometry. The new southern vantage, redistributed Regent fragment, revised underground
-doors/corridors, ThreeHalf escalation/sabotage behavior and EXTREME PREJUDICE thermal
-optic are now represented in durable sources. Maturity remains DETAILED ENVIRONMENT /
-TRAVERSAL REFERENCE, NOT PRODUCTION-READY COMBAT BLOCKOUT.
+The latest camera-angle set closes the above-ground FOV gap, the denser wider UAV route
+preserves deliberate stealth gaps, the HVAC rear utility hatch remains an intentional
+unwatched route, and the west-gate FOV polygon naming is now consistent. Maturity advances
+to DETAILED ENVIRONMENT / TRAVERSAL / SURVEILLANCE REFERENCE, but remains NOT
+PRODUCTION-READY COMBAT BLOCKOUT.
