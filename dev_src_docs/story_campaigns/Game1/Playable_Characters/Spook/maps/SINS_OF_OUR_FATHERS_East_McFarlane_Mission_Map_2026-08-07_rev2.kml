@@ -1,641 +1,902 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-<name>SINS OF OUR FATHERS mission map — detailed rev2 surveillance update</name>
-<description>Normalized geometry-and-notes transcription of owner KML mission map (5).kml. 206 placemarks: 176 points, 8 LineStrings, 22 Polygons. Above-ground camera FOV and UAV patrol updates folded in 2026-08-09. Planning/reference geometry only; production island remains subject to the locked east-west fictionalization mirror.</description>
+<name>SINS OF OUR FATHERS mission map — detailed rev2 updated</name>
+<description>Normalized geometry-and-notes transcription of the latest owner KML. 152 placemarks: 145 points, 6 LineStrings, 1 Polygon. Owner updates and continuity corrections folded in 2026-08-08. Planning/reference geometry only; production island is subject to the locked east-west fictionalization mirror.</description>
 <Placemark>
-<name>Crimson Two's position</name>
-<description>Lawrence "Rip" Mansell occupies a mobile observation tower inside the bermed area that also contains the I-Dome autonomous air defense platform, on the island's highest point of elevation. Mansell's rifle is equipped with a high-powered thermal optic, making it challenging for the player to find adequate cover from Mansell's fire, unless they can completely break line-of-sight contact. After defeating him, the player can find EXTREME PREJUDICE (his rifle) set up in his observation post, near his now dead body.</description>
-<Point><coordinates>-64.82642382189304,18.29974081145582,0</coordinates></Point>
+<name>Crimson Two&apos;s position</name>
+<description>Lawrence "Rip" Mansell occupies a mobile observation tower inside the fortified bermed area that also contains the I-Dome autonomous air-defense battery, at the island&apos;s highest point of elevation. EXTREME PREJUDICE is equipped with a high-powered thermal optic, making foliage and other partial visual concealment less reliable; the player needs true line-of-sight breaks, hard cover, or a sufficiently advantageous firing solution. After defeating Mansell, the player can recover EXTREME PREJUDICE from his observation post.</description>
+<Point>
+<coordinates>-64.82642382189304,18.29974081145582,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Covert floatplane landing location</name>
 <description>This is where smoke coast the plane to a landing with an engine off allowing Victor Two Bravo to access the island undetected via an unlit disused boat launch..</description>
-<Point><coordinates>-64.82279997437742,18.29776152642513,0</coordinates></Point>
+<Point>
+<coordinates>-64.8228,18.2977615,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Concealed staging area</name>
 <description>The team make their way here to allow Tripper to asses physical and network security measures that the team should be aware of, and to allow time for the team to review, finalize, and agree on the mission objective approach plan.</description>
-<Point><coordinates>-64.82338740207867,18.29876301011264,0</coordinates></Point>
+<Point>
+<coordinates>-64.8233874,18.298763,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Temple Pavilion</name>
 <description>This eclectically and expensively decorated pavilion styled to look like an Egyptian temple contains a secure office used by Goldberg. Inside, the player can find Intel collectibles, and the other CheyTac M200 Intervention sniper rifle. The rifle can be used to defeat Rip from a distance.</description>
-<Point><coordinates>-64.82818078378156,18.29814903670475,0</coordinates></Point>
+<Point>
+<coordinates>-64.8281808,18.298149,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Western cape pool house flagpole base stash location.</name>
-<description>This is where the player may find Regent's Intel dead drop, hidden behind a loose stone block in the flag pole base near the pool house. Cache details: weatherproof cache or sealed container;one encrypted USB drive;handwritten note;unfamiliar symbol;coordinates that do not correspond to a Game 1 objective;no signature. the player can reveal the location of this stash by collecting and piecing together the coordinate fragments scattered across 8 benches on the island</description>
-<Point><coordinates>-64.82856780316208,18.30127092570058,0</coordinates></Point>
+<description>This is where the player may find Regent&apos;s Intel dead drop, hidden behind a loose stone block in the flag pole base near the pool house. Cache details: weatherproof cache or sealed container;one encrypted USB drive;handwritten note;unfamiliar symbol;coordinates that do not correspond to a Game 1 objective;no signature. the player can reveal the location of this stash by collecting and piecing together the coordinate fragments scattered across 8 benches on the island</description>
+<Point>
+<coordinates>-64.8285678,18.3012709,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>Crimson Three's position</name>
-<description>The player approaches along the eastern beach using foliage for cover from drones. The main access route is too heavily surveilled and protected from automated weapons systems for the team to risk. Therefore the team decide to approach the northwestern guesthouse/service side of the main residence's property and use a service entrance through the Guesthouse. This guesthouse also contained a concealed security monitoring room, where the player can access the video feed, and with an access card that they can acquire after defeating Dermot "Lucky" Underwood, also switch the IFF threat detection profiles of the automated systems inside the main residence and in its courtyard to turn them against Crimson One, who is positioned inside the main residence entry hall on the mezzanine level. The guest house is where the player is confronted by Crimson Three. Shortly after the team enter the guesthouse, which they find unlit and seemingly deserted, Underwood attacks them using a stun grenade, which leads to a frantic close quarters firefight inside the disorienting interior of the guest house. After defeating Underwood, the player can take his access card and unlock the security room mentioned earlier.</description>
-<Point><coordinates>-64.82463027267172,18.30344066231277,0</coordinates></Point>
+<name>Crimson Three&apos;s position</name>
+<description>The player approaches along the eastern beach using foliage for cover from drones. The main access route is too heavily surveilled and protected by automated weapons systems for the team to risk. The team therefore works around to the northwestern guesthouse/service side of the main-residence property and uses the guesthouse service entrance. The guesthouse contains a concealed security-monitoring room. After defeating Dermot "Lucky" Underwood, the player can recover his access card and alter local IFF threat profiles so Goldberg’s automated defenses can be turned against Crimson One. The exact IFF-assisted result remains implementation-open: it may suppress, injure, displace, or defeat Graves, while direct combat remains valid. Shortly after the team enters the dark, apparently deserted guesthouse, Underwood attacks with a stun grenade, initiating a frantic close-quarters firefight.</description>
+<Point>
+<coordinates>-64.8246302551776,18.30344069786174,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>Crimson One's position</name>
-<description>The mezzanine on the first floor level of the main residence's entry hall is where the player finds Graves expecting him, already in cover. Unless the player tampers with the IFF settings beforehand, trying to defeat Graves in a full on fight is a tricky and rewarding challenge. The player can also find many intel collectibles by searching the large residence before proceeding to the helipad for the final part of the mission.</description>
-<Point><coordinates>-64.82429257470051,18.30289602641334,0</coordinates></Point>
+<name>Crimson One&apos;s position</name>
+<description>The mezzanine on the first floor level of the main residence&apos;s entry hall is where the player finds Graves expecting him, already in cover. Unless the player tampers with the IFF settings beforehand, trying to defeat Graves in a full-on fight is tricky and rewarding challenge. The player can also find many Intel collectibles by searching the large residence before proceeding to the helipad for the final part of the mission.</description>
+<Point>
+<coordinates>-64.82429260000001,18.302896,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Final helipad confrontation location</name>
-<description>The player moves through the main residence's courtyard and across the driveway to the helipad where the team confronts Goldberg and Stockbridge as they are preparing to escape off the island, only for CIA Director Macmillan to interdict via radio, ordering the team to stand down and let Goldberg and Stockbridge flee the island in a helicopter. Spook refuses, which leads to Bishop declaring Victor Two Bravo rogue, ending the campaign finale on a cliffhanger, while the targets escape.</description>
-<Point><coordinates>-64.82353369147208,18.30255164750263,0</coordinates></Point>
+<description>The player moves through the main residence&apos;s courtyard and across the driveway to the helipad, where the team confronts Goldberg and Stockbridge as they prepare to escape. CIA Director Macmillan intervenes by radio and orders the team to stand down and allow Goldberg and Stockbridge to leave by helicopter. Spook refuses, prompting Bishop to declare Victor Two Bravo rogue and ending the campaign finale on a cliffhanger while the targets escape.</description>
+<Point>
+<coordinates>-64.8235337,18.3025516,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Boath launch access point</name>
-<Point><coordinates>-64.82269057541764,18.29783340186333,15.53961950068338</coordinates></Point>
+<Point>
+<coordinates>-64.82269059999999,18.2978334,15.53961950354232</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Boat trailer garage</name>
-<Point><coordinates>-64.82245629428056,18.29796406373355,17.05647749847445</coordinates></Point>
+<Point>
+<coordinates>-64.82245630000001,18.2979641,17.05647751691241</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>boat launch service shed</name>
-<Point><coordinates>-64.82245829833575,18.29786291390865,17.44478638639142</coordinates></Point>
+<Point>
+<coordinates>-64.8224583,18.2978629,17.44478641776029</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Mobile observation tower</name>
-<Point><coordinates>-64.8264311620213,18.29974731775393,49.03577357443331</coordinates></Point>
+<Point>
+<coordinates>-64.82642214503899,18.29973532143612,33.27901179577837</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>statue</name>
-<Point><coordinates>-64.82241948436106,18.29821150140344,16.45848722232839</coordinates></Point>
+<Point>
+<coordinates>-64.8224195,18.2982115,16.45848720966018</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Temple Pavilion entry</name>
 <description>The door to the pavilion is locked from the outside, but can be unlocked from inside the Temple Pavilion office after the player reaches it via the underground tunnel entrance. Attached reference images show 3 exterior views and 2 interior views from different distances and angles. The windows on the east and west side of the pavilion are shuttered from the outside. The south side door is also shuttered, but the shutters can be opened when the door is unlocked from inside the office.</description>
-<Point><coordinates>-64.82817940490548,18.29811982654249,39.9429523639537</coordinates></Point>
+<Point>
+<coordinates>-64.82817937129579,18.29811975917121,39.94295236676141</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>CheyTac M200 location</name>
-<Point><coordinates>-64.82820445735522,18.29812880782307,39.56067732143641</coordinates></Point>
+<Point>
+<coordinates>-64.82820449114801,18.29812879193674,39.56067727793934</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>vantage point</name>
 <description>The player can take up positions behind the low wall and use the CheyTac M200 to defeat Crimson Two. The player can also use a number of other viable approaches, and different positions and distances, this is just one of the alternative ways of dealing with Crimson Two.</description>
-<Point><coordinates>-64.82810728501891,18.2982883573747,40.10240138575488</coordinates></Point>
+<Point>
+<coordinates>-64.82810734922154,18.29828836841799,40.10240144959965</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>vantage point</name>
-<description>Crimson Two's firing position</description>
-<Point><coordinates>-64.82642615510132,18.29973609774007,49.18043543153204</coordinates></Point>
+<description>Crimson Two&apos;s firing position</description>
+<Point>
+<coordinates>-64.82642214503899,18.29973532143612,33.27901179577837</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>eastern pond pumphouse</name>
-<Point><coordinates>-64.82847702928021,18.30011885511319,9.546466002949115</coordinates></Point>
+<Point>
+<coordinates>-64.8284770283589,18.30011888590484,9.546465981288343</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>eastern cape open-air music pavilion</name>
-<Point><coordinates>-64.82859656720126,18.30046166319075,14.87968473567587</coordinates></Point>
+<Point>
+<coordinates>-64.82859661781144,18.30046166818777,14.87968465701193</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>northeastern cape pool house</name>
-<Point><coordinates>-64.82850153566444,18.30121065152408,14.99721120262688</coordinates></Point>
+<Point>
+<coordinates>-64.82850147570643,18.30121074436909,14.99721123617387</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>northeastern cape pool</name>
-<Point><coordinates>-64.82868349008354,18.3011968989083,15.22678043201116</coordinates></Point>
+<Point>
+<coordinates>-64.82868346153523,18.30119689597774,15.22678043112303</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>pool access ladder</name>
-<Point><coordinates>-64.82859678156285,18.3011832091988,15.24006395606609</coordinates></Point>
+<Point>
+<coordinates>-64.82859678341225,18.30118316970263,15.24006402294195</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>pool diving board</name>
-<Point><coordinates>-64.82880871005783,18.30119752056756,15.26582029593808</coordinates></Point>
+<Point>
+<coordinates>-64.82880871541538,18.30119745330937,15.26582034565653</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>eastern cape pavilion golf cart parking spaces</name>
-<Point><coordinates>-64.82855364559826,18.30025542587586,12.06713780005386</coordinates></Point>
+<Point>
+<coordinates>-64.82855357433898,18.30025536564626,12.06713776313897</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Temple Pavilion tunnel access</name>
 <description>This service shed contains a hidden tunnel leading to a concealed movable bookshelf door entrance inside the Temple Pavilion office.</description>
-<Point><coordinates>-64.82868765824126,18.29821961931508,26.74608319244553</coordinates></Point>
+<Point>
+<coordinates>-64.82868765266023,18.29821960424545,26.74608279242871</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>movable bookshelf with hidden door</name>
 <description>The underground access tunnel terminates under the Temple Pavilion, and a staircase leads the player to the small chamber behind the concealed door that can be opened to access the interior of the office.</description>
-<Point><coordinates>-64.8281745022158,18.29817617608454,39.76552101120431</coordinates></Point>
+<Point>
+<coordinates>-64.82817449009176,18.29817618481291,39.7655210493244</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Temple Pavilion access underground tunnel</name>
-<LineString><coordinates>-64.8286865237531,18.29822000549425,0 -64.82819416272221,18.29817967049928,0</coordinates></LineString>
+<LineString>
+<coordinates>-64.82868648120325,18.29821995420916,0 -64.82819416643013,18.29817967823331,0</coordinates>
+</LineString>
 </Placemark>
 <Placemark>
 <name>tunnel access staircase</name>
-<Point><coordinates>-64.82868604451684,18.29821541362909,26.85786552764842</coordinates></Point>
+<Point>
+<coordinates>-64.82868603443414,18.29821541801517,26.85786545972366</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>tunnel access staircase</name>
-<Point><coordinates>-64.82819337659966,18.29817772817801,39.91133109455068</coordinates></Point>
+<Point>
+<coordinates>-64.82819340000001,18.2981777,39.91133113523597</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>eastern pond</name>
-<Point><coordinates>-64.82834839681891,18.29960858960379,8.842295872547654</coordinates></Point>
+<Point>
+<coordinates>-64.82834844381315,18.29960859503705,8.84229588017399</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>NO TRESPASSING sign</name>
-<Point><coordinates>-64.82273064950817,18.29788585110153,15.46861317237036</coordinates></Point>
+<Point>
+<coordinates>-64.82273063614789,18.29788588717573,15.46861316416792</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>open-air amphitheater</name>
-<Point><coordinates>-64.82560064854229,18.30140630409246,10.00890566391207</coordinates></Point>
+<Point>
+<coordinates>-64.82560058251705,18.30140631406455,10.0089057387555</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>main residence helipad</name>
-<Point><coordinates>-64.82351171349411,18.30253530480853,7.275753083956732</coordinates></Point>
+<Point>
+<coordinates>-64.823511715338,18.30253530758721,7.275753117011844</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>beach-side Guesthouse door</name>
-<Point><coordinates>-64.82471025571585,18.30350348760737,14.37646378544902</coordinates></Point>
+<Point>
+<coordinates>-64.82471032909186,18.3035035369793,14.37646381009834</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>main residence north courtyard guesthouse door</name>
-<Point><coordinates>-64.82462878363765,18.30337632813834,14.96858119398731</coordinates></Point>
+<Point>
+<coordinates>-64.82462878363765,18.30337632813834,14.96858119398731</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>covered seating area</name>
-<description>The tent roof helps shelter the player from overhead thermal UAV detection by breaking line of sight. The walls are open so the player remains somewhat visible at ground level.</description>
-<Point><coordinates>-64.82450381875333,18.30307736197067,15.91409836349427</coordinates></Point>
+<description>The tent roof can break direct overhead EO/thermal line of sight and reduce exposure to overhead UAV sensors. It does not make the player thermally invisible; the open walls leave the player visible from lateral and ground-level angles.</description>
+<Point>
+<coordinates>-64.8245037521885,18.30307739630446,15.91409836349427</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>northwestern beach bungalow</name>
 <description>Contains collectible Intel in the form of a flash drive and a file containing several printouts of highly compromising and incriminating photos showing then president-elect Barry James Crodyn and SCOTUS justices Walter Pedilla and Creighton Howard engaging in multiple acts of immoral and illicit conduct.</description>
-<Point><coordinates>-64.82474162090152,18.30253540923626,11.88302522093215</coordinates></Point>
+<Point>
+<coordinates>-64.82474159650387,18.30253543560128,11.88302519737619</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>boat</name>
-<description>Not interactable by the player, just visual detail to communicate environmental storytelling. Implies an off-screen attempt to flee / evacuate by water that failed or was interrupted. Contains discarded ligatures, a half empty backpack, and smears of blood, but no body. The port area is deserted when the player arrives.</description>
-<Point><coordinates>-64.82534768068139,18.30225062725353,0.4526214154048134</coordinates></Point>
+<description>This boat is noninteractable, and found partially loaded with boxed supplies, that seem to have been prepared for an evacuation. It suggests that someone attempted to use it to escape the island after the invasion, but it never actually left. A set of discarded ligatures, a half empty backpack, and a few old blood smears can also be found. There is no body. The port is otherwise deserted.</description>
+<Point>
+<coordinates>-64.82534773829053,18.30225061423911,0.4526213764534543</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>northeastern port infrastructure and supply storage building</name>
-<Point><coordinates>-64.82519648404298,18.30170637812595,9.519327456039768</coordinates></Point>
+<Point>
+<coordinates>-64.82519646981055,18.30170636087739,9.519326859297734</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>collectible intel</name>
 <description>Evidence of struggle and possible violence in on-board the boat</description>
-<Point><coordinates>-64.82535057850529,18.30225686528557,1.02366936693085</coordinates></Point>
+<Point>
+<coordinates>-64.82535059999999,18.3022569,1.023669373221804</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>port entry gateway</name>
-<Point><coordinates>-64.82515747905624,18.30217251284788,8.73154887658466</coordinates></Point>
+<Point>
+<coordinates>-64.82515750968894,18.30217251902605,8.731548859164222</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>northwestern port pier</name>
-<Point><coordinates>-64.82533007134341,18.30227908073432,4.555120356384945</coordinates></Point>
+<Point>
+<coordinates>-64.82533011488656,18.30227905934415,4.55512035436721</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>beached yacht</name>
 <description>Contains collectible Intel inside</description>
-<Point><coordinates>-64.82490101657834,18.30262104283928,10.34879848791511</coordinates></Point>
+<Point>
+<coordinates>-64.82490095952893,18.30262096953494,10.3487985342876</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>collectible Intel</name>
 <description>Compromising photos and video recordings of Crodyn and the SCOTUS justices</description>
-<Point><coordinates>-64.82473686077117,18.30248421552203,11.80689719170312</coordinates></Point>
+<Point>
+<coordinates>-64.82473690795523,18.30248418539537,11.80689718065202</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>9mm and 5.56mm ammo pickup</name>
 <description>The player may find a stash of several loaded AR-15 magazines, and a box of 9x19 ammo</description>
-<Point><coordinates>-64.82490987020472,18.30260796559908,10.2225616013221</coordinates></Point>
+<Point>
+<coordinates>-64.82490992295653,18.30260798235251,10.22256162515532</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>northwest beach-side bungalow door</name>
-<Point><coordinates>-64.8247854468786,18.30254552654199,11.01208426434926</coordinates></Point>
+<Point>
+<coordinates>-64.82478538270782,18.3025454743883,11.01208433928575</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>northwestern beach-side bungalow door</name>
-<Point><coordinates>-64.82468011853087,18.3025713630676,13.52877653216394</coordinates></Point>
+<Point>
+<coordinates>-64.82468005398665,18.30257137768722,13.52877653734737</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>service shed with HVAC and backup generator exhaust for the underground holding facility</name>
-<Point><coordinates>-64.82479078850517,18.30176952413149,9.815033434695565</coordinates></Point>
+<Point>
+<coordinates>-64.82479078717605,18.30176952298276,9.815033430322453</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>Equestrian club stables</name>
-<Point><coordinates>-64.82423363554864,18.30097173314234,15.51698695022742</coordinates></Point>
+<Point>
+<coordinates>-64.82423363463204,18.30097169967906,15.51698700293932</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>equestrian club</name>
-<Point><coordinates>-64.82456771593861,18.30083668411405,17.48560393117685</coordinates></Point>
+<Point>
+<coordinates>-64.82456766080055,18.30083667069815,17.48560385240353</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>utility tunnel access door</name>
-<Point><coordinates>-64.82454888795572,18.30161055488984,9.673098293497529</coordinates></Point>
+<Point>
+<coordinates>-64.82454891465224,18.30161058678229,9.673098270258071</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>southwestern flagpole</name>
-<Point><coordinates>-64.82207690093314,18.29744670036675,24.8594541206212</coordinates></Point>
+<Point>
+<coordinates>-64.82207688153994,18.29744674651693,24.85945414717821</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>directional sign</name>
-<Point><coordinates>-64.82483421811475,18.30164803146651,11.28115449893854</coordinates></Point>
+<Point>
+<coordinates>-64.8248341693587,18.30164802603998,11.28115454660101</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>construction material storage warehouse</name>
-<Point><coordinates>-64.82441769360641,18.30126579628686,11.40536770647143</coordinates></Point>
+<Point>
+<coordinates>-64.82441773904612,18.30126576029314,11.40536771530508</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>boat on a trailer</name>
-<Point><coordinates>-64.82459340205626,18.30152803457065,10.60075826916727</coordinates></Point>
+<Point>
+<coordinates>-64.82459342743967,18.3015280124862,10.60075833666623</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>empty boat trailer</name>
-<Point><coordinates>-64.82459786859422,18.30140974092244,12.15552860455878</coordinates></Point>
+<Point>
+<coordinates>-64.82459791260652,18.30140967158207,12.15552860713975</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>main generator &amp; waste disposal building</name>
-<Point><coordinates>-64.82454019100972,18.30174868344845,8.808797770807188</coordinates></Point>
+<Point>
+<coordinates>-64.8245401587779,18.30174869243263,8.808797849543345</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>construction equipment warehouse and fuel storage</name>
-<Point><coordinates>-64.82440060387151,18.30155822209694,10.55126275123995</coordinates></Point>
+<Point>
+<coordinates>-64.82440060568724,18.30109454093651,13.34891231326339</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>construction equipment parking</name>
-<Point><coordinates>-64.82423634272655,18.30137414872252,12.74798708695288</coordinates></Point>
+<name>underground access stairway</name>
+<Point>
+<coordinates>-64.82454825333348,18.30158647737756,9.886401134536171</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>main waste processing and equipment garage building</name>
-<Point><coordinates>-64.82414326514151,18.30164907024364,9.965642632564638</coordinates></Point>
+<name>underground access stairway</name>
+<Point>
+<coordinates>-64.82459012171935,18.30152621916008,9.239023396090824</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>northwestern directional sign</name>
-<Point><coordinates>-64.82469234980924,18.30202688807088,11.44964755618472</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southwest beach-side bar</name>
-<Point><coordinates>-64.82354258245736,18.29956845220713,12.14438250706005</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>abandoned smartphone</name>
-<description>Contains visitor log covering the last 4 months</description>
-<Point><coordinates>-64.82355569730523,18.29956922104309,11.2152991708842</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southwestern beach boat launch</name>
-<Point><coordinates>-64.82281847150213,18.29990823494962,6.67620420138277</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southwestern beach pier</name>
-<Point><coordinates>-64.82277065920225,18.29996985494914,4.870441091659725</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southwestern beach access road</name>
-<Point><coordinates>-64.82358826199329,18.30035978692163,14.01281869137884</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southwestern beach-side bungalow</name>
-<Point><coordinates>-64.82370319556942,18.29933562272596,12.17837906541856</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southern observation point</name>
-<Point><coordinates>-64.8231649257692,18.29867089158295,14.17038072023448</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southern beach access road</name>
-<Point><coordinates>-64.82341170616786,18.29825221389517,12.32257634996824</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southern flagpole observation point / vantage point</name>
-<description>The player can use this exposed long-distance position as another optional firing solution against Crimson Two. The Temple Pavilion M200 makes the shot significantly easier; GRAY GHOST may still be viable at a substantially higher difficulty. Exact ballistic tuning remains open.</description>
-<Point><coordinates>-64.82197605564012,18.29747344167914,25.42435413129577</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>southern flagpole bench</name>
-<Point><coordinates>-64.82202764579247,18.29749352884663,25.01867646525285</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible intel: W64D</name>
-<Point><coordinates>-64.82202751599923,18.29749394643614,25.10460832144792</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>I-Dome autonomous air defense battery</name>
-<description>The I-Dome battery shares the fortified high-point berm with Mansell's mobile observation post. Disturbance can trigger local reconnaissance UAV response and escalate to armed enforcer UAVs under confirmed intrusion.</description>
-<Point><coordinates>-64.82642195772914,18.29973805753797,49.07367338160276</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>fortified bermed I-Dome / Crimson Two site</name>
-<LineString><coordinates>-64.8266981344139,18.2998804539723,0 -64.82662894725593,18.29944669849613,0 -64.82630715478817,18.29951575672301,0 -64.82621816974538,18.29997501554775,0 -64.8266981344139,18.2998804539723,0</coordinates></LineString>
-</Placemark>
-<Placemark>
-<name>south berm narrow entry gap</name>
-<Point><coordinates>-64.82648047626216,18.29945742878243,48.54076530421598</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>bench</name>
-<Point><coordinates>-64.82665521179131,18.29974324065088,49.77925526357464</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible intel: N18D</name>
-<Point><coordinates>-64.82665657743212,18.29974436179859,49.78285857656563</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>bench</name>
-<Point><coordinates>-64.82629496824815,18.29963072978731,48.64940139970494</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible intel: N18M</name>
-<Point><coordinates>-64.82629542491466,18.29963180855307,48.65207656829094</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>bench</name>
-<Point><coordinates>-64.82566518676443,18.30037746698787,30.83459935746841</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible intel: N04S</name>
-<Point><coordinates>-64.8256644390743,18.3003765232392,30.76584741546306</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>bench</name>
-<Point><coordinates>-64.82540405298611,18.30100777381296,15.39286105413781</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible Intel: N570MS</name>
-<Point><coordinates>-64.8254030764852,18.30100865956691,15.35985463467839</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>bench</name>
-<Point><coordinates>-64.82493682559183,18.30070515053958,16.88522655562968</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible intel: W42S</name>
-<Point><coordinates>-64.82493621950625,18.30070460730277,16.87227242663316</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>bench</name>
-<Point><coordinates>-64.82501187210664,18.30040953819571,21.43484746137035</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible intel: W840MS</name>
-<Point><coordinates>-64.82501285177337,18.30041007722571,21.48202934633227</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>bench</name>
-<Point><coordinates>-64.82577319667991,18.30007946076793,36.14015345142373</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible intel: W49M</name>
-<Point><coordinates>-64.82577364320402,18.30008050508509,36.18327656545108</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>bench</name>
-<Point><coordinates>-64.82591516575958,18.29981159213544,41.24082258040835</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>collectible intel: W64D</name>
-<Point><coordinates>-64.82202751599923,18.29749394643614,25.10460832144792</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>main residence west driveway gate camera</name>
-<Point><coordinates>-64.82365863505029,18.30237979893455,12.42025728955692</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>north courtyard, west security camera</name>
-<Point><coordinates>-64.82447757937355,18.30315140768164,16.75691683722224</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>north courtyard, east security camera</name>
-<Point><coordinates>-64.82392728185384,18.30315393601212,17.1017931555005</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>east driveway gate camera</name>
-<Point><coordinates>-64.82381323448152,18.30242827321833,12.61294436102597</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>western pool area security camera</name>
-<Point><coordinates>-64.82467728088846,18.30299608263574,15.81298183478233</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>UGV dock and west pool area security camera</name>
-<Point><coordinates>-64.82458423456285,18.30285659982552,14.89042691130629</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>main residence poolside bungalow east security camera</name>
-<Point><coordinates>-64.82428422879262,18.30249379324755,14.76855031891551</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>poolhouse security camera</name>
-<Point><coordinates>-64.8246610311084,18.30265315558562,14.51459937052381</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>camera watching supply storage building with tunnel access bay door</name>
-<Point><coordinates>-64.82446620966132,18.30135184519712,10.52449437236235</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>port infrastructure and supply storage building bay door camera</name>
-<Point><coordinates>-64.82503937227045,18.3019395197851,8.465034831321896</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>backup generator and HVAC exhaust shed security camera</name>
-<Point><coordinates>-64.82478261553631,18.30177169492997,9.757854152780876</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>waste processing and equipment garage building bay door security camera</name>
-<Point><coordinates>-64.82413718558763,18.3016961483125,9.831089094606454</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>west main residence compound entry gate security camera</name>
-<Point><coordinates>-64.82376139585098,18.30241854708745,12.50890364102177</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>I-Dome in board light amplifying panoramic security camera</name>
-<Point><coordinates>-64.82641496562165,18.29974732108323,49.09576881900193</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>west beach-side bar area security camera</name>
-<Point><coordinates>-64.82355588934144,18.29956622077402,11.18267122893421</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>eastern pond pumphouse security camera</name>
-<Point><coordinates>-64.82845872256504,18.30010771426636,9.300725819591546</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>east poolhouse area entry security camera</name>
-<Point><coordinates>-64.82851404412079,18.30104520104985,14.07738708033476</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>northeastern guesthouse UAV dock security camera</name>
-<Point><coordinates>-64.82449734061699,18.30370101585331,15.1094143118339</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Recon UAV patrol path</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82452849191628,18.30309611099519,0 -64.82417673714056,18.30290549680457,0 -64.82384206183718,18.30277813728568,0 -64.8247441830749,18.30277346569103,0 -64.82383289894953,18.30239798913032,0 -64.82441899491403,18.30243442681578,0 -64.82486115770169,18.30260330461099,0 -64.82385464466823,18.30259089574606,0 -64.82469273329568,18.30306348048888,0 -64.82401445609649,18.30304940657525,0 -64.82438987420747,18.30321333861662,0 -64.82403618562731,18.30318986083546,0 -64.82459673938106,18.30337114475755,0 -64.82452849191628,18.30309611099519,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
-</Placemark>
-<Placemark>
-<name>hidden retractable .50 cal machine gun autonomous battery</name>
-<Point><coordinates>-64.82441044614994,18.30245564646624,17.31703162281864</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>hidden retractable .50 cal machine gun autonomous battery</name>
-<Point><coordinates>-64.82462970973828,18.30247814463996,17.13534022853226</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>UAV patrol path</name>
-<description>The second UAV takes a wider circular sweeping path, scanning most of the structures on the northern half of the island.</description>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82474305711858,18.30336636024026,0 -64.82452966532459,18.30348137514303,0 -64.8247546597009,18.3036188455386,0 -64.82448880448176,18.3036691686656,0 -64.82485529265816,18.30374355711952,0 -64.82480594805733,18.30319111144159,0 -64.82497109596829,18.30252387639626,0 -64.82404333509966,18.30208596601809,0 -64.82430563263271,18.30137286312177,0 -64.82432795548728,18.30192769591358,0 -64.82462449298296,18.30138505053436,0 -64.82437201048981,18.30204814006865,0 -64.82467288284637,18.30178116858324,0 -64.82501071034456,18.30180672060546,0 -64.82477472052138,18.30178305856618,0 -64.82473957223201,18.30161861337349,0 -64.82506538166872,18.3015978483668,0 -64.82508362581607,18.30187034120639,0 -64.82478594401575,18.30174827944442,0 -64.82474069089215,18.30192358734558,0 -64.82498286576063,18.30199775478794,0 -64.82473084347322,18.30192612381431,0 -64.82489768597388,18.30208354262765,0 -64.82470383903349,18.30211494772179,0 -64.82470550815276,18.30190300935864,0 -64.82455718716008,18.30195192126153,0 -64.82454541525725,18.30212244032255,0 -64.82448185697214,18.30193674664509,0 -64.82441280301027,18.30208095108447,0 -64.82441331271432,18.30188824434602,0 -64.82432539935192,18.30204118693942,0 -64.82427083260797,18.30186118969487,0 -64.82420924021484,18.30200823274435,0 -64.82417403263819,18.30182819581089,0 -64.82411336089905,18.30197885391326,0 -64.82408010449585,18.30180072449557,0 -64.82400401503206,18.30196555114639,0 -64.82396494232244,18.3017894274549,0 -64.8238891824569,18.30193812504896,0 -64.82386739974251,18.30175956166349,0 -64.82377432486631,18.30192326932265,0 -64.8237631865545,18.30173948308456,0 -64.8236526403621,18.30190740315788,0 -64.8236660613229,18.3017162153544,0 -64.82356088351506,18.30186789016211,0 -64.82356211227607,18.30166901670872,0 -64.82345474926938,18.30180173050025,0 -64.82346261606601,18.30161741797012,0 -64.82336395379393,18.30174224291132,0 -64.8233604808396,18.3015528971591,0 -64.82326746577678,18.30168141469046,0 -64.82325542097449,18.30149289437562,0 -64.82316666669238,18.30162165468373,0 -64.82314571397809,18.30143489739243,0 -64.82306133588216,18.30156662344203,0 -64.82302485874715,18.30138272260343,0 -64.82295798625561,18.30151050648799,0 -64.82290538678187,18.30132504811331,0 -64.8228544402684,18.30145906976525,0 -64.82279156144647,18.30128252988598,0 -64.82274413861486,18.30141435354331,0 -64.82267549484285,18.30123013866098,0 -64.82264497383201,18.30136621351315,0 -64.82256272974391,18.30118790932441,0 -64.82474305711858,18.30336636024026,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
-</Placemark>
-<Placemark>
-<name>rooftop enforcement UAV dock</name>
-<Point><coordinates>-64.8245129613331,18.30368092808022,15.5434392375228</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>ThreeHalf Q-UGV dock</name>
-<description>ThreeHalves are centaur-like heavy quadrupedal autonomous UGVs. They remain docked and in standby mode, and only activate at high alarm levels or when directly attacked by the player. They carry modified belt-fed AR-15-pattern automatic rifles, with extra loaded belts in a container on the back of their quadrupedal parts (as in, where the saddle would be put on a horse).</description>
-<Point><coordinates>-64.8245222288221,18.30179278935379,8.589646129059449</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>code-locked tunnel to holding facility passage door</name>
-<Point><coordinates>-64.82489925715454,18.30159338051191,11.74643904365524</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>code-locked underground service corridor to holding facility access hallway door</name>
-<Point><coordinates>-64.8250397493405,18.30173599005845,10.05598455770505</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>code-locked underground holding facility utility corridor access door</name>
-<Point><coordinates>-64.82483306492318,18.3017203623709,10.57304490051477</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>underground holding facility</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82502956624417,18.30165942930081,0 -64.82479860127746,18.30160003536334,0 -64.82476762764682,18.30172247317025,0 -64.82498279064327,18.30177902715509,0 -64.82502956624417,18.30165942930081,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>supply warehouse tunnel access</name>
+<Point>
+<coordinates>-64.82499082128495,18.30179459975794,8.172659591870296</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>supply tunnel</name>
-<LineString><coordinates>-64.82497082558709,18.30185795543483,0 -64.82498214560869,18.30178434526203,0 -64.82460294117363,18.3017841750708,0</coordinates></LineString>
+<LineString>
+<coordinates>-64.82498996264019,18.30179398181365,0 -64.82475205952216,18.30173772390856,0 -64.82455871958459,18.30160287554415,0</coordinates>
+</LineString>
 </Placemark>
 <Placemark>
 <name>underground stair access corridor branch</name>
-<LineString><coordinates>-64.82493378669642,18.3017837249244,0 -64.82493145328043,18.30169003624405,0</coordinates></LineString>
+<LineString>
+<coordinates>-64.82457307910212,18.30159703714468,0 -64.82458188718058,18.30168482379687,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>underground holding facility</name>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>-64.82478571521055,18.30189750876928,0 -64.82487428240318,18.30181998711769,0 -64.82473740474599,18.30167450984655,0 -64.82459313023444,18.30176070534333,0 -64.82478571521055,18.30189750876928,0</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
 </Placemark>
 <Placemark>
 <name>underground holding facility access corridor branch</name>
-<LineString><coordinates>-64.8250551050493,18.30171481889347,0 -64.82503954754549,18.30174618640419,0 -64.82500350848966,18.30173664641809,0</coordinates></LineString>
+<LineString>
+<coordinates>-64.82475194411752,18.30173777868025,0 -64.82472015004189,18.30171524977299,0 -64.8246973210008,18.30173963978727,0</coordinates>
+</LineString>
 </Placemark>
 <Placemark>
 <name>mid tunnel underground holding facility access corridor branch</name>
-<LineString><coordinates>-64.82490051399473,18.30162736197401,0 -64.82490560652411,18.30159564744726,0</coordinates></LineString>
+<LineString>
+<coordinates>-64.82475205529569,18.30173772948044,0 -64.82477325453107,18.30176430309385,0</coordinates>
+</LineString>
 </Placemark>
 <Placemark>
 <name>underground holding facility utility corridor branch</name>
-<LineString><coordinates>-64.82483454376968,18.30172373679532,0 -64.8248162529955,18.30179647309387,0</coordinates></LineString>
+<LineString>
+<coordinates>-64.82475207489956,18.30173772268846,0 -64.82475976643055,18.30180703952316,0</coordinates>
+</LineString>
 </Placemark>
 <Placemark>
-<name>port supply warehouse tunnel access ladder</name>
-<Point><coordinates>-64.82475981295652,18.30176306704018,9.38637752069231</coordinates></Point>
+<name>abandoned southern beach</name>
+<Point>
+<coordinates>-64.82313638249023,18.29663713886442,0</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>underground holding facility access combination</name>
-<description>A collectible code found in the hillside bungalow provides the combination for the controlled underground holding-facility access route.</description>
-<Point><coordinates>-64.82475196276763,18.30274552366861,16.6966923194637</coordinates></Point>
+<name>southern pool</name>
+<Point>
+<coordinates>-64.82392493978705,18.29705700466898,7.139752771085787</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>MARS riot suppression robot dock</name>
-<Point><coordinates>-64.82479297949175,18.30167169613804,11.03744910161298</coordinates></Point>
+<name>southern pool pump house</name>
+<Point>
+<coordinates>-64.82404114465198,18.29709577498095,7.499165349474706</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>southern pool terrace</name>
+<Point>
+<coordinates>-64.82375901480401,18.2971883947583,9.242055634990252</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>southern beach-side villa</name>
+<Point>
+<coordinates>-64.82341646605743,18.29746450752224,16.61557665229855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>southern beach-side villa door</name>
+<Point>
+<coordinates>-64.82336513653287,18.29746275852197,15.51097484703835</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>southern beach-side villa door</name>
+<Point>
+<coordinates>-64.82348535695251,18.29745778714419,17.31106978275709</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>southern guesthouse</name>
+<Point>
+<coordinates>-64.82404412880453,18.29744765735311,15.36669479468211</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>southern guesthouse door</name>
+<Point>
+<coordinates>-64.82399017137794,18.29741902580332,15.26804385688595</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>southern guesthouse door</name>
+<Point>
+<coordinates>-64.82408255526538,18.29745447192671,15.65593593865697</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill bungalow</name>
+<Point>
+<coordinates>-64.82759705785949,18.29907367873209,27.42951858960372</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill bungalow door</name>
+<Point>
+<coordinates>-64.82757974436378,18.29903396545064,27.24651707373274</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill bungalow door</name>
+<Point>
+<coordinates>-64.82760491656116,18.29910712836833,27.58601798336432</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill bungalow</name>
+<Point>
+<coordinates>-64.82698816900786,18.29910750776274,36.15443406568946</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill bungalow door</name>
+<Point>
+<coordinates>-64.8269567736074,18.29909290841523,36.06944750621092</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill bungalow door</name>
+<Point>
+<coordinates>-64.82702505882137,18.29910826305907,36.20369536303565</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western tunnel access warehouse</name>
+<Point>
+<coordinates>-64.8268174600573,18.29924760976831,38.87581471000552</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western tunnel access warehouse door</name>
+<Point>
+<coordinates>-64.82679572910669,18.29921703715867,38.85450531005349</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western tunnel access warehouse door</name>
+<Point>
+<coordinates>-64.82684764516742,18.29925179266699,38.84401478533327</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>I-Dome mobile air defense system battery location</name>
+<description>Goldberg&apos;s I-Dome autonomous air-defense battery occupies the fortified bermed site at the island&apos;s high point. The battery is unlit and has its own panoramic light-amplifying security camera on a shorter pole near the radar mast. Tampering or significant disturbance is reported to security control, which can dispatch a reconnaissance UAV from the main-residence rooftop dock; confirmed intrusion can escalate to armed enforcer UAVs. Repeated or reckless aggressive engagement of those enforcer UAVs can drive the local security state high enough to activate heavier autonomous ground systems, including ThreeHalf heavy Q-UGVs. The property-security architecture remains Goldberg-controlled, local, and isolated from PANDORA and wider strategic networks.</description>
+<Point>
+<coordinates>-64.82660821953912,18.29959903430874,49.0027131009921</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill road gate</name>
+<Point>
+<coordinates>-64.82665906423074,18.29936816056468,39.94632353342885</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill road gatehouse</name>
+<Point>
+<coordinates>-64.82662541053218,18.29937168607532,39.86102420072772</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill road gatehouse door</name>
+<Point>
+<coordinates>-64.82660648811511,18.29935297325004,39.84479245540183</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill road gatehouse door</name>
+<Point>
+<coordinates>-64.82664393108595,18.29938956960816,39.87349512897301</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill road gate camera</name>
+<Point>
+<coordinates>-64.82663656008002,18.29933519350544,39.86432371353204</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill road gate camera</name>
+<Point>
+<coordinates>-64.82668338095505,18.29938386423644,39.96648637234105</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill reservoir</name>
+<Point>
+<coordinates>-64.82629005876266,18.29977067211329,34.39521726023437</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill water treatment building</name>
+<Point>
+<coordinates>-64.82614784281709,18.29985155405456,33.34767992538094</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill water treatment building door</name>
+<Point>
+<coordinates>-64.82612384782972,18.29984873038034,33.31121311950276</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill water treatment building door</name>
+<Point>
+<coordinates>-64.82617153835917,18.29985554435367,33.35553950220122</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill gazebo</name>
+<Point>
+<coordinates>-64.82640378042866,18.29996204492925,31.74771711980155</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill small ornamental pond</name>
+<Point>
+<coordinates>-64.82626458197075,18.30004390928132,30.24329074741963</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill garden</name>
+<Point>
+<coordinates>-64.82649303321012,18.30024327753347,21.94471576984128</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill pavilion</name>
+<Point>
+<coordinates>-64.82745226183446,18.29981202470212,21.37032682118775</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill pavilion door</name>
+<Point>
+<coordinates>-64.82743929209207,18.29979221401745,21.55125995736021</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill pavilion door</name>
+<Point>
+<coordinates>-64.82746938983575,18.29983489324547,21.21168043658912</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill pool</name>
+<Point>
+<coordinates>-64.82769759356888,18.29991315015273,17.20737858971836</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill poolhouse</name>
+<Point>
+<coordinates>-64.82786485810149,18.29983575640842,17.89805491380522</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill poolhouse door</name>
+<Point>
+<coordinates>-64.82783335071354,18.29983111721404,17.99143952731534</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>western hill poolhouse door</name>
+<Point>
+<coordinates>-64.82789667112039,18.29984192021529,17.82116565556505</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill pool</name>
+<Point>
+<coordinates>-64.82636482830992,18.30072308390091,13.03130629482813</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill pool house</name>
+<Point>
+<coordinates>-64.82647394219908,18.30063018957652,15.1872343134089</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill pool house door</name>
+<Point>
+<coordinates>-64.82645807258764,18.30060515923154,15.37477604311259</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill pool house door</name>
+<Point>
+<coordinates>-64.82649185709234,18.30065801435482,14.98867802606714</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill tennis court</name>
+<Point>
+<coordinates>-64.8261083282334,18.30039357695627,22.40424650835468</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill tennis court service shed</name>
+<Point>
+<coordinates>-64.82594790110989,18.30042990067796,22.72468698430389</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill tennis court service shed door</name>
+<Point>
+<coordinates>-64.82594342495066,18.30041630473105,22.69751630037316</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>central hill tennis court service shed door</name>
+<Point>
+<coordinates>-64.82595316094209,18.30044491398733,22.75250052037947</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>bench</name>
+<Point>
+<coordinates>-64.82624336385157,18.30095724433745,9.490644671374064</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>bench</name>
+<Point>
+<coordinates>-64.82635338140564,18.30119135497415,9.225057398407991</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>bench</name>
+<Point>
+<coordinates>-64.82874501259336,18.30146186537437,13.88986965205761</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>bench</name>
+<Point>
+<coordinates>-64.82729880214467,18.30058722803149,26.52430167222051</coordinates>
+</Point>
 </Placemark>
 <Placemark>
 <name>electrical junction box</name>
-<Point><coordinates>-64.82661085103911,18.30000419063306,39.22297256917711</coordinates></Point>
+<Point>
+<coordinates>-64.82661944491305,18.29999254451734,39.87243884568585</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>supply tunnel stairwell corridor branch security camera</name>
-<Point><coordinates>-64.82493078380752,18.30170568534366,11.04280108990129</coordinates></Point>
+<name>bench</name>
+<Point>
+<coordinates>-64.82687271593147,18.30012297020225,38.96089185309933</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>panoramic overhead security camera over hallway intersection</name>
-<Point><coordinates>-64.8249349455299,18.30177441606355,10.47193755374928</coordinates></Point>
+<name>bench</name>
+<Point>
+<coordinates>-64.82701228894001,18.30004648642018,39.99084510761142</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>eastern underground holding facility entrance security camera</name>
-<Point><coordinates>-64.82503399874038,18.30174906529768,9.982556380966546</coordinates></Point>
+<name>bench</name>
+<Point>
+<coordinates>-64.82608862574659,18.29980029235945,37.69759124891478</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>underground holding facility southern entrance security camera</name>
-<Point><coordinates>-64.8249037403576,18.30159597236564,11.70085216452991</coordinates></Point>
+<name>bench</name>
+<Point>
+<coordinates>-64.82752755543699,18.2998516295956,18.4499984971565</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>western supply tunnel portal security camera</name>
-<Point><coordinates>-64.82459950793048,18.3017870072971,8.38814818957143</coordinates></Point>
+<name>collectible intel: N18D</name>
+<Point>
+<coordinates>-64.82752510191514,18.29985723212542,18.69934333882729</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>port building bay door camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82503886514,18.30194275356746,0 -64.82508336529369,18.30195465830677,0 -64.82506703440525,18.30185965219552,0 -64.82503886514,18.30194275356746,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>Collectible intel: N18M</name>
+<Point>
+<coordinates>-64.82609238387448,18.29979659875989,38.04878911871879</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>east pool area south entry security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82851404412079,18.30104520104985,0 -64.82858344282285,18.30104729696745,0 -64.82852429629815,18.30117342097915,0 -64.82851404412079,18.30104520104985,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>collectible intel: N04S</name>
+<Point>
+<coordinates>-64.82687490591197,18.30012550613761,39.03743316795179</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>eastern pond pumphouse camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82845872256504,18.30010771426636,0 -64.82851108258794,18.30007813361684,0 -64.82847406186282,18.30018339271509,0 -64.82845872256504,18.30010771426636,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>collectible Intel: N570MS</name>
+<Point>
+<coordinates>-64.82701193297503,18.30004849388253,40.00114082844741</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>bermed area I-Dome battery panoramic camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82641496562165,18.29974732108323,0 -64.82671428798986,18.29989735470582,0 -64.82666818273927,18.29948196061389,0 -64.82621934750865,18.2994914917731,0 -64.82619181667389,18.29992729316971,0 -64.82641496562165,18.29974732108323,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>collectible intel: W42S</name>
+<Point>
+<coordinates>-64.82635789231326,18.3011904833334,9.20813768208016</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>construction supply storage building bay door security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82446620966132,18.30135184519712,0 -64.82442324856649,18.30134164435676,0 -64.82442482934945,18.30142808792967,0 -64.82446620966132,18.30135184519712,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>collectible intel: W840MS</name>
+<Point>
+<coordinates>-64.82624280846624,18.30095425328866,9.589036225718428</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>underground supply tunnel west portal security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82459950793048,18.3017870072971,0 -64.82453985984617,18.30177222960803,0 -64.82454121662632,18.30183132832618,0 -64.82459950793048,18.3017870072971,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>collectible intel: W64D</name>
+<Point>
+<coordinates>-64.82232792404744,18.29730723203038,40.04634040763376</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>equipment parking and waste processing building bay door security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82413718558763,18.3016961483125,0 -64.8240930603902,18.30169705319705,0 -64.82410643465272,18.30163553481229,0 -64.82413718558763,18.3016961483125,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>collectible Intel W49M</name>
+<Point>
+<coordinates>-64.82874425657573,18.30145922633042,13.97255086795117</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>northeast guesthouse UAV dock security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82449734061699,18.30370101585331,0 -64.8245568547605,18.30372631146608,0 -64.82445525373253,18.30376775433193,0 -64.82449734061699,18.30370101585331,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>bench</name>
+<Point>
+<coordinates>-64.82234713313119,18.29731356068072,21.15135930831308</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>western main residence garage entry security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82365863505029,18.30237979893455,0 -64.82361189024852,18.30236826902513,0 -64.82361986958172,18.30242608564483,0 -64.82365863505029,18.30237979893455,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>floodlight</name>
+<Point>
+<coordinates>-64.82213224987423,18.29739081763272,26.18979850818942</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>mainnresidence west bungalow security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82428422879262,18.30249379324755,0 -64.82431732078894,18.30245837860351,0 -64.82435859451283,18.3025279044297,0 -64.82428422879262,18.30249379324755,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>southern poolside bungalow</name>
+<Point>
+<coordinates>-64.82420998029129,18.29716852300746,9.966502578465602</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>UGV robot dog dock security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82458423456285,18.30285659982552,0 -64.82463856024277,18.30283929430519,0 -64.82463016104718,18.30291247126711,0 -64.82458423456285,18.30285659982552,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>southern poolside bungalow door</name>
+<Point>
+<coordinates>-64.82417380831808,18.29717688402346,9.797976866131384</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>main residence pool house security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.8246610311084,18.30265315558562,0 -64.82471231335842,18.30263512591817,0 -64.82469993940492,18.30271456488369,0 -64.8246610311084,18.30265315558562,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>southern poolside bungalow door</name>
+<Point>
+<coordinates>-64.82424504105735,18.29715844333879,10.17171321067577</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>southwest main residence pool area security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82467728088846,18.30299608263574,0 -64.82473354383322,18.30298901429136,0 -64.82469392385215,18.30305062840652,0 -64.82467728088846,18.30299608263574,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>vantage point</name>
+<description>The extra height and decent foliage cover make this place exceptionally well-suited for a long-range kill shot. But getting the M200 from the Temple Pavilion, and then making this considerable detour. Players attempting to take the shot with GRAY GHOST should find it to be considerably challenging, but not completely impossible to get a one-shot kill, especially with subsonics, given that they lack the effective range for even a skilled shooter to confidently land a well-placed first shot. If the player opts to fire supersonic ammo, Crimson Two is promptly able to locate the player and return fire (using a suppressor slightly extends the time I takes Rip to locate the player, but it is not a magically prevent him from being able to identify the player&apos;s position). The M200 makes pulling a one shot kill from this position a much more manageable, but nonetheless rewarding task.</description>
+<Point>
+<coordinates>-64.82238708007374,18.29731431124392,21.40201353156567</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>east driveway gate security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82381323448152,18.30242827321833,0 -64.82384946777022,18.30239601515705,0 -64.82387164941487,18.30245155671651,0 -64.82381323448152,18.30242827321833,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>ThreeHalf Q-UGV dock</name>
+<description>ThreeHalves are centaur-like heavy quadrupedal autonomous UGVs. They are extremely difficult to disable once active, but the player can avoid fighting them entirely. They normally remain docked and in standby. A sufficiently high local alarm state—especially one caused by recklessly and repeatedly engaging enforcer UAVs—or a direct attack on a ThreeHalf can activate them into combat mode. If Victor Two Bravo reaches a docking station stealthily while a ThreeHalf is still docked and dormant, Tripper can sabotage the docked unit&apos;s power-management circuits, causing it to shut down without waking. The sabotage route is optional and rewards stealth rather than requiring a ThreeHalf fight. Active ThreeHalves carry modified belt-fed AR-15-pattern automatic rifles with spare linked ammunition carried on the rear body.</description>
+<Point>
+<coordinates>-64.8245222288221,18.30179278935379,8.589646129059449</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>north main residence east security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82392728185384,18.30315393601212,0 -64.82387407642148,18.30317440697199,0 -64.82388637212042,18.30310795357493,0 -64.82392728185384,18.30315393601212,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>code-locked tunnel to holding facility passage door</name>
+<Point>
+<coordinates>-64.82489925715454,18.30159338051191,11.74643904365524</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>north mainresidence west security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82447757937355,18.30315140768164,0 -64.82452822172674,18.3031744827075,0 -64.82450945824071,18.30309967273558,0 -64.82447757937355,18.30315140768164,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>code-locked underground service corridor to holding facility access hallway door</name>
+<Point>
+<coordinates>-64.82472087473265,18.3017149827268,10.37649041911043</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>west beach-side bar security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82355588934144,18.29956622077402,0 -64.82361382166878,18.29954725934993,0 -64.82357359958877,18.29961645573234,0 -64.82355588934144,18.29956622077402,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>code-locked underground holding facility utility corridor access door</name>
+<Point>
+<coordinates>-64.82475877506876,18.30180732298332,10.36942417047871</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>HVAC and generator exhaust shed security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82481993807991,18.30164675650543,0 -64.82473876349609,18.3016899359224,0 -64.82477465589059,18.30176737913211,0 -64.82481993807991,18.30164675650543,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>security monitoring station console</name>
+<Point>
+<coordinates>-64.8245613405214,18.30334726885751,14.14780181481509</coordinates>
+</Point>
 </Placemark>
 <Placemark>
-<name>west main residence compound entry gate security camera angle</name>
-<Polygon><outerBoundaryIs><LinearRing><coordinates>-64.82377682063934,18.30246929162589,0 -64.82378290465256,18.30238515280234,0 -64.82368230008176,18.30243404032101,0 -64.82377682063934,18.30246929162589,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<name>autononous UAV monitoring console</name>
+<Point>
+<coordinates>-64.82454981667517,18.30335196910948,14.19251956548325</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>keycard-locked security station door</name>
+<Point>
+<coordinates>-64.8245740802858,18.30333849447828,14.09177252989871</coordinates>
+</Point>
 </Placemark>
 </Document>
 </kml>
