@@ -1,0 +1,175 @@
+PROJECT WARRIORS — THE STORM — SHADOW OF WAR PLAUSIBLE-DENIABILITY / ALARM REFINEMENT
+Generated: 2026-08-14
+Version: rev1
+Status: WORKING AUTHORITATIVE MISSION REFINEMENT
+Campaign: Project Warriors: The Storm
+Mission: SHADOW OF WAR
+Playable character: Senior Sergeant Denis Nikolaevich Malinin
+
+PURPOSE
+Refine the controlling SHADOW OF WAR mission source with the operational reason
+for minimizing enemy casualties and the radio-driven detection/alarm gameplay
+that incentivizes avoidance.
+
+This page is additive to:
+- PW_SHADOW_OF_WAR_Mission_Source_2026-08-14_rev1.txt
+
+Where this page is more specific about stealth, casualties, suspicion, radios,
+and alarm escalation, it controls.
+
+================================================================================
+01. PLAUSIBLE-DENIABILITY OBJECTIVE
+================================================================================
+The Russian command intent is not only to complete the mission kill against USS
+Wyoming and withdraw undetected. The operation should, for as long as reasonably
+possible after the team is gone, remain plausibly attributable to a catastrophic
+technical or industrial accident rather than an obvious hostile sabotage action.
+
+This gives the mission's low-casualty preference a concrete operational basis.
+Bodies displaying obvious hostile-action injuries, missing personnel, gunfire,
+or other unmistakable traces of an infiltrating team would cause U.S. personnel
+and investigators to suspect deliberate sabotage much sooner and would weaken the
+accident cover story.
+
+Therefore:
+- avoidance is the preferred solution;
+- bypassing personnel is better than engaging them;
+- unnecessary killing is operationally sloppy even when it does not immediately
+  trigger an alarm;
+- stealth kills remain permitted if required to prevent immediate compromise or
+  preserve mission completion;
+- the game must not reinterpret this rule as evidence that Malinin has already
+  developed ideological sympathy for the Americans;
+- his restraint here is professional discipline in service of the mission.
+
+The game should not award a simplistic moral or "pacifist" score. Instead, the
+consequence is systemic and narrative: casualties, discovered bodies, gunfire,
+and obvious intrusion evidence make the cover story less credible and make the
+mission harder to keep covert.
+
+================================================================================
+02. EARLY DIALOGUE — ACCIDENT COVER STORY
+================================================================================
+The team lead should state the casualty/deniability rule early in the mission,
+preferably during the underwater approach after the three-hour-window exchange
+or in the same introductory communications sequence.
+
+English intent lock:
+TEAM LEAD: Don't touch anyone unless you have to. When we're gone, this has to
+look like an accident.
+OPERATOR: And if someone gets in the way?
+TEAM LEAD: Only if there's no other way.
+
+Working Russian-language draft, subject to native-Russian and military-language
+review before recording:
+КОМАНДИР: Без необходимости никого не трогать. После нас всё должно выглядеть как авария.
+ОПЕРАТОР: А если помешают?
+КОМАНДИР: Только если иначе нельзя.
+
+The intent matters more than literal word-for-word retention. Final Russian should
+sound like experienced Russian special-operations personnel speaking naturally,
+not an English tactical line mechanically translated into Russian.
+
+The exchange should remain brief. No character explains the political concept of
+plausible deniability to teammates who already understand why the instruction
+matters.
+
+================================================================================
+03. RADIO-CARRIED ALARM THREAT
+================================================================================
+Most on-base U.S. personnel encountered in playable stealth spaces carry or have
+immediate access to radios appropriate to their duties.
+
+Gameplay rule:
+- a person who positively detects the infiltrators will normally attempt to raise
+  the alarm over radio quickly;
+- the player receives only a short intervention window before the report is sent;
+- if the player breaks line of sight before positive identification, the NPC may
+  investigate rather than immediately transmit a confirmed intrusion report;
+- once a confirmed base-wide alarm is successfully transmitted before charge
+  initiation, the mission enters its existing effective-failure state;
+- preventing a radio call does not automatically erase other evidence such as
+  witnesses, discovered casualties, obvious gunfire, or an already-transmitted
+  partial report.
+
+The purpose is to make avoidance mechanically preferable. A player who repeatedly
+approaches personnel closely enough to be seen is continuously gambling the whole
+operation on stopping a transmission in time.
+
+Most personnel should therefore be treated as potential alarm nodes, not passive
+stealth-game obstacles whose only function is to be silently removed.
+
+================================================================================
+04. DETECTION / RESPONSE READABILITY
+================================================================================
+The player must be able to read the escalation state without turning the mission
+into an arcade HUD exercise.
+
+Useful presentation cues may include:
+- an NPC reaching for or keying a radio;
+- a short urgent voice transmission beginning;
+- nearby personnel reacting to a suspicious or interrupted call;
+- objective/status language indicating that a confirmed alarm is imminent;
+- localized investigation after ambiguous sightings;
+- wider coordinated response only after a report is successfully passed.
+
+Exact UI treatment remains a production decision. The game should not rely on a
+large universal countdown floating over every NPC.
+
+================================================================================
+05. CASUALTY DISCOVERY / COVER-STORY PRESSURE
+================================================================================
+If an American casualty is found before detonation, the response should reflect
+that an apparent accident has not yet happened and a hostile-action explanation
+has become much more credible.
+
+At a design level:
+- discovered bodies should sharply increase suspicion and local response;
+- obvious gunfire or multiple casualties should make escalation faster;
+- body-discovery pressure gives the player another reason to avoid unnecessary
+  kills rather than treating hidden bodies as consequence-free collectibles;
+- this need not become a body-hiding simulator unless later gameplay development
+  explicitly chooses to support such mechanics.
+
+A casualty that remains undiscovered during the playable mission can still weaken
+the post-operation accident narrative. The player is not required to see every
+later investigative consequence for the rule to matter in canon.
+
+================================================================================
+06. RELATION TO POST-DETONATION PHASE
+================================================================================
+Once the charges are initiated, preserving the immediate accident interpretation
+is no longer a stealth-failure condition in the same way; alarms and emergency
+activity are expected and the team's priority becomes escape.
+
+However, the operation's earlier discipline still affects the narrative residue
+left behind. A clean infiltration gives investigators fewer immediate indicators
+of foreign sabotage than a path marked by casualties and obvious combat.
+
+The established mission identity remains:
+BEFORE DETONATION, YOU ARE AN INTRUDER.
+AFTER DETONATION, YOU ARE A FUGITIVE.
+
+================================================================================
+07. REAL-WORLD SECURITY BOUNDARY
+================================================================================
+This refinement describes fictional gameplay behavior only. It must not be used
+to reproduce or infer actual Kings Bay communications procedures, alarm protocols,
+response times, radio systems, patrol patterns, or security weaknesses.
+
+Production should author fictionalized detection windows, NPC radio behavior,
+alarm escalation, and response logic suitable for the game.
+
+================================================================================
+08. SOURCE PROVENANCE
+================================================================================
+2026-08-14 narrative-development follow-up:
+- command wants the operation to remain plausibly deniable and initially resemble
+  an accident rather than obvious sabotage;
+- unnecessary enemy deaths undermine that cover story;
+- the rule is stated in sparse early team dialogue;
+- most on-base enemy personnel carry radios and can rapidly raise a base-wide
+  alarm unless the player interrupts the report in time;
+- this systemic alarm threat is intended to incentivize avoidance.
+
+END
