@@ -1,0 +1,379 @@
+PROJECT WARRIORS — THE STORM — SHADOW OF WAR MISSION SOURCE
+Generated: 2026-08-14
+Version: rev1
+Status: WORKING AUTHORITATIVE MISSION SOURCE
+Campaign: Project Warriors: The Storm
+Playable character: Denis Nikolaevich Malinin
+Mission title: SHADOW OF WAR
+
+PURPOSE
+Land the introductory flashback mission that establishes Denis Malinin's earlier
+Russian combat-diver / maritime-special-operations career, his professional
+competence inside the pre-Procella Russian system, and the perspective inversion
+of a foreign special-operations team covertly operating on U.S. soil immediately
+before PANDORA and the wider war.
+
+This page controls SHADOW OF WAR where it is more specific than the 2026-07-21
+Storm recovery/source-landing material. It does not redefine the later Procella
+campaign thesis KEEP THE ROUTE ALIVE.
+
+================================================================================
+01. MISSION IDENTITY / OPENING STAMP
+================================================================================
+Title: SHADOW OF WAR.
+Format: introductory playable flashback for The Storm.
+Playable character: Senior Sergeant Denis Nikolaevich Malinin.
+Date: September 6, 2028.
+Opening local time: 2243 EDT (10:43 PM).
+Location: Kings Bay, Georgia, United States.
+Primary strategic target: USS Wyoming (SSBN-742), represented as present at the
+Kings Bay installation in Project Warriors continuity for this mission.
+
+Mission-card presentation follows the established series mission-start pattern:
+
+SHADOW OF WAR
+Senior Sergeant Denis Nikolaevich Malinin
+2243 EDT — September 6, 2028
+Kings Bay, Georgia, United States
+
+Do not display SAKHALIN on the opening card unless a later source explicitly
+establishes that Denis already used that callsign during this service period.
+
+================================================================================
+02. CHARACTER / HISTORICAL FUNCTION
+================================================================================
+SHADOW OF WAR is NOT Denis's break with the Russian system.
+
+At this point Denis has spent years serving that system, is highly competent at
+his work, and still understands the mission through professional duty. The story
+must not retroactively imply that he was secretly a dissident or already waiting
+to defect.
+
+His later fracture is cumulative and post-WWIII: the promised prosperity,
+national renewal, and rewards of victory fail to materialize while deprivation,
+state coercion, and totalitarian repression of Russian citizens become the lived
+result of the system he served. His eventual break therefore comes from the
+long-term inability to reconcile prior loyalty with what that system actually
+produces and does to its own people.
+
+SHADOW OF WAR should make that later fracture stronger by first showing that
+Denis really was good at serving the machine before he decided he could no longer
+help keep it running.
+
+Working service/tasking lock for this mission:
+- historical rank: Senior Sergeant;
+- role: Russian combat diver / maritime reconnaissance / amphibious sabotage
+  specialist;
+- seven-man specialist team;
+- mission-specific tasking under GRU/GU military-intelligence command, with the
+  8th Directorate as the intended tasking lane;
+- exact permanent parent-unit designation remains open pending final Russian
+  organizational/nomenclature review.
+
+================================================================================
+03. COLD OPEN / UNDERWATER ENTRY
+================================================================================
+The mission begins already in progress.
+
+Screen fades in from black to the dark blue-green Atlantic at night. The player
+is already submerged with the seven-man team moving toward the objective using
+combat-diver propulsion/mobility equipment. The opening should prioritize:
+- controlled breathing and rebreather/mechanical sound;
+- dark water and limited visibility;
+- teammates resolving gradually as silhouettes;
+- sparse full-face-mask radio traffic;
+- immediate player movement rather than a briefing cinematic;
+- the mission title/location card appearing unobtrusively while the player is
+  already moving.
+
+The player should understand the operation through terse comms, objective text,
+and observation rather than exposition between professionals who already know
+the plan.
+
+================================================================================
+04. THREE-HOUR WINDOW / PANDORA FORESHADOWING
+================================================================================
+Command gives the team no more than three hours to complete the work and get out.
+From the 2243 start this creates an operational clear-by time of 0143 EDT on
+September 7, 2028.
+
+This deadline deliberately leaves a buffer before the 0230 EDT Palisade/PANDORA
+final enabling-update event controlled by the companion timing clarification.
+The team is not told why the deadline exists.
+
+Opening-dialogue beat, intent lock:
+TEAM LEAD: Command gave us three hours. Finish the work and get out.
+OPERATOR: What happens in three hours?
+TEAM LEAD: They didn't say.
+
+Russian-language working draft, subject to native military-language review:
+КОМАНДИР: Командование дало три часа. Закончить работу — и на выход.
+ОПЕРАТОР: А что через три часа?
+КОМАНДИР: Не сказали.
+
+The exchange ends there. No one names PANDORA, Palisade, the update, or the
+coming attack.
+
+Narrative implication:
+A highly compartmented GRU/GU command layer possesses enough advance knowledge
+of the PANDORA timetable to synchronize Russian operations around it, but keeps
+that knowledge from downstream operators. This does NOT mean ordinary Russian
+servicemen, the whole GRU, or the wider military know the full PANDORA architecture.
+
+================================================================================
+05. LANGUAGE / PERFORMANCE RULE
+================================================================================
+Canonical team dialogue is Russian throughout SHADOW OF WAR.
+
+There is no default English-language dub replacing the Russian performances.
+Localized releases use subtitles/translated text while preserving the Russian
+voice performance unless a later accessibility/localization decision explicitly
+creates an optional alternate track.
+
+Dialogue must be authored or finalized in Russian with native-Russian and,
+where practical, military-language consultation. Do not write American tactical
+radio dialogue and translate it mechanically.
+
+Performance goals:
+- sparse;
+- utilitarian;
+- professional;
+- Russian cadence, terminology, shorthand, acknowledgments, and omissions;
+- distinct individual registers without making the team chatty;
+- no generic "stern Russian soldier" caricature;
+- no exposition that experienced teammates would not need.
+
+Tonal reference only: the Russian operator comms texture in Battlefield 3's
+"Kaffarov" is a rough inspiration for density, rhythm, and professional weight.
+Do not copy dialogue or scene content from that mission.
+
+================================================================================
+06. CORE OBJECTIVE / STRATEGIC PURPOSE
+================================================================================
+The team's purpose is a covert mission kill against USS Wyoming and selected
+support capabilities before the wider Russian amphibious operation approaches
+the Georgia coast.
+
+The objective is NOT to produce spectacular catastrophic destruction of a
+nuclear submarine at berth. The desired strategic outcome is denial: cripple the
+boat sufficiently that it cannot sortie and contribute to the U.S. response when
+the invasion begins.
+
+Secondary sabotage may affect selected support, communications, or logistics
+needed to reinforce that denial. Production design must keep these targets at a
+fictionalized/high-level narrative layer rather than reproduce real exploitable
+security vulnerabilities, exact charge locations, or real-world sabotage
+instructions for the operating installation.
+
+================================================================================
+07. STEALTH / DETECTION RULE
+================================================================================
+Avoiding detection is non-negotiable for most of the mission.
+
+Before the charges are initiated, a successful base-wide alarm is effectively a
+mission-failure state. Momentary observation may create a short recovery window
+if the observer has not successfully raised the alarm, but the team cannot turn
+the mission into an open firefight and still preserve the intended operation.
+
+Stealth kills are permitted when tactically necessary, but must not be glamorized:
+- no celebratory score/reward language;
+- no execution-showcase framing;
+- no exaggerated kill animations;
+- no triumphant team chatter;
+- ideal play allows very few people to know the team was physically present.
+
+American personnel are ordinary sailors, security staff, technicians,
+maintenance workers, and night-shift personnel doing their jobs. They are not
+visually or narratively dehumanized because the player is on the opposing side.
+
+================================================================================
+08. AMERICAN-BASE PERSPECTIVE INVERSION
+================================================================================
+Kings Bay must use the same ordinary U.S./allied installation visual language
+seen elsewhere in Project Warriors.
+
+Do not visually code it as a sinister "enemy base." Use the same functional
+asset grammar where appropriate:
+- utilitarian buildings and corridors;
+- normal security and safety signage;
+- road/parking/service markings;
+- maintenance spaces and utility equipment;
+- government/institutional interiors;
+- parked service vehicles and carts;
+- break-room/office details;
+- ordinary U.S. flags/unit markings only where they would naturally appear.
+
+The inversion comes entirely from perspective. Architecture and personnel that
+would normally read as friendly or mundane are now the environment Malinin must
+hide inside and move through.
+
+Desired player feeling:
+"I know what this kind of place normally means in this series, but this time I am
+the intruder. I absolutely should not be here."
+
+No artificial villain lighting, red enemy-base color language, or excessive
+patriotic staging purely to announce that the mission takes place in America.
+
+================================================================================
+09. DETONATION / CONSEQUENCE BEAT
+================================================================================
+After the objective charges are set, the team withdraws from the immediate target
+area before initiation.
+
+Sequence lock:
+CHARGES COMPLETE -> WITHDRAWAL -> COVERED OBSERVATION POSITION -> READINESS
+CONFIRMATION OVER SECURE COMMS -> DETONATION -> IMMEDIATE EXFILTRATION.
+
+The team reaches a protected position such as a berm, low wall, or comparable
+fictionalized cover point with the main submarine-support area visible at some
+distance. One operator has the firing device ready. The team lead calls the
+charges ready over secure comms. The charges are then initiated.
+
+Presentation:
+- separated distant explosions rather than one giant spectacle;
+- delayed sound/pressure impression appropriate to distance;
+- lights changing or failing;
+- emergency lighting, alarms, searchlights, vehicles, and confused activity;
+- smoke obscuring parts of the facility;
+- no casualty montage;
+- no graphic destruction foreground;
+- no heroic music cue celebrating the attack;
+- no Russian cheering or triumphant one-liners;
+- no lingering camera that asks the player to admire the damage.
+
+Malinin's restrained exit line, English intent lock:
+"We've done our work. Time is short. Let's move."
+
+Working Russian performance line, subject to native-language review:
+"Мы своё сделали. Времени мало. Уходим."
+
+The emotional register is consequence and secrecy, followed immediately by the
+problem of escape.
+
+================================================================================
+10. EXFILTRATION
+================================================================================
+After detonation the team's state changes from hidden intruders to fugitives.
+
+Mission identity rule:
+BEFORE DETONATION, YOU ARE AN INTRUDER.
+AFTER DETONATION, YOU ARE A FUGITIVE.
+
+The team continues toward a prearranged coastal/beach rendezvous and RHIB
+extraction. Exact real-world route, beach, security gaps, perimeter bypasses,
+and response vulnerabilities must be fictionalized for production rather than
+mapped as actionable detail against the real installation.
+
+================================================================================
+11. PLAYER WEAPON / EQUIPMENT LOADOUT
+================================================================================
+Normal Project Warriors carried-weapon capacity remains in force:
+- one primary weapon;
+- one secondary weapon;
+- one sidearm.
+
+Working Malinin SHADOW OF WAR loadout lock:
+PRIMARY: ADS amphibious rifle.
+SECONDARY: SR-3M with suppressor.
+SIDEARM: SR-1MP with suppressor.
+
+Gameplay/readability function:
+- ADS preserves the combat-swimmer identity through the underwater phase and
+  remains a viable emergency weapon through the amphibious transition;
+- suppressed SR-3M becomes the preferred compact surface-infiltration weapon;
+- suppressed SR-1MP provides a Russian specialist sidearm lane.
+
+Team weapons may vary by role so the seven men do not appear as cloned loadouts.
+Permitted working pool includes ADS, APS, AS Val, VSS Vintorez, suppressed
+SR-3M, suppressed SR-2MP, and appropriate Russian specialist sidearms.
+OTs-38 remains a possible specialist sidearm for another operator pending final
+technical/source validation.
+
+Do not give every operator every visually distinctive weapon. Equipment should
+communicate role: demolition, comms, observation/precision, swimmer security,
+and team leadership.
+
+================================================================================
+12. COMBAT-DIVER VISUAL / FIRST-PERSON FIDELITY
+================================================================================
+Thread-supplied visual references establish the team silhouette as Russian
+combat-diver / maritime-special-operations rather than generic scuba troops or
+Western SOF clones.
+
+Derived visual rules:
+- black or very dark maritime diving suits;
+- rebreather/breathing apparatus and visible hose routing;
+- full-face or appropriate combat-diver masks;
+- compact dark load-bearing equipment;
+- fins and swimmer equipment during water insertion/exit;
+- waterproof mission bags/pouches and specialist gear;
+- wet, heavy, maintained equipment after landfall;
+- minimal visual clutter;
+- no glossy PMC, cyberpunk, skull-mask, or "operator fashion" overbuild.
+
+The four user-supplied visual images are reference evidence for silhouette,
+material language, and equipment class. Their binary image files are not
+repository-landed in this text-only source pass; the durable requirements derived
+from them are recorded here.
+
+First-person equipment detail must reward close inspection. During the underwater
+phase Malinin should make brief practiced checks appropriate to the selected
+breathing system, such as:
+- breathing-system pressure / oxygen-status gauge check;
+- depth/dive-status reference where appropriate;
+- heading/navigation reference;
+- hose/retention/weapon-security check during transitions.
+
+Exact gauge behavior must follow the final selected Russian combat-diver
+rebreather/equipment model; do not invent a generic "oxygen meter" that conflicts
+with the actual system.
+
+Equipment text/markings rule:
+Russian-issued or Russian-made specialist equipment should use Russian/Cyrillic
+labels, abbreviations, serial/stencil conventions, and control markings where
+appropriate and visible. Do not default Russian equipment to English labels for
+player convenience. Translate through subtitles/UI only where required for
+accessibility.
+
+================================================================================
+13. PRODUCTION / REAL-WORLD SECURITY BOUNDARY
+================================================================================
+SHADOW OF WAR may use the broad identity and recognizable ordinary visual grammar
+of Kings Bay, Georgia, but playable security geography must be authored for the
+game.
+
+Do not source-land or reproduce:
+- exact current security patrol schedules;
+- real access-control weaknesses;
+- exact underwater/perimeter penetration routes;
+- detailed current sensor/camera coverage;
+- exact explosive placement instructions;
+- current infrastructure weak points;
+- response timings that could be operationally useful against the real site.
+
+Use fictionalized perimeter, security, interior, and sabotage details while
+preserving the narrative feeling of a believable U.S. naval installation.
+
+================================================================================
+14. OPEN FIELDS
+================================================================================
+Still open:
+- exact permanent Russian parent-unit designation for Denis before this tasking;
+- identities/callsigns and specialist assignments of the other six operators;
+- final native-Russian dialogue pass and military-language terminology review;
+- exact Russian combat-diver rebreather, gauges, mask, DPV, fins, and accessory
+  models selected for production;
+- exact team weapon distribution beyond Malinin's locked working loadout;
+- final fictionalized playable Kings Bay security/perimeter/interior layout;
+- exact fictionalized secondary sabotage objectives;
+- exact RHIB rendezvous geography and extraction sequence;
+- exact mission runtime and checkpoint structure;
+- whether the SAKHALIN callsign existed during this flashback period.
+
+SOURCE PROVENANCE
+2026-08-14 narrative-development thread: SHADOW OF WAR / Sakhalin early-service
+flashback development, including mission title, USS Wyoming target, stealth rules,
+Russian-language rule, PANDORA timing implication, loadout, combat-diver visual
+references, equipment-label fidelity, and character-break clarification.
+
+END
