@@ -1,0 +1,65 @@
+meta:
+  generated: '2026-08-14'
+  revision: rev1
+  status: current_additive_world_geography_projection
+  source_authority: Narrative source pages control story meaning. Detailed feature identity lives in the CSV inventory;
+    detailed geometry lives in the KMZ/KML source.
+source_map:
+  repo_path: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kmz
+  handoff_kml_name: PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kml
+  format: KMZ containing KML 2.2
+  placemark_count: 133
+  point_count: 87
+  polygon_count: 35
+  linestring_count: 11
+  seattle_polygon_repaired: true
+feature_index:
+  path: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_2026-08-14_rev1.csv
+  id_column: feature_id
+  placemark_ordinal_column: placemark_ordinal
+  rule: Every source-map placemark has one stable PW-GEO-* row; unnamed placemarks retain generated geographic IDs
+    without invented narrative names.
+highlighted_cross_references:
+- feature_id: PW-GEO-PACIFIC-NORTHWESTERN-RUSSIAN-OCCUPATION-ZONE
+  placemark_ordinal: 13
+  name: Pacific Northwestern Russian Occupation Zone
+  geometry_type: Polygon
+  source_stage: carried_forward_geometry_corrected_2026-08-14
+  repo_cross_reference: world-state geography; Seattle/Puget occupation geometry
+- feature_id: PW-GEO-UNNAMED-D546AE158B
+  placemark_ordinal: 130
+  name: null
+  geometry_type: Point
+  source_stage: new_overlay_2026-08-14
+  repo_cross_reference: null
+- feature_id: PW-GEO-75TH-RANGER-REGIMENT-AND-OTHER-US-ARMY-ELEMENTS-REACH-THE-AFC-IN
+  placemark_ordinal: 131
+  name: 75th Ranger Regiment and other US Army elements Reach the AFC in Harlan County
+  geometry_type: LineString
+  source_stage: new_overlay_2026-08-14
+  repo_cross_reference: PW-TRK-G2-AMERICAN-FREEDOM; HIGH GROUND reunion / conventional-AFC convergence
+- feature_id: PW-GEO-CUMBERLAND-GAP-TUNNEL-WEST-PORTAL
+  placemark_ordinal: 132
+  name: Cumberland Gap tunnel west portal
+  geometry_type: Point
+  source_stage: new_overlay_2026-08-14
+  repo_cross_reference: PW-EVT-G2-ROMEO-TRI-STATE-POINT
+- feature_id: PW-GEO-UNNAMED-12867959A9
+  placemark_ordinal: 133
+  name: null
+  geometry_type: Point
+  source_stage: new_overlay_2026-08-14
+  repo_cross_reference: null
+governance:
+- Do not infer chronology from map order.
+- Do not convert every territorial polygon into a timeline event.
+- A map-originated label is valid at map-reference level but missing dates/order-of-battle/playability remain open
+  unless separately sourced.
+- The KML/KMZ carries detailed coordinates; the inventory and this manifest are machine-friendly projections.
+open_hygiene_flags:
+- 39 unnamed placemarks
+- one explicit Untitled placemark
+- duplicate generic blockade label
+- two separately drawn Russian Naval Blockade of Alaska polygons
+- Alaska dateline-wrap longitudes require later dateline-aware normalization
+- no TimeStamp/TimeSpan layer
