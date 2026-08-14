@@ -1,0 +1,132 @@
+PROJECT WARRIORS — WORLD EVENTS GEOGRAPHY CHRONOLOGY LAYER
+Generated: 2026-08-14
+Version: rev1
+Status: SOURCE-READY PARTIAL AUTHORITATIVE CHRONOLOGY LAYER
+
+1. PURPOSE
+
+Add a robust temporal-reference layer to the Post-PANDORA / World War III geography
+map without inventing calendar precision that the canon has not yet locked.
+
+The owner intends the map eventually to carry timestamps for all narratively significant
+world events. This revision begins that work now by:
+- landing exact canon calendar anchors already locked in controlling sources;
+- adding a 133-row chronology sidecar keyed to stable PW-GEO identities;
+- binding selected mapped features to exact anchors or protected relative windows;
+- leaving unresolved feature dates explicitly unresolved;
+- reserving direct KML TimeStamp/TimeSpan injection into existing spatial placemarks
+  for the point when each feature's own onset/date/range is source-locked.
+
+2. EXACT CALENDAR ANCHORS LANDED
+
+Five day-level anchors are currently safe to encode:
+
+- 2028-06-04 — Glushkin activation / Lebedev Boston staging.
+- 2028-09-07 — PANDORA attacks.
+- 2028-09-07 — Hudson Overlook.
+- 2028-09-07 — coordinated hostile West Coast offensives begin.
+- 2028-11-07 — U.S. presidential election.
+
+The first, second, third, and fifth anchors are directly controlled by:
+Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
+
+The West Coast offensive start is supported by:
+dev_src_docs/story_campaigns/Game1/Shared/PW_Game1_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt
+
+3. WHY EXISTING SPATIAL FEATURES DO NOT YET RECEIVE DIRECT TIMESTAMPS
+
+The current 133 PW-GEO features include locations, operational corridors, battles,
+blockades, occupation polygons, and persistent territorial-control states.
+
+A locked theater date is not automatically the onset date of every polygon inside that
+theater. For example, Game 1 locks September 7, 2028 as the day coordinated hostile
+offensives begin along the West Coast. That fact may anchor the Pacific Northwest,
+Iranian Bay Area, DPRK Southern California, and Seattle/Puget geography. It does not
+prove that each blockade or occupation polygon had already reached the exact state or
+extent drawn on the map on September 7.
+
+Accordingly this revision adds no direct TimeStamp/TimeSpan primitive to the original
+133 spatial placemarks. That is deliberate source discipline, not missing work.
+
+4. FEATURE-LEVEL CHRONOLOGY BINDINGS
+
+The chronology overlay currently provides source-backed temporal context for 12 PW-GEO
+features while leaving 121 unresolved at feature-date level.
+
+Bound features include:
+
+- Southern-branch U.S. counteroffensive movement:
+  after the Game 1 Coronado endpoint and before TRI-STATE POINT convergence; exact
+  calendar placement remains open.
+
+- Three Cameron Beach / failed Venezuelan Louisiana operation features:
+  locked after Game 1 and before Game 2; exact date explicitly remains open.
+
+- Pacific Northwestern Russian Occupation Zone, Iranian San Francisco/Bay Area blockade,
+  DPRK Los Angeles/San Diego blockade, and Russian Puget Sound/Seattle incursion:
+  tied to the September 7, 2028 West Coast theater-offensive start anchor while preserving
+  feature-specific onset and duration as open.
+
+- Two Los Sietes post-PANDORA territorial features:
+  explicitly after the September 7, 2028 PANDORA anchor because the source placemark
+  labels themselves say "after PANDORA"; exact takeover date remains open.
+
+- Harlan County 75th Ranger / U.S. Army contact corridor:
+  bound to the HIGH GROUND reunion/contact phase and before TRI-STATE POINT; exact
+  calendar date remains open.
+
+- Cumberland Gap tunnel west portal:
+  bound to TRI-STATE POINT / Battle of Cumberland Gap; exact calendar date remains open.
+
+5. KML IMPLEMENTATION
+
+The file:
+dev_src_docs/worldbuilding/geography/PW_World_Events_Canon_Chronology_Anchors_2026-08-14_rev1.kml
+
+contains the five exact locked anchors as KML TimeStamp features.
+
+No point geometry is invented for nationwide, theater-wide, or otherwise non-geolocated
+anchors. The KML anchor overlay is intended to be loaded alongside the geography map.
+
+The original corrected geography map remains the detailed spatial geometry carrier.
+
+6. MACHINE-FRIENDLY CHRONOLOGY PROJECTION
+
+Ontology registry:
+dev_src_docs/canon_lore_source_of_truth/ontology/pw_world_geography_chronology_rev1.yaml
+
+Schema:
+dev_src_docs/canon_lore_source_of_truth/ontology/schema/pw_world_geography_chronology.schema.yaml
+
+Feature chronology overlay:
+dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv
+
+The overlay retains every PW-GEO identity and distinguishes:
+- unresolved;
+- relative chronology locked;
+- relative interval locked;
+- theater anchor locked but feature time open;
+- event identity bound but event calendar date open.
+
+7. SOURCE SAFEGUARDS
+
+- September 7, 2028 is the canonical PANDORA date. Older September 3, 2028 variants are stale.
+- November 7, 2028 is the canonical election date. Older November 3/6 variants are stale.
+- Do not convert "approximately one month into occupation," "after Game 1," "before Game 2,"
+  or mission-order relationships into exact calendar dates.
+- Do not use a theater-offensive start as the automatic begin date of an occupation/control polygon.
+- Do not give a persistent territorial state a TimeStamp when a TimeSpan is eventually required.
+- Do not add a TimeSpan end boundary unless the end of that represented state is independently source-locked.
+- Stable PW-GEO identities must survive later chronology enrichment.
+
+8. NEXT-PASS MODEL
+
+Future chronology work should proceed incrementally:
+1. When an event receives a locked exact date, add/upgrade its PW-TIME anchor.
+2. Bind all corresponding PW-GEO features.
+3. If the mapped feature itself represents the dated event, inject TimeStamp.
+4. If the mapped feature represents a persistent state with locked start/end, inject TimeSpan.
+5. Preserve relative-only bindings where calendar precision remains intentionally open.
+
+This allows the world-events map to mature into a chronological GIS layer without
+back-filling false precision merely to make the time slider look complete.
