@@ -5,7 +5,8 @@ Status: CURRENT GEOGRAPHY-REFERENCE ADDENDUM
 
 PURPOSE
 Provide a compact working-knowledge view of the new Post-PANDORA / World War III
-geographic-reference layer without replacing the KML or its dedicated source page.
+geographic-reference layer without replacing the corrected KML/KMZ or its dedicated
+source page.
 
 CURRENT MAP
 - 133 placemarks
@@ -13,8 +14,13 @@ CURRENT MAP
 - 35 polygons
 - 11 line strings
 - 94 named / 39 unnamed
-- detailed geometry lives in:
-  dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kml
+- corrected detailed geometry is preserved in the repository through:
+  dev_src_docs/worldbuilding/geography/
+  PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1_kmz_parts/
+- the six parts reconstruct the ordinary KMZ with SHA-256:
+  18acfae12d78923615cc750574df1e5c87cf3a97245b57ac750cc7b8b91ca029
+- controlling geography source page:
+  dev_src_docs/worldbuilding/PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-14_rev2.txt
 
 CORE USE RULE
 Narrative source pages control what events mean. The map controls the spatial reference
