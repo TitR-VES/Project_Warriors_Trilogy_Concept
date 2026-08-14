@@ -85,7 +85,7 @@ PASS through a separate world-geography registry.
 The current world-event schema is chronology-first and stores event location as text.
 Forcing all 35 polygons and 11 corridors into PW-EVT-* would conflate spatial states
 with discrete events. The new pw_world_geography_reference_rev1.yaml provides stable
-PW-GEO-* identities and retains the KML as the detailed geometry carrier.
+PW-GEO-* identities while the corrected KML/KMZ remains the detailed geometry carrier.
 
 TIMELINE COLLISION CHECK
 FAIL in pre-landing main state:
@@ -98,6 +98,23 @@ LANDING RESOLUTION
 - retire the colliding PATHFINDER rev2.16 path
 - subsequent timeline work should build from rev2.17 unless a later merged projection
   explicitly supersedes it
+
+ARTIFACT PRESERVATION CHECK
+PASS WITH CONNECTOR TRANSPORT WORKAROUND.
+The corrected local KMZ is 63,614 bytes with SHA-256:
+18acfae12d78923615cc750574df1e5c87cf3a97245b57ac750cc7b8b91ca029
+
+The first direct GitHub binary-write attempt was detected as truncated and was deleted
+before PR review. The repository therefore does not retain the corrupt binary.
+
+The exact corrected KMZ is preserved instead as checksum-backed Base64 text segments at:
+dev_src_docs/worldbuilding/geography/
+PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1_kmz_parts/
+
+The package README defines deterministic reconstruction into the ordinary corrected KMZ.
+This split representation is a connector transport workaround only; the normal KML/KMZ
+remains the intended GIS handoff artifact and the feature inventory/ontology are usable
+without reconstruction.
 
 OPEN MAP-HYGIENE FLAGS
 - 39 unnamed placemarks
@@ -113,6 +130,7 @@ layering or require source-owner adjudication / dateline-aware geometry handling
 LANDING VERDICT
 READY TO LAND.
 
-The KML is suitable as the current additive world-events geography source after the
-Seattle repair. Its geometry should be consumed through the KML + normalized inventory +
-PW-GEO registry, with narrative source pages retaining authority over event meaning.
+The corrected map is suitable as the current additive world-events geography source after
+the Seattle repair. Its geometry should be consumed through the corrected KML/KMZ artifact,
+normalized inventory, and PW-GEO registry, with narrative source pages retaining authority
+over event meaning.
