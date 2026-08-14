@@ -1,0 +1,179 @@
+meta:
+  delta_id: PW-ONT-AMERICAN-FREEDOM-POST-CORONADO-PROLOGUE-2026-08-14-REV2
+  generated: '2026-08-14'
+  supersedes_collision_path: pw_american_freedom_post_coronado_prologue_rev2_16.delta.yaml
+  narrative_structure_applies_to: pw_narrative_structure_rev2.yaml
+  timeline_applies_to: pw_world_event_timeline_rev2_16.yaml
+  timeline_produces: pw_world_event_timeline_rev2_17.yaml
+  status: locked_pathfinder_title_post_coronado_tasking_and_parallel_counteroffensive_bridge
+  chronology_changes: true
+  sources:
+  - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Post_Coronado_Prologue_Bridge_2026-07-31_rev1.txt
+  - dev_src_docs/story_campaigns/Game2/Shared/PW_Game2_American_Freedom_Post_Coronado_Prologue_Synopsis_Addendum_2026-07-31_rev1.txt
+  - Project_Warriors_Knowledge_Compendia/PW_AMERICAN_FREEDOM_Post_Coronado_Prologue_Addendum_2026-07-31_rev1.txt
+
+operations:
+- op: add_events
+  values:
+  - id: PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+    name: PATHFINDER
+    event_name: American Freedom post-Coronado prologue
+    era: PW-ERA-WWIII
+    date:
+      relative: after PW-EVT-G1-ROMEO-CORONADO and before LOW GROUND; exact date TBD
+    location: surviving U.S. command and briefing site / exact location TBD; covert movement toward Calloway, Kentucky
+    actors:
+    - Ramón Álvarez / Romeo
+    - surviving U.S. special-operations command personnel
+    - U.S. government intelligence and law-enforcement representatives
+    - Russian occupation communications and traffic-analysis targets
+    depicted_in: [PW-TRK-G2-AMERICAN-FREEDOM]
+    status: confirmed_story_bridge_and_title_with_production_details_open
+    notes: >-
+      PATHFINDER is the canonical prologue title. It describes Romeo's strategic function,
+      not a new callsign, unit, rank, or formal billet. After Coronado, Romeo's valor and
+      record across the European withdrawal, AEGIS infrastructure defense, California
+      return, and North Island battle are recognized internally by surviving senior command.
+      He remains a staff sergeant; the recognition changes his access and assignment rather
+      than his rank. A compartmented surviving special-operations/interagency planning cell
+      shows him decrypted Russian occupation communications indicating low but persistent
+      organized resistance activity around Calloway, Kentucky. Romeo is selected for an
+      individual covert insertion to establish contact, assess security and legitimacy, and
+      help develop communications, routes, logistics, intelligence handling, and operational
+      discipline over time. Fire Team Delta does not accompany the opening insertion. The
+      briefing also establishes a parallel mobile U.S. counteroffensive advancing east from
+      California on a southern axis toward and across the Mississippi before turning
+      northeast toward Appalachian and Virginia approaches. The two plans converge at
+      Cumberland Gap later in the campaign. Exact date, briefing site, participants,
+      insertion route, and conventional order of battle remain open.
+    relations:
+      prior_sequence:
+      - NORTH ISLAND / CORONADO
+      next_sequence:
+      - LOW GROUND
+      strategic_parallel:
+      - southern-route mobile U.S. counteroffensive from California toward the Mississippi and Virginia approaches
+      later_convergence:
+      - PW-EVT-G2-ROMEO-TRI-STATE-POINT
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Post_Coronado_Prologue_Bridge_2026-07-31_rev1.txt
+
+- op: update_campaign
+  match_id: PW-CMP-G2-AMERICAN-FREEDOM
+  set:
+    status: locked_campaign_ladder_with_pathfinder_prologue_and_selected_production_details_open
+    notes: >-
+      PATHFINDER is the canonical post-Coronado prologue. Romeo receives internal
+      recognition after Coronado, enters a compartmented special-operations/interagency
+      planning circle, and is individually tasked to investigate and develop low-signature
+      resistance activity around Calloway. In parallel, mobile U.S. formations advance east
+      from California along a southern route and later turn northeast. The two operational
+      lines converge during TRI-STATE POINT. PATHFINDER does not change Romeo's SSG rank,
+      function as a callsign or unit identity, bring Fire Team Delta into the Calloway
+      opening, or turn American Freedom into a playable transcontinental counteroffensive.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Post_Coronado_Prologue_Bridge_2026-07-31_rev1.txt
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+
+- op: update_campaign_track
+  match_id: PW-TRK-G2-AMERICAN-FREEDOM
+  set:
+    status: locked_campaign_ladder_with_pathfinder_tasking_and_cumberland_gap_convergence
+    notes: >-
+      Chronology begins with NORTH ISLAND/CORONADO -> PATHFINDER -> LOW GROUND. Romeo is
+      inserted individually into occupied eastern Kentucky while a wider mobile U.S.
+      counteroffensive advances east on a southern axis. Fire Team Delta reunites later in
+      HIGH GROUND. The local AFC line and conventional mobile line converge at TRI-STATE
+      POINT, after which the preserved Cumberland corridor supports movement toward Virginia
+      and the NO KINGS bridge. Exact dates and detailed national route remain open.
+    sources:
+    - dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/PW_AMERICAN_FREEDOM_Post_Coronado_Prologue_Bridge_2026-07-31_rev1.txt
+    - Project_Warriors_Knowledge_Compendia/PW_AMERICAN_FREEDOM_Post_Coronado_Prologue_Addendum_2026-07-31_rev1.txt
+
+continuity_constraints:
+- id: PW-CONT-G2-ROMEO-PROLOGUE-TITLE
+  event_ref: PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+  rule: >-
+    The canonical prologue title is PATHFINDER. Treat the title as a description of Romeo's
+    strategic function in finding, verifying, and preparing a viable human and operational
+    route. Do not turn PATHFINDER into a callsign, unit designation, rank, or formal billet.
+
+- id: PW-CONT-G2-ROMEO-PROLOGUE-PLACEMENT
+  event_ref: PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+  rule: >-
+    Place PATHFINDER after Romeo's Game 1 Coronado endpoint and before LOW GROUND. It must
+    establish tasking and preparation without replacing LOW GROUND's uncertainty,
+    reconnaissance, first local contact, or trust-building.
+
+- id: PW-CONT-G2-ROMEO-PROLOGUE-RANK-AND-RECOGNITION
+  event_ref: PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+  rule: >-
+    Romeo's valor and achievements are recognized internally. The consequence is access
+    to a more compartmented assignment, not an automatic promotion, public victory ceremony,
+    or chosen-one status. Romeo remains SSG.
+
+- id: PW-CONT-G2-ROMEO-PROLOGUE-INTELLIGENCE-CONFIDENCE
+  event_ref: PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+  rule: >-
+    Russian intercepts indicate low but persistent organized resistance activity around
+    Calloway but do not reveal a mature American Freedom Corps, a known trustworthy cell,
+    or a complete local intelligence picture. Romeo must still verify what exists.
+
+- id: PW-CONT-G2-ROMEO-PROLOGUE-LOCAL-LEGITIMACY
+  event_ref: PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+  rule: >-
+    Romeo is tasked to establish contact, assess, support, and develop credible local actors.
+    Do not frame him as ordered to seize civilian leadership, impose an outside organization,
+    or use the local population as a disposable proxy force.
+
+- id: PW-CONT-G2-ROMEO-PROLOGUE-DELTA-SEPARATION
+  event_ref: PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+  rule: >-
+    Fire Team Delta does not accompany Romeo into the opening Calloway insertion. Preserve
+    the later HIGH GROUND reunion. Dingo, Howler, and Beaver's exact interim assignments
+    remain open.
+
+- id: PW-CONT-G2-ROMEO-PARALLEL-SOUTHERN-ADVANCE
+  event_ref: PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+  rule: >-
+    A mobile U.S. counteroffensive advances east from California along a broadly southern
+    axis toward and across the Mississippi, then turns northeast toward Appalachian and
+    Virginia approaches. Keep exact units, states, crossings, and dates open until dedicated
+    national-campaign mapping. Do not make this a playable Romeo transcontinental ladder.
+
+- id: PW-CONT-G2-ROMEO-PROLOGUE-CUMBERLAND-CONVERGENCE
+  sequence:
+  - PW-EVT-G2-ROMEO-POST-CORONADO-PROLOGUE
+  - PW-EVT-G2-ROMEO-TRI-STATE-POINT
+  rule: >-
+    TRI-STATE POINT pays off PATHFINDER's two-line plan. The AFC contributes local
+    intelligence, routes, network depth, and civilian legitimacy; conventional forces
+    contribute mass, engineers, aviation, and sustained exploitation. Cumberland Gap is
+    a delayed convergence of complementary plans, not an accidental meeting of forces.
+
+open_fields:
+- exact date and diegetic-gap duration
+- recognition, citation, or decoration form
+- briefing site and named participants
+- intercept wording and collection/decryption chain
+- insertion transport, route, cover, equipment, and first playable moment
+- Fire Team Delta interim assignments
+- detailed southern counteroffensive route and order of battle
+- final dialogue, music, and cinematic-playable balance
+
+validation_targets:
+  timeline:
+    added_events: 1
+    updated_campaigns: 1
+    updated_tracks: 1
+    duplicate_new_ids: 0
+    self_references: 0
+    new_ordering_cycle: false
+  narrative:
+    prologue_title: PATHFINDER
+    pathfinder_is_callsign_or_unit: false
+    romeo_rank_changed: false
+    delta_in_opening_insertion: false
+    low_ground_replaced: false
+    cumberland_convergence_locked: true
+    playable_transcontinental_campaign_created: false
