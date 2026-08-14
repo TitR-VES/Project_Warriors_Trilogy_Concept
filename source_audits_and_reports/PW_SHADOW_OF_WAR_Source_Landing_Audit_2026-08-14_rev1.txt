@@ -1,0 +1,185 @@
+PROJECT WARRIORS — SHADOW OF WAR SOURCE-LANDING AUDIT
+Generated: 2026-08-14
+Version: rev1
+Status: SOURCE LANDING AUDIT
+
+SCOPE
+Land the 2026-08-14 narrative-development decisions for The Storm introductory
+flashback SHADOW OF WAR, reconcile the new PANDORA timing seam, refresh Denis
+Malinin's break-from-regime character control, capture the Russian-language /
+combat-diver presentation rules, and add an ontology/timeline pointer.
+
+DURABLE SOURCE LANDING
+
+MISSION:
+- dev_src_docs/story_campaigns/DLC/TheStorm/Playable_Characters/Sakhalin/
+  PW_SHADOW_OF_WAR_Mission_Source_2026-08-14_rev1.txt
+
+CHARACTER:
+- dev_src_docs/story_campaigns/DLC/TheStorm/Playable_Characters/Sakhalin/
+  PW_Denis_Malinin_Sakhalin_Character_Profile_2026-08-14_rev2.txt
+
+PANDORA TIMING:
+- dev_src_docs/worldbuilding/
+  PW_PANDORA_SHADOW_OF_WAR_Timing_Clarification_2026-08-14_rev1.txt
+
+WORKING KNOWLEDGE LANDING
+- Project_Warriors_Knowledge_Compendia/
+  PW_SHADOW_OF_WAR_Storm_Mission_Addendum_2026-08-14_rev1.txt
+
+ONTOLOGY LANDING
+- dev_src_docs/canon_lore_source_of_truth/ontology/
+  pw_shadow_of_war_storm_rev1.delta.yaml
+
+================================================================================
+MISSION RESULT
+================================================================================
+Accepted / working-authoritative:
+- title SHADOW OF WAR;
+- introductory playable Storm flashback;
+- playable Senior Sergeant Denis Nikolaevich Malinin;
+- 2243 EDT, September 6, 2028;
+- Kings Bay, Georgia, United States;
+- USS Wyoming (SSBN-742) as the mission target in Project Warriors continuity;
+- objective is mission kill / sortie denial rather than spectacular total destruction;
+- seven-man Russian combat-diver / military-intelligence sabotage team;
+- intended mission tasking under GRU/GU 8th Directorate;
+- exact permanent parent unit remains open;
+- cold open begins already underwater;
+- hard three-hour work/exfil window;
+- base-wide alarm before charge initiation is effectively mission failure;
+- stealth kills permitted but not glamorized;
+- ordinary American-base visual grammar preserved as a perspective inversion;
+- distant, restrained detonation/consequence presentation;
+- post-detonation transition from intruder to fugitive;
+- RHIB/coastal extraction retained at high level;
+- real Kings Bay security/perimeter/sabotage detail must be fictionalized.
+
+================================================================================
+LANGUAGE / AUDIO RESULT
+================================================================================
+Accepted:
+- Russian team dialogue is canonically performed in Russian;
+- no default English voice-over replacement of the Russian performances;
+- subtitles/localized text provide comprehension;
+- sparse utilitarian professional dialogue;
+- Russian terminology, cadence, shorthand, and military-language review;
+- Battlefield 3 “Kaffarov” retained only as a tonal comms-density/style reference,
+  with no dialogue or scene copying.
+
+Opening beat retained:
+Command gives three hours; another operator asks what happens in three hours;
+team lead answers only that they were not told.
+
+Final native-Russian line wording remains subject to native-language review even
+where working Russian drafts are preserved in the mission source.
+
+================================================================================
+CHARACTER RESULT
+================================================================================
+The older profile's cumulative-break direction is clarified and narrowed.
+
+SHADOW OF WAR does not resolve or begin an obvious ideological break. Denis has
+spent years serving the Russian system and is genuinely good at it.
+
+The later fracture is substantially post-WWIII: promised prosperity, national
+renewal, security, and rewards of victory fail to materialize while ordinary
+Russians instead experience deprivation, coercion, and totalitarian repression by
+the system Denis served.
+
+Exact final break incident/threshold remains open.
+
+Historical rank is now fixed for SHADOW OF WAR as Senior Sergeant. Exact permanent
+service designation remains open.
+
+================================================================================
+PANDORA TIMING RESULT
+================================================================================
+Accepted reconciliation:
+- broad Palisade/SentinelMesh staging/maintenance propagation may begin September 4;
+- 0230 EDT September 7 is the final compromised enabling/synchronization update;
+- SHADOW OF WAR clear-by is 0143 EDT, leaving a 47-minute buffer;
+- selected GRU/GU high-command elements possess enough advance timetable knowledge
+  to synchronize the operation while the tactical team remains compartmented;
+- this does not establish general Russian military knowledge or Russian control
+  of the PANDORA architecture.
+
+================================================================================
+WEAPONS / EQUIPMENT RESULT
+================================================================================
+Malinin SHADOW OF WAR working loadout:
+- primary: ADS amphibious rifle;
+- secondary: suppressed SR-3M;
+- sidearm: suppressed SR-1MP.
+
+Standard capacity remains one primary + one secondary + one sidearm.
+
+Role-based team pool may include ADS, APS, AS Val, VSS Vintorez, SR-3M, SR-2MP,
+and appropriate specialist sidearms. OTs-38 remains provisional pending technical
+validation.
+
+Combat-diver presentation captures:
+- black/dark Russian maritime-diver silhouette;
+- breathing/rebreather apparatus and hose routing;
+- full-face/appropriate diving masks and underwater comms;
+- fins, DPV/swimmer equipment, waterproof specialist load;
+- practiced first-person breathing-system/gauge/navigation checks;
+- Russian/Cyrillic labels and markings where appropriate.
+
+Exact gauge behavior must follow the final selected breathing system rather than
+use a generic invented oxygen HUD.
+
+================================================================================
+VISUAL REFERENCE HYGIENE
+================================================================================
+Four visual references were supplied in-thread for Russian combat-diver gear and
+silhouette.
+
+This PR does not repository-land their binary image files. Instead it captures the
+derived visual requirements in durable text:
+- gear class;
+- silhouette;
+- material language;
+- swimmer/operator profile;
+- weapon carry relationship;
+- Russian equipment-label fidelity.
+
+No provenance/license claim is made for those images in this pass. If the images
+are later to be stored or redistributed in-repo, provenance/license review should
+occur first.
+
+================================================================================
+ONTOLOGY RESULT
+================================================================================
+An additive delta is included because this update creates a new named playable
+event with exact chronology and adds a new exact PANDORA enabling-event time.
+
+The delta:
+- adds PW-EVT-STORM-SHADOW-OF-WAR;
+- adds PW-EVT-PANDORA-FINAL-ENABLING-UPDATE;
+- relates the former as preceding the latter;
+- attaches SHADOW OF WAR to the Storm campaign track as an introductory flashback;
+- explicitly does not use the flashback date to set the opening date of the main
+  Procella-era campaign body.
+
+================================================================================
+OPEN FIELDS / FOLLOW-UP
+================================================================================
+- exact permanent Russian parent unit / final organizational nomenclature;
+- other six operator identities/callsigns/roles;
+- final native-Russian dialogue script and military-language review;
+- final Russian combat-diver rebreather, DPV, mask, fins, gauges, and accessories;
+- exact team weapon distribution;
+- final fictionalized playable Kings Bay layout and secondary objectives;
+- exact extraction geography and mission runtime/checkpointing;
+- whether SAKHALIN existed as Denis's callsign during the flashback;
+- provenance/license review if the four thread-supplied gear images are later
+  repository-landed as binary assets.
+
+RESULT
+The SHADOW OF WAR concept is source-landed as a durable Storm mission with
+character, chronology, language, weapons/equipment, visual-direction, security-
+fictionalization, working-knowledge, and ontology coverage. The update preserves
+open implementation fields rather than upgrading them silently into canon.
+
+END
