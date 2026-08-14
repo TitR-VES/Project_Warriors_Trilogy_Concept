@@ -9,12 +9,26 @@ questions:
 - `pw_world_event_timeline_*` answers **what happens and in what relative order**.
 - `pw_world_geography_reference_rev1.yaml` answers **where mapped events, territorial
   states, blockades, routes, and reference anchors are located**.
-- the KML carries the detailed geometry.
+- the corrected KML/KMZ artifact carries the detailed geometry.
 - narrative source pages remain authoritative for story meaning.
 
 ## Current source map
 
-`dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kml`
+Repository preservation package:
+
+`dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1_kmz_parts/`
+
+The six Base64 parts reconstruct:
+
+`PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kmz`
+
+Expected SHA-256:
+
+`18acfae12d78923615cc750574df1e5c87cf3a97245b57ac750cc7b8b91ca029`
+
+This split transport form exists only because the connected GitHub binary-write path
+truncated the direct KMZ upload. It is not a content or format change to the corrected
+map. The normal corrected KML and KMZ remain the handoff/use artifacts.
 
 Current registry counts:
 - 133 geographic features
@@ -34,5 +48,5 @@ Current registry counts:
 - Persistent territorial-control polygons are not automatically converted into events.
 
 See:
-- `dev_src_docs/worldbuilding/PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-14_rev1.txt`
+- `dev_src_docs/worldbuilding/PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-14_rev2.txt`
 - `source_audits_and_reports/PW_World_Events_Geography_Source_Landing_Audit_2026-08-14_rev1.txt`
