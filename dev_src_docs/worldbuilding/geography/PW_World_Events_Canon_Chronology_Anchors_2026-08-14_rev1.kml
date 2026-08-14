@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Project Warriors — Canon Chronology Anchors rev1</name>
+    <description>Timestamped canon calendar anchors for the Post-PANDORA / WWIII geography reference. No geometry is invented for non-geolocated anchors.</description>
+    <Folder>
+      <name>Locked Canon Calendar Anchors</name>
+      <Placemark>
+        <name>Glushkin activation / Lebedev Boston staging</name>
+        <visibility>0</visibility>
+        <description>LOCKED day-level chronology anchor. Calendar anchor only; no new exact geographic point is introduced by this chronology layer. Source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt</description>
+        <ExtendedData>
+          <Data name="anchor_id"><value>PW-TIME-GLUSHKIN-ACTIVATION-LEBEDEV-BOSTON-STAGING</value></Data>
+          <Data name="precision"><value>day</value></Data>
+          <Data name="status"><value>locked</value></Data>
+          <Data name="source"><value>Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt</value></Data>
+        </ExtendedData>
+        <TimeStamp><when>2028-06-04</when></TimeStamp>
+      </Placemark>
+      <Placemark>
+        <name>PANDORA attacks</name>
+        <visibility>0</visibility>
+        <description>LOCKED day-level chronology anchor. National/global event anchor; do not infer a single point location. Source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt</description>
+        <ExtendedData>
+          <Data name="anchor_id"><value>PW-TIME-PANDORA-ATTACKS</value></Data>
+          <Data name="precision"><value>day</value></Data>
+          <Data name="status"><value>locked</value></Data>
+          <Data name="source"><value>Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt</value></Data>
+        </ExtendedData>
+        <TimeStamp><when>2028-09-07</when></TimeStamp>
+      </Placemark>
+      <Placemark>
+        <name>Hudson Overlook</name>
+        <visibility>0</visibility>
+        <description>LOCKED day-level chronology anchor. Date lock only in this layer; existing dedicated mission/source geography remains controlling. Source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt</description>
+        <ExtendedData>
+          <Data name="anchor_id"><value>PW-TIME-HUDSON-OVERLOOK</value></Data>
+          <Data name="precision"><value>day</value></Data>
+          <Data name="status"><value>locked</value></Data>
+          <Data name="source"><value>Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt</value></Data>
+        </ExtendedData>
+        <TimeStamp><when>2028-09-07</when></TimeStamp>
+      </Placemark>
+      <Placemark>
+        <name>Coordinated hostile West Coast offensives begin</name>
+        <visibility>0</visibility>
+        <description>LOCKED day-level chronology anchor. Theater-level start anchor. It does not mean every mapped blockade or occupation polygon reaches its final extent on this date. Source: dev_src_docs/story_campaigns/Game1/Shared/PW_Game1_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt</description>
+        <ExtendedData>
+          <Data name="anchor_id"><value>PW-TIME-WEST-COAST-OFFENSIVES-BEGIN</value></Data>
+          <Data name="precision"><value>day</value></Data>
+          <Data name="status"><value>locked</value></Data>
+          <Data name="source"><value>dev_src_docs/story_campaigns/Game1/Shared/PW_Game1_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt</value></Data>
+        </ExtendedData>
+        <TimeStamp><when>2028-09-07</when></TimeStamp>
+      </Placemark>
+      <Placemark>
+        <name>U.S. presidential election</name>
+        <visibility>0</visibility>
+        <description>LOCKED day-level chronology anchor. National political chronology anchor; no single-point geography is implied. Source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt</description>
+        <ExtendedData>
+          <Data name="anchor_id"><value>PW-TIME-US-PRESIDENTIAL-ELECTION-2028</value></Data>
+          <Data name="precision"><value>day</value></Data>
+          <Data name="status"><value>locked</value></Data>
+          <Data name="source"><value>Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt</value></Data>
+        </ExtendedData>
+        <TimeStamp><when>2028-11-07</when></TimeStamp>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
