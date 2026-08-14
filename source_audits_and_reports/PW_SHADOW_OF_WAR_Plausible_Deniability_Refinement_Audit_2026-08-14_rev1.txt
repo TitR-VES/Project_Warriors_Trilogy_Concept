@@ -1,0 +1,51 @@
+PROJECT WARRIORS — SHADOW OF WAR PLAUSIBLE-DENIABILITY REFINEMENT AUDIT
+Generated: 2026-08-14
+Version: rev1
+Status: SOURCE REFINEMENT AUDIT
+
+SCOPE
+Capture the follow-up SHADOW OF WAR decision that casualty avoidance is an
+operational plausible-deniability requirement and that most on-base personnel are
+radio-equipped alarm risks.
+
+DURABLE SOURCE
+- dev_src_docs/story_campaigns/DLC/TheStorm/Playable_Characters/Sakhalin/
+  PW_SHADOW_OF_WAR_Plausible_Deniability_and_Alarm_Refinement_2026-08-14_rev1.txt
+
+RESULT
+Accepted:
+- command wants post-operation damage to remain initially compatible with an
+  accident interpretation rather than immediately obvious hostile sabotage;
+- unnecessary enemy casualties weaken that cover story and are therefore
+  operationally undesirable;
+- Malinin's restraint in this mission is professional discipline, not evidence of
+  his later ideological break from the Russian system;
+- early Russian-language team dialogue states that personnel are not to be touched
+  unless necessary and that the aftermath must look like an accident;
+- most on-base personnel in playable stealth spaces carry or have immediate access
+  to radios appropriate to their duties;
+- positive detection normally produces a rapid attempt to radio a confirmed
+  intrusion report;
+- the player has only a short fictionalized intervention window before the report
+  is sent;
+- a successfully transmitted base-wide alarm before charge initiation retains the
+  existing effective mission-failure consequence;
+- discovered casualties, obvious gunfire, witnesses, and partial transmissions can
+  escalate suspicion even when a full alarm has not yet been sent;
+- avoidance is therefore mechanically preferable to routine silent killing;
+- no simplistic morality/pacifist scoring requirement is introduced.
+
+REAL-WORLD SECURITY HYGIENE
+The source explicitly keeps radio procedure, intervention timing, alarm escalation,
+response logic, patrol behavior, and communications systems fictionalized. No
+real Kings Bay security communications detail is asserted or inherited.
+
+ONTOLOGY RESULT
+No ontology change is required for this refinement. Mission identity, chronology,
+location, target, campaign placement, and event relationships remain unchanged.
+
+RELATION TO PR #77
+This audit supplements PW_SHADOW_OF_WAR_Source_Landing_Audit_2026-08-14_rev1.txt
+and should be read with the controlling mission source and the new refinement page.
+
+END
