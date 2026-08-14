@@ -21,6 +21,16 @@ feature_index:
   placemark_ordinal_column: placemark_ordinal
   rule: Every source-map placemark has one stable PW-GEO-* row; unnamed placemarks retain generated geographic IDs
     without invented narrative names.
+chronology_projection:
+  registry: dev_src_docs/canon_lore_source_of_truth/ontology/pw_world_geography_chronology_rev1.yaml
+  schema: dev_src_docs/canon_lore_source_of_truth/ontology/schema/pw_world_geography_chronology.schema.yaml
+  feature_overlay: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv
+  kml_anchor_overlay: dev_src_docs/worldbuilding/geography/PW_World_Events_Canon_Chronology_Anchors_2026-08-14_rev1.kml
+  exact_calendar_anchor_count: 5
+  relative_or_anchor_bound_spatial_features: 12
+  unresolved_spatial_feature_dates: 121
+  direct_time_primitives_on_source_map_features: 0
+  rule: Exact canon anchors are timestamped in the chronology sidecar; source-map features receive direct TimeStamp/TimeSpan only when their own temporal state is locked.
 highlighted_cross_references:
 - feature_id: PW-GEO-PACIFIC-NORTHWESTERN-RUSSIAN-OCCUPATION-ZONE
   placemark_ordinal: 13
@@ -59,10 +69,11 @@ governance:
   unless separately sourced.
 - The corrected KML/KMZ artifact carries detailed coordinates; the inventory and this manifest are machine-friendly projections.
 - Repository transport uses six Base64 parts plus checksum only because the connector binary-write path truncated the direct KMZ upload; reconstruction is content-identical to the local corrected KMZ.
+- Calendar anchors may contextualize a PW-GEO feature without becoming that feature's own onset date.
 open_hygiene_flags:
 - 39 unnamed placemarks
 - one explicit Untitled placemark
 - duplicate generic blockade label
 - two separately drawn Russian Naval Blockade of Alaska polygons
 - Alaska dateline-wrap longitudes require later dateline-aware normalization
-- no TimeStamp/TimeSpan layer
+- source-map placemarks still require feature-by-feature TimeStamp/TimeSpan enrichment as exact dates and bounded state durations are locked
