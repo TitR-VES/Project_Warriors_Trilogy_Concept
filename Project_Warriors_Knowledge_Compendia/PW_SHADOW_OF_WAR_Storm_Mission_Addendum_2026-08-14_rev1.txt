@@ -1,0 +1,111 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM — THE STORM / SHADOW OF WAR
+Generated: 2026-08-14
+Version: rev1
+Status: CURRENT WORKING KNOWLEDGE ADDENDUM
+Domains affected: Core Timeline; Worldbuilding/Strategic Architecture; Characters/DLC; Gameplay/Weapons/Style; Missions/Scenes/Cinematics
+
+PURPOSE
+Provide a compact synthesis pointer for the durable SHADOW OF WAR source landing
+without replacing the controlling dev_src_docs pages.
+
+CONTROLLING SOURCES
+- dev_src_docs/story_campaigns/DLC/TheStorm/Playable_Characters/Sakhalin/
+  PW_SHADOW_OF_WAR_Mission_Source_2026-08-14_rev1.txt
+- dev_src_docs/story_campaigns/DLC/TheStorm/Playable_Characters/Sakhalin/
+  PW_Denis_Malinin_Sakhalin_Character_Profile_2026-08-14_rev2.txt
+- dev_src_docs/worldbuilding/
+  PW_PANDORA_SHADOW_OF_WAR_Timing_Clarification_2026-08-14_rev1.txt
+
+================================================================================
+CORE / TIMELINE
+================================================================================
+- SHADOW OF WAR is an introductory flashback mission for Project Warriors: The Storm.
+- Mission opens September 6, 2028 at 2243 EDT at Kings Bay, Georgia, United States.
+- Team receives a hard three-hour completion/exfil window, giving a 0143 EDT
+  September 7 clear-by point.
+- Palisade final compromised PANDORA enabling update occurs at 0230 EDT September 7.
+- Existing September 4 maintenance/staging propagation remains compatible: 0230 is
+  the final enabling/synchronization step, not the beginning of the whole compromise.
+- The timebox implies compartmented GRU/GU high-command foreknowledge of the PANDORA
+  timetable; Malinin and the tactical team do not know the reason.
+
+================================================================================
+CHARACTER / DLC
+================================================================================
+- Denis Nikolaevich Malinin is Senior Sergeant during SHADOW OF WAR.
+- He is a highly competent Russian combat-diver / maritime-special-operations
+  professional inside a seven-man military-intelligence sabotage team.
+- Intended mission tasking lane: GRU/GU 8th Directorate; exact permanent parent
+  unit remains open.
+- SHADOW OF WAR is explicitly not his break with the regime.
+- His later fracture is cumulative and post-WWIII: promised prosperity/national
+  renewal/rewards of victory fail to materialize while deprivation, coercion, and
+  totalitarian repression of Russian citizens deepen.
+- Exact final break incident/threshold remains open.
+
+================================================================================
+MISSION / SCENE / CINEMATIC
+================================================================================
+- Mission title: SHADOW OF WAR.
+- Target: USS Wyoming (SSBN-742), mission-kill / sortie-denial objective.
+- Cold open begins already underwater; screen fades from black into dark Atlantic
+  blue-green while the team is moving toward the objective.
+- Base-wide detection before charge initiation is effectively mission failure;
+  stealth kills are permitted but not glamorized.
+- Kings Bay must look like an ordinary U.S./allied installation using the same
+  visual grammar as friendly American bases elsewhere in the series. The inversion
+  comes from playing the foreign intruder.
+- Detonation is viewed from protected cover at distance after withdrawal from the
+  immediate objective. Presentation emphasizes alarms, lighting changes, smoke,
+  confusion, and consequence rather than graphic casualties or spectacle.
+- Malinin exit-line intent: “We've done our work. Time is short. Let's move.”
+- After detonation the mission changes from covert infiltration to fugitive exfil.
+- Real-site security/perimeter/vulnerability details must be fictionalized.
+
+================================================================================
+LANGUAGE / AUDIO
+================================================================================
+- Canonical Russian-team dialogue is performed in Russian, not default-dubbed into English.
+- Localized comprehension is primarily through subtitles.
+- Dialogue is sparse, utilitarian, and written/finalized with native-Russian and,
+  where practical, military-language review.
+- Battlefield 3 “Kaffarov” is a tonal reference for Russian professional comms
+  density/texture only; no dialogue/content copying.
+- Opening beat: command gives three hours; another operator asks what happens in
+  three hours; team lead answers only that they were not told.
+
+================================================================================
+GAMEPLAY / WEAPONS / EQUIPMENT / STYLE
+================================================================================
+Standard carried capacity remains one primary + one secondary + one sidearm.
+Malinin working SHADOW OF WAR loadout:
+- ADS amphibious rifle;
+- suppressed SR-3M;
+- suppressed SR-1MP.
+
+Team equipment may include role-based variants from ADS, APS, AS Val, VSS Vintorez,
+SR-3M, SR-2MP, and appropriate specialist sidearms. OTs-38 remains provisional
+pending technical/source validation.
+
+Combat-diver fidelity:
+- dark Russian combat-diver silhouette;
+- rebreather/breathing apparatus, hoses, full-face/appropriate mask, fins, DPV and
+  waterproof mission equipment as selected in production;
+- first-person breathing-system pressure/oxygen-status, depth/navigation, and
+  retention checks where appropriate to the final chosen gear;
+- Russian/Cyrillic equipment labels/markings where appropriate;
+- no generic English labels on Russian-issued kit solely for player convenience.
+
+================================================================================
+OPEN FOLLOW-UP
+================================================================================
+- final Russian parent unit and exact organizational nomenclature;
+- names/callsigns and specialist roles of other six operators;
+- native-Russian final dialogue script;
+- final Russian combat-diver rebreather/DPV/gear model selection;
+- final fictionalized playable Kings Bay layout and secondary sabotage objectives;
+- exact extraction geography;
+- exact mission runtime/checkpoint structure;
+- whether SAKHALIN existed as Denis's callsign during the flashback.
+
+END
