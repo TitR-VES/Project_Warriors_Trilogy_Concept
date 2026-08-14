@@ -3,9 +3,11 @@ meta:
   revision: rev1
   status: current_additive_world_geography_projection
   source_authority: Narrative source pages control story meaning. Detailed feature identity lives in the CSV inventory;
-    detailed geometry lives in the KMZ/KML source.
+    detailed geometry lives in the reconstructed corrected KMZ/KML artifact.
 source_map:
-  repo_path: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kmz
+  repo_reconstruction_parts: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1_kmz_parts/
+  canonical_reconstructed_filename: PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kmz
+  sha256: 18acfae12d78923615cc750574df1e5c87cf3a97245b57ac750cc7b8b91ca029
   handoff_kml_name: PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kml
   format: KMZ containing KML 2.2
   placemark_count: 133
@@ -55,7 +57,8 @@ governance:
 - Do not convert every territorial polygon into a timeline event.
 - A map-originated label is valid at map-reference level but missing dates/order-of-battle/playability remain open
   unless separately sourced.
-- The KML/KMZ carries detailed coordinates; the inventory and this manifest are machine-friendly projections.
+- The corrected KML/KMZ artifact carries detailed coordinates; the inventory and this manifest are machine-friendly projections.
+- Repository transport uses six Base64 parts plus checksum only because the connector binary-write path truncated the direct KMZ upload; reconstruction is content-identical to the local corrected KMZ.
 open_hygiene_flags:
 - 39 unnamed placemarks
 - one explicit Untitled placemark
