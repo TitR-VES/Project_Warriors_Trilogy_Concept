@@ -1,0 +1,28 @@
+PROJECT WARRIORS — WORLD EVENTS GEOGRAPHY CHRONOLOGY ADDENDUM
+Generated: 2026-08-14
+Version: rev1
+Status: CURRENT WORKING-KNOWLEDGE ADDENDUM
+
+The world-events geography layer now has a partial authoritative chronology projection.
+
+Locked calendar anchors currently encoded:
+- 2028-06-04 — Glushkin activation / Lebedev Boston staging
+- 2028-09-07 — PANDORA
+- 2028-09-07 — Hudson Overlook
+- 2028-09-07 — coordinated hostile West Coast offensives begin
+- 2028-11-07 — U.S. presidential election
+
+Important rule:
+A calendar anchor is not automatically the onset date of every geographic feature that
+references it. The current pass therefore adds five timestamped KML chronology anchors,
+but does not assign direct TimeStamp/TimeSpan primitives to the existing 133 spatial
+placemarks unless the represented spatial event/state itself has a locked date/range.
+
+Twelve spatial features now have source-backed temporal bindings; 121 remain unresolved
+at feature-date level and should be filled incrementally as world-event chronology is
+developed.
+
+Use:
+- `pw_world_geography_chronology_rev1.yaml` for ontology-level temporal anchors/bindings.
+- the chronology-overlay CSV for one-row-per-PW-GEO feature temporal status.
+- `PW_World_Events_Canon_Chronology_Anchors_2026-08-14_rev1.kml` as the timestamped KML sidecar.
