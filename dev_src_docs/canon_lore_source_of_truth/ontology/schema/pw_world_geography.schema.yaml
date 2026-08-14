@@ -8,6 +8,7 @@ schema:
   - meta
   - source_map
   - feature_index
+  - chronology_projection
   - highlighted_cross_references
   - governance
   - open_hygiene_flags
@@ -45,6 +46,16 @@ schema:
     rule:
       type: string
       required: true
+  chronology_projection_fields:
+    registry: {type: string, required: true}
+    schema: {type: string, required: true}
+    feature_overlay: {type: string, required: true}
+    kml_anchor_overlay: {type: string, required: true}
+    exact_calendar_anchor_count: {type: integer, required: true}
+    relative_or_anchor_bound_spatial_features: {type: integer, required: true}
+    unresolved_spatial_feature_dates: {type: integer, required: true}
+    direct_time_primitives_on_source_map_features: {type: integer, required: true}
+    rule: {type: string, required: true}
   highlighted_cross_reference_fields:
     feature_id:
       type: string
@@ -77,3 +88,5 @@ schema:
   - A geography feature may cross-reference an event, track, or campaign but does not create one automatically.
   - Territorial-control and blockade polygons are persistent spatial states unless a narrative source separately defines a transition event.
   - Exact dates must not be inferred from placemark order, coordinates, or proximity.
+  - Calendar anchors may contextualize a geography feature without becoming that feature's onset or end date.
+  - Direct TimeStamp/TimeSpan enrichment of source-map features requires support from the dedicated chronology projection and controlling narrative/timeline sources.
