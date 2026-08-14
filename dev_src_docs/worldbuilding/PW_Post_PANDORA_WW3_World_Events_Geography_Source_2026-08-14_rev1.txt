@@ -1,0 +1,316 @@
+PROJECT WARRIORS — WORLD EVENTS GEOGRAPHY REFERENCE
+POST-PANDORA / WORLD WAR III GEOGRAPHIC SOURCE
+Generated: 2026-08-14
+Version: rev1
+Status: CONTROLLING ADDITIVE GEOGRAPHY REFERENCE / NARRATIVE AUTHORITY BOUNDED
+
+1. PURPOSE
+
+This source lands the owner-provided KML map:
+
+Post-PANDORA & WW3 game lore events geographic reference map (1).kml
+
+as a durable additive geographic reference for narratively significant Project Warriors
+world events, territorial-control states, blockade areas, operational corridors, battles,
+bases, campaign movements, and other spatial anchors.
+
+The geographic layer is designed to answer "where is this in the world?" and "how do
+these spatial relationships fit together?" without replacing the narrative source pages
+that control what an event means, when it occurs, who participates, or how it is depicted.
+
+This revision also incorporates the owner's explicit instruction to:
+- preserve the map as an additive layered world-events reference;
+- integrate its geography into the project ontology;
+- retain cross-reference geometry imported from other missing/previous maps;
+- add the mapped movement of U.S. Army elements making contact with the AFC in Harlan
+  County, Kentucky;
+- repair the garbled Pacific Northwestern Russian Occupation Zone polygon around Seattle
+  so that the Seattle area is contiguous through the northward corridor to the Canadian
+  border without the prior crossovers and gaps.
+
+2. SOURCE PACKAGE
+
+Durable geographic source:
+- dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kml
+
+Normalized inventory:
+- dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_2026-08-14_rev1.csv
+
+Ontology projection:
+- dev_src_docs/canon_lore_source_of_truth/ontology/pw_world_geography_reference_rev1.yaml
+
+Ontology schema:
+- dev_src_docs/canon_lore_source_of_truth/ontology/schema/pw_world_geography.schema.yaml
+
+The original user upload remains historical evidence. The repo-landed KML is a corrected
+derivative that preserves the content while repairing the Seattle-area polygon geometry.
+
+3. MAP CONTENT SUMMARY
+
+The corrected map contains:
+- 133 placemarks total;
+- 87 point placemarks;
+- 35 polygon placemarks;
+- 11 line-string placemarks;
+- 94 named placemarks;
+- 39 unnamed placemarks.
+
+Relative to the immediately prior world-events KML, this revision adds four placemarks:
+- one unnamed Harlan-area point reference;
+- the line "75th Ranger Regiment and other US Army elements Reach the AFC in Harlan County";
+- the named "Cumberland Gap tunnel west portal" point;
+- one additional unnamed Cumberland Gap-area point reference.
+
+The line placemark's embedded description states:
+"This is where Romeo reunites with Dingo, Beaver, and Howler in his Game 2 campaign storyline."
+
+4. SOURCE AUTHORITY MODEL
+
+The map is authoritative for spatial reference at the level actually drawn and labeled.
+It is not automatic authority for details that the KML does not state.
+
+Use the following hierarchy:
+
+A. EXISTING NARRATIVE SOURCE + MAP GEOGRAPHY
+Where a durable narrative source already defines the event, mission, faction, or campaign,
+that source controls narrative meaning. This map adds or refines geography.
+
+B. EXISTING EVENT WITH PREVIOUSLY OPEN GEOGRAPHY
+Where an existing source deliberately left exact geography open and this map now supplies
+a location, route, footprint, or territorial boundary, the later owner-provided map may
+resolve that geographic field while leaving unrelated open fields untouched.
+
+C. MAP-ORIGINATED WORLD-EVENT OR WORLD-STATE CLAIM
+Some placemarks identify battles, strikes, occupations, blockades, pockets, campaigns,
+or territorial-control states that do not yet have an equally specific dedicated narrative
+source page. Those entries are valid map-level worldbuilding references and should be
+retained in the ontology geography registry. They must not be silently expanded into
+dates, orders of battle, mission ladders, casualty totals, or playable content that the
+map does not provide.
+
+D. REFERENCE-ONLY GEOMETRY
+Unnamed placemarks, supporting points, and unlabeled overlays remain geographic evidence.
+Do not invent names or narrative functions merely to make the registry look complete.
+
+5. HIGH GROUND / HARLAN COUNTY INTEGRATION
+
+The revised KML adds a 23-vertex operational movement corridor titled:
+
+"75th Ranger Regiment and other US Army elements Reach the AFC in Harlan County"
+
+Its description explicitly associates the endpoint with Romeo's reunion with Dingo,
+Beaver, and Howler.
+
+This is compatible with the controlling AMERICAN FREEDOM campaign source, which locks
+HIGH GROUND as:
+- Romeo's reunion with Fire Team Delta;
+- the first substantial AFC relationship with surviving conventional U.S. forces;
+- a preferred 101st Airborne contact under Captain Lassiter;
+- a conventional-force relationship that does not subordinate or erase the AFC.
+
+The earlier source left the precise reunion site open and suggested a ridge in the wider
+Cumberland region. This map now narrows the first substantial conventional/AFC contact
+and Fire Team Delta reunion geography to Harlan County, Kentucky.
+
+Protected interpretation:
+- HIGH GROUND's conventional-force/AFC contact occurs in Harlan County.
+- The new line is a strategic/operational movement reference, not a literal requirement
+  that every bend of the polyline become playable traversal.
+- The route helps spatially connect the wider U.S. counteroffensive to the AFC.
+- The exact ridge, garrison objective, local road, tactical staging point, and how much
+  of HIGH GROUND is jointly playable remain open because the map does not label them.
+- Do not reinterpret the line as Romeo personally commanding the incoming conventional force.
+
+Relationship to PATHFINDER:
+The PATHFINDER source already locks a wider mobile U.S. counteroffensive advancing east
+on a broadly southern axis and later turning northeast toward the Appalachian/Virginia
+approaches. The new Harlan corridor supplies a later geographic segment of that broader
+convergence picture. It does not, by itself, fully freeze every state, river crossing,
+unit, or earlier movement segment of the national counteroffensive.
+
+6. CUMBERLAND GAP CROSS-REFERENCE
+
+The revised map adds the named point:
+"Cumberland Gap tunnel west portal"
+
+This directly cross-references the already locked TRI-STATE POINT geography and the
+western-portal objective where Romeo's team prevents the Russian demolition of the tunnel
+entrance.
+
+The additional unnamed point near the Cumberland Gap reference is retained as source
+geometry but is not assigned an invented identity.
+
+The dedicated TRI-STATE POINT mission source and later Cumberland Gap geography addenda
+continue to control:
+- mission order;
+- town route;
+- mortar-use constraints;
+- western/eastern portal division;
+- Little Bird intervention;
+- Glushkin confrontation;
+- post-battle corridor exploitation.
+
+7. SEATTLE / PACIFIC NORTHWEST OCCUPATION-POLYGON REPAIR
+
+Target placemark:
+"Pacific Northwestern Russian Occupation Zone"
+
+The uploaded polygon contained a malformed northern-Washington segment with self-crossing
+geometry near the Seattle-to-Canadian-border area. The loops produced sliver artifacts and
+visual gaps/crossovers in the occupation fill.
+
+The corrected derivative KML:
+- preserves the broader West Coast occupation-zone boundary;
+- replaces the tangled northern-Washington segment with a clean contiguous envelope;
+- keeps Seattle and its principal neighborhood envelope inside the occupation zone;
+- keeps the northward Puget Sound corridor through Everett and Bellingham inside the
+  occupation zone;
+- reaches the Canadian border;
+- removes the northern-Washington self-crossing/sliver artifacts;
+- also removes one tiny pre-existing self-intersection artifact on the California segment
+  as part of final ring validation, without changing the macro occupation geography.
+
+Validation points confirmed inside the corrected polygon:
+- Seattle;
+- Ballard;
+- Northgate;
+- Lake City;
+- Everett;
+- Bellingham;
+- Blaine / Canadian-border approach.
+
+The corrected Pacific Northwestern polygon is a valid simple polygon after repair.
+
+This correction is geometric. It does not create new dates, occupation-force strengths,
+Seattle mission content, liberation timing, or administrative boundaries.
+
+8. TERRITORIAL-CONTROL AND BLOCKADE POLYGONS
+
+Polygons such as:
+- Northeastern Russian Occupation sector;
+- Pacific Northwestern Russian Occupation Zone;
+- Cuban naval blockade of south Florida and the Bahamas;
+- Venezuelan naval blockade of Puerto Rico and the U.S. East Indies;
+- Iranian naval blockade of San Francisco and the Bay Area;
+- DPRK naval blockade of Los Angeles and San Diego;
+- state-defense / militia-held territories;
+- contested or blockaded-but-unoccupied areas;
+
+should be treated primarily as geographic world-state layers rather than automatically
+as discrete timeline events.
+
+Where a polygon describes a state that persists over time, the KML remains the geometry
+carrier and the ontology geography registry carries the stable identity. Timeline events
+may reference those geographic identities when a narrative source establishes a beginning,
+ending, battle, withdrawal, or transition.
+
+9. MAP-LEVEL WORLD-EVENT CLAIMS
+
+The map includes many event or campaign labels in addition to simple places. Examples
+include:
+- Atlanta Missile Bombardment Campaign;
+- Battle of the Twin Cities;
+- failed Venezuelan Cameron Beach landing;
+- Bull Harbor amphibious landing;
+- Hell's Highway Battle;
+- St. Louis campaign phases and liberation;
+- Miami invasion/occupation and later liberation-related points;
+- Washington airborne landings and Yakima capture;
+- Anchorage occupation;
+- Panama Canal blockade / USS James B. Stockdale geography;
+- Iranian strikes against Los Angeles-area oil infrastructure and Bay Area targets.
+
+These entries are retained because they are part of the owner-provided world-events map.
+Where a dedicated repo source already exists, that source controls the event and the map
+supplies geography. Where no dedicated source is presently linked, treat the label as a
+map-level worldbuilding claim and do not invent missing narrative detail.
+
+10. GEOGRAPHY ONTOLOGY RULES
+
+The geography ontology is additive and separate from the chronological world-event graph.
+
+A geographic feature may be:
+- a point;
+- a line / operational corridor;
+- a polygon / territorial-control or event footprint;
+- a reference-only anchor.
+
+Each feature receives a stable PW-GEO-* identity in the registry.
+
+The geography registry may point toward an existing PW-EVT-*, PW-TRK-*, or PW-CMP-* entity
+when the relationship is source-supported. A geographic identity does not automatically
+create a new timeline event.
+
+The KML remains the authoritative carrier for detailed geometry. The YAML ontology records:
+- stable feature identity;
+- placemark ordinal;
+- label;
+- geometry type;
+- feature role;
+- source stage;
+- bounding box;
+- centroid;
+- source description;
+- known repo cross-reference;
+- ontology treatment.
+
+Do not duplicate the full KML coordinate arrays into the timeline ontology.
+
+11. TIMELINE REV2.16 COLLISION
+
+The repo currently contains two parallel ontology deltas that both apply to
+pw_world_event_timeline_rev2_15.yaml and both claim to produce rev2.16:
+- pw_tidefire_north_island_map_rev2_16.delta.yaml
+- pw_american_freedom_post_coronado_prologue_rev2_16.delta.yaml
+
+The geography landing must not stack new work onto an ambiguous rev2.16 head.
+
+Resolution in this landing:
+- retain TIDEFIRE as the rev2.15 -> rev2.16 step;
+- reissue the PATHFINDER/post-Coronado delta as rev2.16 -> rev2.17;
+- retire the colliding PATHFINDER rev2.16 filename;
+- treat rev2.17 as the post-reconciliation timeline head for later cumulative work.
+
+The two changes are compatible: TIDEFIRE updates the Game 1 Coronado finale geography;
+PATHFINDER adds the Game 2 post-Coronado prologue and campaign/track bridge.
+
+12. TECHNICAL FLAGS RETAINED
+
+The source map still contains technical items that should remain explicit rather than
+silently "fixed" through inference:
+- 39 unnamed placemarks;
+- one placemark explicitly named "Untitled placemark";
+- duplicate labels for "blockaded territory not occupied by enemy ground forces";
+- two separate polygons labeled "Russian Naval Blockade of Alaska";
+- two Alaska polygons contain longitude values slightly west of -180 degrees, indicating
+  a dateline-wrap problem that requires a dateline-aware GIS correction rather than naive
+  +360 rewriting;
+- the KML has no source-authored TimeStamp/TimeSpan layer, so chronology remains in the
+  timeline ontology and narrative sources rather than being inferred from map order.
+
+These issues do not block use of the map as a geography reference. They remain open
+normalization fields for a later map-hygiene pass.
+
+13. CONTINUITY SAFEGUARDS
+
+- Narrative source pages control story meaning; geography projects spatial meaning.
+- Do not infer exact dates from placemark order.
+- Do not infer campaign membership solely from proximity.
+- Do not turn every polygon into a discrete PW-EVT-* event.
+- Do not invent names for unnamed points.
+- Do not assume every point/line is a playable mission route.
+- Do not assume a blockade polygon means enemy ground occupation.
+- Do not collapse state-defense, AFC, U.S. military, militia, and contested-control
+  polygons into one generic "friendly territory" state.
+- Preserve later owner-provided geography where it intentionally resolves an earlier
+  location-open field.
+- Preserve exact source descriptions in the inventory when present.
+- The Seattle repair is a geometry correction, not a narrative rewrite.
+
+14. CURRENT RESULT
+
+The 2026-08-14 corrected KML is accepted as the current world-events geographic reference
+layer for Project Warriors.
+
+It is source-ready and ontology-integrated through a dedicated geography registry rather
+than by forcing every map object into the chronological event schema.
