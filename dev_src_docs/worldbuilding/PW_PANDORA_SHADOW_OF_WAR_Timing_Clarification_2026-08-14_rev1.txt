@@ -1,0 +1,103 @@
+PROJECT WARRIORS — PANDORA / SHADOW OF WAR TIMING CLARIFICATION
+Generated: 2026-08-14
+Version: rev1
+Status: WORKING AUTHORITATIVE CHRONOLOGY CLARIFICATION
+Applies to: PW_PANDORA_TETHERBREAK_Full_Technical_Architecture_2026-07-24_rev1.txt
+Mission dependency: The Storm / SHADOW OF WAR
+
+PURPOSE
+Clarify the September 7, 2028 PANDORA enabling-update timing required by the
+SHADOW OF WAR mission without discarding the existing broader maintenance/staging
+window already established in the PANDORA technical source.
+
+================================================================================
+01. DATE / TIME CONTROL
+================================================================================
+- PANDORA day remains Thursday, September 7, 2028.
+- Broad Palisade/SentinelMesh maintenance and staged payload propagation may begin
+  on September 4, 2028 as established by the existing technical architecture.
+- At 0230 EDT on September 7, 2028, Palisade Systems pushes the final compromised
+  enabling update/component that transitions the already staged compromise into
+  the attack-ready state required for the PANDORA launch sequence.
+- The 0230 event is therefore not intended to erase the multi-day staging model;
+  it is the final enabling/synchronization step within that model.
+
+Narrative rule:
+Do not describe PANDORA as one magical malicious update created and distributed
+from scratch at 0230. The architecture remains an accumulated, prepositioned
+compromise. The 0230 Palisade event is the final enabling action that makes the
+coordinated attack possible on the intended timetable.
+
+================================================================================
+02. SHADOW OF WAR DEPENDENCY
+================================================================================
+SHADOW OF WAR begins at 2243 EDT on September 6, 2028 at Kings Bay, Georgia.
+
+The Russian seven-man combat-diver/sabotage team is ordered to complete the
+mission and be clear within three hours:
+- mission start: 2243 EDT;
+- three-hour clear-by point: 0143 EDT, September 7;
+- PANDORA final enabling update: 0230 EDT, September 7;
+- operational buffer between team clear-by and enabling event: 47 minutes.
+
+The Russian tactical team is NOT told what will happen after its three-hour
+window. Their dialogue only establishes that Command imposed the deadline and did
+not explain the reason.
+
+================================================================================
+03. FOREIGN FOREKNOWLEDGE / COMPARTMENTATION
+================================================================================
+The timing relationship establishes a specific intelligence implication:
+A highly compartmented Russian GRU/GU command layer possesses enough detailed
+advance knowledge of the PANDORA schedule to synchronize SHADOW OF WAR and other
+Russian preparations around the attack window.
+
+This does NOT establish that:
+- ordinary Russian servicemen know about PANDORA;
+- Malinin or his six teammates know about PANDORA;
+- every GRU/GU directorate knows the full architecture;
+- the wider Russian military knows Palisade's technical mechanism;
+- Russia controls the PANDORA system itself.
+
+The intended model is compartmented foreknowledge: selected senior/intelligence
+participants receive enough timing information to coordinate opportunistic or
+preplanned operations while downstream units receive only operational deadlines.
+
+This remains compatible with the existing PANDORA architecture rule that foreign
+partners receive enough timing knowledge to synchronize operations without
+receiving the whole architecture.
+
+================================================================================
+04. PRESENTATION RULE
+================================================================================
+SHADOW OF WAR must not explain the connection explicitly during the mission.
+Nobody says "PANDORA," "Palisade," or describes the 0230 update.
+
+First-play reading:
+Command knows something the operators do not.
+
+Retrospective reading after the player understands PANDORA chronology:
+The unexplained three-hour limit becomes evidence that Russian high command had
+advance knowledge of the attack timetable.
+
+The mission therefore functions as an evidence seam, not an exposition dump.
+
+================================================================================
+05. SUPERSESSION / RECONCILIATION RULE
+================================================================================
+Where older sources imply that the only meaningful compromised-update event
+occurred on an earlier date or that the final enabling action lacks a September 7
+0230 EDT anchor, this clarification controls the final enabling event.
+
+Where the 2026-07-24 technical architecture says the final maintenance/update
+push begins September 4, preserve that as the staging/propagation window and read
+0230 September 7 as the final enabling/synchronization component.
+
+Do not reintroduce superseded September 3 activation chronology.
+
+SOURCE
+- 2026-08-14 SHADOW OF WAR narrative-development thread / owner timing lock.
+- PW_PANDORA_TETHERBREAK_Full_Technical_Architecture_2026-07-24_rev1.txt.
+- PW_SHADOW_OF_WAR_Mission_Source_2026-08-14_rev1.txt.
+
+END
