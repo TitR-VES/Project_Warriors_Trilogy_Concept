@@ -1,92 +1,41 @@
 meta:
-  generated: '2026-08-14'
+  generated: '2026-08-15'
   revision: rev1
-  governance: Validates the Project Warriors additive world-geography registry manifest and its external feature index. Detailed geometry remains in the source KMZ/KML; stable feature identities live in the CSV inventory.
+  governance: Validates the Project Warriors additive world-geography registry. Detailed geometry remains in the current KML; stable feature identities may be represented by a base inventory plus additive extension and revision overlays.
 schema:
   document: world_geography_reference
-  top_level_required:
-  - meta
-  - source_map
-  - feature_index
-  - chronology_projection
-  - highlighted_cross_references
-  - governance
-  - open_hygiene_flags
+  top_level_required: [meta, source_map, feature_index, chronology_projection, highlighted_cross_references, governance, open_hygiene_flags]
   id_pattern: PW-GEO-{NAME}
-  geometry_type_values:
-  - Point
-  - LineString
-  - Polygon
-  - MultiGeometry
-  - Unknown
-  feature_role_values:
-  - point_reference
-  - location_reference
-  - event_anchor
-  - linear_geography_reference
-  - operational_movement_corridor
-  - area_reference
-  - event_footprint
-  - territorial_control_or_denial_area
-  - mixed_reference
-  source_stage_values:
-  - carried_forward_prior_map
-  - carried_forward_geometry_corrected_2026-08-14
-  - new_overlay_2026-08-14
+  geometry_type_values: [Point, LineString, Polygon, MultiGeometry, Other, Unknown]
+  feature_role_values: [point_reference, location_reference, event_anchor, linear_geography_reference, operational_movement_corridor, area_reference, event_footprint, territorial_control_or_denial_area, mixed_reference]
+  source_stage_values: [carried_forward_prior_map, carried_forward_geometry_corrected_2026-08-14, new_overlay_2026-08-14, new_owner_map_update_2026-08-15]
   feature_index_fields:
-    path:
-      type: string
-      required: true
-    id_column:
-      type: string
-      required: true
-    placemark_ordinal_column:
-      type: string
-      required: true
-    rule:
-      type: string
-      required: true
+    base_path: {type: string, required: true}
+    base_feature_count: {type: integer, required: true}
+    extension_paths: {type: array_string, required: true}
+    extension_feature_count: {type: integer, required: true}
+    revision_overlay: {type: string, required: true}
+    combined_feature_count: {type: integer, required: true}
+    id_column: {type: string, required: true}
+    placemark_ordinal_column: {type: string, required: true}
+    rule: {type: string, required: true}
   chronology_projection_fields:
     registry: {type: string, required: true}
     schema: {type: string, required: true}
-    feature_overlay: {type: string, required: true}
+    base_feature_overlay: {type: string, required: true}
+    extension_feature_overlays: {type: array_string, required: true}
     kml_anchor_overlay: {type: string, required: true}
     exact_calendar_anchor_count: {type: integer, required: true}
     relative_or_anchor_bound_spatial_features: {type: integer, required: true}
     unresolved_spatial_feature_dates: {type: integer, required: true}
     direct_time_primitives_on_source_map_features: {type: integer, required: true}
     rule: {type: string, required: true}
-  highlighted_cross_reference_fields:
-    feature_id:
-      type: string
-      required: true
-    placemark_ordinal:
-      type: integer
-      required: true
-    name:
-      type:
-      - string
-      - 'null'
-      required: true
-    geometry_type:
-      type: enum
-      required: true
-    source_stage:
-      type: enum
-      required: true
-    repo_cross_reference:
-      type:
-      - string
-      - 'null'
-      required: false
   validation_rules:
-  - The referenced feature-index CSV must contain exactly one row per source-map placemark.
-  - Feature IDs in the CSV must be unique and begin with PW-GEO-.
-  - Placemark ordinals in the CSV must be unique within one source-map revision.
-  - Detailed coordinate arrays remain in the KMZ/KML; the registry and inventory do not replace the geometry carrier.
-  - Unnamed placemarks retain generated geographic IDs but must not receive invented narrative names.
-  - A geography feature may cross-reference an event, track, or campaign but does not create one automatically.
-  - Territorial-control and blockade polygons are persistent spatial states unless a narrative source separately defines a transition event.
-  - Exact dates must not be inferred from placemark order, coordinates, or proximity.
-  - Calendar anchors may contextualize a geography feature without becoming that feature's onset or end date.
-  - Direct TimeStamp/TimeSpan enrichment of source-map features requires support from the dedicated chronology projection and controlling narrative/timeline sources.
+    - Base plus extension feature-index rows must cover exactly one stable identity per current source-map placemark; revision-overlay rows amend metadata/geometry facts but do not add feature identities.
+    - Feature IDs must be unique and begin with PW-GEO-.
+    - Placemark ordinals must be unique within one source-map revision.
+    - Detailed coordinate arrays remain in the KML; the registry and inventory do not replace the geometry carrier.
+    - Unnamed placemarks retain generated geographic IDs but must not receive invented narrative names.
+    - Geometry-only repair must preserve narrative territorial intent.
+    - Exact dates must not be inferred from placemark order, coordinates, proximity, or campaign adjacency.
+    - Direct TimeStamp/TimeSpan enrichment of source-map features requires dedicated chronology support.
