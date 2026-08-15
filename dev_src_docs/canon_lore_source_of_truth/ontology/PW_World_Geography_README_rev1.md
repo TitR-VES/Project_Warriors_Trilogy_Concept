@@ -1,86 +1,120 @@
 # Project Warriors World Geography Projection
 
-`pw_world_geography_reference_rev1.yaml` is the additive machine-friendly registry for
-the owner-provided Post-PANDORA / World War III world-events geography map.
+`pw_world_geography_reference_rev1.yaml` is the additive machine-friendly registry for the owner-provided Post-PANDORA / World War III world-events geography map.
 
-It exists because the chronology ontology and the geography layer answer different
-questions:
+The layers answer different questions:
+- `pw_world_event_timeline_*`: what happens and in what relative order.
+- `pw_world_geography_reference_rev1.yaml`: where mapped events, territorial states, routes, corridors, and reference anchors are located.
+- `pw_world_geography_chronology_rev1.yaml`: which exact calendar anchors and relative temporal bindings are currently source-supported.
+- the current corrected KML: detailed geometry.
+- narrative source pages: authoritative story meaning.
 
-- `pw_world_event_timeline_*` answers **what happens and in what relative order**.
-- `pw_world_geography_reference_rev1.yaml` answers **where mapped events, territorial
-  states, blockades, routes, and reference anchors are located**.
-- `pw_world_geography_chronology_rev1.yaml` answers **which calendar anchors are locked
-  and what temporal relationship each PW-GEO feature currently has to them**.
-- the corrected KML/KMZ artifact carries the detailed geometry.
-- narrative source pages remain authoritative for story meaning.
+## Current source map — 2026-08-15 rev2
 
-## Current source map
+Current validated handoff artifact:
+`PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-15_rev2.kml`
 
-Repository preservation package:
+The owner has stated this corrected KML will be the basis of the next map update, so exact repository preservation of this interim artifact is deferred; its SHA-256 and validated feature/geometry state are retained here.
 
-`dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1_kmz_parts/`
+SHA-256:
+`11470187f821fc54f55011627687fa543dcfc7fdd8a45d13df26c0ad11d4692e`
 
-The six Base64 parts reconstruct:
+Current map counts:
+- 174 placemarks
+- 105 points
+- 36 polygons
+- 32 line strings
+- 1 geometry-less/other placemark
+- 128 named placemarks
+- 46 unnamed placemarks
+- all 36 polygons topologically valid
 
-`PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1.kmz`
+The previous six-part KMZ reconstruction package remains preserved as the earlier 133-feature geometry revision. It no longer controls current-map feature coverage.
 
-Expected SHA-256:
+## Stable feature identity
 
-`18acfae12d78923615cc750574df1e5c87cf3a97245b57ac750cc7b8b91ca029`
+To avoid renumbering the already-landed PW-GEO identity base, current coverage is composite:
 
-This split transport form exists only because the connected GitHub binary-write path
-truncated the direct KMZ upload. It is not a content or format change to the corrected
-map. The normal corrected KML and KMZ remain the handoff/use artifacts.
+Base 133-feature inventory:
+`dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_2026-08-14_rev1.csv`
 
-Current registry counts:
-- 133 geographic features
-- 87 points
-- 35 polygons
-- 11 line strings
+41-feature additive extension:
+`dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_Extension_2026-08-15_rev1.csv`
+
+Inherited-feature correction overlay:
+`dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Feature_Revision_Overlay_2026-08-15_rev1.csv`
+
+The correction overlay records topology/label changes without changing stable IDs.
+
+## 2026-08-15 geography additions
+
+The current map adds, among other owner-supplied material:
+- broader Midwest/Northeast U.S. campaign geography and the strategic eastbound context that includes Romeo's route toward Boston;
+- late-Game-3 British Boston widening and Battle-of-Boston geography;
+- the ensuing post-Game-3 U.S./UK Northeast/Capital liberation campaign;
+- New York, Philadelphia, Washington and associated Allied naval sustainment geography;
+- UNHMNA formalized maritime humanitarian corridors shortly after Game 2;
+- the rule that Gulf relief receives no direct UNHMNA maritime corridor and instead moves overland from Charleston and Miami receiving corridors;
+- Canadian liberation of Maine and Vermont;
+- Canadian supply support to Maine local-defense forces;
+- CFB Valcartier as Canadian staging point;
+- Highgate Springs–St-Armand/Philipsburg as the Vermont liberation-axis border-crossing reference;
+- Woodstock border-crossing geography for the Maine axis.
+
+Exact dates remain open unless explicitly represented in the chronology projection.
+
+## Geometry repairs
+
+Two inherited locked polygons contained self-intersection artifacts:
+- Volunteer Corps of Maine controlled area;
+- South Carolina State Defense Force/local volunteer militia area.
+
+The current KML removes only microscopic malformed loops. The intended territorial footprints remain unchanged at narrative scale. All current polygons validate.
 
 ## Geography chronology projection
 
-The chronology layer is intentionally separate from the geometry carrier so calendar
-precision can mature without rewriting stable PW-GEO identities.
+Exact anchor KML remains:
+`dev_src_docs/worldbuilding/geography/PW_World_Events_Canon_Chronology_Anchors_2026-08-14_rev1.kml`
 
-Files:
-
-- `pw_world_geography_chronology_rev1.yaml`
-- `schema/pw_world_geography_chronology.schema.yaml`
-- `../worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv`
-- `../worldbuilding/geography/PW_World_Events_Canon_Chronology_Anchors_2026-08-14_rev1.kml`
-
-Current chronology state:
-- 5 exact day-level canon anchors encoded as KML `TimeStamp` features
-- 12 PW-GEO features with source-backed relative, theater-anchor, or event bindings
-- 121 PW-GEO features still unresolved at feature-date level
-- 0 original spatial placemarks assigned direct `TimeStamp` / `TimeSpan` values so far
-
-That final zero is deliberate. A locked theater date does not automatically become the
-onset date of every occupation or blockade polygon inside that theater. Direct time
-primitives should be added feature-by-feature only when the represented event/state has
-its own locked date or bounded interval.
-
-Current exact anchors:
+The five exact locked anchors remain:
 - 2028-06-04 — Glushkin activation / Lebedev Boston staging
 - 2028-09-07 — PANDORA attacks
 - 2028-09-07 — Hudson Overlook
 - 2028-09-07 — coordinated hostile West Coast offensives begin
 - 2028-11-07 — U.S. presidential election
 
-## Important 2026-08-14 geography changes
+Chronology feature coverage is composite:
 
-- Added the U.S. Army / 75th Ranger movement reference into Harlan County that the
-  source description associates with Romeo's reunion with Dingo, Beaver, and Howler.
-- Added Cumberland Gap west-portal cross-reference geometry.
-- Repaired the Pacific Northwestern Russian Occupation Zone around Seattle so the
-  Seattle-to-Canadian-border corridor is contiguous and the polygon no longer carries
-  the northern-Washington sliver/self-crossing defect.
-- Detailed chronology is not inferred from KML ordering.
-- Persistent territorial-control polygons are not automatically converted into events.
+Base 133-feature overlay:
+`dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv`
 
-See:
-- `dev_src_docs/worldbuilding/PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-14_rev2.txt`
-- `dev_src_docs/worldbuilding/PW_World_Events_Geography_Chronology_Source_2026-08-14_rev1.txt`
-- `source_audits_and_reports/PW_World_Events_Geography_Source_Landing_Audit_2026-08-14_rev1.txt`
-- `source_audits_and_reports/PW_World_Events_Geography_Chronology_Audit_2026-08-14_rev1.txt`
+41-feature extension:
+`dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_Extension_2026-08-15_rev1.csv`
+
+Current chronology state:
+- 174 current PW-GEO features
+- 40 with source-backed relative/theater/event bindings
+- 134 unresolved at feature-date level
+- 0 source-map features assigned direct `TimeStamp` / `TimeSpan`
+- 0 invented exact dates
+
+New relative chronology preserved in this pass:
+- Romeo-associated eastbound strategic geography remains intergame and exact-date open.
+- overt British Boston landing is late Game 3.
+- ensuing Allied Northeast/Capital liberation campaign is post-Game 3.
+- formalized UNHMNA maritime corridors are shortly after Game 2.
+- Canadian Maine/Vermont liberation is owner-supplied but exact calendar placement remains open.
+
+## Source and audit
+
+Current geography source:
+`dev_src_docs/worldbuilding/PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-15_rev3.txt`
+
+174-feature update audit:
+`source_audits_and_reports/PW_World_Events_Geography_174_Feature_Update_Audit_2026-08-15_rev1.txt`
+
+The earlier 2026-08-14 chronology source/audit remain the baseline documentation for the 133-feature chronology layer; the 2026-08-15 extension and registry counts supersede their feature-count totals for current-map use.
+
+## Open hygiene
+
+Current non-blocking flags include unnamed/untitled features, Alaska/dateline normalization, rough wording on the UK naval-disruption map label, a future Pacific-Northwest/Canadian-border continuity recheck, and explicit confirmation of the current KML's USS Wyoming label versus the older USS Nebraska stable-ID wording.
