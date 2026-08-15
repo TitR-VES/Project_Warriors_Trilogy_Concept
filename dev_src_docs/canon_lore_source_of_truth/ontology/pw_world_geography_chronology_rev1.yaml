@@ -1,70 +1,65 @@
 meta:
-  generated: '2026-08-14'
+  generated: '2026-08-15'
   revision: rev1
   status: partial_authoritative_geography_chronology_projection
   timeline_head: pw_world_event_timeline_rev2_17.yaml
-  authority_rule: Only source-locked calendar dates/ranges receive KML TimeStamp/TimeSpan
-    primitives. Relative chronology remains explicit without invented dates.
+  authority_rule: Only source-locked calendar dates/ranges receive KML TimeStamp/TimeSpan primitives. Relative chronology remains explicit without invented dates.
 exact_calendar_anchors:
-- id: PW-TIME-GLUSHKIN-ACTIVATION-LEBEDEV-BOSTON-STAGING
-  name: Glushkin activation / Lebedev Boston staging
-  when: '2028-06-04'
-  precision: day
-  status: locked
-  source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
-  geography_note: Calendar anchor only; no new exact geographic point is introduced
-    by this chronology layer.
-- id: PW-TIME-PANDORA-ATTACKS
-  name: PANDORA attacks
-  when: '2028-09-07'
-  precision: day
-  status: locked
-  source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
-  geography_note: National/global event anchor; do not infer a single point location.
-- id: PW-TIME-HUDSON-OVERLOOK
-  name: Hudson Overlook
-  when: '2028-09-07'
-  precision: day
-  status: locked
-  source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
-  geography_note: Date lock only in this layer; existing dedicated mission/source
-    geography remains controlling.
-- id: PW-TIME-WEST-COAST-OFFENSIVES-BEGIN
-  name: Coordinated hostile West Coast offensives begin
-  when: '2028-09-07'
-  precision: day
-  status: locked
-  source: dev_src_docs/story_campaigns/Game1/Shared/PW_Game1_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt
-  geography_note: Theater-level start anchor. It does not mean every mapped blockade
-    or occupation polygon reaches its final extent on this date.
-- id: PW-TIME-US-PRESIDENTIAL-ELECTION-2028
-  name: U.S. presidential election
-  when: '2028-11-07'
-  precision: day
-  status: locked
-  source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
-  geography_note: National political chronology anchor; no single-point geography
-    is implied.
+  - id: PW-TIME-GLUSHKIN-ACTIVATION-LEBEDEV-BOSTON-STAGING
+    name: Glushkin activation / Lebedev Boston staging
+    when: '2028-06-04'
+    precision: day
+    status: locked
+    source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
+    geography_note: Calendar anchor only; no new exact geographic point is introduced by this chronology layer.
+  - id: PW-TIME-PANDORA-ATTACKS
+    name: PANDORA attacks
+    when: '2028-09-07'
+    precision: day
+    status: locked
+    source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
+    geography_note: National/global event anchor; do not infer a single point location.
+  - id: PW-TIME-HUDSON-OVERLOOK
+    name: Hudson Overlook
+    when: '2028-09-07'
+    precision: day
+    status: locked
+    source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
+    geography_note: Date lock only in this layer; existing dedicated mission/source geography remains controlling.
+  - id: PW-TIME-WEST-COAST-OFFENSIVES-BEGIN
+    name: Coordinated hostile West Coast offensives begin
+    when: '2028-09-07'
+    precision: day
+    status: locked
+    source: dev_src_docs/story_campaigns/Game1/Shared/PW_Game1_Plot_Synopsis_Wiki_Style_2026-07-27_rev1.txt
+    geography_note: Theater-level start anchor. It does not mean every mapped blockade or occupation polygon reaches its final extent on this date.
+  - id: PW-TIME-US-PRESIDENTIAL-ELECTION-2028
+    name: U.S. presidential election
+    when: '2028-11-07'
+    precision: day
+    status: locked
+    source: Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt
+    geography_note: National political chronology anchor; no single-point geography is implied.
 feature_overlay:
-  path: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv
-  source_feature_count: 133
+  base_path: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv
+  base_feature_count: 133
+  extension_paths:
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_Extension_2026-08-15_rev1.csv
+  extension_feature_count: 41
+  source_feature_count: 174
   direct_spatial_time_primitives: 0
-  relative_or_anchor_bound_spatial_features: 12
-  unresolved_spatial_features: 121
+  relative_or_anchor_bound_spatial_features: 40
+  unresolved_spatial_features: 134
 kml_anchor_overlay:
   path: dev_src_docs/worldbuilding/geography/PW_World_Events_Canon_Chronology_Anchors_2026-08-14_rev1.kml
   timestamped_anchor_count: 5
-  geometry_policy: No geometry is invented for national/global or otherwise non-geolocated
-    chronology anchors.
+  geometry_policy: No geometry is invented for national/global or otherwise non-geolocated chronology anchors.
 governance:
-- A calendar anchor date may contextualize a geography feature without becoming that
-  feature’s own onset date.
-- Do not assign a TimeStamp to a territorial-control polygon merely because the theater
-  offensive began on a locked date.
-- Use TimeSpan only when both the represented state/event and the range boundary are
-  source-locked.
-- Relative-only facts such as after Game 1 / before Game 2 remain relative-only until
-  a later source provides calendar placement.
-- Exact dates in superseded sources do not control over later explicit owner locks.
-- Future chronology passes should append bindings and KML time primitives without
-  renumbering PW-GEO identities.
+  - A calendar anchor date may contextualize a geography feature without becoming that feature's own onset date.
+  - Do not assign a TimeStamp to a territorial-control polygon merely because the theater offensive began on a locked date.
+  - Use TimeSpan only when both the represented state/event and the range boundary are source-locked.
+  - Relative-only facts remain relative-only until a later source provides calendar placement.
+  - Exact dates in superseded sources do not control over later explicit owner locks.
+  - The 2026-08-15 extension preserves owner-supplied relative locks: UNHMNA corridors shortly after Game 2; late-Game-3 British Boston landing; post-Game-3 Allied Northeast/Capital campaign.
+  - Canadian Maine/Vermont liberation is event-bound but calendar-date open; do not infer stronger sequencing without a later owner lock.
+  - Future chronology passes should append bindings and KML time primitives without renumbering PW-GEO identities.
