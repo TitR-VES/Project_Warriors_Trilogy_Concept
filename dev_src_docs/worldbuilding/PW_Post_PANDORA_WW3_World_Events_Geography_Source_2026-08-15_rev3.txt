@@ -1,0 +1,132 @@
+PROJECT WARRIORS — POST-PANDORA / WWIII WORLD-EVENTS GEOGRAPHY SOURCE
+Generated: 2026-08-15
+Version: rev3
+Status: CURRENT OWNER-SUPPLIED GEOGRAPHY PROJECTION / SOURCE-READY
+Supersedes for current-map geometry and feature coverage:
+- PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-14_rev2.txt
+Does not supersede dedicated narrative/campaign source pages for story meaning.
+
+1. CURRENT GEOMETRY CARRIER
+
+Current corrected handoff KML:
+PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-15_rev2.kml
+
+Repository preservation note:
+This interim corrected KML is the validated basis for the 174-feature projection, but exact KML artifact preservation is deferred because the owner has already indicated the corrected file will be used as the basis for the next map update.
+
+SHA-256:
+11470187f821fc54f55011627687fa543dcfc7fdd8a45d13df26c0ad11d4692e
+
+Current placemark counts:
+- 174 total placemarks
+- 105 Point
+- 36 Polygon
+- 32 LineString
+- 1 geometry-less/other placemark ("Untitled slide")
+- 128 named placemarks
+- 46 unnamed placemarks
+- 0 source-map TimeStamp elements
+- 0 source-map TimeSpan elements
+
+The original 133-feature inventory remains the stable base identity layer.
+The 41 owner-added features at ordinals 134-174 are indexed by:
+dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_Extension_2026-08-15_rev1.csv
+
+Corrections to inherited base features are recorded without changing stable PW-GEO IDs in:
+dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Feature_Revision_Overlay_2026-08-15_rev1.csv
+
+2. OWNER-LOCKED / OWNER-SUPPLIED ADDITIONS IN THIS MAP GENERATION
+
+The map now includes:
+- broader U.S. offensive/campaign geography in the Midwest and Northeast, including the strategic eastbound/counteroffensive geography associated with Romeo's movement toward Boston;
+- UNHMNA humanitarian maritime corridors formalized shortly after Game 2;
+- no direct UNHMNA maritime corridor into Gulf states because allied maritime resources are strained;
+- Gulf relief instead depends on overland delivery from the Charleston and Miami maritime receiving corridors;
+- late-Game-3 British overt landing/Battle-of-Boston geography after the earlier covert British phase;
+- an ensuing post-Game-3 U.S./UK Allied campaign to lift the Atlantic blockade and liberate the Northeast down toward Washington, DC;
+- Canadian liberation operations in Maine and Vermont;
+- Canadian supply support to Maine local-defense forces;
+- CFB Valcartier explicitly identified as a Canadian staging point supporting Northeast liberation operations;
+- the Vermont Canadian entry reference aligned to the Highgate Springs–St-Armand/Philipsburg crossing;
+- Woodstock border-crossing geography supporting the Maine axis.
+
+These map additions are valid world/campaign geography. Exact calendar placement remains open except for relative relationships explicitly stated above.
+
+3. BOSTON / BRITISH CONTINUITY
+
+The new Boston geometry is compatible with the controlling British-response architecture:
+covert SAS/SBS reach and blockade disruption precede the wider Royal Marines/Royal Navy support-and-holding layer.
+
+The map's joint AFC/UK supply-vessel sabotage geography is compatible with the existing Boston Harbor / TEA PARTY reference architecture. The overt British landing does not retroactively turn early Boston into a large British conventional intervention.
+
+4. ROMEO EASTBOUND CONTINUITY
+
+The strategic northeastern counteroffensive/eastbound geography may contextualize Romeo's Game-2-to-Game-3 movement, but it does not mean the player personally traverses every mapped campaign segment.
+
+The existing Kentucky-to-Boston bridge remains controlling:
+- the bridge spans a meaningful inter-campaign interval;
+- exact dates remain open;
+- EASTBOUND is the playable final leg into Greater Boston;
+- Boston already has an organized local resistance.
+
+5. UNHMNA CONTINUITY
+
+UNHMNA exists in earlier post-PANDORA chronology. The newly mapped corridors represent the later formalized/expanded maritime relief architecture described by the owner as being set up shortly after Game 2, not the first creation of UNHMNA.
+
+The Charleston and Miami corridors may serve as maritime receiving points for subsequent overland Gulf relief. The map does not currently require every downstream overland route to be drawn.
+
+6. CANADIAN NORTHEAST GEOGRAPHY
+
+Owner-supplied canon now includes Canadian liberation of Maine and Vermont plus support routes for Maine local-defense forces.
+
+Current map precision:
+- CFB Valcartier is explicitly a staging point.
+- Highgate Springs–St-Armand/Philipsburg is the Vermont border-crossing reference aligned to the liberation axis.
+- Woodstock border crossing anchors the principal Maine conventional entry geography.
+- the separate Maine local-defense supply line remains distinct from the primary liberation axis.
+
+Do not infer an exact date, unit order of battle, or command relationship with the U.S./UK Northeast campaign until separately locked.
+
+7. GEOMETRY-ONLY REPAIRS
+
+Two inherited locked territorial polygons contained self-intersection artifacts:
+- Area Controlled by the Volunteer Corps of Maine
+- Territory held by SC State Defense Force's and local volunteer militia elements
+
+The corrected KML removes only the microscopic malformed loops. The intended territorial footprints are preserved. All 36 polygons in the current KML validate as simple/valid polygons after repair.
+
+8. STABLE-IDENTITY / LABEL NOTE
+
+The current owner KML labels the submarine-pen bombing feature at ordinal 74 as USS Wyoming. The previously merged base inventory encoded USS Nebraska in the stable PW-GEO ID.
+
+This revision preserves the existing PW-GEO ID to avoid breaking downstream references and records the current-label difference in the feature-revision overlay. Treat the semantic Nebraska/Wyoming supersession as pending explicit confirmation rather than silently re-keying the geography identity.
+
+9. CHRONOLOGY DISCIPLINE
+
+The current KML still carries no direct TimeStamp/TimeSpan primitives.
+
+The chronology projection now covers all 174 placemarks as:
+- 133-row base chronology overlay;
+- 41-row chronology extension.
+
+Across the composite map:
+- 40 features have relative/theater/event temporal bindings;
+- 134 remain unresolved at feature-date level;
+- 0 source-map features receive direct time primitives in this pass.
+
+No exact date is inferred merely from map order, route adjacency, campaign naming, or proximity.
+
+10. OPEN MAP-HYGIENE FLAGS
+
+Still open for later owner-map passes:
+- 46 unnamed placemarks;
+- one explicit "Untitled placemark";
+- one geometry-less "Untitled slide";
+- duplicate generic blockade labeling;
+- two separately drawn Russian Naval Blockade of Alaska polygons;
+- Alaska/dateline-wrap normalization;
+- wording cleanup for "UK Naval disruption if the US north west enemy blockade";
+- Pacific Northwest / Canadian-border continuity should be rechecked in the next map pass even though the polygon is topologically valid;
+- semantic confirmation of USS Wyoming versus the older USS Nebraska label.
+
+END
