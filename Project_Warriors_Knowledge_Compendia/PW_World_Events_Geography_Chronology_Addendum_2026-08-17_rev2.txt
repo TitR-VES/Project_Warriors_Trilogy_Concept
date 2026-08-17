@@ -1,0 +1,42 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+WORLD EVENTS GEOGRAPHY / CHRONOLOGY — 255-FEATURE CURRENT MAP
+Generated: 2026-08-17
+Version: rev2
+Status: CURRENT WORKING-KNOWLEDGE UPDATE
+
+PURPOSE
+Refresh the visible knowledge layer for the owner-maintained Post-PANDORA / WWIII geography map after the western counteroffensive, bridge-denial, Dawn of Mercy, UNHMNA air-corridor, Monterrey/Alaska and Canadian/Great Lakes additions.
+
+CURRENT MAP STATE
+- 255 placemarks.
+- Stable PW-GEO identity remains additive: 133 base + 41 prior extension + 81 current extension.
+- Current KML is repository-preserved and checksum-backed.
+- Narrative sources control story meaning; KML controls mapped spatial claims.
+- Source KML still contains no TimeStamp/TimeSpan primitives.
+
+HIGH-LEVEL CANON CARRY-FORWARD
+- Northwestern Counteroffensive is a converging coastal/interior campaign architecture rather than a single route.
+- Salt Lake City, Billings, Butte and Pocatello form a coherent Russian-overextension/reversal sequence before the later westward liberation push.
+- Selected Russian bridge destruction/chokepoint operations occur after Cumberland Gap and after the Northwestern Counteroffensive turns in the Allied/U.S. favor.
+- The I-35W St. Anthony Falls Bridge retains one physically passable carriageway but is an enemy-held chokepoint from the east side.
+- Dawn of Mercy = DARK SKIES Mission 01; BAD OMENS = Act I.
+- UNHMNA later expands with Midwest land and Canadian-origin air relief corridors; this does not redefine its earlier existence.
+- Monterrey Conference is April 13–17, 2030; signature day remains open.
+- final Russian withdrawal from Alaska is May 28, 2032.
+- Alaska demilitarization begins May 28, 2032 and completes in early 2035.
+- Ainsley Taylor wins the Tuesday, November 2, 2032 presidential election.
+- Fragmentation/NAF/collapse and Calgary→Cheltenham exile timing remains relative-only.
+- USS Wyoming is correct Kings Bay canon; Nebraska is superseded narrative identity.
+- the Ventura→Coronado Long Beach backtrack is intentional.
+- the CIA/authorized-USAF classified-site polygon is now tightened around the southern Nevada classified-site cluster.
+
+USE RULE
+Apply this addendum over older 174-feature geography/chronology summary totals. Do not delete the older baseline layers; they remain the provenance for the stable first 174 PW-GEO identities.
+
+SOURCE OF TRUTH
+dev_src_docs/worldbuilding/PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-17_rev4.txt
+dev_src_docs/worldbuilding/PW_World_Events_Geography_Chronology_Update_2026-08-17_rev3.txt
+dev_src_docs/canon_lore_source_of_truth/ontology/pw_world_geography_reference_rev2.yaml
+dev_src_docs/canon_lore_source_of_truth/ontology/pw_world_geography_chronology_rev2.yaml
+
+END
