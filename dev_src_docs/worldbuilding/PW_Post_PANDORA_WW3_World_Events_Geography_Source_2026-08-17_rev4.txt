@@ -1,0 +1,198 @@
+PROJECT WARRIORS — POST-PANDORA / WWIII WORLD-EVENTS GEOGRAPHY SOURCE
+Generated: 2026-08-17
+Version: rev4
+Status: CURRENT OWNER-SUPPLIED GEOGRAPHY PROJECTION / SOURCE-READY
+
+SUPERSESSION
+Supersedes for current-map geometry and feature coverage:
+- dev_src_docs/worldbuilding/PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-15_rev3.txt
+
+Does not supersede dedicated campaign/mission/character narrative source pages for story meaning.
+
+1. CURRENT GEOMETRY CARRIER
+
+Original / reconstructed KML name:
+PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-17_rev5.kml
+
+Repository preservation manifest:
+dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-17_rev5_kml_parts/README.txt
+
+Repository geometry status:
+Exact KML bytes are preserved as checksum-backed compressed Base64 reconstruction parts; reconstructing per the manifest yields the original KML byte-for-byte.
+
+SHA-256:
+0539b7e133c9968744afd3ce3af1bacf91043d75345ca9a62306d00bcc7527d8
+
+Validated structure:
+- 255 placemarks
+- 165 Point
+- 49 LineString
+- 40 Polygon
+- 1 geometry-less/other placemark
+- 195 named
+- 60 unnamed
+- 40/40 polygons topologically valid
+- 48/49 LineStrings simple
+- the sole non-simple LineString is the Romeo/Delta Ventura-to-Coronado movement; its short Long Beach backtrack is owner-confirmed intentional
+- 0 source-map TimeStamp
+- 0 source-map TimeSpan
+
+2. STABLE FEATURE IDENTITY
+
+Stable coverage is composite and additive:
+- original merged base: ordinals 1–133
+- 2026-08-15 extension: ordinals 134–174
+- 2026-08-17 extension: ordinals 175–255
+
+Do not renumber the first 174 identities.
+
+The current 81-feature extension is:
+dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_Extension_2026-08-17_rev2.csv
+
+Inherited-feature revisions are recorded in:
+dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Feature_Revision_Overlay_2026-08-17_rev2.csv
+
+Intermediate accidental/deleted map items do not receive durable IDs.
+
+3. MAJOR WESTERN CAMPAIGN ADDITIONS
+
+The current map adds a connected western strategic arc including:
+- Battle and occupation of Spokane;
+- Russian inland/eastward movement through the Pacific Northwest;
+- Missoula and Bozeman occupation geography;
+- Battle of Salt Lake City;
+- Canadian Montana intervention;
+- Colorado/Front Range movement toward Billings;
+- Battle of Billings;
+- Butte cutoff and Russian southern retreat;
+- Allied/U.S. Pocatello interception and Battle of Pocatello;
+- post-battle POW-camp geography;
+- later Allied/U.S./Canadian Northwestern Counteroffensive pushes toward Portland, Yakima, Spokane and Seattle.
+
+Current normalized route labels include:
+- Western Counteroffensive — California to Southern Oregon
+- Interior Western Counteroffensive — Billings to Seattle
+
+The coastal and interior axes are complementary converging operations. Exact calendar placement remains open except where separately locked.
+
+4. SOUTHERN CALIFORNIA / NEVADA ADDITIONS
+
+The map adds:
+- LAX as a U.S.-held strategic airport after a failed joint Russian/DPRK airborne assault;
+- Long Beach and Hollywood Burbank airport references;
+- destruction of Hollywood Burbank Airport by DPRK missile bombardment;
+- Romeo/Delta Ventura-to-Coronado movement;
+- Edwards AFB and Tonopah references;
+- a CIA/authorized-USAF security area protecting strategic classified sites.
+
+The classified-sites polygon has been deliberately tightened from an overbroad Nevada footprint to the southern Nevada classified-site/test-range cluster. Do not restore the old near-statewide polygon.
+
+The Ventura-to-Coronado route contains a short self-crossing/backtrack near Long Beach. This is owner-confirmed intentional and is not a drawing error.
+
+5. CANADIAN / GREAT LAKES / SEATTLE LAYER
+
+The map adds:
+- Canadian Operation Buffalo Trail from Winnipeg south through the Emerson/Pembina axis toward the Midwest/Kansas City;
+- Gordie Howe International Bridge and Blue Water Bridge crossing references;
+- Canadian/Allied Central Michigan and Detroit liberation movement;
+- Canadian Detroit River crossing movement;
+- Canadian northern incursion into Seattle supporting the Northwestern Counteroffensive / Second Battle of Seattle.
+
+Operation Buffalo Trail must preserve the distinction between a Canadian military corridor-opening role and later UNHMNA humanitarian use.
+
+6. LATE-OCCUPATION BRIDGE-DENIAL LAYER
+
+The map adds selected bridge destruction and chokepoint markers concentrated around the Mississippi/Twin Cities and Detroit/Canada access geography.
+
+Controlling relative chronology:
+- after the Battle of Cumberland Gap; AND
+- after the Northwestern Counteroffensive has successfully turned in the U.S./Allied favor.
+
+The intended strategic function is to reduce practical Allied river/border crossing options and channel movement into fewer defendable points.
+
+The I-35W St. Anthony Falls crossing is not fully removed:
+- northbound carriageway destroyed;
+- other carriageway physically passable;
+- eastern side/approach controlled by Russian forces;
+- crossing functions as an enemy-held chokepoint.
+
+The Long Meadow Lake bridge marker from an intermediate generation was intentionally removed and is not part of the current source map.
+
+7. DAWN OF MERCY
+
+The Seattle Dawn of Mercy marker is valid Game 3 Spook geography.
+
+Mission/act normalization:
+- campaign: DARK SKIES
+- Mission 01: DAWN OF MERCY
+- Act I: BAD OMENS
+
+BAD OMENS is the act title, not the mission title.
+
+The marker describes a Chinese-backed sabotage attempt against the UN hospital ship intended to cause an approximately 1-kiloton harbor/supply-infrastructure explosion. Exact calendar date remains open.
+
+8. UNHMNA EXPANSION
+
+The current map preserves previously added maritime and land humanitarian routes and adds:
+- Texas–Mexico/El Paso land access;
+- the Buffalo Trail-linked Midwest land-aid architecture;
+- a Canadian-origin UNHMNA humanitarian air corridor serving deep-plains North Dakota and South Dakota.
+
+UNHMNA's existence predates these later formalized/expanded corridors. Do not treat the map additions as the organization's founding.
+
+9. MONTERREY / ALASKA / RESTORATION-ERA GEOGRAPHY
+
+The map contains:
+- Monterrey place marker;
+- Signing of the treaty of Monterrey marker;
+- Alaska demilitarization marker.
+
+Only those two intended Monterrey-area markers remain. The accidental exact-duplicate unnamed Monterrey point from an intermediate map was removed.
+
+Chronology is controlled by:
+dev_src_docs/worldbuilding/PW_World_Events_Geography_Chronology_Update_2026-08-17_rev3.txt
+
+Key locks:
+- Monterrey Conference: April 13–17, 2030; exact treaty-signature day within the window remains open.
+- final Russian withdrawal from Alaska / end of Russian occupation of U.S. territory: May 28, 2032.
+- Alaska treaty demilitarization begins May 28, 2032 and completes in early 2035.
+- restoration-era U.S. presidential election: Tuesday, November 2, 2032; Ainsley Taylor wins.
+- later Fragmentation/NAF/collapse/exile chronology remains relative/date-open.
+
+10. INHERITED CORRECTIONS
+
+- Volunteer Corps of Maine polygon: microscopic topology repair only.
+- South Carolina State Defense Force/local militia polygon: microscopic topology repair only.
+- USS Wyoming is owner-confirmed canon at Kings Bay; USS Nebraska is superseded narrative text.
+- Southern branch: USMC, US Air Force, and US Army Denver movement retains its stable identity but has revised current geometry; treat as a geometry revision, not a new feature.
+
+11. CHRONOLOGY DISCIPLINE
+
+The source KML itself remains free of TimeStamp/TimeSpan primitives.
+
+Chronology is projected through sidecars:
+- base 133-feature overlay;
+- 41-feature 2026-08-15 extension;
+- 81-feature 2026-08-17 extension;
+- exact calendar anchor KML rev2.
+
+Current composite feature chronology:
+- 255 PW-GEO features
+- 95 with source-backed exact-context / relative / theater / event bindings
+- 160 unresolved at feature-date level
+- 0 direct time primitives on source-map features
+
+Exact anchor sidecar contains 9 semantic calendar anchors, including the 5 earlier anchors plus Monterrey Conference, final Russian Alaska withdrawal, Alaska demilitarization start, and the 2032 Ainsley Taylor election.
+
+12. OPEN HYGIENE
+
+Non-blocking current-map issues intentionally not silently rewritten in this pass include:
+- 60 unnamed placemarks;
+- one geometry-less Untitled slide;
+- Alaska/dateline normalization;
+- older rough/typo-prone owner labels such as the UK naval-disruption label, "Canadian Foeces Operation Buffalo Trail", and "Vanderberg SFB";
+- one additional unlabeled Calgary-area point whose narrative role remains unclear;
+- UNHMNA air-corridor line is schematic and is not snapped exactly to all three base/airport point markers;
+- source-map features should only receive direct KML time primitives after the represented event/state itself is sufficiently date-bounded.
+
+END
