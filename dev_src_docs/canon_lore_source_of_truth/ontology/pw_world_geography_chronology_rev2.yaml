@@ -1,0 +1,95 @@
+meta:
+  generated: '2026-08-17'
+  revision: rev2
+  status: partial_authoritative_geography_chronology_projection
+  timeline_head: pw_world_event_timeline_rev2_17.yaml
+  authority_rule: Only source-locked calendar dates/ranges receive sidecar KML TimeStamp/TimeSpan primitives. Relative chronology remains explicit without invented dates.
+exact_calendar_anchors:
+  - id: PW-TIME-GLUSHKIN-ACTIVATION-LEBEDEV-BOSTON-STAGING
+    name: Glushkin activation / Lebedev Boston staging
+    when: '2028-06-04'
+    precision: day
+    status: locked
+  - id: PW-TIME-PANDORA-ATTACKS
+    name: PANDORA attacks
+    when: '2028-09-07'
+    precision: day
+    status: locked
+  - id: PW-TIME-HUDSON-OVERLOOK
+    name: Hudson Overlook
+    when: '2028-09-07'
+    precision: day
+    status: locked
+  - id: PW-TIME-WEST-COAST-OFFENSIVES-BEGIN
+    name: Coordinated hostile West Coast offensives begin
+    when: '2028-09-07'
+    precision: day
+    status: locked
+  - id: PW-TIME-US-PRESIDENTIAL-ELECTION-2028
+    name: U.S. presidential election
+    when: '2028-11-07'
+    precision: day
+    status: locked
+  - id: PW-TIME-MONTERREY-CONFERENCE
+    name: Monterrey Conference
+    begin: '2030-04-13'
+    end: '2030-04-17'
+    precision: day_range
+    status: locked
+    note: Exact Treaty of Monterrey signature day within this window remains open.
+  - id: PW-TIME-FINAL-RUSSIAN-WITHDRAWAL-ALASKA
+    name: Final Russian withdrawal from Alaska / end of Russian occupation of U.S. territory
+    when: '2032-05-28'
+    precision: day
+    status: locked
+  - id: PW-TIME-ALASKA-DEMILITARIZATION-BEGINS
+    name: Alaska treaty demilitarization begins
+    when: '2032-05-28'
+    precision: day
+    status: locked
+    note: Completion remains coarse as early 2035.
+  - id: PW-TIME-US-PRESIDENTIAL-ELECTION-2032-AINSLEY-TAYLOR
+    name: U.S. presidential election — Ainsley Taylor wins
+    when: '2032-11-02'
+    precision: day
+    status: locked
+coarse_or_relative_anchors:
+  - id: PW-TIME-ALASKA-DEMILITARIZATION-COMPLETE
+    name: Alaska treaty demilitarization completed
+    relation: early 2035
+    status: coarse_locked_no_exact_primitive
+  - id: PW-TIME-BRIDGE-DENIAL-OPERATION
+    name: Russian late-occupation bridge-denial operation
+    relation: after Battle of Cumberland Gap AND after successful turn of Northwestern Counteroffensive
+    status: relative_locked
+  - id: PW-TIME-FRAGMENTATION-NAF-COLLAPSE
+    name: Fragmentation Years / NAF insurrection / federal collapse sequence
+    relation: post-occupation; exact bounds open
+    status: relative_locked
+  - id: PW-TIME-TAYLOR-EXILE-SEQUENCE
+    name: Taylor government exile sequence
+    relation: Calgary first, later Cheltenham
+    status: relative_locked
+feature_overlay:
+  base_path: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv
+  base_feature_count: 133
+  extension_paths:
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_Extension_2026-08-15_rev1.csv
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_Extension_2026-08-17_rev2.csv
+  extension_feature_count: 122
+  source_feature_count: 255
+  direct_spatial_time_primitives: 0
+  relative_or_anchor_bound_spatial_features: 95
+  unresolved_spatial_features: 160
+kml_anchor_overlay:
+  path: dev_src_docs/worldbuilding/geography/PW_World_Events_Canon_Chronology_Anchors_2026-08-17_rev2.kml
+  semantic_anchor_count: 9
+  geometry_policy: No geometry is invented for national/global or otherwise non-geolocated chronology anchors.
+governance:
+  - A calendar anchor may contextualize a geography feature without becoming that feature's own onset date.
+  - The Monterrey Conference window does not establish the exact treaty-signature day.
+  - Russian withdrawal from Alaska and Alaska demilitarization are distinct events/processes even though the latter begins on the same locked date.
+  - Early 2035 remains coarse; do not manufacture an exact demilitarization completion endpoint.
+  - Bridge-denial features remain relative to Cumberland Gap and the Northwestern Counteroffensive turn until a date is separately locked.
+  - Dawn of Mercy is mission-bound: DARK SKIES Mission 01, Act I BAD OMENS; exact date open.
+  - Future chronology passes should append bindings and time primitives without renumbering PW-GEO identities.
