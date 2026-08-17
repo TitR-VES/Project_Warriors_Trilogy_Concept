@@ -1,0 +1,88 @@
+PROJECT WARRIORS — WORLD EVENTS GEOGRAPHY 255-FEATURE UPDATE AUDIT
+Generated: 2026-08-17
+Version: rev1
+Status: VALIDATION / MIGRATION AUDIT
+
+INPUT / ORIGINAL CURRENT CARRIER
+PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-17_rev5.kml
+
+REPOSITORY PRESERVATION MANIFEST
+dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-17_rev5_kml_parts/README.txt
+Exact KML bytes are preserved as compressed Base64 reconstruction parts and reconstruct byte-for-byte to the original.
+
+SHA-256: 0539b7e133c9968744afd3ce3af1bacf91043d75345ca9a62306d00bcc7527d8
+
+STRUCTURE
+- placemarks: 255
+- Point: 165
+- LineString: 49
+- Polygon: 40
+- other/geometry-less: 1
+- named: 195
+- unnamed: 60
+- source-map TimeStamp: 0
+- source-map TimeSpan: 0
+
+TOPOLOGY
+- polygons valid: 40/40
+- simple LineStrings: 48/49
+- non-simple LineString: Romeo, Delta and other US army elements Ventura to Coronado Movement
+- disposition: ACCEPTED / INTENTIONAL. Owner explicitly confirms the short Long Beach backtrack.
+
+FEATURE ID MIGRATION
+- ordinals 1–133 retain merged base identities.
+- ordinals 134–174 retain the 2026-08-15 extension identities.
+- ordinals 175–255 receive 81 new additive IDs in the 2026-08-17 extension.
+- no renumbering of inherited identities.
+- removed intermediate features receive no durable IDs.
+
+REMOVED / NON-DURABLE INTERMEDIATE ITEMS
+- accidental unnamed exact-duplicate Monterrey point: removed.
+- Long Meadow Lake bridge marker: intentionally removed by owner.
+These items must not be reconstructed from intermediate map generations or allocated stable PW-GEO identities.
+
+CONFIRMED CORRECTIONS
+- USS Wyoming canon confirmed; USS Nebraska narrative identity superseded.
+- I-35W St. Anthony Falls Bridge represented as a Russian-controlled chokepoint: northbound carriageway destroyed, surviving carriageway passable but eastern approach enemy-held.
+- DAWN OF MERCY normalized as Spook Game 3 DARK SKIES Mission 01; BAD OMENS is Act I.
+- CIA/authorized-USAF classified-sites polygon tightened to southern Nevada classified-site/test-range cluster.
+- route names normalized:
+  - Western Counteroffensive — California to Southern Oregon
+  - Interior Western Counteroffensive — Billings to Seattle
+- inherited ordinal-2 Southern branch route geometry revised under existing ID.
+- Volunteer Corps of Maine and South Carolina State Defense/local-militia polygon topology repairs retained.
+
+CHRONOLOGY
+New exact/coarse owner locks carried without overprecision:
+- 2030-04-13 through 2030-04-17: Monterrey Conference.
+- exact Treaty of Monterrey signature day within that conference window remains open.
+- 2032-05-28: final Russian withdrawal from Alaska / end of Russian occupation of U.S. territory.
+- 2032-05-28: Alaska demilitarization begins.
+- 2032-11-02: Ainsley Taylor wins restoration-era U.S. presidential election.
+- early 2035: Alaska demilitarization complete; retained as coarse chronology only.
+
+New relative locks:
+- bridge-denial operation occurs after Battle of Cumberland Gap AND after successful turn of Northwestern Counteroffensive.
+- Western counteroffensive sequence links Salt Lake City / Billings / Butte / Pocatello reversals to later converging Portland/Yakima/Spokane/Seattle liberation pushes.
+- Dawn of Mercy is mission-bound but exact-date open.
+- Buffalo Trail and UNHMNA air corridor are later relief-network architecture; exact activation dates open.
+
+COMPOSITE CHRONOLOGY COUNT
+- previous bound/relative/event features: 40
+- new 175–255 bound/relative/event features: 55
+- current bound/relative/event features: 95
+- current unresolved feature dates: 160
+- direct time primitives on source-map features: 0
+
+OPEN NON-BLOCKING HYGIENE
+- 60 unnamed placemarks.
+- one geometry-less Untitled slide.
+- Alaska/dateline normalization.
+- several typo-prone owner labels intentionally preserved pending a dedicated label-cleanup pass.
+- one unlabeled Calgary-area point remains semantically unclear.
+- UNHMNA air corridor remains schematic rather than exactly snapped to all airport/base point markers.
+
+AUDIT RESULT
+PASS for repository landing as current owner-supplied world geography, with the intentional Long Beach backtrack and listed open-hygiene items explicitly documented rather than silently altered.
+
+END
