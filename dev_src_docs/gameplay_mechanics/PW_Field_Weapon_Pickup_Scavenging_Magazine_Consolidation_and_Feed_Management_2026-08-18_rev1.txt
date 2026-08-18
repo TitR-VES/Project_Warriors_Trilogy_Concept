@@ -1,0 +1,351 @@
+PROJECT WARRIORS — FIELD WEAPON PICKUP, AMMUNITION SCAVENGING, MAGAZINE CONSOLIDATION, AND FEED MANAGEMENT
+Generated: 2026-08-18
+Version: rev1
+Status: OWNER-DIRECTED PROPOSED DESIGN SOURCE — IMPLEMENTATION VALUES OPEN
+
+PURPOSE
+Land the August 18 owner-directed field weapon and ammunition-management mechanics as a durable gameplay source. This source extends the existing physical weapon-state, persistent reload-state, no-ammo-counter, retained-partial-magazine, inspect-view, ammunition-economy, and thermal-load rules.
+
+CONTROLLING CONTINUITY
+- PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt controls persistent mechanical reload state.
+- PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt controls tactile inspect behavior and physical field ammunition changes.
+- PW_No_Ammo_Counter_Magazine_Inspection_and_Ammo_Fallback_2026-08-09_rev1.txt controls qualitative magazine state, hardware-derived exact counts, retained partial magazines, fullest-first automatic reload selection, and compatible-ammunition fallback.
+- PW_Sustained_Automatic_Fire_Thermal_Load_and_Barrel_Management_2026-08-06_rev1.txt controls weapon heat persistence and barrel-management consequences.
+- Later explicit owner adjudication controls over this source.
+
+CORE PHILOSOPHY
+Weapons, magazines, belts, boxes, loose ammunition, chambered cartridges, feed state, action state, heat, condition, and interruptions remain physical simulation state. Pickup and ammunition management must not normalize a weapon into a generic ready/full state or turn ammunition into an abstract reserve number.
+
+================================================================================
+01. DROPPED-WEAPON PICKUP / SWAP
+================================================================================
+
+OWNER LOCK
+When the player approaches a dropped weapon closely enough, an interaction prompt appears:
+SWAP
+
+Executing SWAP replaces the player's currently active carried weapon with the dropped weapon, subject to the final slot/class rules for the loadout system.
+
+STATE PRESERVATION
+The picked-up weapon retains its actual world state, including where tracked:
+- installed or absent magazine/feed device
+- remaining magazine/belt/tube ammunition
+- chambered cartridge state
+- bolt/slide/action state
+- interrupted reload or manipulation state
+- malfunction/stoppage state
+- attachments and fire-control configuration
+- condition/damage
+- suppressor state
+- current thermal load / barrel heat
+
+The weapon displaced by the SWAP enters the world in its own actual current state. No free reload, repair, cooling, ammunition grant, or chamber normalization occurs.
+
+A dropped weapon with no usable magazine ammunition may still be worth swapping to if it retains a chambered cartridge or other usable feed state.
+
+================================================================================
+02. DROPPED-WEAPON AMMUNITION SCAVENGING / UNLOAD
+================================================================================
+
+OWNER LOCK
+When a dropped weapon contains scavengeable ammunition compatible with any weapon currently carried by the player — primary, secondary, or sidearm — an additional contextual prompt may appear:
+UNLOAD
+
+For detachable-magazine weapons, UNLOAD removes the weapon's ammunition-bearing magazine and transfers that physical magazine into the player's compatible magazine pool, preserving:
+- exact remaining cartridge quantity in simulation
+- player-facing qualitative/full-partial state
+- ammunition type
+- magazine/feed-device compatibility
+- condition where tracked
+
+The interaction does not create an abstract reserve-ammunition grant.
+
+NO EMPTY-MAGAZINE BUSYWORK
+UNLOAD appears only when executing it can recover scavengeable ammunition outside the chamber.
+
+Therefore:
+- inserted empty detachable magazine: no UNLOAD prompt
+- missing detachable magazine: no UNLOAD prompt
+- chambered round only: no UNLOAD prompt
+- incompatible magazine/ammunition for all carried weapons: no UNLOAD prompt
+- no capacity to accept the relevant ammunition/feed item: prompt treatment remains implementation-dependent, but the system must not silently destroy useful ammunition
+
+EMPTY-STATE READABILITY
+Where the weapon provides a mechanically readable last-round state, its preserved world state helps communicate emptiness before interaction. Examples include:
+- pistol slide locked rearward
+- AR-15-family bolt locked open on an empty magazine/chamber
+- applicable shotgun actions remaining open after the last round
+- other platform-specific last-round hold-open behavior
+
+Platforms without automatic last-round hold-open — including classic/non-Navy MP5-type behavior and many non-Yugoslav AK-pattern configurations — do not receive a fictional bolt-lock cue merely for UI convenience.
+
+The absence of UNLOAD means "no compatible scavengeable ammunition is available through this interaction," not universally "the weapon is physically empty." The same absence may result from an empty or missing magazine, incompatibility, or other valid state.
+
+CHAMBERED CARTRIDGES
+The scavenging interaction does not remove a chambered round. To make use of a chambered cartridge left in a dropped weapon, the player must SWAP to the weapon and either fire it or perform normal weapon manipulation/reloading as appropriate.
+
+================================================================================
+03. NON-DETACHABLE-FEED SCAVENGING
+================================================================================
+
+FIXED-TUBE SHOTGUNS
+A dropped fixed-tube shotgun can be unloaded for compatible loose shells. This takes materially longer than removing a conventional detachable magazine because shells must be removed individually through the weapon's actual loading/unloading grammar.
+
+BOLT-ACTION RIFLES
+Owner direction retains a longer UNLOAD/scavenging interaction for magazine-fed bolt-action rifles than for ordinary detachable-magazine autoloaders. Fixed/internal-magazine bolt-action rifles likewise require platform-authentic removal of remaining ammunition. Exact timings remain production work.
+
+OTHER NON-DETACHABLE FEEDS
+Revolvers, internal-box rifles, launchers, belts, clips, and other feed systems require weapon-authentic scavenging rather than being forced into a detachable-magazine interaction.
+
+================================================================================
+04. DETACHABLE-MAGAZINE CARRY CAPACITY
+================================================================================
+
+OWNER LOCK
+For removable-magazine weapon families, the player's carrying cap is nine magazines in the relevant compatible physical magazine pool.
+
+The nine-magazine count includes:
+- full magazines
+- partial magazines
+- magazine currently inserted in a carried weapon
+
+EMPTY MAGAZINES
+The player automatically discards empty detachable magazines. Empty magazines do not remain in the carried magazine inventory.
+
+PARTIAL MAGAZINES
+Partial magazines are automatically retained and consume one magazine-capacity slot until fired empty, discarded through a later dedicated system if supported, or consolidated into other magazines.
+
+SHARED COMPATIBLE-MAGAZINE POOLS
+If more than one carried weapon accepts the same physical magazine type, those magazines belong to one shared compatible pool rather than receiving duplicate per-weapon capacity.
+
+Equipping two weapons that accept the same physical magazine type therefore does not multiply the player's carrying capacity. Magazines inserted in either weapon count against the shared pool.
+
+Compatibility is based on the actual usable feed device, not caliber alone.
+
+================================================================================
+05. LOOSE-AMMUNITION CARRY CAPACITY
+================================================================================
+
+OWNER LOCK
+Weapons that do not use removable magazines draw from platform/caliber-appropriate loose-ammunition pools with finite carry limits.
+
+Examples include:
+- fixed-tube shotguns
+- revolvers where loose cartridges are carried
+- internal-box-magazine rifles
+- single-shot weapons
+- other loose-round-fed systems
+
+Exact caps may differ by ammunition size, weapon family, campaign/loadout context, and carrying equipment. Values remain production work; the lock is that loose ammunition is finite and physically represented rather than unlimited reserve.
+
+================================================================================
+06. MERGE MAGAZINES — DETACHABLE MAGAZINES
+================================================================================
+
+OWNER LOCK
+The weapon-inspect view provides an ammunition-management option:
+MERGE MAGAZINES
+
+Purpose:
+- consolidate partial magazines
+- reduce the number of occupied magazine slots
+- fit the same remaining ammunition into fewer physical magazines
+- improve combat readiness under the nine-magazine carrying cap
+
+SAME-AMMUNITION-TYPE RULE
+Detachable magazines may only be consolidated with magazines carrying the same ammunition type.
+
+Examples:
+- BALL with BALL: allowed
+- AP with AP: allowed
+- SUBSONIC with SUBSONIC: allowed
+- BALL with AP: not allowed
+- SUBSONIC with SUPERSONIC: not allowed
+
+Mixed detachable-magazine loads are not supported by this mechanic.
+
+TRANSFER BEHAVIOR
+The system transfers cartridges from donor partial magazines into compatible destination magazines until the destination reaches physical capacity or no same-type donor ammunition remains.
+
+Any donor magazine reduced to zero cartridges is automatically discarded under the empty-magazine rule. If cartridges remain, the donor magazine remains a retained partial and still occupies one magazine slot.
+
+FULL/PARTIAL STATE AND EXACT SIMULATION
+The underlying simulation moves exact cartridges between physical magazines even though the standard player-facing display remains qualitative unless the magazine's own witness/count hardware provides exact readable information.
+
+================================================================================
+07. MERGE DURATION, WORLD TIME, AND INTERRUPTION
+================================================================================
+
+OWNER LOCK
+MERGE MAGAZINES is a real-time vulnerable field action.
+
+Baseline authored duration:
+- approximately 3 seconds of player-character busy time as a compressed/symbolic representation of moving cartridges between magazines
+
+This is a gameplay abstraction rather than a claim that every real magazine consolidation task takes exactly three seconds.
+
+NO PAUSE / NO INVULNERABILITY
+Opening Inspect does not freeze the game world. While inspecting or merging:
+- world time continues
+- enemies continue acting
+- environmental hazards continue
+- the player can be damaged, interrupted, or killed
+- no animation invulnerability is granted
+
+INTERRUPTED CONSOLIDATION
+Physical progress already completed before interruption persists. Cartridges already transferred remain in their destination magazine; the game does not rewind the magazines to their pre-merge state.
+
+The exact granularity of transfer during the three-second abstraction may be tuned in production, but completed state changes cannot be silently undone.
+
+================================================================================
+08. MAGAZINE-FED SHOTGUN CONSOLIDATION
+================================================================================
+
+OWNER LOCK
+Detachable-box-magazine-fed shotguns participate in the magazine-consolidation system.
+
+If the player carries compatible loose shotgun shells of the same shell type as a partially loaded box magazine, MERGE MAGAZINES may top that magazine up from the loose-shell pool.
+
+If all compatible shells are already contained in detachable shotgun magazines, consolidation behaves like other detachable-magazine weapons: shells transfer between magazines of the same ammunition type.
+
+No mixed shell types are created inside a detachable shotgun magazine through consolidation.
+
+================================================================================
+09. FIXED-TUBE SHOTGUN MIXED LOADS — EXPLICIT EXCEPTION
+================================================================================
+
+OWNER LOCK
+Fixed-tube shotguns are the explicit exception to the no-mixed-magazine-load rule.
+
+Because shells occupy a physical firing order in a tube, the player may deliberately build mixed tactical sequences using compatible authored shell types, including combinations such as:
+- breaching
+- anti-drone
+- buckshot
+- slug
+- Dragon's Breath / DB where available
+- other authored specialist shells
+
+This preserves the existing shotgun rule that shells retain their true physical position in the weapon's sequence.
+
+Detachable magazines remain homogeneous by ammunition type. The mixed-load exception applies to ordered fixed-tube shell sequences, not to detachable rifle, pistol, SMG, LMG, or shotgun box magazines.
+
+================================================================================
+10. FIXED-TUBE SHOTGUN LOAD PRESETS
+================================================================================
+
+OWNER LOCK
+The player may configure and save mixed fixed-tube shotgun load presets through the in-game weapon-inspect ammunition-management interface.
+
+A preset records an ordered shell sequence rather than merely percentages of shell types.
+
+The ammo-swap dialog inside Inspect exposes a contextual action to apply a saved preset.
+
+PHYSICAL APPLICATION
+Activating a preset does not instantly rewrite the tube. The player character physically unloads/reorders/loads shells as needed using ammunition actually carried.
+
+Rules:
+- the game world continues running during preset application
+- the player remains vulnerable
+- required shells must actually be present
+- missing shell types are not fabricated
+- shells removed from the tube return to the appropriate loose-shell pool where physically recoverable
+- a chambered shell remains a separate mechanical state and is not silently replaced by changing the tube preset
+- interruption preserves whatever physical shell-order changes have already occurred
+
+The preset is therefore a saved instruction for a physical ammunition-management action, not an abstract instant ammo toggle.
+
+================================================================================
+11. BELT-FED WEAPONS AND FEED-DEVICE PERSISTENCE
+================================================================================
+
+OWNER LOCK
+Belt-fed weapons retain platform-authentic belt/box/pouch and feed-state logic.
+
+The ammunition container does not disappear merely because it becomes empty. Empty boxes or soft pouches may remain attached until the character removes/replaces them as part of the reload sequence.
+
+For systems using disintegrating links, expended links do not remain as an intact empty belt; the persistent state instead tracks the remaining linked ammunition, empty/attached container state, feed-tray/cover state, bolt/action state, and any stoppage or heat state.
+
+A first battlefield pickup / first loading of a supported belt-fed weapon may use a longer character-specific manipulation sequence that includes an accurate trained weapon check before loading. For Spook, this should read as efficient professional familiarity rather than hesitant discovery. Routine subsequent reloads may use shorter practiced animations unless the stored mechanical state requires a longer recovery/check.
+
+No reload grants free cooling, repair, belt replenishment, or stoppage clearance beyond what the actual animation accomplishes.
+
+================================================================================
+12. M249 DUAL-FEED HANDLING
+================================================================================
+
+OWNER-DIRECTED PLATFORM RULE
+For the M249 SAW family as represented in Project Warriors, the player may use its supported dual-feed capability:
+- linked ammunition from the normal belt/box/pouch feed
+- compatible STANAG magazines as an alternate/emergency feed source
+
+The two feed sources remain distinct physical states. Changing feed source requires the appropriate real weapon manipulation and cannot occur as an instantaneous inventory toggle.
+
+INSPECT / FEED-SOURCE CONTROL
+Where the M249 is carried, Inspect may expose a feed-source selection interaction allowing the player to choose between available linked ammunition and compatible STANAG magazines.
+
+Linked ammunition remains the normal sustained-fire feed. STANAG feed is an alternate/emergency source and may receive platform-authentic reliability/handling tradeoffs in implementation rather than being treated as mechanically identical to belt feed.
+
+Exact prompt wording, automatic-vs-manual fallback behavior, reliability modifiers, and animation timings remain production fields unless later owner-directed.
+
+The M249's selected feed source does not override the general ammunition compatibility rules or create ammunition that is not physically carried.
+
+================================================================================
+13. INTERACTION / UI GRAMMAR SUMMARY
+================================================================================
+
+World interactions may include:
+- SWAP — replace active carried weapon with the dropped weapon
+- UNLOAD — recover compatible ammunition/feed device when recoverable ammunition exists outside the chamber
+
+Inspect/ammunition-management interactions may include:
+- MERGE MAGAZINES
+- ammunition-type selection for compatible detachable magazines
+- fixed-tube shotgun saved load presets / apply preset
+- feed-source selection for supported dual-feed weapons such as the M249
+
+Prompts must reflect real state. Do not display interactions that accomplish nothing.
+
+================================================================================
+14. PLAYER EXPERIENCE GOAL
+================================================================================
+
+The intended loop is:
+- dropped weapons remain physically meaningful objects rather than generic loot markers
+- useful ammunition can be stripped without forcing a weapon swap
+- chambered rounds remain tied to the weapon that contains them
+- partial magazines matter because they consume real capacity
+- fullest-first reload logic gets the most immediately useful magazine into the weapon
+- consolidation rewards downtime and logistics awareness
+- inspect remains tactically risky because the world does not pause
+- shared magazine pools prevent inventory-capacity exploits between compatible weapons
+- fixed-tube shotguns gain deliberate shell-order tactics unavailable to detachable magazines
+- belt-fed weapons retain their own feed-container and reload identity
+- alternate feed systems remain physical choices rather than HUD abstractions
+
+The system should reward preparedness and scavenging without turning the game into spreadsheet inventory management.
+
+================================================================================
+15. OPEN PRODUCTION FIELDS
+================================================================================
+
+Still open unless separately controlled:
+- exact interaction radii
+- final weapon-slot/class restrictions for SWAP
+- exact UNLOAD animation duration per weapon
+- exact nine-magazine-pool grouping for uncommon cross-platform magazine adapters
+- behavior when a useful scavenged magazine would exceed capacity
+- loose-round carry-cap values by cartridge/shell family
+- exact three-second merge timing and interruption granularity
+- magazine-consolidation animation library
+- number of saved fixed-tube shotgun presets
+- preset UI layout and naming
+- exact anti-drone and other specialist shotgun-shell availability
+- exact belt/pouch inventory capacities
+- belt-fed first-check animation coverage by protagonist and weapon
+- M249 feed-source prompt wording, reliability modeling, and automatic fallback behavior
+- accessibility treatment for long vulnerable ammunition-management actions
+- NPC use of scavenging, consolidation, presets, and alternate-feed mechanics
+
+================================================================================
+END
+================================================================================
