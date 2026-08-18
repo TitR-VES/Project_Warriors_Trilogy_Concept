@@ -1,0 +1,67 @@
+meta:
+  document_id: PW-ONT-SHADOW-OF-WAR-STORM-REV1
+  generated: '2026-08-14'
+  revision: rev1
+  status: additive_story_timeline_delta
+  authority_note: >-
+    Adds the SHADOW OF WAR Storm flashback and the September 7 PANDORA final
+    enabling-update anchor. It does not set the wider main Storm campaign opening
+    date and does not expose real-world Kings Bay security or sabotage detail.
+  sources:
+  - dev_src_docs/story_campaigns/DLC/TheStorm/Playable_Characters/Sakhalin/PW_SHADOW_OF_WAR_Mission_Source_2026-08-14_rev1.txt
+  - dev_src_docs/story_campaigns/DLC/TheStorm/Playable_Characters/Sakhalin/PW_Denis_Malinin_Sakhalin_Character_Profile_2026-08-14_rev2.txt
+  - dev_src_docs/worldbuilding/PW_PANDORA_SHADOW_OF_WAR_Timing_Clarification_2026-08-14_rev1.txt
+
+operations:
+- op: add_events
+  values:
+  - id: PW-EVT-STORM-SHADOW-OF-WAR
+    name: Shadow of War
+    era: PW-ERA-CONSPIRACY
+    date:
+      exact: '2028-09-06'
+      local_time: '22:43'
+      timezone: EDT
+    location: Kings Bay, Georgia, United States
+    actors:
+    - Senior Sergeant Denis Nikolaevich Malinin
+    - seven-man Russian combat-diver / military-intelligence sabotage team
+    depicted_in:
+    - PW-TRK-DLC-STORM
+    ordering:
+      before:
+      - PW-EVT-PANDORA-FINAL-ENABLING-UPDATE
+    status: working
+    notes: >-
+      Introductory Storm flashback. Mission objective is a covert mission kill /
+      sortie denial against USS Wyoming (SSBN-742), with broad base identity
+      retained but playable security/sabotage details fictionalized. The mission
+      is not Malinin's ideological break with the Russian system.
+    sources:
+    - dev_src_docs/story_campaigns/DLC/TheStorm/Playable_Characters/Sakhalin/PW_SHADOW_OF_WAR_Mission_Source_2026-08-14_rev1.txt
+  - id: PW-EVT-PANDORA-FINAL-ENABLING-UPDATE
+    name: Palisade final compromised PANDORA enabling update
+    era: PW-ERA-ACTIVATION
+    date:
+      exact: '2028-09-07'
+      local_time: '02:30'
+      timezone: EDT
+    status: working
+    notes: >-
+      Final enabling/synchronization action within the already staged PANDORA
+      compromise. Broader SentinelMesh maintenance/payload propagation may begin
+      September 4; this 0230 event does not replace the multi-day staging model.
+      Selected foreign intelligence partners may possess enough timetable
+      knowledge to synchronize operations without receiving the full architecture.
+    sources:
+    - dev_src_docs/worldbuilding/PW_PANDORA_SHADOW_OF_WAR_Timing_Clarification_2026-08-14_rev1.txt
+    - dev_src_docs/worldbuilding/PW_PANDORA_TETHERBREAK_Full_Technical_Architecture_2026-07-24_rev1.txt
+
+- op: update_campaign_track
+  match_id: PW-TRK-DLC-STORM
+  set:
+    introductory_flashback_event: PW-EVT-STORM-SHADOW-OF-WAR
+    notes_append: >-
+      SHADOW OF WAR is a September 6, 2028 playable introductory flashback and
+      does not by itself set the chronological opening date of the main Procella
+      campaign body.

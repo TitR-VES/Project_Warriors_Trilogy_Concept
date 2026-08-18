@@ -1,0 +1,136 @@
+PROJECT WARRIORS — WORLD EVENTS GEOGRAPHY SOURCE LANDING AUDIT
+Generated: 2026-08-14
+Version: rev1
+Status: LANDING AUDIT / GEOMETRY VALIDATION PASSED WITH OPEN HYGIENE FLAGS
+
+SCOPE
+Review and land the revised owner-provided:
+Post-PANDORA & WW3 game lore events geographic reference map (1).kml
+
+REPO CROSS-CHECK BASIS
+- dev_src_docs/canon_lore_source_of_truth/ontology/README.md
+- dev_src_docs/canon_lore_source_of_truth/ontology/schema/pw_world_event.schema.yaml
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+  PW_AMERICAN_FREEDOM_Campaign_Story_and_Mission_Ladder_2026-07-31_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+  PW_AMERICAN_FREEDOM_Post_Coronado_Prologue_Bridge_2026-07-31_rev1.txt
+- dev_src_docs/story_campaigns/Game2/Playable_Characters/Romeo/
+  PW_TRI_STATE_POINT_Cumberland_Gap_Mission_Source_2026-07-31_rev1.txt
+- dev_src_docs/worldbuilding/
+  PW_Latin_American_Noncooperation_and_Venezuelan_Louisiana_Withdrawal_2026-08-04_rev1.txt
+- existing Cumberland Gap and TIDEFIRE map-to-ontology landing patterns
+
+INPUT / OUTPUT COUNTS
+Input revised KML placemarks: 133
+Corrected KML placemarks: 133
+Points: 87
+Polygons: 35
+LineStrings: 11
+Named: 94
+Unnamed: 39
+Placemark loss during repair: 0
+
+DIFF AGAINST PREVIOUS WORLD-EVENTS KML
+Added placemarks: 4
+Removed placemarks: 0
+Added:
+- unnamed point at Harlan-area reference
+- "75th Ranger Regiment and other US Army elements Reach the AFC in Harlan County"
+- "Cumberland Gap tunnel west portal"
+- unnamed Cumberland Gap-area point
+
+HIGH GROUND CHECK
+PASS.
+The campaign source already locks the Fire Team Delta reunion and first substantial
+AFC/conventional U.S. relationship in HIGH GROUND while leaving the precise site open.
+The new map narrows the contact geography to Harlan County without forcing an exact
+ridge/garrison objective that is not labeled.
+
+PATHFINDER CHECK
+PASS WITH REFINEMENT.
+PATHFINDER protects only the broad southern-axis national counteroffensive and leaves
+exact states/crossings/order of battle open. The new Harlan corridor is treated as a
+late convergence/reference segment rather than a complete rewrite of the entire national
+route.
+
+CUMBERLAND GAP CHECK
+PASS.
+The named west-portal point agrees with the controlling TRI-STATE POINT geography.
+The unnamed adjacent point remains unnamed; no identity is inferred.
+
+SEATTLE POLYGON CHECK
+Original target:
+- "Pacific Northwestern Russian Occupation Zone"
+- 225 vertices
+- invalid polygon
+- self-crossing/sliver defect in northern Washington near 48.55 N
+
+Corrected target:
+- 167 vertices
+- valid simple polygon
+- Seattle covered
+- Ballard covered
+- Northgate covered
+- Lake City covered
+- Everett covered
+- Bellingham covered
+- Blaine / Canadian-border approach covered
+- broader West Coast macro-boundary retained
+- one tiny unrelated California ring crossing removed during final validity repair
+
+Seattle result: PASS.
+
+ONTOLOGY FIT
+PASS through a separate world-geography registry.
+The current world-event schema is chronology-first and stores event location as text.
+Forcing all 35 polygons and 11 corridors into PW-EVT-* would conflate spatial states
+with discrete events. The new pw_world_geography_reference_rev1.yaml provides stable
+PW-GEO-* identities while the corrected KML/KMZ remains the detailed geometry carrier.
+
+TIMELINE COLLISION CHECK
+FAIL in pre-landing main state:
+- TIDEFIRE map delta: rev2.15 -> rev2.16
+- PATHFINDER prologue delta: rev2.15 -> rev2.16
+
+LANDING RESOLUTION
+- keep TIDEFIRE as rev2.15 -> rev2.16
+- reissue PATHFINDER as rev2.16 -> rev2.17
+- retire the colliding PATHFINDER rev2.16 path
+- subsequent timeline work should build from rev2.17 unless a later merged projection
+  explicitly supersedes it
+
+ARTIFACT PRESERVATION CHECK
+PASS WITH CONNECTOR TRANSPORT WORKAROUND.
+The corrected local KMZ is 63,614 bytes with SHA-256:
+18acfae12d78923615cc750574df1e5c87cf3a97245b57ac750cc7b8b91ca029
+
+The first direct GitHub binary-write attempt was detected as truncated and was deleted
+before PR review. The repository therefore does not retain the corrupt binary.
+
+The exact corrected KMZ is preserved instead as checksum-backed Base64 text segments at:
+dev_src_docs/worldbuilding/geography/
+PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1_kmz_parts/
+
+The package README defines deterministic reconstruction into the ordinary corrected KMZ.
+This split representation is a connector transport workaround only; the normal KML/KMZ
+remains the intended GIS handoff artifact and the feature inventory/ontology are usable
+without reconstruction.
+
+OPEN MAP-HYGIENE FLAGS
+- 39 unnamed placemarks
+- one explicit "Untitled placemark"
+- duplicate generic blockade-area label
+- two Russian Naval Blockade of Alaska polygons
+- Alaska dateline-wrap coordinates outside the normal -180..180 longitude interval
+- no TimeStamp/TimeSpan metadata
+
+These are documented rather than silently repaired because they may represent intentional
+layering or require source-owner adjudication / dateline-aware geometry handling.
+
+LANDING VERDICT
+READY TO LAND.
+
+The corrected map is suitable as the current additive world-events geography source after
+the Seattle repair. Its geometry should be consumed through the corrected KML/KMZ artifact,
+normalized inventory, and PW-GEO registry, with narrative source pages retaining authority
+over event meaning.

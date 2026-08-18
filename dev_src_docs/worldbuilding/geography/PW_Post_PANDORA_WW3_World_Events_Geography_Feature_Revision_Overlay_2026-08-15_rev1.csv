@@ -1,0 +1,4 @@
+feature_id,placemark_ordinal,current_name,current_geometry_type,current_vertex_count,revision_type,note
+PW-GEO-AREA-CONTROLLED-BY-THE-VOLUNTEER-CORPS-OF-MAINE,35,Area Controlled by the Volunteer Corps of Maine,Polygon,82,topology_repair,Removed microscopic self-intersection loop only; territorial footprint intent preserved.
+PW-GEO-ENEMY-BOMBING-OF-THE-USS-NEBRASKA-DOCKED-INSIDE-THE-MAIN-SUBMARI,74,Enemy bombing of the USS Wyoming docked inside the main submarine pen,Point,1,source_label_supersession_pending_semantic_confirmation,Current owner KML label is USS Wyoming; stable PW-GEO identity retained so downstream references do not break.
+PW-GEO-TERRITORY-HELD-BY-SC-STATE-DEFENSE-FORCE-S-AND-LOCAL-VOLUNTEER-M,127,Territory held by SC State Defense Force's and local volunteer militia elements,Polygon,99,topology_repair,Removed two microscopic self-intersection loops only; territorial footprint intent preserved.

@@ -1,0 +1,182 @@
+PROJECT WARRIORS — DENIS NIKOLAEVICH MALININ / SAKHALIN
+Generated: 2026-08-14
+Version: rev2
+Status: WORKING CHARACTER SOURCE / DEVELOPMENT FRONT-RUNNER
+Campaign: Project Warriors: The Storm
+Supersedes: PW_Denis_Malinin_Sakhalin_Character_Profile_2026-07-21_rev1.txt
+
+IDENTITY
+- Full name: Denis Nikolaevich Malinin.
+- Callsign: SAKHALIN.
+- Nationality: Russian.
+- Birthplace: Sovetskaya Gavan, Khabarovsk Krai.
+- Regional lane: Sovetskaya Gavan / Vanino coastal corridor.
+- Age: 39 in the 2028 development frame.
+- Younger sister: confirmed; details open.
+- Alignment in the main Storm campaign: Procella.
+- Narrative role: playable protagonist.
+
+CORE CONCEPT
+A Russian Far East littoral field operator whose background combines genuine
+maritime reconnaissance/combat-diver competence with years inside the region's
+failing technical and logistical skeleton. He can move people along freezing
+shorelines, revive a dead relay for one more transmission window, identify
+falsified weather systems, and fight when the route collapses.
+
+BACKGROUND SHAPE
+Denis is formed by distance, severe weather, maritime dependence, neglected
+infrastructure, and the habit of solving practical problems without expecting
+institutional rescue.
+
+His former service gives him coastal insertion/extraction, combat-diver and
+small-team reconnaissance discipline, cold-water movement, observation,
+navigation, and demolition familiarity. SHADOW OF WAR establishes that by the
+night of September 6, 2028 he holds the rank of Senior Sergeant and serves as a
+highly competent Russian combat-diver / maritime-special-operations professional
+inside a seven-man military-intelligence sabotage team tasked under GRU/GU
+command. The 8th Directorate is the intended mission-tasking lane; his exact
+permanent parent-unit designation remains open pending final Russian
+organizational/nomenclature review.
+
+His later work in remote facilities, salvage, weather/navigation support,
+generators, batteries, relays, and shipping support gives him the systems
+literacy that distinguishes him from a generic operator. Do not backfill all of
+his later infrastructure competence into his military career.
+
+FAMILY TEXTURE
+- Father-direction: Nikolai Malinin, port electrician/maintenance/shipyard-adjacent
+  electrical hand.
+- Mother-direction: Yelena Malinina, school/medical/municipal continuity worker.
+- These parental occupations remain working directions rather than hard locks.
+- The family culture is practical endurance: fixing what can be fixed, distrusting
+  readiness theater, avoiding foolish risk, and continuing anyway.
+
+BREAK WITH THE REGIME — REVISED CONTROL
+Denis does NOT break with the Russian system during SHADOW OF WAR.
+
+The break is cumulative and substantially post-WWIII. Denis has spent many years
+serving the system and was very good at serving it. The fracture comes when the
+promised prosperity, national renewal, security, and rewards of victory fail to
+materialize after the war, while ordinary Russians instead live with deprivation,
+coercion, and increasingly naked totalitarian repression by the same power he
+served.
+
+His eventual conclusion is therefore not a sudden battlefield conversion and not
+a secret lifelong dissident reveal. It is the long-term recognition that helping
+the system function means choosing what that system does to his own people.
+
+The exact incident or final personal threshold that turns cumulative fracture into
+active break/Procella alignment remains open. Later writing should preserve the
+shape above even if a specific incident is selected.
+
+SHADOW OF WAR CHARACTER RULE
+At Kings Bay Denis is professionally committed, restrained, and focused. He does
+not deliver anti-regime commentary, sympathize theatrically with the Americans,
+or foreshadow his eventual break through obvious moral speeches. Showing that he
+was once an effective servant of the system is necessary to give his later break
+weight.
+
+PROCELLA FUNCTION
+- validate coastal routes
+- prepare pickup and landing sites
+- escort defectors/refugees from inland handoff to shoreline extraction
+- restore temporary power and communications
+- recover batteries, fuel, and parts
+- corrupt or spoof weather/navigation data
+- sabotage logistics/surveillance precisely
+- decide when an extraction is still viable and when it has become a kill box
+
+PERSONALITY
+- quiet, concrete, restrained, observant
+- difficult to impress
+- protective through competence
+- not emotionally blank; contained
+- intolerant of preventable waste
+- not an ideological speech engine, glamorous assassin, or generic edgelord
+
+Voice rule:
+A Denis line should identify what failed, identify what still works, cut away
+illusion, or state the next move.
+
+Representative register:
+- “That station was killed by a liar, not by weather.”
+- “Route's still usable. Window isn't.”
+- “Take the battery. Leave the casing.”
+- “No heroics. Boats sink the same either way.”
+- “We don't need a miracle. We need ten quiet minutes.”
+
+SHADOW OF WAR register:
+After the mission-kill charges are initiated, Denis does not celebrate. His
+English intent line is:
+“We've done our work. Time is short. Let's move.”
+
+Working Russian line, pending native-language review:
+“Мы своё сделали. Времени мало. Уходим.”
+
+LANGUAGE RULE
+SHADOW OF WAR team dialogue is canonically performed in Russian with subtitles
+for localized releases. The Russian performance must be written/finalized with
+native-language and, where practical, military-language consultation so Russian
+operators receive the same professional depth and internal cultural weight as
+American and allied elite military characters elsewhere in the series.
+
+VISUAL LANE — MAIN STORM
+- lean, durable, compactly strong
+- ash-brown short practical hair
+- rough stubble/short beard
+- grey-blue or steel-blue eyes
+- weathered light skin and rough working hands
+- dark maritime workwear and technical outerwear
+- muted charcoal/slate/olive-grey palette
+- low-profile field load; tools and comms visible alongside ammunition
+- no glossy PMC styling, cyberpunk resistance aesthetic, or operator cosplay
+
+VISUAL LANE — SHADOW OF WAR FLASHBACK
+The flashback uses specialized Russian combat-diver equipment rather than the
+later Procella field silhouette:
+- black/dark maritime diving suit;
+- combat-diver breathing/rebreather apparatus and hose routing;
+- full-face/appropriate diving mask and underwater communications;
+- compact specialist load-bearing equipment;
+- fins, swimmer equipment, waterproof mission pouches/bags;
+- Russian/Cyrillic labels and equipment markings where appropriate;
+- practiced first-person breathing-system/gauge/navigation checks;
+- no Western-SOF clone styling or theatrical villain coding.
+
+SHADOW OF WAR WORKING WEAPON LOADOUT
+Standard carried capacity remains one primary, one secondary, one sidearm.
+- Primary: ADS amphibious rifle.
+- Secondary: suppressed SR-3M.
+- Sidearm: suppressed SR-1MP.
+
+The exact later Storm signature build remains DEAD RECKONING / AK-105 and is not
+superseded by this historical flashback loadout.
+
+ALBATROSS DYNAMIC
+Albatross is strategist, trust broker, route architect, and pattern reader.
+Denis is field executor, route mechanic, extraction lead, and sabotage hand.
+
+Rule:
+Albatross sees the map. Denis walks the route.
+
+COLD FRONTIER BOUNDARY
+Denis may later encounter Kostropov/Parhelion-53 institutional residue through
+Procella. He does not know or own Frost's personal Cold Frontier 07 history.
+
+OPEN
+- exact permanent pre-Procella service designation / parent unit
+- exact final break incident or threshold
+- sister's name and adult circumstances
+- exact parents' occupations
+- exact chronology of post-service technical/logistics employment
+- final native-Russian SHADOW OF WAR dialogue pass
+- final Russian combat-diver gear model selection
+- whether SAKHALIN was already used as a callsign during the 2028 flashback
+- final main-campaign visual reference rendering
+
+SOURCE
+- Project_Warriors_The_Storm_Thread_Transcript_2026-07-21.txt
+- PW_SHADOW_OF_WAR_Mission_Source_2026-08-14_rev1.txt
+- 2026-08-14 narrative-development thread / owner locks
+
+END

@@ -1,0 +1,82 @@
+feature_id,placemark_ordinal,name,geometry_type,feature_role,vertex_count,source_stage
+PW-GEO-UNNAMED-D8CBEBDFBE,175,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-BATTLE-OF-SPOKANE,176,Battle of Spokane,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-ENEMY-OCCUPATION-OF-SPOKANE,177,Enemy Occupation of Spokane,Polygon,territorial_control_or_denial_area,10,new_owner_map_update_2026-08-17
+PW-GEO-RUSSIAN-EASTWARD-PACIFIC-CAMPAIGN-NORTHERN-MOVEMENT,178,Russian Eastward Pacific Campaign Northern movement,LineString,operational_movement_corridor,30,new_owner_map_update_2026-08-17
+PW-GEO-ENEMY-OCCUPATION-OF-MISSOULA,179,Enemy occupation of Missoula,Polygon,territorial_control_or_denial_area,9,new_owner_map_update_2026-08-17
+PW-GEO-ENEMY-PACIFIC-NORTHWEST-CAMPAIGN-SOUTHEASTERN-ADVANCE,180,Enemy Pacific Northwest Campaign Southeastern Advance,LineString,operational_movement_corridor,23,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-4CA9F8445D,181,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-BATTLE-OF-SALT-LAKE-CITY,182,Battle of Salt Lake City,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-ALLIED-CANDDIAN-FORCES-MONTAND-INTERVENTION-CAMPAIGN,183,Allied Canadian Forces Montana Intervention Campaign,LineString,operational_movement_corridor,16,new_owner_map_update_2026-08-17
+PW-GEO-COLORADO-US-MILITARY-ELEMENTS-BILLINGS-MOVEMENT,184,Colorado US military elements Billings Movement,LineString,operational_movement_corridor,8,new_owner_map_update_2026-08-17
+PW-GEO-BATTLE-OF-BILLINGS,185,Battle of Billings,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-CANDDIAN-ALLIED-FORCES-CUT-OFF-RUSSIAN-RETREAT-AT-BUTTE,186,Canadian allied forces cut off Russian retra at Butte,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-RUSSIAN-SOUTHERN-RETREAT,187,Russian Southern retreat,LineString,operational_movement_corridor,15,new_owner_map_update_2026-08-17
+PW-GEO-SLC-AND-SOUTHERN-CALIFORNIA-US-ELEMENTS-POCATELLO-INTERCEPTION-M,188,SLC and Southern California US elements Pocatello Interception movement,LineString,operational_movement_corridor,8,new_owner_map_update_2026-08-17
+PW-GEO-DEFEATED-RUSSIAN-FORCES-RETREATING-FROM-SLC-PUSHED-BY-US-ELEMENT,189,"Defeated Russian forces retreating from SLC, pushed by US elements",LineString,operational_movement_corridor,5,new_owner_map_update_2026-08-17
+PW-GEO-BATTLE-OF-POCATELLO,190,Battle of Pocatello,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-COLD-CREEK-ISLAND-US-POW-CAMP,191,Cold Creek Island US POW Camp,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-B29E5DA0D3,192,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-CAMP-KILGORE-US-POW-CAMP-AT-ELK-POINT-MT,193,"Camp Kilgore US POW Camp at Elk Point, MT",Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-CANDDIAN-LIBERATION-OF-BOZEMAN,194,Canadian liberation of Bozeman,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-ENEMY-OCCUPATION-OF-BOZEMAN-MT,195,"Enemy occupation of Bozeman, MT",Polygon,territorial_control_or_denial_area,7,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-5F2C5D3E02,196,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-DA3C66F54E,197,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-9465DD3786,198,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-IRANIAN-BOMBARDMENT-AND-FAILED-TAKEOVER-OF-VANDENBERG-SFB,199,Iranian bombardment and failed takeover of Vanderberg SFB,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-UNHMNA-HUMANITARIAN-AID-TEXAS-MEXICO-LAND-SUPPLY-CORRIDOR,200,UNHMNA Humanitarian Aid Texas-Mexico land supply corridor,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-DEMILITARIZATION-OF-ALASKA,201,Demilitarization of Alaska,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-MONTERREY,202,Monterrey,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-5796D4788C,203,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-1CCF8A33A3,204,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-2D1D8DED25,205,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-D1842AFBF9,206,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-SIGNING-OF-THE-TREATY-OF-MONTERREY,207,Signing of the treaty of Monterrey,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-22A989D34C,208,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-CANADIAN-FORCES-OPERATION-BUFFALO-TRAIL,209,Canadian Foeces Operation Buffalo Trail,LineString,operational_movement_corridor,21,new_owner_map_update_2026-08-17
+PW-GEO-DETROIT-GORDIE-HOWE-INTERNATIONAL-BRIDGE-BORDER-CROSSING,210,Detroit Gordie Howe Internstion Bridge Border Crossing,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-SARNIA-BLUE-WATER-BRIDGE-BORDER-CROSSING,211,Sarnia Blue Water Bridge Border Crossing,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-CANDDIAN-FORCES-ALLIED-CENTRAL-MICHIGAN-AND-DETROIT-LIBERATION,212,Canadian forces allied Central Michigan and Detroit liberation,LineString,operational_movement_corridor,35,new_owner_map_update_2026-08-17
+PW-GEO-ALLIED-CANDDIAN-DETROIT-RIVER-CROSSING-MOVEMENT,213,Allied Canadian Detroit River crossing movement,LineString,operational_movement_corridor,5,new_owner_map_update_2026-08-17
+PW-GEO-CANADIAN-INCURSION-INTO-SEATTLE,214,Canadian incursion into Seattle,LineString,operational_movement_corridor,11,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-52F110D6A1,215,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-17413A4E96,216,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNNAMED-B26BED8B67,217,,Point,point_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-THE-ROUTE-610-BRIDGE-ACROSS-THE-MISSISSIPPI-BY-RU,218,destruction of the Route 610 bridge across the Mississippi by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-THE-ROUTE-94-BRIDGE-ACROSS-THE-MISSISSIPPI-BY-RUS,219,destruction of the route 94 bridge across the Mississippi by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-FRANKLIN-AVE-BRIDGE-BY-RUSSIAN-FORCES,220,destruction of Franklin Ave. bridge by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-THE-HENNEPIN-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,221,destruction of the Hennepin avenue bridge by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-LOWRY-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,222,destruction of Lowry avenue bridge by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-N-42ND-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,223,destruction of N 42nd Avenue bridge by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-I-35W-ST-ANTHONY-FALLS-BRIDGE-RUSSIAN-CONTROLLED-CHOKEPOINT,224,I-35W St. Anthony Falls Bridge — Russian-controlled chokepoint,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-THE-MARSHALL-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,225,Destruction of the Marshall Avenue bridge by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-STRATEGIC-RAIL-AND-ROAD-MISSISSIPPI-CROSSING-CHOKEPOINT,226,strategic rail and road Mississippi crossing chokepoint,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-PLYMOUTH-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,227,destruction of Plymouth avenue bridge by Russian Forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-BROADWAY-ST-BRIDGE-CHOKEPOINT-CONTROLLED-BY-ENEMY-FORCES,228,Broadway St. Bridge chokepoint controlled by enemy forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-ROUTE-535-BRIDGE-BY-RUSSIAN-FORCES,229,destruction of route 535 bridge by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-FAILED-DESTRUCTION-OF-THE-GORDIE-HOWE-BRIDGE-BY-RUSSIAN-FORCES,230,failed destruction of the Gordie Howe bridge by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-SABOTAGE-AND-FLOODING-OF-THE-DETROIT-WINDSOR-TUNNEL-BY-RUSSIAN-F,231,Sabotage and Flooding of the Detroit - Windsor tunnel by Russian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-DAWN-OF-MERCY-HOSPITAL-SHIP-INCIDENT,232,Dawn of Mercy hospital ship incident,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-OREGON-ARMY-NATIONAL-GUARD-AND-OREGON-CIVIL-DEFENSE-FORCE-ELEMEN,233,Oregon Army National Guard ana Oregon Civil Defense Force elements set up an ambush and successfully cut off the Russian southward advance into California,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-LOS-ANGELES-INTERNATIONAL-AIRPORT,234,Los Angeles International Airport,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-JOINT-RUSSIAN-AND-DPRK-AIRBORNE-ASSAULT-ON-LAX,235,joint Russian Nad DPRK airborne assault on LAX,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-ROMEO-DELTA-AND-OTHER-US-ARMY-ELEMENTS-VENTURA-TO-CORONADO-MOVEM,236,"Romeo, Delta and other US army elements Ventura to Coronado Movement",LineString,operational_movement_corridor,121,new_owner_map_update_2026-08-17
+PW-GEO-LONG-BEACH-AIRPORT,237,Long Beach Airport,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-K-LOUNGE-FICTIONAL-LOCATION,238,K Lounge (Fictional Location),Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-HOLLYWOOD-BURBANK-AIRPORT,239,Hollywood Burbank Airport,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-DESTRUCTION-OF-HOLLYWOOD-BURBANK-AIRPORT-BY-A-DPRK-MISSILE-BOMBA,240,Destruction of Hollywood Burbank Airport by a DPRK missile bombardment,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-ROMEO-AND-DELTA-ARE-INSERTED-FROM-A-SURFACED-USS-DISTRICT-OF-COL,241,Romeo and Delta are inserted from a surfaced USS District of Columbia,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-EDWARDS-AIR-FORCE-BASE,242,Edwards Air Force Base,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-TONOPAH,243,Tonopah,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-CLASSIFIED-SITES-CIA-USAF-SECURITY-AREA,244,area Secured by CIA and authorized US Air force personnel,Polygon,territorial_control_or_denial_area,9,new_owner_map_update_2026-08-17
+PW-GEO-WESTERN-COUNTEROFFENSIVE-CALIFORNIA-TO-SOUTHERN-OREGON,245,Western Counteroffensive — California to Southern Oregon,LineString,operational_movement_corridor,30,new_owner_map_update_2026-08-17
+PW-GEO-PORTLAND-AND-SEATTLE-CAMPAIGN,246,Portland and Seattle campaign,LineString,operational_movement_corridor,14,new_owner_map_update_2026-08-17
+PW-GEO-LIBERATION-OF-PORTLAND-BY-US-FORCES,247,Liberation of Portland by US forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-INTERIOR-WESTERN-COUNTEROFFENSIVE-BILLINGS-TO-SEATTLE,248,Interior Western Counteroffensive — Billings to Seattle,LineString,operational_movement_corridor,14,new_owner_map_update_2026-08-17
+PW-GEO-YAKIMA-CAMPAIGN,249,Yakima Campaign,LineString,operational_movement_corridor,16,new_owner_map_update_2026-08-17
+PW-GEO-LIBERATION-OF-YAKIMA-BY-US-AND-CANDDIAN-FORCES,250,liberation of Yakima by US and Canadian forces,Point,event_anchor,1,new_owner_map_update_2026-08-17
+PW-GEO-YAKIMA-CAMPAIGN-US-FORCES-JOIN-WESTERN-CAMPAIGN-PUSH-SOUTH-OF-EL,251,Yakima campaign us forces join western campaign push south of Ellensbug,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-15-WING-MOOSE-JAW-CANDDIAN-FORCES-BASE,252,15 Wing Moose Jaw - Canadian Forces Base,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-BISMARCK-AIRPORT,253,Bismarck Airport,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-RAPID-CITY-REGIONAL-AIRPORT,254,Rapid City Regional Airport,Point,location_reference,1,new_owner_map_update_2026-08-17
+PW-GEO-UNHMNA-HUMANITARIAN-AID-SUPPLY-AIR-CORRIDOR,255,UNHMNA Humanitarian Aid supply Air corridor,LineString,humanitarian_corridor,3,new_owner_map_update_2026-08-17

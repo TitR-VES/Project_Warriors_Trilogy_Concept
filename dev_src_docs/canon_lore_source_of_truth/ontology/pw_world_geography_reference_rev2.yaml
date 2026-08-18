@@ -1,0 +1,104 @@
+meta:
+  generated: '2026-08-17'
+  revision: rev2
+  status: current_additive_world_geography_projection
+  source_authority: Narrative source pages control story meaning. Detailed geometry is recoverable byte-for-byte from the repository-preserved KML reconstruction package; stable feature identity is composite across the 133-feature base plus 41-feature and 81-feature extensions.
+source_map:
+  repository_preservation_manifest: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-17_rev5_kml_parts/README.txt
+  handoff_kml_name: PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-17_rev5.kml
+  repository_geometry_status: exact KML bytes preserved as compressed Base64 reconstruction parts; manifest reconstruction is byte-identical
+  sha256: 0539b7e133c9968744afd3ce3af1bacf91043d75345ca9a62306d00bcc7527d8
+  format: KML 2.2
+  placemark_count: 255
+  point_count: 165
+  polygon_count: 40
+  linestring_count: 49
+  other_geometry_count: 1
+  named_placemark_count: 195
+  unnamed_placemark_count: 60
+  valid_polygon_count: 40
+  simple_linestring_count: 48
+  intentional_non_simple_linestring_count: 1
+  intentional_non_simple_linestring:
+    name: Romeo, Delta and other US army elements Ventura to Coronado Movement
+    note: Owner-confirmed short Long Beach backtrack; do not auto-repair.
+feature_index:
+  base_path: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_2026-08-14_rev1.csv
+  base_feature_count: 133
+  extension_paths:
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_Extension_2026-08-15_rev1.csv
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_Extension_2026-08-17_rev2.csv
+  extension_feature_count: 122
+  revision_overlay: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Feature_Revision_Overlay_2026-08-17_rev2.csv
+  combined_feature_count: 255
+  id_column: feature_id
+  placemark_ordinal_column: placemark_ordinal
+  rule: The first 174 PW-GEO identities remain stable; ordinals 175-255 receive additive identities. Intermediate deleted/accidental features receive no durable IDs.
+chronology_projection:
+  registry: dev_src_docs/canon_lore_source_of_truth/ontology/pw_world_geography_chronology_rev2.yaml
+  schema: dev_src_docs/canon_lore_source_of_truth/ontology/schema/pw_world_geography_chronology.schema.yaml
+  base_feature_overlay: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv
+  extension_feature_overlays:
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_Extension_2026-08-15_rev1.csv
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_Extension_2026-08-17_rev2.csv
+  kml_anchor_overlay: dev_src_docs/worldbuilding/geography/PW_World_Events_Canon_Chronology_Anchors_2026-08-17_rev2.kml
+  exact_semantic_calendar_anchor_count: 9
+  relative_or_anchor_bound_spatial_features: 95
+  unresolved_spatial_feature_dates: 160
+  direct_time_primitives_on_source_map_features: 0
+highlighted_cross_references:
+  - feature_id: PW-GEO-DEMILITARIZATION-OF-ALASKA
+    placemark_ordinal: 201
+    name: Demilitarization of Alaska
+    repo_cross_reference: Treaty of Monterrey / postwar restoration chronology
+  - feature_id: PW-GEO-SIGNING-OF-THE-TREATY-OF-MONTERREY
+    placemark_ordinal: 207
+    name: Signing of the treaty of Monterrey
+    repo_cross_reference: Monterrey Conference April 13-17 2030; signature day still open
+  - feature_id: PW-GEO-CANADIAN-FORCES-OPERATION-BUFFALO-TRAIL
+    placemark_ordinal: 209
+    name: Canadian Foeces Operation Buffalo Trail
+    repo_cross_reference: Canadian military corridor opening / later UNHMNA Midwest land aid
+  - feature_id: PW-GEO-CANADIAN-INCURSION-INTO-SEATTLE
+    placemark_ordinal: 214
+    name: Canadian incursion into Seattle
+    repo_cross_reference: Northwestern Counteroffensive / Second Battle of Seattle
+  - feature_id: PW-GEO-I-35W-ST-ANTHONY-FALLS-BRIDGE-RUSSIAN-CONTROLLED-CHOKEPOINT
+    placemark_ordinal: 224
+    name: I-35W St. Anthony Falls Bridge — Russian-controlled chokepoint
+    repo_cross_reference: late-occupation Russian bridge-denial operation
+  - feature_id: PW-GEO-DAWN-OF-MERCY-HOSPITAL-SHIP-INCIDENT
+    placemark_ordinal: 232
+    name: Dawn of Mercy hospital ship incident
+    repo_cross_reference: Spook Game 3 DARK SKIES Mission 01 / Act I BAD OMENS
+  - feature_id: PW-GEO-CLASSIFIED-SITES-CIA-USAF-SECURITY-AREA
+    placemark_ordinal: 244
+    name: area Secured by CIA and authorized US Air force personnel
+    repo_cross_reference: tightened southern Nevada classified-site/test-range security area
+  - feature_id: PW-GEO-WESTERN-COUNTEROFFENSIVE-CALIFORNIA-TO-SOUTHERN-OREGON
+    placemark_ordinal: 245
+    name: Western Counteroffensive — California to Southern Oregon
+    repo_cross_reference: Northwestern Counteroffensive coastal/southern axis
+  - feature_id: PW-GEO-INTERIOR-WESTERN-COUNTEROFFENSIVE-BILLINGS-TO-SEATTLE
+    placemark_ordinal: 248
+    name: Interior Western Counteroffensive — Billings to Seattle
+    repo_cross_reference: Northwestern Counteroffensive interior axis
+  - feature_id: PW-GEO-UNHMNA-HUMANITARIAN-AID-SUPPLY-AIR-CORRIDOR
+    placemark_ordinal: 255
+    name: UNHMNA Humanitarian Aid supply Air corridor
+    repo_cross_reference: later UNHMNA Canadian-origin air relief into North/South Dakota
+governance:
+  - Do not infer chronology from map order.
+  - Do not convert every territorial polygon into a timeline event.
+  - A map-originated label is valid at map-reference level but missing dates, order of battle, and playability remain open unless separately sourced.
+  - Calendar anchors may contextualize a PW-GEO feature without becoming that feature's own onset date.
+  - Geometry-only repair or tightening does not authorize unrelated narrative reinterpretation.
+  - The intentional Ventura-to-Coronado Long Beach backtrack must not be auto-simplified.
+  - USS Wyoming is canonical; the legacy Nebraska-bearing PW-GEO key is technical identity only.
+open_hygiene_flags:
+  - 60 unnamed placemarks
+  - one geometry-less Untitled slide
+  - Alaska dateline-wrap normalization remains open
+  - typo-prone owner labels remain for a later dedicated label-cleanup pass
+  - one unlabeled Calgary-area point remains semantically unclear
+  - UNHMNA air-corridor geometry is schematic and not snapped exactly to all airport/base point markers

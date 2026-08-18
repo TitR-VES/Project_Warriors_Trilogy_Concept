@@ -1,9 +1,10 @@
 meta:
-  delta_id: PW-ONT-AMERICAN-FREEDOM-POST-CORONADO-PROLOGUE-2026-07-31-REV1
-  generated: '2026-07-31'
+  delta_id: PW-ONT-AMERICAN-FREEDOM-POST-CORONADO-PROLOGUE-2026-08-14-REV2
+  generated: '2026-08-14'
+  supersedes_collision_path: pw_american_freedom_post_coronado_prologue_rev2_16.delta.yaml
   narrative_structure_applies_to: pw_narrative_structure_rev2.yaml
-  timeline_applies_to: pw_world_event_timeline_rev2_15.yaml
-  timeline_produces: pw_world_event_timeline_rev2_16.yaml
+  timeline_applies_to: pw_world_event_timeline_rev2_16.yaml
+  timeline_produces: pw_world_event_timeline_rev2_17.yaml
   status: locked_pathfinder_title_post_coronado_tasking_and_parallel_counteroffensive_bridge
   chronology_changes: true
   sources:

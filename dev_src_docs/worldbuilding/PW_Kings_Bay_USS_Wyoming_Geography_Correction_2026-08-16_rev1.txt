@@ -1,0 +1,29 @@
+PROJECT WARRIORS — KINGS BAY SUBMARINE GEOGRAPHY CORRECTION
+Generated: 2026-08-16
+Version: rev1
+Status: OWNER-LOCKED CANON CORRECTION
+
+PURPOSE
+Resolve the remaining submarine-identity discrepancy in the world-events geography projection.
+
+CANON LOCK
+- USS Wyoming is the correct submarine for the Kings Bay geography / SHADOW OF WAR continuity.
+- The older USS Nebraska reference is superseded and must not control future geography, mission, timeline, or narrative work.
+- Owner rationale: USS Nebraska is not stationed at Kings Bay; the map change to USS Wyoming was intentional.
+
+GEOGRAPHY EFFECT
+The current 174-feature corrected KML label at ordinal 74 naming USS Wyoming is correct and requires no rollback.
+
+IDENTITY-MIGRATION NOTE
+The original 133-feature inventory generated a stable PW-GEO identifier whose slug contains USS-NEBRASKA because that identifier was derived from the then-current placemark label. That legacy slug is now a historical machine-identity artifact only; it is not narrative authority and must not be read as preserving Nebraska canon.
+
+Future full inventory regeneration should either:
+1. issue a canonical Wyoming feature ID with an explicit supersedes/alias pointer to the legacy Nebraska-slug ID; or
+2. retain the legacy ID solely as an immutable technical key while exposing USS Wyoming as the canonical display/semantic identity.
+
+Do not silently reinterpret the current map back to Nebraska.
+
+CROSS-WORKSPACE CONSISTENCY
+PR #77 / SHADOW OF WAR independently establishes USS Wyoming (SSBN-742) as the Kings Bay mission target, so the geography correction is aligned with the dedicated mission source rather than creating a conflicting branch-specific fact.
+
+END

@@ -1,0 +1,82 @@
+PROJECT WARRIORS — 174-FEATURE WORLD GEOGRAPHY UPDATE AUDIT
+Generated: 2026-08-15
+Version: rev1
+Status: PASS / READY FOR DRAFT-PR CONTINUATION
+
+SCOPE
+Validate the corrected owner KML and extend the existing PR #76 geography/chronology projection from 133 to 174 placemarks without renumbering the previously landed PW-GEO identity base.
+
+CURRENT SOURCE MAP
+Validated handoff artifact: PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-15_rev2.kml
+Repository preservation: deferred to next owner map update; SHA retained for integrity.
+SHA-256: 11470187f821fc54f55011627687fa543dcfc7fdd8a45d13df26c0ad11d4692e
+
+STRUCTURE
+PASS.
+- 174 placemarks
+- 105 Point
+- 36 Polygon
+- 32 LineString
+- 1 geometry-less/other placemark
+- 128 named
+- 46 unnamed
+
+TOPOLOGY
+PASS.
+All 36 Polygon geometries validate after geometry-only repair.
+
+Inherited topology repairs:
+- PW-GEO-AREA-CONTROLLED-BY-THE-VOLUNTEER-CORPS-OF-MAINE
+  old inventory vertex count 83 -> current 82
+  one microscopic malformed loop removed.
+- PW-GEO-TERRITORY-HELD-BY-SC-STATE-DEFENSE-FORCE-S-AND-LOCAL-VOLUNTEER-M
+  old inventory vertex count 101 -> current 99
+  two microscopic malformed loops removed.
+
+No narrative territorial reinterpretation was introduced by those repairs.
+
+CANADIAN NORTHEAST CORRECTIONS
+PASS.
+- CFB Valcartier is explicitly named as Canadian staging point.
+- Vermont liberation-axis entry marker uses Highgate Springs–St-Armand/Philipsburg.
+- Woodstock crossing remains available to the Maine liberation axis.
+- Canadian Maine/Vermont operations remain calendar-date open.
+
+CHRONOLOGY COVERAGE
+PASS.
+Composite coverage:
+- 133 base PW-GEO rows retained
+- 41 new PW-GEO extension rows
+- 174 total current placemarks
+- 40 relative/theater/event-bound features
+- 134 feature-date unresolved
+- 0 direct TimeStamp/TimeSpan on source-map placemarks
+- 0 invented exact calendar dates
+
+New relative locks preserved:
+- northeastern/eastbound strategic geography remains intergame/date-open where linked to Romeo;
+- overt British Boston landing is late Game 3;
+- ensuing Allied Northeast/Capital liberation push is post-Game 3;
+- formalized UNHMNA maritime corridors are shortly after Game 2;
+- Canadian Maine/Vermont liberation is owner-supplied but exact placement is not over-inferred.
+
+SOURCE-MAP TIME PRIMITIVES
+PASS.
+TimeStamp elements: 0
+TimeSpan elements: 0
+
+STABLE IDENTITY
+PASS WITH RECORDED LABEL FLAG.
+The previously merged 133-feature PW-GEO identity base is not renumbered.
+Current ordinal-74 KML label says USS Wyoming while the stable historical feature ID encodes USS Nebraska. The discrepancy is explicitly recorded rather than silently re-keyed.
+
+OPEN HYGIENE
+Non-blocking:
+- unnamed/untitled features remain;
+- UK naval-disruption label wording remains rough;
+- Alaska/dateline normalization remains pending;
+- Pacific Northwest Canadian-border continuity remains a future review item;
+- USS Nebraska/Wyoming semantic supersession awaits explicit confirmation.
+
+VERDICT
+READY to update draft PR #76 as the current 174-feature geography/chronology state.

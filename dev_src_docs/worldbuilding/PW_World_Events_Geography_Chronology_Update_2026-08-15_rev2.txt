@@ -1,0 +1,42 @@
+PROJECT WARRIORS — WORLD EVENTS GEOGRAPHY CHRONOLOGY UPDATE
+Generated: 2026-08-15
+Version: rev2 extension
+Status: SOURCE-READY PARTIAL AUTHORITATIVE CHRONOLOGY EXTENSION
+Relationship: extends the 2026-08-14 133-feature chronology baseline to the current 174-feature owner map.
+
+CURRENT COMPOSITE COUNTS
+- 174 source-map placemarks
+- 133 baseline chronology rows
+- 41 chronology-extension rows
+- 40 relative/theater/event-bound features total
+- 134 feature-date unresolved
+- 0 direct source-map TimeStamp/TimeSpan values
+- 5 unchanged exact day-level PW-TIME anchors
+- 0 invented dates
+
+NEW OWNER-SUPPLIED RELATIVE CHRONOLOGY
+
+1. EASTBOUND / NORTHEASTERN OFFENSIVE GEOGRAPHY
+The new strategic northeastern counteroffensive geography may contextualize the Game-2-to-Game-3 movement that leads Romeo toward Boston. The controlling Kentucky-to-Boston source still requires a meaningful inter-campaign interval and keeps exact dates open. The player only fully plays the final EASTBOUND leg.
+
+2. BRITISH BOSTON / NORTHEAST
+The owner places the overt British Boston landing/Battle-of-Boston layer in late Game 3. The ensuing Allied U.S./UK campaign to lift the blockade and liberate the Northeast toward Washington, DC continues post-Game 3.
+
+The earlier SAS/SBS covert phase remains earlier in the Boston campaign and the existing British-response sources remain controlling for force-progression logic.
+
+3. UNHMNA CORRIDORS
+The newly mapped UNHMNA maritime humanitarian corridors are formalized shortly after Game 2. This does not redefine the earlier existence/deployment of UNHMNA.
+
+The owner additionally locks that Gulf states receive no direct maritime UNHMNA corridor because of allied resource strain. Relief for the Gulf instead moves overland from Charleston and Miami receiving corridors.
+
+No exact activation date, duration, vessel schedule, or tonnage is inferred.
+
+4. CANADIAN NORTHEAST OPERATIONS
+Canadian liberation of Maine and Vermont and Canadian support to Maine local-defense forces are owner-supplied world lore. CFB Valcartier is the named staging point; Highgate Springs–St-Armand/Philipsburg and Woodstock are mapped border references.
+
+Exact calendar placement, unit order of battle, and formal command relationships remain open.
+
+5. TIME-PRIMITIVE RULE
+No new source-map TimeStamp or TimeSpan is added in this pass. Direct KML time primitives remain reserved for feature-specific dates/ranges that become source-locked.
+
+END

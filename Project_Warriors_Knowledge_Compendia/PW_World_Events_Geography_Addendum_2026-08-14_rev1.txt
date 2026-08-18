@@ -1,0 +1,59 @@
+PROJECT WARRIORS — WORLD EVENTS GEOGRAPHY ADDENDUM
+Generated: 2026-08-14
+Version: rev1
+Status: CURRENT GEOGRAPHY-REFERENCE ADDENDUM
+
+PURPOSE
+Provide a compact working-knowledge view of the new Post-PANDORA / World War III
+geographic-reference layer without replacing the corrected KML/KMZ or its dedicated
+source page.
+
+CURRENT MAP
+- 133 placemarks
+- 87 points
+- 35 polygons
+- 11 line strings
+- 94 named / 39 unnamed
+- corrected detailed geometry is preserved in the repository through:
+  dev_src_docs/worldbuilding/geography/
+  PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1_kmz_parts/
+- the six parts reconstruct the ordinary KMZ with SHA-256:
+  18acfae12d78923615cc750574df1e5c87cf3a97245b57ac750cc7b8b91ca029
+- controlling geography source page:
+  dev_src_docs/worldbuilding/PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-14_rev2.txt
+
+CORE USE RULE
+Narrative source pages control what events mean. The map controls the spatial reference
+that it actually labels/draws. The ontology geography registry projects stable PW-GEO-*
+identities without forcing every polygon or corridor into the timeline event graph.
+
+2026-08-14 DELTA
+1. Added a U.S. Army / 75th Ranger movement corridor reaching the AFC in Harlan County.
+2. The line's description associates that contact with Romeo's reunion with Dingo,
+   Beaver, and Howler.
+3. HIGH GROUND's conventional-force/AFC contact is therefore geographically narrowed
+   to Harlan County; exact ridge/garrison/tactical site remains open.
+4. Added Cumberland Gap tunnel west-portal reference and two unnamed supporting points
+   from overlaid missing-map data.
+5. Repaired the Pacific Northwestern Russian Occupation Zone around Seattle: Seattle,
+   Everett, Bellingham, and the northward corridor to the Canadian border now sit inside
+   one contiguous valid occupation polygon without the previous sliver/crossover defect.
+6. The Seattle change is geometry-only and does not create new force-strength, date,
+   mission, or liberation locks.
+
+WORLD-STATE MODEL
+Occupation, blockade, contested, state-defense, AFC, militia, and friendly-control
+polygons remain persistent geography/world-state layers. A persistent area is not
+automatically a discrete event.
+
+MAP-ORIGINATED CLAIMS
+Event/campaign labels that lack a dedicated narrative page remain valid map-level
+worldbuilding references but should not be expanded into dates, orders of battle,
+casualty figures, or playable missions without later source development.
+
+OPEN TECHNICAL FLAGS
+- 39 unnamed placemarks
+- duplicated generic blockade label
+- two separately drawn Russian Naval Blockade of Alaska polygons
+- dateline-wrap longitudes in the Alaska geometry
+- no map-authored timestamps

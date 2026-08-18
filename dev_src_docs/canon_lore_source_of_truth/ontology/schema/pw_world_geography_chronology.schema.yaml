@@ -1,0 +1,24 @@
+meta:
+  generated: '2026-08-15'
+  revision: rev1
+schema:
+  document: world_geography_chronology
+  top_level_required: [meta, exact_calendar_anchors, feature_overlay, kml_anchor_overlay, governance]
+  anchor_id_pattern: PW-TIME-{NAME}
+  chronology_status_values: [unresolved, relative_locked, relative_window_locked, theater_anchor_locked_feature_time_open, event_bound_date_open]
+  feature_overlay_fields:
+    base_path: {type: string, required: true}
+    base_feature_count: {type: integer, required: true}
+    extension_paths: {type: array_string, required: true}
+    extension_feature_count: {type: integer, required: true}
+    source_feature_count: {type: integer, required: true}
+    direct_spatial_time_primitives: {type: integer, required: true}
+    relative_or_anchor_bound_spatial_features: {type: integer, required: true}
+    unresolved_spatial_features: {type: integer, required: true}
+  validation_rules:
+    - Never derive an exact calendar date from relative ordering alone.
+    - Composite base plus extension chronology rows must cover every current PW-GEO feature exactly once.
+    - A theater-level anchor does not become the onset date of every spatial state inside that theater.
+    - Direct KML TimeStamp or TimeSpan on an existing PW-GEO feature requires source support for that feature's own temporal state.
+    - Superseded date variants must not be reintroduced.
+    - Relative chronology may reference stable event, campaign, track, or PW-TIME anchor identities without creating a calendar date.

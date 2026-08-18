@@ -1,0 +1,118 @@
+PROJECT WARRIORS — WORLD EVENTS GEOGRAPHY CHRONOLOGY UPDATE
+Generated: 2026-08-17
+Version: rev3
+Status: OWNER-LOCKED / SOURCE-READY CHRONOLOGY UPDATE
+
+PURPOSE
+Extend the world-events geography chronology projection from the 174-feature 2026-08-15 state to the current 255-feature 2026-08-17 map without inventing exact dates for still-relative campaign geography.
+
+AUTHORITY RULE
+Narrative source pages and explicit owner locks control story meaning and chronology. The KML controls mapped spatial claims. Map order, adjacency, and route shape do not create dates by themselves.
+
+A. POSTWAR TREATY / POLITICAL LOCKS
+
+1. MONTERREY CONFERENCE / TREATY OF MONTERREY
+- Russian leadership agrees to negotiate a withdrawal settlement with the Crodyn administration in Monterrey, Mexico.
+- The Monterrey Conference runs from April 13 through April 17, 2030.
+- The conference results in the Treaty of Monterrey and begins a phased Russian withdrawal from occupied U.S. territory.
+- The exact calendar day on which the treaty is formally signed within the April 13–17 conference window remains open.
+- Do not assign a single-day TimeStamp to the map's "Signing of the treaty of Monterrey" marker until the signature day is separately locked.
+
+2. FINAL RUSSIAN WITHDRAWAL / ALASKA
+- The phased Russian withdrawal continues until May 28, 2032.
+- On May 28, 2032, the final Russian forces leave Alaska.
+- This ends the Russian occupation of U.S. territory.
+- The same date marks the beginning of Alaska's treaty-mandated demilitarization.
+- Russian withdrawal and Alaska demilitarization are separate events/processes and must not be collapsed into one state.
+
+3. ALASKA DEMILITARIZATION
+- Treaty compliance requires the removal of virtually all U.S. Department of Defense forces from Alaska and closure/deactivation of active DoD military installations while an agreed U.S. Coast Guard presence may remain.
+- The process is strained and multi-year.
+- It is completed in early 2035.
+- "Early 2035" is intentionally coarse. Do not manufacture a day/month or a TimeSpan endpoint.
+
+4. 2032 U.S. PRESIDENTIAL ELECTION
+- The restoration-era U.S. presidential election is held Tuesday, November 2, 2032.
+- Democratic candidate Ainsley Taylor wins.
+- Ainsley Taylor is a man.
+- This refines the existing repo architecture in which a legitimate but disrupted successor election/administration emerges after the Crodyn era; it does not introduce a new character.
+
+5. FRAGMENTATION / EXILE CONTINUITY
+- The domestic unrest surrounding the demilitarization and post-occupation transition is part of the Fragmentation Years.
+- The Fragmentation Years later culminate in armed insurrection by the emergent New American Frontier (NAF).
+- U.S. federal power subsequently collapses.
+- The Taylor government goes into exile first in Calgary, Alberta, Canada, and later in Cheltenham, United Kingdom.
+- Exact dates for the Fragmentation Years bounds, NAF insurrection, federal collapse, and the Calgary-to-Cheltenham exile relocations remain open.
+
+B. WESTERN / NORTHWESTERN WAR SEQUENCE
+
+The new western map layer is relative-order canon, not day-level chronology.
+
+Safe sequence:
+- Russian forces expand eastward/inland from the Pacific Northwest through Spokane/Missoula and a southeastern axis toward Utah.
+- U.S. Southern California/Rockies elements reach Salt Lake City before the Russian force and win a decisive reversal there.
+- U.S. defenders retreating east from Spokane and Colorado/Front Range elements concentrate at Billings; Canadian intervention reinforces the wider Montana response.
+- The Russian inland push loses momentum at Billings.
+- Allied Canadian forces cut off retreating Russian elements around Butte.
+- Russian forces retreating from Butte and from the Salt Lake City defeat converge toward Pocatello.
+- The Battle of Pocatello produces an Allied/U.S. encirclement of surviving Russian elements.
+- Later, the Northwestern Counteroffensive develops into converging coastal and interior liberation pushes:
+  - Western Counteroffensive — California to Southern Oregon;
+  - Portland and Seattle campaign;
+  - Interior Western Counteroffensive — Billings to Seattle;
+  - Yakima campaign / Ellensburg convergence;
+  - Canadian incursion into Seattle from the north.
+- Exact battle dates and detailed order of battle remain open.
+
+The Oregon Army National Guard / Oregon Civil Defense Force ambush that cuts off the Russian southward advance into California belongs to the successful turn of this wider counteroffensive.
+
+C. LATE-OCCUPATION RUSSIAN BRIDGE-DENIAL OPERATION
+
+Owner lock:
+- The Russian bridge-sabotage / denial operation occurs after the Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned.
+- Russian commanders recognize that occupied territory east of the Mississippi may eventually face pressure from both east and west.
+- The operation destroys selected bridges and converts some surviving crossings into enemy-controlled chokepoints to reduce practical Allied entry/crossing options.
+- The operation is concentrated on major Midwest/Mississippi crossings and selected Canada-border access routes.
+- Individual demolition order and exact calendar dates remain open.
+
+I-35W ST. ANTHONY FALLS BRIDGE
+- The northbound carriageway is destroyed.
+- The other carriageway remains physically passable.
+- Russian forces control the eastern side/approach.
+- The surviving crossing therefore functions as an enemy-held chokepoint rather than a fully eliminated crossing.
+
+GORDIE HOWE / DETROIT-WINDSOR
+- Russian destruction of the Gordie Howe International Bridge fails, preserving an important Canadian/Allied entry route for the Detroit liberation phase.
+- The Detroit-Windsor Tunnel is separately sabotaged/flooded.
+
+D. DAWN OF MERCY
+
+- Dawn of Mercy is a UN hospital ship already established in earlier project continuity.
+- The current Seattle incident marker belongs to Spook Game 3.
+- DAWN OF MERCY is Mission 01 of the DARK SKIES campaign.
+- It is the opening mission of Act I: BAD OMENS.
+- BAD OMENS is an act title, not the mission title.
+- The incident involves Chinese-backed sabotage intended to trigger an approximately 1-kiloton explosion damaging Seattle harbor/supply infrastructure, terrorizing the population, and straining a post-occupation city.
+- Exact calendar date remains open.
+
+E. UNHMNA HUMANITARIAN NETWORK EXPANSION
+
+- UNHMNA predates the later formalized corridor network.
+- Existing maritime and land corridors remain part of the later expanded/formalized relief architecture.
+- Operation Buffalo Trail is a Canadian military movement/corridor that opens a Winnipeg–Emerson/Pembina–Midwest–Kansas City route later usable by UNHMNA humanitarian land aid; do not collapse the Canadian military role into the humanitarian function.
+- The current map additionally adds an UNHMNA humanitarian aid air corridor from Canada into underserved North Dakota and South Dakota.
+- Exact activation date and operational duration of the air corridor remain open.
+
+F. MAP / IDENTITY CORRECTION LOCKS
+
+- USS Wyoming is the correct Kings Bay submarine identity. USS Nebraska is superseded narrative text; any Nebraska-bearing PW-GEO slug is legacy technical identity only.
+- The accidental duplicate unnamed Monterrey marker from an intermediate map generation is removed and receives no durable ID.
+- The intentionally removed Long Meadow Lake bridge marker receives no durable ID.
+- The I-35W crossing is represented as a Russian-controlled chokepoint, not a fully destroyed bridge.
+- The Ventura-to-Coronado movement's short Long Beach backtrack is intentional and must not be "repaired" as a topology error.
+- The classified-sites CIA/authorized-USAF security polygon has been tightened around the southern Nevada classified-site/test-range cluster.
+- Current route names:
+  - Western Counteroffensive — California to Southern Oregon
+  - Interior Western Counteroffensive — Billings to Seattle
+
+END

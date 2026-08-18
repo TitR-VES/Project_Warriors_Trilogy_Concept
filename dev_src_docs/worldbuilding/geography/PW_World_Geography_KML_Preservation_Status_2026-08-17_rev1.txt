@@ -1,0 +1,45 @@
+PROJECT WARRIORS — WORLD GEOGRAPHY KML PRESERVATION STATUS
+Generated: 2026-08-17
+Version: rev1
+Status: CURRENT GOVERNANCE CORRECTION
+
+PURPOSE
+Correct repository-carrier wording in the 2026-08-17 world-geography landing where the source/ontology/audit package describes the rev5 KML as reconstructable from repository Base64 parts.
+
+CURRENT FACT
+The authoritative owner handoff KML for this revision is:
+PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-17_rev5.kml
+
+SHA-256:
+0539b7e133c9968744afd3ce3af1bacf91043d75345ca9a62306d00bcc7527d8
+
+Validated source state:
+- 255 placemarks
+- 165 Point
+- 49 LineString
+- 40 Polygon
+- 1 other/geometry-less placemark
+- 195 named / 60 unnamed
+- 40/40 polygons valid
+- 48/49 LineStrings simple
+- the sole non-simple route is the owner-confirmed intentional Ventura-to-Coronado Long Beach backtrack
+
+REPOSITORY CARRIER STATUS
+The reconstruction manifest is present, but the large Base64 payload parts are NOT landed in this PR revision. Therefore the repository must NOT currently be treated as containing a byte-reconstructable copy of the rev5 KML.
+
+For this PR revision, the exact KML remains an external owner handoff artifact identified by the SHA-256 above. The repository lands the derived stable feature inventory, revision overlay, chronology overlay, exact calendar-anchor sidecar, source page, ontology projection, audit, and working-knowledge addendum.
+
+SUPERSESSION RULE
+This status note supersedes only claims that the exact rev5 KML bytes are already preserved/reconstructable inside the repository in:
+- PW_Post_PANDORA_WW3_World_Events_Geography_Source_2026-08-17_rev4.txt
+- PW_World_Geography_README_rev2.md
+- pw_world_geography_reference_rev2.yaml
+- PW_World_Events_Geography_255_Feature_Update_Audit_2026-08-17_rev1.txt
+- PW_World_Events_Geography_Chronology_Addendum_2026-08-17_rev2.txt
+- the reconstruction README itself
+
+All feature counts, stable IDs, correction locks, chronology bindings, and SHA-256 references in those files remain valid unless separately superseded.
+
+Do not infer that missing repository payload bytes invalidate the owner KML or its derived ontology. They only mean the exact binary/text carrier must be supplied again from the owner handoff or landed through a later binary-capable repository path before repository-only reconstruction is possible.
+
+END

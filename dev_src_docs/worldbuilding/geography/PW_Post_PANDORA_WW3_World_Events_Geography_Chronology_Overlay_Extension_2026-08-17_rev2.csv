@@ -1,0 +1,82 @@
+feature_id,placemark_ordinal,chronology_status,temporal_binding_type,anchor_refs,relative_relation
+PW-GEO-UNNAMED-D8CBEBDFBE,175,unresolved,,,
+PW-GEO-BATTLE-OF-SPOKANE,176,event_bound_date_open,campaign_event,,Russian Pacific inland advance; before later Allied western counteroffensive
+PW-GEO-ENEMY-OCCUPATION-OF-SPOKANE,177,relative_locked,occupation_state,,after Battle of Spokane; before later liberation/counteroffensive
+PW-GEO-RUSSIAN-EASTWARD-PACIFIC-CAMPAIGN-NORTHERN-MOVEMENT,178,relative_locked,campaign_sequence,,Russian inland advance after Seattle/Spokane axis develops; before Billings/Pocatello reversals
+PW-GEO-ENEMY-OCCUPATION-OF-MISSOULA,179,relative_locked,campaign_sequence,,during Russian inland advance; before Allied Montana counteroffensive
+PW-GEO-ENEMY-PACIFIC-NORTHWEST-CAMPAIGN-SOUTHEASTERN-ADVANCE,180,relative_locked,campaign_sequence,,Russian southeastern Pacific Northwest advance; before Salt Lake City reversal
+PW-GEO-UNNAMED-4CA9F8445D,181,unresolved,,,
+PW-GEO-BATTLE-OF-SALT-LAKE-CITY,182,relative_locked,campaign_event,,after U.S. Southern California/Rockies movement reaches Salt Lake City; before Pocatello convergence
+PW-GEO-ALLIED-CANDDIAN-FORCES-MONTAND-INTERVENTION-CAMPAIGN,183,relative_locked,campaign_sequence,,Canadian Montana intervention during Allied response to Russian inland advance; contributes to Billings/Butte reversal
+PW-GEO-COLORADO-US-MILITARY-ELEMENTS-BILLINGS-MOVEMENT,184,relative_locked,campaign_sequence,,before Battle of Billings; Colorado/Front Range elements move northwest to reinforce defenders
+PW-GEO-BATTLE-OF-BILLINGS,185,relative_locked,campaign_event,,after Russian eastward push from Spokane; before Butte cutoff and Pocatello convergence
+PW-GEO-CANDDIAN-ALLIED-FORCES-CUT-OFF-RUSSIAN-RETREAT-AT-BUTTE,186,relative_locked,campaign_event,,after Battle of Billings; before Russian southern retreat to Pocatello
+PW-GEO-RUSSIAN-SOUTHERN-RETREAT,187,relative_locked,campaign_sequence,,after Butte cutoff; retreat south toward Pocatello
+PW-GEO-SLC-AND-SOUTHERN-CALIFORNIA-US-ELEMENTS-POCATELLO-INTERCEPTION-M,188,relative_locked,campaign_sequence,,after Battle of Salt Lake City and Allied western reversals; before Battle of Pocatello
+PW-GEO-DEFEATED-RUSSIAN-FORCES-RETREATING-FROM-SLC-PUSHED-BY-US-ELEMENT,189,relative_locked,campaign_sequence,,after Battle of Salt Lake City and Allied western reversals; before Battle of Pocatello
+PW-GEO-BATTLE-OF-POCATELLO,190,relative_locked,campaign_event,,after Salt Lake City/Billings/Butte reversals; before later Seattle liberation phase
+PW-GEO-COLD-CREEK-ISLAND-US-POW-CAMP,191,relative_locked,post_battle_detention_state,,"after liberation of Seattle, when Pocatello POWs are transferred west"
+PW-GEO-UNNAMED-B29E5DA0D3,192,unresolved,,,
+PW-GEO-CAMP-KILGORE-US-POW-CAMP-AT-ELK-POINT-MT,193,relative_locked,post_battle_detention_state,,after Battle of Pocatello; before transfer of POWs to Cold Creek after Seattle liberation
+PW-GEO-CANDDIAN-LIBERATION-OF-BOZEMAN,194,event_bound_date_open,campaign_event,,Allied Montana intervention / western counteroffensive sequence; occupation precedes liberation
+PW-GEO-ENEMY-OCCUPATION-OF-BOZEMAN-MT,195,event_bound_date_open,campaign_event,,Allied Montana intervention / western counteroffensive sequence; occupation precedes liberation
+PW-GEO-UNNAMED-5F2C5D3E02,196,unresolved,,,
+PW-GEO-UNNAMED-DA3C66F54E,197,unresolved,,,
+PW-GEO-UNNAMED-9465DD3786,198,unresolved,,,
+PW-GEO-IRANIAN-BOMBARDMENT-AND-FAILED-TAKEOVER-OF-VANDENBERG-SFB,199,event_bound_date_open,campaign_event,,during Iranian blockade/attack campaign against California
+PW-GEO-UNHMNA-HUMANITARIAN-AID-TEXAS-MEXICO-LAND-SUPPLY-CORRIDOR,200,relative_locked,humanitarian_corridor,,later UNHMNA humanitarian network; Mexico-to-El Paso land supply access
+PW-GEO-DEMILITARIZATION-OF-ALASKA,201,exact_start_coarse_end,postwar_treaty_process,PW-TIME-FINAL-RUSSIAN-WITHDRAWAL-ALASKA; PW-TIME-ALASKA-DEMILITARIZATION-BEGINS,begins 2032-05-28 after final Russian withdrawal; completed early 2035
+PW-GEO-MONTERREY,202,unresolved,,,
+PW-GEO-UNNAMED-5796D4788C,203,unresolved,,,
+PW-GEO-UNNAMED-1CCF8A33A3,204,unresolved,,,
+PW-GEO-UNNAMED-2D1D8DED25,205,unresolved,,,
+PW-GEO-UNNAMED-D1842AFBF9,206,unresolved,,,
+PW-GEO-SIGNING-OF-THE-TREATY-OF-MONTERREY,207,exact_window_context,diplomatic_event,PW-TIME-MONTERREY-CONFERENCE,Monterrey Conference runs 2030-04-13 through 2030-04-17; exact treaty-signature day within that window remains open
+PW-GEO-UNNAMED-22A989D34C,208,unresolved,,,
+PW-GEO-CANADIAN-FORCES-OPERATION-BUFFALO-TRAIL,209,relative_locked,humanitarian_corridor,,Canadian Operation Buffalo Trail establishes/opens Winnipeg–Emerson/Pembina–Midwest–Kansas City military corridor later used by UNHMNA land aid
+PW-GEO-DETROIT-GORDIE-HOWE-INTERNATIONAL-BRIDGE-BORDER-CROSSING,210,unresolved,,,
+PW-GEO-SARNIA-BLUE-WATER-BRIDGE-BORDER-CROSSING,211,unresolved,,,
+PW-GEO-CANDDIAN-FORCES-ALLIED-CENTRAL-MICHIGAN-AND-DETROIT-LIBERATION,212,event_bound_date_open,campaign_event,,Canadian/Allied Michigan–Detroit liberation phase
+PW-GEO-ALLIED-CANDDIAN-DETROIT-RIVER-CROSSING-MOVEMENT,213,event_bound_date_open,campaign_event,,Canadian/Allied Michigan–Detroit liberation phase
+PW-GEO-CANADIAN-INCURSION-INTO-SEATTLE,214,relative_locked,campaign_sequence,,during U.S./Allied Northwestern Counteroffensive and Second Battle of Seattle
+PW-GEO-UNNAMED-52F110D6A1,215,unresolved,,,
+PW-GEO-UNNAMED-17413A4E96,216,unresolved,,,
+PW-GEO-UNNAMED-B26BED8B67,217,unresolved,,,
+PW-GEO-DESTRUCTION-OF-THE-ROUTE-610-BRIDGE-ACROSS-THE-MISSISSIPPI-BY-RU,218,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DESTRUCTION-OF-THE-ROUTE-94-BRIDGE-ACROSS-THE-MISSISSIPPI-BY-RUS,219,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DESTRUCTION-OF-FRANKLIN-AVE-BRIDGE-BY-RUSSIAN-FORCES,220,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DESTRUCTION-OF-THE-HENNEPIN-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,221,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DESTRUCTION-OF-LOWRY-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,222,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DESTRUCTION-OF-N-42ND-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,223,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-I-35W-ST-ANTHONY-FALLS-BRIDGE-RUSSIAN-CONTROLLED-CHOKEPOINT,224,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DESTRUCTION-OF-THE-MARSHALL-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,225,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-STRATEGIC-RAIL-AND-ROAD-MISSISSIPPI-CROSSING-CHOKEPOINT,226,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DESTRUCTION-OF-PLYMOUTH-AVENUE-BRIDGE-BY-RUSSIAN-FORCES,227,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-BROADWAY-ST-BRIDGE-CHOKEPOINT-CONTROLLED-BY-ENEMY-FORCES,228,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DESTRUCTION-OF-ROUTE-535-BRIDGE-BY-RUSSIAN-FORCES,229,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-FAILED-DESTRUCTION-OF-THE-GORDIE-HOWE-BRIDGE-BY-RUSSIAN-FORCES,230,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-SABOTAGE-AND-FLOODING-OF-THE-DETROIT-WINDSOR-TUNNEL-BY-RUSSIAN-F,231,relative_locked,bridge_denial_operation,,after Battle of Cumberland Gap AND after the U.S./Allied Northwestern Counteroffensive has successfully turned; individual demolition/chokepoint ordering open
+PW-GEO-DAWN-OF-MERCY-HOSPITAL-SHIP-INCIDENT,232,mission_bound_date_open,playable_mission_event,,Spook Game 3 DARK SKIES Mission 01 DAWN OF MERCY; opening mission of Act I BAD OMENS
+PW-GEO-OREGON-ARMY-NATIONAL-GUARD-AND-OREGON-CIVIL-DEFENSE-FORCE-ELEMEN,233,relative_locked,campaign_event,,during the turn of the Northwestern Counteroffensive; Oregon defenders cut off Russian southward advance into California
+PW-GEO-LOS-ANGELES-INTERNATIONAL-AIRPORT,234,unresolved,,,
+PW-GEO-JOINT-RUSSIAN-AND-DPRK-AIRBORNE-ASSAULT-ON-LAX,235,event_bound_date_open,campaign_event,PW-TIME-WEST-COAST-OFFENSIVES-BEGIN,hostile Southern California invasion phase; LAX remains under U.S. control after failed Russian/DPRK assault
+PW-GEO-ROMEO-DELTA-AND-OTHER-US-ARMY-ELEMENTS-VENTURA-TO-CORONADO-MOVEM,236,event_bound_date_open,campaign_movement,,Romeo/Delta western-theater movement from Ventura toward Coronado
+PW-GEO-LONG-BEACH-AIRPORT,237,unresolved,,,
+PW-GEO-K-LOUNGE-FICTIONAL-LOCATION,238,unresolved,,,
+PW-GEO-HOLLYWOOD-BURBANK-AIRPORT,239,unresolved,,,
+PW-GEO-DESTRUCTION-OF-HOLLYWOOD-BURBANK-AIRPORT-BY-A-DPRK-MISSILE-BOMBA,240,event_bound_date_open,campaign_event,,DPRK missile bombardment during Southern California war phase
+PW-GEO-ROMEO-AND-DELTA-ARE-INSERTED-FROM-A-SURFACED-USS-DISTRICT-OF-COL,241,event_bound_date_open,campaign_event,,Romeo/Delta insertion from surfaced USS District of Columbia; exact mission placement/date open at geography layer
+PW-GEO-EDWARDS-AIR-FORCE-BASE,242,unresolved,,,
+PW-GEO-TONOPAH,243,unresolved,,,
+PW-GEO-CLASSIFIED-SITES-CIA-USAF-SECURITY-AREA,244,anchor_context_only,security_state,PW-TIME-WEST-COAST-OFFENSIVES-BEGIN,CIA/authorized-USAF classified-site security response follows the invasion; exact onset/end not independently locked
+PW-GEO-WESTERN-COUNTEROFFENSIVE-CALIFORNIA-TO-SOUTHERN-OREGON,245,relative_locked,campaign_sequence,,U.S. Western Counteroffensive pushes from California into southern Oregon; precedes/funnels into Portland–Seattle campaign
+PW-GEO-PORTLAND-AND-SEATTLE-CAMPAIGN,246,relative_locked,campaign_sequence,,after California-to-southern-Oregon push; includes liberation of Portland and continued movement toward Seattle
+PW-GEO-LIBERATION-OF-PORTLAND-BY-US-FORCES,247,relative_locked,campaign_event,,during Portland–Seattle campaign; before continuing north toward Seattle
+PW-GEO-INTERIOR-WESTERN-COUNTEROFFENSIVE-BILLINGS-TO-SEATTLE,248,relative_locked,campaign_sequence,,after Battle of Billings; Allied interior counteroffensive moves west through Montana/Spokane toward Seattle
+PW-GEO-YAKIMA-CAMPAIGN,249,relative_locked,campaign_sequence,,branch of Northwestern Counteroffensive through Pasco/Yakima toward Ellensburg/Seattle convergence
+PW-GEO-LIBERATION-OF-YAKIMA-BY-US-AND-CANDDIAN-FORCES,250,relative_locked,campaign_event,,during Yakima campaign; before forces join wider western push south of Ellensburg
+PW-GEO-YAKIMA-CAMPAIGN-US-FORCES-JOIN-WESTERN-CAMPAIGN-PUSH-SOUTH-OF-EL,251,relative_locked,campaign_event,,after liberation of Yakima; forces join wider western campaign south of Ellensburg
+PW-GEO-15-WING-MOOSE-JAW-CANDDIAN-FORCES-BASE,252,unresolved,,,
+PW-GEO-BISMARCK-AIRPORT,253,unresolved,,,
+PW-GEO-RAPID-CITY-REGIONAL-AIRPORT,254,unresolved,,,
+PW-GEO-UNHMNA-HUMANITARIAN-AID-SUPPLY-AIR-CORRIDOR,255,relative_locked,humanitarian_corridor,,later/formalized UNHMNA humanitarian air network from Canada into underserved North Dakota and South Dakota

@@ -1,0 +1,107 @@
+meta:
+  generated: '2026-08-15'
+  revision: rev1
+  status: current_additive_world_geography_projection
+  source_authority: Narrative source pages control story meaning. Detailed geometry lives in the current corrected KML; stable feature identity is composite across the merged 133-feature base inventory and the 41-feature extension.
+source_map:
+  handoff_kml_name: PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-15_rev2.kml
+  repository_geometry_status: current corrected handoff artifact; exact KML preservation deferred to the next owner map update
+  sha256: 11470187f821fc54f55011627687fa543dcfc7fdd8a45d13df26c0ad11d4692e
+  format: KML 2.2 handoff artifact
+  placemark_count: 174
+  point_count: 105
+  polygon_count: 36
+  linestring_count: 32
+  other_geometry_count: 1
+  named_placemark_count: 128
+  unnamed_placemark_count: 46
+  all_polygons_topologically_valid: true
+  topology_repairs_2026_08_15:
+    - PW-GEO-AREA-CONTROLLED-BY-THE-VOLUNTEER-CORPS-OF-MAINE
+    - PW-GEO-TERRITORY-HELD-BY-SC-STATE-DEFENSE-FORCE-S-AND-LOCAL-VOLUNTEER-M
+  previous_binary_preservation_package: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Reference_2026-08-14_rev1_kmz_parts/
+feature_index:
+  base_path: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_2026-08-14_rev1.csv
+  base_feature_count: 133
+  extension_paths:
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Placemark_Inventory_Extension_2026-08-15_rev1.csv
+  extension_feature_count: 41
+  revision_overlay: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Feature_Revision_Overlay_2026-08-15_rev1.csv
+  combined_feature_count: 174
+  id_column: feature_id
+  placemark_ordinal_column: placemark_ordinal
+  rule: The original 133 PW-GEO identities remain stable; new owner-map placemarks receive additive PW-GEO identities and inherited geometry/label corrections are recorded in the revision overlay without renumbering.
+chronology_projection:
+  registry: dev_src_docs/canon_lore_source_of_truth/ontology/pw_world_geography_chronology_rev1.yaml
+  schema: dev_src_docs/canon_lore_source_of_truth/ontology/schema/pw_world_geography_chronology.schema.yaml
+  base_feature_overlay: dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_2026-08-14_rev1.csv
+  extension_feature_overlays:
+    - dev_src_docs/worldbuilding/geography/PW_Post_PANDORA_WW3_World_Events_Geography_Chronology_Overlay_Extension_2026-08-15_rev1.csv
+  kml_anchor_overlay: dev_src_docs/worldbuilding/geography/PW_World_Events_Canon_Chronology_Anchors_2026-08-14_rev1.kml
+  exact_calendar_anchor_count: 5
+  relative_or_anchor_bound_spatial_features: 40
+  unresolved_spatial_feature_dates: 134
+  direct_time_primitives_on_source_map_features: 0
+  rule: Exact canon anchors are timestamped in the chronology sidecar; source-map features receive direct TimeStamp/TimeSpan only when their own temporal state is locked.
+highlighted_cross_references:
+  - feature_id: PW-GEO-PACIFIC-NORTHWESTERN-RUSSIAN-OCCUPATION-ZONE
+    placemark_ordinal: 13
+    name: Pacific Northwestern Russian Occupation Zone
+    geometry_type: Polygon
+    source_stage: carried_forward_geometry_corrected_2026-08-14
+    repo_cross_reference: world-state geography; Seattle/Puget occupation geometry
+  - feature_id: PW-GEO-US-NORTHEASTERN-COUNTEROFFENSIVE
+    placemark_ordinal: 136
+    name: US Northeastern Counteroffensive
+    geometry_type: LineString
+    source_stage: new_owner_map_update_2026-08-15
+    repo_cross_reference: PW-TRK-G3-NO-KINGS; Kentucky-to-Boston/EASTBOUND bridge context
+  - feature_id: PW-GEO-UK-FORCES-LAND-IN-BOSTON-HARBOR-DURING-BATTLE-OF-BOSTON
+    placemark_ordinal: 142
+    name: UK forces land in Boston Harbor during Battle of Boston
+    geometry_type: Point
+    source_stage: new_owner_map_update_2026-08-15
+    repo_cross_reference: late-Game-3 British widening / Battle of Boston
+  - feature_id: PW-GEO-UNHMNA-HUMANITARIAN-AID-SUPPLY-CORRIDOR
+    placemark_ordinal: 163
+    name: UNHMNA Humanitarian Aid Supply Corridor
+    geometry_type: LineString
+    source_stage: new_owner_map_update_2026-08-15
+    repo_cross_reference: post-Game-2 formalized humanitarian corridor network
+  - feature_id: PW-GEO-CFB-VALCARTIER-CANADIAN-STAGING-POINT
+    placemark_ordinal: 169
+    name: CFB Valcartier — Canadian staging point
+    geometry_type: Point
+    source_stage: new_owner_map_update_2026-08-15
+    repo_cross_reference: Canadian Northeast liberation support geography
+  - feature_id: PW-GEO-CANADIAN-FORCES-LIBERATE-VERMONT
+    placemark_ordinal: 171
+    name: Canadian Forces liberate Vermont
+    geometry_type: LineString
+    source_stage: new_owner_map_update_2026-08-15
+    repo_cross_reference: Canadian Vermont liberation
+  - feature_id: PW-GEO-LIBERATION-OF-MAINE-BY-CANADIAN-FORCES
+    placemark_ordinal: 173
+    name: Liberation of Maine by Canadian Forces
+    geometry_type: LineString
+    source_stage: new_owner_map_update_2026-08-15
+    repo_cross_reference: Canadian Maine liberation
+governance:
+  - Do not infer chronology from map order.
+  - Do not convert every territorial polygon into a timeline event.
+  - A map-originated label is valid at map-reference level but missing dates/order-of-battle/playability remain open unless separately sourced.
+  - The current corrected KML carries detailed coordinates; composite inventory layers preserve stable machine-friendly feature identity.
+  - Calendar anchors may contextualize a PW-GEO feature without becoming that feature's own onset date.
+  - Geometry-only topology repair does not authorize narrative territorial reinterpretation.
+  - New Canadian campaign geography must not be assigned an exact date or command relationship until separately locked.
+open_hygiene_flags:
+  - 46 unnamed placemarks
+  - one explicit Untitled placemark
+  - one geometry-less Untitled slide
+  - duplicate generic blockade label
+  - two separately drawn Russian Naval Blockade of Alaska polygons
+  - Alaska dateline-wrap longitudes require later dateline-aware normalization
+  - wording cleanup remains for UK Naval disruption if the US north west enemy blockade
+  - Pacific Northwest / Canadian-border continuity should be rechecked in the next owner-map pass
+  - current KML says USS Wyoming at ordinal 74 while the stable base feature ID encodes the older USS Nebraska label; semantic supersession remains pending explicit confirmation
+  - source-map placemarks still require feature-by-feature TimeStamp/TimeSpan enrichment as exact dates and bounded state durations are locked
