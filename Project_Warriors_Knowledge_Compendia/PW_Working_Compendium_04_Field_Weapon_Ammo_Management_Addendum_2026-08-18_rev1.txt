@@ -1,0 +1,102 @@
+PROJECT WARRIORS — WORKING COMPENDIUM 04 — FIELD WEAPON / AMMO MANAGEMENT ADDENDUM
+Generated: 2026-08-18
+Version: rev1
+Status: compendium-side addendum / not a full compendium replacement
+
+PURPOSE
+Surface the August 18 owner-directed pickup, scavenging, magazine-capacity, consolidation, shotgun load-order, and belt/feed-system mechanics in the Gameplay / Weapons / Style working layer.
+
+CONTROLLING DURABLE SOURCE
+- dev_src_docs/gameplay_mechanics/PW_Field_Weapon_Pickup_Scavenging_Magazine_Consolidation_and_Feed_Management_2026-08-18_rev1.txt
+
+RELATED CONTROLLING SOURCES
+- PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+- PW_Weapon_Economy_Inspect_and_Procurement_Recovery_Source_2026-07-24_rev1.txt
+- PW_No_Ammo_Counter_Magazine_Inspection_and_Ammo_Fallback_2026-08-09_rev1.txt
+- PW_Sustained_Automatic_Fire_Thermal_Load_and_Barrel_Management_2026-08-06_rev1.txt
+
+================================================================================
+LOCK SUMMARY
+================================================================================
+
+1. DROPPED WEAPONS / SWAP
+Approaching a dropped weapon exposes SWAP. Executing it replaces the active carried weapon with the world weapon while preserving the real state of both weapons: magazine/feed device, chamber, bolt/action, ammunition, malfunctions, attachments, damage/condition, and heat where tracked.
+
+2. UNLOAD / SCAVENGE
+A dropped weapon exposes UNLOAD only when it contains compatible, recoverable ammunition outside the chamber for a weapon the player currently carries. Detachable-magazine UNLOAD transfers the actual ammunition-bearing magazine with its remaining load, ammo type, compatibility, and condition.
+
+3. NO EMPTY-MAG INTERACTION
+No UNLOAD prompt appears for an inserted empty magazine, absent magazine, or chambered-round-only state. Platform-authentic last-round hold-open states provide additional visual clues where the weapon actually supports them. Platforms without hold-open do not receive a fictional empty-bolt state.
+
+4. CHAMBERED ROUNDS STAY WITH THE WEAPON
+UNLOAD does not harvest the chambered cartridge. The player must SWAP to the weapon to fire or otherwise manipulate that chambered round.
+
+5. NON-DETACHABLE SCAVENGING
+Fixed-tube shotguns and other non-detachable feeds unload through slower platform-authentic actions. Owner direction retains a slower scavenging interaction for magazine-fed bolt-action rifles than ordinary detachable-magazine autoloaders; fixed/internal-magazine bolt-actions also require weapon-specific unloading.
+
+6. NINE-MAGAZINE CAP
+Removable-magazine weapon families use a nine-magazine cap for the relevant compatible magazine pool. Full and partial magazines count, including magazines currently inserted in carried weapons. Empty detachable magazines are automatically discarded; partial magazines are retained.
+
+7. SHARED MAGAZINE POOLS
+Two carried weapons that genuinely accept the same physical magazine type share one magazine pool and one capacity limit. Carrying multiple compatible weapons does not multiply magazine capacity.
+
+8. LOOSE-AMMUNITION CAPS
+Weapons without removable magazines use finite platform/caliber-specific loose-ammunition pools. Exact values remain production work.
+
+9. MERGE MAGAZINES
+Weapon Inspect exposes MERGE MAGAZINES. The action consolidates partial detachable magazines, freeing capacity slots and improving readiness. Detachable magazines may only consolidate the same ammunition type. Mixed detachable-magazine loads are not supported.
+
+10. REAL-TIME VULNERABILITY
+Magazine merging takes approximately three seconds as a compressed gameplay representation. Inspect does not pause the world. Enemies and hazards remain active, and the player receives no invulnerability. Completed cartridge transfers persist if interrupted.
+
+11. MAGAZINE-FED SHOTGUNS
+Detachable shotgun box magazines may be topped up from compatible loose shells of the same shell type. If all shells are already in box magazines, consolidation works like other detachable-magazine weapons. Mixed shell types are not created inside detachable shotgun magazines.
+
+12. FIXED-TUBE SHOTGUN MIXED-LOAD EXCEPTION
+Fixed-tube shotguns are the explicit exception to the homogeneous-magazine rule. They may carry deliberate ordered mixed shell sequences such as breaching, anti-drone, buckshot, slug, DB, and other compatible authored loads.
+
+13. FIXED-TUBE LOAD PRESETS
+The player may configure and save ordered fixed-tube shotgun load presets in Inspect. Applying a preset physically unloads/reorders/loads the tube using ammunition actually carried. The world continues running; the player remains vulnerable; missing ammunition is not fabricated; chambered-shell state remains separate; interrupted changes persist.
+
+14. BELT-FED STATE
+Belt-fed weapons retain feed-container/feed-tray/action state. Empty boxes or pouches can remain attached until physically replaced. Disintegrating-link systems do not retain a fictional intact empty belt; state tracks remaining linked ammunition, container, feed mechanism, bolt/action, stoppage, and heat.
+
+15. FIRST BELT-FED CHECK
+A first battlefield pickup / first loading of a supported belt-fed weapon may use a longer protagonist-specific trained check and load animation. For Spook this reads as fast professional familiarity. Routine reloads can be shorter unless the stored weapon state requires more work.
+
+16. M249 DUAL FEED
+The M249 may use linked ammunition from its normal belt/box/pouch feed or compatible STANAG magazines as an alternate/emergency feed. Switching feed source requires real manipulation and may be exposed through Inspect. Linked ammunition remains the normal sustained-fire source; STANAG feed may receive platform-authentic handling/reliability tradeoffs.
+
+================================================================================
+CONTINUITY / SUPERSESSION
+================================================================================
+
+This addendum extends the existing retained-partial-magazine and no-ammo-counter system rather than replacing it.
+
+The earlier open question of mixed-load magazine support is now narrowed:
+- detachable magazines: homogeneous ammunition type only
+- fixed-tube shotguns: ordered mixed shell sequences explicitly supported
+
+The existing fullest-first reload rule remains controlling within an ammunition type. Magazine consolidation changes the physical state of carried magazines; it does not alter automatic selection logic.
+
+================================================================================
+OPEN PRODUCTION FIELDS
+================================================================================
+
+Still open:
+- exact interaction radii and slot/class limits
+- exact unload timings
+- capacity-overflow behavior when scavenging
+- loose-round caps
+- merge timing/animation tuning around the approximately three-second baseline
+- number and UI treatment of tube-load presets
+- anti-drone and other specialist shell availability
+- belt/pouch carry limits
+- belt-fed first-check animation coverage
+- M249 feed-source prompt wording, fallback, and reliability modeling
+- NPC parity scope
+- accessibility treatment
+
+================================================================================
+END
+================================================================================
