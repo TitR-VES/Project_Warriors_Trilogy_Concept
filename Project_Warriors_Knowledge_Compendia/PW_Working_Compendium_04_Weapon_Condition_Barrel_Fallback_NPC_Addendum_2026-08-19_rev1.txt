@@ -1,0 +1,71 @@
+PROJECT WARRIORS — WORKING COMPENDIUM 04 — WEAPON CONDITION / BARREL / FALLBACK / NPC ADDENDUM
+Generated: 2026-08-19
+Version: rev1
+Status: compendium-side addendum / not a full compendium replacement
+
+PURPOSE
+Surface the August 19 owner-directed refinements that close or narrow open production fields in the weapon thermal-load, ammunition-state, and field scavenging systems.
+
+CONTROLLING DURABLE SOURCE
+- dev_src_docs/gameplay_mechanics/PW_Weapon_Condition_Barrel_Inventory_Fallback_and_NPC_Parity_Refinement_2026-08-19_rev1.txt
+
+RELATED SOURCES
+- PW_Sustained_Automatic_Fire_Thermal_Load_and_Barrel_Management_2026-08-06_rev1.txt
+- PW_No_Ammo_Counter_Magazine_Inspection_and_Ammo_Fallback_2026-08-09_rev1.txt
+- PW_Field_Weapon_Pickup_Scavenging_Magazine_Consolidation_and_Feed_Management_2026-08-18_rev1.txt
+- PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+
+================================================================================
+LOCK / DIRECTION SUMMARY
+================================================================================
+
+1. THERMAL VALUES REQUIRE RESEARCH FIRST
+Exact thermal coefficients, thresholds, and cooling rates remain deliberately open. The approved process is reference research -> platform-family relationships -> prototype values -> playtest/balance -> final data tables. Do not turn placeholder heat values into design canon.
+
+2. PLAYER-OWNED PERMANENT WEAR IS NOT YET LOCKED
+A full permanent-wear loop for maintained player weapons would imply a repair/maintenance economy and remains outside the current lock. Playable characters' normal weapons are assumed to be kept in serviceable condition unless an authored event states otherwise.
+
+3. FIELD-PICKUP CONDITION IS THE PREFERRED BOUNDED WEAR MODEL
+Scavenged weapons may carry persistent condition reflecting prior wear, neglect, dirt, corrosion, or damage. Condition may affect baseline malfunction risk, practical accuracy/dispersion, and susceptibility to severe failure under heat or abuse. Exact condition bands and coefficients remain open.
+
+4. SPARE BARREL SCAVENGING / CAP
+Compatible quick-change barrels may be scavenged from compatible dropped weapons. The interaction/inventory is exposed only while the player carries a weapon that can use them. The player may carry up to three compatible spare barrels. If the compatible weapon is dropped/lost and no carried weapon can use those barrels, the associated spares are discarded. A scavenged barrel preserves its own condition/heat where tracked.
+
+5. CATASTROPHIC FAILURE FRAMEWORK
+Catastrophic failures remain rare and probability-based. Difficulty, weapon condition, heat, abuse, feed/ammunition state, and platform-specific factors control risk. A tiny bounded stochastic component may exist, but there is no flat universal per-shot failure lottery. Severe outcomes may include permanent field loss/hard disable of the weapon and loss/destruction of the currently loaded feed device or ammunition where physically supported. Exact probabilities remain open.
+
+6. INSPECT TIMING REMAINS PROTOTYPE-DRIVEN
+Do not lock universal inspect seconds before animation testing. Prototype a short QUICK CHECK for routine hold-RELOAD information and a longer FULL INSPECT / MANAGEMENT state for deeper ammo/feed/attachment actions. Both remain real-time and vulnerable.
+
+7. EQUAL-LOAD TIE BREAK = FIFO
+Fullest-first remains primary. If two magazines of the selected ammo type have the same load, the magazine acquired earliest is selected first. Deliberate Inspect selection may override automatic ordering.
+
+8. FALLBACK AMMUNITION PRIORITY = GENERAL TO SPECIALIZED
+Automatic compatible-ammo fallback normally preserves specialist ammunition by consuming general-purpose BALL/FMJ-type loads first, then increasingly specialized loads. Exact ordering among specialist classes remains weapon/mission/role-specific.
+
+9. NPC PARITY SCOPE IS BROAD
+Condition, malfunction, thermal, and failure logic applies to player, teammates, allied NPCs, and enemy NPCs. NPCs may use coarser simulation bands or simplified bookkeeping where needed, but visible behavior should not obviously cheat the player-facing physical model.
+
+================================================================================
+OPEN PRODUCTION FIELDS AFTER THIS REFINEMENT
+================================================================================
+
+Still open:
+- researched per-platform thermal coefficients, thresholds, and cooling rates
+- exact field-weapon condition bands and stat modifiers
+- whether a broader long-term maintenance/repair system is ever introduced
+- catastrophic-failure probabilities and platform-specific outcome tables
+- exact spare-barrel scavenging prompt and animation timing
+- exact Inspect / quick-check animation durations
+- exact ordering among equally specialized fallback ammunition types
+- NPC simulation budget / behavior-tree implementation details
+
+================================================================================
+MILESTONE REFRESH NOTE
+================================================================================
+
+Fold this addendum and the August 6/9/18 weapon-mechanics addenda into the next full Gameplay / Weapons / Style compendium refresh after the remaining research/prototype values are stable.
+
+================================================================================
+END
+================================================================================
