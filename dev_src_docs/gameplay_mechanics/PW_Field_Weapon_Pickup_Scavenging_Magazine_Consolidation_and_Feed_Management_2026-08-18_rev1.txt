@@ -230,7 +230,7 @@ This preserves the existing shotgun rule that shells retain their true physical 
 Detachable magazines remain homogeneous by ammunition type. The mixed-load exception applies to ordered fixed-tube shell sequences, not to detachable rifle, pistol, SMG, LMG, or shotgun box magazines.
 
 ================================================================================
-10. FIXED-TUBE SHOTGUN LOAD PRESETS
+10. FIXED-TUBE SHOTGUN LOAD PRESETS AND INSPECT GRAMMAR
 ================================================================================
 
 OWNER LOCK
@@ -238,7 +238,23 @@ The player may configure and save mixed fixed-tube shotgun load presets through 
 
 A preset records an ordered shell sequence rather than merely percentages of shell types.
 
-The ammo-swap dialog inside Inspect exposes a contextual action to apply a saved preset.
+SHOTGUN INSPECT STATUS / PROMPT
+The Inspect view presents the current named shotgun load using the status grammar:
+LOAD: STANDARD
+LOAD: BREACH
+LOAD: ANTI-DRONE
+or another authored/saved load name.
+
+The corresponding interaction prompt is:
+CHANGE LOAD
+
+CHANGE LOAD opens or advances the appropriate ammunition-management interaction for selecting/applying an available compatible saved load or load configuration. The wording deliberately describes a physical load-management action rather than an instant abstract ammo toggle.
+
+CUSTOM / ALTERED PHYSICAL STATE
+The LOAD status must describe the actual current tube configuration, not merely the last preset selected. If firing, manual shell changes, interruption, or partial reconfiguration means the tube no longer matches a saved named preset, the status should identify that state as:
+LOAD: CUSTOM
+
+The actual shell sequence remains separately inspectable/readable where the interface supports it. A named LOAD status never overrides the physical order stored in the tube.
 
 PHYSICAL APPLICATION
 Activating a preset does not instantly rewrite the tube. The player character physically unloads/reorders/loads shells as needed using ammunition actually carried.
@@ -270,7 +286,7 @@ A first battlefield pickup / first loading of a supported belt-fed weapon may us
 No reload grants free cooling, repair, belt replenishment, or stoppage clearance beyond what the actual animation accomplishes.
 
 ================================================================================
-12. M249 DUAL-FEED HANDLING
+12. M249 / MULTI-FEED HANDLING AND INSPECT GRAMMAR
 ================================================================================
 
 OWNER-DIRECTED PLATFORM RULE
@@ -280,14 +296,32 @@ For the M249 SAW family as represented in Project Warriors, the player may use i
 
 The two feed sources remain distinct physical states. Changing feed source requires the appropriate real weapon manipulation and cannot occur as an instantaneous inventory toggle.
 
-INSPECT / FEED-SOURCE CONTROL
-Where the M249 is carried, Inspect may expose a feed-source selection interaction allowing the player to choose between available linked ammunition and compatible STANAG magazines.
+INSPECT STATUS
+The Inspect view exposes the weapon's actual currently configured feed source with a restrained status indicator such as:
+FEED: BELT
+FEED: MAGAZINE
 
-Linked ammunition remains the normal sustained-fire feed. STANAG feed is an alternate/emergency source and may receive platform-authentic reliability/handling tradeoffs in implementation rather than being treated as mechanically identical to belt feed.
+For the M249 specifically, FEED: STANAG is an acceptable more technically explicit variant where the UI treatment benefits from that terminology. FEED: MAGAZINE is the preferred broadly legible player-facing form unless prototype testing favors the platform-specific wording.
 
-Exact prompt wording, automatic-vs-manual fallback behavior, reliability modifiers, and animation timings remain production fields unless later owner-directed.
+The status describes the feed source actually configured on the weapon, not merely compatible ammunition available in inventory.
 
-The M249's selected feed source does not override the general ammunition compatibility rules or create ammunition that is not physically carried.
+CONTEXTUAL INTERACTION PROMPT
+The preferred two-word prompt for changing between supported physical feed sources is:
+CHANGE FEED
+
+The prompt should be spatially associated with the relevant feed interface in the weapon Inspect view — for example the magwell or belt-feed area on a compatible multi-feed weapon.
+
+A shorter FEED prompt remains an acceptable minimal prototype variant if the spatial/UI context proves sufficiently clear. SELECT FEED TYPE is a permissible explicit fallback, but CHANGE FEED is the preferred baseline because it is concise and still reads as a physical weapon-management action.
+
+PROMPT AVAILABILITY
+CHANGE FEED appears only when there is another physically valid feed configuration available to select. If an M249 is configured for belt feed and the player has no compatible STANAG magazine available, there is no useful alternate feed state and the prompt need not be exposed.
+
+FEED-SOURCE CONTROL
+Linked ammunition remains the normal sustained-fire feed. STANAG magazine feed is an alternate/emergency source and may receive platform-authentic reliability/handling tradeoffs in implementation rather than being treated as mechanically identical to belt feed.
+
+Changing feed source does not create ammunition, does not bypass compatibility, and does not silently normalize weapon state. The required physical manipulation occurs in world time and the player remains vulnerable.
+
+Exact reliability modifiers, automatic-vs-manual fallback behavior, and animation timings remain production fields unless later owner-directed.
 
 ================================================================================
 13. INTERACTION / UI GRAMMAR SUMMARY
@@ -300,8 +334,9 @@ World interactions may include:
 Inspect/ammunition-management interactions may include:
 - MERGE MAGAZINES
 - ammunition-type selection for compatible detachable magazines
-- fixed-tube shotgun saved load presets / apply preset
-- feed-source selection for supported dual-feed weapons such as the M249
+- LOAD: [NAMED LOAD] status plus CHANGE LOAD for fixed-tube shotgun saved load presets
+- LOAD: CUSTOM when the physical tube sequence no longer matches a named preset
+- FEED: BELT / FEED: MAGAZINE status plus CHANGE FEED for supported dual-/multi-feed weapons such as the M249
 
 Prompts must reflect real state. Do not display interactions that accomplish nothing.
 
@@ -321,6 +356,7 @@ The intended loop is:
 - fixed-tube shotguns gain deliberate shell-order tactics unavailable to detachable magazines
 - belt-fed weapons retain their own feed-container and reload identity
 - alternate feed systems remain physical choices rather than HUD abstractions
+- Inspect status labels describe actual configured weapon state rather than abstract inventory preference
 
 The system should reward preparedness and scavenging without turning the game into spreadsheet inventory management.
 
@@ -338,11 +374,12 @@ Still open unless separately controlled:
 - exact three-second merge timing and interruption granularity
 - magazine-consolidation animation library
 - number of saved fixed-tube shotgun presets
-- preset UI layout and naming
+- final preset UI layout and naming beyond the locked LOAD / CHANGE LOAD grammar
 - exact anti-drone and other specialist shotgun-shell availability
 - exact belt/pouch inventory capacities
 - belt-fed first-check animation coverage by protagonist and weapon
-- M249 feed-source prompt wording, reliability modeling, and automatic fallback behavior
+- M249 feed-source reliability modeling and automatic fallback behavior
+- final choice between MAGAZINE and STANAG as the standard M249 feed-status noun after UI prototyping
 - accessibility treatment for long vulnerable ammunition-management actions
 - NPC use of scavenging, consolidation, presets, and alternate-feed mechanics
 
