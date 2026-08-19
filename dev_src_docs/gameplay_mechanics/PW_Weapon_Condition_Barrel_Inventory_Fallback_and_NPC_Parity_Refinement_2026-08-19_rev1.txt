@@ -1,0 +1,241 @@
+PROJECT WARRIORS — WEAPON CONDITION, BARREL INVENTORY, FALLBACK PRIORITY, AND NPC PARITY REFINEMENT
+Generated: 2026-08-19
+Version: rev1
+Status: OWNER-DIRECTED PROPOSED DESIGN SOURCE — RESEARCH / PROTOTYPE VALUES DEFERRED
+
+PURPOSE
+Close or narrow several production fields in PR #73 while preserving explicit research and prototype gates where numerical or animation values should not be invented prematurely.
+
+This source supplements and, where stated, narrows open fields in:
+- PW_Sustained_Automatic_Fire_Thermal_Load_and_Barrel_Management_2026-08-06_rev1.txt
+- PW_No_Ammo_Counter_Magazine_Inspection_and_Ammo_Fallback_2026-08-09_rev1.txt
+- PW_Field_Weapon_Pickup_Scavenging_Magazine_Consolidation_and_Feed_Management_2026-08-18_rev1.txt
+- PW_Shoulder_Switching_Aiming_and_Weapon_Malfunctions_2026-07-27_rev1.txt
+- PW_Gameplay_Mechanics_Refinement_Landing_2026-07-25_rev1.txt
+
+Later explicit owner adjudication controls.
+
+================================================================================
+01. THERMAL COEFFICIENTS, THRESHOLDS, AND COOLING — RESEARCH GATE
+================================================================================
+
+OWNER DIRECTION
+Exact thermal coefficients, heat thresholds, and cooling rates are NOT to be locked yet.
+
+Before values are authored, the project should research reference information sufficient to establish plausible relative behavior across weapon families and configurations, including where relevant:
+- cartridge energy / ammunition family
+- cyclic rate and sustained-fire cadence
+- barrel mass, profile, and material
+- open-bolt versus closed-bolt operation
+- receiver / gas-system architecture
+- suppressor use and heat retention
+- quick-change-barrel capability
+- ambient temperature, airflow, precipitation, and other environmental cooling effects
+
+The purpose of reference research is not to reproduce engineering simulation at arbitrary precision. It is to establish credible relative ranges so assault rifles, suppressed PDWs, LMGs, GPMGs, HMGs, and other weapon families respond differently for defensible reasons.
+
+After the research pass, prototype/playtest tuning should convert those relationships into gameplay values.
+
+LOCKED PROCESS RULE
+REFERENCE RESEARCH -> PLATFORM-FAMILY RELATIONSHIPS -> PROTOTYPE VALUES -> PLAYTEST / BALANCE -> FINAL DATA TABLES.
+
+No placeholder thermal number should be mistaken for canon or final production tuning before this process occurs.
+
+================================================================================
+02. PERMANENT WEAR / WEAPON CONDITION BOUNDARY
+================================================================================
+
+OWNER DIRECTION / PREFERRED SCOPE
+A full permanent-wear system for the playable characters' maintained personal/issued weapons is NOT currently locked.
+
+Reason:
+- true permanent wear on the player's long-term weapons would logically imply a repair / maintenance loop allowing the player to manage degradation;
+- that would add substantial inventory, economy, animation, UI, and balance complexity;
+- the playable characters are fictionally understood to keep their normal weapons in well-serviceable condition unless a specific authored event says otherwise.
+
+FIELD-PICKUP CONDITION — PREFERRED IMPLEMENTATION DIRECTION
+Dropped/scavenged field weapons may carry a persistent CONDITION modifier representing pre-existing wear, neglect, dirt, corrosion, damage, poor maintenance, or other accumulated service history.
+
+Condition may influence appropriate weapon statistics such as:
+- baseline malfunction / stoppage probability
+- practical mechanical accuracy / dispersion
+- susceptibility to severe failure under heat or abuse
+- other platform-specific reliability effects where justified
+
+The condition modifier should make field swaps a more meaningful choice: a desirable weapon model may be less attractive if the available example is badly worn or damaged.
+
+The player's maintained loadout should not silently deteriorate into the same scavenged-condition economy merely because the field-pickup condition system exists.
+
+OPEN WITHIN THIS DIRECTION
+- exact condition bands / values
+- exact stat coefficients by weapon family
+- how much condition information Inspect exposes
+- whether field condition can improve through limited authored service interactions
+- whether a broader maintenance/repair system is ever introduced later
+
+================================================================================
+03. SCAVENGEABLE QUICK-CHANGE BARRELS AND SPARE-BARREL CAP
+================================================================================
+
+OWNER LOCK
+Compatible spare barrels for weapons that genuinely support field barrel replacement may be scavenged from compatible dropped weapons.
+
+EXPOSURE RULE
+Barrel scavenging and spare-barrel inventory are exposed only while the player carries a weapon that can actually use the compatible barrel type.
+
+CARRY CAP
+The player may carry up to THREE compatible spare barrels for the relevant carried weapon system.
+
+SCAVENGING RULES
+- the dropped source weapon must have a compatible removable/changeable barrel architecture;
+- the player must currently carry a weapon able to use the scavenged barrel;
+- the scavenged barrel remains a physical component rather than an abstract cooldown charge;
+- where tracked, a scavenged barrel retains its own condition and thermal state rather than becoming magically new/cold;
+- exact removal animation and contextual prompt wording remain production fields.
+
+DISCARD RULE
+If the player drops or otherwise loses the compatible weapon and no longer carries a weapon able to use those spare barrels, the associated spare barrels are discarded with that weapon context rather than remaining as irrelevant inventory.
+
+The three-spare cap replaces the earlier completely open barrel-inventory question for supported player-carried quick-change-barrel weapons.
+
+================================================================================
+04. CATASTROPHIC FAILURE — DIFFICULTY, CONDITION, AND OUTCOME RISK
+================================================================================
+
+OWNER DIRECTION
+Catastrophic weapon failures should be rare and probability-based, with frequency strongly affected by:
+- difficulty setting
+- weapon condition
+- thermal state / overheating
+- sustained abuse
+- feed/ammunition state
+- other platform-specific risk factors already represented by the malfunction system
+
+A very small bounded stochastic component may remain so catastrophic failure is not perfectly deterministic, but the system must preserve the existing rule that weapon failures are causal rather than a flat equal per-shot lottery.
+
+For a maintained weapon in normal condition and ordinary use, catastrophic failure should remain extremely unlikely. Poor-condition scavenged weapons, extreme heat, abuse, or other credible risk states can raise that probability substantially.
+
+DIFFICULTY RELATIONSHIP
+- lower difficulties: catastrophic outcomes heavily suppressed outside authored cases; condition and heat consequences remain readable but forgiving
+- standard difficulty: rare severe failures with condition/heat-driven risk
+- higher / maximum-realism settings: stronger condition and thermal consequences, fewer protective clamps, but still no arbitrary universal per-shot failure roll
+
+SEVERE OUTCOME SPACE
+A severe catastrophic event may carry a probability of:
+- permanent loss / hard disable of the affected weapon for the current field context
+- loss or destruction of the currently loaded magazine/feed device where the failure physically supports it
+- loss or destruction of some or all ammunition in the current loaded feed state where physically supported
+
+Exact probabilities, eligible failure modes, and damage/loss tables remain production tuning and require platform-specific design.
+
+================================================================================
+05. INSPECT TIMING — PROTOTYPE / ANIMATION GATE
+================================================================================
+
+OWNER DIRECTION
+Exact Inspect timing remains intentionally open until representative weapon animations are prototyped.
+
+Do not lock a universal arbitrary duration before the first-person animation grammar is tested.
+
+PROTOTYPE PRINCIPLE
+The project should prototype at least two interaction scales:
+- QUICK CHECK: the short hold-RELOAD magazine/ammunition-state check used when the player wants immediate field information
+- FULL INSPECT / MANAGEMENT: the longer weapon-inspect state used for ammunition selection, magazine consolidation, feed-source changes, tube-load presets, attachment interaction, and other deliberate management actions
+
+Both remain real-time and vulnerable. The distinction exists to prevent routine information checks from becoming burdensome while preserving meaningful exposure for deeper field management.
+
+Final timing should be driven by:
+- mechanically credible hand movement
+- weapon size / feed system
+- amount of information exposed
+- animation readability
+- combat usability and interruption behavior
+- difficulty/accessibility treatment where appropriate
+
+No exact seconds are locked by this source.
+
+================================================================================
+06. EQUAL-LOAD MAGAZINE TIE-BREAK — FIFO
+================================================================================
+
+OWNER LOCK
+Fullest-first remains the primary automatic magazine-selection rule.
+
+When two or more compatible magazines of the selected ammunition type have the SAME remaining load state, the automatic tie-break is FIRST ACQUIRED, FIRST USED.
+
+Conceptually:
+1. compare usable magazines by remaining load;
+2. select the fullest;
+3. if two or more are equally full, select the magazine that entered the player's carried pool earliest;
+4. proceed through later-acquired equal-load magazines afterward.
+
+This replaces the previously open generic pouch/inventory-order tie-break with a deterministic acquisition-order / FIFO rule.
+
+A deliberate player selection through Inspect may still override automatic ordering where supported.
+
+If two magazines are genuinely indistinguishable in acquisition time due to the same scripted grant/event, a stable implementation ordering may be used as the final technical tie-break without changing the player-facing rule.
+
+================================================================================
+07. COMPATIBLE-AMMUNITION FALLBACK PRIORITY — GENERAL TO SPECIALIZED
+================================================================================
+
+OWNER LOCK
+When the preferred ammunition type is exhausted and the weapon must fall back to another compatible type, automatic fallback should generally prioritize the MORE GENERAL-PURPOSE ammunition before increasingly specialized loads.
+
+DESIGN PRINCIPLE
+Preserve specialist ammunition unless it is the best remaining option or the player has deliberately selected it.
+
+Broad conceptual priority:
+1. standard / general-purpose ammunition, such as BALL / FMJ where applicable;
+2. increasingly specialized compatible loads according to weapon family and mission context;
+3. highly specialized or scarce loads such as AP, JHP, anti-drone, anti-materiel, Dragon's Breath / DB, breaching, and other authored specialist ammunition are normally preserved until more general alternatives are exhausted.
+
+This is a CLASS-BASED PRIORITY RULE, not one universal cartridge list for every weapon.
+
+Exact ordering among multiple specialist types may remain weapon-, mission-, or role-specific because AP, JHP, anti-drone, anti-materiel, incendiary, breaching, subsonic, tracer, and other special-purpose loads do not have one universally correct tactical order.
+
+Manual ammunition selection through Inspect continues to override automatic fallback priority and requires the corresponding physical feed/magazine manipulation.
+
+================================================================================
+08. NPC PARITY SCOPE
+================================================================================
+
+OWNER LOCK
+Weapon-condition, malfunction, thermal, and failure mechanics apply broadly to:
+- the player character
+- player teammates / squadmates
+- allied NPCs
+- enemy NPCs
+
+NPC implementation should preserve the same underlying physical logic while being adapted to a reasonable simulation scope so the system does not create excessive processing complexity or player frustration.
+
+NPC PARITY PRINCIPLES
+- an NPC weapon's condition can affect reliability and accuracy where tracked;
+- NPCs can experience heat-related or condition-related stoppages/failures;
+- trained NPCs should manage cadence, reload/feed state, and barrel changes more competently than poorly disciplined NPCs;
+- NPC simulation may use coarser internal bands or simplified bookkeeping provided the visible outcomes remain consistent with the player-facing system;
+- simplification must not become obvious cheating, such as allied/enemy weapons ignoring condition, heat, or ammunition state entirely whenever those systems are materially relevant.
+
+Exact NPC simulation budgets, update frequency, behavior-tree integration, and protection for tightly scripted sequences remain production work.
+
+================================================================================
+09. OPEN / CLOSED FIELD MAP
+================================================================================
+
+CLOSED OR NARROWED BY THIS SOURCE
+- barrel inventory rules: up to three compatible spare barrels; field scavenging supported; inventory exposed only with a compatible carried weapon; spares discarded when compatibility context is lost
+- equal-load magazine tie-break: earliest-acquired / FIFO
+- broad fallback ordering: general-purpose ammunition before increasingly specialized ammunition
+- NPC parity scope: player, teammates, allied NPCs, and enemy NPCs share condition/failure/thermal logic at an appropriately simplified NPC simulation level
+
+DEFERRED WITH EXPLICIT PROCESS
+- thermal coefficients / thresholds / cooling rates: research first, then prototype and tune
+- inspect timing: prototype representative first-person animations before locking values
+
+PARTIALLY RESOLVED / STILL OPEN
+- permanent wear: full long-term player-weapon wear/maintenance economy not locked; field-pickup condition is the preferred bounded implementation
+- catastrophic failure: difficulty/condition/heat risk framework and possible permanent weapon/feed loss are established; exact probabilities and platform-specific failure tables remain open
+
+================================================================================
+END
+================================================================================
