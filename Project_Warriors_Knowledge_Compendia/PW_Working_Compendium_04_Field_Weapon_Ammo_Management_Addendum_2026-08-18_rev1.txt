@@ -4,7 +4,7 @@ Version: rev1
 Status: compendium-side addendum / not a full compendium replacement
 
 PURPOSE
-Surface the August 18 owner-directed pickup, scavenging, magazine-capacity, consolidation, shotgun load-order, and belt/feed-system mechanics in the Gameplay / Weapons / Style working layer.
+Surface the August 18 owner-directed pickup, scavenging, magazine-capacity, consolidation, shotgun load-order, belt/feed-system, and Inspect prompt/status mechanics in the Gameplay / Weapons / Style working layer.
 
 CONTROLLING DURABLE SOURCE
 - dev_src_docs/gameplay_mechanics/PW_Field_Weapon_Pickup_Scavenging_Magazine_Consolidation_and_Feed_Management_2026-08-18_rev1.txt
@@ -55,8 +55,22 @@ Detachable shotgun box magazines may be topped up from compatible loose shells o
 12. FIXED-TUBE SHOTGUN MIXED-LOAD EXCEPTION
 Fixed-tube shotguns are the explicit exception to the homogeneous-magazine rule. They may carry deliberate ordered mixed shell sequences such as breaching, anti-drone, buckshot, slug, DB, and other compatible authored loads.
 
-13. FIXED-TUBE LOAD PRESETS
+13. FIXED-TUBE LOAD PRESETS / INSPECT GRAMMAR
 The player may configure and save ordered fixed-tube shotgun load presets in Inspect. Applying a preset physically unloads/reorders/loads the tube using ammunition actually carried. The world continues running; the player remains vulnerable; missing ammunition is not fabricated; chambered-shell state remains separate; interrupted changes persist.
+
+Inspect identifies the current named load using:
+- LOAD: STANDARD
+- LOAD: BREACH
+- LOAD: ANTI-DRONE
+- other authored/saved load names
+
+The corresponding interaction prompt is:
+- CHANGE LOAD
+
+If the physical shell sequence no longer matches a named preset because of firing, manual changes, or an interrupted reconfiguration, Inspect shows:
+- LOAD: CUSTOM
+
+The named status never overrides the actual physical shell order in the tube.
 
 14. BELT-FED STATE
 Belt-fed weapons retain feed-container/feed-tray/action state. Empty boxes or pouches can remain attached until physically replaced. Disintegrating-link systems do not retain a fictional intact empty belt; state tracks remaining linked ammunition, container, feed mechanism, bolt/action, stoppage, and heat.
@@ -64,8 +78,21 @@ Belt-fed weapons retain feed-container/feed-tray/action state. Empty boxes or po
 15. FIRST BELT-FED CHECK
 A first battlefield pickup / first loading of a supported belt-fed weapon may use a longer protagonist-specific trained check and load animation. For Spook this reads as fast professional familiarity. Routine reloads can be shorter unless the stored weapon state requires more work.
 
-16. M249 DUAL FEED
+16. M249 DUAL FEED / INSPECT GRAMMAR
 The M249 may use linked ammunition from its normal belt/box/pouch feed or compatible STANAG magazines as an alternate/emergency feed. Switching feed source requires real manipulation and may be exposed through Inspect. Linked ammunition remains the normal sustained-fire source; STANAG feed may receive platform-authentic handling/reliability tradeoffs.
+
+Inspect reports the actual configured feed using:
+- FEED: BELT
+- FEED: MAGAZINE
+
+For the M249, FEED: STANAG remains an acceptable more technical variant; FEED: MAGAZINE is the preferred broadly legible player-facing wording pending prototype testing.
+
+The preferred contextual prompt is:
+- CHANGE FEED
+
+The prompt is overlaid/spatially associated with the relevant feed interface, such as the magwell or belt-feed area. A minimal FEED prompt remains an acceptable prototype variant, while SELECT FEED TYPE is an explicit fallback; CHANGE FEED is the preferred baseline.
+
+CHANGE FEED is shown only when another physically valid feed configuration is actually available.
 
 ================================================================================
 CONTINUITY / SUPERSESSION
@@ -79,6 +106,10 @@ The earlier open question of mixed-load magazine support is now narrowed:
 
 The existing fullest-first reload rule remains controlling within an ammunition type. Magazine consolidation changes the physical state of carried magazines; it does not alter automatic selection logic.
 
+The Inspect grammar now distinguishes state from action:
+- FEED: [CURRENT FEED] describes the weapon's actual configured feed source; CHANGE FEED initiates a physical feed-source change.
+- LOAD: [CURRENT LOAD] describes the current shotgun load configuration; CHANGE LOAD initiates a physical load/preset change.
+
 ================================================================================
 OPEN PRODUCTION FIELDS
 ================================================================================
@@ -89,12 +120,13 @@ Still open:
 - capacity-overflow behavior when scavenging
 - loose-round caps
 - merge timing/animation tuning around the approximately three-second baseline
-- number and UI treatment of tube-load presets
+- number and final UI treatment of tube-load presets beyond the locked LOAD / CHANGE LOAD grammar
 - anti-drone and other specialist shell availability
 - belt/pouch carry limits
 - belt-fed first-check animation coverage
-- M249 feed-source prompt wording, fallback, and reliability modeling
-- NPC parity scope
+- M249 feed-source reliability modeling and automatic fallback behavior
+- final prototype choice between MAGAZINE and STANAG as the standard M249 feed-status noun
+- NPC parity implementation details
 - accessibility treatment
 
 ================================================================================
