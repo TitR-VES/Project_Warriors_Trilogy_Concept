@@ -1,0 +1,165 @@
+PROJECT WARRIORS — ROMEO GAME 3 / NO KINGS SOURCE
+Mission position: Act II opening / Mission 07
+Current preferred title: EYES OF THE CITY
+Alternate title candidates retained: BLIND SPOT; LIGHT IN THE DARK
+Generated: 2026-08-21
+Version: rev1
+Status: MISSION IDENTITY / STRATEGIC FUNCTION LOCKED; FINAL TITLE NOT YET OWNER-LOCKED
+
+PURPOSE
+Lock the immediate post-THE POCKET mission identity and the MIT / Senseable City Lab strategic-intelligence layer without overclaiming unresolved screenplay, exact tactical geography, or final mission title.
+
+CAMPAIGN POSITION
+- Follows Mission 06 THE POCKET directly.
+- Opens Act II NEIGHBORHOOD WAR.
+- THE POCKET proves the Boston resistance can take and sustain a connected neighborhood interior.
+- Mission 07 expands the resistance network by securing a new capability rather than simply enlarging a perimeter.
+- General campaign expansion remains eastward toward downtown and the harbor but deliberately non-monotonic: Romeo repeatedly moves through occupied territory to conduct shaping, reconnaissance, sabotage, contact, rescue, and preparation missions before later liberation/consolidation operations.
+
+GEOGRAPHIC CORE
+- Romeo departs from the post-THE POCKET resistance-control area in western Boston / Allston-Brighton.
+- The mission moves east across the Charles into Cambridge.
+- The BU Bridge / Grand Junction crossing seam is an approach obstacle and route problem, not the final strategic objective.
+- The strategic target is the MIT campus plus enough adjacent Cambridge territory and infrastructure to protect the technical personnel and systems required for the new intelligence capability.
+- The wider post-mission resistance-control envelope may be larger than the directly playable combat spaces; Romeo is an operational catalyst alongside local resistance, not a single squad personally clearing every block.
+
+PRIMARY STRATEGIC OBJECTIVE
+Secure reliable contact with surviving personnel at the MIT Senseable City Lab and create enough local security for them to restore a preserved prewar urban sensing / monitoring research system.
+
+PREWAR RESEARCH SYSTEM — LOCKED FICTIONAL EXTENSION
+The Senseable team had been developing an autonomous AI-assisted urban environmental data collection, monitoring, and analysis architecture using a citywide research mesh of IoT cameras, environmental probes, monitoring nodes, and related sensor devices.
+
+The system is a fictional Project Warriors extension of the lab's urban-sensing research direction. It is not a hidden military intelligence network and should not be written as a turnkey classified SIGINT system.
+
+PANDORA SURVIVAL MECHANISM — LOCKED TECHNICAL GUARDRAIL
+At the time of the PANDORA attacks, the research system was undergoing an AI-model / orchestration-stack upgrade in an isolated validation environment.
+
+When researchers realized trusted OTA/update infrastructure elsewhere was being weaponized, they carried out a risky emergency isolation:
+- sever external administrative/update connectivity;
+- halt outgoing automated configuration changes;
+- shut down central inference/orchestration compute;
+- preserve signing credentials, topology/device registries, and critical control material offline;
+- leave compatible field endpoints in local/autonomous/buffered states where possible.
+
+The result was not a perfectly preserved live network. The central control plane survived dormant while many endpoints degraded independently.
+
+CURRENT SYSTEM CONDITION
+- preserved but damaged and fragmented;
+- many sensors destroyed, removed, powerless, disconnected, or isolated behind damaged infrastructure;
+- some endpoint connectivity and historical local-buffer data remain recoverable;
+- surviving imaging, traffic, environmental, RF-adjacent, and monitoring nodes provide uneven coverage rather than omniscient surveillance;
+- restoration requires people, infrastructure, power, network access, and analysis, not simply pressing a switch.
+
+RUSSIAN KNOWLEDGE / MISCONCEPTION — LOCKED
+Russian occupation technical personnel know the Senseable City Lab and its research existed.
+
+Their post-PANDORA assessment is wrong: they assume the relevant system was successfully compromised, destroyed, or rendered unusable during the attacks.
+
+Because the surviving core was deliberately shut down and stopped advertising a meaningful operational surface, Russian EW specialists do not recognize that the citywide research architecture remains preserved but dormant.
+
+The Russians are therefore not ignorant of Senseable. They are unaware that Senseable survived.
+
+MIT OCCUPATION STATE
+- students have been expelled / vacated from the campus;
+- selected staff, officials, facilities personnel, researchers, and technical personnel remain under occupation restriction or scrutiny;
+- Russian military / technical-exploitation personnel are interrogating MIT officials and systematically searching campus spaces for militarily valuable technology, research, prototypes, computing, communications, robotics, autonomy, cyber, materials, aerospace, and other exploitable knowledge;
+- the campus should read as an occupation exploitation zone rather than a simple fortress;
+- the Senseable personnel conceal both the preserved system and the fact that useful citywide access may still exist.
+
+MISSION HINGE
+The initial AFC task is to reach the Senseable personnel and assess/extract the value of what survived.
+
+The technical team establishes that merely extracting people or portable hardware is insufficient. The useful system depends on a protected combination of campus infrastructure, power, networking, compute, physical access, and specialist personnel.
+
+Therefore the operation escalates from contact/recovery into securing enough of MIT and adjacent Cambridge territory to keep the system alive.
+
+PREFERRED MISSION SHAPE
+1. Post-THE POCKET briefing / intelligence need becomes explicit.
+2. Cross the Charles via or around the BU Bridge / Grand Junction seam.
+3. Make contact with Cambridge local resistance.
+4. Penetrate the partially occupied / exploited MIT campus.
+5. Locate and secure the Senseable team before Russian technical exploitation exposes the surviving system.
+6. Protect/restore required technical nodes and free or recover key personnel where needed.
+7. Shape the local Russian response by neutralizing surveillance, comms, QRF, or other controlling nodes.
+8. Enable Cambridge resistance forces to secure sufficient surrounding territory.
+9. Bring the preserved sensing architecture back online gradually.
+
+END-STATE — RESISTANCE CAPABILITY
+Before Mission 07, AFC Boston intelligence is dominated by HUMINT, couriers, physical reconnaissance, rooftop/street observation, captured documents, and local reporting.
+
+After Mission 07, those sources can be fused with a persistent but incomplete technical picture from surviving urban sensors.
+
+Valid campaign outputs include:
+- probable patrol routes;
+- vehicle and convoy movement alerts;
+- checkpoint staffing / activity trends;
+- unusual concentrations of occupation forces;
+- traffic and movement changes;
+- areas going unexpectedly quiet or dark;
+- partial imaging or environmental indications;
+- route viability / obstruction changes;
+- later correlation with intercepted communications, captured records, and HUMINT.
+
+GAMEPLAY / STORY LIMIT
+Do not convert this into permanent enemy wallhacks or universal minimap visibility.
+Coverage is partial, delayed, degradable, spoofable, and dependent on analysts interpreting noisy data.
+
+FIRST MAJOR INTELLIGENCE PAYOFFS — LOCKED
+A) EASTERN EXPANSION LANE
+The restored picture exposes a strategically useful corridor east / northeast from the newly linked THE POCKET–MIT resistance network toward the adjacent occupation sector containing Van Hult Bodyworks and associated skilled-labor / fabrication potential.
+
+This intelligence is intended to motivate the next phase of Act II expansion.
+
+B) ADMINISTRATIVE / INSIDE-HELP ANOMALY
+The researchers identify a pattern in how Russian forces have exploited obscure municipal ingress routes, service roads, utility approaches, restricted access points, and other non-obvious urban seams.
+
+The decisive clue is not merely that Russian maps are detailed.
+
+Russian units repeatedly use hidden routes that are still viable while avoiding routes that were recently closed, obstructed, decommissioned, under repair, or otherwise unusable.
+
+There is no visible trial-and-error pattern: no repeated dead ends, no systematic testing of stale accesses, and no corresponding sequence of reconnaissance mistakes.
+
+This absence of margin for error is the first strong evidence that the occupation force was working from current, curated local information rather than ordinary military mapping alone.
+
+EARLY ANALYTIC HYPOTHESIS
+The AFC / Senseable analysts do not identify Douglas Nasmith immediately.
+
+The first defensible suspicion is broader:
+"Someone with access to Boston's administrative / contracting / infrastructure picture helped prepare the city for occupation."
+
+This is the causal seed for the later City Hall / Nasmith / shadow-government investigation.
+
+REACTIVATION PRESENTATION
+Avoid a single switch instantly revealing Boston.
+
+Preferred ending image:
+- a small number of endpoints answer;
+- additional nodes come online unevenly;
+- dead sectors remain dark;
+- scattered points appear farther east and downtown;
+- the technical team realizes the system can see beyond resistance-held streets;
+- the player understands that Boston has gained eyes, not omniscience.
+
+TITLE NOTES
+EYES OF THE CITY is the current preferred title because it names the mission's achievement rather than only its problem.
+BLIND SPOT remains useful for a later mission involving deliberate Russian sensor suppression / spoofing / destruction.
+LIGHT IN THE DARK remains available for another resistance/civilian beat.
+No final mission-title lock is asserted by this rev1 page.
+
+OPEN FIELDS
+- final Mission 07 title;
+- exact campus tactical envelope and building-level objectives;
+- final Senseable staff identities / roles;
+- exact Cambridge resistance characters;
+- precise crossing route and Russian security layout;
+- exact technical nodes required for restoration;
+- exact number/type of surviving sensors;
+- mission dialogue / screenplay;
+- precise transition from Mission 07 into the Van Hult-sector operation.
+
+RELATED SOURCES
+- PW_THE_POCKET_Act1_Mission06_Script_Path_2026-07-22_rev1.txt
+- PW_BODYWORK_Mitchell_Van_Hult_Branch_Reference_2026-04-12.txt
+- PW_NO_KINGS_Nasmith_CityHall_Logan_Arc_Lock_2026-08-21_rev1.txt
+
+END
