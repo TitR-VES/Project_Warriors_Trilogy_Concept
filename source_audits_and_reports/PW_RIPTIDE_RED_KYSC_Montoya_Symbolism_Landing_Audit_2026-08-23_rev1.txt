@@ -1,0 +1,146 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+RIPTIDE RED — KYSC WRIST MOTIF / MONTOYA FARM / KINGMAKER SYMBOLISM
+Generated: 2026-08-23
+Version: rev1
+Status: LANDED / SOURCE-READY / FINAL ART EXECUTION OPEN
+
+AUDIT PURPOSE
+
+Verify that the owner-supplied KYSC wrist-mark reference and the associated Montoya Farm
+/ KINGMAKER symbolism have been landed as controlled Riptide Red visual-narrative source
+without inventing unsupported symbol semantics or disturbing existing mission canon.
+
+LANDED FILES
+
+1. Durable source
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_RIPTIDE_RED_KYSC_Montoya_Wrist_Motif_and_KINGMAKER_Symbol_Visual_Lock_2026-08-23_rev1.txt
+
+2. Working-knowledge bridge
+
+- Project_Warriors_Knowledge_Compendia/
+  PW_RIPTIDE_RED_KYSC_Montoya_Symbolism_Addendum_2026-08-23_rev1.txt
+
+OWNER ATTACHMENT IDENTITY CHECK
+
+PASS — the exact development-thread reference is recorded as:
+
+- uploaded filename: 1000010488.png
+- detected stored format: JPEG
+- dimensions: 1536 x 551
+- SHA-256: 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+
+PASS — the source identifies the visible form conservatively as a rough black concept
+built from three heavy triangular glyphs, a differently oriented center element, simple
+internal marks, and slash-like separators.
+
+PASS — the reference is treated as controlling for motif identity while cleaned final
+vector/art execution remains open.
+
+PASS — the binary attachment itself is not redistributed in this revision; the manifest
+provides an exact checksum and dimensions for later re-association with the same owner
+reference or a private production-reference library.
+
+CANON CHECK — KYSC
+
+PASS — the five KYSC subjects encountered in PANDORA'S BOX carry the supplied motif on
+their wrists.
+
+PASS — the motif is intentional shared program visual language rather than incidental
+body art.
+
+PASS — the landing does NOT invent a definitive diegetic explanation for the wrist
+mark. Cohort, ownership, medical, treatment-stage, ritual, handler, and program-code
+interpretations remain unassigned.
+
+CANON CHECK — MONTOYA FARM
+
+PASS — the same motif recurs within the underground Montoya Farm complex in BURNING
+DAYLIGHT.
+
+PASS — the recurrence is treated as a visual clue linking PANDORA'S BOX to the Montoya
+Farm conditioning architecture.
+
+PASS — no exact room placement, count, color, scale, material, decal type, signage role,
+or facility map is invented.
+
+PASS — repetition is framed as controlled institutional/program visual language rather
+than indiscriminate decoration.
+
+CANON CHECK — KINGMAKER
+
+PASS — KINGMAKER receives a distinct recurring symbol inside the Montoya Farm
+underground complex.
+
+PASS — the symbol is defined as a stylized minimalist representation derived from the
+upper-wing pattern / markings of a monarch butterfly.
+
+PASS — the design intent carries two owner-defined associations:
+
+- monarch / king wordplay tied to KINGMAKER; and
+- an allusion to the alleged "MONARCH" mind-control program described in conspiracy
+  literature as a later evolution / continuation of MKULTRA.
+
+PASS — the source explicitly preserves the real-world uncertainty boundary. It does not
+state that the alleged MONARCH program is verified historical fact.
+
+PASS — final KINGMAKER logo geometry remains an art-direction task and is not silently
+invented in this landing.
+
+DISTINCTION CHECK
+
+PASS — the KYSC wrist motif and KINGMAKER monarch-derived symbol remain separate marks.
+
+PASS — the source prohibits silently:
+
+- turning the wrist motif into a butterfly;
+- treating the wrist motif as merely a reduced KINGMAKER logo;
+- placing KINGMAKER on KYSC wrists without later source support;
+- inventing a formal hierarchy between the two marks.
+
+NARRATIVE-CONTINUITY CHECK
+
+PASS — the visual language strengthens the existing evidence chain:
+
+KYSC subjects -> shared marking -> Montoya Farm evidence -> motif recurrence in the
+underground complex -> separate KINGMAKER symbol -> later wider KINGMAKER disclosure.
+
+PASS — no change is introduced to:
+
+- PANDORA'S BOX ordering or outcome;
+- the five-subject KYSC count;
+- Montoya Farm's New Mexico placement;
+- BURNING DAYLIGHT structure;
+- the operational rather than abandoned nature of the underground facility;
+- Shadow Underground discovery;
+- baseline CogniConnect / War Wolves-only CFIM distinction;
+- COME FLY WITH ME or SINS OF OUR FATHERS sequencing;
+- KINGMAKER's established broader conspiracy role.
+
+PRODUCTION-OPEN CHECK
+
+Explicitly retained as open:
+
+- cleaned wrist-motif vector geometry;
+- exact wrist side, scale, orientation, age, and application method;
+- whether the mark is tattooed, branded, scarified, inked, chemically applied, or
+  otherwise produced;
+- environmental placement and density in Montoya Farm;
+- final KINGMAKER logo construction and abstraction level;
+- color/material/signage/UI usage;
+- codex, collectible, dialogue, subtitle, or objective naming;
+- close-up presentation, lighting, decals, LODs, damage/blood states, accessibility,
+  and performance.
+
+AUDIT RESULT
+
+PASS.
+
+The 2026-08-23 owner update is now represented as a durable source lock plus working-
+knowledge bridge. The landing preserves the exact wrist-motif attachment identity,
+locks its KYSC and Montoya Farm recurrence, establishes the separate monarch-derived
+KINGMAKER symbol and its intended MONARCH/MKULTRA allusion, and avoids inventing symbol
+semantics or real-world historical certainty beyond the owner's stated concept.
+
+END
