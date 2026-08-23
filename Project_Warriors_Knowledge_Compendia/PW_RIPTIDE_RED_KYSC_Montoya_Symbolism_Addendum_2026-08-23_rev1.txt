@@ -1,0 +1,104 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE ADDENDUM
+RIPTIDE RED — KYSC / MONTOYA FARM SYMBOLISM
+Generated: 2026-08-23
+Version: rev1
+Status: CURRENT WORKING KNOWLEDGE / SOURCE-BACKED
+
+CONTROLLING SOURCE
+
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/
+  PW_RIPTIDE_RED_KYSC_Montoya_Wrist_Motif_and_KINGMAKER_Symbol_Visual_Lock_2026-08-23_rev1.txt
+
+CURRENT LOCKS
+
+PANDORA'S BOX
+
+- The five Kali Yuga Surf Club (KYSC) subjects carry the owner-supplied three-glyph
+  marking on their wrists.
+- The marking is deliberate and shared, not incidental body art.
+- It functions as an early visual clue connecting the KYSC subjects to the coercive /
+  conditioning architecture later discovered at Montoya Farm.
+- The exact in-universe meaning of the wrist mark remains open. Do not invent a cohort,
+  treatment-stage, ownership, ritual, medical, handler, or program-label explanation.
+
+OWNER VISUAL REFERENCE
+
+- uploaded filename: 1000010488.png
+- detected stored format: JPEG
+- dimensions: 1536 x 551
+- SHA-256: 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+- visual identity: three heavy triangular glyphs in sequence, the center differently
+  oriented, with simple internal marks and slash-like separators.
+- Final artwork may clean the geometry but must remain recognizably derived from this
+  owner concept.
+
+BURNING DAYLIGHT / MONTOYA FARM
+
+- The same KYSC wrist-pattern motif recurs within the underground Montoya Farm complex.
+- Its recurrence is a visual continuity clue: attentive players can recognize the link
+  from the KYSC subjects before or alongside documentary confirmation.
+- Exact placement, density, scale, color, material, signage role, and environmental
+  implementation remain production-open.
+- The motif should read as controlled institutional/program visual language, not generic
+  decorative wallpaper.
+
+KINGMAKER SYMBOL
+
+- KINGMAKER has a separate recurring symbol in the Montoya Farm underground complex.
+- The KINGMAKER mark is a stylized minimalist abstraction of the upper-wing pattern /
+  markings of a monarch butterfly.
+- The monarch-butterfly reference is simultaneously wordplay on KING / KINGMAKER and an
+  intentional allusion to the alleged "MONARCH" mind-control program described in
+  conspiracy literature as an evolution / continuation of MKULTRA.
+- Project Warriors does not treat the alleged real-world MONARCH program as verified
+  historical fact; the reference remains a fictional/cultural allusion.
+- Final KINGMAKER logo geometry remains open.
+
+DISTINCTION RULE
+
+The KYSC wrist motif and KINGMAKER monarch-derived symbol are NOT the same mark.
+
+Do not:
+
+- turn the wrist motif into a butterfly;
+- treat it as a reduced KINGMAKER logo;
+- assume KINGMAKER is printed on KYSC wrists;
+- infer a formal hierarchy between the two symbols without later source support.
+
+The two marks may co-occur in Montoya Farm because they belong to the same hidden
+program ecosystem while serving different visual/narrative functions.
+
+NARRATIVE FUNCTION
+
+Preferred clue progression:
+
+KYSC abnormal behavior / medical profile -> shared wrist motif -> evidence points to
+Montoya Farm -> wrist motif recurs underground -> separate KINGMAKER symbol appears in
+the same institutional environment -> later story disclosure expands KINGMAKER into the
+larger shadow-power / coercive-exploitation architecture.
+
+UNCHANGED CONTINUITY
+
+This addendum does not change:
+
+- the five-subject KYSC count;
+- PANDORA'S BOX mission outcome;
+- Montoya Farm's New Mexico location;
+- BURNING DAYLIGHT mission structure;
+- the operational underground-facility premise;
+- the Shadow Underground discovery;
+- CFIM / War Wolves exclusivity;
+- the COME FLY WITH ME -> SINS OF OUR FATHERS continuation;
+- KINGMAKER's existing role in the conspiracy.
+
+OPEN PRODUCTION ITEMS
+
+- exact cleaned wrist-mark vector;
+- application method and body-placement details;
+- Montoya recurrence map;
+- final KINGMAKER logo;
+- environmental use and placement density;
+- codex/dialogue naming;
+- lighting, decal, material, LOD, and accessibility treatment.
+
+END
