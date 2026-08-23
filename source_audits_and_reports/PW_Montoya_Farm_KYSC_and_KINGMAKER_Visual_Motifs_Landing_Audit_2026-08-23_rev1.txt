@@ -1,0 +1,51 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+Subject: Montoya Farm / KYSC wrist pattern and KINGMAKER symbol
+Generated: 2026-08-23
+Version: rev1
+
+SCOPE
+Review and source-land two owner-supplied hand-drawn visual references for the RIPTIDE RED Montoya Farm / KYSC lane:
+1. the wrist marking carried by Montoya Farm victims associated with KYSC;
+2. the separate KINGMAKER symbol recurring in the underground complex.
+
+FILES LANDED
+- dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_Montoya_Farm_KYSC_and_KINGMAKER_Visual_Motifs_2026-08-23_rev1.txt
+- Project_Warriors_Knowledge_Compendia/PW_Montoya_Farm_KYSC_and_KINGMAKER_Visual_Motifs_Addendum_2026-08-23_rev1.txt
+
+REFERENCE VALIDATION
+Reference A — KYSC / Montoya wrist pattern
+- JPEG
+- 1536 x 551
+- SHA-256: 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+- visible structure: three heavy triangular / chevron-like glyphs arranged horizontally, separated by diagonal slashes, each with smaller internal strokes / forms
+
+Reference B — KINGMAKER symbol
+- JPEG
+- 1157 x 1536
+- SHA-256: 33e2b06d2dff716b6ee4e1eb1e98f82d72f7eeaae7a980df4aa9c12c4fcafd8d
+- visible structure: heavy angular asymmetric mark derived by owner intent from the upper-wing pattern / geometry of a monarch butterfly
+
+CANON / CONTINUITY RESULT
+- The prior generic "MKULTRA-linked tattoos / symbols" language is now refined into two distinct visual motifs rather than one ambiguous symbol family.
+- The wrist pattern is carried by Montoya Farm / KYSC victims and recurs inside the facility as a continuity marker.
+- KINGMAKER has a separate monarch-butterfly-derived program symbol.
+- No change is made to the current CogniConnect / CFIM boundary: KYSC may carry baseline CogniConnect; CFIM remains War Wolves-only.
+- No supernatural or occult function is assigned to either symbol.
+- No textual translation or invented glyph semantics are assigned to the wrist pattern.
+
+REAL-WORLD CLAIM HYGIENE
+The owner intent deliberately references conspiracy narratives about an alleged CIA "Project MONARCH" said in those narratives to continue / evolve MKULTRA. The landing preserves that intended allusion while explicitly preventing it from being presented as established real-world history. MKULTRA is documented; the alleged MONARCH successor narrative is treated as unverified conspiracy lore.
+
+BINARY / PROVENANCE HANDLING
+The exact owner-supplied image binaries are not redistributed in this text-only connector landing. Hashes, dimensions, visual interpretation, and authority are preserved so the original attachments can be matched later to a licensed / private / production visual-reference library or a repository binary asset path.
+
+OPEN PRODUCTION ITEMS
+- exact tattoo / marking application method;
+- left / right / bilateral wrist placement;
+- vector cleanup and production artwork;
+- exact room-by-room symbol placement;
+- whether KINGMAKER appears in digital interfaces / files;
+- whether the monarch allusion is ever made explicit in-world or remains inferential.
+
+READINESS
+SOURCE-READY visual / environmental canon. Production-art implementation remains open.
