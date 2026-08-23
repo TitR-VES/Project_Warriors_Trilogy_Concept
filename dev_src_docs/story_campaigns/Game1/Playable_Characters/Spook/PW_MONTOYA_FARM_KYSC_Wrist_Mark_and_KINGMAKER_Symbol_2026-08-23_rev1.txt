@@ -1,0 +1,144 @@
+PROJECT WARRIORS — MONTOYA FARM / KYSC VISUAL-SYMBOL SOURCE
+Generated: 2026-08-23
+Version: rev1
+Status: CANON VISUAL-IDENTITY LOCK / SOURCE-READY
+Campaign: Spook Game 1 — RIPTIDE RED
+Relevant missions: PANDORA'S BOX; BURNING DAYLIGHT
+
+PURPOSE
+Lock the two owner-supplied visual motifs associated with the Montoya Farm conditioning architecture:
+1. the distinctive wrist mark carried by Montoya Farm victims / KYSC subjects; and
+2. the separate KINGMAKER emblem recurring inside the Montoya Farm underground complex.
+
+This source extends the existing PANDORA'S BOX -> Montoya Farm clue chain without changing KYSC implant canon, CFIM scope, mission order, or the broader BURNING DAYLIGHT objective flow.
+
+===============================================================================
+01. KYSC / MONTOYA FARM WRIST MARK
+===============================================================================
+
+CANON LOCK
+Montoya Farm victims who later appear as KYSC subjects carry the owner-supplied angular mark on the wrist.
+
+The mark is a compact, hand-drawn-looking geometric device built from nested / intersecting angular forms. Its visual identity is deliberately rougher and more cryptic than a conventional corporate logo: a tall outer triangular frame and internal diagonal / triangular geometry fold toward a smaller angular loop or enclosed form near the lower side of the design.
+
+The exact owner sketch controls the shape. Production cleanup may regularize line weight and reproducibility, but must not redesign it into a generic triangle, occult sigil, military unit patch, or clean modern tech-company mark.
+
+ENVIRONMENTAL USE
+The same wrist-mark pattern recurs as a visual motif inside the underground Montoya Farm complex. It may appear in controlled repetition on walls, records, treatment-space graphics, door or room identifiers, equipment markings, or other authored facility surfaces where appropriate.
+
+The motif should function as visual continuity between the people processed by the facility and the facility itself. Its recurrence lets attentive players connect the five KYSC encountered during PANDORA'S BOX to Montoya Farm before every part of the connection is explained in dialogue.
+
+APPLICATION METHOD
+Existing recovered material describes the PANDORA'S BOX marks as tattoos. This source locks the visual design and wrist placement, but does not further specify production details such as ink color, age, exact size, laterality, application method, scarring, or whether every subject has an identical degree of wear. Those remain art / character-production fields unless later owner-locked.
+
+===============================================================================
+02. KINGMAKER SYMBOL
+===============================================================================
+
+CANON LOCK
+The second owner-supplied symbol is the KINGMAKER emblem. It is distinct from the KYSC wrist mark.
+
+The KINGMAKER emblem is a stylized minimalist abstraction of the upper-wing pattern of a monarch butterfly. The supplied sketch uses three bold angular wing-like forms arranged as a repeated / linked motif, with simplified inner marks suggesting the characteristic internal patterning of monarch wings rather than depicting a literal butterfly silhouette.
+
+The emblem recurs throughout the Montoya Farm underground complex alongside the KYSC wrist-mark motif.
+
+NAME / SYMBOL LOGIC
+The monarch-butterfly reference has two intended creator-side meanings:
+- a direct visual play on the KING element of KINGMAKER through the monarch / king association; and
+- an intertextual nod to the alleged "MONARCH" mind-control program described in conspiracy lore as a later continuation or evolution of MKULTRA.
+
+REAL-WORLD CLAIM BOUNDARY
+The alleged MONARCH-program connection is an allusive reference to real-world conspiracy lore, not a Project Warriors assertion that such a CIA program is established historical fact. Current-facing source text, collectible copy, marketing, or explanatory material should not present the alleged MONARCH program as verified real history.
+
+Within the fiction, the symbol may exploit that body of conspiracy imagery and MKULTRA associations as part of KINGMAKER / Montoya Farm's visual language. The fictional program architecture remains Project Warriors canon; the real-world MONARCH claim remains an external allusion.
+
+===============================================================================
+03. RELATIONSHIP BETWEEN THE TWO MOTIFS
+===============================================================================
+
+DO NOT CONFLATE THEM.
+
+KYSC WRIST MARK
+- carried on Montoya Farm victims / KYSC subjects;
+- repeated within the underground facility;
+- strongest function is subject/facility continuity and clue recognition.
+
+KINGMAKER EMBLEM
+- organizational / programmatic environmental iconography;
+- stylized monarch-butterfly upper-wing pattern;
+- recurring underground motif;
+- carries the KINGMAKER name-play and MKULTRA/MONARCH conspiracy-lore allusion.
+
+They can occupy the same spaces and visual system, but they should remain immediately distinguishable silhouettes.
+
+===============================================================================
+04. MISSION / INVESTIGATIVE FUNCTION
+===============================================================================
+
+PANDORA'S BOX
+The wrist mark strengthens the physical clue carried by the five KYSC subjects. The player does not need a complete explanation in Miami; recognition becomes more valuable when BURNING DAYLIGHT later repeats the same geometry inside Montoya Farm.
+
+BURNING DAYLIGHT
+The underground facility should make both motifs legible through repetition without turning them into horror-theme wallpaper. Their presence should feel institutional: branding, classification, treatment architecture, program shorthand, or inherited internal symbolism embedded in a real working site.
+
+The effect should be accumulation rather than a single forced reveal. A player who remembers the KYSC wrists should experience the Montoya motif as confirmation that the Miami subjects came through this system.
+
+===============================================================================
+05. ART-DIRECTION RULES
+===============================================================================
+
+- Preserve the owner-supplied silhouettes as the controlling reference.
+- Avoid adding invented occult, satanic, Masonic, runic, or supernatural meaning.
+- Avoid making either motif glow, animate, or behave like supernatural iconography.
+- Keep environmental use plausible for an institutional clandestine facility: stencils, printed labels, etched or painted marks, file graphics, treatment-room identifiers, controlled wall markings, or similar applications.
+- Repetition should be noticeable enough to establish a system but restrained enough to avoid haunted-house set dressing.
+- The wrist mark and KINGMAKER emblem must remain separate readable devices.
+- Final vector cleanup, precise dimensions, color palette, material applications, and placement map remain production work.
+
+===============================================================================
+06. OWNER-SUPPLIED VISUAL REFERENCES / PROVENANCE
+===============================================================================
+
+REFERENCE A — KYSC WRIST MARK
+Thread filename: 1000010490.jpg
+Detected format: JPEG
+Dimensions: 1157 x 1536 px
+SHA-256: 33e2b06d2dff716b6ee4e1eb1e98f82d72f7eeaae7a980df4aa9c12c4fcafd8d
+Description: owner-supplied hand-drawn angular wrist-mark reference on lined paper.
+Authority: controls the canonical visual geometry of the KYSC / Montoya Farm wrist mark.
+
+REFERENCE B — KINGMAKER SYMBOL
+Thread filename: 1000010488.png
+Detected file encoding: JPEG despite .png filename extension
+Dimensions: 1536 x 551 px
+SHA-256: 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+Description: owner-supplied black-on-white sketch of three linked / repeated angular monarch-wing abstractions.
+Authority: controls the canonical visual geometry of the KINGMAKER emblem.
+
+BINARY-LANDING STATUS
+The two thread images are not redistributed as repository binary assets in this revision. Their exact hashes, dimensions, descriptions, and authority are recorded here so they remain identifiable owner handoff references. A later art-asset pass may land cleaned vectors or the original binaries after the repository's preferred provenance / asset-handling decision is made.
+
+===============================================================================
+07. CONTINUITY SAFEGUARDS
+===============================================================================
+
+- KYSC remain conditioned Montoya Farm subjects / operatives, not generic elite enemies.
+- Baseline CogniConnect may be present on KYSC; CFIM remains War Wolves-only unless a later controlling source explicitly changes that rule.
+- This source does not alter the five-KYSC PANDORA'S BOX encounter count or BURNING DAYLIGHT mission flow.
+- This source does not redefine KINGMAKER beyond the currently established Goldberg-linked financial / programmatic identity; it adds visual-symbol meaning and recurrence.
+- Existing MKULTRA-linked clue language remains compatible, but the real-world alleged MONARCH program must stay framed as conspiracy-lore allusion rather than verified history.
+
+===============================================================================
+08. OPEN PRODUCTION FIELDS
+===============================================================================
+
+- exact wrist (left / right / variable) and mark dimensions;
+- tattoo ink / scarring / age / wear treatment;
+- final cleaned vector geometry for both motifs;
+- monochrome vs limited-color production palette;
+- exact underground placement map and recurrence density;
+- whether specific documents, treatment rooms, uniforms, equipment, or interfaces use one motif, the other, or neither;
+- whether any in-world collectible explicitly comments on the monarch-butterfly resemblance;
+- final accessibility treatment so clue recognition does not depend only on color.
+
+END SOURCE
