@@ -1,0 +1,27 @@
+PROJECT WARRIORS — KNOWLEDGE COMPENDIA ADDENDUM
+Subject: MINERVA / TRU/SIGHT DAOG identity hierarchy
+Date: 2026-08-25
+Revision: rev1
+Status: CURRENT CANON ADDENDUM
+
+LOCK
+MINERVA is now the normal player-facing, spoken, and unit-identity name for DAOG's intelligence / counterintelligence element.
+
+The formal internal designation remains TRU/SIGHT / TRUSIGHT — Tactical Reconnaissance Unit / Signals Intelligence and Geospatial Heuristics Team.
+
+USE
+- MINERVA: dialogue, allied references, mission briefings, concise player-facing unit labels, and ordinary DAOG shorthand.
+- TRU/SIGHT / TRUSIGHT: formal records, classified documents, technical systems, intelligence products, administrative references, and contexts where the formal organization name matters.
+- MINERVA Detachment: acceptable expanded form when disambiguation is needed.
+
+CONTINUITY
+- Jaeger / Karl Alexander Stanzler remains assigned to this organization.
+- Existing TRU/SIGHT references remain valid and should not be globally replaced.
+- PYTHIA remains retired.
+- ORACLE remains Lt. Tara Halliday's callsign.
+
+MYTHOLOGY NOTE
+Minerva is Roman; Athena is the Greek counterpart. MINERVA is intentional because DAOG's naming family is mythological rather than strictly Greek-only.
+
+SOURCE OF TRUTH
+See dev_src_docs/canon_lore_source_of_truth/PW_MINERVA_TRUSIGHT_Unit_Identity_2026-08-25_rev1.txt
