@@ -1,0 +1,224 @@
+PROJECT WARRIORS — GAME 1 / RIPTIDE RED
+PANDORA'S BOX / BURNING DAYLIGHT — KYSC WRIST MOTIF AND MONTOYA FARM KINGMAKER SYMBOL VISUAL LOCK
+Generated: 2026-08-23
+Version: rev1
+Status: OWNER-LOCKED VISUAL NARRATIVE SOURCE / SOURCE-READY / FINAL ART EXECUTION OPEN
+
+PURPOSE
+
+Lock two related but distinct visual motifs connecting the Kali Yuga Surf Club (KYSC)
+subjects encountered in PANDORA'S BOX with the hidden Montoya Farm conditioning complex
+encountered in BURNING DAYLIGHT:
+
+1. the owner-supplied wrist marking worn by the KYSC subjects and repeated as a motif
+   within the Montoya Farm underground complex; and
+2. the separate KINGMAKER symbol, also recurring within the underground complex,
+   designed as a stylized minimalist abstraction of the upper-wing pattern / markings
+   of a monarch butterfly.
+
+The two motifs belong to the same covert-program visual language but are not the same
+symbol and must not be collapsed into one mark during production.
+
+RELATED CURRENT CONTINUITY
+
+- PANDORA'S BOX places five KYSC operatives at the abandoned Desautels resort in South
+  Florida. Their repeated markings, behavior, and medical profile indicate conditioning
+  rather than ordinary mercenary recruitment.
+- Recovered evidence connects those KYSC subjects to Montoya Farm and an older
+  MKULTRA-adjacent conditioning lane.
+- BURNING DAYLIGHT takes Victor Two Bravo into the operational underground facility at
+  Montoya Farm, where prison cells, medical / conditioning spaces, dormitories,
+  simulated environments, production areas, and archive infrastructure reveal a larger
+  institutional coercion architecture.
+- SINS OF OUR FATHERS later identifies KINGMAKER as part of the shadow power network
+  and coercive exploitation architecture behind the Montoya Farm / Shadow Underground
+  chain.
+- The current derivative Game 1 mission-by-mission synopsis remains useful for the
+  broad mission relationship but does not control the finer visual treatment locked
+  here.
+
+================================================================================
+OWNER-SUPPLIED WRIST-MOTIF REFERENCE
+================================================================================
+
+Attachment identity from the 2026-08-23 development thread:
+
+Original uploaded filename: 1000010488.png
+Detected stored image format: JPEG
+Dimensions: 1536 x 551
+SHA-256: 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+
+Working visual description:
+
+- rough black hand-drawn concept on a pale / white field;
+- three heavy triangular glyphs arranged horizontally;
+- the central triangular element is differently oriented from the flanking elements;
+- each large triangular glyph contains a smaller simple internal mark;
+- diagonal slash-like separators sit between the three major glyphs;
+- line weight is intentionally rough and marker-like in the supplied concept.
+
+The attachment is the controlling owner reference for the basic identity and visual
+relationship of the wrist pattern. Final production artwork may clean the geometry,
+normalize line weight, adapt it to skin, scarification, tattooing, branding, ink,
+paint, stencil, engraved surfaces, or other appropriate material treatments only after
+those execution choices are separately developed. Cleaning the artwork must preserve
+recognition of the supplied three-glyph pattern rather than silently redesigning it.
+
+The exact binary attachment is not redistributed by this source revision. Its filename,
+format detection, dimensions, and SHA-256 hash are recorded so the same owner reference
+can be re-associated with the repository source or a private production reference
+library later.
+
+================================================================================
+LOCK 01 — KYSC WRIST MARKING
+================================================================================
+
+The five KYSC subjects encountered in PANDORA'S BOX carry the supplied three-glyph
+pattern on their wrists.
+
+This is a deliberate recurring program mark, not incidental body art.
+
+Production intent:
+
+- the marking should be visually readable at close investigative distance;
+- the player does not need a forced cinematic close-up for the motif to exist;
+- observation, body inspection, environmental photography, medical documentation,
+  recovered files, or other diegetic presentation may reinforce it depending on final
+  mission implementation;
+- the marking functions as an early visual clue that the KYSC subjects belong to a
+  larger conditioning / exploitation system;
+- its later recurrence at Montoya Farm should allow attentive players to recognize a
+  visual connection before or alongside explicit documentary confirmation.
+
+The exact in-universe semantic meaning of the wrist mark is NOT locked by this source.
+It must not yet be labeled as a specific cohort code, treatment stage, ownership mark,
+handler mark, ritual symbol, medical classification, or program name unless a later
+source explicitly establishes that meaning.
+
+================================================================================
+LOCK 02 — MONTOYA FARM RECURRENCE
+================================================================================
+
+The same wrist-pattern motif recurs within the underground Montoya Farm complex in
+BURNING DAYLIGHT.
+
+It may appear as part of the facility's visual language on appropriate authored
+surfaces, documents, equipment, wayfinding, controlled spaces, archival material,
+medical / conditioning context, or other production elements.
+
+This source does NOT lock exact placement counts, room assignments, scale, color,
+material, or whether each appearance is painted, printed, stenciled, etched, engraved,
+projected, embedded in UI, or physically constructed. Those are level-art and narrative-
+environment decisions.
+
+The important continuity rule is recognition: the Montoya Farm recurrence must be
+clearly enough related to the wrist mark that a player who noticed the KYSC wrists can
+understand that the two locations belong to the same hidden system.
+
+The motif should not become indiscriminate wallpaper. Repetition needs to feel like a
+controlled institutional sign system, program mark, or internal visual language rather
+than decoration applied to every wall.
+
+================================================================================
+LOCK 03 — KINGMAKER SYMBOL
+================================================================================
+
+KINGMAKER has its own separate recurring symbol inside the Montoya Farm underground
+complex.
+
+The KINGMAKER mark is a stylized minimalist representation derived from the upper-wing
+pattern / markings of a monarch butterfly.
+
+The design has two intended layers:
+
+- a direct visual / verbal play on the KING element of KINGMAKER through the monarch
+  butterfly; and
+- a deliberate allusion to the alleged real-world "MONARCH" mind-control program as it
+  is described in conspiracy literature, where it is often claimed to be a later
+  evolution or continuation of MKULTRA.
+
+REAL-WORLD REFERENCE BOUNDARY
+
+The Project Warriors use of MONARCH is an allusive fictional / cultural reference. This
+source does not assert that the alleged real-world MONARCH program has been verified as
+historical fact. The in-universe Montoya / KINGMAKER architecture remains fictional and
+must not depend on presenting contested conspiracy claims as established real history.
+
+The monarch-butterfly derivation should remain visually restrained and minimalist. It
+should not become a literal butterfly illustration unless a later art-direction source
+chooses that treatment. The mark needs to read first as a covert institutional symbol
+and only secondarily reward players who recognize the monarch reference.
+
+================================================================================
+LOCK 04 — RELATIONSHIP BETWEEN THE TWO MOTIFS
+================================================================================
+
+The KYSC wrist motif and the KINGMAKER monarch-derived symbol are distinct marks.
+
+They may appear in proximity within Montoya Farm because both belong to the hidden
+program's visual ecosystem, but production must preserve their separate identities.
+
+Do not:
+
+- redraw the KYSC wrist pattern into a butterfly;
+- treat the wrist mark as merely a simplified KINGMAKER logo;
+- place the KINGMAKER mark on the KYSC wrists unless separately established later;
+- infer that every person or object carrying one motif must carry the other;
+- invent a hierarchy between the two marks without source support.
+
+Their co-presence is useful precisely because it suggests multiple layers inside the
+same institution: one mark can follow conditioned human subjects while the other can
+identify the broader KINGMAKER architecture.
+
+================================================================================
+NARRATIVE / ENVIRONMENTAL FUNCTION
+================================================================================
+
+The motif pair should strengthen the PANDORA'S BOX -> BURNING DAYLIGHT evidence chain.
+
+Desired player-facing effect:
+
+1. the KYSC subjects appear behaviorally and medically abnormal;
+2. the repeated wrist mark gives them a shared visual identity;
+3. recovered evidence points toward Montoya Farm;
+4. the same motif reappears inside the underground facility, confirming the visual
+   connection;
+5. a distinct KINGMAKER symbol recurs in the same environment and begins to widen the
+   mystery from a local conditioning site into a larger architecture;
+6. later narrative disclosure can name KINGMAKER without requiring the symbol itself to
+   explain the whole conspiracy on first sight.
+
+This preserves layered discovery. The player can notice visual evidence before fully
+understanding the organization behind it.
+
+================================================================================
+PRODUCTION-OPEN FIELDS
+================================================================================
+
+Still open:
+
+- cleaned vector geometry for the KYSC wrist motif;
+- exact wrist placement, scale, orientation, bilateral / unilateral use, aging, and
+  application method;
+- whether the mark is tattooed, branded, scarified, inked, chemically marked, or
+  represented through another plausible in-world process;
+- exact Montoya Farm recurrence locations and frequency;
+- color and material palette for environmental instances;
+- final KINGMAKER symbol geometry and degree of abstraction from monarch-wing anatomy;
+- exact relationship between the KINGMAKER mark and facility signage, documents,
+  uniforms, equipment, UI, doors, medical spaces, or restricted areas;
+- whether either motif appears outside PANDORA'S BOX and BURNING DAYLIGHT before later
+  story development explicitly expands its use;
+- any exact diegetic explanation for the wrist motif;
+- any collectible, codex, subtitle, dialogue, or objective text that names either mark;
+- final lighting, decal, LOD, texture, destruction, blood / damage-state, accessibility,
+  and close-up readability implementation.
+
+CANON SAFEGUARD
+
+This source adds visual continuity and symbolic meaning without changing the existing
+mission order, KYSC subject count, Montoya Farm location, conditioning premise,
+Shadow Underground discovery, KINGMAKER conspiracy role, CFIM rules, or the subsequent
+COME FLY WITH ME / SINS OF OUR FATHERS sequence.
+
+END
