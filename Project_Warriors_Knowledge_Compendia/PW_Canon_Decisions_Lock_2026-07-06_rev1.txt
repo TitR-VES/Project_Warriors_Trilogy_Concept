@@ -64,3 +64,21 @@ PROPAGATION CHECKLIST
 - [ ] Paste items 1-6 into ChatGPT project memory.
 - [ ] Commit rev6 set + this file; move rev4/rev5 to archived/.
 - [ ] Upload rev6 set (or handoff trio) to Claude project knowledge.
+
+================================================================================
+ADDENDUM — 2026-08-25
+================================================================================
+13. MINERVA / TRU/SIGHT IDENTITY HIERARCHY — DECIDED (owner lock 2026-08-25):
+    MINERVA is the normal player-facing, spoken, and unit-identity name for the
+    DAOG intelligence / counterintelligence element. TRU/SIGHT / TRUSIGHT remains
+    the formal internal organizational designation and retains its expansion:
+    Tactical Reconnaissance Unit / Signals Intelligence and Geospatial Heuristics
+    Team. This is additive, not a replacement of TRU/SIGHT. Use MINERVA for the
+    people / recognizable unit identity; use TRU/SIGHT for formal records,
+    classified documentation, technical systems, intelligence products, and
+    bureaucratic precision. "MINERVA Detachment" is an acceptable expanded form.
+    Jaeger / Karl Alexander Stanzler remains personnel of the same organization.
+    Existing TRU/SIGHT references remain valid and should not be globally replaced.
+    PYTHIA remains retired; ORACLE remains Lt. Tara Halliday's callsign. Minerva is
+    Roman (Athena is the Greek counterpart); the choice is intentional because
+    DAOG's naming family is mythological rather than strictly Greek-only.
