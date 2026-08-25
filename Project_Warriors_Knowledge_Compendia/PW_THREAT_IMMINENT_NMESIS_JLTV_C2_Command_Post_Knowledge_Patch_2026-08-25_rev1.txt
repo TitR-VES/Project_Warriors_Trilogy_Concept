@@ -1,0 +1,103 @@
+PROJECT WARRIORS — WORKING KNOWLEDGE PATCH
+THREAT IMMINENT — NMESIS JLTV-DERIVED C2 COMMAND POST
+Generated: 2026-08-25
+Version: rev1
+Status: OWNER CORRECTION / WORKING KNOWLEDGE BRIDGE
+
+PURPOSE
+
+Project the owner-confirmed NMESIS command-post correction into compact working
+knowledge without changing the already locked THREAT IMMINENT finale sequence.
+
+CORE CORRECTION
+
+- The NMESIS command post used by Ducky during the launch is NOT a stand-alone
+  containerized command post.
+- It is a specialized JLTV-family / L-ATV-derived C2 vehicle with an integrated
+  protected rear mission shelter/body.
+- Treat the asset as a fictionalized JLTV-derived NMESIS battery C2 integration rather
+  than claiming that the exact configuration is a standard real-world USMC NMESIS
+  command vehicle.
+- The vehicle is semi-statically emplaced inside the fortified coastal position and
+  may deploy compact leveling jacks / stabilizers / outriggers, antennas and external
+  power/data connections.
+
+INTERIOR LOCK
+
+- Preserve the previously established command-post function and player launch beat,
+  resized/rearranged only to fit the vehicle interior.
+- Use the owner-supplied Kongsberg Coastal Defence Console image as the primary
+  interior workstation reference.
+- Broad visual language: compact two-operator fire-control compartment; large tactical
+  displays; fixed/tactile engagement controls; comms/server racks; maritime tactical
+  picture, system status and mission-planning presentation.
+- Production UI must be fictionalized rather than copied pixel-for-pixel.
+
+REAL-WORLD FIT
+
+The design is supported by public real-world examples:
+
+- Oshkosh has demonstrated an L-ATV C2 mobile command-center configuration with a
+  robust communications suite and modular workstation/rack layout.
+- JLTV is designed for integrated C4ISR and supports a Utility / Shelter Carrier role.
+- HDT's JLTV-compatible Joint Light Tactical Shelter explicitly supports C2 Command
+  Post and Fire Direction Control configurations.
+- Kongsberg's NSM Coastal Defence System Fire Control Center is mobile/vehicle-mounted
+  and uses a dual-operator Coastal Defence Console for NSM mission planning and
+  engagement.
+
+PLAYER / DAMAGE CONTINUITY
+
+- Ducky still manually prepares and launches the Naval Strike Missile from the C2
+  workstation.
+- The launch interaction should communicate target/firing-solution verification,
+  launcher assignment/confirmation and final launch command, compressed as needed for
+  pacing.
+- The post-launch RPG strike still disables and overturns the command post.
+- The C2 mission body includes an emergency roof/service hatch that becomes Ducky's
+  escape opening after rollover.
+- Deployed stabilizers are light leveling/stability supports and must be able to fail,
+  shear, fold, retract or lose purchase during the rollover choreography.
+- Exact rollover physics remain production-open; avoid depicting a small impact as
+  magically lifting a fully anchored vehicle.
+
+UNCHANGED FINALE LOCKS
+
+Everything else remains as already established:
+
+NMESIS assault
+-> Ducky/Switchblade secure the position
+-> Ducky launches Naval Strike Missile at Severomorsk
+-> initial Russian Spetsnaz RPG shock element attacks
+-> command vehicle is disabled and overturned
+-> Lupin post-launch playable defense
+-> Ducky hatch escape
+-> movement to regroup
+-> Kapitan's main Spetsnaz-team fight
+-> Frost regroup
+-> Dutch regroup / campaign close
+
+REFERENCE ATTACHMENTS
+
+A. Vehicle exterior / packaging reference
+- uploaded filename: 1000010510.png
+- actual encoding: JPEG/JFIF
+- 1536 x 1246
+- SHA-256: bdca8f69e2a8ccb9848c653fda97bc0350f809c00a2e6a00b1e9e455917a04f4
+
+B. Fire-control console reference
+- uploaded filename: 1000010475.jpg
+- JPEG/JFIF
+- 1536 x 1024
+- SHA-256: 0042ddf2ad3371750162a5aee77ce075e1911349230d96191f09931586806f0e
+
+CONTROLLING SOURCE
+
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Ducky/
+PW_THREAT_IMMINENT_NMESIS_JLTV_C2_Command_Post_Visual_and_Interaction_Lock_2026-08-25_rev1.txt
+
+MATURITY
+
+SOURCE-READY / NOT PRODUCTION-READY.
+
+END
