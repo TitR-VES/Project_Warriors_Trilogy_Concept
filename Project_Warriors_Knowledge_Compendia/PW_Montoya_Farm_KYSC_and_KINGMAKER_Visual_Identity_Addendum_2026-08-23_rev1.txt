@@ -1,0 +1,38 @@
+PROJECT WARRIORS — WORKING-KNOWLEDGE ADDENDUM
+Generated: 2026-08-23
+Version: rev1
+Domain: Worldbuilding / Missions / Visual Identity
+Subject: Montoya Farm — KYSC wrist mark and KINGMAKER emblem
+
+SOURCE AUTHORITY
+Controlling durable source:
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_MONTOYA_FARM_KYSC_Wrist_Mark_and_KINGMAKER_Symbol_2026-08-23_rev1.txt
+
+CURRENT LOCK
+- Montoya Farm victims who later appear as KYSC subjects carry the owner-supplied angular mark on the wrist.
+- The same wrist-mark geometry recurs as a motif inside the Montoya Farm underground complex, linking the PANDORA'S BOX subjects visually to BURNING DAYLIGHT.
+- The KINGMAKER emblem is a separate recurring underground motif.
+- KINGMAKER is a minimalist stylization of the upper-wing pattern of a monarch butterfly, rendered as linked / repeated angular wing-like forms rather than a literal butterfly silhouette.
+- The monarch reference is a double meaning: a play on KING in KINGMAKER and a creator-side allusion to conspiracy-lore claims about an alleged MONARCH mind-control program associated with / described as a continuation of MKULTRA.
+- Project-facing material must not present the alleged real-world MONARCH program as established historical fact. It is an intertextual conspiracy-lore reference; the fictional Montoya/KINGMAKER architecture is the canon element.
+- The KYSC wrist mark and KINGMAKER emblem must remain distinct readable symbols even when used in the same facility spaces.
+- Environmental repetition should feel institutional and operational rather than supernatural or haunted-house decorative.
+
+CONTINUITY
+- KYSC remain conditioned Montoya Farm subjects / operatives.
+- Baseline CogniConnect may be present; CFIM remains War Wolves-only.
+- Existing PANDORA'S BOX tattoo/MKULTRA clue language and BURNING DAYLIGHT underground-facility architecture remain valid.
+
+VISUAL-REFERENCE IDENTIFIERS
+KYSC wrist mark:
+- thread filename: 1000010490.jpg
+- 1157 x 1536 px
+- SHA-256: 33e2b06d2dff716b6ee4e1eb1e98f82d72f7eeaae7a980df4aa9c12c4fcafd8d
+
+KINGMAKER emblem:
+- thread filename: 1000010488.png
+- detected JPEG encoding; 1536 x 551 px
+- SHA-256: 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+
+OPEN PRODUCTION WORK
+Final cleaned vectors, colors/material applications, exact wrist placement and dimensions, and detailed underground recurrence map remain open.

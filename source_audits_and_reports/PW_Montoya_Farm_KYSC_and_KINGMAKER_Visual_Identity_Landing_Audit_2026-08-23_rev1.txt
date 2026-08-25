@@ -1,0 +1,63 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+Generated: 2026-08-23
+Version: rev1
+Subject: Montoya Farm / KYSC wrist mark and KINGMAKER visual identity
+
+LANDING RESULT
+SOURCE-READY / VISUAL BINARIES REMAIN EXTERNAL OWNER HANDOFF REFERENCES
+
+FILES ADDED
+1. dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_MONTOYA_FARM_KYSC_Wrist_Mark_and_KINGMAKER_Symbol_2026-08-23_rev1.txt
+2. Project_Warriors_Knowledge_Compendia/PW_Montoya_Farm_KYSC_and_KINGMAKER_Visual_Identity_Addendum_2026-08-23_rev1.txt
+3. source_audits_and_reports/PW_Montoya_Farm_KYSC_and_KINGMAKER_Visual_Identity_Landing_Audit_2026-08-23_rev1.txt
+
+OWNER INPUT CAPTURED
+- The first supplied image controls the wrist pattern carried by Montoya Farm victims / KYSC subjects.
+- That wrist pattern also recurs inside the Montoya Farm underground complex.
+- The second supplied image controls the KINGMAKER symbol.
+- KINGMAKER is a stylized minimalist representation of a monarch butterfly upper-wing pattern.
+- Its symbolic logic combines the KING/monarch wordplay with an allusion to alleged MONARCH-program conspiracy lore commonly associated with MKULTRA.
+
+CONTINUITY CHECK
+Checked against the current Riptide Red mission-burst authority:
+- PANDORA'S BOX already establishes five KYSC as evidence of a conditioning pipeline and a physical Montoya/MKULTRA lead.
+- BURNING DAYLIGHT already establishes the hidden Montoya Farm conditioning facility and institutional rather than theatrical-horror presentation.
+- Current KYSC / implant continuity keeps CFIM exclusive to War Wolves.
+
+This landing adds visual identity and clue continuity without changing those mission or implant rules.
+
+REAL-WORLD CLAIM SAFEGUARD
+The source deliberately describes MONARCH as alleged / conspiracy-lore material rather than verified CIA history. The allusion is creator-side symbolic reference; Project Warriors does not need to authenticate the real-world claim in order to use the intertextual association.
+
+REFERENCE INTEGRITY
+Reference A:
+- filename: 1000010490.jpg
+- detected JPEG
+- 1157 x 1536 px
+- SHA-256: 33e2b06d2dff716b6ee4e1eb1e98f82d72f7eeaae7a980df4aa9c12c4fcafd8d
+
+Reference B:
+- filename: 1000010488.png
+- detected JPEG encoding despite .png extension
+- 1536 x 551 px
+- SHA-256: 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+
+BINARY STATUS
+The exact owner-supplied images are not redistributed in the public repository by this landing. Their hashes and dimensions make the controlling handoff references unambiguous. Final cleaned vector assets or the originals can be landed separately when asset provenance / redistribution treatment is explicitly decided.
+
+OPEN / NON-BLOCKING
+- exact left/right wrist assignment;
+- tattoo/scarring/color/material production treatment;
+- cleaned vector geometry;
+- final palette;
+- recurrence density and placement map;
+- specific document/room/equipment applications;
+- whether any collectible explicitly decodes the monarch reference.
+
+VALIDATION
+- The two motifs remain explicitly distinct.
+- No supernatural or invented occult meaning was introduced.
+- No mission order, chronology, encounter count, CogniConnect scope, or CFIM scope was changed.
+- No external historical claim about MONARCH was promoted from allegation to fact.
+
+END AUDIT
