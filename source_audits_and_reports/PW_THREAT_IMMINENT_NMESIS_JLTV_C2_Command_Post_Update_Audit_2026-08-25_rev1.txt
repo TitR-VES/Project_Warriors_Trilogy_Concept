@@ -1,0 +1,112 @@
+PROJECT WARRIORS — SOURCE UPDATE AUDIT
+THREAT IMMINENT — NMESIS JLTV-DERIVED C2 COMMAND POST CORRECTION
+Generated: 2026-08-25
+Version: rev1
+Status: OWNER CORRECTION LANDED / SOURCE-READY
+
+SCOPE
+
+Land the owner's accuracy correction for the THREAT IMMINENT NMESIS launch scene.
+The command post is changed from any prior stand-alone containerized interpretation
+to a specialized JLTV-family / L-ATV-derived C2 vehicle with an integrated protected
+mission shelter.
+
+OWNER UPDATE
+
+- vehicle-based C2 post replaces the containerized-command-post assumption;
+- existing command-post function remains unchanged, with the interior repackaged to
+  fit the vehicle;
+- owner-supplied JLTV-family/L-ATV C2 image controls broad exterior packaging and
+  silhouette;
+- owner-supplied Kongsberg-style dual-operator Coastal Defence Console image controls
+  the broad fire-control-workstation visual language;
+- compact stabilizing/leveling outriggers or jacks remain allowed because the vehicle
+  is operating from a fortified semi-static coastal emplacement;
+- all other finale locks remain unchanged.
+
+PUBLIC PLAUSIBILITY CROSS-CHECK
+
+Public manufacturer material supports the correction:
+
+- Oshkosh Defense has demonstrated an L-ATV C2 protected mobile-command-center
+  configuration with a communications suite, configurable workstations and modular
+  equipment racks.
+- The JLTV family supports integrated C4ISR and a Utility / Shelter Carrier role.
+- HDT's Joint Light Tactical Shelter for JLTV supports C2 Command Post and Fire
+  Direction Control configurations.
+- Kongsberg's NSM Coastal Defence System Fire Control Center is explicitly mobile /
+  vehicle-mounted and its dual-operator Coastal Defence Console supports NSM mission
+  planning and engagement.
+
+The durable source therefore describes the Project Warriors asset as a specialized
+JLTV-derived NMESIS C2 integration, not as a claim that the exact fictional layout is
+a currently standard fielded USMC NMESIS command vehicle.
+
+ROLLOVER CONTINUITY CHECK
+
+The existing post-launch attack sequence remains valid and is preserved:
+
+- Ducky launches the Naval Strike Missile;
+- the initial Russian Spetsnaz shock element attacks with an RPG;
+- the command post is disabled and overturned;
+- Lupin's playable defensive section follows;
+- Ducky escapes through the hatch.
+
+The new source requires an emergency roof/service hatch in the C2 mission body and
+keeps any deployed stabilizers light enough to fail/shear/fold/retract or lose
+purchase during the rollover. Exact damage physics remain production-open. The
+implementation should avoid depicting the fully emplaced vehicle as being magically
+lifted by a small isolated blast.
+
+REFERENCE IMAGE PROVENANCE
+
+Reference A — exterior / vehicle packaging
+- uploaded filename: 1000010510.png
+- detected actual encoding: JPEG/JFIF
+- dimensions: 1536 x 1246
+- SHA-256: bdca8f69e2a8ccb9848c653fda97bc0350f809c00a2e6a00b1e9e455917a04f4
+
+Reference B — fire-control console
+- uploaded filename: 1000010475.jpg
+- detected encoding: JPEG/JFIF
+- dimensions: 1536 x 1024
+- SHA-256: 0042ddf2ad3371750162a5aee77ce075e1911349230d96191f09931586806f0e
+
+The binaries are not redistributed by this text-only source landing. The hashes and
+production roles permit later re-association with the same owner references or an
+approved production reference library.
+
+ARTIFACTS ADDED
+
+1. dev_src_docs/story_campaigns/Game1/Playable_Characters/Ducky/
+   PW_THREAT_IMMINENT_NMESIS_JLTV_C2_Command_Post_Visual_and_Interaction_Lock_2026-08-25_rev1.txt
+
+2. Project_Warriors_Knowledge_Compendia/
+   PW_THREAT_IMMINENT_NMESIS_JLTV_C2_Command_Post_Knowledge_Patch_2026-08-25_rev1.txt
+
+3. This audit.
+
+CANON RESULT
+
+- NMESIS command-post form: corrected and locked to a JLTV-derived vehicle-based C2
+  installation.
+- Interior workstation visual basis: source-defined by the supplied Kongsberg Coastal
+  Defence Console reference.
+- Semi-static emplacement/stabilizer logic: allowed and bounded.
+- RPG disable/overturn and hatch escape: preserved.
+- Mission geography, perspective order, Severomorsk outcome, Kapitan distinction,
+  time/weather and ending: unchanged.
+
+OPEN PRODUCTION FIELDS
+
+- exact fictional vehicle designation and dimensions;
+- exact antenna/comms fit;
+- final outrigger/jack geometry;
+- exact interior clearances and camera blocking;
+- final fictional fire-control UI;
+- exact damage/rollover animation;
+- impact point and damage visuals;
+- hatch geometry and post-roll traversal;
+- audio/VFX/lighting/destruction polish.
+
+END
