@@ -1,0 +1,43 @@
+PROJECT WARRIORS — DAOG UNIT IDENTITY SOURCE
+Subject: MINERVA / TRU/SIGHT
+Date: 2026-08-25
+Revision: rev1
+Status: CANONICAL
+
+PURPOSE
+This source locks the player-facing and internal designation hierarchy for the DAOG intelligence / counterintelligence element formerly referred to primarily as TRU/SIGHT.
+
+CANON LOCK
+MINERVA is the normal player-facing, spoken, and unit-identity name for the DAOG intelligence / counterintelligence element whose formal internal designation remains TRU/SIGHT (also acceptably styled TRUSIGHT).
+
+TRU/SIGHT expands to:
+Tactical Reconnaissance Unit / Signals Intelligence and Geospatial Heuristics Team.
+
+TRU/SIGHT is NOT retired and is NOT replaced as the formal organizational designation. The new hierarchy is additive:
+
+- MINERVA — normal unit identifier used by DAOG personnel, allied characters, mission briefings, and player-facing references where a concise team name is appropriate.
+- TRU/SIGHT / TRUSIGHT — formal internal designation used in classified documentation, personnel records, technical systems, intelligence products, administrative references, and other contexts where bureaucratic precision is appropriate.
+- MINERVA Detachment — acceptable expanded spoken or written form when the text needs to make clear that MINERVA is a DAOG element rather than a software system, operation, or abstract capability.
+
+PERSONNEL CONTINUITY
+Jaeger / Karl Alexander Stanzler remains personnel of this same organization. Existing references that place him in TRU/SIGHT remain valid; player-facing dialogue may naturally describe him as MINERVA personnel.
+
+USAGE PRINCIPLE
+Use MINERVA for the people and the recognizable unit identity. Use TRU/SIGHT when the writing foregrounds the formal apparatus, product, record, or organizational designation.
+
+Examples of valid in-world phrasing:
+- "Send it to Minerva."
+- "Minerva picked up the same traffic overnight."
+- "Get Minerva on the feed."
+- "TRU/SIGHT assessment came back ten minutes ago. Minerva thinks it's real."
+
+NAMING / MYTHOLOGY NOTE
+Minerva is the Roman goddess associated with wisdom, knowledge, strategic warfare, and crafts; Athena is the Greek counterpart. MINERVA is intentionally retained because DAOG's naming family is mythological rather than a strict Greek-only taxonomy, and because the name better fits the unit's cold institutional intelligence identity.
+
+SUPERSESSION / NON-SUPERSESSION
+- The earlier PYTHIA designation remains retired.
+- ORACLE remains Lt. Tara Halliday's callsign and is unaffected.
+- The July 6, 2026 canon lock establishing TRU/SIGHT remains valid except that MINERVA is now layered above it as the normal player-facing/unit identifier.
+- Do not rewrite TRU/SIGHT into MINERVA in every archival or technical reference. The distinction between unit identity and formal designation is intentional.
+
+END OF SOURCE
