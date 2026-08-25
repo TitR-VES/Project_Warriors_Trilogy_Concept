@@ -1,0 +1,244 @@
+PROJECT WARRIORS — GAME 1 / DO RIGHT, FEAR NONE
+THREAT IMMINENT — NMESIS JLTV-DERIVED C2 COMMAND POST VISUAL AND INTERACTION LOCK
+Generated: 2026-08-25
+Version: rev1
+Status: OWNER CORRECTION / SOURCE-READY / WORKING MISSION-DESIGN LOCK
+
+PURPOSE
+
+Correct the NMESIS launch-scene command post in THREAT IMMINENT for greater
+real-world plausibility while preserving the already locked finale sequence.
+
+This source supersedes any prior thread-level or production assumption that the
+player launches the Naval Strike Missile from a stand-alone containerized command
+post. The command post is instead a specialized JLTV-family / L-ATV-derived command-
+and-control vehicle carrying an integrated protected mission shelter.
+
+No other THREAT IMMINENT finale beat is changed by this correction.
+
+OWNER LOCK
+
+- The NMESIS launch command post is vehicle-based, not a detached ISO/container
+  command shelter.
+- Use a specialized JLTV-family / L-ATV-derived C2 vehicle as the exterior visual and
+  packaging basis.
+- The vehicle carries the C2 workspace in a protected rear mission body/shelter
+  integrated with the light tactical vehicle platform.
+- The command post may deploy compact stabilizing / leveling outriggers or jacks while
+  emplaced.
+- The emplacement remains a fortified coastal firing position with a lower-than-usual
+  expectation of immediate mobility, so deployed antennas, external power/data leads,
+  camouflage, barriers and stabilizers are appropriate.
+- The previously established command-post function and player launch sequence remain
+  intact, scaled and rearranged only as necessary to fit the vehicle interior.
+- The primary fire-control workstation should use the owner-supplied dual-operator
+  Kongsberg-style Coastal Defence Console reference as its visual and ergonomic basis.
+- The rest of the finale remains as previously locked.
+
+REAL-WORLD PLAUSIBILITY BASIS
+
+The correction has a strong real-world design basis without requiring Project
+Warriors to claim that the exact fictional vehicle is a currently fielded standard
+NMESIS component.
+
+1. Oshkosh Defense has publicly demonstrated an L-ATV Command and Control (C2)
+   configuration based on the same vehicle architecture as the JLTV family. Oshkosh
+   describes a protected mobile command center with a robust communications suite,
+   available vehicle power, configurable workstations and modular communications-rack
+   layouts.
+
+2. The fielded JLTV family is designed around integrated C4ISR and includes a two-door
+   Utility / Shelter Carrier role, making a missionized C2 shelter on a JLTV-family
+   chassis a credible fictional adaptation.
+
+3. HDT's Joint Light Tactical Shelter (JLTS) is explicitly designed for the JLTV and
+   supports mission configurations including C2 Command Post, Fire Direction Control
+   and S-6/server-station use. This independently supports the general packaging logic
+   of a vehicle-borne command shelter on the platform.
+
+4. Kongsberg's current NSM Coastal Defence System Fire Control Center literature
+   describes a mobile, vehicle-mounted FCC and a dual-operator Coastal Defence Console
+   used for battle management, mission planning, verification and engagement. The
+   owner-supplied interior reference corresponds to this console family and is therefore
+   especially appropriate for an NSM/NMESIS-derived launch scene.
+
+For Project Warriors continuity, describe the asset as a specialized JLTV-derived C2
+vehicle integrated with the fictional NMESIS battery rather than asserting that this
+exact configuration is a standard real-world USMC NMESIS command vehicle.
+
+EXTERIOR PRODUCTION DIRECTION
+
+The exterior should preserve the recognizable JLTV/L-ATV protected light-tactical-
+vehicle front end and chassis while carrying a tall, box-like protected C2 mission
+body immediately behind the cab.
+
+Key visual elements:
+
+- JLTV-family armored cab and high-mobility suspension stance;
+- enclosed rear C2 mission shelter/body;
+- multiple tactical communications antennas and mast points;
+- roofline communications/electronics fittings;
+- external utility/power/data connection points;
+- camouflage appropriate to the defended coastal emplacement;
+- compact deployable leveling jacks / stabilizers / outriggers;
+- prepared barriers, revetment elements or other emplacement protection consistent
+  with the already established contested NMESIS position.
+
+The stabilizers should read as equipment used to level and steady the mission shelter
+and workstations during a semi-static firing posture, not as massive crane outriggers
+that make the vehicle visually or physically immovable.
+
+INTERIOR PRODUCTION DIRECTION
+
+The rear mission body is a compact two-operator C2/fire-control compartment.
+
+Primary interior anchor:
+
+- dual operator positions derived from the supplied Kongsberg Coastal Defence Console
+  reference;
+- large vertically oriented tactical displays;
+- fixed-function controls and tactile launch/engagement controls;
+- communications and server/electronics racks;
+- battle-management, maritime-track, system-health and mission-planning presentation;
+- close, equipment-dense military ergonomics rather than a spacious office interior.
+
+The owner reference should control the broad console geometry and visual language.
+Production UI should be fictionalized rather than copied pixel-for-pixel from the
+reference image. Preserve the functional idea of a two-person NSM coastal-defence
+fire-control workstation while adapting display content, exact switch placement and
+branding to Project Warriors continuity.
+
+PLAYER INTERACTION
+
+Ducky enters/occupies the C2 compartment and performs the already established manual
+NMESIS launch interaction from the primary fire-control workstation.
+
+The exact animation and interaction choreography remain production-open, but the
+sequence should communicate:
+
+1. acquisition/confirmation of the assigned maritime target;
+2. verification of the firing solution / mission package;
+3. assignment or confirmation of the launcher;
+4. final launch authorization/command;
+5. visible system response confirming successful missile launch.
+
+Do not turn the sequence into an unexplained single arcade button press. The scene may
+compress real procedures for pacing, but the player should feel that Ducky is using a
+credible fire-control system.
+
+ROLLOVER / HATCH CONTINUITY
+
+The existing finale lock remains unchanged:
+
+- after the Naval Strike Missile launch, the initial Russian Spetsnaz shock element
+  attacks the NMESIS position;
+- an RPG strike disables and overturns the command post;
+- Lupin's playable defensive section follows;
+- control returns to Ducky for the hatch escape.
+
+The vehicle-based C2 correction must preserve this beat.
+
+Production should therefore include an emergency roof/service hatch in the mission
+body. After the vehicle rolls, that hatch becomes a viable escape opening for Ducky.
+
+The deployed stabilizers must not create a contradiction with the rollover. Treat
+these as light leveling/stability supports that can fail, shear, fold, retract or lose
+purchase during the violent attack. Exact rollover physics remain production-open.
+Avoid staging the vehicle as if a small shaped-charge impact simply lifts a fully
+anchored heavy vehicle vertically; the final animation should use believable vehicle
+shift, support failure, suspension motion, terrain/revetment interaction and momentum
+to sell the overturn while preserving the locked RPG-caused result.
+
+VISUAL REFERENCE A — JLTV-FAMILY / L-ATV-DERIVED C2 VEHICLE
+
+Owner-supplied attachment:
+- uploaded filename: 1000010510.png
+- detected image encoding: JPEG / JFIF despite .png filename
+- dimensions: 1536 x 1246
+- SHA-256: bdca8f69e2a8ccb9848c653fda97bc0350f809c00a2e6a00b1e9e455917a04f4
+
+Production role:
+- exterior silhouette and packaging reference for the vehicle-borne C2 shelter;
+- antenna and protected mission-body language;
+- not authority for exact unit markings, paint, fielding status or every hardware
+  detail.
+
+VISUAL REFERENCE B — KONGSBERG COASTAL DEFENCE CONSOLE
+
+Owner-supplied attachment:
+- uploaded filename: 1000010475.jpg
+- detected image encoding: JPEG / JFIF
+- dimensions: 1536 x 1024
+- SHA-256: 0042ddf2ad3371750162a5aee77ce075e1911349230d96191f09931586806f0e
+
+Production role:
+- primary interior console, operator-position and workstation-layout reference;
+- use for broad hardware proportions, two-operator arrangement and fire-control visual
+  grammar;
+- do not copy copyrighted screen/UI artwork pixel-for-pixel.
+
+PUBLIC REFERENCE CHECK
+
+- Oshkosh Defense, "Oshkosh Defense Exhibits L-ATV Command and Control Capabilities at
+  AUSA 2019" — confirms an L-ATV C2 mobile command-center configuration with robust
+  communications and configurable workstation/rack layout.
+  https://oshkoshdefense.com/oshkosh-defense-exhibits-l-atv-command-and-control-capabilities-at-ausa-2019/
+
+- Oshkosh Defense, JLTV product page — confirms integrated C4ISR capability and the
+  platform's mission-package adaptability.
+  https://oshkoshdefense.com/vehicles/light-tactical-vehicles/jltv/
+
+- HDT Global, Joint Light Tactical Shelter (JLTS) — confirms a JLTV shelter explicitly
+  adaptable to C2 Command Post and Fire Direction Control roles.
+  https://www.hdtglobal.com/product/joint-light-tactical-shelter-jlts/
+
+- Kongsberg Defence & Aerospace, NSM Coastal Defence System Fire Control Center / Coastal
+  Defence Console brochure — confirms a mobile vehicle-mounted FCC and dual-operator
+  Coastal Defence Console for NSM coastal-defence mission planning and engagement.
+  https://www.kongsberg.com/globalassets/kongsberg/1.-what-we-do/1.-defence-and-security/intergrated-air-and-missile-defence/coastal-defence-system/fire-control-center---fcc/nsm-cds_fcc_brochure_2026.pdf
+
+CONTINUITY PRESERVATION
+
+This correction does NOT change:
+
+- THREAT IMMINENT mission title;
+- the Maasvlakte geography/objective flow;
+- the NMESIS location;
+- Lupin's overwatch position;
+- Ducky as the player character during the launch;
+- the use of a Naval Strike Missile;
+- Severomorsk's burning withdrawal rather than confirmed sinking;
+- the initial Spetsnaz RPG shock element;
+- Lupin's post-launch playable section;
+- Ducky's hatch escape;
+- Kapitan's later main-team encounter;
+- Dutch regroup and campaign close;
+- canonical time/weather progression.
+
+SOURCE-HIERARCHY RESULT
+
+This page controls the NMESIS command-post vehicle form, broad interior visual language
+and rollover/hatch compatibility. The 2026-08-01 Maasvlakte geography/objective-flow
+addendum continues to control mission geography and macro sequence. Later
+production-level mission scripting may refine exact dimensions, UI, animations,
+outtrigger geometry and damage physics without reverting to a detached containerized
+command post.
+
+MATURITY
+
+SOURCE-READY / NOT PRODUCTION-READY.
+
+Still open for production:
+- exact fictional vehicle designation;
+- exact cab/body dimensional adaptation;
+- precise interior clearances and player-camera layout;
+- final antenna/comms fit;
+- exact outrigger/leveling-jack geometry;
+- final fire-control UI and accessibility treatment;
+- exact entry/exit door and emergency-hatch design;
+- rollover animation/physics implementation;
+- RPG impact point and visible damage state;
+- post-roll interior obstruction and navigation;
+- final sound, lighting, VFX and destruction treatment.
+
+END
