@@ -1,0 +1,22 @@
+PROJECT WARRIORS — WORKING-KNOWLEDGE ADDENDUM
+Subject: Montoya Farm / KYSC wrist pattern and KINGMAKER symbol
+Generated: 2026-08-23
+Version: rev1
+Status: CURRENT VISUAL / ENVIRONMENTAL KNOWLEDGE
+
+CURRENT LOCKS
+- Montoya Farm victims associated with KYSC carry a recurring wrist marking whose owner reference is a horizontal three-glyph sequence of heavy triangular / chevron-like forms separated by two diagonal slashes, with smaller nested strokes inside the major glyphs.
+- The same KYSC / Montoya wrist pattern recurs inside the underground complex and acts as visual continuity between PANDORA'S BOX and BURNING DAYLIGHT.
+- Do not invent a translation, acronym, occult reading, or formal program meaning for the wrist glyphs until separately locked.
+- KINGMAKER has a separate recurring symbol: a minimalist angular abstraction of the upper-wing geometry / pattern of a monarch butterfly.
+- KINGMAKER's visual logic intentionally plays on "king" -> monarch and also invokes conspiracy-lore allegations about an alleged "Project MONARCH" mind-control program commonly claimed to be a later continuation / evolution of MKULTRA.
+- Real-world boundary: MKULTRA is documented history; "Project MONARCH" as a CIA successor / continuation is not established historical fact. Project-facing material must frame that association as alleged / rumored / conspiracy lore rather than confirmed history.
+- The two motifs may co-occur at Montoya Farm but remain distinct: wrist pattern = victim / conditioning-pipeline continuity; KINGMAKER symbol = institutional / program identity.
+- Both motifs should reinforce the facility's clinical, bureaucratic human horror rather than turn Montoya Farm into supernatural or occult-theme scenery.
+
+VISUAL-REFERENCE HASHES
+- KYSC / Montoya wrist pattern: JPEG, 1536 x 551, SHA-256 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+- KINGMAKER symbol: JPEG, 1157 x 1536, SHA-256 33e2b06d2dff716b6ee4e1eb1e98f82d72f7eeaae7a980df4aa9c12c4fcafd8d
+
+CONTROLLING SOURCE
+dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_Montoya_Farm_KYSC_and_KINGMAKER_Visual_Motifs_2026-08-23_rev1.txt
