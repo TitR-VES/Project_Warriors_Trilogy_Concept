@@ -1,0 +1,32 @@
+PROJECT WARRIORS — SOURCE LANDING AUDIT
+Subject: MINERVA / TRU/SIGHT identity hierarchy
+Date: 2026-08-25
+Revision: rev1
+
+CHANGE REVIEWED
+DAOG's intelligence / counterintelligence element now uses MINERVA as its normal player-facing, spoken, and unit-identity name while retaining TRU/SIGHT / TRUSIGHT as its formal internal designation.
+
+LANDING STATUS
+PASS — SOURCE-FIRST LANDING COMPLETE ON PR BRANCH.
+
+DURABLE SOURCE
+- dev_src_docs/canon_lore_source_of_truth/PW_MINERVA_TRUSIGHT_Unit_Identity_2026-08-25_rev1.txt
+
+KNOWLEDGE-LAYER PROPAGATION
+- Project_Warriors_Knowledge_Compendia/PW_MINERVA_TRUSIGHT_Identity_Addendum_2026-08-25_rev1.txt
+- Project_Warriors_Knowledge_Compendia/PW_Canon_Decisions_Lock_2026-07-06_rev1.txt — appended 2026-08-25 decision item 13.
+
+CONTINUITY CHECKS
+- TRU/SIGHT acronym and expansion preserved.
+- Jaeger / Karl Alexander Stanzler personnel continuity preserved.
+- PYTHIA remains retired.
+- ORACLE remains Lt. Tara Halliday's callsign.
+- Existing historical / formal TRU/SIGHT references are not invalidated and should not be mass-replaced.
+- MINERVA explicitly functions as a layer above the formal designation, preventing a second unnecessary organizational rename.
+- Mythology note captured: Minerva is Roman; Athena is the Greek counterpart; DAOG naming is treated as a broader mythological family rather than a strict Greek-only taxonomy.
+
+MIGRATION RISK
+LOW. This is an additive naming hierarchy. Existing source pages remain semantically valid unless they specifically require player-facing dialogue or unit-label normalization, which can be handled during ordinary future editing rather than a destructive global replacement pass.
+
+RESULT
+Safe to merge. Future authoring should default to MINERVA in ordinary dialogue and player-facing references, and reserve TRU/SIGHT / TRUSIGHT for formal internal contexts.
