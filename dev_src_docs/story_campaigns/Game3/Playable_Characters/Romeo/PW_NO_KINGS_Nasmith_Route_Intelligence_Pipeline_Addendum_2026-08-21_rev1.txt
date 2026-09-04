@@ -1,0 +1,55 @@
+PROJECT WARRIORS — ROMEO GAME 3 / NO KINGS SOURCE ADDENDUM
+Subject: Douglas P. Nasmith / Grigoryi P. Lebedev — curated route intelligence pipeline
+Generated: 2026-08-21
+Version: rev1
+Status: LOCKED STRUCTURAL INTELLIGENCE MECHANISM
+
+PURPOSE
+Clarify the exact mechanism behind the occupation's suspiciously accurate use of hidden Boston ingress and service routes, extending the Nasmith / City Hall evidence architecture without changing the already locked prewar role.
+
+LOCKED MECHANISM
+Douglas P. Nasmith / Grigoryi P. Lebedev uses his City Hall access to obtain fresh municipal and contractor information about hidden ingress routes, service-access corridors, maintenance approaches, structural seams, chokepoints, closures, obstructions, and current route usability.
+
+Nasmith does not pass this material directly to ordinary Russian field formations.
+
+The intelligence chain is:
+1. Nasmith acquires and updates current municipal route-state information through his legitimate City Hall administrative position and associated contracting / review access.
+2. Nasmith passes the fresh intelligence through his clandestine channel to the FSB.
+3. FSB intelligence personnel validate, curate, and operationalize the material.
+4. Russian invasion / occupation commanders receive only the route information they need for specific movements, including which obscure routes are currently viable.
+
+FIELD-LEVEL EFFECT
+Ground commanders do not need to know Nasmith exists, know how the source was acquired, or receive the complete municipal dataset.
+
+They are simply given reliable movement instructions and vetted ingress options.
+
+This compartmentation explains why the operational fingerprint is visible before the human source is:
+- Russian forces repeatedly choose viable obscure routes on the first attempt;
+- recently closed, blocked, altered, damaged, or otherwise unusable alternatives are avoided;
+- there is little or no observable trial-and-error discovery process;
+- individual field units can appear unusually well informed without possessing the full intelligence picture themselves.
+
+ANALYTIC CONSEQUENCE AFTER EYES OF THE CITY
+The MIT / Senseable team and AFC do not intercept a document saying that Nasmith supplied the routes.
+
+They first identify the statistical / operational anomaly: the occupation behaves as if somebody has already removed stale and unusable routes from its choices.
+
+That supports the hypothesis that an intelligence service is feeding commanders curated, current local knowledge rather than commanders merely consulting detailed city maps.
+
+Only later does the contracting / administrative evidence chain point toward Nasmith as the common City Hall intersection behind many of the relevant route-status records.
+
+NARRATIVE RULE
+Preserve the separation between:
+- source: Nasmith / Lebedev;
+- intelligence processor and distributor: FSB;
+- operational consumer: Russian invasion / occupation commanders.
+
+Do not portray ordinary Russian commanders as personally receiving raw City Hall files from Nasmith.
+Do not make the FSB pipeline so transparent that the AFC can identify Nasmith immediately from the first anomaly.
+
+RELATED SOURCES
+- PW_NO_KINGS_Nasmith_CityHall_Logan_Arc_Lock_2026-08-21_rev1.txt
+- dev_src_docs/characters/PW_Glushkin_Lebedev_Lipnin_Sleeper_Network_Source_2026-07-24_rev1.txt
+- PW_NO_KINGS_M07_MIT_Senseable_Source_2026-08-21_rev1.txt
+
+END

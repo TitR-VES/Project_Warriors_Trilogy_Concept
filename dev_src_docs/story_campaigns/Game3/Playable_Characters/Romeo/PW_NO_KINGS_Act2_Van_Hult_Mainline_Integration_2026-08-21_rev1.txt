@@ -1,0 +1,139 @@
+PROJECT WARRIORS — ROMEO GAME 3 / NO KINGS SOURCE
+Subject: Act II eastern expansion — Van Hult / BODYWORK mainline integration
+Generated: 2026-08-21
+Version: rev1
+Status: LOCKED STRUCTURAL CAMPAIGN PLACEMENT; EXACT MISSION NUMBERING / SCREENPLAY DETAIL OPEN
+
+PURPOSE
+Promote the Van Hult / BODYWORK material from an optional neighborhood branch into the immediate mainline eastward progression following Mission 07's MIT / Senseable victory, while preserving the already developed branch identity and preparatory logic.
+
+CAMPAIGN POSITION — LOCKED
+After THE POCKET and the MIT / Senseable operation, Romeo and the AFC turn their immediate playable focus eastward toward the adjacent occupied sector containing Mitchell Van Hult's seized body shop and the surrounding neighborhood.
+
+The Nasmith / City Hall investigation continues in the background through analysis and intelligence work, but it does not dominate the next playable mission sequence.
+
+The neighborhood-war and investigation plotlines are intentionally allowed to diverge for a period and reconverge later in the campaign.
+
+MISSION-07 CONSEQUENCE
+Restored Senseable coverage helps reveal a viable strategic corridor into the Van Hult sector.
+
+The new intelligence picture provides useful information about:
+- occupation patrol timing;
+- road / service-route viability;
+- checkpoint and surveillance patterns;
+- likely reinforcement approaches;
+- movement gaps and exploitable seams;
+- terrain needed to prepare a neighborhood-scale liberation operation.
+
+This intelligence makes the Van Hult sector the logical next operational focus without implying that the resistance already controls the route.
+
+VAN HULT INTRODUCTION — LOCKED
+The next mainline campaign material introduces Mitchell Van Hult, his seized body shop, and the neighborhood-scale civic-reclamation problem already established in the BODYWORK source.
+
+Van Hult remains:
+- a former USAF technician;
+- a body-shop owner;
+- a skilled, exact, community-minded civilian specialist;
+- someone whose shop and civic function were stolen and repurposed by the occupation;
+- not a comic eccentric or super-weapon inventor.
+
+The occupation has converted his seized shop / associated position into a motor-pool and control node supporting a checkpoint / roadblock architecture that constrains movement through the eastern adjacent sector.
+
+MAINLINE STRATEGIC PURPOSE
+The Van Hult sequence is not merely revenge or recovery of a private business.
+
+Its purpose is to:
+- prepare the sector for a resistance push;
+- break an occupation movement / checkpoint system;
+- reclaim Van Hult Bodyworks as a resistance fabrication and vehicle-support node;
+- help liberate the surrounding neighborhood;
+- open a potential route farther east for later NO KINGS expansion.
+
+EXISTING BODYWORK PREPARATORY LOGIC — RETAINED
+The already developed sequence remains the governing structural model unless later owner revision explicitly collapses or expands it:
+
+1. THE SHOP
+- introduce Van Hult and the neighborhood cost of the occupation control node;
+- establish the seized body shop / motor-pool problem;
+- identify the possibility of an improvised breaching vehicle;
+- orient Romeo to the local sector and its people.
+
+2. CONCRETE
+- secure a plausible hidden construction / parking-garage build space;
+- restore limited power and access to tools / salvage;
+- protect the local build cell;
+- show mechanics, welders, electricians, construction workers, and other skilled civilians creating the breaching machine from available material.
+
+3. OPEN THE ROUTE
+- Romeo-led shaping operation;
+- degrade surveillance and communications;
+- remove overwatch / kill positions;
+- disrupt response patterns;
+- isolate or canalize the checkpoint and motor-pool defense;
+- make the later dozer assault tactically plausible rather than miraculous.
+
+4. BODYWORK
+- execute the moving neighborhood assault;
+- Van Hult drives the improvised armored bulldozer through the checkpoint / roadblock system;
+- Romeo advances on foot with resistance fighters, clearing threats and exploiting the breach;
+- collapse the occupation command / motor-pool pocket;
+- liberate the shop and enough surrounding terrain for resistance control to stick.
+
+5. POST-BRANCH / REVISIT CONSEQUENCE
+- body shop becomes a functioning resistance repair / fabrication node;
+- allied vehicle condition and improvised reinforcement capability improve;
+- the immobilized dozer is stripped of useful weapons and components, then reclaimed as static neighborhood infrastructure / strongpoint material;
+- the liberated sector becomes part of the growing resistance network and creates a plausible onward route farther east.
+
+MAINLINE STATUS CHANGE
+Prior BODYWORK source described this material as an optional multi-mission Boston branch.
+
+Current owner direction supersedes the optional-only campaign-placement assumption at the structural level:
+- Van Hult's story and the preparation for the BODYWORK liberation operation are now part of the main eastward NO KINGS Act II progression.
+- Exact mission packaging remains open: the existing four named stages may remain separate missions, be partially compressed, or be distributed across main missions / linked operations during the detailed ladder pass.
+- BODYWORK itself remains a major dedicated set-piece / liberation mission.
+
+Do not silently restore the old optional-only placement in later summaries.
+
+NARRATIVE FUNCTION
+This sequence demonstrates the Act II resistance-expansion model:
+- intelligence identifies an opportunity;
+- Romeo penetrates occupied territory and works with local people;
+- preparatory missions remove the systems that make occupation control durable;
+- the final assault changes the territorial state;
+- liberated ground adds a concrete civic / logistical capability to the network.
+
+THEMATIC RULE
+The neighborhood is not liberated because Romeo arrives with a special vehicle.
+
+It is liberated because local skilled labor, resistance intelligence, shaping operations, and Romeo's combat element combine to make one narrow tactical opportunity usable.
+
+The dozer is the final breaching tool, not the strategic plan by itself.
+
+INVESTIGATION THREAD RELATIONSHIP
+During this sequence, the Nasmith / administrative-collaboration investigation should remain active primarily off the immediate mission objective line:
+- MIT / Senseable analysts continue correlating data;
+- AFC intelligence personnel continue tracing route anomalies and municipal records;
+- occasional briefings or background updates may advance the suspicion;
+- Romeo's immediate playable priority remains the neighborhood war.
+
+The two plotlines reconverge later when territorial gains, improved intelligence, and accumulated administrative evidence justify deep operations toward central Boston / City Hall.
+
+OPEN FIELDS
+- exact numbering of THE SHOP / CONCRETE / OPEN THE ROUTE / BODYWORK within the full NO KINGS ladder;
+- whether any preparatory stages are compressed into one mission;
+- exact Van Hult-sector map and resistance-control envelope;
+- exact route from MIT/Cambridge into the sector;
+- exact local resistance NPC identities;
+- exact occupation unit / checkpoint / motor-pool composition;
+- exact mission titles if any of the inherited working titles change;
+- exact post-BODYWORK next strategic node farther east.
+
+RELATED SOURCES
+- dev_src_docs/story_campaigns/Game3/Named_NPCs/PW-NPC-MITCHELL-VAN-HULT__Mitchell_Van_Hult/PW_BODYWORK_Mitchell_Van_Hult_Branch_Reference_2026-04-12.txt
+- PW_NO_KINGS_M07_MIT_Senseable_Source_2026-08-21_rev1.txt
+- PW_NO_KINGS_Nasmith_CityHall_Logan_Arc_Lock_2026-08-21_rev1.txt
+- PW_NO_KINGS_Nasmith_Route_Intelligence_Pipeline_Addendum_2026-08-21_rev1.txt
+- PW_THE_POCKET_Act1_Mission06_Script_Path_2026-07-22_rev1.txt
+
+END
