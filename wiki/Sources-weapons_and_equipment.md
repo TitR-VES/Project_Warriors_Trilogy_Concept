@@ -1,0 +1,37 @@
+<!-- Source-linked Project Warriors wiki, produced from the tracked main branch. -->
+# weapons_and_equipment — source inventory (30)
+
+File listing is not an authority judgement. Later canon corrections and more recent dedicated source revisions prevail.
+
+- [EXTREME_PREJUDICE_Build_Spec_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev1.txt)
+- [EXTREME_PREJUDICE_Build_Spec_rev2.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev2.txt)
+- [EXTREME_PREJUDICE_Build_Spec_rev3.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/EXTREME_PREJUDICE_Build_Spec_rev3.txt)
+- [GRAY_GHOST_Nightfall_Config_rev3_FINAL.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/GRAY_GHOST_Nightfall_Config_rev3_FINAL.txt)
+- [HASTA_LA_VISTA_Build_Spec_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/HASTA_LA_VISTA_Build_Spec_rev1.txt)
+- [HASTA_LA_VISTA_Fore_End_Revision_2026-07-25_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/HASTA_LA_VISTA_Fore_End_Revision_2026-07-25_rev1.txt)
+- [LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/LAST_RESORT_and_SAVING_GRACE_Source_Stubs_rev1.txt)
+- [PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_Additional_Named_Weapon_Recovery_2026-07-20_rev1.txt)
+- [PW_DEAD_RECKONING_Build_Spec_2026-07-21_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_DEAD_RECKONING_Build_Spec_2026-07-21_rev1.txt)
+- [PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_DUE_DILIGENCE_Build_Spec_2026-07-22_rev1.txt)
+- [PW_GRAY_GHOST_Fandom_Wiki_Entry_2026-07-27_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_GRAY_GHOST_Fandom_Wiki_Entry_2026-07-27_rev1.txt)
+- [PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_Named_Weapons_Latest_Source_Update_2026-07-06_rev1.txt)
+- [PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_Romeo_Kearney_Boston_Weapons_Compendium_Ready.txt)
+- [PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_SANDMAN_Build_Spec_2026-07-28_rev1.txt)
+- [PW_SUCKER_PUNCH_Build_Spec_2026-07-22_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_SUCKER_PUNCH_Build_Spec_2026-07-22_rev1.txt)
+- [PW_TROOPER_Build_Spec_2026-07-30_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_TROOPER_Build_Spec_2026-07-30_rev1.txt)
+- [PW_TRUE_BLUE_Build_Spec_2026-07-23_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_TRUE_BLUE_Build_Spec_2026-07-23_rev1.txt)
+- [PW_Transcript_Recovery_Named_Weapons_Packet_2026-07-23_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_Transcript_Recovery_Named_Weapons_Packet_2026-07-23_rev1.txt)
+- [PW_v2_2_Correction_CrossCheck.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/PW_v2_2_Correction_CrossCheck.txt)
+- [STAPLER_Build_Spec_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/STAPLER_Build_Spec_rev1.txt)
+- [named_weapon_builds_v2_10.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_10.txt)
+- [named_weapon_builds_v2_11.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_11.txt)
+- [named_weapon_builds_v2_12.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_12.txt)
+- [named_weapon_builds_v2_2.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_2.txt)
+- [named_weapon_builds_v2_3.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_3.txt)
+- [named_weapon_builds_v2_4.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_4.txt)
+- [named_weapon_builds_v2_5.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_5.txt)
+- [named_weapon_builds_v2_6.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_6.txt)
+- [named_weapon_builds_v2_8.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_8.txt)
+- [named_weapon_builds_v2_9.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/weapons_and_equipment/named_weapon_builds_v2_9.txt)
+
+[[Source-Catalog]]
