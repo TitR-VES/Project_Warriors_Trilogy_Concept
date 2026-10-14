@@ -1,0 +1,44 @@
+<!-- Project Warriors Wiki: derivative summary, not a canon replacement. -->
+# Riptide Red
+
+**Installment:** [[Game-1]] · **Player lead:** Spook
+
+## Story
+
+Victor Two Bravo investigates covert logistics, contractor/agency involvement and PANDORA across Frankfurt, Vienna, Abu Dhabi, Medan, Miami, Montoya Farm and East McFarlane Island.
+
+## Status and limits
+
+The track identity is source-established; individual missions have different levels of script, objective and implementation completeness. For American Freedom, the post-Coronado bridge is flagged; for Persistent Threat, PROCESS WINDOW is unfinished at production level; for Dark Skies, the v0.2 ladder is a reconciliation draft; Game 4's full mission bibles are not complete.
+
+## Dedicated files (25)
+
+- [PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Alarm_and_Radio_Security_Layer_2026-08-02_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Beachside_Pre_Infiltration_Recon_Dialogue_Beat_2026-08-06_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Beachside_Pre_Infiltration_Recon_Dialogue_Beat_2026-08-06_rev1.txt)
+- [PW_COME_FLY_WITH_ME_CFWM_Abbreviation_and_CFIM_Disambiguation_Lock_2026-08-06_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_CFWM_Abbreviation_and_CFIM_Disambiguation_Lock_2026-08-06_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Christiansted_Detailed_Map_and_Macro_Transit_Extension_2026-08-06_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Christiansted_Detailed_Map_and_Macro_Transit_Extension_2026-08-06_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Christiansted_Mission_Geography_and_Objective_Flow_Addendum_2026-08-02_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Visual_Reference_and_Interior_Direction_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Visual_Reference_and_Interior_Direction_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Christiansted_Seaplane_Base_Visual_Reference_Package_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Christiansted_Seaplane_Base_Visual_Reference_Package_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Manager_Aircraft_Answer_Dialogue_Addendum_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Manager_Aircraft_Answer_Dialogue_Addendum_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Manager_Apprehension_and_Weapon_Security_Addendum_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Manager_Handgun_Final_Disposition_Addendum_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Manager_Handgun_Final_Disposition_Addendum_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Manager_Office_Alerted_Breach_Variant_B_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Manager_Office_Breach_Sequence_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_North_Jetty_Guard_Routine_Addendum_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_North_Jetty_Guard_Routine_Addendum_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Ocean_Blue_Sky_Tours_FBA2C_Identity_and_Key_Bundle_Addendum_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Ocean_Blue_Sky_Tours_FBA2C_Identity_and_Key_Bundle_Addendum_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Office_Exit_Floatplane_Key_Handover_Addendum_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Radio_Interaction_and_Closed_Door_Office_Firefight_Addendum_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Radio_Interaction_and_Closed_Door_Office_Firefight_Addendum_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_UE5_Vertical_Slice_Production_Brief_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_UE5_Vertical_Slice_Production_Brief_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Variant_B_Deceased_Manager_Key_Recovery_Fallback_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Variant_B_Deceased_Manager_Key_Recovery_Fallback_2026-08-03_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Variant_B_Key_Toss_Dialogue_Addendum_2026-08-03_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_COME_FLY_WITH_ME_Variant_B_Key_Toss_Dialogue_Addendum_2026-08-03_rev1.txt)
+- [PW_Riptide_Red_Mission_Burst_Source_2026-07-24_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_Riptide_Red_Mission_Burst_Source_2026-07-24_rev1.txt)
+- [PW_SINS_OF_OUR_FATHERS_East_McFarlane_Detailed_Map_Level_Reference_Addendum_2026-08-07_rev2.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_SINS_OF_OUR_FATHERS_East_McFarlane_Detailed_Map_Level_Reference_Addendum_2026-08-07_rev2.txt)
+- [PW_SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Geography_and_Objective_Flow_Addendum_2026-08-01_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/PW_SINS_OF_OUR_FATHERS_East_McFarlane_Mission_Geography_and_Objective_Flow_Addendum_2026-08-01_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Draft_F_Isometric_Cutaway_Concept_Note_2026-08-06_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/visual_references/PW_COME_FLY_WITH_ME_Christiansted_Safehouse_Draft_F_Isometric_Cutaway_Concept_Note_2026-08-06_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Safehouse_Floorplan_Draft_F_Supersession_Patch_2026-08-06_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/visual_references/PW_COME_FLY_WITH_ME_Safehouse_Floorplan_Draft_F_Supersession_Patch_2026-08-06_rev1.txt)
+- [PW_COME_FLY_WITH_ME_Trumpetbush_Manor_Exterior_Reference_and_Isometric_Reconstruction_Brief_2026-08-04_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/Game1/Playable_Characters/Spook/visual_references/PW_COME_FLY_WITH_ME_Trumpetbush_Manor_Exterior_Reference_and_Isometric_Reconstruction_Brief_2026-08-04_rev1.txt)
+
+[[Sources-Game1]] links the remaining campaign-wide, NPC and map material.
+
+*Editorial rule: This page is a derivative reader's synopsis. The later owner decision and current dedicated source page supersede older summaries. Open story beats remain open.*
