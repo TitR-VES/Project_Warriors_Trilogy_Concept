@@ -1,0 +1,25 @@
+<!-- Source-linked Project Warriors wiki, produced from the tracked main branch. -->
+# HomeDefense source inventory (20)
+
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-ALANA-BRODIE__Alana_Brodie/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-ALANA-BRODIE__Alana_Brodie/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-DANIEL-PARK__Daniel_Min_jae_Park/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-DANIEL-PARK__Daniel_Min_jae_Park/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-HAMISH-REED__Hamish_Reed/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-HAMISH-REED__Hamish_Reed/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-IMOGEN-SHAW__Imogen_Shaw/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-IMOGEN-SHAW__Imogen_Shaw/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-SWITCHBLADE-CASSANDRA-STEWART__Cassandra_Switchblade_Stewart/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-SWITCHBLADE-CASSANDRA-STEWART__Cassandra_Switchblade_Stewart/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-TARA-HALLIDAY-ORACLE__Tara_Halliday_ORACLE/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/PW-NPC-TARA-HALLIDAY-ORACLE__Tara_Halliday_ORACLE/README.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Named_NPCs/README.md)
+- [PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Playable_Characters/Lucas_Hill/PW_HOME_DEFENSE_Pine_Gap_Campaign_Source_2026-07-23_rev1.txt)
+- [PW_Home_Defense_Transcript_Recovery_Excerpt_2026-07-23_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Playable_Characters/Lucas_Hill/PW_Home_Defense_Transcript_Recovery_Excerpt_2026-07-23_rev1.txt)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Playable_Characters/Lucas_Hill/README.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Playable_Characters/README.md)
+- [PW_Home_Defense_Geopolitical_Continuity_2026-07-21_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Shared/PW_Home_Defense_Geopolitical_Continuity_2026-07-21_rev1.txt)
+- [PW_Home_Defense_Latest_Thread_Update_2026-07-06_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Shared/PW_Home_Defense_Latest_Thread_Update_2026-07-06_rev1.txt)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/HomeDefense/Shared/README.md)
+
+[[Sources-DLC]] · [[DLC-Overview]]

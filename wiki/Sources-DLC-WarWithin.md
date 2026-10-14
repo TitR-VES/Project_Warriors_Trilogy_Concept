@@ -1,0 +1,26 @@
+<!-- Source-linked Project Warriors wiki, produced from the tracked main branch. -->
+# WarWithin source inventory (21)
+
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-HAZZARD-JEFFERSON-DAVIS__Jefferson_Lee_Davis_Hazzard/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-HAZZARD-JEFFERSON-DAVIS__Jefferson_Lee_Davis_Hazzard/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-MARK-SKIDROW-CHAMPLIN__Mark_Skidrow_Champlin/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-MARK-SKIDROW-CHAMPLIN__Mark_Skidrow_Champlin/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-PACER-GREGORY-ALLEN__Gregory_David_Allen_Pacer/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-PACER-GREGORY-ALLEN__Gregory_David_Allen_Pacer/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-RIVER-DALTON-CRANE__Dalton_Maynard_Crane_River/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-RIVER-DALTON-CRANE__Dalton_Maynard_Crane_River/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-STATIC-DYLAN-PERETTI__Dylan_Joseph_Peretti_Static/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-STATIC-DYLAN-PERETTI__Dylan_Joseph_Peretti_Static/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-SUNNY-CHERYL-VAUGHN__Cheryl_Lynn_Vaughn_Sunny/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-SUNNY-CHERYL-VAUGHN__Cheryl_Lynn_Vaughn_Sunny/README.md)
+- [NPC_DESCRIPTION.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-ZALE-JACOBS__Zale_Jacobs/NPC_DESCRIPTION.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/PW-NPC-ZALE-JACOBS__Zale_Jacobs/README.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Named_NPCs/README.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Playable_Characters/Croatoan/README.md)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Playable_Characters/README.md)
+- [PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Shared/PW_American_Guerrilla_Latest_Thread_Update_2026-07-06_rev1.txt)
+- [PW_War_Within_Archive_Integration_2026-07-22_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Shared/PW_War_Within_Archive_Integration_2026-07-22_rev1.txt)
+- [PW_War_Within_Canon_Correction_2026-07-21_rev1.txt](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Shared/PW_War_Within_Canon_Correction_2026-07-21_rev1.txt)
+- [README.md](https://github.com/TitR-VES/Project_Warriors_Trilogy_Concept/blob/main/dev_src_docs/story_campaigns/DLC/WarWithin/Shared/README.md)
+
+[[Sources-DLC]] · [[DLC-Overview]]
