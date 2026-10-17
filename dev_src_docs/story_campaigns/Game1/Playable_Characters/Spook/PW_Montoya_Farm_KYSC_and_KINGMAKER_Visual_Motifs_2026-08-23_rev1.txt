@@ -1,0 +1,107 @@
+PROJECT WARRIORS — MONTOYA FARM / KYSC VISUAL-MOTIF SOURCE
+Generated: 2026-08-23
+Version: rev1
+Status: SOURCE-READY VISUAL / ENVIRONMENTAL CANON
+Campaign: Spook Game 1 — RIPTIDE RED
+Primary missions: PANDORA'S BOX / BURNING DAYLIGHT
+
+PURPOSE
+Lock the owner-supplied visual identity of the wrist marking carried by Montoya Farm / KYSC victims and the separate KINGMAKER environmental symbol recurring inside the Montoya Farm underground complex.
+
+AUTHORITY / CONTINUITY
+- This source refines the older generic wording that KYSC / Montoya evidence includes MKULTRA-linked tattoos or symbols.
+- The wrist pattern and KINGMAKER symbol are two distinct motifs. Do not collapse them into one logo.
+- Current CogniConnect / CFIM canon remains unchanged: KYSC may carry baseline CogniConnect; CFIM remains War Wolves-only.
+- BURNING DAYLIGHT remains an operationally plausible covert conditioning facility, not a theatrical occult dungeon. The motifs should therefore read as institutional identifiers, conditioning marks, wayfinding / program graphics, graffiti-like repetition, or psychologically loaded visual residue depending on placement, not supernatural iconography.
+
+===============================================================================
+01. KYSC / MONTOYA WRIST PATTERN
+===============================================================================
+
+CANON USE
+Montoya Farm victims associated with KYSC carry the owner-supplied pattern on the wrist. The same pattern also recurs as a visual motif inside the Montoya Farm underground complex.
+
+VISUAL IDENTITY
+The supplied mark is a hand-drawn horizontal sequence of three heavy black triangular / chevron-like glyphs, separated by two diagonal slashes. Each major glyph contains a smaller internal stroke or enclosed shape. The exact handmade irregularity of the reference is part of the source character: it should not automatically be cleaned into a polished corporate logo unless a specific in-world reproduction method requires that treatment.
+
+PRODUCTION RULES
+- Treat the reference image as controlling for overall silhouette, ordering, spacing logic, and the nested-glyph character.
+- Preserve the three-glyph + slash-separated structure.
+- Do not invent a textual translation, alphabetic meaning, occult meaning, or formal acronym unless a later source explicitly assigns one.
+- Wrist application may be tattooed, inked, scarred, branded, stamped, or otherwise applied only if a later scene / prop source specifies the method. This page locks the pattern and location, not the production technique.
+- Environmental repetitions may vary in scale and medium while remaining recognizably the same pattern: wall stencil, scratched mark, printed label, medical / intake notation, door-edge marking, equipment case mark, or degraded paint are all possible production lanes subject to scene needs.
+- The motif should reward attentive players by visually connecting the Miami KYSC discovery to Montoya Farm before every explanatory detail is available.
+
+NARRATIVE FUNCTION
+The wrist pattern is physical continuity evidence. It lets the player recognize that the people encountered in PANDORA'S BOX and the infrastructure discovered in BURNING DAYLIGHT belong to the same conditioning pipeline without requiring an exposition dump.
+
+===============================================================================
+02. KINGMAKER SYMBOL
+===============================================================================
+
+CANON USE
+KINGMAKER has its own recurring symbol inside the Montoya Farm underground complex. It is distinct from the KYSC wrist pattern.
+
+VISUAL IDENTITY
+The owner-supplied KINGMAKER mark is a stylized minimalist representation of the upper-wing pattern / geometry of a monarch butterfly. The reference uses heavy angular black strokes to abstract the wing into a compact asymmetric triangular / folded shape rather than depicting a literal butterfly.
+
+NAME / IMAGE LOGIC
+The symbol carries two linked pieces of wordplay / association:
+1. KINGMAKER -> the "king" / monarch association;
+2. monarch butterfly -> an intentional nod to real-world conspiracy lore surrounding an alleged CIA mind-control program commonly called "MONARCH," often claimed in that lore to be a later evolution or continuation of MKULTRA.
+
+REAL-WORLD CLAIM BOUNDARY
+MKULTRA is a documented historical CIA program. The alleged "Project MONARCH" continuation / successor narrative is not established historical fact and must not be presented by Project Warriors source text, collectibles, marketing, or dialogue as confirmed real-world history. The game may deliberately invoke the conspiracy-lore association as part of KINGMAKER's fictional visual language, but any real-world framing should remain explicitly alleged, rumored, claimed, or conspiratorial.
+
+PRODUCTION RULES
+- Keep the KINGMAKER symbol visually minimalist and abstract; do not turn it into a detailed butterfly illustration.
+- Preserve the upper-wing / monarch-butterfly association without requiring the player to consciously identify it on first sight.
+- Use repetition with restraint. It may recur on walls, doors, intake / treatment materials, controlled-access areas, equipment, files, or program signage, but should not blanket every surface.
+- The symbol should feel like a program identity that has leaked into the architecture and operating culture of the facility.
+- Avoid overt satanic, ritual-occult, or supernatural styling unless a separate source explicitly requires it. The disturbing effect should come from bureaucratic human intent and conditioning practice.
+
+===============================================================================
+03. RELATIONSHIP BETWEEN THE TWO MOTIFS
+===============================================================================
+
+- KYSC wrist pattern = victim / subject / conditioning-pipeline continuity marker and recurring Montoya visual motif.
+- KINGMAKER symbol = program / project identity motif tied to the monarch-butterfly visual pun and conspiracy-lore allusion.
+- They may appear in the same spaces, but they should remain graphically distinguishable.
+- Their co-presence helps the player understand that Montoya Farm contains multiple layers of identity: people processed by the system and the institutional apparatus processing them.
+
+===============================================================================
+04. OWNER-SUPPLIED VISUAL REFERENCES
+===============================================================================
+
+REFERENCE A — KYSC / Montoya wrist pattern
+- thread attachment: owner-supplied hand-drawn reference
+- detected format: JPEG
+- dimensions: 1536 x 551
+- SHA-256: 6dbf02207f2a4687f6cfbe78b2ee69c6a6bff464bcbc7447f6eeb04db7314f2e
+- content role: controlling silhouette / ordering reference for wrist marking and environmental repetitions
+
+REFERENCE B — KINGMAKER symbol
+- thread attachment: owner-supplied hand-drawn reference on lined paper
+- detected format: JPEG
+- dimensions: 1157 x 1536
+- SHA-256: 33e2b06d2dff716b6ee4e1eb1e98f82d72f7eeaae7a980df4aa9c12c4fcafd8d
+- content role: controlling silhouette reference for KINGMAKER's stylized monarch upper-wing motif
+
+BINARY HANDLING
+The source records exact hashes, dimensions, and production interpretation. The image binaries are not redistributed by this text-only landing. Preserve the original owner attachments in the private / working visual-reference set until a dedicated binary asset path is used.
+
+===============================================================================
+05. CURRENT OPEN PRODUCTION FIELDS
+===============================================================================
+
+Still open unless later locked:
+- exact wrist side (left / right / both) and whether all victims use the same side;
+- exact application method and age / wear state of the wrist marking;
+- whether the wrist pattern has an in-world spoken name;
+- exact room-by-room placement frequency for both motifs;
+- exact colors / materials for non-black environmental variants;
+- whether KINGMAKER appears in digital UI / files as well as physical architecture;
+- whether any collectible explicitly explains the monarch-butterfly allusion or leaves it purely inferential;
+- final vector cleanup / production master artwork.
+
+END SOURCE
